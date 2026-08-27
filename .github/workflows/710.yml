@@ -37,23 +37,23 @@ jobs:
           }
 
           function extraerImagen(bloque) {
-            let m = bloque.match(
-              /<img[^>]+src=["']([^"']+)["']/i
-            );
+            let m = bloque.match(/<img[^>]+src=["']([^"']+)["']/i);
 
-            if (m) return m[1];
+            if (m) {
+              return m[1];
+            }
 
-            m = bloque.match(
-              /<img[^>]+data-src=["']([^"']+)["']/i
-            );
+            m = bloque.match(/<img[^>]+data-src=["']([^"']+)["']/i);
 
-            if (m) return m[1];
+            if (m) {
+              return m[1];
+            }
 
-            m = bloque.match(
-              /<source[^>]+src=["']([^"']+)["']/i
-            );
+            m = bloque.match(/<img[^>]+data-lazy-src=["']([^"']+)["']/i);
 
-            if (m) return m[1];
+            if (m) {
+              return m[1];
+            }
 
             return "";
           }
@@ -61,21 +61,18 @@ jobs:
           const noticias = [];
           const vistos = new Set();
 
-          const enlaces = html.match(
-            /<a\b[^>]*href=["'][^"']*\/tecnologia\/[^"']*["'][^>]*>[\s\S]*?<\/a>/gi
-          ) || [];
+          const patron =
+            /<a\b[^>]*href=["']([^"']*\/tecnologia\/[^"']*)["'][^>]*>([\s\S]*?)<\/a>/gi;
 
-          for (const bloque of enlaces) {
+          let match;
 
-            if (noticias.length >= 6) break;
+          while ((match = patron.exec(html)) !== null) {
 
-            const hrefMatch = bloque.match(
-              /href=["']([^"']+)["']/i
-            );
+            if (noticias.length >= 6) {
+              break;
+            }
 
-            if (!hrefMatch) continue;
-
-            let link = hrefMatch[1];
+            let link = match[1];
 
             if (link.startsWith("/")) {
               link = "https://www.eldiario.es" + link;
@@ -85,19 +82,26 @@ jobs:
               continue;
             }
 
+            if (vistos.has(link)) {
+              continue;
+            }
+
+            const contenido = match[2];
+
             const titulo = limpiar(
-              bloque
-                .replace(/<img[^>]*>/gi, "")
+              contenido
                 .replace(/<svg[\s\S]*?<\/svg>/gi, "")
+                .replace(/<img[\s\S]*?>/gi, "")
+                .replace(/<picture[\s\S]*?<\/picture>/gi, "")
             );
 
-            if (!titulo || titulo.length < 20) continue;
+            if (!titulo || titulo.length < 20) {
+              continue;
+            }
 
-            if (vistos.has(link)) continue;
+            const imagen = extraerImagen(contenido);
 
             vistos.add(link);
-
-            const imagen = extraerImagen(bloque);
 
             noticias.push({
               titulo: titulo,
@@ -144,12 +148,17 @@ jobs:
             !Array.isArray(data.noticias) ||
             data.noticias.length === 0
           ) {
-            throw new Error("noticias-710.json está vacío o es inválido");
+            throw new Error(
+              "noticias-710.json está vacío o es inválido"
+            );
           }
 
           for (const noticia of data.noticias) {
+
             if (!noticia.titulo || !noticia.link) {
-              throw new Error("Hay una noticia sin título o enlace");
+              throw new Error(
+                "Hay una noticia sin título o enlace"
+              );
             }
           }
 
