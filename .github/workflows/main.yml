@@ -14,11 +14,11 @@ jobs:
       - name: Descargar repositorio
         uses: actions/checkout@v4
 
-      - name: Descargar y convertir RSS a JSON
+      - name: Descargar y convertir RSS a JSON con imagenes
         run: |
           node -e '
           const https = require("https");
-          const fs = require("fs");
+          const fs = "fs";
 
           https.get("https://www.abc.es/rss/2.0/portada/", (res) => {
               let data = "";
@@ -30,13 +30,15 @@ jobs:
                   items.forEach(item => {
                       let titleMatch = item.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>|<title>(.*?)<\/title>/);
                       let linkMatch = item.match(/<link>(.*?)<\/link>/);
-                      let descMatch = item.match(/<description><!\[CDATA\[(.*?)\]\]><\/description>|<description>(.*?)<\/description>/);
                       
                       let title = titleMatch ? (titleMatch[1] || titleMatch[2]) : "";
                       let link = linkMatch ? linkMatch[1].trim() : "";
-                      let desc = descMatch ? (descMatch[1] || descMatch[2]) : "";
 
-                      let imgMatch = desc.match(/src="(https?:\/\/[^"]+\.(jpg|jpeg|png|webp))[^"]*"/i);
+                      // Buscar imagen en media:content o enclosure
+                      let imgMatch = item.match(/<media:content[^>]+url="(https?:\/\/[^"]+\.(jpg|jpeg|png|webp))[^"]*"/i) ||
+                                     item.match(/<enclosure[^>]+url="(https?:\/\/[^"]+\.(jpg|jpeg|png|webp))[^"]*"/i) ||
+                                     item.match(/src="(https?:\/\/[^"]+\.(jpg|jpeg|png|webp))[^"]*"/i);
+                      
                       let imagen = imgMatch ? imgMatch[1] : "";
 
                       if (title && link) {
@@ -48,11 +50,11 @@ jobs:
                       }
                   });
 
-                  fs.writeFileSync("noticias-1022.json", JSON.stringify({ noticias: noticias.slice(0, 6) }, null, 2));
-                  console.log("JSON actualizado correctamente con " + noticias.length + " noticias.");
+                  require("fs").writeFileSync("noticias-1022.json", JSON.stringify({ noticias: noticias.slice(0, 6) }, null, 2));
+                  console.log("JSON actualizado con imágenes.");
               });
           }).on("error", (err) => {
-              console.error("Error al descargar RSS: " + err.message);
+              console.error(err);
               process.exit(1);
           });
           '
@@ -60,5 +62,5 @@ jobs:
       - name: Guardar cambios automáticamente
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Actualización automática de noticias ABC"
+          commit_message: "Actualizar noticias con imagenes"
           file_pattern: noticias-1022.json
