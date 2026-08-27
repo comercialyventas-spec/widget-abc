@@ -37,7 +37,9 @@ jobs:
 
                 let data = "";
 
-                res.on("data", chunk => data += chunk);
+                res.on("data", chunk => {
+                  data += chunk;
+                });
 
                 res.on("end", () => {
 
@@ -69,37 +71,72 @@ jobs:
 
           function extraer(tag, texto) {
 
-            const re = new RegExp(
-              "<" + tag + "[^>]*>([\\\\s\\\\S]*?)</" + tag + ">",
-              "i"
-            );
+            const inicio = texto.indexOf("<" + tag);
 
-            const m = texto.match(re);
+            if (inicio === -1) {
+              return "";
+            }
 
-            return m ? m[1].trim() : "";
+            const mayor = texto.indexOf(">", inicio);
+
+            if (mayor === -1) {
+              return "";
+            }
+
+            const fin = texto.indexOf("</" + tag + ">", mayor);
+
+            if (fin === -1) {
+              return "";
+            }
+
+            return texto
+              .substring(mayor + 1, fin)
+              .trim();
           }
 
           function extraerAtributo(tag, atributo, texto) {
 
-            const re = new RegExp(
-              "<" + tag + "[^>]*" +
-              atributo +
-              '=["\\']([^"\\']+)["\\']',
-              "i"
-            );
+            const inicio = texto.indexOf("<" + tag);
 
-            const m = texto.match(re);
+            if (inicio === -1) {
+              return "";
+            }
 
-            return m ? m[1].trim() : "";
+            const fin = texto.indexOf(">", inicio);
+
+            if (fin === -1) {
+              return "";
+            }
+
+            const etiqueta = texto.substring(inicio, fin + 1);
+
+            const patron =
+              atributo + '="';
+
+            const pos = etiqueta.indexOf(patron);
+
+            if (pos === -1) {
+              return "";
+            }
+
+            const comienzo = pos + patron.length;
+
+            const cierre = etiqueta.indexOf('"', comienzo);
+
+            if (cierre === -1) {
+              return "";
+            }
+
+            return etiqueta.substring(comienzo, cierre);
           }
 
           function extraerMedia(contenido, item) {
 
             /*
-             * 1. Vídeo
+             * 1. Buscar vídeo MP4/WebM/OGG
              */
 
-            let video =
+            const video =
               contenido.match(
                 /(?:src|href)=["'](https?:\/\/[^"']+\.(?:mp4|webm|ogg)(?:\?[^"']*)?)["']/i
               );
@@ -112,10 +149,10 @@ jobs:
             }
 
             /*
-             * 2. Imagen dentro del contenido
+             * 2. Buscar imagen dentro del contenido
              */
 
-            let imagen =
+            const imagen =
               contenido.match(
                 /(?:src|href)=["'](https?:\/\/[^"']+\.(?:jpg|jpeg|png|webp)(?:\?[^"']*)?)["']/i
               );
@@ -131,63 +168,76 @@ jobs:
              * 3. media:content
              */
 
-            let media =
-              item.match(
-                /<media:content[^>]+url=["']([^"']+)["'][^>]*>/i
+            const mediaUrl =
+              extraerAtributo(
+                "media:content",
+                "url",
+                item
               );
 
-            if (media) {
+            if (mediaUrl) {
 
-              const url = media[1];
-
-              const tipo =
-                /\.(mp4|webm|ogg)(\?|$)/i.test(url)
-                  ? "video"
-                  : "imagen";
+              if (
+                /\.(mp4|webm|ogg)(\?|$)/i.test(
+                  mediaUrl
+                )
+              ) {
+                return {
+                  url: mediaUrl,
+                  tipo: "video"
+                };
+              }
 
               return {
-                url: url,
-                tipo: tipo
+                url: mediaUrl,
+                tipo: "imagen"
               };
             }
 
             /*
-             * 4. enclosure
+             * 4. media:thumbnail
              */
 
-            let enclosure =
-              item.match(
-                /<enclosure[^>]+url=["']([^"']+)["'][^>]*>/i
+            const thumbnail =
+              extraerAtributo(
+                "media:thumbnail",
+                "url",
+                item
+              );
+
+            if (thumbnail) {
+              return {
+                url: thumbnail,
+                tipo: "imagen"
+              };
+            }
+
+            /*
+             * 5. enclosure
+             */
+
+            const enclosure =
+              extraerAtributo(
+                "enclosure",
+                "url",
+                item
               );
 
             if (enclosure) {
 
-              const url = enclosure[1];
-
-              const tipo =
-                /\.(mp4|webm|ogg)(\?|$)/i.test(url)
-                  ? "video"
-                  : "imagen";
-
-              return {
-                url: url,
-                tipo: tipo
-              };
-            }
-
-            /*
-             * 5. thumbnail de media
-             */
-
-            let thumbnail =
-              item.match(
-                /<media:thumbnail[^>]+url=["']([^"']+)["'][^>]*>/i
-              );
-
-            if (thumbnail) {
+              if (
+                /\.(mp4|webm|ogg)(\?|$)/i.test(
+                  enclosure
+                )
+              ) {
+                return {
+                  url: enclosure,
+                  tipo: "video"
+                };
+              }
 
               return {
-                url: thumbnail[1],
+                url: enclosure,
                 tipo: "imagen"
               };
             }
@@ -200,41 +250,73 @@ jobs:
 
           async function main() {
 
-            console.log("Descargando eldiario.es...");
+            console.log(
+              "Descargando eldiario.es..."
+            );
 
-            const xml = await descargar(FEED);
+            const xml =
+              await descargar(FEED);
+
+            console.log(
+              "Contenido recibido:",
+              xml.length,
+              "caracteres"
+            );
 
             const items =
               xml
                 .split(/<item[\s>]/i)
                 .slice(1);
 
+            console.log(
+              "Items encontrados:",
+              items.length
+            );
+
             const noticias = [];
 
             for (const bloque of items) {
 
-              const item = "<item " + bloque;
+              const item =
+                "<item " + bloque;
 
               let titulo =
-                limpiar(extraer("title", item));
+                limpiar(
+                  extraer(
+                    "title",
+                    item
+                  )
+                );
 
               let link =
-                limpiar(extraer("link", item));
-
-              /*
-               * Si <link> no funciona, probar guid.
-               */
+                limpiar(
+                  extraer(
+                    "link",
+                    item
+                  )
+                );
 
               if (!link) {
                 link =
-                  limpiar(extraer("guid", item));
+                  limpiar(
+                    extraer(
+                      "guid",
+                      item
+                    )
+                  );
               }
 
               const description =
-                extraer("description", item);
+                extraer(
+                  "description",
+                  item
+                );
 
               const content =
-                extraer("content:encoded", item);
+                extraer(
+                  "content:encoded",
+                  item
+                );
 
               const contenido =
                 content ||
@@ -242,7 +324,10 @@ jobs:
                 "";
 
               const media =
-                extraerMedia(contenido, item);
+                extraerMedia(
+                  contenido,
+                  item
+                );
 
               if (titulo && link) {
 
@@ -261,30 +346,30 @@ jobs:
 
             if (!noticias.length) {
               throw new Error(
-                "No se encontraron noticias"
+                "No se encontraron noticias válidas"
               );
             }
+
+            const salida = {
+              noticias: noticias
+            };
 
             fs.writeFileSync(
               ARCHIVO,
               JSON.stringify(
-                {
-                  noticias: noticias
-                },
+                salida,
                 null,
                 2
               )
             );
 
             console.log(
-              "JSON generado correctamente:"
+              "JSON generado correctamente."
             );
 
             console.log(
               JSON.stringify(
-                {
-                  noticias: noticias
-                },
+                salida,
                 null,
                 2
               )
@@ -292,7 +377,12 @@ jobs:
           }
 
           main().catch(error => {
-            console.error(error);
+
+            console.error(
+              "ERROR:",
+              error.message
+            );
+
             process.exit(1);
           });
 
