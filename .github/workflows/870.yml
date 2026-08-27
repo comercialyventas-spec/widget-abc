@@ -18,7 +18,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Descargar página
+      - name: Descargar página de El Mundo
         run: |
           curl -L --fail --max-time 30 \
             -A "Mozilla/5.0" \
@@ -33,10 +33,10 @@ jobs:
 
           const html = fs.readFileSync("pagina.html", "utf8");
 
-          function limpiar(s) {
-            return String(s || "")
-              .replace(/<script[\s\S]*?<\/script>/gi, "")
-              .replace(/<style[\s\S]*?<\/style>/gi, "")
+          function limpiar(texto) {
+            return String(texto || "")
+              .replace(/<script[\s\S]*?<\/script>/gi, " ")
+              .replace(/<style[\s\S]*?<\/style>/gi, " ")
               .replace(/<[^>]+>/g, " ")
               .replace(/&nbsp;/gi, " ")
               .replace(/&amp;/gi, "&")
@@ -44,9 +44,9 @@ jobs:
               .replace(/&#39;/gi, "'")
               .replace(/&lt;/gi, "<")
               .replace(/&gt;/gi, ">")
-              .replace(/&#(\d+);/g, function(_, n) {
-                return String.fromCharCode(Number(n));
-              })
+              .replace(/&#(\d+);/g, (_, n) =>
+                String.fromCharCode(Number(n))
+              )
               .replace(/\s+/g, " ")
               .trim();
           }
@@ -65,11 +65,14 @@ jobs:
             return url;
           }
 
-          function imagenValida(url) {
+          function esImagenReal(url) {
             if (!url) return false;
 
             const u = url.toLowerCase();
 
+            /*
+             * BLOQUEAR TRACKING
+             */
             if (u.includes("pixel.gif")) return false;
             if (u.includes("contabilizacionaccesos")) return false;
             if (u.includes("tracking")) return false;
@@ -77,36 +80,49 @@ jobs:
             if (u.includes("spacer")) return false;
             if (u.includes("transparent")) return false;
 
+            /*
+             * BLOQUEAR LOGOS E ICONOS
+             */
+            if (u.includes("/iconos/")) return false;
+            if (u.includes("/icon/")) return false;
+            if (u.includes("elmundo.png")) return false;
+            if (u.includes("logo")) return false;
+            if (u.includes("favicon")) return false;
+            if (u.includes("sprite")) return false;
+
             return /\.(jpg|jpeg|png|webp)(\?|$)/i.test(u);
           }
 
           function buscarImagen(pagina) {
 
-            let m;
-
             /*
-             * Primero buscamos las imágenes antiguas
-             * específicas de los blogs de El Mundo.
+             * PRIORIDAD 1:
+             * imágenes reales de los blogs antiguos.
              */
-            m = pagina.match(
-              /https?:\/\/[^"' ]+\/imagenes_posts\/[^"' ]+\.(jpg|jpeg|png|webp)/i
-            );
+            let encontrados = pagina.match(
+              /https?:\/\/[^"'<> ]+\/imagenes_posts\/[^"'<> ]+\.(?:jpg|jpeg|png|webp)/gi
+            ) || [];
 
-            if (m && imagenValida(m[0])) {
-              return m[0];
+            for (const url of encontrados) {
+              const limpia = absoluto(url);
+
+              if (esImagenReal(limpia)) {
+                return limpia;
+              }
             }
 
             /*
-             * Después buscamos og:image.
+             * PRIORIDAD 2:
+             * og:image
              */
-            m = pagina.match(
+            let m = pagina.match(
               /property=["']og:image["'][^>]*content=["']([^"']+)["']/i
             );
 
             if (m) {
               const url = absoluto(m[1]);
 
-              if (imagenValida(url)) {
+              if (esImagenReal(url)) {
                 return url;
               }
             }
@@ -118,13 +134,14 @@ jobs:
             if (m) {
               const url = absoluto(m[1]);
 
-              if (imagenValida(url)) {
+              if (esImagenReal(url)) {
                 return url;
               }
             }
 
             /*
-             * Twitter image.
+             * PRIORIDAD 3:
+             * twitter:image
              */
             m = pagina.match(
               /name=["']twitter:image["'][^>]*content=["']([^"']+)["']/i
@@ -133,36 +150,47 @@ jobs:
             if (m) {
               const url = absoluto(m[1]);
 
-              if (imagenValida(url)) {
+              if (esImagenReal(url)) {
                 return url;
               }
             }
 
             /*
-             * data-src.
+             * PRIORIDAD 4:
+             * imágenes data-src
              */
-            m = pagina.match(
-              /data-src=["']([^"']+)["']/i
-            );
+            const dataSrc =
+              pagina.match(
+                /data-src=["']([^"']+)["']/gi
+              ) || [];
 
-            if (m) {
-              const url = absoluto(m[1]);
+            for (const bloque of dataSrc) {
 
-              if (imagenValida(url)) {
+              const x = bloque.match(
+                /data-src=["']([^"']+)["']/i
+              );
+
+              if (!x) continue;
+
+              const url = absoluto(x[1]);
+
+              if (esImagenReal(url)) {
                 return url;
               }
             }
 
             /*
-             * img src.
+             * PRIORIDAD 5:
+             * img src
              */
-            const imgs = pagina.match(
-              /<img[^>]+src=["']([^"']+)["']/gi
-            ) || [];
+            const imgs =
+              pagina.match(
+                /<img[^>]+src=["']([^"']+)["']/gi
+              ) || [];
 
-            for (const img of imgs) {
+            for (const bloque of imgs) {
 
-              const x = img.match(
+              const x = bloque.match(
                 /src=["']([^"']+)["']/i
               );
 
@@ -170,7 +198,7 @@ jobs:
 
               const url = absoluto(x[1]);
 
-              if (imagenValida(url)) {
+              if (esImagenReal(url)) {
                 return url;
               }
             }
@@ -179,9 +207,12 @@ jobs:
           }
 
           /*
-           * Buscar enlaces de artículos.
+           * ==========================================
+           * EXTRAER ARTÍCULOS
+           * ==========================================
            */
-          const enlaces = [];
+
+          const noticias = [];
           const vistos = new Set();
 
           const patron =
@@ -189,7 +220,10 @@ jobs:
 
           let m;
 
-          while ((m = patron.exec(html)) !== null) {
+          while (
+            (m = patron.exec(html)) !== null &&
+            noticias.length < 6
+          ) {
 
             let link = absoluto(m[1]);
 
@@ -213,48 +247,44 @@ jobs:
 
             const titulo = limpiar(m[2]);
 
-            if (!titulo) {
+            if (!titulo || titulo.length < 15) {
               continue;
             }
 
-            if (titulo.toLowerCase() === "comentarios") {
-              continue;
-            }
-
-            if (titulo.length < 15) {
+            if (
+              titulo.toLowerCase() === "comentarios"
+            ) {
               continue;
             }
 
             vistos.add(link);
 
-            enlaces.push({
+            noticias.push({
               titulo: titulo,
               link: link
             });
-
-            if (enlaces.length >= 6) {
-              break;
-            }
           }
 
-          if (enlaces.length === 0) {
+          if (noticias.length === 0) {
             throw new Error(
-              "No se encontraron artículos."
+              "No se encontraron artículos de El Mundo."
             );
           }
 
           /*
-           * Abrimos cada artículo por separado para obtener
-           * SU propia imagen.
+           * ==========================================
+           * OBTENER IMAGEN DE CADA ARTÍCULO
+           * ==========================================
            */
-          const noticias = [];
 
-          enlaces.forEach(function(noticia, indice) {
+          const resultado = [];
+
+          noticias.forEach(function(noticia, indice) {
 
             const archivo =
               "articulo-" + indice + ".html";
 
-            let paginaArticulo = "";
+            let articulo = "";
 
             try {
 
@@ -276,7 +306,7 @@ jobs:
                 }
               );
 
-              paginaArticulo =
+              articulo =
                 fs.readFileSync(
                   archivo,
                   "utf8"
@@ -284,19 +314,29 @@ jobs:
 
             } catch (e) {
               console.log(
-                "No se pudo descargar:",
+                "No se pudo descargar el artículo:"
+              );
+
+              console.log(
                 noticia.link
               );
             }
 
             const imagen =
-              buscarImagen(paginaArticulo);
+              buscarImagen(articulo);
 
             console.log("");
-            console.log(noticia.titulo);
-            console.log("Imagen:", imagen || "NINGUNA");
+            console.log(
+              "NOTICIA:",
+              noticia.titulo
+            );
 
-            noticias.push({
+            console.log(
+              "IMAGEN:",
+              imagen || "NINGUNA"
+            );
+
+            resultado.push({
               titulo: noticia.titulo,
               link: noticia.link,
               imagen: imagen,
@@ -304,11 +344,17 @@ jobs:
             });
           });
 
+          /*
+           * ==========================================
+           * CREAR JSON
+           * ==========================================
+           */
+
           fs.writeFileSync(
             "noticias-870.json",
             JSON.stringify(
               {
-                noticias: noticias
+                noticias: resultado
               },
               null,
               2
@@ -318,13 +364,21 @@ jobs:
 
           console.log("");
           console.log(
-            "OK: noticias-870.json generado con " +
-            noticias.length +
-            " noticias."
+            "================================"
+          );
+          console.log(
+            "noticias-870.json generado."
+          );
+          console.log(
+            "Noticias:",
+            resultado.length
+          );
+          console.log(
+            "================================"
           );
           NODE
 
-      - name: Validar JSON
+      - name: Validar noticias-870.json
         run: |
           node <<'NODE'
           const fs = require("fs");
@@ -342,7 +396,7 @@ jobs:
             data.noticias.length === 0
           ) {
             throw new Error(
-              "JSON vacío o inválido"
+              "noticias-870.json está vacío."
             );
           }
 
@@ -350,35 +404,28 @@ jobs:
 
             if (!noticia.titulo) {
               throw new Error(
-                "Noticia sin título"
+                "Noticia sin título."
               );
             }
 
             if (!noticia.link) {
               throw new Error(
-                "Noticia sin enlace"
+                "Noticia sin enlace."
               );
             }
 
             if (
               noticia.imagen &&
-              noticia.imagen.includes(
-                "pixel.gif"
+              (
+                noticia.imagen.includes("pixel.gif") ||
+                noticia.imagen.includes("contabilizacionaccesos") ||
+                noticia.imagen.includes("/iconos/") ||
+                noticia.imagen.includes("elmundo.png")
               )
             ) {
               throw new Error(
-                "Se ha detectado pixel.gif"
-              );
-            }
-
-            if (
-              noticia.imagen &&
-              noticia.imagen.includes(
-                "contabilizacionaccesos"
-              )
-            ) {
-              throw new Error(
-                "Se ha detectado una imagen de tracking"
+                "Se ha detectado una imagen incorrecta: " +
+                noticia.imagen
               );
             }
           }
@@ -404,7 +451,7 @@ jobs:
           git add noticias-870.json
 
           if git diff --cached --quiet; then
-            echo "No hay cambios."
+            echo "No hay cambios nuevos."
           else
             git commit -m "Actualizar noticias-870"
             git push
