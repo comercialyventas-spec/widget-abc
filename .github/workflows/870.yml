@@ -32,7 +32,8 @@ jobs:
           const fs = require("fs");
           const { execFileSync } = require("child_process");
 
-          const html = fs.readFileSync("pagina.html", "utf8");
+          // Leemos el archivo como latin1 para respetar los bytes originales de El Mundo
+          const html = fs.readFileSync("pagina.html", "latin1");
 
           function decode(s) {
             return String(s || "")
@@ -43,6 +44,18 @@ jobs:
               .replace(/&apos;/gi, "'")
               .replace(/&lt;/gi, "<")
               .replace(/&gt;/gi, ">")
+              .replace(/&aacute;/gi, "á")
+              .replace(/&eacute;/gi, "é")
+              .replace(/&iacute;/gi, "í")
+              .replace(/&oacute;/gi, "ó")
+              .replace(/&uacute;/gi, "ú")
+              .replace(/&Aacute;/gi, "Á")
+              .replace(/&Eacute;/gi, "É")
+              .replace(/&Iacute;/gi, "Í")
+              .replace(/&Oacute;/gi, "Ó")
+              .replace(/&Uacute;/gi, "Ú")
+              .replace(/&ntilde;/gi, "ñ")
+              .replace(/&Ntilde;/gi, "Ñ")
               .replace(/&#(\d+);/g, (_, n) =>
                 String.fromCharCode(Number(n))
               );
@@ -68,7 +81,6 @@ jobs:
           function esArticulo(url) {
             try {
               const u = new URL(url);
-
               return (
                 u.hostname === "www.elmundo.es" &&
                 u.pathname.startsWith("/blogs/elmundo/clima/") &&
@@ -81,256 +93,100 @@ jobs:
 
           function esImagenArticulo(url) {
             if (!url) return false;
-
             const u = url.toLowerCase();
+            if (!/\.(jpg|jpeg|png|webp)(?:[?#].*)?$/i.test(u)) return false;
+            if (!u.includes("/imagenes_posts/")) return false;
 
-            if (!/\.(jpg|jpeg|png|webp)(?:[?#].*)?$/i.test(u)) {
-              return false;
-            }
-
-            /*
-             * ÚNICAMENTE imágenes propias de artículos antiguos.
-             */
-            if (!u.includes("/imagenes_posts/")) {
-              return false;
-            }
-
-            /*
-             * Bloqueos adicionales de seguridad.
-             */
             const prohibidas = [
-              "pixel",
-              "tracking",
-              "tracker",
-              "spacer",
-              "transparent",
-              "/avatars/",
-              "/social/",
-              "/iconos/",
-              "/icon/",
-              "/perfiles/",
-              "logo",
-              "favicon",
-              "sprite"
+              "pixel", "tracking", "tracker", "spacer", "transparent",
+              "/avatars/", "/social/", "/iconos/", "/icon/", "/perfiles/",
+              "logo", "favicon", "sprite"
             ];
-
             return !prohibidas.some(x => u.includes(x));
           }
 
           function extraerImagen(articulo) {
-
             const urls = [];
-
-            /*
-             * 1. URLs absolutas.
-             */
-            const absolutas = articulo.match(
-              /https?:\/\/[^"'<>\\s]+/gi
-            ) || [];
-
+            const absolutas = articulo.match(/https?:\/\/[^"'<>\\s]+/gi) || [];
             urls.push(...absolutas);
 
-            /*
-             * 2. URLs relativas.
-             */
-            const relativas = articulo.match(
-              /(?:src|data-src|data-original|data-image|href)=["']([^"']+)["']/gi
-            ) || [];
-
+            const relativas = articulo.match(/(?:src|data-src|data-original|data-image|href)=["']([^"']+)["']/gi) || [];
             for (const x of relativas) {
-              const m = x.match(
-                /=(?:["'])([^"']+)(?:["'])/i
-              );
-
+              const m = x.match(/=(?:["'])([^"']+)(?:["'])/i);
               if (m) urls.push(m[1]);
             }
 
             const candidatas = [];
-
             for (let url of urls) {
-
-              url = decode(url)
-                .replace(/\\u002F/g, "/")
-                .replace(/&amp;/gi, "&")
-                .trim();
-
+              url = decode(url).replace(/\\u002F/g, "/").replace(/&amp;/gi, "&").trim();
               if (!url) continue;
-
               const absoluta = absoluto(url);
-
-              if (!esImagenArticulo(absoluta)) {
-                continue;
-              }
-
+              if (!esImagenArticulo(absoluta)) continue;
               candidatas.push(absoluta);
             }
 
-            /*
-             * Eliminamos duplicados.
-             */
             const unicas = [...new Set(candidatas)];
-
-            /*
-             * Preferimos imágenes grandes.
-             */
             unicas.sort((a, b) => {
-
               const score = url => {
-
                 let n = 0;
                 const x = url.toLowerCase();
-
                 if (x.includes("635x")) n += 50;
                 if (x.includes("540x")) n += 40;
                 if (x.includes("1200")) n += 30;
                 if (x.includes("800")) n += 20;
-
                 return n;
               };
-
               return score(b) - score(a);
             });
 
             return unicas[0] || "";
           }
 
-          /*
-           * ==========================================
-           * EXTRAER ARTÍCULOS DEL ÍNDICE
-           * ==========================================
-           */
-
           const noticias = [];
           const vistos = new Set();
-
-          const patron =
-            /<a\b[^>]*href\s*=\s*["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi;
-
+          const patron = /<a\b[^>]*href\s*=\s*["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi;
           let m;
 
           while ((m = patron.exec(html)) !== null) {
-
             let link = absoluto(m[1]);
-
             link = link.split("#")[0];
 
-            if (!esArticulo(link)) {
-              continue;
-            }
-
-            if (vistos.has(link)) {
-              continue;
-            }
+            if (!esArticulo(link) || vistos.has(link)) continue;
 
             const titulo = limpiar(m[2]);
-
-            if (!titulo) {
-              continue;
-            }
-
-            if (
-              titulo.toLowerCase() === "comentarios"
-            ) {
-              continue;
-            }
-
-            if (titulo.length < 15) {
-              continue;
-            }
-
-            /*
-             * Evitar enlaces que sean recursos o navegación.
-             */
-            if (
-              /\/comentarios(?:\/|$)/i.test(link)
-            ) {
-              continue;
-            }
+            if (!titulo || titulo.toLowerCase() === "comentarios" || titulo.length < 15) continue;
+            if (/\/comentarios(?:\/|$)/i.test(link)) continue;
 
             vistos.add(link);
-
-            noticias.push({
-              titulo,
-              link
-            });
-
-            if (noticias.length >= 6) {
-              break;
-            }
+            noticias.push({ titulo, link });
+            if (noticias.length >= 6) break;
           }
 
-          if (!noticias.length) {
-            throw new Error(
-              "No se encontraron artículos de El Mundo."
-            );
-          }
+          if (!noticias.length) throw new Error("No se encontraron artículos de El Mundo.");
 
-          console.log(
-            `Encontrados ${noticias.length} artículos.`
-          );
-
-          /*
-           * ==========================================
-           * DESCARGAR ARTÍCULOS Y BUSCAR IMÁGENES
-           * ==========================================
-           */
+          console.log(`Encontrados ${noticias.length} artículos.`);
 
           const resultado = [];
-
           for (let i = 0; i < noticias.length; i++) {
-
             const noticia = noticias[i];
-
-            const archivo =
-              `articulo-${i}.html`;
-
+            const archivo = `articulo-${i}.html`;
             let articulo = "";
 
             try {
+              execFileSync("curl", [
+                "-L", "--fail", "--max-time", "30",
+                "-A", "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/131 Safari/537.36",
+                "-H", "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                noticia.link, "-o", archivo
+              ], { stdio: "ignore" });
 
-              execFileSync(
-                "curl",
-                [
-                  "-L",
-                  "--fail",
-                  "--max-time",
-                  "30",
-                  "-A",
-                  "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/131 Safari/537.36",
-                  "-H",
-                  "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-                  noticia.link,
-                  "-o",
-                  archivo
-                ],
-                {
-                  stdio: "ignore"
-                }
-              );
-
-              articulo =
-                fs.readFileSync(
-                  archivo,
-                  "utf8"
-                );
-
+              // Leemos cada artículo también en latin1 para evitar corrupciones
+              articulo = fs.readFileSync(archivo, "latin1");
             } catch {
-              console.log(
-                "No se pudo descargar:",
-                noticia.link
-              );
+              console.log("No se pudo descargar:", noticia.link);
             }
 
-            const imagen =
-              extraerImagen(articulo);
-
-            console.log("");
-            console.log("NOTICIA:", noticia.titulo);
-            console.log(
-              "IMAGEN:",
-              imagen || "SIN IMAGEN PROPIA"
-            );
-
+            const imagen = extraerImagen(articulo);
             resultado.push({
               titulo: noticia.titulo,
               link: noticia.link,
@@ -339,28 +195,13 @@ jobs:
             });
           }
 
-          /*
-           * ==========================================
-           * ESCRIBIR JSON
-           * ==========================================
-           */
-
           fs.writeFileSync(
             "noticias-870.json",
-            JSON.stringify(
-              {
-                noticias: resultado
-              },
-              null,
-              2
-            ) + "\n",
+            JSON.stringify({ noticias: resultado }, null, 2) + "\n",
             "utf8"
           );
 
-          console.log("");
-          console.log(
-            "noticias-870.json generado correctamente."
-          );
+          console.log("noticias-870.json generado correctamente.");
           NODE
 
       - name: Validar noticias-870.json
@@ -369,98 +210,36 @@ jobs:
           const fs = require("fs");
 
           const data = JSON.parse(
-            fs.readFileSync(
-              "noticias-870.json",
-              "utf8"
-            )
+            fs.readFileSync("noticias-870.json", "utf8")
           );
 
-          if (
-            !data.noticias ||
-            !Array.isArray(data.noticias) ||
-            data.noticias.length === 0
-          ) {
-            throw new Error(
-              "noticias-870.json está vacío."
-            );
+          if (!data.noticias || !Array.isArray(data.noticias) || data.noticias.length === 0) {
+            throw new Error("noticias-870.json está vacío.");
           }
 
           const vistos = new Set();
-
           for (const noticia of data.noticias) {
+            if (!noticia.titulo) throw new Error("Noticia sin título.");
+            if (!noticia.link) throw new Error("Noticia sin enlace.");
 
-            if (!noticia.titulo) {
-              throw new Error(
-                "Noticia sin título."
-              );
-            }
-
-            if (!noticia.link) {
-              throw new Error(
-                "Noticia sin enlace."
-              );
-            }
-
-            if (
-              noticia.titulo.trim().toLowerCase() ===
-              "comentarios"
-            ) {
-              throw new Error(
-                "Se encontró 'comentarios' como noticia."
-              );
+            if (noticia.titulo.trim().toLowerCase() === "comentarios") {
+              throw new Error("Se encontró 'comentarios' como noticia.");
             }
 
             if (vistos.has(noticia.link)) {
-              throw new Error(
-                "Artículo duplicado: " +
-                noticia.link
-              );
+              throw new Error("Artículo duplicado: " + noticia.link);
             }
-
             vistos.add(noticia.link);
 
             if (noticia.imagen) {
-
-              const u =
-                noticia.imagen.toLowerCase();
-
+              const u = noticia.imagen.toLowerCase();
               if (!u.includes("/imagenes_posts/")) {
-                throw new Error(
-                  "Imagen que no pertenece a imagenes_posts: " +
-                  noticia.imagen
-                );
-              }
-
-              const prohibidas = [
-                "pixel",
-                "tracking",
-                "tracker",
-                "spacer",
-                "transparent",
-                "/avatars/",
-                "/social/",
-                "/iconos/",
-                "/icon/",
-                "/perfiles/",
-                "logo",
-                "favicon",
-                "sprite"
-              ];
-
-              for (const palabra of prohibidas) {
-                if (u.includes(palabra)) {
-                  throw new Error(
-                    "Imagen prohibida detectada: " +
-                    noticia.imagen
-                  );
-                }
+                throw new Error("Imagen que no pertenece a imagenes_posts: " + noticia.imagen);
               }
             }
           }
 
-          console.log(
-            `JSON válido: ${data.noticias.length} noticias.`
-          );
+          console.log(`JSON válido: ${data.noticias.length} noticias.`);
           NODE
 
       - name: Guardar noticias-870.json
