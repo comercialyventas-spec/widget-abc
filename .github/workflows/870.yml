@@ -18,10 +18,11 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Descargar índice de El Mundo
+      - name: Descargar página de El Mundo
         run: |
           curl -L --fail --max-time 30 \
-            -A "Mozilla/5.0" \
+            -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/131.0 Safari/537.36" \
+            -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8" \
             "https://www.elmundo.es/blogs/elmundo/clima/" \
             -o pagina.html
 
@@ -31,11 +32,17 @@ jobs:
           const fs = require("fs");
           const { execFileSync } = require("child_process");
 
-          function decodificar(buffer) {
+          function leerHtml(archivo) {
+            const buffer = fs.readFileSync(archivo);
+
             let texto = buffer.toString("utf8");
 
             if (texto.includes("�")) {
-              texto = buffer.toString("latin1");
+              const latin = buffer.toString("latin1");
+
+              if (!latin.includes("�")) {
+                texto = latin;
+              }
             }
 
             return texto;
@@ -45,6 +52,8 @@ jobs:
             return String(texto || "")
               .replace(/<script[\s\S]*?<\/script>/gi, " ")
               .replace(/<style[\s\S]*?<\/style>/gi, " ")
+              .replace(/<noscript[\s\S]*?<\/noscript>/gi, " ")
+              .replace(/<svg[\s\S]*?<\/svg>/gi, " ")
               .replace(/<[^>]+>/g, " ")
               .replace(/&nbsp;/gi, " ")
               .replace(/&amp;/gi, "&")
@@ -64,140 +73,341 @@ jobs:
           }
 
           function absoluto(url) {
-            url = String(url || "")
+            if (!url) return "";
+
+            let u = String(url)
               .replace(/&amp;/gi, "&")
               .replace(/\\u002F/g, "/")
+              .replace(/\\\//g, "/")
               .trim();
 
-            if (url.startsWith("//")) {
-              return "https:" + url;
+            u = u.replace(/^["']|["']$/g, "");
+
+            if (u.startsWith("//")) {
+              return "https:" + u;
             }
 
-            if (url.startsWith("http://")) {
-              return "https://" + url.substring(7);
+            if (u.startsWith("http://")) {
+              return "https://" + u.substring(7);
             }
 
-            if (url.startsWith("https://")) {
-              return url;
+            if (u.startsWith("https://")) {
+              return u;
             }
 
-            if (url.startsWith("/")) {
-              return "https://www.elmundo.es" + url;
-            }
-
-            return url;
-          }
-
-          function imagenArticulo(url) {
-            if (!url) return false;
-
-            const u = url.toLowerCase();
-
-            if (!/imagenes_posts/i.test(u)) {
-              return false;
-            }
-
-            if (!/\.(jpg|jpeg|png|webp)(?:[?#].*)?$/i.test(u)) {
-              return false;
-            }
-
-            return true;
-          }
-
-          /*
-           * Busca EXCLUSIVAMENTE imágenes pertenecientes
-           * al sistema antiguo de imágenes del blog.
-           */
-          function extraerImagen(pagina) {
-
-            const urls = [];
-
-            /*
-             * URL absoluta.
-             */
-            const absoluta =
-              /https?:\/\/[^"'<> \t\r\n]+\/blogs\/elmundo\/clima\/imagenes_posts\/[^"'<> \t\r\n]+?\.(?:jpg|jpeg|png|webp)(?:[?#][^"'<> \t\r\n]*)?/gi;
-
-            let m;
-
-            while ((m = absoluta.exec(pagina)) !== null) {
-              urls.push(m[0]);
-            }
-
-            /*
-             * URL que empieza directamente por /blogs/...
-             */
-            const relativa =
-              /\/blogs\/elmundo\/clima\/imagenes_posts\/[^"'<> \t\r\n]+?\.(?:jpg|jpeg|png|webp)(?:[?#][^"'<> \t\r\n]*)?/gi;
-
-            while ((m = relativa.exec(pagina)) !== null) {
-              urls.push(m[0]);
-            }
-
-            /*
-             * Eliminar duplicados manteniendo orden.
-             */
-            const unicas = [...new Set(urls)];
-
-            /*
-             * Preferimos las imágenes grandes.
-             */
-            unicas.sort((a, b) => {
-
-              const score = url => {
-                let s = 0;
-
-                if (/635x/i.test(url)) s += 100;
-                if (/540x/i.test(url)) s += 80;
-                if (/640x/i.test(url)) s += 80;
-                if (/1200x/i.test(url)) s += 70;
-
-                return s;
-              };
-
-              return score(b) - score(a);
-            });
-
-            for (const url of unicas) {
-
-              const finalUrl = absoluto(url);
-
-              if (imagenArticulo(finalUrl)) {
-                return finalUrl;
-              }
+            if (u.startsWith("/")) {
+              return "https://www.elmundo.es" + u;
             }
 
             return "";
           }
 
+          function esImagenValida(url) {
+            if (!url) return false;
+
+            const u = url.toLowerCase();
+
+            if (!/\.(jpg|jpeg|png|webp)(?:[?#].*)?$/i.test(u)) {
+              return false;
+            }
+
+            const prohibidas = [
+              "pixel.gif",
+              "pixel.",
+              "contabilizacionaccesos",
+              "tracking",
+              "tracker",
+              "spacer",
+              "transparent",
+              "favicon",
+              "/iconos/",
+              "/icon/",
+              "/avatars/",
+              "/social/",
+              "elmundo.png",
+              "logo",
+              "sprite",
+              "default-avatar",
+              "comments_default"
+            ];
+
+            for (const palabra of prohibidas) {
+              if (u.includes(palabra)) {
+                return false;
+              }
+            }
+
+            return true;
+          }
+
+          function normalizarImagen(url) {
+            const u = absoluto(url);
+
+            if (!u) return "";
+
+            if (!esImagenValida(u)) {
+              return "";
+            }
+
+            return u;
+          }
+
+          /*
+           * Busca una imagen de artículo.
+           *
+           * PRIORIDAD:
+           * 1. imagenes_posts
+           * 2. imágenes asociadas a metadatos de la página
+           * 3. imágenes de contenido del artículo
+           *
+           * Nunca acepta logos, avatares, pixels, etc.
+           */
+          function buscarImagen(html) {
+
+            if (!html) return "";
+
+            const candidatos = [];
+
+            function añadir(url, prioridad) {
+              const imagen = normalizarImagen(url);
+
+              if (!imagen) return;
+
+              candidatos.push({
+                url: imagen,
+                prioridad
+              });
+            }
+
+            /*
+             * ==================================================
+             * 1. SISTEMA ANTIGUO DE EL MUNDO
+             * ==================================================
+             */
+
+            let m;
+
+            const patronPosts =
+              /(?:https?:)?\/\/[^"'<>\\s]+\/blogs\/elmundo\/clima\/imagenes_posts\/[^"'<>\\s]+?\.(?:jpg|jpeg|png|webp)(?:[?#][^"'<>\\s]*)?/gi;
+
+            while ((m = patronPosts.exec(html)) !== null) {
+              añadir(m[0], 1000);
+            }
+
+            const patronPostsRelativo =
+              /\/blogs\/elmundo\/clima\/imagenes_posts\/[^"'<>\\s]+?\.(?:jpg|jpeg|png|webp)(?:[?#][^"'<>\\s]*)?/gi;
+
+            while ((m = patronPostsRelativo.exec(html)) !== null) {
+              añadir(m[0], 1000);
+            }
+
+            /*
+             * ==================================================
+             * 2. METADATOS og:image
+             * ==================================================
+             */
+
+            const og1 =
+              /<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["'][^>]*>/gi;
+
+            while ((m = og1.exec(html)) !== null) {
+              añadir(m[1], 900);
+            }
+
+            const og2 =
+              /<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["'][^>]*>/gi;
+
+            while ((m = og2.exec(html)) !== null) {
+              añadir(m[1], 900);
+            }
+
+            /*
+             * ==================================================
+             * 3. twitter:image
+             * ==================================================
+             */
+
+            const tw1 =
+              /<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["'][^>]*>/gi;
+
+            while ((m = tw1.exec(html)) !== null) {
+              añadir(m[1], 850);
+            }
+
+            const tw2 =
+              /<meta[^>]+content=["']([^"']+)["'][^>]+name=["']twitter:image["'][^>]*>/gi;
+
+            while ((m = tw2.exec(html)) !== null) {
+              añadir(m[1], 850);
+            }
+
+            /*
+             * ==================================================
+             * 4. JSON / DATOS EMBEBIDOS
+             *
+             * Buscamos URLs de imágenes dentro del HTML.
+             * ==================================================
+             */
+
+            const urlsGenerales =
+              /https?:\\?\/\\?\/[^"'<>\\s\\]+?\.(?:jpg|jpeg|png|webp)(?:\\?[^"'<>\\s\\]*)?/gi;
+
+            while ((m = urlsGenerales.exec(html)) !== null) {
+              añadir(m[0], 700);
+            }
+
+            /*
+             * ==================================================
+             * 5. SRC / DATA-SRC / SRCSET
+             * ==================================================
+             */
+
+            const atributos = [
+              /(?:src|data-src|data-original|data-lazy-src)=["']([^"']+)["']/gi,
+              /(?:srcset|data-srcset)=["']([^"']+)["']/gi
+            ];
+
+            for (const patron of atributos) {
+
+              while ((m = patron.exec(html)) !== null) {
+
+                const valor = m[1];
+
+                /*
+                 * srcset puede contener:
+                 *
+                 * imagen.jpg 540w,
+                 * imagen.jpg 635w
+                 */
+                const partes =
+                  valor.split(",").map(x =>
+                    x.trim().split(/\s+/)[0]
+                  );
+
+                for (const parte of partes) {
+                  añadir(parte, 600);
+                }
+              }
+            }
+
+            /*
+             * ==================================================
+             * ELIMINAR DUPLICADOS
+             * ==================================================
+             */
+
+            const mapa = new Map();
+
+            for (const candidato of candidatos) {
+
+              const anterior =
+                mapa.get(candidato.url);
+
+              if (
+                !anterior ||
+                candidato.prioridad > anterior.prioridad
+              ) {
+                mapa.set(
+                  candidato.url,
+                  candidato
+                );
+              }
+            }
+
+            const lista =
+              [...mapa.values()];
+
+            /*
+             * ==================================================
+             * PUNTUACIÓN FINAL
+             *
+             * Preferimos imágenes del blog antiguo.
+             * ==================================================
+             */
+
+            function puntuacion(candidato) {
+
+              const u =
+                candidato.url.toLowerCase();
+
+              let puntos =
+                candidato.prioridad;
+
+              if (
+                u.includes(
+                  "/blogs/elmundo/clima/imagenes_posts/"
+                )
+              ) {
+                puntos += 500;
+              }
+
+              if (/635x/i.test(u)) {
+                puntos += 50;
+              }
+
+              if (/640x/i.test(u)) {
+                puntos += 50;
+              }
+
+              if (/540x/i.test(u)) {
+                puntos += 40;
+              }
+
+              if (/1200x/i.test(u)) {
+                puntos += 30;
+              }
+
+              /*
+               * Penalizar imágenes claramente pequeñas.
+               */
+
+              if (
+                /(?:16x16|32x32|48x48|64x64|75x75)/i.test(u)
+              ) {
+                puntos -= 300;
+              }
+
+              return puntos;
+            }
+
+            lista.sort(
+              (a, b) =>
+                puntuacion(b) -
+                puntuacion(a)
+            );
+
+            return lista.length
+              ? lista[0].url
+              : "";
+          }
+
           /*
            * =====================================================
-           * OBTENER LOS 6 ARTÍCULOS
+           * EXTRAER ARTÍCULOS
            * =====================================================
            */
 
-          const htmlBuffer =
-            fs.readFileSync("pagina.html");
-
           const html =
-            decodificar(htmlBuffer);
+            leerHtml("pagina.html");
 
           const noticias = [];
           const vistos = new Set();
 
-          const patron =
+          const patronEnlace =
             /<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi;
 
           let m;
 
           while (
-            (m = patron.exec(html)) !== null &&
+            (m = patronEnlace.exec(html)) !== null &&
             noticias.length < 6
           ) {
 
-            let link = absoluto(m[1]);
+            let link =
+              absoluto(m[1]);
 
-            link = link.split("#")[0];
+            link =
+              link.split("#")[0];
 
             if (
               !link.startsWith(
@@ -215,24 +425,24 @@ jobs:
               continue;
             }
 
-            let titulo = limpiar(m[2]);
+            const titulo =
+              limpiar(m[2]);
 
             if (!titulo || titulo.length < 15) {
               continue;
             }
 
             if (
-              titulo.toLowerCase() === "comentarios"
+              /^comentarios$/i.test(titulo)
             ) {
               continue;
             }
 
-            /*
-             * Evitar enlaces cuyo texto sea únicamente
-             * comentarios aunque lleven más contenido.
-             */
             if (
-              /^comentarios$/i.test(titulo)
+              titulo.toLowerCase().includes(
+                "comentarios"
+              ) &&
+              titulo.length < 30
             ) {
               continue;
             }
@@ -259,9 +469,14 @@ jobs:
 
           const resultado = [];
 
-          for (let i = 0; i < noticias.length; i++) {
+          for (
+            let i = 0;
+            i < noticias.length;
+            i++
+          ) {
 
-            const noticia = noticias[i];
+            const noticia =
+              noticias[i];
 
             const archivo =
               `articulo-${i}.html`;
@@ -278,7 +493,9 @@ jobs:
                   "--max-time",
                   "30",
                   "-A",
-                  "Mozilla/5.0",
+                  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/131.0 Safari/537.36",
+                  "-H",
+                  "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
                   noticia.link,
                   "-o",
                   archivo
@@ -288,11 +505,8 @@ jobs:
                 }
               );
 
-              const buffer =
-                fs.readFileSync(archivo);
-
               articulo =
-                decodificar(buffer);
+                leerHtml(archivo);
 
             } catch (error) {
 
@@ -303,23 +517,31 @@ jobs:
             }
 
             const imagen =
-              extraerImagen(articulo);
+              buscarImagen(articulo);
 
             console.log("");
-            console.log("================================");
-            console.log("TÍTULO:", noticia.titulo);
-            console.log("ENLACE:", noticia.link);
+            console.log(
+              "----------------------------------------"
+            );
+            console.log(
+              "NOTICIA:",
+              noticia.titulo
+            );
             console.log(
               "IMAGEN:",
               imagen || "NINGUNA"
             );
-            console.log("================================");
+            console.log(
+              "----------------------------------------"
+            );
 
             resultado.push({
               titulo: noticia.titulo,
               link: noticia.link,
               imagen: imagen,
-              tipo: imagen ? "imagen" : ""
+              tipo: imagen
+                ? "imagen"
+                : ""
             });
           }
 
@@ -343,11 +565,17 @@ jobs:
 
           console.log("");
           console.log(
-            "OK: noticias-870.json generado."
+            "========================================"
+          );
+          console.log(
+            "noticias-870.json generado correctamente"
           );
           console.log(
             "Noticias:",
             resultado.length
+          );
+          console.log(
+            "========================================"
           );
           NODE
 
@@ -356,12 +584,13 @@ jobs:
           node <<'NODE'
           const fs = require("fs");
 
-          const data = JSON.parse(
-            fs.readFileSync(
-              "noticias-870.json",
-              "utf8"
-            )
-          );
+          const data =
+            JSON.parse(
+              fs.readFileSync(
+                "noticias-870.json",
+                "utf8"
+              )
+            );
 
           if (
             !data.noticias ||
@@ -388,32 +617,60 @@ jobs:
             }
 
             if (
-              noticia.titulo
-                .trim()
-                .toLowerCase() === "comentarios"
+              /^comentarios$/i.test(
+                noticia.titulo.trim()
+              )
             ) {
               throw new Error(
-                "Se ha encontrado comentarios como noticia."
+                "Se ha encontrado 'comentarios' como noticia."
               );
             }
 
             if (noticia.imagen) {
 
-              if (
-                !noticia.imagen.includes(
-                  "/blogs/elmundo/clima/imagenes_posts/"
-                )
+              const u =
+                noticia.imagen.toLowerCase();
+
+              const prohibidas = [
+                "pixel.gif",
+                "contabilizacionaccesos",
+                "/avatars/",
+                "/social/",
+                "/iconos/",
+                "elmundo.png",
+                "favicon",
+                "sprite",
+                "logo"
+              ];
+
+              for (
+                const palabra of prohibidas
               ) {
-                throw new Error(
-                  "La imagen no pertenece a imagenes_posts: " +
-                  noticia.imagen
-                );
+
+                if (u.includes(palabra)) {
+                  throw new Error(
+                    "Imagen incorrecta detectada: " +
+                    noticia.imagen
+                  );
+                }
               }
             }
           }
 
           console.log(
             "JSON válido."
+          );
+
+          console.log(
+            "Noticias:",
+            data.noticias.length
+          );
+
+          console.log(
+            "Imágenes:",
+            data.noticias.filter(
+              n => n.imagen
+            ).length
           );
           NODE
 
