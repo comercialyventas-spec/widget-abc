@@ -14,6 +14,19 @@ jobs:
 
     steps:
 
+      # ==================================================
+      # 1. DESCARGAR EL REPOSITORIO
+      # ==================================================
+
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # ==================================================
+      # 2. DESCARGAR EL MUNDO
+      # ==================================================
+
       - name: Descargar página de El Mundo
         run: |
           curl -L --fail \
@@ -24,6 +37,10 @@ jobs:
 
           echo "Página descargada:"
           wc -c pagina.html
+
+      # ==================================================
+      # 3. GENERAR JSON
+      # ==================================================
 
       - name: Generar noticias-870.json
         run: |
@@ -76,52 +93,57 @@ jobs:
             return url;
           }
 
-          function buscarAtributo(bloque, atributo) {
-            const re = new RegExp(
-              atributo + "\\s*=\\s*[\"']([^\"']+)[\"']",
-              "i"
-            );
+          function atributo(bloque, nombre) {
+            const patron =
+              new RegExp(
+                nombre + "\\s*=\\s*[\"']([^\"']+)[\"']",
+                "i"
+              );
 
-            const m = bloque.match(re);
+            const encontrado = bloque.match(patron);
 
-            return m ? absoluto(m[1]) : "";
+            return encontrado
+              ? absoluto(encontrado[1])
+              : "";
           }
 
           function buscarImagen(bloque) {
 
-            let imagen = buscarAtributo(bloque, "src");
+            let imagen;
+
+            imagen = atributo(bloque, "data-src");
             if (imagen) return imagen;
 
-            imagen = buscarAtributo(bloque, "data-src");
+            imagen = atributo(bloque, "data-original");
             if (imagen) return imagen;
 
-            imagen = buscarAtributo(bloque, "data-original");
+            imagen = atributo(bloque, "data-lazy-src");
             if (imagen) return imagen;
 
-            imagen = buscarAtributo(bloque, "data-lazy-src");
+            imagen = atributo(bloque, "data-image");
             if (imagen) return imagen;
 
-            imagen = buscarAtributo(bloque, "data-image");
+            imagen = atributo(bloque, "src");
             if (imagen) return imagen;
 
-            const og = bloque.match(
-              /property\s*=\s*["']og:image["'][^>]+content\s*=\s*["']([^"']+)["']/i
+            const og1 = bloque.match(
+              /property\s*=\s*["']og:image["'][^>]*content\s*=\s*["']([^"']+)["']/i
             );
 
-            if (og) return absoluto(og[1]);
+            if (og1) return absoluto(og1[1]);
 
             const og2 = bloque.match(
-              /content\s*=\s*["']([^"']+)["'][^>]+property\s*=\s*["']og:image["']/i
+              /content\s*=\s*["']([^"']+)["'][^>]*property\s*=\s*["']og:image["']/i
             );
 
             if (og2) return absoluto(og2[1]);
 
-            const imagenes = bloque.match(
-              /https?:\/\/[^"'<> \s]+?\.(?:jpg|jpeg|png|webp)(?:\?[^"'<> ]*)?/gi
+            const urls = bloque.match(
+              /https?:\/\/[^"'<>\\s]+?\.(?:jpg|jpeg|png|webp)(?:\?[^"'<>\\s]*)?/gi
             );
 
-            if (imagenes && imagenes.length) {
-              return imagenes[0];
+            if (urls && urls.length) {
+              return urls[0];
             }
 
             return "";
@@ -131,85 +153,68 @@ jobs:
           const vistos = new Set();
 
           /*
-           * Buscamos enlaces que pertenezcan al blog clima.
+           * Buscar artículos del blog.
            */
-          const patronEnlace =
+
+          const patron =
             /<a\b[^>]*href\s*=\s*["']([^"']*\/blogs\/elmundo\/clima\/[^"']*)["'][^>]*>([\s\S]*?)<\/a>/gi;
 
-          let match;
+          let encontrado;
 
-          while ((match = patronEnlace.exec(html)) !== null) {
+          while (
+            (encontrado = patron.exec(html)) !== null &&
+            noticias.length < 6
+          ) {
 
-            if (noticias.length >= 6) break;
-
-            let link = absoluto(match[1]);
-            let bloque = match[0];
-            let contenido = match[2];
+            const link = absoluto(encontrado[1]);
+            const contenido = encontrado[2];
 
             if (!link) continue;
 
-            /*
-             * Ignoramos enlaces generales del propio blog.
-             */
             if (
-              link.endsWith("/clima/") ||
-              link.endsWith("/clima")
+              link === "http://www.elmundo.es/blogs/elmundo/clima/" ||
+              link === "http://www.elmundo.es/blogs/elmundo/clima"
             ) {
               continue;
             }
 
-            /*
-             * Título.
-             */
-            let titulo = limpiar(contenido);
-
-            /*
-             * Si el enlace contiene elementos HTML, intentamos
-             * localizar también un título en atributos.
-             */
-            if (!titulo || titulo.length < 10) {
-
-              const titleAttr = buscarAtributo(bloque, "title");
-
-              if (titleAttr) {
-                titulo = limpiar(titleAttr);
-              }
-            }
-
-            if (!titulo || titulo.length < 10) {
+            if (vistos.has(link)) {
               continue;
             }
 
-            /*
-             * Evitar duplicados.
-             */
-            if (vistos.has(link)) {
+            let titulo = limpiar(contenido);
+
+            if (!titulo || titulo.length < 10) {
               continue;
             }
 
             vistos.add(link);
 
             /*
-             * Imagen asociada al bloque del enlace.
+             * Buscar imagen en el propio enlace.
              */
-            let imagen = buscarImagen(bloque);
+
+            let imagen = buscarImagen(encontrado[0]);
 
             /*
-             * Si el enlace no contiene imagen, buscamos alrededor
-             * del enlace, porque algunas versiones antiguas de
-             * El Mundo colocaban la imagen fuera del <a>.
+             * Buscar imagen alrededor del enlace.
              */
+
             if (!imagen) {
 
-              const posicion = match.index;
+              const inicio =
+                Math.max(0, encontrado.index - 2000);
 
-              const inicio = Math.max(0, posicion - 1500);
-              const fin = Math.min(
-                html.length,
-                posicion + bloque.length + 1500
-              );
+              const fin =
+                Math.min(
+                  html.length,
+                  encontrado.index +
+                  encontrado[0].length +
+                  2000
+                );
 
-              const contexto = html.slice(inicio, fin);
+              const contexto =
+                html.substring(inicio, fin);
 
               imagen = buscarImagen(contexto);
             }
@@ -223,100 +228,103 @@ jobs:
           }
 
           /*
-           * Si el HTML utiliza otra estructura, buscamos directamente
-           * URLs de artículos del blog.
+           * Segundo método de búsqueda por si la estructura
+           * HTML del blog no utiliza el mismo formato.
            */
+
           if (noticias.length < 6) {
 
             const patronUrl =
-              /https?:\/\/(?:www\.)?elmundo\.es\/blogs\/elmundo\/clima\/[^"'<> \s]+/gi;
+              /https?:\/\/(?:www\.)?elmundo\.es\/blogs\/elmundo\/clima\/[^"'<>\\s]+/gi;
 
             const urls = html.match(patronUrl) || [];
 
-            for (const urlOriginal of urls) {
+            for (
+              const urlOriginal of urls
+            ) {
 
               if (noticias.length >= 6) break;
 
-              const link = urlOriginal.replace(/&amp;/gi, "&");
-
-              if (vistos.has(link)) continue;
-
-              vistos.add(link);
-
-              /*
-               * No podemos garantizar un título desde una URL aislada,
-               * así que solo añadimos el artículo si encontramos un
-               * bloque razonable alrededor de él.
-               */
-              const posicion = html.indexOf(urlOriginal);
-
-              const inicio = Math.max(0, posicion - 1200);
-              const fin = Math.min(
-                html.length,
-                posicion + 1800
-              );
-
-              const contexto = html.slice(inicio, fin);
-
-              let titulo = "";
-
-              const titleMatch = contexto.match(
-                /<h[1-6][^>]*>([\s\S]*?)<\/h[1-6]>/i
-              );
-
-              if (titleMatch) {
-                titulo = limpiar(titleMatch[1]);
-              }
-
-              if (!titulo) {
-                const titleAttr = contexto.match(
-                  /title\s*=\s*["']([^"']+)["']/i
+              const link =
+                urlOriginal.replace(
+                  /&amp;/gi,
+                  "&"
                 );
 
-                if (titleAttr) {
-                  titulo = limpiar(titleAttr[1]);
-                }
-              }
-
-              if (!titulo || titulo.length < 10) {
+              if (vistos.has(link)) {
                 continue;
               }
 
-              const imagen = buscarImagen(contexto);
+              const posicion =
+                html.indexOf(urlOriginal);
+
+              if (posicion < 0) continue;
+
+              const inicio =
+                Math.max(
+                  0,
+                  posicion - 2000
+                );
+
+              const fin =
+                Math.min(
+                  html.length,
+                  posicion + 2500
+                );
+
+              const contexto =
+                html.substring(
+                  inicio,
+                  fin
+                );
+
+              let titulo = "";
+
+              const h =
+                contexto.match(
+                  /<h[1-6][^>]*>([\s\S]*?)<\/h[1-6]>/i
+                );
+
+              if (h) {
+                titulo =
+                  limpiar(h[1]);
+              }
+
+              if (
+                !titulo ||
+                titulo.length < 10
+              ) {
+                continue;
+              }
+
+              const imagen =
+                buscarImagen(contexto);
+
+              vistos.add(link);
 
               noticias.push({
                 titulo: titulo,
                 link: link,
                 imagen: imagen,
-                tipo: imagen ? "imagen" : ""
+                tipo: imagen
+                  ? "imagen"
+                  : ""
               });
             }
           }
 
-          /*
-           * Limpiar posibles duplicados finales.
-           */
-          const finales = [];
-          const linksFinales = new Set();
-
-          for (const noticia of noticias) {
-
-            if (finales.length >= 6) break;
-
-            if (linksFinales.has(noticia.link)) {
-              continue;
-            }
-
-            linksFinales.add(noticia.link);
-
-            finales.push(noticia);
-          }
-
-          if (finales.length === 0) {
+          if (noticias.length === 0) {
             throw new Error(
               "No se encontraron artículos de El Mundo."
             );
           }
+
+          /*
+           * Máximo 6 noticias.
+           */
+
+          const finales =
+            noticias.slice(0, 6);
 
           const resultado = {
             noticias: finales
@@ -324,20 +332,43 @@ jobs:
 
           fs.writeFileSync(
             "noticias-870.json",
-            JSON.stringify(resultado, null, 2),
+            JSON.stringify(
+              resultado,
+              null,
+              2
+            ),
             "utf8"
           );
 
           console.log(
-            "Generado noticias-870.json con",
-            finales.length,
-            "noticias."
+            "===================================="
           );
 
           console.log(
-            JSON.stringify(resultado, null, 2)
+            "noticias-870.json generado"
+          );
+
+          console.log(
+            "Noticias:",
+            finales.length
+          );
+
+          console.log(
+            JSON.stringify(
+              resultado,
+              null,
+              2
+            )
+          );
+
+          console.log(
+            "===================================="
           );
           NODE
+
+      # ==================================================
+      # 4. VALIDAR JSON
+      # ==================================================
 
       - name: Validar noticias-870.json
         run: |
@@ -345,7 +376,10 @@ jobs:
           const fs = require("fs");
 
           const data = JSON.parse(
-            fs.readFileSync("noticias-870.json", "utf8")
+            fs.readFileSync(
+              "noticias-870.json",
+              "utf8"
+            )
           );
 
           if (
@@ -371,10 +405,22 @@ jobs:
                 "Hay una noticia sin enlace"
               );
             }
+
           }
 
-          console.log("JSON válido.");
+          console.log(
+            "JSON válido."
+          );
+
+          console.log(
+            "Número de noticias:",
+            data.noticias.length
+          );
           NODE
+
+      # ==================================================
+      # 5. GUARDAR EN GITHUB
+      # ==================================================
 
       - name: Guardar noticias-870.json
         run: |
