@@ -15,7 +15,15 @@ jobs:
     steps:
 
       # ============================================================
-      # 1. DESCARGAR LA PÁGINA DE TECNOLOGÍA
+      # 1. DESCARGAR EL REPOSITORIO
+      # ============================================================
+
+      - name: Checkout del repositorio
+        uses: actions/checkout@v4
+
+
+      # ============================================================
+      # 2. DESCARGAR EL DIARIO.ES
       # ============================================================
 
       - name: Descargar página de tecnología
@@ -32,15 +40,6 @@ jobs:
 
 
       # ============================================================
-      # 2. PREPARAR NODE
-      # ============================================================
-
-      - name: Preparar Node
-        run: |
-          node --version
-
-
-      # ============================================================
       # 3. GENERAR noticias-710.json
       # ============================================================
 
@@ -50,10 +49,6 @@ jobs:
           const fs = require("fs");
 
           const html = fs.readFileSync("pagina.html", "utf8");
-
-          // --------------------------------------------------------
-          // Decodificar entidades HTML
-          // --------------------------------------------------------
 
           function decodeHtml(text) {
             return String(text || "")
@@ -70,11 +65,6 @@ jobs:
               );
           }
 
-
-          // --------------------------------------------------------
-          // Limpiar texto
-          // --------------------------------------------------------
-
           function limpiar(texto) {
             return decodeHtml(
               String(texto || "")
@@ -85,11 +75,6 @@ jobs:
               .replace(/\s+/g, " ")
               .trim();
           }
-
-
-          // --------------------------------------------------------
-          // Convertir URL relativa en absoluta
-          // --------------------------------------------------------
 
           function urlAbsoluta(url) {
             if (!url) return "";
@@ -107,13 +92,7 @@ jobs:
             return url;
           }
 
-
-          // --------------------------------------------------------
-          // Buscar una URL dentro de un bloque
-          // --------------------------------------------------------
-
           function buscarAtributo(bloque, atributo) {
-
             const patron = new RegExp(
               atributo + "\\s*=\\s*(['\"])(.*?)\\1",
               "i"
@@ -125,11 +104,6 @@ jobs:
               ? decodeHtml(resultado[2])
               : "";
           }
-
-
-          // --------------------------------------------------------
-          // Extraer imagen de un bloque
-          // --------------------------------------------------------
 
           function extraerImagen(bloque) {
 
@@ -151,7 +125,6 @@ jobs:
 
               if (!valor) continue;
 
-              // srcset puede contener varias imágenes
               if (
                 atributo === "srcset" ||
                 atributo === "data-srcset"
@@ -173,10 +146,9 @@ jobs:
             return "";
           }
 
-
-          // --------------------------------------------------------
-          // Extraer JSON-LD
-          // --------------------------------------------------------
+          // ========================================================
+          // JSON-LD
+          // ========================================================
 
           const jsonLd = [];
 
@@ -189,20 +161,12 @@ jobs:
 
             const contenido =
               script
-                .replace(
-                  /^<script[^>]*>/i,
-                  ""
-                )
-                .replace(
-                  /<\/script>$/i,
-                  ""
-                )
+                .replace(/^<script[^>]*>/i, "")
+                .replace(/<\/script>$/i, "")
                 .trim();
 
             try {
-
-              const datos =
-                JSON.parse(contenido);
+              const datos = JSON.parse(contenido);
 
               if (Array.isArray(datos)) {
                 jsonLd.push(...datos);
@@ -211,14 +175,9 @@ jobs:
               }
 
             } catch (e) {
-              // Algunos bloques JSON-LD pueden no ser válidos.
+              // Ignorar JSON-LD inválido
             }
           }
-
-
-          // --------------------------------------------------------
-          // Crear mapa de imágenes por URL
-          // --------------------------------------------------------
 
           const imagenesPorUrl = new Map();
 
@@ -249,6 +208,7 @@ jobs:
             }
 
             if (Array.isArray(obj.image) && obj.image.length) {
+
               const primera = obj.image[0];
 
               if (typeof primera === "string") {
@@ -272,8 +232,7 @@ jobs:
             if (url && imagen) {
 
               const urlFinal =
-                urlAbsoluta(url)
-                  .split("#")[0];
+                urlAbsoluta(url).split("#")[0];
 
               imagenesPorUrl.set(
                 urlFinal,
@@ -281,7 +240,6 @@ jobs:
               );
             }
 
-            // Buscar también dentro de @graph
             if (Array.isArray(obj["@graph"])) {
               for (const elemento of obj["@graph"]) {
                 registrarJsonLd(elemento);
@@ -289,34 +247,26 @@ jobs:
             }
           }
 
-
           for (const obj of jsonLd) {
             registrarJsonLd(obj);
           }
 
 
-          // --------------------------------------------------------
-          // EXTRAER ENLACES DE ARTÍCULOS
-          //
-          // No buscamos una estructura concreta de HTML.
-          // Buscamos cualquier enlace real de tecnología.
-          // --------------------------------------------------------
+          // ========================================================
+          // ENLACES DE TECNOLOGÍA
+          // ========================================================
 
           const enlaces =
             html.match(
               /<a\b[^>]*href\s*=\s*(['"])(.*?)\1[^>]*>[\s\S]*?<\/a>/gi
             ) || [];
 
-
           const candidatos = [];
 
           for (const bloque of enlaces) {
 
             const href =
-              buscarAtributo(
-                bloque,
-                "href"
-              );
+              buscarAtributo(bloque, "href");
 
             if (!href) continue;
 
@@ -324,7 +274,6 @@ jobs:
               urlAbsoluta(href)
                 .split("#")[0];
 
-            // Solo artículos de tecnología
             if (
               !link.startsWith(
                 "https://www.eldiario.es/tecnologia/"
@@ -333,7 +282,6 @@ jobs:
               continue;
             }
 
-            // Evitar páginas de navegación
             if (
               link.endsWith("/tecnologia/") ||
               link.endsWith("/tecnologia")
@@ -341,20 +289,10 @@ jobs:
               continue;
             }
 
-            // El texto del enlace
-            let titulo =
-              limpiar(bloque);
-
-            // Si el enlace contiene imágenes, eliminar texto
-            // basura generado por atributos o SVG.
-            titulo =
-              titulo
-                .replace(/\s+/g, " ")
-                .trim();
+            let titulo = limpiar(bloque);
 
             if (!titulo) continue;
 
-            // Titulares razonables
             if (titulo.length < 20) continue;
 
             if (titulo.length > 300) continue;
@@ -367,12 +305,11 @@ jobs:
           }
 
 
-          // --------------------------------------------------------
-          // DEDUPLICAR
-          // --------------------------------------------------------
+          // ========================================================
+          // ELIMINAR DUPLICADOS
+          // ========================================================
 
           const unicos = [];
-
           const vistos = new Set();
 
           for (const candidato of candidatos) {
@@ -382,14 +319,13 @@ jobs:
             }
 
             vistos.add(candidato.link);
-
             unicos.push(candidato);
           }
 
 
-          // --------------------------------------------------------
-          // CONSTRUIR NOTICIAS
-          // --------------------------------------------------------
+          // ========================================================
+          // CREAR NOTICIAS
+          // ========================================================
 
           const noticias = [];
 
@@ -404,7 +340,6 @@ jobs:
                 candidato.link
               ) || "";
 
-            // Si JSON-LD no dio imagen, buscarla en el bloque
             if (!imagen) {
               imagen =
                 extraerImagen(
@@ -421,9 +356,9 @@ jobs:
           }
 
 
-          // --------------------------------------------------------
-          // COMPROBACIÓN
-          // --------------------------------------------------------
+          // ========================================================
+          // VALIDAR
+          // ========================================================
 
           if (noticias.length === 0) {
 
@@ -432,7 +367,7 @@ jobs:
             );
 
             console.error(
-              "Tamaño HTML:",
+              "Tamaño de página:",
               html.length
             );
 
@@ -447,9 +382,9 @@ jobs:
           }
 
 
-          // --------------------------------------------------------
+          // ========================================================
           // GUARDAR JSON
-          // --------------------------------------------------------
+          // ========================================================
 
           const resultado = {
             noticias
@@ -465,17 +400,8 @@ jobs:
             "utf8"
           );
 
-
-          // --------------------------------------------------------
-          // INFORMACIÓN DEL WORKFLOW
-          // --------------------------------------------------------
-
           console.log(
-            "======================================"
-          );
-
-          console.log(
-            "noticias-710.json generado correctamente"
+            "noticias-710.json generado correctamente."
           );
 
           console.log(
@@ -484,14 +410,10 @@ jobs:
           );
 
           console.log(
-            "Imágenes:",
+            "Noticias con imagen:",
             noticias.filter(
               n => n.imagen
             ).length
-          );
-
-          console.log(
-            "======================================"
           );
 
           console.log(
@@ -501,7 +423,6 @@ jobs:
               2
             )
           );
-
           NODE
 
 
@@ -540,9 +461,7 @@ jobs:
             );
           }
 
-          for (
-            const noticia of data.noticias
-          ) {
+          for (const noticia of data.noticias) {
 
             if (
               !noticia.titulo ||
@@ -552,13 +471,9 @@ jobs:
                 "Hay una noticia sin título o enlace"
               );
             }
-
           }
 
-          console.log(
-            "JSON válido."
-          );
-
+          console.log("JSON válido.");
           console.log(
             "Noticias:",
             data.noticias.length
@@ -570,12 +485,11 @@ jobs:
               n => n.imagen
             ).length
           );
-
           NODE
 
 
       # ============================================================
-      # 5. GUARDAR EN GITHUB
+      # 5. GUARDAR EL JSON EN GITHUB
       # ============================================================
 
       - name: Guardar noticias-710.json
