@@ -45,64 +45,215 @@ jobs:
 
           const html = fs.readFileSync("pagina.html", "utf8");
 
+
+          // ==================================================
+          // LIMPIAR TEXTO
+          // ==================================================
+
           function limpiar(texto) {
             return String(texto || "")
               .replace(/<[^>]*>/g, " ")
               .replace(/&amp;/g, "&")
               .replace(/&quot;/g, '"')
               .replace(/&#39;/g, "'")
+              .replace(/&#x27;/gi, "'")
               .replace(/&lt;/g, "<")
               .replace(/&gt;/g, ">")
-              .replace(/&#x27;/gi, "'")
               .replace(/&#x2F;/gi, "/")
               .replace(/\s+/g, " ")
               .trim();
           }
 
+
+          // ==================================================
+          // LIMPIAR URL
+          // ==================================================
+
+          function limpiarUrl(url) {
+
+            if (!url) {
+              return "";
+            }
+
+            url = url.trim();
+
+            if (url.startsWith("//")) {
+              return "https:" + url;
+            }
+
+            if (url.startsWith("/")) {
+              return "https://www.eldiario.es" + url;
+            }
+
+            return url;
+          }
+
+
+          // ==================================================
+          // EXTRAER URL DE IMAGEN
+          // ==================================================
+
           function extraerImagen(bloque) {
 
-            let m = bloque.match(
-              /<img[^>]+src=["']([^"']+)["']/i
-            );
+            const patrones = [
 
-            if (m) {
-              return m[1];
+              /<img[^>]+src=["']([^"']+)["']/i,
+
+              /<img[^>]+data-src=["']([^"']+)["']/i,
+
+              /<img[^>]+data-lazy-src=["']([^"']+)["']/i,
+
+              /<img[^>]+data-original=["']([^"']+)["']/i,
+
+              /<source[^>]+src=["']([^"']+)["']/i,
+
+              /<source[^>]+srcset=["']([^"']+)["']/i,
+
+              /<img[^>]+srcset=["']([^"']+)["']/i
+
+            ];
+
+
+            for (const patron of patrones) {
+
+              const m = bloque.match(patron);
+
+              if (m && m[1]) {
+
+                let url = m[1].trim();
+
+                // Si es srcset, quedarse con la primera URL
+                if (url.includes(",")) {
+                  url = url.split(",")[0].trim();
+                }
+
+                // Quitar descriptor de tamaño
+                url = url.replace(/\s+\d+w$/i, "").trim();
+
+                url = limpiarUrl(url);
+
+                if (
+                  url.startsWith("http://") ||
+                  url.startsWith("https://")
+                ) {
+                  return url;
+                }
+              }
             }
 
-            m = bloque.match(
-              /<img[^>]+data-src=["']([^"']+)["']/i
-            );
-
-            if (m) {
-              return m[1];
-            }
-
-            m = bloque.match(
-              /<img[^>]+data-lazy-src=["']([^"']+)["']/i
-            );
-
-            if (m) {
-              return m[1];
-            }
-
-            m = bloque.match(
-              /<source[^>]+src=["']([^"']+)["']/i
-            );
-
-            if (m) {
-              return m[1];
-            }
 
             return "";
           }
 
+
+          // ==================================================
+          // EXTRAER VÍDEO
+          // ==================================================
+
+          function extraerVideo(bloque) {
+
+            const patrones = [
+
+              /<video[^>]+src=["']([^"']+)["']/i,
+
+              /<source[^>]+src=["']([^"']+\.mp4[^"']*)["']/i,
+
+              /<source[^>]+src=["']([^"']+\.webm[^"']*)["']/i
+
+            ];
+
+
+            for (const patron of patrones) {
+
+              const m = bloque.match(patron);
+
+              if (m && m[1]) {
+
+                const url = limpiarUrl(m[1]);
+
+                if (
+                  url.startsWith("http://") ||
+                  url.startsWith("https://")
+                ) {
+                  return url;
+                }
+              }
+            }
+
+
+            return "";
+          }
+
+
+          // ==================================================
+          // BUSCAR MULTIMEDIA CERCA DEL ENLACE
+          // ==================================================
+
+          function buscarMultimedia(html, posicion) {
+
+            // Buscamos alrededor del enlace.
+            // Esto permite encontrar imágenes que estén
+            // fuera del propio <a>.
+
+            const radio = 5000;
+
+            const inicio =
+              Math.max(0, posicion - radio);
+
+            const fin =
+              Math.min(
+                html.length,
+                posicion + radio
+              );
+
+            const bloque =
+              html.substring(inicio, fin);
+
+
+            const video =
+              extraerVideo(bloque);
+
+            if (video) {
+              return {
+                url: video,
+                tipo: "video"
+              };
+            }
+
+
+            const imagen =
+              extraerImagen(bloque);
+
+            if (imagen) {
+              return {
+                url: imagen,
+                tipo: "imagen"
+              };
+            }
+
+
+            return {
+              url: "",
+              tipo: ""
+            };
+          }
+
+
+          // ==================================================
+          // EXTRAER ENLACES DE TECNOLOGÍA
+          // ==================================================
+
           const noticias = [];
+
           const vistos = new Set();
+
 
           const patron =
             /<a\b[^>]*href=["']([^"']*\/tecnologia\/[^"']*)["'][^>]*>([\s\S]*?)<\/a>/gi;
 
+
           let match;
+
 
           while ((match = patron.exec(html)) !== null) {
 
@@ -110,13 +261,10 @@ jobs:
               break;
             }
 
-            let link = match[1];
 
-            if (link.startsWith("/")) {
-              link =
-                "https://www.eldiario.es" +
-                link;
-            }
+            let link =
+              limpiarUrl(match[1]);
+
 
             if (
               !link.startsWith(
@@ -126,31 +274,41 @@ jobs:
               continue;
             }
 
+
             if (vistos.has(link)) {
               continue;
             }
 
-            const contenido = match[2];
 
-            const titulo = limpiar(
-              contenido
-                .replace(
-                  /<svg[\s\S]*?<\/svg>/gi,
-                  ""
-                )
-                .replace(
-                  /<img[\s\S]*?>/gi,
-                  ""
-                )
-                .replace(
-                  /<picture[\s\S]*?<\/picture>/gi,
-                  ""
-                )
-                .replace(
-                  /<source[\s\S]*?>/gi,
-                  ""
-                )
-            );
+            const contenido =
+              match[2];
+
+
+            // ==================================================
+            // TÍTULO
+            // ==================================================
+
+            const titulo =
+              limpiar(
+                contenido
+                  .replace(
+                    /<svg[\s\S]*?<\/svg>/gi,
+                    ""
+                  )
+                  .replace(
+                    /<img[\s\S]*?>/gi,
+                    ""
+                  )
+                  .replace(
+                    /<picture[\s\S]*?<\/picture>/gi,
+                    ""
+                  )
+                  .replace(
+                    /<source[\s\S]*?>/gi,
+                    ""
+                  )
+              );
+
 
             if (
               !titulo ||
@@ -159,30 +317,72 @@ jobs:
               continue;
             }
 
-            const imagen =
-              extraerImagen(contenido);
+
+            // ==================================================
+            // BUSCAR MULTIMEDIA
+            // ==================================================
+
+            const multimedia =
+              buscarMultimedia(
+                html,
+                match.index
+              );
+
 
             vistos.add(link);
 
+
             noticias.push({
+
               titulo: titulo,
+
               link: link,
-              imagen: imagen,
-              tipo: imagen
-                ? "imagen"
-                : ""
+
+              imagen: multimedia.url,
+
+              tipo: multimedia.tipo
+
             });
+
+
+            console.log(
+              "Noticia:",
+              titulo
+            );
+
+            console.log(
+              "Imagen:",
+              multimedia.url || "(ninguna)"
+            );
+
+            console.log(
+              "Tipo:",
+              multimedia.tipo || "(ninguno)"
+            );
           }
 
+
+          // ==================================================
+          // COMPROBAR NOTICIAS
+          // ==================================================
+
           if (noticias.length === 0) {
+
             throw new Error(
               "No se encontraron noticias de tecnología"
             );
+
           }
+
+
+          // ==================================================
+          // CREAR JSON
+          // ==================================================
 
           const resultado = {
             noticias: noticias
           };
+
 
           fs.writeFileSync(
             "noticias-710.json",
@@ -194,25 +394,27 @@ jobs:
             "utf8"
           );
 
-          console.log(
-            "Generado noticias-710.json con",
-            noticias.length,
-            "noticias."
-          );
 
+          console.log("");
           console.log(
-            JSON.stringify(
-              resultado,
-              null,
-              2
-            )
+            "=========================================="
+          );
+          console.log(
+            "noticias-710.json generado correctamente"
+          );
+          console.log(
+            "Noticias:",
+            noticias.length
+          );
+          console.log(
+            "=========================================="
           );
 
           NODE
 
 
       # ==================================================
-      # 4. VALIDAR noticias-710.json
+      # 4. VALIDAR JSON
       # ==================================================
 
       - name: Validar noticias-710.json
@@ -228,15 +430,19 @@ jobs:
               )
             );
 
+
           if (
             !data.noticias ||
             !Array.isArray(data.noticias) ||
             data.noticias.length === 0
           ) {
+
             throw new Error(
               "noticias-710.json está vacío o es inválido"
             );
+
           }
+
 
           for (
             const noticia
@@ -247,26 +453,59 @@ jobs:
               !noticia.titulo ||
               !noticia.link
             ) {
+
               throw new Error(
                 "Hay una noticia sin título o enlace"
               );
+
             }
+
           }
+
 
           console.log(
             "JSON válido."
           );
+
 
           console.log(
             "Número de noticias:",
             data.noticias.length
           );
 
+
+          console.log(
+            "Multimedia encontrada:"
+          );
+
+
+          for (
+            const noticia
+            of data.noticias
+          ) {
+
+            console.log(
+              "-",
+              noticia.titulo
+            );
+
+            console.log(
+              "  tipo:",
+              noticia.tipo || "(ninguno)"
+            );
+
+            console.log(
+              "  imagen:",
+              noticia.imagen || "(ninguna)"
+            );
+
+          }
+
           NODE
 
 
       # ==================================================
-      # 5. GUARDAR noticias-710.json
+      # 5. GUARDAR JSON EN GITHUB
       # ==================================================
 
       - name: Guardar noticias-710.json
@@ -278,7 +517,9 @@ jobs:
           git config user.email \
             "41898282+github-actions[bot]@users.noreply.github.com"
 
+
           git add noticias-710.json
+
 
           if git diff --cached --quiet; then
 
