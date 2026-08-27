@@ -59,6 +59,14 @@ jobs:
               return "https:" + url;
             }
 
+            if (url.startsWith("http://")) {
+              return "https://" + url.substring(7);
+            }
+
+            if (url.startsWith("https://")) {
+              return url;
+            }
+
             if (url.startsWith("/")) {
               return "https://www.elmundo.es" + url;
             }
@@ -66,132 +74,149 @@ jobs:
             return url;
           }
 
-          function imagenReal(url) {
+          function esImagenValida(url) {
             if (!url) return false;
 
             const u = url.toLowerCase();
 
-            if (!/\.(jpg|jpeg|png|webp)(\?|$)/i.test(u)) {
+            if (!/\.(jpg|jpeg|png|webp)(?:[?#].*)?$/i.test(u)) {
               return false;
             }
 
-            if (u.includes("pixel.gif")) return false;
-            if (u.includes("contabilizacionaccesos")) return false;
+            if (u.includes("pixel")) return false;
+            if (u.includes("contabilizacion")) return false;
             if (u.includes("tracking")) return false;
             if (u.includes("tracker")) return false;
             if (u.includes("spacer")) return false;
             if (u.includes("transparent")) return false;
 
-            if (u.includes("/iconos/")) return false;
-            if (u.includes("/icon/")) return false;
             if (u.includes("/avatars/")) return false;
             if (u.includes("/social/img/")) return false;
-            if (u.includes("elmundo.png")) return false;
-            if (u.includes("logo")) return false;
+            if (u.includes("/iconos/")) return false;
+            if (u.includes("/icon/")) return false;
             if (u.includes("favicon")) return false;
             if (u.includes("sprite")) return false;
+            if (u.includes("logo")) return false;
+            if (u.includes("elmundo.png")) return false;
 
             return true;
           }
 
-          function buscarImagen(pagina) {
+          function extraerImagenArticulo(pagina) {
 
             /*
-             * PRIMERA OPCIÓN Y PREFERIDA:
-             * imágenes propias de los artículos antiguos.
+             * ==================================================
+             * 1. PRIORIDAD ABSOLUTA:
+             *    imagenes_posts
+             * ==================================================
              */
-            const antiguas = pagina.match(
-              /https?:\/\/[^"'<>\\s]+\/imagenes_posts\/[^"'<>\\s]+\.(?:jpg|jpeg|png|webp)/gi
-            ) || [];
 
-            for (const url of antiguas) {
-              const limpia = absoluto(url);
+            const candidatos = [];
 
-              if (imagenReal(limpia)) {
-                return limpia;
-              }
+            const regexImagenPosts =
+              /(?:https?:)?\/\/[^"'<>\\s]+\/imagenes_posts\/[^"'<>\\s]+?\.(?:jpg|jpeg|png|webp)(?:[?#][^"'<>\\s]*)?/gi;
+
+            let m;
+
+            while ((m = regexImagenPosts.exec(pagina)) !== null) {
+              candidatos.push(m[0]);
             }
 
             /*
-             * SEGUNDA OPCIÓN:
-             * og:image, pero solamente si es una imagen real.
+             * También puede aparecer como URL relativa.
              */
-            let m = pagina.match(
-              /property=["']og:image["'][^>]*content=["']([^"']+)["']/i
-            );
 
-            if (m) {
-              const url = absoluto(m[1]);
+            const regexRelativa =
+              /["'=]\s*(\/[^"'<>\\s]*\/imagenes_posts\/[^"'<>\\s]+\.(?:jpg|jpeg|png|webp)(?:[?#][^"'<>\\s]*)?)/gi;
 
-              if (imagenReal(url)) {
+            while ((m = regexRelativa.exec(pagina)) !== null) {
+              candidatos.push(m[1]);
+            }
+
+            for (const candidato of candidatos) {
+
+              let url = candidato
+                .replace(/&amp;/gi, "&")
+                .replace(/\\u002F/gi, "/")
+                .trim();
+
+              url = absoluto(url);
+
+              if (esImagenValida(url)) {
                 return url;
               }
             }
 
-            m = pagina.match(
+            /*
+             * ==================================================
+             * 2. og:image
+             * ==================================================
+             */
+
+            const ogPatterns = [
+              /property=["']og:image["'][^>]*content=["']([^"']+)["']/i,
               /content=["']([^"']+)["'][^>]*property=["']og:image["']/i
-            );
+            ];
 
-            if (m) {
-              const url = absoluto(m[1]);
+            for (const patron of ogPatterns) {
 
-              if (imagenReal(url)) {
+              const x = pagina.match(patron);
+
+              if (!x) continue;
+
+              const url = absoluto(
+                x[1]
+                  .replace(/&amp;/gi, "&")
+                  .trim()
+              );
+
+              if (esImagenValida(url)) {
                 return url;
               }
             }
 
             /*
-             * TERCERA OPCIÓN:
-             * twitter:image.
+             * ==================================================
+             * 3. twitter:image
+             * ==================================================
              */
-            m = pagina.match(
-              /name=["']twitter:image["'][^>]*content=["']([^"']+)["']/i
-            );
 
-            if (m) {
-              const url = absoluto(m[1]);
-
-              if (imagenReal(url)) {
-                return url;
-              }
-            }
-
-            m = pagina.match(
+            const twitterPatterns = [
+              /name=["']twitter:image["'][^>]*content=["']([^"']+)["']/i,
               /content=["']([^"']+)["'][^>]*name=["']twitter:image["']/i
-            );
+            ];
 
-            if (m) {
-              const url = absoluto(m[1]);
+            for (const patron of twitterPatterns) {
 
-              if (imagenReal(url)) {
+              const x = pagina.match(patron);
+
+              if (!x) continue;
+
+              const url = absoluto(
+                x[1]
+                  .replace(/&amp;/gi, "&")
+                  .trim()
+              );
+
+              if (esImagenValida(url)) {
                 return url;
               }
             }
-
-            /*
-             * NO BUSCAMOS CUALQUIER IMG SRC.
-             *
-             * Esto evita volver a coger:
-             * - logos
-             * - avatares
-             * - iconos
-             * - pixels
-             */
 
             return "";
           }
 
           /*
-           * ==========================================
-           * EXTRAER LOS ARTÍCULOS
-           * ==========================================
+           * ==================================================
+           * EXTRAER ARTÍCULOS
+           * ==================================================
            */
 
           const noticias = [];
           const vistos = new Set();
 
           const patron =
-            /<a[^>]+href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi;
+            /<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi;
 
           let m;
 
@@ -205,7 +230,7 @@ jobs:
             link = link.split("#")[0];
 
             if (
-              !link.includes(
+              !link.startsWith(
                 "https://www.elmundo.es/blogs/elmundo/clima/"
               )
             ) {
@@ -227,7 +252,9 @@ jobs:
             }
 
             if (
-              titulo.toLowerCase() === "comentarios"
+              titulo
+                .toLowerCase()
+                .trim() === "comentarios"
             ) {
               continue;
             }
@@ -235,21 +262,21 @@ jobs:
             vistos.add(link);
 
             noticias.push({
-              titulo: titulo,
-              link: link
+              titulo,
+              link
             });
           }
 
           if (noticias.length === 0) {
             throw new Error(
-              "No se encontraron artículos."
+              "No se encontraron artículos de El Mundo."
             );
           }
 
           /*
-           * ==========================================
-           * DESCARGAR CADA ARTÍCULO
-           * ==========================================
+           * ==================================================
+           * DESCARGAR CADA ARTÍCULO Y BUSCAR SU PROPIA IMAGEN
+           * ==================================================
            */
 
           const resultado = [];
@@ -259,7 +286,7 @@ jobs:
             const noticia = noticias[i];
 
             const archivo =
-              "articulo-" + i + ".html";
+              `articulo-${i}.html`;
 
             let articulo = "";
 
@@ -295,21 +322,16 @@ jobs:
                 "No se pudo descargar:",
                 noticia.link
               );
-
             }
 
             const imagen =
-              buscarImagen(articulo);
+              extraerImagenArticulo(articulo);
 
             console.log("");
-            console.log(
-              "NOTICIA:",
-              noticia.titulo
-            );
-            console.log(
-              "IMAGEN:",
-              imagen || "NINGUNA"
-            );
+            console.log("NOTICIA:");
+            console.log(noticia.titulo);
+            console.log("IMAGEN:");
+            console.log(imagen || "NINGUNA");
 
             resultado.push({
               titulo: noticia.titulo,
@@ -318,6 +340,12 @@ jobs:
               tipo: imagen ? "imagen" : ""
             });
           }
+
+          /*
+           * ==================================================
+           * GUARDAR JSON
+           * ==================================================
+           */
 
           fs.writeFileSync(
             "noticias-870.json",
@@ -386,11 +414,11 @@ jobs:
             if (
               noticia.imagen &&
               (
-                noticia.imagen.includes("pixel.gif") ||
-                noticia.imagen.includes("contabilizacionaccesos") ||
                 noticia.imagen.includes("/avatars/") ||
                 noticia.imagen.includes("/social/img/") ||
                 noticia.imagen.includes("/iconos/") ||
+                noticia.imagen.includes("pixel") ||
+                noticia.imagen.includes("contabilizacion") ||
                 noticia.imagen.includes("elmundo.png")
               )
             ) {
