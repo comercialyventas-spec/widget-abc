@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: "*/30 * * * *"
 
+permissions:
+  contents: write
+
 jobs:
   actualizar:
     runs-on: ubuntu-latest
@@ -42,11 +45,6 @@ jobs:
 
           const html = fs.readFileSync("pagina.html", "utf8");
 
-
-          // ==============================================
-          // LIMPIAR HTML
-          // ==============================================
-
           function limpiar(texto) {
             return String(texto || "")
               .replace(/<[^>]*>/g, " ")
@@ -61,11 +59,6 @@ jobs:
               .trim();
           }
 
-
-          // ==============================================
-          // EXTRAER IMAGEN
-          // ==============================================
-
           function extraerImagen(bloque) {
 
             let m = bloque.match(
@@ -76,7 +69,6 @@ jobs:
               return m[1];
             }
 
-
             m = bloque.match(
               /<img[^>]+data-src=["']([^"']+)["']/i
             );
@@ -84,7 +76,6 @@ jobs:
             if (m) {
               return m[1];
             }
-
 
             m = bloque.match(
               /<img[^>]+data-lazy-src=["']([^"']+)["']/i
@@ -94,7 +85,6 @@ jobs:
               return m[1];
             }
 
-
             m = bloque.match(
               /<source[^>]+src=["']([^"']+)["']/i
             );
@@ -103,26 +93,16 @@ jobs:
               return m[1];
             }
 
-
             return "";
           }
 
-
-          // ==============================================
-          // EXTRAER NOTICIAS
-          // ==============================================
-
           const noticias = [];
-
           const vistos = new Set();
-
 
           const patron =
             /<a\b[^>]*href=["']([^"']*\/tecnologia\/[^"']*)["'][^>]*>([\s\S]*?)<\/a>/gi;
 
-
           let match;
-
 
           while ((match = patron.exec(html)) !== null) {
 
@@ -130,24 +110,13 @@ jobs:
               break;
             }
 
-
             let link = match[1];
-
-
-            // ==========================================
-            // CONVERTIR ENLACES RELATIVOS
-            // ==========================================
 
             if (link.startsWith("/")) {
               link =
                 "https://www.eldiario.es" +
                 link;
             }
-
-
-            // ==========================================
-            // COMPROBAR QUE SEA TECNOLOGÍA
-            // ==========================================
 
             if (
               !link.startsWith(
@@ -157,22 +126,11 @@ jobs:
               continue;
             }
 
-
-            // ==========================================
-            // EVITAR DUPLICADOS
-            // ==========================================
-
             if (vistos.has(link)) {
               continue;
             }
 
-
             const contenido = match[2];
-
-
-            // ==========================================
-            // EXTRAER TÍTULO
-            // ==========================================
 
             const titulo = limpiar(
               contenido
@@ -194,7 +152,6 @@ jobs:
                 )
             );
 
-
             if (
               !titulo ||
               titulo.length < 20
@@ -202,17 +159,10 @@ jobs:
               continue;
             }
 
-
-            // ==========================================
-            // EXTRAER IMAGEN
-            // ==========================================
-
             const imagen =
               extraerImagen(contenido);
 
-
             vistos.add(link);
-
 
             noticias.push({
               titulo: titulo,
@@ -224,28 +174,15 @@ jobs:
             });
           }
 
-
-          // ==============================================
-          // COMPROBAR RESULTADO
-          // ==============================================
-
           if (noticias.length === 0) {
-
             throw new Error(
               "No se encontraron noticias de tecnología"
             );
-
           }
-
-
-          // ==============================================
-          // CREAR JSON
-          // ==============================================
 
           const resultado = {
             noticias: noticias
           };
-
 
           fs.writeFileSync(
             "noticias-710.json",
@@ -256,7 +193,6 @@ jobs:
             ),
             "utf8"
           );
-
 
           console.log(
             "Generado noticias-710.json con",
@@ -276,7 +212,7 @@ jobs:
 
 
       # ==================================================
-      # 4. VALIDAR JSON
+      # 4. VALIDAR noticias-710.json
       # ==================================================
 
       - name: Validar noticias-710.json
@@ -292,19 +228,15 @@ jobs:
               )
             );
 
-
           if (
             !data.noticias ||
             !Array.isArray(data.noticias) ||
             data.noticias.length === 0
           ) {
-
             throw new Error(
               "noticias-710.json está vacío o es inválido"
             );
-
           }
-
 
           for (
             const noticia
@@ -315,20 +247,15 @@ jobs:
               !noticia.titulo ||
               !noticia.link
             ) {
-
               throw new Error(
                 "Hay una noticia sin título o enlace"
               );
-
             }
-
           }
-
 
           console.log(
             "JSON válido."
           );
-
 
           console.log(
             "Número de noticias:",
@@ -339,7 +266,7 @@ jobs:
 
 
       # ==================================================
-      # 5. GUARDAR noticias-710.json EN GITHUB
+      # 5. GUARDAR noticias-710.json
       # ==================================================
 
       - name: Guardar noticias-710.json
@@ -351,9 +278,7 @@ jobs:
           git config user.email \
             "41898282+github-actions[bot]@users.noreply.github.com"
 
-
           git add noticias-710.json
-
 
           if git diff --cached --quiet; then
 
