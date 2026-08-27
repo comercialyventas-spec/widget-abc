@@ -14,25 +14,28 @@ jobs:
 
     steps:
 
-      # ==================================================
-      # DESCARGAR PÁGINA DE TECNOLOGÍA
-      # ==================================================
+      # ==========================================================
+      # 1. DESCARGAR EL REPOSITORIO
+      # ==========================================================
+
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      # ==========================================================
+      # 2. DESCARGAR LA PORTADA DE TECNOLOGÍA
+      # ==========================================================
 
       - name: Descargar página de tecnología
         run: |
           curl -L --fail \
-            --compressed \
-            -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/131.0 Safari/537.36" \
+            --max-time 30 \
+            -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/131 Safari/537.36" \
             "https://www.eldiario.es/tecnologia/" \
             -o pagina.html
 
-          echo "Página descargada."
-          wc -c pagina.html
-
-
-      # ==================================================
-      # GENERAR JSON
-      # ==================================================
+      # ==========================================================
+      # 3. CREAR noticias-710.json
+      # ==========================================================
 
       - name: Generar noticias-710.json
         run: |
@@ -41,27 +44,17 @@ jobs:
 
           const html = fs.readFileSync("pagina.html", "utf8");
 
-          // --------------------------------------------------
-          // UTILIDADES
-          // --------------------------------------------------
-
           function limpiar(texto) {
             return String(texto || "")
-              .replace(/<script[\s\S]*?<\/script>/gi, " ")
-              .replace(/<style[\s\S]*?<\/style>/gi, " ")
-              .replace(/<svg[\s\S]*?<\/svg>/gi, " ")
               .replace(/<[^>]*>/g, " ")
-              .replace(/&amp;/gi, "&")
-              .replace(/&quot;/gi, '"')
-              .replace(/&#39;/gi, "'")
-              .replace(/&apos;/gi, "'")
-              .replace(/&lt;/gi, "<")
-              .replace(/&gt;/gi, ">")
+              .replace(/&amp;/g, "&")
+              .replace(/&quot;/g, '"')
+              .replace(/&#39;/g, "'")
+              .replace(/&apos;/g, "'")
+              .replace(/&lt;/g, "<")
+              .replace(/&gt;/g, ">")
               .replace(/&#x27;/gi, "'")
               .replace(/&#x2F;/gi, "/")
-              .replace(/&#(\d+);/gi, function(_, n) {
-                return String.fromCharCode(Number(n));
-              })
               .replace(/\s+/g, " ")
               .trim();
           }
@@ -82,332 +75,219 @@ jobs:
             return url;
           }
 
-          function esNoticiaTecnologia(url) {
-            return /^https:\/\/www\.eldiario\.es\/tecnologia\/[^?#]+/i.test(url);
-          }
-
-          function obtenerAtributo(tag, atributo) {
-            const re = new RegExp(
-              atributo + '\\s*=\\s*["\\']([^"\\']+)["\\']',
+          function extraerAtributo(tag, nombre) {
+            const patron = new RegExp(
+              nombre + "\\s*=\\s*[\"']([^\"']+)[\"']",
               "i"
             );
 
-            const m = tag.match(re);
+            const resultado = tag.match(patron);
 
-            return m ? m[1] : "";
+            return resultado ? resultado[1] : "";
           }
 
-          // --------------------------------------------------
-          // EXTRAER IMAGEN DE UN BLOQUE
-          // --------------------------------------------------
-
-          function extraerImagen(bloque) {
-
-            // 1. src
-            let m = bloque.match(
-              /<img\b[^>]*\bsrc\s*=\s*["']([^"']+)["']/i
+          function extraerTitulo(bloque) {
+            let resultado = bloque.match(
+              /<h[1-6][^>]*>([\s\S]*?)<\/h[1-6]>/i
             );
 
-            if (m) {
-              const url = normalizarUrl(m[1]);
+            if (resultado) {
+              const titulo = limpiar(resultado[1]);
 
-              if (url && !url.startsWith("data:")) {
-                return url;
+              if (titulo.length >= 20) {
+                return titulo;
               }
             }
 
-            // 2. data-src
-            m = bloque.match(
-              /<img\b[^>]*\bdata-src\s*=\s*["']([^"']+)["']/i
+            resultado = bloque.match(
+              /<a\b[^>]*>([\s\S]*?)<\/a>/i
             );
 
-            if (m) {
-              const url = normalizarUrl(m[1]);
-
-              if (url && !url.startsWith("data:")) {
-                return url;
-              }
-            }
-
-            // 3. srcset
-            m = bloque.match(
-              /<img\b[^>]*\bsrcset\s*=\s*["']([^"']+)["']/i
-            );
-
-            if (m) {
-              const candidatos = m[1]
-                .split(",")
-                .map(x => x.trim())
-                .filter(Boolean);
-
-              if (candidatos.length) {
-                const ultimo = candidatos[candidatos.length - 1]
-                  .split(/\s+/)[0];
-
-                const url = normalizarUrl(ultimo);
-
-                if (url && !url.startsWith("data:")) {
-                  return url;
-                }
-              }
-            }
-
-            // 4. data-srcset
-            m = bloque.match(
-              /<img\b[^>]*\bdata-srcset\s*=\s*["']([^"']+)["']/i
-            );
-
-            if (m) {
-              const candidatos = m[1]
-                .split(",")
-                .map(x => x.trim())
-                .filter(Boolean);
-
-              if (candidatos.length) {
-                const ultimo = candidatos[candidatos.length - 1]
-                  .split(/\s+/)[0];
-
-                const url = normalizarUrl(ultimo);
-
-                if (url && !url.startsWith("data:")) {
-                  return url;
-                }
-              }
-            }
-
-            // 5. picture/source
-            m = bloque.match(
-              /<source\b[^>]*\bsrcset\s*=\s*["']([^"']+)["']/i
-            );
-
-            if (m) {
-              const candidatos = m[1]
-                .split(",")
-                .map(x => x.trim())
-                .filter(Boolean);
-
-              if (candidatos.length) {
-                const ultimo = candidatos[candidatos.length - 1]
-                  .split(/\s+/)[0];
-
-                const url = normalizarUrl(ultimo);
-
-                if (url && !url.startsWith("data:")) {
-                  return url;
-                }
-              }
-            }
-
-            // 6. Open Graph dentro del bloque
-            m = bloque.match(
-              /<meta\b[^>]*property\s*=\s*["']og:image["'][^>]*content\s*=\s*["']([^"']+)["']/i
-            );
-
-            if (m) {
-              return normalizarUrl(m[1]);
+            if (resultado) {
+              return limpiar(resultado[1]);
             }
 
             return "";
           }
 
-          // --------------------------------------------------
-          // OBTENER TITULO DE UN ENLACE
-          // --------------------------------------------------
+          function buscarImagenEnPagina(texto) {
 
-          function obtenerTituloDesdeEnlace(enlaceCompleto) {
-
-            const contenido = enlaceCompleto
-              .replace(/<img\b[^>]*>/gi, " ")
-              .replace(/<picture[\s\S]*?<\/picture>/gi, " ")
-              .replace(/<svg[\s\S]*?<\/svg>/gi, " ");
-
-            const titulo = limpiar(contenido);
-
-            return titulo;
-          }
-
-          // --------------------------------------------------
-          // BUSCAR BLOQUE PADRE DE UNA NOTICIA
-          // --------------------------------------------------
-
-          function buscarBloqueNoticia(posicionEnlace) {
-
-            /*
-             * Buscamos hacia atrás distintos contenedores habituales
-             * utilizados por eldiario.es.
-             *
-             * No cogemos una imagen global de la página.
-             * La imagen debe encontrarse dentro del bloque de la noticia.
-             */
-
-            const antes = html.slice(
-              Math.max(0, posicionEnlace - 15000),
-              posicionEnlace
+            let resultado = texto.match(
+              /<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["'][^>]*>/i
             );
 
-            const patrones = [
-              /<article\b[^>]*>/gi,
-              /<div\b[^>]*(?:class|data-testid|data-test)[^>]*>/gi,
-              /<li\b[^>]*>/gi
-            ];
-
-            let mejorInicio = -1;
-
-            for (const patron of patrones) {
-
-              let match;
-
-              while ((match = patron.exec(antes)) !== null) {
-                mejorInicio =
-                  Math.max(
-                    mejorInicio,
-                    Math.max(
-                      0,
-                      posicionEnlace - 15000
-                    ) + match.index
-                  );
-              }
+            if (resultado) {
+              return normalizarUrl(resultado[1]);
             }
 
-            if (mejorInicio < 0) {
-              return "";
+            resultado = texto.match(
+              /<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["'][^>]*>/i
+            );
+
+            if (resultado) {
+              return normalizarUrl(resultado[1]);
             }
 
-            const desde =
-              html.slice(mejorInicio, posicionEnlace);
+            resultado = texto.match(
+              /<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["'][^>]*>/i
+            );
 
-            /*
-             * Nos quedamos con un máximo razonable para no saltar
-             * a otra noticia.
-             */
+            if (resultado) {
+              return normalizarUrl(resultado[1]);
+            }
 
-            return desde.slice(-12000);
+            resultado = texto.match(
+              /<meta[^>]+content=["']([^"']+)["'][^>]+name=["']twitter:image["'][^>]*>/i
+            );
+
+            if (resultado) {
+              return normalizarUrl(resultado[1]);
+            }
+
+            return "";
           }
 
-          // --------------------------------------------------
-          // EXTRAER ENLACES
-          // --------------------------------------------------
+          // ======================================================
+          // OBTENER ENLACES DE NOTICIAS
+          // ======================================================
 
           const enlaces = [];
+          const vistos = new Set();
 
           const patronEnlace =
-            /<a\b[^>]*href\s*=\s*["']([^"']+)["'][^>]*>[\s\S]*?<\/a>/gi;
+            /<a\b[^>]*href=["']([^"']*\/tecnologia\/[^"']*)["'][^>]*>([\s\S]*?)<\/a>/gi;
 
-          let match;
+          let coincidencia;
 
-          while ((match = patronEnlace.exec(html)) !== null) {
+          while (
+            (coincidencia = patronEnlace.exec(html)) !== null
+          ) {
 
-            let link =
-              normalizarUrl(match[1]);
+            let link = normalizarUrl(coincidencia[1]);
 
-            if (!esNoticiaTecnologia(link)) {
+            if (
+              !link.startsWith(
+                "https://www.eldiario.es/tecnologia/"
+              )
+            ) {
               continue;
             }
 
-            const bloqueEnlace =
-              match[0];
+            // Evitar enlaces que no son artículos
+            if (
+              link === "https://www.eldiario.es/tecnologia/" ||
+              link.includes("#")
+            ) {
+              continue;
+            }
 
-            const titulo =
-              obtenerTituloDesdeEnlace(
-                bloqueEnlace
-              );
+            const bloque = coincidencia[0];
+
+            const titulo = extraerTitulo(bloque);
 
             if (!titulo || titulo.length < 20) {
               continue;
             }
 
-            enlaces.push({
-              link: link,
-              titulo: titulo,
-              posicion: match.index,
-              bloqueEnlace: bloqueEnlace
-            });
-          }
-
-          console.log(
-            "Enlaces de tecnología encontrados:",
-            enlaces.length
-          );
-
-          // --------------------------------------------------
-          // CONSTRUIR NOTICIAS
-          // --------------------------------------------------
-
-          const noticias = [];
-          const vistos = new Set();
-
-          for (const entrada of enlaces) {
-
-            if (noticias.length >= 6) {
-              break;
-            }
-
-            if (vistos.has(entrada.link)) {
+            if (vistos.has(link)) {
               continue;
             }
 
-            /*
-             * Primero buscamos la imagen dentro del propio enlace.
-             */
-            let imagen =
-              extraerImagen(
-                entrada.bloqueEnlace
+            vistos.add(link);
+
+            enlaces.push({
+              titulo: titulo,
+              link: link
+            });
+
+            if (enlaces.length >= 6) {
+              break;
+            }
+          }
+
+          if (enlaces.length === 0) {
+            throw new Error(
+              "No se encontraron noticias de tecnología"
+            );
+          }
+
+          console.log(
+            "Noticias encontradas:",
+            enlaces.length
+          );
+
+          // ======================================================
+          // ENTRAR EN CADA NOTICIA PARA OBTENER SU IMAGEN REAL
+          // ======================================================
+
+          async function obtenerImagen(noticia) {
+
+            try {
+
+              console.log(
+                "Buscando imagen:",
+                noticia.titulo
               );
 
-            /*
-             * Si no está dentro del enlace,
-             * buscamos en su bloque de noticia.
-             */
-            if (!imagen) {
+              const respuesta = await fetch(
+                noticia.link,
+                {
+                  headers: {
+                    "User-Agent":
+                      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/131 Safari/537.36",
+                    "Accept":
+                      "text/html,application/xhtml+xml"
+                  }
+                }
+              );
 
-              const bloque =
-                buscarBloqueNoticia(
-                  entrada.posicion
+              if (!respuesta.ok) {
+                console.log(
+                  "No se pudo descargar:",
+                  respuesta.status
                 );
 
-              if (bloque) {
-                imagen =
-                  extraerImagen(
-                    bloque
-                  );
+                return "";
               }
-            }
 
-            /*
-             * Solo aceptamos imágenes reales.
-             */
-            if (
-              imagen &&
-              !/^https?:\/\//i.test(imagen)
-            ) {
-              imagen = "";
-            }
+              const pagina =
+                await respuesta.text();
 
-            vistos.add(
-              entrada.link
-            );
+              return buscarImagenEnPagina(pagina);
+
+            } catch (error) {
+
+              console.log(
+                "Error obteniendo imagen:",
+                error.message
+              );
+
+              return "";
+            }
+          }
+
+          // ======================================================
+          // PROCESAR UNA A UNA
+          // ======================================================
+
+          const noticias = [];
+
+          for (const noticia of enlaces) {
+
+            const imagen =
+              await obtenerImagen(noticia);
 
             noticias.push({
-              titulo: entrada.titulo,
-              link: entrada.link,
+              titulo: noticia.titulo,
+              link: noticia.link,
               imagen: imagen,
               tipo: imagen ? "imagen" : ""
             });
           }
 
-          // --------------------------------------------------
-          // COMPROBACIÓN
-          // --------------------------------------------------
-
-          if (noticias.length === 0) {
-            throw new Error(
-              "No se encontraron noticias de tecnología."
-            );
-          }
-
-          // --------------------------------------------------
-          // RESULTADO
-          // --------------------------------------------------
+          // ======================================================
+          // GUARDAR JSON
+          // ======================================================
 
           const resultado = {
             noticias: noticias
@@ -423,76 +303,65 @@ jobs:
             "utf8"
           );
 
-          console.log("");
           console.log(
-            "=========================================="
+            "----------------------------------------"
           );
+
           console.log(
             "noticias-710.json generado correctamente"
           );
+
           console.log(
-            "Noticias:",
+            "Número de noticias:",
             noticias.length
           );
+
           console.log(
-            "=========================================="
+            JSON.stringify(
+              resultado,
+              null,
+              2
+            )
           );
-          console.log("");
-
-          noticias.forEach(function(noticia, i) {
-
-            console.log(
-              (i + 1) +
-              ". " +
-              noticia.titulo
-            );
-
-            console.log(
-              "   LINK:",
-              noticia.link
-            );
-
-            console.log(
-              "   IMAGEN:",
-              noticia.imagen || "SIN IMAGEN"
-            );
-
-            console.log("");
-          });
 
           NODE
 
-
-      # ==================================================
-      # VALIDAR JSON
-      # ==================================================
+      # ==========================================================
+      # 4. VALIDAR JSON
+      # ==========================================================
 
       - name: Validar noticias-710.json
         run: |
           node <<'NODE'
           const fs = require("fs");
 
+          const archivo = "noticias-710.json";
+
+          if (!fs.existsSync(archivo)) {
+            throw new Error(
+              "No existe noticias-710.json"
+            );
+          }
+
           const data = JSON.parse(
             fs.readFileSync(
-              "noticias-710.json",
+              archivo,
               "utf8"
             )
           );
 
           if (
-            !data ||
+            !data.noticias ||
             !Array.isArray(data.noticias)
           ) {
             throw new Error(
-              "El JSON no contiene el array noticias."
+              "El JSON no contiene el array noticias"
             );
           }
 
-          if (
-            data.noticias.length === 0
-          ) {
+          if (data.noticias.length === 0) {
             throw new Error(
-              "El JSON está vacío."
+              "El JSON está vacío"
             );
           }
 
@@ -505,18 +374,7 @@ jobs:
               !noticia.link
             ) {
               throw new Error(
-                "Existe una noticia sin título o enlace."
-              );
-            }
-
-            if (
-              !/^https:\/\/www\.eldiario\.es\/tecnologia\//i.test(
-                noticia.link
-              )
-            ) {
-              throw new Error(
-                "Enlace fuera de tecnología: " +
-                noticia.link
+                "Hay una noticia sin título o enlace"
               );
             }
           }
@@ -526,23 +384,14 @@ jobs:
           );
 
           console.log(
-            "Número de noticias:",
+            "Noticias:",
             data.noticias.length
-          );
-
-          console.log(
-            JSON.stringify(
-              data,
-              null,
-              2
-            )
           );
           NODE
 
-
-      # ==================================================
-      # GUARDAR EN GITHUB
-      # ==================================================
+      # ==========================================================
+      # 5. GUARDAR EN GITHUB
+      # ==========================================================
 
       - name: Guardar noticias-710.json
         run: |
