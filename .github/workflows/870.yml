@@ -13,93 +13,46 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-
       - name: Descargar repositorio
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Descargar página de El Mundo
+      - name: Descargar página
         run: |
           curl -L --fail --max-time 30 \
             -A "Mozilla/5.0" \
-            -H "Accept: text/html,application/xhtml+xml" \
-            -H "Accept-Language: es-ES,es;q=0.9" \
             "https://www.elmundo.es/blogs/elmundo/clima/" \
             -o pagina.html
-
-          echo "Página descargada:"
-          wc -c pagina.html
 
       - name: Generar noticias-870.json
         run: |
           node <<'NODE'
           const fs = require("fs");
-          const cp = require("child_process");
+          const { execFileSync } = require("child_process");
 
-          const portada = fs.readFileSync("pagina.html");
+          const html = fs.readFileSync("pagina.html", "utf8");
 
-          function textoUtf8(buffer) {
-            let s = buffer.toString("utf8");
-
-            /*
-             * Si aparecen caracteres de reemplazo, intentamos
-             * reconstruir el texto desde Windows-1252.
-             */
-            if (s.includes("�")) {
-              try {
-                const decoder = new TextDecoder("windows-1252");
-                const alternativo = decoder.decode(buffer);
-
-                if (
-                  !alternativo.includes("�") &&
-                  alternativo.length > 0
-                ) {
-                  s = alternativo;
-                }
-              } catch (_) {}
-            }
-
-            return s;
-          }
-
-          const html = textoUtf8(portada);
-
-          function decodeHtml(texto) {
-            return String(texto || "")
+          function limpiar(s) {
+            return String(s || "")
+              .replace(/<script[\s\S]*?<\/script>/gi, "")
+              .replace(/<style[\s\S]*?<\/style>/gi, "")
+              .replace(/<[^>]+>/g, " ")
               .replace(/&nbsp;/gi, " ")
               .replace(/&amp;/gi, "&")
               .replace(/&quot;/gi, '"')
               .replace(/&#39;/gi, "'")
-              .replace(/&apos;/gi, "'")
               .replace(/&lt;/gi, "<")
               .replace(/&gt;/gi, ">")
-              .replace(/&#(\d+);/g, (_, n) =>
-                String.fromCharCode(Number(n))
-              )
-              .replace(/&#x([0-9a-f]+);/gi, (_, n) =>
-                String.fromCharCode(parseInt(n, 16))
-              );
-          }
-
-          function limpiar(texto) {
-            return decodeHtml(
-              String(texto || "")
-                .replace(/<script[\s\S]*?<\/script>/gi, " ")
-                .replace(/<style[\s\S]*?<\/style>/gi, " ")
-                .replace(/<svg[\s\S]*?<\/svg>/gi, " ")
-                .replace(/<[^>]+>/g, " ")
-            )
+              .replace(/&#(\d+);/g, function(_, n) {
+                return String.fromCharCode(Number(n));
+              })
               .replace(/\s+/g, " ")
               .trim();
           }
 
           function absoluto(url) {
-            if (!url) return "";
-
-            url = decodeHtml(url)
-              .replace(/\\u0026/g, "&")
-              .trim();
+            url = String(url || "").trim();
 
             if (url.startsWith("//")) {
               return "https:" + url;
@@ -112,237 +65,145 @@ jobs:
             return url;
           }
 
-          function esImagenValida(url) {
+          function imagenValida(url) {
             if (!url) return false;
 
             const u = url.toLowerCase();
 
-            if (
-              u.includes("pixel.gif") ||
-              u.includes("contabilizacionaccesos") ||
-              u.includes("tracking") ||
-              u.includes("tracker") ||
-              u.includes("/pixel") ||
-              u.includes("spacer.gif") ||
-              u.includes("blank.gif") ||
-              u.includes("transparent.gif")
-            ) {
-              return false;
-            }
+            if (u.includes("pixel.gif")) return false;
+            if (u.includes("contabilizacionaccesos")) return false;
+            if (u.includes("tracking")) return false;
+            if (u.includes("tracker")) return false;
+            if (u.includes("spacer")) return false;
+            if (u.includes("transparent")) return false;
 
-            if (
-              u.includes("logo") ||
-              u.includes("icon") ||
-              u.includes("avatar") ||
-              u.includes("sprite")
-            ) {
-              return false;
-            }
-
-            return (
-              /\.(jpg|jpeg|png|webp)(\?|$)/i.test(u)
-            );
+            return /\.(jpg|jpeg|png|webp)(\?|$)/i.test(u);
           }
 
-          function limpiarUrlImagen(url) {
-            if (!url) return "";
-
-            url = absoluto(url);
-
-            /*
-             * Algunas páginas antiguas tienen entidades HTML
-             * dentro de las URL.
-             */
-            url = url
-              .replace(/&amp;/gi, "&")
-              .replace(/\\u0026/g, "&")
-              .trim();
-
-            return esImagenValida(url)
-              ? url
-              : "";
-          }
-
-          function atributo(bloque, nombre) {
-            const patron = new RegExp(
-              nombre + "\\s*=\\s*[\"']([^\"']+)[\"']",
-              "i"
-            );
-
-            const m = bloque.match(patron);
-
-            return m
-              ? limpiarUrlImagen(m[1])
-              : "";
-          }
-
-          /*
-           * Busca imágenes reales dentro de UNA página.
-           * Se da prioridad a las imágenes antiguas de los blogs
-           * de El Mundo.
-           */
           function buscarImagen(pagina) {
 
             let m;
 
             /*
-             * 1. Ruta histórica de imágenes de posts.
+             * Primero buscamos las imágenes antiguas
+             * específicas de los blogs de El Mundo.
              */
             m = pagina.match(
-              /https?:\/\/[^"'<>\\s]+\/imagenes_posts\/[^"'<>\\s]+\.(?:jpg|jpeg|png|webp)(?:\?[^"'<>\\s]*)?/i
+              /https?:\/\/[^"' ]+\/imagenes_posts\/[^"' ]+\.(jpg|jpeg|png|webp)/i
             );
 
-            if (m) {
-              const img = limpiarUrlImagen(m[0]);
-              if (img) return img;
+            if (m && imagenValida(m[0])) {
+              return m[0];
             }
 
             /*
-             * 2. og:image
+             * Después buscamos og:image.
              */
             m = pagina.match(
-              /<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i
+              /property=["']og:image["'][^>]*content=["']([^"']+)["']/i
             );
 
             if (m) {
-              const img = limpiarUrlImagen(m[1]);
-              if (img) return img;
+              const url = absoluto(m[1]);
+
+              if (imagenValida(url)) {
+                return url;
+              }
             }
 
             m = pagina.match(
-              /<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i
+              /content=["']([^"']+)["'][^>]*property=["']og:image["']/i
             );
 
             if (m) {
-              const img = limpiarUrlImagen(m[1]);
-              if (img) return img;
-            }
+              const url = absoluto(m[1]);
 
-            /*
-             * 3. twitter:image
-             */
-            m = pagina.match(
-              /<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i
-            );
-
-            if (m) {
-              const img = limpiarUrlImagen(m[1]);
-              if (img) return img;
-            }
-
-            m = pagina.match(
-              /<meta[^>]+content=["']([^"']+)["'][^>]+name=["']twitter:image["']/i
-            );
-
-            if (m) {
-              const img = limpiarUrlImagen(m[1]);
-              if (img) return img;
-            }
-
-            /*
-             * 4. data-src / data-original / data-lazy-src.
-             */
-            const atributos = [
-              "data-src",
-              "data-original",
-              "data-lazy-src"
-            ];
-
-            for (const nombre of atributos) {
-              const patron =
-                new RegExp(
-                  nombre +
-                  "\\s*=\\s*[\"']([^\"']+)[\"']",
-                  "gi"
-                );
-
-              while ((m = patron.exec(pagina)) !== null) {
-                const img =
-                  limpiarUrlImagen(m[1]);
-
-                if (img) return img;
+              if (imagenValida(url)) {
+                return url;
               }
             }
 
             /*
-             * 5. img src.
+             * Twitter image.
              */
-            const imgs =
-              pagina.match(
-                /<img\b[\s\S]*?>/gi
-              ) || [];
+            m = pagina.match(
+              /name=["']twitter:image["'][^>]*content=["']([^"']+)["']/i
+            );
 
-            for (const bloque of imgs) {
+            if (m) {
+              const url = absoluto(m[1]);
 
-              const img =
-                atributo(bloque, "src");
-
-              if (img) return img;
+              if (imagenValida(url)) {
+                return url;
+              }
             }
 
             /*
-             * 6. Último recurso: URLs de imágenes.
-             * Excluimos completamente tracking/pixel.
+             * data-src.
              */
-            const urls =
-              pagina.match(
-                /https?:\/\/[^"'<>\\s]+?\.(?:jpg|jpeg|png|webp)(?:\?[^"'<>\\s]*)?/gi
-              ) || [];
+            m = pagina.match(
+              /data-src=["']([^"']+)["']/i
+            );
 
-            for (const url of urls) {
+            if (m) {
+              const url = absoluto(m[1]);
 
-              const img =
-                limpiarUrlImagen(url);
+              if (imagenValida(url)) {
+                return url;
+              }
+            }
 
-              if (img) return img;
+            /*
+             * img src.
+             */
+            const imgs = pagina.match(
+              /<img[^>]+src=["']([^"']+)["']/gi
+            ) || [];
+
+            for (const img of imgs) {
+
+              const x = img.match(
+                /src=["']([^"']+)["']/i
+              );
+
+              if (!x) continue;
+
+              const url = absoluto(x[1]);
+
+              if (imagenValida(url)) {
+                return url;
+              }
             }
 
             return "";
           }
 
           /*
-           * ==========================================
-           * EXTRAER ARTÍCULOS
-           * ==========================================
+           * Buscar enlaces de artículos.
            */
-
-          const noticias = [];
+          const enlaces = [];
           const vistos = new Set();
 
           const patron =
-            /<a\b[^>]*href\s*=\s*["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi;
+            /<a[^>]+href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi;
 
           let m;
 
-          while (
-            (m = patron.exec(html)) !== null &&
-            noticias.length < 6
-          ) {
+          while ((m = patron.exec(html)) !== null) {
 
-            let link =
-              absoluto(m[1]);
+            let link = absoluto(m[1]);
 
-            link =
-              link.split("#")[0];
+            link = link.split("#")[0];
 
             if (
               !link.includes(
-                "elmundo.es/blogs/elmundo/clima/"
+                "https://www.elmundo.es/blogs/elmundo/clima/"
               )
             ) {
               continue;
             }
 
-            if (
-              link.endsWith("/clima") ||
-              link.endsWith("/clima/")
-            ) {
-              continue;
-            }
-
-            if (
-              !/\.html(?:\?.*)?$/i.test(link)
-            ) {
+            if (!link.endsWith(".html")) {
               continue;
             }
 
@@ -350,24 +211,13 @@ jobs:
               continue;
             }
 
-            let titulo =
-              limpiar(m[2]);
+            const titulo = limpiar(m[2]);
 
             if (!titulo) {
               continue;
             }
 
-            /*
-             * Eliminar elementos de navegación.
-             */
-            if (
-              /^comentarios$/i.test(titulo) ||
-              /^leer más$/i.test(titulo) ||
-              /^ver más$/i.test(titulo) ||
-              /^compartir$/i.test(titulo) ||
-              /^facebook$/i.test(titulo) ||
-              /^twitter$/i.test(titulo)
-            ) {
+            if (titulo.toLowerCase() === "comentarios") {
               continue;
             }
 
@@ -377,57 +227,38 @@ jobs:
 
             vistos.add(link);
 
-            noticias.push({
-              titulo,
-              link
+            enlaces.push({
+              titulo: titulo,
+              link: link
             });
+
+            if (enlaces.length >= 6) {
+              break;
+            }
           }
 
-          if (noticias.length === 0) {
+          if (enlaces.length === 0) {
             throw new Error(
-              "No se encontraron artículos de tecnología/clima."
+              "No se encontraron artículos."
             );
           }
 
           /*
-           * ==========================================
-           * ABRIR CADA ARTÍCULO
-           * ==========================================
+           * Abrimos cada artículo por separado para obtener
+           * SU propia imagen.
            */
+          const noticias = [];
 
-          const resultado = [];
-
-          for (
-            let i = 0;
-            i < noticias.length;
-            i++
-          ) {
-
-            const noticia =
-              noticias[i];
-
-            console.log("");
-            console.log(
-              "Artículo " +
-              (i + 1) +
-              ": " +
-              noticia.titulo
-            );
-
-            console.log(
-              "URL: " +
-              noticia.link
-            );
+          enlaces.forEach(function(noticia, indice) {
 
             const archivo =
-              "articulo-" +
-              i +
-              ".html";
+              "articulo-" + indice + ".html";
 
             let paginaArticulo = "";
 
             try {
-              cp.execFileSync(
+
+              execFileSync(
                 "curl",
                 [
                   "-L",
@@ -436,10 +267,6 @@ jobs:
                   "30",
                   "-A",
                   "Mozilla/5.0",
-                  "-H",
-                  "Accept: text/html,application/xhtml+xml",
-                  "-H",
-                  "Accept-Language: es-ES,es;q=0.9",
                   noticia.link,
                   "-o",
                   archivo
@@ -449,70 +276,39 @@ jobs:
                 }
               );
 
-              const buffer =
+              paginaArticulo =
                 fs.readFileSync(
-                  archivo
+                  archivo,
+                  "utf8"
                 );
 
-              paginaArticulo =
-                textoUtf8(buffer);
-
-            } catch (error) {
+            } catch (e) {
               console.log(
-                "No se pudo descargar el artículo."
+                "No se pudo descargar:",
+                noticia.link
               );
             }
 
-            let imagen = "";
+            const imagen =
+              buscarImagen(paginaArticulo);
 
-            if (paginaArticulo) {
-              imagen =
-                buscarImagen(
-                  paginaArticulo
-                );
-            }
+            console.log("");
+            console.log(noticia.titulo);
+            console.log("Imagen:", imagen || "NINGUNA");
 
-            /*
-             * Seguridad adicional:
-             * jamás guardar un pixel como imagen.
-             */
-            if (
-              imagen &&
-              !esImagenValida(imagen)
-            ) {
-              imagen = "";
-            }
-
-            console.log(
-              "Imagen encontrada: " +
-              (imagen || "NINGUNA")
-            );
-
-            resultado.push({
-              titulo:
-                noticia.titulo,
-              link:
-                noticia.link,
-              imagen:
-                imagen,
-              tipo:
-                imagen
-                  ? "imagen"
-                  : ""
-            );
-          }
-
-          /*
-           * ==========================================
-           * ESCRIBIR JSON
-           * ==========================================
-           */
+            noticias.push({
+              titulo: noticia.titulo,
+              link: noticia.link,
+              imagen: imagen,
+              tipo: imagen ? "imagen" : ""
+            });
+          });
 
           fs.writeFileSync(
             "noticias-870.json",
             JSON.stringify(
               {
-                noticias: resultado
+                noticias: noticias
               },
               null,
               2
@@ -522,32 +318,23 @@ jobs:
 
           console.log("");
           console.log(
-            "=========================================="
-          );
-          console.log(
-            "noticias-870.json GENERADO"
-          );
-          console.log(
-            "Artículos:",
-            resultado.length
-          );
-          console.log(
-            "=========================================="
+            "OK: noticias-870.json generado con " +
+            noticias.length +
+            " noticias."
           );
           NODE
 
-      - name: Validar noticias-870.json
+      - name: Validar JSON
         run: |
           node <<'NODE'
           const fs = require("fs");
 
-          const data =
-            JSON.parse(
-              fs.readFileSync(
-                "noticias-870.json",
-                "utf8"
-              )
-            );
+          const data = JSON.parse(
+            fs.readFileSync(
+              "noticias-870.json",
+              "utf8"
+            )
+          );
 
           if (
             !data.noticias ||
@@ -555,70 +342,57 @@ jobs:
             data.noticias.length === 0
           ) {
             throw new Error(
-              "noticias-870.json está vacío o es inválido"
+              "JSON vacío o inválido"
             );
           }
-
-          const enlaces = new Set();
 
           for (const noticia of data.noticias) {
 
             if (!noticia.titulo) {
               throw new Error(
-                "Hay una noticia sin título"
+                "Noticia sin título"
               );
             }
 
             if (!noticia.link) {
               throw new Error(
-                "Hay una noticia sin enlace"
+                "Noticia sin enlace"
               );
             }
-
-            if (
-              noticia.titulo
-                .trim()
-                .toLowerCase() === "comentarios"
-            ) {
-              throw new Error(
-                "Se ha detectado 'comentarios' como noticia."
-              );
-            }
-
-            if (
-              enlaces.has(noticia.link)
-            ) {
-              throw new Error(
-                "Hay enlaces duplicados."
-              );
-            }
-
-            enlaces.add(noticia.link);
 
             if (
               noticia.imagen &&
-              (
-                noticia.imagen
-                  .toLowerCase()
-                  .includes("pixel.gif") ||
-                noticia.imagen
-                  .toLowerCase()
-                  .includes("contabilizacionaccesos")
+              noticia.imagen.includes(
+                "pixel.gif"
               )
             ) {
               throw new Error(
-                "Se ha detectado una imagen de tracking."
+                "Se ha detectado pixel.gif"
+              );
+            }
+
+            if (
+              noticia.imagen &&
+              noticia.imagen.includes(
+                "contabilizacionaccesos"
+              )
+            ) {
+              throw new Error(
+                "Se ha detectado una imagen de tracking"
               );
             }
           }
 
           console.log(
-            "JSON 870 válido."
+            "JSON válido."
           );
 
           console.log(
-            "Noticias:",
-            data.noticias.length
+            JSON.stringify(
+              data,
+              null,
+              2
+            )
           );
           NODE
 
@@ -630,7 +404,7 @@ jobs:
           git add noticias-870.json
 
           if git diff --cached --quiet; then
-            echo "No hay cambios nuevos."
+            echo "No hay cambios."
           else
             git commit -m "Actualizar noticias-870"
             git push
