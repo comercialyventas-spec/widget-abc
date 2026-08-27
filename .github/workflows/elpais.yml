@@ -23,23 +23,50 @@ jobs:
           https.get("https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada", (res) => {
               let data = "";
               res.on("data", (chunk) => data += chunk);
+
               res.on("end", () => {
                   const items = data.split("<item>").slice(1);
                   let noticias = [];
 
                   items.forEach(item => {
-                      let titleMatch = item.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>|<title>(.*?)<\/title>/);
-                      let linkMatch = item.match(/<link>(.*?)<\/link>/);
 
-                      let title = titleMatch ? (titleMatch[1] || titleMatch[2]) : "";
-                      let link = linkMatch ? linkMatch[1].trim() : "";
+                      let titleMatch =
+                          item.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>|<title>(.*?)<\/title>/);
+
+                      let linkMatch =
+                          item.match(/<link>(.*?)<\/link>/);
+
+                      let title =
+                          titleMatch ? (titleMatch[1] || titleMatch[2]) : "";
+
+                      let link =
+                          linkMatch ? linkMatch[1].trim() : "";
+
+                      /*
+                       * Buscar imagen en diferentes formatos
+                       * que puede utilizar El País.
+                       */
 
                       let imgMatch =
-                          item.match(/<media:content[^>]+url="(https?:\/\/[^"]+\.(jpg|jpeg|png|webp))[^"]*"/i) ||
-                          item.match(/<enclosure[^>]+url="(https?:\/\/[^"]+\.(jpg|jpeg|png|webp))[^"]*"/i) ||
-                          item.match(/src="(https?:\/\/[^"]+\.(jpg|jpeg|png|webp))[^"]*"/i);
+                          item.match(/<media:content[^>]+url=["'\''"](https?:\/\/[^"'\''"]+)["'\''"]/i) ||
+                          item.match(/<media:thumbnail[^>]+url=["'\''"](https?:\/\/[^"'\''"]+)["'\''"]/i) ||
+                          item.match(/<enclosure[^>]+url=["'\''"](https?:\/\/[^"'\''"]+)["'\''"]/i) ||
+                          item.match(/<image[^>]+href=["'\''"](https?:\/\/[^"'\''"]+)["'\''"]/i) ||
+                          item.match(/src=["'\''"](https?:\/\/[^"'\''"]+)["'\''"]/i);
 
-                      let imagen = imgMatch ? imgMatch[1] : "";
+                      let imagen =
+                          imgMatch ? imgMatch[1] : "";
+
+                      /*
+                       * Si la imagen lleva parámetros o no tiene
+                       * extensión visible, también la aceptamos.
+                       */
+
+                      if (imagen) {
+                          imagen = imagen
+                              .replace(/&amp;/g, "&")
+                              .trim();
+                      }
 
                       if (title && link) {
                           noticias.push({
@@ -52,11 +79,21 @@ jobs:
 
                   require("fs").writeFileSync(
                       "noticias-1351.json",
-                      JSON.stringify({ noticias: noticias.slice(0, 6) }, null, 2)
+                      JSON.stringify(
+                          { noticias: noticias.slice(0, 6) },
+                          null,
+                          2
+                      )
                   );
 
                   console.log("JSON de El Pais actualizado.");
+                  console.log(JSON.stringify(
+                      { noticias: noticias.slice(0, 6) },
+                      null,
+                      2
+                  ));
               });
+
           }).on("error", (err) => {
               console.error(err);
               process.exit(1);
