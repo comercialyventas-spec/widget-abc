@@ -1,0 +1,232 @@
+name: Actualizar noticias-870
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # ============================================================
+      # 1. DESCARGAR EL REPOSITORIO
+      # ============================================================
+
+      - name: Checkout del repositorio
+        uses: actions/checkout@v4
+
+
+      # ============================================================
+      # 2. DESCARGAR EL RSS DE CLIMA
+      # ============================================================
+
+      - name: Descargar RSS de clima
+        run: |
+          curl -L --fail \
+            --retry 3 \
+            --retry-delay 2 \
+            -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/139 Safari/537.36" \
+            "https://e00-elmundo.uecdn.es/blogs/elmundo/clima/index.xml" \
+            -o feed.xml
+
+          echo "RSS descargado correctamente."
+          wc -c feed.xml
+
+
+      # ============================================================
+      # 3. GENERAR noticias-870.json
+      # ============================================================
+
+      - name: Generar noticias-870.json
+        run: |
+          node <<'NODE'
+          const fs = require("fs");
+
+          (async function () {
+
+            const xml = fs.readFileSync("feed.xml", "utf8");
+
+            function decodeHtml(text) {
+              return String(text || "")
+                .replace(/&amp;/gi, "&")
+                .replace(/&quot;/gi, '"')
+                .replace(/&#39;/gi, "'")
+                .replace(/&apos;/gi, "'")
+                .replace(/&lt;/gi, "<")
+                .replace(/&gt;/gi, ">")
+                .replace(/&#x27;/gi, "'")
+                .replace(/&#x2F;/gi, "/")
+                .replace(/&#(\d+);/g, function (_, n) {
+                  return String.fromCharCode(Number(n));
+                });
+            }
+
+            function limpiar(texto) {
+              return decodeHtml(
+                String(texto || "")
+                  .replace(/<!\[CDATA\[/g, "")
+                  .replace(/\]\]>/g, "")
+                  .replace(/<[^>]+>/g, " ")
+              ).replace(/\s+/g, " ").trim();
+            }
+
+            // Extrae el contenido de una etiqueta simple dentro de un bloque <item>...</item>
+            function extraerTag(bloque, tag) {
+              const regex = new RegExp("<" + tag + "[^>]*>([\\s\\S]*?)<\\/" + tag + ">", "i");
+              const m = bloque.match(regex);
+              return m ? m[1] : "";
+            }
+
+            function extraerAtributo(bloque, tag, atributo) {
+              const regex = new RegExp("<" + tag + "[^>]*\\b" + atributo + "\\s*=\\s*(['\"])(.*?)\\1[^>]*\\/?>", "i");
+              const m = bloque.match(regex);
+              return m ? m[2] : "";
+            }
+
+            // ======================================================
+            // SEPARAR ITEMS
+            // ======================================================
+
+            const itemsRaw = xml.match(/<item\b[\s\S]*?<\/item>/gi) || [];
+
+            if (itemsRaw.length === 0) {
+              throw new Error("No se encontraron <item> en el RSS.");
+            }
+
+            console.log("Items encontrados en el RSS:", itemsRaw.length);
+
+            // ======================================================
+            // PROCESAR CADA ITEM
+            // ======================================================
+
+            const noticias = [];
+
+            for (const bloque of itemsRaw.slice(0, 6)) {
+
+              const tituloRaw = extraerTag(bloque, "title");
+              const titulo = limpiar(tituloRaw);
+
+              let link = extraerTag(bloque, "link").trim();
+              link = decodeHtml(link).split("#")[0].split("?")[0];
+
+              if (!titulo || !link) continue;
+
+              // Imagen: probamos varias fuentes habituales en RSS, en orden de fiabilidad
+              let imagen = "";
+
+              // 1) <enclosure url="..." type="image/...">
+              const enclosureUrl = extraerAtributo(bloque, "enclosure", "url");
+              const enclosureType = extraerAtributo(bloque, "enclosure", "type");
+              if (enclosureUrl && (!enclosureType || /image/i.test(enclosureType))) {
+                imagen = enclosureUrl;
+              }
+
+              // 2) <media:content url="...">
+              if (!imagen) {
+                const mediaContent = extraerAtributo(bloque, "media:content", "url");
+                if (mediaContent) imagen = mediaContent;
+              }
+
+              // 3) <media:thumbnail url="...">
+              if (!imagen) {
+                const mediaThumb = extraerAtributo(bloque, "media:thumbnail", "url");
+                if (mediaThumb) imagen = mediaThumb;
+              }
+
+              // 4) Buscar <img src="..."> dentro de content:encoded o description
+              if (!imagen) {
+                const contentEncoded = extraerTag(bloque, "content:encoded") || extraerTag(bloque, "description");
+                const imgMatch = contentEncoded.match(/src=["']([^"']+\.(?:jpg|jpeg|png|webp))[^"']*["']/i);
+                if (imgMatch) imagen = imgMatch[1];
+              }
+
+              imagen = decodeHtml(imagen);
+
+              noticias.push({
+                titulo: titulo,
+                link: link,
+                imagen: imagen,
+                tipo: imagen ? "imagen" : ""
+              });
+            }
+
+            if (noticias.length === 0) {
+              throw new Error("No se pudieron generar noticias desde el RSS.");
+            }
+
+            const resultado = { noticias: noticias };
+
+            fs.writeFileSync("noticias-870.json", JSON.stringify(resultado, null, 2), "utf8");
+
+            console.log("========================================");
+            console.log("noticias-870.json generado.");
+            console.log("Noticias:", noticias.length);
+            console.log("Con imagen:", noticias.filter(function (n) { return !!n.imagen; }).length);
+            console.log("========================================");
+            console.log(JSON.stringify(resultado, null, 2));
+
+          })().catch(function (error) {
+            console.error("ERROR:", error);
+            process.exit(1);
+          });
+
+          NODE
+
+
+      # ============================================================
+      # 4. VALIDAR JSON
+      # ============================================================
+
+      - name: Validar noticias-870.json
+        run: |
+          node <<'NODE'
+          const fs = require("fs");
+
+          const archivo = "noticias-870.json";
+
+          if (!fs.existsSync(archivo)) {
+            throw new Error("No existe noticias-870.json");
+          }
+
+          const data = JSON.parse(fs.readFileSync(archivo, "utf8"));
+
+          if (!data || !Array.isArray(data.noticias) || data.noticias.length === 0) {
+            throw new Error("noticias-870.json es inválido o está vacío");
+          }
+
+          for (const noticia of data.noticias) {
+            if (!noticia.titulo || !noticia.link) {
+              throw new Error("Hay una noticia sin título o enlace");
+            }
+          }
+
+          console.log("JSON válido.");
+          console.log("Noticias:", data.noticias.length);
+          console.log("Noticias con imagen:", data.noticias.filter(function (n) { return !!n.imagen; }).length);
+
+          NODE
+
+
+      # ============================================================
+      # 5. GUARDAR EN GITHUB
+      # ============================================================
+
+      - name: Guardar noticias-870.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add noticias-870.json
+
+          if git diff --cached --quiet; then
+            echo "No hay cambios nuevos."
+          else
+            git commit -m "Actualizar noticias-870"
+            git push
+          fi
