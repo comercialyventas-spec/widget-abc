@@ -18,13 +18,12 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Descargar página de El Mundo
+      - name: Descargar RSS de El Mundo
         run: |
           curl -L --fail --max-time 30 \
-            -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/131.0 Safari/537.36" \
-            -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8" \
-            "https://www.elmundo.es/blogs/elmundo/clima/" \
-            -o pagina.html
+            -A "Mozilla/5.0" \
+            "https://e01-elmundo.uecdn.es/blogs/elmundo/clima/index.xml" \
+            -o feed.xml
 
       - name: Generar noticias-870.json
         run: |
@@ -32,28 +31,14 @@ jobs:
           const fs = require("fs");
           const { execFileSync } = require("child_process");
 
-          function leerHtml(archivo) {
-            const buffer = fs.readFileSync(archivo);
-
-            let texto = buffer.toString("utf8");
-
-            if (texto.includes("�")) {
-              const latin = buffer.toString("latin1");
-
-              if (!latin.includes("�")) {
-                texto = latin;
-              }
-            }
-
-            return texto;
-          }
+          const feed = fs.readFileSync("feed.xml", "utf8");
 
           function limpiar(texto) {
             return String(texto || "")
+              .replace(/<!\[CDATA\[/gi, "")
+              .replace(/\]\]>/gi, "")
               .replace(/<script[\s\S]*?<\/script>/gi, " ")
               .replace(/<style[\s\S]*?<\/style>/gi, " ")
-              .replace(/<noscript[\s\S]*?<\/noscript>/gi, " ")
-              .replace(/<svg[\s\S]*?<\/svg>/gi, " ")
               .replace(/<[^>]+>/g, " ")
               .replace(/&nbsp;/gi, " ")
               .replace(/&amp;/gi, "&")
@@ -119,15 +104,15 @@ jobs:
               "tracker",
               "spacer",
               "transparent",
-              "favicon",
-              "/iconos/",
-              "/icon/",
+              "/perfiles/fotos/",
               "/avatars/",
               "/social/",
+              "/iconos/",
+              "/icon/",
               "elmundo.png",
-              "logo",
+              "favicon",
               "sprite",
-              "default-avatar",
+              "logo",
               "comments_default"
             ];
 
@@ -140,274 +125,69 @@ jobs:
             return true;
           }
 
-          function normalizarImagen(url) {
+          function imagenValida(url) {
             const u = absoluto(url);
 
             if (!u) return "";
 
-            if (!esImagenValida(u)) {
-              return "";
-            }
-
-            return u;
+            return esImagenValida(u) ? u : "";
           }
 
           /*
-           * Busca una imagen de artículo.
-           *
-           * PRIORIDAD:
-           * 1. imagenes_posts
-           * 2. imágenes asociadas a metadatos de la página
-           * 3. imágenes de contenido del artículo
-           *
-           * Nunca acepta logos, avatares, pixels, etc.
+           * Extrae el contenido de una etiqueta XML.
            */
-          function buscarImagen(html) {
-
-            if (!html) return "";
-
-            const candidatos = [];
-
-            function añadir(url, prioridad) {
-              const imagen = normalizarImagen(url);
-
-              if (!imagen) return;
-
-              candidatos.push({
-                url: imagen,
-                prioridad
-              });
-            }
-
-            /*
-             * ==================================================
-             * 1. SISTEMA ANTIGUO DE EL MUNDO
-             * ==================================================
-             */
-
-            let m;
-
-            const patronPosts =
-              /(?:https?:)?\/\/[^"'<>\\s]+\/blogs\/elmundo\/clima\/imagenes_posts\/[^"'<>\\s]+?\.(?:jpg|jpeg|png|webp)(?:[?#][^"'<>\\s]*)?/gi;
-
-            while ((m = patronPosts.exec(html)) !== null) {
-              añadir(m[0], 1000);
-            }
-
-            const patronPostsRelativo =
-              /\/blogs\/elmundo\/clima\/imagenes_posts\/[^"'<>\\s]+?\.(?:jpg|jpeg|png|webp)(?:[?#][^"'<>\\s]*)?/gi;
-
-            while ((m = patronPostsRelativo.exec(html)) !== null) {
-              añadir(m[0], 1000);
-            }
-
-            /*
-             * ==================================================
-             * 2. METADATOS og:image
-             * ==================================================
-             */
-
-            const og1 =
-              /<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["'][^>]*>/gi;
-
-            while ((m = og1.exec(html)) !== null) {
-              añadir(m[1], 900);
-            }
-
-            const og2 =
-              /<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["'][^>]*>/gi;
-
-            while ((m = og2.exec(html)) !== null) {
-              añadir(m[1], 900);
-            }
-
-            /*
-             * ==================================================
-             * 3. twitter:image
-             * ==================================================
-             */
-
-            const tw1 =
-              /<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["'][^>]*>/gi;
-
-            while ((m = tw1.exec(html)) !== null) {
-              añadir(m[1], 850);
-            }
-
-            const tw2 =
-              /<meta[^>]+content=["']([^"']+)["'][^>]+name=["']twitter:image["'][^>]*>/gi;
-
-            while ((m = tw2.exec(html)) !== null) {
-              añadir(m[1], 850);
-            }
-
-            /*
-             * ==================================================
-             * 4. JSON / DATOS EMBEBIDOS
-             *
-             * Buscamos URLs de imágenes dentro del HTML.
-             * ==================================================
-             */
-
-            const urlsGenerales =
-              /https?:\\?\/\\?\/[^"'<>\\s\\]+?\.(?:jpg|jpeg|png|webp)(?:\\?[^"'<>\\s\\]*)?/gi;
-
-            while ((m = urlsGenerales.exec(html)) !== null) {
-              añadir(m[0], 700);
-            }
-
-            /*
-             * ==================================================
-             * 5. SRC / DATA-SRC / SRCSET
-             * ==================================================
-             */
-
-            const atributos = [
-              /(?:src|data-src|data-original|data-lazy-src)=["']([^"']+)["']/gi,
-              /(?:srcset|data-srcset)=["']([^"']+)["']/gi
-            ];
-
-            for (const patron of atributos) {
-
-              while ((m = patron.exec(html)) !== null) {
-
-                const valor = m[1];
-
-                /*
-                 * srcset puede contener:
-                 *
-                 * imagen.jpg 540w,
-                 * imagen.jpg 635w
-                 */
-                const partes =
-                  valor.split(",").map(x =>
-                    x.trim().split(/\s+/)[0]
-                  );
-
-                for (const parte of partes) {
-                  añadir(parte, 600);
-                }
-              }
-            }
-
-            /*
-             * ==================================================
-             * ELIMINAR DUPLICADOS
-             * ==================================================
-             */
-
-            const mapa = new Map();
-
-            for (const candidato of candidatos) {
-
-              const anterior =
-                mapa.get(candidato.url);
-
-              if (
-                !anterior ||
-                candidato.prioridad > anterior.prioridad
-              ) {
-                mapa.set(
-                  candidato.url,
-                  candidato
-                );
-              }
-            }
-
-            const lista =
-              [...mapa.values()];
-
-            /*
-             * ==================================================
-             * PUNTUACIÓN FINAL
-             *
-             * Preferimos imágenes del blog antiguo.
-             * ==================================================
-             */
-
-            function puntuacion(candidato) {
-
-              const u =
-                candidato.url.toLowerCase();
-
-              let puntos =
-                candidato.prioridad;
-
-              if (
-                u.includes(
-                  "/blogs/elmundo/clima/imagenes_posts/"
-                )
-              ) {
-                puntos += 500;
-              }
-
-              if (/635x/i.test(u)) {
-                puntos += 50;
-              }
-
-              if (/640x/i.test(u)) {
-                puntos += 50;
-              }
-
-              if (/540x/i.test(u)) {
-                puntos += 40;
-              }
-
-              if (/1200x/i.test(u)) {
-                puntos += 30;
-              }
-
-              /*
-               * Penalizar imágenes claramente pequeñas.
-               */
-
-              if (
-                /(?:16x16|32x32|48x48|64x64|75x75)/i.test(u)
-              ) {
-                puntos -= 300;
-              }
-
-              return puntos;
-            }
-
-            lista.sort(
-              (a, b) =>
-                puntuacion(b) -
-                puntuacion(a)
+          function campo(bloque, nombre) {
+            const patron = new RegExp(
+              "<" + nombre + "(?:\\\\s[^>]*)?>([\\\\s\\\\S]*?)</" + nombre + ">",
+              "i"
             );
 
-            return lista.length
-              ? lista[0].url
-              : "";
+            const m = bloque.match(patron);
+
+            if (!m) return "";
+
+            return limpiar(m[1]);
           }
 
           /*
            * =====================================================
-           * EXTRAER ARTÍCULOS
+           * EXTRAER ITEMS DEL RSS
            * =====================================================
            */
 
-          const html =
-            leerHtml("pagina.html");
+          const items =
+            feed.match(/<item\b[\s\S]*?<\/item>/gi) || [];
 
           const noticias = [];
           const vistos = new Set();
 
-          const patronEnlace =
-            /<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi;
+          for (const item of items) {
 
-          let m;
+            if (noticias.length >= 6) {
+              break;
+            }
 
-          while (
-            (m = patronEnlace.exec(html)) !== null &&
-            noticias.length < 6
-          ) {
+            const titulo =
+              campo(item, "title");
 
             let link =
-              absoluto(m[1]);
+              campo(item, "link");
+
+            /*
+             * Algunos RSS usan guid o CDATA.
+             */
+            if (!link) {
+              link = campo(item, "guid");
+            }
+
+            link =
+              absoluto(link);
 
             link =
               link.split("#")[0];
+
+            if (!titulo) continue;
+            if (!link) continue;
 
             if (
               !link.startsWith(
@@ -425,45 +205,62 @@ jobs:
               continue;
             }
 
-            const titulo =
-              limpiar(m[2]);
+            /*
+             * El RSS puede contener imagen.
+             * La buscamos solamente si parece pertenecer
+             * realmente al artículo.
+             */
+            let imagen = "";
 
-            if (!titulo || titulo.length < 15) {
-              continue;
+            const media =
+              item.match(
+                /<(?:media:content|media:thumbnail)[^>]+url=["']([^"']+)["'][^>]*>/i
+              );
+
+            if (media) {
+              imagen =
+                imagenValida(media[1]);
             }
 
-            if (
-              /^comentarios$/i.test(titulo)
-            ) {
-              continue;
-            }
+            /*
+             * También buscamos enclosure.
+             */
+            if (!imagen) {
 
-            if (
-              titulo.toLowerCase().includes(
-                "comentarios"
-              ) &&
-              titulo.length < 30
-            ) {
-              continue;
+              const enclosure =
+                item.match(
+                  /<enclosure[^>]+url=["']([^"']+)["'][^>]*>/i
+                );
+
+              if (enclosure) {
+                imagen =
+                  imagenValida(enclosure[1]);
+              }
             }
 
             vistos.add(link);
 
             noticias.push({
               titulo,
-              link
+              link,
+              imagen
             });
           }
 
           if (noticias.length === 0) {
             throw new Error(
-              "No se encontraron artículos de El Mundo."
+              "El RSS no contiene artículos válidos."
             );
           }
 
+          console.log(
+            "Artículos encontrados en RSS:",
+            noticias.length
+          );
+
           /*
            * =====================================================
-           * DESCARGAR CADA ARTÍCULO
+           * DESCARGAR CADA ARTÍCULO PARA BUSCAR SU FOTO
            * =====================================================
            */
 
@@ -479,7 +276,7 @@ jobs:
               noticias[i];
 
             const archivo =
-              `articulo-${i}.html`;
+              "articulo-" + i + ".html";
 
             let articulo = "";
 
@@ -493,9 +290,7 @@ jobs:
                   "--max-time",
                   "30",
                   "-A",
-                  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/131.0 Safari/537.36",
-                  "-H",
-                  "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+                  "Mozilla/5.0",
                   noticia.link,
                   "-o",
                   archivo
@@ -506,7 +301,10 @@ jobs:
               );
 
               articulo =
-                leerHtml(archivo);
+                fs.readFileSync(
+                  archivo,
+                  "utf8"
+                );
 
             } catch (error) {
 
@@ -516,8 +314,93 @@ jobs:
               );
             }
 
-            const imagen =
-              buscarImagen(articulo);
+            let imagen =
+              noticia.imagen || "";
+
+            /*
+             * ==================================================
+             * PRIMERA PRIORIDAD:
+             * imagenes_posts
+             * ==================================================
+             */
+
+            const posts =
+              articulo.match(
+                /(?:https?:)?\/\/[^"'<>\\s]+\/blogs\/elmundo\/clima\/imagenes_posts\/[^"'<>\\s]+?\.(?:jpg|jpeg|png|webp)(?:[?#][^"'<>\\s]*)?/gi
+              ) || [];
+
+            for (const url of posts) {
+
+              const candidata =
+                imagenValida(url);
+
+              if (candidata) {
+                imagen = candidata;
+                break;
+              }
+            }
+
+            /*
+             * ==================================================
+             * SEGUNDA PRIORIDAD:
+             * og:image
+             * ==================================================
+             *
+             * Solo se utiliza si NO hemos encontrado
+             * imagenes_posts.
+             */
+
+            if (!imagen) {
+
+              const og =
+                articulo.match(
+                  /<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["'][^>]*>/i
+                );
+
+              if (og) {
+                imagen =
+                  imagenValida(og[1]);
+              }
+            }
+
+            if (!imagen) {
+
+              const og =
+                articulo.match(
+                  /<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["'][^>]*>/i
+                );
+
+              if (og) {
+                imagen =
+                  imagenValida(og[1]);
+              }
+            }
+
+            /*
+             * ==================================================
+             * TERCERA PRIORIDAD:
+             * twitter:image
+             * ==================================================
+             */
+
+            if (!imagen) {
+
+              const twitter =
+                articulo.match(
+                  /<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["'][^>]*>/i
+                );
+
+              if (twitter) {
+                imagen =
+                  imagenValida(twitter[1]);
+              }
+            }
+
+            /*
+             * ==================================================
+             * RESULTADO
+             * ==================================================
+             */
 
             console.log("");
             console.log(
@@ -539,9 +422,7 @@ jobs:
               titulo: noticia.titulo,
               link: noticia.link,
               imagen: imagen,
-              tipo: imagen
-                ? "imagen"
-                : ""
+              tipo: imagen ? "imagen" : ""
             });
           }
 
@@ -565,17 +446,7 @@ jobs:
 
           console.log("");
           console.log(
-            "========================================"
-          );
-          console.log(
-            "noticias-870.json generado correctamente"
-          );
-          console.log(
-            "Noticias:",
-            resultado.length
-          );
-          console.log(
-            "========================================"
+            "OK: noticias-870.json generado."
           );
           NODE
 
@@ -634,6 +505,7 @@ jobs:
               const prohibidas = [
                 "pixel.gif",
                 "contabilizacionaccesos",
+                "/perfiles/fotos/",
                 "/avatars/",
                 "/social/",
                 "/iconos/",
@@ -667,7 +539,7 @@ jobs:
           );
 
           console.log(
-            "Imágenes:",
+            "Con imagen:",
             data.noticias.filter(
               n => n.imagen
             ).length
