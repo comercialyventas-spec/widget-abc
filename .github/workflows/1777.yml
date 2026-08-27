@@ -1,0 +1,386 @@
+name: Actualizar Noticias El Periodico
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Descargar y convertir RSS a JSON
+        run: |
+          node <<'NODE'
+          const https = require("https");
+          const fs = require("fs");
+
+          const RSS_URL =
+            "https://www.elperiodico.com/es/cds/rss/?id=board.xml";
+
+          function descargar(url) {
+            return new Promise((resolve, reject) => {
+
+              https.get(url, {
+                headers: {
+                  "User-Agent": "Mozilla/5.0"
+                }
+              }, res => {
+
+                let data = "";
+
+                res.on("data", chunk => {
+                  data += chunk;
+                });
+
+                res.on("end", () => {
+
+                  if (res.statusCode < 200 || res.statusCode >= 300) {
+                    reject(
+                      new Error("HTTP " + res.statusCode)
+                    );
+                    return;
+                  }
+
+                  resolve(data);
+                });
+
+              }).on("error", reject);
+            });
+          }
+
+          function limpiarHtml(texto) {
+            return String(texto || "")
+              .replace(/<!\[CDATA\[/g, "")
+              .replace(/\]\]>/g, "")
+              .replace(/<[^>]*>/g, "")
+              .replace(/&amp;/g, "&")
+              .replace(/&quot;/g, '"')
+              .replace(/&#39;/g, "'")
+              .replace(/&lt;/g, "<")
+              .replace(/&gt;/g, ">")
+              .trim();
+          }
+
+          function extraer(texto, etiqueta) {
+
+            const regex = new RegExp(
+              "<" + etiqueta + "[^>]*>([\\s\\S]*?)<\\/" + etiqueta + ">",
+              "i"
+            );
+
+            const match = texto.match(regex);
+
+            return match ? match[1].trim() : "";
+          }
+
+          function extraerAtributo(texto, etiqueta, atributo) {
+
+            const regex = new RegExp(
+              "<" +
+              etiqueta +
+              "[^>]*\\s" +
+              atributo +
+              "=[\"']([^\"']+)[\"'][^>]*>",
+              "i"
+            );
+
+            const match = texto.match(regex);
+
+            return match ? match[1].trim() : "";
+          }
+
+          function buscarMultimedia(item) {
+
+            // ==========================================
+            // 1. MEDIA:CONTENT
+            // ==========================================
+
+            let mediaContent =
+              item.match(
+                /<media:content[^>]+>/i
+              );
+
+            if (mediaContent) {
+
+              const tag = mediaContent[0];
+
+              const url =
+                extraerAtributo(
+                  tag,
+                  "media:content",
+                  "url"
+                );
+
+              const type =
+                extraerAtributo(
+                  tag,
+                  "media:content",
+                  "type"
+                );
+
+              if (url) {
+
+                return {
+                  url: url,
+                  tipo:
+                    type &&
+                    type.toLowerCase().includes("video")
+                      ? "video"
+                      : (
+                          /\.(mp4|webm|ogg)(\?|$)/i.test(url)
+                            ? "video"
+                            : "imagen"
+                        )
+                };
+              }
+            }
+
+
+            // ==========================================
+            // 2. MEDIA:THUMBNAIL
+            // ==========================================
+
+            const thumbnail =
+              item.match(
+                /<media:thumbnail[^>]+url=["']([^"']+)["']/i
+              );
+
+            if (thumbnail) {
+
+              return {
+                url: thumbnail[1],
+                tipo: "imagen"
+              };
+            }
+
+
+            // ==========================================
+            // 3. ENCLOSURE
+            // ==========================================
+
+            const enclosure =
+              item.match(
+                /<enclosure[^>]+url=["']([^"']+)["'][^>]*>/i
+              );
+
+            if (enclosure) {
+
+              const url = enclosure[1];
+
+              return {
+                url: url,
+                tipo:
+                  /\.(mp4|webm|ogg)(\?|$)/i.test(url)
+                    ? "video"
+                    : "imagen"
+              };
+            }
+
+
+            // ==========================================
+            // 4. IMAGEN DENTRO DEL CONTENIDO
+            // ==========================================
+
+            const contenido =
+              extraer(item, "content:encoded") ||
+              extraer(item, "description");
+
+            const imagen =
+              contenido.match(
+                /(?:src|href)=["'](https?:\/\/[^"']+\.(?:jpg|jpeg|png|webp)(?:\?[^"']*)?)["']/i
+              );
+
+            if (imagen) {
+
+              return {
+                url: imagen[1],
+                tipo: "imagen"
+              };
+            }
+
+
+            // ==========================================
+            // 5. VIDEO DENTRO DEL CONTENIDO
+            // ==========================================
+
+            const video =
+              contenido.match(
+                /(?:src|href)=["'](https?:\/\/[^"']+\.(?:mp4|webm|ogg)(?:\?[^"']*)?)["']/i
+              );
+
+            if (video) {
+
+              return {
+                url: video[1],
+                tipo: "video"
+              };
+            }
+
+
+            return {
+              url: "",
+              tipo: ""
+            };
+          }
+
+
+          async function main() {
+
+            console.log(
+              "Descargando RSS de El Periódico..."
+            );
+
+            const rss =
+              await descargar(RSS_URL);
+
+
+            // ==========================================
+            // SEPARAR NOTICIAS
+            // ==========================================
+
+            const items =
+              rss
+                .split(/<item\b/i)
+                .slice(1)
+                .map(x => "<item" + x)
+                .filter(x => /<\/item>/i.test(x));
+
+
+            console.log(
+              "Noticias encontradas:",
+              items.length
+            );
+
+
+            const noticias = [];
+
+
+            for (const item of items) {
+
+              if (noticias.length >= 6) {
+                break;
+              }
+
+
+              let titulo =
+                extraer(item, "title");
+
+              let link =
+                extraer(item, "link");
+
+
+              titulo =
+                limpiarHtml(titulo);
+
+              link =
+                limpiarHtml(link);
+
+
+              if (!titulo || !link) {
+                continue;
+              }
+
+
+              const multimedia =
+                buscarMultimedia(item);
+
+
+              noticias.push({
+
+                titulo: titulo,
+
+                link: link,
+
+                imagen:
+                  multimedia.url || "",
+
+                tipo:
+                  multimedia.tipo || ""
+
+              });
+
+
+              console.log(
+                noticias.length +
+                ". " +
+                titulo
+              );
+
+              console.log(
+                "   Multimedia:",
+                multimedia.tipo || "ninguna"
+              );
+
+              console.log(
+                "   URL:",
+                multimedia.url || "VACÍA"
+              );
+            }
+
+
+            if (!noticias.length) {
+
+              throw new Error(
+                "No se encontraron noticias válidas."
+              );
+            }
+
+
+            fs.writeFileSync(
+              "noticias-1777.json",
+              JSON.stringify(
+                {
+                  noticias: noticias
+                },
+                null,
+                2
+              )
+            );
+
+
+            console.log(
+              "=========================================="
+            );
+
+            console.log(
+              "noticias-1777.json generado correctamente."
+            );
+
+            console.log(
+              "Noticias:",
+              noticias.length
+            );
+
+            console.log(
+              "=========================================="
+            );
+          }
+
+
+          main().catch(error => {
+
+            console.error(
+              "ERROR:",
+              error
+            );
+
+            process.exit(1);
+          });
+
+          NODE
+
+
+      - name: Guardar cambios automaticamente
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Actualizar noticias de El Periodico"
+          file_pattern: noticias-1777.json
