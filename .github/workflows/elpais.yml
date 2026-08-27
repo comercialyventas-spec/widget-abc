@@ -17,88 +17,135 @@ jobs:
 
       - name: Descargar y convertir RSS a JSON con imagenes
         run: |
-          node -e '
+          node - <<'NODE'
           const https = require("https");
+          const fs = require("fs");
 
-          https.get("https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada", (res) => {
-              let data = "";
-              res.on("data", (chunk) => data += chunk);
+          const FEED = "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada";
 
-              res.on("end", () => {
-                  const items = data.split("<item>").slice(1);
-                  let noticias = [];
+          function descargar(url) {
+            return new Promise((resolve, reject) => {
+              https.get(url, {
+                headers: {
+                  "User-Agent": "Mozilla/5.0"
+                }
+              }, (res) => {
+                let data = "";
 
-                  items.forEach(item => {
+                res.on("data", chunk => data += chunk);
 
-                      let titleMatch =
-                          item.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>|<title>(.*?)<\/title>/);
+                res.on("end", () => {
+                  if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+                    descargar(res.headers.location).then(resolve).catch(reject);
+                    return;
+                  }
 
-                      let linkMatch =
-                          item.match(/<link>(.*?)<\/link>/);
+                  if (res.statusCode !== 200) {
+                    reject(new Error("HTTP " + res.statusCode));
+                    return;
+                  }
 
-                      let title =
-                          titleMatch ? (titleMatch[1] || titleMatch[2]) : "";
+                  resolve(data);
+                });
+              }).on("error", reject);
+            });
+          }
 
-                      let link =
-                          linkMatch ? linkMatch[1].trim() : "";
+          function limpiarHtml(texto) {
+            return texto
+              .replace(/<!\[CDATA\[/g, "")
+              .replace(/\]\]>/g, "")
+              .replace(/<[^>]*>/g, "")
+              .trim();
+          }
 
-                      /*
-                       * Buscar imagen en diferentes formatos
-                       * que puede utilizar El País.
-                       */
+          function extraerImagen(item) {
+            const patrones = [
+              /<media:content[^>]+url=["']([^"']+)["']/i,
+              /<media:thumbnail[^>]+url=["']([^"']+)["']/i,
+              /<enclosure[^>]+url=["']([^"']+)["']/i,
+              /<image[^>]+url=["']([^"']+)["']/i,
+              /<img[^>]+src=["']([^"']+)["']/i,
+              /src=["'](https?:\/\/[^"']+)["']/i,
+              /(https?:\/\/imagenes\.elpais\.com\/[^"' <]+)/i
+            ];
 
-                      let imgMatch =
-                          item.match(/<media:content[^>]+url=["'\''"](https?:\/\/[^"'\''"]+)["'\''"]/i) ||
-                          item.match(/<media:thumbnail[^>]+url=["'\''"](https?:\/\/[^"'\''"]+)["'\''"]/i) ||
-                          item.match(/<enclosure[^>]+url=["'\''"](https?:\/\/[^"'\''"]+)["'\''"]/i) ||
-                          item.match(/<image[^>]+href=["'\''"](https?:\/\/[^"'\''"]+)["'\''"]/i) ||
-                          item.match(/src=["'\''"](https?:\/\/[^"'\''"]+)["'\''"]/i);
+            for (const patron of patrones) {
+              const match = item.match(patron);
 
-                      let imagen =
-                          imgMatch ? imgMatch[1] : "";
+              if (match && match[1]) {
+                let imagen = match[1]
+                  .replace(/&amp;/g, "&")
+                  .replace(/&quot;/g, '"')
+                  .trim();
 
-                      /*
-                       * Si la imagen lleva parámetros o no tiene
-                       * extensión visible, también la aceptamos.
-                       */
+                if (/^https?:\/\//i.test(imagen)) {
+                  return imagen;
+                }
+              }
+            }
 
-                      if (imagen) {
-                          imagen = imagen
-                              .replace(/&amp;/g, "&")
-                              .trim();
-                      }
+            return "";
+          }
 
-                      if (title && link) {
-                          noticias.push({
-                              titulo: title.replace(/<[^>]*>/g, "").trim(),
-                              link: link,
-                              imagen: imagen
-                          });
-                      }
+          descargar(FEED)
+            .then(data => {
+              const items = data.split(/<item[\s>]/i).slice(1);
+              const noticias = [];
+
+              items.forEach(item => {
+                const titleMatch = item.match(
+                  /<title[^>]*>([\s\S]*?)<\/title>/i
+                );
+
+                const linkMatch = item.match(
+                  /<link[^>]*>([\s\S]*?)<\/link>/i
+                );
+
+                const title = titleMatch
+                  ? limpiarHtml(titleMatch[1])
+                  : "";
+
+                const link = linkMatch
+                  ? limpiarHtml(linkMatch[1])
+                  : "";
+
+                const imagen = extraerImagen(item);
+
+                if (title && link) {
+                  noticias.push({
+                    titulo: title,
+                    link: link,
+                    imagen: imagen
                   });
-
-                  require("fs").writeFileSync(
-                      "noticias-1351.json",
-                      JSON.stringify(
-                          { noticias: noticias.slice(0, 6) },
-                          null,
-                          2
-                      )
-                  );
-
-                  console.log("JSON de El Pais actualizado.");
-                  console.log(JSON.stringify(
-                      { noticias: noticias.slice(0, 6) },
-                      null,
-                      2
-                  ));
+                }
               });
 
-          }).on("error", (err) => {
-              console.error(err);
+              const resultado = {
+                noticias: noticias.slice(0, 6)
+              };
+
+              fs.writeFileSync(
+                "noticias-1351.json",
+                JSON.stringify(resultado, null, 2)
+              );
+
+              console.log("Noticias encontradas:", resultado.noticias.length);
+
+              resultado.noticias.forEach((n, i) => {
+                console.log(
+                  (i + 1) + ". " +
+                  n.titulo +
+                  " | IMAGEN: " +
+                  (n.imagen || "NO ENCONTRADA")
+                );
+              });
+            })
+            .catch(err => {
+              console.error("ERROR:", err);
               process.exit(1);
-          });
-          '
+            });
+          NODE
 
       - name: Guardar cambios automaticamente
         uses: stefanzweifel/git-auto-commit-action@v5
