@@ -64,3 +64,4 @@ jobs:
         with:
           commit_message: "Actualizar noticias con imagenes"
           file_pattern: noticias-1022.json
+          # forzar reactivación
