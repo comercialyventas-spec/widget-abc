@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Fallecen una mujer y una niña en el incendio de un restaurante en Cedrillas (Teruel)",
+      "link": "https://efe.com/aragon/incendio-restaurante-cedrillas-teruel/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/08/eclipse-seguridad.webp?fit=900%2C601&ssl=1",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Muere uno de los trabajadores atrapados en el derrumbe de un edificio en Sariñena (Huesca)",
       "link": "https://efe.com/aragon/2026-08-27/muere-trabajadores-derrumbe-sarinena-huesca/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/08/derrumbe-muere-sarinena-huesca.webp?fit=900%2C600&ssl=1",
@@ -28,12 +34,6 @@
       "titulo": "Cataluña y Aragón en alerta naranja por lluvias y tormentas, Menorca por rissagas",
       "link": "https://efe.com/medio-ambiente/2026-08-24/prevision-tiempo-alertas-tormentas-lluvias/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/08/tiempo-tormenta.webp?fit=900%2C600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Arranca el fin de semana con lluvias en el nordeste, en especial en Aragón y Tarragona",
-      "link": "https://efe.com/espana/2026-08-22/fin-de-semana-lluvias-tiempo-nordeste-aragon-tarragona/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/08/GRAF3086-FOTODELDIA-ESPANA-TIEMPO-LLUVIAS.webp?fit=900%2C600&ssl=1",
       "tipo": "imagen"
     }
   ]
