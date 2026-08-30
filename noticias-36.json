@@ -1,13 +1,19 @@
 {
   "noticias": [
     {
+      "titulo": "Muere un hombre en el paraje del Pou Clar de Ontinyent tras golpearse en la cabeza",
+      "link": "https://www.lavanguardia.com/local/valencia/20260830/11623198/muere-hombre-paraje-pou-clar-ontinyent-golpearse-cabeza.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/06/16/6a312f06589c0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Muere atropellado por un coche un joven de 16 años en Castelldefels y el conductor huye",
       "link": "https://www.lavanguardia.com/local/baix-llobregat/20260830/11623134/muere-atropellado-coche-joven-16-anos-castelldefels-conductor-huye.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/30/6a941c7535f26.jpeg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Al menos siete muertos al naufragar un ferry con 270 personas frente a la costa norte de Chipre",
+      "titulo": "Al menos ocho muertos al naufragar un ferry con 270 personas frente a la costa norte de Chipre",
       "link": "https://www.lavanguardia.com/internacional/20260830/11623130/ferry-mas-260-pasajeros-bordo-naufraga-frente-costa-norte-chipre.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/30/6a9423038d5ab.r_d.694-508-0.jpeg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Pogacar saluda a sus seguidores desde el hospital después de abandonar la Vuelta",
       "link": "https://www.lavanguardia.com/deportes/20260830/11623084/pogacar-saluda-seguidores-hospital-abandonar-vuelta.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/30/6a93fb05e2d3d.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Amenaza de bomba en el centro comercial Barnasud de Gavà",
-      "link": "https://www.lavanguardia.com/local/baix-llobregat/20260830/11623080/amenaza-bomba-centro-comercial-barnasud-gava.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2020/10/16/5fb28d4e884d8.r_d.388-277-6844.jpeg",
       "tipo": "imagen"
     }
   ]
