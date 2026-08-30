@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Un ferry con 270 personas a bordo naufraga al norte de Chipre: hay al menos seis muertos",
+      "titulo": "Maduro publica nuevas imágenes de su encierro en una cárcel de Estados Unidos",
+      "link": "https://www.20minutos.es/internacional/maduro-publica-nuevas-imagenes-su-encierro-una-carcel-estados-unidos_7030750_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/30/6a94392353a6e0-86874011.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un ferry con 270 personas a bordo naufraga al norte de Chipre: hay al menos siete muertos",
       "link": "https://www.20minutos.es/internacional/un-ferry-con-270-personas-bordo-naufraga-norte-chipre_7030740_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/30/6a941d947be484-35611488.png",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/30/6a9435cddbe893-85283736.png",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "El milagroso rescate de una niña de seis años en Nepal: se salvó de la riada tras refugiarse en un agujero",
       "link": "https://www.20minutos.es/internacional/milagroso-rescate-una-nina-seis-anos-nepal-se-salvo-riada-tras-refugiarse-un-agujero_7030682_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/30/6a93e6929fc4c4-50231911.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un muerto y cinco heridos en un tiroteo en una fiesta 'rave' al norte de Suiza",
-      "link": "https://www.20minutos.es/internacional/un-muerto-cinco-heridos-un-tiroteo-una-fiesta-rave-norte-suiza_7030679_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/30/6a93eb64f23d24-11590437.webp",
       "tipo": "imagen"
     }
   ]

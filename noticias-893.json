@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El fútbol y el tiempo",
+      "link": "https://www.elmundo.es/deportes/futbol/2026/08/30/6a943162e9cf4ad24c8b456e.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/30/17880969993657.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Baena toma Sevilla para el Atlético de Simeone",
       "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/08/29/6a93366ae9cf4aa2598b458c.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/29/17880342864631.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El Madrid se arma para destronar al Barça: la estrategia blanca para aprovechar la marcha de Alexia",
       "link": "https://www.elmundo.es/deportes/futbol/futbol-femenino/2026/08/29/6a8db70821efa025488b4584.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/25/17876729985180.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Real Madrid abre la Champions en casa ante el Inter, el Barça frente al Feyenoord y el Atlético en Anfield",
-      "link": "https://www.elmundo.es/deportes/futbol/champions-league/2026/08/29/6a92bedc21efa0fb328b45aa.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/29/17880021922731.jpg",
       "tipo": "imagen"
     }
   ]
