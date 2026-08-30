@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El tiempo en España",
+      "link": "https://efe.com/espana/2025-11-26/tiempo-espana-hoy-prediccion-meteorologia-aemet/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/08/el-tiempo-en-espana-4.webp?fit=1024%2C635&ssl=1",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Fallecen una mujer y una niña en el incendio de un restaurante en Cedrillas (Teruel)",
       "link": "https://efe.com/aragon/incendio-restaurante-cedrillas-teruel/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/08/eclipse-seguridad.webp?fit=900%2C601&ssl=1",
@@ -28,12 +34,6 @@
       "titulo": "Expulsados otros cuatro marroquíes por lesionar a tres guardias civiles en Ceuta",
       "link": "https://efe.com/espana/2026-08-30/expulsados-inmigrantes-ceuta-lesiones-guardia-civil/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/08/expulsados-inmigrantes-ceuta.webp?fit=900%2C600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Muere un hombre apuñalado por una mujer en la terraza de un bar de València tras una pelea",
-      "link": "https://efe.com/comunidad-valenciana/2026-08-30/muere-apunalado-por-una-mujer-en-la-terraza-de-un-bar-de-valencia/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/08/rss-efee27a55745db1e43ccf0870bdcd616f3156e748acw.webp?fit=1024%2C683&ssl=1",
       "tipo": "imagen"
     }
   ]
