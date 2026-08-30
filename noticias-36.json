@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Un ferry con más de 260 pasajeros a bordo naufraga frente a la costa norte de Chipre",
+      "link": "https://www.lavanguardia.com/internacional/20260830/11623130/ferry-mas-260-pasajeros-bordo-naufraga-frente-costa-norte-chipre.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/30/6a941a0a8dfb9.r_d.678-564-3207.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Albiol estalla tras la detención de un pirómano multirreincidente en Badalona",
+      "link": "https://www.lavanguardia.com/local/barcelones-nord/20260830/11623113/albiol-estalla-detencion-piromano-multirreincidente-badalona.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/30/6a940db460943.r_d.738-522-3890.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Una plataforma geoespacial mejorará la gestión de recursos contra incendios forestales en Murcia",
+      "link": "https://www.lavanguardia.com/local/murcia/20260830/11623107/plataforma-geoespacial-mejorara-gestion-recursos-incendios-forestales-murcia.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/30/6a940b148d138.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Pogacar saluda a sus seguidores desde el hospital después de abandonar la Vuelta",
       "link": "https://www.lavanguardia.com/deportes/20260830/11623084/pogacar-saluda-seguidores-hospital-abandonar-vuelta.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/30/6a93fb05e2d3d.jpeg",
@@ -16,24 +34,6 @@
       "titulo": "Dos detenidos por saquear un yacimiento submarino de Tarragona",
       "link": "https://www.lavanguardia.com/local/tarragona/20260830/11623059/dos-detenidos-saquear-yacimiento-submarino-tarragona.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/30/6a93eda7832d6.r_d.2240-1772-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Detenida una mujer por apuñalar mortalmente a un hombre en la terraza de un bar de València",
-      "link": "https://www.lavanguardia.com/local/valencia/20260830/11623055/detenida-mujer-apunalar-mortalmente-hombre-terraza-bar-valencia.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2019/08/18/5fa53a3b1ff21.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Rescatadas en helicóptero dos mujeres asturianas desorientadas en Picos de Europa",
-      "link": "https://www.lavanguardia.com/local/cantabria/20260830/11623043/rescatadas-helicoptero-dos-mujeres-asturianas-desorientadas-picos-europa.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/30/6a93dfa408ef2.r_d.585-434-3837.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Al menos un muerto y cinco heridos tras un tiroteo en una fiesta rave en Suiza",
-      "link": "https://www.lavanguardia.com/sucesos/20260830/11623040/muerto-cinco-heridos-tiroteo-fiesta-rave-suiza.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/30/6a93d894e9ab3.r_d.1743-1033-2338.jpeg",
       "tipo": "imagen"
     }
   ]
