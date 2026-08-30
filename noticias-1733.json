@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Este Granada CF es otra cosa",
+      "link": "https://www.ahoragranada.com/noticias/este-granada-cf-es-otra-cosa/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/08/Jugadores-Granada-Celebra-gol-Cordoba.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Trasladado al hospital un hombre de 70 años tras el incendio de su cocina en Armilla",
       "link": "https://www.ahoragranada.com/noticias/trasladado-al-hospital-un-hombre-de-70-anos-tras-el-incendio-de-su-cocina-en-armilla/",
       "imagen": "",
@@ -29,12 +35,6 @@
       "link": "https://www.ahoragranada.com/noticias/nudistas-reivindican-practica-libre-del-naturismo-en-cantarrijan/",
       "imagen": "",
       "tipo": ""
-    },
-    {
-      "titulo": "Licitada la redacción del proyecto para crear 45 refugios climáticos en Granada",
-      "link": "https://www.ahoragranada.com/noticias/licitada-la-redaccion-del-proyecto-para-crear-45-refugios-climaticos-en-granada/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/08/Refugios-CLimaticos-Granad-01.jpg",
-      "tipo": "imagen"
     }
   ]
 }

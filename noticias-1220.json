@@ -1,7 +1,13 @@
 {
   "noticias": [
     {
-      "titulo": "Irán reporta ataques de Estados Unidos contra su territorio",
+      "titulo": "El senador de EE.UU. Ted Cruz insiste en que Venezuela celebre las elecciones a mediados de 2027",
+      "link": "https://efe.com/mundo/estados-unidos-ted-cruz-venezuela-elecciones-2027/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/08/senador-eeuu-ted-cruz-insiste-venezuela-elecciones-2027.webp?fit=900%2C600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Irán reporta ataques de Estados Unidos contra la isla de Larak",
       "link": "https://efe.com/mundo/2026-08-30/iran-reporta-ataques-eeuu-territorio/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/08/IRAN-ISRAEL-USA-CONFLICT.webp?fit=900%2C609&ssl=1",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Flávio Bolsonaro dice que abrirá 500.000 cupos en las cárceles de Brasil tras reunirse con un ministro de Bukele",
       "link": "https://efe.com/mundo/2026-08-30/bolsonaro-cupos-500000-brasil-carceles/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/08/BRASIL-ELECCIONES-2-1.webp?fit=900%2C600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Google Maps cambia el nombre del Lago Ontario a Lago América para usuarios estadounidenses",
-      "link": "https://efe.com/mundo/2026-08-30/google-maps-cambio-nombre-lago-ontario-america-estados-unidos/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/08/Lago-America-1.webp?fit=900%2C600&ssl=1",
       "tipo": "imagen"
     }
   ]
