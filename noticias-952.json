@@ -1,0 +1,40 @@
+{
+  "noticias": [
+    {
+      "titulo": "Conciertos",
+      "link": "https://entradas.elmundo.es/es",
+      "imagen": "https://entradas.elmundo.es/_next/image?url=https%3A%2F%2Fgigsberg.com%2Ffiles%2Fimages%2Flogos%2Flogo-metropoli.png&w=384&q=75",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Conciertos",
+      "link": "https://entradas.elmundo.es/es/concert-tickets/rock",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "Festivales",
+      "link": "https://entradas.elmundo.es/es/festival-tickets/uk-festivals",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "Tame Impala",
+      "link": "https://entradas.elmundo.es/es/concert-tickets/rock-pop/tame-impala-tickets/show-222588",
+      "imagen": "https://entradas.elmundo.es/_next/image?url=https%3A%2F%2Fgigsberg.com%2Ffiles%2Fimages%2Fhp_slides%2F08-26-26_tame_impala_banner.webp&w=1920&q=75",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "SL Benfica",
+      "link": "https://entradas.elmundo.es/es/sport-tickets/football/sl-benfica-tickets/show-249334",
+      "imagen": "https://entradas.elmundo.es/_next/image?url=https%3A%2F%2Fgigsberg.com%2Ffiles%2Fimages%2Fhp_slides%2Fbenfica_banner.webp&w=1920&q=75",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Noah Kahan",
+      "link": "https://entradas.elmundo.es/es/concert-tickets/alternative-indie/noah-kahan-tickets/show-221620",
+      "imagen": "https://entradas.elmundo.es/_next/image?url=https%3A%2F%2Fgigsberg.com%2Ffiles%2Fimages%2Fhp_slides%2Fnoah_kahan_banner.webp&w=1920&q=75",
+      "tipo": "imagen"
+    }
+  ]
+}

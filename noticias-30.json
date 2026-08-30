@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "València reabre el lunes las carreteras y las playas afectadas por el incendio de El Saler",
+      "link": "https://www.lavanguardia.com/local/valencia/20260830/11623158/valencia-reabre-lunes-carreteras-playas-afectadas-incendio-saler.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/30/6a943cccaf15f.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Despega Roman, el telescopio de la NASA con un campo de visión cien veces mayor que Hubble",
       "link": "https://www.lavanguardia.com/vida/20260830/11623137/despega-roman-telescopio-nasa-campo-vision-cien-veces-mayor-hubble.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/30/6a94200667848.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Cuidemos al humano y a la creación",
       "link": "https://www.lavanguardia.com/vida/20260830/11622325/cuidemos-humano-creacion.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/28/6a917ddc333a7.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Curas del mundo en Catalunya",
-      "link": "https://www.lavanguardia.com/vida/20260830/11622324/curas-mundo-catalunya.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/29/6a92f0f30f92a.jpeg",
       "tipo": "imagen"
     }
   ]
