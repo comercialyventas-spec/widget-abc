@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "El poder de la tele en abierto y las mareas",
+      "link": "https://elpais.com/television/2026-08-30/el-poder-de-la-tele-en-abierto-y-las-mareas.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/WQZEPYSGJ5HUJDN6GQ47TDIA74.JPG?auth=b262b1452f20abb3144121023db9581e405740641d0b47e76668da185167de7c",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El programa chino en el que el premio es un puesto de trabajo",
       "link": "https://elpais.com/television/2026-08-30/el-programa-chino-en-el-que-el-premio-es-un-puesto-de-trabajo.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/FWE6UKZC7JAI5MUKNWCASHBG7A.png?auth=005122a250ffc7bd6ceda2fb7b9eb02ae3bcc3446f06823f9d17c9448c005e2b",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Aimar Bretos: “Sería de ciegos decir que la convivencia en este país no está enrarecida”",
+      "link": "https://elpais.com/comunicacion/2026-08-30/aimar-bretos-seria-de-ciegos-decir-que-la-convivencia-en-este-pais-no-esta-enrarecida.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260828/1208701_142426_video_1800.mp4",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "De trabajador de un colegio a “espía” anti-Putin",
       "link": "https://elpais.com/television/2026-08-29/de-trabajador-de-un-colegio-a-espia-anti-putin.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260318/1149876_133951_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Dos ganadores del bote de ‘Pasapalabra’ serán los primeros concursantes de ‘Rueda la letra’: Lilit Manukyan y Fran González",
-      "link": "https://elpais.com/television/2026-08-28/dos-ganadores-del-bote-de-pasapalabra-seran-los-primeros-concursantes-de-rueda-la-letra-lilit-manukyan-y-fran-gonzalez.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/VMOMEEXRJZGLHI5FWOZI3ZMRI4.png?auth=d0976639b4286b772b668399703871709bf56d3e50755ddd93c3e2b10e228caa",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Materia oscura",
-      "link": "https://elpais.com/television/series/materia-oscura/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/WU4GH5APCJGO5ARRFFQL7F2Y2U.jpg?auth=b8f5702174dee0839e3ecaa89aafacfa82a880e6643f19b1bd6d61e1fb0b5969",
       "tipo": "imagen"
     }
   ]
