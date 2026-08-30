@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "🎙 PODCAST | Estados Unidos no es el mejor país del mundo",
+      "link": "https://eldiario.es/blog/al-dia/",
+      "imagen": "https://static.eldiario.es/clip/c9b56e6c-84ad-4cf5-a0b1-9a077a11f183_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La investigación sobre Julio Iglesias de elDiario.es y Univision Noticias, finalista en los Online Journalism Awards",
       "link": "https://eldiario.es/redaccion",
       "imagen": "https://static.eldiario.es/clip/df7bd2ed-3e82-479a-b4be-7c940dd2b867_16-9-discover-aspect-ratio_default_0_x828y266.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Los gatos tienen ley, ahora toca cumplirla",
       "link": "https://eldiario.es/caballodenietzsche",
       "imagen": "https://static.eldiario.es/clip/7db65184-4e30-4307-bc25-1f60ba7cafe0_16-9-discover-aspect-ratio_default_1149637.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Cuántos años de vida te puedes permitir?",
-      "link": "https://eldiario.es/escolar",
-      "imagen": "https://static.eldiario.es/clip/b2d052e8-7b9a-4797-af44-a33f9d004a88_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
