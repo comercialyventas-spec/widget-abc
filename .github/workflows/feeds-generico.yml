@@ -5,6 +5,10 @@ on:
   schedule:
     - cron: "*/30 * * * *"
 
+concurrency:
+  group: feeds-generico
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
@@ -89,7 +93,7 @@ jobs:
 
             try {
               const controller = new AbortController();
-              const timeout = setTimeout(() => controller.abort(), 15000);
+              const timeout = setTimeout(() => controller.abort(), 6000);
 
               const respuesta = await fetch(url, {
                 signal: controller.signal,
@@ -159,14 +163,19 @@ jobs:
             console.log("Total de feeds a procesar: " + feeds.length);
 
             let actualizados = 0, sinCambios = 0, errores = 0;
+            const TAMANO_LOTE = 20;
 
-            for (const feed of feeds) {
-              const resultado = await procesarFeed(feed);
-              if (resultado === "actualizado") actualizados++;
-              else if (resultado === "sin_cambios") sinCambios++;
-              else errores++;
+            for (let i = 0; i < feeds.length; i += TAMANO_LOTE) {
+              const lote = feeds.slice(i, i + TAMANO_LOTE);
+              const resultados = await Promise.all(lote.map(procesarFeed));
 
-              await new Promise(r => setTimeout(r, 300));
+              resultados.forEach(r => {
+                if (r === "actualizado") actualizados++;
+                else if (r === "sin_cambios") sinCambios++;
+                else errores++;
+              });
+
+              console.log("Progreso: " + Math.min(i + TAMANO_LOTE, feeds.length) + "/" + feeds.length);
             }
 
             console.log("========================================");
