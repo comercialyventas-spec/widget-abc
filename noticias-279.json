@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La Policía investiga un robo de cable en el circuito de Fórmula 1 de Madrid",
+      "link": "https://www.abc.es/espana/madrid/policia-investiga-robo-cable-circuito-formula-madrid-20260830144416-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/30/1516389135-kZEI-U301492919295fQ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Iglesia, el barrio de Chamberí donde conviven budistas, evangélicos y judíos",
       "link": "https://www.abc.es/espana/madrid/iglesia-barrio-chamberi-conviven-budistas-evangelicos-judios-20260414011744-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/04/14/Captura-U20673829497LBI-RvW8MvsQb4a6vEr14s6S4lO-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Eclosión festiva en los cuatro costados de la región",
       "link": "https://www.abc.es/espana/madrid/festin-baile-tradicion-despedir-verano-20260830010218-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/30/1-orquestapanorama-R6wHLiFCEc6kuR9WD7XMKDI-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un hombre, ingresado al partirse las dos piernas en un accidente en el Parque Warner de Madrid",
-      "link": "https://www.abc.es/espana/madrid/hombre-herido-grave-tras-sufrir-accidente-parque-20260829174634-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/29/50937324-kbgG-U301484455880s5H-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
