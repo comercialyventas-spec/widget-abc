@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Un cóctel en Benidorm",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260831/11621004/coctel-benidorm.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/27/6a900cab9391a.r_d.774-892-3200.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El fuerte garbino de Calella de Palafrugell",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260831/11621009/fuerte-garbino-calella-palafrugell.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/27/6a900d4946be3.r_d.1149-2238-2098.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Inventar es perseverar",
+      "link": "https://www.lavanguardia.com/participacion/red-lectores/20260831/11620563/inventar-perseverar.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/02/11/67ab55c822cdd.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El ocaso de los girasoles",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260831/11621749/ocaso-girasoles.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/28/6a91747dab5ad.jpeg",
@@ -15,24 +33,6 @@
     {
       "titulo": "El soroll dels mòbils",
       "link": "https://www.lavanguardia.com/participacion/cartas/20260830/11623334/soroll-dels-mobils.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Presidente ‘geógrafo’",
-      "link": "https://www.lavanguardia.com/participacion/cartas/20260830/11623333/presidente-geografo.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El descompte al túnel",
-      "link": "https://www.lavanguardia.com/participacion/cartas/20260830/11623332/descompte-tunel.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La fi del treball",
-      "link": "https://www.lavanguardia.com/participacion/cartas/20260830/11623331/fi-treball.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
       "tipo": "imagen"
     }

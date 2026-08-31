@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Un cóctel en Benidorm",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260831/11621004/coctel-benidorm.html",
+      "imagen": "https://www.lavanguardia.com/files/listing_main/files/fp/uploads/2026/08/27/6a900cab9391a.r_d.774-892-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El fuerte garbino de Calella de Palafrugell",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260831/11621009/fuerte-garbino-calella-palafrugell.html",
+      "imagen": "https://www.lavanguardia.com/files/listing_main/files/fp/uploads/2026/08/27/6a900d4946be3.r_d.1149-2238-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Inventar es perseverar",
+      "link": "https://www.lavanguardia.com/participacion/red-lectores/20260831/11620563/inventar-perseverar.html",
+      "imagen": "https://www.lavanguardia.com/files/listing_main/uploads/2025/02/11/67ab55c822cdd.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El ocaso de los girasoles",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260831/11621749/ocaso-girasoles.html",
       "imagen": "https://www.lavanguardia.com/files/listing_main/uploads/2026/08/28/6a91747dab5ad.jpeg",
@@ -16,24 +34,6 @@
       "titulo": "Horóscopo semanal de Acuario, predicciones en amor, trabajo, salud y dinero del 31 al 6 de septiembre de 2026",
       "link": "https://www.lavanguardia.com/magazine/horoscopo/20260831/11619155/horoscopo-predicciones-acuario-semana-lunes-31-domingo-6-septiembre-ctx.html",
       "imagen": "https://www.lavanguardia.com/files/listing_main/uploads/2023/07/10/64abeaca90974.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Horóscopo semanal de Capricornio, predicciones en amor, trabajo, salud y dinero del 31 al 6 de septiembre de 2026",
-      "link": "https://www.lavanguardia.com/magazine/horoscopo/20260831/11619154/horoscopo-predicciones-capricornio-semana-lunes-31-domingo-6-septiembre-ctx.html",
-      "imagen": "https://www.lavanguardia.com/files/listing_main/uploads/2023/07/10/64abec1851fa4.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Horóscopo semanal de Sagitario, predicciones en amor, trabajo, salud y dinero del 31 al 6 de septiembre de 2026",
-      "link": "https://www.lavanguardia.com/magazine/horoscopo/20260831/11619153/horoscopo-predicciones-sagitario-semana-lunes-31-domingo-6-septiembre-ctx.html",
-      "imagen": "https://www.lavanguardia.com/files/listing_main/uploads/2023/07/10/64abedf37adac.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Horóscopo semanal de Escorpio, predicciones en amor, trabajo, salud y dinero del 31 al 6 de septiembre de 2026",
-      "link": "https://www.lavanguardia.com/magazine/horoscopo/20260831/11619152/horoscopo-predicciones-escorpio-semana-lunes-31-domingo-6-septiembre-ctx.html",
-      "imagen": "https://www.lavanguardia.com/files/listing_main/uploads/2023/07/10/64abec639961e.jpeg",
       "tipo": "imagen"
     }
   ]

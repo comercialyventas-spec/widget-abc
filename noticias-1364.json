@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "EE UU e Irán intercambian ataques por primera vez desde julio",
+      "link": "https://elpais.com/internacional/2026-08-30/el-primer-ataque-de-ee-uu-a-iran-desde-julio-provoca-varios-muertos-y-heridos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TM2ZCFECXBAA5IRUYO5QYW4FQA.JPG?auth=34006559829997037c0fb1c05947745777d4a2bd7583ef8823806e6b9175fb16",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Islandia cierra la puerta a la integración en la Unión Europea",
       "link": "https://elpais.com/internacional/2026-08-30/islandia-cierra-la-puerta-a-la-integracion-en-la-union-europea.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260830/1209122_151412_video_1800.mp4",
@@ -28,12 +34,6 @@
       "titulo": "Carta abierta de Sergio Ramírez al presidente Lula da Silva",
       "link": "https://elpais.com/opinion/2026-08-25/carta-abierta-de-sergio-ramirez-al-presidente-lula-da-silva.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/3UMIA5XGLJJNVNDKPY7PT3XZ4Q.jpg?auth=09236ec9baa4c06a6166a7e9b5fc8c4af57f5bf4f4fc8bc8da7e6e8a4aac3f51",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Escuchar a Europa y forjar su futuro",
-      "link": "https://elpais.com/opinion/2026-08-25/escuchar-a-europa-y-forjar-su-futuro.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/HK7KDVFXKBLIPLA5RTW5KKWOJY.jpg?auth=d808b59bd20a375900d7f444221f1b2f0aa922db9b2906204bfe7cf3158be0c3",
       "tipo": "imagen"
     }
   ]
