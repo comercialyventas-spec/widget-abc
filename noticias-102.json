@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Caminar siguiendo las huellas del hielo que modeló nuestras montañas",
+      "link": "https://www.lavanguardia.com/lugaresdeaventura/20260831/11613390/caminar-siguiendo-huellas-hielo-modelo-montanas.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2021/07/07/60e5d7737091c.r_d.596-339-4157.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Cuáles son los deportes más peligrosos del mundo?",
       "link": "https://www.lavanguardia.com/lugaresdeaventura/20260829/11619969/cuales-son-deportes-mas-peligrosos-mundo.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2019/09/28/5fa5392ce01ef.r_d.496-279-4526.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2019/09/28/5fa5392ce01ef.r_d.496-279-4526.jpeg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Los carteles que inventaron España: un siglo de imaginario turístico",
       "link": "https://www.lavanguardia.com/lugaresdeaventura/20260825/11509662/carteles-inventaron-espana-siglo-imaginario-turistico.html",
       "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/04/11/69da31443a9b1.r_d.256-210-8770.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Aquatrekking, la aventura que convierte ríos y gargantas en senderos de verano",
-      "link": "https://www.lavanguardia.com/lugaresdeaventura/20260824/11612178/aquatrekking-aventura-convierte-rios-gargantas-senderos-verano.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/08/12/6a7c9fc9cedff.r_d.3347-1573-866.jpeg",
       "tipo": "imagen"
     }
   ]

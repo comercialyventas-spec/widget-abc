@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El libro en papel resiste a una década de digitalización de las aulas de la ESO y Primaria",
+      "link": "https://efe.com/espana/2026-08-31/libro-papel-resiste-decada-digitalizacion-aulas-eso-primaria-2/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/08/cole.webp?fit=900%2C600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Más de 8 millones de escolares inician el curso con los docentes a la espera de mejoras",
       "link": "https://efe.com/espana/2026-08-30/mas-8-millones-escolares-inician-curso-docentes-espera-mejoras-2/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/08/cruso-escolar.webp?fit=900%2C600&ssl=1",
@@ -28,12 +34,6 @@
       "titulo": "Cuba comenzará el curso escolar con la falta de profesores y con «dificultades tremendas»",
       "link": "https://efe.com/educacion/2026-08-27/cuba-curso-escolar-educacion-dificultades/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/08/CUBA-EDUCACION-1.webp?fit=900%2C600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Andalucía mantendrá las matrículas universitarias entre las más asequibles del país",
-      "link": "https://efe.com/andalucia/2026-08-27/andalucia-mantendra-las-matriculas-universitarias-entre-las-mas-asequibles-del-pais/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/08/GRAF5671-EDUCACION-TECNOLOGIA.webp?fit=1024%2C683&ssl=1",
       "tipo": "imagen"
     }
   ]
