@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Restaurantes libaneses en Madrid: dónde disfrutar de su vibrante cocina",
+      "link": "https://www.abc.es/gastronomia/restaurantes-libaneses-madrid-20260731011646-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/07/31/emsherif_hummus2-Rqa7PKRzOxUsoibx8I1H3fJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Jesús Sánchez, chef del Cenador de Amós: «A la playa me llevaría bocartes en vinagre y bocadillos de tortilla y de filete empanado»",
       "link": "https://www.abc.es/gastronomia/jesus-sanchez-chef-cenador-amos-playa-llevaria-20260829011101-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/08/29/jesus-sanchez-Rc2rsrS7yLDPvVpt8pSHtfJ-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Asturias, de la fabada al bogavante",
       "link": "https://www.abc.es/gastronomia/asturias-playas-acantilados-20260820014048-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/08/20/Real-Balneario-RBdQRWexLkbTcWvZS0VbJgO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Muere Benjamín Romeo, uno de los grandes nombres del Rioja contemporáneo",
-      "link": "https://www.abc.es/gastronomia/vinos/muere-benjamin-romeo-grandes-nombres-rioja-contemporaneo-20260818110832-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/08/18/Benajmin-romeo-RPYXrpW22jUdWROxONcM5FK-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
