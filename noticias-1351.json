@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Sánchez sostiene que Marruecos ofreció una “cooperación instantánea”  y descarta su participación en la crisis de Ceuta",
+      "titulo": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Sánchez sostiene que Marruecos ofreció una “cooperación instantánea” y descarta su participación en la crisis de Ceuta",
       "link": "https://elpais.com/espana/2026-08-31/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/BE6N4SMQGVCHBAZSRKD6DLX7IA.jpeg?auth=fb02e8b87d90f2e232d9c82be548ee3a047dff41b3179bbd3ea36983bdb6c5c9"
-    },
-    {
-      "titulo": "Una crisis, siete ministros y una ensalada de cifras sobre Ceuta",
-      "link": "https://elpais.com/espana/2026-08-31/una-crisis-siete-ministros-y-una-ensalada-de-cifras-sobre-ceuta.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/R5ELB2B4QREHNGCR6NV4AIYYGA.jpg?auth=1f777477afa725dace171fb97cc796563e53e2e8c63d44916323669a1297a22d"
+      "imagen": "https://imagenes.elpais.com/resizer/v2/BE6N4SMQGVCHBAZSRKD6DLX7IA.jpeg?auth=fb02e8b87d90f2e232d9c82be548ee3a047dff41b3179bbd3ea36983bdb6c5c9",
+      "tipo": "imagen"
     },
     {
       "titulo": "Los servicios secretos ven probables más acciones encubiertas sobre Ceuta y Melilla",
       "link": "https://elpais.com/espana/2026-08-31/los-servicios-secretos-ven-probables-mas-acciones-encubiertas-sobre-ceuta-y-melilla.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/CSDWJHIXQJEQ7BPIENZ6F77RU4.jpg?auth=68d0d5a38bd416c183c58e3c9a032266acd9f27a7467afc95c0af4bc45a38b91"
+      "imagen": "https://imagenes.elpais.com/resizer/v2/CSDWJHIXQJEQ7BPIENZ6F77RU4.jpg?auth=68d0d5a38bd416c183c58e3c9a032266acd9f27a7467afc95c0af4bc45a38b91",
+      "tipo": "imagen"
     },
     {
       "titulo": "Ceuta, distintos miedos y una misma sensación de abandono: “No podemos salir sin spray pimienta” y “duermo escondido entre las cañas”",
       "link": "https://elpais.com/podcasts/hoy-en-el-pais/2026-08-31/ceuta-distintos-miedos-y-una-misma-sensacion-de-abandono-no-podemos-salir-sin-spray-pimienta-y-duermo-escondido-entre-las-canas.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/JYRKJLWL2RGXFNO3FGMSO7IVGM.jpg?auth=91ead36deeea764691f1ff3527b8b74d8022db69579ac9556b0eec8806c32061"
+      "imagen": "https://imagenes.elpais.com/resizer/v2/JYRKJLWL2RGXFNO3FGMSO7IVGM.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Desaparecidos a las puertas de Ceuta: “Se oían movimientos en el agua y, después, nada”",
       "link": "https://elpais.com/espana/2026-08-31/desaparecidos-a-las-puertas-de-ceuta-se-oian-movimientos-en-el-agua-y-despues-nada.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/RRT6GSB6YRIR3LIOSC3B7ER2LE.jpg?auth=88023c6e7db655891a3816b3a75eedf0aa35ad00f6485811a4423ab38927f503"
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RRT6GSB6YRIR3LIOSC3B7ER2LE.jpg?auth=88023c6e7db655891a3816b3a75eedf0aa35ad00f6485811a4423ab38927f503",
+      "tipo": "imagen"
     },
     {
       "titulo": "EE UU e Irán intercambian ataques por primera vez desde julio",
       "link": "https://elpais.com/internacional/2026-08-30/el-primer-ataque-de-ee-uu-a-iran-desde-julio-provoca-varios-muertos-y-heridos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/TM2ZCFECXBAA5IRUYO5QYW4FQA.JPG?auth=34006559829997037c0fb1c05947745777d4a2bd7583ef8823806e6b9175fb16"
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TM2ZCFECXBAA5IRUYO5QYW4FQA.JPG?auth=34006559829997037c0fb1c05947745777d4a2bd7583ef8823806e6b9175fb16",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La visita del jefe de la CIA a Moscú se envuelve en mentiras y medias verdades en plena ‘guerra’ del espionaje ruso en Europa",
+      "link": "https://elpais.com/internacional/2026-08-31/la-visita-del-jefe-de-la-cia-a-moscu-se-envuelve-en-mentiras-y-medias-verdades-en-plena-guerra-del-espionaje-ruso-en-europa.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/2YNPV3UGUVJODNAS73Z4PLPTQA.jpg?auth=dc073a703d8e33928bc1194c61dabaa78f96beef9d0ba89bf7b33979f67d08f9",
+      "tipo": "imagen"
     }
   ]
 }

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La trágica muerte de Lay Di",
+      "link": "https://www.lavanguardia.com/hemeroteca/20220831/8493367/tragica-muerte-lady-di.html",
+      "imagen": "https://hemeroteca-imagenes.lavanguardia.com/uploads/20260831/images.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Miguel Ángel Asturias, ‘el señor Presidente’",
       "link": "https://www.lavanguardia.com/hemeroteca/20190608/5241600/miguel-angel-asturias-senor-presidente.html",
       "imagen": "https://hemeroteca-imagenes.lavanguardia.com/uploads/20260813/7W37PFAYAZB2FBMZHDJLD5GJSQ.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Obama, coronado candidato",
       "link": "https://hemeroteca.lavanguardia.com/preview/2008/08/28/pagina-1/73536515/pdf.html",
       "imagen": "https://hemeroteca-imagenes.lavanguardia.com/uploads/20260827/Captura-de-pantalla-2026-08-27-122359.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Nueva Orleans resiste a \"Katrina\"",
-      "link": "https://hemeroteca.lavanguardia.com/preview/2005/08/30/pagina-1/41241319/pdf.html",
-      "imagen": "https://hemeroteca-imagenes.lavanguardia.com/uploads/20260827/Captura-de-pantalla-2026-08-27-124546.png",
       "tipo": "imagen"
     }
   ]

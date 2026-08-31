@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Muere un joven de 25 años en el incendio de unos trasteros con bicicletas eléctricas en Arganzuela",
+      "link": "https://www.abc.es/espana/madrid/muere-joven-anos-incendio-trasteros-bicicletas-electricas-20260831091322-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/31/IMG_20260831_091056-RzeO5GhsfQ2pMYSKYuomIRI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Desalojan la Intervención de Armas de la Guardia Civil tras entregar un ciudadano cinco granadas",
       "link": "https://www.abc.es/espana/madrid/desalojan-intervencion-armas-guardia-civil-tras-entregar-20260830010134-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/30/IMG-20260830-WA0075-RdYa24oFLgZnOJihQb2JIbJ-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La Policía investiga un robo de cable en el circuito de Fórmula 1 de Madrid",
       "link": "https://www.abc.es/espana/madrid/policia-investiga-robo-cable-circuito-formula-madrid-20260830144416-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/30/1516389135-kZEI-U301492919295fQ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Madrid suma 11.516 accidentes hasta junio, con Carabanchel a la cabeza",
-      "link": "https://www.abc.es/espana/madrid/madrid-suma-11516-accidentes-junio-carabanchel-cabeza-20260829010234-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/29/IMG_20260829_180858-RkhlAtFwuzRsx9WVH1aesCI-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

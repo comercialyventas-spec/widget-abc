@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Una herida al volcar su coche en la AP-9 en Padrón",
+      "link": "https://www.abc.es/espana/galicia/herida-volcar-coche-ap9-padron-20260831084528-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/31/2026083020493462259-RaADEb9iM2PK2p9z0WofY7I-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Así se equipan más de mil colegios gallegos para la vuelta a las aulas",
       "link": "https://www.abc.es/espana/galicia/equipan-mil-colegios-gallegos-vuelta-aulas-20260828063006-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/28/20260818162456-696x538-R9akWfLtyoMBmINqp6ytedL-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Segundo ataque de orcas a barcos en 24 horas en Galicia: dañan el timón de un velero en Vigo",
       "link": "https://www.abc.es/espana/galicia/segundo-ataque-orcas-barcos-horas-galicia-danan-20260830181148-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/30/1512883356_20260830180950-RCjirMklBnbLZVPxSi6JIKM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una de cada cinco empresas gallegas de diez o más empleados ya utiliza Inteligencia Artificial",
-      "link": "https://www.abc.es/espana/galicia/cinco-empresas-gallegas-diez-empleados-utiliza-inteligencia-20260830173745-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/30/1490462839-Rd3qv9Aeb8ft6vRsOrRVIlI-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
