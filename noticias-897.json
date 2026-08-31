@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La agonía de Novak Djokovic: cae en primera ronda del US Open entre vómitos y sudores fríos",
+      "link": "https://www.elmundo.es/deportes/tenis/us-open/2026/08/31/6a94ff4be4d4d82e418b456d.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/31/17881496590713.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El regreso de Alcaraz: un calentamiento específico, la incógnita de la malla protectora y los \"pensamientos intrusivos\"",
       "link": "https://www.elmundo.es/deportes/tenis/us-open/2026/08/30/6a94443ce9cf4aad168b4589.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/30/17881016618835.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Conor Niland y la otra cara del tenis: \"Crucé Uzbekistán en un taxi a toda pastilla para acabar perdiendo en primera ronda de un challenger\"",
       "link": "https://www.elmundo.es/deportes/tenis/2026/08/24/6a5f6e69fc6c833d4e8b45b1.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/24/17875832364216.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Carlos Alcaraz y Serena Williams jugarán juntos el dobles mixto del US Open",
-      "link": "https://www.elmundo.es/deportes/tenis/us-open/2026/08/22/6a89b077e85ece5f6a8b45a6.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/22/17874084632323.jpg",
       "tipo": "imagen"
     }
   ]

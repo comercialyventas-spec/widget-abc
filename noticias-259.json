@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Reinas de fiestas",
+      "link": "https://www.abc.es/espana/galicia/reinas-fiestas-20260830054200-nt.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "Los niños de Ceuta, entre cuatro paredes: «Estoy todo el día con la tablet»",
       "link": "https://www.abc.es/espana/infancia-ceuti-salir-casa-dia-tablet-20260829012556-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/29/nina-parque-inmigrantes-RR3UJeo0CNThmALSlf8KuxN-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El curso judicial arranca con la imputación del PSOE en el horizonte y Begoña Gómez a un paso del banquillo",
       "link": "https://www.abc.es/espana/curso-judicial-arranca-imputacion-psoe-horizonte-begona-20260831012202-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/31/SanchezyGomezfebrero-RRIkeTdFcqUkGCP5CaxL8FL-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Serrano gestó el 'enchufe' de Leire Díez en Correos tras un inusual cuestionario interno",
-      "link": "https://www.abc.es/espana/serrano-gesto-enchufe-leire-diez-correos-tras-20260727012810-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/07/27/1504162346%20(1)-R33Y1pvqCScEOnHqBih6sRK-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

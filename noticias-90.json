@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Islandia se aleja de Europa",
+      "link": "https://www.lavanguardia.com/internacional/20260831/11623261/islandia-aleja-europa-ue-referendum-triunfo-del-no.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/08/30/6a9474e309599.r_d.2776-2498-816.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Macao abre el juego",
+      "link": "https://www.lavanguardia.com/internacional/20260831/11622406/macao-abre-juego.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/uploads/2024/12/19/6763b621a0349.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Jair Bolsonaro protagoniza desde su casa-cárcel la campaña de su hijo",
+      "link": "https://www.lavanguardia.com/internacional/20260831/11620588/jair-bolsonaro-protagoniza-casa-carcel-campana-hijo.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/uploads/2026/08/30/6a9454c08c3d7.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Al menos 20 personas desaparecidas y decenas evacuadas por una gran riada en el Gran Cañón",
       "link": "https://www.lavanguardia.com/internacional/20260830/11623437/personas-desaparecidas-decenas-evacuadas-gran-riada-gran-canon.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/08/30/6a94a6b21054e.r_d.1993-1370-1114.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/08/30/6a94a6b21054e.r_d.1993-1370-1114.jpeg",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "Así será la despedida del rey Harald: capilla ardiente en el palacio real y funeral en la catedral",
       "link": "https://www.lavanguardia.com/internacional/20260830/11623270/asi-sera-despedida-rey-harald-capilla-ardiente-palacio-real-funeral-catedral.html",
       "imagen": "https://www.lavanguardia.com/files/image_449_221/uploads/2026/08/29/6a92db5422366.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Egipto detiene a una influencer por vídeos bailando con ropa considerada indecente",
-      "link": "https://www.lavanguardia.com/internacional/20260830/11623229/egipto-detiene-influencer-videos-bailando-ropa-considerada-indecente.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2024/08/29/66d0ef534b218.r_d.519-306-4526.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Nepal contacta con tres ciudadanos españoles desaparecidos después de la riada",
-      "link": "https://www.lavanguardia.com/internacional/20260830/11623193/autoridades-nepalies-han-contactado-tres-espanoles-afectados-riada.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/08/30/6a944f837ec89.r_d.750-500-2993.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Google Maps cambia el nombre del lago Ontario a lago América para usuarios estadounidenses",
-      "link": "https://www.lavanguardia.com/internacional/20260830/11623194/google-maps-cambia-nombre-lago-ontario-lago-america-usuarios-estadounidenses.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/uploads/2026/08/28/6a915a8d7aab9.jpeg",
       "tipo": "imagen"
     }
   ]
