@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "🎙 PODCAST | Estados Unidos no es el mejor país del mundo",
-      "link": "https://eldiario.es/blog/al-dia/",
-      "imagen": "https://static.eldiario.es/clip/c9b56e6c-84ad-4cf5-a0b1-9a077a11f183_16-9-discover-aspect-ratio_default_0.jpg",
+      "titulo": "🎙 PODCAST | Ceuta y Marruecos: un mes, tres teorías",
+      "link": "https://eldiario.es/untemaaldia/",
+      "imagen": "https://static.eldiario.es/clip/6da46e46-7a44-465d-a745-4ade85c6a99e_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "España, la papelera de cetáceos en cautividad de Europa",
+      "link": "https://eldiario.es/caballodenietzsche",
+      "imagen": "https://static.eldiario.es/clip/106ae37e-ed00-4cf9-a8c8-4a0bb3d495f7_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Ceuta y Melilla siguen siendo territorio africano",
       "link": "https://eldiario.es/contracorriente",
       "imagen": "https://static.eldiario.es/clip/5d886002-cfc3-46e5-a290-cf215dbef04a_16-9-discover-aspect-ratio_default_0_x932y191.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los gatos tienen ley, ahora toca cumplirla",
-      "link": "https://eldiario.es/caballodenietzsche",
-      "imagen": "https://static.eldiario.es/clip/7db65184-4e30-4307-bc25-1f60ba7cafe0_16-9-discover-aspect-ratio_default_1149637.jpg",
       "tipo": "imagen"
     }
   ]
