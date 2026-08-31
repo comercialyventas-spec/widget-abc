@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El ocaso de los girasoles",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260831/11621749/ocaso-girasoles.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/28/6a91747dab5ad.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La noche nublada de la luna",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260831/11621742/noche-nublada-luna.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/28/6a91739e12afe.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El soroll dels mòbils",
       "link": "https://www.lavanguardia.com/participacion/cartas/20260830/11623334/soroll-dels-mobils.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
@@ -22,18 +34,6 @@
       "titulo": "La fi del treball",
       "link": "https://www.lavanguardia.com/participacion/cartas/20260830/11623331/fi-treball.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Vuelta a la huelga",
-      "link": "https://www.lavanguardia.com/participacion/cartas/20260830/11623330/vuelta-huelga.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las nubes lenticulares de L'Escala",
-      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260830/11620960/nubes-lenticulares-l-escala.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/27/6a9006f5c57d0.jpeg",
       "tipo": "imagen"
     }
   ]
