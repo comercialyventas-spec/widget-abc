@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Un delantero de altos ritmos",
+      "link": "https://www.lavanguardia.com/deportes/20260901/11624267/delantero-altos-ritmos.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Alcaraz en el US Open: “He venido aquí a disfrutar; los resultados vendrán después”",
+      "link": "https://www.lavanguardia.com/deportes/tenis/20260901/11624143/alcaraz-us-open-he-venido-disfrutar-resultados-vendran.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/01/6a96003862133.r_d.2249-1344-997.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El brazalete de Raphinha corre, guía y golea",
+      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260901/11624140/brazalete-raphinha-corre-guia-golea.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/01/6a95fda0df4df.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Flick: “Gabriel Jesus es un delantero top”",
+      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260901/11624138/flick-gabriel-jesus-delantero-top.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/31/6a95f60bf2924.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Lamine está triste, decían (pues menos mal)",
       "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260831/11624131/lamine-esta-triste-decian-pues-mal.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/31/6a95f78d6d5df.jpeg",
@@ -10,30 +34,6 @@
       "titulo": "La sonrisa de Lamine Yamal empodera al Barça de Raphinha en la goleada al Rayo Vallecano",
       "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260831/11624127/sonrisa-lamine-yamal-empodera-barca-raphinha-goleada-rayo-vallecano.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/31/6a95e72568af1.r_d.2823-1172-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Así está la clasificación de la Premier League tras los resultados de los partidos de la Jornada 2 disputados hoy, lunes 31 de agosto",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260831/0/premier-league-2026-2027-resultado-clasificacion-ca-jornada-2-ctx.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/01/26/65b399cf588e1.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Así está la clasificación de la Serie A tras los resultados de los partidos de la Jornada 2 disputados hoy, lunes 31 de agosto",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260831/0/serie-a-2026-2027-resultado-clasificacion-ca-jornada-2-ctx.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/01/26/65b39a819c09f.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Prueba superada para Alcaraz en su regreso a las pistas",
-      "link": "https://www.lavanguardia.com/deportes/tenis/20260831/11624113/prueba-superada-alcaraz-regreso-pistas.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/31/6a95e5d141dd7.r_d.2280-2420-1200.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "FC Barcelona – Rayo Vallecano el partido de fútbol de Jornada 1 de LaLiga EA Sports, en directo",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260831/24348/fc-barcelona-rayo-vallecano-laliga-primera-division-ca-en-directo-ctx.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/09/13/65016ce5577c1.jpeg",
       "tipo": "imagen"
     }
   ]

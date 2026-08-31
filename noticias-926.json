@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El auge imparable de los vinos de mínima intervención que huyen de las modas",
+      "link": "https://www.elmundo.es/metropoli/gastronomia/2026/09/01/6a563ba7e9cf4ac6678b4577.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/14/17840372197300.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "7 rosados para despedir agosto sin prisa",
       "link": "https://www.elmundo.es/metropoli/elmundovino/2026/08/31/6a6cfa15e9cf4af3548b4586.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/31/17855270487021.jpg",
@@ -13,27 +19,21 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Arte hinchable, flamenco en el Ritz y más planes para esta semana",
-      "link": "https://www.elmundo.es/metropoli/otros-planes/2026/08/31/6a91ad3fe4d4d81f068b4591.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/28/17879306132900.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "La Taberna del Chef del Mar: así es la tasca de Ángel León",
       "link": "https://www.elmundo.es/metropoli/gastronomia/2026/08/29/6a69db4bfdddff42388b45a9.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/29/17853227795699.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Seis restaurantes de Madrid para despedir agosto: terrazas, jardines y mesas con mucha cocina donde exprimir los últimos días de verano",
-      "link": "https://www.elmundo.es/metropoli/gastronomia/2026/08/26/6a6c47fd21efa0e55f8b459a.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2025/09/18/17581935930623.jpg",
+      "titulo": "Arte hinchable, flamenco en el Ritz y más planes para esta semana",
+      "link": "https://www.elmundo.es/metropoli/otros-planes/2026/08/31/6a91ad3fe4d4d81f068b4591.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/28/17879306132900.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Tres quesos canarios que son el sabor de un territorio",
-      "link": "https://www.elmundo.es/metropoli/gastronomia/2026/08/25/6a5633ece4d4d8593c8b45be.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/14/17840334275531.jpg",
+      "titulo": "Seis restaurantes de Madrid para despedir agosto: terrazas, jardines y mesas con mucha cocina donde exprimir los últimos días de verano",
+      "link": "https://www.elmundo.es/metropoli/gastronomia/2026/08/26/6a6c47fd21efa0e55f8b459a.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2025/09/18/17581935930623.jpg",
       "tipo": "imagen"
     }
   ]

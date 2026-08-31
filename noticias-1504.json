@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Mario Draghi y el oro del Rin",
+      "link": "https://www.eldiario.es/opinion/zona-critica/mario-draghi-oro-rin_129_13477673.html",
+      "imagen": "https://static.eldiario.es/clip/2ad8fa2c-6c10-4efe-8e60-ff4e7e23607c_avatar-200-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cultura de la pérdida",
+      "link": "https://www.eldiario.es/opinion/zona-critica/cultura-perdida_129_13477047.html",
+      "imagen": "https://static.eldiario.es/clip/0d859b59-1e75-4602-9d7e-b09aeaffee73_avatar-200-aspect-ratio_default_0.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ceuta: ¿el talón de Aquiles del Gobierno?",
+      "link": "https://www.eldiario.es/opinion/zona-critica/ceuta-talon-aquiles-gobierno_129_13477005.html",
+      "imagen": "https://static.eldiario.es/clip/2bb1a67a-b2be-495b-91d5-141d0fd24b51_avatar-200-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Caras en la multitud",
       "link": "https://www.eldiario.es/opinion/zona-critica/caras-multitud_129_13475633.html",
       "imagen": "https://static.eldiario.es/clip/2685db0b-42f3-4101-a430-0a6e69bc82a4_avatar-200-aspect-ratio_default_0.jpeg",
@@ -16,24 +34,6 @@
       "titulo": "La macroeconomía no es un argumento político autosuficiente",
       "link": "https://www.eldiario.es/opinion/zona-critica/macroeconomia-no-argumento-politico-autosuficiente_129_13475367.html",
       "imagen": "https://static.eldiario.es/eldiario/public/file/2023/0818/07/lucia-taboada-4cff908.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ceuta, capital Islandia",
-      "link": "https://www.eldiario.es/opinion/zona-critica/ceuta-capital-islandia_129_13475359.html",
-      "imagen": "https://static.eldiario.es/clip/40aa4002-dfb9-4472-97ca-709829dfcb24_avatar-200-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Adultos en el verano del 26",
-      "link": "https://www.eldiario.es/opinion/zona-critica/adultos-verano-26_129_13474638.html",
-      "imagen": "https://static.eldiario.es/eldiario/public/file/2024/0721/19/raquel-marcos-oliva.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "No falta sentido común, falta un sentido de lo común",
-      "link": "https://www.eldiario.es/opinion/zona-critica/no-falta-sentido-comun-falta-sentido-comun_129_13474443.html",
-      "imagen": "https://static.eldiario.es/clip/20652528-712d-4816-ae52-cc2eeb6f0c77_avatar-200-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
