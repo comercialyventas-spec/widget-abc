@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Spotify Camp Nou",
+      "link": "https://www.abc.es/espana/cataluna/spotify-camp-nou-20260831140532-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/31/DAMBin%20(1)_20260831140215-RMpRgEbckpgIowuAfNn8GpI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El independentismo busca agravios para la Diada",
       "link": "https://www.abc.es/espana/cataluna/independentismo-busca-agravios-diada-20260831014630-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/31/uiro-RQCCujPXCdqONkHI9Lz8UlM-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Jordi Jacas, el chef que ha convertido un molino histórico de l'Escala en una industria de la felicidad",
       "link": "https://www.abc.es/espana/cataluna/jordi-jacas-chef-convertido-molino-historico-lescala-20260830185715-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/30/Jordi%20Jacas%20Moli%20Escala-RHgFExBjPs0BZpWrGFCFWNN-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Barcelona frente al espejo turístico: guerra contra los apartamentos vacacionales en la ciudad de los grandes eventos",
-      "link": "https://www.abc.es/espana/cataluna/barcelona-frente-espejo-turistico-guerra-apartamentos-vacacionales-20260719012512-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/07/19/turis-RgxYxdu5X6VgqMgPBuKRkgK-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

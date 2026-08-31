@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Detenido un marroquí por violar a una joven en la Playa de la Malvarrosa de Valencia",
+      "link": "https://www.mediterraneodigital.com/sucesos-espana/marroqui-violacion-malvarrosa-valencia",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/8/marroqui-violador.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Detenido un inmigrante marroquí por provocar el incendio de Collserola",
       "link": "https://www.mediterraneodigital.com/sucesos-espana/incendio-collserola",
       "imagen": "https://www.mediterraneodigital.com/images/2026/8/collserola.jpg",
@@ -22,12 +28,6 @@
       "titulo": "Fast & Furious en Madrid: bestial persecución policial a un georgiano drogado y sin carnet",
       "link": "https://www.mediterraneodigital.com/sucesos-espana/persecucion-coches-madrid",
       "imagen": "https://www.mediterraneodigital.com/images/2026/8/persecucion-policial-madrid.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Guardia Civil busca a un león en Toledo",
-      "link": "https://www.mediterraneodigital.com/sucesos-espana/leon-en-toledo",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/8/leon-.jpg",
       "tipo": "imagen"
     }
   ]

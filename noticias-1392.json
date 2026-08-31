@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de Nuevo Sureste de Madrid",
+      "link": "https://nuevosureste.es/ubicacion-estacion-metro-ahijones-berrocales/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2024/10/Transbordo-en-la-linea-9B-de-Metro-fuente-Ayuntamiento-de-Rivas-Vaciamadrid.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "De 945 a 27.014 empadronados: esta es la evolución de la población de El Cañaveral en los últimos años",
       "link": "https://nuevosureste.es/evolucion-poblacion-el-canaveral/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/08/Captura-de-pantalla-2026-08-27-a-las-17.16.32-1080x570.png",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Cerca del 15% de los habitantes empadronados en El Cañaveral son extranjeros",
       "link": "https://nuevosureste.es/poblacion-extranjera-el-canaveral/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/07/calles-el-canaveral-1-1080x675.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Qué fue del caserío de Ambroz: convertido en chalé y habitado hasta 2002",
-      "link": "https://nuevosureste.es/que-fue-del-caserio-de-ambroz-convertido-en-chale-y-habitado-hasta-2002/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/07/caserio-ambroz-1993.jpg",
       "tipo": "imagen"
     }
   ]

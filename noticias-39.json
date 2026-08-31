@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El otoño meteorológico llega con temperaturas que seguirán siendo elevadas",
+      "link": "https://www.lavanguardia.com/natural/20260831/11623675/otono-meteorologico-llega-temperaturas-seguiran-siendo-elevadas.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/26/6a8ebfe0a6dfe.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La semana arranca con tiempo estable y gran contraste de temperaturas",
       "link": "https://www.lavanguardia.com/natural/20260830/11623159/semana-arranca-estable-gran-contraste-temperaturas.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/30/6a943d2b51bab.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Los territorios afectados por el fuego este verano en España afrontan ahora el riesgo de las lluvias",
       "link": "https://www.lavanguardia.com/natural/20260829/11621941/territorios-afectados-fuego-afrontan-riesgo-lluvias.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2022/09/15/63233d4de49ed.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Jerónimo López, geólogo e himalayista: “El retroceso de los glaciares por el calentamiento hace que las altas montañas sean cada vez más inestables”",
-      "link": "https://www.lavanguardia.com/natural/20260828/11621683/jeronimo-lopez-geologo-e-himalayista-retroceso-glaciares-calentamiento-altas-montanas-sean-vez-mas-inestables.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/28/6a91613a7cf31.r_d.5725-2090-748.jpeg",
       "tipo": "imagen"
     }
   ]

@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Muere un joven de 25 años durante un incendio en unos trasteros con bicicletas eléctricas en Madrid",
+      "link": "https://okdiario.com/sucesos/muere-joven-25-anos-durante-incendio-unos-trasteros-bicicletas-electricas-madrid-20197943",
+      "imagen": "https://okdiario.com/img/2026/08/31/incendio-ok.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Detenido un albañil marroquí por violar a una joven en la Playa de la Malvarrosa de Valencia y herir a un policía local",
       "link": "https://okdiario.com/comunidad-valenciana/detenido-albanil-marroqui-violar-joven-playa-malvarrosa-valencia-herir-policia-local-20197274",
-      "imagen": "https://okdiario.com/img/2026/08/30/imagen_con_marca.jpg",
+      "imagen": "https://okdiario.com/img/2026/08/31/motanje-marroqui-2.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Muere un hombre de 36 años tras ser aplastado por una furgoneta que estaba reparando en Daimiel, Ciudad Real",
       "link": "https://okdiario.com/sucesos/muere-hombre-36-anos-ser-aplastado-furgoneta-que-estaba-reparando-daimiel-ciudad-real-20150488",
       "imagen": "https://okdiario.com/img/2026/08/21/fotonoticia_20260325174026_1200-1.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Muere un bombero y un trabajador en el incendio de un taller mecánico de Calatorao (Zaragoza)",
-      "link": "https://okdiario.com/sucesos/muere-bombero-trabajador-incendio-taller-mecanico-calatorao-zaragoza-19825229",
-      "imagen": "https://okdiario.com/img/2026/08/18/imagen_recortada-2026-08-18t193900.719.jpg",
       "tipo": "imagen"
     }
   ]

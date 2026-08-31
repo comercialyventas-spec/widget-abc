@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de Los Berrocales",
+      "link": "https://nuevosureste.es/ubicacion-estacion-metro-ahijones-berrocales/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2024/10/Transbordo-en-la-linea-9B-de-Metro-fuente-Ayuntamiento-de-Rivas-Vaciamadrid-400x250.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las obras de la L11 provocan el cierre completo de la A-3 en Conde de Casal durante la noche de este miércoles",
       "link": "https://nuevosureste.es/corte-a3-obras-metro/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/08/Corte-Conde-de-Casal-400x250.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Ayuntamientos, Comunidad y promotores defienden las nuevas leyes urbanísticas como la clave para aumentar la oferta de vivienda en Madrid",
       "link": "https://nuevosureste.es/asprima-jornada-vivienda/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/06/ASPRIMA_La-Vivienda-Si-tiene-solucion-400x250.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los desarrollos del sureste podrán impulsar más vivienda protegida con el nuevo plan especial aprobado por Madrid",
-      "link": "https://nuevosureste.es/plan-especial-vivienda-protegida-madr/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/04/Captura-de-Pantalla-2026-04-07-a-las-13.22.18-400x250.png",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Naomi Watts recibirá el Premio Donostia en el Festival de Cine de San Sebastián",
+      "link": "https://www.publico.es/culturas/cine-tv/naomi-watts-recibira-premio-donostia-festival-cine-san-sebastian.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/08/31/6a955dbb2818d.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sarah Santaolalla presentará un programa en la nueva cadena de televisión La Séptima",
       "link": "https://www.publico.es/culturas/cine-tv/sarah-santaolalla-presentara-programa-nueva-cadena-television-septima.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/08/30/6a9435024dacb.jpeg",
@@ -13,15 +19,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Del 'qué ponen hoy' al 'tú dónde lo ves': el fin de la televisión que conocíamos",
-      "link": "https://www.publico.es/culturas/cine-tv/ponen-hoy-ves-television-conociamos.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/08/29/6a92ef4207fbb.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Marina Heredia: \"Al volver de vacaciones me gustaría encontrarme un país para todos\"",
-      "link": "https://www.publico.es/culturas/marina-heredia-volver-vacaciones-me-gustaria-encontrarme-pais-todos.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/07/20/6a5e52245bfbc.jpeg",
+      "titulo": "'Las invisibles' recuerda el alto coste que tienen las vacaciones en España",
+      "link": "https://www.publico.es/culturas/invisibles-recuerda-alto-coste-vacaciones-espana.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/07/14/6a561f448aaca.jpeg",
       "tipo": "imagen"
     },
     {
@@ -31,9 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "'Las invisibles' recuerda el alto coste que tienen las vacaciones en España",
-      "link": "https://www.publico.es/culturas/invisibles-recuerda-alto-coste-vacaciones-espana.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/07/14/6a561f448aaca.jpeg",
+      "titulo": "Del 'qué ponen hoy' al 'tú dónde lo ves': el fin de la televisión que conocíamos",
+      "link": "https://www.publico.es/culturas/cine-tv/ponen-hoy-ves-television-conociamos.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/08/29/6a92ef4207fbb.jpeg",
       "tipo": "imagen"
     }
   ]
