@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "En Madrid somos todos latinos",
+      "link": "https://elpais.com/gente/2026-08-31/en-madrid-somos-todos-latinos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/34NMBPV2G5DIZKSCQU27QJYEOU.jpg?auth=0990869cf944e26747a9b689ebbcc5c0b5a5598ffee5bd4d8f0d2c383e387f34",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los secretos de belleza insólitos de la realeza europea: maquillajes tóxicos, barros alucinógenos y pelucas de vello púbico",
       "link": "https://elpais.com/gente/2026-08-30/los-secretos-de-belleza-insolitos-de-la-realeza-europea-maquillajes-toxicos-barros-alucinogenos-y-pelucas-de-vello-pubico.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/CCCTDU62TFC5BN35HTYPVRGT54.jpg?auth=e8a60d7d6eb4ba09b2d003d123c9d066707d20913b5d56296e5d9b0ecade3b09",
@@ -28,12 +34,6 @@
       "titulo": "El verano que la reina Sofía pudo casarse con Harald de Noruega",
       "link": "https://elpais.com/gente/2026-08-28/el-verano-que-la-reina-sofia-pudo-casarse-con-harald-de-noruega.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/I7LYUNIR2NHHJAXVW6F5GRK26U.jpg?auth=19cb7be3bb34340c450e6b65daf9f32b84e21eeff80edbb5784a6ec0a45bbd42",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Así queda la línea de sucesión del trono de Noruega tras la muerte de Harald V",
-      "link": "https://elpais.com/gente/2026-08-28/asi-queda-la-linea-de-sucesion-del-trono-de-noruega-tras-la-muerte-de-harald-v.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/VL474AO6ZRCWLHNYM4DEOYNZDU.jpg?auth=3a0ddf4b715a853594c5bbfd82eff2cc303e71a139bbbabf13f271fb6698e929",
       "tipo": "imagen"
     }
   ]

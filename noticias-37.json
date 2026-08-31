@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Se acerca el otoño",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260831/11621731/acerca-otono.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/28/6a9172b321d63.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La doble torre Glòries",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260831/11620984/doble-torre-glories.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/27/6a9009fddfde3.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un cóctel en Benidorm",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260831/11621004/coctel-benidorm.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/27/6a900cab9391a.r_d.774-892-3200.jpeg",
@@ -22,18 +34,6 @@
       "titulo": "El ocaso de los girasoles",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260831/11621749/ocaso-girasoles.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/28/6a91747dab5ad.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La noche nublada de la luna",
-      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260831/11621742/noche-nublada-luna.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/28/6a91739e12afe.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El soroll dels mòbils",
-      "link": "https://www.lavanguardia.com/participacion/cartas/20260830/11623334/soroll-dels-mobils.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
       "tipo": "imagen"
     }
   ]

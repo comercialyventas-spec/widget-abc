@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Aquel anuncio que ningún niño quería ver",
+      "link": "https://elpais.com/television/2026-08-31/aquel-anuncio-que-ningun-nino-queria-ver.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/P5VRSY66UJDXTHFHKLPIKTJKWA.jpg?auth=6b9be80880547f8fb9705b3d882f9ef6c46301cf7d5d3a88458d9aa38d34a5d3",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Aimar Bretos: “Sería de ciegos decir que la convivencia en este país no está enrarecida”",
       "link": "https://elpais.com/comunicacion/2026-08-30/aimar-bretos-seria-de-ciegos-decir-que-la-convivencia-en-este-pais-no-esta-enrarecida.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260828/1208701_142426_video_1800.mp4",
@@ -13,9 +19,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Cinco retos de La 1 para la nueva temporada",
-      "link": "https://elpais.com/television/2026-08-29/cinco-retos-de-la-1-para-la-nueva-temporada.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/T7PI64355NEHVD3IYZBILQ6ZEQ.png?auth=755bbf50740aa6ffc055a1183e29070496c47e51b16609eb027fd85bced1ca8f",
+      "titulo": "¿Defiende ‘La patrulla canina’ el capitalismo autoritario?",
+      "link": "https://elpais.com/television/series/2026-08-31/defiende-la-patrulla-canina-el-capitalismo-autoritario.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SRLOWCXUYZFALPEKO7XHMPXWHE.png?auth=2864d0e856b39738de8abc087e7c470991dc39c2ef0544f6ab599296d1af71c6",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "De trabajador de un colegio a “espía” anti-Putin",
       "link": "https://elpais.com/television/2026-08-29/de-trabajador-de-un-colegio-a-espia-anti-putin.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260318/1149876_133951_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La rebelión de la señora de Cuenca",
-      "link": "https://elpais.com/television/2026-08-28/la-rebelion-de-la-senora-de-cuenca.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/PETXYV447JCERIQPCX76YYRMJ4.jpg?auth=159ff66e105bfe3d0b6ac31fb6dc8f3bd309aedf9d836cc57bd42e6e89a94d5a",
       "tipo": "imagen"
     }
   ]
