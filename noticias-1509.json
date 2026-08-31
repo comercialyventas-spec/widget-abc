@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Ceuta: la pregunta que no nos estamos haciendo",
+      "link": "https://www.eldiario.es/opinion/tribuna-abierta/ceuta-pregunta-no-haciendo_129_13477626.html",
+      "imagen": "https://static.eldiario.es/clip/f996e18c-6c6c-49ad-bf0d-7e060142e1c0_avatar-200-aspect-ratio_default_0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Organizarnos como única salida: la hipótesis del Foro Social",
       "link": "https://www.eldiario.es/opinion/tribuna-abierta/organizarnos-unica-salida-hipotesis-foro-social_129_13473456.html",
       "imagen": "https://static.eldiario.es/clip/48acd240-4a91-4420-9923-bfb9fe8d8245_avatar-200-aspect-ratio_default_0.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "El Moroccogate",
       "link": "https://www.eldiario.es/opinion/tribuna-abierta/moroccogate_129_13471178.html",
       "imagen": "https://static.eldiario.es/clip/d03264ba-a53d-4713-baed-96a12bb7a5eb_avatar-200-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Universidad pos-COVID y pre-IA",
-      "link": "https://www.eldiario.es/opinion/tribuna-abierta/universidad-pos-covid-pre-ia_129_13469068.html",
-      "imagen": "https://static.eldiario.es/clip/f3d5a02e-4e27-4c5c-a429-b2d1f0895d07_avatar-200-aspect-ratio_default_0.jpeg",
       "tipo": "imagen"
     }
   ]
