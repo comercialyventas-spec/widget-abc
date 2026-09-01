@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Son Gotleu no es Molenbeek",
+      "link": "https://okdiario.com/baleares/son-gotleu-no-molenbeek-20201283",
+      "imagen": "https://okdiario.com/img/2027/08/01/imagen_final-1.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sánchez, el top en la escala de Mohs",
       "link": "https://okdiario.com/opinion/sanchez-top-escala-mohs-20203835",
       "imagen": "https://okdiario.com/img/2026/08/31/01-09-2026-sanchez-extrema-carnadura.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "El liderazgo no se va de vacaciones",
       "link": "https://okdiario.com/opinion/liderazgo-no-va-vacaciones-20204395",
       "imagen": "https://okdiario.com/img/2026/08/31/opinion-monica-vazquez-interior.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Se confirma que Sánchez ha rendido el Estado a Marruecos",
-      "link": "https://okdiario.com/opinion/confirma-que-sanchez-rendido-estado-marruecos-20202643",
-      "imagen": "https://okdiario.com/img/2026/08/31/edito-se-confirma-que-sanchez-inter.jpg",
       "tipo": "imagen"
     }
   ]

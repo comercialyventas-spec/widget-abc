@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "España dispara las compras de gas ruso a pocos meses del veto definitivo de Europa",
+      "link": "https://elpais.com/noticias/gas/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QXRBQWVQHVB3PC5OAWFU6SL23E.jpg?auth=4216aad948da76aa122d1c36847f258854cf7b71c29ef4cf3907ca1e7144ce96&width=414&height=233&focal=2791%2C1561",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La defensa de Lisa Cook le responde a Trump: “No hay una causa reconocible en ley para removerla de la junta de la Fed”",
       "link": "https://elpais.com/noticias/reserva-federal/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/XD2ROYCV6JHXJOLCDZ4W2E7IKY.jpg?auth=28e673f84be439ff8e753cd93a9b106971a52f99197c1bf59d339abde1bbec98&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XD2ROYCV6JHXJOLCDZ4W2E7IKY.jpg?auth=28e673f84be439ff8e753cd93a9b106971a52f99197c1bf59d339abde1bbec98&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "La inflación, el déficit y la fiebre por la IA disparan el interés de los bonos a máximos de dos décadas",
       "link": "https://elpais.com/noticias/bonos-tesoro/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/KFLSDHCV7RPHRNI6GTBHVR6TOA.jpg?auth=ba8821db06ca3feb9bff75d8fcac88cd5b30a256bcbbdf175287a10ff714e7ea&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Polymarket y los mercados de predicciones: un negocio millonario ante el abismo regulatorio",
-      "link": "https://elpais.com/noticias/polymarket/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/4JPZDPTWEBB45IPAUOB77IBMYM.jpg?auth=b1d642a6d9e604a718363481c3840bf7dcf65123ce86842e92f4a7663d7d18ca&width=414&height=311&focal=2958%2C2163",
       "tipo": "imagen"
     }
   ]

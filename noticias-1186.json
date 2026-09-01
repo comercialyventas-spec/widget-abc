@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La Policía de Nueva York abate a una mujer tras matar a una persona y herir a otra en Times Square",
+      "link": "https://okdiario.com/internacional/policia-nueva-york-abate-mujer-matar-persona-herir-otra-times-square-20205741",
+      "imagen": "https://okdiario.com/img/2026/09/01/nuevayork-2.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "España prorroga 15 días los controles a los pasajeros de Italia en respuesta al anuncio del Gobierno de Meloni",
       "link": "https://okdiario.com/internacional/italia-prorroga-15-dias-mas-controles-viajeros-procedentes-espana-20199621",
       "imagen": "https://okdiario.com/img/2026/08/31/imagen_recortada-25.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Islandia rechaza en referéndum las conversaciones de adhesión a la Unión Europea",
       "link": "https://okdiario.com/internacional/islandia-rechaza-referendum-conversaciones-adhesion-union-europea-20195173",
       "imagen": "https://okdiario.com/img/2026/08/30/recuento-de-votos-en-el-referendum-de-islandia.-foto_-ep.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Localizan a un segundo español desaparecido en la catastrófica riada de Nepal",
-      "link": "https://okdiario.com/internacional/localizan-segundo-espanol-desaparecido-catastrofica-riada-nepal-20193978",
-      "imagen": "https://okdiario.com/img/2026/08/29/europapress_7733141_august_26_2026_kathmandu_bagmati_nepal_nuwakot_nepal_august_26_an_aftermath-2.jpeg",
       "tipo": "imagen"
     }
   ]
