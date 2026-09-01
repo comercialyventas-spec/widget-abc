@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Olot al rojo vivo",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260901/11624546/olot-rojo-vivo.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/01/6a96a458e18aa.r_d.1021-657-2338.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El genuino mediterráneo de Pyrgos",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260901/11624551/genuino-mediterraneo-pyrgos.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/01/6a96a55a17b4f.r_d.1011-516-2338.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Melodías del verano en Palafrugell",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260901/11624707/melodias-verano-palafrugell.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/01/6a96c0e5626b7.r_d.1001-723-2408.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El arco iris de la plaza Clarà de Olot",
-      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260901/11624688/arco-iris-plaza-clara-olot.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/01/6a96be010095a.jpeg",
       "tipo": "imagen"
     }
   ]

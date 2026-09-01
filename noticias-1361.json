@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "‘La mesa de Hora 25’, en directo en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-09-01/la-mesa-de-hora-25-en-directo-en-el-pais.html",
+      "imagen": "https://www.youtube.com/watch?v=KcGcoyFpmZs",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Cuándo dejarán de estar los inmigrantes en las calles de Ceuta?",
       "link": "https://elpais.com/videos/2026-09-01/cuando-dejaran-de-estar-los-inmigrantes-en-las-calles-de-ceuta.html",
       "imagen": "https://vdmedia.elpais.com/elpaistop/multimedia/20268/31/1209550.mp4",
@@ -28,12 +34,6 @@
       "titulo": "Vídeo en directo | Aimar Bretos entrevista a Pedro Sánchez en ‘Hoy por Hoy’",
       "link": "https://elpais.com/videos/2026-08-31/video-en-directo-aimar-bretos-entrevista-a-pedro-sanchez-en-hoy-por-hoy.html",
       "imagen": "https://www.youtube.com/watch?v=Qe7-oqMb2JA",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Termina la COP17: Estados Unidos ha supuesto el principal obstáculo de la cumbre",
-      "link": "https://elpais.com/videos/2026-08-31/termina-la-cop17-estados-unidos-ha-supuesto-el-principal-obstaculo-de-la-cumbre.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260830/1209154_173325_video_1800.mp4",
       "tipo": "imagen"
     }
   ]
