@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Video | El segundo informe de Gobierno de Claudia Sheinbaum, en vivo",
+      "link": "https://elpais.com/mexico/2026-09-01/video-el-segundo-informe-de-gobierno-de-claudia-sheinbaum-en-vivo.html",
+      "imagen": "https://www.youtube.com/watch?v=zKhMIYFOF50",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Tres bombas que explican Zacatecas",
       "link": "https://elpais.com/mexico/2026-09-01/tres-bombas-que-explican-zacatecas.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260831/1209578_201706_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Detenida una persona por el ataque a una comandancia en Zacatecas",
+      "link": "https://elpais.com/mexico/2026-09-01/detenida-una-persona-por-el-ataque-a-una-comandancia-en-zacatecas.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/3NEQTXRCP5IOVHSYD2T27NBIRI.jpg?auth=9e974283f92b9352ffa4729e7ce31099c663877a870680916dbc4e99bd8c6740",
       "tipo": "imagen"
     },
     {
@@ -19,21 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Al interior del nuevo Poder Judicial: un año de fidelidad a Sheinbaum, peleas por el presupuesto y tensión entre presidentes",
-      "link": "https://elpais.com/mexico/2026-09-01/al-interior-del-nuevo-poder-judicial-un-ano-de-fidelidad-a-sheinbaum-peleas-por-el-presupuesto-y-tension-entre-presidentes.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/BD6AGVDR6ZBXRPES5NDLXF32XQ.jpg?auth=adc4cb30259af0a3906f8dc27efcf39065d4f2a68eba13efb0591112626f180a",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Alma Rosa Rojo, tras sobrevivir a un ataque armado en Sinaloa: “Fueron ocho disparos y todos iban contra mí”",
       "link": "https://elpais.com/mexico/2026-09-01/alma-rosa-rojo-tras-sobrevivir-a-un-ataque-armado-en-sinaloa-fueron-ocho-disparos-y-todos-iban-contra-mi.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/CX37M7WPPVHKLOFM3ZJRLXP574.jpeg?auth=c624a5fe61e3a3aadc626f5b576f7e45346f57ab1261af0b90f1c6942e84729a",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Capturado 10 años después el presunto transfeminicida de Paola Buenrostro",
-      "link": "https://elpais.com/mexico/2026-09-01/capturado-10-anos-despues-el-presunto-transfeminicida-de-paola-buenrostro.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/VSHBBZDMXFBG5N7NZK2H4QDCLM.jpg?auth=e8d85f7cfd26de72be249be6695534278341914f3e1e3f6bac64beb0937b444c",
       "tipo": "imagen"
     }
   ]
