@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "📩 BOLETÍN | La actualidad... y algunas novedades",
+      "link": "https://www.eldiario.es/blog/al-dia/suscribir-boletin-al-dia/",
+      "imagen": "https://static.eldiario.es/clip/8d261fdb-0540-43db-8b89-6e914816f3fc_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "🎙 PODCAST | Estados Unidos no es el mejor país del mundo",
       "link": "https://www.eldiario.es/blog/al-dia/podcast-estados-unidos-no-mejor-pais-mundo_132_13392827.html",
       "imagen": "https://static.eldiario.es/clip/c9b56e6c-84ad-4cf5-a0b1-9a077a11f183_16-9-discover-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "🎙 PODCAST | La maternidad tardía y el mercado de la fertilidad [R]",
       "link": "https://www.eldiario.es/blog/al-dia/podcast-maternidad-tardia-mercado-fertilidad-r_132_13389131.html",
       "imagen": "https://static.eldiario.es/clip/0d521f92-b929-4528-a8fb-dcdcc9abd2eb_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "🎙 PODCAST | ESPECIAL | Ayuso vs. el fiscal general (y III): la sentencia",
-      "link": "https://www.eldiario.es/blog/al-dia/podcast-especial-ayuso-vs-fiscal-general-iii-sentencia_132_13389103.html",
-      "imagen": "https://static.eldiario.es/clip/2cb405be-fce7-4930-860c-c856e910874f_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
