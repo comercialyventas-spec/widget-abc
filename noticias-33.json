@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Christiaan Barnard, el doctor de los corazones",
+      "link": "https://www.lavanguardia.com/opinion/20260901/8632610/christiaan-barnard-doctor-corazones.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2022/12/03/638a8614204d4.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Anticipo de la temporada de boletus",
       "link": "https://www.lavanguardia.com/opinion/20260901/11624192/anticipo-temporada-boletus.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/01/6a960399a2e7e.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Sin interés nacional",
       "link": "https://www.lavanguardia.com/opinion/20260901/11623973/interes-nacional.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/31/6a95997bc1f7a.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Arde Troya",
-      "link": "https://www.lavanguardia.com/opinion/20260901/11623972/arde-troya.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/28/6a90b9e3f0022.r_d.1444-1120-0.jpeg",
       "tipo": "imagen"
     }
   ]

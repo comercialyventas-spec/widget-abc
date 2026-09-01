@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "En recuerdo de Enrique Patón",
+      "link": "https://www.abc.es/espana/cataluna/angel-gonzalez-abad-recuerdo-enrique-paton-20260901124456-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/01/DAMBin-RVnDSjKt7lrJTwl04zQlmUM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los Mossos investigan la muerte violenta de un hombre en Manresa (Barcelona)",
+      "link": "https://www.abc.es/espana/cataluna/mossos-investigan-muerte-violenta-hombre-manresa-barcelona-20260901120905-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/01/mos-RNeESIA5GZPvkiYMNPqZxBI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El número dos de la consejería catalana de Interior dimite en vísperas de la reorganización de la cúpula de los Mossos",
       "link": "https://www.abc.es/espana/cataluna/numero-dos-consejeria-catalana-interior-dimite-visperas-20260831182451-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/31/par-RD4pZco7P5mZr26vlYJJOGI-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Cataluña arranca un curso escolar convulso con los docentes en pie de guerra y en pleno fiasco de PISA",
       "link": "https://www.abc.es/espana/cataluna/vuelta-clase-cataluna-huelga-profesores-fiasco-pisa-20260830123148-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/30/nens-RswEcUL7LzrY2HMmdWpvXHO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Muere ahogada una bañista alemana de 73 años en Castelló d'Empúries (Gerona)",
-      "link": "https://www.abc.es/espana/cataluna/muere-ahogada-banista-alemana-anos-castello-dempuries-20260830200505-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/30/DAMBin-Ra7kti0LZ7W3BdSLXj7K6iN-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Muere atropellado un joven de 16 años en Castelldefels y detienen al conductor, que había huido",
-      "link": "https://www.abc.es/espana/cataluna/muere-atropellado-joven-anos-castelldefels-detienen-conductor-20260830193355-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/30/castelldefels-RocD4vmIwh84eciNYsEnhgO-1200x840@diario_abc.PNG",
       "tipo": "imagen"
     }
   ]
