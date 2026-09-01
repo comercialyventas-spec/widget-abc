@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Un incendio obliga a evacuar una residencia de Monforte y deja un herido por quemaduras",
+      "link": "https://www.abc.es/espana/galicia/incendio-obliga-evacuar-residencia-monforte-deja-herido-20260901104005-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/01/1512440195%20(1)-R9xuLezmvxiJx1TAUDCZF3M-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Dos evacuados por un incendio en una vivienda de La Coruña",
+      "link": "https://www.abc.es/espana/galicia/dos-evacuados-incendio-vivienda-coruna-20260901094130-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/01/1483445452-RvAzlfJi2wEKAQsNM4UjBhM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Policía cierra y tapia una vivienda de Vigo usada para vender droga",
       "link": "https://www.abc.es/espana/galicia/policia-cierra-tapia-vivienda-vigo-usada-vender-20260901090424-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/01/Foto%20tapiado-Ryuog8dLWl435H4MRcitf9O-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "La oposición se desmarca de las concentraciones en apoyo a Ceuta",
       "link": "https://www.abc.es/espana/galicia/oposicion-desmarca-concentraciones-apoyo-ceuta-20260831190944-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/31/1516599724-RJnBXQoRCFMROaCKYQOZV2N-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El BNG propone otro plan de choque millonario, ahora por el coste de la vida",
-      "link": "https://www.abc.es/espana/galicia/bng-propone-plan-choque-millonario-coste-vida-20260831154351-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/31/EXECUTIVA%20NACIONAL_BNG_31%20DE%20AGOSTO_5-RZKV55frZNu8RuY2uD4PUBO-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El PP de Verín propone al diputado Víctor Baladrón como candidato a la alcaldía",
-      "link": "https://www.abc.es/espana/galicia/pp-verin-propone-diputado-victor-baladron-candidato-20260831124247-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/31/verinbala-Rtc0515MmXbD7u8IfaYX2oL-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

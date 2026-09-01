@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Albert Speer, 'el nazi bueno'",
+      "link": "https://www.lavanguardia.com/hemeroteca/20210901/7690716/albert-speer-fiel-arquitecto-hitler.html",
+      "imagen": "https://hemeroteca-imagenes.lavanguardia.com/uploads/20260901/5f15f275056df.r_d.290-200-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La trágica muerte de Lay Di",
       "link": "https://www.lavanguardia.com/hemeroteca/20220831/8493367/tragica-muerte-lady-di.html",
       "imagen": "https://hemeroteca-imagenes.lavanguardia.com/uploads/20260831/images.jpg",
@@ -16,12 +22,6 @@
       "titulo": "La última gira de los Beatles",
       "link": "https://www.lavanguardia.com/hemeroteca/20210829/7687428/the-beatles-conciertos-candlestick-park-san-francisco-1966.html",
       "imagen": "https://hemeroteca-imagenes.lavanguardia.com/uploads/20260813/cacaaaaaa.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Manolete, un torero mítico",
-      "link": "https://www.lavanguardia.com/hemeroteca/20220828/8488123/manolete.html",
-      "imagen": "https://hemeroteca-imagenes.lavanguardia.com/uploads/20260813/CACAA.jpg",
       "tipo": "imagen"
     },
     {

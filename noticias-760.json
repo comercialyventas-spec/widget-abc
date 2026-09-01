@@ -1,20 +1,26 @@
 {
   "noticias": [
     {
+      "titulo": "Fallece la joven de 25 años que sufrió un ahogamiento en la balsa de Beriáin, Navarra, hace una semana",
+      "link": "https://www.eldiario.es/navarra/fallece-joven-25-anos-sufrio-ahogamiento-balsa-beriain-navarra-semana_1_13478677.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "Pamplona recupera su escudo original en el Ayuntamiento tras haber sido retirado por UPN en 2019",
       "link": "https://www.eldiario.es/navarra/pamplona-recupera-escudo-original-ayuntamiento-haber-sido-retirado-upn_1_13476635.html",
+      "imagen": "https://static.eldiario.es/clip/5b235526-9b83-48b2-9564-2ddee33ebc56_16-9-discover-aspect-ratio_default_0_x471y120.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La biometanización en Navarra: una cuestión que exige una moratoria real y planificación democrática",
+      "link": "https://www.eldiario.es/navarra/contrapunto/biometanizacion-navarra-cuestion-exige-moratoria-real-planificacion-democratica_132_13476158.html",
       "imagen": "",
       "tipo": ""
     },
     {
       "titulo": "Otegi fija como prioridad para EH Bildu “detener” al “bloque reaccionario de Abascal y 'FeiVox'”",
       "link": "https://www.eldiario.es/navarra/otegi-fija-prioridad-eh-bildu-detener-bloque-reaccionario-abascal-feivox_1_13476814.html",
-      "imagen": "https://static.eldiario.es/clip/1905f2b8-c4b9-4a7b-b09b-f7bb3041c5a1_16-9-discover-aspect-ratio_default_0_x1056y535.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La biometanización en Navarra: una cuestión que exige una moratoria real y planificación democrática",
-      "link": "https://www.eldiario.es/navarra/contrapunto/biometanizacion-navarra-cuestion-exige-moratoria-real-planificacion-democratica_132_13476158.html",
       "imagen": "",
       "tipo": ""
     },
@@ -27,13 +33,7 @@
     {
       "titulo": "Navarra comienza a vacunar a bebés contra la bronquiolitis, una campaña que en 2025 evitó más de 100 ingresos",
       "link": "https://www.eldiario.es/navarra/navarra-comienza-vacunar-bebes-bronquiolitis-campana-2025-evito-100-ingresos_1_13476193.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Reconstruir un pueblo tras la ola de incendios que calcinó media Navarra: “Aún necesitamos tiempo y muchos años”",
-      "link": "https://www.eldiario.es/navarra/reconstruir-pueblo-ola-incendios-calcino-media-navarra-necesitamos-tiempo-anos_1_13442383.html",
-      "imagen": "https://static.eldiario.es/clip/c5f18e03-82bf-4c92-a457-6f0314e4b7f1_16-9-discover-aspect-ratio_default_1150026.jpg",
+      "imagen": "https://static.eldiario.es/clip/883bf526-ad11-474e-8176-4e159da71482_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
