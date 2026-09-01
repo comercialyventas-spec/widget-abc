@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Nuevo positivo de Fiebre del Nilo Occidental en un caballo en Gran Canaria",
+      "link": "https://www.abc.es/espana/canarias/nuevo-positivo-fiebre-nilo-occidental-caballo-gran-20260901202123-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/01/mosquito-RKjVBP5z7c8EesNqLxja1nM-1200x840@diario_abc.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Rescatado un cayuco con 97 inmigrantes en aguas de El Hierro",
       "link": "https://www.abc.es/espana/canarias/rescatado-cayuco-inmigrantes-aguas-hierro-20260901120106-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/01/helimer-RFeCOWe6lKjzH3Tyn1MXqAM-1200x840@diario_abc.png",
@@ -28,12 +34,6 @@
       "titulo": "La Policía Nacional evita que un hombre salte al vacío desde la décima planta de un hotel en Tenerife",
       "link": "https://www.abc.es/espana/canarias/policia-nacional-evita-hombre-salte-vacio-decima-20260831101556-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/31/POLICIA-RJF3Z3oh43ysl6b2baGbZHN-1200x840@diario_abc.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El precio de la vivienda sube un 7,5% en Canarias, la quinta comunidad más cara de España",
-      "link": "https://www.abc.es/espana/canarias/precio-vivienda-sube-canarias-quinta-comunidad-cara-20260831100821-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/31/vivienda-RdORfeHAtKfjWMDFohLW8LJ-1200x840@diario_abc.png",
       "tipo": "imagen"
     }
   ]
