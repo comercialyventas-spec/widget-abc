@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Muere un ladrón aplastado en un camión de basura cuando huía de la policía",
+      "link": "https://www.mediterraneodigital.com/sucesos-espana/contenedor-muere",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/9/camion-basura.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Detenido un marroquí por violar a una joven en la Playa de la Malvarrosa de Valencia",
       "link": "https://www.mediterraneodigital.com/sucesos-espana/marroqui-violacion-malvarrosa-valencia",
       "imagen": "https://www.mediterraneodigital.com/images/2026/8/marroqui-violador.jpg",
@@ -22,12 +28,6 @@
       "titulo": "Detenido un entrenador boliviano por violar y dejar embarazada a una jugadora de 15 años",
       "link": "https://www.mediterraneodigital.com/sucesos-espana/entrenador-voleibol-palma",
       "imagen": "https://www.mediterraneodigital.com/images/2026/8/voleibol.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Fast & Furious en Madrid: bestial persecución policial a un georgiano drogado y sin carnet",
-      "link": "https://www.mediterraneodigital.com/sucesos-espana/persecucion-coches-madrid",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/8/persecucion-policial-madrid.jpg",
       "tipo": "imagen"
     }
   ]
