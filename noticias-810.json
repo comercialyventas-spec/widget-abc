@@ -1,28 +1,10 @@
 {
   "noticias": [
     {
-      "titulo": "We're unable to show this account",
-      "link": "https://www.twitter.com/",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "We're unable to show this account",
-      "link": "https://www.twitter.com/search",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Log in or sign up for X",
-      "link": "https://www.twitter.com/i/jf/onboarding/web",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Terms·Privacy·Cookies·Accessibility·Ads Info·More© 2026 X Corp.",
-      "link": "https://x.com/tos",
-      "imagen": "",
-      "tipo": ""
+      "titulo": "Pinned($R=>$R[60].next($R[62]={relayRecords:$R[63]={\"client:root\":$R[64]={__id:\"client:root\",__typename:\"__Root\",\"user_result_by_screen_name(safety_le",
+      "link": "https://www.twitter.com/eldiarioes",
+      "imagen": "https://pbs.twimg.com/profile_images/1677814602992701441/jStj6omO_normal.jpg",
+      "tipo": "imagen"
     }
   ]
 }

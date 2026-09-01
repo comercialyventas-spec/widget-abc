@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "El Gobierno prohíbe en Madrid y Santander las concentraciones en apoyo a Ceuta",
-      "link": "https://www.abc.es/espana/gobierno-prohibe-varias-concentraciones-apoyo-ceuta-convocadas-20260901200512-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/01/1516660571-RYbRJNSLnlU1rZUClue2XjL-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "Aumenta el número de alcaldes del PSOE que desobedecerán a Ferraz en las manifestaciones",
       "link": "https://www.abc.es/espana/aumenta-numero-alcaldes-psoe-desobedeceran-hoy-ferraz-20260901192115-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/01/1516624873-U20978908959aND-RIuYCVqszMiv2aMcFVu4p8H-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/01/1516624873-U20978908959aND-RIuYCVqszMiv2aMcFVu4p8H-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "EE.UU. lanza nuevos ataques contra Irán en represalia por bombardeos en Ormuz",
+      "titulo": "Al menos dos muertos tras los ataques de EE.UU. contra Irán en represalia por bombardeos en Ormuz",
       "link": "https://www.abc.es/internacional/eeuu-lanza-nuevos-ataques-iran-represalia-bombardeos-20260901190750-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/01/1509160020-k06C-U301525176319XuB-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/01/1509160020-k06C-U301525176319XuB-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "El plan de Messi: Balón de Oro, Princesa de Asturias y jubilación en Barcelona",
-      "link": "https://www.abc.es/deportes/futbol/messi-adios-activa-plan-jubilarse-barcelona-salto-20260901155949-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/01/DAMBin-RLej072MMIkyLuhximEgChM-1200x840@diario_abc.jpg"
+      "titulo": "Muere una vicepresidenta de Bank Of America tras ser apuñalada por una mujer en Times Square",
+      "link": "https://www.abc.es/sociedad/muere-vicepresidenta-bank-america-tras-apunalada-mujer-20260901211759-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/01/1516659809-kcKI-U301527083091biF-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Atlético ficha al delantero Jonathan David",
+      "link": "https://www.abc.es/deportes/futbol/cierre-mercado-fichajes-directo-ultima-hora-altas-20260901133636-di.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/01/1516461025-kFeH-U301517961181LiH-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
     },
     {
       "titulo": "Fernando Aramburu: «'Patria' es ya un bien público, está en tantas casas que tiene vida propia»",
       "link": "https://www.abc.es/cultura/cultural/fernando-aramburu-gente-activa-terrorismo-pedido-perdon-20260901185643-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/01/aramburuok-R9wjCb5wHpDZEj7iO0jHRCO-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/01/aramburuok-R9wjCb5wHpDZEj7iO0jHRCO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "Los talibanes se hacen con el control de la embajada afgana en Berlín",
-      "link": "https://www.abc.es/internacional/talibanes-control-embajada-afgana-berlin-20260901191409-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/01/1516466361-RHRhZJNQctQCmi0ccud2j5O-1200x840@diario_abc.jpg"
+      "titulo": "El Gobierno pone trabas a las concentraciones en Madrid y Santander en apoyo a Ceuta",
+      "link": "https://www.abc.es/espana/gobierno-prohibe-varias-concentraciones-apoyo-ceuta-convocadas-20260901200512-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/01/1516660571-RYbRJNSLnlU1rZUClue2XjL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }

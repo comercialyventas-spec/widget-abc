@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¿Es la tauromaquia de derechas?",
+      "link": "https://www.eldiario.es/opinion/tribuna-abierta/tauromaquia-derechas_129_13479303.html",
+      "imagen": "https://static.eldiario.es/clip/249ac4bd-0caf-45d6-b7c5-500e9ff7c847_avatar-200-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ceuta: la pregunta que no nos estamos haciendo",
       "link": "https://www.eldiario.es/opinion/tribuna-abierta/ceuta-pregunta-no-haciendo_129_13477626.html",
       "imagen": "https://static.eldiario.es/clip/f996e18c-6c6c-49ad-bf0d-7e060142e1c0_avatar-200-aspect-ratio_default_0.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Cuando la acción humanitaria se convierte en blanco de la incomprensión",
       "link": "https://www.eldiario.es/opinion/tribuna-abierta/accion-humanitaria-convierte-blanco-incomprension_129_13472811.html",
       "imagen": "https://static.eldiario.es/clip/edbde1a1-3767-4b5c-9974-96af517a1a46_avatar-200-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Moroccogate",
-      "link": "https://www.eldiario.es/opinion/tribuna-abierta/moroccogate_129_13471178.html",
-      "imagen": "https://static.eldiario.es/clip/d03264ba-a53d-4713-baed-96a12bb7a5eb_avatar-200-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
