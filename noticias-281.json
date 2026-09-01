@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Evacuadas más de 10.000 personas en Alemania tras el hallazgo de una bomba de la Segunda Guerra Mundial",
+      "link": "https://www.abc.es/internacional/evacuadas-10000-personas-alemania-tras-hallazgo-bomba-20260901075950-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/01/Polizei-kn1-U301514562118yXD-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El secretario del Ejército de EE.UU. presenta su dimisión en medio de las tensiones con Pete Hegseth",
       "link": "https://www.abc.es/internacional/secretario-ejercito-eeuu-presenta-dimision-medio-tensiones-20260901063929-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/01/1516643841-kJN-U301514188349tED-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Curazao vuelve a mirar hacia el petróleo de Venezuela",
       "link": "https://www.abc.es/internacional/curazao-vuelve-mirar-petroleo-venezuela-20260831013150-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/31/IMG_4695-RId2xZ5gqZ1UOUBDuikOhqM-1200x840@diario_abc.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cómo el cordón sanitario contra la AfD ha desestabilizado la política alemana",
-      "link": "https://www.abc.es/internacional/cordon-sanitario-afd-desestabilizado-politica-alemana-20260901013123-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/01/teconomist_1200x840-kuDE-U301477735794gyG-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

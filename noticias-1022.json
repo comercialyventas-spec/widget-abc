@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
+      "titulo": "La televisión vuelve a la normalidad en agosto: Antena 3 reina, La 1 se desinfla y Telecinco respira",
+      "link": "https://www.abc.es/play/television/noticias/television-vuelve-normalidad-agosto-antena-reina-desinfla-20260831083427-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/08/31/01783520843201-Rro4VXjufxDLkKGjvnXAFvJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Chenoa: «Hago ayuno de 16 horas y lo rompo con una proteína, aguacate y un batido de fruta, leche de coco, jengibre, creatina y colágeno»",
+      "link": "https://www.abc.es/gente/chenoa-anos-hago-ayuno-horas-rompo-proteina-20260901083000-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/01/chenoa--kwxB-U3015062481220SF-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "José Abellán, cardiólogo: «Si cuando te levantas de la cama o del sofá notas mareo o parece que te vas a desmayar es porque a tu cabeza le cae la presión arterial»",
       "link": "https://www.abc.es/bienestar/jose-abellan-cardiologo-levantas-cama-sofa-notas-20260901190511-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/09/01/newspaint-1788195831702-1200x840-RrHrI7OZqKDdbfEu314TkgI-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/09/01/newspaint-1788195831702-1200x840-RrHrI7OZqKDdbfEu314TkgI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "David Larreal, experto en café: «El agua de Madrid es más limpia, pero para hacer café hay que usar agua de botella»",
       "link": "https://www.abc.es/bienestar/david-larreal-experto-cafe-agua-madrid-limpia-sodio-botella-20260901073000-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/09/01/larreal-experto-cafe-taza-kf7B-U301508160973CiB-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/09/01/larreal-experto-cafe-taza-kf7B-U301508160973CiB-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Cultura asegura que pidió reforzar la seguridad de los museos con oro antes del robo del tesoro de Villena",
       "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/cultura-asegura-pidio-reforzar-seguridad-museos-oro-20260901072854-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/01/robo-villena-RG8KFuzIbv3n20n8yi43wcO-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/01/robo-villena-RG8KFuzIbv3n20n8yi43wcO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Un jurado declara culpable del asesinato del rapero Tupac Shakur a Duane Davis",
       "link": "https://www.abc.es/cultura/musica/jurado-declara-culpable-asesinato-rapero-tupac-shakur-20260901070143-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/01/1516638823-kRSG-U301514217393xlG-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Usain Bolt y la importancia de ser constante: «La gente se rinde cuando no ve resultados en 2 meses»",
-      "link": "https://www.abc.es/deportes/usain-bolt-reflexion-importancia-constante-gente-resultados-meses-20260901070000-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/01/usain-bolt-record-mundial-kGZB-U301509783810LsH-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Se divorcia tras ser diagnosticada con un cáncer terminal y decide acostarse con 200 hombres antes de morir",
-      "link": "https://www.abc.es/recreo/divorcia-tras-diagnosticada-cancer-terminal-decide-acostarse-20260901111417-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2025/08/27/divorciada-kfSC-U301502046925dVB-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/01/1516638823-kRSG-U301514217393xlG-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }

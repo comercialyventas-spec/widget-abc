@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "En España se venden coches cada vez más viejos y con mayor historial de riesgo",
+      "link": "https://www.abc.es/motor/economia/espana-venden-coches-vez-viejos-mayor-historial-20260901085900-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/01/COCHES-USADOS-RTPyfeK72ZIngZluxfbCHxJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Honda y Nissan unen fuerzas para el coche del futuro pese a su fallida fusión",
       "link": "https://www.abc.es/motor/economia/honda-nissan-unen-fuerzas-coche-futuro-pese-20260831133537-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/08/31/software-nissan-R8HLlnb41mWMdyLbf3cpFMI-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "SUV o berlina: qué coche elegir según tu tipo de conducción y necesidades",
       "link": "https://www.abc.es/motor/reportajes/suv-berlina-coche-elegir-segun-tipo-conduccion-20260826072400-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/08/26/SUV-BERLINA-R1kD6CShYGjoWR4r8vIlKAN-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Puesta a punto tras el verano para una vuelta al cole en coche más segura",
-      "link": "https://www.abc.es/motor/reportajes/puesta-punto-tras-verano-vuelta-cole-coche-20260830094700-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/08/30/FOTO-VUELTA-AL-COLE-RCZKvRLCp6lcyAqBjdZK9zO-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

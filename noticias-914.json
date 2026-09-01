@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "'Linternas': el superpoder de entretenerse sin que te sangren los ojos",
+      "link": "https://www.elmundo.es/cultura/2026/09/01/6a919c1121efa0f37d8b4582.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/28/17879279259348.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Muere a los 56 años Francesc Garrido, actor de de 'El tiempo entre costuras' y 'Mar adentro'",
+      "link": "https://www.elmundo.es/cultura/2026/08/31/6a95ad4221efa03c1d8b4580.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/31/17881950791244.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Dolly Parton sí que farmeó aura",
+      "link": "https://www.elmundo.es/cultura/2026/09/01/6a95bdb6fc6c834e548b45b4.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/31/17881986018822.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Hollywood se rinde a los Javis y 'La bola negra' ya parte como favorita a todo en los Oscar",
       "link": "https://www.elmundo.es/cultura/cine/2026/08/30/6a945920fdddff30308b4579.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/30/17881070772930.jpg",
@@ -9,31 +27,13 @@
     {
       "titulo": "Naomi Watts, segundo Premio Donostia en el Festival de San Sebastián",
       "link": "https://www.elmundo.es/cultura/cine/2026/08/31/6a954e72e85ece4c6c8b4575.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/31/17881697792854.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "\"Si tuviera el coraje de matarme, lo habría hecho hace mucho tiempo\"",
       "link": "https://www.elmundo.es/cultura/musica/2026/08/29/6a906419fc6c832e388b4599.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/27/17878489237700.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "The Weeknd, la máquina imparable de hacer hits, se hace gigante durante su primer concierto en Madrid",
-      "link": "https://www.elmundo.es/cultura/musica/2026/08/28/6a91fea0fc6c835e4c8b4578.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "La verdadera historia de Alicia Esteve, alias Tania Head, la impostora del 11-S",
-      "link": "https://www.elmundo.es/cultura/cine/2026/08/28/6a8c2d4521efa0394b8b457c.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Duran Duran: \"Cuando empezamos firmamos un montón de contratos horribles que no serían legales. Nos explotaron\"",
-      "link": "https://www.elmundo.es/cultura/musica/2026/08/29/6a91a69fe85eceba718b457a.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/28/17879303152530.jpg",
       "tipo": "imagen"
     }
   ]
