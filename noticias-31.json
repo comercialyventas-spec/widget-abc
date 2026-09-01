@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Enric Mas, líder de la Vuelta y de los pingüinos",
+      "link": "https://www.lavanguardia.com/deportes/ciclismo/20260901/11624102/enric-mas-lider-vuelta-espana-pingueinos-movistar.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/31/6a95d62a53a2a.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un delantero de altos ritmos",
       "link": "https://www.lavanguardia.com/deportes/20260901/11624267/delantero-altos-ritmos.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Lamine está triste, decían (pues menos mal)",
       "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260831/11624131/lamine-esta-triste-decian-pues-mal.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/31/6a95f78d6d5df.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La sonrisa de Lamine Yamal empodera al Barça de Raphinha en la goleada al Rayo Vallecano",
-      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260831/11624127/sonrisa-lamine-yamal-empodera-barca-raphinha-goleada-rayo-vallecano.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/31/6a95e72568af1.r_d.2823-1172-0.jpeg",
       "tipo": "imagen"
     }
   ]
