@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El cañón Florencia, en el castillo de Inveraray",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260901/11620917/canon-florencia-castillo-inveraray.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/27/6a8ffa904accb.r_d.1595-3156-1484.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Balmes, ¿para cuándo?",
       "link": "https://www.lavanguardia.com/participacion/cartas/20260901/11624191/balmes-cuando.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Agressió per l’estelada",
       "link": "https://www.lavanguardia.com/participacion/cartas/20260901/11624187/agressio-per-l-estelada.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Espectáculo de la Luna y Saturno",
-      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260831/11623709/espectaculo-luna-saturno.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/31/6a956636a092f.r_d.960-473-2338.jpeg",
       "tipo": "imagen"
     }
   ]
