@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Un conductor de 33 años fallece en un accidente de tráfico en Nohales (Cuenca)",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/conductor-anos-fallece-accidente-trafico-nohales-cuenca-20260901092724-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/01/fotonoticia_20260901085241_1920-R7yRtc6ygdk0k10vElMcfkI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El alcalde de Córdoba señala que el pago a los propietarios de los Patios se hará «cuanto antes»",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/alcalde-cordoba-senala-pago-propietarios-patios-hara-20260820133241-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/20/MMpatios-santa-marina-agustin%20(2)-RTys1mDecqeF12yfcqJTfOI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Policía cierra y tapia una vivienda de Vigo usada para vender droga",
+      "link": "https://www.abc.es/espana/galicia/policia-cierra-tapia-vivienda-vigo-usada-vender-20260901090424-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/01/Foto%20tapiado-Ryuog8dLWl435H4MRcitf9O-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Mercadona implanta una nueva hora de cierre en todos sus supermercados desde el martes 1 de septiembre",
       "link": "https://www.abc.es/espana/comunidad-valenciana/mercadona-implanta-nueva-hora-cierre-supermercados-martes-20260831170005-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/31/mercadona-horarios-supermercados-RMzD0EmtkQEeX9af0LjiNCK-1200x840@diario_abc.jpg",
@@ -16,24 +34,6 @@
       "titulo": "El Córdoba CF encara el último día de mercado de traspasos con la defensa como principal prioridad",
       "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/cordoba-encara-ultimo-dia-mercado-traspasos-defensa-20260901183358-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/01/monterrubio-palco-arcangel-RMSEWkkntYEfCcE4D487JMJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las muertes por calor extremo se triplican este verano en Córdoba: más de 30 registradas en julio y agosto",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/muertes-calor-extremo-triplican-verano-cordoba-registradas-20260901081816-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/01/calor-cordoba-meurtes-RNZn3wxw78K2iRb0QMGY1QN-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Liga confirma los horarios de los encuentros del Córdoba CF - Almería y del Albacete - Córdoba CF",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/liga-confirma-horarios-encuentros-cordoba-almeria-albacete-20260901081935-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/01/horario-cordobacf-camara-RWT2tqpDHdjio2euMvpa0pM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La saya del cincuentenario, una rica ofrenda en oro y sedas para la Virgen de la Merced de Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/saya-cincuentenario-rica-ofrenda-oro-sedas-virgen-20260901081913-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/01/saya-virgen-merced-RE5t8XdGoBn4c1erueTqfDM-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

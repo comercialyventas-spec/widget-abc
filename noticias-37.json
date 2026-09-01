@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La Cola de Caballo de Ordesa",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260901/11624334/cola-caballo-ordesa.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/01/6a96715723eb5.r_d.1073-984-2338.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El bucolismo del municipio con menos habitantes de Catalunya",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260901/11624317/bucolismo-municipio-habitantes-catalunya.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/01/6a9663412c767.r_d.938-602-2338.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Los límites de la resiliencia",
       "link": "https://www.lavanguardia.com/participacion/red-lectores/20260901/11623544/limites-resiliencia.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/06/15/6a3013da6bd87.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Encuesta: ¿Apruebas vetar el uso de la IA en las escuelas a los alumnos menores de 14 años?",
-      "link": "https://www.lavanguardia.com/participacion/debates/20260901/11623469/encuesta-apruebas-vetar-ia-escuelas-alumnos-menores-14-anos.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/20/6a8714c552d59.r_d.1052-962-0.jpeg",
       "tipo": "imagen"
     }
   ]

@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de Nuevo Sureste de Madrid",
+      "link": "https://nuevosureste.es/nuevas-paradas-autobus-el-canaveral/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2025/01/Autobus-de-la-linea-159-de-EMT-Madrid-fuente-EMT-Madrid.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La futura estación de Ahijones-Berrocales no conoce aún su ubicación definitiva",
       "link": "https://nuevosureste.es/ubicacion-estacion-metro-ahijones-berrocales/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2024/10/Transbordo-en-la-linea-9B-de-Metro-fuente-Ayuntamiento-de-Rivas-Vaciamadrid.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Las obras de la L11 provocan el cierre completo de la A-3 en Conde de Casal durante la noche de este miércoles",
       "link": "https://nuevosureste.es/corte-a3-obras-metro/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/08/Corte-Conde-de-Casal.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cerca del 15% de los habitantes empadronados en El Cañaveral son extranjeros",
-      "link": "https://nuevosureste.es/poblacion-extranjera-el-canaveral/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/07/calles-el-canaveral-1-1080x675.jpg",
       "tipo": "imagen"
     }
   ]

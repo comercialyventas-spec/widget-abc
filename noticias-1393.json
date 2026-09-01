@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de El Cañaveral",
+      "link": "https://nuevosureste.es/nuevas-paradas-autobus-el-canaveral/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2025/01/Autobus-de-la-linea-159-de-EMT-Madrid-fuente-EMT-Madrid-400x250.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "De 945 a 27.014 empadronados: esta es la evolución de la población de El Cañaveral en los últimos años",
       "link": "https://nuevosureste.es/evolucion-poblacion-el-canaveral/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/08/Captura-de-pantalla-2026-08-27-a-las-17.16.32-400x250.png",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Inteligencia artificial al servicio de la vivienda pública: así transforma EMVS Madrid la gestión de sus edificios",
       "link": "https://nuevosureste.es/emvs-ia-el-canaveral/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2025/07/Canaveral-12-EMVS-2-ok-400x250.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cañaveral 12, reconocida entre las mejores promociones de vivienda pública de España",
-      "link": "https://nuevosureste.es/premio-canaveral-12-emvs-madrid/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2025/07/Canaveral-12-EMVS-400x250.jpg",
       "tipo": "imagen"
     }
   ]
