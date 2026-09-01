@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "\"Que EE.UU. diga que es dueño de recursos en Venezuela puede generar resentimiento y las mismas razones por las que surgen los Hugo Chávez en América Latina\"",
+      "link": "https://www.bbc.com/mundo/articles/c4gqmz701vmo",
+      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2c22/live/7e669df0-a643-11f1-9547-7578d73af9f6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Por qué han disminuido tan drásticamente las muertes por sobredosis de fentanilo en EE.UU.",
       "link": "https://www.bbc.com/mundo/articles/cgjqv1p9n8lo",
       "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/de97/live/213e64a0-a1ac-11f1-a119-1b435f0d2898.jpg",
@@ -10,12 +16,6 @@
       "titulo": "Cómo fueron los últimos minutos antes de que las inundaciones arrasaran la frontera entre Nepal y China",
       "link": "https://www.bbc.com/mundo/articles/cqxv9xq7qy0o",
       "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9a58/live/cf305410-a5e9-11f1-b109-879e35c24276.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Trump dice que la posición de EE.UU. sobre las Malvinas/Falklands está bajo revisión",
-      "link": "https://www.bbc.com/mundo/articles/cp93yrnv4xeo",
-      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3261/live/b6217ad0-a5e4-11f1-a291-b542ee92de7c.jpg",
       "tipo": "imagen"
     },
     {
@@ -31,9 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "¿Hay alguna conexión entre los recientes terremotos en Venezuela, Colombia y Perú?",
-      "link": "https://www.bbc.com/mundo/articles/cvgy73en40eo",
-      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2690/live/352b9e40-a60e-11f1-8637-5b46bde23e50.jpg",
+      "titulo": "Trump dice que la posición de EE.UU. sobre las Malvinas/Falklands está bajo revisión",
+      "link": "https://www.bbc.com/mundo/articles/cp93yrnv4xeo",
+      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3261/live/b6217ad0-a5e4-11f1-a291-b542ee92de7c.jpg",
       "tipo": "imagen"
     }
   ]

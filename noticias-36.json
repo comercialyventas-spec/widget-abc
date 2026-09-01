@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un herido grave de una puñalada en la estación de Arenys de Mar",
+      "link": "https://www.lavanguardia.com/local/maresme/20260901/11625011/herido-grave-punalada-estacion-arenys-mar.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/01/6a972c122d2d7.r_d.441-253-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Detenido un menor en Balaguer presuntamente relacionado con la muerte violenta de un hombre",
       "link": "https://www.lavanguardia.com/local/lleida/20260901/11624941/detenido-menor-balaguer-presuntamente-relacionado-muerte-violenta-hombre.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/04/18/69e3aca8e503e.r_d.2136-1424-0.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Detenido en Málaga el narcotraficante más buscado de Alemania",
       "link": "https://www.lavanguardia.com/sucesos/20260901/11624441/detenido-malaga-narcotraficante-mas-buscado-alemania.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/04/11/67f94ad7340a5.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El timo de los falsos turistas que pedían dinero para volver a casa",
-      "link": "https://www.lavanguardia.com/sucesos/20260901/11624075/timo-falsos-turistas-pedian-dinero-volver-casa.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/31/6a95c90385a68.jpeg",
       "tipo": "imagen"
     }
   ]

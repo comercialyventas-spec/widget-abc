@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Los veinte naturales de Urdiales",
+      "link": "https://www.abc.es/cultura/toros/veinte-naturales-urdiales-20260901224918-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/01/9e5a650c-4aa2-4d3b-bc7d-a2cf61292f0d-RqfyaHURicKwMgVYrKt4WLJ-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La foto de la felicidad completa en el estreno de septiembre",
       "link": "https://www.abc.es/cultura/toros/morante-20260901214148-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/01/hombros-RRVEedOYvsGkzz3xGmv5PaP-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "David Galán, tras el polémico indulto de 'Triunfador' en Tarifa: «Llegamos a plantearnos matarlo»",
       "link": "https://www.abc.es/cultura/toros/sevilla/david-galan-tras-polemico-indulto-triunfador-tarifa-20260831191426-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/08/31/david-galan-escribano-daniel-crespo-tarifa-R1blfCmUH4OQ63EcpWyytPL-1200x840@abc.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Triunfan los 'jóvenes' en la última estación del agosto de Morante",
-      "link": "https://www.abc.es/cultura/toros/morante-sanse-20260830231444-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/08/30/hombros-RNAyixeZMqe0kHZKePJVspM-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
