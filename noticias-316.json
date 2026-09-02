@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Lo que permanece",
+      "link": "https://www.abc.es/play/television/fernando-munoz-permanece-20260903010719-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/02/1515340300--758x531.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Iván Redondo, exasesor de Sánchez, cuestiona el relato del Gobierno sobre Ceuta: «Cae con el informe»",
+      "link": "https://www.abc.es/play/television/noticias/ivan-redondo-exasesor-sanchez-cuestiona-relato-gobierno-20260903001927-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/03/lamesa-Ryx4DgiAhsLaveNHPyS8bEL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un soltero incomoda a su cita con sus continuos comentarios de mal gusto: «Eso no se le dice a una mujer»",
       "link": "https://www.abc.es/play/television/noticias/soltero-incomoda-cita-continuos-comentarios-mal-gusto-20260902224635-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/02/datesportada-RnWqZwp03B4CM2z5Mbsp1tI-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Alain Hernández: «Ojalá Sonsoles Ónega decida que puedo estar en otra de sus adaptaciones»",
       "link": "https://www.abc.es/play/series/alain-hernandez-ojala-sonsoles-decida-puedo-estar-20260902184522-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/02/Captura_20260902174600-k2kC-RKWk2tNEPwJJir2uZ62xYbO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El nuevo intento de Telecinco para arrebatar audiencia a 'Pasapalabra' con 'Rueda la letra' y '¡Allá tú!'",
-      "link": "https://www.abc.es/play/television/noticias/nuevo-intento-telecinco-arrebatar-audiencia-pasapalabra-rueda-20260902171518-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/02/carlossobera-16-9-aspect-ratio-default-0-da39-1_da39-RAPMkQREXtlOEWj9GtGhX8J-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Risto Mejide, contundente tras el informe policial que vincula a Marruecos con lo sucedido en Ceuta: «No solo nos están mintiendo, sino que además ahora tenemos las pruebas»",
-      "link": "https://www.abc.es/play/television/noticias/risto-mejide-contundente-tras-informe-policial-vincula-20260902170835-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/02/Captura%20de%20pantalla%202026-09-02%20155334-kopE-U3015397430000JD-1200x840@diario_abc.png",
       "tipo": "imagen"
     }
   ]

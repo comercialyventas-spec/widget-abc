@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Artículos de verano",
+      "link": "https://www.lavanguardia.com/cultura/20260902/11625992/articulos-verano.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Danny Boyle abre Venecia explorando los orígenes de la desinformación actual en ‘Ink’",
       "link": "https://www.lavanguardia.com/cultura/20260902/11625814/danny-boyle-desinformacion-ink-mostra-venecia-guy-pearce-claire-foy.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/02/6a98615882418.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "La Setmana del Llibre en Català aposta per arribar als lectors no habituals",
       "link": "https://www.lavanguardia.com/encatala/20260902/11625644/setmana-llibre-catala-arribar-lectors-no-habituals.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/02/6a9828982566c.r_d.469-271-4807.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Muere Jean-Paul Rappeneau, el director de 'Cyrano de Bergerac'",
-      "link": "https://www.lavanguardia.com/cultura/20260902/11625592/muere-jean-paul-rappeneau-director-cyrano-bergerac.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2016/06/16/5fa2cbabf40d3.jpeg",
       "tipo": "imagen"
     }
   ]
