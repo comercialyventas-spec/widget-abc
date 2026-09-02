@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "“El gobierno tiene un problema muy serio si no controla lo que está haciendo la policía”",
+      "link": "https://elpais.com/videos/2026-09-02/el-gobierno-tiene-un-problema-muy-serio-si-no-controla-lo-que-esta-haciendo-la-policia.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260902/1210117_113138_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Cómo han participado las redes rusas e israelies en la crisis migratoria de Ceuta?",
       "link": "https://elpais.com/videos/2026-09-02/como-han-participado-las-redes-rusas-e-israelies-en-la-crisis-migratoria-de-ceuta.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260901/1209902_185419_video_1800.mp4",
@@ -28,12 +34,6 @@
       "titulo": "Diez titulares de la entrevista de Aimar Bretos a Pedro Sánchez en ‘Hoy por Hoy’",
       "link": "https://elpais.com/videos/2026-08-31/diez-titulares-de-la-entrevista-de-aimar-bretos-a-pedro-sanchez-en-hoy-por-hoy.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260831/1209390_104231_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La entrevista completa de Pedro Sánchez en ‘Hoy por hoy’",
-      "link": "https://elpais.com/videos/2026-08-31/la-entrevista-completa-de-pedro-sanchez-en-hoy-por-hoy.html",
-      "imagen": "https://www.youtube.com/watch?v=A_fyLE5ibhA",
       "tipo": "imagen"
     }
   ]

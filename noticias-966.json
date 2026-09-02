@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Maxton Hall",
+      "link": "https://elpais.com/television/series/maxton-hall/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/C543PLLXAFHHZPW5IMHB2NLRPY.jpg?auth=94821036f4a6c241990a67b6432f62a752b74fb47acb30d00f64c076c2a47d12",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "‘American Horror Story’ en Disney+, ‘Babies’ en Filmin y otras series recomendadas para septiembre",
       "link": "https://elpais.com/television/series/2026-09-02/american-horror-story-en-disney-babies-en-filmin-y-otras-series-recomendadas-para-septiembre.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260831/1209335_084455_video_1800.mp4",
@@ -28,12 +34,6 @@
       "titulo": "Las armas de RTVE, Atresmedia y Mediaset para la nueva temporada",
       "link": "https://elpais.com/television/2026-09-01/las-armas-de-rtve-atresmedia-y-mediaset-para-la-nueva-temporada.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/NDBYUUM6J5FYHLLOPQTCIJJGAQ.jpg?auth=d193f1cad2ea8603ad517fba2f4820609d6794e745ac8c68b5fa7778f9df28c1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El camino correcto para llegar a Dolly Parton",
-      "link": "https://elpais.com/television/2026-09-01/el-camino-correcto-para-llegar-a-dolly-parton.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/VGQDMLPYUFB6FKP4IDD3CAZKXA.webp?auth=e19acf67cd653ab533228352bad1a500de6b9017ea052763c3273d2f284e51cc",
       "tipo": "imagen"
     }
   ]

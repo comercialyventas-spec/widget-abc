@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "Al menos 11 muertos, cuatro de ellos durante la celebración de una boda, y 58 heridos en la segunda noche de ataques de EEUU a Irán",
+      "titulo": "Al menos 18 muertos, cuatro de ellos durante la celebración de una boda, y 68 heridos en la segunda noche de ataques de EEUU a Irán",
       "link": "https://www.20minutos.es/internacional/menos-11-muertos-cuatro-ellos-durante-celebracion-una-boda-58-heridos-segunda-noche-ataques-eeuu-iran_7031814_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/02/6a97d09f4f1ae7-98980840.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Alemania prueba un misil balístico en el Atlántico Norte en plena tensión con Rusia",
+      "link": "https://www.20minutos.es/internacional/alemania-prueba-un-misil-balistico-atlantico-norte-plena-tension-con-rusia_7031920_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/02/6a97f037e79be3-78661190.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ucrania 'empata' en el frente y golpea el interior de Rusia a las puertas del invierno: \"Se convertirá en una guerra de congelación\"",
+      "link": "https://www.20minutos.es/internacional/ucrania-empata-frente-golpea-interior-rusia-las-puertas-invierno-se-convertira-una-guerra-congelacion_7029304_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/27/6a904a86dfd065-62369013.jpeg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Trump dice que no intenta \"forzar\" a Irán a negociar e insta al pueblo iraní a sublevarse",
       "link": "https://www.20minutos.es/internacional/trump-dice-que-no-intenta-forzar-iran-negociar-insta-pueblo-irani-sublevarse_7031762_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/29/6a929fe7bcc355-82730983.webp",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Israel y Rusia se revuelven",
-      "link": "https://www.20minutos.es/internacional/israel-rusia-se-revuelven_7031738_3.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/06/24/6a3b87c7752867-44217876.r_d.1050-467.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ucrania 'empata' en el frente y golpea el interior de Rusia a las puertas del invierno: \"Se convertirá en una guerra de congelación\"",
-      "link": "https://www.20minutos.es/internacional/ucrania-empata-frente-golpea-interior-rusia-las-puertas-invierno-se-convertira-una-guerra-congelacion_7029304_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/27/6a904a86dfd065-62369013.jpeg",
       "tipo": "imagen"
     }
   ]
