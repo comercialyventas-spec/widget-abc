@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "CIS",
+      "link": "https://www.elconfidencialdigital.com/album/el-chau-chau/cis/202609022230141038652.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/02/2026090222290755347.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Estrecho de Gibraltar",
       "link": "https://www.elconfidencialdigital.com/album/el-chau-chau/estrecho-gibraltar/202608280849591037730.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/08/28/2026082808474211930.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Flotilla",
       "link": "https://www.elconfidencialdigital.com/album/el-chau-chau/flotilla/202607200500001031740.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/07/18/2026071814334642429.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "'Física o Química'",
-      "link": "https://www.elconfidencialdigital.com/album/el-chau-chau/fisica-o-quimica/202607070500001029679.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/07/06/2026070617591917428.jpg",
       "tipo": "imagen"
     }
   ]

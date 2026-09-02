@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Por Ceuta y contra Sánchez: España no paga traidores",
+      "link": "https://okdiario.com/opinion/ceuta-contra-sanchez-espana-no-paga-traidores-20217135",
+      "imagen": "https://okdiario.com/img/2026/09/02/por-ceuta-y-contra-sanchez-desk.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sánchez, colaboracionista de Marruecos en la invasión de Ceuta",
       "link": "https://okdiario.com/opinion/sanchez-colaboracionista-marruecos-invasion-ceuta-20217921",
       "imagen": "https://okdiario.com/img/2026/09/02/sanchez-colaboracionista-desk.jpg",
@@ -28,12 +34,6 @@
       "titulo": "España se abraza a Ceuta, Sánchez a Marruecos",
       "link": "https://okdiario.com/opinion/espana-abraza-ceuta-sanchez-marruecos-20209831",
       "imagen": "https://okdiario.com/img/2026/09/01/espana-se-abraza-a-ceuta-desk.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "2 de septiembre, Día de Ceuta",
-      "link": "https://okdiario.com/opinion/2-septiembre-dia-ceuta-20209485",
-      "imagen": "https://okdiario.com/img/2026/09/01/02-09-2026-dia-de-ceuta.jpeg",
       "tipo": "imagen"
     }
   ]

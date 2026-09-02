@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La IA no decidirá por sí sola quién gana y quién pierde",
+      "link": "https://www.eldiario.es/piedrasdepapel/ia-no-decidira-si-sola-gana-pierde_132_13483199.html",
+      "imagen": "https://static.eldiario.es/clip/4d1c1541-8f53-4e27-9f9d-e02cf493090b_16-9-discover-aspect-ratio_default_1150246.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Quién gana cuando los inmigrantes pueden votar? Nadie en particular",
       "link": "https://www.eldiario.es/piedrasdepapel/gana-inmigrantes-votar-nadie-particular_132_13402056.html",
       "imagen": "https://static.eldiario.es/clip/2d5bff6f-220c-4e98-9a27-daaa91eb6b83_16-9-discover-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El Orgullo después de la batalla",
       "link": "https://www.eldiario.es/piedrasdepapel/orgullo-despues-batalla_132_13330005.html",
       "imagen": "https://static.eldiario.es/clip/d0826b9a-a5e7-47f4-a2f7-8d549f180a60_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cuando la prensa habla de inteligencia artificial, los sindicatos no están en la conversación",
-      "link": "https://www.eldiario.es/piedrasdepapel/prensa-habla-inteligencia-artificial-sindicatos-no-conversacion_132_13313375.html",
-      "imagen": "https://static.eldiario.es/clip/25b98989-1302-40fb-8485-f65bf2bd10da_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
