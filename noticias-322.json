@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La catedral de Santiago se queda sin botafumeiro",
+      "link": "https://www.abc.es/viajar/catedral-santiago-queda-botafumeiro-20260902174842-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/viajar/2026/09/02/botafumeiro-1-RPLTzIqxJ1wreXEdgDo6BuN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La playa de interior escondida entre las montañas de Andalucía: agua fresca, mucha sombra y un lago apto para el baño",
+      "link": "https://www.abc.es/viajar/andalucia/playa-interior-escondida-montanas-andalucia-agua-fresca-20260902160549-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/viajar/2026/09/02/viajar-playita-portada%20-RADvlBmaBsqM0MW4byHA9eJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El hotel de lujo de Robert de Niro en Madrid ya es una realidad",
       "link": "https://www.abc.es/viajar/alojamientos/hotel-lujo-robert-niro-madrid-realidad-20260901163743-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/viajar/2026/09/01/Nobu_Madrid_Common%20Areas_%20JOSE%20SALTO-01-RK2RlJV7dTAGn4emZ87FbhL-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "El pueblo monumental de Sevilla que parece una ciudad ducal: palacios, colegiata, callejuelas señoriales y uno de los mejores atardeceres de la Campiña",
       "link": "https://www.abc.es/viajar/andalucia/pueblo-monumental-sevilla-parece-ciudad-ducal-palacios-20260831121848-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/viajar/2026/08/31/osuna-sevilla-RWrUDcheYmsKrh3jwvo58SK-1200x840@diario_abc.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La conocida plaza madrileña que oculta un portal a otra dimensión",
-      "link": "https://www.abc.es/viajar/destinos/espana/conocida-plaza-madrilena-oculta-portal-dimension-20260831223153-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/viajar/2026/08/31/IMG_0009-Rh1kxNt00HjVdIigmGzbWWM-1200x840@diario_abc.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Alquila un Airbnb y se encuentra un caballo galopando en su césped: «Llevo 2 horas intentando meterlo en su finca»",
-      "link": "https://www.abc.es/viajar/andalucia/alquila-airbnb-encuentra-caballo-galopando-cesped-llevo-20260831133614-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/viajar/2026/08/31/caballo-jardin-airbnb-RDbqJUEBJkP5lQrX4QXZc4N-1200x840@diario_abc.png",
       "tipo": "imagen"
     }
   ]

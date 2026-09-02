@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Se elevan a cinco los heridos por el incendio de las obras del hotel de lujo que se está construyendo en Altadis",
+      "titulo": "Se elevan a cinco los heridos por el incendio en las obras del hotel de lujo que se está construyendo en Altadis",
       "link": "https://www.20minutos.es/andalucia/sevilla/declarado-un-incendio-antiguo-complejo-altadis-que-provoca-una-visible-columna-humo_7031907_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/02/6a97f87cbe7f02-97428097.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Todas las imágenes del incendio en las obras de Altadis que ha dejado cinco trabajadores heridos",
+      "link": "https://www.20minutos.es/andalucia/sevilla/todas-las-imagenes-incendio-las-obras-altadis-que-ha-dejado-cinco-trabajadores-heridos_7032000_1.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/02/6a9813f9ea0313-52046023.jpeg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Quirónsalud aboga por la estimulación electromagnética, una técnica no invasiva para recuperar la fuerza del suelo pélvico",
       "link": "https://www.20minutos.es/andalucia/sevilla/quironsalud-aboga-por-estimulacion-electromagnetica-una-tecnica-no-invasiva-para-recuperar-fuerza-suelo-pelvico_7031669_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/01/6a96fc22c9fb36-60771332.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Ayuntamiento destina 850.000 euros en ayudas para la rehabilitación de conventos y monasterios de clausura",
-      "link": "https://www.20minutos.es/andalucia/sevilla/ayuntamiento-destina-850-000-euros-ayudas-para-rehabilitacion-conventos-monasterios-clausura_7031658_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/01/6a96fb00bf8b95-21491438.jpeg",
       "tipo": "imagen"
     }
   ]
