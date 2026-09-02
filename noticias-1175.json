@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un día cualquiera en Mallorca",
+      "link": "https://okdiario.com/baleares/dia-cualquiera-mallorca-20208851",
+      "imagen": "https://okdiario.com/img/2026/09/01/imagen_final-3-1.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Última 'Carta Marrueca', al modo de José Cadalso",
       "link": "https://okdiario.com/opinion/ultima-carta-marrueca-modo-jose-cadalso-20211430",
       "imagen": "https://okdiario.com/img/2026/09/01/opinion-corral.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Son Gotleu no es Molenbeek",
       "link": "https://okdiario.com/baleares/son-gotleu-no-molenbeek-20201283",
       "imagen": "https://okdiario.com/img/2027/08/01/imagen_final-1.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sánchez, el top en la escala de Mohs",
-      "link": "https://okdiario.com/opinion/sanchez-top-escala-mohs-20203835",
-      "imagen": "https://okdiario.com/img/2026/08/31/01-09-2026-sanchez-extrema-carnadura.jpeg",
       "tipo": "imagen"
     }
   ]

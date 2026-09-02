@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La poética Carretera de la República",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260902/11624465/poetica-carretera-republica.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/01/6a969c9d1345b.r_d.429-326-5455.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las imágenes de la 'ecología trófica de la comunidad bentónica intermareal', ¿qué es esto?",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260902/11624575/imagenes-ecologia-trofica-comunidad-bentonica-intermareal-que-esto.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/01/6a96b46500494.r_d.2591-2033-890.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Gossos a les fleques",
       "link": "https://www.lavanguardia.com/participacion/cartas/20260902/11625094/gossos-les-fleques.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
@@ -21,18 +33,6 @@
     {
       "titulo": "No tenim remei",
       "link": "https://www.lavanguardia.com/participacion/cartas/20260902/11625091/tenim-remei.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Els seients al Camp Nou",
-      "link": "https://www.lavanguardia.com/participacion/cartas/20260902/11625090/els-seients-camp-nou.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Visca Europa",
-      "link": "https://www.lavanguardia.com/participacion/cartas/20260902/11625089/visca-europa.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
       "tipo": "imagen"
     }
