@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Miles de personas muestran su apoyo a Ceuta en Granada",
+      "link": "https://www.ahoragranada.com/noticias/miles-de-personas-muestran-su-apoyo-a-ceuta-en-granada/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/copy_4BC5FA23-4A3D-4CF3-9318-355B93C40AA1.gif",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Concentraciones de apoyo a Ceuta en el Área Metropolitana de Granada: 22 de los 32 ayuntamientos las convocan",
+      "link": "https://www.ahoragranada.com/noticias/concentraciones-de-apoyo-a-ceuta-en-el-area-metropolitana-de-granada-22-de-los-32-ayuntamientos-las-convocan/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Panoramica-Area-Metropolitana-746x419.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los terremotos de Granada dejan ya más de 105 millones de euros en daños",
       "link": "https://www.ahoragranada.com/noticias/las-peticiones-de-indemnizacion-por-los-danos-de-los-terremotos-en-granada-superan-los-105-millones-de-euros/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Danos-Terremotos-Zaidin-Septiembre-LFR-13.jpeg",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Danos-Terremotos-Zaidin-Septiembre-LFR-13-746x419.jpeg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "'Granada, imparable': la campaña de la hostelería para reforzar la imagen turística tras la serie sísmica",
       "link": "https://www.ahoragranada.com/noticias/granada-imparable-la-campana-de-la-hosteleria-para-reforzar-la-imagen-turistica-tras-la-serie-sismica/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2022/04/ambiente-y-mascarillas-coronavirus-en-zona-Albaicin.-San-Cristobal-San-Miguel-alto-y-San-Nicolas-AC-14-370x207.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Técnicos municipales revisarán por cuarta vez algunos de los edificios más dañados por los seísmos en el Zaidín",
-      "link": "https://www.ahoragranada.com/noticias/tecnicos-municipales-revisaran-por-cuarta-vez-algunos-de-los-edificios-danados-por-los-seismos-en-el-zaidin/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/DANOS-TERREMOTOS-GRANADA-CH-36.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Policía Local instala en el Zaidín su oficina móvil para informar y asesorar tras los terremotos",
-      "link": "https://www.ahoragranada.com/noticias/la-policia-local-instala-en-el-zaidin-su-oficina-movil-para-informar-y-asesorar-tras-los-terremotos/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Oficina-Policia-Local-Zaidin-370x207.jpeg",
       "tipo": "imagen"
     }
   ]

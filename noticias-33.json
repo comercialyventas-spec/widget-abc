@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Complicación",
+      "link": "https://www.lavanguardia.com/opinion/20260902/11625715/complicacion.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2018/08/28/5fa5075e5f0b5.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La ciudad que queremos",
       "link": "https://www.lavanguardia.com/local/valencia/20260902/11624784/ciudad-queremos.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/01/6a96d88521f25.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Dónde está el Estado",
       "link": "https://www.lavanguardia.com/opinion/20260902/11624579/donde-esta.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/01/6a96aa28e4860.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Gobernar con bondad, decidir con rigor",
-      "link": "https://www.lavanguardia.com/opinion/20260902/11624870/gobernar-bondad-decidir-rigor.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/26/6a663ebe08d21.jpeg",
       "tipo": "imagen"
     }
   ]
