@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El Gobierno ampliará el plazo de alegaciones para la nueva regulación de los centros de datos",
+      "link": "https://www.eldiario.es/economia/gobierno-ampliara-plazo-alegaciones-nueva-regulacion-centros-datos_1_13482827.html",
+      "imagen": "https://static.eldiario.es/clip/aed1c30c-733e-41ef-a8bc-3e82ee2ced1b_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La pelea del banco más antiguo de Italia para evitar su compra y cumplir el sueño de Meloni: un tercer gigante financiero",
       "link": "https://www.eldiario.es/economia/pelea-banco-antiguo-italia-evitar-compra-cumplir-sueno-meloni-tercer-gigante-financiero_1_13473319.html",
       "imagen": "https://static.eldiario.es/clip/ccfb2ba6-ab71-47ec-a137-39fd3d2e37c4_16-9-discover-aspect-ratio_default_0.jpg",
@@ -13,27 +19,21 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Venezuela: de la dependencia al rentismo y vuelta a empezar",
-      "link": "https://www.eldiario.es/economia/venezuela-dependencia-rentismo-vuelta-empezar_129_13477441.html",
-      "imagen": "https://static.eldiario.es/clip/41a8c90d-79bd-4161-b3d4-b6ee95ab4baa_avatar-200-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Ceuta y la galleta en el plato",
       "link": "https://www.eldiario.es/opinion/zona-critica/ceuta-galleta-plato_129_13478725.html",
       "imagen": "https://static.eldiario.es/clip/9f119a77-2fa7-414f-ab8e-292cadd90e93_avatar-200-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Ceuta y el patrón de la violencia ultra",
-      "link": "https://www.eldiario.es/opinion/zona-critica/ceuta-patron-violencia-ultra_129_13479112.html",
-      "imagen": "https://static.eldiario.es/clip/e94f1310-cf2f-4e60-ad40-c9a15bd68921_avatar-200-aspect-ratio_default_0.jpeg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Ceuta como símbolo",
       "link": "https://www.eldiario.es/opinion/zona-critica/ceuta-simbolo_129_13480030.html",
       "imagen": "https://static.eldiario.es/clip/a05ebcd3-5357-4d97-9982-d4957670579b_avatar-200-aspect-ratio_default_0.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ceuta y el patrón de la violencia ultra",
+      "link": "https://www.eldiario.es/opinion/zona-critica/ceuta-patron-violencia-ultra_129_13479112.html",
+      "imagen": "https://static.eldiario.es/clip/e94f1310-cf2f-4e60-ad40-c9a15bd68921_avatar-200-aspect-ratio_default_0.jpeg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Silvio Rodríguez, la lucha no para",
+      "link": "https://www.publico.es/culturas/silvio-rodriguez-combate-detiene.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/02/6a98111a59680.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Shakira y el gran negocio de las residencias musicales: \"Huele a tomadura de pelo\"",
       "link": "https://www.publico.es/culturas/musica/shakira-gran-negocio-residencias-musicales-huele-tomadura-pelo.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/01/6a97166a174aa.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "La Cebolla: \"Niña Pastori y Camarón son los artistas que más me inspiran\"",
       "link": "https://www.publico.es/culturas/musica/cebolla-nina-pastori-camaron-son-artistas-me-inspiran.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/07/30/6a6b70380318e.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Naomi Watts recibirá el Premio Donostia en el Festival de Cine de San Sebastián",
-      "link": "https://www.publico.es/culturas/cine-tv/naomi-watts-recibira-premio-donostia-festival-cine-san-sebastian.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/08/31/6a955dbb2818d.jpeg",
       "tipo": "imagen"
     }
   ]

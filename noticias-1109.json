@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El nuevo CEO de Apple recibirá una remuneración de 50,1 millones de euros al año",
+      "link": "https://www.publico.es/ciencias/tecnologia/nuevo-ceo-apple-recibira-remuneracion-50-1-millones-euros-ano.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/02/6a98509b30a3e.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Meta pagará 16.680 millones para evitar el juicio por generar adicción a sus redes entre los menores",
       "link": "https://www.publico.es/ciencias/tecnologia/meta-acuerda-pagar-16-680-millones-evitar-juicio-adiccion-redes.html",
       "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/08/26/6a8efda570605.r_d.970-580-1406.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "De la oscuridad a las estrellas: los mejores destinos Starlight en España para hacer astroturismo todo el año",
       "link": "https://www.publico.es/ciencias/mejores-destinos-starlight-espana-astroturismo.html",
       "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/07/10/6a50fa2392415.r_d.584-606-2250.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La astronauta Sara García sobre el eclipse: \"Puede ser el germen de un futuro astrofísico o de una futura bióloga\"",
-      "link": "https://www.publico.es/ciencias/astronauta-sara-garcia-sobre-eclipse-puede-germen-futuro-astrofisico-futura-biologa.html",
-      "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/08/13/6a7de3cf7f76b.r_d.969-430-1406.jpeg",
       "tipo": "imagen"
     }
   ]

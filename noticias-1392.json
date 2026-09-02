@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de Nuevo Sureste de Madrid",
+      "link": "https://nuevosureste.es/servicios-emergencia-pregoneros-villa-vallecas/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2025/05/c4d279d0-8d93-47b9-9fa3-c6f97150f1a6-1080x675.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La licitación del proyecto de la estación de Metro de Ahijones-Berrocales recibe un segundo recurso",
       "link": "https://nuevosureste.es/segundo-recurso-estacion-ahijones-berrocales/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2024/06/Diseno-sin-titulo-2024-06-06T115250.704.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "La nueva Casa Familias del Ensanche de Vallecas abrirá en el primer trimestre de 2027",
       "link": "https://nuevosureste.es/casa-familias-ensanche-vallecas/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/08/Exterior-de-la-Casa-de-Familias-del-Ensanche-de-Vallecas-foto-Nuevo-Sureste.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Comunidad entregará antes de final de año 39 viviendas de alquiler social en Ensanche de Vallecas con rentas inferiores a los 400 euros",
-      "link": "https://nuevosureste.es/viviendas-sociales-ensanche-de-vallecas/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/08/Promocion-de-vivienda-publica-en-la-calle-Almonte-del-Ensanche-de-Vallecas-foto_-Nuevo-Sureste.jpg",
       "tipo": "imagen"
     }
   ]
