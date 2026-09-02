@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La regularización atenúa la pérdida de empleos en agosto con 162.000 puestos menos, pero acelera el paro",
+      "link": "https://elpais.com/economia/2026-09-02/la-regularizacion-atenua-la-perdida-de-empleos-en-agosto-con-162000-puestos-menos-pero-acelera-el-paro.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/WQJW6I446VGRFLZWDHIMJBUNJA.jpg?auth=114a78f5cb36f8be08a96beb1ec7e9b22c92f57b0cbabbc3feecd8a2feff8518",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La nueva ley antiblanqueo obligará a los clubes de fútbol a informar de sus fichajes y cambios en el accionariado",
       "link": "https://elpais.com/economia/2026-09-02/la-nueva-ley-antiblanqueo-obligara-a-los-clubes-de-futbol-a-informar-de-sus-fichajes-y-cambios-en-el-accionariado.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/HTOT2KYDVRKJTIFGBB7G2QWOZA.jpg?auth=db070a4187aea1f9e5f1f0725d14b40acf3b83b30832476392238edaffca919e",
@@ -13,27 +19,21 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Puente reestructura la cúpula de Transportes para acelerar políticas verdes en el final de la legislatura",
-      "link": "https://elpais.com/economia/2026-09-02/puente-reestructura-la-cupula-de-transportes-para-acelerar-politicas-verdes-en-el-final-de-la-legislatura.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/OTQ3YIJU6NIVPBVJPELRLOPAC4.jpg?auth=b8eaea8d71bfde08e3adf5391352525ca7a039417e4a271958407c974f2b4cab",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Blackstone sacará a Bolsa en octubre la hotelera HIP con una cartera de inmuebles de 6.000 millones",
       "link": "https://cincodias.elpais.com/companias/2026-09-02/blackstone-sacara-a-bolsa-en-octubre-la-hotelera-hip-con-una-cartera-de-inmuebles-de-6000-millones.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/IKOTBPKEBVCF5A5CITR6NX2MXU.png?auth=cef038259aa2b9bac7fb7e2b1c5996e707ad153a19c2ac6b5e54264f8ecf1d97",
       "tipo": "imagen"
     },
     {
-      "titulo": "El turismo y sus límites",
-      "link": "https://cincodias.elpais.com/opinion/2026-09-02/el-turismo-y-sus-limites.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/IZTVM4HRPFNRHD74SKC5MYCQHI.jpg?auth=48da1b0e57cb613f6ab6437ee1b24111ab2001911e78878bb4bb2818db3b1c73",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Los bajitos de la clase",
       "link": "https://cincodias.elpais.com/opinion/2026-09-02/los-bajitos-de-la-clase.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/JXVRPXS4SNI6VDCJSUXJV266EY.jpg?auth=11b1bdbc7d4c6b19738c49e23000cb2a3e2bb61bf1c0556bdf74e5846b5a4616",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El turismo y sus límites",
+      "link": "https://cincodias.elpais.com/opinion/2026-09-02/el-turismo-y-sus-limites.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/IZTVM4HRPFNRHD74SKC5MYCQHI.jpg?auth=48da1b0e57cb613f6ab6437ee1b24111ab2001911e78878bb4bb2818db3b1c73",
       "tipo": "imagen"
     }
   ]

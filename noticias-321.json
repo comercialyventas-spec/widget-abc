@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Nuevas marcas de cosmética para probar este verano",
+      "link": "https://www.abc.es/estilo/belleza/ocho-nuevas-marcas-cosmetica-probar-verano-20260813182859-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/estilo/2026/08/13/nuevas_marcas_cosmetica-RB0ArRznXlGI5Gsf3QwpbZM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La 'teoría del zapato equivocado' y por qué marcará la vuelta a la oficina",
       "link": "https://www.abc.es/estilo/moda/teoria-zapato-equivocado-marcara-vuelta-oficina-20260831131001-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/estilo/2026/08/31/Jennifer-lawrence-apertura-RYYEa7KlvbXZj85f2d5LSsK-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Un estilo infalible: Vanity Fair elige al Papa como uno de los mejor vestidos del año",
       "link": "https://www.abc.es/estilo/estilo-infalible-vanity-fair-elige-papa-mejor-20260828215819-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/estilo/2026/08/28/1511672691-kIU-U301476416837QJC-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los jardines de Sabatini se convertirán en la pasarela del desfile inaugural de la Semana de la Moda de Madrid",
-      "link": "https://www.abc.es/estilo/moda/jardines-sabatini-convertiran-pasarela-desfile-inaugural-semana-20260828100611-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/estilo/2026/08/28/apertura-omoda-Rk0HUnspgWDbSWUlULX6ANI-1200x840@diario_abc.JPG",
       "tipo": "imagen"
     }
   ]

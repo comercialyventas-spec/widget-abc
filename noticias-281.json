@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "En tensión con López Obrador y Trump, Sheinbaum cumple dos años al frente de México",
+      "titulo": "Sheinbaum cumple dos años al frente de México marcados por la tensión con López Obrador y Trump",
       "link": "https://www.abc.es/internacional/tension-lopez-obrador-trump-sheinbaum-cumple-dos-20260831010813-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/31/1516658663%20(1)-RISMx5fWdYRIdXknog4RkxJ-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Dos ataques en un día contra subestaciones ponen en alerta a la red eléctrica de Alemania",
+      "link": "https://www.abc.es/internacional/dos-ataques-dia-subestaciones-ponen-alerta-red-20260902093546-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/02/1516668503-kEFI-U301530977795AgH-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Al menos cuatro muertos tras los ataques de EE.UU. contra Irán en represalia por bombardeos en Ormuz",
       "link": "https://www.abc.es/internacional/eeuu-lanza-nuevos-ataques-iran-represalia-bombardeos-20260901190750-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/01/1509160020-k06C-U301525176319XuB-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Alemania acusa a Rusia del ataque de un dron en el aeropuerto de Leipzig",
-      "link": "https://www.abc.es/internacional/alemania-acusa-rusia-ataque-drones-aeropuerto-leizpig-20260901181841-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/01/1516674746-kOsH-U301524349915QnD-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

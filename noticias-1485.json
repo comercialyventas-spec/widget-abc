@@ -1,28 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "Las mujeres acaparan la mayor parte del aumento en 115 personas del paro en agosto en la provincia",
+      "link": "https://ileon.eldiario.es/economia/mujeres-acaparan-mayor-parte-aumento-115-personas-paro-agosto-leon_1_13481115.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "La Térmica Cultural y el Museo de la Energía de Ponferrada regresan al horario de invierno",
       "link": "https://elbierzo.eldiario.es/cultura-y-ocio/termica-cultural-museo-energia-ponferrada-regresan-horario-invierno_1_13478446.html",
-      "imagen": "https://static.eldiario.es/clip/e0e12854-6411-49aa-b220-f1287ac6f6dd_16-9-discover-aspect-ratio_default_0_x649y423.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Desigual convocatoria en la provincia de las movilizaciones por Ceuta, que Ponferrada sí celebrará",
       "link": "https://ileon.eldiario.es/actualidad/diez-agranda-brecha-psoe-respaldar-movilizaciones-ceuta-villaquilambre-desmarca_1_13479362.html",
       "imagen": "https://static.eldiario.es/clip/eebcfcdd-e611-46bc-a88b-4f57afad9608_16-9-discover-aspect-ratio_default_0_x1101y259.jpg",
       "tipo": "imagen"
-    },
-    {
-      "titulo": "Los sindicatos calientan la ‘vuelta al cole’ en la Universidad de León con protestas contra el plan de recortes",
-      "link": "https://ileon.eldiario.es/universidad/sindicatos-calientan-vuelta-cole-universidad-leon-protestas-plan-recortes_1_13476211.html",
-      "imagen": "https://static.eldiario.es/clip/88783064-40c1-4cd9-9e8d-ae8484d81e60_16-9-discover-aspect-ratio_default_0_x1079y381.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Junta de Castilla y León anuncia 36 rebajas fiscales que ahorrarán 920 millones a los contribuyentes",
-      "link": "https://elbierzo.eldiario.es/comarca/junta-mantiene-ortiz-saracho-frente-gerencia-bierzo-pese-criticas_1_13477533.html",
-      "imagen": "",
-      "tipo": ""
     },
     {
       "titulo": "Viva Suecia, La Fuga, El Consorcio, Henry Méndez, drones, fuegos y grandes orquestas: La Encina 2026 toma Ponferrada",
@@ -34,6 +28,12 @@
       "titulo": "El festival Km251 ofrece cuatro días de jazz en Ponferrada con conciertos en calle, en el Castillo y en el teatro",
       "link": "https://elbierzo.eldiario.es/cultura-y-ocio/festival-km251-ofrece-cuatro-dias-jazz-ponferrada-conciertos-calle-castillo-teatro_1_13465005.html",
       "imagen": "https://static.eldiario.es/clip/9a76df72-4e99-42c1-a7f4-c3ced68b7e8a_16-9-discover-aspect-ratio_default_0_x787y581.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Vendimia entre cenizas en El Bierzo: el fuego golpea una bodega que recupera viñedos en un pueblo de 90 habitantes",
+      "link": "https://elbierzo.eldiario.es/comarca/vendimia-cenizas-bierzo-fuego-golpea-bodega-recupera-vinedos-pueblo-90-habitantes_1_13465666.html",
+      "imagen": "https://static.eldiario.es/clip/c405f7df-f16e-4140-b824-6a1ce2adea72_16-9-discover-aspect-ratio_default_0_x759y452.jpg",
       "tipo": "imagen"
     }
   ]

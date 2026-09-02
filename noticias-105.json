@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "SIETE MANERAS DE VIAJAR COMO UN LOCAL Y NO COMO UN TURISTA",
+      "titulo": "FRANKFURT, LA CIUDAD QUE NO TE ESPERAS",
+      "link": "https://www.lavanguardia.com/magazine/viajes/20260902/11623909/frankfurt-ciudad-te-esperas.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/08/31/6a9590c70b793.r_d.4016-3174.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Siete maneras de viajar como un local y no como un turista",
       "link": "https://www.lavanguardia.com/magazine/viajes/20260901/11623670/siete-maneras-viajar-local-turista.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/uploads/2026/08/31/6a95840744d62.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/uploads/2026/08/31/6a95840744d62.jpeg",
       "tipo": "imagen"
     },
     {
@@ -19,21 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "La isla de las siete de la tarde, el paraíso griego sin cruceros, ni souvenirs, ni una sola casa",
-      "link": "https://www.lavanguardia.com/magazine/viajes/20260828/11620307/isla-siete-tarde-paraiso-griego-cruceros-souvenirs-sola-casa.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/uploads/2026/08/26/6a8eb405f1d80.jpeg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Una visita a la ciudad excavada de Vardzia",
       "link": "https://www.lavanguardia.com/magazine/viajes/20260827/11620502/visita-ciudad-excavada-vardzia.html",
       "imagen": "https://www.lavanguardia.com/files/image_290_300/uploads/2026/08/26/6a8ee4e016ac1.jpeg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Luanco y Candás: un viaje por la Asturias más marinera",
-      "link": "https://www.lavanguardia.com/magazine/viajes/20260827/11619904/luanco-candas-viaje-asturias-mas-marinera.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/08/25/6a8db6a7758b8.r_d.3784-3104-1623.jpeg",
+      "titulo": "La isla de las siete de la tarde, el paraíso griego sin cruceros, ni souvenirs, ni una sola casa",
+      "link": "https://www.lavanguardia.com/magazine/viajes/20260828/11620307/isla-siete-tarde-paraiso-griego-cruceros-souvenirs-sola-casa.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/uploads/2026/08/26/6a8eb405f1d80.jpeg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Nuevas marcas de cosmética para probar este verano",
+      "link": "https://www.abc.es/estilo/belleza/ocho-nuevas-marcas-cosmetica-probar-verano-20260813182859-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/estilo/2026/08/13/nuevas_marcas_cosmetica-RB0ArRznXlGI5Gsf3QwpbZM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los peinados de los famosos que han marcado el verano",
       "link": "https://www.abc.es/estilo/belleza/peinados-famosos-marcado-verano-20260828010642-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/estilo/2026/08/28/peinados-famosos-verano-RNJiqHyjCoeqYU6k0swMDAO-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Así envejece el sol los labios: pérdida de volumen, deshidratación y arrugas en el contorno",
       "link": "https://www.abc.es/estilo/belleza/envejece-sol-labios-perdida-volumen-deshidratacion-arrugas-20260818181843-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/estilo/2026/08/12/envejecimiento-labios-sol-R2xaXu4VpVqPueb59D63vDN-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "'Heat aging': el calor también envejece provocando arrugas y flacidez en el rostro",
-      "link": "https://www.abc.es/estilo/belleza/heat-aging-calor-provoca-arrugas-flacidez-rostro-20260815180719-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/estilo/2026/08/12/envejecimiento-calor-RPRT5JMK0wtaJh8QrA04k1H-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
