@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de Los Berrocales",
+      "link": "https://nuevosureste.es/segundo-recurso-estacion-ahijones-berrocales/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2024/06/Diseno-sin-titulo-2024-06-06T115250.704-400x250.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La futura estación de Ahijones-Berrocales no conoce aún su ubicación definitiva",
       "link": "https://nuevosureste.es/ubicacion-estacion-metro-ahijones-berrocales/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2024/10/Transbordo-en-la-linea-9B-de-Metro-fuente-Ayuntamiento-de-Rivas-Vaciamadrid-400x250.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Comienzan las obras de urbanización de la segunda etapa de Los Berrocales, que permitirá construir más de 5.000 viviendas y zonas comerciales",
       "link": "https://nuevosureste.es/etapa-2-los-berrocales/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2024/10/Obras-de-la-tercera-etapa-de-urbanizacion-de-Los-Berrocales-fuente-Nuevo-Sureste-400x250.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ayuntamientos, Comunidad y promotores defienden las nuevas leyes urbanísticas como la clave para aumentar la oferta de vivienda en Madrid",
-      "link": "https://nuevosureste.es/asprima-jornada-vivienda/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/06/ASPRIMA_La-Vivienda-Si-tiene-solucion-400x250.jpg",
       "tipo": "imagen"
     }
   ]

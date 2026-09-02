@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un informe confidencial de la Policía confirma que Marruecos organizó la invasión de Ceuta",
+      "link": "https://www.mediterraneodigital.com/espana/ceuta-y-melilla/invasion-ceuta",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/9/ceuta-invasion.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¡Alerta sanitaria! Inmigrantes colocados de cocaína y cannabis saturan Ceuta",
       "link": "https://www.mediterraneodigital.com/espana/ceuta-y-melilla/ceuta-inmigrantes",
       "imagen": "https://www.mediterraneodigital.com/images/2026/8/moros.jpg",
@@ -28,12 +34,6 @@
       "titulo": "¡Pedro Sánchez se vuelve a ir de vacaciones! Después de Lanzarote, hotel de lujo en Andorra",
       "link": "https://www.mediterraneodigital.com/espana/pedro-sanchez-vacaciones-andorra",
       "imagen": "https://www.mediterraneodigital.com/images/2026/8/sanchez-vacaciones.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Gobierno gasta 25 millones de euros en «programas de empleo y formación» sólo para menas",
-      "link": "https://www.mediterraneodigital.com/espana/menas-trabajo",
-      "imagen": "https://www.mediterraneodigital.com/images/2023/1/menas-p.jpg",
       "tipo": "imagen"
     }
   ]

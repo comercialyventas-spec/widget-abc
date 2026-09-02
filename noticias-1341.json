@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un informe confidencial de la Policía confirma que Marruecos organizó la invasión de Ceuta",
+      "link": "https://www.mediterraneodigital.com/espana/ceuta-y-melilla/invasion-ceuta",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/9/ceuta-invasion.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¡Alerta sanitaria! Inmigrantes colocados de cocaína y cannabis saturan Ceuta",
       "link": "https://www.mediterraneodigital.com/espana/ceuta-y-melilla/ceuta-inmigrantes",
       "imagen": "https://www.mediterraneodigital.com/images/2026/8/moros.jpg",
@@ -28,12 +34,6 @@
       "titulo": "¡Alarma! Desaparecen miles de gatos en Ceuta tras la entrada masiva de inmigrantes a la ciudad",
       "link": "https://www.mediterraneodigital.com/espana/ceuta-y-melilla/gatos-ceuta",
       "imagen": "https://www.mediterraneodigital.com/images/2026/8/gato.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Policía y la Guardia Civil desalojan a más de 4.000 inmigrantes de la playa de Ceuta",
-      "link": "https://www.mediterraneodigital.com/espana/ceuta-y-melilla/playa-trampolin-ceuta-inmigrantes",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/8/policia-guardia-civil-playa-ceuta.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Un supuesto tiroteo en Kyiv entre agentes de inteligencia y miembros del Servicio Secreto de Ucrania deja varios heridos",
+      "link": "https://www.lavanguardia.com/internacional/20260902/11625352/supuesto-tiroteo-kyiv-agentes-inteligencia-miembros-servicio-secreto-ucrania-deja-heridos.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/09/02/6a97e3fc1a77c.r_d.4356-3519-575.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "De la Espriella anuncia la captura en Tarragona del cerebro de una masacre de siete personas en Colombia",
       "link": "https://www.lavanguardia.com/internacional/20260902/11625289/espriella-anuncia-captura-tarragona-cerebro-masacre-siete-personas-colombia.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/09/02/6a97cd6d559ac.r_d.5667-1877-679.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/09/02/6a97cd6d559ac.r_d.5667-1877-679.jpeg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "La mujer apuñalada mortalmente en Times Square era una directiva de Bank of America",
       "link": "https://www.lavanguardia.com/internacional/20260901/11624986/mujer-apunalada-mortalmente-times-square-directiva-bank-of-america.html",
       "imagen": "https://www.lavanguardia.com/files/image_449_221/uploads/2026/09/01/6a968d06585f2.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Andy Burnham culpa al Brexit del lento crecimiento económico de la última década",
-      "link": "https://www.lavanguardia.com/internacional/20260901/11624962/andy-burnham-culpa-brexit-lento-crecimiento-economico-ultima-decada.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/09/01/6a970c4ca1add.r_d.1505-1219-0.jpeg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Transportistas denuncian que la Junta ha adjudicado sin concurso público 265 rutas escolares y exigen transparencia",
+      "link": "https://www.eldiario.es/extremadura/politica/transportistas-denuncian-junta-adjudicado-concurso-publico-265-rutas-escolares-exigen-transparencia_1_13473265.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "La Junta aprueba 10 millones en ayudas tras los incendios: hasta 132.000 euros por vivienda y 3.000 por hectárea",
       "link": "https://www.eldiario.es/extremadura/politica/extremadura-aprueba-10-millones-ayudas-incendios-132-000-euros-vivienda-3-000-hectarea_1_13479600.html",
       "imagen": "",
@@ -15,25 +21,19 @@
     {
       "titulo": "PP y Vox quieren que el Gobierno modifique la Ley de Montes para permitir cambios de uso forestal tras incendios como el de Las Hurdes",
       "link": "https://www.eldiario.es/extremadura/politica/pp-vox-quieren-gobierno-modifique-ley-montes-permitir-cambios-forestal-incendios-hurdes_1_13480053.html",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://static.eldiario.es/clip/7e62014d-320e-46a7-b3a5-e809d766d4b8_16-9-discover-aspect-ratio_default_1150262.jpg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "Una avería de agua en el Hospital Universitario de Cáceres obliga a suspender las cirugías programadas",
-      "link": "https://www.eldiario.es/extremadura/caceres/averia-tuberia-obliga-suspender-operaciones-programadas-hospital-universitario-caceres_1_13478649.html",
-      "imagen": "https://static.eldiario.es/clip/fdf1f35e-80f2-4846-857c-e166fa3c3764_16-9-discover-aspect-ratio_default_1150230.jpg",
+      "titulo": "Cara y cruz del empleo en agosto: la comunidad suma 919 desempleados más, pero gana 818 afiliados",
+      "link": "https://www.eldiario.es/extremadura/economia/cara-cruz-empleo-agosto-extremadura-suma-919-desempleados-gana-818-afiliados_1_13481203.html",
+      "imagen": "https://static.eldiario.es/clip/5a257521-fb4f-4c72-8ea8-a513daa82ef2_16-9-discover-aspect-ratio_default_1111176.jpg",
       "tipo": "imagen"
     },
     {
       "titulo": "La exconsejera extremeña Leire Iglesias, nueva secretaria de Estado de Vivienda",
       "link": "https://www.eldiario.es/extremadura/politica/exconsejera-extremena-leire-iglesias-nueva-secretaria-vivienda_1_13481130.html",
       "imagen": "https://static.eldiario.es/clip/b3f7be81-807e-4f46-bdac-cb585f921450_16-9-discover-aspect-ratio_default_1122618.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Se investigan dos denuncias por presuntos tocamientos durante las fiestas de Gévora",
-      "link": "https://www.eldiario.es/extremadura/sociedad/investigan-denuncias-presuntos-tocamientos-durante-fiestas-gevora_1_13479336.html",
-      "imagen": "https://static.eldiario.es/clip/714d65ca-1d54-4753-b85b-b337ee8c62ee_16-9-discover-aspect-ratio_default_0_x797y188.jpg",
       "tipo": "imagen"
     }
   ]

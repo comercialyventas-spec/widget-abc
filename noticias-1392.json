@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de Nuevo Sureste de Madrid",
+      "link": "https://nuevosureste.es/segundo-recurso-estacion-ahijones-berrocales/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2024/06/Diseno-sin-titulo-2024-06-06T115250.704.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La EMT incorpora nuevas paradas en las líneas E5 y 159 de El Cañaveral",
       "link": "https://nuevosureste.es/nuevas-paradas-autobus-el-canaveral/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2025/01/Autobus-de-la-linea-159-de-EMT-Madrid-fuente-EMT-Madrid.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "La Comunidad entregará antes de final de año 39 viviendas de alquiler social en Ensanche de Vallecas con rentas inferiores a los 400 euros",
       "link": "https://nuevosureste.es/viviendas-sociales-ensanche-de-vallecas/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/08/Promocion-de-vivienda-publica-en-la-calle-Almonte-del-Ensanche-de-Vallecas-foto_-Nuevo-Sureste.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las obras de la L11 provocan el cierre completo de la A-3 en Conde de Casal durante la noche de este miércoles",
-      "link": "https://nuevosureste.es/corte-a3-obras-metro/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/08/Corte-Conde-de-Casal.jpg",
       "tipo": "imagen"
     }
   ]
