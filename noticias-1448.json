@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "La regularización alivia la reducción de empleo del final del verano a 162.800 personas, aunque empuja al alza el paro",
-      "link": "https://www.eldiario.es/economia/regularizacion-alivia-reduccion-empleo-final-verano-162-800-personas-empuja-alza-paro_1_13480870.html",
-      "imagen": "https://static.eldiario.es/clip/c694ca12-0eca-4a72-b6cd-d4b3ec6c513f_16-9-discover-aspect-ratio_default_0_x1161y300.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "La pelea del banco más antiguo de Italia para evitar su compra y cumplir el sueño de Meloni: un tercer gigante financiero",
       "link": "https://www.eldiario.es/economia/pelea-banco-antiguo-italia-evitar-compra-cumplir-sueno-meloni-tercer-gigante-financiero_1_13473319.html",
       "imagen": "https://static.eldiario.es/clip/ccfb2ba6-ab71-47ec-a137-39fd3d2e37c4_16-9-discover-aspect-ratio_default_0.jpg",
@@ -34,6 +28,12 @@
       "titulo": "Ceuta y el patrón de la violencia ultra",
       "link": "https://www.eldiario.es/opinion/zona-critica/ceuta-patron-violencia-ultra_129_13479112.html",
       "imagen": "https://static.eldiario.es/clip/e94f1310-cf2f-4e60-ad40-c9a15bd68921_avatar-200-aspect-ratio_default_0.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ceuta como símbolo",
+      "link": "https://www.eldiario.es/opinion/zona-critica/ceuta-simbolo_129_13480030.html",
+      "imagen": "https://static.eldiario.es/clip/a05ebcd3-5357-4d97-9982-d4957670579b_avatar-200-aspect-ratio_default_0.jpeg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El final del verano en L'Estartit",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260902/11625225/final-verano-l-estartit.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/02/6a97baddc2085.r_d.1019-2086-2408.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los higos chumbos de la Torre de Fals",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260902/11625221/higos-chumbos-torre-fals.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/02/6a97b9324f46d.r_d.4236-3141-556.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Sorgo, el grano de los celíacos",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260902/11625211/sorgo-grano-celiacos.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/02/6a97b59491940.r_d.980-570-2338.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El peligro ecológico de las colillas",
-      "link": "https://www.lavanguardia.com/participacion/red-lectores/20260902/11624461/peligro-ecologico-colillas.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/28/6979bb0c157ec.r_d.986-706-2338.jpeg",
       "tipo": "imagen"
     }
   ]

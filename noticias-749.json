@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El paro sube en Galicia por encima de la media en agosto y los empleos destruidos son casi 1.500",
+      "link": "https://www.eldiario.es/galicia/paro-sube-galicia-media-agosto-empleos-destruidos-son-1-500_1_13481414.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "Evacuadas siete personas por un fuego en una residencia de mayores en Monforte de Lemos",
       "link": "https://www.eldiario.es/galicia/evacuadas-cinco-personas-incendio-residencia-mayores-monforte-lemos-lugo_1_13478761.html",
       "imagen": "",
@@ -9,12 +15,6 @@
     {
       "titulo": "La Xunta confirma un brote de sarna con más de veinte afectados en la residencia de DomusVi de Monforte de Lemos (Lugo)",
       "link": "https://www.eldiario.es/galicia/xunta-confirma-brote-sarna-veinte-afectados-residencia-domusvi-monforte-lemos-lugo_1_13470818.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "La Xunta insiste en su propuesta de construir embalses pese a los avisos de los expertos de que no caben más",
-      "link": "https://www.eldiario.es/galicia/xunta-insiste-propuesta-construir-embalses-pese-avisos-expertos-no-caben_1_13479925.html",
       "imagen": "",
       "tipo": ""
     },
@@ -31,9 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "La Xunta reclama 1,6 millones de euros a Naturgy por un incendio que quemó 370 hectáreas en Padrón",
-      "link": "https://www.eldiario.es/galicia/xunta-reclama-1-6-millones-euros-naturgy-incendio-quemo-370-hectareas-municipio-corunes-padron_1_13480320.html",
-      "imagen": "https://static.eldiario.es/clip/68e73f0a-afac-4b9c-9086-89ee211fc43c_16-9-discover-aspect-ratio_default_0.jpg",
+      "titulo": "Rueda insiste en la propuesta de construir embalses pese a los avisos de los expertos de que no caben más",
+      "link": "https://www.eldiario.es/galicia/xunta-insiste-propuesta-construir-embalses-pese-avisos-expertos-no-caben_1_13479925.html",
+      "imagen": "https://static.eldiario.es/clip/ff00d29f-6b35-4e95-a8a2-9d71e8729a19_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

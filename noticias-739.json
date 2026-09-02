@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Datos paro",
+      "link": "https://www.eldiario.es/cantabria/paro-sube-2-agosto-cantabria-quinto-mayor-aumento-ccaa-639-desempleados_1_13481121.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "CCOO advierte que el sector servicios pierde empleo en Cantabria en plena temporada estival",
+      "link": "https://www.eldiario.es/cantabria/ccoo-advierte-sector-servicios-pierde-empleo-cantabria-plena-temporada-estival_1_13481454.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "UGT denuncia que Cantabria termina el verano con el mayor aumento del paro en agosto de los últimos 11 años",
+      "link": "https://www.eldiario.es/cantabria/ugt-denuncia-cantabria-termina-verano-mayor-aumento-paro-agosto-ultimos-11-anos_1_13481430.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "El sindicato USO denuncia “escasez” de plantilla en los autobuses de Santander y jornadas de trabajo “maratonianas”",
       "link": "https://www.eldiario.es/cantabria/sindicato-denuncia-escasez-plantilla-servicio-transportes-santander-jornadas-trabajo-maratonianas_1_13479960.html",
       "imagen": "",
@@ -13,27 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "4.350 toneladas de alga asiática se han recogido este verano en Cantabria",
-      "link": "https://www.eldiario.es/cantabria/4-350-toneladas-alga-asiatica-han-recogido-verano-playas-cantabria_1_13480652.html",
-      "imagen": "https://static.eldiario.es/clip/517fd87c-1a3a-469a-b37d-7e1f74cd201f_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El PRC acusa al alcalde de Vega de Pas de usar el coche oficial destinado a servicios a los vecinos para su uso particular",
-      "link": "https://www.eldiario.es/cantabria/prc-acusa-alcalde-vega-pas-coche-oficial-destinado-servicios-vecinos-particular_1_13478428.html",
-      "imagen": "https://static.eldiario.es/clip/4482bb1a-be1a-492e-9577-82f379eb294e_16-9-discover-aspect-ratio_default_0_x625y259.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Gobierno de Cantabria convierte dos locales de Laredo en tres viviendas de 50 metros cuadrados que alquilará por sorteo",
-      "link": "https://www.eldiario.es/cantabria/gobierno-cantabria-convierte-locales-laredo-tres-viviendas-50-metros-cuadrados-alquilara-sorteo_1_13479756.html",
-      "imagen": "https://static.eldiario.es/clip/fc5034a0-ac6e-439b-99ee-610e2509ddf2_16-9-discover-aspect-ratio_default_0_x738y335.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Gobierno moviliza medios terrestres y aéreos para extinguir un incendio forestal en Valderredible",
-      "link": "https://www.eldiario.es/cantabria/gobierno-moviliza-medios-terrestres-aereos-extinguir-incendio-forestal-valderredible_1_13480312.html",
-      "imagen": "https://static.eldiario.es/clip/2f48aa6e-efd8-4300-8274-2eaf34dfc04a_16-9-discover-aspect-ratio_default_0.jpg",
+      "titulo": "El consejero de Educación dice que no hay recortes sino “una planificación racional acorde a una realidad de menos alumnos”",
+      "link": "https://www.eldiario.es/cantabria/consejero-educacion-dice-no-hay-recortes-planificacion-racional-acorde-realidad-alumnos_1_13480228.html",
+      "imagen": "https://static.eldiario.es/clip/ef053d44-cfb1-4a34-b340-26e5fa93412f_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
