@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La ciudad que queremos",
+      "link": "https://www.lavanguardia.com/local/valencia/20260902/11624784/ciudad-queremos.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/01/6a96d88521f25.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La magia mediterránea del Freu de s’Agaró",
       "link": "https://www.lavanguardia.com/opinion/20260902/11625095/magia-mediterranea-freu-s-agaro.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/02/6a97541997039.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Gobernar con bondad, decidir con rigor",
       "link": "https://www.lavanguardia.com/opinion/20260902/11624870/gobernar-bondad-decidir-rigor.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/26/6a663ebe08d21.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "No tengo perro, ¿es grave?",
-      "link": "https://www.lavanguardia.com/opinion/20260902/11624759/perro-grave.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/01/6a96d19860643.jpeg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El enésimo tropiezo de Rafael, el narco primo de 'El Chicle' que guardaba 1.400 kilos de cocaína en el \"hotel Papá\"",
+      "link": "https://www.elmundo.es/cronica/2026/09/02/6a90c3bc21efa0613a8b45a9.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/28/17879433787745.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El verano perdido de los niños de Ceuta: \"Mamá, ¿esto es una pesadilla?\"",
       "link": "https://www.elmundo.es/cronica/2026/09/01/6a91cf1121efa0aa018b4582.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/28/17879497437375.jpg",
@@ -9,8 +15,8 @@
     {
       "titulo": "Mico Stanisic, el desconocido último inquilino del 'Hilton de La Haya' tras la muerte del carnicero Mladic",
       "link": "https://www.elmundo.es/cronica/2026/08/31/6a907032e4d4d8e77b8b4598.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/28/17879183610377.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "La última \"expropiación\" de Alfredo, el anarquista español de 70 años recién entregado a Alemania por el atraco de un banco",
@@ -27,13 +33,7 @@
     {
       "titulo": "Óscar Puente en la semana del debate del relevo de Sánchez: \"Nunca he pensado en ser líder del PSOE\"",
       "link": "https://www.elmundo.es/cronica/2026/08/29/6a91ac05fc6c83d9738b457b.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "La Biblioteca de Zaha Hadid en la Universidad de Sevilla: un edificio de premio demolido a medio construir tras más de 9 millones de euros",
-      "link": "https://www.elmundo.es/cronica/2026/08/29/6a888124e4d4d896078b4576.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/21/17873309031358.jpg",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/28/17879316183974.jpg",
       "tipo": "imagen"
     }
   ]

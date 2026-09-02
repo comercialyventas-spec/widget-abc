@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Aviso a navegantes",
+      "link": "https://www.20minutos.es/pais-vasco/vizcaya/aviso-navegantes_7031417_3.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/04/02/fotografia-bermeo.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Asesinado por un disparo un hombre que conducía un taxi en Azpeitia",
       "link": "https://www.20minutos.es/pais-vasco/guipuzcoa/asesinado-por-un-disparo-un-hombre-que-conducia-un-taxi-azpeitia_7031737_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/06/09/6a27c056f38db0-93377053.r_d.88-621.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Calendario laboral de Euskadi 2026: estos son los únicos festivos y puentes que quedan",
       "link": "https://www.20minutos.es/pais-vasco/calendario-laboral-euskadi-2026-estos-son-unicos-festivos-puentes-quedan_6905245_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/02/692eff3c240591-78026917.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Catorce detenidos, cinco menores, en incidentes este sábado de fiestas en Bilbao con varios agentes heridos",
-      "link": "https://www.20minutos.es/pais-vasco/vizcaya/catorce-detenidos-cinco-menores-incidentes-este-sabado-fiestas-bilbao-con-varios-agentes-heridos_7030698_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/30/6a93f07e3b2fc4-42855879.jpeg",
       "tipo": "imagen"
     }
   ]
