@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Guerra híbrida contra Europa",
+      "link": "https://elpais.com/opinion/2026-09-01/guerra-hibrida-contra-europa.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/BAG6N6QEXJAXPFKOO3SYMGWGLM.jpg?auth=21b31ea9ffefbc7d4a40fa1ce86b5e94bd3bd84ce2fa49ca213f25f54f8644d2",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ceuta, capital de Europa",
       "link": "https://elpais.com/opinion/2026-09-01/ceuta-capital-de-europa.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/LRZGZZQOHBPCFIBOM7WW2V5UFA.jpg?auth=192b2d8dda8ee71efbb5dd21344d416053057987d4b7ef7935d2f67db803ffb6",
@@ -28,12 +34,6 @@
       "titulo": "Flavita Banana: la alarma",
       "link": "https://elpais.com/opinion/2026-09-01/flavita-banana-la-alarma.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/IZCCT6TQRBEXREBHYX5G2RSRWE.jpg?auth=c119a6d92519c693a8768f90c035bb76e2f1fa34f19e2137924cc70b70f1d589",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "“No éramos custodios accidentales”, un lector tras el robo del Tesoro de Villena",
-      "link": "https://elpais.com/opinion/2026-09-01/no-eramos-custodios-accidentales-un-lector-tras-el-robo-del-tesoro-de-villena.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/GGLU5Y3G7RHXFNAZF5MJXJVMYE.jpg?auth=74828e241fa6faea1df27af778a8c6e9a47c70491c4b4c585b80f2156c97c7a6",
       "tipo": "imagen"
     }
   ]
