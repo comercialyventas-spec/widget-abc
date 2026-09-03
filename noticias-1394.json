@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de Los Cerros",
+      "link": "https://nuevosureste.es/suministro-electrico-rocio-albert/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/La-consejera-de-Economia-Rocio-Albert-durante-su-reciente-visita-a-Arganda-foto-Nuevo-Sureste-400x250.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Luz verde a dos nuevas líneas eléctricas de alta tensión en El Cañaveral para abastecer la futura subestación de Los Cerros",
       "link": "https://nuevosureste.es/lineas-electricas-canaveral-los-cerros/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/07/Obras-de-urbanizacion-Los-Cerros-julio-2026-400x250.jpeg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Los Cerros inicia la construcción de sus primeras viviendas",
       "link": "https://nuevosureste.es/primera-piedra-vivienda-los-cerros/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/07/Acto-de-colocacion-de-la-primera-piedra-residencial-en-Los-Cerros-foto-Nuevo-Sureste-400x250.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las obras de urbanización de la Etapa 1 de Los Cerros superan el 70% de su ejecución",
-      "link": "https://nuevosureste.es/urbanizacion-de-la-etapa-1-de-los-cerros/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/02/DSC_1539-400x250.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Más de 600 desalojados de un hotel de Toledo por un incendio en un cuadro eléctrico",
+      "link": "https://www.20minutos.es/castilla-la-mancha/toledo/mas-600-desalojados-un-hotel-toledo-por-un-incendio-un-cuadro-electrico_7032278_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2023/04/20/un-camion-de-bomberos-de-toledo.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La operación 'Calfire 26' se salda con tres detenidos: quema las casas de dos presuntos ladrones y se enzarzan en un tiroteo",
       "link": "https://www.20minutos.es/castilla-la-mancha/toledo/operacion-calfire-se-salda-con-tres-detenidos-quema-las-casas-dos-presuntos-ladrones-se-enzarzan-un-tiroteo_7031368_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/01/6a968de9df3623-56512560.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "La Guardia Civil suspende la búsqueda del supuesto león avistado en la Sierra de San Vicente al no encontrar evidencias",
       "link": "https://www.20minutos.es/castilla-la-mancha/toledo/guardia-civil-suspende-busqueda-supuesto-leon-avistado-sierra-san-vicente-no-encontrar-evidencias_7027755_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/07/16/un-helicoptero-de-rescate-de-la-guardia-civil.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Buscan a un león en la sierra de Toledo con un helicóptero y drones tras recibir un aviso",
-      "link": "https://www.20minutos.es/castilla-la-mancha/toledo/buscan-un-leon-sierra-toledo-con-un-helicoptero-drones-tras-recibir-un-aviso_7027387_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2023/03/13/helicoptero-de-la-guardia-civil.jpeg",
       "tipo": "imagen"
     }
   ]

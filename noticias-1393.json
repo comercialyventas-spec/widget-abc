@@ -2,6 +2,18 @@
   "noticias": [
     {
       "titulo": "Noticias de El Cañaveral",
+      "link": "https://nuevosureste.es/accidente-trafico-km-23-m-45-el-canaveral/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/Captura-de-pantalla-2026-09-03-a-las-9.24.48-400x250.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Comunidad alerta de que la falta de capacidad eléctrica puede afectar al desarrollo de nuevas viviendas en el sureste",
+      "link": "https://nuevosureste.es/suministro-electrico-rocio-albert/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/La-consejera-de-Economia-Rocio-Albert-durante-su-reciente-visita-a-Arganda-foto-Nuevo-Sureste-400x250.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La EMT incorpora nuevas paradas en las líneas E5 y 159 de El Cañaveral",
       "link": "https://nuevosureste.es/nuevas-paradas-autobus-el-canaveral/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2025/01/Autobus-de-la-linea-159-de-EMT-Madrid-fuente-EMT-Madrid-400x250.jpg",
       "tipo": "imagen"
@@ -22,18 +34,6 @@
       "titulo": "Cerca del 15% de los habitantes empadronados en El Cañaveral son extranjeros",
       "link": "https://nuevosureste.es/poblacion-extranjera-el-canaveral/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/07/calles-el-canaveral-1-400x250.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los puntos negros de El Cañaveral: estos son los cruces donde más accidentes se registran",
-      "link": "https://nuevosureste.es/accidentes-trafico-el-canaveral-2026/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/08/Captura-de-Pantalla-2026-08-06-a-las-20.56.17-400x250.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Inteligencia artificial al servicio de la vivienda pública: así transforma EMVS Madrid la gestión de sus edificios",
-      "link": "https://nuevosureste.es/emvs-ia-el-canaveral/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2025/07/Canaveral-12-EMVS-2-ok-400x250.jpg",
       "tipo": "imagen"
     }
   ]

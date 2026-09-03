@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Moscú cerrará el Instituto Goethe en respuesta a la clausura de la Casa Rusa de Berlín",
+      "link": "https://www.lavanguardia.com/internacional/20260903/11626129/moscu-cerrara-el-instituto-goethe-en-respuesta-a-la-clausura-de-la-casa-rusa-de-berlin.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/09/03/6a9926d8a3e72.r_d.3786-2391-594.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Absuelto en Malta el magnate acusado de ordenar el asesinato de la periodista Caruana Galizia",
       "link": "https://www.lavanguardia.com/internacional/20260903/11626080/absuelto-malta-magnate-acusado-ordenar-asesinato-periodista-caruana-galizia.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/09/03/6a991e2e9f814.r_d.2723-1599-988.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/09/03/6a991e2e9f814.r_d.2723-1599-988.jpeg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Adiós a la Casa Rusa de Berlín, sospechosa de propaganda y espionaje",
       "link": "https://www.lavanguardia.com/internacional/20260903/11625660/casa-rusa-berlin-alemania-cierre-kremlin-sospecha-espionaje-drones-leipzig.html",
       "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/09/02/6a982e6a24961.r_d.3810-3586-603.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Hay que temer a Elon Musk?",
-      "link": "https://www.lavanguardia.com/internacional/20260903/11625405/ia-inteligencia-artificial-elon-musk-space-x.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/08/26/6a8ec2c78e3a8.r_d.4923-1738-816.jpeg",
       "tipo": "imagen"
     }
   ]

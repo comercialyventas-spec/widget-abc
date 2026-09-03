@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de Nueva Centralidad del Este",
+      "link": "https://nuevosureste.es/suministro-electrico-rocio-albert/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/La-consejera-de-Economia-Rocio-Albert-durante-su-reciente-visita-a-Arganda-foto-Nuevo-Sureste-400x250.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Qué fue del caserío de Ambroz: convertido en chalé y habitado hasta 2002",
       "link": "https://nuevosureste.es/que-fue-del-caserio-de-ambroz-convertido-en-chale-y-habitado-hasta-2002/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/07/caserio-ambroz-1993-400x250.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "La Fiscalía investiga los trabajos con maquinaria pesada en la Laguna Grande de Ambroz tras una denuncia de la FRAVM",
       "link": "https://nuevosureste.es/fiscalia-lagunas-de-ambroz/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/07/Trabajos-con-maquinaria-en-la-Laguna-Grande-Ambros-foto-FRAVM-400x250.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Vecinos y ecologistas rodean la Laguna de Ambroz para exigir la paralización definitiva de la mina de sepiolita",
-      "link": "https://nuevosureste.es/vecinos-ecologistas-laguna-ambroz/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/06/image0-5-400x250.jpg",
       "tipo": "imagen"
     }
   ]

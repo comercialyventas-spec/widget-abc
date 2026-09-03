@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de Valdecarros",
+      "link": "https://nuevosureste.es/suministro-electrico-rocio-albert/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/La-consejera-de-Economia-Rocio-Albert-durante-su-reciente-visita-a-Arganda-foto-Nuevo-Sureste-400x250.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El gran reto de Valdecarros: la integración de un barrio fragmentado por grandes carreteras y las vías del AVE",
       "link": "https://nuevosureste.es/gran-reto-de-valdecarros-integracion-barrio-dividido-grandes-carreteras-y-vias-ave/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/07/via-borde-valdecarros-400x250.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Aprobado el primer tramo del gran eje verde que conectará los desarrollos del sureste",
       "link": "https://nuevosureste.es/gran-via-sureste-ensanche-vallecas/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/07/Gran-Via-Sureste-1-400x250.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Adif construirá un nuevo taller de mantenimiento junto a Valdecarros",
-      "link": "https://nuevosureste.es/adif-construira-un-nuevo-taller-de-mantenimiento-junto-a-valdecarros/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/07/taller-adif-valdecarros-2-400x250.jpg",
       "tipo": "imagen"
     }
   ]

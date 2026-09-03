@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de Nuevo Sureste de Madrid",
+      "link": "https://nuevosureste.es/suministro-electrico-rocio-albert/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/La-consejera-de-Economia-Rocio-Albert-durante-su-reciente-visita-a-Arganda-foto-Nuevo-Sureste.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los Servicios de Emergencias y Seguridad del Ayuntamiento de Madrid darán el pregón de las Fiestas de la Virgen de la Torre de Villa de Vallecas",
       "link": "https://nuevosureste.es/servicios-emergencia-pregoneros-villa-vallecas/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2025/05/c4d279d0-8d93-47b9-9fa3-c6f97150f1a6-1080x675.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "De 945 a 27.014 empadronados: esta es la evolución de la población de El Cañaveral en los últimos años",
       "link": "https://nuevosureste.es/evolucion-poblacion-el-canaveral/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/08/Captura-de-pantalla-2026-08-27-a-las-17.16.32-1080x570.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La nueva Casa Familias del Ensanche de Vallecas abrirá en el primer trimestre de 2027",
-      "link": "https://nuevosureste.es/casa-familias-ensanche-vallecas/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/08/Exterior-de-la-Casa-de-Familias-del-Ensanche-de-Vallecas-foto-Nuevo-Sureste.jpg",
       "tipo": "imagen"
     }
   ]

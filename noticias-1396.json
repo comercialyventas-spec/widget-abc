@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de Los Berrocales",
+      "link": "https://nuevosureste.es/suministro-electrico-rocio-albert/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/La-consejera-de-Economia-Rocio-Albert-durante-su-reciente-visita-a-Arganda-foto-Nuevo-Sureste-400x250.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La licitación del proyecto de la estación de Metro de Ahijones-Berrocales recibe un segundo recurso",
       "link": "https://nuevosureste.es/segundo-recurso-estacion-ahijones-berrocales/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2024/06/Diseno-sin-titulo-2024-06-06T115250.704-400x250.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Los Berrocales proyecta un gran parque para poner en valor el entorno de la ermita Virgen De la Torre",
       "link": "https://nuevosureste.es/parque-ermita-virgen-de-la-torre-berrocales/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2024/05/Diseno-sin-titulo-56-400x250.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Comienzan las obras de urbanización de la segunda etapa de Los Berrocales, que permitirá construir más de 5.000 viviendas y zonas comerciales",
-      "link": "https://nuevosureste.es/etapa-2-los-berrocales/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2024/10/Obras-de-la-tercera-etapa-de-urbanizacion-de-Los-Berrocales-fuente-Nuevo-Sureste-400x250.jpg",
       "tipo": "imagen"
     }
   ]
