@@ -1,7 +1,13 @@
 {
   "noticias": [
     {
-      "titulo": "Quintanar del Rey es el pueblo ganador del ‘Grand Prix del verano 2026′",
+      "titulo": "‘La mesa’ de Cristina Pardo: para amantes de la recena",
+      "link": "https://elpais.com/television/2026-09-03/la-mesa-de-cristina-pardo-para-amantes-de-la-recena.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7YPLSKXM2FCMFO2D2KU2AS7MWM.jpg?auth=5dee64087f1493af8ef5ff02b76525eca6e027fd03ee8f044ed9635e29b7c1db",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Quintanar del Rey gana el ‘Grand Prix’ en una final que emociona a Ramón García: “No es solo la audiencia”",
       "link": "https://elpais.com/television/2026-09-03/quintanar-del-rey-es-el-pueblo-ganador-del-grand-prix-del-verano-2026.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/6CMHY62WMNHKDFZITBSEDHH4JE.jpg?auth=aec9205e5ccd474a22833753ac43bcbf96860308bf0db177590983d4953fc42d",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "‘Cristal’, el fenómeno que acabó con la siesta",
       "link": "https://elpais.com/television/2026-09-03/cristal-el-fenomeno-que-acabo-con-la-siesta.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/KOJ7CX2JVVAK3KZ5O3DT2XHALE.jpg?auth=a9015e53d27593475e8369c26ab4f58c2dc6b626606f9ed38ef86d7b551befc8",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mal de amores",
-      "link": "https://elpais.com/television/series/mal-de-amores/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/YHYRZHDNYBD6FLIVPTRH7Q2QXA.jpg?auth=033a2cd06de89609ae7042076571352505942a82593a8c59b9645ff7955bb14b",
       "tipo": "imagen"
     }
   ]
