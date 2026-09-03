@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "AEMET prevé sol y viento moderado en Barcelona hoy, con aumento de temperaturas",
+      "link": "https://okdiario.com/cataluna/aemet-preve-sol-y-viento-moderado-en-barcelona-hoy-con-aumento-de-temperaturas-20219778",
+      "imagen": "https://okdiario.com/img/2026/09/03/mujer-se-protege-del-sol-ante-la-mejora-del-tiempo.-europa-press.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "National Geographic lo confirma: la ciudad más bonita de Europa está en España y es vasca",
       "link": "https://okdiario.com/pais-vasco/national-geographic-lo-confirma-ciudad-mas-bonita-europa-esta-espana-vasca-20210700",
       "imagen": "https://okdiario.com/img/2026/09/01/national-geographic-lo-confirma-la-ciudad-mas-bonita-de-europa-esta-en-espana-y-es-vasca.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La AEMET lo confirma: las temperaturas suben en la Comunidad Valenciana hasta los 36 grados",
       "link": "https://okdiario.com/comunidad-valenciana/aemet-lo-confirma-temperaturas-suben-comunidad-valenciana-hasta-36-grados-20213339",
       "imagen": "https://okdiario.com/img/2026/09/02/imagen_recortada-10.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Policía desvela chats de los invasores: \"Hay que entrar y esconderse en las alcantarillas hasta que se calmen los españoles\"",
-      "link": "https://okdiario.com/espana/policia-desvela-chats-invasores-hay-que-entrar-esconderse-alcantarillas-hasta-que-calmen-espanoles-20218255",
-      "imagen": "https://okdiario.com/img/2026/09/02/la-policia-desvela-chats-de-los-invasores-hay-interior.jpg",
       "tipo": "imagen"
     }
   ]
