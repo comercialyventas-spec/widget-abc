@@ -1,7 +1,7 @@
 {
   "noticias": [
     {
-      "titulo": "Inicio de curso bajo tensión",
+      "titulo": "Ceuta, no hay más tiempo que perder",
       "link": "https://elpais.com/opinion/editoriales/",
       "imagen": "",
       "tipo": ""
@@ -9,8 +9,8 @@
     {
       "titulo": "El acuerdo que salvó a Meta",
       "link": "https://elpais.com/opinion/tribunas/",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://imagenes.elpais.com/resizer/v2/DSZQZOKDYZGTJBNZBA2VT2FCKM.jpg?auth=37d105a72acdc00a5198da3b560fa8a3a0b97392404da08564e83e4a9d248019&width=414",
+      "tipo": "imagen"
     },
     {
       "titulo": "‘Bodegoterapia’",
@@ -33,8 +33,8 @@
     {
       "titulo": "Morir en agosto",
       "link": "https://elpais.com/autor/luz-sanchez-mellado/",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RDPTJ7BRANDIXOXSPESTF4ZANU.jpg?auth=ebf1e5a2a8041910790d89794b3e03a8765f7841dcdf8121cefb0ec042cd2d60&width=414&height=233&focal=944%2C770",
+      "tipo": "imagen"
     }
   ]
 }
