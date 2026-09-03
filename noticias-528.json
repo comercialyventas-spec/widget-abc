@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Gran apagón",
+      "link": "https://www.elconfidencialdigital.com/album/seguridad/gran-apagon/202609031412491038738.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/03/2026090314111093371.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Asalto a la frontera de Ceuta el 30 de julio de 2026",
+      "link": "https://www.elconfidencialdigital.com/album/seguridad/asalto-frontera-ceuta-30-julio-2026/202609031407211038736.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/03/2026090314045083619.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Inmigrantes irregulares en Ceuta",
       "link": "https://www.elconfidencialdigital.com/album/seguridad/inmigrantes-irregulares-ceuta/202608272236461037699.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/08/27/2026082722353386545.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Guardia Civil",
       "link": "https://www.elconfidencialdigital.com/album/seguridad/guardia-civil/202608192100001036676.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/08/19/2026081920581934081.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Unidades de Intervención Policial",
-      "link": "https://www.elconfidencialdigital.com/album/seguridad/unidades-intervencion-policial/202608182012051036488.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/08/18/2026081820082825556.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "GAR",
-      "link": "https://www.elconfidencialdigital.com/album/seguridad/gar/202608172337471036427.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/06/19/2026061916354651911.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La soledad del impostor de fondo",
+      "link": "https://www.vozpopuli.com/opinion/la-soledad-del-impostor-de-fondo.html",
+      "imagen": "https://cdn.vozpopuli.com/cdn/posts/4234769/marruecos-mal-trago-sanchez-2890332-580-340.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Rehenes de Marruecos",
       "link": "https://www.vozpopuli.com/opinion/rehenes-de-marruecos.html",
       "imagen": "https://cdn.vozpopuli.com/cdn/posts/4234712/manifestacion-ceuta-2890107-580-340.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El apagón perfecto",
       "link": "https://www.vozpopuli.com/opinion/el-apagon-perfecto.html",
       "imagen": "https://cdn.vozpopuli.com/cdn/posts/4234708/sanchez-sin-piernas-urdiendo-estrategias-2890171-580-340.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La violencia legítima",
-      "link": "https://www.vozpopuli.com/opinion/la-violencia-legitima.html",
-      "imagen": "https://cdn.vozpopuli.com/cdn/posts/4234707/actuacion-policia-nacional-ceuta-2890156-580-340.jpg",
       "tipo": "imagen"
     }
   ]

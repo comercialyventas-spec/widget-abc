@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El mercado de vehículos electrificados crece en agosto el 28% y roza las 210.000 unidades",
+      "link": "https://www.abc.es/motor/motoreco/mercado-vehiculos-electrificados-crece-agosto-roza-210000-20260903134300-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/03/electricos-agosto-R36f9uHEYvh8XByUAN1E1yL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "De la motorización de España a Cupra: Seat encara el final de su trayectoria histórica",
+      "link": "https://www.abc.es/motor/reportajes/motorizacion-espana-cupra-seat-encara-final-trayectoria-20260903131640-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/03/primera-linea-montaje-seat-R1MV6NFjGT1npj8UFmVkcNJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Porsche 911 Challenge: la nueva puerta de entrada de Stuttgart para dar el salto a los circuitos",
       "link": "https://www.abc.es/motor/novedades/porsche-911-challenge-nueva-puerta-entrada-stuttgart-20260903115200-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/03/img16-R9ovjT6URCUdSEkigUtNL1J-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "El «idioma secreto» del tráfico europeo: por qué una ráfaga o un claxon te pueden meter en un lío",
       "link": "https://www.abc.es/motor/reportajes/idioma-secreto-trafico-europeo-rafaga-claxon-pueden-20260903072500-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/03/CONDUCIR-EUROPA-PROBLEMAS-R2xmb4aacxfYfJMblgPjl1N-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La balanza comercial del automóvil se debilita por la electrificación y el empuje asiático",
-      "link": "https://www.abc.es/motor/economia/balanza-comercial-automovil-debilita-electrificacion-empuje-asiatico-20260902140745-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/02/campa-coches-barco-RiLxvIdpaf2L2znpN6w65dO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "«La inteligencia artificial y la sostenibilidad marcarán la nueva era de KIA»",
-      "link": "https://www.abc.es/motor/economia/inteligencia-artificial-sostenibilidad-marcaran-nueva-era-kia-20260901121100-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/01/kia-ev9-Karim-Habib-1-RUQOpRgT6PsZtNE2gvBbCaI-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

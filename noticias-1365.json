@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El movimiento por Ceuta da un giro en la derecha",
+      "link": "https://elpais.com/opinion/2026-09-03/el-movimiento-por-ceuta-da-un-giro-en-la-derecha.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/S7EVXYQPIFDNHF2ADAM6ZOJAZU.jpg?auth=eb2eaffcb21201ceb91cdd561975e5c2d88b94ddfe6186014a97fdb98b2002e6",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Roto: ningún problema",
       "link": "https://elpais.com/opinion/2026-09-03/el-roto-ningun-problema.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/CHCOKXAO6FEWRM5WDMSF5WRNGE.jpg?auth=60c793c92b2e7dd738557577f9a9fa6603c4432912ca145cc227221570a3f18b",
@@ -28,12 +34,6 @@
       "titulo": "Peridis: el Misterio del Interior",
       "link": "https://elpais.com/opinion/2026-09-03/peridis-el-misterio-del-interior.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/HTIK6VX5FNDNZBUTX63IUBTVYE.jpg?auth=f66fd161349d2a2f9a03791410592ded16b835d6f42fa73c2a057eb168109aa2",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Morir en agosto",
-      "link": "https://elpais.com/opinion/2026-09-03/morir-en-agosto.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/RDPTJ7BRANDIXOXSPESTF4ZANU.jpg?auth=ebf1e5a2a8041910790d89794b3e03a8765f7841dcdf8121cefb0ec042cd2d60",
       "tipo": "imagen"
     }
   ]

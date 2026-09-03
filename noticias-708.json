@@ -1,7 +1,13 @@
 {
   "noticias": [
     {
-      "titulo": "‘La bola negra’, ‘El ser querido’ y ‘Los domingos’, finalistas para representar a España en los Oscar",
+      "titulo": "Un músico de la banda Camilo Séptimo, asesinado junto a su familia en México",
+      "link": "https://www.eldiario.es/cultura/musico-banda-camilo-septimo-asesinado-familia-centro-mexico_1_13483629.html",
+      "imagen": "https://static.eldiario.es/clip/a5474517-7996-46ac-8164-ffaa83c0cfed_16-9-discover-aspect-ratio_default_1150404.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "‘La bola negra’, ‘El ser querido’ y ‘Los domingos’, finalistas para representar a España en los Oscar 2027",
       "link": "https://www.eldiario.es/cultura/cine/bola-negra-querido-domingos-tres-finalistas-representar-espana-oscar_1_13483931.html",
       "imagen": "https://static.eldiario.es/clip/0c6d9223-d2c7-4509-bb4a-59c182190d33_16-9-discover-aspect-ratio_default_1150394.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Maggie Gyllenhaal, presidenta del jurado de la Mostra: “Es mucho más difícil para las directoras conseguir financiación”",
       "link": "https://www.eldiario.es/cultura/maggie-gyllenhaal-presidenta-jurado-mostra-dificil-directoras-financiacion_1_13483132.html",
       "imagen": "https://static.eldiario.es/clip/67abde82-524a-4ecd-9de8-1d5d1d258fad_16-9-discover-aspect-ratio_default_0_x1216y386.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "George Clooney critica la IA desde Venecia: “No me gustaría estar en un anuncio de tampones 20 años después de muerto”",
-      "link": "https://www.eldiario.es/cultura/cine/george-clooney-critica-ia-venecia-no-gustaria-anuncio-tampones-20-anos-despues-muerto_1_13482634.html",
-      "imagen": "https://static.eldiario.es/clip/dbf3ff5f-7ab3-4e94-8acb-65a21bd6a1bc_16-9-discover-aspect-ratio_default_0_x1060y261.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Chad Powers",
+      "link": "https://elpais.com/television/series/chad-powes/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7ORYLR5RVFE5NONYREBAHHVPSA.jpg?auth=12ed8762e51f6b5534d097fe098168cf0b76ab7ff2f683fe53d12667dad1e0fe",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "M.I.A.",
       "link": "https://elpais.com/television/series/mia/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/7DXHJNDDFBBPVOGSBV5A5TNB64.jpg?auth=2679a344a60916f5b9721e3a131fbac0f3ad21666aaba0addded40b27fa4cde2",
@@ -28,12 +34,6 @@
       "titulo": "Quintanar del Rey gana el ‘Grand Prix’ en una final que emociona a Ramón García: “No es solo la audiencia”",
       "link": "https://elpais.com/television/2026-09-03/quintanar-del-rey-es-el-pueblo-ganador-del-grand-prix-del-verano-2026.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/6CMHY62WMNHKDFZITBSEDHH4JE.jpg?auth=aec9205e5ccd474a22833753ac43bcbf96860308bf0db177590983d4953fc42d",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Titulares y suplentes",
-      "link": "https://elpais.com/television/2026-09-03/titulares-y-suplentes.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/L34RPGPOHNECXF74NRPEYN4KHE.jpg?auth=e18c3aeb8e9cd86a70d4182ce697bbc1b2e36c26027715b43f0e9cb4509abf3e",
       "tipo": "imagen"
     }
   ]
