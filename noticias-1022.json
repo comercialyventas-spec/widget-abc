@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Volkswagen planea terminar con la marca Seat en 2029 para reforzar Cupra",
-      "link": "https://www.abc.es/economia/volkswagen-planea-terminar-marca-seat-2029-20260903123508-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/03/pep-dalmau-U206099366865RB-U301552319327nzB-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "De Eugenia Silva a Carlos Sainz: los looks de los famosos en la inauguración del Festival de Venecia 2026",
-      "link": "https://www.abc.es/estilo/moda/eugenia-silva-carlos-sainz-looks-famosos-inauguracion-20260903110341-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/estilo/2026/09/03/eugenia-reuters-Rk5iibOibDGyj5Re9GznkyK-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "El Tribunal Superior de Justicia de Madrid archiva una de las quejas contra el juez Peinado en el caso Begoña",
-      "link": "https://www.abc.es/espana/tsjm-archiva-quejas-juez-peinado-begona-20260903152132-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/03/1484159919-kbPH-U301556214477TRB-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "Sánchez se enroca en proteger a Marruecos, pero se ve obligado a matizar su defensa",
       "link": "https://www.abc.es/espana/sanchez-enroca-proteccion-marruecos-obligado-matizar-defensa-20260903101306-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/03/1516747468-RFJndtFdf2ntom5hDrmZZcI-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/03/1516747468-RFJndtFdf2ntom5hDrmZZcI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Volkswagen planea terminar con la marca Seat antes de 2029 para reforzar Cupra",
+      "link": "https://www.abc.es/economia/volkswagen-planea-terminar-marca-seat-2029-20260903123508-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/03/pep-dalmau-U206099366865RB-U301552319327nzB-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Rufián dice a Sánchez que tiene «un problemón» porque Robles «no le ha aplaudido»",
       "link": "https://www.abc.es/espana/rufian-dice-sanchez-problemon-importante-robles-aplaudido-20260903123140-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/03/Captura%20de%20pantalla%202026-09-03%20121755-kx3F-U301551683843k0B-1200x840@diario_abc.png"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/03/Captura%20de%20pantalla%202026-09-03%20121755-kx3F-U301551683843k0B-1200x840@diario_abc.png",
+      "tipo": "imagen"
     },
     {
       "titulo": "Los sindicatos redoblan el pulso a la Consejería y mantienen la huelga en el primer día de clases en Cataluña",
       "link": "https://www.abc.es/espana/cataluna/sindicatos-redoblan-pulso-consejeria-mantienen-huelga-inicio-20260903140621-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/03/colegi-Rw8JF5s1PgvhGvAcGI3edsN-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/03/colegi-Rw8JF5s1PgvhGvAcGI3edsN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Vuelta al cole en Madrid: la FP y el ciclo infantil de 0-3 años ya baten récords de alumnos",
+      "link": "https://www.abc.es/espana/madrid/vuelta-cole-madrid-record-alumnos-escuelas-infantiles-20260902012913-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/02/colegio-RRi1qMTuwUZw2qSfxy2wLuL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Guardia Civil detectó espías marroquíes ocultos en la avalancha",
+      "link": "https://www.abc.es/espana/guardia-civil-ultima-informe-juez-identifica-miembros-20260903011202-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/03/1516707444-ReTRakZ5jCYTAaUUygtC7QP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }
