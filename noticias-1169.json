@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "‘La mesa de Hora 25’, en directo en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-09-03/la-mesa-de-hora-25-en-directo-en-el-pais.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/CIHT3FJ5SBGAJBV6MBDWYU3SVE.jpeg?auth=e9d76197f10a89116a1ba3d97fcb4a2c81e5464ae3e3b4d2443df639a839885e&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Margarita Robles evita aplaudir el anuncio de Sánchez sobre la publicación de los informes sobre Ceuta",
+      "link": "https://elpais.com/videos/2026-09-03/margarita-robles-evita-aplaudir-el-anuncio-de-sanchez-sobre-la-publicacion-de-los-informes-sobre-ceuta.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/CPBWTZMIDZGPLBZAY3ZY4SKMCE.jpg?auth=58da522f69288029c6d1a772bc42482a7dc7ba2558d6305d7bb7f016eec97558&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Programa especial | Pedro Sánchez comparece en el Congreso por la crisis de Ceuta",
+      "link": "https://elpais.com/videos/2026-09-03/comparecencia-pedro-sanchez-en-el-congreso-por-la-crisis-de-ceuta.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4T3PYTYDONESDAPDWH2ERBBU7Y.jpg?auth=8c55748d8ce88876f182d90c14fe5821fd12cf252c2eb7bdb27bf3efb63e55d3&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Del papel de Marruecos a los informes previos: los titulares de Sánchez en tres minutos",
+      "link": "https://elpais.com/videos/2026-09-03/del-papel-de-marruecos-a-los-informes-previos-los-titulares-de-sanchez-en-tres-minutos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VKGDYGUYSJOLBO73XWCEL2M5L4.jpg?auth=032ccc098c1de293e9f6ae5b5214d85abde75c3da30e3ae3ead9452b7c95d3e5&width=414&height=233&focal=1674%2C1051",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Anuncio de las películas españolas preseleccionadas para los Oscar 2027",
       "link": "https://elpais.com/videos/2026-09-03/anuncio-de-las-peliculas-espanolas-preseleccionadas-para-los-oscar-2027.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/4PDRZRBQKJCAFLHY2PN4FIQK2M.jpg?auth=baf5181b69f47bcfedda0d777b4a4f32ef33bd38372b255a8bb6a6f02128f766&width=414&height=233&smart=true",
@@ -8,32 +32,8 @@
     },
     {
       "titulo": "Pincharse con cincuenta porque “te ves gorda”",
-      "link": "https://elpais.com/videos/2026-09-03/pincharse-con-cincuenta-porque-te-ves-gorda.html",
+      "link": "https://elpais.com/videos/notas-de-voz-en-la-terraza/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/K4SRPMWB3VF53AOMHJB4PLD6HE.jpg?auth=1e1d9624dabd2b278a0d97e71b2a8e5c27faf854d12d56acf6a3a158a65f9bdc&width=414&height=233&focal=405%2C307",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Dentro de la protesta en Ceuta: la emoción de Vivas, el diputado crítico del PSOE y la indignación en la calle",
-      "link": "https://elpais.com/espana/2026-09-03/dentro-de-la-protesta-en-ceuta-la-emocion-de-vivas-el-diputado-critico-del-psoe-y-la-indignacion-en-la-calle.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/7KCQMVPB5RPIHIP63ZQQEMUR2U.jpg?auth=e51349557526d67c82220de35191344648ad3eda4037ee4daff1f63e89a72b83&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Miles de personas se movilizan en Madrid por Ceuta: “Lo que ocurre allí puede suceder en cualquier ciudad de España”",
-      "link": "https://elpais.com/videos/2026-09-02/miles-de-personas-se-movilizan-en-madrid-por-ceuta-lo-que-ocurre-alli-puede-suceder-en-cualquier-ciudad-de-espana.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/D7TM6YK3BFDPVNZQBZA3LS73KU.jpg?auth=3788de4442de8e5de3b1400d952c0df4b784cd6db51b48c82e903275681141f7&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘La mesa de Hora 25’, en directo en EL PAÍS",
-      "link": "https://elpais.com/videos/2026-09-02/la-mesa-de-hora-25-en-directo-en-el-pais.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/CIHT3FJ5SBGAJBV6MBDWYU3SVE.jpeg?auth=e9d76197f10a89116a1ba3d97fcb4a2c81e5464ae3e3b4d2443df639a839885e&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "“El gobierno tiene un problema muy serio si no controla lo que está haciendo la policía”",
-      "link": "https://elpais.com/noticias/crisis-migratoria/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/VIVQRRDBNZF2ZGDZCGXESJLJTA.jpg?auth=b1a8f23ffafd20b9d7c88514753ed2361c16269b3c3c87c8fcb9a1061b6adf87&width=414&height=233&smart=true",
       "tipo": "imagen"
     }
   ]

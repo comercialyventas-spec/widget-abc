@@ -1,7 +1,13 @@
 {
   "noticias": [
     {
-      "titulo": "Volkswagen aprueba el plan de ajuste con recortes de 50.000 empleados en los próximos años",
+      "titulo": "Los investigadores de Adamuz detectan como \"primera anomalía\" la rotura de una soldadura",
+      "link": "https://www.publico.es/sociedad/investigadores-adamuz-detectan-primera-anomalia-rotura-soldadura.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/01/22/697236806b465.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Volkswagen aprueba el despido de 50.000 trabajadores en los próximos años",
       "link": "https://www.publico.es/sociedad/volkswagen-aprueba-plan-ajuste-recortes-50-000-empleados-proximos-anos.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/03/6a99cf8309455.jpeg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Una victoria laboral entre llamas: la lucha de los bomberos en Madrid da sus frutos tras un verano devastador",
       "link": "https://www.publico.es/sociedad/m-ambiente/victoria-laboral-llamas-lucha-bomberos-madrid-da-frutos-verano-devastador.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/03/6a99a9673f8c5.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Nueva York prohíbe el uso de IA en las escuelas públicas",
-      "link": "https://www.publico.es/sociedad/educacion/nueva-york-prohibe-uso-ia-escuelas-educacion-publica.html",
-      "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/03/6a99b7fca72cb.r_d.988-563-1406.jpeg",
       "tipo": "imagen"
     }
   ]
