@@ -1,14 +1,26 @@
 {
   "noticias": [
     {
+      "titulo": "La OCG abre su nueva temporada con un gran concierto gratuito en la Plaza de Toros",
+      "link": "https://www.ahoragranada.com/noticias/la-ocg-abre-su-nueva-temporada-con-un-gran-concierto-gratuito-en-la-plaza-de-toros/",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "Granada pide al Consorcio de Seguros \"más rapidez\" en las indemnizaciones por los daños de los terremotos",
+      "link": "https://www.ahoragranada.com/noticias/granada-pide-al-consorcio-de-seguros-mas-rapidez-en-las-indemnizaciones-por-los-danos-de-los-terremotos/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Danos-Terremotos-Zaidin-Septiembre-LFR-6.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ver fútbol gratis puede salir caro: la Guardia Civil de Granada advierte de las estafas vinculadas a las IPTV",
       "link": "https://www.ahoragranada.com/noticias/ver-futbol-gratis-puede-salir-caro-la-guardia-civil-de-granada-advierte-de-las-estafas-vinculadas-a-las-iptv/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/tdt.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Intenta clavar una navaja a un vigilante de seguridad tras ser expulsado de la Estación de Autobuses de Granada",
-      "link": "https://www.ahoragranada.com/noticias/intenta-clavar-una-navaja-a-un-vigilante-de-seguridad-tras-ser-expulsado-de-la-estacion-de-autobuses-de-granada/",
+      "titulo": "Intenta clavar una navaja a un vigilante tras ser expulsado de la Estación de Autobuses de Granada",
+      "link": "https://www.ahoragranada.com/noticias/intenta-clavar-una-navaja-a-un-vigilante-tras-ser-expulsado-de-la-estacion-de-autobuses-de-granada/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Navaja-estacion-autobuses.jpg",
       "tipo": "imagen"
     },
@@ -23,18 +35,6 @@
       "link": "https://www.ahoragranada.com/galerias/manifestaciones-de-apoyo-a-ceuta-en-granada/",
       "imagen": "",
       "tipo": ""
-    },
-    {
-      "titulo": "De la Costa al Poniente de Granada: los atractivos de los 19 pueblos de la etapa 13 de la Vuelta a España",
-      "link": "https://www.ahoragranada.com/noticias/de-la-costa-al-poniente-de-granada-los-atractivos-de-los-19-pueblos-de-la-etapa-13-de-la-vuelta-a-espana/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/ETAPA13Montaje.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Miles de personas muestran su apoyo a Ceuta en Granada",
-      "link": "https://www.ahoragranada.com/noticias/miles-de-personas-muestran-su-apoyo-a-ceuta-en-granada/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Granada_Concentracion-en-Subdelegacion-contra-el-Racismo_Fotos_Francisco-Neyra-10.jpg",
-      "tipo": "imagen"
     }
   ]
 }
