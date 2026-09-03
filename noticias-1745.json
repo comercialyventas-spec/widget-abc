@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Comparecencia de Pedro Sánchez en el Congreso por la crisis de Ceuta, en directo: Sánchez comparece sin apoyos para defender su gestión",
+      "link": "https://www.publico.es/politica/comparecencia-pedro-sanchez-congreso-crisis-ceuta-directo.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/02/6a9850ba8f8a6.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Muchos indicios, ninguna prueba directa: el informe que apunta a Marruecos en la entrada masiva en Ceuta",
       "link": "https://www.publico.es/politica/tribunales/muchos-indicios-ninguna-prueba-directa-informe-apunta-marruecos-entrada-masiva-ceuta.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/02/6a986d3436ac4.png",
@@ -19,21 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "El informe de Marruecos refuerza en Moncloa la tesis de una ofensiva \"mediática y judicial\" bajo la lógica del 'quien pueda hacer que haga'",
-      "link": "https://www.publico.es/politica/gobierno/moncloa-ve-filtracion-informe-sobre-ceuta-estrategia-mediatica-judicial-pueda-haga.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/02/6a983748722cd.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "'Liberar Madrid': Anticapitalistas se inspira en Adelante Andalucía para dar la batalla a Ayuso y Almeida",
-      "link": "https://www.publico.es/politica/liberar-madrid-anticapitalistas-inspira-adelante-andalucia-dar-batalla-ayuso-almeida.html",
-      "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/02/6a98435109675.r_d.702-423-1963.png",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "La Policía que Marlaska no controla: los agujeros en la cadena de información de Interior",
       "link": "https://www.publico.es/politica/tribunales/policia-marlaska-controla-agujeros-cadena-informacion-interior.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/02/6a983bfc8bdcb.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El informe de Marruecos refuerza en Moncloa la tesis de una ofensiva \"mediática y judicial\" bajo la lógica del 'quien pueda hacer que haga'",
+      "link": "https://www.publico.es/politica/gobierno/moncloa-ve-filtracion-informe-sobre-ceuta-estrategia-mediatica-judicial-pueda-haga.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/02/6a983748722cd.jpeg",
       "tipo": "imagen"
     }
   ]

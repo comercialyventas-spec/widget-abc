@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Se entrega el autor de la agresión con un gancho de pesca a un hombre en Granada",
+      "link": "https://www.ahoragranada.com/noticias/se-entrega-el-autor-de-la-agresion-con-un-gancho-de-pesca-a-un-hombre-en-granada/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Agresion-Lancha-del-Genil-1.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Manifestaciones de apoyo a Ceuta en Granada",
       "link": "https://www.ahoragranada.com/galerias/manifestaciones-de-apoyo-a-ceuta-en-granada/",
       "imagen": "",
@@ -29,12 +35,6 @@
       "link": "https://www.ahoragranada.com/noticias/la-recogida-del-contenedor-marron-crece-un-350-en-25-pueblos-de-la-vega-de-granada/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Contenedor-marron.jpg",
       "tipo": "imagen"
-    },
-    {
-      "titulo": "El Festival de Cante Flamenco de Ogíjares afronta los últimos días de venta de entradas",
-      "link": "https://www.ahoragranada.com/noticias/el-festival-de-cante-flamenco-de-ogijares-afronta-los-ultimos-dias-de-venta-de-entradas/",
-      "imagen": "",
-      "tipo": ""
     }
   ]
 }
