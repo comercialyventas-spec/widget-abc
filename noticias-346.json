@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "ChatGPT, Claude y Grok sufren una caída de servicio a nivel mundial",
+      "link": "https://www.abc.es/tecnologia/chatgpt-claude-grok-experimentan-caida-servicio-generalizada-20260903174730-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/03/1516024565%20(1)-kpd-U301558995749XDC-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los temores a un apocalipsis provocado por la IA son exagerados",
       "link": "https://www.abc.es/tecnologia/temores-apocalipsis-provocado-ia-exagerados-20260831011758-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/08/28/economist_1200x840ia.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Cerca de 700 agentes de OpenAI ciberatacan a otra plataforma de IA sin intervención humana",
       "link": "https://www.abc.es/tecnologia/cerca-700-agentes-openai-colaboraron-ciberataque-autonomo-20260827105004-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/08/27/1516435991-RBlmiTq2Aj7cq09pzpyy3jJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Samsung presenta su nuevo Galaxy S26 FE, la 'puerta de entrada' a la inteligencia artificial premium",
-      "link": "https://www.abc.es/tecnologia/samsung-presenta-nuevo-galaxy-s26-puerta-entrada-20260827140018-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/08/27/Samsung%20S26%20FE-RcXU7MXMCY3bcZQ1myBvw2O-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
