@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Antoni Daimiel",
+      "link": "https://www.elconfidencialdigital.com/album/medios/antoni-daimiel/202609031900001038459.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/06/03/2026060317401789401.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Vocento",
       "link": "https://www.elconfidencialdigital.com/album/medios/javier-chicote-deja-abc/202607101535001030354.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2023/11/14/2023111418025210050.jpg",
@@ -28,12 +34,6 @@
       "titulo": "RTVE",
       "link": "https://www.elconfidencialdigital.com/album/medios/rtve/202608282227581037892.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/08/28/2026082822263285738.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "TVE",
-      "link": "https://www.elconfidencialdigital.com/album/medios/tve/202608211459091036920.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/07/06/2026070618372287270.jpg",
       "tipo": "imagen"
     }
   ]
