@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Nueva York prohíbe el uso de IA en las escuelas públicas",
+      "link": "https://www.publico.es/sociedad/educacion/nueva-york-prohibe-uso-ia-escuelas-educacion-publica.html",
+      "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/03/6a99b7fca72cb.r_d.988-563-1406.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Muere un menor marroquí diabético en un centro de acogida de Ceuta",
       "link": "https://www.publico.es/sociedad/migracion/muere-menor-marroqui-diabetico-centro-acogida-ceuta.html",
       "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/03/6a9993ddd1e04.r_d.956-466-1406.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "El calor sigue sin dar tregua: once comunidades autónomas en alerta por altas temperaturas",
       "link": "https://www.publico.es/sociedad/m-ambiente/calor-sigue-dar-tregua-once-comunidades-autonomas-alerta-altas-temperaturas.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/03/6a9940b111389.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mueren más de 80 personas en un cayuco rescatado al sur de Canarias tras 26 días en el mar",
-      "link": "https://www.publico.es/sociedad/mueren-80-personas-cayuco-rescatado-sur-canarias-26-dias-mar.html",
-      "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/03/6a9927dd8411e.r_d.960-640-3076.jpeg",
       "tipo": "imagen"
     }
   ]
