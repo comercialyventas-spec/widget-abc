@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Rusia advierte de “una reacción correspondiente” tras la detención de un buque ruso en Noruega a petición de Ucrania",
+      "link": "https://www.lavanguardia.com/internacional/20260903/11626064/rusia-advierte-reaccion-correspondiente-detencion-buque-ruso-noruega-peticion-ucrania.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2023/08/05/64cdf51f07288.r_d.326-221-6603.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Estados Unidos pone a la venta monedas con el rostro de Trump",
       "link": "https://www.lavanguardia.com/internacional/20260903/11625811/trump-moneda-ee-uu-dinero.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/uploads/2026/09/02/6a986323e492b.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/uploads/2026/09/02/6a986323e492b.jpeg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Cómo el Departamento de Justicia de EE.UU. se reconvierte en el brazo ejecutor de las venganzas personales de Trump",
       "link": "https://www.lavanguardia.com/internacional/vanguardia-dossier/revista/20260903/11575149/como-departamento-justicia-ee-uu-reconvierte-brazo-ejecutor-venganzas-personales-trump.html",
       "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/03/18/69ba77f2717dc.r_d.2831-1887-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La justicia bloquea el segundo intento de Trump de limitar el derecho a la ciudadanía por nacimiento",
-      "link": "https://www.lavanguardia.com/internacional/20260903/11626049/justicia-bloquea-segundo-intento-trump-limitar-derecho-ciudadania-nacimiento.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/09/03/6a98b99ca4f01.r_d.2991-2332-748.jpeg",
       "tipo": "imagen"
     }
   ]

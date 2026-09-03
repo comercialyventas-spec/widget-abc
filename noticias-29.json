@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un sondeo del PP retrata la desconfianza del votante del PSOE con Sánchez por Ceuta",
+      "link": "https://www.lavanguardia.com/politica/20260903/11625881/sondeo-pp-retrata-desconfianza-votante-psoe-sanchez-ceuta.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/02/6a9899c929107.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Pedro Sánchez en el Congreso, en directo: última hora de su comparecencia por la crisis migratoria de Ceuta",
       "link": "https://www.lavanguardia.com/politica/20260903/11625587/pedro-sanchez-congreso-diputados-comparecencia-crisis-migratoria-ceuta-ultima-hora-hoy-en-directo.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/02/6a9861f80b335.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Un gobierno que no mienta",
       "link": "https://www.lavanguardia.com/politica/20260903/11625815/gobierno-mienta.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/02/6a9861f80b335.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Policía disuelve la concentración frente al Congreso, que se salda con cuatro detenidos y cuatro policías heridos",
-      "link": "https://www.lavanguardia.com/politica/20260902/11625857/policia-disuelve-concentracion-frente-congreso-salda-cuatro-detenidos-cuatro-policias-heridos.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/02/6a98838666a92.r_d.3065-3198-0.jpeg",
       "tipo": "imagen"
     }
   ]
