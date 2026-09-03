@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El calor se intensifica este jueves con 40 grados y avisos en 11 comunidades",
+      "link": "https://www.eldiario.es/sociedad/el-tiempo/calor-intensifica-jueves-40-grados-avisos-11-comunidades-pm_1_13481969.html",
+      "imagen": "https://static.eldiario.es/clip/8517c387-4734-413d-be9e-964da01f946f_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El calor aprieta y la Aemet activa avisos en cinco comunidades por máximas de hasta 39 grados",
       "link": "https://www.eldiario.es/sociedad/el-tiempo/calor-aprieta-aemet-activa-avisos-cinco-comunidades-maximas-39-grados-pm_1_13479668.html",
       "imagen": "https://static.eldiario.es/clip/809ddaec-f3c7-4fea-9115-600420ee268d_16-9-discover-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El tiempo da un giro este viernes: la Aemet avisa de un desplome de las temperaturas y tormentas fuertes en el sureste",
       "link": "https://www.eldiario.es/sociedad/el-tiempo/tiempo-da-giro-viernes-aemet-avisa-desplome-temperaturas-tormentas-fuertes-sureste-pm_1_13470563.html",
       "imagen": "https://static.eldiario.es/clip/4d602102-7065-48b7-b1e4-817040ec26b7_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Aemet avisa este jueves de lluvias fuertes en el noroeste y una caída de más de seis grados en los termómetros",
-      "link": "https://www.eldiario.es/sociedad/el-tiempo/aemet-avisa-jueves-lluvias-fuertes-noroeste-caida-seis-grados-termometros-pm_1_13468316.html",
-      "imagen": "https://static.eldiario.es/clip/8fdd61c5-33c4-4b3d-9d16-1dfc257bd1eb_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

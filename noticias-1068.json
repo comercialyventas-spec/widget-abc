@@ -1,15 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Educación y Nación",
+      "link": "https://www.eldebate.com/educacion/20260903/educacion-nacion_454575.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "El Gobierno cambia el menú de los colegios de Ceuta para imponer el halal tras la invasión migratoria",
+      "link": "https://www.eldebate.com/educacion/20260903/gobierno-cambia-menu-colegios-ceuta-imponer-halal-invasion-migratoria_453655.html",
+      "imagen": "https://imagenes.eldebate.com/files/listing_secondary_big/files/fp/uploads/2026/07/01/6a452dd08b273.r_d.1128-745-0.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La ministra de Educación viajará a Ceuta la próxima semana coincidiendo con el inicio del curso escolar",
       "link": "https://www.eldebate.com/educacion/20260902/ministra-educacion-viajara-ceuta-proxima-semana-coincidiendo-inicio-curso-escolar_454768.html",
-      "imagen": "https://imagenes.eldebate.com/files/listing_secondary_big/uploads/2026/07/10/6a50e3fd81589.jpeg",
+      "imagen": "https://imagenes.eldebate.com/files/listing_secondary/uploads/2026/07/10/6a50e3fd81589.jpeg",
       "tipo": "imagen"
     },
     {
       "titulo": "Nueva York prohibirá el uso de IA en las escuelas públicas",
       "link": "https://www.eldebate.com/educacion/20260902/nueva-york-prohibira-ia-escuelas-publicas_454670.html",
-      "imagen": "https://imagenes.eldebate.com/files/listing_secondary_big/uploads/2026/07/23/6a62394bd29b1.jpeg",
+      "imagen": "https://imagenes.eldebate.com/files/listing_secondary/uploads/2026/07/23/6a62394bd29b1.jpeg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Abierto el plazo para solicitar las becas de Amancio Ortega para hacer Bachillerato en Canadá y EE.UU.",
       "link": "https://www.eldebate.com/educacion/20260902/abierto-plazo-solicitar-becas-amancio-ortega-hacer-bachillerato-canada-eeuu_454545.html",
       "imagen": "https://imagenes.eldebate.com/files/listing_secondary/files/fp/uploads/2025/05/06/681a29d2bf577.r_d.2029-1286-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los resultados de España en PISA se podrán comparar con los de otros países aunque Cataluña quede fuera",
-      "link": "https://www.eldebate.com/educacion/20260902/resultados-espana-pisa-podran-comparar-otros-paises-aunque-cataluna-quede-fuera_454484.html",
-      "imagen": "https://imagenes.eldebate.com/files/listing_secondary/files/fp/uploads/2026/06/30/6a43dfa35a7fb.r_d.480-64-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La OCDE avisa a España de que tiene que reducir el absentismo escolar",
-      "link": "https://www.eldebate.com/educacion/20260902/ocde-avisa-espana-tiene-reducir-absentismo-escolar_454446.html",
-      "imagen": "https://imagenes.eldebate.com/files/listing_secondary/uploads/2026/07/22/6a60a760bffba.jpeg",
       "tipo": "imagen"
     }
   ]

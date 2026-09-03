@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Titulares y suplentes",
+      "link": "https://elpais.com/television/2026-09-03/titulares-y-suplentes.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/L34RPGPOHNECXF74NRPEYN4KHE.jpg?auth=e18c3aeb8e9cd86a70d4182ce697bbc1b2e36c26027715b43f0e9cb4509abf3e",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Mal de amores",
       "link": "https://elpais.com/television/series/mal-de-amores/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/YHYRZHDNYBD6FLIVPTRH7Q2QXA.jpg?auth=033a2cd06de89609ae7042076571352505942a82593a8c59b9645ff7955bb14b",
@@ -28,12 +34,6 @@
       "titulo": "‘American Horror Story’ en Disney+, ‘Babies’ en Filmin y otras series recomendadas para septiembre",
       "link": "https://elpais.com/television/series/2026-09-02/american-horror-story-en-disney-babies-en-filmin-y-otras-series-recomendadas-para-septiembre.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260831/1209335_084455_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘Sacrificio de sangre’ y ‘Gloria’, crímenes y boxeo",
-      "link": "https://elpais.com/television/2026-09-02/sacrificio-de-sangre-y-gloria-crimenes-y-boxeo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/SGSDAR5YUZFODI3ZCXGBFCQKVA.jpg?auth=00af165d3f2ea1d014bd00c393316d4713e1853e66985995984e8752f2516090",
       "tipo": "imagen"
     }
   ]
