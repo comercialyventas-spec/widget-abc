@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Una miel para cada momento",
+      "link": "https://www.lavanguardia.com/gourmetlv/es/producto-gourmet/una-miel-para-cada-momento",
+      "imagen": "https://www.lavanguardia.com/gourmetlv/_next/image?url=https%3A%2F%2Fgourmet.apptecnica.com%2Fuploads%2Fproducts%2FALT%20%20Una%20miel%20para%20cada%20momento.jpg&w=3840&q=75",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "SALGOT Longaniza de VIC IGP 220g",
       "link": "https://www.lavanguardia.com/gourmetlv/es/producto-gourmet/salgot-longaniza-de-vic-igp-220g",
       "imagen": "https://www.lavanguardia.com/gourmetlv/_next/image?url=https%3A%2F%2Fgourmet.apptecnica.com%2Fuploads%2Fproducts%2FSALGOT%20Longaniza%20de%20VIC%20IGP%20220g.png&w=3840&q=75",
@@ -28,12 +34,6 @@
       "titulo": "ALEMANY Miel cruda selección 500g",
       "link": "https://www.lavanguardia.com/gourmetlv/es/producto-gourmet/alemany-miel-cruda-seleccion-500g",
       "imagen": "https://www.lavanguardia.com/gourmetlv/_next/image?url=https%3A%2F%2Fgourmet.apptecnica.com%2Fuploads%2Fproducts%2FALEMANY%20Miel%20cruda%20selecci%C3%B3n%20500g.png&w=3840&q=75",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "ALEMANY Miel Luxe Té Matcha 150g",
-      "link": "https://www.lavanguardia.com/gourmetlv/es/producto-gourmet/alemany-miel-luxe-te-matcha-150g",
-      "imagen": "https://www.lavanguardia.com/gourmetlv/_next/image?url=https%3A%2F%2Fgourmet.apptecnica.com%2Fuploads%2Fproducts%2FAlemany%20Miel%20y%20t%C3%A9%20matcha.png&w=3840&q=75",
       "tipo": "imagen"
     }
   ]

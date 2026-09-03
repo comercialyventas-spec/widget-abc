@@ -1,10 +1,16 @@
 {
   "noticias": [
     {
+      "titulo": "El PSOE aparta a Enma López de la dirección del grupo en Madrid, pero la concejala mantendrá su acta",
+      "link": "https://www.infolibre.es/politica/psoe-aparta-enma-lopez-direccion-grupo-madrid-mantendra-acta_1_2235839.html",
+      "imagen": "https://static.infolibre.es/clip/624f4dd0-37ec-42de-8237-4d00b398ec75_16-9-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sánchez dice que no hay pruebas de la autoría de Marruecos y niega avisos previos sobre el cruce masivo a Ceuta",
       "link": "https://www.infolibre.es/politica/sanchez-niega-avisos-previos-ceuta-descarta-marruecos-autor-promete-publicar-informes_1_2235822.html",
-      "imagen": "https://static.infolibre.es/clip/10630a2d-533d-4a18-8163-e43e4c6989e7_16-9-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "El Gobierno convocó a la embajadora marroquí por declaraciones de ministros sobre Ceuta",
@@ -27,12 +33,6 @@
     {
       "titulo": "El informe de la crisis de Ceuta, su autoría y lo que Interior dice que no dice",
       "link": "https://www.infolibre.es/politica/informe-crisis-ceuta-autoria-interior-dice-no-dice_1_2235807.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Las distintas lecturas de un informe policial agudizan la crisis del Gobierno por Ceuta",
-      "link": "https://www.infolibre.es/politica/distintas-lecturas-informe-policial-agudizan-crisis-gobierno-ceuta_1_2235794.html",
       "imagen": "",
       "tipo": ""
     }
