@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La belleza natural del Valle del Isábena",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260903/11626113/belleza-natural-valle-isabena.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/03/6a9921cbcbc0f.r_d.262-379-9334.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El encanto del sol en las islas Formigues",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260903/11626110/encanto-sol-islas-formigues.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/03/6a992037ac4f5.r_d.1094-901-2338.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "¿De qué color es un beso?",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260903/11626092/que-color-beso.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/03/6a99180de7e35.r_d.960-540-2338.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El santuario de las cigüeñas",
-      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260903/11626225/santuario-cigueenas.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/03/6a994073a0d46.r_d.542-438-4384.jpeg",
       "tipo": "imagen"
     }
   ]
