@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "El Superniño alcanzará su pico a final de año y sus efectos perdurarán en 2027",
-      "link": "https://www.abc.es/sociedad/supernino-inedito-alcanzara-pico-final-ano-efectos-20260903080404-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/03/elnino-RyYQSDObYoOQMpoGTFTLTAI-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "Muere a los 70 años la cantante de jazz estadounidense Cassandra Wilson",
       "link": "https://www.abc.es/cultura/musica/muere-anos-cantante-jazz-estadounidense-cassandra-wilson-20260903082758-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/03/casandra-wilson-kHuC-U301548490600qm-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/03/casandra-wilson-kHuC-U301548490600qm-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Eduard Estivill: «En una pareja, recomiendo que cada uno duerma en su habitación. Hacerlo juntos no deja que tengamos un sueño más profundo»",
       "link": "https://www.abc.es/bienestar/eduard-estivill-experto-sueno-pareja-recomiendo-duerma-20260903174956-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/09/03/672a0ba6c1992.r_d.907-461-7660-R1cEw41Uygqi95McXRjPsBL-1200x840@diario_abc.jpeg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/09/03/672a0ba6c1992.r_d.907-461-7660-R1cEw41Uygqi95McXRjPsBL-1200x840@diario_abc.jpeg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "María Martín-Gamero, psicóloga: «Si ensayas la conversaci��n antes de llamar por teléfono, intentas controlar todo»",
+      "titulo": "El Superniño alcanzará su pico a final de año y sus efectos perdurarán en 2027",
+      "link": "https://www.abc.es/sociedad/supernino-inedito-alcanzara-pico-final-ano-efectos-20260903080404-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/03/elnino-RyYQSDObYoOQMpoGTFTLTAI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "María Martín-Gamero, psicóloga: «Si ensayas la conversación antes de llamar por teléfono, intentas controlar todo»",
       "link": "https://www.abc.es/bienestar/psicologia-sexo/psicologia/maria-martin-gamero-psicologa-llamar-telefono-ensaya-conversacion-controlar-sentirte-20260903080000-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/09/03/martin-gamero-llamada-telefono-kMJB-U301541590236NSC-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/09/03/martin-gamero-llamada-telefono-kMJB-U301541590236NSC-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "España se echa a la calle para defender a Ceuta",
       "link": "https://www.abc.es/espana/espana-toma-calle-favor-ceuta-sanchez-20260902212410-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/02/1516722278-RFBAZtX5qmHksxfLAa5fYDP-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/02/1516722278-RFBAZtX5qmHksxfLAa5fYDP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Mario Picazo alerta a España para el fin de semana: «Las temperaturas se acercarán a los 45 grados»",
       "link": "https://www.abc.es/recreo/mario-picazo-alerta-espana-llega-fin-semana-20260903091148-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2026/09/01/mario-picazo-temperaturas-calor-espana-kpLH-U301520019582aGD-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2026/09/01/mario-picazo-temperaturas-calor-espana-kpLH-U301520019582aGD-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }

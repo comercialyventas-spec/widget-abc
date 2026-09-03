@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un herido en una explosión en la cabina de un camión en un área de servicio de Barcelona",
+      "link": "https://www.20minutos.es/cataluna/barcelona/un-herido-una-explosion-cabina-un-camion-un-area-servicio-barcelona_7032272_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/03/6a991747149186-85604063.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cortada la Ronda Litoral de Barcelona hacia el Llobregat por un accidente en el Morrot de Montjuïc",
       "link": "https://www.20minutos.es/cataluna/barcelona/cortada-ronda-litoral-barcelona-hacia-llobregat-por-un-accidente-morrot-montjuic_7032264_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/09/03/6a99188597bc31-62048766.r_d.1133-879.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Encuentran a un bebé muerto dentro de una bolsa de basura en un edificio de Sant Adrià",
       "link": "https://www.20minutos.es/cataluna/barcelona/encuentran-un-bebe-muerto-una-bolsa-basura-un-edificio-sant-adria_7032064_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/02/6a983f0fc59689-41575728.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La vuelta al cole en Catalunya: el curso arrancará entre huelgas, festivos y un puente",
-      "link": "https://www.20minutos.es/cataluna/barcelona/vuelta-cole-catalunya-curso-arrancara-entre-huelgas-festivos-un-puente_7028960_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/20/6a86d9a66494e7-41674205.jpeg",
       "tipo": "imagen"
     }
   ]
