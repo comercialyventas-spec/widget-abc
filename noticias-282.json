@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Volkswagen aprueba 50.000 nuevos despidos en su plan de reestructuración",
+      "link": "https://www.abc.es/economia/volkswagen-aprueba-50000-nuevos-despidos-plan-reestructuracion-20260903214902-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/03/1459031540--758x531.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Madrid emplaza a las CC.AA. del PP a un boicot de última hora para bloquear la reforma de la financiación autonómica",
       "link": "https://www.abc.es/economia/madrid-promueve-boicot-general-gobiernos-pp-bloquear-20260903164926-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/03/rocio%20albert%20jaime%20garcia-RK0RzTos7mVZ9TvSokgHIqI-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Nvidia compra Hugging Face por valor de 11.130 millones de euros",
       "link": "https://www.abc.es/economia/nvidia-compra-hugging-face-valor-11130-millones-20260903185918-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/03/1516762040-kH1E-U301558838058CgD-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Puente ignora la recuperación del compromiso de puntualidad de Renfe tras otro verano de retrasos en el AVE",
-      "link": "https://www.abc.es/economia/gobierno-olvida-recuperar-compromiso-puntualidad-renfe-tras-20260903010952-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/03/1505742553-RmkT66OUsdUwghlP4KlFoSK-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

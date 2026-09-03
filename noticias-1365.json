@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Ceuta, no hay más tiempo que perder",
+      "link": "https://elpais.com/opinion/2026-09-03/ceuta-no-hay-mas-tiempo-que-perder.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RZRW673EMJE6FDBB3JEU7DLYDA.jpg?auth=9f90bede51146d4a82d2ef1cc2f4dfad4406b265556e37f984125d9f6ffdd37d",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Gloria Steinem: haz con tu vida lo que te apetezca",
       "link": "https://elpais.com/sociedad/2026-09-03/gloria-steinem-haz-con-tu-vida-lo-que-te-apetezca.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/6L3IRQT3FZB4NEQZVO3GX3DAK4.jpg?auth=338c36234b5cc3334dedcf75d45a224874705169d021a37e385acf7352e436b0",
@@ -28,12 +34,6 @@
       "titulo": "Ceuta: las niñas son las más vulnerables",
       "link": "https://elpais.com/opinion/2026-09-03/ceuta-las-ninas-son-las-mas-vulnerables.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/EZKJLKCP2VCBPNRCAMHCWHF75Q.jpg?auth=1132c3857242edd0f4091ea9bc47bd9766b385f2174e47292454c32940edf3a6",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Dos cumbres, dos mundos",
-      "link": "https://elpais.com/opinion/2026-09-03/dos-cumbres-dos-mundos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/H3YCXEXS6ZDGHFIPQQDAXO25OM.jpg?auth=b76d6569da3bd657003339c1753c4a3d6881015675671e0f3a4f64053d7750dc",
       "tipo": "imagen"
     }
   ]
