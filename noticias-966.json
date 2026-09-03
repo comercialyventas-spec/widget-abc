@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "The Gentlemen",
+      "link": "https://elpais.com/television/series/the-gentlemen/",
+      "imagen": "https://vdmedia.elpais.com/elpaistop/multimedia/20242/28/20240228192149176_1709144598_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "‘Rueda la letra’ tendrá cuatro famosos, prueba musical y duelo inicial, pero sin decir “pasapalabra”: “Las comparaciones son inevitables”",
       "link": "https://elpais.com/television/2026-09-03/rueda-la-letra-tendra-cuatro-famosos-prueba-musical-y-duelo-inicial-pero-sin-decir-pasapalabra-las-comparaciones-son-inevitables.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/7NOBP3CJMBHNTATDYOJLLWCLJI.png?auth=ccf6830e23547a65d6213d35551bc8614888c0e9038b35de8ce59ab32ba407d0",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260903/1210624_144737_video_1800.mp4",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "David Broncano: “Temo que esta sea mi última presentación en TVE, todos sabemos lo que puede pasar”",
       "link": "https://elpais.com/television/2026-09-03/david-broncano-temo-que-esta-sea-mi-ultima-presentacion-en-tve-todos-sabemos-lo-que-puede-pasar.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/Q6PAYBC7VVP45G7CXYGD32BGCM.jpg?auth=b310698c8c9a82acb18f479b652587924051d5d881b567363f368645cc17141b",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "RTVE responde al acoso a reporteros de la cadena pública en las manifestaciones por Ceuta: “Un ataque intolerable a toda la sociedad”",
-      "link": "https://elpais.com/television/2026-09-03/rtve-responde-al-acoso-a-reporteros-de-la-cadena-publica-en-las-manifestaciones-por-ceuta-un-ataque-intolerable-a-toda-la-sociedad.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/J7JCC3TQOVCTPGGDV5YXDOL4KY.png?auth=161736121c54a1ebe9ad9053d2342f5f1f381dc9d0d19b923bcce5b11df03b11",
       "tipo": "imagen"
     }
   ]

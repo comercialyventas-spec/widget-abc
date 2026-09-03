@@ -1,10 +1,16 @@
 {
   "noticias": [
     {
+      "titulo": "Marlaska se queja al CGPJ de que la jueza prohibiera a la Policía informar a sus mandos",
+      "link": "https://www.infolibre.es/politica/marlaska-queja-cgpj-jueza-prohibiera-policia-informar-mandos_1_2235851.html",
+      "imagen": "https://static.infolibre.es/clip/c724b64e-37bf-4ac9-b106-7a4f873228aa_16-9-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El PSOE aparta a Enma López de la dirección del grupo en Madrid, pero la concejala mantendrá su acta",
       "link": "https://www.infolibre.es/politica/psoe-aparta-enma-lopez-direccion-grupo-madrid-mantendra-acta_1_2235839.html",
-      "imagen": "https://static.infolibre.es/clip/624f4dd0-37ec-42de-8237-4d00b398ec75_16-9-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Sánchez dice que no hay pruebas de la autoría de Marruecos y niega avisos previos sobre el cruce masivo a Ceuta",
@@ -27,12 +33,6 @@
     {
       "titulo": "Sigue aquí la comparecencia de Sánchez en el Congreso sobre la crisis en Ceuta",
       "link": "https://www.infolibre.es/politica/sigue-comparecencia-sanchez-congreso-crisis-ceuta_7_2235815.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "El informe de la crisis de Ceuta, su autoría y lo que Interior dice que no dice",
-      "link": "https://www.infolibre.es/politica/informe-crisis-ceuta-autoria-interior-dice-no-dice_1_2235807.html",
       "imagen": "",
       "tipo": ""
     }
