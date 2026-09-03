@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Seat aún vende más de 60.000 turismos en España, con el Ibiza y el Arona en el top diez",
+      "link": "https://elpais.com/economia/2026-09-03/seat-aun-vende-mas-de-60000-turismos-en-espana-con-el-ibiza-y-el-arona-en-el-top-diez.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XQBZXUFRORFQ3OYVLXGZVYMCTE.jpg?auth=02058f00326c1ed47b1d1c7b460a21156ee950e9a43e69f8d9337674b4796fb9",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los ajustes del grupo Volkswagen ponen al borde de la desaparición a la marca Seat a partir de 2029",
       "link": "https://elpais.com/economia/2026-09-03/los-ajustes-del-grupo-volkswagen-ponen-al-borde-de-la-desaparicion-a-la-marca-seat-a-partir-de-2029.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/OBRBZ4BMYJPPVO4LTYSLZS6ZAI.jpg?auth=017ee0c3086c3952060cf50103cfacf7e398cc0ce9d6cc64f02a3fc8158ee50a",
@@ -13,15 +19,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Las agencias impugnan el macroconcurso de viajes de los ministerios, dotado con 605 millones",
-      "link": "https://cincodias.elpais.com/companias/2026-09-03/las-agencias-impugnan-el-macroconcurso-de-viajes-de-los-ministerios-dotado-con-605-millones.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/DBK6TPIENFHMJMJVF5CI3D3OSQ.webp?auth=df48dda263d65e422f3a137ea70cf54f4b8dd6f6c1888403b8532305aeb38f37",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Países Bajos traslada parte de su oro de Estados Unidos y Canadá al Reino Unido, debido a la inestabilidad mundial",
-      "link": "https://elpais.com/internacional/2026-09-03/paises-bajos-traslada-parte-de-su-oro-de-estados-unidos-y-canada-al-reino-unido-debido-a-la-inestabilidad-mundial.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/2W2K3CJHAVNXLBD5X6X2IU4DVA.jpg?auth=03901cb5c2bf9228553298bf2d326286e211357814d43f51b43584618f200aa5",
+      "titulo": "Los grandes chatbots de inteligencia artificial sufren una caída y dejan de funcionar",
+      "link": "https://elpais.com/tecnologia/2026-09-03/chatgpt-grok-y-claude-sufren-una-caida-y-dejan-de-funcionar.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/UIHF4HDWRJJPFJTXJVPNTCTNHQ.jpg?auth=40255e7f0176c244bd0022c09dbb691f3710d0a52d22f165727d9c364d0d4f11",
       "tipo": "imagen"
     },
     {
@@ -31,9 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "ChatGPT, Grok y Claude sufren una caída y dejan de funcionar",
-      "link": "https://elpais.com/tecnologia/2026-09-03/chatgpt-grok-y-claude-sufren-una-caida-y-dejan-de-funcionar.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/UIHF4HDWRJJPFJTXJVPNTCTNHQ.jpg?auth=40255e7f0176c244bd0022c09dbb691f3710d0a52d22f165727d9c364d0d4f11",
+      "titulo": "Las agencias impugnan el macroconcurso de viajes de los ministerios, dotado con 605 millones",
+      "link": "https://cincodias.elpais.com/companias/2026-09-03/las-agencias-impugnan-el-macroconcurso-de-viajes-de-los-ministerios-dotado-con-605-millones.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/DBK6TPIENFHMJMJVF5CI3D3OSQ.webp?auth=df48dda263d65e422f3a137ea70cf54f4b8dd6f6c1888403b8532305aeb38f37",
       "tipo": "imagen"
     }
   ]

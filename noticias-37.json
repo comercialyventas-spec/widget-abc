@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Barcelona sobre dos ruedas",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260903/11626117/barcelona-sobre-dos-ruedas.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/03/6a9922bb830ba.r_d.1088-711-2338.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La belleza natural del Valle del Isábena",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260903/11626113/belleza-natural-valle-isabena.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/03/6a9921cbcbc0f.r_d.262-379-9334.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Cormoranes al sol en el Cap de Creus",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260903/11626094/cormoranes-sol-cap-creus.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/03/6a991a5b878c7.r_d.1029-657-2338.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿De qué color es un beso?",
-      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260903/11626092/que-color-beso.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/03/6a99180de7e35.r_d.960-540-2338.jpeg",
       "tipo": "imagen"
     }
   ]
