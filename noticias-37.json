@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El encanto del sol en las islas Formigues",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260903/11626110/encanto-sol-islas-formigues.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/03/6a992037ac4f5.r_d.1094-901-2338.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La extravagante agalla del roble",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260903/11626102/extravagante-agalla-roble.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/03/6a991d846d124.r_d.1013-623-2338.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "El santuario de las cigüeñas",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260903/11626225/santuario-cigueenas.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/03/6a994073a0d46.r_d.542-438-4384.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El primer destello del pantano de Sau",
-      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260903/11626217/primer-destello-pantano-sau.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/03/6a993e66a386a.r_d.970-626-2338.jpeg",
       "tipo": "imagen"
     }
   ]
