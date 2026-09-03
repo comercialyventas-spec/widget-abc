@@ -1,10 +1,22 @@
 {
   "noticias": [
     {
-      "titulo": "La pizza de pulpo conquista Betanzos, la tierra de la tortilla líquida",
-      "link": "https://elpais.com/gastronomia/2026-09-01/la-pizza-de-pulpo-conquista-betanzos-la-tierra-de-la-tortilla-liquida.html",
+      "titulo": "La toxicidad del embalse gallego de As Conchas llega a Portugal y los vecinos vuelven al juzgado por la inacción de Xunta y Gobierno",
+      "link": "https://elpais.com/espana/galicia/2026-09-03/la-toxicidad-del-embalse-gallego-de-as-conchas-llega-a-portugal-y-los-vecinos-vuelven-al-juzgado-por-la-inaccion-de-xunta-y-gobierno.html",
       "imagen": "",
       "tipo": ""
+    },
+    {
+      "titulo": "Javier Olleros, chef: “Cuando vino el inspector Michelin pensamos que era un visitador médico”",
+      "link": "https://elpais.com/gastronomia/2026-09-03/javier-olleros-chef-cuando-vino-el-inspector-michelin-pensamos-que-era-un-visitador-medico.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "La pizza de pulpo conquista Betanzos, la tierra de la tortilla líquida",
+      "link": "https://elpais.com/gastronomia/2026-09-01/la-pizza-de-pulpo-conquista-betanzos-la-tierra-de-la-tortilla-liquida.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/IYKKUOT3BVEP7ORMSWTWI34UXM.jpg?auth=26a18ed4df4857bb2c8e7e8d474ab0e2c38b42c5b6baae79eb12e6978af56196&width=414&height=233&smart=true",
+      "tipo": "imagen"
     },
     {
       "titulo": "Redegal o los beneficios de cotizar (aunque seas una empresa muy pequeña)",
@@ -15,25 +27,13 @@
     {
       "titulo": "Muere una persona en el incendio de la vivienda de una parroquia en Arteixo",
       "link": "https://elpais.com/espana/2026-08-30/muere-una-persona-en-el-incendio-de-una-vivienda-de-una-parroquia-en-arteixo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/67KJEVR2TRHSNDIHKAPDLXCAI4.jpg?auth=d928d8aad719db7291ca740a8ae387115d83480294f103ca939241aba61537a3&width=414&height=233&smart=true",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Los ecologistas cargan contra “la barra libre” para cazar jabalíes en Galicia y exigen a la Xunta que se base en la ciencia",
       "link": "https://elpais.com/espana/galicia/2026-08-30/los-ecologistas-cargan-contra-la-barra-libre-para-cazar-jabalies-en-galicia-y-exigen-a-la-xunta-que-se-base-en-la-ciencia.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Feijóo pide el voto “del cabreo y la esperanza” para el PP “en el año del Gobierno del cambio”",
-      "link": "https://elpais.com/espana/2026-08-29/feijoo-pide-el-voto-del-cabreo-y-la-esperanza-para-el-pp-en-el-ano-del-gobierno-del-cambio.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Así volvió a encenderse el horno de pan comunal en la aldea gallega de Pidre",
-      "link": "https://elpais.com/gastronomia/2026-08-29/asi-volvio-a-encenderse-el-horno-de-pan-comunal-en-la-aldea-gallega-de-pidre.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/LX4CPMZOMZAY7F254ALLVKZWYM.jpeg?auth=0cab0220b2501bce72e10129f56b2f4e6c60e095feb9f215cf51759a41027026&width=414&height=311&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/W4FC3GS525D6PC6NACKD64DXAA.jpg?auth=fc346c183370e6cb127874fec9902205e43655d96f8c5880ce01a8781d45d0d0&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]
