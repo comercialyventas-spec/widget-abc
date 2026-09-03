@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Anuncio de las películas españolas preseleccionadas para los Oscar 2027",
+      "link": "https://elpais.com/videos/2026-09-03/anuncio-de-las-peliculas-espanolas-preseleccionadas-para-los-oscar-2027.html",
+      "imagen": "https://www.youtube.com/watch?v=ldNp3-VAlfs",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Pincharse con cincuenta porque “te ves gorda”",
       "link": "https://elpais.com/videos/2026-09-03/pincharse-con-cincuenta-porque-te-ves-gorda.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260902/1210143_123859_video_1800.mp4",
@@ -28,12 +34,6 @@
       "titulo": "“El gobierno tiene un problema muy serio si no controla lo que está haciendo la policía”",
       "link": "https://elpais.com/videos/2026-09-02/el-gobierno-tiene-un-problema-muy-serio-si-no-controla-lo-que-esta-haciendo-la-policia.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260902/1210117_113138_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Cómo han participado las redes rusas e israelies en la crisis migratoria de Ceuta?",
-      "link": "https://elpais.com/videos/2026-09-02/como-han-participado-las-redes-rusas-e-israelies-en-la-crisis-migratoria-de-ceuta.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260901/1209902_185419_video_1800.mp4",
       "tipo": "imagen"
     }
   ]
