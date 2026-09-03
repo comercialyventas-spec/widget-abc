@@ -6,8 +6,8 @@ on:
     - cron: "*/30 * * * *"
 
 concurrency:
-  group: feeds-generico
-  cancel-in-progress: true
+  group: widget-abc-git-write
+  cancel-in-progress: false
 
 permissions:
   contents: write
