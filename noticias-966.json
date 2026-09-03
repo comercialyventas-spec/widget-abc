@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "M.I.A.",
+      "link": "https://elpais.com/television/series/mia/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7DXHJNDDFBBPVOGSBV5A5TNB64.jpg?auth=2679a344a60916f5b9721e3a131fbac0f3ad21666aaba0addded40b27fa4cde2",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "David Broncano: “Temo que esta sea mi última presentación en TVE, todos sabemos lo que puede pasar”",
+      "link": "https://elpais.com/television/2026-09-03/david-broncano-temo-que-esta-sea-mi-ultima-presentacion-en-tve-todos-sabemos-lo-que-puede-pasar.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/Q6PAYBC7VVP45G7CXYGD32BGCM.jpg?auth=b310698c8c9a82acb18f479b652587924051d5d881b567363f368645cc17141b",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "RTVE responde al acoso a reporteros de la cadena pública en las manifestaciones por Ceuta: “Un ataque intolerable a toda la sociedad”",
       "link": "https://elpais.com/television/2026-09-03/rtve-responde-al-acoso-a-reporteros-de-la-cadena-publica-en-las-manifestaciones-por-ceuta-un-ataque-intolerable-a-toda-la-sociedad.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/J7JCC3TQOVCTPGGDV5YXDOL4KY.png?auth=161736121c54a1ebe9ad9053d2342f5f1f381dc9d0d19b923bcce5b11df03b11",
@@ -19,21 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "David Broncano: “Temo que esta sea mi última presentación en TVE, todos sabemos lo que puede pasar”",
-      "link": "https://elpais.com/television/2026-09-03/david-broncano-temo-que-esta-sea-mi-ultima-presentacion-en-tve-todos-sabemos-lo-que-puede-pasar.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/Q6PAYBC7VVP45G7CXYGD32BGCM.jpg?auth=b310698c8c9a82acb18f479b652587924051d5d881b567363f368645cc17141b",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Titulares y suplentes",
       "link": "https://elpais.com/television/2026-09-03/titulares-y-suplentes.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/L34RPGPOHNECXF74NRPEYN4KHE.jpg?auth=e18c3aeb8e9cd86a70d4182ce697bbc1b2e36c26027715b43f0e9cb4509abf3e",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘Furious’: Acabemos con el tópico de la chica muerta y el hombre poderoso de una vez por todas",
-      "link": "https://elpais.com/television/series/2026-09-03/furious-acabemos-con-el-topico-de-la-chica-muerta-y-el-hombre-poderoso-de-una-vez-por-todas.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/XN2EPGXJURCQRH6EFMA25CS6QQ.jpg?auth=698e9d6ff9917ceee929d388ac90605dcc5fa71ced023fe6c17d82f94a6b1eb0",
       "tipo": "imagen"
     }
   ]

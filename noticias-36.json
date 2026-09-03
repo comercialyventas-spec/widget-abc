@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Detenida una mujer en Ceuta por el homicidio de un joven marroquí en su vivienda",
+      "link": "https://www.lavanguardia.com/sucesos/20260903/11626249/detenida-mujer-ceuta-homicidio-joven-marroqui-vivienda.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/03/6a99431678f93.r_d.810-540-2771.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Detenido en Barcelona un fugitivo condenado a cadena perpetua en Francia",
       "link": "https://www.lavanguardia.com/sucesos/20260903/11626203/detenido-barcelona-fugitivo-buscado-francia-condenado-cadena-perpetua.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/06/23/6859298a12914.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Internado en régimen cerrado el menor acusado de matar a un hombre en Balaguer",
       "link": "https://www.lavanguardia.com/local/lleida/20260902/11625476/internado-regimen-cerrado-menor-acusado-matar-hombre-balaguer.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/07/6a75bb7c63022.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Prisión provisional y sin fianza para la mujer que mató el sábado a un hombre en un bar",
-      "link": "https://www.lavanguardia.com/local/valencia/20260902/11625422/prision-provisional-fianza-mujer-mato-sabado-hombre-bar.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/12/31/6773bfd4f0307.r_d.1408-2682-1484.jpeg",
       "tipo": "imagen"
     }
   ]

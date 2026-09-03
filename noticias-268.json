@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Los turistas anularon 3.200 reservas en hoteles de Granada por los terremotos",
+      "link": "https://www.abc.es/espana/andalucia/granada/turistas-anularon-3200-reservas-hoteles-granada-culpa-20260903113122-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/03/WhatsApp%20Image%202026-09-03%20at%2011.27.46-RwrYbBhNM2yYSaIe8xbOsBM-1200x840@diario_abc.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Parlamento estrenará el salón de plenos reformado en noviembre",
+      "link": "https://www.abc.es/espana/andalucia/desayuno-ana-mestre-20260903081613-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/03/obras-parla-andauz-RzwBOekogiHsOD15cC9pu9I-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La playa de Micaela en Chipiona reabre al baño tras seis días cerrada por bacterias",
       "link": "https://www.abc.es/espana/andalucia/cadiz/playa-micaela-chipiona-reabre-bano-tras-seis-20260903110355-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/03/playa-chipiona-abre-RN8fwTCXWnW6FImWfpIA2IJ-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Los interventores destapan 32 irregularidades en las ayudas del PSOE para formar a parados en Andalucía",
       "link": "https://www.abc.es/espana/andalucia/interventores-destapan-irregularidades-ayudas-psoe-formar-parados-20260903071802-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/03/vilaplana-R7EN7TGcfO9uUujPYNk51FP-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Adamuz, el pueblo del accidente ferroviario, se salta el veto socialista y celebra su propia protesta por Ceuta",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/adamuz-pueblo-accidente-ferroviario-salta-veto-socialista-20260902174536-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/02/convocatoria-adamuz-cordoba-RVPdv50IDvDZpQDktTxlkTO-1200x840@diario_abc.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Todos los cultos a la Virgen de la Fuensanta en su santuario y las calles de Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/cultos-virgen-fuensanta-santuario-calles-cordoba-20260903131701-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/03/virgen-fuensanta-cultos-RmtIL0hDMnlCSZwXDBGAmxL-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
