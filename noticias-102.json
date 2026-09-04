@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "La berrea vuelve a las montañas y los primeros bramidos anuncian la llegada del otoño",
+      "link": "https://www.lavanguardia.com/lugaresdeaventura/20260904/11613398/berrea-vuelve-montanas-primeros-bramidos-anuncian-llegada-otono.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/08/13/6a7e2ced033f5.r_d.356-511-3508.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Cuáles son los deportes más peligrosos del mundo?",
       "link": "https://www.lavanguardia.com/lugaresdeaventura/20260902/11619969/cuales-son-deportes-mas-peligrosos-mundo.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2019/09/28/5fa5392ce01ef.r_d.496-279-4526.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2019/09/28/5fa5392ce01ef.r_d.496-279-4526.jpeg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Caminar entre paredes: los desfiladeros convertidos en rutas de aventura",
       "link": "https://www.lavanguardia.com/lugaresdeaventura/20260828/11612651/caminar-paredes-desfiladeros-convertidos-rutas-aventura.html",
       "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2019/10/02/5fa535c0d668f.r_d.677-378-4526.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Pedaleando por el Canal du Midi: de Toulouse al Mediterráneo siguiendo el camino del agua",
-      "link": "https://www.lavanguardia.com/lugaresdeaventura/20260827/11618295/pedaleando-canal-du-midi-toulouse-mediterraneo-siguiendo-camino-agua.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/uploads/2022/02/02/61fa74d9a9bad.jpeg",
       "tipo": "imagen"
     }
   ]
