@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El Oviedo, una casa muy seria en Ribadeo",
+      "link": "https://www.abc.es/gastronomia/oviedo-lugo-restaurante-20260904120221-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/04/Comedor-RH4rgMfmYfIfUALk74QYvMI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Gorgollasa, la variedad de uva que se negó a desaparecer",
       "link": "https://www.abc.es/gastronomia/vinos/gorgollasa-can-majoral-vino-20260903100530-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/03/canmajoral-RRacIAEFCl2NcTkrdmLDIJK-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Cantabria y País Vasco: de las anchoas y las rabas al marmitaco",
       "link": "https://www.abc.es/gastronomia/cantabria-pais-vasco-tradicion-marinera-20260827011908-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/08/27/Balneario-Magdalena-portada-RnqFalkRfy6wb2VQBDYVGQI-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Restaurantes de autor con dos chefs para combatir las dificultades económicas de Madrid",
-      "link": "https://www.abc.es/gastronomia/aventura-gastronomia-mejor-dos-20260825012337-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/08/24/marmiton3-RTObqm3uFuyNfGa8vDckULI-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
