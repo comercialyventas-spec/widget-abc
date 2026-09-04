@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Cambiar por cambiar no siempre es avanzar",
+      "link": "https://www.lavanguardia.com/local/valencia/20260904/11626161/cambiar-cambiar-siempre-avanzar.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/03/18/65f838f5d293e.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Besa a quien no puedas morder",
       "link": "https://www.lavanguardia.com/opinion/20260904/11626486/besa-puedas-morder.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/02/6a982900f3c93.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Lo que más temes",
       "link": "https://www.lavanguardia.com/opinion/20260904/11626298/mas-temes.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/02/6a986c7a28a2b.r_d.764-601-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Palabras con texturas",
-      "link": "https://www.lavanguardia.com/opinion/20260904/11626285/palabras-texturas.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/03/6a994b2a11cd9.jpeg",
       "tipo": "imagen"
     }
   ]
