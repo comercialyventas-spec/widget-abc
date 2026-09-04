@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El Gobierno suma a México a su “alianza de potencias medias” para impulsar una IA alternativa a EEUU y China",
+      "link": "https://www.eldiario.es/tecnologia/gobierno-suma-mexico-alianza-potencias-medias-impulsar-ia-alternativa-eeuu-china_1_13488471.html",
+      "imagen": "https://static.eldiario.es/clip/71d2fa73-0c7b-4879-abb4-72776ffb0b56_facebook-aspect-ratio-1200-675_default_0_x799y297.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Nvidia compra la plataforma para desarrolladores Hugging Face por 11.000 millones",
       "link": "https://www.eldiario.es/tecnologia/nvidia-compra-plataforma-desarrolladores-hugging-face-11-000-millones_1_13485429.html",
       "imagen": "https://static.eldiario.es/clip/92618566-ca4c-4e0d-8a10-501bbf7f884c_facebook-aspect-ratio-1200-675_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "China 'rompe' con la IA y prohíbe los chatbots emocionales para salvar las relaciones humanas",
       "link": "https://www.eldiario.es/tecnologia/china-rompe-ia-prohibe-chatbots-emocionales-salvar-relaciones-humanas_1_13467950.html",
       "imagen": "https://static.eldiario.es/clip/94269dc1-26ca-4c24-95f1-c8f0eb0787dd_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los gigantes tecnológicos avisan que se avecina una oleada de ciberataques con IA y piden a los gobiernos que se protejan",
-      "link": "https://www.eldiario.es/tecnologia/gigantes-tecnologicos-avisan-avecina-oleada-ciberataques-ia-piden-gobiernos-protejan_1_13472086.html",
-      "imagen": "https://static.eldiario.es/clip/17c7c226-a384-42e9-9f7a-ae3a80b62916_facebook-aspect-ratio-1200-675_default_0.jpg",
       "tipo": "imagen"
     }
   ]
