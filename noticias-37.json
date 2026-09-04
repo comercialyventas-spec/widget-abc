@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La noche de la Luna y Saturno",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260904/11626955/noche-luna-saturno.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/04/6a9a622c2e61d.r_d.1025-571-2338.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El sol se pone en el Pollegó Superior",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260904/11626992/sol-pone-pollego-superior.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/04/6a9a70379d5d6.r_d.1025-644-2338.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "La torre natural de Santa Maria de Lluçà",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260904/11626985/torre-natural-santa-maria-lluca.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/04/6a9a6f069991a.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las curiosas setas lunares de la Cerdanya",
-      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260904/11626983/curiosas-setas-lunares-cerdanya.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/04/6a9a6d456cf91.r_d.510-293-4776.jpeg",
       "tipo": "imagen"
     }
   ]
