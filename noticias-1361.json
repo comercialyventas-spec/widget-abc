@@ -1,7 +1,13 @@
 {
   "noticias": [
     {
-      "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en directo en EL PAÍS",
+      "titulo": "‘La mesa de Hora 25’, programa en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-09-04/la-mesa-de-hora-25-programa-en-el-pais.html",
+      "imagen": "https://www.youtube.com/watch?v=wGdQdzXxtoU",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en EL PAÍS| Programa del 4 de septiembre de 2026",
       "link": "https://elpais.com/videos/2026-09-04/el-pulso-de-hoy-por-hoy-en-directo-en-el-pais.html",
       "imagen": "https://www.youtube.com/watch?v=kwze-s7gWI0",
       "tipo": "imagen"
@@ -19,7 +25,7 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "‘La mesa de Hora 25’, en directo en EL PAÍS",
+      "titulo": "‘La mesa de Hora 25’, en EL PAÍS | Programa del 3 de septiembre de 2026",
       "link": "https://elpais.com/videos/2026-09-03/la-mesa-de-hora-25-en-directo-en-el-pais.html",
       "imagen": "https://www.youtube.com/watch?v=C9NILlvx5cA",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Margarita Robles evita aplaudir el anuncio de Sánchez sobre la publicación de los informes sobre Ceuta",
       "link": "https://elpais.com/videos/2026-09-03/margarita-robles-evita-aplaudir-el-anuncio-de-sanchez-sobre-la-publicacion-de-los-informes-sobre-ceuta.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260903/1210567_115216_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Programa especial | Pedro Sánchez comparece en el Congreso por la crisis de Ceuta",
-      "link": "https://elpais.com/videos/2026-09-03/comparecencia-pedro-sanchez-en-el-congreso-por-la-crisis-de-ceuta.html",
-      "imagen": "https://www.youtube.com/watch?v=xYigBTL6pfM",
       "tipo": "imagen"
     }
   ]
