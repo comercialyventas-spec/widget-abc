@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Probamos el reloj perfecto para esquiar este invierno",
+      "link": "https://www.abc.es/tecnologia/probamos-reloj-perfecto-esquiar-invierno-20260904014139-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/04/reloj-huawei-gt-R5k9lYcYaRiFijNvguzDayI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "ChatGPT, Claude y Grok sufren una caída de servicio a nivel mundial",
       "link": "https://www.abc.es/tecnologia/chatgpt-claude-grok-experimentan-caida-servicio-generalizada-20260903174730-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/03/1516024565%20(1)-kpd-U301558995749XDC-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El argentino de 22 años que detecta incendios desde el espacio antes que la NASA",
       "link": "https://www.abc.es/tecnologia/chico-anos-vigila-espana-espacio-detecta-incendios-20260731011318-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/07/31/IMG_0034-RmcUttU9qIf2sGXDLpruG0M-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Meta no implementará las nuevas medidas de seguridad para menores fuera de Estados Unidos de momento",
-      "link": "https://www.abc.es/tecnologia/meta-implementara-nuevas-medidas-seguridad-menores-estados-20260827220803-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/08/27/1507283227-ktsH-U3014625681626DB-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
