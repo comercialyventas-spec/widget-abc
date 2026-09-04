@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Cielo despejado y viento suave en Zaragoza, según AEMET",
+      "link": "https://okdiario.com/aragon/cielo-despejado-y-viento-suave-en-zaragoza-segun-aemet-2-20226641",
+      "imagen": "https://okdiario.com/img/2026/01/12/maximas-zaragoza-interior.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "AEMET prevé sol y viento moderado en Zaragoza para hoy, ambiente agradable sin cambios significativos",
       "link": "https://okdiario.com/aragon/aemet-preve-sol-y-viento-moderado-en-zaragoza-para-hoy-ambiente-agradable-sin-cambios-significativos-20219815",
       "imagen": "https://okdiario.com/img/2026/01/12/maximas-zaragoza-interior.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Mueren una mujer y su hija de nueve años en el incendio de un restaurante en Cedrillas (Teruel)",
       "link": "https://okdiario.com/aragon/muere-mujer-hija-nueve-anos-incendio-restaurante-cedrillas-teruel-20196886",
       "imagen": "https://okdiario.com/img/2026/08/30/imagen_recortada-32.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cuándo es la vuelta al cole en Aragón: fecha exacta del inicio del curso 2026-2027, festivos y todos los puentes",
-      "link": "https://okdiario.com/aragon/cuando-vuelta-cole-aragon-fecha-exacta-del-inicio-del-curso-2026-2027-festivos-todos-puentes-20183929",
-      "imagen": "https://okdiario.com/img/2026/08/27/cuando-es-la-vuelta-al-cole-en-aragon-fecha-exacta-del-inicio-del-curso-2026-2027-festivos-y-todos-los-puentes.jpg",
       "tipo": "imagen"
     }
   ]

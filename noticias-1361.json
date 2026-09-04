@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en directo en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-09-04/el-pulso-de-hoy-por-hoy-en-directo-en-el-pais.html",
+      "imagen": "https://www.youtube.com/watch?v=j7zhPp1PX4g",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El pleno en el que se habló de cambiar la relación con Marruecos y llevar a Pedro Sánchez ante los tribunales",
+      "link": "https://elpais.com/videos/2026-09-04/el-pleno-en-el-que-se-hablo-de-cambiar-la-relacion-con-marruecos-y-llevar-a-pedro-sanchez-ante-los-tribunales.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260903/1210706_184243_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La incierta espera a la intemperie por una plaza en un centro de acogida en Ceuta: “Es muy duro pasar la noche ahí”",
       "link": "https://elpais.com/espana/2026-09-04/la-incierta-espera-a-la-intemperie-por-una-plaza-en-un-centro-de-acogida-en-ceuta-es-muy-duro-pasar-la-noche-ahi.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260903/1210722_200202_video_1800.mp4",
@@ -22,18 +34,6 @@
       "titulo": "Programa especial | Pedro Sánchez comparece en el Congreso por la crisis de Ceuta",
       "link": "https://elpais.com/videos/2026-09-03/comparecencia-pedro-sanchez-en-el-congreso-por-la-crisis-de-ceuta.html",
       "imagen": "https://www.youtube.com/watch?v=xYigBTL6pfM",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Del papel de Marruecos a los informes previos: los titulares de Sánchez en tres minutos",
-      "link": "https://elpais.com/videos/2026-09-03/del-papel-de-marruecos-a-los-informes-previos-los-titulares-de-sanchez-en-tres-minutos.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260903/1210504_100141_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Anuncio de las películas españolas preseleccionadas para los Oscar 2027",
-      "link": "https://elpais.com/cultura/cine/2026-09-03/la-bola-negra-los-domingos-y-el-ser-querido-las-tres-preseleccionadas-por-espana-al-oscar-a-mejor-pelicula-internacional.html",
-      "imagen": "https://www.youtube.com/watch?v=ldNp3-VAlfs",
       "tipo": "imagen"
     }
   ]
