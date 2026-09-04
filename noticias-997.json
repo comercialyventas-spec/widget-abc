@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La Policía Nacional intensifica su presencia en el bulevar de Puente de Vallecas",
+      "link": "https://www.abc.es/espana/madrid/policia-nacional-intensifica-presencia-bulevar-puente-vallecas-20260903014131-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/03/poli-RyXRJbnDAS61nEc0RlLXC4I-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sopa de pescado tradicional, barata y muy fácil de preparar",
       "link": "https://www.abc.es/recetasderechupete/sopa-de-pescado-a-lo-pobre/22773/",
       "imagen": "",
@@ -27,12 +33,6 @@
     {
       "titulo": "Comer en el colegio: todo lo que necesitas saber",
       "link": "https://www.abc.es/gastronomia/falsa-rechupete-20240712032340-nt.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Lactosa: por qué no conviene eliminarla de la dieta sin motivo",
-      "link": "https://www.abc.es/recetasderechupete/lactosa-por-que-no-conviene-eliminarla-de-la-dieta-sin-motivo/173347/",
       "imagen": "",
       "tipo": ""
     }
