@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Pombo",
+      "link": "https://www.elconfidencialdigital.com/album/medios/pombo/202609041300001038840.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/03/2026090318012750520.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Antoni Daimiel",
       "link": "https://www.elconfidencialdigital.com/album/medios/antoni-daimiel/202609031900001038459.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/06/03/2026060317401789401.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Luján Argüelles",
       "link": "https://www.elconfidencialdigital.com/album/medios/lujan-argue/202609021300001038397.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/01/2026090115504738042.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "The Objective",
-      "link": "https://www.elconfidencialdigital.com/album/medios/the-objective-ficha-redactor-jefe-medio-pro-trump-delegacion-madrid/202604020500001013254.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/04/01/2026040112482748046.jpg",
       "tipo": "imagen"
     }
   ]

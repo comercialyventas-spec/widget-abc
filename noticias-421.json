@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Pombo",
+      "link": "https://www.elconfidencialdigital.com/album/medios/pombo/202609041300001038840.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/03/2026090318012750520.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Infantes de Marina",
       "link": "https://www.elconfidencialdigital.com/album/defensa/infantes-de-marina/202609041151381038922.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/04/2026090411501438795.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Antoni Daimiel",
       "link": "https://www.elconfidencialdigital.com/album/medios/antoni-daimiel/202609031900001038459.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/06/03/2026060317401789401.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Pablo Bustinduy",
-      "link": "https://www.elconfidencialdigital.com/album/medios/pablo-bustinduy/202609031900001038798.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2025/02/20/2025022008021927372.jpg",
       "tipo": "imagen"
     }
   ]
