@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La ingeniería oculta supera al diseño de las pantallas táctiles gracias a la IA",
+      "link": "https://www.abc.es/motor/reportajes/ingenieria-oculta-supera-diseno-pantallas-tactiles-gracias-20260904113200-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/04/inteligencia-artificial-coche-nueva-RuwhUUZSEYlMVZHyZbLKa0M-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Casi ochenta años haciendo historia de la automoción española: del Seat 1400 al Tarraco",
       "link": "https://www.abc.es/motor/reportajes/motorizacion-espana-cupra-seat-encara-final-trayectoria-20260903131640-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/03/primera-linea-montaje-seat-R1MV6NFjGT1npj8UFmVkcNJ-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Porsche 911 Challenge: la nueva puerta de entrada de Stuttgart para dar el salto a los circuitos",
       "link": "https://www.abc.es/motor/novedades/porsche-911-challenge-nueva-puerta-entrada-stuttgart-20260903115200-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/03/img16-R9ovjT6URCUdSEkigUtNL1J-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Geely Galaxy Cruiser 700: el brutal 4×4 híbrido de 1.128 CV llega a España",
-      "link": "https://www.abc.es/motor/novedades/geely-galaxy-cruiser-700-brutal-hibrido-1128-20260903111400-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/03/gelly2-RJ8TPI1WZKM27tZ90nB64zO-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

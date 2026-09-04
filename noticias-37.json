@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Bolitas de nieve (nada frías)",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260904/11626969/bolitas-nieve-frias.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/04/6a9a673307516.r_d.1045-618-2338.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las Gradas de Soaso y la Cola de Caballo",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260904/11626963/gradas-soaso-cola-caballo.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/04/6a9a657ebf3f3.r_d.1071-662-2338.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Te invitamos a una charla con Enric Juliana",
       "link": "https://www.lavanguardia.com/participacion/concursos/20260904/11626160/te-invitamos-charla-enric-juliana.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/04/09/661534931b361.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La 'Liberación', según Luis Goytisolo",
-      "link": "https://www.lavanguardia.com/participacion/red-lectores/20260904/11625458/liberacion-luis-goytisolo.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/14/6a5563680aaaf.r_d.2265-1702-1020.jpeg",
       "tipo": "imagen"
     }
   ]
