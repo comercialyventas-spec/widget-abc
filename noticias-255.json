@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Antonio Muñoz presenta su precandidatura para la Alcaldía de Sevilla",
+      "link": "https://www.abc.es/sevilla/ciudad/antonio-munoz-presenta-precandidatura-alcaldia-sevilla-20260904133518-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/04/munoz-sevilla-RjcdJB9acj1Yvg7PMvugbYL-1200x840@diario_abc.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un trabajador en el hotel de Altadis en Los Remedios: «Estaba en la séptima planta, he tragado mucho humo»",
       "link": "https://www.abc.es/sevilla/ciudad/trabajador-hotel-altadis-remedios-septima-planta-tragado-20260902123502-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/02/WhatsApp%20Image%202026-09-02%20at%2012.03.50%20(1)-R2Ga3VG6OoQv2RKDD7aEPkI-1200x840@diario_abc.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "La Bienal de Flamenco traslada los tres espectáculos del Hotel Triana al Muelle de la Sal",
       "link": "https://www.abc.es/sevilla/cultura/bienal-flamenco-traslada-tres-espectaculos-hotel-triana-20260904144631-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/04/muelle-sal-bienal-kgXH-U301572186341h4F-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Carlota Serra, farmacéutica: «Siempre recomiendo ibuprofeno con arginina porque se absorbe en solo 20 minutos»",
-      "link": "https://www.abc.es/sevilla/salud/carlota-serra-farmaceutica-siempre-recomiendo-ibuprofeno-arginina-20260904124649-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/salud/2026/09/04/ibuprofeno-arginina-R4h5ftbMFBRMkcZ7eeXdOQI-1200x840@diario_abc.png",
       "tipo": "imagen"
     }
   ]
