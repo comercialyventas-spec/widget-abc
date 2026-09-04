@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "El nuevo Clínic será el hospital de la mitad de población de l’Hospitalet",
-      "link": "https://www.lavanguardia.com/local/baix-llobregat/20260902/11625363/nuevo-clinic-sera-hospital-mitad-poblacion-l-hospitalet.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/02/6a980eb72eaad.r_d.3660-2674-626.jpeg",
+      "titulo": "Nuevo refuerzo de la red de buses interurbanos para atenuar las miserias de Rodalies",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260903/11626384/nuevo-refuerzo-red-buses-interurbanos-atenuar-miserias-rodalies.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/03/6a99b1dec1a76.r_d.2580-1720-869.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un accidente decapita el monumento a la sardana de Barcelona",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260904/11626255/accidente-decapita-monumento-sardana-barcelona.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/03/6a99668900c7e.r_d.2424-1693-1162.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Dos nuevas super grúas amplían la capacidad operativa del puerto de Barcelona",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260903/11626500/dos-nuevas-super-gruas-amplian-capacidad-operativa-puerto-barcelona.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/03/6a9986584a877.jpeg",
       "tipo": "imagen"
     },
     {
@@ -13,27 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Prisión preventiva para un multirreincidente a instancia del Ayuntamiento",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260902/11625521/prision-preventiva-multirreincidente-instancia-ayuntamiento-barcelona.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2021/03/09/60473a3e61324.r_d.659-418-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "La supermanzana del Poblenou cumple 10 años en plena revisión del modelo Barcelona",
       "link": "https://www.lavanguardia.com/local/barcelona/20260902/11624019/supermanzana-poblenou-cumple-10-anos-barcelona-revisa-concepto-pacificacion-urbana.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/01/6a971381a9260.r_d.2161-1732-1086.jpeg",
       "tipo": "imagen"
     },
     {
-      "titulo": "El timo de los falsos turistas que pedían dinero para volver a casa",
-      "link": "https://www.lavanguardia.com/sucesos/20260901/11624075/timo-falsos-turistas-pedian-dinero-volver-casa.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/31/6a95c90385a68.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Síndic de Barcelona pide suspender el desalojo del macroasentamiento de la Sagrera",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260902/11625423/sindic-barcelona-pide-suspender-desalojo-macroasentamiento-sagrera-haya-alternativa-residencial.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/04/08/69d696dddaf3d.jpeg",
+      "titulo": "Prisión preventiva para un multirreincidente a instancia del Ayuntamiento de Barcelona",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260902/11625521/prision-preventiva-multirreincidente-instancia-ayuntamiento-barcelona.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2021/03/09/60473a3e61324.r_d.659-418-0.jpeg",
       "tipo": "imagen"
     }
   ]
