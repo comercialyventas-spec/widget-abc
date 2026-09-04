@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "España propone a Bruselas un fondo europeo para la adaptación al cambio climático",
+      "link": "https://www.lavanguardia.com/natural/20260904/11627243/espana-propone-fondo-europeo-adaptacion-cambio-climatico.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/13/6a54fbfd59952.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Observatori Fabra supera el récord de calor en septiembre con 33,6 grados",
       "link": "https://www.lavanguardia.com/natural/20260903/11626438/observatori-fabra-supera-record-calor-septiembre-33-6-grados.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/05/22/6a10726469a1e.r_d.2531-1720-0.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Una cúpula de calor traerá temperaturas de hasta 43 ºC mañana y el viernes",
       "link": "https://www.lavanguardia.com/natural/20260902/11625598/cupula-calor-traera-temperaturas-43-c-manana-viernes.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/01/6a9603bee0e5e.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El verano del 2026 se convierte en el más cálido en Catalunya desde que hay registros",
-      "link": "https://www.lavanguardia.com/local/catalunya/20260902/11625210/verano-2026-oficialmente-mas-calido-catalunya-hay-registros.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/15/6a57af4ba79a9.r_d.1191-129-2192.jpeg",
       "tipo": "imagen"
     }
   ]

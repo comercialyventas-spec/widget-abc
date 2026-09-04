@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "El general Alberto Fajardo asume la Secretaría General del Madoc",
-      "link": "https://www.ahoragranada.com/noticias/el-general-alberto-fajardo-asume-la-secretaria-general-del-madoc-en-granada/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/General-Alberto-Fajardo.jpg",
+      "titulo": "La Feria de Muestras de Armilla rebajará 12 metros su chimenea tras los daños por los terremotos",
+      "link": "https://www.ahoragranada.com/noticias/la-feria-de-muestras-de-armilla-rebajara-12-metros-su-chimenea-tras-los-danos-por-los-terremotos/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Desmonte-Feria-Muestras-Armilla-terremotos.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ana Mestre muestra su apoyo a Granada tras el enjambre sísmico y reclama \"avanzar\" en su desarrollo",
+      "link": "https://www.ahoragranada.com/noticias/ana-mestre-muestra-su-apoyo-a-granada-tras-el-enjambre-sismico-y-reclama-avanzar-en-su-desarrollo/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Visita-Ana-Mestre.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las obras de contención de una ladera en la N340A en Rubite obligan al corte de un tramo de la vía tres meses",
+      "link": "https://www.ahoragranada.com/noticias/las-obras-de-contencion-de-una-ladera-en-la-n340a-en-rubite-obligan-al-corte-de-un-tramo-de-la-via-tres-meses/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Corte-N340A.jpg",
       "tipo": "imagen"
     },
     {
@@ -23,18 +35,6 @@
       "link": "https://www.ahoragranada.com/noticias/detenido-tras-ser-perseguido-por-dos-ciudadanos-por-provocar-un-incendio-en-las-afueras-de-granada/",
       "imagen": "",
       "tipo": ""
-    },
-    {
-      "titulo": "Dos heridos tras estrellarse en Peligros un coche de gran cilindrada que se dio a la fuga",
-      "link": "https://www.ahoragranada.com/noticias/dos-heridos-tras-estrellarse-en-peligros-un-coche-de-gran-cilindrada-que-se-dio-a-la-fuga/",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Denuncian que el IES Alhambra sigue con daños por los seísmos \"a menos de una semana del inicio de curso\"",
-      "link": "https://www.ahoragranada.com/noticias/denuncian-que-el-ies-alhambra-sigue-con-danos-por-los-seismos-a-menos-de-una-semana-del-inicio-de-curso/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/IES-Alhambra-terremotos.jpg",
-      "tipo": "imagen"
     }
   ]
 }
