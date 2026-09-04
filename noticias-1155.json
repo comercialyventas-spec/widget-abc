@@ -1,16 +1,22 @@
 {
   "noticias": [
     {
-      "titulo": "Marcos Llorente anuncia su retirada de la selección española",
-      "link": "https://elpais.com/noticias/seleccion-futbol-espana/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/REMQW26ZSNF5RPG3D3A6AMKU2Y.jpg?auth=4cd37a43373ffdb4425aff6ea86168ec3c7041834249fa4bb6d49b3942550887&width=414&height=233&focal=2364%2C333",
+      "titulo": "Mucho desgaste y poca puntería entre la Real y el Celta",
+      "link": "https://elpais.com/noticias/liga-espanola-de-futbol/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XT5YQFFJCBOVTEXMTZYK5P45F4.jpg?auth=9bf7bf63219db09a9eb6d5c930ccbbc0ac28fd77638180e648850456109359c2&width=414&height=233&focal=1765%2C1153",
       "tipo": "imagen"
+    },
+    {
+      "titulo": "Marcos Llorente anuncia su retirada de la selección española",
+      "link": "https://elpais.com/deportes/futbol/2026-09-03/marcos-llorente-anuncia-su-retirada-de-la-seleccion-espanola.html",
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "El Valencia, en una economía de guerra, fía su futuro al Nuevo Mestalla",
       "link": "https://elpais.com/deportes/futbol/2026-09-03/el-valencia-en-una-economia-de-guerra-fia-su-futuro-al-nuevo-mestalla.html",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://imagenes.elpais.com/resizer/v2/AKBODWGA6VN4JAVYG43YHJP57I.jpg?auth=94d2de026cc41c12558a96e48408b51dc19e0cbd1c7ba8327a87d0b2a56882e8&width=414&height=233&smart=true",
+      "tipo": "imagen"
     },
     {
       "titulo": "José Mourinho, sobre Raúl Asencio: “Todos hacen errores, pero errores acumulados es algo diferente”",
@@ -21,19 +27,13 @@
     {
       "titulo": "Por qué encalla el primer asalto de la UEFA al poder de Infantino: claves de un boicot que nunca fue",
       "link": "https://elpais.com/deportes/futbol/2026-09-03/encalla-el-primer-asalto-de-la-uefa-al-poder-de-infantino.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/AG4ER3R5QRCV7DP7LDIVHIKP4U.jpg?auth=98413c4f5f0dc95154191af669ce97dce48105108691641e2854145ef3622148&width=414&height=233&focal=974%2C450",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘Here we go’",
-      "link": "https://elpais.com/deportes/futbol/2026-09-03/here-we-go.html",
       "imagen": "",
       "tipo": ""
     },
     {
-      "titulo": "El PSG vende seis suplentes por 400 millones de euros, récord del mercado de fichajes",
-      "link": "https://elpais.com/noticias/futbol/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/PVVESGNKL5PG5OTLPHQV3CTRII.jpg?auth=7f5b141b72948a70b0d35cc8f1b4be7031c615d7dcbcff38013eb096580f631d&width=414&height=233&focal=1932%2C1884",
+      "titulo": "El Real Madrid femenino derrota al Ajax y se clasifica por sexto año consecutivo a la Champions",
+      "link": "https://elpais.com/noticias/champions-league-femenina/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/PXK2MZFUINK3LHNQF3GHI4IPZY.jpg?auth=e349b2a4f7f973fd232a6cae4b0583ed02eabfc7bf7d8ed6d72ee724d87a3dbf&width=414&height=233&focal=2054%2C1244",
       "tipo": "imagen"
     }
   ]
