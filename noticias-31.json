@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Lamine y el Camp Nou",
+      "link": "https://www.lavanguardia.com/deportes/20260905/11627792/lamine-camp-nou.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Imprevisibles",
+      "link": "https://www.lavanguardia.com/deportes/20260905/11627787/imprevisibles.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Mourinho: “Hemos hecho un gran partido, a veces pierdes y no sabes cómo explicarlo”",
       "link": "https://www.lavanguardia.com/deportes/20260905/11627643/mourinho-hemos-hecho-gran-partido-veces-pierdes-como-explicarlo.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/04/6a9b3ef8c1547.jpeg",
@@ -22,18 +34,6 @@
       "titulo": "Alexia Putellas debuta con victoria en la Superliga inglesa",
       "link": "https://www.lavanguardia.com/deportes/futbol-femenino/20260904/11627596/alexia-putellas-debuta-victoria-superliga-inglesa.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/04/6a9b22b476b01.r_d.2484-1541-904.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "PSG – Mónaco el partido de fútbol de Jornada 3 de la Ligue 1, en directo",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260904/4466/psg-monaco-ligue-1-ca-en-directo-ctx.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/01/26/65b39b45e683a.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Real Betis – Real Madrid el partido de fútbol de Jornada 4 de LaLiga EA Sports, en directo",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260904/24406/real-betis-real-madrid-laliga-primera-division-ca-en-directo-ctx.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/09/13/65016ce5577c1.jpeg",
       "tipo": "imagen"
     }
   ]
