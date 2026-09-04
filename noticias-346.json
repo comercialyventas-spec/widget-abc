@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¿Hemos alcanzado la superinteligencia artificial? OpenAi lanza su modelo con capacidad sobrehumana",
+      "link": "https://www.abc.es/tecnologia/alcanzado-superinteligencia-artificial-openai-lanza-gpt6-astra-20260904171032-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/04/sam-altman-RcF0BP8WRKqAQMCJ7MQdvOK-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Probamos el reloj perfecto para esquiar este invierno",
       "link": "https://www.abc.es/tecnologia/probamos-reloj-perfecto-esquiar-invierno-20260904014139-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/04/reloj-huawei-gt-R5k9lYcYaRiFijNvguzDayI-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Los temores a un apocalipsis provocado por la IA son exagerados",
       "link": "https://www.abc.es/tecnologia/temores-apocalipsis-provocado-ia-exagerados-20260831011758-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/08/28/economist_1200x840ia.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El argentino de 22 años que detecta incendios desde el espacio antes que la NASA",
-      "link": "https://www.abc.es/tecnologia/chico-anos-vigila-espana-espacio-detecta-incendios-20260731011318-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/07/31/IMG_0034-RmcUttU9qIf2sGXDLpruG0M-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
