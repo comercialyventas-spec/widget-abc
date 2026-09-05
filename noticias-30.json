@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Temperaturas elevadas en todo el país para hoy y lluvias en el noroeste",
+      "link": "https://www.lavanguardia.com/vida/20260905/11627838/tiempo-hoy-sabado-temperaturas-elevadas-pais-hoy-lluvias-noroeste.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/05/6a9b98f8657f5.r_d.2714-1708-827.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "“La mejora del sistema educativo catalán pasa por revisar la escuela inclusiva”",
       "link": "https://www.lavanguardia.com/vida/20260905/11627575/mejora-sistema-educativo-catalan-pasa-revisar-escuela-inclusiva.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El juez declara nulo el juicio contra Lindsay Clancy, que continuará encarcelada y acusada",
       "link": "https://www.lavanguardia.com/vida/20260904/11627471/juez-declara-juicio-nulo-lindsay-clancy-aplaza-decision-defensor-apele-emergencia.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/04/6a9ae968cdc2d.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La UB suspende de nuevo a las dos profesoras apartadas por el caso Flecha tras darles audiencia",
-      "link": "https://www.lavanguardia.com/vida/20260904/11627424/ub-suspende-nuevo-dos-profesoras-apartadas-caso-flecha-darles-audiencia.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/23/694acd8e68962.r_d.1992-1646-0.jpeg",
       "tipo": "imagen"
     }
   ]
