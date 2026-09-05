@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Se ha muerto Robin",
+      "link": "https://www.abc.es/play/series/criticas/rosa-belmonte-muerto-robin-20260905123021-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/05/richard-osullivan-k3sE-U301584070141bjC-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Arruina por completo su cita de 'First Dates' por un inexplicable gesto al pagar la cuenta: «Me he quedado tiesa»",
       "link": "https://www.abc.es/play/television/noticias/arruina-completo-cita-first-dates-inexplicable-gesto-20260905204350-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2025/09/05/first-dates-k45G-U301556569150bXF-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Vicente Vallés, contundente con Pedro Sánchez y su gestión de la crisis en Ceuta: «Se ha quedado solo y la legislatura continúa como si todo fuese normal»",
       "link": "https://www.abc.es/play/television/noticias/vicente-valles-contundente-pedro-sanchez-gestion-crisis-20260905130133-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/06/vicente-valles-kqo-U301583687918zjF-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Pensar es de cobardes",
-      "link": "https://www.abc.es/play/series/criticas/lucia-cabanelas-pensar-cobardes-20260903013655-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/03/the-drama-calzoncillos-kImE-U301549349254YnF-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
