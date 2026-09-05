@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Faro Santander: una llama por la cultura que ya prende e ilumina todo un cuerpo",
+      "link": "https://www.abc.es/cultura/cultural/faro-santander-llama-cultura-prende-ilumina-cuerpo-20260904115658-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/04/View%20of%20the%20interior%20of%20Faro%20Santander%202-RzDe8ntOSztbn03nxc6bmRO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "No tenemos ministro",
       "link": "https://www.abc.es/cultura/cultural/ministro-20260902132957-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/04/urtasun-ayuso-RtYFIu8PxmA3qJTpWzVmSwN-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "En la zona",
       "link": "https://www.abc.es/cultura/cultural/zona-20260904120257-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/01/Arthur_Ashe-R6AqL2ttOQyOv94jpLJ7y1O-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Javi al Cuadrado",
-      "link": "https://www.abc.es/cultura/cultural/javier-diazguardiola-javi-cuadrado-20260904120210-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/04/Cuadrado-RcK0BHDZm7YJAQD52EAy24O-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
