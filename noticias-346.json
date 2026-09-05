@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Apple confirma la fecha de presentación del nuevo iPhone: todo lo que sabemos de los nuevos modelos",
+      "link": "https://www.abc.es/tecnologia/apple-confirma-fecha-presentacion-nuevo-iphone-sabemos-20260905060000-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/05/apple-event-kNmF-U301575255935vI-1200x840@diario_abc.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Hemos alcanzado la superinteligencia artificial? OpenAi lanza su modelo con capacidad sobrehumana",
       "link": "https://www.abc.es/tecnologia/alcanzado-superinteligencia-artificial-openai-lanza-gpt6-astra-20260904171032-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/04/sam-altman-RcF0BP8WRKqAQMCJ7MQdvOK-1200x840@diario_abc.JPG",
@@ -28,12 +34,6 @@
       "titulo": "Motorola renueva su ecosistema en IFA 2026 con el nuevo Edge 70 Plus y el Moto Watch Ultra",
       "link": "https://www.abc.es/tecnologia/motorola-renueva-ecosistema-ifa-2026-nuevo-edge-20260903183352-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/03/Motorola-Edge-Rr6Ra4xkOBW7nqngSI52k5N-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Uber se adelanta a Tesla y lanza sus primeros taxis autónomos en Europa: así funciona el servicio",
-      "link": "https://www.abc.es/tecnologia/uber-adelanta-tesla-lanza-primeros-taxis-autonomos-20260903182551-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/03/1516747368-ken-U301559435991EWF-1200x840@diario_abc.JPG",
       "tipo": "imagen"
     }
   ]
