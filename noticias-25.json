@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Los gemelos Torres abren en la Boqueria",
+      "link": "https://www.lavanguardia.com/comer/20260905/11627190/gemelos-torres-abren-boqueria.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/04/6a9a9177b1112.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Jara, un menú omakase muy especial",
+      "link": "https://www.lavanguardia.com/comer/sitios/20260905/11627040/jara-menu-omakase-especial.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/04/6a9a7d7d39f01.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Mercat Terra acoge su concurso de tomates",
+      "link": "https://www.lavanguardia.com/comer/al-dia/20260905/11627005/mercat-terra-acoge-concurso-tomates.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/04/6a9a73cb4467c.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Mundial Bar celebra el primer aniversario de su reapertura con un menú especial a 19,25 euros",
       "link": "https://www.lavanguardia.com/comer/al-dia/20260904/11627060/mundial-bar-celebra-primer-aniversario-reapertura-menu-especial-19-25-euros.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/04/6a9a7fb7ec77c.r_d.1058-826-0.jpeg",
@@ -16,24 +34,6 @@
       "titulo": "Los hermanos Torres abrirán en La Boqueria El Bar de los Torres",
       "link": "https://www.lavanguardia.com/comer/sitios/20260904/11626563/hermanos-torres-abriran-boqueria-bar-torres.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/03/6a99a932065c0.r_d.2616-1716-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "7 meriendas para alegrar la vuelta al cole",
-      "link": "https://www.lavanguardia.com/comer/recetas/20260904/11625438/7-meriendas-alegrar-vuelta-cole.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2021/01/25/600e913a1227c.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La primera granja industrial de pulpos se frena en Canarias",
-      "link": "https://www.lavanguardia.com/comer/materia-prima/20260904/11625354/primera-granja-industrial-pulpos-frena-canarias-proyecto-avanza-galicia.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/04/6a9a90904940b.r_d.1587-1173-1414.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Interiores del hotel canario que sigue sumando estrellas Michelin",
-      "link": "https://www.lavanguardia.com/comer/sitios/20260904/11624874/interiores-hotel-canario-sigue-sumando-estrellas-michelin.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/01/6a96eb512639a.jpeg",
       "tipo": "imagen"
     }
   ]
