@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Calor intenso en Madrid, con 40 grados en algunas zonas de la comunidad",
+      "link": "https://www.lavanguardia.com/vida/20260905/11627988/calor-intenso-madrid-40-grados-zonas-comunidad.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/11/6a5267a0ce5e3.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Tres huracanes se forman al mismo tiempo en el Pacífico: no ocurría desde el 2015",
       "link": "https://www.lavanguardia.com/vida/20260905/11627933/tres-huracanes-forman-pacifico-ocurria-2015.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/05/6a9bf1475aecc.r_d.2250-1500-997.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Temperaturas elevadas en todo el país para hoy y lluvias en el noroeste",
       "link": "https://www.lavanguardia.com/vida/20260905/11627838/tiempo-hoy-sabado-temperaturas-elevadas-pais-hoy-lluvias-noroeste.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/05/6a9b98f8657f5.r_d.2714-1708-827.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Esther Niubó: “La mejora del sistema educativo catalán pasa por revisar la escuela inclusiva”",
-      "link": "https://www.lavanguardia.com/vida/20260905/11627575/mejora-sistema-educativo-catalan-pasa-revisar-escuela-inclusiva.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
       "tipo": "imagen"
     }
   ]
