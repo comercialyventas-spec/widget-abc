@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Sant Boi: la Diada que ho va canviar tot",
+      "link": "https://elpais.com/quadern/2026-09-05/sant-boi-la-diada-que-ho-va-canviar-tot.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/HJFQINMFPFCW7BEZNTB4GYTJIQ.JPG?auth=4ed7eb400806274fbc191b26774af129ed6506cff0978adc458574e62a26c4af",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "‘El sastre de Barcelona’ i el problema de pintar blancs de negre",
+      "link": "https://elpais.com/quadern/literatura/2026-09-05/el-sastre-de-barcelona-i-el-problema-de-pintar-blancs-de-negre.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/GE3SNLQXE5BCNOVW76GNODHMVM.JPG?auth=560f79cb90f049909863eaa71a1a156d2495872e4285f8761fb660ec2afb51e0",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Tornar a llegir la poesia d’Irene Solà amb ‘Bèstia’",
       "link": "https://elpais.com/quadern/literatura/2026-09-04/tornar-a-llegir-la-poesia-direne-sola.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/5OGLCYXVWZGVTI4DPVYPQJJ74U.JPG?auth=2a53326edb7f160f5fb36e741d0f9274a08de3260c086f76f4ff9136b5001fa5",
@@ -22,18 +34,6 @@
       "titulo": "‘Teoria de gèneres’: un conferenciant antiacadèmic t’ensenya a llegir en llibertat",
       "link": "https://elpais.com/quadern/literatura/2026-09-02/teoria-de-generes-un-conferenciant-antiacademic-tensenya-a-llegir-en-llibertat.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/JKWBADKGLZDSFJDI2G7TXY4CWQ.JPG?auth=c8aadc786dc396a0dd0120263d96e1aecd572efa469f010a650bad452ecf43c7",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cita prèvia amb la Moreneta",
-      "link": "https://elpais.com/quadern/2026-09-02/cita-previa-amb-la-moreneta.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/5SFIMVRXTXEJVFFRQXKNGMZCNI.jpg?auth=9113f54589aeb96ec796a9fe4e54084353f78eacda74d485ac2cf8b2c4df2ec6",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "L’‘Odissea’ puritana de Nolan",
-      "link": "https://elpais.com/quadern/2026-09-01/lodissea-puritana-de-nolan.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/6PFACDHBTFLNDMQOBSCL7J2HUM.jpg?auth=716df7ff1f8a63b7cba4b338a025a69fa00db250fbf0cf704977c96dfd8128d4",
       "tipo": "imagen"
     }
   ]

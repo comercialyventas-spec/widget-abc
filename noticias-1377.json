@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Un tomate y tres rellenos para unirlos a todos: nuevas recetas para un clásico",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-09-05/un-tomate-y-tres-rellenos-para-unirlos-a-todos-nuevas-recetas-para-un-clasico.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/JDQXTPL3ZNA6JKSUF6YRGN2SU4.jpg?auth=d53cdc6f66cc647135f05861b9293ad765bc3a3a1eccc28d77e3ecc479a28eb4",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Receta sencilla del arroz de payés con calamares de lata, del restaurante Les Cols (2 estrellas Michelin)",
+      "link": "https://elpais.com/gastronomia/2026-09-05/receta-sencilla-del-arroz-de-payes-con-calamares-de-lata-del-restaurante-les-cols-2-estrellas-michelin.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260904/1211095_183311_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Adiós a ‘José Luis y sus Chaquetillas’, la tienda de Lavapiés echa el cierre tras 72 años: “Hemos hecho chalecos de chulapo para aburrir, algunos castizos nos van a echar de menos”",
+      "link": "https://elpais.com/gastronomia/2026-09-05/adios-a-jose-luis-y-sus-chaquetillas-la-tienda-de-lavapies-echa-el-cierre-tras-72-anos-hemos-hecho-chalecos-de-chulapo-para-aburrir-algunos-castizos-nos-van-a-echar-de-menos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/527KMNKKXRCBJMP3J6LDTO644I.jpg?auth=4bdf47d7ec64d0118dac8d6dcbf70527c344c5b1c1c3971f116502f298dff319",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿A qué sabe el peligro? Cómo las papilas gustativas nos salvaron en la prehistoria y nos secuestran hoy",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-09-04/a-que-sabe-el-peligro-como-las-papilas-gustativas-nos-salvaron-en-la-prehistoria-y-nos-secuestran-hoy.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/EFUFBKZFJZHDJC6WTZP4TA4LBI.jpg?auth=a00c2647a03ad1392842db534fca463371ee9e68967cf74860702347642be85a",
@@ -16,24 +34,6 @@
       "titulo": "Qué son los precios dinámicos y por qué una hamburguesa no es Lady Gaga",
       "link": "https://elpais.com/gastronomia/2026-09-04/que-son-los-precios-dinamicos-y-por-que-una-hamburguesa-no-es-lady-gaga.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/LVCXP3YVKVHBNHY5W3EOT5RHAE.jpg?auth=1ed0c81d4b628cab540deb2a9380317dc9a5c5c1d09b3aa5cb75e7502b8e189f",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Javier Olleros, chef: “Cuando vino el inspector Michelin pensamos que era un visitador médico”",
-      "link": "https://elpais.com/gastronomia/2026-09-03/javier-olleros-chef-cuando-vino-el-inspector-michelin-pensamos-que-era-un-visitador-medico.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/RDMMTDZFH5BTXHZBSVVIXDBJ5U.jpg?auth=bc71d09d9804d416e0e400ea02a4571fec19a0e960f1203296baae06e4de0af6",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sardinas casadas, una receta que une pescado y verdura de verano",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-09-03/sardinas-casadas-una-receta-que-une-pescado-y-verdura-de-verano.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/2ZFKCO46GRFGRFQLNEBJO5EITQ.jpeg?auth=7f53d915e5f7adb5e0e0c77e0e334116f0434d21eb6d0038df2b41de827e96ba",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cómo hacer un sencillo bocata de piquillo caramelizado y huevo",
-      "link": "https://elpais.com/gastronomia/2026-09-03/como-hacer-un-sencillo-bocata-de-piquillo-caramelizado-y-huevo.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260901/1209842_170048_video_1800.mp4",
       "tipo": "imagen"
     }
   ]
