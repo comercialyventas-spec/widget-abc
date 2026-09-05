@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Un nuevo mapamundi: ¿Por qué la ONU quiere dejar atrás el mapa tradicional?",
+      "link": "https://www.france24.com/es/%C3%A1frica/20260905-un-nuevo-mapamundi-por-qu%C3%A9-la-onu-quiere-dejar-atr%C3%A1s-el-mapa-tradicional",
+      "imagen": "https://s.france24.com/media/display/3762cee2-a8af-11f1-9dbe-005056bf30b7/w:1024/p:16x9/575ff060bfb8ff17bb64427963c6c48d0cec927b.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Detonación accidental de material pirotécnico deja más de 50 heridos en un cuartel de Bolivia",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260905-detonaci%C3%B3n-accidental-de-material-pirot%C3%A9cnico-deja-m%C3%A1s-de-50-heridos-en-un-cuartel-de-bolivia",
+      "imagen": "https://s.france24.com/media/display/7cef0d86-a8c3-11f1-97e3-005056bfb2b6/w:1024/p:16x9/Screenshot-2026-09-04-204554.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Detonación accidental de material pirotécnico deja más de 50 heridos en un cuartel de Bolivia",
+      "link": "https://www.france24.com/es/minuto-a-minuto/20260905-detonaci%C3%B3n-accidental-de-material-pirot%C3%A9cnico-deja-m%C3%A1s-de-50-heridos-en-un-cuartel-de-bolivia",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "La ONU denuncia posibles crímenes de lesa humanidad de Israel en campos de refugiados de Cisjordania",
       "link": "https://www.france24.com/es/medio-oriente/20260904-la-onu-denuncia-posibles-cr%C3%ADmenes-de-lesa-humanidad-de-israel-en-campos-de-refugiados-de-cisjordania",
       "imagen": "",
@@ -16,24 +34,6 @@
       "titulo": "Guerra abierta en el Supremo de Brasil: la crisis judicial estalla a un mes de las elecciones",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260904-guerra-abierta-en-el-supremo-de-brasil-la-crisis-judicial-estalla-a-un-mes-de-las-elecciones",
       "imagen": "https://s.france24.com/media/display/021a8e5c-a84e-11f1-b06b-005056bfb2b6/w:1024/p:16x9/50b4617175caa210277bc12958180309a7232a07.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El partido Reform UK bajo investigación por donaciones extranjeras: Farage niega infringir la ley",
-      "link": "https://www.france24.com/es/video/20260904-el-partido-reform-uk-bajo-investigaci%C3%B3n-por-donaciones-extranjeras-farage-niega-infringir-la-ley",
-      "imagen": "https://s.france24.com/media/display/200384de-a89c-11f1-8cc8-005056bfb2b6/w:1024/p:16x9/ES-20260904-131137-131321-CS.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿El operativo israelí contra Hezbolá constituye una violación de la tregua con Líbano?",
-      "link": "https://www.france24.com/es/video/20260904-el-operativo-israel%C3%AD-contra-hezbol%C3%A1-constituye-una-violaci%C3%B3n-de-la-tregua-con-l%C3%ADbano",
-      "imagen": "https://s.france24.com/media/display/8573100c-a8a4-11f1-9f61-005056bfb2b6/w:1024/p:16x9/ES-20260904-131803-132821-CS.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Informe desde Katmandú: pronóstico favorable para los dos trabajadores rescatados en un tunel",
-      "link": "https://www.france24.com/es/video/20260904-informe-desde-katmand%C3%BA-pron%C3%B3stico-favorable-para-los-dos-trabajadores-rescatados-en-un-tunel",
-      "imagen": "https://s.france24.com/media/display/b463648a-a89e-11f1-9fff-005056a90284/w:1024/p:16x9/ES-20260904-131608-131759-CS.jpg",
       "tipo": "imagen"
     }
   ]
