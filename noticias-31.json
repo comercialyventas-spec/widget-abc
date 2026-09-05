@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El hundimiento del Valencia",
+      "link": "https://www.lavanguardia.com/deportes/20260905/11628341/hundimiento-valencia.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/05/6a9c8edb4eaf0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un Barça muy ofensivo no da pie a las sorpresas",
       "link": "https://www.lavanguardia.com/deportes/20260905/11628200/barca-ofensivo-da-pie-sorpresas.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/05/6a9c7dc88baa8.r_d.232-372-0.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Julián Álvarez regresa y es el mejor del Atlético en la severa derrota en San Mamés",
       "link": "https://www.lavanguardia.com/deportes/futbol/20260905/11628096/julian-alvarez-regresa-mejor-atletico-severa-derrota-san-mames.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/05/6a9c506a04997.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mas desnuda a Roglic y ya le saca más de dos minutos",
-      "link": "https://www.lavanguardia.com/deportes/20260905/11628079/desnuda-roglic-le-saca-mas-dos-minutos.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/05/6a9c49fe7b1cc.jpeg",
       "tipo": "imagen"
     }
   ]

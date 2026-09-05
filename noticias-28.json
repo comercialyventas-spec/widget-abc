@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Cemento para las cicatrices de Libia",
+      "link": "https://www.lavanguardia.com/vida/20260906/11625618/cemento-cicatrices-derna.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Portugal considera que no hubo amenaza inmediata para Schengen en Ceuta",
       "link": "https://www.lavanguardia.com/internacional/20260905/11628140/portugal-considera-hubo-amenaza-inmediata-schengen-ceuta.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/31/6a9558c46534a.r_d.838-559-0.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Rusia ataca Ucrania antes de la visita a Moscú y Kyiv de los emisarios de EE.UU.",
       "link": "https://www.lavanguardia.com/internacional/20260905/11627863/cuatro-muertos-nuevo-ataque-ruso-ucrania-visita-moscu-kyiv-emisarios-ee-uu.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/04/6a9af55f89ad8.r_d.3984-404-519.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Nepal eleva a 1.344 los muertos mientras siguen las operaciones de rescate y búsqueda",
-      "link": "https://www.lavanguardia.com/internacional/20260905/11627852/nepal-eleva-1-344-muertos-siguen-operaciones-rescate-busqueda.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/05/6a9bba5ecddbb.r_d.1300-866-1726.jpeg",
       "tipo": "imagen"
     }
   ]
