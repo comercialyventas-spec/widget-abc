@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Puesta de sol como de otro planeta",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260905/11627948/puesta-sol-planeta.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/05/6a9bf48ce4569.r_d.1017-748-2338.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las nubes mammatus de Molló",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260905/11627970/nubes-mammatus-mollo.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/05/6a9bfbf1da655.r_d.811-1288-3118.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "La agonía de los viñedos abandonados",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260905/11627927/agonia-vinedos-abandonados.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/05/6a9bef0588552.r_d.723-960-3118.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La precisión del sol en el Far de Cavalleria",
-      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260905/11628013/precision-sol-far-cavalleria.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/05/6a9c06dbf344d.r_d.748-757-3118.jpeg",
       "tipo": "imagen"
     }
   ]
