@@ -1,7 +1,13 @@
 {
   "noticias": [
     {
-      "titulo": "Una bañista muere cuando nadaba en aguas de Punta Mujeres, al norte de Lanzarote",
+      "titulo": "Ya son 24 las personas ahogadas en las playas catalanas desde el 15 de junio",
+      "link": "https://www.lavanguardia.com/local/girona/20260905/11628082/son-24-personas-ahogadas-playas-catalanas-15-junio.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/02/6a97d042a6137.r_d.1949-2062-1113.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Una bañista muere cuando nadaba en Punta Mujeres (Lanzarote) y un hombre en Benalmádena (Málaga)",
       "link": "https://www.lavanguardia.com/sucesos/20260905/11628055/banista-muere-nadaba-aguas-punta-mujeres-norte-lanzarote.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/04/19/69e4eaeacb4eb.r_d.1771-1179-0.jpeg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Santa Coloma destina más de 800.000 euros a ayudas educativas y refuerza la seguridad en las escuelas",
       "link": "https://www.lavanguardia.com/local/barcelones-nord/20260904/11627331/santa-coloma-destina-mas-800-000-euros-ayudas-educativas-refuerza-seguridad-escuelas.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2022/09/09/631b5e5d13c4d.r_d.1828-3183-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Detienen a la madre del bebé muerto hallado dentro de una bolsa en un edificio de Sant Adrià",
-      "link": "https://www.lavanguardia.com/sucesos/20260904/11627143/detienen-mujer-presuntamente-relacionada-muerte-bebe-hallado-edificio-sant-adria.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/02/6a9844a53dbb7.r_d.2813-2062-0.jpeg",
       "tipo": "imagen"
     }
   ]

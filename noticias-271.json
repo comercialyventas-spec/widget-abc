@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Las cuevas de Burgos piden silencio",
+      "link": "https://www.abc.es/espana/castilla-leon/cuevas-burgos-piden-silencio-20260905123610-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/05/cuevas-burgos-Rd3HZoxIJODFDlgg7WfULwM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Localizado sin vida un vecino de Flores del Sil (León) que había desaparecido hace dos días",
       "link": "https://www.abc.es/espana/castilla-leon/localizado-vida-vecino-flores-sil-leon-desaparecido-20260905183533-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/05/guardia-civil-patrulla-R4bN0oPm0RAVtOoa60B6WWJ-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La primera noche de las fiestas de Valladolid deja cuatro agresiones y cuatro peleas",
       "link": "https://www.abc.es/espana/castilla-leon/primera-noche-fiestas-valladolid-deja-cuatro-agresiones-20260905165240-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/05/ambulancia-1-Rvbcae8Lsl8MLTXJDVq8ACM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "León vuelve al siglo XIX con su Feria Modernista",
-      "link": "https://www.abc.es/espana/castilla-leon/leon-vuelve-siglo-xix-feria-modernista-20260905164203-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/05/feria-modernista-RfNWBOB26qv8812RWOyd5JM-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
