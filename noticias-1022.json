@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Andrés Trapiello: «Escribir en 'XLSemanal' es un premio a toda una vida. Muchos escritores quisieran estar en mi lugar»",
-      "link": "https://www.abc.es/xlsemanal/andres-trapiello-entrevista-nuevo-articulista-xl-20260831164309-ntrc.html",
-      "imagen": "https://static.vocento.com/xlsemanal/2026/08/31/xlsemanal-andres-trapiello-portada-kPBG-U30155476171303E-562x562@RC.jpg"
-    },
-    {
-      "titulo": "Argentina busca a su nuevo dios del fútbol: el legado de Maradona y Messi continúa",
-      "link": "https://www.abc.es/deportes/futbol/argentina-busca-nuevo-dios-futbol-legado-maradona-20260906014915-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/06/1429391729-RMTu8arog1HJRiBgu7aTQuJ-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "El Equidistante, el hombre que reventó X tras colgar una nómina de su padre",
       "link": "https://www.abc.es/tecnologia/equidistante-hombre-revento-tras-colgar-nomina-padre-20260904014929-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/04/1200x840tuitero-Ri8nKHqLC6MRn5OfbSWRSmM-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/04/1200x840tuitero-Ri8nKHqLC6MRn5OfbSWRSmM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "La gran mayoría piensa que Marruecos está detrás de la invasión y que Sánchez debería haber suspendido las vacaciones",
       "link": "https://www.abc.es/espana/gran-mayoria-piensa-marruecos-detras-invasion-sanchez-20260906014650-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/06/1516811333-RIoGocV6sDcDShX6jhDJtSP-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/06/1516811333-RIoGocV6sDcDShX6jhDJtSP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Ana Molina, dermatóloga: «Un desodorante es un perfume para la axila. No hace que sudemos menos»",
       "link": "https://www.abc.es/bienestar/ana-molina-dermatologa-desodorante-perfume-axila-sudemos-20260906080000-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/09/06/newspaint-1788621991381-1200x840-kKm-U301586521798dvB-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/09/06/newspaint-1788621991381-1200x840-kKm-U301586521798dvB-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Verdades y mitos del épico desembarco español que cambió la historia militar",
       "link": "https://www.abc.es/historia/verdades-mitos-desembarco-espanol-cambio-historia-militar-alhucemas-20260906140152-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/historia/2025/09/08/verdades-mitos-krWG-U301569300845ezB-1200x840@diario_abc.png"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/historia/2025/09/08/verdades-mitos-krWG-U301569300845ezB-1200x840@diario_abc.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Epicuro: «No es posible vivir placenteramente sin vivir prudente, honesta y justamente»",
+      "link": "https://www.abc.es/recreo/epicuro-filosofo-griego-posible-vivir-placenteramente-vivir-20260906050000-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2026/09/06/cuadro-epicuro-kEWH-U301566954423iYG-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Pablo Ojeda, experto en nutrición: «Los que están usando el ayuno por su cuenta para perder peso corren riesgo»",
+      "link": "https://www.abc.es/bienestar/alimentacion/pablo-ojeda-experto-nutricion-usando-ayuno-cuenta-20260906041827-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2025/09/06/pablo-ojeda-kENF-U301571946008dp-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }
