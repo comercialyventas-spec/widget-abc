@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Venecia vive la Mostra más allá del cine",
+      "link": "https://www.lavanguardia.com/gente/20260906/11628105/venecia-vive-mostra-mas-cine.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/05/6a9c5a8e95ec5.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El príncipe Harry y Meghan Markle serán vecinos de los Beckham en la campiña inglesa",
       "link": "https://www.lavanguardia.com/gente/20260906/11628057/harry-meghan-markle-beckham-costwolds-campina.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/05/6a9c3a31b968e.r_d.977-808-2338.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Las tendencias clave para vestir este otoño",
       "link": "https://www.lavanguardia.com/gente/20260905/11627435/tendencias-clave-vestir-otono.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/04/6a9adf308bad8.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Iker Casillas e Irene Esser dan un paso al frente y acuden juntos a una boda en Madrid",
-      "link": "https://www.lavanguardia.com/gente/20260904/11627585/iker-casillas-e-irene-esser-dan-paso-frente-acuden-boda-madrid.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/10/24/68fb8a6d57836.r_d.1458-1093-1539.jpeg",
       "tipo": "imagen"
     }
   ]
