@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Un avión de Amazon se accidenta en el aeropuerto de Miami",
+      "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260906-un-avi%C3%B3n-de-amazon-se-accidenta-en-el-aeropuerto-de-miami",
+      "imagen": "https://s.france24.com/media/display/419b9884-aa2c-11f1-bf66-005056bf30b7/w:1024/p:16x9/2026-09-06T194628Z-1848729900-RC2VDNAWFMR2-RTRMADP-3-USA-CRASH-PLANE-MIAMI.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Informe desde Berlín: tras elecciones en Sajonia-Anhalt los ojos se centran en Friedrich Merz",
+      "link": "https://www.france24.com/es/video/20260906-informe-desde-berl%C3%ADn-tras-elecciones-en-sajonia-anhalt-los-ojos-se-centran-en-friedrich-merz",
+      "imagen": "https://s.france24.com/media/display/c91c9e0a-aa29-11f1-9597-005056a97e36/w:1024/p:16x9/ES-20260906-140144-140324-CS.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Informe desde Berlín: partido AfD estaría cerca de formar su primer gobierno regional",
       "link": "https://www.france24.com/es/video/20260906-informe-desde-berl%C3%ADn-partido-afd-estar%C3%ADa-cerca-de-formar-su-primer-gobierno-regional",
       "imagen": "https://s.france24.com/media/display/e5f9f972-aa25-11f1-8509-005056bf30b7/w:1024/p:16x9/ES-20260906-123136-123522-CS.jpg",
@@ -22,18 +34,6 @@
       "titulo": "El partido ultraderechista AfD ocupa primer lugar de unas elecciones clave en Alemania, según primeros resultados",
       "link": "https://www.france24.com/es/europa/20260906-el-partido-ultraderechistas-afd-se-encamina-a-la-victoria-de-unas-elecciones-clave-en-alemania",
       "imagen": "https://s.france24.com/media/display/727d2c16-aa12-11f1-ac8b-005056bf30b7/w:1024/p:16x9/AP26249584038776-1.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "De la Espriella, un mes de poder en Colombia: terremoto, mano dura y una Presidencia que busca controlar el mensaje",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260906-de-la-espriella-un-mes-de-poder-en-colombia-terremoto-mano-dura-y-una-presidencia-que-busca-controlar-el-mensaje",
-      "imagen": "https://s.france24.com/media/display/fb33d7b6-aa13-11f1-b507-005056bf30b7/w:1024/p:16x9/2026-08-26T003510Z-54332484-RC2Z5NAQBVR4-RTRMADP-3-COLOMBIA-POLITICS.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "María Elena Ríos: 'No solo somos víctimas del ácido, también del linchamiento mediático'",
-      "link": "https://www.france24.com/es/video/20260906-mar%C3%ADa-elena-r%C3%ADos-no-solo-somos-v%C3%ADctimas-del-%C3%A1cido-tambi%C3%A9n-del-linchamiento-medi%C3%A1tico",
-      "imagen": "https://s.france24.com/media/display/5ffc2398-aa13-11f1-88cb-005056a97e36/w:1024/p:16x9/ES-20260906-100749-101455-CS.jpg",
       "tipo": "imagen"
     }
   ]

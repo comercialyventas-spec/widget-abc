@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Un avión de carga de Amazon se estrella en el aeropuerto de Miami",
+      "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260906/avion-carga-amazon-estrella-aeropuerto-134014362",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d408a847-72f0-4f15-8dcd-6a02484063de_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las claves de un triunfo electoral de la ultraderecha más tóxica que humilla al centro de Merz",
       "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260906/claves-triunfo-electoral-ultraderecha-toxica-alemania-134014179",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/5bd5bf89-f5a3-48ef-8cd8-3102924fa33f_media-libre-aspect-ratio_default_0.jpg",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/49dad550-f51d-4e61-8606-cacaf9603e5d_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "El derrumbe de un hostal universitario deja al menos cinco muertos y decenas de atrapados en la India",
       "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260906/derrumbe-hostal-universitario-deja-tres-134010009",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7afe38e1-5d3e-4ae9-a530-5787e8fda4dc_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La AfD arrasa en Sajonia-Anhalt y roza la mayoría absoluta, según las proyecciones de voto",
-      "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260906/afd-arrasa-sajonia-anhalt-acerca-134009242",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d3044e6a-9037-45cb-be17-8df4a4fd2fda_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
