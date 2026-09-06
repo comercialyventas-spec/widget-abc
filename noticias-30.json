@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Qué es el Informe PISA y para qué sirve",
+      "link": "https://www.lavanguardia.com/vida/20260906/11628560/que-informe-pisa-que-sirve.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/06/24/6a3b0a50287a9.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Récord de temperatura: las aguas del Mediterráneo alcanzaron el 13 de agosto los 28,54 grados",
       "link": "https://www.lavanguardia.com/vida/20260906/11628546/record-temperatura-aguas-mediterraneo-alcanzaron-13-agosto-28-54-grados.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/07/05/6868eaf70250c.r_d.1900-2023-0.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Atan a un pasajero conflictivo con cinta adhesiva durante un aterrizaje de emergencia",
       "link": "https://www.lavanguardia.com/vida/20260906/11628422/atan-pasajero-conflictivo-cinta-adhesiva-aterrizaje-emergencia.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/19/6945218c464c0.r_d.943-508-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘Educere’",
-      "link": "https://www.lavanguardia.com/vida/20260906/11628130/educere.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/03/6a99180e9c3e3.jpeg",
       "tipo": "imagen"
     }
   ]
