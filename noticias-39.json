@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Ruïna i derrota d'un campament militar",
+      "link": "https://www.lavanguardia.com/encatala/20260906/11628027/ruina-i-derrota-d-campament-militar-ctx.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/05/6a9bd824698a2.r_d.5607-3241-786.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Domingo de pleno verano en septiembre",
       "link": "https://www.lavanguardia.com/natural/20260906/11628397/tiempo-hoy-domingo-pleno-verano-septiembre.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/06/6a9ce81a264cb.r_d.2845-2609-787.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "España propone a Bruselas un fondo europeo para la adaptación al cambio climático",
       "link": "https://www.lavanguardia.com/natural/20260904/11627243/espana-propone-fondo-europeo-adaptacion-cambio-climatico.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/13/6a54fbfd59952.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Observatori Fabra supera el récord de calor en septiembre con 33,6 grados",
-      "link": "https://www.lavanguardia.com/natural/20260903/11626438/observatori-fabra-supera-record-calor-septiembre-33-6-grados.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/05/22/6a10726469a1e.r_d.2531-1720-0.jpeg",
       "tipo": "imagen"
     }
   ]
