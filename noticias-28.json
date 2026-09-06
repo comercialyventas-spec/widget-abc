@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Al menos cinco muertos tras estrellarse un avión de Amazon cerca del aeropuerto de Miami",
+      "link": "https://www.lavanguardia.com/internacional/20260907/11628756/cinco-muertos-estrellarse-avion-amazon-cerca-aeropuerto-miami.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/07/6a9de44ebd896.r_d.1875-2125-1329.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Zelenski teme que la guerra seguirá en invierno pese a la mediación de Trump",
       "link": "https://www.lavanguardia.com/internacional/20260906/11628623/zelenski-teme-guerra-seguira-invierno-pese-mediacion-trump.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/06/6a9dbf857ef06.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "En marcha la reunión de Zelenski con los enviados de EE.UU.",
       "link": "https://www.lavanguardia.com/internacional/20260906/11628446/ucrania-reanuda-ataques-masivos-rusia-llegada-emisarios-ee-uu.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/06/6a9d23036c4e9.r_d.640-360-3507.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Rescatados con vida una mujer sepultada por el lodo y un hombre atrapado en un túnel once días después de la riada en Nepal",
-      "link": "https://www.lavanguardia.com/internacional/20260906/11628435/rescatados-vida-mujer-sepultada-lodo-hombre-atrapado-tunel-once-dias-riada-nepal.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
       "tipo": "imagen"
     }
   ]
