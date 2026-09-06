@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "AEMET prevé un día soleado y caluroso en Barcelona con viento suave y cielos despejados",
+      "link": "https://okdiario.com/cataluna/aemet-preve-un-dia-soleado-y-caluroso-en-barcelona-con-viento-suave-y-cielos-despejados-20236235",
+      "imagen": "https://okdiario.com/img/2026/01/12/maximas-barcelona-interior.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "AEMET prevé cielo nublado y suaves cambios de temperatura en Barcelona con viento flojo",
       "link": "https://okdiario.com/cataluna/aemet-preve-cielo-nublado-y-suaves-cambios-de-temperatura-en-barcelona-con-viento-flojo-20233371",
       "imagen": "https://okdiario.com/img/2026/01/12/maximas-barcelona-interior.jpg",
@@ -28,12 +34,6 @@
       "titulo": "AEMET: Ambiente agradable y cielo despejado en Barcelona, con viento aumentando por la tarde",
       "link": "https://okdiario.com/cataluna/aemet-ambiente-agradable-y-cielo-despejado-en-barcelona-con-viento-aumentando-por-la-tarde-20212443",
       "imagen": "https://okdiario.com/img/2026/09/02/mujer-se-protege-del-sol-ante-la-mejora-del-tiempo.-europa-press.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ingenieros expertos lo confirman: suena extraño pero «las torres de la Sagrada Familia están pegadas con Loctite»",
-      "link": "https://okdiario.com/cataluna/ingenieros-expertos-lo-confirman-suena-extrano-pero-torres-sagrada-familia-estan-pegadas-loctite-20201436",
-      "imagen": "https://okdiario.com/img/2026/09/31/ingenieros-expertos-lo-confirman-suena-extrano-pero-las-torres-de-la-sagrada-familia-estan-pegadas-con-loctite.jpg",
       "tipo": "imagen"
     }
   ]
