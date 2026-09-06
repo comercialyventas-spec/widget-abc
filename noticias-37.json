@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La semillera de la Quinta de Torre Arias",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260906/11628462/semillera-quinta-torre-arias.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/06/6a9d2ab758ac1.r_d.960-540-2338.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las grandes manchas del sur del sol",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260906/11628458/grandes-manchas-sur-sol.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/06/6a9d2983764a7.r_d.960-497-2338.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "El espectacular Extreme Barcelona",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260906/11628430/espectacular-extreme-barcelona.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/06/6a9d1973c313d.r_d.1015-703-2338.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tamariu vive la 30ª Cantada de Habaneras",
-      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260906/11628428/tamariu-vive-30-cantada-habaneras.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/06/6a9d17de2cf9b.r_d.1059-729-3369.jpeg",
       "tipo": "imagen"
     }
   ]

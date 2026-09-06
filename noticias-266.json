@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Pontevedra, el plató que no necesita decorados",
+      "link": "https://www.abc.es/espana/galicia/pontevedra-plato-necesita-decorados-20260827130945-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/27/1503733788-ROTyP6Rg7uga16vuILHSPgI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "87 hijos de la emigración gallega regresan para conectar con el Camino de Santiago",
       "link": "https://www.abc.es/espana/galicia/hijos-emigracion-gallega-regresan-conectar-camino-santiago-20260812111555-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/12/1515434116-R51C5Mg3pA9YRHoxiMVI5WN-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Estabilizado un incendio forestal en Vilanova de Arousa tras calcinar una hectárea",
       "link": "https://www.abc.es/espana/galicia/estabilizado-incendio-forestal-vilanova-arousa-tras-calcinar-20260905183658-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/05/1512440195%20(1)-RSutlu53sj3elH26z2YixjO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Muere una mujer tras sufrir una indisposición en el Monte Pindo",
-      "link": "https://www.abc.es/espana/galicia/muere-mujer-tras-sufrir-indisposicion-monte-pindo-20260905190319-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/05/1512101484-RFbOImRhzRIjNMa1bTKyDOM-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "La deuda, de la levitación al aterrizaje",
-      "link": "https://elpais.com/economia/negocios/2026-09-06/la-deuda-de-la-levitacion-al-aterrizaje.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/MY254P64XVBKLIP2UBDN7477ZA.JPG?auth=afccfd66ec7d816001add614707288c95a8588f5b0f2aa6b7a4742e9df3303a7",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Cumbres del clima: de las promesas a la implementación",
       "link": "https://elpais.com/economia/negocios/2026-09-06/cumbres-del-clima-de-las-promesas-a-la-implementacion.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/WEV7XRVHYJLJDJBEMFP2GC6ZAU.jpg?auth=1528c63249717b2113004964967670008ef5452086353457c47206c16e700940",
@@ -34,6 +28,12 @@
       "titulo": "Israel tiene un problema con su principal aeropuerto",
       "link": "https://elpais.com/economia/negocios/carta-del-corresponsal/2026-09-05/israel-tiene-un-problema-con-su-principal-aeropuerto.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/O4ZFHLBNNBGJBE4WRKR3RCKRHM.jpg?auth=bfe5a14b925d7479cac4f670932ec088298f02be9d5ed8414ba02c28ba894ee5",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Inmigrantes: nos necesitan y los necesitamos",
+      "link": "https://elpais.com/economia/negocios/2026-09-06/inmigrantes-nos-necesitan-y-los-necesitamos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/DGEYBHS6YBG3PGGCOIBFGLLE24.jpg?auth=79a76c6da46e9c6bdc38f3a011ab13c61e315602d37b705efd615956c21ddbad",
       "tipo": "imagen"
     }
   ]
