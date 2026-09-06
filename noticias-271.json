@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La herida",
+      "link": "https://www.abc.es/espana/castilla-leon/herida-20260906225046-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/06/CEUTA-VALLADOLID-RYyfR1yPINrcmhAviFBBvjM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cultura renuncia a celebrar AR-PA para «repensarla» y volver en 2027",
+      "link": "https://www.abc.es/espana/castilla-leon/cultura-renuncia-celebrar-arpa-repensarla-volver-2027-20260819224716-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/19/arpa3-R885ZVB13RRQFpyreeCTnDO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Corral pide al Ministerio que «concrete» su apoyo tras el incendio de Burgohondo (Ávila)",
       "link": "https://www.abc.es/espana/castilla-leon/corral-pide-ministerio-concrete-apoyo-tras-incendio-20260906122113-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/06/incendio-burgohondo-ruben2-ROUw4CdF1ECVOXXlBjfpItM-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Uno de cada cuatro trabajadores falta al trabajo por motivos de salud, con bajas de 46,8 días de media",
       "link": "https://www.abc.es/espana/castilla-leon/cuatro-trabajadores-falta-trabajo-motivos-salud-bajas-20260906171700-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/06/bajas-laborales-RYchF5fIBL297zcaVZwKt5L-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La «adrenalina» y «variedad» que atraen a los primeros MIR de Urgencias",
-      "link": "https://www.abc.es/espana/castilla-leon/adrenalina-variedad-inspira-primeros-mir-urgencias-primeros-20260831222026-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/31/mir-urgencias-RF8puyetHNft6PXufQc6uqJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Localizado un conductor ebrio tras atropellar a un octogenario y darse a la fuga en Salamanca",
-      "link": "https://www.abc.es/espana/castilla-leon/localizado-conductor-ebrio-tras-atropellar-octogenario-darse-20260906122701-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/06/ep-policia-local-salamanca-RAxqqXRzRDN02cUFZMCR4LK-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
