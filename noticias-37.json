@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El arte de la joyería contemporánea",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260906/11628499/arte-joyeria-contemporanea.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/06/6a9d3e091876d.r_d.1920-1712-1184.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Pedraforca desde el santuario de Falgars",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260906/11628492/pedraforca-santuario-falgars.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/06/6a9d3b622bb63.r_d.952-695-2338.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "¿Dónde se pueden ver las chimeneas gaudinianas de la Costa Brava?",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260906/11628478/donde-ver-chimeneas-gaudinianas-costa-brava.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/06/6a9d363f53af4.r_d.784-902-2923.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La castaña para caballos",
-      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260906/11628475/castana-caballos.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/06/6a9d33c236cac.r_d.956-568-2338.jpeg",
       "tipo": "imagen"
     }
   ]
