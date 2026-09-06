@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Al menos cinco muertos deja el accidente de un avión de Amazon en Miami",
+      "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260906-un-avi%C3%B3n-de-amazon-se-accidenta-en-el-aeropuerto-de-miami",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "Gianni Infantino buscará su reelección como presidente de la FIFA",
       "link": "https://www.france24.com/es/video/20260906-gianni-infantino-buscar%C3%A1-su-reelecci%C3%B3n-como-presidente-de-la-fifa",
       "imagen": "https://s.france24.com/media/display/e0bef942-aa31-11f1-987c-005056a90284/w:1024/p:16x9/ES-20260906-141327-141453-CS.jpg",
@@ -19,7 +25,7 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Un avión de Amazon se accidenta en el aeropuerto de Miami",
+      "titulo": "Al menos cinco muertos deja el accidente de un avión de Amazon en Miami",
       "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260906-un-avi%C3%B3n-de-amazon-se-accidenta-en-el-aeropuerto-de-miami",
       "imagen": "https://s.france24.com/media/display/419b9884-aa2c-11f1-bf66-005056bf30b7/w:1024/p:16x9/2026-09-06T194628Z-1848729900-RC2VDNAWFMR2-RTRMADP-3-USA-CRASH-PLANE-MIAMI.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Informe desde Berlín: partido AfD estaría cerca de formar su primer gobierno regional",
       "link": "https://www.france24.com/es/video/20260906-informe-desde-berl%C3%ADn-partido-afd-estar%C3%ADa-cerca-de-formar-su-primer-gobierno-regional",
       "imagen": "https://s.france24.com/media/display/e5f9f972-aa25-11f1-8509-005056bf30b7/w:1024/p:16x9/ES-20260906-123136-123522-CS.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Nuevas protestas piden por los niños de Ceuta; España deporta a 21 migrantes por atacar a militares",
-      "link": "https://www.france24.com/es/europa/20260906-nuevas-protestas-piden-por-los-ni%C3%B1os-de-ceuta-espa%C3%B1a-deporta-a-21-migrantes-por-atacar-a-militares",
-      "imagen": "https://s.france24.com/media/display/c2f28146-aa21-11f1-a1f4-005056bf30b7/w:1024/p:16x9/FOTO-ESPANA-CEUTA-PROTESTA.jpg",
       "tipo": "imagen"
     }
   ]
