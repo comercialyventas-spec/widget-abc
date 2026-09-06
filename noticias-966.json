@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Una dosis de nostalgia milenial",
-      "link": "https://elpais.com/television/2026-09-06/una-dosis-de-nostalgia-milenial.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/WLURD7UZJNCQHAHEN23A4S46WE.jpg?auth=df350c5b64e00b238ad54d134d32cac6c68ff2f5a38f6f89720ed090b20c4a4e",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Rafael Herrera, director de antena de canal Ten: “Nos beneficia la viralidad que genera Alba Carrillo y también que atraiga a la clase política”",
       "link": "https://elpais.com/television/2026-09-05/rafael-herrera-director-de-antena-de-canal-ten-nos-beneficia-la-viralidad-que-genera-alba-carrillo-y-tambien-que-atraiga-a-la-clase-politica.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/PBSFCMMFURCG5PX5TJTPWNVJ6U.jpg?auth=8782e404e80a08110b1b5a08c6be5fa541552a230059453c4f090f6cf48c740a",
@@ -34,6 +28,12 @@
       "titulo": "El contundente mensaje de Manu Sánchez sobre Ceuta en TVE: “Piden más medios, no que vayan Ana Rosa e Iker Jiménez”",
       "link": "https://elpais.com/television/2026-09-04/el-contundente-mensaje-de-manu-sanchez-sobre-ceuta-en-tve-piden-mas-medios-no-que-vayan-ana-rosa-e-iker-jimenez.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/DU64AKFIR5FZFE2SBFCDD67ETI.png?auth=ca4c23c9c018bb3be3e53314cf52510b94ebf9869089a9a0026f97bddf854b51",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "The Gentlemen",
+      "link": "https://elpais.com/television/series/the-gentlemen/",
+      "imagen": "https://vdmedia.elpais.com/elpaistop/multimedia/20242/28/20240228192149176_1709144598_video_1800.mp4",
       "tipo": "imagen"
     }
   ]
