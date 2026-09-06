@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "España se le resiste a Los Gallos",
+      "link": "https://www.abc.es/deportes/vela/vela-crucero/espana-resiste-gallos-20260906170004-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/06/Estados%20Unidos%20SaiGP%20Valencia-Rl7B8prllNYLySjjy7xZ3vI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Pijos con barco",
       "link": "https://www.abc.es/deportes/vela/opinion/juan-merediz-puente-pijos-barco-20260906100812-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/06/Barco-RDrRUcAjtUEKtk5TfR3e64L-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Valencia se prepara para vivir el Gran Premio de España de SailGP",
       "link": "https://www.abc.es/deportes/vela/vela-crucero/valencia-prepara-vivir-gran-premio-espana-sailgp-20260903124344-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/03/Rolex%20SailGP-RVlMVpmqC4GG5FW9EAtvhoI-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Team Malizia toma el mando en las primeras horas tras partir de Nueva York",
-      "link": "https://www.abc.es/deportes/vela/vela-oceanica/team-malizia-toma-mando-primeras-horas-tras-20260902200745-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/02/Flota%20Nueva%20York-RKAy0LPbRImJHRCWeqk7PDO-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
