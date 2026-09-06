@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Ciencia, cerdos y dinero: la carrera entre EE UU y China por hacer viables los trasplantes de animales a humanos",
+      "link": "https://elpais.com/ciencia/2026-09-06/ciencia-cerdos-y-dinero-la-carrera-entre-ee-uu-y-china-por-hacer-viables-los-trasplantes-de-animales-a-humanos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/IJZMNQCQPRGQPL2XYSTDA3OT54.jpg?auth=5deab8ff8de461b7bf8fb50c741e3fe77017f05a92498d95281478517100ae1e",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Una piara de donantes",
+      "link": "https://elpais.com/ciencia/2026-09-06/una-piara-de-donantes.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VFLOTF2VC5BCJE5EXIK7W7F6FA.jpg?auth=a2457429dd652b3a9d479c6dc2a6bbdfb595ffd9e58d85017d5d345adbf234e4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El negocio perfecto de “la era Ozempic”: fármacos para adelgazar, ultraprocesados para engordar",
       "link": "https://elpais.com/salud-y-bienestar/2026-09-05/el-negocio-perfecto-de-la-era-ozempic-farmacos-para-adelgazar-ultraprocesados-para-engordar.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/RAG5CXW2N5B63AOBU7R2XSMKIM.jpg?auth=c4589dc018cbb29727d92d0fad676630a95774ab08c398acf4644429334aec1c",
@@ -22,18 +34,6 @@
       "titulo": "Así moldea el ADN nuestra forma de ser: más de 1.200 variantes genéticas ayudan a determinar la personalidad",
       "link": "https://elpais.com/ciencia/2026-09-02/asi-moldea-el-adn-nuestra-forma-de-ser-mas-de-1200-variantes-geneticas-ayudan-a-determinar-la-personalidad.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/TV5ZB5TEBZAVTHYYUQZRZSPTCE.jpg?auth=cd26cf8d775d210d7a3598181c93cf370295f862ca8fdb6dea72a8624cb5fdcd",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las señales que avisan de períodos dolorosos pueden llegar hasta tres años antes de la primera regla",
-      "link": "https://elpais.com/salud-y-bienestar/2026-09-01/las-senales-que-avisan-de-periodos-dolorosos-pueden-llegar-hasta-tres-anos-antes-de-la-primera-regla.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ZBPTVUYDPFDMZHWJHM7Y5UGLCI.jpg?auth=b859e053ec3e501a638e290fe2fb414481861a1c9a714d904ef83c9a3d43c05e",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Paula Ortiz Couder, la ingeniera madrileña que cuida de los humanos que van a la Luna: “Todo es hostil en el espacio”",
-      "link": "https://elpais.com/ciencia/2026-09-02/paula-ortiz-couder-la-ingeniera-madrilena-que-cuida-de-los-humanos-que-van-a-la-luna-todo-es-hostil-en-el-espacio.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/MQJASKHZZVFDBK2E6AB7KE4OLQ.JPG?auth=56b46807aecc2a00b23034ac4bacf77e7716933e6a0863ff50a4205c7847aef9",
       "tipo": "imagen"
     }
   ]

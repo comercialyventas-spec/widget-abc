@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Qui mana en el sistema educatiu?",
+      "link": "https://elpais.com/quadern/2026-09-06/qui-mana-en-el-sistema-educatiu.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/IF5QZHUY7ZBHZITGE3EZB4V6RM.jpg?auth=11419581695e3d84470228b0434d14bf9f40965d27097017980aa77894e0b629",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sant Boi: la Diada que ho va canviar tot",
       "link": "https://elpais.com/quadern/2026-09-05/sant-boi-la-diada-que-ho-va-canviar-tot.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/HJFQINMFPFCW7BEZNTB4GYTJIQ.JPG?auth=4ed7eb400806274fbc191b26774af129ed6506cff0978adc458574e62a26c4af",
@@ -28,12 +34,6 @@
       "titulo": "Joan Miquel Oliver: “Antònia Font estem en xoc, encara no tenim cap projecte concret”",
       "link": "https://elpais.com/quadern/literatura/2026-09-03/joan-miquel-oliver-antonia-font-no-te-cap-projecte-a-la-vista-jo-fare-discos.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/SFMOMUGY3VH43GSUMEM5NHCVPA.JPG?auth=ccdb84ecb46c38df8cecee0e6a4565cc63290310b6300f2b06e5218df7fc0c28",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘Teoria de gèneres’: un conferenciant antiacadèmic t’ensenya a llegir en llibertat",
-      "link": "https://elpais.com/quadern/literatura/2026-09-02/teoria-de-generes-un-conferenciant-antiacademic-tensenya-a-llegir-en-llibertat.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/JKWBADKGLZDSFJDI2G7TXY4CWQ.JPG?auth=c8aadc786dc396a0dd0120263d96e1aecd572efa469f010a650bad452ecf43c7",
       "tipo": "imagen"
     }
   ]
