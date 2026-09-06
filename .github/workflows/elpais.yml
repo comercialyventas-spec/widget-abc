@@ -150,6 +150,10 @@ jobs:
             });
           NODE
 
+      - name: Sincronizar con la rama remota antes de guardar
+        run: |
+          git pull --no-edit origin main || true
+
       - name: Guardar cambios automaticamente
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
