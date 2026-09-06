@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "José Mercé, cadencioso y vibrante",
+      "link": "https://www.elmundo.es/andalucia/2026/09/06/6a9d663ffc6c8360578b4583.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/06/17887002480470.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sophie y Shelby, de EEUU a Sevilla por amor a sus novios: \"No hay nada como el Frenadol; mi madre no cocina y mi suegra hace una comida increíble\"",
       "link": "https://www.elmundo.es/loc/celebrities/2026/09/05/6a9a8c04fdddff00788b45d0.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/04/17885139093815.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La Junta muestra su preocupación por el bloqueo de la negociación en Airbus, que pone en riesgo un sector con 15.000 empleos indirectos en Andalucía",
       "link": "https://www.elmundo.es/andalucia/2026/09/04/6a9a81d521efa0ad5a8b458e.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/04/17885109831060.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Aparatoso incendio en las obras de un hotel en Sevilla con varias personas atendidas por inhalación de humo",
-      "link": "https://www.elmundo.es/andalucia/2026/09/02/6a97f78cfdddffa5108b45b0.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/02/17883444958117.jpg",
       "tipo": "imagen"
     }
   ]

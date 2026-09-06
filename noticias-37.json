@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La castaña para caballos",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260906/11628475/castana-caballos.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/06/6a9d33c236cac.r_d.956-568-2338.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Día de vendimia en Mont-ras",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260906/11628472/dia-vendimia-mont-ras.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/06/6a9d2ebad6a6d.r_d.795-530-2822.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Las grandes manchas del sur del sol",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260906/11628458/grandes-manchas-sur-sol.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/06/6a9d2983764a7.r_d.960-497-2338.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "A la playa sin aglomeraciones",
-      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260906/11628439/playa-aglomeraciones.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/06/6a9d1f06c6ef2.r_d.1051-1142-2338.jpeg",
       "tipo": "imagen"
     }
   ]
