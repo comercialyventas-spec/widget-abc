@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Devueltos a Marruecos 21 inmigrantes por lanzar piedras a militares y guardias civiles en Ceuta",
-      "link": "https://www.abc.es/espana/veintena-inmigrantes-detenidos-ceuta-lanzar-piedras-militares-20260906135011-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/06/1516707444%20(1)-RcmTCFUNj4S0Sb0mz00qdQO-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "La gran mayoría piensa que Marruecos está detrás de la invasión y que Sánchez debería haber vuelto de las vacaciones",
       "link": "https://www.abc.es/espana/gran-mayoria-piensa-marruecos-detras-invasion-sanchez-20260906014650-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/06/1516811333-RIoGocV6sDcDShX6jhDJtSP-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/06/1516811333-RIoGocV6sDcDShX6jhDJtSP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Van Aert prolonga la sequía del ciclismo español",
       "link": "https://www.abc.es/deportes/ciclismo/van-aert-prolonga-sequia-ciclismo-espanol-20260906175020-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/06/aert-RnjoU3n4c5y4AkKnDBBQD6L-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/06/aert-RnjoU3n4c5y4AkKnDBBQD6L-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "Amplia victoria de AfD en Sajonia-Anhalt, según los sondeos a pie de urna: «Hemos hecho historia»",
+      "titulo": "Amplia victoria de AfD en en Sajonia-Anhalt, según los sondeos a pie de urna: «Hemos hecho historia»",
       "link": "https://www.abc.es/internacional/amplia-victoria-ultraderecha-elecciones-sajoniaanhaltsegun-sondeos-pie-20260906181106-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/06/siegmund-U20609936686J8G-U3015962114458gH-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/06/siegmund-U20609936686J8G-U3015962114458gH-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Los empresarios alemanes muestran su preocupación y la pérdida de inversión y talento extranjero con la victoria de AfD",
       "link": "https://www.abc.es/internacional/empresarios-alemanes-muestran-preocupacion-perdida-inversion-talento-20260906184945-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/06/siemens-RLdmD6DiF07o9vSfHv0YBCI-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/06/siemens-RLdmD6DiF07o9vSfHv0YBCI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Un Barça brillante destroza al Valencia",
       "link": "https://www.abc.es/deportes/futbol/barca-brillante-destroza-valencia-20260906183047-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/06/1516901278-RSpZGKLZel2zNNXm1IFWi7K-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/06/1516901278-RSpZGKLZel2zNNXm1IFWi7K-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "San Petersburgo cada vez se parece más a Leningrado",
+      "link": "https://www.abc.es/internacional/san-petersburgo-vez-parece-leningrado-20260906125203-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/06/rusia-k7zH-U301593627112acD-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }
