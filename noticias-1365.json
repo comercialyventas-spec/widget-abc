@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Videoanálisis | La ruptura que quieren",
+      "link": "https://elpais.com/mexico/opinion/2026-09-06/videoanalisis-la-ruptura-que-quieren.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260905/1211214_033803_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Roto: resistir entre las ruinas de Gaza",
       "link": "https://elpais.com/opinion/2026-09-06/el-roto-resistir-entre-las-ruinas-de-gaza.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/A7S2H6ZLBJHPPKIEXKJMQFR3FM.jpg?auth=053bb0d10169642436c817fe0e934d1b40136acbd1b50c64298c116b72262f2a",
@@ -13,27 +19,21 @@
       "tipo": "imagen"
     },
     {
+      "titulo": "La judicialización de la política llega hasta Ceuta",
+      "link": "https://elpais.com/opinion/2026-09-06/la-judicializacion-de-la-politica-llega-hasta-ceuta.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/W2UR54A4VBGDRC3EDFF43HECDY.jpg?auth=98519dc17daae8f4b170bf90b61cd2f1e88b6c74ed7856c5fd2394189ee06ce1",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Hoy no cerramos",
+      "link": "https://elpais.com/opinion/2026-09-06/hoy-no-cerramos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ALZUM3LZG5A55IYNUK5PTKCGO4.jpg?auth=340ec45290afab17e9e485cb6babe9060d4b64f8b1792123db38dd07e6fcef2d",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Peridis: una especie invasora",
       "link": "https://elpais.com/opinion/2026-09-06/peridis-una-especie-invasora.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/HNUUR37R6FA4HJG7PXUUFNMF4I.jpg?auth=be439b168ca9759bb21c1cce45a24e7d5a4f804ef396340982bc0faddb57b526",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Confusión europea? ¡Volver a Ventotene!",
-      "link": "https://elpais.com/opinion/2026-09-06/confusion-europea-volver-a-ventotene.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/LMEOEWXNL5GAHBTLUCBTK7MACY.jpg?auth=2b9fbdb82f61b8e931d44be6936310203ad6d330339e802d3be59c5b8343afd4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una lectora: “Hay una carrera por arreglar mi barrio a costa de la humanidad que lo habitaba”",
-      "link": "https://elpais.com/opinion/2026-09-06/una-lectora-hay-una-carrera-por-arreglar-mi-barrio-a-costa-de-la-humanidad-que-lo-habitaba.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/SAKIVYU22YHQJLQRNZZYAH6LJE.jpg?auth=744158e4da0cb2bedd5fd00a5a15ed1db6fb3fc8053577abba63a1753053c36a",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Lindsay Clancy y el monstruo de Frankenstein",
-      "link": "https://elpais.com/opinion/2026-09-06/lindsay-clancy-y-el-monstruo-de-frankenstein.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/GJKJPM57GFDI5LTLR4ST7KZH4I.jpg?auth=0bca47451e69f3a7482a2add69f3b6e3498f3e1a32d5900ebed1c27288ea5456",
       "tipo": "imagen"
     }
   ]
