@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Serena y Novak",
+      "link": "https://www.elmundo.es/deportes/2026/09/06/6a9d60c4e4d4d8e0608b457e.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/06/17886990087140.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Y si cambiamos el tenis? Sets más cortos, partidos resueltos en un tie-break e incluso eliminar el histórico 15-30-40",
       "link": "https://www.elmundo.es/deportes/tenis/us-open/2026/09/05/6a9c1768e4d4d8335c8b459c.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/05/17886156848226.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Dani Mérida, el ascenso del tenista que viene del barro: \"Mi padre no quería que montara en moto y empecé en el pádel\"",
       "link": "https://www.elmundo.es/deportes/tenis/us-open/2026/09/03/6a99ad84e9cf4af42a8b45ce.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/03/17884563759207.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La pasión que Alcaraz ha tenido que olvidar en el US Open y una celebración para sus hermanos pequeños: \"Ellos me proponen cosas\"",
-      "link": "https://www.elmundo.es/deportes/tenis/us-open/2026/09/03/6a990ea8fdddff7e408b4574.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/03/17884156160295.jpg",
       "tipo": "imagen"
     }
   ]
