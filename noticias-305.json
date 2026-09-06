@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Pijos con barco",
+      "link": "https://www.abc.es/deportes/vela/opinion/juan-merediz-puente-pijos-barco-20260906100812-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/06/Barco-RDrRUcAjtUEKtk5TfR3e64L-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El que da primero da dos veces",
       "link": "https://www.abc.es/deportes/vela/vela-crucero/primero-dos-veces-20260905172441-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/05/Aficion%20Valencia-RwaOkevxfneicyNfOjoNYTO-1200x840@diario_abc.JPG",
@@ -28,12 +34,6 @@
       "titulo": "Team Malizia toma el mando en las primeras horas tras partir de Nueva York",
       "link": "https://www.abc.es/deportes/vela/vela-oceanica/team-malizia-toma-mando-primeras-horas-tras-20260902200745-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/02/Flota%20Nueva%20York-RKAy0LPbRImJHRCWeqk7PDO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "España vuelve a la élite del Match Race",
-      "link": "https://www.abc.es/deportes/vela/vela-crucero/espana-vuelve-elite-match-race-20260902161153-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/02/match%20race-RVDoLiaPvnl7Oq87VYeIinL-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
