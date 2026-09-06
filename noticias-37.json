@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El crepúsculo de la catedral de Barcelona",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260906/11628432/crepusculo-catedral-barcelona.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/06/6a9d1c2f883cb.r_d.946-608-2338.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Torre de les Aigües de Catalana de Gas",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260906/11628485/torre-les-aiguees-catalana-gas.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/06/6a9d38bec5add.r_d.968-849-2338.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Día de vendimia en Mont-ras",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260906/11628472/dia-vendimia-mont-ras.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/06/6a9d2ebad6a6d.r_d.795-530-2822.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El efecto omega de L'Estartit",
-      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260906/11628518/efecto-omega-l-estartit.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/06/6a9d50ac62884.r_d.1049-671-2338.jpeg",
       "tipo": "imagen"
     }
   ]
