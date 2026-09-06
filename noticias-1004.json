@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un avión de carga de Amazon se estrella y se incendia en el Aeropuerto de Miami",
+      "link": "https://okdiario.com/internacional/avion-carga-amazon-estrella-incendia-aeropuerto-miami-20238991",
+      "imagen": "https://okdiario.com/img/2026/09/06/frame-avion-amazon.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La reivindicación de Marcos Fernández tras marcar con el Espanyol: «Ceuta no se vende, Ceuta se defiende»",
       "link": "https://okdiario.com/deportes/reivindicacion-marcos-fernandez-marcar-espanyol-ceuta-no-vende-ceuta-defiende-20239015",
       "imagen": "https://okdiario.com/img/2026/09/06/imagen_recortada-2026-09-06t230333.571.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Alcaraz se desata: pasa por encima de Tommy Paul y ya se posa en cuartos del US Open",
       "link": "https://okdiario.com/deportes/alcaraz-desata-pasa-encima-tommy-paul-posa-cuartos-del-us-open-20238635",
       "imagen": "https://okdiario.com/img/2026/09/06/cronica-2026-tenis-alcaraz-interior-1.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "AfD arrasa en las elecciones de Sajonia y roza la mayoría absoluta: «Tenemos un claro mandato para gobernar»",
-      "link": "https://okdiario.com/internacional/afd-arrasa-elecciones-sajonia-roza-mayoria-absoluta-tenemos-claro-mandato-gobernar-20238593",
-      "imagen": "https://okdiario.com/img/2026/09/06/ulrich-siegmund-candidato-de-afd-y-ganador-de-las-elecciones.-efe.jpg",
       "tipo": "imagen"
     }
   ]
