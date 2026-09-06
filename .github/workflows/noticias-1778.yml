@@ -469,6 +469,10 @@ jobs:
           );
           NODE
 
+      - name: Sincronizar con la rama remota antes de guardar
+        run: |
+          git pull --no-edit origin main || true
+
       - name: Guardar noticias-1778.json
         run: |
           git config user.name "github-actions[bot]"
