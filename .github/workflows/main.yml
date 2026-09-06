@@ -3,11 +3,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "*/30 * * * *"
-
 concurrency:
   group: widget-abc-git-write
   cancel-in-progress: false
-
 permissions:
   contents: write
 jobs:
@@ -16,34 +14,29 @@ jobs:
     steps:
       - name: Descargar repositorio
         uses: actions/checkout@v4
-
       - name: Descargar y convertir RSS a JSON con imagenes
         run: |
           node -e '
           const https = require("https");
           const fs = "fs";
-
           https.get("https://www.abc.es/rss/2.0/portada/", (res) => {
               let data = "";
               res.on("data", (chunk) => data += chunk);
               res.on("end", () => {
                   const items = data.split("<item>").slice(1);
                   let noticias = [];
-
                   items.forEach(item => {
                       let titleMatch = item.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>|<title>(.*?)<\/title>/);
                       let linkMatch = item.match(/<link>(.*?)<\/link>/);
                       
                       let title = titleMatch ? (titleMatch[1] || titleMatch[2]) : "";
                       let link = linkMatch ? linkMatch[1].trim() : "";
-
                       // Buscar imagen en media:content o enclosure
                       let imgMatch = item.match(/<media:content[^>]+url="(https?:\/\/[^"]+\.(jpg|jpeg|png|webp))[^"]*"/i) ||
                                      item.match(/<enclosure[^>]+url="(https?:\/\/[^"]+\.(jpg|jpeg|png|webp))[^"]*"/i) ||
                                      item.match(/src="(https?:\/\/[^"]+\.(jpg|jpeg|png|webp))[^"]*"/i);
                       
                       let imagen = imgMatch ? imgMatch[1] : "";
-
                       if (title && link) {
                           noticias.push({
                               titulo: title.replace(/<[^>]*>/g, "").trim(),
@@ -52,7 +45,6 @@ jobs:
                           });
                       }
                   });
-
                   require("fs").writeFileSync("noticias-1022.json", JSON.stringify({ noticias: noticias.slice(0, 6) }, null, 2));
                   console.log("JSON actualizado con imágenes.");
               });
@@ -61,7 +53,9 @@ jobs:
               process.exit(1);
           });
           '
-
+      - name: Sincronizar con la rama remota antes de guardar
+        run: |
+          git pull --no-edit origin main || true
       - name: Guardar cambios automáticamente
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
