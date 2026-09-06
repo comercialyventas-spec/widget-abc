@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Gaza entierra a los muertos de hace mil días",
+      "link": "https://www.abc.es/internacional/gaza-entierra-muertos-mil-dias-20260906203911-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/06/gaza-RnnzwFkk6fPWnSeRc2s3lUM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Amplia victoria de AfD en las elecciones en Sajonia-Anhalt, según los sondeos a pie de urna: «Hemos hecho historia»",
       "link": "https://www.abc.es/internacional/amplia-victoria-ultraderecha-elecciones-sajoniaanhaltsegun-sondeos-pie-20260906181106-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/06/siegmund-U20609936686J8G-U3015962114458gH-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La economía chilena, a la baja tras los seis meses de gobierno de José Antonio Kast",
       "link": "https://www.abc.es/internacional/economia-chilena-baja-meses-gobierno-jose-antonio-kast-20260906233237-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/06/jose-antonio-kast-chile-kBxE-U301589916040Y3E-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Iglesia alemana pide el voto contra la extrema derecha en Sajonia-Anhalt",
-      "link": "https://www.abc.es/internacional/iglesia-alemana-pide-voto-extrema-derecha-sajoniaanhalt-20260906123942-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/06/ulrich-kIS-U301593649344ILI-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
