@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El calor aprieta, la playa se llena",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260906/11628516/calor-aprieta-playa-llena.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/06/6a9d500a45d5b.r_d.942-811-2338.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La semillera de la Quinta de Torre Arias",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260906/11628462/semillera-quinta-torre-arias.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/06/6a9d2ab758ac1.r_d.960-540-2338.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "El románico castillo de Aínsa",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260906/11628434/romanico-castillo-ainsa.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/06/6a9d1d15ef9cb.r_d.1003-922-2338.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El espectacular Extreme Barcelona",
-      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260906/11628430/espectacular-extreme-barcelona.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/06/6a9d1973c313d.r_d.1015-703-2338.jpeg",
       "tipo": "imagen"
     }
   ]
