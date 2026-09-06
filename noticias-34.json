@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "En catalán, se dice ‘festuc’ o ‘pistatxo’",
+      "link": "https://www.lavanguardia.com/cultura/20260906/11628720/catalan-dice-festuc-pistatxo.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Palau Sant Jordi reunirá a Sopa de Cabra, The Tyets, Els Catarres y Buhos para despedir 2026",
       "link": "https://www.lavanguardia.com/cultura/20260906/11628554/palau-sant-jordi-reunira-sopa-cabra-the-tyets-els-catarres-buhos-despedir-2026.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/05/16/6a07a8fc8a62d.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "El español Luis Tato gana el principal premio del festival más importante de fotoperiodismo",
       "link": "https://www.lavanguardia.com/cultura/20260906/11628405/espanol-luis-tato-gana-principal-premio-festival-mas-importante-fotoperiodismo.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/06/6a9cf678a8a96.r_d.2989-1987-748.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Bad Bunny gana su primer Emmy gracias a su show en el descanso de la Super Bowl",
-      "link": "https://www.lavanguardia.com/cultura/20260906/11628399/bad-bunny-gana-primer-emmy-gracias-show-descanso-super-bowl.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/06/6a9cec0f715a8.jpeg",
       "tipo": "imagen"
     }
   ]

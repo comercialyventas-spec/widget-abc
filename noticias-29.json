@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La alternativa",
+      "link": "https://www.lavanguardia.com/politica/20260906/11628641/alternativa.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Quien pueda parar, que pare",
+      "link": "https://www.lavanguardia.com/politica/20260906/11628640/pueda-parar-pare.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "21 migrantes detenidos por lanzar piedras a militares y guardias civiles en Ceuta",
       "link": "https://www.lavanguardia.com/politica/20260906/11628519/21-migrantes-detenidos-lanzar-piedras-militares-guardias-civiles-ceuta.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/30/6a6b6b71a0e0e.r_d.3443-1348-0.jpeg",
@@ -22,18 +34,6 @@
       "titulo": "Despegan los Eurofighters",
       "link": "https://www.lavanguardia.com/politica/20260906/11628201/despegan-eurofighters.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/05/6a9c83f4172ce.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La paciencia de Ceuta gobierna España",
-      "link": "https://www.lavanguardia.com/politica/20260906/11628129/paciencia-ceuta-gobierna-espana.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/05/6a9c62e604e4d.r_d.2963-1975-757.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Dinamarca hace suya la solución para el Sáhara en plena crisis de Ceuta",
-      "link": "https://www.lavanguardia.com/politica/20260906/11628061/dinamarca-suya-solucion-sahara-plena-crisis-ceuta.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/05/6a9c3e382dcc5.jpeg",
       "tipo": "imagen"
     }
   ]

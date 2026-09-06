@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Malabares en una habitación",
+      "link": "https://www.lavanguardia.com/deportes/20260906/11628737/malabares-habitacion.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Fermín, con el rival en el área",
+      "link": "https://www.lavanguardia.com/deportes/20260906/11628731/fermin-rival-area.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los beneficios de Gordon",
+      "link": "https://www.lavanguardia.com/deportes/20260906/11628730/beneficios-gordon.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un cabezazo de Marcos Fernández salva un punto de milagro para el Espanyol",
       "link": "https://www.lavanguardia.com/deportes/20260906/11628635/cabezazo-marcos-fernandez-salva-punto-milagro-espanyol.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/06/6a9ddb50d839a.r_d.858-721-2608.jpeg",
@@ -16,24 +34,6 @@
       "titulo": "El Europa denuncia una “actuación policial desproporcionada” con un hincha por una estelada",
       "link": "https://www.lavanguardia.com/deportes/20260906/11628625/europa-denuncia-actuacion-policial-desproporcionada-hincha-estelada.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/28/6a9203a7c929f.r_d.1712-1360-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Espanyol – Sevilla el partido de fútbol de Jornada 4 de LaLiga EA Sports, en directo",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260906/24405/espanyol-sevilla-laliga-primera-division-ca-en-directo-ctx.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/09/13/65016ce5577c1.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Juventus – Milan el partido de fútbol de Jornada 3 de la Serie A, en directo",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260906/2381/juventus-milan-serie-a-ca-en-directo-ctx.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/01/26/65b39a64444e5.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El 'General' Fermín asombra en Mestalla",
-      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260906/11628612/general-fermin-asombra-mestalla.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/06/6a9da994190b8.r_d.2736-1824-820.jpeg",
       "tipo": "imagen"
     }
   ]
