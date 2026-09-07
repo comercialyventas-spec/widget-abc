@@ -1,21 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Test final a Tchouaméni",
+      "link": "https://okdiario.com/diariomadridista/real-madrid/test-final-tchouameni-658952",
+      "imagen": "https://okdiario.com/diariomadridista/img/2026/09/07/test-final-deportes-desk.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Pícnics improvisados, fútbol, reggaetón y negocios ambulantes: el atrezo del US Open",
+      "link": "https://okdiario.com/deportes/picnics-improvisados-futbol-reggaeton-negocios-ambulantes-atrezo-del-us-open-20245595",
+      "imagen": "https://okdiario.com/img/2026/09/07/usopen-ok.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Una ronda más: Granollers y Zeballos pasan a octavos del US Open sin necesidad de jugar su partido",
+      "link": "https://okdiario.com/deportes/ronda-mas-granollers-zeballos-pasan-octavos-del-us-open-sin-necesidad-jugar-partido-20245124",
+      "imagen": "https://okdiario.com/img/2026/09/07/granollers-8.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Getafe consigue un punto de oro con uno menos ante un Celta que lo intentó todo",
       "link": "https://okdiario.com/deportes/resumen-resultados-jornada-liga-ea-sports-19187329",
-      "imagen": "https://okdiario.com/img/2026/09/07/satriano-celebra-un-gol-en-el-getafe-celta-getty-960x539.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mbappé llega caliente a la Champions",
-      "link": "https://okdiario.com/diariomadridista/real-madrid/mbappe-llega-caliente-champions-658947",
-      "imagen": "https://okdiario.com/diariomadridista/img/2026/09/07/mbappe.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Raúl González narrará el Real Madrid-Inter: nuevo fichaje galáctico de Movistar Plus",
-      "link": "https://okdiario.com/diariomadridista/real-madrid/raul-gonzalez-narrara-real-madrid-inter-nuevo-fichaje-galactico-movistar-plus-659021",
-      "imagen": "https://okdiario.com/diariomadridista/img/2026/09/07/raul-gonzalez-blanco-getty.jpg",
+      "imagen": "https://okdiario.com/img/2026/09/07/satriano-celebra-un-gol-en-el-getafe-celta-getty.jpg",
       "tipo": "imagen"
     },
     {
@@ -25,15 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Shelton rompe el récord más longevo de la historia del tenis y se cita con Alcaraz en cuartos del US Open",
-      "link": "https://okdiario.com/deportes/shelton-rompe-record-mas-longevo-historia-del-tenis-cita-alcaraz-cuartos-del-us-open-20239704",
-      "imagen": "https://okdiario.com/img/2026/09/07/shelton.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "No es una semana",
-      "link": "https://okdiario.com/deportes/no-semana-mas-vuelta-decide-tres-etapas-enric-busca-gloria-granada-20241164",
-      "imagen": "https://okdiario.com/img/2026/09/07/no-es-una-semana-deportes-desk.jpg",
+      "titulo": "Mbappé llega caliente a la Champions",
+      "link": "https://okdiario.com/diariomadridista/real-madrid/mbappe-llega-caliente-champions-658947",
+      "imagen": "https://okdiario.com/diariomadridista/img/2026/09/07/mbappe.jpg",
       "tipo": "imagen"
     }
   ]
