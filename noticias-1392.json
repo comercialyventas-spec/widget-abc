@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de Nuevo Sureste de Madrid",
+      "link": "https://nuevosureste.es/capacidad-electrica-desarrollos-sureste/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/06/Imagen-aerea-de-las-pruebas-cedida-por-la-Junta-de-Compesacion-de-Los-Ahijones-1.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Accidentes de tráfico en Ensanche de Vallecas: dónde se producen, cómo y en qué meses",
       "link": "https://nuevosureste.es/accidentes-trafico-ensanche-de-vallecas-2026/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/Captura-de-pantalla-2026-09-01-a-las-9.35.26.png",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Los Servicios de Emergencias y Seguridad del Ayuntamiento de Madrid darán el pregón de las Fiestas de la Virgen de la Torre de Villa de Vallecas",
       "link": "https://nuevosureste.es/servicios-emergencia-pregoneros-villa-vallecas/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2025/05/c4d279d0-8d93-47b9-9fa3-c6f97150f1a6-1080x675.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La licitación del proyecto de la estación de Metro de Ahijones-Berrocales recibe un segundo recurso",
-      "link": "https://nuevosureste.es/segundo-recurso-estacion-ahijones-berrocales/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2024/06/Diseno-sin-titulo-2024-06-06T115250.704.jpg",
       "tipo": "imagen"
     }
   ]

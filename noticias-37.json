@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La puesta de sol de la ola de calor",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260907/11628831/puesta-sol-ola-calor.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/07/6a9e68086ff3b.r_d.1003-943-2338.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La marmota se refugia del calor",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260907/11628841/marmota-refugia-calor.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/07/6a9e6a682cde8.r_d.960-514-2338.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Calidoscopio en el Palau de la Música",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260907/11628497/calidoscopio-palau-musica.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/07/6a9e63a9d3bab.r_d.999-820-2338.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El anuncio de otro día sofocante",
-      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260907/11627990/anuncio-dia-sofocante.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/07/6a9e62c9ce9da.r_d.944-592-2338.jpeg",
       "tipo": "imagen"
     }
   ]
