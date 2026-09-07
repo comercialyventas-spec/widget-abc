@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La zona gris",
+      "link": "https://www.lavanguardia.com/cultura/20260907/11629643/zona-gris.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Barcelona recuerda el legado de Beatriz de Moura en la inauguración del Forum Edita",
       "link": "https://www.lavanguardia.com/cultura/20260907/11629494/barcelona-recuerda-legado-beatriz-moura-inauguracion-forum-edita.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/07/6a9f0ffa7cfb0.r_d.3014-2077-748.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Muriel Villanueva: “Con 50 libros siento que ya no tengo que demostrar nada como escritora”",
       "link": "https://www.lavanguardia.com/cultura/20260907/11629029/muriel-villanueva-50-libros-siento-demostrar-escritora.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/07/6a9e949609d18.r_d.2822-1927-806.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Oasis sugiere una parada en Barcelona durante una posible gira por Europa en 2027",
-      "link": "https://www.lavanguardia.com/cultura/musica/20260907/11628781/oasis-sugiere-parada-barcelona-posible-gira-europa-2027.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/07/6a9e557ff235c.r_d.965-166-0.jpeg",
       "tipo": "imagen"
     }
   ]

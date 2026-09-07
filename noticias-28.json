@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Las preguntas que hacerse",
+      "link": "https://www.lavanguardia.com/internacional/20260907/11629552/preguntas-hacerse.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Pentágono aplica pruebas de polígrafo a trabajadores del Estado Mayor Conjunto por filtraciones a la prensa",
       "link": "https://www.lavanguardia.com/internacional/20260907/11629392/pentagono-aplica-pruebas-poligrafo-trabajadores-mayor-conjunto-filtraciones-prensa.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2023/04/11/64348adcb6e5e.r_d.1024-682-0.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Hallan en Alemania nuevos artefactos explosivos caseros tras varios sabotajes contra la red eléctrica",
       "link": "https://www.lavanguardia.com/internacional/20260907/11629072/hallan-alemania-nuevos-artefactos-explosivos-caseros-sabotajes-red-electrica.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2013/05/11/5f9b20a8718a0.r_d.496-501-4526.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La ultraderechista AfD confía en que diputados de la CDU la apoyen para gobernar Sajonia-Anhalt",
-      "link": "https://www.lavanguardia.com/internacional/20260907/11629039/ultraderechista-afd-confia-diputados-cdu-apoyen-gobernar-sajonia-anhalt.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/07/6a9e95ac0ea27.r_d.2397-1445-936.jpeg",
       "tipo": "imagen"
     }
   ]
