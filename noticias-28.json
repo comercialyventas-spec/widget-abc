@@ -1,7 +1,13 @@
 {
   "noticias": [
     {
-      "titulo": "Ocho aeropuertos indonesios, cerrados por las erupciones volcánicas del fin de semana",
+      "titulo": "¿Por qué se estrelló el avión de Amazon en Miami?",
+      "link": "https://www.lavanguardia.com/internacional/20260907/11628790/estrello-avion-amazon-miami.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/07/6a9e510d4f0c4.r_d.720-405-3118.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Siete aeropuertos indonesios, cerrados por las erupciones volcánicas del fin de semana",
       "link": "https://www.lavanguardia.com/internacional/20260907/11628760/ocho-aeropuertos-indonesios-cerrados-erupciones-volcanicas-semana.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/07/6a9e38f006a07.jpeg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Muerte a los pirómanos de Argelia",
       "link": "https://www.lavanguardia.com/internacional/20260907/11627230/muerte-piromanos-argelia.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/04/6a9aa4558b44c.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Eclipse total",
-      "link": "https://www.lavanguardia.com/internacional/20260907/11626231/eclipse-total.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/03/6a99444023457.jpeg",
       "tipo": "imagen"
     }
   ]

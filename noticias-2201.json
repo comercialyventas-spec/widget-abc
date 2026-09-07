@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un avión de carga de Amazon se estrella en el aeropuerto de Miami",
+      "link": "<![CDATA[https://www.elperiodico.com/es/videos/internacional/avion-carga-amazon-estrella-aeropuerto/134020114.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f7bd561e-92c1-42c6-a7c6-d30d02cf0413_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La ultraderechista AfD arrasa en Sajonia-Anhalt y roza la mayoría absoluta",
       "link": "<![CDATA[https://www.elperiodico.com/es/videos/internacional/ultraderechista-afd-arrasa-sajonia-anhalt/134016490.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0891438e-5442-4e53-b2bd-6788ad7c87e4_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Cuba: Cómo cultivar y alimentar a un país sin combustible",
       "link": "<![CDATA[https://www.elperiodico.com/es/videos/internacional/cuba-cultivar-alimentar-pais-combustible/133874532.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/58b3dc1f-ebad-426f-96da-6e9380d8fc4a_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El momento de la doble explosión en un cuartel militar de Bolivia",
-      "link": "<![CDATA[https://www.elperiodico.com/es/videos/internacional/momento-doble-explosion-cuartel-militar-bolivia/133988965.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8b10425b-a805-4373-abb4-a2d82473e62c_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
