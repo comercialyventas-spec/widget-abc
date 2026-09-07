@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Cuando el deporte te quita la regla",
+      "link": "https://elpais.com/deportes/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4P66NOWWW5GTZMAQ47MIFEHAFI.png?auth=61c0dd2499eedfac556dde881c66553c5c4d3c9decb23135e42e864feb6fbcb3&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El maratón de Ciudad de México, entre la moda y el riesgo de la multitud",
       "link": "https://elpais.com/noticias/mexico-df/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/LCCCQ43AVBCKZEXAKYJ4MSUD54.jpg?auth=9b801623ccec56ba2191ec632934e10af76c94a913b432eef0affe686eda2cb4&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/LCCCQ43AVBCKZEXAKYJ4MSUD54.jpg?auth=9b801623ccec56ba2191ec632934e10af76c94a913b432eef0affe686eda2cb4&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Mondo Duplantis canta ‘Gold’, la banda sonora del campeonato de atletismo Ultimate",
       "link": "https://elpais.com/noticias/atletismo/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/SEDTLG5XJNC4PBEP3ZCYFUAVKM.jpg?auth=b0be52bad567dc3da617e0d2c8d08e0fdcb031b21b653f922718ba3cc72f0d96&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un lector, sobre el pazo de Meirás: “Una memoria encerrada no repara a nadie”",
-      "link": "https://elpais.com/autor/cartas-director/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/743KRBG3RVM25EYQR4IUXPZFTU.jpg?auth=0cab70c2f56b4e107395d245bc32cbd45ddeb5cf3c1347844511931268285a6f&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]
