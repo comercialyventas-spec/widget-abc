@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Eclipse total",
+      "link": "https://www.lavanguardia.com/internacional/20260907/11628568/eclipse-total.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/06/6a9da3405014b.r_d.817-1279-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Israel mata a una decena de civiles en nuevos ataques en Gaza y Líbano",
       "link": "https://www.lavanguardia.com/internacional/20260907/11628622/israel-mata-decena-civiles-nuevos-ataques-gaza-libano.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/06/6a9dbf35a2c71.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Al menos cinco muertos tras estrellarse un avión de Amazon cerca del aeropuerto de Miami",
       "link": "https://www.lavanguardia.com/internacional/20260907/11628756/cinco-muertos-estrellarse-avion-amazon-cerca-aeropuerto-miami.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/07/6a9de44ebd896.r_d.1875-2125-1329.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Zelenski teme que la guerra seguirá en invierno pese a la mediación de Trump",
-      "link": "https://www.lavanguardia.com/internacional/20260906/11628623/zelenski-teme-guerra-seguira-invierno-pese-mediacion-trump.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/06/6a9dbf857ef06.jpeg",
       "tipo": "imagen"
     }
   ]
