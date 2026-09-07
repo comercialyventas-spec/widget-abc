@@ -1,7 +1,13 @@
 {
   "noticias": [
     {
-      "titulo": "Tres personas heridas, dos graves, por una explosión en el laboratorio de la Facultad de Química de Tarragona",
+      "titulo": "Ruedo",
+      "link": "https://www.abc.es/espana/cataluna/ruedo-20260907150950-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/07/mani-RIIyj0I29XbzOv92oaTChSN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Explosión en la Facultad de Química de la Universidad de Tarragona: los heridos son técnicos de laboratorio y «están fuera de peligro»",
       "link": "https://www.abc.es/espana/cataluna/tres-personas-heridas-explosion-facultad-quimica-tarragona-20260907110751-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/07/lab-RSLoPVCHsqvvuWg2JGIjNoM-1200x840@diario_abc.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Las últimas vacaciones pagadas de Sánchez",
       "link": "https://www.abc.es/espana/cataluna/ceuta-tumba-sanchismo-20260907020321-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/07/san-RtN323zvTonS7WVN2mDDRxI-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un hombre resulta herido crítico tras saltar de un cuarto piso después de apuñalar a tres personas en Barcelona",
-      "link": "https://www.abc.es/espana/cataluna/hombre-resulta-herido-critico-tras-saltar-cuarto-20260906144352-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/06/lici-RzEseYilBkS3HR7YVlHK6aN-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
