@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Crisis de Ceuta",
+      "link": "https://www.elconfidencialdigital.com/album/el-chivato/crisis-de-ceuta/202609071725491039317.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/07/2026090717160156570.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Consejo de Seguridad Nacional",
       "link": "https://www.elconfidencialdigital.com/album/el-chivato/consejo-seguridad-nacional/202609011425311038360.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/01/2026090114265719940.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Regularización de inmigrantes",
       "link": "https://www.elconfidencialdigital.com/album/el-chivato/regularizacion-inmigrantes/202607060500001029378.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/07/03/2026070318083420046.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Movistar Estudiantes",
-      "link": "https://www.elconfidencialdigital.com/album/el-chivato/movistar-estudiantes/202607020500001028930.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/07/01/2026070119475191780.jpg",
       "tipo": "imagen"
     }
   ]
