@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "‘La mesa de Hora 25’, programa en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-09-07/la-mesa-de-hora-25-programa-en-el-pais.html",
+      "imagen": "https://www.youtube.com/watch?v=4osjlWXNXkI",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Raúl Cimas explica en la apertura de la Feria de Albacete el “urbanismo descriptivo” de la ciudad",
       "link": "https://elpais.com/videos/2026-09-07/raul-cimas-explica-en-la-apertura-de-la-feria-de-albacete-el-urbanismo-descriptivo-de-la-ciudad.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260907/1211841_170246_video_1800.mp4",
@@ -28,12 +34,6 @@
       "titulo": "El nuevo centro de acogida en el puerto de Ceuta y la desigualdad entre barrios: “En El Príncipe nos tienen abandonados”",
       "link": "https://elpais.com/espana/2026-09-06/el-nuevo-centro-de-acogida-en-el-puerto-de-ceuta-y-la-desigualdad-entre-barrios-en-el-principe-nos-tienen-abandonados.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260905/1211397_232846_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Del ‘600’ al ‘León’: los iconos de SEAT, “la marca con un ADN muy español”",
-      "link": "https://elpais.com/videos/2026-09-05/del-600-al-leon-los-iconos-del-seat-la-marca-con-un-adn-muy-espanol.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260904/1211137_205216_video_1800.mp4",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El ocaso de la Ría de Camariñas",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260907/11628982/ocaso-ria-camarinas.html",
+      "imagen": "https://www.lavanguardia.com/files/listing_main/files/fp/uploads/2026/09/07/6a9e8b88e0b18.r_d.1019-602-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Establecen un perímetro de seguridad por la fuga de una bombona de hidrógeno en El Prat",
       "link": "https://www.lavanguardia.com/local/baix-llobregat/20260907/11629478/establecen-perimetro-seguridad-fuga-bombona-hidrogeno-prat.html",
       "imagen": "https://www.lavanguardia.com/files/listing_main/files/fp/uploads/2025/07/26/6884bc5d1dc97.r_d.400-300-0.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Barcelona abre nuevos pisos temporales para personas sin hogar o en riesgo de exclusión",
       "link": "https://www.lavanguardia.com/local/barcelona/20260907/11629453/barcelona-abre-nuevos-pisos-temporales-personas-hogar-riesgo-exclusion.html",
       "imagen": "https://www.lavanguardia.com/files/listing_main/uploads/2026/09/07/6a9ef14b38ea8.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los Mossos investigan el hallazgo de un cadáver en una acequia del canal de Amposta",
-      "link": "https://www.lavanguardia.com/local/tarragona/20260907/11629454/mossos-investigan-hallazgo-cadaver-acequia-canal-amposta.html",
-      "imagen": "https://www.lavanguardia.com/files/listing_main/uploads/2017/10/02/5fa3e4d6f31b9.jpeg",
       "tipo": "imagen"
     }
   ]
