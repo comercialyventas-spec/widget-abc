@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Chefs Michelin firman la gastronomía del Gran Premio de F1 de Madrid",
+      "link": "https://www.abc.es/gastronomia/chefs-michelin-firman-gastronomia-gran-premio-madrid-20260907190306-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/07/chefsf1-R6RYbX3LfMa9Pk9UO8BO07N-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El nuevo gastronómico de Madrid escondido en uno de sus templos del ocio nocturno",
       "link": "https://www.abc.es/gastronomia/nuevo-gastronomico-madrid-escondido-templos-emblematicos-ocio-20260906182041-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/06/Espacio_01-RwC4T0wOemKmbQykJfXAl4K-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Restaurantes libaneses en Madrid: dónde disfrutar de esta vibrante cocina mediterránea",
       "link": "https://www.abc.es/gastronomia/restaurantes-libaneses-madrid-20260731011646-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/07/31/emsherif_hummus2-Rqa7PKRzOxUsoibx8I1H3fJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "5 nuevos restaurantes en Madrid para descubrir",
-      "link": "https://www.abc.es/gastronomia/nuevos-restaurantes-madrid-descubrir-semana-santa-20260328192714-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/03/28/oterraza_ap-RPJA5wkqHWzJ32YeJZivWQI-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

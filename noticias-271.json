@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "La UVa aumenta sus estudiantes por el alto precio del alquiler en Madrid",
+      "titulo": "Aumentan los estudiantes de la UVa por el alto precio del alquiler en Madrid",
       "link": "https://www.abc.es/espana/castilla-leon/uva-atrae-estudiantes-alto-precio-alquiler-madrid-20260907153516-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/07/garces-REvXWpUK7BwdQP9bczGZ3WM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Gago y Martín confirman sus candidaturas por el PSOE a las alcaldías de Zamora y Segovia",
+      "link": "https://www.abc.es/espana/castilla-leon/gago-martin-confirman-candidaturas-psoe-alcaldias-zamora-20260907155738-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/07/gago-martin-RXCCtkM7R3xlVq215WptpEP-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Carnero incluye en el próximo pleno las dos mociones sobre el «alcalde B» tras la resolución judicial que le obliga",
       "link": "https://www.abc.es/espana/castilla-leon/carnero-incluye-proximo-pleno-dos-mociones-sobre-20260907161842-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/07/jesus-julio-carnero-RwTqO2GGhnRNcMcM0vSnTsJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Cámara de Comercio advierte que Valladolid «no puede ser un alfoz de Madrid»",
-      "link": "https://www.abc.es/espana/castilla-leon/camara-comercio-advierte-valladolid-puede-alfoz-madrid-20260907161857-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/07/CARAMANZANA-R39EAfJIgw69HiHv2lYesUM-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
