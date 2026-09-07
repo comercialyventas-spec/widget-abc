@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Tiger Woods se queda sin carnet de conducir durante cinco años tras volcar su coche contra un camión el pasado marzo",
+      "link": "https://elpais.com/noticias/tiger-woods/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/V433Q4AQWZGENAMLQKUG2R3SHQ.jpg?auth=adccd532c38a1a36454c523aea7cea89a2322746eca687d5dcd9a315da4d379d&width=414&height=233&focal=1485%2C723",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "LIV Golf, la millonaria liga saudí, cierra por defunción hasta nuevo aviso",
       "link": "https://elpais.com/noticias/golf/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/AXSWGDBHR5BT7EH7B2L5ZN5LMQ.JPG?auth=4bb0b791c2a3126fc83c6c30414f70fa1a17209f069e847414c61eec85382cfc&width=414&height=233&focal=2770%2C793",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/AXSWGDBHR5BT7EH7B2L5ZN5LMQ.JPG?auth=4bb0b791c2a3126fc83c6c30414f70fa1a17209f069e847414c61eec85382cfc&width=414&height=311&focal=2770%2C793",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Arabia Saudí seguirá financiando fichajes de futbolistas tras abandonar su torneo de golf",
       "link": "https://elpais.com/noticias/liga-arabia-saudi/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/YKGBSVYG5ZOCBIZOPD7B575LOY.jpg?auth=5685179f19bb11ba794cc62d3b213ef219ad64f9f72a2db8b695b08c37a60ce0&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El golf pierde a Tiger Woods, pero tiene a Rory McIlroy",
-      "link": "https://elpais.com/noticias/masters-augusta/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/UUYZABKHXVGQRGHN77RBDYYKFE.jpg?auth=8386af4999ff9cdff8e6190d810b6d0fa88bf653d0f14f3fb0965859dcf42e28&width=414&height=311&focal=2874%2C765",
       "tipo": "imagen"
     }
   ]

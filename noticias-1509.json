@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Hey. España es competente",
+      "link": "https://www.eldiario.es/opinion/tribuna-abierta/hey-espana-competente_129_13493696.html",
+      "imagen": "https://static.eldiario.es/clip/f57aa5f4-e324-41e5-a26d-45af89a6a82a_avatar-200-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ramón Espinar Gallego, mi padre",
       "link": "https://www.eldiario.es/opinion/tribuna-abierta/ramon-espinar-gallego-padre_129_13489844.html",
       "imagen": "https://static.eldiario.es/clip/9f570f79-9c12-402a-8959-449f44957d43_avatar-200-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "¿Es la tauromaquia de derechas?",
       "link": "https://www.eldiario.es/opinion/tribuna-abierta/tauromaquia-derechas_129_13479303.html",
       "imagen": "https://static.eldiario.es/clip/249ac4bd-0caf-45d6-b7c5-500e9ff7c847_avatar-200-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ceuta: la pregunta que no nos estamos haciendo",
-      "link": "https://www.eldiario.es/opinion/tribuna-abierta/ceuta-pregunta-no-haciendo_129_13477626.html",
-      "imagen": "https://static.eldiario.es/clip/f996e18c-6c6c-49ad-bf0d-7e060142e1c0_avatar-200-aspect-ratio_default_0.jpeg",
       "tipo": "imagen"
     }
   ]
