@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Vídeos de ajedrez | La derrota ante Stein que Korchnói rescató del olvido",
+      "link": "https://elpais.com/ajedrez/videos/2026-09-07/videos-de-ajedrez-la-derrota-ante-stein-que-korchnoi-rescato-del-olvido.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260713/1194454_083237_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en EL PAÍS | Programa del 7 de septiembre de 2026",
       "link": "https://elpais.com/videos/2026-09-07/el-pulso-de-hoy-por-hoy-en-directo-en-el-pais.html",
       "imagen": "https://www.youtube.com/watch?v=O1YOwUg2snA",
@@ -28,12 +34,6 @@
       "titulo": "‘La mesa de Hora 25’, en EL PAÍS | Programa del 4 de septiembre de 2026",
       "link": "https://elpais.com/videos/2026-09-04/la-mesa-de-hora-25-programa-en-el-pais.html",
       "imagen": "https://www.youtube.com/watch?v=wGdQdzXxtoU",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en EL PAÍS| Programa del 4 de septiembre de 2026",
-      "link": "https://elpais.com/videos/2026-09-04/el-pulso-de-hoy-por-hoy-en-directo-en-el-pais.html",
-      "imagen": "https://www.youtube.com/watch?v=kwze-s7gWI0",
       "tipo": "imagen"
     }
   ]
