@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El anuncio de otro día sofocante",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260907/11627990/anuncio-dia-sofocante.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/07/6a9e62c9ce9da.r_d.944-592-2338.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El tren invisible de Vic",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260907/11628784/tren-invisible-vic.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/07/6a9e61e99c923.r_d.1033-922-2338.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "El polvo sahariano de la playa de L'Estartit",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260907/11628798/polvo-sahariano-playa-l-estartit.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/07/6a9e5dd43ad42.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El amanecer desde los Jardines de Miramar",
-      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260907/11628785/amanecer-jardines-miramar.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/07/6a9e5596d4377.r_d.1039-678-2338.jpeg",
       "tipo": "imagen"
     }
   ]
