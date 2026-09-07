@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Señal de alarma para las democracias",
+      "link": "https://elpais.com/opinion/2026-09-07/senal-de-alarma-para-las-democracias.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/EM5VFERMNVHW7O4W2OBDGVTKW4.jpg?auth=8f3accb2f5bd26fd7880a7bb54717260ae3cb03322f349f01f08e97d85dfb4ba",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El excremento del diablo",
       "link": "https://elpais.com/opinion/2026-09-07/el-excremento-del-diablo.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/KHF7O4R5MNEBVOMOVSHEIXJA4I.jpg?auth=d77a0c34bce946dbaf9b6859406bc8ac7366d5d0a7aefde51de646d3cd1c88f7",
@@ -28,12 +34,6 @@
       "titulo": "Peridis: y todo se te dará",
       "link": "https://elpais.com/opinion/2026-09-07/peridis-y-todo-se-te-dara.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/H4DDLTRPSVFPJO4FBTYMFQ2YVA.jpg?auth=7bae5ac894924748cfbd44a82a5b7952e71077ea8e4278743cd5b52251111e97",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El filósofo Rawls y el ministro España",
-      "link": "https://elpais.com/opinion/2026-09-07/el-filosofo-rawls-y-el-ministro-espana.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/PENO452S25D3ZOQIVQE3REBWJE.jpg?auth=58aa882d226a1e88336c3013a4521639329796c6919d6ab1a09182a4cc8a18c0",
       "tipo": "imagen"
     }
   ]

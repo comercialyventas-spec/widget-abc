@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Registrado un incendio en una planta de residuos de Alhendín",
+      "link": "https://www.ahoragranada.com/noticias/registrado-un-incendio-en-una-planta-de-residuos-de-alhendin/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Incendio-Planta-Reciclaje-Alhendin-02.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La semana avanza con cielos despejados en Granada",
       "link": "https://www.ahoragranada.com/noticias/la-semana-avanza-con-cielos-despejados-en-granada/",
       "imagen": "",
@@ -28,12 +34,6 @@
       "titulo": "Más de 35 proyectos protagonizan la segunda edición del Festival de Cine Flamenco de Granada",
       "link": "https://www.ahoragranada.com/noticias/mas-de-35-proyectos-protagonizan-la-segunda-edicion-del-festival-de-cine-flamenco-de-granada/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Festival-Flamenco-Granada.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El PSOE de Granada traza su hoja de ruta para ganar en \"todos los municipios\" y recuperar la Diputación",
-      "link": "https://www.ahoragranada.com/noticias/el-psoe-de-granada-traza-su-hoja-de-ruta-para-ganar-en-todos-los-municipios-y-recuperar-la-diputacion/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Inicio-del-curso-politico-PSOE.jpeg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Guardia Civil",
+      "link": "https://www.elconfidencialdigital.com/album/guardia-civil/guardia-civil/202609071627081039307.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/07/2026090713363740099.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Perfumes Mercadona",
       "link": "https://www.elconfidencialdigital.com/album/mercadona/perfumes-mercadona/202609071302021039281.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/07/2026090712533425757.png",
@@ -28,12 +34,6 @@
       "titulo": "Ángeles Blanco",
       "link": "https://www.elconfidencialdigital.com/album/medios/angeles-blanco/202609070500001038979.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/04/2026090414194987322.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El ministro de Cultura, Ernest Urtasun",
-      "link": "https://www.elconfidencialdigital.com/album/politica/ministro-cultura-ernest-urtasun/202609060500001038948.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/06/26/2026062615035277942.jpg",
       "tipo": "imagen"
     }
   ]
