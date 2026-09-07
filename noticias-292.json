@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La línea roja de 'Cronos'",
+      "link": "https://www.abc.es/cultura/linea-roja-cronos-20260906014804-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/06/CRONOSOK-RHpjTXkmp54es35ODCxUlpK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La musa del existencialismo",
       "link": "https://www.abc.es/cultura/cultural/musa-existencialismo-20260907000913-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/07/Greco-RcmNVXCcdcfjNsKh3L3fhAO-1200x840@diario_abc.jpg",
@@ -29,12 +35,6 @@
       "link": "https://www.abc.es/cultura/reloj-hermano-20260906010047-nt.html",
       "imagen": "",
       "tipo": ""
-    },
-    {
-      "titulo": "Juan Ortega hace el toreo en el regreso de la Goyesca",
-      "link": "https://www.abc.es/cultura/toros/sevilla/juan-ortega-toreo-regreso-goyesca-20260905212354-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/05/salida-hombros-goyesca-kSWC-U301588913077UMD-1200x840@diario_abc.jpeg",
-      "tipo": "imagen"
     }
   ]
 }
