@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Apocalipsis Trump",
+      "link": "https://www.publico.es/especiales/apocalipsis-trump",
+      "imagen": "https://www.publico.es/files/image_square_mobile/uploads/2026/09/04/6a9ab5b5b4d10.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El desguace de la sanidad pública",
       "link": "https://www.publico.es/especiales/desguace-sanidad-publica",
       "imagen": "https://www.publico.es/files/image_square_mobile/uploads/2026/04/13/69dc86ac7546b.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Autoritarismo y reacción",
       "link": "https://www.publico.es/especiales/autoritarismo-y-reaccion",
       "imagen": "https://www.publico.es/files/image_square_mobile/uploads/2026/03/17/69b9196011c5f.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Turismocracia",
-      "link": "https://www.publico.es/especiales/turismocracia",
-      "imagen": "https://www.publico.es/files/image_square_mobile/uploads/2025/03/04/67c6ec9467d34.jpeg",
       "tipo": "imagen"
     }
   ]

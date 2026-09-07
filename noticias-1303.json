@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Ceuta, la farsa en el tablero",
+      "link": "https://www.mediterraneodigital.com/opinion/columnistas-de-opinion/jordi-garriga/ceuta",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/9/ceuta.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ceuta, soldados desarmados",
+      "link": "https://www.mediterraneodigital.com/opinion/columnistas-de-opinion/ramiro-grau/ceuta-militares",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/8/militares-ceuta.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Felipe VI: el último Borbón",
       "link": "https://www.mediterraneodigital.com/opinion/columnistas-de-opinion/ramiro-grau/felipe-vi",
       "imagen": "https://www.mediterraneodigital.com/images/2026/8/rey-juan-carlos-felipe-vi.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Entre la salud y la paguita",
       "link": "https://www.mediterraneodigital.com/opinion/columnistas-de-opinion/jordi-garriga/bajas-laborales",
       "imagen": "https://www.mediterraneodigital.com/images/2026/8/baja-laboral.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ceuta, la última frontera",
-      "link": "https://www.mediterraneodigital.com/opinion/columnistas-de-opinion/ramiro-grau/ceuta",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/8/guardia-civil-ceuta.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Margarita Robles, o el cinismo y la hipocresía",
-      "link": "https://www.mediterraneodigital.com/opinion/columnistas-de-opinion/ramiro-grau/margarita-robles",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/8/pedro-sanchez-margarita-robles.jpg",
       "tipo": "imagen"
     }
   ]

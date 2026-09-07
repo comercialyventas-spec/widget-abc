@@ -2,6 +2,24 @@
   "noticias": [
     {
       "titulo": "Noticias de Nuevo Sureste de Madrid",
+      "link": "https://nuevosureste.es/accidentes-trafico-ensanche-de-vallecas-2026/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/Captura-de-pantalla-2026-09-01-a-las-9.35.26.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Villa de Vallecas celebra sus Fiestas en Honor a la Virgen de la Torre",
+      "link": "https://nuevosureste.es/villa-de-vallecas-fiestas-virgen-de-la-torre/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2025/05/20624488-f595-4f25-b6fa-ea581a8813b0-1.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Ensanche de Vallecas estrena la Biblioteca Benjamín Palencia",
+      "link": "https://nuevosureste.es/apertura-biblioteca-benjamin-palencia/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/08/Hemeroteca-2-1080x675.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Comunidad alerta de que la falta de capacidad eléctrica puede afectar al desarrollo de nuevas viviendas en el sureste",
       "link": "https://nuevosureste.es/suministro-electrico-rocio-albert/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/La-consejera-de-Economia-Rocio-Albert-durante-su-reciente-visita-a-Arganda-foto-Nuevo-Sureste.jpg",
       "tipo": "imagen"
@@ -16,24 +34,6 @@
       "titulo": "La licitación del proyecto de la estación de Metro de Ahijones-Berrocales recibe un segundo recurso",
       "link": "https://nuevosureste.es/segundo-recurso-estacion-ahijones-berrocales/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2024/06/Diseno-sin-titulo-2024-06-06T115250.704.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La EMT incorpora nuevas paradas en las líneas E5 y 159 de El Cañaveral",
-      "link": "https://nuevosureste.es/nuevas-paradas-autobus-el-canaveral/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2025/01/Autobus-de-la-linea-159-de-EMT-Madrid-fuente-EMT-Madrid.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La futura estación de Ahijones-Berrocales no conoce aún su ubicación definitiva",
-      "link": "https://nuevosureste.es/ubicacion-estacion-metro-ahijones-berrocales/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2024/10/Transbordo-en-la-linea-9B-de-Metro-fuente-Ayuntamiento-de-Rivas-Vaciamadrid.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "De 945 a 27.014 empadronados: esta es la evolución de la población de El Cañaveral en los últimos años",
-      "link": "https://nuevosureste.es/evolucion-poblacion-el-canaveral/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/08/Captura-de-pantalla-2026-08-27-a-las-17.16.32-1080x570.png",
       "tipo": "imagen"
     }
   ]

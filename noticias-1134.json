@@ -1,10 +1,16 @@
 {
   "noticias": [
     {
+      "titulo": "Hoy no cerramos",
+      "link": "https://elpais.com/opinion/2026-09-06/hoy-no-cerramos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ALZUM3LZG5A55IYNUK5PTKCGO4.jpg?auth=340ec45290afab17e9e485cb6babe9060d4b64f8b1792123db38dd07e6fcef2d&width=414",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Antes de recuperar mi nombre",
       "link": "https://elpais.com/defensor-a-del-lector/2026-07-05/antes-de-recuperar-mi-nombre.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/DB2E5L42TND5JDSVI3LSBAFCZY.jpg?auth=711c35769c2b00e75364c0300e11b9a52d4f560ffe5b393c3edde2a5ac11569d&width=414",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Ni un paso atrás contra la crisis climática",
@@ -15,18 +21,12 @@
     {
       "titulo": "Condenados a informar",
       "link": "https://elpais.com/defensor-a-del-lector/2026-06-14/condenados-a-informar.html",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://imagenes.elpais.com/resizer/v2/GAPNMRXJCNCW5IFSS6MNV3IIMM.jpg?auth=28e4cad73ff0d256343b545385479fca5d4f8cc61725354cf013338d487d6bbe&width=414&height=233&focal=1174%2C788",
+      "tipo": "imagen"
     },
     {
       "titulo": "Un ejercicio práctico sobre el conflicto de intereses en la Redacción",
       "link": "https://elpais.com/defensor-a-del-lector/2026-05-31/un-ejercicio-practico-sobre-el-conflicto-de-intereses-en-la-redaccion.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/EUW76HX24NBWXMG3GYMOCLSKEE.jpg?auth=f347c982dc5c48a7efc4d348be883d516e2e2a134259ca06a6d4cc4903b002ec&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El declive del quiosco se cierne sobre el papel",
-      "link": "https://elpais.com/defensor-a-del-lector/2026-05-17/el-declive-del-quiosco-se-cierne-sobre-el-papel.html",
       "imagen": "",
       "tipo": ""
     },

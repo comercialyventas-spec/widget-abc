@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Ni bombas ni electricidad externa: una empresa estadounidense fabrica unos pequeños gránulos de boro capaces de mantener apagado un reactor nuclear de 700 toneladas durante una emergencia",
+      "link": "https://okdiario.com/techy/nuscale-reactor-us460-boro-sin-bombas-seguridad-20241345",
+      "imagen": "https://okdiario.com/img/2026/09/07/nuscale-us460-reactor-modular-seguridad-pasiva-boro.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Sin cables ni placas en el tejado: un panel solar instalado en Murcia ya puede abaratar la factura de una casa en Italia y más de 120.000 clientes ya lo han contratado",
+      "link": "https://okdiario.com/techy/sin-cables-ni-placas-tejado-panel-solar-instalado-murcia-ya-puede-abaratar-factura-casa-italia-mas-120-000-clientes-ya-lo-han-contratado-20240129",
+      "imagen": "https://okdiario.com/img/2026/09/07/paneles-solares-energia-virtual-espana-italia.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Dos jóvenes españoles crean un robot con inteligencia artificial que sabe cuándo una pitaya está madura y consigue recoger más del 75% sin destrozar la fruta",
+      "link": "https://okdiario.com/techy/dos-jovenes-espanoles-crean-robot-inteligencia-artificial-que-sabe-cuando-pitaya-esta-madura-consigue-recoger-mas-del-75-sin-destrozar-fruta-20236543",
+      "imagen": "https://okdiario.com/img/2026/09/06/dragonbot-robot-pitaya-inteligencia-artificial-upv.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Nuevo golpe a los agricultores venezolanos: un barco llega con 30.000 toneladas de arroz y azúcar importados en plena cosecha",
+      "link": "https://okdiario.com/techy/nuevo-golpe-agricultores-venezolanos-barco-llega-30-000-toneladas-arroz-azucar-importados-plena-cosecha-20228309",
+      "imagen": "https://okdiario.com/img/2026/09/04/barco-descarga-arroz-azucar-puerto-venezuela-guaranao.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Nokia lanza un móvil que aguanta hasta 40 días en espera, tiene batería extraíble y también puede cargar otros dispositivos",
       "link": "https://okdiario.com/techy/nokia-lanza-movil-que-aguanta-hasta-40-dias-espera-tiene-bateria-extraible-tambien-puede-cargar-otros-dispositivos-20223771",
       "imagen": "https://okdiario.com/img/2026/09/03/nokia-300-charge-40-dias-bateria-nokia-1100.jpg",
@@ -10,30 +34,6 @@
       "titulo": "Esto no es IA: un niño andorrano nace sin parte de un brazo y se le ocurre construir su primera prótesis con LEGO a los 9 años",
       "link": "https://okdiario.com/techy/david-aguilar-protesis-lego-9-anos-record-guinness-20222171",
       "imagen": "https://okdiario.com/img/2026/09/03/david-aguilar-protesis-lego-record-guinness.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un dron submarino descendió a 5.600 metros y encontró un diente de 13 cm de un megalodón, recubierto por capas de metal acumuladas durante millones de años",
-      "link": "https://okdiario.com/techy/dron-submarino-descendio-hasta-llanura-abisal-unos-5-600-metros-profundidad-islas-cook-encontro-diente-13-centimetros-posiblemente-perteneciente-megalodon-recubierto-p-20215590",
-      "imagen": "https://okdiario.com/img/2026/09/02/diente-megalodon-islas-cook-noaa-13-centimetros.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Zuckerberg contradice a Bill Gates sobre el futuro de la IA: “Creo que la gente asume que eso es inevitable”",
-      "link": "https://okdiario.com/techy/zuckerberg-contradice-bill-gates-sobre-futuro-ia-creo-que-gente-asume-que-eso-inevitable-20211311",
-      "imagen": "https://okdiario.com/img/2026/09/01/mark-zuckerberg-inteligencia-artificial-futuro.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "EEUU presenta Inferno RTC, una torre giratoria de apenas 40 kilos con más de 54 cañones que escucha los drones en lugar de usar radar y promete reaccionar en menos de tres segundos cuando se acercan demasiado",
-      "link": "https://okdiario.com/techy/inferno-rtc-torre-antidron-54-canones-enjambres-drones-20210143",
-      "imagen": "https://okdiario.com/img/2026/09/01/inferno-rtc-torre-antidron-54-canones-estados-unidos.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Adiós confirmado al Asistente de Google en Android: Google pone fecha al final y Gemini tomará el control en septiembre",
-      "link": "https://okdiario.com/techy/adios-confirmado-asistente-google-android-google-pone-fecha-final-gemini-tomara-control-septiembre-20200726",
-      "imagen": "https://okdiario.com/img/2026/08/31/google-assistant-desaparece-android-gemini-septiembre-2026.jpg",
       "tipo": "imagen"
     }
   ]

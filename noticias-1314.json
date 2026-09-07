@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Ceuta, la farsa en el tablero",
+      "link": "https://www.mediterraneodigital.com/opinion/columnistas-de-opinion/jordi-garriga/ceuta",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/9/ceuta.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Entre la salud y la paguita",
       "link": "https://www.mediterraneodigital.com/opinion/columnistas-de-opinion/jordi-garriga/bajas-laborales",
       "imagen": "https://www.mediterraneodigital.com/images/2026/8/baja-laboral.jpg",
@@ -28,12 +34,6 @@
       "titulo": "¿Qué significa hoy ser español?",
       "link": "https://www.mediterraneodigital.com/opinion/columnistas-de-opinion/jordi-garriga/ser-espanol",
       "imagen": "https://www.mediterraneodigital.com/images/2024/2/nacionalidad-española.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La fábrica de sueños... repetitivos",
-      "link": "https://www.mediterraneodigital.com/opinion/columnistas-de-opinion/jordi-garriga/el-diablo-viste-de-prada",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/4/el-diablo-viste-de-prada.jpg",
       "tipo": "imagen"
     }
   ]

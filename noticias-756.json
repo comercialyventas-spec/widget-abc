@@ -1,15 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Telefónica y sus exposiciones seguirán (al menos) tres años más en la Gran Vía",
+      "link": "https://www.eldiario.es/madrid/somos/telefonica-exposiciones-seguiran-tres-anos-gran-via_1_13486561.html",
+      "imagen": "https://static.eldiario.es/clip/72147758-3041-4d11-978c-ede2ef0d5d58_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un incendio en un edificio de la calle San Roque obliga a desalojar a sus vecinos y cubre de humo Malasaña",
       "link": "https://www.eldiario.es/madrid/somos/malasana/incendio-edificio-calle-san-roque-obliga-desalojar-vecinos-cubre-humo-malasana_1_13484128.html",
-      "imagen": "https://static.eldiario.es/clip/23569770-385b-410f-9ff8-fe46c21e8bd7_16-9-discover-aspect-ratio_default_0.jpg",
+      "imagen": "https://static.eldiario.es/clip/23569770-385b-410f-9ff8-fe46c21e8bd7_16-9-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
       "titulo": "Telefónica firma la venta de su centenario edificio de Gran Vía a Tomás Olivo, el impulsor de Valdebebas Shopping",
       "link": "https://www.eldiario.es/madrid/somos/telefonica-firma-venta-centenario-edificio-gran-via-tomas-olivo-impulsor-valdebebas-shopping_1_13482644.html",
-      "imagen": "https://static.eldiario.es/clip/24eb66b6-f688-431e-b933-0022ce008c22_16-9-aspect-ratio_default_0.jpg",
+      "imagen": "https://static.eldiario.es/clip/24eb66b6-f688-431e-b933-0022ce008c22_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "La Casa de Alba negocia con sus inquilinos junto al Palacio de Liria prorrogar los alquileres hasta el año 2030",
       "link": "https://www.eldiario.es/madrid/somos/malasana/casa-alba-negocia-inquilinos-palacio-liria-prorrogar-alquileres-ano-2030_1_13396202.html",
       "imagen": "https://static.eldiario.es/clip/3689e96f-ee7a-477f-ae0f-c8fb47e1d561_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La vida se puede respirar de otra manera",
-      "link": "https://www.eldiario.es/madrid/somos/blogs/stories-matritenses/vida-respirar-manera_132_13388718.html",
-      "imagen": "https://static.eldiario.es/clip/6a9eade9-3817-4fe4-84cf-61741654c44b_16-9-discover-aspect-ratio_default_0_x595y1275.jpg",
       "tipo": "imagen"
     }
   ]
