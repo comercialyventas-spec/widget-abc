@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Asesinato en el norte",
+      "link": "https://elpais.com/television/series/asesinato-en-el-norte/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NWIKEUHBQVHKBJSUGA5SNVT2XI.jpg?auth=2f0bbd7349aee1ee30925a8cd2e2bf546d529fbcd7e1c9f5ad5e0e358dbc5904",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El cineasta Rob Reiner recibe un Emmy póstumo por la serie ‘The Bear’",
       "link": "https://elpais.com/television/series/2026-09-07/el-cineasta-rob-reiner-recibe-un-emmy-postumo-por-la-serie-the-bear.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/T4DV2KVF2FBV7KDBF5Q2WRU4HA.jpg?auth=69e78aef7e48fa738967dfc1ef2e2368e0e890fa7a0ddf7fb9cdd0a05da58352",
@@ -28,12 +34,6 @@
       "titulo": "El secreto",
       "link": "https://elpais.com/television/series/el-secreto/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/R5ARCZYNGJCBXETTJBY3BOZIGY.jpg?auth=96d33e7de60b308c1f75eedacf1b488c05f26e589016450fe44c4bdf4850c200",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Historia de dos ciudades",
-      "link": "https://elpais.com/television/series/historia-de-dos-ciudades/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/R5IVW24RFFBSJCZGKIU6KYQCYI.jpg?auth=6f5debefd805321d2fe100d878dee33ebe0626fc268cbb386f41852b52558e7f",
       "tipo": "imagen"
     }
   ]
