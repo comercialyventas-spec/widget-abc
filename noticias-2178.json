@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Tres heridos en una explosión en un laboratorio de la Facultad de Química de la URV en Tarragona",
+      "link": "<![CDATA[https://www.elperiodico.com/es/tarragona/20260907/tres-heridos-explosion-laboratorio-facultad-134022653",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/1c443bad-e272-46ca-9f89-75cef5c622e3_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Vuelta al cole, en directo: última hora de la huelga de profesores, regreso de los alumnos y próximos resultados PISA",
       "link": "<![CDATA[https://www.elperiodico.com/es/sociedad/20260907/vuelta-colegio-profesores-ultima-hora-directo-133908416",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/29f0aa1e-a815-4d6e-9263-77751ea7e15d_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Última hora y actualidad sobre los incendios en España",
       "link": "<![CDATA[https://www.elperiodico.com/es/sociedad/20260822/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ead16172-96ba-43a9-83ab-bcf2a8974f27_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Catalunya empieza el curso con huelga y sin paz social: la escuela afronta otro año de tensión",
-      "link": "<![CDATA[https://www.elperiodico.com/es/sociedad/20260907/catalunya-vuelta-cole-huelga-profesores-sin-colonias-resultados-pisa-calor-aulas-133935514",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d252a6c2-fef8-4285-8d0d-ea39fd8feee4_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
