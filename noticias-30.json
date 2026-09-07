@@ -1,7 +1,19 @@
 {
   "noticias": [
     {
-      "titulo": "Un verano negro en las carreteras con 240 muertos, un 10% más que en 2025",
+      "titulo": "La ONU advierte de que la inteligencia artificial podría suponer un “riesgo existencial” para la humanidad",
+      "link": "https://www.lavanguardia.com/vida/20260907/11629047/onu-advierte-inteligencia-artificial-suponer-riesgo-existencial-humanidad.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/04/16/69e0ad4e6fdb1.r_d.1060-707-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Educación inicia el curso con más de 1.600 centros instalando aires acondicionados",
+      "link": "https://www.lavanguardia.com/local/valencia/20260907/11629040/educacion-inicia-curso-mas-1-600-centros-instalando-aires-acondicionados.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/06/04/6a2160b21aff9.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un verano negro en las carreteras con 240 muertos, un 4% más que en 2025",
       "link": "https://www.lavanguardia.com/vida/20260907/11629017/verano-negro-carreteras-240-muertos-10-mas-2025.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/17/6a82dc1ccafe3.r_d.858-451-0.jpeg",
       "tipo": "imagen"
@@ -22,18 +34,6 @@
       "titulo": "Finlandia comienza el juicio contra un hombre acusado de delitos sexuales contra 361 menores de edad",
       "link": "https://www.lavanguardia.com/vida/20260907/11628787/finlandia-comienza-juicio-hombre-acusado-delitos-sexuales-361-menores-edad.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2017/08/19/5fa3ce3c0fe82.r_d.495-279-4530.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El primer día de curso empieza en Catalunya con huelga: manifestaciones y qué piden los docentes",
-      "link": "https://www.lavanguardia.com/vida/20260907/11628805/inicio-curso-catalunya-huelga-que-piden-profesores.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/07/21/687eb27fb0c80.r_d.2048-1365-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Lavadoras que cuidan la ropa, neveras que dicen qué les falta y hornos que no queman pasteles: la IA llega a los electrodomésticos",
-      "link": "https://www.lavanguardia.com/vida/20260907/11628609/lavadoras-cuidan-ropa-neveras-dicen-que-les-falta-hornos-queman-pasteles-ia-llega-electrodomesticos.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/06/6a9da0b2a5f9a.r_d.826-1264-2245.jpeg",
       "tipo": "imagen"
     }
   ]
