@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Ángeles Blanco",
+      "link": "https://www.elconfidencialdigital.com/album/medios/angeles-blanco/202609070500001038979.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/04/2026090414194987322.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Pombo",
       "link": "https://www.elconfidencialdigital.com/album/medios/pombo/202609041300001038840.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/03/2026090318012750520.jpg",
@@ -28,12 +34,6 @@
       "titulo": "'El Rosco' de Mediaset",
       "link": "https://www.elconfidencialdigital.com/album/medios/rosco-mediaset/202607240500001032873.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/07/23/2026072318360355627.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Luján Argüelles",
-      "link": "https://www.elconfidencialdigital.com/album/medios/lujan-argue/202609021300001038397.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/01/2026090115504738042.jpg",
       "tipo": "imagen"
     }
   ]
