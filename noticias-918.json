@@ -1,7 +1,19 @@
 {
   "noticias": [
     {
-      "titulo": "Nelio Biedermann, el veinteañero suizo convertido en fenómeno internacional: \"Sabemos que vamos a morir, pero vivimos como si todo fuera infinito\"",
+      "titulo": "\"Estos chicos serán un día más grandes que Elvis Presley\"",
+      "link": "https://www.elmundo.es/la-lectura/2026/09/08/6a904f47e85ece6b768b458e.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/31/17881754737959.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Mitos y verdades de por qué la inteligencia artificial nunca podrá ser humana",
+      "link": "https://www.elmundo.es/la-lectura/2026/09/08/6a96e641e85ecec2548b456d.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/01/17882746894461.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "\"Sabemos que vamos a morir, pero vivimos como si todo fuera infinito\"",
       "link": "https://www.elmundo.es/la-lectura/2026/09/07/6a95736be9cf4a99768b4589.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/31/17881802311692.jpg",
       "tipo": "imagen"
@@ -9,30 +21,18 @@
     {
       "titulo": "10 exposiciones para un otoño con Dalí en el diván, Munch en Málaga y un buen ¡olé!",
       "link": "https://www.elmundo.es/la-lectura/2026/09/06/6a91a49ee4d4d80a7d8b45ae.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/28/17879295665798.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una nueva mitología isleña en la mirada de Andrea Abreu",
-      "link": "https://www.elmundo.es/la-lectura/2026/09/07/6a96e171fc6c838b1d8b4587.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/01/17882745844745.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "De Verdi a Purcell, las 10 citas y óperas de este otoño",
-      "link": "https://www.elmundo.es/la-lectura/2026/09/06/6a8f0739fdddff5c158b45b3.html",
       "imagen": "",
       "tipo": ""
     },
     {
-      "titulo": "Bardem debuta sobre las tablas, vuelven Pablo Remón y Javier Cámara: estas son las 10 obras que no te puedes perder este otoño",
-      "link": "https://www.elmundo.es/la-lectura/2026/09/06/6a957f3a21efa00a468b4590.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/31/17881851917734.jpg",
-      "tipo": "imagen"
+      "titulo": "Una nueva mitología isleña en la mirada de Andrea Abreu",
+      "link": "https://www.elmundo.es/la-lectura/2026/09/07/6a96e171fc6c838b1d8b4587.html",
+      "imagen": "",
+      "tipo": ""
     },
     {
-      "titulo": "Iván Torres, vocalista de Efecto Pasillo: \"Sigo sin entender que la fama no vaya asociada a un talento real\"",
-      "link": "https://www.elmundo.es/la-lectura/2026/09/06/6a914de3e85ece3f548b45a6.html",
+      "titulo": "De Verdi a Purcell, las 10 citas y óperas de este otoño",
+      "link": "https://www.elmundo.es/la-lectura/2026/09/06/6a8f0739fdddff5c158b45b3.html",
       "imagen": "",
       "tipo": ""
     }
