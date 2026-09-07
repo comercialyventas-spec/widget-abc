@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Tres heridos en una explosión en la Facultad de Química de Tarragona",
+      "link": "https://okdiario.com/cataluna/tres-heridos-explosion-facultad-quimica-tarragona-20240800",
+      "imagen": "https://okdiario.com/img/2026/09/07/imagen_recortada-34.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cielo despejado y ligero descenso de temperaturas en Barcelona, según AEMET",
       "link": "https://okdiario.com/cataluna/cielo-despejado-y-ligero-descenso-de-temperaturas-en-barcelona-segun-aemet-20239591",
       "imagen": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El pueblo de Cataluña con apenas 2.000 habitantes que enamoró a Eva Longoria: está rodeado de masías y tesoros arquitectónicos",
       "link": "https://okdiario.com/cataluna/pueblo-cataluna-apenas-2-000-habitantes-que-enamoro-eva-longoria-esta-rodeado-masias-tesoros-arquitectonicos-20224494",
       "imagen": "https://okdiario.com/img/2026/09/03/castell-de-peralada.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "AEMET prevé sol y viento moderado en Barcelona hoy, con aumento de temperaturas",
-      "link": "https://okdiario.com/cataluna/aemet-preve-sol-y-viento-moderado-en-barcelona-hoy-con-aumento-de-temperaturas-20219778",
-      "imagen": "https://okdiario.com/img/2026/09/03/mujer-se-protege-del-sol-ante-la-mejora-del-tiempo.-europa-press.jpg",
       "tipo": "imagen"
     }
   ]

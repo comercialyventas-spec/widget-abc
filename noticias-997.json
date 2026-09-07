@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Vivas, arropado en Madrid: «Estoy convencido de que detrás del golpe está Marruecos»",
+      "link": "https://www.abc.es/espana/vivas-arropado-madrid-convencido-detras-golpe-marruecos-20260907102800-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/07/1516934014-RFuabdVDpJsUZx8CFPjwkgN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Princesa Leonor llega a su primer día en la Universidad Carlos III entre una gran expectación",
       "link": "https://www.abc.es/espana/casa-real/princesa-leonor-llega-primer-dia-universidad-carlos-20260907092131-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/07/leo-RQAyUjSu4X01GkPfDGLGEBL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un aspirante a bombero se cambia de sexo para optar a una plaza reservada para mujeres en Vizcaya",
+      "link": "https://www.abc.es/espana/pais-vasco/aspirante-bombero-cambia-sexo-optar-plaza-reservada-20260907103703-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/07/bomberos-kyyE-U301603253001BTC-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Las 15 mejores ofertas de hoy (7 de septiembre) en Amazon: hasta un 43% en Skechers, Xiaomi y más",
       "link": "https://www.abc.es/favorito/las-5-mejores-ofertas-de-hoy-20260907081455-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/favorito/2026/09/07/portada-20260907082325-RNxRpgILD79RO1MCrSd5wtO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Adelgazar: La trampa de septiembre cuando quieres hacer dieta y perder peso",
-      "link": "https://www.abc.es/bienestar/alimentacion/trampa-septiembre-mes-indicado-ponerse-dieta-20260905014652-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/09/05/dieta-RIZvwuEMV7jTO8fkB79OzfL-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Reina Margarita de Dinamarca, hospitalizada en Copenhague, no podrá acudir al funeral de Harald de Noruega",
-      "link": "https://www.abc.es/gente/reina-margarita-dinamarca-hospitalizada-copenhague-podra-acudir-20260907094321-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/07/margarita-dinamarca-RGKNGOPgvl4LX0z3hN1kCfJ-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

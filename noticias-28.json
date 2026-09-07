@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Al menos once muertos, entre ellos dos paramédicos, tras un ataque israelí en Líbano",
+      "link": "https://www.lavanguardia.com/internacional/20260907/11628886/once-muertos-dos-paramedicos-ataque-israeli-libano.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/07/6a9e72087aa27.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Nepal eleva el número de muertos a 1.355 y mantiene la cifra de 5.000 desaparecidos",
       "link": "https://www.lavanguardia.com/internacional/20260907/11628829/nepal-eleva-numero-muertos-1-355-mantiene-cifra-5-000-desaparecidos.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/07/6a9e638f8301c.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Eclipse total",
       "link": "https://www.lavanguardia.com/internacional/20260907/11628568/eclipse-total.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/06/6a9da3405014b.r_d.817-1279-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Israel mata a una decena de civiles en nuevos ataques en Gaza y Líbano",
-      "link": "https://www.lavanguardia.com/internacional/20260907/11628622/israel-mata-decena-civiles-nuevos-ataques-gaza-libano.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/06/6a9dbf35a2c71.jpeg",
       "tipo": "imagen"
     }
   ]
