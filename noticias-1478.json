@@ -1,7 +1,13 @@
 {
   "noticias": [
     {
-      "titulo": "Aragón aún produce el doble de electricidad de la que consume, pero las energías renovables pierden peso",
+      "titulo": "El Aragón de las casas sin vecinos: un tercio de las viviendas en la comunidad no son residencia habitual",
+      "link": "https://www.eldiario.es/aragon/sociedad/aragon-casas-vecinos-tercio-viviendas-comunidad-no-son-residencia-habitual_1_13492008.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "La comunidad aún produce el doble de electricidad de la que consume, pero las energías renovables pierden peso",
       "link": "https://www.eldiario.es/aragon/economia/aragon-produce-doble-electricidad-consume-energias-renovables-pierden-peso_1_13492798.html",
       "imagen": "",
       "tipo": ""
@@ -13,27 +19,21 @@
       "tipo": ""
     },
     {
-      "titulo": "El Gobierno de Azcón justifica el fin del programa de lengua árabe y cultura marroquí por “seguridad en las aulas”",
-      "link": "https://www.eldiario.es/aragon/politica/gobierno-azcon-justifica-programa-lengua-arabe-cultura-marroqui-seguridad-aulas_1_13492248.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "El PP cede ante Vox en Aragón y acepta suprimir el programa de lengua árabe en los colegios donde se impartía",
-      "link": "https://www.eldiario.es/aragon/politica/pp-cede-vox-aragon-acepta-suprimir-programa-lengua-arabe-colegios-impartia_1_13491268.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
       "titulo": "Amazon inicia en La Muela las operaciones de ZAZ8, el primer centro de distribución de la compañía en España",
       "link": "https://www.eldiario.es/aragon/economia/amazon-inicia-muela-operaciones-zaz8-primer-centro-distribucion-compania-espana_1_13491591.html",
-      "imagen": "https://static.eldiario.es/clip/363bda56-cc17-4b0c-8c59-43c2c9d7aabb_16-9-discover-aspect-ratio_default_0.jpg",
+      "imagen": "https://static.eldiario.es/clip/e68f1b8b-9e50-4c55-9a53-8b4bf90db52b_16-9-discover-aspect-ratio_default_0_x367y298.jpg",
       "tipo": "imagen"
     },
     {
       "titulo": "Condenado en Zaragoza a tres años y medio por estafar 3.600 euros mediante fianzas por un piso que no era suyo",
       "link": "https://www.eldiario.es/aragon/sociedad/condenado-tres-anos-medio-carcel-estafar-3-600-euros-mediante-falsas-fianzas-alquilar-piso-zaragoza_1_13492424.html",
       "imagen": "https://static.eldiario.es/clip/11f3d4ab-c950-4772-8c4c-2fc4da5e7973_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Localizan en horas a una mujer cuyo rastro se perdió en 2022: un sobrino vino desde Estados Unidos en su búsqueda",
+      "link": "https://www.eldiario.es/aragon/sociedad/localizan-horas-mujer-cuyo-rastro-perdio-2022-sobrino-vino-estados-unidos-busqueda_1_13493390.html",
+      "imagen": "https://static.eldiario.es/clip/ab04437e-9f1a-44bb-b9c4-359e7ab88cb6_16-9-discover-aspect-ratio_default_1150640.jpg",
       "tipo": "imagen"
     }
   ]

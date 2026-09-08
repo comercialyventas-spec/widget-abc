@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Riki Blanco: el burladero",
+      "link": "https://elpais.com/opinion/2026-09-08/riki-blanco-el-burladero.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/HKQMGOPOPVBU5HVTBANT66SISY.jpg?auth=4b03c42a83e70a2915e7ad84973f43f443484216e1dc1ff1676f3ea4d88a58ad",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Roto: su ocaso",
+      "link": "https://elpais.com/opinion/2026-09-08/el-roto-su-ocaso.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/6C5H7OZTVZHSNCWVOA3AOBR5LE.jpg?auth=1cc8d1eaa956cfb3a65004a3ff93422cf1746a9aa2abbda3e991926bae98dcca",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ser buena gente",
       "link": "https://elpais.com/opinion/2026-09-08/ser-buena-gente.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/OPNSNH4QZRCKLEDBP4DIG4DEZI.jpg?auth=64a81e61c7e93d5fe8abc205f20f543704c2fad88046278ac719bc97af2dda5c",
@@ -19,21 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Cuerpo electoral",
-      "link": "https://elpais.com/opinion/2026-09-08/cuerpo-electoral.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/34XSZSDZM5E2DHCEMREGROZ2KA.jpg?auth=36da722384d17f5ad863e7977fe867c56a9d120f76800e6daf1131862675f099",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘Moroccofobia’",
-      "link": "https://elpais.com/opinion/2026-09-08/moroccofobia.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/F3DFGXCCDRH53KCE7ZARRUCQ3U.JPG?auth=9cb8871a80574f7136b04a8c6763a7ebadd61994ed2f892e890f372842191f7c",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Peridis: el Juicio Final",
-      "link": "https://elpais.com/opinion/2026-09-08/peridis-el-juicio-final.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/PGDKLLA5Y5GQBANGE2CO2A2FSY.jpg?auth=c901a61c90a71dd4b8e81e1f284f849a799d42315e997d6972f384b683dacac3",
+      "titulo": "Ceuta: qué es distinto esta vez",
+      "link": "https://elpais.com/opinion/2026-09-08/ceuta-que-es-distinto-esta-vez.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/JH3WAUUN7NBRTD3W2LXAEIR5VM.jpg?auth=10d02b2ac30fd52f7b5ec2542e5328694434d864404a9c58963015bef3f848cb",
       "tipo": "imagen"
     }
   ]

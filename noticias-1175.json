@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Habla Pedro Meneses",
+      "link": "https://okdiario.com/opinion/habla-pedro-meneses-20245821",
+      "imagen": "https://okdiario.com/img/2026/09/07/08-09-2026-pedro-meneses-ceuta.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El documento que entierra definitivamente el 'caso ático'",
+      "link": "https://okdiario.com/opinion/documento-que-entierra-definitivamente-caso-atico-20244573",
+      "imagen": "https://okdiario.com/img/2026/09/07/el-documento-que-entierra-desk.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los mapas del Gobierno: se empieza por el Sáhara y se termina por Ceuta y Melilla",
       "link": "https://okdiario.com/opinion/mapas-del-gobierno-empieza-sahara-termina-ceuta-melilla-20245081",
       "imagen": "https://okdiario.com/img/2026/09/07/edito-los-mapas-del-gobierno-inter.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Sí. Por traición",
       "link": "https://okdiario.com/opinion/si-traicion-20242824",
       "imagen": "https://okdiario.com/img/2026/09/07/imagen_final-31.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los diez días que dejó morir el Gobierno de Pedro Sánchez",
-      "link": "https://okdiario.com/baleares/diez-dias-que-dejo-morir-gobierno-pedro-sanchez-20240558",
-      "imagen": "https://okdiario.com/img/2026/09/07/imagen_final-6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sánchez, su felonísima persona",
-      "link": "https://okdiario.com/opinion/sanchez-felonisima-persona-20238273",
-      "imagen": "https://okdiario.com/img/2026/09/06/07-09-2026-sanchez-y-puente-ceuta.jpeg",
       "tipo": "imagen"
     }
   ]
