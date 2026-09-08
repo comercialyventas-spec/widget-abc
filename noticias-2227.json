@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Supresión de Parada: avenida de Las Fuerzas Armadas. Afectadas 3 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260911-SP-5916-AV-Fuerzas-Armadas.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/docs/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Evento sociocultural en Carretera M-508. Afectada línea A de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260908-Fiestas-Pozuelo.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -27,12 +33,6 @@
     {
       "titulo": "Servicio Especial Lanzadera entre Feria de Madrid (Madring Sur) y Avenida de América.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260911-MR5-Feria-Madrid-Avenida-America.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Servicio Especial Lanzadera entre Plaza Castilla y Valdebebas (Madring Norte).",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260911-MR4-Plaza-Castilla-Valdebebas.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

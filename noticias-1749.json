@@ -1,7 +1,13 @@
 {
   "noticias": [
     {
-      "titulo": "Roban tres obras del museo Renoir en Francia",
+      "titulo": "Agosto se coloca como el sexto más cálido de los últimos 65 años",
+      "link": "https://www.publico.es/sociedad/m-ambiente/agosto-coloca-sexto-calido-ultimos-65-anos.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/08/31/6a9528e9bfa7b.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Roban dos obras del museo Renoir en Francia",
       "link": "https://www.publico.es/sociedad/sucesos/roban-tres-obras-museo-renoir-francia.html",
       "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/08/6a9ff1a8cf207.r_d.1033-457-2427.jpeg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "El discurso del odio traspasa fronteras: de señalar a los migrantes a atacar la cultura y el periodismo",
       "link": "https://www.publico.es/sociedad/migracion/discurso-odio-traspasa-fronteras-senalar-migrantes-atacar-cultura-periodismo.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/07/6a9efffc9d1fd.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las educadoras infantiles de Madrid inician una concentración con pernocta en la Puerta del Sol",
-      "link": "https://www.publico.es/sociedad/educacion/educadoras-infantiles-madrid-inician-concentracion-pernocta-puerta-sol.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/07/6a9f06a2b8976.jpeg",
       "tipo": "imagen"
     }
   ]

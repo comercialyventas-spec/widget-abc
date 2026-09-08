@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "El Tesoro emite 4.000 millones en deuda 'verde' y la demanda supera los 82.000 millones",
+      "titulo": "Los nuevos contratos de trabajo deben incluir las horas extra, los cambios de jornada y hasta el uso de la IA para despedir",
+      "link": "https://www.abc.es/economia/cuentas-corrientes/nuevos-contratos-trabajo-deben-incluir-horas-extra-20260908141114-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/08/yolanda-diaz8s-RVWN088pLCZNEAtyw6ttMSN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La deuda española gana atractivo: el Tesoro emite 4.000 millones a veinte años y la demanda supera los 82.000 millones",
       "link": "https://www.abc.es/economia/cuentas-corrientes/tesoro-emite-4000-millones-deuda-verde-demanda-20260908134921-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/08/1516746381-RQghGXtpyjE5luvjfv51aWL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Bruselas limitará los pisos turísticos, pero descarta los topes al alquiler como medida para aliviar los precios de la vivienda",
+      "link": "https://www.abc.es/economia/bruselas-limitara-pisos-turisticos-descarta-topes-alquiler-20260908140637-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/08/1507405330-RfbeLPK65QO5glg3ZtNWV7K-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Las cuentas que más pagan en septiembre de 2026: nueve opciones con hasta un 3,06% TIN",
       "link": "https://www.abc.es/economia/guia-financiera/las-cuentas-que-mas-pagan-en-20260904134336-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/04/portada-20260904140617-RDE1XWpwbQoS0qm152YH6IP-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una grieta en el escudo fiscal del Gobierno recorta las ayudas a los transportistas por la subida del diésel",
-      "link": "https://www.abc.es/economia/grietas-plan-atajar-alza-diesel-elevan-riesgo-20260905012614-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/05/transportista%20efe-RcshP1U69UpXKNmPWlRg0TI-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "España, el país en el que la vivienda tiene el mayor peso en el patrimonio familiar",
-      "link": "https://www.abc.es/economia/cuentas-corrientes/espana-pais-vivienda-mayor-peso-patrimonio-familiar-20260908020536-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/08/vivienda-construccionjul2026-Rp5mg7pDwezzOkel3Egn0tM-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
