@@ -1,18 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Riki Blanco: el burladero",
-      "link": "https://elpais.com/opinion/2026-09-08/riki-blanco-el-burladero.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/HKQMGOPOPVBU5HVTBANT66SISY.jpg?auth=4b03c42a83e70a2915e7ad84973f43f443484216e1dc1ff1676f3ea4d88a58ad",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Roto: su ocaso",
-      "link": "https://elpais.com/opinion/2026-09-08/el-roto-su-ocaso.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/6C5H7OZTVZHSNCWVOA3AOBR5LE.jpg?auth=1cc8d1eaa956cfb3a65004a3ff93422cf1746a9aa2abbda3e991926bae98dcca",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Ser buena gente",
       "link": "https://elpais.com/opinion/2026-09-08/ser-buena-gente.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/OPNSNH4QZRCKLEDBP4DIG4DEZI.jpg?auth=64a81e61c7e93d5fe8abc205f20f543704c2fad88046278ac719bc97af2dda5c",
@@ -34,6 +22,18 @@
       "titulo": "Ceuta: qué es distinto esta vez",
       "link": "https://elpais.com/opinion/2026-09-08/ceuta-que-es-distinto-esta-vez.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/JH3WAUUN7NBRTD3W2LXAEIR5VM.jpg?auth=10d02b2ac30fd52f7b5ec2542e5328694434d864404a9c58963015bef3f848cb",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cuerpo electoral",
+      "link": "https://elpais.com/opinion/2026-09-08/cuerpo-electoral.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/34XSZSDZM5E2DHCEMREGROZ2KA.jpg?auth=36da722384d17f5ad863e7977fe867c56a9d120f76800e6daf1131862675f099",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "España, de los españoles",
+      "link": "https://elpais.com/opinion/2026-09-08/espana-de-los-espanoles.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/USIS2FLGGRKG3CQDYZXQDMA47I.jpg?auth=04ac7659f4da5909e0fa925c005b2c67ae72c2ff8f73b171478e743846794319",
       "tipo": "imagen"
     }
   ]

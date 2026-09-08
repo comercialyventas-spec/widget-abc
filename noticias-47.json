@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Aires de otoño para renovar el armario",
+      "link": "https://www.lavanguardia.com/magazine/moda/20260908/11628977/moda-complementos-shopping-decoracion-ideas-ropa-bazar.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/07/6a9e863f7b647.r_d.1134-1530-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La reinvención de Fiorucci, la marca más divertida del ‘made in Italy’",
       "link": "https://www.lavanguardia.com/magazine/moda/20260908/11627349/reinvencion-fiorucci-marca-mas-divertida-made-in-italy.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/04/6a9ac653072d1.r_d.1285-730-1445.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Horóscopo de Piscis para hoy: predicciones en amor, trabajo, salud y dinero para el martes, 8 de septiembre",
       "link": "https://www.lavanguardia.com/magazine/horoscopo/20260907/11623837/horoscopo-diario-hoy-piscis-martes-8-septiembre-2026-ctx.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/07/10/64abedbfc9e9b.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Horóscopo de Acuario para hoy: predicciones en amor, trabajo, salud y dinero para el martes, 8 de septiembre",
-      "link": "https://www.lavanguardia.com/magazine/horoscopo/20260907/11623829/horoscopo-diario-hoy-acuario-martes-8-septiembre-2026-ctx.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/07/10/64abeae6da29e.jpeg",
       "tipo": "imagen"
     }
   ]
