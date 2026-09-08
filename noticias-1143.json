@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "El petróleo roza los 100 dólares ante la escalada bélica en Oriente Próximo",
+      "link": "https://elpais.com/economia/2026-09-08/el-petroleo-roza-los-100-dolares-ante-la-escalada-belica-en-oriente-proximo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/WRIG7BOVDRGZBNPYSPDJN7WUXE.jpg?auth=70f821d98bfa843526589ce230709dd51823c577d1d776892e809eca62e42d2d&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "España afronta el dilema de qué hacer con el oro depositado en la Reserva Federal de EE UU",
       "link": "https://elpais.com/noticias/oro/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/J6P6PGKR5554VDPPLE5RCOKARU.jpg?auth=8cba686422b545e0196e04867c699bde882ae945c20f7c98c7eba5248d578fab&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/J6P6PGKR5554VDPPLE5RCOKARU.jpg?auth=8cba686422b545e0196e04867c699bde882ae945c20f7c98c7eba5248d578fab&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "El euríbor alcanza el 3% y aumenta la presión sobre las hipotecas variables",
       "link": "https://elpais.com/noticias/hipotecas/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/PMK4CJ4PMBD7FPJOLAS5PGEKTU.jpg?auth=2fbb94c27b4f8a098eb78cca16fd0b90b98ff260537f740959983354bdd40666&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una advertencia de los mercados",
-      "link": "https://elpais.com/opinion/editoriales/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/H7MI4MSFMRE2XAPAMR7U4FJ63Y.jpg?auth=2fc6d1c4f22d220d54b540b124ce7973b2f347dadadccaf20cfaff3f702be1dc&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

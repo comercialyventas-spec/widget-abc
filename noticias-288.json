@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "Las comunidades con mejor y peor comprensión lectora, según PISA: vascos y valencianos son los que menos entienden lo que leen",
+      "titulo": "El hundimiento en comprensión lectora: vascos y valencianos, los que menos entienden lo que leen",
       "link": "https://www.abc.es/sociedad/comunidades-mejor-peor-comprension-lectora-segun-pisa-20260908093020-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/08/1497287594-RvGAQKCLdC728Kj3AFOn4OP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los sindicatos médicos plantean paros «indefinidos y permanentes» desde octubre",
+      "link": "https://www.abc.es/sociedad/sindicatos-medicos-plantean-paros-indefinidos-permanentes-octubre-20260908131106-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/08/huelga-medicos-RmofOVGtASJt6m8fdSwT3VM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Por qué la educación española profundiza en su declive?",
+      "link": "https://www.abc.es/sociedad/francisco-lopez-ruperez-educacion-espanola-profundiza-declive-lectura-20260908104349-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/08/1500621382-RS810F2nVhKQ3JWTOP8T1LN-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "El nivel educativo en España toca fondo con el mayor desplome de la historia en el informe PISA",
       "link": "https://www.abc.es/sociedad/nivel-educativo-espana-toca-fondo-mayor-desplome-20260908093005-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/08/1497285455-RcgQ85pfl8lc79cPMbLybnI-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cataluña obtendría «de los peores resultados» en PISA 2025 si no hubiera alterado su muestra",
-      "link": "https://www.abc.es/sociedad/muestra-alumnado-optimizada-cataluna-dispara-resultados-pisa-20260908102758-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/08/illajo-RQr5X8mLtpfK5zyPnQmqmqN-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Por qué la educación española profundiza en su declive?",
-      "link": "https://www.abc.es/sociedad/francisco-lopez-ruperez-educacion-espanola-profundiza-declive-lectura-20260908104349-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/08/1500621382-RS810F2nVhKQ3JWTOP8T1LN-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
