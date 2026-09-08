@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Buques de la Armada",
+      "link": "https://www.elconfidencialdigital.com/album/defensa/buques-de-la-armada/202609081145001039539.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/08/2026090811363987096.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Séptima",
       "link": "https://www.elconfidencialdigital.com/album/medios/la-septima/202609080500001039344.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/07/2026090718325842775.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Crisis de Ceuta",
       "link": "https://www.elconfidencialdigital.com/album/el-chivato/crisis-de-ceuta/202609071725491039317.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/07/2026090717323378914.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Guardia Civil",
-      "link": "https://www.elconfidencialdigital.com/album/guardia-civil/guardia-civil/202609071627081039307.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/07/2026090713363740099.jpg",
       "tipo": "imagen"
     }
   ]
