@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "El Consejo de Ministros aprueba el 60% del IRPF para La Palma y nuevas medidas para la reconstrucción agrícola tras la erupción",
+      "link": "https://www.eldiario.es/canariasahora/lapalmaahora/politica/consejo-ministro-aprueba-60-irpf-palma-nuevas-medidas-reconstruccion-agricola-erupcion_1_13494912.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "El Supremo impide al Cabildo de Tenerife recuperar 800.000 euros de los swaps, la polémica operación de CC con la banca",
       "link": "https://www.eldiario.es/canariasahora/tenerifeahora/tribunales/supremo-impide-cabildo-tenerife-recuperar-800-000-euros-swaps-polemica-operacion-cc-banca_1_13490017.html",
-      "imagen": "https://static.eldiario.es/clip/f658386b-ed96-4ba7-b082-ca61c761d0bb_16-9-discover-aspect-ratio_default_0.jpg",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "Qué es el monte submarino Tropic y por qué Marruecos reclama esas aguas al sur de Canarias",
+      "link": "https://www.eldiario.es/canariasahora/ciencia_y_medio_ambiente/monte-tropic-canarias-interesa-marruecos_1_13494967.html",
+      "imagen": "https://static.eldiario.es/clip/181c17dc-8cdf-493f-a982-3f95bebec5ac_16-9-discover-aspect-ratio_default_1150709.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Consulta los avisos amarillos y naranjas de Aemet para Canarias",
+      "link": "https://www.eldiario.es/canariasahora/tiempo-canarias/avisos-amarillos-naranjas-canarias-aemet-alerta_1_13491886.html",
+      "imagen": "https://static.eldiario.es/clip/f2b18a90-c79f-45f0-b84e-8376443c143c_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "Gas radón: una amenaza silenciosa de la que Canarias no se libra",
       "link": "https://www.eldiario.es/canariasahora/ciencia_y_medio_ambiente/gas-radon-amenaza-silenciosa-canarias-no-libra_1_13494501.html",
       "imagen": "https://static.eldiario.es/clip/0861502a-f241-41f5-8296-3afea13d5f01_16-9-discover-aspect-ratio_default_1150672.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Cabildo de Tenerife anuncia una inversión de 12 millones para hacer casi 20.000 resonancias y ecografías al año",
-      "link": "https://www.eldiario.es/canariasahora/tenerifeahora/cabildo/cabildo-tenerife-resonancias-magneticas-ecografias-ano_1_13494639.html",
-      "imagen": "https://static.eldiario.es/clip/3d14b5d1-c721-481b-aef2-4544d77a605f_16-9-discover-aspect-ratio_default_1150694.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Ayuntamiento y la Universidad de La Laguna crean el primer Observatorio Local de Vivienda de Canarias",
-      "link": "https://www.eldiario.es/canariasahora/sociedad/observatorio-vivienda-laguna-primer-canarias_1_13494857.html",
-      "imagen": "https://static.eldiario.es/clip/2d7bcb45-d1ad-498a-b79c-1cbcc777de2f_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La vivienda se encarece en Canarias un 11% en tasa anual en el segundo trimestre",
-      "link": "https://www.eldiario.es/canariasahora/economia/vivienda-encarece-canarias-11-tasa-anual-segundo-trimestre_1_13491464.html",
-      "imagen": "https://static.eldiario.es/clip/63a04c06-f887-4e2f-a6bd-e3f79ffa70a2_16-9-discover-aspect-ratio_default_0_x865y990.jpg",
       "tipo": "imagen"
     }
   ]
