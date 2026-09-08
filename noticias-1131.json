@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "El espejismo de la calidad en la educación superior",
+      "link": "https://elpais.com/educacion/universidad/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/2XNXLVXD5FM6XFJZ7UHVGXBUVU.jpg?auth=cc195efb42f973dfb41355b53791254f4371c3c30cab3018003a723e9017d9a0&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Teodoro González de León: cien años de un renacentista de nuestra época",
+      "link": "https://elpais.com/noticias/teodoro-gonzalez-de-leon/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/JR3TZKY42A5Q32KAKKOQHCX65U.jpg?auth=0982042d47e97f703516ab9a519af87c763d9e68f1d8d62c993f9540703c7feb&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cuerpo electoral",
       "link": "https://elpais.com/opinion/tribunas/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/34XSZSDZM5E2DHCEMREGROZ2KA.jpg?auth=36da722384d17f5ad863e7977fe867c56a9d120f76800e6daf1131862675f099&width=414&height=233&focal=955%2C685",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/34XSZSDZM5E2DHCEMREGROZ2KA.jpg?auth=36da722384d17f5ad863e7977fe867c56a9d120f76800e6daf1131862675f099&width=414&height=311&focal=955%2C685",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "La mayor apuesta de la historia: ¿revolución industrial o desastre financiero?",
       "link": "https://elpais.com/hemeroteca/2026-09-07/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/I65YVRJHG5CPPDPLK7MMJCVJOI.jpg?auth=04bf82cfed274d4dfb9a81601c6ee7d75f795694d59f46a35b8c52f0823414ff&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El crimen organizado no siempre entra por la fuerza",
-      "link": "https://elpais.com/noticias/crimen-organizado/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/XPUMBMN3GNFAFLN2RNQJVZPTOE.jpg?auth=59b1caaf4796c2ab2b4e8ff4df898fb99d592c608f7252c44d29214a068a1619&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Xenófobos?",
-      "link": "https://elpais.com/noticias/migracion/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/KKCWM3PML5EVPDYLAHEVY2UZII.jpg?auth=86fd73fb437997d534bb7699dbeed6ee1a533f6ae602e2c45cffbc1c56a47ab8&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

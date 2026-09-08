@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Martin Parr: el gusto es nuestro",
+      "link": "https://www.abc.es/cultura/cultural/martin-parr-gusto-20260908135136-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/08/PAM1997011Z00014-18-RxfTSOV8507VBPjXPA1esjO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Javier Marías, ahora que es inmortal",
       "link": "https://www.abc.es/cultura/cultural/javier-marias-inmortal-20260908132010-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/08/marias-RBBpmW2MhTtDYXR6p2CY1HP-1200x840@diario_abc.JPG",
@@ -28,12 +34,6 @@
       "titulo": "'Guerra petrificada', la primera contienda nacional española",
       "link": "https://www.abc.es/cultura/cultural/guerra-petrificada-primera-contienda-nacional-espanola-20260907145849-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/07/29/fosilamientos-3-mayo-goya-R7TpfU57UHIJ0UqZlao8PDP-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cosmogonía escultórica de Mar Solís",
-      "link": "https://www.abc.es/cultura/cultural/cosmogonia-escultorica-mar-solis-20260907145547-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/07/Disimetria%20Furica-RXKTVXHbWm4nhDOz3UgpjhO-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
