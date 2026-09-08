@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en directo en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-09-08/el-pulso-de-hoy-por-hoy-en-directo-en-el-pais.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/W33TL5GQBBHPPKZ2CBK6PCULCY.png?auth=31d69aadfdcdc576317e80f0f9b468205ca1109494b0cb67b67bfad3ad681896&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ángela y Sulaiman: no todos los niños vuelven al colegio en Ceuta",
+      "link": "https://elpais.com/espana/2026-09-08/angela-y-sulaiman-no-todos-los-ninos-vuelven-al-colegio-en-ceuta.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SKG3FL7QIRHYVNM2BRPV7EKBMI.jpeg?auth=a0c8b486c49910e02f7750d954858b8b3cb28a1f43c5d0338dc1b597cc0e0ee2&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "‘La mesa de Hora 25’, en directo en EL PAÍS",
       "link": "https://elpais.com/videos/2026-09-07/la-mesa-de-hora-25-programa-en-el-pais.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/RIBFKHCERJDFHKWBRGWFOY5NAA.jpeg?auth=9cd2dd0d3f4eae441365fd01bca6aa58b73d643f07eab2bd9f9493a926406d01&width=414&height=233&focal=354%2C362",
@@ -20,20 +32,8 @@
     },
     {
       "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en EL PAÍS | Programa del 7 de septiembre de 2026",
-      "link": "https://elpais.com/videos/2026-09-07/el-pulso-de-hoy-por-hoy-en-directo-en-el-pais.html",
+      "link": "https://elpais.com/noticias/cadena-ser/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/SSNLJDQ3GVCSXFYM6YWEP4G3TQ.png?auth=476466734e22f606eafbd9f23e92b279df4c5b8d9e9580132dfb8af18d08bd01&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Todo lo que puede pasar si gana la ultraderecha en el ‘länder’ alemán de Sajonia-Anhalt",
-      "link": "https://elpais.com/videos/2026-09-06/todo-lo-que-puede-pasar-si-gana-la-ultraderecha-en-el-lander-aleman-de-sajonia-anhalt.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/6TFVGCBG3BG6FP2JSVXFRF57NM.jpg?auth=322829d9393a985cef4b163a5485a6a86ebc3f322eee8486f019774218c42ef7&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El nuevo centro de acogida en el puerto de Ceuta y la desigualdad entre barrios: “En El Príncipe nos tienen abandonados”",
-      "link": "https://elpais.com/noticias/crisis-migratoria/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/H4SV2L7VMRC6LOUXLMPMUP7S24.jpeg?auth=db34c0e38b49043ce60bcfa0aaf29020e4bdf4dc2f8c5c31896441b506d1fb57&width=414&height=233&smart=true",
       "tipo": "imagen"
     }
   ]
