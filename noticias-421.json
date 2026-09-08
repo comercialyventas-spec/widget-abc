@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "BBVA",
+      "link": "https://www.elconfidencialdigital.com/album/dinero/bbva/202609081646001039600.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/08/2026090816400938775.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Roig Arena",
       "link": "https://www.elconfidencialdigital.com/album/mercadona/roig-arena/202609081342521039587.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/08/2026090813351947159.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Álbum nuevos Maserati Grecale, GranTurismo y GranCabrio",
       "link": "https://www.elconfidencialdigital.com/album/motor/album-nuevos-maserati-grecale-granturismo-grancabrio/202609072258041039506.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/07/2026090722544589636.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Álbum Audi A2 e-tron",
-      "link": "https://www.elconfidencialdigital.com/album/motor/album-audi-a2-tron/202609072230381039489.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/07/2026090722294181029.jpg",
       "tipo": "imagen"
     }
   ]

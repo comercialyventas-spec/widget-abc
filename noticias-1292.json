@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Una manada de marroquíes viola a una mujer en Palma de Mallorca",
+      "link": "https://www.mediterraneodigital.com/sucesos-espana/manada-palma-mallorca",
+      "imagen": "https://www.mediterraneodigital.com/images/2021/5/violacion-en-grupo.p.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Detenido un magrebí por robar el bolso con violencia a una anciana",
       "link": "https://www.mediterraneodigital.com/sucesos-espana/magrebi-robo-bilbao",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/anciana.jpg",
@@ -22,12 +28,6 @@
       "titulo": "Detenido un marroquí por violar a una joven en la Playa de la Malvarrosa de Valencia",
       "link": "https://www.mediterraneodigital.com/sucesos-espana/marroqui-violacion-malvarrosa-valencia",
       "imagen": "https://www.mediterraneodigital.com/images/2026/8/marroqui-violador.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Detenido un inmigrante marroquí por provocar el incendio de Collserola",
-      "link": "https://www.mediterraneodigital.com/sucesos-espana/incendio-collserola",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/8/collserola.jpg",
       "tipo": "imagen"
     }
   ]

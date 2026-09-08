@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Star Wars",
+      "link": "https://www.abc.es/cultura/daniel-mugica-star-wars-20260908163248-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/08/yoda-star-wars-RM5ZcOe9pyvz5D5gdxiPNHM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Neil McRobert, ladrar y morder",
       "link": "https://www.abc.es/cultura/cultural/neil-mcrobert-ladrar-morder-20260908141330-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/08/Neil+McRobert-headshot-RYmdsb2lIx8FPMZxeEMbXpL-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Javier Marías, ahora que es inmortal",
       "link": "https://www.abc.es/cultura/cultural/javier-marias-inmortal-20260908132010-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/08/marias-RBBpmW2MhTtDYXR6p2CY1HP-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La verdad tras la leyenda del sillón del diablo de Valladolid",
-      "link": "https://www.abc.es/cultura/verdad-tras-leyenda-sillon-diablo-valladolid-20260707012529-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/07/07/509321110_24149437898014609_1906478682569332244_n-RCvYbwFW1bfBVYpxlBZEZ2I-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
