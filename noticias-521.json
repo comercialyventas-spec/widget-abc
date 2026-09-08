@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La Séptima",
+      "link": "https://www.elconfidencialdigital.com/album/medios/la-septima/202609080500001039344.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/07/2026090718325842775.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sálvame",
       "link": "https://www.elconfidencialdigital.com/album/medios/salvame/202609071300001039004.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2023/06/03/2023060313523632003.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Pablo Bustinduy",
       "link": "https://www.elconfidencialdigital.com/album/medios/pablo-bustinduy/202609031900001038798.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2025/02/20/2025022008021927372.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Vocento",
-      "link": "https://www.elconfidencialdigital.com/album/medios/javier-chicote-deja-abc/202607101535001030354.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2023/11/14/2023111418025210050.jpg",
       "tipo": "imagen"
     }
   ]
