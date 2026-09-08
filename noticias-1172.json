@@ -1,15 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "España obtiene el peor resultado de su historia en PISA: batacazo en Lectura, Matemáticas y Ciencias",
-      "link": "https://okdiario.com/espana/espana-obtiene-peor-resultado-historia-pisa-batacazo-lectura-matematicas-ciencias-20247148",
-      "imagen": "https://okdiario.com/img/2026/09/08/aula-escolar.-ep.jpg",
+      "titulo": "La educación madrileña lidera por primera vez el Informe PISA en España con mayor nota que Finlandia, Suecia y EEUU",
+      "link": "https://okdiario.com/madrid/educacion-madrilena-lidera-primera-vez-informe-pisa-espana-mayor-nota-que-finlandia-suecia-eeuu-20247580",
+      "imagen": "https://okdiario.com/img/2026/09/08/a1-1412057628-1.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Albares exculpa a Marruecos de la invasión: \"La clave está en las redes sociales, es de donde arranca todo\"",
+      "link": "https://okdiario.com/espana/albares-exculpa-marruecos-invasion-clave-esta-redes-sociales-donde-arranca-todo-20247176",
+      "imagen": "https://okdiario.com/img/2026/09/08/ministro-de-asuntos-exteriores-union-europea-y-cooperacion-jose-manuel-albares-ep.jpg",
       "tipo": "imagen"
     },
     {
       "titulo": "Última hora de la actualidad política en directo | 13.000 alumnos ceutíes inician hoy el colegio escoltados por efectivos de la Policía, la Guardia Civil y el Ejército",
       "link": "https://okdiario.com/espana/ultima-hora-actualidad-politica-directo-13-000-alumnos-ceuties-inician-hoy-colegio-escoltados-efectivos-policia-guardia-civil-ejercito-20247086",
       "imagen": "https://okdiario.com/img/2026/09/08/diseno-sin-titulo-3-5.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "España obtiene el peor resultado de su historia en PISA: batacazo en Lectura, Matemáticas y Ciencias",
+      "link": "https://okdiario.com/espana/espana-obtiene-peor-resultado-historia-pisa-batacazo-lectura-matematicas-ciencias-20247148",
+      "imagen": "https://okdiario.com/img/2026/09/08/aula-escolar.-ep.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "AEMET: Cielo despejado en Zaragoza, nubes y viento moderado por la tarde",
       "link": "https://okdiario.com/aragon/aemet-cielo-despejado-en-zaragoza-nubes-y-viento-moderado-por-la-tarde-20246609",
       "imagen": "https://okdiario.com/img/2026/01/12/maximas-zaragoza-interior.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cielos nublados y lluvias débiles en Bilbao, según AEMET, con vientos al final del día",
-      "link": "https://okdiario.com/pais-vasco/cielos-nublados-y-lluvias-debiles-en-bilbao-segun-aemet-con-vientos-al-final-del-dia-20246529",
-      "imagen": "https://okdiario.com/img/2026/01/12/nevadas-bilbao-interior.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "AEMET prevé sol por la mañana y nubes con chubascos aislados en Barcelona",
-      "link": "https://okdiario.com/cataluna/aemet-preve-sol-por-la-manana-y-nubes-con-chubascos-aislados-en-barcelona-20246478",
-      "imagen": "https://okdiario.com/img/2026/01/12/maximas-barcelona-interior.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "El mapa del calor en España: compara la temperatura de cada día con la media histórica de tu provincia",
+      "link": "https://www.eldiario.es/sociedad/mapa-calor-record-2026-espana-compara-temperatura-dia-media-historica-provincia_1_13256175.html",
+      "imagen": "https://static.eldiario.es/clip/d3220942-816f-425d-b88d-ed59b1cc3807_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los cargueros toman el Ártico mientras el calor extremo funde el hielo marino a ritmo de récord",
       "link": "https://www.eldiario.es/sociedad/cargueros-toman-artico-calor-extremo-funde-hielo-marino-ritmo-record_1_13485579.html",
       "imagen": "https://static.eldiario.es/clip/f9920d06-ab90-489e-ae40-3951ceb4416f_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las olas de calor facilitan los apagones recurrentes en los negocios en plena temporada turística en Balears",
+      "link": "https://www.eldiario.es/illes-balears/economia/olas-calor-facilitan-apagones-recurrentes-negocios-plena-temporada-turistica-balears_1_13478576.html",
+      "imagen": "https://static.eldiario.es/clip/2c190622-40be-4869-a3f0-53a72164eb13_16-9-discover-aspect-ratio_default_0_x815y557.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "España muestra su “vulnerabilidad crítica” ante el cambio climático: miles de muertes por calor, incendios y sequía",
       "link": "https://www.eldiario.es/sociedad/espana-muestra-vulnerabilidad-critica-cambio-climatico-miles-muertes-calor-incendios-sequia_1_13455322.html",
       "imagen": "https://static.eldiario.es/clip/ad41bbdd-22aa-43bd-b581-12661105dfac_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los árboles que mejor combaten el calor revelan cómo deberían diseñarse las ciudades del futuro",
-      "link": "https://www.eldiario.es/andalucia/granada/arboles-mejor-combaten-calor-revelan-deberian-disenarse-ciudades-futuro_1_13366262.html",
-      "imagen": "https://static.eldiario.es/clip/a1f08db3-af18-4b9d-80dd-522dc0185192_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La sequía en el norte golpea las reservas de los embalses tras la falta de lluvias",
-      "link": "https://www.eldiario.es/sociedad/lluvias-invierno-disparan-reservas-agua-mayor-nivel-decada-datos-embalse-embalse_1_12958278.html",
-      "imagen": "https://static.eldiario.es/clip/c58a4c21-f38a-4d7e-876a-d700b6cc3dce_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
