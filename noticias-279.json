@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Alquilar compañía",
+      "link": "https://www.abc.es/espana/madrid/alquilar-compania-20260908180649-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/08/tercera-edad1-RLLhHngY0Chkgx4Ejm1Rm1M-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Por Mis Muertos, la comedia del Teatro Lara de misterio, espiritismo y humor",
       "link": "https://www.abc.es/espana/madrid/agenda/muertos-comedia-teatro-lara-misterio-espiritismo-humor-20260908140216-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/08/CARRUSEL-1800X1200-1_1-RUYlEKWqyABwzAOSI2SqB8N-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Muere un motorista de 47 años tras chocar contra un vehículo en la Avenida de los Poblados",
       "link": "https://www.abc.es/espana/madrid/muere-motorista-anos-tras-chocar-vehiculo-avenida-20260908070927-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/08/poblados-kRaD-U301617474162UPD-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Madrid estudia prolongar la temporada de piscinas tras cerrar con los termómetros aún al alza",
-      "link": "https://www.abc.es/espana/madrid/madrid-estudia-prolongar-temporada-piscinas-tras-cerrar-20260908095009-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/08/puertadehierro.jaimegarcia-RbZj5dX8OcwXad6VE9hj3UM-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

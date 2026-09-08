@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Livensa Living",
+      "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/9774585/alba-spanish-propco-3-slu.html",
+      "imagen": "https://edv-static.lavanguardia.com/assets/img/9774585/banner-1758878229000.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "WORKCENTER",
+      "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/940376/workcenter-sgd-sa.html",
+      "imagen": "https://edv-static.lavanguardia.com/assets/img/940376/banner-1758113728000.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Admazing Cloud",
       "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/8747003/admazing-cloud.html",
       "imagen": "https://edv-static.lavanguardia.com/assets/img/8747003/banner-1788781349000.png",
@@ -22,18 +34,6 @@
       "titulo": "HAIR INSPIRA",
       "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/7681983/hair-inspira-corp-sl.html",
       "imagen": "https://edv-static.lavanguardia.com/assets/img/7681983/banner-1759389801000.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "The Organic Republic",
-      "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/9797372/ecomethics-care-sl.html",
-      "imagen": "https://edv-static.lavanguardia.com/assets/img/9797372/banner-1788769114000.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "ServiMoving",
-      "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/2569183/mudanzas-y-guardamuebles-servimoving-international-sl.html",
-      "imagen": "https://edv-static.lavanguardia.com/assets/img/2569183/banner-1763279460000.jpeg",
       "tipo": "imagen"
     }
   ]
