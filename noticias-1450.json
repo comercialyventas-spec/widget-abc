@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Dos ladrones roban tres cuadros de Renoir valorados en nueve millones de euros de un museo francés",
+      "link": "https://www.eldiario.es/cultura/ladrones-roban-tres-cuadros-renoir-valorados-nueve-millones-euros-museo-frances_1_13494402.html",
+      "imagen": "https://static.eldiario.es/clip/113fa3b2-617f-4ab4-9158-8d734b069226_16-9-discover-aspect-ratio_default_1150671.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Museos en alerta: la ola de robos de oro obliga a reorganizar su seguridad",
       "link": "https://www.eldiario.es/cultura/arte/museos-alerta-ola-robos-oro-obliga-reorganizar-seguridad_1_13487383.html",
       "imagen": "https://static.eldiario.es/clip/532118bd-6201-4039-8727-e1466fc73493_16-9-discover-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El Museo Reina Sofía presenta su nueva temporada con el cuerpo y las mujeres como centro",
       "link": "https://www.eldiario.es/cultura/arte/museo-reina-sofia-presenta-nueva-temporada-cuerpo-mujeres-centro_1_13491749.html",
       "imagen": "https://static.eldiario.es/clip/1b205e50-7058-429a-b58f-a6422781364d_16-9-discover-aspect-ratio_default_0_x479y347.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "A24 anuncia un documental secreto sobre Elizabeth Holmes, la empresaria que estafó con su máquina de analizar sangre",
-      "link": "https://www.eldiario.es/cultura/cine/a24-anuncia-documental-secreto-elizabeth-holmes-empresaria-estafo-maquina-analizar-sangre_1_13491651.html",
-      "imagen": "https://static.eldiario.es/clip/235fc77b-972c-45b6-8a7a-6657ab452921_16-9-discover-aspect-ratio_default_1150587.jpg",
       "tipo": "imagen"
     }
   ]
