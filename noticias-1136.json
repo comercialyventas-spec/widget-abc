@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Caídas educativas salvajes de la Comunidad Valenciana y el País Vasco en el Informe PISA en una debacle general de las autonomías",
+      "link": "https://elpais.com/educacion/2026-09-08/caidas-educativas-salvajes-de-la-comunidad-valenciana-y-el-pais-vasco-en-el-informe-pisa-en-una-debacle-general-de-las-autonomias.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "Andalucía cuenta con 193.365 kilómetros de caminos públicos de los que solo se puede usar el 10%",
       "link": "https://elpais.com/espana/andalucia/2026-09-08/andalucia-cuenta-con-193365-kilometros-de-caminos-publicos-de-los-que-solo-se-puede-usar-el-10.html",
       "imagen": "",
@@ -9,14 +15,14 @@
     {
       "titulo": "Adelante Andalucía concurrirá a las generales y municipales con su propia marca: “Si todos se ponen bajo el ala del Gobierno del PSOE, se van a caer con él”",
       "link": "https://elpais.com/espana/andalucia/2026-09-07/adelante-andalucia-concurrira-a-las-generales-y-municipales-con-su-propia-marca-si-todos-se-ponen-bajo-el-ala-del-gobierno-del-psoe-se-van-a-caer-con-el.html",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://imagenes.elpais.com/resizer/v2/X34K6HA2IRPABFLFX4SN2XDXZ4.jpg?auth=91e501b037b3ad78ef64a803dd1e60dd51a70686c3358e42b3007427e383b8d2&width=414&height=233&smart=true",
+      "tipo": "imagen"
     },
     {
       "titulo": "El campo andaluz clama para que Deoleo se venda a capital de la comunidad",
       "link": "https://elpais.com/hemeroteca/2026-09-07/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/CJDRYZV7LFCA7JPXFBFCZ26XWI.jpg?auth=45891b0af72b4977f315e6b6270538b5a3741607fc58a0c58521da8364bd389c&width=414&height=233&smart=true",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "El juez del ‘caso avales’ procesa a 18 ex altos cargos de la Junta andaluza por una ayuda de un millón al grupo TPM",
@@ -27,13 +33,7 @@
     {
       "titulo": "La violencia del narco en el Estrecho alienta el debate sobre el regreso de la unidad de élite OCON-Sur",
       "link": "https://elpais.com/espana/2026-09-05/la-violencia-del-narco-en-el-estrecho-alienta-el-debate-sobre-el-regreso-de-la-unidad-de-elite-ocon-sur.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Las soluciones detrás del incendio de Los Gallardos para prevenir el riesgo en núcleos de viviendas aisladas y diseminadas",
-      "link": "https://elpais.com/espana/andalucia/2026-09-05/las-soluciones-detras-del-incendio-de-los-gallardos-para-prevenir-el-riesgo-en-nucleos-de-viviendas-aisladas-y-diseminadas.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/IB2B24K2URIIFM5HCOP3Z5T6YI.jpg?auth=983269ca0c21ffc92b1423911fd3f35b1200b4b6323adcce9e7bcf20edf99a83&width=414&height=311&focal=3195%2C1602",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/LXQFDQW67BH73K4K6G34FLHE6A.aspx?auth=2e968829b6ca715e18eae15875cc857cf723e61eda69f452a103013f7c9ddeb7&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

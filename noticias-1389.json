@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El petróleo roza los 100 dólares ante la escalada bélica en Oriente Próximo",
+      "link": "https://elpais.com/economia/2026-09-08/el-petroleo-roza-los-100-dolares-ante-la-escalada-belica-en-oriente-proximo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/WRIG7BOVDRGZBNPYSPDJN7WUXE.jpg?auth=70f821d98bfa843526589ce230709dd51823c577d1d776892e809eca62e42d2d",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Telefónica y las grandes ‘telecos’ europeas sondean una alianza satelital para competir contra Starlink",
+      "link": "https://cincodias.elpais.com/companias/2026-09-08/telefonica-y-las-grandes-telcos-europeas-sondean-una-alianza-satelital-para-competir-contra-starlink.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/EYKPENAMRRE45A77OIW6RXY6WM.png?auth=30e8dde6f2738cbad28b8be73c9d540e73682bb1ba7003fedb7b21121144e50d",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El declive de Volkswagen: es la empresa del automóvil que más factura, pero su gran rival Toyota gana cinco veces más",
       "link": "https://elpais.com/economia/2026-09-08/volkswagen-se-queda-fuera-del-podio-de-los-beneficios-del-automovil-pese-a-liderar-la-facturacion.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/2AN52UYFYNB4HOKOTPINRWLMGQ.jpg?auth=5aa4a62408d96c44dd4220c5c784a707aa36a420c5c50b67591d633e7e175c2c",
@@ -19,21 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "El Ibex cae más del 1% con el petróleo cerca de los 100 dólares por barril",
+      "titulo": "El Ibex modera las caídas a la espera de Wall Street",
       "link": "https://cincodias.elpais.com/mercados-financieros/2026-09-08/la-bolsa-y-el-ibex-35.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/KP6OYFGX4BIS3BM4GGIBHOSGHE.jpg?auth=4cd880d9d20d054b3ccee19996151457c16d5adccb38e4343a2229ab66a4b076",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Tesoro recibe 82.000 millones de euros de demanda para una colocación de deuda a 20 años",
-      "link": "https://cincodias.elpais.com/mercados-financieros/2026-09-08/el-tesoro-recibe-55000-millones-de-euros-de-demanda-para-una-colocacion-de-deuda-a-20-anos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/L6TTX34MCRAPTGZVNTSFOMXEQI.JPG?auth=a257843f7d9f1569ec22718eff9f5e5b9b4d414bcee1739f423a58c2ef668573",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El refino del petróleo dispara los márgenes del sector y explica casi un tercio de la subida de precios en España",
-      "link": "https://elpais.com/economia/2026-09-08/el-refino-del-petroleo-dispara-los-margenes-del-sector-y-explica-casi-un-tercio-de-la-subida-de-precios-en-espana.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/SNGYDQGK45A7DDK6M2QSNDM3X4.jpg?auth=c459712cde448143c35316810593ffe7b795a1f487f3c26733652a62552d24fe",
       "tipo": "imagen"
     }
   ]
