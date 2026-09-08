@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "PISA y los hijos de la Gran Recesión",
+      "link": "https://www.eldiario.es/opinion/tribuna-abierta/pisa-hijos-gran-recesion_129_13495610.html",
+      "imagen": "https://static.eldiario.es/clip/9bb55c99-8a1a-41bf-bc9c-52d586112d35_avatar-200-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La catástrofe de PISA, desde el aula: ¿es culpa de la IA o de un cúmulo de desdichas?",
       "link": "https://www.eldiario.es/opinion/tribuna-abierta/catastrofe-pisa-aula-culpa-ia-cumulo-desdichas_129_13495145.html",
       "imagen": "https://static.eldiario.es/eldiario/public/file/2026/0908/12/captura-de-pantalla-2026-09-08-a-las-14-17.png",
@@ -28,12 +34,6 @@
       "titulo": "Las del cerco al Parlament: unas condenas al margen de la ley",
       "link": "https://www.eldiario.es/opinion/tribuna-abierta/cerco-parlament-condenas-margen-ley_129_13487763.html",
       "imagen": "https://static.eldiario.es/clip/3e4146b3-871c-4950-91d6-3aa21bf0d60b_avatar-200-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ceuta y el fracaso del Estado de derecho",
-      "link": "https://www.eldiario.es/opinion/tribuna-abierta/ceuta-fracaso-derecho_129_13482491.html",
-      "imagen": "https://static.eldiario.es/clip/c8871900-1d2d-482a-9ca1-2f260f48728b_avatar-200-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
