@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El ahorro de comer huevos blancos",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260908/11628937/ahorro-comer-huevos-blancos.html",
+      "imagen": "https://www.lavanguardia.com/files/listing_main/uploads/2026/09/07/6a9e82724aaa6.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El ocaso de la Ría de Camariñas",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260907/11628982/ocaso-ria-camarinas.html",
       "imagen": "https://www.lavanguardia.com/files/listing_main/files/fp/uploads/2026/09/07/6a9e8b88e0b18.r_d.1019-602-0.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Los afectados por el socavón de Sant Gervasi se unen en una demanda colectiva contra el Govern",
       "link": "https://www.lavanguardia.com/local/barcelona/20260907/11629449/afectados-socavon-metro-sant-gervasi-presentan-demanda-colectiva-contra-govern.html",
       "imagen": "https://www.lavanguardia.com/files/listing_main/files/fp/uploads/2026/08/28/6a91dd0225de7.r_d.2067-1378-242.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Barcelona abre nuevos pisos temporales para personas sin hogar o en riesgo de exclusión",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260907/11629453/barcelona-abre-nuevos-pisos-temporales-personas-hogar-riesgo-exclusion.html",
-      "imagen": "https://www.lavanguardia.com/files/listing_main/files/fp/uploads/2026/09/07/6a9ef14b38ea8.r_d.459-306-0.jpeg",
       "tipo": "imagen"
     }
   ]
