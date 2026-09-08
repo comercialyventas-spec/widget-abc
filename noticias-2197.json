@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El secreto de Netflix",
+      "link": "<![CDATA[https://www.elperiodico.com/es/tele/20260908/secreto-netflix-134041351",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/5506fbed-b471-4914-9e79-2bb00d887131_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Francesc Cano asume la dirección de RAC1 en sustitución de Eulàlia Carbonell",
       "link": "<![CDATA[https://www.elperiodico.com/es/tele/20260907/francesc-cano-asume-direccion-rac1-134046702",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/637fb1f4-f387-45db-9d8b-05dc9d3ad16c_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "\"Rita Barberá es el principio y fin de una etapa. Cometió un error: volver a presentarse en las elecciones\"",
       "link": "<![CDATA[https://www.elperiodico.com/es/tele/20260907/rita-barbera-es-el-principio-y-fin-de-una-etapa-cometio-un-error-volver-a-presentarse-en-las-elecciones-134015148",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/198cd244-f594-453e-bccf-cc17ebf1447d_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Puyal",
-      "link": "<![CDATA[https://www.elperiodico.com/es/tele/20260907/puyal-sergi-mas-podcast-futbol-television-y-mas-134004581",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6e62acd5-4151-4e5a-a3a9-875b47a17ba5_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
