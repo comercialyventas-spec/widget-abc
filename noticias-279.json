@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Declarado un nuevo incendio forestal en la Sierra Oeste de Madrid",
+      "link": "https://www.abc.es/espana/madrid/nuevo-incendio-forestal-sierra-oeste-madrid-obliga-20260908192538-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/08/fuego123-RgioH2kZ2VL9lorPCuI0z1N-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Alquilar compañía",
       "link": "https://www.abc.es/espana/madrid/alquilar-compania-20260908180649-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/08/tercera-edad1-RLLhHngY0Chkgx4Ejm1Rm1M-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Cuatro dirigentes del PSOE de Leganés dimiten y denuncian «una pérdida total de confianza»",
       "link": "https://www.abc.es/espana/madrid/cuatro-dirigentes-psoe-leganes-dimiten-denuncian-perdida-20260908103101-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/08/mm-RD6vny3XuJQ7gsNehhYjVpL-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Muere un motorista de 47 años tras chocar contra un vehículo en la Avenida de los Poblados",
-      "link": "https://www.abc.es/espana/madrid/muere-motorista-anos-tras-chocar-vehiculo-avenida-20260908070927-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/08/poblados-kRaD-U301617474162UPD-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

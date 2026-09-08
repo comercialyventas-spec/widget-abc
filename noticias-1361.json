@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "‘La mesa de Hora 25’, programa en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-09-08/la-mesa-de-hora-25-programa-en-el-pais.html",
+      "imagen": "https://www.youtube.com/watch?v=Ez5y6DE-8Aw",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Quejas por la falta de despliegue policial en la vuelta al colegio en Ceuta: “Si lo llego a saber no traigo a mi hijo”",
       "link": "https://elpais.com/sociedad/2026-09-08/quejas-por-la-falta-de-despliegue-policial-en-la-vuelta-al-colegio-en-ceuta-si-lo-llego-a-saber-no-traigo-a-mi-hijo.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260908/1212173_161821_video_1800.mp4",
@@ -28,12 +34,6 @@
       "titulo": "Ángela y Sulaiman: no todos los niños vuelven al colegio en Ceuta",
       "link": "https://elpais.com/espana/2026-09-08/angela-y-sulaiman-no-todos-los-ninos-vuelven-al-colegio-en-ceuta.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260908/1211927_000918_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘La mesa de Hora 25’, en EL PAÍS | Programa del 7 de septiembre de 2026",
-      "link": "https://elpais.com/videos/2026-09-07/la-mesa-de-hora-25-programa-en-el-pais.html",
-      "imagen": "https://www.youtube.com/watch?v=4osjlWXNXkI",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "‘La mesa de Hora 25’, programa en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-09-08/la-mesa-de-hora-25-programa-en-el-pais.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RIBFKHCERJDFHKWBRGWFOY5NAA.jpeg?auth=9cd2dd0d3f4eae441365fd01bca6aa58b73d643f07eab2bd9f9493a926406d01&width=414&height=233&focal=354%2C362",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Quejas por la falta de despliegue policial en la vuelta al colegio en Ceuta: “Si lo llego a saber no traigo a mi hijo”",
+      "link": "https://elpais.com/sociedad/2026-09-08/quejas-por-la-falta-de-despliegue-policial-en-la-vuelta-al-colegio-en-ceuta-si-lo-llego-a-saber-no-traigo-a-mi-hijo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4CRXDTLEZ5BINOH3JOIKRVGGRM.jpeg?auth=78e8de34077b9acf904e9441ddedf9ae8ba5142b6cb1212dc0cfe4b727addd8b&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un Fórmula 1 de Oracle Red Bull Racing circula por primera vez sobre los raíles del Metro de Madrid",
       "link": "https://elpais.com/videos/2026-09-08/un-formula-1-de-oracle-red-bull-racing-circula-por-primera-vez-sobre-los-railes-del-metro-de-madrid.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/GW5RK4MVKVH5PIIPKMNXBBM6GU.jpg?auth=a57d73bdf46717f864aabab6e7cb2b6381b7d38102036cfb2ccfaa4f5431a5d4&width=414&height=233&focal=1005%2C483",
@@ -20,20 +32,8 @@
     },
     {
       "titulo": "Ángela y Sulaiman: no todos los niños vuelven al colegio en Ceuta",
-      "link": "https://elpais.com/espana/2026-09-08/angela-y-sulaiman-no-todos-los-ninos-vuelven-al-colegio-en-ceuta.html",
+      "link": "https://elpais.com/noticias/crisis-migratoria/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/SKG3FL7QIRHYVNM2BRPV7EKBMI.jpeg?auth=a0c8b486c49910e02f7750d954858b8b3cb28a1f43c5d0338dc1b597cc0e0ee2&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘La mesa de Hora 25’, en directo en EL PAÍS",
-      "link": "https://elpais.com/videos/2026-09-07/la-mesa-de-hora-25-programa-en-el-pais.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/RIBFKHCERJDFHKWBRGWFOY5NAA.jpeg?auth=9cd2dd0d3f4eae441365fd01bca6aa58b73d643f07eab2bd9f9493a926406d01&width=414&height=233&focal=354%2C362",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Raúl Cimas explica en la apertura de la Feria de Albacete el “urbanismo descriptivo” de la ciudad",
-      "link": "https://elpais.com/noticias/raul-cimas-navarro/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/52NYR4P2FBOJND63ZCXJ4XNLTU.jpg?auth=18b9ab7a196b23f289f1a87ce952166c704216ac0bab86135009fa4716342d92&width=414&height=233&focal=774%2C465",
       "tipo": "imagen"
     }
   ]
