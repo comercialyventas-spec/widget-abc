@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "OpenAI afirma haber resuelto uno de los problemas matemáticos del milenio",
+      "link": "https://www.abc.es/tecnologia/openai-afirma-haber-resuelto-problemas-matematicos-milenio-20260908204002-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/08/ChatGPT%20Image%208%20sept%202026,%2020_35_14-RkgEjnliK7P9B8jlAPP6SSN-1200x840@diario_abc.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sin pedales, sin volante y biplaza: así son los Tesla Cybercab que ya circulan en Estados Unidos",
       "link": "https://www.abc.es/tecnologia/electronica/pedales-volante-biplaza-tesla-cybercab-circulan-estados-20260907130742-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/07/cybercab-tesla-robotaxi-RkHdSBYNdfYzfGvqrizwe2M-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Tesla anuncia la fecha en la que venderá sus robots Optimus a particulares: «Estamos enfocados en la creación de valor a largo plazo»",
       "link": "https://www.abc.es/tecnologia/tesla-anuncia-fecha-vendera-robots-optimus-particulares-20260906190000-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/06/newspaint-1788539303471-1200x840-kqwG-U301576138512KQB-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La IA está cambiando la religión y las religiones intentan cambiar la IA",
-      "link": "https://www.abc.es/tecnologia/ia-cambiando-religion-religiones-intentan-cambiar-ia-20260906120204-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/06/economist_1200x840-kD2-U301562311872VbH-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

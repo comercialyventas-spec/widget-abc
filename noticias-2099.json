@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Telediario",
+      "link": "https://loquesomos.es/telediario/",
+      "imagen": "https://loquesomos.es/wp-content/uploads/2026/08/television-tv-informacion-comunicacion-periodismo-lqsomos-555x450.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "MADURO ocho meses… ¡SECUESTRADO!. Canto por ÑAMÉRICA…",
       "link": "https://loquesomos.es/canto-por-namerica/",
       "imagen": "https://loquesomos.es/wp-content/uploads/2026/08/Secuestro-de-Nicolas-maduro-celia-flores-venezuela-lqsomos-765x450.png",
@@ -28,12 +34,6 @@
       "titulo": "Abur! a Jean Zegler",
       "link": "https://loquesomos.es/abur-a-jean-zegler/",
       "imagen": "https://loquesomos.es/wp-content/uploads/2026/06/Jean_Ziegler_kqsomos-777x450.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Negocio y control de mentes",
-      "link": "https://loquesomos.es/negocio-y-control-de-mentes/",
-      "imagen": "https://loquesomos.es/wp-content/uploads/2026/04/Papa-qien-lo-quiera-que-los-pague-iglesia-religion-laicismo-lqsomos-674x450.png",
       "tipo": "imagen"
     }
   ]
