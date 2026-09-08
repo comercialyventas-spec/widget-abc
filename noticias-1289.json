@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El ex número dos de la inteligencia marroquí revelará la información del móvil de Pedro Sánchez",
+      "link": "https://www.mediterraneodigital.com/espana/pegasus-movil-pedro-sanchez",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/9/sanchez-movil.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El expresidente de Plus Ultra confiesa ante el juez que aceptó pagar un 1% de comisión a Zapatero",
       "link": "https://www.mediterraneodigital.com/espana/plus-ultra-zapatero-comision",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/zapatero-plus-ultra.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Un informe confidencial de la Policía confirma que Marruecos organizó la invasión de Ceuta",
       "link": "https://www.mediterraneodigital.com/espana/ceuta-y-melilla/invasion-ceuta",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/ceuta-invasion.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¡Alerta sanitaria! Inmigrantes colocados de cocaína y cannabis saturan Ceuta",
-      "link": "https://www.mediterraneodigital.com/espana/ceuta-y-melilla/ceuta-inmigrantes",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/8/moros.jpg",
       "tipo": "imagen"
     }
   ]
