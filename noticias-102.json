@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Los caminos que durante siglos permitieron atravesar los Pirineos",
+      "link": "https://www.lavanguardia.com/lugaresdeaventura/20260908/11629251/caminos-siglos-permitieron-atravesar-pirineos.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/uploads/2026/06/26/6a3e4603d4ce3.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Blood Falls: el misterioso río rojo de la Antártida que la ciencia aún no logra explicar del todo",
       "link": "https://www.lavanguardia.com/lugaresdeaventura/20260907/11524819/blood-falls-misterioso-rio-rojo-antartida-ciencia-aun-logra-explicar.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/uploads/2026/04/28/69f0dd4014a9f.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/uploads/2026/04/28/69f0dd4014a9f.jpeg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Cuando la aventura empieza con una canción",
       "link": "https://www.lavanguardia.com/lugaresdeaventura/20260902/11488974/aventura-empieza-cancion.html",
       "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2018/08/01/5fa43a27691e3.r_d.282-174-6845.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cuando septiembre devuelve el silencio a la montaña",
-      "link": "https://www.lavanguardia.com/lugaresdeaventura/20260901/11612760/septiembre-devuelve-silencio-montana.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/08/13/6a7e27ad82f3c.r_d.1074-584-2339.jpeg",
       "tipo": "imagen"
     }
   ]

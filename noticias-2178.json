@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Los Mossos investigan un presunto secuestro a tiros en Gavà",
+      "link": "<![CDATA[https://www.elperiodico.com/es/sucesos/20260908/mossos-investigan-presunto-secuestro-tiros-gava-sabadell-134054271",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9edeaab3-b6a7-4c6b-9d61-03d195a06dfe_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Huelga de profesores en Catalunya y vuelta al cole, en directo Última hora de la manifestación de docentes y los resultados del informe PISA",
       "link": "<![CDATA[https://www.elperiodico.com/es/sociedad/20260908/vuelta-colegio-profesores-ultima-hora-directo-133908416",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/29f0aa1e-a815-4d6e-9263-77751ea7e15d_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Última hora y actualidad sobre los incendios en España",
+      "link": "<![CDATA[https://www.elperiodico.com/es/sociedad/20260822/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ae2ea303-3a4b-490f-8526-a10d4404225e_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Catalunya arranca el curso 2026-2027 con 1,6 millones de alumnos y 85.000 profesores llamados a la huelga",
       "link": "<![CDATA[https://www.elperiodico.com/es/sociedad/20260908/vuelta-al-cole-huelga-profesores-cataluna-primer-dia-curso-2026-27-134021665",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a24bf758-7d2c-48e4-8fc4-d0ba95015903_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La portada de EL PERIÓDICO del 8 de septiembre de 2026",
-      "link": "<![CDATA[https://www.elperiodico.com/es/sociedad/20260908/portada-periodico-8-septiembre-2026-134050324",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/dda67a4d-8077-4a98-b989-feb295a035f2_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Veolia acelera la digitalización del ciclo del agua con 17 proyectos en España",
-      "link": "<![CDATA[https://www.elperiodico.com/ideas/Territorios-Sostenibles/digitalizacion-del-ciclo-del-agua.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/e31ea8f5-74ed-4fe7-a69f-d057954f5e5b_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
