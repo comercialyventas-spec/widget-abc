@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Una noticia de escándalo",
+      "link": "https://www.lavanguardia.com/opinion/20260909/11630462/noticia-escandalo.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/08/6aa0804789d31.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Centenares de cigüeñas están de paso",
+      "link": "https://www.lavanguardia.com/opinion/20260908/11630518/centenares-cigueenas-paso.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/08/6aa083b65dc9a.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El futuro de la AP-7",
+      "link": "https://www.lavanguardia.com/opinion/20260908/11630498/futuro-ap-7.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Barcelona no puede resignarse a bajar la persiana",
       "link": "https://www.lavanguardia.com/local/barcelona/20260908/11629003/barcelona-resignarse-bajar-persiana.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/03/31/64274dc75158e.jpeg",
@@ -16,24 +34,6 @@
       "titulo": "Un uniforme de pesadilla",
       "link": "https://www.lavanguardia.com/opinion/20260908/11629693/uniforme-pesadilla.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/08/6a9f3400b055f.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Derecho de huelga y derecho a la educación",
-      "link": "https://www.lavanguardia.com/opinion/20260908/11629511/derecho-huelga-derecho-educacion.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "No odiamos a los niños",
-      "link": "https://www.lavanguardia.com/opinion/20260908/11629471/odiamos-ninos.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/10/06/652000b8760aa.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La amenaza que acecha",
-      "link": "https://www.lavanguardia.com/opinion/20260908/11629433/amenaza-acecha.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/03/6a992f0c04fdc.r_d.459-306-0.jpeg",
       "tipo": "imagen"
     }
   ]

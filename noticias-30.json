@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El Govern limita este miércoles la movilidad y cierra los colegios en cinco comarcas por lluvia",
+      "link": "https://www.lavanguardia.com/vida/20260909/11630431/govern-limita-miercoles-movilidad-cierra-colegios-cinco-comarcas-lluvia.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/08/6aa05ba874559.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El móvil no es el único problema",
+      "link": "https://www.lavanguardia.com/vida/20260908/11630530/movil-unico-problema.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "OpenAI asegura haber resuelto uno de los problemas más profundos de las matemáticas",
       "link": "https://www.lavanguardia.com/vida/20260908/11630417/openai-asegura-haber-resuelto-problemas-mas-profundos-matematicas.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/08/6aa04fb2b01a3.r_d.1319-701-1662.jpeg",
@@ -22,18 +34,6 @@
       "titulo": "Golpe policial a la 'Banca de Dubai', el narcobanco al servicio de los capos de la droga",
       "link": "https://www.lavanguardia.com/vida/20260908/11629950/golpe-policial-banca-dubai-narcobanco-servicio-capos-droga.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/08/6a9fe98cc8764.r_d.341-149-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Por qué no podemos decir que los resultados de las pruebas PISA han mejorado en Catalunya",
-      "link": "https://www.lavanguardia.com/vida/verificacion/20260908/11629959/decir-resultados-pruebas-pisa-han-mejorado-catalunya.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2020/10/05/5fad47efc4a86.r_d.495-465-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Formación Profesional, clave para asegurar el relevo generacional en el sector de los cuidados",
-      "link": "https://www.lavanguardia.com/vida/junior-report/20260908/11629941/formacion-profesional-clave-asegurar-relevo-generacional-sector-cuidados.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/08/6a9fdec2d2950.r_d.3215-2143-698.jpeg",
       "tipo": "imagen"
     }
   ]
