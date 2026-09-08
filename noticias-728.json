@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¿Está nuestro destino escrito en nuestros genes?",
+      "link": "https://www.eldiario.es/edcreativo/diario-salud/destino-escrito-genes_1_13437492.html",
+      "imagen": "https://static.eldiario.es/clip/775e6382-1eeb-40ee-8b35-acdaac7ae8b2_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Tiroides y obesidad, ¿qué ocurre realmente en nuestro cuerpo?",
       "link": "https://www.eldiario.es/edcreativo/diario-salud/tiroides-obesidad-ocurre-realmente-cuerpo_1_13431342.html",
       "imagen": "https://static.eldiario.es/clip/ca70f06f-feec-47f4-86c3-01d7971eeda1_16-9-discover-aspect-ratio_default_0_x1018y229.jpg",
@@ -19,21 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "¿Cómo prevenir las infecciones urinarias en verano? Los pequeños gestos que protegen",
-      "link": "https://www.eldiario.es/edcreativo/diario-salud/prevenir-infecciones-urinarias-verano-pequenos-gestos-protegen_1_13358429.html",
-      "imagen": "https://static.eldiario.es/clip/adeae45c-0dc9-4864-a9bb-53b3a4175fb0_16-9-discover-aspect-ratio_default_0.jpg",
+      "titulo": "Enfermedades respiratorias y vacaciones: cómo planificar el viaje para proteger los pulmones",
+      "link": "https://www.eldiario.es/edcreativo/diario-salud/enfermedades-respiratorias-vacaciones-planificar-viaje-proteger-pulmones_1_13305073.html",
+      "imagen": "https://static.eldiario.es/clip/793ca7a4-947c-4b9b-a41b-e577162101b4_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
       "titulo": "Vitamina C contra el cáncer de colon: así es como reduce la resistencia a la quimioterapia",
       "link": "https://www.eldiario.es/edcreativo/diario-salud/vitamina-c-cancer-colon-reduce-resistencia-quimioterapia_1_13268177.html",
       "imagen": "https://static.eldiario.es/clip/7121cbe7-bb44-4252-9653-9bff0a96e1cf_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Zumbidos tras un concierto: cómo proteger nuestros oídos durante la temporada de festivales",
-      "link": "https://www.eldiario.es/edcreativo/diario-salud/zumbidos-concierto-proteger-oidos-durante-temporada-festivales_1_13260620.html",
-      "imagen": "https://static.eldiario.es/clip/7c069f83-e137-4888-868d-f46ff14c928d_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

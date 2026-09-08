@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Gloria a Gloria",
+      "link": "https://www.elmundo.es/cultura/2026/09/08/6a9ef75cfdddfffc408b458b.html",
+      "imagen": "https://e01-phantom-elmundo.uecdn.es/241a22e315077092603d53068efc3170/resize/324/f/jpg/assets/multimedia/imagenes/2026/09/07/17888032271693.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Rusia reanuda sus ataques sobre Kiev después de tres días de tregua",
       "link": "https://www.elmundo.es/internacional/2026/09/08/6a9f4d5bfdddff911a8b4593.html",
       "imagen": "https://e01-phantom-elmundo.uecdn.es/be1820a5766563017bf937efe3c76d23/resize/324/f/jpg/assets/multimedia/imagenes/2026/09/08/17888249557754.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Las enseñanzas para Leonor de los compañeros de Universidad del Rey: \"Lo de las fotos es insoportable\"",
       "link": "https://www.elmundo.es/espana/2026/09/08/6a9dfbc0e85ecea83f8b4584.html",
       "imagen": "https://e01-phantom-elmundo.uecdn.es/001118ca8e47ca87050e41abe4c61d4c/resize/324/f/jpg/assets/multimedia/imagenes/2026/09/07/17888075263949.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "\"Señor presidente, ¿cómo va a seguir gobernando?\": la pregunta que une a Feijóo y Rufián marca el final en el Congreso",
-      "link": "https://www.elmundo.es/espana/2026/09/08/6a9eeee6e4d4d8436c8b456e.html",
-      "imagen": "https://e01-phantom-elmundo.uecdn.es/c6aff518a352e10a972843ad6ca9cbf9/resize/324/f/jpg/assets/multimedia/imagenes/2026/09/07/17888057660877.jpg",
       "tipo": "imagen"
     }
   ]
