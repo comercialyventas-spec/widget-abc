@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Nueve meses en el mar a bordo del USS Abraham Lincoln: soledad, fatiga y orgullo",
+      "link": "https://www.elmundo.es/internacional/2026/09/09/6aa01c56e85ece2e118b458a.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/08/17888780372885.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los estadounidenses sin titulación universitaria viven uno de los mejores mercados laborales en años",
       "link": "https://www.elmundo.es/economia/empresas/2026/09/08/6a9ed425fdddff0c2f8b4596.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/07/17887959232183.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Los fundadores profundamente 'nerds' detrás de la apuesta de 13.000 millones de dólares de Nvidia por Hugging Face",
       "link": "https://www.elmundo.es/economia/empresas/2026/09/05/6a9abbecfc6c83093c8b456e.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/05/17885957742755.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Suspenden los ensayos de tratamientos de enfermedades autoinmunes tras producirse fallecimientos y efectos secundarios potencialmente mortales",
-      "link": "https://www.elmundo.es/salud/2026/09/04/6a9a980ffdddff54318b459e.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/04/17885238543440.jpg",
       "tipo": "imagen"
     }
   ]

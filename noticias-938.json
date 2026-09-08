@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Horóscopo de hoy miércoles 9 de septiembre de 2026",
+      "link": "https://www.elmundo.es/yodona/horoscopo/2026/09/09/6a9a6416e9cf4a7d288b4571.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2022/09/22/16638323656294.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Horóscopo de hoy martes 8 de septiembre de 2026",
       "link": "https://www.elmundo.es/yodona/horoscopo/2026/09/08/6a9a62c521efa0055a8b4588.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2022/09/22/16638323391794.jpg",
@@ -22,12 +28,6 @@
       "titulo": "Horóscopo de hoy jueves 3 de septiembre de 2026",
       "link": "https://www.elmundo.es/yodona/horoscopo/2026/09/03/6a8fe499e4d4d819608b4575.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2022/09/22/16638324043331.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Horóscopo de hoy miércoles 2 de septiembre de 2026",
-      "link": "https://www.elmundo.es/yodona/horoscopo/2026/09/02/6a8fe3c5fc6c83284e8b4589.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2022/09/22/16638323656294.jpg",
       "tipo": "imagen"
     }
   ]
