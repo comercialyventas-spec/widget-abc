@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "España obtiene el peor resultado de su historia en PISA: batacazo en Lectura, Matemáticas y Ciencias",
+      "link": "https://okdiario.com/espana/espana-obtiene-peor-resultado-historia-pisa-batacazo-lectura-matematicas-ciencias-20247148",
+      "imagen": "https://okdiario.com/img/2026/09/08/aula-escolar.-ep.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Última hora de la actualidad política en directo | 13.000 alumnos ceutíes inician hoy el colegio escoltados por efectivos de la Policía, la Guardia Civil y el Ejército",
       "link": "https://okdiario.com/espana/ultima-hora-actualidad-politica-directo-13-000-alumnos-ceuties-inician-hoy-colegio-escoltados-efectivos-policia-guardia-civil-ejercito-20247086",
       "imagen": "https://okdiario.com/img/2026/09/08/diseno-sin-titulo-3-5.jpg",
@@ -28,12 +34,6 @@
       "titulo": "AEMET prevé sol por la mañana y nubes con chubascos aislados en Barcelona",
       "link": "https://okdiario.com/cataluna/aemet-preve-sol-por-la-manana-y-nubes-con-chubascos-aislados-en-barcelona-20246478",
       "imagen": "https://okdiario.com/img/2026/01/12/maximas-barcelona-interior.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cielos limpios y brumas en Andalucía: previsión AEMET sugiere cambios en las temperaturas y vientos suaves",
-      "link": "https://okdiario.com/andalucia/cielos-limpios-y-brumas-en-andalucia-prevision-aemet-sugiere-cambios-en-las-temperaturas-y-vientos-suaves-20246468",
-      "imagen": "https://okdiario.com/img/2026/01/12/maximas-andalucia-interior.jpg",
       "tipo": "imagen"
     }
   ]

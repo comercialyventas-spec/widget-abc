@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Caídas educativas salvajes de la Comunidad Valenciana y el País Vasco en el Informe PISA en una debacle general de las autonomías",
+      "link": "https://elpais.com/educacion/2026-09-08/caidas-educativas-salvajes-de-la-comunidad-valenciana-y-el-pais-vasco-en-el-informe-pisa-en-una-debacle-general-de-las-autonomias.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "Juego de tronos en la empresa navarra Azkoyen",
       "link": "https://elpais.com/economia/negocios/2026-09-07/juego-de-tronos-en-la-empresa-navarra-azkoyen.html",
       "imagen": "",
@@ -9,14 +15,14 @@
     {
       "titulo": "Detenido en Ondarroa el presunto autor del asesinato de un taxista en Azpeitia",
       "link": "https://elpais.com/espana/2026-09-05/detenido-en-ondarroa-el-presunto-autor-del-asesinato-de-un-taxista-en-azpeitia.html",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://imagenes.elpais.com/resizer/v2/DJ5YEKMFTROOHKKP3FQOWG34ME.jpg?auth=4746aa1b283e82b2d9174f52181dbf0bce917a376e724232209028bde611cc71&width=414&height=233&smart=true",
+      "tipo": "imagen"
     },
     {
       "titulo": "Idoia Arana, la museóloga vasca que encontró un puente entre Euskadi y los pueblos indígenas de Canadá",
       "link": "https://elpais.com/espana/2026-09-03/idoia-arana-la-museologa-vasca-que-encontro-un-puente-entre-euskadi-y-los-pueblos-indigenas-de-canada.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/BJICVHFVJBDIHN3SEXISQFRAKY.jpg?auth=dc1e15bb14ae36ddc39cdab8a9f04b1a4807db6c5cee71e85b0a935e32a607d3&width=414&height=233&focal=1237%2C457",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "El Gobierno vasco vuelve a conceder la semilibertad a ‘Anboto’ tras rechazarla un juez hace cinco meses",
@@ -27,13 +33,7 @@
     {
       "titulo": "Asesinado a tiros un taxista de Azpeitia tras ser embestido por otro vehículo",
       "link": "https://elpais.com/espana/pais-vasco/2026-09-02/asesinado-a-tiros-un-taxista-de-azpeitia-tras-ser-embestido-por-otro-vehiculo.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Imputado por profanar 181 tumbas en un cementerio de Gipuzkoa",
-      "link": "https://elpais.com/espana/pais-vasco/2026-09-01/imputado-por-profanar-181-tumbas-en-un-cementerio-de-gipuzkoa.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/3KNPOBILJZHEZB4WENU7NQTIHM.jpg?auth=1dd847160e2519b0635ef44a782056251be1aced1f531936e5a3f4a1accab7f0&width=414&height=311&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/DJ5YEKMFTROOHKKP3FQOWG34ME.jpg?auth=4746aa1b283e82b2d9174f52181dbf0bce917a376e724232209028bde611cc71&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]
