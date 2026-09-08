@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Reino Unido anuncia sanciones contra los colonos israelíes en Cisjordania y provoca una airada respuesta de Israel",
+      "link": "https://www.bbc.com/mundo/articles/c39mdkm7mrlo",
+      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a60e/live/85980130-ab9e-11f1-b26f-1588b95519ec.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "\"Es un oasis en medio del desierto\": cómo Uruguay se convirtió en el destino favorito de miles de migrantes cubanos",
       "link": "https://www.bbc.com/mundo/articles/c1j4xx7ld29o",
       "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/76d5/live/ef5f6620-a7b2-11f1-b5cf-8556ae508a51.jpg",
@@ -10,12 +16,6 @@
       "titulo": "Pruebas PISA: España obtiene los peores resultados educativos de su historia mientras la mayoría de los países de América Latina sufre retrocesos",
       "link": "https://www.bbc.com/mundo/articles/c1kx8d94422o",
       "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/29c9/live/a00dc470-ab56-11f1-b471-ff02eb3eac27.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Abren una investigación después de que el personal femenino de la Torre Eiffel fuera sustituido por hombres durante una visita religiosa",
-      "link": "https://www.bbc.com/mundo/articles/cpd0jvvy08lo",
-      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c677/live/d52ea700-ab6f-11f1-b109-879e35c24276.jpg",
       "tipo": "imagen"
     },
     {
@@ -31,9 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Quién es el líder político mejor pagado del mundo y por qué le subirán el salario US$1 millón",
-      "link": "https://www.bbc.com/mundo/articles/c3v43l909n3o",
-      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/25d5/live/40541500-ab58-11f1-b471-ff02eb3eac27.jpg",
+      "titulo": "Abren una investigación después de que el personal femenino de la Torre Eiffel fuera sustituido por hombres durante una visita religiosa",
+      "link": "https://www.bbc.com/mundo/articles/cpd0jvvy08lo",
+      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c677/live/d52ea700-ab6f-11f1-b109-879e35c24276.jpg",
       "tipo": "imagen"
     }
   ]
