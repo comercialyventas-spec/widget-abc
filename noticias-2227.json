@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Acto religioso en Barajas. Afectadas 4 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260911-PR-San-Pedro-Apostol-Barajas.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Campeonato de Fórmula 1. Afectadas 10 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260910-Gran-Premio-F1.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Evento sociocultural en Ayerbe. Afectada línea 115 de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260910-Fiestas-Barajas.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Supresión de Parada: avenida de las Fuerzas Armadas. Afectadas 3 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260911-SP-5899-Av-Fuerzas-Armadas.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Supresión de Parada: avenida de Las Fuerzas Armadas. Afectadas 3 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260911-SP-5916-AV-Fuerzas-Armadas.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/docs/00-Logo-RSS_Corporativo.png",
@@ -9,30 +33,6 @@
     {
       "titulo": "Evento sociocultural en Carretera M-508. Afectada línea A de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260908-Fiestas-Pozuelo.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Manifestación en zona Centro. Afectadas 42 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260910-M-Paseo-Infanta-Isabel-Paseo-Castellana.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Concentración en avenida Pablo Neruda. Afectadas 2 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260911-C-Pablo-Neruda.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Evento: Palacio de los Deportes. Afectadas 4 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260911-PD-Evento.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Servicio Especial Lanzadera entre Feria de Madrid (Madring Sur) y Avenida de América.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260911-MR5-Feria-Madrid-Avenida-America.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

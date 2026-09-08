@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Última hora de la alerta por lluvias y la cancelación de clases, en directo Previsión del Meteocat y comarcas afectadas por el Inuncat",
+      "titulo": "Última hora de la alerta por lluvias y la cancelación de clases, en directo Previsión del Meteocat, ES-Alert y comarcas afectadas por el Inuncat",
       "link": "<![CDATA[https://www.elperiodico.com/es/tiempo/20260908/alerta-lluvias-meteocat-cataluna-ultima-hora-directo-134075102",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/bac29833-c892-4d47-8171-220d8a82c250_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Suspendida la actividad educativa y se restringe la movilidad en cinco comarcas catalanas por la previsión de fuertes lluvias",
+      "link": "<![CDATA[https://www.elperiodico.com/es/sociedad/20260908/lluvias-catalunya-proteccion-civil-parlon-134073234",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ff55808b-74fc-4284-b2f7-569939223152_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Confirmado por el Meteocat: agosto ha roto récords de temperatura en Catalunya",
       "link": "<![CDATA[https://www.elperiodico.com/es/tiempo/20260906/tiempo-cataluna-meteocat-agosto-calor-dv-loc-133850967",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/24b3360e-fe5e-4a51-b66b-c45ebd66e889_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las máximas superan los 40 grados en Catalunya por tercer día consecutivo",
-      "link": "<![CDATA[https://www.elperiodico.com/es/tiempo/20260906/maximas-superan-40-grados-catalunya-calor-tiempo-134004063",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9b8fa380-1238-4c02-a558-b11cca50da86_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

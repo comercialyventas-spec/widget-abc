@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Hallan muerto un hombre con un fuerte golpe en la cabeza en Valènca",
+      "link": "https://www.lavanguardia.com/local/valencia/20260908/11630252/hallan-muerto-hombre-fuerte-golpe-cabeza-valenca.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/10/69621b02bb8cc.r_d.225-283-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Interceptan más de 1.200 kilos de cocaína ocultos en un cargamento de cocos en Sevilla",
       "link": "https://www.lavanguardia.com/local/andalucia/20260908/11629963/interceptan-mas-1-200-kilos-cocaina-ocultos-cargamento-cocos-sevilla.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/08/6a9fe758b5a15.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Desmantelada una red criminal que captaba a víctimas en Colombia para explotarlas laboralmente en España",
       "link": "https://www.lavanguardia.com/sucesos/20260907/11629130/desmantelada-red-criminal-captaba-victimas-colombia-explotarlas-laboralmente-espana.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/07/6a9ea77fab1b9.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Desmantelan un punto de preparación y almacenamiento de cocaína en Badalona",
-      "link": "https://www.lavanguardia.com/local/barcelones-nord/20260907/11628987/desmantelan-punto-preparacion-almacenamiento-cocaina-badalona.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/07/6a9e8c1aae256.jpeg",
       "tipo": "imagen"
     }
   ]
