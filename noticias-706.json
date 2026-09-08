@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "De 350 euros en Lugo a más de 1.000 en el interior de Valencia: así son los primeros pisos disponibles de Casa 47",
-      "link": "https://www.eldiario.es/economia/350-euros-lugo-1-000-interior-valencia-son-primeros-pisos-disponibles-casa-47_1_13495640.html",
-      "imagen": "https://static.eldiario.es/clip/64338145-df0d-494c-8cae-8b6d84134cee_16-9-discover-aspect-ratio_default_0.jpg",
+      "titulo": "Las ventas de coches de grupos chinos baten récords en España: se acercan al 15% del mercado",
+      "link": "https://www.eldiario.es/motor/sector_y_mercado/ventas-coches-grupos-chinos-baten-records-espana-acercan-15-mercado_1_13484232.html",
+      "imagen": "https://static.eldiario.es/clip/4a5ef7ee-1ec9-4587-9334-2d1bdf3a213e_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Los inmigrantes bajan los salarios?",
+      "link": "https://www.eldiario.es/economia/inmigrantes-bajan-salarios_129_13495886.html",
+      "imagen": "https://static.eldiario.es/clip/41a8c90d-79bd-4161-b3d4-b6ee95ab4baa_avatar-200-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -29,12 +35,6 @@
       "link": "https://www.eldiario.es/opinion/zona-critica/vuelta-cole-nuevo-desorden-mundial_129_13493356.html",
       "imagen": "",
       "tipo": ""
-    },
-    {
-      "titulo": "Un clima moral como antesala del terror",
-      "link": "https://www.eldiario.es/opinion/zona-critica/clima-moral-antesala-terror_129_13492568.html",
-      "imagen": "https://static.eldiario.es/clip/2bb1a67a-b2be-495b-91d5-141d0fd24b51_avatar-200-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
     }
   ]
 }
