@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "La mujer miniatura",
-      "link": "https://elpais.com/television/series/la-mujer-miniatura/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/PW24APBJNFBD5IZCHDBKWPVTBE.jpg?auth=5283c0d19cf5bc567d63cb4ad1cbcbb22c12f53bf30f4c12b99cdf9bf07778b5",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Causa abierta",
       "link": "https://elpais.com/television/series/sin-rastro/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/CE74LZFIXJEJBICC35TMXOBANQ.png?auth=a36a6fa6dd32553f394dbb28a6cac13b953eef264eb4a349e03007bb957c17f7",
@@ -34,6 +28,12 @@
       "titulo": "Las cámaras de ‘La revuelta’ dejan de grabar por un error técnico y el programa decide emitir una imagen congelada dos minutos",
       "link": "https://elpais.com/television/2026-09-09/las-camaras-de-la-revuelta-dejan-de-grabar-por-un-error-tecnico-y-el-programa-decide-emitir-una-imagen-congelada-dos-minutos.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/HYZCOXQYZVGKLGEIF6ATXA3EFA.png?auth=63393dc099de787dea27932f6d97395beedba6a4ef93869195357b78688e6c8a",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La adicción de Molly a las redes sociales que la llevó al suicidio: “Detrás de las plataformas tecnológicas hay personas que toman decisiones”",
+      "link": "https://elpais.com/television/2026-09-09/la-adiccion-de-molly-a-las-redes-sociales-que-la-llevo-al-suicidio-detras-de-las-plataformas-tecnologicas-hay-personas-que-toman-decisiones.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/5A5FR64LRNFJRNURN34EWUQVCI.png?auth=3b1192c2071b3bb53bea58bf6db4b17ee95441839e5334c688cccd7096b5ee2f",
       "tipo": "imagen"
     }
   ]
