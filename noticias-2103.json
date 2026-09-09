@@ -1,10 +1,16 @@
 {
   "noticias": [
     {
+      "titulo": "Sánchez se enfrenta a su primera sesión de control tras la crisis de Ceuta",
+      "link": "https://www.infolibre.es/politica/sanchez-enfrenta-primera-sesion-control-crisis-ceuta_7_2236042.html",
+      "imagen": "https://static.infolibre.es/clip/15b1ea8f-e56a-4835-a5fa-d485ef70c4f9_16-9-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los elementos que conforman el común denominador de los malos resultados en PISA",
       "link": "https://www.infolibre.es/politica/elementos-conforman-comun-denominador-malos-resultados-pisa_1_2236004.html",
-      "imagen": "https://static.infolibre.es/clip/b0f3a567-6934-4f5f-8dee-6dd51fb46dc7_16-9-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Las declaraciones más delicadas para Zapatero no arrojan luz sobre la gran sombra del 'caso Plus Ultra'",
@@ -27,12 +33,6 @@
     {
       "titulo": "Nacionalidad sí, voto no: qué cambia el Supremo para parte de los beneficiarios de la ‘ley de nietos’",
       "link": "https://www.infolibre.es/politica/nacionalidad-si-voto-no-cambia-supremo-parte-beneficiarios-ley-nietos_1_2236036.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Interior pide disculpas y reduce su dosier sobre tertulianos a un informe “consultivo”",
-      "link": "https://www.infolibre.es/politica/interior-pide-disculpas-reduce-dosier-tertulianos-informe-consultivo_1_2236024.html",
       "imagen": "",
       "tipo": ""
     }

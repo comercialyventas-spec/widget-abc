@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Las persianas de la Masia Freixa",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260909/11602189/persianas-masia-freixa.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/09/6aa0f6c6677c5.r_d.443-634-5190.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La gran cigüeña pescadora",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260909/11630655/gran-cigueena-pescadora.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/09/6aa0e95f1a2d9.r_d.960-528-2338.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Las enseñanzas del humanista Juan Luis Vives, pionero de la psicología moderna",
       "link": "https://www.lavanguardia.com/participacion/red-lectores/20260909/11629132/ensenanzas-humanista-juan-luis-vives-pionero-psicologia-moderna.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2020/09/07/5faa6b14f250c.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Encuesta: ¿Apruebas que Renfe permita el transporte de patinetes eléctricos en sus trenes?",
-      "link": "https://www.lavanguardia.com/participacion/debates/20260909/11598180/encuesta-apruebas-renfe-permita-transporte-patinetes-electricos-trenes.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/04/02/660bf6010448c.r_d.2323-1160-0.jpeg",
       "tipo": "imagen"
     }
   ]

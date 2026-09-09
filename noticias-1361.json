@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "‘El Pulso’ de ‘Hoy por Hoy’ en directo, en EL PAÍS",
-      "link": "https://elpais.com/videos/2026-09-09/el-pulso-de-hoy-por-hoy-en-directo-en-el-pais.html",
-      "imagen": "https://www.youtube.com/watch?v=m2bWqkLlkjQ",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "¿Es imparable el avance de la extrema derecha en Europa?",
       "link": "https://elpais.com/videos/2026-09-09/es-imparable-el-avance-de-la-extrema-derecha-en-europa.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260908/1212196_171729_video_1800.mp4",
@@ -34,6 +28,12 @@
       "titulo": "Quejas por la falta de despliegue policial en la vuelta al colegio en Ceuta: “Si lo llego a saber no traigo a mi hijo”",
       "link": "https://elpais.com/sociedad/2026-09-08/quejas-por-la-falta-de-despliegue-policial-en-la-vuelta-al-colegio-en-ceuta-si-lo-llego-a-saber-no-traigo-a-mi-hijo.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260908/1212173_161821_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un Fórmula 1 de Oracle Red Bull Racing circula por primera vez sobre los raíles del Metro de Madrid",
+      "link": "https://elpais.com/videos/2026-09-08/un-formula-1-de-oracle-red-bull-racing-circula-por-primera-vez-sobre-los-railes-del-metro-de-madrid.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260908/1212077_121920_video_1800.mp4",
       "tipo": "imagen"
     }
   ]
