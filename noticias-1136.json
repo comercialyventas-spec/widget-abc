@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Berrocal, 22 años para volver al punto de partida entre las cenizas del incendio de Riotinto",
+      "link": "https://elpais.com/espana/andalucia/2026-09-09/berrocal-22-anos-para-volver-al-punto-de-partida-entre-las-cenizas-del-incendio-de-riotinto.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "Gobierno y Junta ultiman las ayudas para los municipios de Granada afectados por los terremotos",
       "link": "https://elpais.com/espana/andalucia/2026-09-08/gobierno-y-junta-ultiman-las-ayudas-para-los-municipios-de-granada-afectados-por-los-terremotos.html",
       "imagen": "",
@@ -9,14 +15,14 @@
     {
       "titulo": "El fallecimiento de una de las heridas eleva a 15 las víctimas mortales del incendio de Los Gallardos",
       "link": "https://elpais.com/espana/2026-09-08/el-fallecimiento-de-una-de-las-heridas-eleva-a-15-las-victimas-mortales-del-incendio-de-los-gallardos.html",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://imagenes.elpais.com/resizer/v2/GRTQFJ3PLFAGNI3H55D352HADU.jpg?auth=948dbf4cb1d9c86ab3403d4c83a32ca0aab88f2eeab14b396021c23a060f5df5&width=414&height=233&focal=2959%2C1853",
+      "tipo": "imagen"
     },
     {
       "titulo": "La Guardia Civil detiene a tres implicados en el tiroteo de Isla Cristina que dejó tres muertos",
       "link": "https://elpais.com/espana/2026-09-08/la-guardia-civil-detiene-a-tres-implicados-en-el-tiroteo-de-isla-cristina-que-dejo-tres-muertos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/6P5SYW3MRVHZBCJD57AXVCGJPE.jpg?auth=0fd0ef7ee7da7ce9f62ff04c0d5e109089b8d6a7d2cf258671966ef46891a89f&width=414&height=233&smart=true",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Caídas educativas salvajes de la Comunidad Valenciana y el País Vasco en el Informe PISA en una debacle general de las autonomías",
@@ -27,13 +33,7 @@
     {
       "titulo": "Andalucía cuenta con 193.365 kilómetros de caminos públicos de los que solo se puede usar el 10%",
       "link": "https://elpais.com/espana/andalucia/2026-09-08/andalucia-cuenta-con-193365-kilometros-de-caminos-publicos-de-los-que-solo-se-puede-usar-el-10.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Adelante Andalucía concurrirá a las generales y municipales con su propia marca: “Si todos se ponen bajo el ala del Gobierno del PSOE, se van a caer con él”",
-      "link": "https://elpais.com/espana/andalucia/2026-09-07/adelante-andalucia-concurrira-a-las-generales-y-municipales-con-su-propia-marca-si-todos-se-ponen-bajo-el-ala-del-gobierno-del-psoe-se-van-a-caer-con-el.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/X34K6HA2IRPABFLFX4SN2XDXZ4.jpg?auth=91e501b037b3ad78ef64a803dd1e60dd51a70686c3358e42b3007427e383b8d2&width=414&height=311&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/P3BCUE6GC7EV4XVXS7NTNHB664.jpg?auth=fa0c05f445d8b1a6a0e54cfbfbb6f53b5916d3ae57796c217a37c36594b64166&width=414&height=311&focal=179%2C279",
       "tipo": "imagen"
     }
   ]

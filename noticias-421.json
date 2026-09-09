@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Guardia Civil",
+      "link": "https://www.elconfidencialdigital.com/album/seguridad/guardia-civil/202609091353071039886.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/09/2026090913512416258.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Bases militares",
+      "link": "https://www.elconfidencialdigital.com/album/defensa/bases-militares/202609091338181039878.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/09/2026090913335682640.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Bodegón rústico de panes y granos",
       "link": "https://www.elconfidencialdigital.com/album/vivir/panes/202609091225281039853.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/09/2026090912165873499.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Álbum Ford Cosworth DFV",
       "link": "https://www.elconfidencialdigital.com/album/motor/album-ford-cosworth-dfv/202609091106031039807.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/09/2026090911045246113.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Álbum bicicleta inspirada en el Porsche 911 GT3 RS de Leon Baldinger",
-      "link": "https://www.elconfidencialdigital.com/album/motor/album-bicicleta-inspirada-porsche-911-gt3-rs-leon-baldinger/202609091101221039793.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/09/2026090910595194332.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Infantería de Marina",
-      "link": "https://www.elconfidencialdigital.com/album/defensa/infanteria-marina/202609091059011039784.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/09/2026090910454932313.jpg",
       "tipo": "imagen"
     }
   ]

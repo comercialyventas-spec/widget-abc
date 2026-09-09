@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El anuncio de OpenAI de que ha resuelto uno de los mayores enigmas matemáticos de la historia desata acusaciones de plagio",
+      "link": "https://elpais.com/ciencia/2026-09-09/el-anuncio-de-openai-de-que-ha-resuelto-uno-de-los-mayores-enigmas-matematicos-de-la-historia-desata-acusaciones-de-plagio.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/I27RAYLCEVCBFOFYOLKPZP3YW4.JPG?auth=c4d674130cb1f5a2fd766495517bba03d303a81dfadda68c6bff4811b2129809",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Más de 900 universidades piden 200.000 millones de euros para el próximo programa marco de investigación y desarrollo",
       "link": "https://elpais.com/ciencia/2026-09-09/mas-de-900-universidades-piden-200000-millones-de-euros-para-el-proximo-programa-marco-de-investigacion-y-desarrollo.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/NCTJDR67VBAMVMVBQMBBP5R4WY.jpg?auth=9c2c170575db1a586aeae81b24a512904161763bd72741338aff17bf4b224b13",
@@ -28,12 +34,6 @@
       "titulo": "Formas de vida diminutas para salvar los suelos y la salud",
       "link": "https://elpais.com/clima-y-medio-ambiente/2026-09-07/formas-de-vida-diminutas-para-salvar-los-suelos-y-la-salud.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/2JU73FPBLVCWLNECOTIQ3ERJNE.jpg?auth=9277c867370b0036986227e40ef55b34e6ef2f80da6dd9f22f7b482804047736",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ciencia, cerdos y dinero: la carrera entre EE UU y China por hacer viables los trasplantes de animales a humanos",
-      "link": "https://elpais.com/ciencia/2026-09-06/ciencia-cerdos-y-dinero-la-carrera-entre-ee-uu-y-china-por-hacer-viables-los-trasplantes-de-animales-a-humanos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/IJZMNQCQPRGQPL2XYSTDA3OT54.jpg?auth=5deab8ff8de461b7bf8fb50c741e3fe77017f05a92498d95281478517100ae1e",
       "tipo": "imagen"
     }
   ]
