@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El motor eléctrico, gran olvidado de la ‘nueva movilidad’",
+      "link": "https://www.eldiario.es/motor/tecnologia/",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "Las ventas de coches de grupos chinos baten récords en España: se acercan al 15% del mercado",
       "link": "https://www.eldiario.es/motor/sector_y_mercado/ventas-coches-grupos-chinos-baten-records-espana-acercan-15-mercado_1_13484232.html",
       "imagen": "https://static.eldiario.es/clip/4a5ef7ee-1ec9-4587-9334-2d1bdf3a213e_16-9-discover-aspect-ratio_default_0.jpg",
@@ -19,21 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Novedades en el carril Bus-VAO: qué significa el nuevo sistema de señalización de la DGT",
-      "link": "https://www.eldiario.es/motor/novedades-carril-bus-vao-significa-nuevo-sistema-senalizacion-dgt_1_13494130.html",
-      "imagen": "https://static.eldiario.es/clip/4738bbd1-44a2-4ce5-ae5f-9879368f086c_16-9-discover-aspect-ratio_default_0.jpg",
+      "titulo": "De fabricar el VW escarabajo a sistemas antimisiles: claves de la venta de la planta de Osnabrück",
+      "link": "https://www.eldiario.es/motor/sector_y_mercado/fabricar-vw-escarabajo-sistemas-antimisiles-claves-venta-planta-osnabruck_1_13492573.html",
+      "imagen": "https://static.eldiario.es/clip/38c0a5ba-367f-4c9f-9775-bf704382f877_16-9-discover-aspect-ratio_default_1150618.jpg",
       "tipo": "imagen"
     },
     {
       "titulo": "Los sindicatos plantean buscar un socio chino para salvar la marca Seat",
       "link": "https://www.eldiario.es/motor/sector_y_mercado/sindicatos-plantean-buscar-socio-chino-salvar-marca-seat_1_13492339.html",
       "imagen": "https://static.eldiario.es/clip/d1f9a93f-124a-4cf8-a5d6-a09540985a86_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Jaguar Land Rover suprimirá 4.000 empleos, el 10% de su plantilla",
-      "link": "https://www.eldiario.es/motor/sector_y_mercado/jaguar-land-rover-suprimira-4-000-empleos-10-plantilla_1_13492057.html",
-      "imagen": "https://static.eldiario.es/clip/388ec593-f899-444b-9afb-c50e76799bf5_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
