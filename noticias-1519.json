@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "España bate su récord de ola de calor: 61 días con temperaturas extremas",
+      "link": "https://www.eldiario.es/sociedad/espana-bate-record-ola-calor-61-dias-temperaturas-extremas_1_13497418.html",
+      "imagen": "https://static.eldiario.es/clip/dc5d1b7b-2cc3-4614-8e3a-8fab9293716a_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El mapa del calor en España: compara la temperatura de cada día con la media histórica de tu provincia",
       "link": "https://www.eldiario.es/sociedad/mapa-calor-record-2026-espana-compara-temperatura-dia-media-historica-provincia_1_13256175.html",
       "imagen": "https://static.eldiario.es/clip/d3220942-816f-425d-b88d-ed59b1cc3807_16-9-discover-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Cónclave mundial contra la “amenaza silenciosa” que convierte a España en el país más desertificado de Europa",
       "link": "https://www.eldiario.es/sociedad/conclave-mundial-amenaza-silenciosa-convierte-espana-pais-desertificado-europa_1_13459193.html",
       "imagen": "https://static.eldiario.es/clip/7a446123-f683-4058-b607-ae75a793fa6c_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "España muestra su “vulnerabilidad crítica” ante el cambio climático: miles de muertes por calor, incendios y sequía",
-      "link": "https://www.eldiario.es/sociedad/espana-muestra-vulnerabilidad-critica-cambio-climatico-miles-muertes-calor-incendios-sequia_1_13455322.html",
-      "imagen": "https://static.eldiario.es/clip/ad41bbdd-22aa-43bd-b581-12661105dfac_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
