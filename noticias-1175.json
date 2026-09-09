@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La entrevista a Sánchez, ruido blanco",
+      "link": "https://okdiario.com/opinion/entrevista-sanchez-ruido-blanco-20260535",
+      "imagen": "https://okdiario.com/img/2026/09/09/carla-interior.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La insoportable degradación de TVE",
       "link": "https://okdiario.com/opinion/insoportable-degradacion-tve-20259714",
       "imagen": "https://okdiario.com/img/2026/09/09/editorial-rtve-desk.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El 12 de septiembre Mallorca recuerda quién es",
       "link": "https://okdiario.com/baleares/12-septiembre-mallorca-recuerda-quien-20256871",
       "imagen": "https://okdiario.com/img/2026/09/09/imagen_final-1.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las pruebas del montaje contra Julio Iglesias",
-      "link": "https://okdiario.com/opinion/pruebas-del-montaje-contra-julio-iglesias-20251630",
-      "imagen": "https://okdiario.com/img/2026/09/09/imagen_final-15.jpg",
       "tipo": "imagen"
     }
   ]
