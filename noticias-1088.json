@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La firma de moda Silbon abre su primera tienda en Lucena",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/silbon-pujante-marca-cordobesa-moda-abre-primera-20260909234801-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/09/mami-silbon-cordoba-kNTG--562x315@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Munar, Facundo Díaz y Ofner, tres cabezas de serie que siguen adelante en la Copa Sevilla",
       "link": "https://www.abc.es/deportes/sevilla/munar-facundo-diaz-ofner-tres-cabezas-serie-20260909233124-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/09/sebastian-ofner-copa-sevilla-tenis-U10658374357jfY-562x315@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Cantes de altura y baile de tierra anuncian la XXIV Bienal de Flamenco",
       "link": "https://www.abc.es/sevilla/cultura/cantes-altura-baile-tierra-anuncian-xxiv-bienal-20260909224759-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/09/imagen-bienal-plaza-U66530832343Hgo-562x315@diario_abc.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "De purísima y oro, El Mene",
-      "link": "https://www.abc.es/cultura/toros/purisima-oro-mene-20260909224615-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/09/a0324ec4-3c01-4168-99fd-4ad7b0457226-U73125865745Bha-562x315@diario_abc.JPG",
       "tipo": "imagen"
     }
   ]

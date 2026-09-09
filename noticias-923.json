@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un genio murciano de 32 años en el centro de la pelea entre OpenAI y los matemáticos por la solución a un problema legendario: \"Sin nosotros no lo habrían resuelto\"",
+      "link": "https://www.elmundo.es/papel/lideres/2026/09/09/6aa19212e4d4d884448b4595.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/09/17889734958896.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El día después del acuerdo de Meta: ¿son suficientes 18.000 millones para proteger a tu hijo?",
       "link": "https://www.elmundo.es/papel/historias/2026/09/08/6a9ab76dfdddff54318b45a8.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/04/17885222016472.jpg",
@@ -9,24 +15,18 @@
     {
       "titulo": "Nada hace ahora mismo más felices a los humanos que ver cómo fracasan los robots",
       "link": "https://www.elmundo.es/papel/2026/09/08/6a9bd69b21efa036568b4584.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/05/17886016263316.jpg",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "Vito Quiles: \"Me apetece institucionalizarme y dedicarme a otro periodismo\"",
+      "link": "https://www.elmundo.es/papel/lideres/2026/09/09/6aa17b30fdddffe0488b45ae.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/09/17889677921611.jpg",
       "tipo": "imagen"
     },
     {
       "titulo": "Míchel: \"La Quinta del Buitre fuimos parte de la Movida. Ir al Bernabéu era como ir a un concierto o salir por Malasaña\"",
       "link": "https://www.elmundo.es/papel/2026/09/06/6a999d2efdddff00788b45a8.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "\"El vestuario no tiene que ser un museo porque el cine es un arte de ficción\"",
-      "link": "https://www.elmundo.es/papel/cultura/2026/09/09/6a9dbdd521efa0a36e8b4592.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/07/17887753130579.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "\"Me da asco la mirada de admiración cuando subo las escaleras del metro\"",
-      "link": "https://www.elmundo.es/papel/lideres/2026/09/07/6a983859e85ece0d6f8b4599.html",
       "imagen": "",
       "tipo": ""
     },
