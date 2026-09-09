@@ -1,7 +1,31 @@
 {
   "noticias": [
     {
-      "titulo": "La escalada en la guerra de Irán devuelve el crudo a los 100 dólares siete semanas después",
+      "titulo": "Un ingeniero de Anthropic dimite y alerta de que «la IA podría matarnos a todos al final de esta década»",
+      "link": "https://www.abc.es/tecnologia/ingeniero-anthropic-dimite-alerta-ia-matarnos-final-20260909105015-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/09/1516964460-RLh6Om0bzSYddIRdKB2gNSN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cae en Madrid el Camaleón, el más famoso estafador, como falso CEO de Pemex",
+      "link": "https://www.abc.es/espana/madrid/cae-madrid-camaleon-famoso-estafador-falso-ceo-20260909105741-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/09/camaleon2-R8ZGqc5LYIpLFL6LVVPpYbP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "OMODA Madrid es Moda: del aniversario de Devota & Lomba a la moda ibicenca de Adlib",
+      "link": "https://www.abc.es/estilo/moda/omoda-madrid-moda-desfile-angel-schlesser-aniversario-20260908153706-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/estilo/2026/09/08/apertura-primera-jornada-RYNisWH07wvBF5DRy9ea4iK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Marlaska defiende que el dossier de Interior sobre periodistas era «un documento de trabajo» que no definía ideológicamente",
+      "link": "https://www.abc.es/espana/marlaska-defiende-dossier-interior-sobre-periodistas-era-20260909104652-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/09/1517026241-R9pyHonYjCm5PrEnyY0DzvM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La escalada en la guerra de Irán devuelve el petróleo a los 100 dólares siete semanas después y tiñe las Bolsas de rojo",
       "link": "https://www.abc.es/economia/escalada-guerra-iran-devuelve-crudo-100-dolares-20260909101042-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/09/1516654076-RWDRFKB9MzjQfA6GXg2xGhJ-1200x840@diario_abc.jpg",
       "tipo": "imagen"
@@ -10,30 +34,6 @@
       "titulo": "Andreas Schleicher: «En España se pueden sacar buenas notas sin conocimientos sólidos. Falta ambición»",
       "link": "https://www.abc.es/sociedad/andreas-schleicher-cerebro-tras-pisa-espana-pueden-20260909205328-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/09/1410325637-R7sCWIMJWlgGqchZpK05wyJ-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Joaquín Sánchez, 45 años: «Desayuno una tostada con aceite de oliva virgen, jamón de bellota y un huevo frito»",
-      "link": "https://www.abc.es/gente/joaquin-sanchez-anos-desayuno-tostada-empapada-buen-20260909100836-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/09/joaquin-sanchez-koBH-U301634366340AUE-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sánchez huye de Ceuta en el Congreso y Feijóo dibuja a un presidente preso de Marruecos",
-      "link": "https://www.abc.es/espana/sanchez-huye-ceuta-congreso-feijoo-dibuja-presidente-20260909093655-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/09/1517024848-RWh2BMb4Ty66fiiAHbiTcBI-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La incómoda entrevista de Rodolfo Sancho sobre la condena a cadena perpetua de su hijo por asesinato",
-      "link": "https://www.abc.es/gente/incomoda-entrevista-rodolfo-sancho-sobre-condena-cadena-20260909100818-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/09/rodolfo-RiCJ6CH7uetjLlig7woofJK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Épica sin recompensa: Alcaraz roza el milagro, pero cae ante Shelton",
-      "link": "https://www.abc.es/deportes/tenis/cronica-shelton-alcaraz-cuartos-us-open-20260909204317-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/08/1517024620-RFW28Py8OMG3v3xOinlvzYP-1200x840@diario_abc.JPG",
       "tipo": "imagen"
     }
   ]

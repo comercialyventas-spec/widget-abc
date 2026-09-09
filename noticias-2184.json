@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "Última hora del tráfico y el transporte público en Catalunya, en directo: el mal tiempo obliga hoy a extremar la prudencia en las carreteras",
+      "titulo": "Los Mossos d'Esquadra recuperan 32 móviles robados en la Fiesta Mayor de Viladecans y detienen a tres personas",
+      "link": "<![CDATA[https://www.elperiodico.com/es/barcelona/20260909/mossos-desquadra-recuperan-32-moviles-sustraidos-fiesta-viladecans-detienen-tres-personas-134098280",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/458df50c-2a48-4be6-97f9-954f6503dfa7_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Última hora del tráfico y transporte público en Catalunya, en directo: Rodalies, carreteras y trenes afectados por las lluvias",
       "link": "<![CDATA[https://www.elperiodico.com/es/barcelona/20260909/trafico-mal-tiempo-lluvias-barcelona-cataluna-133938712",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/146b38cb-6012-4915-a4c1-5868178558dd_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "L’Hospitalet arranca el ciclo educativo con la matrícula viva más baja de los últimos años",
+      "link": "<![CDATA[https://www.elperiodico.com/es/barcelona/20260909/lhospitalet-arranca-el-ciclo-educativo-con-la-matricula-viva-mas-baja-de-los-ultimos-anos-134061794",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/927df6c0-9de5-454c-9d4f-d02646f5133b_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Denuncian una agresión policial a un joven durante la Fiesta Mayor de Sabadell",
       "link": "<![CDATA[https://www.elperiodico.com/es/barcelona/20260908/denuncian-agresion-policial-joven-durante-fiesta-mayor-134085084",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f6cf90f2-9a0c-45ec-93c8-f81d7d447fc7_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Vecinos de Bellaterra se oponen a la ampliación del laboratorio investigado por la peste porcina: Estamos preocupados",
-      "link": "<![CDATA[https://www.elperiodico.com/es/barcelona/20260908/preocupacion-vecinal-bellaterra-ampliacion-laboratorio-uab-peste-porcina-134084684",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/af6500d1-06fe-4fa9-a434-df83dce3f8f5_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "L'Hospitalet y Badalona incorporan más de 40 agentes a sus policías locales",
-      "link": "<![CDATA[https://www.elperiodico.com/es/barcelona/20260908/lhospitalet-badalona-incorporan-40-agentes-policias-locales-134082236",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/1d8a90f3-d26c-4637-bf6c-c20d56762127_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

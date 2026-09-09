@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El anuncio de OpenAI de que ha resuelto uno de los mayores enigmas matemáticos de la historia desata acusaciones de plagio",
+      "link": "https://elpais.com/ciencia/2026-09-09/el-anuncio-de-openai-de-que-ha-resuelto-uno-de-los-mayores-enigmas-matematicos-de-la-historia-desata-acusaciones-de-plagio.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/I27RAYLCEVCBFOFYOLKPZP3YW4.JPG?auth=c4d674130cb1f5a2fd766495517bba03d303a81dfadda68c6bff4811b2129809",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Puede uno aprender a enamorarse? La app de citas que ayuda a las personas con discapacidad intelectual",
       "link": "https://elpais.com/sociedad/2026-09-06/puede-uno-aprender-a-enamorarse-la-app-de-citas-que-ayuda-a-las-personas-con-discapacidad-intelectual.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/V6VENBLO2BGT3JQNT7OSR642TA.jpg?auth=a2274d956c1c5ded3fc9bd6755d52fade55a8f4084c9ab59223d340c56742f39",
@@ -28,12 +34,6 @@
       "titulo": "Así funciona la nueva estafa de WhatsApp: piden dinero desde tu perfil a amigos y familiares sin que tú te des cuenta",
       "link": "https://elpais.com/tecnologia/2026-09-03/asi-funciona-la-nueva-estafa-de-whatsapp-piden-dinero-desde-tu-perfil-a-amigos-y-familiares-sin-que-tu-te-des-cuenta.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/RQIDSCD4JFGB5O3Y6C2US75PHM.JPG?auth=8f288ccd549f400c6b7ec419b8957749c4a095e0ab6b69b2e6e3716949fa44ab",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Anthropic retoma las pruebas externas de sus modelos de IA un mes después de los hackeos masivos",
-      "link": "https://elpais.com/tecnologia/2026-09-02/anthropic-retoma-las-pruebas-externas-de-sus-modelos-de-ia-un-mes-despues-de-los-hackeos-masivos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/VQ76GIWS5JHRVC56MKPEGMGI4Q.jpg?auth=0ac8f8bb0bb23ff7461875baa86a70fe0a0e4c219b196e3af90f386fbd70d087",
       "tipo": "imagen"
     }
   ]
