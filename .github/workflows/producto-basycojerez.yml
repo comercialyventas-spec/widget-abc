@@ -22,10 +22,20 @@ jobs:
 
       - name: Descargar sitemap de productos
         run: |
+          curl -sS -c cookies.txt \
+            -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" \
+            -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8" \
+            -H "Accept-Language: es-ES,es;q=0.9" \
+            "https://basycojerez.com/" -o /dev/null
+
           curl -L --fail \
             --retry 3 \
             --retry-delay 2 \
-            -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/139 Safari/537.36" \
+            -b cookies.txt \
+            -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" \
+            -H "Accept: application/xml,text/xml,*/*;q=0.8" \
+            -H "Accept-Language: es-ES,es;q=0.9" \
+            -H "Referer: https://basycojerez.com/" \
             "https://basycojerez.com/1_es_0_sitemap.xml" \
             -o sitemap.xml
 
