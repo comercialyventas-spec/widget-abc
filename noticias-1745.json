@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Directo en vídeo | Sigue la sesión de control al Gobierno",
+      "link": "https://www.publico.es/politica/congreso/directo-video-sigue-sesion-control-gobierno-3.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/09/6aa1042895f5c.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "VERA, Kesher y ACOM: la red que presiona para impedir que las universidades europeas dejen de colaborar con Israel",
       "link": "https://www.publico.es/politica/vera-kesher-acom-red-presiona-impedir-universidades-europeas-dejen-colaborar-israel.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/08/6a9ff9cf9d273.jpeg",
@@ -19,21 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "La batalla por la financiación evidencia la distancia entre las estrategias de ERC y Junts",
-      "link": "https://www.publico.es/politica/partidos/batalla-financiacion-evidencia-distancia-estrategias-politicas-erc-junts.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/07/21/6a5f56d38db51.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ayuso llega al debate del estado de la región en su momento más delicado por el escándalo del ático",
-      "link": "https://www.publico.es/politica/ayuso-llega-debate-region-momento-delicado-escandalo-atico.html",
-      "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/07/6a9ee7036d86c.r_d.942-573-1406.jpeg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "El Gobierno asegura que publicará \"todo lo que tiene\" sobre Ceuta tras acusarle el PP de recortar los informes",
       "link": "https://www.publico.es/politica/gobierno/gobierno-asegura-publicara-sobre-ceuta-acusarle-pp-recortar-informes.html",
       "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/08/6aa016bb96233.r_d.1394-338-1406.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Persecución a judíos, 'antifas' y afroamericanos: los antecedentes del grupo neonazi The Base procesado por la Audiencia Nacional",
+      "link": "https://www.publico.es/politica/persecucion-judios-antifas-afroamericanos-antecedentes-grupo-neonazi-the-base-procesado-audiencia-nacional.html",
+      "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2025/12/01/692e037e10e83.r_d.603-328-2250.jpeg",
       "tipo": "imagen"
     }
   ]
