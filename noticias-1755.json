@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El desgarro",
+      "link": "https://www.publico.es/opinion/vinetas/desgarro.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/08/6aa01b0e2f05c.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un menú para Ayuso",
       "link": "https://www.publico.es/opinion/vinetas/menu-ayuso.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/06/6a9d4d9226d58.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Capitalista rampante",
       "link": "https://www.publico.es/opinion/vinetas/capitalista-rampante.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/07/26/6a65c57092ee5.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Todos iguales ante la ley",
-      "link": "https://www.publico.es/opinion/vinetas/todos-iguales-ley.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/07/19/6a5cb9c613878.jpeg",
       "tipo": "imagen"
     }
   ]

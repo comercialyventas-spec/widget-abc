@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Todo listo en Güéjar Sierra para la llegada de La Vuelta a España por quinta vez en 13 años: \"Será espectacular\"",
-      "link": "https://www.ahoragranada.com/",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
       "titulo": "La UGR reúne a 800 expertos para analizar las amenazas y fortalezas de las democracias actuales",
       "link": "https://www.ahoragranada.com/noticias/la-ugr-reune-800-expertos-para-analizar-las-amenazas-y-fortalezas-de-las-democracias-actuales/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/facultad-UGR-de-Ciencias-Politicas-en-calle-Rector-Lopez-Argueta-AC-2-746x420.jpg",
@@ -34,6 +28,12 @@
       "titulo": "Gójar activa un equipo técnico para ayudar a los afectados por los terremotos que no tienen seguro",
       "link": "https://www.ahoragranada.com/noticias/gojar-activa-un-equipo-tecnico-para-ayudar-a-los-afectados-por-los-terremotos-que-no-tienen-seguro/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/08/Terremotos-Gojar-3-370x207.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Granada ha revisado el estado de 4.225 viviendas de más de 400 edificios tras los terremotos",
+      "link": "https://www.ahoragranada.com/noticias/granada-ha-revisado-el-estado-de-4-225-viviendas-de-mas-de-400-edificios-tras-los-terremotos/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/DANOS-TERREMOTOS-GRANADA-CH-39-370x207.jpg",
       "tipo": "imagen"
     }
   ]
