@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Muere una mujer tras ahogarse en Mallorca durante una gran tormenta",
+      "link": "https://www.abc.es/espana/baleares/muere-mujer-anos-tras-ahogarse-mallorca-tormenta-20260909184830-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/09/mallorca-efe-kcvH-U301645915402ttH-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Mallorca pone fecha al límite de coches: las restricciones llegarán en 2027",
       "link": "https://www.abc.es/espana/baleares/mallorca-pone-fecha-limite-coches-restricciones-llegaran-20260909175844-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/09/prohens%20y%20galme%cc%81s%20parlament%20-RwaY2u8YeIBZecMoX2IHdEI-1200x840@diario_abc.jpg",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/09/Galmes%20parlament%20-RwaY2u8YeIBZecMoX2IHdEI-1200x840@diario_abc.jpeg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Más de 22.000 personas se movilizan por Ceuta en Baleares entre críticas a Sánchez",
       "link": "https://www.abc.es/espana/baleares/22000-personas-movilizan-ceuta-baleares-criticas-sanchez-20260902224951-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/02/Palma%20con%20Ceuta-RTv7Q6618UhiRJiCbitnLCJ-1200x840@diario_abc.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Baleares supera ya los 4.600 migrantes tras la llegada de seis nuevas pateras a Formentera",
-      "link": "https://www.abc.es/espana/baleares/baleares-supera-4600-migrantes-tras-llegada-seis-20260831103440-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/31/pateras%20abandonadas%20-RZMp5bSoPYKGAItJOtFFqNN-1200x840@diario_abc.jpeg",
       "tipo": "imagen"
     }
   ]
