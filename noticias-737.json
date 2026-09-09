@@ -1,21 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Una explosión sin heridos en ArcelorMittal obliga a la empresa a parar su actividad en Gijón",
+      "link": "https://www.eldiario.es/asturias/explosion-arcelormittal-obliga-empresa-activar-protocolo-parada-emergencia_1_13496696.html",
+      "imagen": "https://static.eldiario.es/clip/62451d79-b599-4676-817e-ebe9a4106609_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Asturias arranca hoy el curso escolar con 96.858 estudiantes y el refuerzo del profesorado",
       "link": "https://www.eldiario.es/asturias/asturias-arranca-hoy-curso-escolar-96-858-estudiantes-refuerzo-profesorado_1_13496582.html",
       "imagen": "https://static.eldiario.es/clip/1dbe3f02-7e31-40f9-a85f-443aca189922_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Asturias se coloca a la cabeza de España en PISA en un contexto de caída de resultados",
-      "link": "https://www.eldiario.es/asturias/asturias-coloca-cabeza-espana-pisa-lider-lectura-ciencias-ambientales-podio-cientifico_1_13494177.html",
-      "imagen": "https://static.eldiario.es/clip/922189c7-f8d0-47b0-919d-30a1b9d026e8_16-9-discover-aspect-ratio_default_0_x284y959.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "España se desploma en PISA y los alumnos tienen “dificultades” con textos de más de 400 palabras por culpa de las pantallas",
-      "link": "https://www.eldiario.es/sociedad/espana-desploma-pisa-alumnos-dificultades-textos-400-palabras-culpa-pantallas_1_13492888.html",
-      "imagen": "https://static.eldiario.es/clip/922189c7-f8d0-47b0-919d-30a1b9d026e8_16-9-discover-aspect-ratio_default_0_x284y959.jpg",
       "tipo": "imagen"
     },
     {
@@ -34,6 +28,12 @@
       "titulo": "El Ministerio de Memoria Democrática ordena retirar el monumento a los 'Héroes del Simancas' de Gijón en seis meses",
       "link": "https://www.eldiario.es/asturias/ministerio-memoria-democratica-ordena-retirar-monumento-heroes-simancas-gijon-seis-meses_1_13485977.html",
       "imagen": "https://static.eldiario.es/clip/16156434-204c-4364-89b6-5a1db18014b0_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Declaran víctimas de la Guerra Civil a seis asturianos fusilados en plena represión franquista",
+      "link": "https://www.eldiario.es/asturias/declaran-victimas-guerra-civil-seis-asturianos-fusilados-plena-represion-franquista_1_13485548.html",
+      "imagen": "https://static.eldiario.es/clip/6e2131f4-535c-4c07-b001-0050d68cf1ba_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
