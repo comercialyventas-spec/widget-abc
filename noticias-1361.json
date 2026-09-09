@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "‘El Pulso’ de ‘Hoy por Hoy’ en directo, en EL PAÍS",
+      "titulo": "Irán difunde imágenes de un supuesto dron submarino de EE UU interceptado por su ejército",
+      "link": "https://elpais.com/videos/2026-09-09/iran-difunde-imagenes-de-un-supuesto-dron-submarino-de-ee-uu-interceptado-por-su-ejercito.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260909/1212477_111238_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en EL PAÍS | Programa del 9 de septiembre de 2026",
       "link": "https://elpais.com/videos/2026-09-09/el-pulso-de-hoy-por-hoy-en-directo-en-el-pais.html",
-      "imagen": "https://www.youtube.com/watch?v=m2bWqkLlkjQ",
+      "imagen": "https://www.youtube.com/watch?v=Dy-Gcimmkmk",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "‘La mesa de Hora 25’, en EL PAÍS I Programa del 8 de septiembre de 2026",
       "link": "https://elpais.com/videos/2026-09-08/la-mesa-de-hora-25-programa-en-el-pais.html",
       "imagen": "https://www.youtube.com/watch?v=Ez5y6DE-8Aw",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Quejas por la falta de despliegue policial en la vuelta al colegio en Ceuta: “Si lo llego a saber no traigo a mi hijo”",
-      "link": "https://elpais.com/sociedad/2026-09-08/quejas-por-la-falta-de-despliegue-policial-en-la-vuelta-al-colegio-en-ceuta-si-lo-llego-a-saber-no-traigo-a-mi-hijo.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260908/1212173_161821_video_1800.mp4",
       "tipo": "imagen"
     }
   ]
