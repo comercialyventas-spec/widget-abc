@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Las madonas de Leonardo",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260909/11629020/madonas-leonardo.html",
+      "imagen": "https://www.lavanguardia.com/files/listing_main/files/fp/uploads/2026/09/07/6a9e94e074412.r_d.413-328-1209.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Otros dos menores detenidos por el apuñalamiento mortal de Manresa",
       "link": "https://www.lavanguardia.com/local/bages/20260909/11630448/otros-dos-menores-detenidos-apunalamiento-mortal-manresa.html",
       "imagen": "https://www.lavanguardia.com/files/listing_main/uploads/2026/09/08/6aa071fecba03.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Una explosión en una joyería en Cerdanyola deja al menos tres heridos, dos de ellos graves",
       "link": "https://www.lavanguardia.com/local/barcelona/20260908/11630374/explosion-joyeria-cerdanyola-deja-tres-heridos-dos-graves.html",
       "imagen": "https://www.lavanguardia.com/files/listing_main/uploads/2026/09/08/6aa0411af20c7.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Estabilizado el incendio forestal de la Baronia de Rialb",
-      "link": "https://www.lavanguardia.com/local/lleida/20260908/11630376/22-dotaciones-bomberos-trabajan-incendio-forestal-baronia-rialb.html",
-      "imagen": "https://www.lavanguardia.com/files/listing_main/files/fp/uploads/2026/09/08/6aa03fa3b0832.r_d.573-443-0.jpeg",
       "tipo": "imagen"
     }
   ]
