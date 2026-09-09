@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¿Es imparable el avance de la extrema derecha en Europa?",
+      "link": "https://elpais.com/videos/2026-09-09/es-imparable-el-avance-de-la-extrema-derecha-en-europa.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260908/1212196_171729_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Puedo votar si me han concedido la nacionalidad española o la estoy tramitando?",
       "link": "https://elpais.com/videos/2026-09-09/puedo-votar-si-me-han-concedido-la-nacionalidad-espanola-o-la-estoy-tramitando.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260908/1212261_200532_video_1800.mp4",
@@ -28,12 +34,6 @@
       "titulo": "Un Fórmula 1 de Oracle Red Bull Racing circula por primera vez sobre los raíles del Metro de Madrid",
       "link": "https://elpais.com/videos/2026-09-08/un-formula-1-de-oracle-red-bull-racing-circula-por-primera-vez-sobre-los-railes-del-metro-de-madrid.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260908/1212077_121920_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un dron muestra la destrucción en Nepal dos semanas después de la riada",
-      "link": "https://elpais.com/videos/2026-09-08/un-dron-muestra-la-destruccion-en-nepal-dos-semanas-despues-de-la-riada.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260908/1212050_111949_video_1800.mp4",
       "tipo": "imagen"
     }
   ]
