@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de El Cañaveral",
+      "link": "https://nuevosureste.es/ninos-jovenes-edad-escolar-el-canaveral/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/04/IMG_6112-400x250.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Muere un motorista tras sufrir un accidente de tráfico en la M-45, a la altura de El Cañaveral",
       "link": "https://nuevosureste.es/accidente-trafico-km-23-m-45-el-canaveral/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/Captura-de-pantalla-2026-09-03-a-las-9.24.48-400x250.png",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Las obras de la L11 provocan el cierre completo de la A-3 en Conde de Casal durante la noche de este miércoles",
       "link": "https://nuevosureste.es/corte-a3-obras-metro/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/08/Corte-Conde-de-Casal-400x250.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cerca del 15% de los habitantes empadronados en El Cañaveral son extranjeros",
-      "link": "https://nuevosureste.es/poblacion-extranjera-el-canaveral/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/07/calles-el-canaveral-1-400x250.jpg",
       "tipo": "imagen"
     }
   ]

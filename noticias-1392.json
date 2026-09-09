@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de Nuevo Sureste de Madrid",
+      "link": "https://nuevosureste.es/ninos-jovenes-edad-escolar-el-canaveral/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/04/IMG_6112-1067x675.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los Berrocales, Los Ahijones, Los Cerros y Valdecarros necesitarán ampliar la red eléctrica para completar su desarrollo",
       "link": "https://nuevosureste.es/capacidad-electrica-desarrollos-sureste/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/06/Imagen-aerea-de-las-pruebas-cedida-por-la-Junta-de-Compesacion-de-Los-Ahijones-1.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "La Comunidad alerta de que la falta de capacidad eléctrica puede afectar al desarrollo de nuevas viviendas en el sureste",
       "link": "https://nuevosureste.es/suministro-electrico-rocio-albert/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/La-consejera-de-Economia-Rocio-Albert-durante-su-reciente-visita-a-Arganda-foto-Nuevo-Sureste.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los Servicios de Emergencias y Seguridad del Ayuntamiento de Madrid darán el pregón de las Fiestas de la Virgen de la Torre de Villa de Vallecas",
-      "link": "https://nuevosureste.es/servicios-emergencia-pregoneros-villa-vallecas/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2025/05/c4d279d0-8d93-47b9-9fa3-c6f97150f1a6-1080x675.jpg",
       "tipo": "imagen"
     }
   ]

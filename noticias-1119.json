@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "AEMET: cielo nublado y chubascos en Barcelona, descienden temperaturas y sopla viento moderado",
+      "link": "https://okdiario.com/cataluna/aemet-cielo-nublado-y-chubascos-en-barcelona-descienden-temperaturas-y-sopla-viento-moderado-20253558",
+      "imagen": "https://okdiario.com/img/2026/01/12/lluvias-barcelona-interior.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Suspenden las clases y la actividad sanitaria en varias comarcas de Barcelona y Tarragona este miércoles por lluvias intensas",
       "link": "https://okdiario.com/cataluna/suspenden-clases-actividad-sanitaria-varias-comarcas-barcelona-tarragona-este-miercoles-lluvias-intensas-20250903",
       "imagen": "https://okdiario.com/img/2026/09/08/imagen_recortada-39.jpg",
@@ -27,12 +33,6 @@
     {
       "titulo": "AEMET prevé un día soleado y caluroso en Barcelona con viento suave y cielos despejados",
       "link": "https://okdiario.com/cataluna/aemet-preve-un-dia-soleado-y-caluroso-en-barcelona-con-viento-suave-y-cielos-despejados-20236235",
-      "imagen": "https://okdiario.com/img/2026/01/12/maximas-barcelona-interior.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "AEMET prevé cielo nublado y suaves cambios de temperatura en Barcelona con viento flojo",
-      "link": "https://okdiario.com/cataluna/aemet-preve-cielo-nublado-y-suaves-cambios-de-temperatura-en-barcelona-con-viento-flojo-20233371",
       "imagen": "https://okdiario.com/img/2026/01/12/maximas-barcelona-interior.jpg",
       "tipo": "imagen"
     }
