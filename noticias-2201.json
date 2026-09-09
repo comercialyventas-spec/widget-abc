@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Tanja 24",
+      "link": "<![CDATA[https://www.elperiodico.com/es/videos/internacional/tanja-24/134123385.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6f55252a-74ee-49bc-afc3-f63862da9157_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Una avioneta aterriza de emergencia en el mar y rescatan a sus dos ocupantes",
       "link": "<![CDATA[https://www.elperiodico.com/es/videos/internacional/avioneta-aterriza-emergencia-mar-rescatan-ocupantes/134114624.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ce60d7d7-8270-46b5-81a2-ee8900137500_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Los noruegos y la familia real se preparan para el último adiós a Harald V",
       "link": "<![CDATA[https://www.elperiodico.com/es/videos/internacional/noruegos-familia-real-preparan-ultimo/134092898.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/4680822a-910a-4313-a993-977b207b5428_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Trump señala que EE.UU. usará \"todo su poder\" para impedir otro ataque como el 11S",
-      "link": "<![CDATA[https://www.elperiodico.com/es/videos/internacional/trump-senala-ee-uu-usara/134092676.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7cc7cb34-43a5-4572-ba1a-413b54fe862c_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
