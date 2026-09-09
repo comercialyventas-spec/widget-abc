@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "El Ibex sufre su mayor caída desde julio con el petróleo Brent superando ya los 100 dólares",
-      "link": "https://www.eldiario.es/economia/ibex-sufre-mayor-caida-julio-petroleo-brent-superando-100-dolares_1_13498526.html",
-      "imagen": "https://static.eldiario.es/clip/b30daa8d-7260-4a79-b113-1d8314cc98c3_16-9-discover-aspect-ratio_default_0.jpg",
+      "titulo": "Los centros de datos ya empujan la demanda eléctrica de grandes consumidores en España",
+      "link": "https://www.eldiario.es/economia/centros-datos-empujan-demanda-electrica-grandes-consumidores-espana_1_13497452.html",
+      "imagen": "https://static.eldiario.es/clip/0dbb6e06-476d-4fbb-9583-4413d9bd1b6b_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El \"susto\" del déficit comercial del segundo trimestre de 2026",
+      "link": "https://www.eldiario.es/economia/susto-deficit-comercial-segundo-trimestre-2026_129_13496632.html",
+      "imagen": "https://static.eldiario.es/clip/b0d4f24d-4d9f-434f-b154-8e8dfcd78402_avatar-200-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Había ratas por doquier y casi nadie las veía",
       "link": "https://www.eldiario.es/opinion/zona-critica/habia-ratas-doquier-nadie-veia_129_13495439.html",
       "imagen": "https://static.eldiario.es/clip/a05ebcd3-5357-4d97-9982-d4957670579b_avatar-200-aspect-ratio_default_0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "PISA y los hijos de la Gran Recesión",
-      "link": "https://www.eldiario.es/opinion/tribuna-abierta/pisa-hijos-gran-recesion_129_13495610.html",
-      "imagen": "https://static.eldiario.es/clip/9bb55c99-8a1a-41bf-bc9c-52d586112d35_avatar-200-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

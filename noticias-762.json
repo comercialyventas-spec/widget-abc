@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Los niños que no querían aprender",
+      "link": "https://www.eldiario.es/opinion/zona-critica/ninos-no-querian-aprender_129_13498720.html",
+      "imagen": "https://static.eldiario.es/clip/d56f7b4e-be9a-4461-9270-175595b310a1_avatar-200-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Si perdemos la lectura lo perdemos todo",
+      "link": "https://www.eldiario.es/opinion/zona-critica/si-perdemos-lectura-perdemos_129_13498497.html",
+      "imagen": "https://static.eldiario.es/clip/6063e57b-6d22-44f8-a9c1-65babd0b6b94_avatar-200-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Y si las reformas educativas han funcionado?",
+      "link": "https://www.eldiario.es/opinion/zona-critica/si-reformas-educativas-han-funcionado_129_13498358.html",
+      "imagen": "https://static.eldiario.es/clip/41a8c90d-79bd-4161-b3d4-b6ee95ab4baa_avatar-200-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "400 palabras distraídas sobre PISA",
       "link": "https://www.eldiario.es/opinion/zona-critica/400-palabras-distraidas-pisa_129_13496005.html",
       "imagen": "https://static.eldiario.es/clip/60f63a2a-3507-4eb6-a28c-7949f7a45178_avatar-200-aspect-ratio_default_0.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Sajonia-Anhalt, la advertencia que Feijóo no debería ignorar",
       "link": "https://www.eldiario.es/opinion/zona-critica/sajonia-anhalt-advertencia-feijoo-no-deberia-ignorar_129_13495193.html",
       "imagen": "https://static.eldiario.es/clip/e94f1310-cf2f-4e60-ad40-c9a15bd68921_avatar-200-aspect-ratio_default_0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "De AfD a Aliança: el viento a favor de la extrema derecha",
-      "link": "https://www.eldiario.es/opinion/zona-critica/afd-alianca-viento-favor-extrema-derecha_129_13494245.html",
-      "imagen": "https://static.eldiario.es/clip/9f119a77-2fa7-414f-ab8e-292cadd90e93_avatar-200-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Recta final de la legislatura con curvas y compromisos pendientes",
-      "link": "https://www.eldiario.es/opinion/zona-critica/recta-final-legislatura-curvas-compromisos-pendientes_129_13493090.html",
-      "imagen": "https://static.eldiario.es/clip/a664f353-6fc2-4e6e-be7f-f0f6ce3722ac_avatar-200-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Democracia de guardia",
-      "link": "https://www.eldiario.es/opinion/zona-critica/democracia-guardia_129_13492593.html",
-      "imagen": "https://static.eldiario.es/clip/3421ff83-fb9b-4474-99be-5d8e052c2c7a_avatar-200-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
