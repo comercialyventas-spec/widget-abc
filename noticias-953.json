@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un investigador de Anthropic dimite por temor a una IA «fuera de control»",
+      "link": "https://www.elmundo.es/economia/empresas/2026/09/09/6aa1105de4d4d809218b457d.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/05/07/17781800310332.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Nueve meses en el mar a bordo del USS Abraham Lincoln: soledad, fatiga y orgullo",
       "link": "https://www.elmundo.es/internacional/2026/09/09/6aa01c56e85ece2e118b458a.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/08/17888780372885.jpg",
@@ -28,12 +34,6 @@
       "titulo": "EEUU ataca tres buques iraníes tras el lanzamiento de misiles contra un portaaviones estadounidense",
       "link": "https://www.elmundo.es/internacional/2026/09/05/6a9c2d97fdddff58688b4591.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/05/17886200976298.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los fundadores profundamente 'nerds' detrás de la apuesta de 13.000 millones de dólares de Nvidia por Hugging Face",
-      "link": "https://www.elmundo.es/economia/empresas/2026/09/05/6a9abbecfc6c83093c8b456e.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/05/17885957742755.jpg",
       "tipo": "imagen"
     }
   ]

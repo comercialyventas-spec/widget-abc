@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Alcaraz - Shelton | El español busca culminar una remontada épica en los cuartos del US Open, en directo",
+      "titulo": "Alcaraz, a las puertas de la remontada ante un inmenso Shelton",
+      "link": "https://www.lavanguardia.com/deportes/tenis/20260909/11630731/alcaraz-puertas-remontada-inmenso-shelton.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/09/6aa10c72c1e0a.r_d.2247-1255-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Alcaraz - Shelton | El estadounidense frena la remontada del español y gana una batalla épica en el super tie-break",
       "link": "https://www.lavanguardia.com/deportes/tenis/20260909/11630687/alcaraz-shelton-partido-cuartos-final-us-open-directo-ext-pau.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/09/6aa10553acffb.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/09/6aa10c72c1e0a.r_d.2247-1255-1100.jpeg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Soy del Team Federer",
       "link": "https://www.lavanguardia.com/deportes/20260909/11630277/team-federer.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/08/6aa0292bafe9c.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La premonición de Touré Yayá llega a la Champions",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260909/11623716/premonicion-toure-yaya-llega-champions.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/03/6a7098b29d8a8.r_d.611-240-0.jpeg",
       "tipo": "imagen"
     }
   ]
