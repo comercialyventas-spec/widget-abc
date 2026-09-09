@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "‘La mesa de Hora 25’, programa en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-09-09/la-mesa-de-hora-25-programa-en-el-pais.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RIBFKHCERJDFHKWBRGWFOY5NAA.jpeg?auth=9cd2dd0d3f4eae441365fd01bca6aa58b73d643f07eab2bd9f9493a926406d01&width=414&height=233&focal=354%2C362",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Irán difunde imágenes de un supuesto dron submarino de EE UU interceptado por su ejército",
       "link": "https://elpais.com/videos/2026-09-09/iran-difunde-imagenes-de-un-supuesto-dron-submarino-de-ee-uu-interceptado-por-su-ejercito.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/YI4S7QNIDRAY3BFRHZCMSNGTJM.jpg?auth=0dd3d136082de7c8bfedc691a1126d5c5c9f8223a8f280d6b37f7a5be6a34926&width=414&height=233&smart=true",
@@ -26,14 +32,8 @@
     },
     {
       "titulo": "¿Puedo votar si me han concedido la nacionalidad española o la estoy tramitando?",
-      "link": "https://elpais.com/videos/2026-09-09/puedo-votar-si-me-han-concedido-la-nacionalidad-espanola-o-la-estoy-tramitando.html",
+      "link": "https://elpais.com/noticias/ley-memoria-democratica/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/AIOZOYIWQVHVPOXZDUX5VEJMNE.jpeg?auth=eda5367fb210adda597900974cbea5f8ba66742d2d3da210051823c83e3efde6&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘La mesa de Hora 25’, en EL PAÍS I Programa del 8 de septiembre de 2026",
-      "link": "https://elpais.com/noticias/cadena-ser/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/RIBFKHCERJDFHKWBRGWFOY5NAA.jpeg?auth=9cd2dd0d3f4eae441365fd01bca6aa58b73d643f07eab2bd9f9493a926406d01&width=414&height=233&focal=354%2C362",
       "tipo": "imagen"
     }
   ]

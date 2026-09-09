@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "‘La mesa de Hora 25’, programa en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-09-09/la-mesa-de-hora-25-programa-en-el-pais.html",
+      "imagen": "https://www.youtube.com/watch?v=ZBEaU3ZxVFA",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Irán difunde imágenes de un supuesto dron submarino de EE UU interceptado por su ejército",
       "link": "https://elpais.com/videos/2026-09-09/iran-difunde-imagenes-de-un-supuesto-dron-submarino-de-ee-uu-interceptado-por-su-ejercito.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260909/1212477_111238_video_1800.mp4",
@@ -28,12 +34,6 @@
       "titulo": "La guerra entre el Supremo y el Gobierno continua con la ley de nietos",
       "link": "https://elpais.com/videos/2026-09-09/la-guerra-entre-el-supremo-y-el-gobierno-continua-con-la-ley-de-nietos.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260908/1212219_180342_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘La mesa de Hora 25’, en EL PAÍS I Programa del 8 de septiembre de 2026",
-      "link": "https://elpais.com/videos/2026-09-08/la-mesa-de-hora-25-programa-en-el-pais.html",
-      "imagen": "https://www.youtube.com/watch?v=Ez5y6DE-8Aw",
       "tipo": "imagen"
     }
   ]

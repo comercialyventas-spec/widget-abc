@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El temporal deja 154 incidentes en Balears, la mayoría en Mallorca, y una mujer fallecida",
+      "link": "https://www.publico.es/sociedad/m-ambiente/temporal-deja-154-incidentes-balears-mayoria-mallorca-mujer-fallecida.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/08/22/6a896a4152833.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El incendio forestal de Niebla se convierte en el mayor fuego en la historia de España",
       "link": "https://www.publico.es/sociedad/m-ambiente/incendio-forestal-niebla-convierte-mayor-fuego-historia-espana.html",
       "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/08/08/6a7733796a99c.r_d.969-596-1406.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "El calentamiento global podría reducir hasta 25 años la vida útil de las infraestructuras globales",
       "link": "https://www.publico.es/sociedad/m-ambiente/calentamiento-global-podria-reducir-25-anos-vida-util-infraestructuras-globales.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/06/15/6a2fb1961c79b.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las lluvias dejan en Barcelona 30 cancelaciones de vuelos y retrasos en la alta velocidad",
-      "link": "https://www.publico.es/sociedad/lluvias-dejan-barcelona-30-cancelaciones-vuelos-retrasos-alta-velocidad.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2025/07/01/6864145528a0d.jpeg",
       "tipo": "imagen"
     }
   ]

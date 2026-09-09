@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El nuevo enigma de los ancestros humanos más misteriosos: 120.000 años sin mejorar nunca sus herramientas",
+      "link": "https://elpais.com/ciencia/2026-09-09/el-nuevo-enigma-de-los-ancestros-humanos-mas-misteriosos-120000-anos-sin-mejorar-nunca-sus-herramientas.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "El anuncio de OpenAI de que ha resuelto uno de los mayores enigmas matemáticos de la historia desata acusaciones de plagio",
       "link": "https://elpais.com/ciencia/2026-09-09/el-anuncio-de-openai-de-que-ha-resuelto-uno-de-los-mayores-enigmas-matematicos-de-la-historia-desata-acusaciones-de-plagio.html",
       "imagen": "",
@@ -9,14 +15,14 @@
     {
       "titulo": "Más de 900 universidades piden 200.000 millones de euros para el próximo programa marco de investigación y desarrollo",
       "link": "https://elpais.com/ciencia/2026-09-09/mas-de-900-universidades-piden-200000-millones-de-euros-para-el-proximo-programa-marco-de-investigacion-y-desarrollo.html",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NCTJDR67VBAMVMVBQMBBP5R4WY.jpg?auth=9c2c170575db1a586aeae81b24a512904161763bd72741338aff17bf4b224b13&width=414&height=233&smart=true",
+      "tipo": "imagen"
     },
     {
       "titulo": "Edzard Ernst, investigador: “Los científicos deben tener mucho cuidado con los políticos de dudosa moral”",
       "link": "https://elpais.com/ciencia/2026-09-08/edzard-ernst-investigador-los-cientificos-deben-tener-mucho-cuidado-con-los-politicos-de-dudosa-moral.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/GHGI4Y3ISZCUTAHF4HIGSVVAZY.jpg?auth=cf7db733317013266443a8594c8b50d8273ff7f797d13a58c8e3e541cdcaa9a6&width=414&height=233&smart=true",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "La prueba que detecta la pérdida auditiva que los médicos no pueden diagnosticar",
@@ -27,13 +33,7 @@
     {
       "titulo": "Constantino Sotelo, el señor del cerebelo",
       "link": "https://elpais.com/ciencia/2026-09-07/constantino-sotelo-el-senor-del-cerebelo.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Formas de vida diminutas para salvar los suelos y la salud",
-      "link": "https://elpais.com/clima-y-medio-ambiente/2026-09-07/formas-de-vida-diminutas-para-salvar-los-suelos-y-la-salud.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/2JU73FPBLVCWLNECOTIQ3ERJNE.jpg?auth=9277c867370b0036986227e40ef55b34e6ef2f80da6dd9f22f7b482804047736&width=414&height=311&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/6P2M5PYHDJCYDLSAWTXHLX4JHY.jfif?auth=f7de3cf2484052538dd5ab952d5dff8b72bb8563c0f74033f6a8c54ca155fe06&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

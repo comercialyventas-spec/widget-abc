@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Sevilla salva una jornada complicada de tráfico con el paso de la Vuelta Ciclista",
+      "link": "https://www.abc.es/sevilla/ciudad/sevilla-salva-jornada-complicada-trafico-paso-vuelta-20260909194052-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/09/ciclistas-paso-remedios-RvOHJdKvMo2nbqDDXLOodaO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Teatro Lope de Vega enciende su luminoso 20 años después",
+      "link": "https://www.abc.es/sevilla/cultura/teatro-lope-vega-enciende-luminoso-anos-despues-20260909194545-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/09/luz-lope-vega-kssG-RZcpCNUE5S7rKEfr4W6KTdK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Cristo de la Cárcel será sometido a un estudio de conservación por primera vez en el IAPH",
       "link": "https://www.abc.es/sevilla/pasionensevilla/noticias-semana-santa-sevilla/cristo-carcel-sometido-estudio-conservacion-primera-vez-20260909192032-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/09/cristo-carcel-mairena-RFhptILqgMdDpxTFdiYuYrJ-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "La Guardia Civil recupera nueve coches robados en Los Palacios",
       "link": "https://www.abc.es/sevilla/provincia/guardia-civil-recupera-nueve-coches-robados-palacios-20260909173418-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/09/toscano-palacios-reunion-RHlZYLSe21i5avkxs6dTHrJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La DGT pide no comprar estas sillitas para niños en internet: «Son ilegales y no pueden utilizarse en territorio español»",
-      "link": "https://www.abc.es/sevilla/vivir-y-hogar/dgt-pide-comprar-sillitas-ninos-internet-ilegales-20260909171958-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/09/sillita-coche-archivo-RqsaEliA2SkKUpfUMN9ZzKI-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La UPO da la bienvenida al curso escolar con más de 2.000 alumnos de nuevo ingreso",
-      "link": "https://www.abc.es/sevilla/ciudad/upo-bienvenida-curso-escolar-2000-alumnos-nuevo-20260909170951-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/09/EuropaPress_7760874_jornadas_bienvenida_universidad_pablo_olavide-RajBmAB3vbwxXg7PKiZ0DxI-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
