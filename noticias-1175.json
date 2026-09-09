@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La insoportable degradación de TVE",
+      "link": "https://okdiario.com/opinion/insoportable-degradacion-tve-20259714",
+      "imagen": "https://okdiario.com/img/2026/09/09/editorial-rtve-desk.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Si los informes desclasificados desmienten a Sánchez, ¿cómo serán los no desclasificados?",
       "link": "https://okdiario.com/opinion/si-informes-desclasificados-desmienten-sanchez-como-seran-no-desclasificados-20258593",
       "imagen": "https://okdiario.com/img/2026/09/09/editorial-informes-ceuta-desk.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Las pruebas del montaje contra Julio Iglesias",
       "link": "https://okdiario.com/opinion/pruebas-del-montaje-contra-julio-iglesias-20251630",
       "imagen": "https://okdiario.com/img/2026/09/09/imagen_final-15.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Tribunal Supremo impide el pucherazo",
-      "link": "https://okdiario.com/opinion/tribunal-supremo-impide-pucherazo-20252190",
-      "imagen": "https://okdiario.com/img/2026/09/08/edito-supremo-impide-el-pucherazo-inter.jpg",
       "tipo": "imagen"
     }
   ]

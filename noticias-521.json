@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Alfredo Relaño",
+      "link": "https://www.elconfidencialdigital.com/album/medios/alfredo-relano/202609092100001039943.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2025/09/05/2025090512143392646.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Séptima",
       "link": "https://www.elconfidencialdigital.com/album/medios/la-septima/202609080500001039344.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/07/2026090718325842775.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Antoni Daimiel",
       "link": "https://www.elconfidencialdigital.com/album/medios/antoni-daimiel/202609031900001038459.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/06/03/2026060317401789401.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Pablo Bustinduy",
-      "link": "https://www.elconfidencialdigital.com/album/medios/pablo-bustinduy/202609031900001038798.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2025/02/20/2025022008021927372.jpg",
       "tipo": "imagen"
     }
   ]

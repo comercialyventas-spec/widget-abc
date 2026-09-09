@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El avión de Zelenski estuvo a punto de ser alcanzado por un dron",
+      "link": "https://www.lavanguardia.com/internacional/20260909/11631306/avion-zelenski-estuvo-punto-alcanzado-dron-dirigia-oslo.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/09/6aa1a940cb0b4.r_d.1965-1018-1183.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Reino Unido suma más de 2.000 vuelos cancelados en apenas dos días por un problema técnico",
       "link": "https://www.lavanguardia.com/internacional/20260909/11631071/reino-unido-suma-mas-2-000-vuelos-cancelados-apenas-dos-dias-problema-tecnico.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/09/6aa1641e295eb.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Netanyahu demandará a Haaretz mientras crece el escepticismo sobre su papel en los ataques del 7 de octubre",
       "link": "https://www.lavanguardia.com/internacional/20260909/11630891/netanyahu-demandara-haaretz-crece-escepticismo-sobre-papel-ataques-7-octubre.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/04/24/69eb6161cd478.r_d.1050-571-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Streaming | El funeral del rey Harald V de Noruega",
-      "link": "https://www.lavanguardia.com/gente/20260909/11630279/streaming-funeral-rey-harald-v-noruega.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
       "tipo": "imagen"
     }
   ]
