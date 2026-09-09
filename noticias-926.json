@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Latto, la heladería argentina que conquista Madrid con su banana asada y otros sabores inesperados",
+      "titulo": "El cóctel bar que surgió tras el cierre de la mítica tienda de discos Madrid Rock: sesiones de DJ, guitarras eléctricas y tapas con toque gourmet",
+      "link": "https://www.elmundo.es/metropoli/gastronomia/2026/09/10/6a54bbf5e4d4d842618b45ac.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/13/17839380488124.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La heladería argentina que conquista Madrid con su banana asada y otros sabores inesperados",
       "link": "https://www.elmundo.es/metropoli/gastronomia/2026/09/09/6a9ffc67e9cf4a83148b458c.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/08/17888738934260.jpg",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/08/17888744985408.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Álvaro Meyer, creador de Volup, el servicio de alta cocina a domicilio: \"Romper el estigma del delivery ha sido nuestro mayor desafío\"",
       "link": "https://www.elmundo.es/metropoli/gastronomia/restaurantes/2026/09/05/6a4f859be9cf4ac1558b4579.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/09/17835962483222.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Kurantu o cómo un horno japonés ha puesto un pequeño pueblo de la sierra de Madrid en el mapa 'foodie'",
-      "link": "https://www.elmundo.es/metropoli/gastronomia/2026/09/04/6a998c73e85ecedc028b45ad.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/03/17884489058769.jpg",
       "tipo": "imagen"
     }
   ]

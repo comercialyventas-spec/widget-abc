@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La doble velocidad de Pedri",
+      "link": "https://www.lavanguardia.com/deportes/20260909/11631488/doble-velocidad-pedri.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Julián Álvarez no puede con Araújo en Anfield",
       "link": "https://www.lavanguardia.com/deportes/futbol/20260909/11631342/julian-alvarez-araujo-anfield.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/09/6aa1cb4029582.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Fútbol, Barça y felicidad",
       "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260909/11631325/futbol-barca-felicidad.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/09/6aa1b4f0c0a37.r_d.2146-2115-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Rodri pide perdón al Valencia: “No quise burlarme de nadie”",
-      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260909/11631320/rodri-pide-perdon-valencia-quise-burlarme-nadie.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/09/6aa1b1028630d.jpeg",
       "tipo": "imagen"
     }
   ]

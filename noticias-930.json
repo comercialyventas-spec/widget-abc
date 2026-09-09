@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "\"Fue un artista fascinante y muy talentoso, pero un perfecto egoísta\"",
+      "link": "https://www.elmundo.es/la-lectura/2026/09/10/6a91aa83e9cf4a72018b45a3.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/31/17881713491244.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un vencejo, unos zapatos y el misterio de lo cotidiano",
+      "link": "https://www.elmundo.es/la-lectura/2026/09/10/6a91b23efdddffe2478b4594.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/31/17881756840721.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Javier Serena y aquel último verano en que fuimos jóvenes",
+      "link": "https://www.elmundo.es/la-lectura/2026/09/10/6a96ea3be4d4d8c7638b4582.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "\"Aquí he visto la luz alegre y sana, un cielo sin las tristezas parisienses\"",
       "link": "https://www.elmundo.es/la-lectura/2026/09/09/6a8eb97be85eceb16f8b45a6.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/31/17881748672077.jpg",
@@ -9,31 +27,13 @@
     {
       "titulo": "\"Nos jugamos la identidad. Sin memoria no somos\"",
       "link": "https://www.elmundo.es/la-lectura/2026/09/09/6a96dce0fc6c83502d8b456d.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/01/17882718294811.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Once miradas para explorar la irracionalidad con los ojos de Peter Stamm",
       "link": "https://www.elmundo.es/la-lectura/2026/09/09/6a96e8effdddffd9088b4582.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/01/17882750424090.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Impresiones de viaje, cómo se viajaba desde la emoción antes del boom del turismo",
-      "link": "https://www.elmundo.es/la-lectura/2026/09/09/6aa02c8de4d4d870698b4596.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "\"Estos chicos serán un día más grandes que Elvis Presley\"",
-      "link": "https://www.elmundo.es/la-lectura/2026/09/08/6a904f47e85ece6b768b458e.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/31/17881754737959.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mitos y verdades de por qué la inteligencia artificial nunca podrá ser humana",
-      "link": "https://www.elmundo.es/la-lectura/2026/09/08/6a96e641e85ecec2548b456d.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/01/17882746894461.jpg",
       "tipo": "imagen"
     }
   ]
