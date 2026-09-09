@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Al menos un muerto y decenas de heridos al descarrilar en Polonia un tren que chocó con un camión",
+      "link": "https://www.lavanguardia.com/internacional/20260909/11631034/muerto-decenas-heridos-descarrilar-polonia-tren-choco-camion.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/uploads/2026/09/09/6aa1575508d96.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los reales primos de Europa despiden al rey Harald de Noruega",
       "link": "https://www.lavanguardia.com/gente/20260909/11629464/reales-primos-europa-despiden-rey-harald-noruega.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/uploads/2026/09/09/6aa136c0e25d1.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/uploads/2026/09/09/6aa136c0e25d1.jpeg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "EE. UU. desata una nueva oleada de bombardeos contra supuestas narcolanchas en el Caribe",
       "link": "https://www.lavanguardia.com/internacional/20260909/11630672/ee-uu-desata-nueva-oleada-bombardeos-supuestas-narcolanchas-caribe.html",
       "imagen": "https://www.lavanguardia.com/files/image_449_221/uploads/2026/09/09/6aa101082d240.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Londres acusa a Israel de hacer limpieza étnica en Cisjordania",
-      "link": "https://www.lavanguardia.com/internacional/20260909/11630434/londres-acusa-israel-limpieza-etnica-cisjordania.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/uploads/2026/09/08/6aa0600c68234.jpeg",
       "tipo": "imagen"
     }
   ]
