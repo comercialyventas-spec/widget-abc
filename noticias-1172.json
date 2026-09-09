@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "Última hora de la actualidad política, en directo | La crisis migratoria de Ceuta centra la sesión de control al Gobierno",
+      "titulo": "El TSJ valenciano obliga a Sanidad a indemnizar con 100.000 € a una joven en coma tras tomar un batido",
+      "link": "https://okdiario.com/comunidad-valenciana/tsj-valenciano-obliga-sanidad-indemnizar-100-000-joven-coma-tomar-batido-20258015",
+      "imagen": "https://okdiario.com/img/2025/09/26/europapress_5103743_fachada_tsjcv-1.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Última hora de la actualidad política, en directo | Los documentos desclasificados por Sánchez prueban que el CNI avisó al Gobierno un día antes de la invasión",
       "link": "https://okdiario.com/espana/ultima-hora-actualidad-politica-hoy-crisis-ceuta-como-protagonista-primera-sesion-control-gobierno-nuevo-curso-politico-20253854",
       "imagen": "https://okdiario.com/img/2026/09/09/propuesta-directo-espana-gif-interior-2.gif",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La inteligencia militar alertó de la \"pasividad\" de Marruecos a las 13:00 h. del mismo día de la invasión",
+      "link": "https://okdiario.com/espana/inteligencia-militar-alerto-pasividad-marruecos-1300-h-del-mismo-dia-invasion-20258640",
+      "imagen": "https://okdiario.com/img/2026/09/07/marroquies-invasion-ceuta-policia-nacional.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "La trama de 'Azud' regaló a 2 de los procesados vino y champagne francés y los entregó en la sede del PSPV",
       "link": "https://okdiario.com/comunidad-valenciana/trama-azud-regalo-2-procesados-vino-champagne-frances-entrego-sede-del-pspv-20256484",
       "imagen": "https://okdiario.com/img/2025/09/03/ciudad-de-la-justicia-de-valencia.-efe.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La matanza que marcó el historial de Henri Parot: 11 muertos, entre ellos seis niños, en el cuartel de Zaragoza",
-      "link": "https://okdiario.com/espana/matanza-que-marco-historial-henri-parot-11-muertos-cinco-ninas-cuartel-zaragoza-20256614",
-      "imagen": "https://okdiario.com/img/2026/09/09/casa-cuartel-de-zaragoza-tras-el-atentado-terrorista.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Gobierno instala en el centro de inmigrantes de Ceuta una antena para que dispongan de wifi",
-      "link": "https://okdiario.com/espana/gobierno-instala-centro-inmigrantes-ceuta-antena-que-dispongan-wifi-20256405",
-      "imagen": "https://okdiario.com/img/2026/09/09/antena3.jpg",
       "tipo": "imagen"
     }
   ]

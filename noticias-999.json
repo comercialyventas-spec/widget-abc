@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "El CNI avisó de un llamamiento masivo para asaltar Ceuta: “Hay grupos con 180.000 seguidores”",
+      "titulo": "El CNI avisó de un llamamiento para un “asalto” a Ceuta: “Hay grupos con 180.000 seguidores”",
       "link": "https://www.lavanguardia.com/politica/20260909/11630651/gobierno-consejo-de-ministros-informes-cni-seguridad-nacional-consejo-de-ministros-informes-ceuta-crisis-migratoria-entrevista-pedro-sanchez-ultima-hora-hoy-en-directo.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/09/6aa17bf435125.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/09/6aa17bf65a3b6.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El CNI alertó a Marruecos de “varias convocatorias” para cruzar a Ceuta aprovechando la Fiesta del Trono",
+      "link": "https://www.lavanguardia.com/politica/20260909/11631176/cni-alerto-marruecos-convocatorias-cruzar-ceuta-aprovechando-fiesta-trono.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/09/6aa17ecbd9458.jpeg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Dimite un ingeniero de Anthropic porque “la IA podría matarnos a todos al final de esta década”",
       "link": "https://www.lavanguardia.com/vida/20260909/11630677/ingeniero-anthropic-dimite-ia-matarnos-todos-final-decada.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/09/6aa1766cc3719.r_d.597-417-3760.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "OpenAI asegura haber resuelto uno de los problemas más profundos de las matemáticas",
-      "link": "https://www.lavanguardia.com/vida/20260908/11630417/openai-asegura-haber-resuelto-problemas-mas-profundos-matematicas.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/08/6aa04fb2b01a3.r_d.1319-701-1662.jpeg",
       "tipo": "imagen"
     }
   ]
