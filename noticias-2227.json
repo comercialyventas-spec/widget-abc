@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Recuperación de Parada: Carretera de Castilla. Afectadas 4 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260911-RP-3425-Carretera-Castilla.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Evento deportivo en calle Sepulveda. Afectadas 3 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260912-Milla-Urbana-Barrio-Lucero.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Obras: Hortaleza. Afectada línea 3 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260909-O-Hortaleza.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -21,18 +33,6 @@
     {
       "titulo": "Acto religioso en zona Manuel Becerra. Afectadas 17 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260905-PR-Ntra-Sra-Covadonga-Salamanca.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Rodaje cinematográfico en Retama. Afectadas 2 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260912-RODAJE-Retama.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Manifestación en zona Valdebernardo. Afectadas 4 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260911-M-Indalecio-Prieto-Jose-Prat.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }
