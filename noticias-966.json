@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Made in Korea",
+      "link": "https://elpais.com/television/series/made-in-korea/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/5CJUUH6WHZCUTDOGPNBROFPMCM.jpg?auth=2629eb2935d6762debffcf1cc070e7fdfb15813fb93a911a2a9cfc5fe48584ea",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Chicago Fire",
+      "link": "https://elpais.com/television/series/chicago-fire/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/PVFFDOE43RHN3BMA6T7D72LDJQ.jpeg?auth=c232e4521039dc8cb19b3dd54f87e2a5ac600e4a61864ef31d86a52f78edac66",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las cámaras de ‘La revuelta’ dejan de grabar por un error técnico y el programa decide emitir una imagen congelada dos minutos",
       "link": "https://elpais.com/television/2026-09-09/las-camaras-de-la-revuelta-dejan-de-grabar-por-un-error-tecnico-y-el-programa-decide-emitir-una-imagen-congelada-dos-minutos.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/HYZCOXQYZVGKLGEIF6ATXA3EFA.png?auth=63393dc099de787dea27932f6d97395beedba6a4ef93869195357b78688e6c8a",
@@ -22,18 +34,6 @@
       "titulo": "Javier Alonso abandona de forma voluntaria ‘Pasapalabra’ por “motivos personales” y Moisés Laguardia ocupa su lugar",
       "link": "https://elpais.com/television/2026-09-08/javier-alonso-abandona-de-forma-voluntaria-pasapalabra-por-motivos-personales-y-moises-laguardia-ocupa-su-lugar.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/UQYIAO5HR5DNJK2YDJQUH342AU.jpg?auth=bd53819f66ee78c663f10b0f3b1d0a67b7b877e1e82067109f9a44c11749abf2",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Atresmedia e ITV estudian demandar a Mediaset por el parecido de la ‘Rueda la letra’ con ‘Pasapalabra’",
-      "link": "https://elpais.com/television/2026-09-08/atresmedia-y-itv-estudian-demandar-a-mediaset-por-el-parecido-de-la-rueda-la-letra-con-pasapalabra.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/5BQLOXZUBZEFVIOQYBILPUGFDA.jpg?auth=f038087f50290010892c5cd3bc1a1b0c858f401724211e38ee0548a6d6ae13c3",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Babies",
-      "link": "https://elpais.com/television/series/babies/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/YZ4FZHSNRJDEXPY27FQVXKRPEQ.jpg?auth=1c7f664a9fb7d8b8b34667a800e1aad35ad0176ed86208fb22d9fc6056e51fa0",
       "tipo": "imagen"
     }
   ]

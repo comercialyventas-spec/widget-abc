@@ -1,15 +1,9 @@
 {
   "noticias": [
     {
-      "titulo": "Vinicius tiene un problema con el Bernabéu",
-      "link": "https://okdiario.com/diariomadridista/real-madrid/vinicius-tiene-problema-bernabeu-659487",
-      "imagen": "https://okdiario.com/diariomadridista/img/2026/09/08/vinicius-deportes-desk.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Despedida con honores: Alcaraz pierde su corona del US Open tras una batalla épica contra Shelton",
       "link": "https://okdiario.com/deportes/despedida-honores-alcaraz-pierde-corona-del-us-open-batalla-epica-contra-shelton-20253495",
-      "imagen": "https://okdiario.com/img/2026/09/09/cronica-alcaraz-shelton-interior.jpg",
+      "imagen": "https://okdiario.com/img/2026/09/09/cronica-alcaraz-shelton-interior-960x539.jpg",
       "tipo": "imagen"
     },
     {
@@ -34,6 +28,12 @@
       "titulo": "Carlos Sainz: \"Madring llega en un momento extraño para Williams porque es justo antes de las mejoras\"",
       "link": "https://okdiario.com/deportes/carlos-sainz-madring-llega-momento-extrano-williams-porque-justo-antes-mejoras-20254576",
       "imagen": "https://okdiario.com/img/2026/09/09/imagen_recortada-2026-09-09t104951.833.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Vinicius tiene un problema con el Bernabéu",
+      "link": "https://okdiario.com/diariomadridista/real-madrid/vinicius-tiene-problema-bernabeu-659487",
+      "imagen": "https://okdiario.com/diariomadridista/img/2026/09/08/vinicius-deportes-desk.jpg",
       "tipo": "imagen"
     }
   ]

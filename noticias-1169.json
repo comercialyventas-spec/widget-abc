@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "‘El Pulso’ de ‘Hoy por Hoy’ en directo, en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-09-09/el-pulso-de-hoy-por-hoy-en-directo-en-el-pais.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/W33TL5GQBBHPPKZ2CBK6PCULCY.png?auth=31d69aadfdcdc576317e80f0f9b468205ca1109494b0cb67b67bfad3ad681896&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Es imparable el avance de la extrema derecha en Europa?",
       "link": "https://elpais.com/videos/2026-09-09/es-imparable-el-avance-de-la-extrema-derecha-en-europa.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/EM5VFERMNVHW7O4W2OBDGVTKW4.jpg?auth=8f3accb2f5bd26fd7880a7bb54717260ae3cb03322f349f01f08e97d85dfb4ba&width=414&height=233&smart=true",
@@ -26,14 +32,8 @@
     },
     {
       "titulo": "Quejas por la falta de despliegue policial en la vuelta al colegio en Ceuta: “Si lo llego a saber no traigo a mi hijo”",
-      "link": "https://elpais.com/sociedad/2026-09-08/quejas-por-la-falta-de-despliegue-policial-en-la-vuelta-al-colegio-en-ceuta-si-lo-llego-a-saber-no-traigo-a-mi-hijo.html",
+      "link": "https://elpais.com/noticias/crisis-migratoria/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/4CRXDTLEZ5BINOH3JOIKRVGGRM.jpeg?auth=78e8de34077b9acf904e9441ddedf9ae8ba5142b6cb1212dc0cfe4b727addd8b&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un Fórmula 1 de Oracle Red Bull Racing circula por primera vez sobre los raíles del Metro de Madrid",
-      "link": "https://elpais.com/noticias/formula-1/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/GW5RK4MVKVH5PIIPKMNXBBM6GU.jpg?auth=a57d73bdf46717f864aabab6e7cb2b6381b7d38102036cfb2ccfaa4f5431a5d4&width=414&height=233&focal=1005%2C483",
       "tipo": "imagen"
     }
   ]
