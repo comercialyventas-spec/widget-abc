@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un incendio en Montjuïc provoca una gran columna de humo visible desde distintos puntos de Barcelona",
+      "link": "<![CDATA[https://www.elperiodico.com/es/barcelona/20260910/incendio-montjuic-humo-trafico-barcelona-134141238",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/339573d9-9ab9-40a8-affb-258e251b85d4_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La oposición de Badalona recela de la expropiación de Sant Jeroni para un museo del Descubrimiento de América",
       "link": "<![CDATA[https://www.elperiodico.com/es/barcelona/20260910/oposicion-badalona-recela-expropiacion-sant-jeroni-museo-descubrimiento-america-134139302",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6d52cbe6-dabf-4224-a321-f76f7672a704_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Los mejores pinchos de Barcelona se ensartan en estos restaurantes",
       "link": "<![CDATA[https://www.elperiodico.com/es/gastronomia/restaurantes/20260910/mejores-pinchos-restaurantes-barcelona-132763077",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d89b470f-b526-4f35-984f-400e55ea2023_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Albiol expropia el monasterio de Sant Jeroni de la Murtra para convertirlo en un museo sobre el descubrimiento de América",
-      "link": "<![CDATA[https://www.elperiodico.com/es/barcelona/20260910/albiol-expropia-monasterio-sant-jeroni-de-la-murtra-convertirlo-museo-descubrimiento-america-134115085",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6d52cbe6-dabf-4224-a321-f76f7672a704_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Mónica García",
+      "link": "https://www.elconfidencialdigital.com/album/politica/monica-garcia/202609101246081040004.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/10/2026091012432270088.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Supermercados",
       "link": "https://www.elconfidencialdigital.com/album/vivir/supermercados/202609101132181039990.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/10/2026091011301786085.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El ALFLOT en el patrullero Serviola",
       "link": "https://www.elconfidencialdigital.com/album/defensa/alflot-patrullero-serviola/202609092044211039938.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/09/2026090920374121947.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Guardia Civil",
-      "link": "https://www.elconfidencialdigital.com/album/seguridad/guardia-civil/202609091353071039886.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/09/2026090913512416258.jpg",
       "tipo": "imagen"
     }
   ]

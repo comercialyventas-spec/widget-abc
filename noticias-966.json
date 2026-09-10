@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Lazos mortales",
+      "link": "https://elpais.com/television/series/lazos-mortales/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ZJEUCWF755FIVKCFQTA2TPMOE4.JPG?auth=8395824c0e7aeaddd1cd588969ef543cdb20453703857c313a7af9d24673d275",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El club gastronómico",
+      "link": "https://elpais.com/television/series/el-club-gastronomico/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/3FUJHQ6STBEETDK5U2MGX6MDK4.jpg?auth=58729ea6650ab84cb477e9cb086a5fb3071d171e4ed6361f5321813c96aca2e7",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Marc Giró regresa hablando de Ceuta: “Los fachas se lo están pasando pipa”",
       "link": "https://elpais.com/television/2026-09-10/marc-giro-regresa-hablando-de-ceuta-los-fachas-se-lo-estan-pasando-pipa.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/JGZF54Z4OBDYRMCHIDZ4NCHVWY.png?auth=652dc0cccd8b8086ca160f6972e9f436a5ad740ea36d5335416333761e8a8bb2",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260910/1212880_105433_video_1800.mp4",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "La mujer miniatura",
       "link": "https://elpais.com/television/series/la-mujer-miniatura/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/PW24APBJNFBD5IZCHDBKWPVTBE.jpg?auth=5283c0d19cf5bc567d63cb4ad1cbcbb22c12f53bf30f4c12b99cdf9bf07778b5",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Causa abierta",
-      "link": "https://elpais.com/television/series/sin-rastro/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/CE74LZFIXJEJBICC35TMXOBANQ.png?auth=a36a6fa6dd32553f394dbb28a6cac13b953eef264eb4a349e03007bb957c17f7",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘La ruleta de la suerte’ toma una decisión histórica: sustituye a Laura Moure por un hombre que descubrirá las letras",
-      "link": "https://elpais.com/television/2026-09-09/la-ruleta-de-la-suerte-toma-una-decision-historica-y-sustituye-a-laura-moure-por-un-hombre.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ZUTZZTVRCJGNJGRE35ASVX2AC4.webp?auth=5c42c3b3ef5a964a724ba37b994fa18743be0a14514484cbc61c2c88cc07b482",
       "tipo": "imagen"
     }
   ]
