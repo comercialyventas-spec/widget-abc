@@ -154,6 +154,16 @@ jobs:
             );
 
             if (!respuestaFeeds.ok) {
+              let cuerpoError = "";
+              try {
+                cuerpoError = await respuestaFeeds.text();
+              } catch (e) {
+                cuerpoError = "(no se pudo leer el cuerpo: " + e.message + ")";
+              }
+              console.error("========================================");
+              console.error("CUERPO DE LA RESPUESTA DE ERROR (primeros 3000 caracteres):");
+              console.error(cuerpoError.slice(0, 3000));
+              console.error("========================================");
               throw new Error("No se pudo obtener la lista de feeds: HTTP " + respuestaFeeds.status);
             }
 
