@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¿Puede la IA perder el control y amenazar a la humanidad? Esto es lo que dicen algunos de los mayores expertos del mundo",
+      "link": "https://www.eldiario.es/tecnologia/ia-perder-control-amenazar-humanidad-dicen-mayores-expertos-mundo_1_13499280.html",
+      "imagen": "https://static.eldiario.es/clip/8abaec39-d1fe-4d40-8ec3-744d71c7c929_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Anthropic asegura que ha detenido varios intentos de crear armas biológicas con su IA",
       "link": "https://www.eldiario.es/tecnologia/anthropic-asegura-detenido-intentos-crear-armas-biologicas-ia_1_13501879.html",
       "imagen": "https://static.eldiario.es/clip/f59d468b-4bee-4c42-9f90-9d1dca7da76e_facebook-aspect-ratio-1200-675_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "No es la pantalla, es el diseño: lo que PISA no dice sobre cómo la industria de la atención torpedea a los estudiantes",
       "link": "https://www.eldiario.es/tecnologia/no-pantalla-diseno-pisa-no-dice-industria-atencion-torpedea-estudiantes_1_13495613.html",
       "imagen": "https://static.eldiario.es/clip/febf707e-6134-4cc4-b496-a23ce88c90c3_facebook-aspect-ratio-1200-675_default_0_x431y185.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La startup de IA Mistral bate el récord de financiación tecnológica europea en el intento de seguir a EEUU y China",
-      "link": "https://www.eldiario.es/tecnologia/startup-ia-mistral-bate-record-financiacion-tecnologica-europea-seguir-eeuu-china_1_13494186.html",
-      "imagen": "https://static.eldiario.es/clip/cb580d25-3211-4cc9-8984-7b4835aec4a3_facebook-aspect-ratio-1200-675_default_0_x269y267.jpg",
       "tipo": "imagen"
     }
   ]
