@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "La UPC se une a la red ConfIA para avanzar en el uso de una inteligencia artificial fiable",
+      "link": "https://www.lavanguardia.com/launi/20260910/11631677/upc-une-red-confia-avanzar-inteligencia-artificial-fiable.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_220/files/fp/uploads/2026/08/26/6a8ec07f93cd7.r_d.1137-666.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La UPC desarrolla un dispositivo sin radiación para mejorar la detección del cáncer de mama",
+      "link": "https://www.lavanguardia.com/launi/20260720/11596434/upc-desarrolla-dispositivo-radiacion-mejorar-deteccion-cancer-mama.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/uploads/2026/05/20/6a0e2bbd124a3.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Aumenta la tasa de extinción de plantas en las cumbres de las montañas europeas",
       "link": "https://www.lavanguardia.com/launi/20260907/11628820/aumenta-tasa-extincion-plantas-cumbres-montanas-europeas.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_220/uploads/2026/09/07/6a9e662546791.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/uploads/2026/09/07/6a9e662546791.jpeg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "El auge de la alta velocidad no reduce la frecuencia de vuelos",
       "link": "https://www.lavanguardia.com/launi/20260706/11585365/auge-alta-velocidad-reduce-frecuencia-vuelos.html",
       "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/05/14/6a04fed4a10c8.r_d.2000-1334.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un estudio de la UB muestra que las jirafas combinan cantidades de manera similar a una suma",
-      "link": "https://www.lavanguardia.com/launi/20260701/11580860/estudio-ub-muestra-jirafas-combinan-cantidades-manera-similar-suma.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2025/01/07/677d3be73d83a.r_d.3629-1232.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cuándo salen las notas de corte 2026 y dónde consultarlas",
-      "link": "https://www.lavanguardia.com/launi/20260709/11588047/cuando-salen-notas-corte-2026-donde-consultarlas.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/06/09/6a27c36c08c33.r_d.6492-2455.jpeg",
       "tipo": "imagen"
     }
   ]

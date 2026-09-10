@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El Brent supera los 105 dólares, el nivel más alto desde mayo, y el gas europeo ya está en máximos desde 2022",
+      "link": "https://www.eldiario.es/economia/brent-supera-105-dolares-nivel-alto-mayo-gas-europeo-maximos-2022_1_13501184.html",
+      "imagen": "https://static.eldiario.es/clip/71bd62ab-700f-4dc6-99a5-b166c3277a6e_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los centros de datos ya empujan la demanda eléctrica de grandes consumidores en España",
       "link": "https://www.eldiario.es/economia/centros-datos-empujan-demanda-electrica-grandes-consumidores-espana_1_13497452.html",
       "imagen": "https://static.eldiario.es/clip/0dbb6e06-476d-4fbb-9583-4413d9bd1b6b_16-9-discover-aspect-ratio_default_0.jpg",
@@ -13,27 +19,21 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Las ventas de coches de grupos chinos baten récords en España: se acercan al 15% del mercado",
-      "link": "https://www.eldiario.es/motor/sector_y_mercado/ventas-coches-grupos-chinos-baten-records-espana-acercan-15-mercado_1_13484232.html",
-      "imagen": "https://static.eldiario.es/clip/4a5ef7ee-1ec9-4587-9334-2d1bdf3a213e_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Los inmigrantes bajan los salarios?",
-      "link": "https://www.eldiario.es/economia/inmigrantes-bajan-salarios_129_13495886.html",
+      "titulo": "¿Y si las reformas educativas han funcionado?",
+      "link": "https://www.eldiario.es/opinion/zona-critica/si-reformas-educativas-han-funcionado_129_13498358.html",
       "imagen": "https://static.eldiario.es/clip/41a8c90d-79bd-4161-b3d4-b6ee95ab4baa_avatar-200-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "De AfD a Aliança: el viento a favor de la extrema derecha",
-      "link": "https://www.eldiario.es/opinion/zona-critica/afd-alianca-viento-favor-extrema-derecha_129_13494245.html",
-      "imagen": "https://static.eldiario.es/clip/9f119a77-2fa7-414f-ab8e-292cadd90e93_avatar-200-aspect-ratio_default_0.jpg",
+      "titulo": "¿Puede el Supremo suspender la aplicación de una ley?",
+      "link": "https://www.eldiario.es/contracorriente/supremo-suspender-aplicacion-ley_132_13497827.html",
+      "imagen": "https://static.eldiario.es/clip/e81ef558-438a-460c-969c-c7d7c204c7f0_avatar-200-aspect-ratio_default_0.jpeg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Había ratas por doquier y casi nadie las veía",
-      "link": "https://www.eldiario.es/opinion/zona-critica/habia-ratas-doquier-nadie-veia_129_13495439.html",
-      "imagen": "https://static.eldiario.es/clip/a05ebcd3-5357-4d97-9982-d4957670579b_avatar-200-aspect-ratio_default_0.jpeg",
+      "titulo": "Los niños que no querían aprender",
+      "link": "https://www.eldiario.es/opinion/zona-critica/ninos-no-querian-aprender_129_13498720.html",
+      "imagen": "https://static.eldiario.es/clip/d56f7b4e-be9a-4461-9270-175595b310a1_avatar-200-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

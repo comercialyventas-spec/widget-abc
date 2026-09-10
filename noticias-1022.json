@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "El encuentro del Rey con Robles y el JEMAD responde a su deseo de conocer operaciones como la de Ceuta, según Zarzuela",
-      "link": "https://www.abc.es/espana/rey-ira-acompanado-reina-ceuta-melilla-fecha-20260910182757-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/10/1517048729-Rdke2kuXfJIJIyKtugDNUqK-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "Anthropic afirma que ha parado posibles intentos de fabricar armas biológicas con ayuda de la IA",
       "link": "https://www.abc.es/tecnologia/anthropic-afirma-parado-posibles-intentos-fabricar-armas-20260910211206-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/10/1511535019-kmxH-U301666052703MVE-1200x840@diario_abc.JPG"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/10/1511535019-kmxH-U301666052703MVE-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
     },
     {
       "titulo": "Lista de premios de Lotería Nacional del jueves 10 de septiembre",
       "link": "https://www.abc.es/loterias/loteria-nacional/loteria-nacional-hoy-directo-comprobar-resultados-numeros-20260510193000-di.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/loterias/2026/05/07/die-kO9-U3016606362116AG-1200x838@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/loterias/2026/05/07/die-kO9-U3016606362116AG-1200x838@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "«Propuesta de mi perfil para la lista de Marlaska»",
       "link": "https://www.abc.es/espana/propuesta-perfil-lista-marlaska-20260910205936-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/10/MONTAJE%20HOR.00_02_11_22.Imagen%20fija005-RswOECZlnAb8PnaXdA6OSoM-1200x672@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/10/MONTAJE%20HOR.00_02_11_22.Imagen%20fija005-RswOECZlnAb8PnaXdA6OSoM-1200x672@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Ayuso entra en la batalla electoral frente a Mónica García y anuncia mejoras para los médicos",
       "link": "https://www.abc.es/espana/madrid/ayuso-entra-batalla-electoral-frente-monica-garcia-20260910150145-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/10/ayuso-pp_20260910143713-RSs4FWZK7szHZUOURftH4pI-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/10/ayuso-pp_20260910143713-RSs4FWZK7szHZUOURftH4pI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El encuentro del Rey con Robles y el JEMAD responde a su deseo de conocer operaciones como la de Ceuta, según Zarzuela",
+      "link": "https://www.abc.es/espana/rey-ira-acompanado-reina-ceuta-melilla-fecha-20260910182757-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/10/1517048729-Rdke2kuXfJIJIyKtugDNUqK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Los médicos convocan una huelga indefinida en toda España para mediados de octubre",
       "link": "https://www.abc.es/sociedad/medicos-plantean-huelga-general-partir-octubre-monica-20260910205557-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/10/1511840894-Rhz6991cRKtwpkZf4mdr1aN-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/10/1511840894-Rhz6991cRKtwpkZf4mdr1aN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un terremoto de magnitud 3,4 sacude León",
+      "link": "https://www.20minutos.es/castilla-y-leon/leon/un-terremoto-magnitud-3-4-sacude-leon_7035352_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2023/07/06/sismografo.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Hasta 7.500 euros de ahorro fiscal para jóvenes: así es la nueva 'Cuenta Vivienda' de Castilla y León",
       "link": "https://www.20minutos.es/castilla-y-leon/hasta-7-500-euros-ahorro-fiscal-para-jovenes-asi-es-nueva-cuenta-vivienda-castilla-leon_7034993_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/03/15/li_comprar-vivienda.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Confinados un centenar de vecinos en Sosas de Laciana por un incendio forestal",
       "link": "https://www.20minutos.es/castilla-y-leon/leon/confinados-un-centenar-vecinos-sosas-laciana-por-un-incendio-forestal_7032648_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/03/6a99b8c4aeb645-35158571.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Hallan muerto en León a un ejemplar de oso pardo y detectan el atropello de otro",
-      "link": "https://www.20minutos.es/castilla-y-leon/leon/hallan-muerto-leon-un-ejemplar-oso-pardo-detectan-atropello-otro_7032624_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/01/19/696e534846a8c4-55565160.r_d.508-1016.jpeg",
       "tipo": "imagen"
     }
   ]
