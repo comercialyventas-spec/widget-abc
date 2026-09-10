@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "De cuando Sánchez se comió a Orwell",
+      "link": "https://okdiario.com/opinion/cuando-sanchez-comio-orwell-20260755",
+      "imagen": "https://okdiario.com/img/2026/09/09/10-09-2026-sanchez-entrevista-masaje.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La entrevista a Sánchez, ruido blanco",
       "link": "https://okdiario.com/opinion/entrevista-sanchez-ruido-blanco-20260535",
       "imagen": "https://okdiario.com/img/2026/09/09/carla-interior.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Pedro Sánchez y el síndrome de Chernóbil",
       "link": "https://okdiario.com/opinion/pedro-sanchez-sindrome-chernobil-20248681",
       "imagen": "https://okdiario.com/img/2026/09/08/imagen_final-14.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El 12 de septiembre Mallorca recuerda quién es",
-      "link": "https://okdiario.com/baleares/12-septiembre-mallorca-recuerda-quien-20256871",
-      "imagen": "https://okdiario.com/img/2026/09/09/imagen_final-1.jpg",
       "tipo": "imagen"
     }
   ]
