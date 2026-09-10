@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El hilo de la luna en Vic",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260910/11631606/hilo-luna-vic.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/10/6aa25bafd475f.r_d.994-574-2338.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Orión y el fascinante mapa estelar sobre el Mediterráneo",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260910/11488145/orion-fascinante-mapa-estelar-sobre-mediterraneo.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/10/6aa259e1c521c.r_d.378-356-6507.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Te regalamos un viaje a Baleares con Trasmed",
       "link": "https://www.lavanguardia.com/participacion/concursos/20260910/11629811/te-regalamos-viaje-baleares-trasmed.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/08/6a9fc25b8fb88.r_d.510-358-4736.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El debate machista sobre el suicidio en Chile",
-      "link": "https://www.lavanguardia.com/participacion/lectores-corresponsales/20260910/11629781/debate-machista-sobre-suicidio-chile.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2023/02/26/63fb14c2db932.r_d.391-425-6201.jpeg",
       "tipo": "imagen"
     }
   ]

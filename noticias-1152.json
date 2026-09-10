@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Uber recibe el permiso de la DGT para coches autónomos en España y prevé operar en Madrid a final de este año",
+      "link": "https://elpais.com/tecnologia/2026-09-10/uber-recibe-el-primer-permiso-de-la-dgt-para-coches-autonomos-en-espana-y-preve-operar-en-madrid-a-final-de-este-ano.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/GX7C3P7VXZEDJJA7IG6E5OA55I.jpeg?auth=646abcb49d1f11f84c2bf613a811abefe2e16d28badff83d647c2a4c1f4bd4c5",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "OpenAI corrige de tapadillo su prueba ‘del milenio’ para citar a los matemáticos clave que ninguneó al anunciar el descubrimiento",
+      "link": "https://elpais.com/tecnologia/2026-09-10/openai-corrige-de-tapadillo-su-prueba-del-milenio-para-citar-a-los-matematicos-clave-que-ninguneo-al-anunciar-el-descubrimiento.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4V7ZRT3NIVK4DEYJQUBTQ666EI.jpg?auth=388001b98c980fa8fb4f5d6ec66d9ea88b30d68a75ea046384afbc7ec2a1ae85",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un año de trabajo de dos matemáticos españoles frente a 88 horas y 15 millones de OpenAI: “Sin nuestra idea, la IA no lo habría resuelto”",
       "link": "https://elpais.com/ciencia/2026-09-10/un-ano-de-trabajo-de-dos-matematicos-espanoles-frente-a-88-horas-y-15-millones-de-openai-sin-nuestra-idea-la-ia-no-lo-habria-resuelto.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/37RYRR4V5JDQFCZVIXK5AIBXUQ.jpg?auth=f0f3b3086b1700632a18c52c410c7daf3d21e41e966015b657725be2f0bb6b16",
@@ -22,18 +34,6 @@
       "titulo": "Un investigador de Anthropic dimite y alerta del peligro de la IA: “Puede matarnos antes de 2030”",
       "link": "https://elpais.com/tecnologia/2026-09-09/un-investigador-de-anthropic-dimite-porque-asegura-que-la-ia-puede-matarnos-antes-de-2030.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/U6GJQJBBSVAU3DBJYXH7T6Q4DQ.jpg?auth=758c76b1176d7c75e0cddd6b78ad33f91ee9a5c0d044626f18fe77303dd4600a",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "OpenAI lanza GPT-6 Astra, su modelo más potente, entre especulaciones sobre si han alcanzado la superinteligencia artificial",
-      "link": "https://elpais.com/tecnologia/2026-09-04/openai-lanza-gpt-6-astra-su-modelo-mas-potente-entre-especulaciones-sobre-si-han-alcanzado-la-superinteligencia-artificial.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/NRJQUGPG4FLU7CS23UZH6JNDOE.jpg?auth=6a780d1a05a9374e52341518c770e5f4246980eb0e3c8c8d8e7798c72fb88a7a",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Puede uno aprender a enamorarse? La app de citas que ayuda a las personas con discapacidad intelectual",
-      "link": "https://elpais.com/sociedad/2026-09-06/puede-uno-aprender-a-enamorarse-la-app-de-citas-que-ayuda-a-las-personas-con-discapacidad-intelectual.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/V6VENBLO2BGT3JQNT7OSR642TA.jpg?auth=a2274d956c1c5ded3fc9bd6755d52fade55a8f4084c9ab59223d340c56742f39",
       "tipo": "imagen"
     }
   ]

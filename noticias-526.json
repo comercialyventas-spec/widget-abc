@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Supermercados",
+      "link": "https://www.elconfidencialdigital.com/album/vivir/supermercados/202609101132181039990.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/10/2026091011301786085.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Bodegón rústico de panes y granos",
       "link": "https://www.elconfidencialdigital.com/album/vivir/panes/202609091225281039853.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/09/2026090912165873499.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Carabela portuguesa",
       "link": "https://www.elconfidencialdigital.com/album/vivir/carabela-portuguesa/202608121151121035675.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/08/12/2026081211411025478.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Aviones",
-      "link": "https://www.elconfidencialdigital.com/album/vivir/aviones/202608111310051035524.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/08/11/2026081113080137296.jpg",
       "tipo": "imagen"
     }
   ]
