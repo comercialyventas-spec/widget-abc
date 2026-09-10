@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El racionamiento de la ayuda humanitaria deja sin asistencia a 64 millones de personas",
+      "link": "https://elpais.com/planeta-futuro/2026-09-10/el-racionamiento-de-la-ayuda-humanitaria-deja-sin-asistencia-a-64-millones-de-personas.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KA6MY77Y4BEPVPNFQHWIVYTOQM.jpg?auth=e0e19005b8a8ae082f0f50d3012d8b0ba321a33a142ca63207d211db1e5024c0",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La trampa de Tucídides y el derecho a la educación",
       "link": "https://elpais.com/planeta-futuro/2026-09-09/la-trampa-de-tucidides-y-el-derecho-a-la-educacion.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/HPS6K6SRPNEZ5K56M7H5P2OZGE.jpg?auth=9429ff5d22973893158768eeb41935b728431bc50a7cb22320319e1f5ab94bb7",
@@ -28,12 +34,6 @@
       "titulo": "Francis Kéré: “En África la gente se pregunta: ‘¿cómo va a resistir la lluvia un muro de arcilla?’, y cuando llueve y aguanta, su entusiasmo es inmenso”",
       "link": "https://elpais.com/icon-design/2026-09-08/francis-kere-en-africa-la-gente-se-pregunta-como-va-a-resistir-la-lluvia-un-muro-de-arcilla-y-cuando-llueve-y-aguanta-su-entusiasmo-es-inmenso.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/BMUTB7X4QBG3ZBM6KPVFSHJCVQ.jpg?auth=780cee5241a61f791915e8f527a93768d4cca821369e766ebadf48f059b81a19",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un impuesto para los superricos evitaría 29,5 millones de muertes asociadas a los recortes de la ayuda internacional",
-      "link": "https://elpais.com/planeta-futuro/2026-09-08/un-impuesto-para-los-superricos-evitaria-295-millones-de-muertes-asociadas-a-los-recortes-de-la-ayuda-internacional.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/SMLCWYNCEZHCBHVFUVYRKJBSGM.jpg?auth=e69471d3b7cc2cdd884a022b3c73b1c9533431008d8244c311a6dfba91607541",
       "tipo": "imagen"
     }
   ]
