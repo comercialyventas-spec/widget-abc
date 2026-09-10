@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El potente escudo vegetal de la cebolla",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260910/11629901/potente-escudo-vegetal-cebolla.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/08/6a9fd7093d5eb.r_d.966-532-2338.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Y la fruta fresca?",
       "link": "https://www.lavanguardia.com/participacion/cartas/20260909/11631402/fruta-fresca.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Poca lectura",
       "link": "https://www.lavanguardia.com/participacion/cartas/20260909/11631398/poca-lectura.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El cielo aconfesional de Madrid",
-      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260909/11631017/cielo-aconfesional-madrid.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/09/6aa14d0494fff.r_d.974-666-2338.jpeg",
       "tipo": "imagen"
     }
   ]
