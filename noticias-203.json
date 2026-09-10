@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La batalla silenciosa por la salud mental en Uruguay, el país con la tasa de suicidios más alta de América Latina",
+      "link": "https://www.bbc.com/mundo/articles/c980ndj537eo",
+      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bae4/live/52227fc0-94ff-11f1-9181-85140b8ce01b.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Drones, ciberataques y desinformación: la \"guerra híbrida\" de la que se acusa a Rusia en Europa",
       "link": "https://www.bbc.com/mundo/articles/c5yw3wqw35no",
       "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2850/live/9e9f2c90-ab93-11f1-aa04-efbf6a882854.jpg",
@@ -10,12 +16,6 @@
       "titulo": "Trump promete US$5.000 a cada adulto estadounidense y otras 3 claves de la convención republicana previa a las elecciones de medio término",
       "link": "https://www.bbc.com/mundo/articles/cj06y0qm11lo",
       "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1220/live/0cc22f90-acef-11f1-a8ae-35fb3e785e0c.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La cruenta batalla interna que se libra en el Pentágono por el futuro del ejército más poderoso del mundo",
-      "link": "https://www.bbc.com/mundo/articles/cg5904rpmp4o",
-      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a940/live/5ce303e0-ac87-11f1-ab14-5b9069dc795d.jpg",
       "tipo": "imagen"
     },
     {
@@ -31,9 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "25 años del 11-S: la agonía de los familiares de las víctimas de los peores atentados de la historia de EE.UU.",
-      "link": "https://www.bbc.com/mundo/articles/c1mvpng28epo",
-      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4e30/live/c326db60-ab90-11f1-aed2-8d6da8d75094.jpg",
+      "titulo": "La cruenta batalla interna que se libra en el Pentágono por el futuro del ejército más poderoso del mundo",
+      "link": "https://www.bbc.com/mundo/articles/cg5904rpmp4o",
+      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a940/live/5ce303e0-ac87-11f1-ab14-5b9069dc795d.jpg",
       "tipo": "imagen"
     }
   ]
