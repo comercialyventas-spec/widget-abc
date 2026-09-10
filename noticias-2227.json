@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Evento sociocultural en zona Los Cármenes. Afectadas 2 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260912-Pasacalles-Barrio-Goya.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Recuperación de Parada: Carretera de Castilla. Afectadas 4 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260911-RP-3425-Carretera-Castilla.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -27,12 +33,6 @@
     {
       "titulo": "Manifestación en zona Hortaleza. Afectadas 3 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260912-M-Santa-Susana-Mar-Bering.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Acto religioso en zona Manuel Becerra. Afectadas 17 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260905-PR-Ntra-Sra-Covadonga-Salamanca.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }
