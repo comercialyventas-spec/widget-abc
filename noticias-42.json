@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Cómo los anillos inteligentes han llegado a millones de dedos",
+      "link": "https://www.lavanguardia.com/tecnologia/20260910/11630386/anillo-inteligente-salud-oura.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/08/6aa054f4b826b.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El apocalipsis laboral se aplaza: la IA crea empleo",
       "link": "https://www.lavanguardia.com/tecnologia/20260909/11629074/ia-inteligencia-articial-empleo-paro.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/11/698c67a0c222a.r_d.1931-1289-0.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "El nuevo tráiler de ‘GTA VI’ ya está disponible en Netflix y revela muchas novedades del juego",
       "link": "https://www.lavanguardia.com/neo/20260827/11621306/nuevo-trailer-gta-vi-esta-disponible-netflix-revela-muchas-novedades-juego.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/27/6a9094781aac3.r_d.1847-969-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Badalona se prepara para acoger la gran final europea de 'Valorant', que se celebra este fin de semana",
-      "link": "https://www.lavanguardia.com/neo/20260826/11620243/videojuegos-valorant-vct-emea-stage-2-badalona-competicion-final-europea-esports.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/26/6a8e97d2eb083.jpeg",
       "tipo": "imagen"
     }
   ]

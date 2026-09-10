@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Quién sabía qué antes de la crisis de Ceuta",
+      "link": "https://elpais.com/podcasts/hoy-en-el-pais/2026-09-10/quien-sabia-que-antes-de-la-crisis-de-ceuta.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/UOUIW2YZMZA7BKNXJ5NXNTMMUM.jpg?auth=0aed39998a88fb48668824542e3b422c747b688ce0ac7a4e86fcd4e9492a420b",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Por qué España ha dado el mayor bajón educativo en los 25 años del informe PISA",
       "link": "https://elpais.com/podcasts/hoy-en-el-pais/2026-09-09/por-que-espana-ha-dado-el-mayor-bajon-educativo-en-los-25-anos-del-informe-pisa.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/TBTWN5NOX5CXPD4G2GXVA7PXLU.jpg?auth=1cc406ae0ee96ec18341c5336075ac9fa255d3f55f5c8af372eb3f2397589383",
@@ -28,12 +34,6 @@
       "titulo": "Cómo cambiar un mundo marcado por el cambio climático: la urgencia de hablar del medio ambiente",
       "link": "https://elpais.com/mexico/2026-09-03/como-cambiar-un-mundo-marcado-por-el-cambio-climatico-la-urgencia-de-hablar-del-medio-ambiente.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/JPU4NTGLYNEMBI6HFMCFXLJ67A.png?auth=50d47993c06ba5625fe93e8756f0cbbab8619b8c6757cc7ed9a14f5327fdaab2",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ceuta: lo que el Gobierno no explicó",
-      "link": "https://elpais.com/podcasts/hoy-en-el-pais/2026-09-04/ceuta-lo-que-el-gobierno-no-explico.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/A7PD64ZIHZEADBTXAG4C7F3FNU.jpg",
       "tipo": "imagen"
     }
   ]

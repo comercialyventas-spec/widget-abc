@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Marcar periodistas como ganado",
+      "link": "https://www.lavanguardia.com/politica/20260910/11631294/marcar-periodistas-ganado.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/09/6aa19cd40f8c6.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Sajonia Anhalt y el caso español",
+      "link": "https://www.lavanguardia.com/politica/20260910/11631286/sajonia-anhalt-caso-espanol.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/04/01/67ebc9f6e642f.r_d.1312-1153-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los alcaldes del PSPV prefieren que Sánchez celebre las generales antes que las municipales",
+      "link": "https://www.lavanguardia.com/local/valencia/20260910/11631084/alcaldes-pspv-prefieren-sanchez-celebre-generales-municipales.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/07/6a9ecf093235f.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El CNI avisó de “llamamientos” masivos en redes para cruzar a Ceuta, pero sin calibrar la gravedad",
       "link": "https://www.lavanguardia.com/politica/20260909/11631340/cni-aviso-llamamientos-masivos-calibrar-gravedad.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/09/6aa1c6aacce17.r_d.3003-1727-748.jpeg",
@@ -16,24 +34,6 @@
       "titulo": "El PP cree que los documentos desclasificados de Ceuta revelan una “mentira de Estado” y hacen “responsable directo” a Sánchez",
       "link": "https://www.lavanguardia.com/politica/20260909/11631280/pp-cree-documentos-desclasificados-ceuta-revelan-mentira-responsable-directo-sanchez.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/23/6a6204e2eec5a.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El CNI alertó a Marruecos de “varias convocatorias” para cruzar a Ceuta aprovechando la Fiesta del Trono",
-      "link": "https://www.lavanguardia.com/politica/20260909/11631176/cni-alerto-marruecos-convocatorias-cruzar-ceuta-aprovechando-fiesta-trono.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/09/6aa17ecbd9458.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Senado reprueba la gestión del Gobierno y a cuatro ministros por la crisis de Ceuta",
-      "link": "https://www.lavanguardia.com/politica/20260909/11630985/senado-reprueba-gestion-gobierno-cinco-ministros-crisis-ceuta.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/17/69b997343860e.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La desclasificación de los informes del CNI sobre la crisis migratoria en Ceuta, última hora en directo",
-      "link": "https://www.lavanguardia.com/politica/20260909/11630651/gobierno-consejo-de-ministros-informes-cni-seguridad-nacional-consejo-de-ministros-informes-ceuta-crisis-migratoria-entrevista-pedro-sanchez-ultima-hora-hoy-en-directo.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/09/6aa17bf65a3b6.r_d.2580-1720-869.jpeg",
       "tipo": "imagen"
     }
   ]

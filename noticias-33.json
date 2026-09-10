@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Inciertas urnas en Brasil",
+      "link": "https://www.lavanguardia.com/opinion/20260910/11631233/inciertas-urnas-brasil.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/09/6aa188e489991.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El barco de vapor",
+      "link": "https://www.lavanguardia.com/local/valencia/20260910/11630949/barco-vapor.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/04/16/67ffc58c19fd5.r_d.2520-1680-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un aviso que no fue suficiente",
       "link": "https://www.lavanguardia.com/opinion/20260910/11631344/aviso-suficiente.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Cronos",
       "link": "https://www.lavanguardia.com/opinion/20260910/11631096/cronos.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/09/6aa16aa84d350.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La herencia",
-      "link": "https://www.lavanguardia.com/opinion/20260910/11630973/herencia.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/09/6aa141e668387.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Descalabro en la escuela",
-      "link": "https://www.lavanguardia.com/opinion/20260910/11630970/descalabro-escuela.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2023/12/17/657f1c4eddcd7.r_d.2997-2272-0.jpeg",
       "tipo": "imagen"
     }
   ]
