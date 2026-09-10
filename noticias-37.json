@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La hora del atardecer en Liérganes",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260910/11506375/hora-atardecer-lierganes.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/10/6aa2512bed11b.r_d.820-655-2806.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Madring de la M-30",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260910/11631890/madring-m-30.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/10/6aa293766b1e4.r_d.1226-1551-1955.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "El misterio de las nubes fantasma",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260910/11631610/misterio-nubes-fantasma.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/10/6aa25c2dc3a2a.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El exótico lirio araña",
-      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260910/11484464/exotico-lirio-arana.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/10/6aa25e3854d5e.r_d.1013-671-2338.jpeg",
       "tipo": "imagen"
     }
   ]
