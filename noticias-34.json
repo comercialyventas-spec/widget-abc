@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "El génerode los géneros",
+      "link": "https://www.lavanguardia.com/cultura/20260911/11632501/generode-generos.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un campament de refugiats inaugura FiraTàrrega",
+      "link": "https://www.lavanguardia.com/cultura/20260911/11632352/campament-refugiats-inaugura-firatarrega.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/10/6aa320b3ce919.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un campamento de refugiados inaugura FiraTàrrega",
+      "link": "https://www.lavanguardia.com/cultura/20260911/11632348/campamento-refugiados-inaugura-firatarrega.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/10/6aa320b3ce919.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ian McEwan: “Existe un pesimismo colectivo que nos tiene paralizados”",
       "link": "https://www.lavanguardia.com/cultura/20260910/11632217/ian-mcewan-existe-pesimismo-colectivo-paralizados-lo-que-podemos-saber.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/10/6aa2dec450a5b.r_d.2012-1331-1055.jpeg",
@@ -16,24 +34,6 @@
       "titulo": "‘Lionel’, un viaje familiar en busca de un lugar propio",
       "link": "https://www.lavanguardia.com/cultura/cine/20260910/11631058/lionel-viaje-familiar-busca-lugar-propio.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/09/6aa15d9c891da.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Harry Styles anuncia dos conciertos en Madrid para julio de 2027",
-      "link": "https://www.lavanguardia.com/cultura/musica/20260910/11632008/harry-styles-anuncia-dos-conciertos-madrid-julio-2027.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/07/10/64ac118c9ada7.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘Naza’, la masacre de civiles palestinos irrumpe en Venecia",
-      "link": "https://www.lavanguardia.com/cultura/20260910/11632001/naza-masacre-civiles-palestinos-irrumpe-venecia.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/10/6aa2ace969827.r_d.1904-1272-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Sant Pau Festival regresa con una versión ampliada y la presencia de Max Richter",
-      "link": "https://www.lavanguardia.com/cultura/20260910/11631876/sant-pau-festival-regresa-version-ampliada-presencia-max-richter.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/07/6a9ea66985b07.r_d.4944-4724-0.jpeg",
       "tipo": "imagen"
     }
   ]
