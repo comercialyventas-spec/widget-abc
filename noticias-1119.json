@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Brutal agresión de un independentista a un concejal de Vox en Barcelona por poner una carpa informativa",
+      "link": "https://okdiario.com/cataluna/independentista-agrede-violentamente-concejal-vox-barcelona-poner-carpa-informativa-20265421",
+      "imagen": "https://okdiario.com/img/2026/09/10/vox-ok.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "AEMET prevé sol y nubes en Barcelona, con viento suave y temperaturas en ascenso en el interior",
       "link": "https://okdiario.com/cataluna/aemet-preve-sol-y-nubes-en-barcelona-con-viento-suave-y-temperaturas-en-ascenso-en-el-interior-20261338",
       "imagen": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Tres heridos en una explosión en la Facultad de Química de Tarragona",
       "link": "https://okdiario.com/cataluna/tres-heridos-explosion-facultad-quimica-tarragona-20240800",
       "imagen": "https://okdiario.com/img/2026/09/07/imagen_recortada-36.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cielo despejado y ligero descenso de temperaturas en Barcelona, según AEMET",
-      "link": "https://okdiario.com/cataluna/cielo-despejado-y-ligero-descenso-de-temperaturas-en-barcelona-segun-aemet-20239591",
-      "imagen": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
       "tipo": "imagen"
     }
   ]

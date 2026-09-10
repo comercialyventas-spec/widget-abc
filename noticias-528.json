@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Marruecos",
+      "link": "https://www.elconfidencialdigital.com/album/seguridad/marruecos/202609101400511040025.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/07/22/2026072222325718850.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Guardia Civil",
       "link": "https://www.elconfidencialdigital.com/album/seguridad/guardia-civil/202609091353071039886.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/09/2026090913512416258.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Consejo de Seguridad Nacional",
       "link": "https://www.elconfidencialdigital.com/album/seguridad/consejo-seguridad-nacional/202608262136491037528.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/08/26/2026082621343097807.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Coches oficiales",
-      "link": "https://www.elconfidencialdigital.com/album/seguridad/coches-oficiales/202608202248451036804.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/08/20/2026082022472561696.jpg",
       "tipo": "imagen"
     }
   ]
