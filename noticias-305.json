@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La Copa Castro cumple 119 años",
+      "link": "https://www.abc.es/deportes/vela/vela-crucero/copa-castro-cumple-119-anos-20260910195157-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/10/Copa%20Castro%201-R6119urkGBDtzcTn62dBs9I-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Semana Abanca retoma el pulso en la ría de Vigo",
       "link": "https://www.abc.es/deportes/vela/vela-ligera/semana-abanca-retoma-pulso-ria-vigo-20260909114338-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/09/ILCA%20Semana%20Abanca%20moebius-RhOE6z6cfMR18vp6TRlOxvO-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "España se le resiste a Los Gallos",
       "link": "https://www.abc.es/deportes/vela/vela-crucero/espana-resiste-gallos-20260906170004-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/06/Estados%20Unidos%20SaiGP%20Valencia-Rl7B8prllNYLySjjy7xZ3vI-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Pijos con barco",
-      "link": "https://www.abc.es/deportes/vela/opinion/juan-merediz-puente-pijos-barco-20260906100812-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/06/Barco-RDrRUcAjtUEKtk5TfR3e64L-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
