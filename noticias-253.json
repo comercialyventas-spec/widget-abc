@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La trampa del pastillero: cuando la pastilla de la tensión solo sirve para tapar los efectos del ibuprofeno",
+      "link": "https://www.abc.es/salud/peligro-oculto-pastillero-mayores-farmaco-receta-solo-20260910003000-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/salud/2026/09/10/AdobeStock_2168118002-RCrk78e6QW8PZvclfhZDOgJ-1200x840@diario_abc.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Bienal se pone la montera y sale a hombros en su estreno en la Maestranza",
       "link": "https://www.abc.es/sevilla/cultura/bienal-pone-montera-sale-hombros-estreno-maestranza-20260910001324-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/diario_abc/2026/09/11/patricia-guerrero-foto-RRxenmQFmJeLyYV4AW1FrEP-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Javier Bardem desvela cómo fue su primera cita con Penélope Cruz: «Y llevamos casados 19 años»",
       "link": "https://www.abc.es/play/television/noticias/bardem-20260910231102-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/10/revuelta-RSK9l6zfqFhhD3YPhSJKMQL-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El nuevo Fundación Cajasol Andalucía estrena su pretemporada con victoria (2-1)",
-      "link": "https://www.abc.es/deportes/sevilla/nuevo-fundacion-cajasol-andalucia-estrena-pretemporada-victoria-20260910230604-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/10/esquimo-amistoso-menorca-REx4rh3ig5GbScnQI1U0nyM-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
