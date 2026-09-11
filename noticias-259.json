@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Sigue en directo la segunda jornada del Debate del Estado de la Región de Madrid",
+      "link": "https://www.abc.es/espana/madrid/sigue-directo-debate-estado-region-madrid-20260910111212-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/10/1513402488-RuJDgMwuYlmBUfY0fm1lkiP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Felipe VI visita este viernes la Base de Rota por el 25 aniversario de los atentados del 11-S",
+      "link": "https://www.abc.es/espana/andalucia/cadiz/felipe-visita-viernes-base-rota-aniversario-atentados-20260911081128-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/11/1475224968-kVkD-U301669455720qd-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Virgen del Rayo de Córdoba volverá el 15 de septiembre tras la restauración",
       "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/virgen-rayo-cordoba-volvera-septiembre-tras-restauracion-20260911075450-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/11/virgen-rayo-regreso-RkhvlnfEJCLlnKDpkzELewK-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "La obra del Museo Arqueológico de Córdoba, a la espera de otro informe de patrimonio un año después",
       "link": "https://www.abc.es/espana/andalucia/cordoba/obra-museo-arqueologico-cordoba-espera-informe-patrimonio-20260911075115-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/11/proyecto-museo-arqueologico-R1W0S6jlVIlhbPrkkNLToOJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Pedro Sánchez le quita 155.000 habitantes a Andalucía para rebajar su financiación autonómica",
-      "link": "https://www.abc.es/espana/andalucia/andalucia-reclama-poblacion-ajustada-pueda-desviarse-poblacion-20260911124409-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/06/carolina-arcadi-espana-RKXXYjW8CK0iAO9o9SunoYN-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Estas son las 400 viviendas disponibles en la Comunidad Valenciana en 'Casa47', el Idealista del Gobierno: alquileres desde 350 hasta 1.000 euros al mes",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/400-viviendas-disponibles-comunidad-valenciana-casa47-idealista-20260911073000-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/11/image-Rt24vCqvYKJ8vZrOXKV65JI-1200x840@diario_abc.png",
       "tipo": "imagen"
     }
   ]
