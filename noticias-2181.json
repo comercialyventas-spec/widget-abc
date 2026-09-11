@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¿Sabes todo lo que hace una gota de sangre mientras lees este artículo?",
+      "link": "<![CDATA[https://www.elperiodico.com/es/ideas/quironsalud/sangre.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/21fca2dd-fcec-4b12-acf3-cb48ce9d3c2a_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sanidad creará el primer Registro Estatal del Suicidio para conocer mejor los factores de riesgo",
       "link": "<![CDATA[https://www.elperiodico.com/es/sanidad/20260910/suicidio-sanidad-registro-factores-riesgo-descenso-anual-consecutivo-134135780",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b213d8a5-b885-4d85-9977-01d29bb2683d_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Los médicos inspectores de la Seguridad Social denuncian retrasos de 770 días en las bajas: \"Son las cifras mayores de la historia\"",
       "link": "<![CDATA[https://www.elperiodico.com/es/sanidad/20260909/medicos-inspectores-seguridad-social-denuncian-retrasos-bajas-cifras-mayores-historia-134093394",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/75cb6f47-118a-422f-8d10-61316f38fa3c_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Catalunya tendrá 185 auxiliares de inspección veterinaria más para reforzar la seguridad alimentaria",
-      "link": "<![CDATA[https://www.elperiodico.com/es/sanidad/20260908/catalunya-tendra-auxiliares-inspeccion-reforzar-seguridad-alimentaria-134080797",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ed47462f-86d5-494c-b53d-4019c5620d71_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
