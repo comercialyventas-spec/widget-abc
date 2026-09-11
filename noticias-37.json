@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El simbólico caduceo del Banco de España",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260911/11631566/simbolico-caduceo-banco-espana.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/10/6aa24adfe6497.r_d.960-540-2338.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "En el vestuario",
       "link": "https://www.lavanguardia.com/participacion/cartas/20260911/11632424/vestuario.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El asalto a Ceuta",
       "link": "https://www.lavanguardia.com/participacion/cartas/20260911/11632417/asalto-ceuta.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La nube de viento de la tramontana",
-      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260910/11631577/nube-viento-tramontana.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/10/6aa25036deaf3.r_d.999-1056-2338.jpeg",
       "tipo": "imagen"
     }
   ]
