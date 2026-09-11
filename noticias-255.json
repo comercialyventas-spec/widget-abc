@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Herido un motorista accidentado en Nervión",
+      "link": "https://www.abc.es/sevilla/ciudad/herido-motorista-accidentado-nervion-20260911225228-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/11/1516232015%20(2)%20(1)-RKiIJv4qcNoX5qQW89KPn0I-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Lora espera recuperar el suministro de agua durante la madrugada tras reparar la tercera fractura en sus tuberías",
       "link": "https://www.abc.es/sevilla/provincia/lora-espera-recuperar-suministro-agua-madrugada-tras-20260911211705-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/11/1476620141%20(1)-RhYpyp8fW12YZhFWDBsURDN-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Los Tedax retiran un bote de ácido explosivo del IES Europa de Arahal",
       "link": "https://www.abc.es/sevilla/provincia/tedax-retiran-bote-acido-explosivo-ies-europa-20260911185228-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/11/EuropaPress_7765987_ies_europa_arahal%20(1)%20(1)-RJ5rD6b3paNYi7eajwjysLN-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El juez archiva la investigación a la Casa de Alba por los pozos de su finca de Aznalcázar",
-      "link": "https://www.abc.es/sevilla/provincia/aljarafe/juez-archiva-investigacion-casa-alba-pozos-finca-20260911172242-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/11/pocos-casa-alba-Re4sXeIHDECIX8L3EjjrI0O-1200x840diario_abc-RxLdrDXyllgq0ppJZXPnpMI-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
