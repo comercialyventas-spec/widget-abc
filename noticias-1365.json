@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "25 años de desorden mundial",
+      "link": "https://elpais.com/opinion/2026-09-11/25-anos-de-desorden-mundial.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/GEIMLQHBTREO3JQOXNPUQNCDII.jpg?auth=86be5f7a42627d7b4f5af62a9a5fbb4f50c8ea030069974ae40bc4caeecf3efc",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Congela a tus hijos",
       "link": "https://elpais.com/opinion/2026-09-11/congela-a-tus-hijos.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/D47HHWAUSBHPBMUUP6GRA6MLLA.jpg?auth=24945c53991938cd8f358c396c060bd2e5e1afed78bb2898071ac63a946a4001",
@@ -28,12 +34,6 @@
       "titulo": "Vox, una ultraderecha rara en Europa",
       "link": "https://elpais.com/opinion/2026-09-11/vox-una-ultraderecha-rara-en-europa.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/P72S2C4MGZG6VPMFFTYV2PFY7A.jpg?auth=22d3c44e042699518c2e31397b80bda0d1a7623910e5e39656524f1cdc6890d4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los caminos rotos del 11-S",
-      "link": "https://elpais.com/opinion/2026-09-11/los-caminos-rotos-del-11-s.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/E2KSXRA7UVCLJF47TWI67AHY44.jpg?auth=47e78c18fd8175126dbcf156742bb4e2754ddbcff3ebe4e2c3d54dfda1a0707a",
       "tipo": "imagen"
     }
   ]

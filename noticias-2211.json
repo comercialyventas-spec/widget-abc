@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Así es el primer bar de los horrores de Barcelona",
+      "link": "<![CDATA[https://www.elperiodico.com/es/videos/que-hacer/primer-bar-horrores-barcelona/134182464.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8ae9f521-a001-4423-83c1-7fbfed808167_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Barcelona organiza conciertos flotantes sobre el mar",
       "link": "<![CDATA[https://www.elperiodico.com/es/videos/que-hacer/barcelona-organiza-conciertos-flotantes-mar/133365253.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d281158d-4975-48fb-bcaa-df53ab07b491_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Córcega, la isla francesa donde el Mediterráneo todavía conserva su lado más indómito",
       "link": "<![CDATA[https://www.elperiodico.com/es/videos/que-hacer/corcega-isla-francesa-mediterraneo-todavia/130482562.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/5377c006-8e17-4582-a248-44bc969fe5c2_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "En busca de fantasmas por el casco antiguo de Barcelona",
-      "link": "<![CDATA[https://www.elperiodico.com/es/videos/que-hacer/busca-fantasmas-casco-antiguo-barcelona/130240124.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f28f3640-38cc-4b8e-9351-2c2f5175fc2e_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

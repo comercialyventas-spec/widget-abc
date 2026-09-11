@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Narcotráfico",
+      "link": "https://www.elconfidencialdigital.com/album/seguridad/narcotrafico/202609111306111040284.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/11/2026091113040693903.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Marruecos",
       "link": "https://www.elconfidencialdigital.com/album/seguridad/marruecos/202609101400511040025.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/07/22/2026072222325718850.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Inmigrantes irregulares en Ceuta",
       "link": "https://www.elconfidencialdigital.com/album/seguridad/inmigrantes-irregulares-ceuta/202608272236461037699.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/08/27/2026082722353386545.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Consejo de Seguridad Nacional",
-      "link": "https://www.elconfidencialdigital.com/album/seguridad/consejo-seguridad-nacional/202608262136491037528.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/08/26/2026082621343097807.jpg",
       "tipo": "imagen"
     }
   ]

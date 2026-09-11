@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "En coma",
+      "link": "https://elpais.com/television/series/en-coma/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/AOQPJZKIWVDNJERYDQUVMFCRLQ.jpg?auth=df1eb968f9fad34db28ef3a5ebcbcf44b3ea5830f6546537b2aba4ae1033bf6c",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El juicio",
       "link": "https://elpais.com/television/series/el-juicio/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/SRUJEJRET5CBPJDI3X57ZYIFVU.jpg?auth=f50fed4f40204749f63945bfe28fb52fe242b7669a3d61ff1ee6c73d2efdade0",
@@ -28,12 +34,6 @@
       "titulo": "Telecinco se autoplagia en ‘Rueda la letra’: Fran compitió el martes con un rosco casi idéntico al que se enfrentó en 2019 en ‘Pasapalabra’",
       "link": "https://elpais.com/television/2026-09-10/telecinco-se-autoplagia-en-rueda-la-letra-fran-compitio-el-martes-con-un-rosco-casi-identico-al-que-se-enfrento-en-2019-en-pasapalabra.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260910/1212944_134816_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Chumbak",
-      "link": "https://elpais.com/television/series/chumbak/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/POH5JYTCQRCQJLUQH5GB27QHBM.jpg?auth=05d77342f6f2926fcbd6cd6c0d1efdd529e08dac9bf4fa88f12649bcc2715e70",
       "tipo": "imagen"
     }
   ]
