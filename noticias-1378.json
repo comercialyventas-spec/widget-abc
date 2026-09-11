@@ -1,7 +1,13 @@
 {
   "noticias": [
     {
-      "titulo": "Ensalada de ñoquis crujientes, la receta que da a un giro fresco a la pasta",
+      "titulo": "Figazza y fugazzeta, la receta de las primas rioplatenses de la pizza",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-09-11/figazza-y-fugazzeta-la-receta-de-las-primas-rioplatenses-de-la-pizza.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RZIJG47JPFFQHEUIYLJY6UU2IQ.jpg?auth=436530bbcd79cff83b7cb4167802e2ed91a1430ce85b7b493504c92cf0b108f8",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ensalada de ñoquis crujientes, la receta que da un giro fresco a la pasta",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-09-10/ensalada-de-noquis-crujientes-la-receta-que-da-a-un-giro-fresco-a-la-pasta.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20260723/1198233_145508_video_1800.mp4",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Aciertos y horrores de la comida preparada de Mercadona",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-09-08/aciertos-y-horrores-de-la-comida-preparada-de-mercadona.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20260721/1197579_160340_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ocho recetas tradicionales y cinco productos únicos para celebrar el Día de Extremadura",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-09-08/ocho-recetas-tradicionales-y-cinco-productos-unicos-para-celebrar-el-dia-de-extremadura.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/BQ3XCMPDYNGZDGUBV3XXV6S4VY.jpeg?auth=92dfa599d0602562f75f923199c2dc07f1a1a277e89ed25f35b2862909a402e5",
       "tipo": "imagen"
     }
   ]

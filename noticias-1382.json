@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un arcoíris de sal en el corazón de Cabo de Gata",
+      "link": "https://elpais.com/elviajero/escapadas/espana/2026-09-11/un-arcoiris-de-sal-en-el-corazon-de-cabo-de-gata.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XYKQC6E7YRHNPPWZJ5VOMSIQ5Y.jpg?auth=569750eac15217b7ef2580119c901f2ee7be4b3e7480e087a4cd2eca937e464f",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Namibia: del desierto al océano",
       "link": "https://elpais.com/elviajero/lonely-planet/2026-09-10/namibia-del-desierto-al-oceano.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/Z3QQI5QD4BCLNOHBBMGA7HND4I.jpg?auth=04ad35cef119cec646a8044b4928b028788f163f98bc5b87e5076ad5ace1a0ce",
@@ -28,12 +34,6 @@
       "titulo": "En el sur de Sri Lanka, un viaje sin prisa y con alma",
       "link": "https://elpais.com/elviajero/2026-09-06/en-el-sur-de-sri-lanka-un-viaje-sin-prisa-y-con-alma.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/QSIUEJAH3JDX3IVCBTT4HXCP2M.jpg?auth=19f0e71e967d0f1c92be384036a088fdbe2ed8d0b1fde9a0496519b434d0d115",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "De Niza a París con final en Piacenza: historia de una postal para viajar por todos los mundos",
-      "link": "https://elpais.com/elviajero/escapadas/europa/2026-09-05/de-niza-a-paris-con-final-en-piacenza-historia-de-una-postal-para-viajar-por-todos-los-mundos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/DGY2QIFNQBHTNONQZCQ3UAAWCM.jpg?auth=cc97a7c2d481e8813259964ee143a7d1a6fb97273fe579001d228675c87ce5f9",
       "tipo": "imagen"
     }
   ]
