@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Huevos Guillén",
+      "link": "https://www.elconfidencialdigital.com/album/vivir/huevos/202609111736341040404.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/11/2026091117313346341.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Supermercados",
       "link": "https://www.elconfidencialdigital.com/album/vivir/supermercados/202609101132181039990.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/10/2026091011301786085.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Campaña de vacunación",
       "link": "https://www.elconfidencialdigital.com/album/vivir/campana-vacunacion/202608121237131035715.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/08/12/2026081212311260857.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Carabela portuguesa",
-      "link": "https://www.elconfidencialdigital.com/album/vivir/carabela-portuguesa/202608121151121035675.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/08/12/2026081211411025478.jpg",
       "tipo": "imagen"
     }
   ]
