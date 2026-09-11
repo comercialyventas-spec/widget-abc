@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Los estrenos de teatro de la semana",
+      "link": "https://elpais.com/babelia/2026-09-11/los-estrenos-de-teatro-de-la-semana.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SXFXZRTXDBEOBONUODFOXGCVYM.JPG?auth=5e352b11709713a3605532f60ba07a77ea6dc750fa0ed376f1ed834aac44633d",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Natalia Huarte, la actriz que se merece Leonora Carrington",
       "link": "https://elpais.com/babelia/2026-09-11/natalia-huarte-la-actriz-que-se-merece-leonora-carrington.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/QVV2IXUXTZHQ3NEYB6N4EWS4S4.JPG?auth=beb4d325a3f90729b4a642af7b49840d37cd1cb5cd36b222174b266e1a9caeb4",
@@ -28,12 +34,6 @@
       "titulo": "La fotonovela doméstica de Manuela Lorente durante el confinamiento",
       "link": "https://elpais.com/babelia/2026-09-10/la-fotonovela-domestica-de-manuela-lorente-durante-el-confinamiento.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/XWBPLWX5CVB2PC3UIC6IWY2EVI.jpg?auth=bb4109ee3dd9278112546ecedf954299298b1f868a1e7d523a58b083f43f5bfc",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Katixa Agirre: “Siempre se ha recurrido a mujeres espías porque nadie pensaba que pudieran hacer cosas importantes”",
-      "link": "https://elpais.com/babelia/2026-09-10/katixa-agirre-me-interesaba-esa-relacion-que-tenemos-con-el-pasado-tan-problematica.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/VIIANUSAU5G27GBDHWKS7NCW54.jpg?auth=b843101328a703d92cf09f43b6e075f99faeaaabede14b7f899d16f4225f2cbc",
       "tipo": "imagen"
     }
   ]

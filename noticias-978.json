@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "¿Cómo se vivieron en Wall Street los ataques del 11 de septiembre?",
+      "link": "https://www.france24.com/es/programas/econom%C3%ADa/20260911-c%C3%B3mo-se-vivieron-en-wall-street-los-ataques-del-11-de-septiembre",
+      "imagen": "https://s.france24.com/media/display/b4948c26-ae08-11f1-a41f-005056bfb2b6/w:1024/p:16x9/AP01091704560.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Chile conmemora golpe de Estado de Pinochet sin actos oficiales, por primera vez desde el retorno de la democracia",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260911-chile-conmemora-golpe-de-estado-de-pinochet-sin-actos-oficiales-por-primera-vez-desde-el-retorno-de-la-democracia",
+      "imagen": "https://s.france24.com/media/display/ad119b5e-7e13-11f0-8487-005056a97e36/w:1024/p:16x9/AP730912018.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Sur del Líbano: ¿misión de la ONU atrapada entre Israel y Hezbolá?",
+      "link": "https://www.france24.com/es/programas/en-foco/20260911-sur-del-l%C3%ADbano-misi%C3%B3n-de-la-onu-atrapada-entre-israel-y-hezbol%C3%A1",
+      "imagen": "https://s.france24.com/media/display/bf6e21c2-a6c7-11f1-888f-005056a90284/w:1024/p:16x9/capture-8849656686a9812fa0edf02-89967507.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Directo París y el regreso de Celine Dion a los escenarios de París",
+      "link": "https://www.france24.com/es/video/20260911-directo-par%C3%ADs-y-el-regreso-de-celine-dion-a-los-escenarios-de-par%C3%ADs",
+      "imagen": "https://s.france24.com/media/display/978ec4be-ae00-11f1-aa05-005056a90284/w:1024/p:16x9/ES-20260911-072221-072658-CS.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Bolsonaro, bajo sospecha de corrupción: ¿por qué es investigado y qué impacto tendría en las presidenciales de Brasil?",
       "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260911-bolsonaro-bajo-sospecha-de-corrupci%C3%B3n-por-qu%C3%A9-es-investigado-y-qu%C3%A9-impacto-tendr%C3%ADa-en-las-presidenciales-de-brasil",
       "imagen": "https://s.france24.com/media/display/c47ec938-9910-11f1-be4b-005056a97e36/w:1024/p:16x9/6ff59215da0a7e58875e3b4ff48a41fd2512e561.jpg",
@@ -10,30 +34,6 @@
       "titulo": "Nepal, tras la riada: miles de personas sin hogar ni certezas",
       "link": "https://www.france24.com/es/programas/corresponsales/20260911-nepal-tras-la-riada-miles-de-personas-sin-hogar-ni-certezas",
       "imagen": "https://s.france24.com/media/display/0393aae4-a190-11f1-828d-005056a90284/w:1024/p:16x9/AP26238512449296.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Por primera vez, Chile conmemora el golpe militar de Pinochet con un presidente de extrema derecha",
-      "link": "https://www.france24.com/es/video/20260911-por-primera-vez-chile-conmemora-el-golpe-militar-de-pinochet-con-un-presidente-de-extrema-derecha",
-      "imagen": "https://s.france24.com/media/display/418a6d7e-adfc-11f1-af89-005056bfb2b6/w:1024/p:16x9/ES-20260911-071156-072205-CS.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Informe desde Nueva Delhi: India acoge nueva cumbre de los BRICS",
-      "link": "https://www.france24.com/es/video/20260911-informe-desde-nueva-delhi-india-acoge-nueva-cumbre-de-los-brics",
-      "imagen": "https://s.france24.com/media/display/6e707434-adfa-11f1-802a-005056a97e36/w:1024/p:16x9/ES-20260911-070838-071148-CS.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Hutíes toman control de isla de Perim y aseguran su presencia en estrecho de Bab el-Mandeb",
-      "link": "https://www.france24.com/es/video/20260911-hut%C3%ADes-toman-control-de-isla-de-perim-y-aseguran-su-presencia-en-estrecho-de-bab-el-mandeb",
-      "imagen": "https://s.france24.com/media/display/4efb9850-adf9-11f1-980c-005056a97e36/w:1024/p:16x9/ES-20260911-070620-070737-CS.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "AfD arrasa en Alemania: ¿se tambalea el cordón sanitario?",
-      "link": "https://www.france24.com/es/programas/ventana-a-europa/20260911-afd-arrasa-en-alemania-se-tambalea-el-cord%C3%B3n-sanitario",
-      "imagen": "https://s.france24.com/media/display/315c4bc2-adf0-11f1-a2fb-005056bfb2b6/w:1024/p:16x9/WEB-PORTADA-10SEP-VAE.png",
       "tipo": "imagen"
     }
   ]

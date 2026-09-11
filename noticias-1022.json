@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "El PSOE pide a sus militantes alargar el mandato de Sánchez hasta 2030 «mientras haya una sola injusticia en el mundo»",
-      "link": "https://www.abc.es/espana/psoe-pide-militantes-alargar-mandato-sanchez-2030-20260911192249-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/11/Captura2030_20260911195028-RAEWPIHDCLy0Hj0Comb0pcK-1200x840@diario_abc.PNG"
-    },
-    {
       "titulo": "Silencio contra la división: Nueva York conmemora su día más oscuro",
       "link": "https://www.abc.es/internacional/silencio-division-nueva-york-conmemora-dia-oscuro-20260911172721-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/11/11-s-Rz77fVJiNqtLCt3UDRUkrXI-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/11/11-s-Rz77fVJiNqtLCt3UDRUkrXI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El PSOE pide a sus militantes alargar el mandato de Sánchez hasta 2030 «mientras haya una sola injusticia en el mundo»",
+      "link": "https://www.abc.es/espana/psoe-pide-militantes-alargar-mandato-sanchez-2030-20260911192249-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/11/Captura2030_20260911195028-RAEWPIHDCLy0Hj0Comb0pcK-1200x840@diario_abc.PNG",
+      "tipo": "imagen"
     },
     {
       "titulo": "El jefe de gabinete dimite y señala al delegado del Gobierno de Ceuta: «Se alertó a los ministerios»",
       "link": "https://www.abc.es/espana/dimite-jefe-gabinete-delegado-gobierno-ceuta-recibio-20260911094046-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/11/1516985971-RD6nYDy58llpNjmh48XeoNJ-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/11/1516985971-RD6nYDy58llpNjmh48XeoNJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Las golfistas españolas rescatan a Europa en la Solheim Cup",
       "link": "https://www.abc.es/deportes/golfistas-espanolas-rescatan-europa-solheim-cup-20260911194700-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/11/ciganda-lopez-RHzu5fGorCld3C14crptgcP-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/11/ciganda-lopez-RHzu5fGorCld3C14crptgcP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Los muros son un peligro en Madrid: Lindblad, accidentado",
       "link": "https://www.abc.es/deportes/formula-1/muros-peligrosos-madrid-lindblad-accidentado-20260911182155-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/11/acci-RmUazmtbCxfp2Go7n2SVXMK-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/11/acci-RmUazmtbCxfp2Go7n2SVXMK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Enric Mas y Roglic guardan las garras para la batalla final en el Collado del Alguacil",
       "link": "https://www.abc.es/deportes/ciclismo/calma-tensa-general-enric-roglic-guardan-garras-20260911171721-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/11/masestepona-ROkbm1pPXkBaBe8ELQ2uzzL-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/11/masestepona-ROkbm1pPXkBaBe8ELQ2uzzL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }
