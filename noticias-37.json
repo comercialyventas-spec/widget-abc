@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Las historias de las piedras de Pals",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260911/11632657/historias-piedras-pals.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/11/6aa3bb07b6353.r_d.960-640-2338.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Leonardo da Vinci y sus madonas",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260911/11632634/leonardo-da-vinci-madonas.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/11/6aa3b8fdc1785.r_d.997-647-2338.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "El efecto aclarador de la tramontana",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260911/11632615/efecto-aclarador-tramontana.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/11/6aa3a7dd6f881.r_d.935-484-2406.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Naturaleza pura en el río Gurn",
-      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260911/11632757/naturaleza-pura-rio-gurn.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/11/6aa3ec40858a1.r_d.1011-594-2338.jpeg",
       "tipo": "imagen"
     }
   ]

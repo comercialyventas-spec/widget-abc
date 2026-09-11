@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Georgina",
+      "link": "https://www.elconfidencialdigital.com/album/medios/georgina/202609111900001040278.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/11/2026091112342149229.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Huevos Guillén",
       "link": "https://www.elconfidencialdigital.com/album/vivir/huevos/202609111736341040404.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/11/2026091117313346341.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Álbum Dacia TECNOLOGÍA HÍBRIDA",
       "link": "https://www.elconfidencialdigital.com/album/motor/album-dacia-tecnologia-hibrida/202609111211241040255.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/11/2026091112101943903.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Álbum Mercedes-AMG CLE 646 Spezialanfertigung",
-      "link": "https://www.elconfidencialdigital.com/album/motor/album-mercedes-amg-cle-646-spezialanfertigung/202609111207261040245.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/11/2026091112061977712.jpg",
       "tipo": "imagen"
     }
   ]
