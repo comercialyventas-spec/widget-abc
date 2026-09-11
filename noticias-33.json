@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Andalucía, las dos derechas y el frentismo meridional",
+      "link": "https://www.lavanguardia.com/opinion/20260911/11629887/andalucia-dos-derechas-frentismo-meridional.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/08/6a9fd76f29738.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Edurne vs. Ronnie Wood",
       "link": "https://www.lavanguardia.com/opinion/20260911/11632358/edurne-vs-ronnie-wood.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Esfuérzate como yo, chaval",
       "link": "https://www.lavanguardia.com/opinion/20260911/11632079/esfuerzate-chaval.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2023/02/22/63f698cf2e7a1.r_d.400-317-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La marca Seat",
-      "link": "https://www.lavanguardia.com/opinion/20260911/11632078/marca-seat.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/03/6a47dc4e85e3b.jpeg",
       "tipo": "imagen"
     }
   ]
