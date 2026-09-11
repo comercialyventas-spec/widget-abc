@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Cervantes en Ceuta",
+      "link": "https://www.abc.es/cultura/cervantes-ceuta-20260910012240-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/10/Quijote-Lisboa-1605-RkUtQXwtgPJyBgkYeqTTeZJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Crítica de teatro de 'Ella i màquina': la IA contra el demonio de los otros",
       "link": "https://www.abc.es/cultura/teatros/critica-teatro-maquina-ia-demonio-20260910123329-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/10/fff-RjmV5KfqJoIICpPUSFRuwrM-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El futuro en un 'flat white'",
       "link": "https://www.abc.es/cultura/cultural/futuro-flat-white-20260910093735-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/10/1493383414-Rhh9kzqdBxn5UvQhX3vUCfP-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "'Bienvenido, Mister Marshall'",
-      "link": "https://www.abc.es/cultura/cultural/bienvenido-mister-marshall-20260911093552-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/11/solano-bienvenido-mr-marshall-RDtSSgUE4CgKyVkLpt18FgN-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
