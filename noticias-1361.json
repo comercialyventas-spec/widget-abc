@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "‘El Pulso’ de ‘Hoy por Hoy’ en directo, en EL PAÍS",
-      "link": "https://elpais.com/videos/2026-09-11/el-pulso-de-hoy-por-hoy-en-directo-en-el-pais.html",
-      "imagen": "https://www.youtube.com/watch?v=OH8XWTBZxQQ",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Las 75.000 toneladas de asfalto que han transformado el circuito de Fórmula 1 en Madrid",
       "link": "https://elpais.com/videos/2026-09-11/las-75000-toneladas-de-asfalto-que-han-transformado-el-circuito-de-formula-1-en-madrid.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260910/1213051_182239_video_1800.mp4",
@@ -34,6 +28,12 @@
       "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en EL PAÍS | Programa del 10 de septiembre de 2026",
       "link": "https://elpais.com/videos/2026-09-10/el-pulso-de-hoy-por-hoy-en-directo-en-el-pais.html",
       "imagen": "https://www.youtube.com/watch?v=N0Aj_qkaXIs",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "A una amiga le va mejor que a mí. ¿Y qué?",
+      "link": "https://elpais.com/videos/2026-09-10/a-una-amiga-le-va-mejor-que-a-mi-y-que.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260909/1212447_094833_video_1800.mp4",
       "tipo": "imagen"
     }
   ]
