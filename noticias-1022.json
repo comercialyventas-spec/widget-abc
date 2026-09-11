@@ -1,40 +1,34 @@
 {
   "noticias": [
     {
+      "titulo": "«Propuesta de mi perfil para la lista de Marlaska»",
+      "link": "https://www.abc.es/espana/propuesta-perfil-lista-marlaska-20260910205936-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/10/MONTAJE%20HOR.00_02_11_22.Imagen%20fija005-RswOECZlnAb8PnaXdA6OSoM-1200x672@diario_abc.jpg"
+    },
+    {
+      "titulo": "Fernando Alonso, primera ¿y última? vez en Madring",
+      "link": "https://www.abc.es/deportes/formula-1/alonso-primera-ultima-vez-madring-20260910012450-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/10/alonso34sd-RxM9zR9QuhvTpVP7uvzKMcM-1200x840@diario_abc.jpg"
+    },
+    {
       "titulo": "Los depósitos dan un 2% al ahorro por primera vez desde hace dos años",
       "link": "https://www.abc.es/economia/cuentas-corrientes/depositos-dan-ahorro-primera-vez-dos-anos-20260911014251-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/11/sucursal-banco-Rh3nfJbQnkAHOLmED46hIaJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/11/sucursal-banco-Rh3nfJbQnkAHOLmED46hIaJ-1200x840@diario_abc.jpg"
     },
     {
       "titulo": "Los médicos convocan una huelga indefinida en toda España para mediados de octubre",
       "link": "https://www.abc.es/sociedad/medicos-plantean-huelga-general-partir-octubre-monica-20260910205557-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/10/1511840894-Rhz6991cRKtwpkZf4mdr1aN-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/10/1511840894-Rhz6991cRKtwpkZf4mdr1aN-1200x840@diario_abc.jpg"
     },
     {
       "titulo": "Teoría de la entrevista: Cristina Pardo le da un repaso a Cintora",
       "link": "https://www.abc.es/play/television/criticas/teoria-entrevista-cristina-pardo-repaso-cintora-20260910183921-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/10/newspaint-1789073802945-1200x840-U202024424515GsB-RikBjZodIHHW51e1cElPapI-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/10/newspaint-1789073802945-1200x840-U202024424515GsB-RikBjZodIHHW51e1cElPapI-1200x840@diario_abc.jpg"
     },
     {
       "titulo": "Lo que debes saber de tu seguro de hogar para ganar tranquilidad: ¿me pueden subir el precio de la póliza?",
       "link": "https://www.abc.es/economia/cuentas-corrientes/debes-saber-seguro-hogar-ganar-tranquilidad-pueden-20260911013924-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/11/vivienda-k30H-U301567053061sK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "España aplasta a Australia para citarse en semifinales con Estados Unidos",
-      "link": "https://www.abc.es/deportes/baloncesto/espana-aplasta-australia-citarse-semifinales-estados-unidos-20260910223947-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/10/espana-mundial-baloncesto-RqKfm3sr1UhHZNYf199WM0H-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El diésel se encarecerá 24 céntimos por litro en octubre si decaen todas las ayudas sobre los impuestos",
-      "link": "https://www.abc.es/economia/cuentas-corrientes/diesel-encarecera-centimos-litro-partir-octubre-renuevan-20260910015633-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/10/repostar.jpg",
-      "tipo": "imagen"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/11/vivienda-k30H-U301567053061sK-1200x840@diario_abc.jpg"
     }
   ]
 }
