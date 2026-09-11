@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Georgina",
+      "link": "https://www.elconfidencialdigital.com/album/medios/georgina/202609111900001040278.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/11/2026091112342149229.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Alfredo Relaño",
       "link": "https://www.elconfidencialdigital.com/album/medios/alfredo-relano/202609092100001039943.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2025/09/05/2025090512143392646.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Pombo",
       "link": "https://www.elconfidencialdigital.com/album/medios/pombo/202609041300001038840.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/03/2026090318012750520.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Antoni Daimiel",
-      "link": "https://www.elconfidencialdigital.com/album/medios/antoni-daimiel/202609031900001038459.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/06/03/2026060317401789401.jpg",
       "tipo": "imagen"
     }
   ]
