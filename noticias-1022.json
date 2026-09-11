@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "'Leonora': retrato de una mujer tan rebelde como atormentada",
-      "link": "https://www.abc.es/cultura/teatros/leonora-retrato-mujer-rebelde-patetica-20260909012202-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/09/12_susanamartin_foto-R2C27QwkA0KTgb9kbDQFJrO-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Muere Emma Bonino, exministra italiana, a los 78 años",
-      "link": "https://www.abc.es/internacional/muere-emma-bonino-exministra-italiana-anos-20260911102050-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/11/1517139031-kMDF-U301670975376dL-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "El Como de Fabregas ya brilla en Europa: «Es nuestro Cruyff»",
       "link": "https://www.abc.es/deportes/futbol/cesc-brilla-europa-cruyff-20260911094847-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/11/1517115293-REtU2ONVu8iJCME9VNgn1DJ-1200x840@diario_abc.JPG"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/11/1517115293-REtU2ONVu8iJCME9VNgn1DJ-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
     },
     {
       "titulo": "Real Balneario de Salinas, donde reina el mar",
       "link": "https://www.abc.es/gastronomia/real-balneario-salinas-reina-mar-20260911101344-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/11/realbalenariosalinas-Rt4CVl9j2Bp3AMd1SPJ3eLK-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/11/realbalenariosalinas-Rt4CVl9j2Bp3AMd1SPJ3eLK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Una avería obliga a suspender la circulación en la línea C5 de Cercanías Madrid entre Villaverde Alto y Atocha",
       "link": "https://www.abc.es/espana/madrid/averia-obliga-suspender-circulacion-linea-cercanias-madrid-20260911083911-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/11/atocha1-kFZC-U3016698715745eC-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/11/atocha1-kFZC-U3016698715745eC-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "La respuesta de Fran Rivera al duro comunicado de Cayetano: entre el hartazgo y la indiferencia",
       "link": "https://www.abc.es/gente/respuesta-fran-rivera-duro-comunicado-cayetano-hartazgo-20260911100514-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/11/fran-cayetano-rivera-respuesta-RgAOEx1PnWsVldIuVYpjFkN-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/11/fran-cayetano-rivera-respuesta-RgAOEx1PnWsVldIuVYpjFkN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Parece un Rolex por el bisel cerámico, pero es un PAGANI DESIGN con zafiro y cronógrafo VK63",
+      "link": "https://www.abc.es/favorito/electronica/wearables/parece-un-rolex-por-el-bisel-20260910093115-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/favorito/2026/09/10/portada-20260910093611-RHT6DB5gXVrzGNsOuuzF7UP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las 15 mejores ofertas hoy (11 de septiembre) en Amazon: hasta un 59% en Samsung, Nike y más",
+      "link": "https://www.abc.es/favorito/las-5-mejores-ofertas-hoy-11-20260911072836-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/favorito/2026/09/11/portada-20260911073746-R5g72TGeq8LnG7390ZJegBL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }

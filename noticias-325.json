@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Real Balneario de Salinas, donde reina el mar",
+      "link": "https://www.abc.es/gastronomia/real-balneario-salinas-reina-mar-20260911101344-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/11/realbalenariosalinas-Rt4CVl9j2Bp3AMd1SPJ3eLK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Amigos Blanco, dos generaciones de viñedo en una botella",
       "link": "https://www.abc.es/gastronomia/vinos/amigos-blanco-dos-generaciones-vinedo-botella-20260910104130-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/10/torre-RSLTbl5WUWEIJRD87yJFqfP-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El Oviedo, una casa muy seria en Ribadeo",
       "link": "https://www.abc.es/gastronomia/oviedo-lugo-restaurante-20260904120221-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/04/Comedor-RH4rgMfmYfIfUALk74QYvMI-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Gorgollasa, la variedad de uva que se negó a desaparecer",
-      "link": "https://www.abc.es/gastronomia/vinos/gorgollasa-can-majoral-vino-20260903100530-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/03/canmajoral-RRacIAEFCl2NcTkrdmLDIJK-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
