@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Narcotráfico",
+      "link": "https://www.elconfidencialdigital.com/album/seguridad/narcotrafico/202609111306111040284.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/11/2026091113040693903.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Álbum Santana Motors inaugura en Pamplona el primer concesionario",
       "link": "https://www.elconfidencialdigital.com/album/motor/album-antana-motors-inaugura-pamplona-primer-concesionario/202609111224311040266.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/11/2026091112225153253.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Central nuclear de Almaraz",
       "link": "https://www.elconfidencialdigital.com/album/dinero/central-nuclear-almaraz/202609111113041040208.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/11/2026091111065666176.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Camerún",
-      "link": "https://www.elconfidencialdigital.com/album/defensa/camerun/202609110949361040188.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/11/2026091109470660891.jpg",
       "tipo": "imagen"
     }
   ]
