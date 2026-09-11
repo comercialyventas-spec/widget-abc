@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Amnesia infantil",
+      "link": "https://www.abc.es/play/series/criticas/lucia-cabanelas-amnesia-infantil-20260910012231-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/10/sterlin-point-serie-kzfD-U301655174706NiD-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Se ha muerto Robin",
       "link": "https://www.abc.es/play/series/criticas/rosa-belmonte-muerto-robin-20260905123021-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/05/richard-osullivan-k3sE-U301584070141bjC-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Alain Hernández: «Ojalá Sonsoles Ónega decida que puedo estar en otra de sus adaptaciones»",
       "link": "https://www.abc.es/play/series/alain-hernandez-ojala-sonsoles-decida-puedo-estar-20260902184522-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/02/Captura_20260902174600-k2kC-RKWk2tNEPwJJir2uZ62xYbO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Doscientos mil documentales sobre Lady Di y un musical",
-      "link": "https://www.abc.es/play/series/noticias/rebeca-argudo-doscientos-mil-documentales-sobre-lady-musical-20260901010618-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/01/1427100737-RlDP57sogrZbYmXLR3UEawK-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
