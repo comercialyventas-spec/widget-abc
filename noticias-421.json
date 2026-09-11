@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "HIMARS",
+      "link": "https://www.elconfidencialdigital.com/album/defensa/himars/202609112350411040452.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/11/2026091123491217149.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Aceite de coco de Mercadona",
       "link": "https://www.elconfidencialdigital.com/album/mercadona/aceite-coco-mercadona/202609112101181040447.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/11/2026091121001599586.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Narcotráfico",
       "link": "https://www.elconfidencialdigital.com/album/seguridad/narcotrafico/202609111306111040284.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/11/2026091113040693903.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Álbum Santana Motors inaugura en Pamplona el primer concesionario",
-      "link": "https://www.elconfidencialdigital.com/album/motor/album-antana-motors-inaugura-pamplona-primer-concesionario/202609111224311040266.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/11/2026091112225153253.jpg",
       "tipo": "imagen"
     }
   ]
