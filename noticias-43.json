@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Resistir la tentación",
+      "link": "https://www.lavanguardia.com/television/20260911/11633083/resistir-tentacion.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los Gemeliers recuerdan la agresión que sufrieron en Madrid: “Es de las cosas más desagradables que nos han pasado nunca”",
       "link": "https://www.lavanguardia.com/television/20260911/11632900/gemeliers-recuerdan-agresion-sufrieron-madrid-cosas-mas-desagradables-han-pasado-nunca.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/11/6aa443b6317e2.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Telecinco se plagia a sí misma en 'Rueda la letra' y recicla un Rosco de 'Pasapalabra' de 2019",
       "link": "https://www.lavanguardia.com/television/20260910/11632223/telecinco-plagia-rueda-letra-recicla-rosco-pasapalabra-2019.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/08/6a9fe60600c48.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Javier Bardem se convierte en el invitado estrella de 'La Revuelta'",
-      "link": "https://www.lavanguardia.com/television/20260910/11632181/javier-bardem-convierte-invitado-estrella-revuelta.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/01/6a96049fdb321.jpeg",
       "tipo": "imagen"
     }
   ]

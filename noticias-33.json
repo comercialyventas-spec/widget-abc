@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Unos vienen, otros se van",
+      "link": "https://www.lavanguardia.com/opinion/20260912/11632998/vienen-otros.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Lo que mal empieza...",
+      "link": "https://www.lavanguardia.com/opinion/20260912/11632994/mal-empieza.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/11/6aa4779a0fe4a.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "EE.UU. honra a las víctimas del 11-S",
+      "link": "https://www.lavanguardia.com/opinion/20260912/11632934/ee-uu-honra-victimas-11-s.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Promesas a la basura",
+      "link": "https://www.lavanguardia.com/opinion/20260911/11632999/promesas-basura.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Andalucía, las dos derechas y el frentismo meridional",
       "link": "https://www.lavanguardia.com/opinion/20260911/11629887/andalucia-dos-derechas-frentismo-meridional.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/08/6a9fd76f29738.png",
@@ -10,30 +34,6 @@
       "titulo": "Edurne vs. Ronnie Wood",
       "link": "https://www.lavanguardia.com/opinion/20260911/11632358/edurne-vs-ronnie-wood.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La educación frente al espejo",
-      "link": "https://www.lavanguardia.com/opinion/20260911/11632214/educacion-frente-espejo.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/10/6aa2de0aa3fee.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los monstruos acechan",
-      "link": "https://www.lavanguardia.com/opinion/20260911/11632213/monstruos-acechan.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/07/6a9ed9e3b231c.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Comunicación familiar",
-      "link": "https://www.lavanguardia.com/opinion/20260911/11632127/comunicacion-familiar.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/12/19/6944ab549d157.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Esfuérzate como yo, chaval",
-      "link": "https://www.lavanguardia.com/opinion/20260911/11632079/esfuerzate-chaval.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2023/02/22/63f698cf2e7a1.r_d.400-317-0.jpeg",
       "tipo": "imagen"
     }
   ]
