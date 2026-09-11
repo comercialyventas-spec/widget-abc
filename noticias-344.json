@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El precio medio de la moto de ocasión baja y se sitúa en 6.502 euros",
+      "link": "https://www.abc.es/motor/motos/precio-medio-moto-ocasion-baja-situa-6502-20260911163000-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/11/motoocasion-RZkZG1XHT4HBZe1yyRk0ehM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Carreteras geotérmicas: la tecnología bajo el asfalto que busca acabar con las plagas de baches",
       "link": "https://www.abc.es/motor/reportajes/carreteras-geotermicas-tecnologia-bajo-asfalto-busca-acabar-20260911100100-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/11/CARRETERE-BACHEADA-RsizUfIRSmkw6VfgjuQNTkO-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Renault Niagara: el nuevo pick-up que impulsa la estrategia de expansión global de la marca",
       "link": "https://www.abc.es/motor/novedades/renault-niagara-nuevo-pickup-impulsa-estrategia-expansion-20260910161359-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/10/Renault-Niagara-pick-up-2026%20(6)-R6ooRKoNmi0YheaY4DXHacL-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Citroën C3 Aircross: un SUV compacto que en realidad es mediano",
-      "link": "https://www.abc.es/motor/novedades/citroen-aircross-suv-compacto-realidad-mediano-20260910062400-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/10/citroen-c3-content-factory-RmJKh89qbDoxJdXhtzaklcL-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
