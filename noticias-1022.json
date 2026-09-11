@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Fernando Alonso, primera ¿y última? vez en Madring",
-      "link": "https://www.abc.es/deportes/formula-1/alonso-primera-ultima-vez-madring-20260910012450-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/10/alonso34sd-RxM9zR9QuhvTpVP7uvzKMcM-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "Muere la Princesa Astrid de Noruega, hermana de Harald V, a los 94 años",
       "link": "https://www.abc.es/gente/muere-princesa-astrid-noruega-hermana-harald-anos-20260911151923-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/11/1517151115-kqeF-U30167686870617D-1200x840@diario_abc.JPG"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/11/1517151115-kqeF-U30167686870617D-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Fernando Alonso, primera ¿y última? vez en Madring",
+      "link": "https://www.abc.es/deportes/formula-1/alonso-primera-ultima-vez-madring-20260910012450-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/10/alonso34sd-RxM9zR9QuhvTpVP7uvzKMcM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Carreteras geotérmicas: la tecnología bajo el asfalto que busca acabar con las plagas de baches",
       "link": "https://www.abc.es/motor/reportajes/carreteras-geotermicas-tecnologia-bajo-asfalto-busca-acabar-20260911100100-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/11/CARRETERE-BACHEADA-RsizUfIRSmkw6VfgjuQNTkO-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/11/CARRETERE-BACHEADA-RsizUfIRSmkw6VfgjuQNTkO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Roban un ángel del siglo XVII y un cuadro de un Ecce Homo de la misma época en dos iglesias",
       "link": "https://www.abc.es/espana/castilla-leon/roban-cuadro-siglo-xvii-talla-angel-torchero-20260911111341-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/11/robo-valladolid-RsCcH3COLjZEFNZaLyqyXSM-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/11/robo-valladolid-RsCcH3COLjZEFNZaLyqyXSM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Las cosas del campo",
       "link": "https://www.abc.es/cultura/cultural/campo-20260911093306-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/11/interior1-trapiello-adria_ramirez-RI4Afg9BWVhZeW9MSWCykvL-1200x1775@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/11/interior1-trapiello-adria_ramirez-RI4Afg9BWVhZeW9MSWCykvL-1200x1775@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "MG y Jimmy Choo crean un vehículo de lujo inspirado en Lady Di",
       "link": "https://www.abc.es/summum/motor/jimmy-choo-crean-vehiculo-lujo-inspirado-lady-20260911235337-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/summum/2026/09/11/jimmy-1-R8NSQCHZFk5ssWP64YxZkiJ-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/summum/2026/09/11/jimmy-1-R8NSQCHZFk5ssWP64YxZkiJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }

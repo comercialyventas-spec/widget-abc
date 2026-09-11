@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Evento sociocultural en distrito Villa Vallecas. Afectadas 6 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260912-Concentracion-Seat-600.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Recuperación de Parada: plaza Mayor de Barajas. Afectada línea 101 de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260911-RP-1319-Plaza-Mayor-Barajas.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Evento sociocultural en distrito Villaverde Alto. Afectada línea N14 de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260918-Shakira-Residencia-Europea-LN14.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Acto religioso en Nuestra Señora de Valverde. Afectadas 2 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260914-PR-Cristo-Vera-Cruz-Fuencarral.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -15,24 +33,6 @@
     {
       "titulo": "Recuperación de Parada: Avenida de Madrid. Afectada línea 130 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260911-RP-3844-Av-Madrid.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Acto religioso en Hortaleza. Afectadas 3 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260913-PR-Virgen-Soledad-Hortaleza.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Manifestación en paseo de la Castellana. Afectadas 20 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260912-M-Plaza-Colon-Paseo-Castellana.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Supresión de Parada: Velázquez. Afectadas 6 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260910-SP-424-Velazquez.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

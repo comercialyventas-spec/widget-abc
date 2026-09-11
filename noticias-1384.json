@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Incendiadas al menos 40 tiendas de migrantes en las Naves del Tarajal",
+      "link": "https://elpais.com/espana/2026-09-11/al-menos-40-tiendas-de-migrantes-incendiadas-en-las-naves-del-tarajal.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260911/1213201_075048_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las escuelas de Gaza se preparan para una vuelta a las clases entre ruinas: “La Franja se resiste a la muerte a través de la educación”",
       "link": "https://elpais.com/planeta-futuro/2026-09-11/las-escuelas-de-gaza-se-preparan-para-una-vuelta-a-clases-entre-ruinas-y-sin-libros-la-franja-se-resiste-a-la-muerte-a-traves-de-la-educacion.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/GBYJQ3Q7WVEB5LKK3CSTAE7IXE.jpg?auth=1c89aa016f14f2c3da133836179dac83148f450a2fe1cc996342614f1c7010dc",
@@ -28,12 +34,6 @@
       "titulo": "Namibia: del desierto al océano",
       "link": "https://elpais.com/elviajero/lonely-planet/2026-09-10/namibia-del-desierto-al-oceano.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/Z3QQI5QD4BCLNOHBBMGA7HND4I.jpg?auth=04ad35cef119cec646a8044b4928b028788f163f98bc5b87e5076ad5ace1a0ce",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los 170.000 salvadoreños con TPS aguardan con incertidumbre el final del programa: “Mi vida está en Estados Unidos”",
-      "link": "https://elpais.com/us/migracion/2026-09-09/los-170000-salvadorenos-con-tps-aguardan-con-incertidumbre-el-final-del-programa-mi-vida-esta-en-estados-unidos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/W6REJ7Q455LVXBGPLUHI7LYDDI.jpg?auth=baea777e10b18ceeb5094bfa042ab3120294195e4e387a989d72c3867deea069",
       "tipo": "imagen"
     }
   ]

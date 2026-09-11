@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "🔴 Estados Unidos conmemora los 25 años del 11 de septiembre",
+      "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260911-en-directo-i-11-s-25-a%C3%B1os-despu%C3%A9s-de-los-atentados-que-cambiaron-la-historia",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "🔴 En vivo I 11-S: 25 años después de los atentados que cambiaron el rumbo de la historia",
+      "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260911-en-directo-i-11-s-25-a%C3%B1os-despu%C3%A9s-de-los-atentados-que-cambiaron-la-historia",
+      "imagen": "https://s.france24.com/media/display/1726ebf2-ad3e-11f1-a2c0-005056a97e36/w:1024/p:16x9/FOTO-EEUU-GALERIA-11S-02.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Incertidumbre y esperanza: ¿qué hay detrás del silencio sobre la situación de los salvadoreños con TPS en EE. UU.?",
       "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260911-incertidumbre-y-esperanza-qu%C3%A9-hay-detr%C3%A1s-del-silencio-sobre-la-situaci%C3%B3n-de-los-salvadore%C3%B1os-con-tps-en-ee-uu",
       "imagen": "https://s.france24.com/media/display/4ccbe91e-ad8f-11f1-84d9-005056a90284/w:1024/p:16x9/AP26245621293293.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Fujimori confirma la participación de Perú en el 'Escudo de las Américas' tras visita de Rubio",
       "link": "https://www.france24.com/es/video/20260911-fujimori-confirma-la-participaci%C3%B3n-de-per%C3%BA-en-el-escudo-de-las-am%C3%A9ricas-tras-visita-de-rubio",
       "imagen": "https://s.france24.com/media/display/364d8afe-ad89-11f1-be53-005056a97e36/w:1024/p:16x9/ES-20260910-183139-183335-CS.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Familias buscan a sus desaparecidos tras la riada en Nepal y el Tíbet",
-      "link": "https://www.france24.com/es/video/20260911-familias-buscan-a-sus-desaparecidos-tras-la-riada-en-nepal-y-el-t%C3%ADbet",
-      "imagen": "https://s.france24.com/media/display/b3820d34-ad88-11f1-b020-005056bf30b7/w:1024/p:16x9/ES-20260910-164301-164451-CS.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Israel mata a cuatro integrantes de una familia en un bombardeo contra Beit Lahia, en Gaza",
-      "link": "https://www.france24.com/es/video/20260911-israel-mata-a-cuatro-integrantes-de-una-familia-en-un-bombardeo-contra-beit-lahia-en-gaza",
-      "imagen": "https://s.france24.com/media/display/c5de98ae-ad87-11f1-960e-005056a97e36/w:1024/p:16x9/ES-20260910-164016-164140-CS.jpg",
       "tipo": "imagen"
     }
   ]
