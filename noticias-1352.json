@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Nueva York recuerda los 25 años del 11-S con decenas de actos y polémica por la ausencia de Trump y la presencia de Mamdani",
+      "link": "https://elpais.com/us/2026-09-11/nueva-york-recuerda-los-25-anos-del-11-s-con-decenas-de-actos-y-polemica-por-la-ausencia-de-trump-y-la-presencia-de-mamdani.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/X6XTEU3SIFKBXHDTHN25FSEDLU.jpg?auth=4cded10f8308aedb11290683c00185b134ae958cc92ada5cc9f22c71c53c694d",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Dentro de la Casa Blanca en el 11-S: historia oral del “día más oscuro” de la historia reciente de Estados Unidos",
+      "link": "https://elpais.com/internacional/2026-09-11/dentro-de-la-casa-blanca-en-el-11-s-una-historia-oral-del-dia-mas-oscuro-de-estados-unidos.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260910/1213048_181538_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Guantánamo, el legado de tortura del 11-S que aún sigue abierto",
+      "link": "https://elpais.com/us/2026-09-11/guantanamo-el-legado-de-tortura-del-11-s-que-aun-sigue-abierto.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ABNHXSTDEJBTJIDX7MBHTXMCVY.jpg?auth=f3ccfe0f7a9c8e459a1bc5270da29d289bc1642bc1f04e04a290ea6547f5383f",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El ICE, otro fruto de los atentados del 11-S",
+      "link": "https://elpais.com/us/migracion/2026-09-11/el-ice-otro-fruto-de-los-atentados-del-11-s.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ETUGMJ7ON5KDTESAE5X7XINTPM.jpg?auth=1ff81ba9fcf4e09880db36a02fe288096732628ab57341fd62d29051204f223b",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Vance presenta sus credenciales de candidato presidencial para 2028 en el cierre del ‘Trump-a-palooza’",
       "link": "https://elpais.com/us/2026-09-11/vance-presenta-sus-credenciales-de-candidato-presidencial-para-2028-en-el-cierre-del-trump-a-palooza.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260911/1213168_061748_video_1800.mp4",
@@ -10,30 +34,6 @@
       "titulo": "Talarico lidera la resistencia demócrata en Dallas a la convención de Trump",
       "link": "https://elpais.com/us/2026-09-11/talarico-lidera-la-resistencia-democrata-en-dallas-a-la-convencion-de-trump.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/YFKOA6I475L6JONIJBLUEI5THY.jpg?auth=dbe9b1be717c44d0cdba08a2a82ddb42c5083f8859389a3d6de4d49d0d9c0c83",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Perú se incorpora al Escudo de las Américas de Trump y refuerza su alianza en seguridad con Estados Unidos",
-      "link": "https://elpais.com/america/2026-09-10/peru-se-incorpora-al-escudo-de-las-americas-de-trump-y-refuerza-su-alianza-en-seguridad-con-estados-unidos.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260910/1213082_195614_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Anthropic alerta de que ha frenado posibles intentos de crear armas biológicas con su IA",
-      "link": "https://elpais.com/tecnologia/2026-09-10/anthropic-alerta-de-que-ha-frenado-posibles-intentos-de-crear-armas-biologicas-con-su-ia.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/XV5AUWY7DRDWLJEZEO7KCFABF4.jpg?auth=0e7966c7c7d91537a1fd8204cef1e74630931df0c4e47b9e61f3cb07e176cf40",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Supremo ve en la ‘ley de nietos’ un “peligro fundado, real y serio” de afectar a la “objetividad” de las elecciones",
-      "link": "https://elpais.com/espana/2026-09-10/el-supremo-ve-en-la-ley-de-nietos-un-peligro-fundado-real-y-serio-de-afectar-a-las-elecciones.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/OFPWGSS5CVFAXGYLYJWLRS4VXY.jpg?auth=d52cecb9be593dc5a08dc0ed3e8fc6d49e8c1031f7f65e8d49753cb0b1b36ea5",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El voto particular de la ‘ley de nietos’ critica que se “impide ejercer un derecho político” a españoles “reconocidos”",
-      "link": "https://elpais.com/espana/2026-09-10/el-voto-particular-de-la-ley-de-nietos-critica-que-se-impide-ejercer-un-derecho-politico-a-espanoles-reconocidos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/2GQ2YAKRERJLRKG5UVDFMBM2BQ.jpg?auth=891489f70c75533f4bece2874ba668d54b63676e28b52e2ba4e417c04a8f667f",
       "tipo": "imagen"
     }
   ]
