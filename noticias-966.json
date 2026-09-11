@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Los trapos sucios, mejor en comisaría",
-      "link": "https://elpais.com/television/2026-09-11/los-trapos-sucios-mejor-en-comisaria.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/32LHNHTNJRHI3NOYAKEZB2WALQ.jpg?auth=9ccbcecf17908c67dbed9077bb7b333326f65e6362fb4b4e1339e4911420a94f",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Telecinco se autoplagia en ‘Rueda la letra’: Fran compitió el martes con un rosco casi idéntico al que se enfrentó en 2019 en ‘Pasapalabra’",
       "link": "https://elpais.com/television/2026-09-10/telecinco-se-autoplagia-en-rueda-la-letra-fran-compitio-el-martes-con-un-rosco-casi-identico-al-que-se-enfrento-en-2019-en-pasapalabra.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260910/1212944_134816_video_1800.mp4",
@@ -34,6 +28,12 @@
       "titulo": "El club gastronómico",
       "link": "https://elpais.com/television/series/el-club-gastronomico/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/3FUJHQ6STBEETDK5U2MGX6MDK4.jpg?auth=58729ea6650ab84cb477e9cb086a5fb3071d171e4ed6361f5321813c96aca2e7",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Marc Giró regresa hablando de Ceuta: “Los fachas se lo están pasando pipa”",
+      "link": "https://elpais.com/television/2026-09-10/marc-giro-regresa-hablando-de-ceuta-los-fachas-se-lo-estan-pasando-pipa.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260910/1212880_105433_video_1800.mp4",
       "tipo": "imagen"
     }
   ]
