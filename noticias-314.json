@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El hombre que dibujó (mal) el mundo",
+      "link": "https://www.abc.es/xlsemanal/mercator-hombre-dibujo-mal-mundo-20260914132324-ntrc.html",
+      "imagen": "https://static.vocento.com/xlsemanal/2026/09/14/xlsemanal-2030-retrato-mercator-kk8C-U301671693793W3D-1200x840@RC.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Bizcochitos de avellana tostada",
       "link": "https://www.abc.es/xlsemanal/martin-berasategui-bizcochitos-de-avellana-tostada-20260907135901-ntrc.html",
       "imagen": "https://static.vocento.com/xlsemanal/2026/08/31/xlsemanal-martin-berastegui-bizcochitos-de-avellana-tostada-kzGH-U301569411870ipF-1200x840@RC.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El misterio Yayoi",
       "link": "https://www.abc.es/xlsemanal/firmas/isabel-coixet/el-misterio-yayoi-20260907202950-ntrc.html",
       "imagen": "https://static.vocento.com/xlsemanal/2026/09/07/Coixet1-kZkF--1200x840@RC.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Como dos gotas de agua",
-      "link": "https://www.abc.es/xlsemanal/firmas/carmen-posadas/como-dos-gotas-de-agua-20260907202646-ntrc.html",
-      "imagen": "https://static.vocento.com/xlsemanal/2026/09/07/Posadas1-kQaE--1200x840@RC.jpg",
       "tipo": "imagen"
     }
   ]
