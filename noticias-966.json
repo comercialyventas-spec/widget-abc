@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "A Love Other Than Yours",
+      "link": "https://elpais.com/television/series/a-love-other-than-yours/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/MS3A5PAC7JA73GQOSTOHZC3PNM.jpeg?auth=47a129089ca7241d3c6a2d712f94f20ee1db0339f5f5925ec6a41a16b22132e7",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los agentes reales que luchan en televisión contra toneladas de piña con cocaína: “Eran unos grandes desconocidos, había que mostrar su trabajo”",
       "link": "https://elpais.com/television/2026-09-12/los-agentes-reales-que-luchan-en-television-contra-toneladas-de-pina-con-cocaina-eran-unos-grandes-desconocidos-habia-que-mostrar-su-trabajo.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/43MHXDUQ3NEYPNBB4Y7WIZQWQE.jpg?auth=d92d35c9da3d8ee74fc08da02669969d7ef5e563d7b42e13a1724af7f361758c",
@@ -28,12 +34,6 @@
       "titulo": "El juicio",
       "link": "https://elpais.com/television/series/el-juicio/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/SRUJEJRET5CBPJDI3X57ZYIFVU.jpg?auth=f50fed4f40204749f63945bfe28fb52fe242b7669a3d61ff1ee6c73d2efdade0",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Jorge Javier Vázquez vuelve desatado a ‘Supervivientes All Star’ y con pullas a Telecinco: “¡Viva Rocío Carrasco!”",
-      "link": "https://elpais.com/television/2026-09-11/jorge-javier-vazquez-vuelve-desatado-a-supervivientes-all-stary-con-pullas-a-telecinco-viva-rocio-carrasco.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/D2CREBNUCJBTXCWRS5T6WCXAA4.png?auth=58b7f484a9087b980cf01c183bb931572f147f305bc17d89b5a1c92fc67504d9",
       "tipo": "imagen"
     }
   ]
