@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El accidente más útil de la historia: el nacimiento del embudo",
+      "link": "https://www.abc.es/ciencia/accidente-util-historia-nacimiento-embudo-20260911012649-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/11/embudo-RgqJGTF9p4eJFmBeUCfsYfM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Chupar nueces estimulantes, el primer colocón de la humanidad hace 25.000 años",
       "link": "https://www.abc.es/ciencia/humanos-drogamos-primera-vez-25000-anos-chupando-20260908200009-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/08/esqueleto-CPL-2-Rm93BNgIushl4ddpGm0vxaO-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Mercurio está encogiendo, y lo hace mucho más rápido de lo que se creía",
       "link": "https://www.abc.es/ciencia/mercurio-encogiendo-rapido-creia-20260910150000-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/10/Mercury_Transfer_Module_separation-RRreNCWI7E7EKU1YQp1ahsJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cariclo, la única roca con anillos del Sistema Solar, podría tener también una luna",
-      "link": "https://www.abc.es/ciencia/cariclo-unica-roca-anillos-sistema-solar-tener-20260909014745-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/09/Cariclo-R10EQjDdsL4s4YVSLjlGOqL-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

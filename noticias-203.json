@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "El ensayo en el que el director de Anthropic pide ralentizar el desarrollo de la inteligencia artificial",
-      "link": "https://www.bbc.com/mundo/articles/c86x7vnegvvo",
-      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Tania Head, la impostora española que engañó al mundo al hacerse pasar por sobreviviente del 11-S",
       "link": "https://www.bbc.com/mundo/articles/cg49xwyxg6wo",
       "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d651/live/2a405290-ad30-11f1-b1d1-571ed4d7ff2c.jpg",
@@ -16,6 +10,12 @@
       "titulo": "\"Me iban a ejecutar y él me salvó la vida\": Jorge Silva, el capitán de la Fuerza Aérea de Chile que desafió las órdenes de los golpistas y terminó torturado",
       "link": "https://www.bbc.com/mundo/articles/ced792eyg7po",
       "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8f6a/live/597fb770-a27d-11f1-8cc0-5ba88c00655d.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El ensayo en el que el director de Anthropic pide ralentizar el desarrollo de la inteligencia artificial",
+      "link": "https://www.bbc.com/mundo/articles/c86x7vnegvvo",
+      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg",
       "tipo": "imagen"
     },
     {
