@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Obras: Mateo García. Afectada línea N7 de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260915-O-Mateo-Garcia.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Obras: Cristo de la Victoria. Afectada línea 78 de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260915-O-Cristo-Victoria.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Concentración en Alcalá, 34. Afectadas 11 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260915-C-Alcala-34.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Supresión de Parada: López de Hoyos. Afectadas 3 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260914-SP-2009-Lopez-De-Hoyos.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -15,24 +33,6 @@
     {
       "titulo": "Evento sociocultural en distrito Villa Vallecas. Afectadas 6 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260912-Concentracion-Seat-600.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Recuperación de Parada: plaza Mayor de Barajas. Afectada línea 101 de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260911-RP-1319-Plaza-Mayor-Barajas.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Evento sociocultural en distrito Villaverde Alto. Afectada línea N14 de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260918-Shakira-Residencia-Europea-LN14.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Acto religioso en Nuestra Señora de Valverde. Afectadas 2 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260914-PR-Cristo-Vera-Cruz-Fuencarral.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

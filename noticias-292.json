@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Aitana, la princesa, regresa a Madrid",
+      "link": "https://www.abc.es/cultura/musica/aitana-princesa-regresa-madrid-20260912023844-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/12/1517167583-R3CdxgCyBskqokIVLopMtSJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Provisional 23 sale del hueco de la escalera",
       "link": "https://www.abc.es/cultura/cultural/provisional-sale-hueco-escalera-20260911093225-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/11/1516959589-R1UdUXXpQw04jnQT3bmzi4I-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Diego del Alcázar: «El mito de la caverna es un teléfono móvil, donde vemos 'reels' en lugar de sombras»",
       "link": "https://www.abc.es/cultura/libros/diego-alcazar-mito-caverna-telefono-movil-vemos-20260911011246-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/11/1517144705-RWd8R6PuDYnl80cKoDAVFHI-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Aitana, la princesa, regresa a Madrid",
-      "link": "https://www.abc.es/cultura/musica/aitana-princesa-regresa-madrid-20260912023844-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/12/1517167583-R3CdxgCyBskqokIVLopMtSJ-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
