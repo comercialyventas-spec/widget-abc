@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El director general de Anthropic pide ralentizar el progreso de la IA y que todas las empresas admitan verificadores externos",
+      "link": "https://elpais.com/tecnologia/2026-09-12/el-director-general-de-anthropic-pide-ralentizar-el-progreso-de-la-ia-y-que-todas-las-empresas-admitan-verificadores-externos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7LMK6BH76NAVJFZ7AIHOS57VPM.jpg?auth=086ba84839fd34916bc92386e8231e2a676a1490ac1c2d681cbbd6912d51d863",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Anthropic alerta de que ha frenado posibles intentos de crear armas biológicas con su IA",
       "link": "https://elpais.com/tecnologia/2026-09-10/anthropic-alerta-de-que-ha-frenado-posibles-intentos-de-crear-armas-biologicas-con-su-ia.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/XV5AUWY7DRDWLJEZEO7KCFABF4.jpg?auth=0e7966c7c7d91537a1fd8204cef1e74630931df0c4e47b9e61f3cb07e176cf40",
@@ -28,12 +34,6 @@
       "titulo": "Así es el iPhone Duo, el primer móvil plegable de Apple",
       "link": "https://elpais.com/tecnologia/2026-09-09/presentacion-del-nuevo-iphone-18-precio-y-caracteristicas-en-el-evento-de-apple.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260909/1212654_192223_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El anuncio de OpenAI de que ha resuelto uno de los mayores enigmas matemáticos de la historia desata acusaciones de plagio",
-      "link": "https://elpais.com/ciencia/2026-09-09/el-anuncio-de-openai-de-que-ha-resuelto-uno-de-los-mayores-enigmas-matematicos-de-la-historia-desata-acusaciones-de-plagio.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/I27RAYLCEVCBFOFYOLKPZP3YW4.JPG?auth=c4d674130cb1f5a2fd766495517bba03d303a81dfadda68c6bff4811b2129809",
       "tipo": "imagen"
     }
   ]
