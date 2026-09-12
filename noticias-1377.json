@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Helado de leche merengada, la receta sin heladera",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-09-12/helado-de-leche-merengada-la-receta-sin-heladera.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QIG3FD74EZBMLHURQN2ETUZ7YM.jpg?auth=00d6de2274225daa68ed54f95b82d66823d2b213c0a304732d5a1a7540467cfe",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Receta de alcachofas cocidas con majado de ajos y almendras, de Andoni Luis Aduriz",
+      "link": "https://elpais.com/gastronomia/2026-09-12/receta-de-alcachofas-cocidas-con-majado-de-ajos-y-almendras-de-andoni-luis-aduriz.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ELEJIYD4UZEIHDR5H2UGBARXUE.jpg?auth=20fdd3a977f146278fcda5c99f3648b8e419b1563bb49257e067337cabab1251",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Toda la producción se basa en la fertilidad, pero la humanidad se empeña en construir hacia arriba",
+      "link": "https://elpais.com/gastronomia/2026-09-12/toda-la-produccion-se-basa-en-la-fertilidad-pero-la-humanidad-se-empena-en-construir-hacia-arriba.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/S72DXSZMAJDW5JSLPHNPACST3I.jpg?auth=e0c922e55415d7500c37efa7943589bb9951dfd22ddcf313fecea5f155e258c0",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Figazza y fugazzeta, la receta de las primas rioplatenses de la pizza",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-09-11/figazza-y-fugazzeta-la-receta-de-las-primas-rioplatenses-de-la-pizza.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/RZIJG47JPFFQHEUIYLJY6UU2IQ.jpg?auth=436530bbcd79cff83b7cb4167802e2ed91a1430ce85b7b493504c92cf0b108f8",
@@ -16,24 +34,6 @@
       "titulo": "Abre en Madrid La Once Mil, única taquería en el mundo con estrella Michelin",
       "link": "https://elpais.com/gastronomia/2026-09-11/la-once-mil-unica-taqueria-en-el-mundo-con-estrella-michelin-abre-en-madrid.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/6BSWBVUDJZFDVD3ESBXQKW6GSM.jpg?auth=91cae5c2106daa64a6537148c60c4c6d74cc5debf95aac1abea53d24e399caf5",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ensalada de ñoquis crujientes, la receta que da un giro fresco a la pasta",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-09-10/ensalada-de-noquis-crujientes-la-receta-que-da-a-un-giro-fresco-a-la-pasta.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20260723/1198233_145508_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ajoblanco verde con tomate y atún",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-09-10/ajoblanco-verde-con-tomate-y-atun.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ASQ3M5UB5ZCVPBUTUW43UFZN2U.JPG?auth=46843cbd4801a7c6a7907397e935fa186ad55c3746ec5dd0fc47d7c4dcade46a",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Nacho Valle, el galerista que cambió el arte por las sardinas en Nueva York",
-      "link": "https://elpais.com/gastronomia/2026-09-10/nacho-valle-el-galerista-que-cambio-el-arte-por-las-sardinas-en-nueva-york.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/GGHBKSYWZJA6PI424D2LURZXIU.webp?auth=8782616dc594441a701559a7b1f61b667619dd597e9c8982e3682f28eec17609",
       "tipo": "imagen"
     }
   ]
