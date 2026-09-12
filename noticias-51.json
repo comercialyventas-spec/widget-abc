@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Mercados que agonizan en Barcelona",
+      "link": "https://www.lavanguardia.com/comer/20260912/11632905/mercados-agonizan-barcelona.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/11/6aa448233c403.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El ciclo de las estaciones guía Les Cols",
+      "link": "https://www.lavanguardia.com/comer/sitios/20260912/11631792/ciclo-estaciones-guia-les-cols.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/10/6aa2853f9a17f.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cómo juzgar a Ferran Adrià",
+      "link": "https://www.lavanguardia.com/comer/20260912/11631217/como-juzgar-ferran-adria.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/02/6a97539bca460.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Eduardo Navarrete, diseñador de moda (32 años): “Con Terelu Campos me iría a una bodega a vaciar botellas y hablar de la vida; es dura de roer, pero me quiere”",
       "link": "https://www.lavanguardia.com/comer/beber/20260911/11630708/eduardo-navarrete-disenador-moda-32-anos-terelu-campos-me-iria-bodega-vaciar-botellas-hablar-vida-dura-roer-me-quiere-cdv.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/09/6aa1057faeff2.r_d.924-725-3125.jpeg",
@@ -16,24 +34,6 @@
       "titulo": "La manzana conquista la cocina y encuentra mil formas de llegar al plato",
       "link": "https://www.lavanguardia.com/comer/materia-prima/20260911/11630754/manzana-conquista-cocina-encuentra-mil-formas-llegar-plato.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/09/6aa108ea8b9c5.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "5 recetas de la cocina catalana para montar un menú especial por la Diada",
-      "link": "https://www.lavanguardia.com/comer/recetas/20260911/11630215/5-recetas-cocina-catalana-montar-menu-especial-diada.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/21/6a5f29a23f61d.r_d.1059-707-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Galicia reunirá a algunos de los grandes referentes de su gastronomía en una nueva edición de los Encuentros Comer",
-      "link": "https://www.lavanguardia.com/comer/20260910/11626280/galicia-reunira-grandes-referentes-gastronomia-nueva-edicion-encuentros-comer.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/10/6aa277a3eed52.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mario Ayllón, sumiller: “Ahora los vinos por copas prácticamente se venden solos, pero aún hay miedo a pedirlos; la clave está en elegir bien y tener una identidad clara”",
-      "link": "https://www.lavanguardia.com/comer/beber/20260910/11628858/mario-ayllo-n-sumiller-vinos-copas-practicamente-venden-solos-hay-gente-todavia-consigue-quitarse-miedo-hacerlo-cdv.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/07/6a9e6df56c9c7.r_d.3557-2406-691.jpeg",
       "tipo": "imagen"
     }
   ]

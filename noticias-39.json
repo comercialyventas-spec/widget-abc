@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Israel libera a cinco tortugas marinas tras completar su rehabilitación",
+      "link": "https://www.lavanguardia.com/natural/20260912/11632878/israel-libera-cinco-tortugas-marinas-completar-rehabilitacion.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las temperaturas del mar en España alcanzan este verano máximos históricos",
       "link": "https://www.lavanguardia.com/natural/20260911/11632794/temperaturas-mar-espana-alcanzan-verano-maximos-historicos.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/06/28/685f90ee21d5b.r_d.1337-891-0.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Agosto fue el mes más caluroso registrado nunca en el planeta y España vivió su verano más cálido",
       "link": "https://www.lavanguardia.com/natural/cambio-climatico/20260910/11631085/calentamiento-pausa-agosto-mes-mas-caluroso-registrado-planeta.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/09/6aa16ed45e34d.r_d.4262-1534-841.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Se está mudando el pulpo gallego al Reino Unido?",
-      "link": "https://www.lavanguardia.com/natural/20260909/11630294/esta-mudando-pulpo-gallego-reino-unido.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2023/04/14/6439728c6c3a6.r_d.628-503-0.jpeg",
       "tipo": "imagen"
     }
   ]
