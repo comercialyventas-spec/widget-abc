@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de Nuevo Sureste de Madrid",
+      "link": "https://nuevosureste.es/extranjeros-ensanche-vallecas/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/08/Captura-de-pantalla-2026-08-28-a-las-11.07.24.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Cuántos niños y jóvenes hay en El Cañaveral?",
       "link": "https://nuevosureste.es/ninos-jovenes-edad-escolar-el-canaveral/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/04/IMG_6112-1067x675.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "El Ensanche de Vallecas estrena la Biblioteca Benjamín Palencia",
       "link": "https://nuevosureste.es/apertura-biblioteca-benjamin-palencia/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/08/Hemeroteca-2-1080x675.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Comunidad alerta de que la falta de capacidad eléctrica puede afectar al desarrollo de nuevas viviendas en el sureste",
-      "link": "https://nuevosureste.es/suministro-electrico-rocio-albert/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/La-consejera-de-Economia-Rocio-Albert-durante-su-reciente-visita-a-Arganda-foto-Nuevo-Sureste.jpg",
       "tipo": "imagen"
     }
   ]

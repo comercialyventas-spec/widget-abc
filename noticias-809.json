@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El calor de verano se vuelve a instalar en España este fin de semana: temperaturas de hasta 36 grados",
+      "link": "https://www.eldiario.es/sociedad/el-tiempo/calor-verano-vuelve-instalar-espana-semana-temperaturas-36-grados-pm_1_13504540.html",
+      "imagen": "https://static.eldiario.es/clip/017ea19d-f4ce-42dd-8a63-8151a5c71355_16-9-discover-aspect-ratio_default_0_x808y182.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Viernes sin lluvias y de subida de las temperaturas, con hasta 35 grados en estas zonas",
+      "link": "https://www.eldiario.es/sociedad/el-tiempo/viernes-lluvias-subida-temperaturas-35-grados-zonas-pm_1_13500503.html",
+      "imagen": "https://static.eldiario.es/clip/edcfe38f-40be-4c33-9432-ecb19e82834d_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Aemet advierte de una situación “adversa” hoy en el Mediterráneo por lluvias y activa avisos en seis comunidades",
       "link": "https://www.eldiario.es/sociedad/el-tiempo/aemet-advierte-situacion-adversa-hoy-mediterraneo-lluvias-activa-avisos-seis-comunidades-pm_1_13495020.html",
       "imagen": "https://static.eldiario.es/clip/50573e19-f83b-4e88-9b43-a99591194e52_16-9-discover-aspect-ratio_default_1150706.jpg",
@@ -22,18 +34,6 @@
       "titulo": "El calor intenso sigue este fin de semana con aviso naranja en Aragón y Catalunya, pero con tormentas ocasionales en el norte",
       "link": "https://www.eldiario.es/sociedad/el-tiempo/calor-intenso-sigue-semana-aviso-naranja-aragon-catalunya-tormentas-ocasionales-norte-pm_1_13488681.html",
       "imagen": "https://static.eldiario.es/clip/2148a68e-cab7-42f7-b880-f52c2bd1b639_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Hasta cuándo durará el episodio de calor? La Aemet pone fecha al “probable” descenso de las temperaturas",
-      "link": "https://www.eldiario.es/sociedad/el-tiempo/durara-episodio-calor-aemet-pone-fecha-probable-descenso-temperaturas-pm_1_13487404.html",
-      "imagen": "https://static.eldiario.es/clip/31016d9d-b29e-4743-ad84-61d31c62995b_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El calor se intensifica este jueves con 40 grados y avisos en 11 comunidades",
-      "link": "https://www.eldiario.es/sociedad/el-tiempo/calor-intensifica-jueves-40-grados-avisos-11-comunidades-pm_1_13481969.html",
-      "imagen": "https://static.eldiario.es/clip/8517c387-4734-413d-be9e-964da01f946f_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

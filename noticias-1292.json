@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Incendio en Ceuta: arden 42 chabolas de los inmigrantes del Tarajal",
+      "link": "https://www.mediterraneodigital.com/sucesos-espana/incendios-ceuta",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/9/incendio-ceuta.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Detenido un exmena de 19 años acusado de agredir sexualmente tres veces a una mujer en Madrid",
       "link": "https://www.mediterraneodigital.com/sucesos-espana/mena-violacion-madrid",
       "imagen": "https://www.mediterraneodigital.com/images/2022/6/violacion-p.jpg",
@@ -22,12 +28,6 @@
       "titulo": "Se fuga del Hospital de Ceuta un inmigrante con varicela súper contagiosa",
       "link": "https://www.mediterraneodigital.com/sucesos-espana/inmigracion-ceuta-varicela",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/varicela-.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Muere un ladrón aplastado en un camión de basura cuando huía de la policía",
-      "link": "https://www.mediterraneodigital.com/sucesos-espana/contenedor-muere",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/9/camion-basura.jpg",
       "tipo": "imagen"
     }
   ]

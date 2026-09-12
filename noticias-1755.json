@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¡Qué Montesquieu ni qué Montesquieu!",
+      "link": "https://www.publico.es/opinion/vinetas/montesquieu-montesquieu.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/10/6aa2bed3d94d8.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El desgarro",
       "link": "https://www.publico.es/opinion/vinetas/desgarro.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/08/6aa01b0e2f05c.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Se quema Madrid",
       "link": "https://www.publico.es/opinion/vinetas/quema-madrid.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/07/28/6a6895f092ffc.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Capitalista rampante",
-      "link": "https://www.publico.es/opinion/vinetas/capitalista-rampante.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/07/26/6a65c57092ee5.jpeg",
       "tipo": "imagen"
     }
   ]

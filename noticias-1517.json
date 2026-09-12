@@ -1,39 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "🎙 PODCAST | Informe tertulianos: cutre y … ¿peligroso?",
+      "titulo": "Ataque al derecho de sufragio",
+      "link": "https://eldiario.es/blog/mano-a-mano/",
+      "imagen": "https://static.eldiario.es/clip/531826c7-850a-4602-aafc-3b858659cf9e_16-9-discover-aspect-ratio_default_0_x1408y531.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "🎙 PODCAST | Fórmula 1: ¿qué hace un circuito en mi barrio?",
       "link": "https://eldiario.es/untemaaldia/",
-      "imagen": "https://static.eldiario.es/clip/f713b97d-4cde-4de9-a79b-7c64cafd317c_16-9-discover-aspect-ratio_default_0.jpg",
+      "imagen": "https://static.eldiario.es/clip/c3640b77-b215-441c-ab4f-94ea9ec17d8a_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
       "titulo": "La vuelta a la normalidad es un espejismo",
       "link": "https://eldiario.es/contracorriente",
       "imagen": "https://static.eldiario.es/clip/b8a07ff1-a99c-4ccc-8485-9d5c5b38165b_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mandan los de negro. Y es una aberración",
-      "link": "https://eldiario.es/blog/el-ojo-izquierdo/",
-      "imagen": "https://static.eldiario.es/clip/62570dff-fa21-43f1-b45a-115c630538ee_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tomares despide su Feria con una gran afluencia de público y miles de asistentes a sus principales conciertos",
-      "link": "https://eldiario.es/sevilla/la-noticia-de-tomares/",
-      "imagen": "https://static.eldiario.es/clip/817069ad-d7ca-4c16-bfb4-385a70301ac8_16-9-discover-aspect-ratio_default_0_x1029y897.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La sentencia que cambió la frontera de Ceuta",
-      "link": "https://eldiario.es/blog/el-boletin-del-director/",
-      "imagen": "https://static.eldiario.es/clip/438ca033-d239-452f-b759-396a06833d22_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sánchez se lía con Ceuta, Ayuso con su ático",
-      "link": "https://eldiario.es/carnecruda/programas/",
-      "imagen": "https://static.eldiario.es/clip/38582c03-6992-4459-b10c-3d4899b29031_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

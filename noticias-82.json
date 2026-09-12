@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "LA TEVA WEB",
+      "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/7195475/la-teva-web-sl.html",
+      "imagen": "https://edv-static.lavanguardia.com/assets/img/7195475/banner-image.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ineffable Coffee",
       "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/3054519/ineffable-coffee.html",
       "imagen": "https://edv-static.lavanguardia.com/assets/img/3054519/banner-1789051433000.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "MIray Consulting",
+      "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/2883422/miray-consulting-sl.html",
+      "imagen": "https://edv-static.lavanguardia.com/assets/img/2883422/banner-1789111060000.jpeg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "WORKCENTER",
       "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/940376/workcenter-sgd-sa.html",
       "imagen": "https://edv-static.lavanguardia.com/assets/img/940376/banner-1758113728000.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Admazing Cloud",
-      "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/8747003/admazing-cloud.html",
-      "imagen": "https://edv-static.lavanguardia.com/assets/img/8747003/banner-1788781349000.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Divorce Planner",
-      "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/7123807/elena-martin-izquierdo.html",
-      "imagen": "https://edv-static.lavanguardia.com/assets/img/7123807/banner-1761739352000.png",
       "tipo": "imagen"
     }
   ]

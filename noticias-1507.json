@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "🎙 PODCAST | Fórmula 1: ¿qué hace un circuito en mi barrio?",
+      "link": "https://www.eldiario.es/untemaaldia/podcast-formula1-que-hace-circuito-en-mi-barrio_132_13501411.html",
+      "imagen": "https://static.eldiario.es/clip/c3640b77-b215-441c-ab4f-94ea9ec17d8a_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "🎙 PODCAST | Y el chaval negro era inglés (paradoja en Ceuta)",
       "link": "https://www.eldiario.es/untemaaldia/podcast-chaval-negro-ingles-paradoja-ceuta_132_13493189.html",
       "imagen": "https://static.eldiario.es/clip/dafb918a-6743-4c54-9fea-53f774da83e3_16-9-discover-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "🎙 PODCAST | Ceuta y Marruecos: un mes, tres teorías",
       "link": "https://www.eldiario.es/untemaaldia/podcast-ceuta-marruecos-mes-tres-teorias_132_13477402.html",
       "imagen": "https://static.eldiario.es/clip/6da46e46-7a44-465d-a745-4ade85c6a99e_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "🎙 PODCAST | Estados Unidos no es el mejor país del mundo",
-      "link": "https://www.eldiario.es/untemaaldia/podcast-estados-unidos-no-mejor-pais-mundo_132_13392827.html",
-      "imagen": "https://static.eldiario.es/clip/c9b56e6c-84ad-4cf5-a0b1-9a077a11f183_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

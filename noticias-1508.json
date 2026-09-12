@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Todos los jueces pueden ser criticados",
+      "link": "https://www.eldiario.es/contracorriente/jueces-criticados_132_13501687.html",
+      "imagen": "https://static.eldiario.es/clip/7b8639fb-3f3e-462f-8e0f-b0231e196b8d_16-9-discover-aspect-ratio_default_0_x798y344.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Puede el Supremo suspender la aplicación de una ley?",
       "link": "https://www.eldiario.es/contracorriente/supremo-suspender-aplicacion-ley_132_13497827.html",
       "imagen": "https://static.eldiario.es/clip/dc705fef-7b4b-4602-97a7-fa900ac652a6_16-9-discover-aspect-ratio_default_0_x950y270.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La guerra de Trump en Irán y el ático de Díaz Ayuso",
       "link": "https://www.eldiario.es/contracorriente/guerra-trump-iran-atico-diaz-ayuso_132_13455695.html",
       "imagen": "https://static.eldiario.es/clip/203f1254-0c39-46f9-8711-2b9d5f5d91d2_16-9-discover-aspect-ratio_default_0_x3234y1201.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La entrada en Ceuta no debería haberse producido",
-      "link": "https://www.eldiario.es/contracorriente/entrada-ceuta-no-deberia-haberse-producido_132_13450494.html",
-      "imagen": "https://static.eldiario.es/clip/932254fe-cb8c-435d-8760-1fe6e01aca15_16-9-discover-aspect-ratio_default_0_x1000y499.jpg",
       "tipo": "imagen"
     }
   ]
