@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Sara Baras es infinita",
+      "link": "https://www.abc.es/cultura/teatros/sara-baras-infinita-20260912141924-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/12/baras1-R6HT8pACMZniXWpTHA8MGTI-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "'Leonora': retrato de una mujer tan rebelde como atormentada",
       "link": "https://www.abc.es/cultura/teatros/leonora-retrato-mujer-rebelde-patetica-20260909012202-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/09/12_susanamartin_foto-R2C27QwkA0KTgb9kbDQFJrO-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Andrés Lima: «La risa es un elemento distanciador que obliga al espectador a pensar»",
       "link": "https://www.abc.es/cultura/teatros/andres-lima-risa-elemento-distanciador-obliga-espectador-20260910012251-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/10/_D8A0475-Copy%20Lau%20Ortega-RbDJZHXvD8xirMY6Cc44dtJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La sátira de Els Joglars estalla contra la impostura y la política de nuestro tiempo",
-      "link": "https://www.abc.es/cultura/teatros/satira-els-joglars-estalla-impostura-politica-tiempo-20260909092747-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/09/joglars-RcSIJ0iGKAfLWg3SlkW1OtK-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
