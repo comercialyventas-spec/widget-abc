@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Al menos 44 heridos por el descarrilamiento de un tren regional en el norte de Francia",
+      "link": "https://www.lavanguardia.com/internacional/20260912/11633194/44-heridos-descarrilamiento-tren-regional-norte-francia.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/12/6aa514391ff3b.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Pemex confirma un nuevo vertido de hidrocarburos en el Golfo de México",
       "link": "https://www.lavanguardia.com/internacional/20260912/11633153/pemex-confirma-nuevo-vertido-hidrocarburos-golfo-mexico.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2016/05/17/5fa2cb7909579.r_d.406-328-5612.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "La socialdemocracia de Suecia aspira a recuperar el poder en las elecciones del domingo",
       "link": "https://www.lavanguardia.com/internacional/20260912/11632852/socialdemocracia-suecia-aspira-recuperar-elecciones-domingo.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/11/6aa425a2bad05.r_d.3000-2000-748.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Arabia Saudí cierra el único oleoducto alternativo a Ormuz tras la ofensiva de los hutíes en el mar Rojo",
-      "link": "https://www.lavanguardia.com/internacional/20260911/11632935/arabia-saudi-cierra-unico-oleoducto-alternativo-ormuz-ofensiva-mar-rojo.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/11/6aa463e103c6c.jpeg",
       "tipo": "imagen"
     }
   ]

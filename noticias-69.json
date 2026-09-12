@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "Lotería Nacional | Sigue el sorteo de hoy sábado 12 de septiembre, en directo",
+      "titulo": "La mariposa nocturna mitológica",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260912/11633208/mariposa-nocturna-mitologica.html",
+      "imagen": "https://www.lavanguardia.com/files/listing_main/files/fp/uploads/2026/09/12/6aa5196402d91.r_d.2736-1824-183.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Al menos 44 heridos por el descarrilamiento de un tren regional en el norte de Francia",
+      "link": "https://www.lavanguardia.com/internacional/20260912/11633194/44-heridos-descarrilamiento-tren-regional-norte-francia.html",
+      "imagen": "https://www.lavanguardia.com/files/listing_main/uploads/2026/09/12/6aa5123b286c3.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Sin mujeres no hay revuelta",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260912/11633200/mujeres-hay-revuelta.html",
+      "imagen": "https://www.lavanguardia.com/files/listing_main/files/fp/uploads/2026/09/12/6aa514fb255ab.r_d.746-453-700.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Lotería Nacional: sorteo y comprobar resultados y premios de hoy sábado 12 de septiembre, en directo",
       "link": "https://www.lavanguardia.com/loterias/20260912/11632627/loteria-nacional-sorteo-hoy-sabado-12-de-septiembre-resultado-premios-en-directo.html",
-      "imagen": "https://www.lavanguardia.com/files/listing_main/uploads/2026/03/13/69b415ddae3fe.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/listing_main/uploads/2026/03/13/69b415dcc0cf0.jpeg",
       "tipo": "imagen"
     },
     {
@@ -13,27 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "F1 GP de España en Madrid, hoy en directo | Última hora desde el Madring, horarios, resultados y toda la actualidad de la Fórmula 1",
+      "titulo": "F1 GP de España en Madrid, hoy en directo | Todo lo que pasa en el Madring, tráfico, horarios y protagonistas",
       "link": "https://www.lavanguardia.com/deportes/formula-1/20260912/11633169/f1-gp-espana-madrid-madring-hoy-formula-1-clasificacion-horario-previa-libres-resultados-en-directo.html",
       "imagen": "https://www.lavanguardia.com/files/listing_main/files/fp/uploads/2026/09/10/6aa2c1a46147c.r_d.3500-2333-143.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La cigüeña y la cigüeñuela",
-      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260912/11633186/cigueena-cigueenuela.html",
-      "imagen": "https://www.lavanguardia.com/files/listing_main/files/fp/uploads/2026/09/12/6aa50fbfc14cf.r_d.960-465-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cuatro detenidos por 72 robos con fuerza en empresas de Aragón, Catalunya y Valencia",
-      "link": "https://www.lavanguardia.com/sucesos/20260912/11633187/cuatro-detenidos-72-robos-fuerza-empresas-aragon-catalunya-valencia.html",
-      "imagen": "https://www.lavanguardia.com/files/listing_main/files/fp/uploads/2026/09/02/6a98265969af3.r_d.452-321-1138.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una IA de OpenAI encuentra la solución a las ecuaciones de Navier-Stokes tras 90 años de misterio matemático",
-      "link": "https://www.lavanguardia.com/neo/20260912/11633162/ia-openai-halla-solucion-ecuaciones-navier-stokes-90-anos-misterio-matematico-ext-pau.html",
-      "imagen": "https://www.lavanguardia.com/files/listing_main/files/fp/uploads/2025/04/14/67fd303cf3203.r_d.350-281-0.jpeg",
       "tipo": "imagen"
     }
   ]
