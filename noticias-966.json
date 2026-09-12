@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Los Forsyte",
-      "link": "https://elpais.com/television/series/los-forsyte/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/UC2EVSHQPREPBCF62MPKV3YSRQ.jpg?auth=2d3dbe4c5dc89e5ee2716d0fb41ff91d5621e9a33b34aa0cf460502fa902cc81",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "En coma",
       "link": "https://elpais.com/television/series/en-coma/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/AOQPJZKIWVDNJERYDQUVMFCRLQ.jpg?auth=df1eb968f9fad34db28ef3a5ebcbcf44b3ea5830f6546537b2aba4ae1033bf6c",
@@ -34,6 +28,12 @@
       "titulo": "Los trapos sucios, mejor en comisaría",
       "link": "https://elpais.com/television/2026-09-11/los-trapos-sucios-mejor-en-comisaria.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/32LHNHTNJRHI3NOYAKEZB2WALQ.jpg?auth=9ccbcecf17908c67dbed9077bb7b333326f65e6362fb4b4e1339e4911420a94f",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Telecinco se autoplagia en ‘Rueda la letra’: Fran compitió el martes con un rosco casi idéntico al que se enfrentó en 2019 en ‘Pasapalabra’",
+      "link": "https://elpais.com/television/2026-09-10/telecinco-se-autoplagia-en-rueda-la-letra-fran-compitio-el-martes-con-un-rosco-casi-identico-al-que-se-enfrento-en-2019-en-pasapalabra.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260910/1212944_134816_video_1800.mp4",
       "tipo": "imagen"
     }
   ]

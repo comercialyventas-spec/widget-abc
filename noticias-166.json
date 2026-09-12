@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "El PSdeG encara en el Congreso el fin de una legislatura llena de mudanzas",
+      "link": "https://www.lavozdegalicia.es/noticia/galicia/2026/09/11/psdeg-encara-congreso-fin-legislatura-llena-mudanzas/00031789142923012545663.htm",
+      "imagen": "https://cflvdg.avoz.es/sc/snFcH_4jKkZfSK1ulESsQ7ZgSjI=/768x/2023/10/08/00121696776662233494436/Foto/j_20231007_154706000.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Por qué hay tanto facha?",
+      "link": "https://www.lavozdegalicia.es/noticia/galicia/2026/09/12/facha/0003_202609G12P12991.htm",
+      "imagen": "https://cflvdg.avoz.es/sc/vl4FSVfKYmFAtsEmbWwQd2_F58Q=/768x/2026/09/11/00121789125989835190810/Foto/CLRweb12SEPTEMBRE.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las demandas del colectivo: límites en la jornada laboral o una nueva categoría",
+      "link": "https://www.lavozdegalicia.es/noticia/galicia/2026/09/12/demandas-colectivo-limites-jornada-laboral-nueva-categoria/0003_202609G12P9992.htm",
+      "imagen": "https://cflvdg.avoz.es/sc/_kfqlOFOh0cyC5eZ9_R9oFodlO4=/768x/2026/07/06/00121783345982354843439/Foto/v_20260616_132017000.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Lisboa-Muxía: la travesía con trampa y 3.500 kilos de cocaína que cerró la puerta de A Costa da Morte",
+      "link": "https://www.lavozdegalicia.es/noticia/galicia/2026/09/12/travesia-trampa-3500-kilos-cocalisboa-muxia-travesia-trampa-3500-kilos-cocaina-cerro-puerta-costa-da-morte/0003_202609G12P4991.htm",
+      "imagen": "https://cflvdg.avoz.es/sc/V2GHtLOmMfWhLzU7wAbjbpB1jfk=/768x/2026/09/11/00121789138742710521722/Foto/subma.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Galicia solo tiene una plaza pública de residencia por cada 45 universitarios",
       "link": "https://www.lavozdegalicia.es/noticia/galicia/2026/09/11/galicia-solo-plaza-publica-residencia-45-universitarios/00031789137487142266106.htm",
       "imagen": "https://cflvdg.avoz.es/sc/A0M9YzORjysj1-TuhW02SoCyN70=/768x/2026/09/11/00121789141921663216930/Foto/i_20260911_172851000.jpg",
@@ -10,30 +34,6 @@
       "titulo": "El PSdeG pide a la Xunta que transfiera a A Coruña y Santiago las partidas del Gobierno para zonas tensionadas",
       "link": "https://www.lavozdegalicia.es/noticia/galicia/2026/09/11/psdeg-pide-xunta-transfiera-coruna-santiago-partidas-gobierno-zonas-tensionadas/00031789148480519335301.htm",
       "imagen": "https://cflvdg.avoz.es/sc/taakBCfKS0EsixSApQk6_k0Ofek=/768x/2026/09/11/00121789149362494168115/Foto/eup_20260911_100914023.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Xunta tuvo que retirar más de 2.600 autorrescatadores respiratorios de brigadistas por defectos",
-      "link": "https://www.lavozdegalicia.es/noticia/galicia/2026/09/11/xunta-retirar-2600-autorrescatadores-respiratorios-brigadistas-incidencias/00031789133531415477186.htm",
-      "imagen": "https://cflvdg.avoz.es/sc/2LNK7qx4K20kxcGTq8cvzbMpSDo=/768x/2025/10/10/00121760101561767350705/Foto/o_20250814_153640006.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Pontón achaca los resultados de Galicia en el informe PISA a la falta de inversión y los recortes en educación",
-      "link": "https://www.lavozdegalicia.es/noticia/galicia/2026/09/11/ponton-achaca-resultados-galicia-informe-pisa-falta-inversion-recortes-educacion/00031789130970050747851.htm",
-      "imagen": "https://cflvdg.avoz.es/sc/PvTOmP2pfbzArTiED-qayk1uc2E=/768x/2026/09/11/00121789132982092778321/Foto/efe_20260911_101627278.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Detenido un tripulante de una narcolancha que intentó entrar en el Miño y encalló en Caminha",
-      "link": "https://www.lavozdegalicia.es/noticia/vigo/2026/09/11/encalla-caminha-lancha-1200-caballos-asociada-narcotrafico/00031789129239407853938.htm",
-      "imagen": "https://cflvdg.avoz.es/sc/qIp344irKxscvIo5dc0bhPfCHNg=/768x/2026/09/11/00121789129743925862364/Foto/v_20260911_142558000.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ence innova en Pontevedra con la entrada en servicio de su sistema pionero de reutilización del agua de la depuradora de Os Praceres",
-      "link": "https://www.lavozdegalicia.es/noticia/pontevedra/pontevedra/2026/09/11/ence-innova-pontevedra-entrada-servicio-sistema-pionero-reutilizacion-efluente-depuradora-os-praceres/00031789119733716553641.htm",
-      "imagen": "https://cflvdg.avoz.es/sc/fUOOCA7mIUvk22Uov6WEX8m26gY=/768x/2026/09/11/00121789122421948204794/Foto/i_20260911_112756002.jpg",
       "tipo": "imagen"
     }
   ]
