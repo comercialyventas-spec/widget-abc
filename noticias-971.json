@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El ensayo en el que el director de Anthropic pide ralentizar el desarrollo de la inteligencia artificial",
+      "link": "https://www.bbc.com/mundo/articles/c86x7vnegvvo",
+      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Tania Head, la impostora española que engañó al mundo al hacerse pasar por sobreviviente del 11-S",
       "link": "https://www.bbc.com/mundo/articles/cg49xwyxg6wo",
       "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d651/live/2a405290-ad30-11f1-b1d1-571ed4d7ff2c.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Por qué tenemos sangre caliente y qué ventajas tiene sobre la sangre fría",
       "link": "https://www.bbc.com/mundo/articles/cd08dp51pp4o",
       "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ec65/live/bb6e06d0-ad13-11f1-826f-933990eae6f0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Trump asegura que la reunificación de Irlanda sería \"algo fantástico\" durante una visita a Dublín",
-      "link": "https://www.bbc.com/mundo/articles/cd94kjxqjqwo",
-      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/af5a/live/a555a260-ae9c-11f1-8972-d5c52a82c3b8.jpg",
       "tipo": "imagen"
     }
   ]
