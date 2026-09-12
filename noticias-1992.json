@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El Madrid, del paraíso al infierno",
+      "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/09/12/6aa5c616e4d4d839148b4594.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/12/17892491517542.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un Madrid fulgurante aprovecha la inocencia del Rayo y calma las aguas del Bernabéu",
       "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/09/12/6aa59dc7e9cf4a9f508b4570.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/12/17892471021556.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La mujer del portero italiano Donnarumma testifica tras el robo en su casa: \"Me golpearon y me pegaron estando embarazada\"",
       "link": "https://www.elmundo.es/deportes/futbol/2026/09/11/6aa42925e85ece160b8b45be.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/11/17891444981269.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mourinho: \"Estaba atento por si tenía que intervenir como Ministro de la Paz entre Tchouaméni y Valverde, pero no he hecho nada\"",
-      "link": "https://www.elmundo.es/deportes/futbol/2026/09/11/6aa3dc31e9cf4a3d538b4575.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/11/17891267221433.jpg",
       "tipo": "imagen"
     }
   ]
