@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El director ejecutivo de Anthropic pide una desaceleración inmediata en el desarrollo de la IA",
+      "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260912/director-ejecutivo-anthropic-pide-desaceleracion-inteligencia-artificial-134220679",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/c4066d4a-3e96-4fa0-a95e-c1db81267f30_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un programa de OpenAI apuntó contra otro sitio web antes del ciberataque a Hugging Face",
       "link": "<![CDATA[https://www.elperiodico.com/es/tecnologia/20260912/openai-apunto-sitio-web-ciberataque-hugging-face-inteligencia-artificial-134208388",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/40497024-fabe-46e2-9477-1a14645a5cc0_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Anthropic afirma que ha frustrado posibles intentos de usar su IA para fabricar armas biológicas",
       "link": "<![CDATA[https://www.elperiodico.com/es/tecnologia/20260910/anthropic-asegura-haber-desarticulado-complots-134165930",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/bac39d8f-f4b8-4112-a226-42d042bab8b5_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Apple presenta el Apple Watch Ultra 4 con nuevas funciones de salud y hasta 45 horas de autonomía",
-      "link": "<![CDATA[https://www.elperiodico.com/es/tecnologia/20260910/apple-presenta-apple-watch-ultra-134152905",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/242a34ef-b3c5-4aff-8676-40f7485054ce_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
