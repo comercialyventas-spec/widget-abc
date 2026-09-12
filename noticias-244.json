@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Lo que el fuego se llevó",
+      "link": "https://www.elplural.com/opinion/fuego-llevo_400049102",
+      "imagen": "https://www.elplural.com/uploads/s1/26/91/09/7/agente-de-la-policia-en-ceuta-ep_7_480x270.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El otro reto del Gran Premio de Madrid: levantar desde cero la maquinaria de la Fórmula 1",
       "link": "https://www.elplural.com/el-regate/reto-gran-premio-madrid-levantar-cero-maquinaria-formula-1_400048102",
       "imagen": "https://www.elplural.com/uploads/s1/26/93/75/6/f1_7_480x270.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Évole reflexiona sobre el acoso a Sánchez y lo compara con el sufrido por otro dirigente socialista",
       "link": "https://www.elplural.com/extratele/protagonistas/evole-reflexiona-acoso-sanchez-compara-sufrido-dirigente-socialista_400044102",
       "imagen": "https://www.elplural.com/uploads/s1/24/21/45/5/fotomontaje-del-periodista-jordi-evole-y-el-presidente-del-gobierno-pedro-sanchez-elaboracion-propia_7_480x270.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El calor bañará este fin de semana con un retorno al verano de hasta 38ºC en puntos del sur peninsular",
-      "link": "https://www.elplural.com/sociedad/calor-banara-fin-semana-retorno-verano-hasta-38oc-puntos-sur-peninsular_400043102",
-      "imagen": "https://www.elplural.com/uploads/s1/26/93/52/8/europapress-5372210-varias-personas-refugian-sol-arbol-agosto-2023-pontevedra-galicia-espana_7_480x270.jpeg",
       "tipo": "imagen"
     }
   ]
