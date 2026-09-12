@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Descalabro educativo",
+      "titulo": "Una joya medieval contra el Brexit",
+      "link": "https://elpais.com/opinion/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KOX7KFFJ5NDURNMDT2REPUJW6M.jpg?auth=ea369d0498c0da17354f2dddbbd87d22f4043e8524aa3f93e4442a3a8f8a0a14&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Despropósito jurídico",
       "link": "https://elpais.com/opinion/editoriales/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/VEWOP3RNIVAXRCMIQRXMUTKMFM.jpg?auth=10ebdf0d3d35309124648a58937056b2dfb26814020553450d38a41fc8abafc0&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/E74P7THHJFELVPBHLXOB3RTYCI.jpg?auth=2e5cee4e05a3f5c55ce78ccb41d967a6f9f59a0090dae7f571ae25b00923dc4a&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {

@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Ingebrigtsen y Duplantis reinan supremos en el campeonato Ultimate de atletismo",
+      "link": "https://elpais.com/noticias/atletismo/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/Q6ZS7EK7SNKQPDEKPGLS5SVR24.jpg?auth=39d8417693bdf2f296b58bab8ce5d1f4a7bbbfd8ca410817c3c580f52406f57f&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cuando el deporte te quita la regla",
       "link": "https://elpais.com/deportes/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/4P66NOWWW5GTZMAQ47MIFEHAFI.png?auth=61c0dd2499eedfac556dde881c66553c5c4d3c9decb23135e42e864feb6fbcb3&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4P66NOWWW5GTZMAQ47MIFEHAFI.png?auth=61c0dd2499eedfac556dde881c66553c5c4d3c9decb23135e42e864feb6fbcb3&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Correr, nadar o pedalear, ¿suponen el mismo esfuerzo y logran los mismos efectos?",
       "link": "https://elpais.com/noticias/bienestar/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/SMWBZSADG5EOXOMENQFRENPLAM.JPG?auth=37a7c1c23af48655379202f8ac2ba8d04c1182a460d9a42de9ee5154aa8ab9d5&width=414&height=311&focal=2305%2C2008",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mondo Duplantis canta ‘Gold’, la banda sonora del campeonato de atletismo Ultimate",
-      "link": "https://elpais.com/noticias/atletismo/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/SEDTLG5XJNC4PBEP3ZCYFUAVKM.jpg?auth=b0be52bad567dc3da617e0d2c8d08e0fdcb031b21b653f922718ba3cc72f0d96&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]
