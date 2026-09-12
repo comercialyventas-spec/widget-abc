@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "‘Life’, la revista que convirtió la vida en imágenes",
+      "link": "https://www.lavanguardia.com/vida/20260912/11630752/life-revista-convirtio-vida-imagenes.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/09/6aa113c65f316.r_d.321-183-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Anthropic radiografía los riesgos de su IA y cree que aún puede vigilarla",
       "link": "https://www.lavanguardia.com/vida/20260912/11632923/anthropic-radiografia-riesgos-ia-cree-aun-vigilarla.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/11/6aa45968a1c4c.r_d.1733-1266-1282.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "La marea verde educativa insiste en las protestas por la educación pública valenciana",
       "link": "https://www.lavanguardia.com/local/valencia/20260912/11632725/marea-verde-educativa-insiste-protestas-educacion-publica-valenciana.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/11/6aa3ead2c52d8.r_d.3149-2061-748.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Roman, el nuevo ojo de la NASA para trazar el gran mapa del universo",
-      "link": "https://www.lavanguardia.com/vida/20260912/11630088/roman-nuevo-ojo-nasa-trazar-gran-mapa-universo.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
       "tipo": "imagen"
     }
   ]

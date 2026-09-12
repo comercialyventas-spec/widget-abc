@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Guerra de Irán, en directo",
+      "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260912/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9dee4255-971f-43a4-a49d-40c2e7e13623_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Guerra Ucrania - Rusia, última hora en directo",
+      "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260912/guerra-ucrania---rusia-ultima-126605559",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a315bd8f-ea71-4514-9eaf-d053fe7a66e3_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La AfD demanda a Merz por acusar al partido ultra de promover la \"limpieza étnica\" con su plan de deportaciones masivas",
       "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260911/afd-demanda-merz-acusar-partido-limpieza-etnica-plan-deportaciones-masivas-134199330",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/e4d5bc7b-3f85-43f2-a014-c1ef38094b56_media-libre-aspect-ratio_default_0.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Así aborda la prensa de Marruecos la crisis de Ceuta: desde críticas a la política \"desconcertante\" de España a avisos sobre la visita de Felipe VI",
       "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260911/prensa-marruecos-crisis-ceuta-politica-espana-visita-rey-felipe-vi-134191519",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f7ce38be-191e-4856-b11a-6e5d4c2469ce_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Muere la princesa Astrid de Noruega con 94 años, dos días después del funeral de su hermano Harald",
-      "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260911/muere-princesa-astrid-noruega-94-134191418",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d72c9513-a8f6-4c1b-87ce-8e898f55bc8a_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Guerra Ucrania - Rusia, última hora en directo",
-      "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260911/guerra-ucrania---rusia-ultima-126605559",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a315bd8f-ea71-4514-9eaf-d053fe7a66e3_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
