@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Última sesión de entrenamientos antes de la decisiva clasificación",
+      "titulo": "Bandera roja: Hamilton se estampa contra el muro",
       "link": "https://www.abc.es/deportes/formula-1/madrid-hoy-entrenamientos-libres-madring-resultados-alonso-20260912120113-di.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/12/libres3-alonso-RZgWx8GQKPQQruCjblJbpaO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Omar Montes, sobre los impuestos y tributar en España: «Va para los hospitales y al final haces un bien»",
+      "link": "https://www.abc.es/gente/preguntan-omar-montes-opina-pagar-impuestos-espana-20260912121913-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2025/04/10/omnon-kkKH-U301638211945nJ-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -25,15 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "El hijo de Vargas Llosa será el nuevo embajador de Perú en Estados Unidos",
-      "link": "https://www.abc.es/internacional/hijo-vargas-llosa-nuevo-embajador-peru-estados-20260912115152-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/12/vargas-llosa-kRlH-U301687377435kE-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Aitana, la princesa, regresa a Madrid",
-      "link": "https://www.abc.es/cultura/musica/aitana-princesa-regresa-madrid-20260912023844-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/12/1517167583-R3CdxgCyBskqokIVLopMtSJ-1200x840@diario_abc.jpg",
+      "titulo": "Juan del Val, sobre sus estudios: «No aprobé segundo de BUP. Mi único título es la EGB. Con 17 años me puse a trabajar»",
+      "link": "https://www.abc.es/gente/juan-val-sobre-estudios-aprobe-segundo-bup-20260907120000-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/07/juan-del-val-k7AC-U301538716768LQ-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

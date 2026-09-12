@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Helado de leche merengada, la receta sin heladera",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-09-12/helado-de-leche-merengada-la-receta-sin-heladera.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/QIG3FD74EZBMLHURQN2ETUZ7YM.jpg?auth=00d6de2274225daa68ed54f95b82d66823d2b213c0a304732d5a1a7540467cfe",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Figazza y fugazzeta, la receta de las primas rioplatenses de la pizza",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-09-11/figazza-y-fugazzeta-la-receta-de-las-primas-rioplatenses-de-la-pizza.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/RZIJG47JPFFQHEUIYLJY6UU2IQ.jpg?auth=436530bbcd79cff83b7cb4167802e2ed91a1430ce85b7b493504c92cf0b108f8",
@@ -34,6 +28,12 @@
       "titulo": "Carpaccio de higos, una receta de aperitivo que se prepara en un pispás",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-09-09/carpaccio-de-higos-una-receta-de-aperitivo-que-se-prepara-en-un-pispas.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/GYK2CPZGZRHJXJAQDTS45A7G6M.jpg?auth=08b2fc822d81161bfe6896a213e9bfa8d3cf6da9ce95565de138d53f55eb5ebf",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Aciertos y horrores de la comida preparada de Mercadona",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-09-08/aciertos-y-horrores-de-la-comida-preparada-de-mercadona.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20260721/1197579_160340_video_1800.mp4",
       "tipo": "imagen"
     }
   ]
