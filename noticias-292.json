@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Las cosas del campo",
+      "link": "https://www.abc.es/cultura/cultural/campo-20260911093306-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/11/interior1-trapiello-adria_ramirez-RI4Afg9BWVhZeW9MSWCykvL-1200x1775@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Arab Strap: una lección de cómo madurar sin chapotear en la nostalgia",
       "link": "https://www.abc.es/cultura/musica/arab-strap-leccion-madurar-chapotear-nostalgia-20260911011202-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/11/Arab-strap-RV5Ful6FfYchjTpAIXB7IQP-1200x840@diario_abc.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Diego del Alcázar: «El mito de la caverna es un teléfono móvil, donde vemos 'reels' en lugar de sombras»",
       "link": "https://www.abc.es/cultura/libros/diego-alcazar-mito-caverna-telefono-movil-vemos-20260911011246-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/11/1517144705-RWd8R6PuDYnl80cKoDAVFHI-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "José María Lassalle: «Para mucha gente de la derecha la cultura es algo incómodo»",
-      "link": "https://www.abc.es/cultura/jose-maria-lassalle-wokismo-acabado-desembocando-absurdo-20260912011239-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/12/lassalle-serranoarce-RBhuPKfzzyzFPGn5bkPaH3O-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
