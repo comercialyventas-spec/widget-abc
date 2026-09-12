@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Aitana, la princesa, regresa a Madrid",
+      "link": "https://www.abc.es/cultura/musica/aitana-princesa-regresa-madrid-20260912023844-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/12/1517167583-R3CdxgCyBskqokIVLopMtSJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El «milagro» sinfónico de Billy Corgan, con más sombras que luces",
       "link": "https://www.abc.es/cultura/musica/milagro-sinfonico-billy-corgan-terrenal-celestial-20260911231427-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/11/1517169851-keHH-U301683820649oJE-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La Oreja de Van Gogh lo confirma: habrá nuevo disco con Amaia Montero",
       "link": "https://www.abc.es/cultura/musica/oreja-van-gogh-confirma-nuevo-disco-amaia-20260910141444-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/10/1-oreja---26-RlxDHTXyIe48Nocd7ZDmLIP-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Amaia, Guitarricadelafuente, Yerai Cortés o Nathy Peluso actuarán en la ciudad de Shakira",
-      "link": "https://www.abc.es/cultura/musica/amaia-guitarricadelafuente-yerai-cortes-nathy-peluso-actuaran-20260908180343-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/08/1-shakira-26-R41FFxk7iXmZTC2qq99RRfO-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
