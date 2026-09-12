@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Barcelona: cielo variable con nubes y chubascos aislados, según AEMET",
+      "link": "https://okdiario.com/cataluna/barcelona-cielo-variable-con-nubes-y-chubascos-aislados-segun-aemet-20275710",
+      "imagen": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Detenidas ocho personas tras el caos en la Diada de Barcelona con disturbios y ataques a los Mossos",
+      "link": "https://okdiario.com/cataluna/ocho-detenidos-caos-diada-barcelona-disturbios-ataques-mossos-20275414",
+      "imagen": "https://okdiario.com/img/2026/09/11/europapress_7766755_momento_quema_contenedores.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Generalitat paga 18.500 euros de media por inmigrante ilegal en cursos de formación remunerada para su «inserción»",
       "link": "https://okdiario.com/cataluna/generalitat-paga-18-500-euros-media-inmigrante-ilegal-cursos-formacion-remunerada-insercion-20267118",
       "imagen": "https://okdiario.com/img/2026/09/10/generalitat-paga-cursos-inmigrantes-interior.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Brutal agresión de un independentista a un concejal de Vox en Barcelona por poner una carpa informativa",
       "link": "https://okdiario.com/cataluna/independentista-agrede-violentamente-concejal-vox-barcelona-poner-carpa-informativa-20265421",
       "imagen": "https://okdiario.com/img/2026/09/10/vox-ok.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "AEMET prevé sol y nubes en Barcelona, con viento suave y temperaturas en ascenso en el interior",
-      "link": "https://okdiario.com/cataluna/aemet-preve-sol-y-nubes-en-barcelona-con-viento-suave-y-temperaturas-en-ascenso-en-el-interior-20261338",
-      "imagen": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "AEMET: cielo nublado y chubascos en Barcelona, descienden temperaturas y sopla viento moderado",
-      "link": "https://okdiario.com/cataluna/aemet-cielo-nublado-y-chubascos-en-barcelona-descienden-temperaturas-y-sopla-viento-moderado-20253558",
-      "imagen": "https://okdiario.com/img/2026/01/12/lluvias-barcelona-interior.jpg",
       "tipo": "imagen"
     }
   ]
