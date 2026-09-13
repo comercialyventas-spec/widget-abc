@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Inteligencia artificial y samuráis en PISA",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/fernando-llopis-inteligencia-artificial-samurais-pisa-20260913053000-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/13/alumnos-instituto-RJkIy4hcJOee6v4xugEykSN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Qué significa el proverbio árabe: «Un puñado de abejas vale más que un saco de moscas»",
       "link": "https://www.abc.es/recreo/significa-proverbio-arabe-punado-abejas-vale-saco-20260909050000-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2026/09/09/abeja-kysH-U301636632173fIB-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La hora del nuncio: diez nuevos obispos para moldear la Iglesia española",
       "link": "https://www.abc.es/sociedad/hora-nuncio-diez-nombramientos-reconfiguraran-episcopado-espanol-20260913012733-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/13/0d93f5a9-8ca3-4945-97e1-bd9664ae0426-_JG_2031-RyRjwjjbN8jxZmqYWMgmxbP-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Facundo Díaz Acosta y Dusan Lajovic protagonizarán la final de la 63ª Copa Sevilla",
-      "link": "https://www.abc.es/deportes/sevilla/facundo-diaz-acosta-dusan-lajovic-protagonizaran-final-20260912235645-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/12/facundo-diaz-copa-sevilla-semifinal-RLfVXGH2y27RlvNuaKEj8IN-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
