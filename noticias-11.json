@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El vídeo de Abascal diciendo que “Marruecos no es el enemigo” no es actual",
+      "link": "https://www.newtral.es/abascal-marruecos-enemigo/20260914/",
+      "imagen": "https://www.newtral.es/wp-content/uploads/2026/09/Cartela-NPP-17-1024x576.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "En qué consiste la ‘estafa de los seis dígitos’ que circula por WhatsApp",
       "link": "https://www.newtral.es/estafa-codigo-whatsapp/20260914/",
       "imagen": "https://www.newtral.es/wp-content/uploads/2026/09/2343134395-FF-CONVERSACION-WHATSAPP-SHUTTERSTOCK-1-1024x577.jpg",
@@ -29,12 +35,6 @@
       "link": "https://www.newtral.es/elecciones-desinformacion-suecia/20260912/",
       "imagen": "",
       "tipo": ""
-    },
-    {
-      "titulo": "Qué sabemos sobre los supuestos “divorcios fake” para cobrar más cuantía en el IMV",
-      "link": "https://www.newtral.es/divorcio-imv-ingreso-minimo-vital/20260912/",
-      "imagen": "https://www.newtral.es/wp-content/uploads/2026/09/IMV-divorcio-fake-1024x512.jpg",
-      "tipo": "imagen"
     }
   ]
 }
