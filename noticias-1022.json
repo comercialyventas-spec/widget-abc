@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "El ministro de Cultura de Israel amenaza con retirar la nacionalidad a los directores del documental 'Naza'",
-      "link": "https://www.abc.es/cultura/cine/ministro-cultura-israel-amenaza-retirar-nacionalidad-directores-20260913222355-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/13/1517223115-kNCC-U3017033825108lB-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "El PP de Ayuso y Vox remarcan sus diferencias sobre inmigración y seguridad",
       "link": "https://www.abc.es/espana/madrid/pp-ayuso-vox-remarcan-diferencias-sobre-inmigracion-20260913012234-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/13/ayuso-pp-RGPQwfgpvOepeYl3HjCpUNL-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/13/ayuso-pp-RGPQwfgpvOepeYl3HjCpUNL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "El precio de la autonomía",
       "link": "https://www.abc.es/internacional/precio-autonomia-20260914023210-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/14/MINIATURAS.00_00_55_21.Imagen%20fija004-RZ20Sl84ZHgPrZdrBhQ2COP-1200x672@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/14/MINIATURAS.00_00_55_21.Imagen%20fija004-RZ20Sl84ZHgPrZdrBhQ2COP-1200x672@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Salvando a los perros de la guerra de Ucrania",
       "link": "https://www.abc.es/internacional/drones-complican-labores-rescate-miles-animales-abandonados-20260911021020-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/11/ucrania-RGR8qt0D90uyCKHbhiMFO5I-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/11/ucrania-RGR8qt0D90uyCKHbhiMFO5I-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "«Los autónomos estamos hechos de otra pasta y estamos preparados para casi todo»",
       "link": "https://www.abc.es/espana/comunidad-valenciana/paula-nuevalos-agricultora-valenciana-anos-autonomos-pasta-20260914063000-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/nuev-kdRH-Rgh73njoGORiuir9ERboiOK-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/nuev-kdRH-Rgh73njoGORiuir9ERboiOK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Mercadona confirma el origen de los huevos que vende",
       "link": "https://www.abc.es/espana/comunidad-valenciana/mercadona-confirma-origen-huevos-vende-supermercados-20260914050000-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/huevos-mercadona-R5ob12T0bIsgc4AKjov2DOK-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/huevos-mercadona-R5ob12T0bIsgc4AKjov2DOK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los estilismos de los famosos para el GP de España",
+      "link": "https://www.abc.es/estilo/moda/ana-mena-alexandra-leclerc-jude-bellingham-vestido-20260913140144-ga.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/estilo/2026/09/13/famosos-looks-f1-RtN19DGpffRejCQCHSBMWiJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }
