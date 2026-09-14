@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "La pantalla mató la comprensión lectora: cómo el cerebro se está adaptando a un entorno digital",
+      "link": "https://elpais.com/educacion/2026-09-14/la-pantalla-mato-la-comprension-lectora-como-el-cerebro-se-esta-adaptando-a-un-entorno-digital.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SJ4KT3MNEZCZNMSFRFILQUVDWI.jpg?auth=3735c0c2be5b996ce1e395acb7840166a3d221f462776faa15707b6373ef3d7e",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cursos cortos y flexibles, claves de la empleabilidad",
+      "link": "https://elpais.com/extra/formacion/2026-09-13/cursos-cortos-y-flexibles-claves-de-la-empleabilidad.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/YTPFXFWFN5DXVOIGV3LXWFQBK4.jpg?auth=c7607dcd8ecb30d46210f1e782befbac3a2849ff7c50b69f081b3927258bc06e",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Una escuela con más especialistas y otras claves para arreglar la debacle de España en el Informe PISA",
+      "link": "https://elpais.com/educacion/2026-09-13/una-escuela-con-mas-especialistas-y-otras-claves-para-arreglar-la-debacle-de-espana-en-el-informe-pisa.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260911/1213420_170554_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "FP y población inmigrante, una historia de amor correspondido",
       "link": "https://elpais.com/extra/formacion/2026-09-13/fp-y-poblacion-inmigrante-una-historia-de-amor-correspondido.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/2DS5336FOJCTBLKSFZF2MZQ3W4.jpg?auth=f305ed8e2fff5b98cf988af99ab92117832bb4d2c74134e6e1fbbced770da484",
@@ -16,24 +34,6 @@
       "titulo": "Claves para sobrevivir al primer año universitario",
       "link": "https://elpais.com/extra/formacion/2026-09-13/claves-para-sobrevivir-al-primer-ano-universitario.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/HXWSONRPGJCPPP7BDGZBY6VMB4.jpg?auth=d62b357035875aabd7afb5dec127d1f209bbdcb4eb82c6e445fb91ce5194fc93",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Escuelas que cuidan el cuerpo y las emociones",
-      "link": "https://elpais.com/extra/formacion/2026-09-13/escuelas-que-cuidan-el-cuerpo-y-las-emociones.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/NE64S3MB6VGNPJK3Y5IGMJQBMI.jpg?auth=55a85de1f67cb769e8d291e6c4ebce41c7e340a3cb4749204558ed76a8ff0cf8",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Inclusión real, asignatura pendiente",
-      "link": "https://elpais.com/extra/formacion/2026-09-13/inclusion-real-asignatura-pendiente.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/XQ4OL54PCRFT7DFEW6XBPQWK4A.jpg?auth=4bc8bbfa2a74661b54e860539a5df03652cfbe6b1b910798294c99226885ed69",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Regar, cantar, jugar: lo que se aprende fuera del aula",
-      "link": "https://elpais.com/extra/formacion/2026-09-13/regar-cantar-jugar-lo-que-se-aprende-fuera-del-aula.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/WTGREXQR7NDBFESSKCAZSUF7Q4.jpg?auth=a20a61d1c19d19fa2ff8ca267466db727d8d9a1b2b139252f9a8eae09a5a20c3",
       "tipo": "imagen"
     }
   ]

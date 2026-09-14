@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El CEO de OpenAI se une a la alarma sobre una extinción por la inteligencia artificial y retrasa su salida a bolsa",
+      "link": "https://www.abc.es/tecnologia/openai-anuncia-saldra-bolsa-ano-riesgos-seguridad-20260913131121-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/13/newspaint-1789295014258-1200x840-Re1bSnGZoL1BGmQE6WHxNlM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El mundo, listo para matar al 'smartphone': «En diez años nadie lo usará»",
       "link": "https://www.abc.es/tecnologia/mundo-listo-matar-smartphone-diez-anos-usara-20260913012638-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/13/smartphone-1920x1080_web-ReLQrHnLloPuXoi9WNkkcWJ-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Anthropic afirma que ha parado posibles intentos de fabricar armas biológicas con ayuda de la IA",
       "link": "https://www.abc.es/tecnologia/anthropic-afirma-parado-posibles-intentos-fabricar-armas-20260910211206-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/10/1511535019-kmxH-U301666052703MVE-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Apple aumenta los precios de los iPhone de generaciones anteriores: así quedan todos los modelos y capacidades",
-      "link": "https://www.abc.es/tecnologia/moviles/apple-aumenta-precios-iphone-generaciones-anteriores-quedan-20260910193735-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/10/1517055534-RkdtZEAfhEHDP43paE4ER0K-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
