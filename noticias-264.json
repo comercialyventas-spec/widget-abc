@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La teoría del efecto desaliento",
+      "link": "https://www.abc.es/espana/cataluna/teoria-efecto-desaliento-20260914110600-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/DAMBin-RJmCTSgWzFZJmqFeT8qQ3KL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Rufián desiste de su lista unitaria de izquierdas y ahora aspira a ser candidato de ERC a la Generalitat",
       "link": "https://www.abc.es/espana/cataluna/rufian-desiste-lista-unitaria-izquierdas-aspira-candidato-20260919020205-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/19/1517026203-Rk22kmoKJ1VkL6DUQ05AS5K-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Trópico desembarca en la Barceloneta con un viaje gastronómico por Iberoamérica",
       "link": "https://www.abc.es/espana/cataluna/tropico-desembarca-barceloneta-viaje-gastronomico-iberoamerica-20260913165255-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/13/FOTOTROPICO-R9oZYPvJYV3GMBlwNSkFegM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Illa lleva la Diada a Extremadura con la historia de 'El 47' para subrayar los vínculos entre las dos comunidades",
-      "link": "https://www.abc.es/espana/cataluna/illa-lleva-diada-extremadura-historia-subrayar-vinculos-20260913102633-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/13/20260911_MM_Ofrenda%20Floral%20(14%20de%2026)-R0Ph7cpokl3nFeR4QJvzBMP-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
