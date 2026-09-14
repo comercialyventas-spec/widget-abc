@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Este vídeo no muestra a un inmigrante lanzando un perro al mar en Ceuta",
+      "link": "https://www.newtral.es/perro-ceuta-inmigrante/20260914/",
+      "imagen": "https://www.newtral.es/wp-content/uploads/2026/09/Diseno-sin-titulo-8-1024x576.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El vídeo de Abascal diciendo que “Marruecos no es el enemigo” no es actual",
       "link": "https://www.newtral.es/abascal-marruecos-enemigo/20260914/",
       "imagen": "https://www.newtral.es/wp-content/uploads/2026/09/Cartela-NPP-17-1024x576.jpg",
@@ -29,12 +35,6 @@
       "link": "https://www.newtral.es/estafa-foto-una-visualizacion-whatsapp/20260913/",
       "imagen": "https://www.newtral.es/wp-content/uploads/2026/09/Diseno-sin-titulo-6-1024x576.jpg",
       "tipo": "imagen"
-    },
-    {
-      "titulo": "Suecia afronta sus elecciones con la mirada puesta en la desinformación y posibles intentos de injerencia",
-      "link": "https://www.newtral.es/elecciones-desinformacion-suecia/20260912/",
-      "imagen": "",
-      "tipo": ""
     }
   ]
 }

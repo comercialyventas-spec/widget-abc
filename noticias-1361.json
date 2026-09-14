@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Vídeos de ajedrez | Orquesta de música celestial",
+      "link": "https://elpais.com/ajedrez/videos/2026-09-14/videos-de-ajedrez-orquesta-de-musica-celestial.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260713/1194468_090541_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en EL PAÍS | Programa del 14 de septiembre de 2026",
       "link": "https://elpais.com/videos/2026-09-14/el-pulso-de-hoy-por-hoy-en-directo-en-el-pais.html",
       "imagen": "https://www.youtube.com/watch?v=VZZWhiEergY",
@@ -28,12 +34,6 @@
       "titulo": "La entrevista a Zohran Mamdani resumida en un vídeo de cinco minutos",
       "link": "https://elpais.com/videos/2026-09-13/la-entrevista-a-zohran-mamdani-resumida-en-un-video-de-cinco-minutos.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260912/1213685_185642_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los vecinos de Valdebebas contra el circuito de Fórmula 1 de Madrid: “No tenemos centro de salud ni instituto y tenemos esto”",
-      "link": "https://elpais.com/videos/2026-09-12/los-vecinos-de-valdebebas-contra-el-circuito-de-formula-1-de-madrid-no-tenemos-centro-de-salud-ni-instituto-y-tenemos-esto.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260911/1213402_163416_video_1800.mp4",
       "tipo": "imagen"
     }
   ]

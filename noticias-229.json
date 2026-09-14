@@ -1,27 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Anthropic, OpenAI y Google estudian crear un organismo de seguridad para regular la IA",
+      "titulo": "Sydney Sweeney escandaliza al deporte femenino con su último desnudo",
+      "link": "https://www.abc.es/gente/ultimo-anuncio-sydney-sweeney-aparece-desnuda-desata-20260914145844-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/14/ss-kOxE-U301712789577xTF-1200x840@diario_abc.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los gigantes de la IA quieren ahora regularla",
       "link": "https://www.abc.es/tecnologia/anthropic-openai-google-estudian-crear-organismo-seguridad-20260914172627-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/14/1517307356-kzEC-U3017150588831PB-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La juez de la Audiencia Nacional pide asumir también la causa contra el delegado del Gobierno en Ceuta",
-      "link": "https://www.abc.es/espana/audiencia-nacional-pide-expediente-delegado-gobierno-ceuta-20260914131057-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/DELEGADO-GOBIERNO-kcGE-U301710684030QDF-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Princesa por sorpresa en la corte de Madrid: el sueño cumplido de Ely, la niña de 6 años con un tumor cerebral",
-      "link": "https://www.abc.es/espana/madrid/princesa-sorpresa-corte-madrid-sueno-cumplido-ely-20260914172602-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/deseo-R3d60jK3KFzKtUu4IFPNTUP-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Seguridad Social paga pensiones de viudedad a personas que multiplican por cien el sueldo medio",
-      "link": "https://www.abc.es/economia/seguridad-social-paga-pensiones-viudedad-personas-multiplican-20260914103935-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/14/1507447365-RrGdjQQgMow9ZmO90HJ2IaM-1200x840@diario_abc.JPG",
       "tipo": "imagen"
     },
     {
@@ -31,9 +19,21 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Oasis anuncia nueva gira con parada doble en Barcelona",
-      "link": "https://www.abc.es/cultura/musica/oasis-anuncia-nueva-gira-parada-doble-barcelona-20260914171945-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/14/1-oasis27-R8IhgWzsyQA3WfsYnR4S43K-1200x840@diario_abc.jpg",
+      "titulo": "Braulio, el último bombero de Lim para echar agua a la crisis del Valencia",
+      "link": "https://www.abc.es/deportes/futbol/braulio-ultimo-bombero-lim-echar-agua-crisis-20260914174020-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/14/brauliook-Ra3YvVm6clZZ2CbDw2n9C8O-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El CIS de Tezanos veta la valoración ciudadana sobre la gestión de Sánchez en la crisis de Ceuta",
+      "link": "https://www.abc.es/espana/cis-tezanos-veta-valoracion-ciudadana-sobre-gestion-20260914141025-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/1467513354-R6ge8Ghb9j5lQ5ZGYKOdeeO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La juez de la Audiencia Nacional pide asumir también la causa contra el delegado del Gobierno",
+      "link": "https://www.abc.es/espana/audiencia-nacional-pide-expediente-delegado-gobierno-ceuta-20260914131057-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/DELEGADO-GOBIERNO-kcGE-U301710684030QDF-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
