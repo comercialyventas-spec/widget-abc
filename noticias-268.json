@@ -1,7 +1,13 @@
 {
   "noticias": [
     {
-      "titulo": "Detenida una mujer en Pizarra por el homicidio de un hombre",
+      "titulo": "Tres universitarios de Granada renuncian a estudiar en México tras el asesinato de una compañera",
+      "link": "https://www.abc.es/espana/andalucia/granada/tres-universitarios-granada-renuncian-estudiar-mexico-tras-20260914215515-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/portada_20260914215027-RZjbxHnfqcRWjfdJytW93hM-1200x840@diario_abc.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Matan a un hombre en una aldea de Málaga de un disparo en el pecho",
       "link": "https://www.abc.es/espana/andalucia/malaga/detenida-mujer-pizarra-homicidio-hombre-20260914211447-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/guardia-civil-foto-RGH664ZhD2TvB6U3SezJ71N-1200x840@diario_abc.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "El presidente del TSJA critica a los políticos que «ven en cada sentencia una conspiración»",
       "link": "https://www.abc.es/espana/andalucia/granada/presidente-tsja-critica-politicos-ven-sentencia-conspiracion-20260914204602-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/portada%202-RnCSEVq7WZO0zFkcDjQqNUI-1200x840@diario_abc.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Estabilizado el incendio de Benahavís que ha provocado tres heridos",
-      "link": "https://www.abc.es/espana/andalucia/malaga/estabilizado-incendio-benahavis-provocado-tres-heridos-20260914202453-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/fuego-casa-benahavis-R9YN4CGfi7yK9D1e3pCahFJ-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
