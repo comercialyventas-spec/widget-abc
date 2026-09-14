@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
+      "titulo": "Claudia, la joven canaria asesinada en México, estudiaba Educación Infantil en Granada",
+      "link": "https://www.abc.es/espana/andalucia/granada/claudia-joven-asesinada-mexico-era-canarias-estudiaba-20260914122949-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/portada-R3X6xQDLSpdwbJsrMJdE0HN-1200x840@diario_abc.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La juez de la Audiencia Nacional pide asumir también la causa contra el delegado del Gobierno en Ceuta",
+      "link": "https://www.abc.es/espana/audiencia-nacional-pide-expediente-delegado-gobierno-ceuta-20260914131057-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/DELEGADO-GOBIERNO-kcGE-U301710684030QDF-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Fiscalía Togada se adhiere al recurso del general que se plantó ante el boicot a Ayuso",
+      "link": "https://www.abc.es/espana/general-mora-ayuso-20260914020235-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/11/mora-moret-1200x840jpg.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La UCO graba al milímetro la reconstrucción del crimen de Francisca Cadenas con el silencio del autor confeso",
+      "link": "https://www.abc.es/espana/extremadura/uco-graba-milimetro-reconstruccion-crimen-francisca-cadenas-20260914164616-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/EuropaPress_7774132_vecinos_hornachos_increpan_furgon_viajan_dos_detenidos_asesinato_francisca-RtEXqrDTPYPl6rxgiZv6czI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Hallan muerta a golpes a una anciana de 88 años y a su marido ahorcado en su casa",
       "link": "https://www.abc.es/espana/madrid/hallan-muerta-golpes-anciana-anos-marido-ahorcado-20260914105720-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/1451028952%20(1)-RMkenRE0XMabk3GdcU8ubVK-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/1451028952%20(1)-RMkenRE0XMabk3GdcU8ubVK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "El artífice del éxito inglés en PISA revela los trucos de su reforma educativa",
       "link": "https://www.abc.es/sociedad/nick-gibb-podemos-crear-culpa-ia-generacion-20260913014149-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/13/Nick%20Gibb-RX3myTMIKM1uPzjZBBwaNaO-1200x840@diario_abc.jpeg"
-    },
-    {
-      "titulo": "Sydney Sweeney escandaliza al deporte femenino con su último desnudo",
-      "link": "https://www.abc.es/gente/ultimo-anuncio-sydney-sweeney-aparece-desnuda-desata-20260914145844-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/14/ss-kOxE-U301712789577xTF-1200x840@diario_abc.png"
-    },
-    {
-      "titulo": "China pide una «barrera de seguridad» ante el avance de la IA",
-      "link": "https://www.abc.es/tecnologia/china-pide-barrera-seguridad-contener-ia-20260914121431-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/14/1491743958-RwJTx6DFMKQyQp9YgPdcl2K-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "El CIS de Tezanos veta la valoración ciudadana sobre la gestión de Sánchez en la crisis de Ceuta",
-      "link": "https://www.abc.es/espana/cis-tezanos-veta-valoracion-ciudadana-sobre-gestion-20260914141025-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/1467513354-R6ge8Ghb9j5lQ5ZGYKOdeeO-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Pánico y cuatro heridos al explotar los fuegos artificiales de Fuenlabrada",
-      "link": "https://www.abc.es/espana/madrid/panico-cuatro-heridos-explotar-fuegos-artificales-fuenlabrada-20260914124333-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/fuegos-artificiales-fuenlabrada-RwoYRzbJbMYJEw3qzOBGEGL-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/13/Nick%20Gibb-RX3myTMIKM1uPzjZBBwaNaO-1200x840@diario_abc.jpeg",
+      "tipo": "imagen"
     }
   ]
 }
