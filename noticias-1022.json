@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Pánico y cuatro heridos al explotar los fuegos artificiales de Fuenlabrada",
-      "link": "https://www.abc.es/espana/madrid/panico-cuatro-heridos-explotar-fuegos-artificales-fuenlabrada-20260914124333-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/fuegos-artificiales-fuenlabrada-RwoYRzbJbMYJEw3qzOBGEGL-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "El CIS de Tezanos veta la valoración ciudadana sobre la gestión de Sánchez en la crisis de Ceuta",
       "link": "https://www.abc.es/espana/cis-tezanos-veta-valoracion-ciudadana-sobre-gestion-20260914141025-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/1467513354-R6ge8Ghb9j5lQ5ZGYKOdeeO-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/1467513354-R6ge8Ghb9j5lQ5ZGYKOdeeO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "El Papa elimina la bajada de sueldo a cardenales decretada por Francisco",
       "link": "https://www.abc.es/sociedad/papa-elimina-bajada-sueldo-cardenales-decretada-francisco-20260914155406-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/14/1496261628-RCEP9Myt0RDa7w1dw6UgNzK-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/14/1496261628-RCEP9Myt0RDa7w1dw6UgNzK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Muere Luis Álvarez, un taurino clásico con visión de futuro",
       "link": "https://www.abc.es/cultura/toros/luis-alvarez-taurino-clasico-vision-futuro-20260914155621-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/14/articulos-60137-RxUpAhM8WyhLtDP72ZLfOTP-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/14/articulos-60137-RxUpAhM8WyhLtDP72ZLfOTP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "La Junta Electoral acata la orden del Supremo y pide verificar qué nacionalizados descienden de exiliados",
       "link": "https://www.abc.es/espana/junta-electoral-estudia-dar-cumplimiento-orden-supremo-20260914153659-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/1517087487-Rs0deW1dlpzHraEEWFG8iLM-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/1517087487-Rs0deW1dlpzHraEEWFG8iLM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Pánico y cuatro heridos al explotar los fuegos artificiales de Fuenlabrada",
+      "link": "https://www.abc.es/espana/madrid/panico-cuatro-heridos-explotar-fuegos-artificales-fuenlabrada-20260914124333-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/fuegos-artificiales-fuenlabrada-RwoYRzbJbMYJEw3qzOBGEGL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Susana Díaz: «Es evidente que el Gobierno llegó llegó tarde y que hubo avisos como dijo Robles»",
       "link": "https://www.abc.es/play/television/noticias/susana-diaz-clara-sobre-gestion-gobierno-pedro-20260914160325-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/14/susana-diaz-pedro-sanchez-RNtDMGxWPw2SaFWmPGpeYqJ-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/14/susana-diaz-pedro-sanchez-RNtDMGxWPw2SaFWmPGpeYqJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }
