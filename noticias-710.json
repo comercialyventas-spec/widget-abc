@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Quién gana cuando los dueños de la IA piden que los regulen",
+      "link": "https://www.eldiario.es/tecnologia/gana-duenos-ia-piden-regulen_129_13507386.html",
+      "imagen": "https://static.eldiario.es/clip/ef6b97e5-fc38-4975-907d-db4b6bd9d232_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "China pide una “barrera de seguridad” para la IA ante los intentos de Trump de frenar una regulación global",
       "link": "https://www.eldiario.es/tecnologia/pekin-denuncia-eeuu-busca-frenar-ia-impedir-china-pueda-mejorar-capacidades_1_13507168.html",
       "imagen": "https://static.eldiario.es/clip/df116598-ee2b-4fbd-9cf7-956102e82fb0_facebook-aspect-ratio-1200-675_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "¿Puede la IA perder el control y amenazar a la humanidad? Esto es lo que dicen algunos de los mayores expertos del mundo",
       "link": "https://www.eldiario.es/tecnologia/ia-perder-control-amenazar-humanidad-dicen-mayores-expertos-mundo_1_13499280.html",
       "imagen": "https://static.eldiario.es/clip/8abaec39-d1fe-4d40-8ec3-744d71c7c929_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Anthropic asegura que ha detenido varios intentos de crear armas biológicas con su IA",
-      "link": "https://www.eldiario.es/tecnologia/anthropic-asegura-detenido-intentos-crear-armas-biologicas-ia_1_13501879.html",
-      "imagen": "https://static.eldiario.es/clip/f59d468b-4bee-4c42-9f90-9d1dca7da76e_facebook-aspect-ratio-1200-675_default_0.jpg",
       "tipo": "imagen"
     }
   ]
