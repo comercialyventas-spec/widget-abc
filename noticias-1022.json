@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Trump elimina los límites a las emisiones de las plantas energéticas de carbón y gas",
-      "link": "https://www.abc.es/sociedad/trump-elimina-limites-emisiones-plantas-energeticas-carbon-20260914210005-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/14/35980056-RoC2qszu8mvqFPs47W0qUpI-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "El jefe de Moncloa para Ceuta estuvo todo agosto de vacaciones en Japón durante el asalto",
       "link": "https://www.abc.es/espana/jefe-gabinete-sanchez-agosto-vacaciones-japon-asalto-20260915220201-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/15/015_1517308143-U201880456110PaC-RrUKwrlaXAJD8BMjp19xzVN-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/15/015_1517308143-U201880456110PaC-RrUKwrlaXAJD8BMjp19xzVN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Trump elimina los límites a las emisiones de las plantas energéticas de carbón y gas",
+      "link": "https://www.abc.es/sociedad/trump-elimina-limites-emisiones-plantas-energeticas-carbon-20260914210005-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/14/35980056-RoC2qszu8mvqFPs47W0qUpI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Madring, a examen: un evento sobresaliente con el gran pero de la carrera",
       "link": "https://www.abc.es/deportes/formula-1/madring-examen-evento-sobresaliente-gran-carrera-20260914170400-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/14/thumbnail-charlaf1-kkLD-U301711654517VeD-1200x672@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/14/thumbnail-charlaf1-kkLD-U301711654517VeD-1200x672@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "«Elige: Fórmula 1 o batucada»",
       "link": "https://www.abc.es/espana/elige-formula-batucada-20260914205924-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/MONTAJE%20HOR.00_03_23_08.Imagen%20fija007-R6feqjuldsAgRF469MNaSTO-1200x672@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/MONTAJE%20HOR.00_03_23_08.Imagen%20fija007-R6feqjuldsAgRF469MNaSTO-1200x672@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "La Junta Electoral obedece al Supremo y pide el «desglose» de los nacionalizados por la 'ley de nietos'",
       "link": "https://www.abc.es/espana/junta-electoral-estudia-dar-cumplimiento-orden-supremo-20260914153659-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/1517087487-Rs0deW1dlpzHraEEWFG8iLM-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/1517087487-Rs0deW1dlpzHraEEWFG8iLM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Claudia, la joven canaria asesinada en México, estudiaba Educación Infantil en Granada",
       "link": "https://www.abc.es/espana/andalucia/granada/claudia-joven-asesinada-mexico-era-canarias-estudiaba-20260914122949-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/portada-R3X6xQDLSpdwbJsrMJdE0HN-1200x840@diario_abc.jpeg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/portada-R3X6xQDLSpdwbJsrMJdE0HN-1200x840@diario_abc.jpeg",
+      "tipo": "imagen"
     }
   ]
 }
