@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Asesinada una estudiante española en México",
+      "link": "https://www.lavanguardia.com/sucesos/20260914/11634021/asesinada-estudiante-espanola-mexico.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2022/06/30/62bd369a7abce.r_d.1600-1426-1822.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Fin de semana con diversas peleas, detenidos y heridos por arma blanca en Barcelona",
       "link": "https://www.lavanguardia.com/local/barcelona/20260913/11633834/semana-diversas-peleas-detenidos-heridos-arma-blanca-barcelona.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2023/03/19/6416e359e7eb5.r_d.547-313-0.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Rescatados del mar en Cádiz tres hombres que hacían pesca submarina",
       "link": "https://www.lavanguardia.com/sucesos/20260913/11633317/rescatados-mar-cadiz-tres-hombres-hacian-pesca-submarina.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mueren dieciseis ancianos en un incendio en una residencia en Chile",
-      "link": "https://www.lavanguardia.com/sucesos/20260912/11633328/mueren-dieciseis-ancianos-incendio-residencia-chile.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/06/6a748e157527b.jpeg",
       "tipo": "imagen"
     }
   ]
