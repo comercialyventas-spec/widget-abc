@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Empleados de Mercadona",
+      "link": "https://www.elconfidencialdigital.com/album/mercadona/empleados-mercadona/202609141924251040693.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/09/2026090913071152112.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Gran apagón",
       "link": "https://www.elconfidencialdigital.com/album/defensa/gran-apagon/202609141826551040666.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2025/04/29/2025042902073796694.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Álbum Ducati GP San Marino",
       "link": "https://www.elconfidencialdigital.com/album/motor/album-ducati-gp-san-marino/202609121609561040477.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/12/2026091216074728996.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Álbum Ducati PIRELLI 44",
-      "link": "https://www.elconfidencialdigital.com/album/motor/album-pirelli-44/202609121602321040471.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/12/2026091215454928376.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Una novela es otra cosa",
+      "link": "https://www.abc.es/cultura/novela-20260914122515-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/14/Vista%20Chinesa%20-%20Salem%20Levy_Front-RD5DP32ZColOJRYvRSt9d4I-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Oasis anuncia nueva gira con parada doble en Barcelona",
       "link": "https://www.abc.es/cultura/musica/oasis-anuncia-nueva-gira-parada-doble-barcelona-20260914171945-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/14/1-oasis27-R8IhgWzsyQA3WfsYnR4S43K-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Elena Medel, en el interior del campus",
       "link": "https://www.abc.es/cultura/cultural/elena-medel-interior-campus-20260914161717-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/14/elena-RUDvqqF2b4NwA2xxKPH55XI-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Francesca Woodman más acá de su icono",
-      "link": "https://www.abc.es/cultura/cultural/francesca-woodman-aca-icono-20260914161653-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/14/Franscesca%20Madrid%20Selection_page-0016-RyJKGRWxTDJEqPjz9Vgp62M-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
