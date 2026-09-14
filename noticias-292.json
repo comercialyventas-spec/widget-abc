@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Una novela es otra cosa",
+      "link": "https://www.abc.es/cultura/novela-20260914122515-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/14/Vista%20Chinesa%20-%20Salem%20Levy_Front-RD5DP32ZColOJRYvRSt9d4I-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Tarde triunfal en Villacarrillo de Sebastián Castella, Adrián de Torres y Borja Jiménez, que salen a hombros tras cortar siete orejas",
       "link": "https://www.abc.es/cultura/toros/sevilla/tarde-triunfal-castella-torres-borja-salen-hombros-20260914101749-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/14/villacarrillo-RKtl4FrqX7NZjabTIiL3zON-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "En el refugio de la Guerra Civil de las tres vidas",
       "link": "https://www.abc.es/cultura/refugio-antiaereo-une-complutum-cervantes-guerra-civil-20260717013042-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/07/17/1514491229-RG5ICEMpjzMyDu1CHtPzaGJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El ministro de Cultura de Israel amenaza con retirar la nacionalidad a los directores del documental 'Naza', premiado en Venecia",
-      "link": "https://www.abc.es/cultura/cine/ministro-cultura-israel-amenaza-retirar-nacionalidad-directores-20260913222355-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/13/1517223115-kNCC-U3017033825108lB-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
