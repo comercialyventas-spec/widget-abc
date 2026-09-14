@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "La juez de la Audiencia Nacional pide asumir también la causa contra el delegado del Gobierno",
-      "link": "https://www.abc.es/espana/audiencia-nacional-pide-expediente-delegado-gobierno-ceuta-20260914131057-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/DELEGADO-GOBIERNO-kcGE-U301710684030QDF-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Los trabajadores de RNE convocan paros para «defender la independencia de RTVE»",
-      "link": "https://www.abc.es/play/television/noticias/trabajadores-rne-convocan-paros-defender-independencia-rtve-20260914170930-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/14/rne-R29NVAzIr5LV5oPd6s3yWkL-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "La Policía investiga al sobrino del exjefe de la Udef por ser socio de los capos de la droga de Dubái",
-      "link": "https://www.abc.es/espana/policia-investiga-sobrino-exjefe-udef-socio-capos-20260914181724-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/1492217300-RSlmtHzTQbyArYacgSTohDK-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Muere Bob Mackie, diseñador de famosas como Cher, Tina Turner o Madonna",
+      "titulo": "Muere Bob Mackie, diseñador de los vestidos más icónicos de Cher y Madonna",
       "link": "https://www.abc.es/estilo/moda/muere-bob-mackie-disenador-famosas-cher-tina-20260914181916-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/estilo/2026/09/14/bobmackie-RiTkuioMwQ4EugVAJHzVb0N-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/estilo/2026/09/14/bobmackie-RiTkuioMwQ4EugVAJHzVb0N-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Puig compra por 1.200 millones el 50% de Isdin que aún estaba en manos de Esteve",
+      "link": "https://www.abc.es/espana/cataluna/puig-compra-1200-millones-isdin-manos-esteve-20260914183036-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/puigmarc-R7r0BEGhBVVoZY6798xY1ZP-1200x840@diario_abc.PNG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un estadounidense intenta colar más de 8 kilos de embutido del Mercadona sin declarar en Seattle",
+      "link": "https://www.abc.es/internacional/pillan-estadounidense-intentando-colar-kilos-embutido-mercadona-20260914180546-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/14/newspaint-1789398941156-1200x840-R61Wccof9PVm0k46ut1xSaN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "La Junta Electoral obedece al Supremo y pide el «desglose» de todos los nacionalizados",
       "link": "https://www.abc.es/espana/junta-electoral-estudia-dar-cumplimiento-orden-supremo-20260914153659-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/1517087487-Rs0deW1dlpzHraEEWFG8iLM-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/1517087487-Rs0deW1dlpzHraEEWFG8iLM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "Lamine y su campaña por el Balón de Oro",
-      "link": "https://www.abc.es/deportes/futbol/lamine-campana-20260914170805-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/14/lamino-Rz4q8tEEMC489iQ7q32hwzO-1200x840@diario_abc.jpg"
+      "titulo": "La juez de la Audiencia Nacional pide asumir también la causa contra el delegado del Gobierno",
+      "link": "https://www.abc.es/espana/audiencia-nacional-pide-expediente-delegado-gobierno-ceuta-20260914131057-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/DELEGADO-GOBIERNO-kcGE-U301710684030QDF-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La OTAN retira la acreditación a un militar español que mantenía una relación con una acusada de espionaje para Rusia",
+      "link": "https://www.abc.es/espana/otan-retira-acreditacion-militar-espanol-mantenia-relacion-20260914174418-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/20260816_quadslide_046-(1)-SVfHQ2-RTkjzSwL9C6J14bzXIbe6CI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }
