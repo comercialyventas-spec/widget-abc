@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Finalización de obras: Illescas. Afectadas 3 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260914-FO-Illescas.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Evento: Palacio de los Deportes. Afectadas 4 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260917-PD-Evento.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Concentración en Conde de Peñalver. Afectadas 2 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260917-C-Conde-de-Peñalver.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Supresión de Parada: López de Hoyos. Afectadas 3 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260916-SP-5249-Lopez-De-Hoyos.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -15,24 +33,6 @@
     {
       "titulo": "Obras: Mateo García. Afectada línea N7 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260915-O-Mateo-Garcia.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Obras: Cristo de la Victoria. Afectada línea 78 de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260915-O-Cristo-Victoria.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Concentración en Alcalá, 34. Afectadas 11 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260915-C-Alcala-34.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Supresión de Parada: López de Hoyos. Afectadas 3 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260914-SP-2009-Lopez-De-Hoyos.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }
