@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El aeropuerto de Catania suspende sus vuelos por una nueva erupción del volcán Etna",
+      "link": "https://www.lavanguardia.com/internacional/20260914/11634630/aeropuerto-catania-suspende-vuelos-nueva-erupcion-volcan-etna.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/14/6aa80f91bbb73.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ataques israelíes a una ciudad del sur del Líbano dejan 13 muertos entre ellos seis niños",
       "link": "https://www.lavanguardia.com/internacional/20260914/11634607/ataques-israelies-sur-libano-muertos-ninos.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/11/6aa3df12b5da2.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Israel aplica un “proyecto de eliminación” de los palestinos, según la oenegé israelí Betselem",
       "link": "https://www.lavanguardia.com/internacional/20260914/11634370/israel-aplica-proyecto-eliminacion-palestinos-oenege-israeli-betselem.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/14/6aa7de713d929.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Indonesia localiza semihundido al barco naufragado que deja seis muertos y 129 desaparecidos",
-      "link": "https://www.lavanguardia.com/internacional/20260914/11634281/indonesia-localiza-semihundido-barco-naufragado-deja-seis-muertos-129-desaparecidos.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/14/6aa7cf6b369e0.jpeg",
       "tipo": "imagen"
     }
   ]
