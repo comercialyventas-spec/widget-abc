@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La violencia baja, el miedo no",
+      "link": "https://www.lavanguardia.com/opinion/20260914/11634213/violencia-baja-miedo.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/09/6aa1aba288446.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Perdón por si acaso",
       "link": "https://www.lavanguardia.com/opinion/20260914/11633777/perdon-acaso.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/13/6aa6cdaed933e.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Escribíamos con un boli Bic",
       "link": "https://www.lavanguardia.com/opinion/20260914/11633666/escribiamos-boli-bic.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/01/04/695ae821a4779.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘Good News’",
-      "link": "https://www.lavanguardia.com/opinion/20260914/11633664/good-news.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/13/6aa6601813ce2.jpeg",
       "tipo": "imagen"
     }
   ]
