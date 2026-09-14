@@ -1,7 +1,25 @@
 {
   "noticias": [
     {
-      "titulo": "Una universitaria española de 21 años es asesinada en México un mes después de iniciar un intercambio académico",
+      "titulo": "Macron realizará una visita de Estado a España los días 29 y 30 de septiembre",
+      "link": "https://www.20minutos.es/internacional/macron-realizara-una-visita-estado-espana-los-dias-29-30-septiembre_7036323_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/01/06/695d371382e665-35710282.r_d.1002-402.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Elecciones en Suecia: el centroizquierda aventaja por un solo escaño a la derecha con el 94% escrutado",
+      "link": "https://www.20minutos.es/internacional/socialdemocratas-ganan-elecciones-suecia_7036212_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/09/13/6aa6f27f3020e8-13527940.r_d.959-506.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La estudiante española asesinada en México fue perseguida por su atacante hasta un recinto cultural, donde ella buscaba refugio",
+      "link": "https://www.20minutos.es/internacional/estudiante-espanola-asesinada-mexico-fue-perseguida-por-su-atacante-hasta-un-recinto-cultural-donde-ella-buscaba-refugio_7036292_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/14/6aa79604abf5f1-05603621.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Asesinan a una estudiante española de 21 años en México: estaba de intercambio y la Fiscalía lo investiga como feminicidio",
       "link": "https://www.20minutos.es/internacional/una-estudiante-espanola-es-asesinada-estado-mexicano-morelos_7036244_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/14/6aa795b493ca59-45032508.png",
       "tipo": "imagen"
@@ -16,24 +34,6 @@
       "titulo": "Los impulsores de la IA se asustan",
       "link": "https://www.20minutos.es/internacional/los-impulsores-ia-se-asustan_7036224_3.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/09/13/6aa64c1aaafd14-32663120.r_d.1498-967.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Volver con el alma marchita",
-      "link": "https://www.20minutos.es/internacional/volver-con-alma-marchita-ultraderecha-sajonia-rebeca-marin_7036193_3.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/05/6a9c67986afaf0-32080053.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El voto protesta en Europa ha cambiado de lado en solo una década: de los \"indignados\" del 2015... a los \"decepcionados\" en 2026",
-      "link": "https://www.20minutos.es/internacional/voto-protesta-europa-ha-cambiado-lado-solo-una-decada-los-indignados-2015-los-decepcionados-2026_7034946_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/01/26/elon-musk.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Elecciones en Suecia: La centroizquierda aventaja por un solo escaño a la derecha con el 94% escrutado",
-      "link": "https://www.20minutos.es/internacional/socialdemocratas-ganan-elecciones-suecia_7036212_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/09/13/6aa6f27f3020e8-13527940.r_d.959-506.jpeg",
       "tipo": "imagen"
     }
   ]
