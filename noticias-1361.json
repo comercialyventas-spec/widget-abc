@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "‘La mesa de Hora 25’, programa en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-09-14/la-mesa-de-hora-25-programa-en-el-pais.html",
+      "imagen": "https://www.youtube.com/watch?v=Zog9-xUntk0",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Vídeos de ajedrez | Orquesta de música celestial",
       "link": "https://elpais.com/ajedrez/videos/2026-09-14/videos-de-ajedrez-orquesta-de-musica-celestial.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260713/1194468_090541_video_1800.mp4",
@@ -28,12 +34,6 @@
       "titulo": "Los métodos que puede usar la IA para matarnos",
       "link": "https://elpais.com/videos/2026-09-13/los-metodos-que-puede-usar-la-ia-para-matarnos.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260911/1213414_165335_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La entrevista a Zohran Mamdani resumida en un vídeo de cinco minutos",
-      "link": "https://elpais.com/videos/2026-09-13/la-entrevista-a-zohran-mamdani-resumida-en-un-video-de-cinco-minutos.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260912/1213685_185642_video_1800.mp4",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un balcón comercial con vistas al Metro en Los Berrocales",
+      "link": "https://nuevosureste.es/berrocales-centro-comercial/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2024/10/Detalle-de-plano-de-la-segunda-etapa-de-urbanizacion-de-Los-Berrocales-fuente-Ayuntamiento-de-Madrid.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Madrid, Andalucía y Castilla y León, los principales lugares de nacimiento de los vecinos de El Cañaveral",
       "link": "https://nuevosureste.es/lugar-nacimiento-vecinos-el-canaveral/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/08/Captura-de-pantalla-2026-08-28-a-las-13.37.04.png",
@@ -28,12 +34,6 @@
       "titulo": "Accidentes de tráfico en Ensanche de Vallecas: dónde se producen, cómo y en qué meses",
       "link": "https://nuevosureste.es/accidentes-trafico-ensanche-de-vallecas-2026/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/Captura-de-pantalla-2026-09-01-a-las-9.35.26.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Villa de Vallecas celebra sus Fiestas en Honor a la Virgen de la Torre",
-      "link": "https://nuevosureste.es/villa-de-vallecas-fiestas-virgen-de-la-torre/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2025/05/20624488-f595-4f25-b6fa-ea581a8813b0-1.jpg",
       "tipo": "imagen"
     }
   ]
