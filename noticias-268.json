@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Mantón, sombrero y misterios: otra de Romero de Torres vuelve de Hispanoamérica a una colección cordobesa",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/manton-sombrero-misterios-romero-torres-vuelve-hispanoamerica-20260914065819-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/romero-torres-blas-RyG3vJynpip3T8B7J5Rxk7O-1200x1200@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La huella de carbono de la Mezquita-Catedral de Córdoba baja un 15,4 en 2025 hasta las 93 toneladas",
       "link": "https://www.abc.es/espana/andalucia/cordoba/huella-carbono-mezquitacatedral-cordoba-baja-154-2025-20260914123300-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/huella-carbono-mezquita-catedral-R9Uy0M6r7xLtBWGqO5TyOIJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Asesinan en México a una estudiante española de 21 años que fue de intercambio universitario",
+      "link": "https://www.abc.es/espana/andalucia/granada/asesinan-mexico-estudiante-espanola-anos-intercambio-universitario-20260914063826-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/policia-mexico--kKIE-U301705365472BjE-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Claudia, la joven asesinada en México, era de Canarias y estudiaba Educación Infantil en Granada",
       "link": "https://www.abc.es/espana/andalucia/granada/claudia-joven-asesinada-mexico-era-canarias-estudiaba-20260914122949-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/portada-R3X6xQDLSpdwbJsrMJdE0HN-1200x840@diario_abc.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Emergencias levanta el confinamiento de Benahavís por el incendio forestal",
-      "link": "https://www.abc.es/espana/andalucia/malaga/emergencias-levanta-confinamiento-benahavis-incendio-forestal-20260914105834-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/incendio-benahavis-efe-RI3W17VUpQ5wRKBORohoIvM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La crisis de la vivienda empuja a los jóvenes andaluces hacia los pueblos",
-      "link": "https://www.abc.es/espana/andalucia/crisis-vivienda-empuja-jovenes-andaluces-pueblos-20260914213525-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/jovenes-pueblo-RL1brVKpQIQ9xnd8ATOjhMO-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

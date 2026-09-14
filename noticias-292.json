@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Santiago Díaz",
+      "link": "https://www.abc.es/cultura/santiago-diaz-20260914122100-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/14/articulos-1787258-RRtlsHdsQS15OTySdS68TbN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Una novela es otra cosa",
       "link": "https://www.abc.es/cultura/novela-20260914122515-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/14/Vista%20Chinesa%20-%20Salem%20Levy_Front-RD5DP32ZColOJRYvRSt9d4I-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Cuando la izquierda cultural yerra",
       "link": "https://www.abc.es/cultura/izquierda-comprometida-20260908012349-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/08/ricardo-elejalde-R1hY0WZrZBxx0rZStCFHl1M-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "En el refugio de la Guerra Civil de las tres vidas",
-      "link": "https://www.abc.es/cultura/refugio-antiaereo-une-complutum-cervantes-guerra-civil-20260717013042-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/07/17/1514491229-RG5ICEMpjzMyDu1CHtPzaGJ-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
