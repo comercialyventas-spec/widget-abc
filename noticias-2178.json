@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Última hora y actualidad sobre los incendios en España",
+      "link": "<![CDATA[https://www.elperiodico.com/es/sociedad/20260822/incendios-catalunya-espana-hoy-ultima-hora-directo-132201839",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/07eb96a7-285b-4b45-9808-bcbff8e24d02_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cargadores eléctricos en garajes comunitarios: quién puede instalarlos, quién paga y qué puede impedir la comunidad",
       "link": "<![CDATA[https://www.elperiodico.com/es/sociedad/20260915/cargadores-electricos-garajes-comunitarios-quien-paga-134289549",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ee5d2eae-b12e-4f3e-93a1-a4add6d9dc01_media-libre-aspect-ratio_default_0.jpg",
@@ -19,7 +25,7 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "El coche eléctrico cambia los garajes comunitarios: cargadores sin permiso, disputas vecinales y preinstalaciones de hasta 20.000 euros",
+      "titulo": "El coche eléctrico aviva las disputas en los garajes comunitarios: cargadores sin permiso y preinstalaciones de hasta 20.000 euros",
       "link": "<![CDATA[https://www.elperiodico.com/es/sociedad/20260915/instalacion-cargadores-electricos-comunidades-propietarios-quejas-dudas-puntos-recarga-seguridad-incendios-134166960",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/c3d84374-4912-4bef-9cfc-664957b357e3_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Del \"mi vecino se enganchó a mi contador\" al \"por qué le pagamos su instalación\": los conflicto por los coches eléctricos en las comunidades de propietarios",
       "link": "<![CDATA[https://www.elperiodico.com/es/sociedad/20260915/vecinos-problemas-cargador-coche-electrico-comunidad-propietarios-134184138",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/02fc31dd-d3ff-44b6-a8e5-d23bc578e410_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sabadell cambiará la gestión de los cargadores eléctricos públicos tras una \"incidencia\" en dos de ellos",
-      "link": "<![CDATA[https://www.elperiodico.com/es/sociedad/20260915/sabadell-cargadores-coche-electrico-gestion-incidencias-134248377",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0b17b10b-a172-44a2-ba83-76476cf1d442_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
