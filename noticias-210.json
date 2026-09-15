@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Muere el documentalista Patricio Guzmán, narrador de la memoria de Chile",
+      "link": "http://www.france24.com/es/minuto-a-minuto/20260915-muere-el-documentalista-patricio-guzm%C3%A1n-narrador-de-la-memoria-de-chile",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "Salvadoreños en vilo: ¿está en riesgo su futuro en EE. UU.?",
+      "link": "http://www.france24.com/es/programas/migrantes/20260915-salvadore%C3%B1os-en-vilo-est%C3%A1-en-riesgo-su-futuro-en-ee-uu",
+      "imagen": "https://s.france24.com/media/display/57b94072-b11f-11f1-a8a1-11a9a7be792d/w:1024/p:16x9/WEB-PORTADA-MIG-SEP.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Imputan a directivos de empresas que buscan petróleo en Malvinas: ¿qué cambia en la disputa con Reino Unido?",
       "link": "http://www.france24.com/es/am%C3%A9rica-latina/20260915-imputan-a-directivos-de-empresas-que-buscan-petr%C3%B3leo-en-malvinas-qu%C3%A9-cambia-en-la-disputa-con-reino-unido",
       "imagen": "https://s.france24.com/media/display/f7a4dbe8-b122-11f1-bc90-f1a2101b7259/w:1024/p:16x9/33229b67c750975b4de7ea31f33ca61d0f2b65eaw.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Estados Unidos y Canadá intensifican su guerra comercial con nuevos aranceles y restricciones",
       "link": "http://www.france24.com/es/programas/econom%C3%ADa/20260915-estados-unidos-y-canad%C3%A1-intensifican-su-guerra-comercial-con-nuevos-aranceles-y-restricciones",
       "imagen": "https://s.france24.com/media/display/a655b63e-b11a-11f1-a396-11a9a7be792d/w:1024/p:16x9/AP26203838804160.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "En directo: Irán rechaza diálogos con EE. UU. por “señales contradictorias” de Donald Trump",
-      "link": "http://www.france24.com/es/medio-oriente/20260915-en-directo-ir%C3%A1n-rechaza-di%C3%A1logos-con-ee-uu-por-se%C3%B1ales-contradictorias-de-donald-trump",
-      "imagen": "https://s.france24.com/media/display/0bc45eca-f092-11f0-b961-005056bfb2b6/w:1024/p:16x9/TEHERA.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "En directo: la OTAN derriba un dron sobre Lituania; procedía \"muy probablemente\" de Rusia, según ministro italiano",
-      "link": "http://www.france24.com/es/europa/20260915-en-directo-la-otan-derriba-un-dron-sobre-lituania-proced%C3%ADa-muy-probablemente-de-rusia-seg%C3%BAn-ministro-italiano",
-      "imagen": "https://s.france24.com/media/display/f653a0da-b118-11f1-a601-212987a1cc55/w:1024/p:16x9/2026-09-15T134254Z-1338221615-RC2OJNA8O8KO-RTRMADP-3-UKRAINE-CRISIS-LITHUANIA-DRONE-MINISTERS.jpg",
       "tipo": "imagen"
     }
   ]
