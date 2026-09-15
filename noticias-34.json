@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un libro contra ChatGPT",
+      "link": "https://www.lavanguardia.com/cultura/20260916/11635894/libro-chatgpt.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Jordi Campoy recibe el Prudenci Bertrana de novela con la historia de una estirpe de luthiers",
       "link": "https://www.lavanguardia.com/cultura/20260915/11635589/jordi-campoy-recibe-prudenci-bertrana-novela-historia-estirpe-lutiers.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/15/6aa96e0c95f4a.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Muere a los 68 años Catherine Ringer, la voz del grupo Rita Mitsouko",
       "link": "https://www.lavanguardia.com/cultura/20260915/11635480/muere-68-anos-catherine-ringer-voz-grupo-rita-mitsouko.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/15/6aa94d980ee64.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Allianz deja de patrocinar el Festival de las Ideas por la amenaza de boicot de varios participantes",
-      "link": "https://www.lavanguardia.com/cultura/20260915/11635505/allianz-deja-patrocinar-festival-ideas-amenaza-boicot-participantes.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/09/17/68cac2e803d6b.jpeg",
       "tipo": "imagen"
     }
   ]
