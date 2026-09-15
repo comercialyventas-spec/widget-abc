@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Tecnología de coche premium en un crossover desde 19.860 euros",
+      "link": "https://www.lavanguardia.com/motor/20260915/11634664/tecnologia-coche-premium-crossover-19-860-euros-brl.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/14/6aa813d3bd688.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los diez coches eléctricos con mucho espacio de carga bajo el capó",
       "link": "https://www.lavanguardia.com/motor/vehiculos/coches/20260914/11632053/diez-coches-electricos-espacio-carga-capo-tsc.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/10/6aa2c966e0ceb.r_d.3058-1741-953.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "El nuevo coche patrulla Temerario: 920 CV para salvar vidas en misiones a contrarreloj",
       "link": "https://www.lavanguardia.com/motor/vehiculos/coches/20260913/11630918/lamborghini-temerario-policia-italia-tsc.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/09/6aa1364845695.r_d.1112-543-2128.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La aeronave híbrida de alas plegables preparada para soportar climas de frío extremo",
-      "link": "https://www.lavanguardia.com/motor/actualidad/20260913/11630729/aeronave-hibrida-alas-plegables-cavorite-x7-tsc.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/09/6aa10dc35b922.r_d.726-370-4582.jpeg",
       "tipo": "imagen"
     }
   ]

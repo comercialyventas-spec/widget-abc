@@ -1,21 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Procesión de rogativas de San Agustín por los terremotos en Granada",
+      "link": "https://www.ahoragranada.com/galerias/procesion-de-rogativas-de-san-agustin-por-los-terremotos-en-granada/",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "Más de 107.000 alumnos de Secundaria, Bachiller y FP completan el regreso a las aulas en Granada",
       "link": "https://www.ahoragranada.com/noticias/mas-de-107-000-alumnos-de-secundaria-bachiller-y-fp-completan-el-regreso-a-las-aulas-en-granada/",
       "imagen": "",
       "tipo": ""
     },
     {
-      "titulo": "Más de 2.000 personas llenan las plazas de Maracena durante el Festival Sintelón",
-      "link": "https://www.ahoragranada.com/noticias/mas-de-2-000-personas-llenan-las-plazas-de-maracena-durante-el-festival-sintelon/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Sintelon-Maracena.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Gerardo Rodríguez Salas lleva su poesía al Cuarto Real de Santo Domingo",
       "link": "https://www.ahoragranada.com/noticias/gerardo-rodriguez-salas-lleva-su-poesia-al-cuarto-real-de-santo-domingo/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Gerrado-Rodriguez-Salas-poeta-1130x719.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Más de 2.000 personas llenan las plazas de Maracena durante el Festival Sintelón",
+      "link": "https://www.ahoragranada.com/noticias/mas-de-2-000-personas-llenan-las-plazas-de-maracena-durante-el-festival-sintelon/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Sintelon-Maracena.jpg",
       "tipo": "imagen"
     },
     {
@@ -29,12 +35,6 @@
       "link": "https://www.ahoragranada.com/noticias/ogijares-despide-sus-feria-y-fiestas-populares-con-un-rotundo-exito-de-participacion-y-convivencia/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Fiestas-Ogijares-1.jpg",
       "tipo": "imagen"
-    },
-    {
-      "titulo": "Las máximas suben hasta los 37 grados este martes en Granada",
-      "link": "https://www.ahoragranada.com/noticias/las-maximas-suben-hasta-los-37-grados-este-martes-en-granada/",
-      "imagen": "",
-      "tipo": ""
     }
   ]
 }
