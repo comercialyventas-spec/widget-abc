@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La cruz de Sant Jordi para un torero",
+      "link": "https://www.abc.es/espana/cataluna/cruz-sant-jordi-torero-20260915113508-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/15/vi-RfumC8nvHnLn6boHDwzPTiL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los Mossos investigan una presunta agresión sexual a una mujer en Vidreres (Gerona)",
       "link": "https://www.abc.es/espana/cataluna/mossos-investigan-presunta-agresion-sexual-mujer-vidreres-20260915100311-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/15/mossos-kCoE-U301724278176YMF-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Cataluña se prepara para un cambio de tiempo: Meteocat avisa de la llegada de tormentas este miércoles",
       "link": "https://www.abc.es/espana/cataluna/cataluna-prepara-cambio-tiempo-meteocat-avisa-llegada-20260915050000-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/15/fm_poblenou_4_20260914161759-RDDP9kiv07Se4tX1mWKOwBP-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Illa anuncia 2.558 millones para climatizar todas las escuelas y las residencias públicas antes del curso 2030-2031",
-      "link": "https://www.abc.es/espana/cataluna/illa-anuncia-2558-millones-climatizar-escuelas-residencias-20260914200533-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/14/illa-RM6SH0Y961vAdG7llbigtZJ-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
