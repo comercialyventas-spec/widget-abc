@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Evento sociocultural en distrito Villaverde. Afectada línea 79 de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260918-Shakira-Residencia-Europea-L79.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Finalización de obras en calle del Pez. Afectada línea 002 de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260918-FO-Calle-Pez.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Finalización de obras: Illescas. Afectadas 3 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260914-FO-Illescas.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -21,18 +33,6 @@
     {
       "titulo": "Supresión de Parada: López de Hoyos. Afectadas 3 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260916-SP-5249-Lopez-De-Hoyos.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Manifestación en carrera de San Jerónimo. Afectadas 9 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260916-M-Carrera-San-Jeronimo.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Obras: Mateo García. Afectada línea N7 de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260915-O-Mateo-Garcia.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

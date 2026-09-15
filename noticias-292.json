@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Aitana, la princesa, regresa a Madrid",
+      "link": "https://www.abc.es/cultura/musica/aitana-princesa-regresa-madrid-20260912023844-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/12/1517167583-R3CdxgCyBskqokIVLopMtSJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El guionista de 'El club de los poetas muertos': «El profesor Keating tendría hoy problemas para captar la atención de sus alumnos»",
       "link": "https://www.abc.es/cultura/autor-club-poetas-muertos-profesor-keating-hoy-20260914165857-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/14/tom-schulman-RxJwCL2sCBfVgISE5fgFyiL-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Macklemore acaba fuera de la gira de Ed Sheeran tras su apoyo a Palestina",
       "link": "https://www.abc.es/cultura/musica/macklemore-acaba-gira-sheeran-tras-apoyo-palestina-20260914210744-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/14/1497156554-kmoD-U3017192088775pF-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una novela es otra cosa",
-      "link": "https://www.abc.es/cultura/novela-20260914122515-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/14/Vista%20Chinesa%20-%20Salem%20Levy_Front-RD5DP32ZColOJRYvRSt9d4I-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
