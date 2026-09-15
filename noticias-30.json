@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Una niña de 4 años con graves malformaciones de la vía aérea sopla las velas por primera vez",
+      "link": "https://www.lavanguardia.com/vida/20260915/11635511/nina-4-anos-graves-malformaciones-aerea-sopla-velas-primera-vez.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Sancionan a un viajero por llegar al aeropuerto de Seattle con casi nueve kilos de embutido de Mercadona sin declarar",
+      "link": "https://www.lavanguardia.com/vida/20260915/11635568/sancionan-viajero-llegar-aeropuerto-seattle-nueve-kilos-embutido-mercadona-declarar.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/15/6aa95c501c8d7.r_d.1312-955-1732.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "València suspende actividades educativas en 26 centros desde las 14 horas por la alerta naranja",
+      "link": "https://www.lavanguardia.com/local/valencia/20260915/11635555/valencia-suspende-actividades-educativas-26-centros-14-horas-alerta-naranja.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/10/12/68ebbcbc7464e.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Visto para sentencia el juicio contra Meta por el despido de 2.100 trabajadores de Barcelona",
       "link": "https://www.lavanguardia.com/vida/20260915/11635532/visto-sentencia-juicio-meta-despido-2-100-trabajadores-barcelona.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/15/6aa952a247c31.jpeg",
@@ -16,24 +34,6 @@
       "titulo": "La UE ultima la ley que prohibirá a los menores de 15 años acceder a las redes sociales",
       "link": "https://www.lavanguardia.com/vida/20260915/11635435/ue-ultima-ley-prohibira-menores-15-anos-acceder-redes-sociales.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/06/26/6a3dae2ab0525.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sanidad y sindicatos reconocen que Madrid manipula las listas de espera quirúrgicas desde hace años",
-      "link": "https://www.lavanguardia.com/vida/20260915/11635373/sanidad-sindicatos-reconocen-madrid-manipula-listas-espera-quirurgicas-anos.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/02/28/67c19053dcd67.r_d.2201-1692-1169.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Casi 235 millones para certificar a trabajadores y formar en sectores con déficit de mano de obra",
-      "link": "https://www.lavanguardia.com/vida/20260915/11635401/235-millones-certificar-trabajadores-formar-sectores-deficit-mano-obra.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/06/6a4b85240a0d7.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Detenido un profesor de un centro de Badalona por presunto acoso sexual a dos adolescentes",
-      "link": "https://www.lavanguardia.com/local/barcelones-nord/20260915/11635305/detenido-profesor-centro-badalona-presunto-acoso-sexual-dos-adolescentes.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/15/6aa935aa3ae92.r_d.518-588-4157.jpeg",
       "tipo": "imagen"
     }
   ]
