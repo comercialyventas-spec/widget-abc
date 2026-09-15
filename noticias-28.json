@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Ursula von der Leyen pronuncia el discurso sobre el Estado de la Unión Europea",
+      "link": "https://www.lavanguardia.com/internacional/20260915/11635552/ursula-von-der-leyen-pronuncia-discurso-sobre-union-europea.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un buque de guerra ruso dispara dos bengalas contra un helicóptero danés en el Báltico",
       "link": "https://www.lavanguardia.com/internacional/20260915/11635421/buque-guerra-ruso-dispara-dos-bengalas-helicoptero-danes-baltico.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/15/6aa930ea79573.r_d.773-470-2930.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Rusia y Ucrania desoyen la tregua anunciada por Trump",
       "link": "https://www.lavanguardia.com/internacional/20260915/11635151/rusia-y-ucrania-desoyen-la-tregua-anunciada-por-trump.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/15/6aa8ff8ce8f1b.r_d.3000-2038-748.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "EE.UU. reconoce por primera vez que tiene armas de control espacial en órbita",
-      "link": "https://www.lavanguardia.com/internacional/20260915/11635100/ee-uu-reconoce-primera-vez-armas-control-espacial-orbita.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/06/23/685981719c911.jpeg",
       "tipo": "imagen"
     }
   ]
