@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Cristian Canton, ingeniero y exjefe de IA en Meta: “No nos va a matar a todos”",
+      "link": "https://www.eldiario.es/tecnologia/cristian-canton-ingeniero-exjefe-ia-meta-no-matar_128_13509777.html",
+      "imagen": "https://static.eldiario.es/clip/1101176f-e494-4077-bb87-24826dfa6859_facebook-aspect-ratio-1200-675_default_0_x1000y399.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Agencia de Protección de Datos detecta el primer ataque ejecutado por un agente de IA en España",
       "link": "https://www.eldiario.es/tecnologia/agencia-proteccion-datos-detecta-primer-ataque-ejecutado-agente-ia-espana_1_13512827.html",
       "imagen": "https://static.eldiario.es/clip/67f39694-23dc-47b5-b61e-b97c898377fd_facebook-aspect-ratio-1200-675_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "China pide una “barrera de seguridad” para la IA ante los intentos de Trump de frenar una regulación global",
       "link": "https://www.eldiario.es/tecnologia/pekin-denuncia-eeuu-busca-frenar-ia-impedir-china-pueda-mejorar-capacidades_1_13507168.html",
       "imagen": "https://static.eldiario.es/clip/df116598-ee2b-4fbd-9cf7-956102e82fb0_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La carrera no acaba en la IA: la inversión en cuántica se dispara un 500% en otra pugna clave entre EEUU, Europa y China",
-      "link": "https://www.eldiario.es/tecnologia/carrera-no-acaba-ia-inversion-cuantica-dispara-500-pugna-clave-eeuu-europa-china_1_13492155.html",
-      "imagen": "https://static.eldiario.es/clip/6748f60e-d923-4710-93c8-6b7160fb75d3_facebook-aspect-ratio-1200-675_default_0.jpg",
       "tipo": "imagen"
     }
   ]
