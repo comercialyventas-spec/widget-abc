@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Dimite un investigador de Google DeepMind que se une a las voces que dicen que la IA \"podría matarnos\"",
+      "link": "https://www.elmundo.es/tecnologia/2026/09/15/6aa97edae85ece33538b45ac.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/15/17894928923944.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Dyson pone una cámara y un algoritmo de IA en tu boca con su nuevo cepillo",
       "link": "https://www.elmundo.es/tecnologia/2026/09/01/6a96ecdbfdddfffe168b4586.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/01/17882758141133.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Brasil ordena suspender las transmisiones en vivo de Discord tras el suicidio de una menor",
       "link": "https://www.elmundo.es/tecnologia/2026/08/12/6a7c8e8421efa02c0a8b4581.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/12/17865478282708.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Rockstar rompe su silencio sobre la filtración de GTA VI: \"Ha sido desolador para nuestro equipo\"",
-      "link": "https://www.elmundo.es/tecnologia/2026/08/26/6a8efe0ae9cf4ae30b8b45a2.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/26/17877560093573.png",
       "tipo": "imagen"
     }
   ]
