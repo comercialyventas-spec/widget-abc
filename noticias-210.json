@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Inteligencia artificial: cómo impacta a los mercados la alerta por la IA",
+      "link": "https://www.france24.com/es/programas/econom%C3%ADa/20260915-economia-ia-riesgos-desarrollo-trump",
+      "imagen": "https://s.france24.com/media/display/f8967b3e-b0ae-11f1-bae8-005056bfb2b6/w:1024/p:16x9/2026-09-14T220138Z-466468460-RC2WR0AYHSV2-RTRMADP-3-USA-STOCKS-AI.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Gasolina, precios y drones: la guerra incierta de Putin marca las elecciones en Rusia",
       "link": "https://www.france24.com/es/europa/20260915-gasolina-precios-y-drones-la-guerra-incierta-de-putin-marca-las-elecciones-en-rusia",
       "imagen": "https://s.france24.com/media/display/7b18e180-b09d-11f1-9975-005056a90284/w:1024/p:16x9/8022029527001w.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Colombia anuncia acuerdos de seguridad con Estados Unidos",
       "link": "https://www.france24.com/es/video/20260915-colombia-anuncia-acuerdos-de-seguridad-con-estados-unidos",
       "imagen": "https://s.france24.com/media/display/b24f16b8-b09f-11f1-bddd-005056a97e36/w:1024/p:16x9/ES-20260914-191558-191809-CS.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Finlandia se unió al programa francés de disuasión nuclear",
-      "link": "https://www.france24.com/es/video/20260915-finlandia-se-uni%C3%B3-al-programa-franc%C3%A9s-de-disuasi%C3%B3n-nuclear",
-      "imagen": "https://s.france24.com/media/display/f7637f42-b09e-11f1-b38c-005056a90284/w:1024/p:16x9/ES-20260914-190823-191021-CS.jpg",
       "tipo": "imagen"
     }
   ]
