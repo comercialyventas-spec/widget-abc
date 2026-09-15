@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Mañana miércoles llega un cambio brusco: 13 grados menos en el norte y tormentas intensas",
+      "link": "https://www.lavanguardia.com/natural/20260915/11635346/manana-llega-cambio-brusco-13-grados-norte-tormentas-fuertes.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/21/6a88191180329.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Alerta por la posible formación de un medicán entre el norte de África, Sicilia y Malta",
       "link": "https://www.lavanguardia.com/natural/20260915/11635185/alerta-posible-formacion-medican-norte-africa-sicilia-malta.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/15/6aa907a6daac0.r_d.521-324-4490.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Las temperaturas del mar en España alcanzan este verano máximos históricos",
       "link": "https://www.lavanguardia.com/natural/20260911/11632794/temperaturas-mar-espana-alcanzan-verano-maximos-historicos.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/06/28/685f90ee21d5b.r_d.1337-891-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El cambio climático no hace que los bosques absorban más CO₂",
-      "link": "https://www.lavanguardia.com/natural/20260911/11632695/cambio-climatico-bosques-absorban-mas-co.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/10/6aa279e5835a8.jpeg",
       "tipo": "imagen"
     }
   ]

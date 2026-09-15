@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El Gobierno destinará 234 millones a formar a trabajadores en áreas con fuerte demanda",
+      "link": "https://elpais.com/educacion/2026-09-15/el-gobierno-destinara-234-millones-a-formar-a-trabajadores-en-areas-con-fuerte-demanda.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/CEPYWMSV2ZKVJHCVFFKE7O6JOA.jpg?auth=1335d4f094f66f556b5cd3dea7712f796f8f22ea470aeca0dd7f8482c36524c5",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Dejemos de examinar libros y empecemos a acompañar lectores",
       "link": "https://elpais.com/educacion/2026-09-15/dejemos-de-examinar-libros-y-empecemos-a-acompanar-lectores.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/BPCSG2I5TRJFBMD4HURU7FTWE4.jpg?auth=12c858d2d8b64bcf76d156a28b61a09ed83739e778213d2560cd134537fb4acd",
@@ -28,12 +34,6 @@
       "titulo": "FP y población inmigrante, una historia de amor correspondido",
       "link": "https://elpais.com/extra/formacion/2026-09-13/fp-y-poblacion-inmigrante-una-historia-de-amor-correspondido.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/2DS5336FOJCTBLKSFZF2MZQ3W4.jpg?auth=f305ed8e2fff5b98cf988af99ab92117832bb4d2c74134e6e1fbbced770da484",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El aprendizaje, en cuatro estaciones",
-      "link": "https://elpais.com/extra/formacion/2026-09-12/el-aprendizaje-en-cuatro-estaciones.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/BRCBCFCNHJBQBEGCEP7B5HATUM.jpg?auth=d04c9c67a26b46967a16337bd8329da5c433f240b97dc19a54ba8bc0046d6299",
       "tipo": "imagen"
     }
   ]
