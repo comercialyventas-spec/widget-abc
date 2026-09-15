@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Evento sociocultural en José Ortega y Gasset. Afectadas 2 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260917-Vogue-Fashion-Night-Out-Salamanca.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Evento sociocultural en distrito Villaverde. Afectada línea 79 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260918-Shakira-Residencia-Europea-L79.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -27,12 +33,6 @@
     {
       "titulo": "Concentración en Conde de Peñalver. Afectadas 2 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260917-C-Conde-de-Peñalver.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Supresión de Parada: López de Hoyos. Afectadas 3 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260916-SP-5249-Lopez-De-Hoyos.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }
