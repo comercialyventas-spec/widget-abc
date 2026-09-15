@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El precio de la bombona de butano sube a partir de hoy y se acerca a su máximo en cuatro años",
+      "link": "https://www.abc.es/economia/cuentas-corrientes/precio-bombona-butano-sube-partir-hoy-acerca-20260915020547-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/14/precio-butano--758x531.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La cancelación de hipotecas marca récord ante el miedo a otra espiral de intereses",
       "link": "https://www.abc.es/economia/cuentas-corrientes/cancelacion-hipotecas-marca-record-ante-miedo-espiral-20260914012508-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/14/hipotecas_escaparate-Rkq42F9Hb6U11gxoQUz3N6H-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Lo que debes saber de tu seguro de hogar para ganar en tranquilidad: ¿me pueden subir el precio de la póliza?",
       "link": "https://www.abc.es/economia/cuentas-corrientes/debes-saber-seguro-hogar-ganar-tranquilidad-pueden-20260911013924-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/11/vivienda-k30H-U301567053061sK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El diésel se encarecerá 24 céntimos por litro a partir de octubre si no se renuevan los descuentos",
-      "link": "https://www.abc.es/economia/cuentas-corrientes/diesel-encarecera-centimos-litro-partir-octubre-renuevan-20260910015633-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/10/repostar.jpg",
       "tipo": "imagen"
     }
   ]
