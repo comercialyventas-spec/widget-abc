@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Asesinada una estudiante española en México: se investiga como feminicidio la muerte de Claudia Tacoronte",
+      "link": "https://www.lavanguardia.com/sucesos/20260914/11634021/asesinada-estudiante-espanola-mexico.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/14/6aa7c2b829ffc.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Fiscalía alerta de un narco cada vez más violento y sofisticado en Andalucía",
       "link": "https://www.lavanguardia.com/local/andalucia/20260911/11632708/fiscalia-alerta-narco-vez-mas-violento-sofisticado-andalucia.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/11/6aa3d796bdde1.r_d.491-392-5970.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Andalucía se queda atrás en PISA y la Junta admite que los resultados no son buenos",
       "link": "https://www.lavanguardia.com/local/andalucia/20260908/11630015/andalucia-queda-pisa-junta-admite-resultados-son-buenos.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/02/24/67bc68c3c2529.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Moreno visita Granada con una inyección de 7 millones para paliar los daños de los terremotos",
-      "link": "https://www.lavanguardia.com/local/andalucia/20260909/11630883/moreno-visita-granada-inyeccion-7-millones-paliar-danos-terremotos.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a808d3edce63.r_d.2381-1724-0.jpeg",
       "tipo": "imagen"
     }
   ]
