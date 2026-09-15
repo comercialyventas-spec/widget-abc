@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Quinientos vehículos clásicos tienen una cita en el centro de Valladolid",
+      "link": "https://www.abc.es/motor/reportajes/quinientos-vehiculos-clasicos-cita-centro-valladolid-20260915105900-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/15/CLASICOS1-ReBCC7bcaTmJFcAOOxhT3ZP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Volvo actualiza el XC60, su superventas, con hasta 200 km de autonomía eléctrica",
+      "link": "https://www.abc.es/motor/pruebas/volvo-actualiza-xc60-superventas-200-autonomia-electrica-20260915105057-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/15/Volvo-XC60-2027%20(5)-R1uQjI8hShQHYxdwyEQoOFN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Dacia amplía su ofensiva híbrida con Sandero, Duster y Bigster",
       "link": "https://www.abc.es/motor/novedades/dacia-amplia-ofensiva-hibrida-sandero-duster-bigster-20260915100100-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/15/dacia-sandero-hibrido2-Rmb8IVLni3p3tDEx6pw6LGI-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Mercedes AMG crea una bestia de tracción trasera con 646 caballos",
       "link": "https://www.abc.es/motor/novedades/mercedes-amg-crea-bestia-traccion-trasera-646-20260914105900-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/14/mercedes1-RZjIAnjJSyGsEjwCqjpziWI-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "París se rinde al legado de Citroën: así fue el primer Classic Tour por las calles de la capital francesa",
-      "link": "https://www.abc.es/motor/reportajes/paris-rinde-legado-citroen-primer-classic-tour-20260914100100-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/14/ctr2-R0wpJhKDUeRuDStsN4kEi0M-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El BMW de hidrógeno supera sus primeras pruebas reales de conducción",
-      "link": "https://www.abc.es/motor/pruebas/bmw-hidrogeno-supera-primeras-pruebas-reales-conduccion-20260914090100-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/14/bmw-h4-R9MHFJcGZCMzl8X461vtrOJ-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

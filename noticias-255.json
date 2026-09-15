@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "José Luis Sanz destaca en el I Foro del eje Sevilla Global la importancia de «cuidar y mimar el turismo» como «principal industria en Sevilla»",
+      "link": "https://www.abc.es/sevilla/ciudad/jose-luis-sanz-destaca-foro-eje-sevilla-20260915105653-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/15/sanz_svqglobal-RaLzJmkRIoaiQUoT2xyIlLM-1200x840@diario_abc.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Hallan a un niño de diez años muerto en su casa de Los Remedios",
       "link": "https://www.abc.es/sevilla/ciudad/hallan-cadaver-nino-diez-anos-casa-remedios-20260914231726-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/14/policia-nacional-sevilla2-RynUyOM94M0Qu36jJcjtd8K-1200x840@diario_abc.jpg",
@@ -29,12 +35,6 @@
       "link": "https://www.abc.es/sevilla/cultura/manuel-curao-angelus-san-luis-20260915074945-nts.html",
       "imagen": "",
       "tipo": ""
-    },
-    {
-      "titulo": "El juez decreta prisión sin fianza para el conductor del atropello mortal de la Feria de Las Cabezas",
-      "link": "https://www.abc.es/sevilla/provincia/juez-decreta-prision-fianza-conductor-atropello-mortal-20260914160651-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/14/1517200090%20(1)-RSnuEakh2moi66criNh3yOL-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
     }
   ]
 }
