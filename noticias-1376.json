@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Dejemos de examinar libros y empecemos a acompañar lectores",
+      "link": "https://elpais.com/educacion/2026-09-15/dejemos-de-examinar-libros-y-empecemos-a-acompanar-lectores.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/BPCSG2I5TRJFBMD4HURU7FTWE4.jpg?auth=12c858d2d8b64bcf76d156a28b61a09ed83739e778213d2560cd134537fb4acd",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La pantalla mató la comprensión lectora: cómo el cerebro se está adaptando a un entorno digital",
       "link": "https://elpais.com/educacion/2026-09-14/la-pantalla-mato-la-comprension-lectora-como-el-cerebro-se-esta-adaptando-a-un-entorno-digital.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/SJ4KT3MNEZCZNMSFRFILQUVDWI.jpg?auth=3735c0c2be5b996ce1e395acb7840166a3d221f462776faa15707b6373ef3d7e",
@@ -28,12 +34,6 @@
       "titulo": "El aprendizaje, en cuatro estaciones",
       "link": "https://elpais.com/extra/formacion/2026-09-12/el-aprendizaje-en-cuatro-estaciones.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/BRCBCFCNHJBQBEGCEP7B5HATUM.jpg?auth=d04c9c67a26b46967a16337bd8329da5c433f240b97dc19a54ba8bc0046d6299",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Claves para sobrevivir al primer año universitario",
-      "link": "https://elpais.com/extra/formacion/2026-09-13/claves-para-sobrevivir-al-primer-ano-universitario.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/HXWSONRPGJCPPP7BDGZBY6VMB4.jpg?auth=d62b357035875aabd7afb5dec127d1f209bbdcb4eb82c6e445fb91ce5194fc93",
       "tipo": "imagen"
     }
   ]

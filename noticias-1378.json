@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Berenjenas con tomate, una receta mediterránea multiuso",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-09-15/berenjenas-con-tomate-una-receta-mediterranea-multiuso.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20260724/1198521_122556_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ensalada de pollo al curry: una receta exprés y más fresca que el Coronation Chicken",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-09-14/ensalada-de-pollo-al-curry-una-receta-expres-y-mas-fresca-que-el-coronation-chicken.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/TJ2IVNRLJFCYHE5544YJQTPDIY.jpg?auth=31669526b6cd65f4a0e3cade5808aff893305782ec355614220d5946faf0573b",
@@ -28,12 +34,6 @@
       "titulo": "Ensalada de ñoquis crujientes, la receta que da un giro fresco a la pasta",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-09-10/ensalada-de-noquis-crujientes-la-receta-que-da-a-un-giro-fresco-a-la-pasta.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20260723/1198233_145508_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ajoblanco verde con tomate y atún",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-09-10/ajoblanco-verde-con-tomate-y-atun.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ASQ3M5UB5ZCVPBUTUW43UFZN2U.JPG?auth=46843cbd4801a7c6a7907397e935fa186ad55c3746ec5dd0fc47d7c4dcade46a",
       "tipo": "imagen"
     }
   ]

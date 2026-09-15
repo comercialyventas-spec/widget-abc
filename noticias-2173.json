@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Guerra Ucrania - Rusia, última hora en directo",
+      "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260915/guerra-ucrania---rusia-ultima-126605559",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a315bd8f-ea71-4514-9eaf-d053fe7a66e3_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Guerra de Irán, en directo",
+      "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260915/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9dee4255-971f-43a4-a49d-40c2e7e13623_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La democracia en el mundo, en retroceso tras la llegada de Trump a la Casa Blanca: \"Lo que pasa en EEUU tiene implicaciones globales\"",
       "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260915/democracia-mundo-retroceso-trump-134289948",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7fb882b6-16ec-43f9-bb43-9a44a04389fc_media-libre-aspect-ratio_default_0.jpg",
@@ -22,18 +34,6 @@
       "titulo": "El 'crash' de la IA y las condiciones para evitarlo",
       "link": "<![CDATA[https://www.elperiodico.com/es/opinion/20260914/crash-ia-condiciones-evitarlo-134285881",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/97c95905-7acd-4999-9a3a-4bf5dcee17c0_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "\"Quien gane en IA, gana\": el plan para frenar la IA indigna a Trump y choca con la carrera por su dominio entre EEUU y China",
-      "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260914/freno-gigantes-ia-choca-carrera-eeuu-china-anthropic-matar-openai-trump-regulacion-134285247",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/851207b3-da53-4b44-9541-61a6333addcd_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los feminicidios, una lacra que México no consigue erradicar",
-      "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260914/feminicidios-lacra-mexico-no-logra-erradicar-muerte-estudiante-intercambio-espanola-134284504",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8cfa2c5a-571f-4c9d-98fd-fb190b1afe47_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
