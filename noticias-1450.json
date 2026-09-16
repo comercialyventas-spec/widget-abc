@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La IA solo podrá utilizar la imagen y la voz de los artistas si hay un contrato y una retribución",
+      "link": "https://www.eldiario.es/cultura/ia-podra-utilizar-imagen-voz-artistas-si-hay-contrato-retribucion_1_13514014.html",
+      "imagen": "https://static.eldiario.es/clip/8113b370-5deb-4f70-8d62-8460a2e421bd_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Almeida amenaza con retirar el apoyo al Festival de las Ideas tras la salida de Allianz como patrocinador",
       "link": "https://www.eldiario.es/cultura/almeida-amenaza-retirar-apoyo-festival-ideas-salida-allianz-patrocinador_1_13514207.html",
       "imagen": "https://static.eldiario.es/clip/8d06554a-fbef-4cbb-baf9-5c75a320422a_16-9-discover-aspect-ratio_default_1151281.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Miriam Garlo: “Las personas con discapacidad importamos si somos unas campeonas, pero no si tenemos un mal día”",
       "link": "https://www.eldiario.es/cultura/libros/miriam-garlo-personas-discapacidad-importamos-si-campeonas-no-si-mal-dia_1_13511747.html",
       "imagen": "https://static.eldiario.es/clip/f6d4b6a3-c5a7-4494-bf73-71690379de8f_16-9-discover-aspect-ratio_default_0_x1005y481.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Llevo media vida produciendo discos y ahora los robots no paran de mandarme sus canciones chuscas y horteras",
-      "link": "https://www.eldiario.es/cultura/musica/llevo-media-vida-produciendo-discos-ahora-robots-no-paran-mandarme-canciones-chuscas-horteras_129_13510121.html",
-      "imagen": "https://static.eldiario.es/clip/9b7981bc-7f4f-4ccc-808c-93fe81591ef5_16-9-discover-aspect-ratio_default_0_x638y208.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Hallado en Teruel el primer diplodocus fuera de Norteamérica",
+      "link": "https://elpais.com/ciencia/2026-09-15/hallado-en-teruel-el-primer-diplodocus-fuera-de-norteamerica.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "Uno de cada dos españoles apoya usar animales en investigaciones científicas",
+      "link": "https://elpais.com/ciencia/2026-09-14/uno-de-cada-dos-espanoles-apoya-usar-animales-en-investigaciones-cientificas.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "La élite de las matemáticas teme que se queden vacías de sentido ante los avances de la IA",
+      "link": "https://elpais.com/ciencia/2026-09-13/la-elite-de-las-matematicas-alerta-del-riesgo-de-que-los-avances-de-la-ia-las-vacie-de-sentido.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/YLZXBJHDH5HB7I32A4FYGYMIK4.jpg?auth=f5ff546420e04b96c3929548ce683af87bb6848a2cc29215c3b23b7d3c89c812&width=414&height=233&focal=2825%2C1005",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los fósiles de dinosaurios, el último fetiche de los ricos: “Hay quien disfruta sabiendo que solo lo puede admirar él”",
+      "link": "https://elpais.com/ciencia/2026-09-13/los-fosiles-de-dinosaurios-el-ultimo-fetiche-de-los-ricos-hay-quien-disfruta-sabiendo-que-solo-lo-puede-admirar-el.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "Una pluma atrapada en un excremento de dinosaurio da nuevas pistas sobre la extinción de las aves primitivas",
       "link": "https://elpais.com/ciencia/2026-09-10/una-pluma-atrapada-en-un-excremento-de-dinosaurio-da-nuevas-pistas-sobre-la-extincion-de-las-aves-primitivas.html",
       "imagen": "",
@@ -9,31 +33,7 @@
     {
       "titulo": "Somos los órganos sexuales de la IA",
       "link": "https://elpais.com/tecnologia/2026-09-11/somos-los-organos-sexuales-de-la-ia.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "“De repente el día tiene tres horas más”: el fármaco que transforma la vida de los pacientes con narcolepsia",
-      "link": "https://elpais.com/salud-y-bienestar/2026-09-10/de-repente-el-dia-tiene-tres-horas-mas-el-farmaco-que-transforma-la-vida-de-los-pacientes-con-narcolepsia.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/FNCD2V466VDGHOIBRXWSVV4BQE.jpg?auth=bf95a8acc30e1e85f1296a5328d302d8ced867be1841799fee0d0f845b084465&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "OpenAI corrige de tapadillo su prueba ‘del milenio’ para citar a los matemáticos clave que ninguneó al anunciar el descubrimiento",
-      "link": "https://elpais.com/tecnologia/2026-09-10/openai-corrige-de-tapadillo-su-prueba-del-milenio-para-citar-a-los-matematicos-clave-que-ninguneo-al-anunciar-el-descubrimiento.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Un año de trabajo de dos matemáticos españoles frente a 88 horas y 15 millones de OpenAI: “Sin nuestra idea, la IA no lo habría resuelto”",
-      "link": "https://elpais.com/ciencia/2026-09-10/un-ano-de-trabajo-de-dos-matematicos-espanoles-frente-a-88-horas-y-15-millones-de-openai-sin-nuestra-idea-la-ia-no-lo-habria-resuelto.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "El nuevo enigma de los ancestros humanos más misteriosos: 120.000 años sin mejorar nunca sus herramientas",
-      "link": "https://elpais.com/ciencia/2026-09-09/el-nuevo-enigma-de-los-ancestros-humanos-mas-misteriosos-120000-anos-sin-mejorar-nunca-sus-herramientas.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/GKBXF2L3RJGJLE7QODEGW6OJQI.png?auth=049874a5b483216d4ecc506a0031fe7006b14b8adedeafef322da498343fbc2d&width=414&height=311&focal=268%2C244",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/CWXMSR3AKFDYZF7FKMLCMKPBIY.jpg?auth=d681cb479b12384c47dff1d58877c4e99d34f245b7d6dc4c7f57b4f1d470c059&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]
