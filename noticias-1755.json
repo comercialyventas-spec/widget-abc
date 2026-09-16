@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Neofascismo",
+      "link": "https://www.publico.es/opinion/vinetas/neofascismo.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/13/6aa6805278630.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¡Qué Montesquieu ni qué Montesquieu!",
       "link": "https://www.publico.es/opinion/vinetas/montesquieu-montesquieu.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/10/6aa2bed3d94d8.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "La salud del planeta",
       "link": "https://www.publico.es/opinion/vinetas/salud-planeta.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/07/30/6a6b36ff79ca2.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Se quema Madrid",
-      "link": "https://www.publico.es/opinion/vinetas/quema-madrid.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/07/28/6a6895f092ffc.jpeg",
       "tipo": "imagen"
     }
   ]

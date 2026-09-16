@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Yemen, reto a la Meca",
+      "link": "https://loquesomos.es/yemen-reto-a-la-meca/",
+      "imagen": "https://loquesomos.es/wp-content/uploads/2026/09/Houthies-yemen-manifestacion-de-fuerza-lqsomos--777x450.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un joint venture en el mar Rojo",
       "link": "https://loquesomos.es/un-joint-venture-en-el-mar-rojo/",
       "imagen": "https://loquesomos.es/wp-content/uploads/2026/09/Hombres-de-la-tribu-de-la-confederacion-tribal-de-Bakil-en-Yemen-lqsomos-800x450.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Siria, el emirato discreto",
       "link": "https://loquesomos.es/siria-el-emirato-discreto/",
       "imagen": "https://loquesomos.es/wp-content/uploads/2025/09/siria-viejas-paredes-lqsomos.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Afganistán, cinco años sin primaveras",
-      "link": "https://loquesomos.es/afganistan-cinco-anos-sin-primaveras/",
-      "imagen": "https://loquesomos.es/wp-content/uploads/2026/08/afganistan-guerrilla-insurgente-de-Badakhshan-lqsomos-800x450.jpg",
       "tipo": "imagen"
     }
   ]

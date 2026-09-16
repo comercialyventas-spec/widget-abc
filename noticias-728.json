@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¿Nos están enfermando las estelas de los aviones?",
+      "link": "https://www.eldiario.es/edcreativo/diario-salud/enfermando-estelas-aviones_1_13499493.html",
+      "imagen": "https://static.eldiario.es/clip/0fc9be4c-771f-47d4-b1c4-b4f7739dcfbc_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Está nuestro destino escrito en nuestros genes?",
       "link": "https://www.eldiario.es/edcreativo/diario-salud/destino-escrito-genes_1_13437492.html",
       "imagen": "https://static.eldiario.es/clip/775e6382-1eeb-40ee-8b35-acdaac7ae8b2_16-9-discover-aspect-ratio_default_0.jpg",
@@ -19,21 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Más allá de la sandía y el pepino, los otros héroes de la hidratación para este verano",
-      "link": "https://www.eldiario.es/edcreativo/diario-salud/sandia-pepino-heroes-hidratacion-verano_1_13409281.html",
-      "imagen": "https://static.eldiario.es/clip/f828f086-aca5-44be-a832-5d2586bb775f_16-9-discover-aspect-ratio_default_0.jpg",
+      "titulo": "Humanizar la radioterapia eliminando las huellas físicas y psicológicas del tratamiento",
+      "link": "https://www.eldiario.es/edcreativo/diario-salud/humanizar-radioterapia-eliminando-huellas-fisicas-psicologicas-tratamiento_1_13311320.html",
+      "imagen": "https://static.eldiario.es/clip/90d34529-beeb-40ba-931e-3e18e3660773_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
       "titulo": "Enfermedades respiratorias y vacaciones: cómo planificar el viaje para proteger los pulmones",
       "link": "https://www.eldiario.es/edcreativo/diario-salud/enfermedades-respiratorias-vacaciones-planificar-viaje-proteger-pulmones_1_13305073.html",
       "imagen": "https://static.eldiario.es/clip/793ca7a4-947c-4b9b-a41b-e577162101b4_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Vitamina C contra el cáncer de colon: así es como reduce la resistencia a la quimioterapia",
-      "link": "https://www.eldiario.es/edcreativo/diario-salud/vitamina-c-cancer-colon-reduce-resistencia-quimioterapia_1_13268177.html",
-      "imagen": "https://static.eldiario.es/clip/7121cbe7-bb44-4252-9653-9bff0a96e1cf_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

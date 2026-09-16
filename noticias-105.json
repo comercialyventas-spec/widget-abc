@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "EL MERCADO DEL LUNES, LA VISITA IMPRESCINDIBLE SI VAS A GERNIKA",
+      "titulo": "TARAMUNDI, LA ALDEA DE AGUA Y HIERRO",
+      "link": "https://www.lavanguardia.com/magazine/viajes/20260915/11634489/taramundi-aldea-agua-hierro-inauguro-espana-turismo-rural.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/09/14/6aa7e98cd3314.r_d.772-603.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Pangong Tso, el lago turquesa que se disputan India y China",
+      "link": "https://www.lavanguardia.com/magazine/viajes/20260914/11631732/pangong-tso-lago-turquesa-disputan-india-china.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/09/10/6aa280be3e5ec.r_d.1126-914.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El mercado del lunes, la visita imprescindible si vas a Gernika",
       "link": "https://www.lavanguardia.com/magazine/viajes/20260911/11630904/mercado-lunes-visita-imprescindible-vas-gernika.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/09/09/6aa15f67520ab.r_d.2144-1424.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/09/09/6aa15f67520ab.r_d.2144-1424.jpeg",
       "tipo": "imagen"
     },
     {
@@ -13,27 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Sol en la Riviera Maya o hielo en Laponia, próximas escapadas para empezar a soñar",
-      "link": "https://www.lavanguardia.com/magazine/viajes/20260910/11630299/viajes-low-cost-ofertas-hoteles-vuelos-destinos-cts.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2023/08/17/64de27948a942.r_d.880-944.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Placer o competición? La obsesión por visitar los 193 países del mundo (y contarlo en redes)",
-      "link": "https://www.lavanguardia.com/magazine/viajes/20260909/11629303/placer-competicion-obsesion-visitar-193-paises-mundo-contarlo-redes.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/09/07/6a9ecb7d5b486.r_d.1060-707.jpeg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "No es serio este cementerio",
       "link": "https://www.lavanguardia.com/magazine/viajes/20260910/11630271/serio-cementerio.html",
       "imagen": "https://www.lavanguardia.com/files/image_290_300/uploads/2026/09/08/6aa0285b9aa66.jpeg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Así era el Camprodon burgués que alargaba el veraneo hasta bien entrado septiembre",
-      "link": "https://www.lavanguardia.com/magazine/viajes/20260908/11628998/asi-camprodon-burgues-alargaba-veraneo-entrado-septiembre.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/09/07/6a9e94c5adc69.r_d.1920-2880.jpeg",
+      "titulo": "¿Placer o competición? La obsesión por visitar los 193 países del mundo (y contarlo en redes)",
+      "link": "https://www.lavanguardia.com/magazine/viajes/20260909/11629303/placer-competicion-obsesion-visitar-193-paises-mundo-contarlo-redes.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/09/07/6a9ecb7d5b486.r_d.1060-707.jpeg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La democracia en la encrucijada",
+      "link": "https://www.eldiario.es/contracorriente/democracia-encrucijada_132_13504043.html",
+      "imagen": "https://static.eldiario.es/clip/47fd815e-8d70-4075-b537-2eefeb8650a5_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Todos los jueces pueden ser criticados",
       "link": "https://www.eldiario.es/contracorriente/jueces-criticados_132_13501687.html",
       "imagen": "https://static.eldiario.es/clip/7b8639fb-3f3e-462f-8e0f-b0231e196b8d_16-9-discover-aspect-ratio_default_0_x798y344.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Ceuta y Melilla siguen siendo territorio africano",
       "link": "https://www.eldiario.es/contracorriente/ceuta-melilla-siguen-territorio-africano_132_13461837.html",
       "imagen": "https://static.eldiario.es/clip/5d886002-cfc3-46e5-a290-cf215dbef04a_16-9-discover-aspect-ratio_default_0_x932y191.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La guerra de Trump en Irán y el ático de Díaz Ayuso",
-      "link": "https://www.eldiario.es/contracorriente/guerra-trump-iran-atico-diaz-ayuso_132_13455695.html",
-      "imagen": "https://static.eldiario.es/clip/203f1254-0c39-46f9-8711-2b9d5f5d91d2_16-9-discover-aspect-ratio_default_0_x3234y1201.jpg",
       "tipo": "imagen"
     }
   ]
