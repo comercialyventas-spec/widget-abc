@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Cuando la UE está en su sitio",
+      "link": "https://www.lavanguardia.com/opinion/20260916/11635773/ue-esta-sitio.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Disney en Valencia",
       "link": "https://www.lavanguardia.com/local/valencia/20260916/11635531/disney-valencia.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/08/06/6893453573ec5.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "La fiabilidad como mérito",
       "link": "https://www.lavanguardia.com/opinion/20260916/11635584/fiabilidad-merito.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/15/6aa95f34ab5db.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las Maldivas no están lejos",
-      "link": "https://www.lavanguardia.com/opinion/20260916/11635482/maldivas-lejos.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/15/6aa949272676d.jpeg",
       "tipo": "imagen"
     }
   ]
