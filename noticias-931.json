@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "iPhone 18 Pro: el mismo cuerpo, otro teléfono",
+      "link": "https://www.elmundo.es/tecnologia/gadgets/2026/09/16/6aaa95ebe85ece19588b45b0.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/16/17895640894167.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Dimite un investigador de Google DeepMind que se une a las voces que dicen que la IA \"podría matarnos\"",
       "link": "https://www.elmundo.es/tecnologia/2026/09/15/6aa97edae85ece33538b45ac.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/15/17894928923944.jpg",
@@ -9,8 +15,8 @@
     {
       "titulo": "Dyson pone una cámara y un algoritmo de IA en tu boca con su nuevo cepillo",
       "link": "https://www.elmundo.es/tecnologia/2026/09/01/6a96ecdbfdddfffe168b4586.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/01/17882758141133.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Instagram penalizará y reducirá el alcance de los perfiles con personas generadas por IA no identificadas",
@@ -19,7 +25,7 @@
       "tipo": ""
     },
     {
-      "titulo": "Apple filtra por accidente el vídeo de sus nuevos AirPods con cámara",
+      "titulo": "Filtran por accidente el vídeo de los AirPods con cámara",
       "link": "https://www.elmundo.es/tecnologia/innovacion/2026/08/18/6a83e9a3e9cf4a5f758b456d.html",
       "imagen": "",
       "tipo": ""
@@ -29,12 +35,6 @@
       "link": "https://www.elmundo.es/tecnologia/2026/08/18/6a848c9a21efa047238b45b8.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/18/17870716591064.jpg",
       "tipo": "imagen"
-    },
-    {
-      "titulo": "Brasil ordena suspender las transmisiones en vivo de Discord tras el suicidio de una menor",
-      "link": "https://www.elmundo.es/tecnologia/2026/08/12/6a7c8e8421efa02c0a8b4581.html",
-      "imagen": "",
-      "tipo": ""
     }
   ]
 }
