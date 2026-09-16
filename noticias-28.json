@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Ucrania anuncia haber matado a otro general ruso en un ataque con drones",
+      "link": "https://www.lavanguardia.com/internacional/20260916/11636241/ucrania-matado-a-general-ruso-anton-grunis-ataque-drones.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/10/14/68ee5e0be6713.r_d.2962-1773-753.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Al menos 20 muertos en el derrumbe de un edificio de seis plantas en Gaza",
+      "link": "https://www.lavanguardia.com/internacional/20260916/11636250/muertos-derrumbe-edificio-seis-plantas-gaza.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/16/6aaa755b02600.r_d.4627-1408-857.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Tribunal de la Haya condena a Hashim Thaci, expresidente de Kosovo a 25 años por crímenes de guerra",
       "link": "https://www.lavanguardia.com/internacional/20260916/11636236/tribunal-haya-condena-hashim-thaci-expresidente-kosovo-25-anos-crimenes-guerra.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/09/6989cfe5c91a2.r_d.1311-1268-0.jpeg",
@@ -22,18 +34,6 @@
       "titulo": "El partido de Putin se juega la supermayoría en unas elecciones con la paz arrinconada",
       "link": "https://www.lavanguardia.com/internacional/20260916/11636019/rusia-unida-partido-putin-se-juega-supermayoria-elecciones-duma-paz-arrinconada.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/16/6aaa477948fc3.r_d.3728-2397-602.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El progresista Bernie Sanders y el exasesor de Trump, Steve Bannon, unidos frente una IA sin control",
-      "link": "https://www.lavanguardia.com/internacional/20260916/11635983/progresista-bernie-sanders-exasesor-trump-steve-bannon-unidos-frente-ia-control.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/16/6aaa3192afc9b.r_d.3158-1777-690.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Arabia Saudí asegura haber frustrado el ataque de un dron contra La Meca",
-      "link": "https://www.lavanguardia.com/internacional/20260916/11635972/arabia-saudi-asegura-haber-frustrado-ataque-dron-meca.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/06/07/6843e8764685b.r_d.2689-1595-779.jpeg",
       "tipo": "imagen"
     }
   ]

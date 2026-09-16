@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El recorrido hasta Hollywood de 'La bola negra'",
+      "link": "https://www.lavanguardia.com/cultura/20260916/11636237/recorrido-hollywood-bola-negra.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/05/24/6a13233102d36.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "'La bola negra', de los Javis, rueda a por el Oscar",
       "link": "https://www.lavanguardia.com/cultura/20260916/11636020/bola-negra-javis-rueda-oscar.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
@@ -28,12 +34,6 @@
       "titulo": "‘Tanit’, una delicada fábula sobre el paso de la infancia a la madurez",
       "link": "https://www.lavanguardia.com/cultura/20260916/11634647/tanit-delicada-fabula-sobre-paso-infancia-madurez.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/14/6aa811f19f0ff.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un libro contra ChatGPT",
-      "link": "https://www.lavanguardia.com/cultura/20260916/11635894/libro-chatgpt.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "City of Blood",
+      "link": "https://elpais.com/television/series/city-of-blood/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/H7BZPYBUGFGGRNGCOD4OPYFKAY.jpg?auth=1bb2d6f9cfe04f0f5cd052570718c991d006fd8cb7c9a91471994e74f8bebf50",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "‘The Undeclared War’: sistemas informáticos y ciberataques",
       "link": "https://elpais.com/television/series/2026-09-16/the-undeclared-war-sistemas-informaticos-y-ciberataques.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/CIGYSFLTOFERLAOC64H46XUZQE.jpg?auth=12f4e2384fd156863d2562eaf108a587df35b7f3c22b4249922f5a05c6c7d49d",
@@ -28,12 +34,6 @@
       "titulo": "Los premios Emmy ensalzan a actores televisivos como Matthew Rhys y dos comedias raras que más gente debería descubrir",
       "link": "https://elpais.com/television/series/2026-09-15/los-premios-emmy-ensalzan-a-actores-televisivos-como-matthew-rhys-y-dos-comedias-raras-que-mas-gente-deberia-descubrir.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/DVS6PPU3NVOQXJXLLYT23BGALA.jpg?auth=c13ebc83843ad4dbed68ba28fe9b45300050018104dc0f78884f0d5e0ec00124",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Dónde ver las series ganadoras de los premios Emmy 2026: ‘La maldición de Widow’s Bay’, ‘The Pitt’, ‘DTF St. Louis’ y el resto de vencedoras",
-      "link": "https://elpais.com/television/series/2026-09-15/donde-ver-las-series-ganadoras-de-los-premios-emmy-la-maldicion-de-widows-bay-the-pitt-dtf-st-louis-y-el-resto-de-vencedoras.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/IQM34Z6VZVB57FHMLNOEEFLQXE.tif?auth=33d78b7f4d34fda6fbfda6fa16b01a531326a6f8938cfa4bf2ae938fb8ad86fe",
       "tipo": "imagen"
     }
   ]
