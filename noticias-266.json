@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Juan Carlos I llega a Galicia en su cuarta visita del año a Sanxenxo",
+      "link": "https://www.abc.es/espana/galicia/juan-carlos-llega-galicia-cuarta-visita-ano-20260916123401-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/16/1503615508-RPfkmGz1fcMCo2kzed2g4CP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La niebla y el viento obligan a desviar siete vuelos del aeropuerto de Santiago",
       "link": "https://www.abc.es/espana/galicia/niebla-viento-obligan-desviar-siete-vuelos-aeropuerto-20260916113029-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/16/1516490769-RxofaY0fjW44YUd4UZiUHCI-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Sin contrato y a 50 euros por 12 horas: piden siete años de cárcel por explotar a inmigrantes en Lugo",
       "link": "https://www.abc.es/espana/galicia/contrato-euros-horas-piden-siete-anos-carcel-20260916085620-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/16/1493663478%20(1)-R2Qvqr3FDOYCNOjOfbFCa4J-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un incendio en la montaña de Quiroga (Lugo) supera las 20 hectáreas calcinadas",
-      "link": "https://www.abc.es/espana/galicia/incendio-montana-quiroga-lugo-supera-hectareas-calcinadas-20260916083931-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/16/1513672500-ROVpQLRwGErpMvNPpSjUeQN-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
