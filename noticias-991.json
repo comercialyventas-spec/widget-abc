@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Jóvenes emprendedores: queremos conocer vuestra realidad en la trinchera",
+      "link": "https://emprendedores.es/startups/emprendimiento-joven-espanol/",
+      "imagen": "https://emprendedores.es/wp-content/uploads/2026/09/Generacion-FOUNDERS-2026-horizontal-1.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Wasting Time: turismo experiencial para la ‘Generación Z’",
       "link": "https://emprendedores.es/casos-de-exito/wasting-time-turismo-experiencial-generacion-z/",
       "imagen": "https://wp.emprendedores.es/wp-content/uploads/2026/09/javier-alonso-wasting-time.jpg",
@@ -28,12 +34,6 @@
       "titulo": "CPA: ¿quieres saber cuánto te cuesta conseguir un cliente?",
       "link": "https://emprendedores.es/gestion/cpa-cuanto-cuesta-conseguir-un-cliente/",
       "imagen": "https://wp.emprendedores.es/wp-content/uploads/2026/01/marketing-digital.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Humara, digitalización para recuperar más residuos sin construir nuevas plantas",
-      "link": "https://emprendedores.es/innovacion/humara/",
-      "imagen": "https://wp.emprendedores.es/wp-content/uploads/2026/08/laura-rodriguez-humara.jpg",
       "tipo": "imagen"
     }
   ]

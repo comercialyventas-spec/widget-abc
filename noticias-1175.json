@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La inflación, ¡qué sensación!",
+      "link": "https://okdiario.com/opinion/inflacion-que-sensacion-20298455",
+      "imagen": "https://okdiario.com/img/2026/09/15/16-09-2026-inflacion.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Nos invaden y, encima, les prestamos un castillo",
       "link": "https://okdiario.com/opinion/nos-invaden-encima-les-prestamos-castillo-20297215",
       "imagen": "https://okdiario.com/img/2026/09/15/nos-invaden-desk.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Colapso sanitario en Ceuta",
       "link": "https://okdiario.com/opinion/colapso-sanitario-ceuta-20288356",
       "imagen": "https://okdiario.com/img/2026/09/14/15-09-2026-ceuta-colapso-sanidad.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Manga ancha a los \"nietos del exilio\"; trabas a los judíos sefardíes",
-      "link": "https://okdiario.com/opinion/manga-ancha-nietos-del-exilio-trabas-judios-sefardies-20288325",
-      "imagen": "https://okdiario.com/img/2026/09/14/manga-ancha-a-los-desk.jpg",
       "tipo": "imagen"
     }
   ]

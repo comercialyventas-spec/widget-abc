@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La tentación",
+      "link": "https://www.publico.es/opinion/vinetas/tentacion.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/15/6aa96cf5af5aa.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los partidos de Sumar se mueven entre la oportunidad de atraer a Podemos a una candidatura de unidad y el recelo hacia las primarias de Montero",
       "link": "https://www.publico.es/politica/partidos-sumar-mueven-oportunidad-atraer-podemos-candidatura-unidad-recelo-primarias-montero.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/15/6aa97b8241f58.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Ampliar El Prat en plena emergencia climática",
       "link": "https://www.publico.es/opinion/columnas/ampliar-prat-plena-emergencia-climatica.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2025/07/01/6864145528a0d.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La factura que no te enseñan",
-      "link": "https://www.publico.es/opinion/columnas/factura-te-ensenan.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/07/02/6a468814e3e48.jpeg",
       "tipo": "imagen"
     }
   ]

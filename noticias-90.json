@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "China aplica nuevas restricciones para salir al extranjero a grupos “de riesgo”",
+      "link": "https://www.lavanguardia.com/internacional/20260916/11635497/china-aplica-nuevas-restricciones-salir-extranjero-grupos-riesgo.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/uploads/2026/09/15/6aa96a81baa63.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Canadá y la Unión Europea cierran filas ante EE.UU. China y Rusia",
+      "link": "https://www.lavanguardia.com/internacional/20260916/11635395/canada-union-europea-cierran-filas-ee-uu-china-rusia.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/uploads/2026/09/08/6aa020dd1a666.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ursula von der Leyen pronuncia el discurso sobre el Estado de la Unión Europea",
       "link": "https://www.lavanguardia.com/internacional/20260915/11635552/ursula-von-der-leyen-pronuncia-discurso-sobre-union-europea.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/uploads/2026/09/15/6aa957456d436.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/uploads/2026/09/15/6aa957456d436.jpeg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "El líder indígena Raoni sufre un cáncer digestivo y recibe cuidados paliativos",
       "link": "https://www.lavanguardia.com/internacional/20260915/11635297/lider-indigena-raoni-sufre-cancer-digestivo-recibe-cuidados-paliativos.html",
       "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2019/10/10/5fa53bfcaa24a.r_d.328-218-6845.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Hungría presenta un proyecto de ley para derogar las normas anti-LGTBI de la era Orbán",
-      "link": "https://www.lavanguardia.com/internacional/20260915/11635232/hungria-presenta-proyecto-ley-derogar-normas-anti-lgbtq-orban.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2025/06/28/68601ceb9d77f.r_d.3065-2297-748.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Rusia y Ucrania desoyen la tregua anunciada por Trump",
-      "link": "https://www.lavanguardia.com/internacional/20260915/11635151/rusia-y-ucrania-desoyen-la-tregua-anunciada-por-trump.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/09/15/6aa8ff8ce8f1b.r_d.3000-2038-748.jpeg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La tentación",
+      "link": "https://www.publico.es/opinion/vinetas/tentacion.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/15/6aa96cf5af5aa.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Neofascismo",
       "link": "https://www.publico.es/opinion/vinetas/neofascismo.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/13/6aa6805278630.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "El patadón",
       "link": "https://www.publico.es/opinion/vinetas/patadon.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/01/6a969d915dca1.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La salud del planeta",
-      "link": "https://www.publico.es/opinion/vinetas/salud-planeta.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/07/30/6a6b36ff79ca2.jpeg",
       "tipo": "imagen"
     }
   ]
