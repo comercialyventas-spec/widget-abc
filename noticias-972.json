@@ -1,7 +1,13 @@
 {
   "noticias": [
     {
-      "titulo": "Descanso en el Camp Nou: el Barça avasalla al Racing",
+      "titulo": "Cataluña, Comunidad Valenciana y Murcia en alerta por las fuertes lluvias",
+      "link": "https://www.abc.es/sociedad/cataluna-comunidad-valenciana-murcia-alerta-fuertes-lluvias-20260916222947-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/16/1517411851-kX5E-U301756386961fFD-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Comienza la segunda parte: ¡Szczesny sustituye a Joan García!",
       "link": "https://www.abc.es/deportes/futbol/barcelona-racing-santander-directo-resultado-ganador-goles-20260916204413-di.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/16/liga-j6-barsa-racing_20260914121205-Rq7OtyKymoJceE9LSo9yAiJ-1200x840@diario_abc.jpg",
       "tipo": "imagen"
@@ -27,12 +33,6 @@
     {
       "titulo": "Receta de pimientos del piquillo rellenos",
       "link": "https://www.abc.es/recetasderechupete/pimientos-del-piquillo-rellenos-de-verduras-y-huevo/117064/",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Cómo preparar calabacines rellenos de atún",
-      "link": "https://www.abc.es/gastronomia/falsa-rechupete-20240712032340-nt.html",
       "imagen": "",
       "tipo": ""
     }
