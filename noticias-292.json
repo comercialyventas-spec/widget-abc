@@ -1,7 +1,19 @@
 {
   "noticias": [
     {
-      "titulo": "Los cines se quedan sin 3,5 millones tras un volantazo de Urtasun",
+      "titulo": "La segunda sede del Museo Thyssen costará 90 millones y abrirá en 2032",
+      "link": "https://www.abc.es/cultura/arte/segunda-sede-museo-thyssen-costara-millones-abrira-20260916165525-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/16/francesca1-RQg4Lc9fA0J7zgM9M5AOPXI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Festival de (mis) ideas",
+      "link": "https://www.abc.es/cultura/cultural/festival-ideas-20260916173634-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/16/festivaldelasideas-RS60PbwWsYriIOvHoIihcrJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los cines se quedan sin 3,5 millones tras un volantazo del Gobierno",
       "link": "https://www.abc.es/cultura/cines-quedan-millones-tras-volantazo-urtasun-20260916161823-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/16/cine-madrigal-ajuarez-RCK1JZqWC6PtSd023mXCPyH-1200x840@diario_abc.jpg",
       "tipo": "imagen"
@@ -22,18 +34,6 @@
       "titulo": "'Los versos satánicos': por qué la novela de Rushdie va mucho más allá de la fatua",
       "link": "https://www.abc.es/cultura/cultural/versos-satanicos-novela-rushdie-alla-fatua-20260916125416-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/17/salman-rushdie-RJ47jOF4zfNEwZyaxyIk2cL-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Vicente Echerri, retratos de la Cuba del exilio",
-      "link": "https://www.abc.es/cultura/cultural/vicente-echerri-retratos-cuba-exilio-20260916125238-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/16/Vicente%20Echerri_ret-RZap4EMC71olTJwArwYlY9L-1200x840@diario_abc.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los libros más vendidos de No Ficción esta semana",
-      "link": "https://www.abc.es/cultura/cultural/libros-vendidos-ficcion-semana-20260916125124-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/16/clear-RpVORKcGvRnfIVGLeiNhu1J-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

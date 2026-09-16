@@ -1,21 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "El colapso de un edificio dañado en la guerra en Gaza causa al menos 20 muertos",
+      "link": "https://www.elmundo.es/internacional/2026/09/16/6aaa9e7efc6c83bd668b457d.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/16/17895670358519.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Rusia extiende su estrategia de terror contra los ucranianos y ataca trenes, gasolineras y almacenes de alimentos",
       "link": "https://www.elmundo.es/internacional/2026/09/15/6aa96ffbe85ecec5028b457d.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/15/17894893113103.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Marine Le Pen seduce a los millonarios",
-      "link": "https://www.elmundo.es/internacional/2026/09/16/6aa94d5b21efa021038b45b1.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/15/17894833497304.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "El ex líder kosovar Hashim Thaçi, condenado en La Haya a 25 años de cárcel por crímenes de guerra",
       "link": "https://www.elmundo.es/internacional/2026/09/16/6aaa3e92fdddff9f6d8b4585.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/16/17895440338121.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Marine Le Pen seduce a los millonarios",
+      "link": "https://www.elmundo.es/internacional/2026/09/16/6aa94d5b21efa021038b45b1.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/15/17894833497304.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "El castrismo salva el verano con récords históricos de impopularidad en Cuba",
       "link": "https://www.elmundo.es/internacional/2026/09/16/6aa975b621efa0df418b45c1.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/15/17894905926349.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El ex ministro venezolano Alex Saab, principal testaferro de Maduro, se declara en EEUU culpable de lavado de dinero",
-      "link": "https://www.elmundo.es/internacional/2026/09/15/6aa97617e9cf4aac6d8b458c.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/15/17894942692560.jpg",
       "tipo": "imagen"
     }
   ]

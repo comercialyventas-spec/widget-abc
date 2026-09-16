@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El incendio de Quiroga abrasa 320 hectáreas y moviliza medios estatales",
+      "link": "https://www.abc.es/espana/galicia/incendio-quiroga-abrasa-320-hectareas-moviliza-medios-20260916172607-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/16/1517402079-Rsvi7lpsXELYWaVFY42dnmI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Coruña y Vigo, las ciudades en las que mejor se vive de España",
       "link": "https://www.abc.es/espana/galicia/coruna-vigo-ciudades-mejor-vive-espana-20260916170000-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/16/1495496739-RhpRkdiEyc8VDu9KWk7QPrO-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Conxemar concentra ya dos tercios del negocio de la industria pesquera española",
       "link": "https://www.abc.es/espana/galicia/conxemar-concentra-dos-tercios-negocio-industria-pesquera-20260916140817-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/16/20260916_presentacion%20informe%20Conxemar_2-RBSSd08yxNpD2E21Z3RNr0O-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El incendio de Quiroga (Lugo) sigue sin control y arrasa ya 250 hectáreas",
-      "link": "https://www.abc.es/espana/galicia/incendio-quiroga-lugo-sigue-control-arrasa-250-20260916095037-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/16/1509360113-R1RwSWv65JpdC6y8mD7T04I-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

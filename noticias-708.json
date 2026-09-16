@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "La IA solo podrá utilizar la imagen y la voz de los artistas si hay un contrato y una retribución",
+      "link": "https://www.eldiario.es/cultura/ia-podra-utilizar-imagen-voz-artistas-si-hay-contrato-retribucion_1_13514014.html",
+      "imagen": "https://static.eldiario.es/clip/8113b370-5deb-4f70-8d62-8460a2e421bd_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Almeida amenaza con retirar el apoyo al Festival de las Ideas tras la salida de Allianz como patrocinador",
+      "link": "https://www.eldiario.es/cultura/almeida-amenaza-retirar-apoyo-festival-ideas-salida-allianz-patrocinador_1_13514207.html",
+      "imagen": "https://static.eldiario.es/clip/8d06554a-fbef-4cbb-baf9-5c75a320422a_16-9-discover-aspect-ratio_default_1151281.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "‘La bola negra’, de los Javis, representará a España en la carrera por el Oscar",
+      "link": "https://www.eldiario.es/cultura/cine/bola-negra-javis-representara-espana-carrera-oscar_1_13513318.html",
+      "imagen": "https://static.eldiario.es/clip/3af077c7-ba37-4f0e-8fc1-e65c3d54cd00_16-9-discover-aspect-ratio_default_0_x896y687.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los teloneros abandonan a Ed Sheeran tras la expulsión de Macklemore: “El dinero no da derecho a decidir quién puede hablar”",
+      "link": "https://www.eldiario.es/cultura/teloneros-abandonan-ed-sheeran-expulsion-macklemore-dinero-no-da-derecho-decidir-hablar_1_13513205.html",
+      "imagen": "https://static.eldiario.es/clip/0eacc06e-9a23-410f-81d3-bd38c5e62287_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Por qué el estreno de ‘Coyote vs. Acme’ es un triunfo para el cine como respuesta a las empresas sin escrúpulos",
       "link": "https://www.eldiario.es/cultura/cine/estreno-coyote-vs-acme-triunfo-cine-respuesta-empresas-escrupulos_129_13512108.html",
       "imagen": "https://static.eldiario.es/clip/dc0861bb-3a68-4400-9db3-008d68b4f122_16-9-discover-aspect-ratio_default_0.jpg",
@@ -10,30 +34,6 @@
       "titulo": "Miriam Garlo: “Las personas con discapacidad importamos si somos unas campeonas, pero no si tenemos un mal día”",
       "link": "https://www.eldiario.es/cultura/libros/miriam-garlo-personas-discapacidad-importamos-si-campeonas-no-si-mal-dia_1_13511747.html",
       "imagen": "https://static.eldiario.es/clip/f6d4b6a3-c5a7-4494-bf73-71690379de8f_16-9-discover-aspect-ratio_default_0_x1005y481.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Llevo media vida produciendo discos y ahora los robots no paran de mandarme sus canciones chuscas y horteras",
-      "link": "https://www.eldiario.es/cultura/musica/llevo-media-vida-produciendo-discos-ahora-robots-no-paran-mandarme-canciones-chuscas-horteras_129_13510121.html",
-      "imagen": "https://static.eldiario.es/clip/9b7981bc-7f4f-4ccc-808c-93fe81591ef5_16-9-discover-aspect-ratio_default_0_x638y208.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ed Sheeran se pronuncia tras la exclusión de Macklemore de su gira por defender a Palestina: “No soy cómplice, elijo no hablar públicamente”",
-      "link": "https://www.eldiario.es/cultura/ed-sheeran-pronuncia-exclusion-macklemore-gira-defender-palestina-no-complice-elijo-no-hablar-publicamente_1_13512537.html",
-      "imagen": "https://static.eldiario.es/clip/7038a4a1-e141-40f3-8414-4df7ef810b47_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Muere el director de cine chileno y maestro del documental Patricio Guzmán a los 85 años",
-      "link": "https://www.eldiario.es/cultura/cine/muere-director-cine-chileno-patricio-guzman-85-anos_1_13512612.html",
-      "imagen": "https://static.eldiario.es/clip/03451454-d7dc-4648-8ba8-0223cbc4ea2d_16-9-discover-aspect-ratio_default_0_x941y377.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El dj que vio venir el reguetón, pero el estallido le pilló en la cárcel: “Estuve en el infierno y sé qué es la maldad”",
-      "link": "https://www.eldiario.es/cultura/musica/dj-vio-venir-regueton-estallido-le-pillo-carcel-estuve-infierno-maldad_1_13510349.html",
-      "imagen": "https://static.eldiario.es/clip/bbd41b2d-330a-4ef5-b68e-00313c4984a7_16-9-discover-aspect-ratio_default_1151191.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Juan del Val, convencido con lo que sucederá en las próximas elecciones: «Hay gente que piensa que lo que viene es mucho peor y por eso se queda con Pedro Sánchez»",
+      "titulo": "Juan del Val, convencido de lo que sucederá en las próximas elecciones: «Hay gente que piensa que lo que viene es mucho peor y por eso se queda con Pedro Sánchez»",
       "link": "https://www.abc.es/play/television/noticias/juan-val-sobre-proximas-elecciones-gente-piensa-20260916160004-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/16/delval-sanchez-kvBI-U301748304854iyD-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Risto Mejide expone a Vinicius, Mbappé y Konaté por su gesto con Ceuta: «Igual deberían haberles pagado para llevar esa camiseta»",
+      "link": "https://www.abc.es/play/television/noticias/risto-mejide-expone-vinicius-mbappe-konate-gesto-20260916170651-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/16/tem-risto-mejide-260916-R1HKS4VmQaTE9I1EPS7G5zM-1200x840@diario_abc.png",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Preguntan a Susana Díaz por qué no dimite el delegado de Gobierno de Ceuta y su respuesta 'indigna' a Susanna Griso",
       "link": "https://www.abc.es/play/television/noticias/preguntan-susana-diaz-dimite-delegado-gobierno-ceuta-20260916103945-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/16/susanna-dia-susanna-griso-delegado-gobierno-ceuta-R2hcGSpoV8Hy3KbECZjVGLL-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un ceutí deja en 'shock' a Ana Rosa con la «grave» información que da sobre lo ocurrido en Ceuta: «Esto es algo muy fuerte»",
-      "link": "https://www.abc.es/play/television/noticias/ceuti-deja-shock-ana-rosa-grave-informacion-20260916095651-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/16/ceuti-shock-ana-rosa-informacion-grave-RUU7IZvlPiCqRso1VXeWrTL-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

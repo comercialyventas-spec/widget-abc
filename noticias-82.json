@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "LUCAS FRANCO ABOGADOS",
+      "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/2806143/daniel-lucas-romero.html",
+      "imagen": "https://edv-static.lavanguardia.com/assets/img/2806143/banner-1778514523000.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La bata vacía",
       "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/4760573/isem-formacion-y-desarrollo-del-medico.html",
       "imagen": "https://edv-static.lavanguardia.com/assets/img/4760573/banner-1789549014000.jpeg",
@@ -16,12 +22,6 @@
       "titulo": "LA TEVA WEB",
       "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/7195475/la-teva-web-sl.html",
       "imagen": "https://edv-static.lavanguardia.com/assets/img/7195475/banner-image.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ineffable Coffee",
-      "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/3054519/ineffable-coffee.html",
-      "imagen": "https://edv-static.lavanguardia.com/assets/img/3054519/banner-1789051433000.jpeg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Neagley",
+      "link": "https://elpais.com/television/series/neagley/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/X74Z5W5WOFAWFNQ57YLBHNDJV4.jpg?auth=87812809e2273baad2450bb58e2170e2d2dfb0f1300956b315b124cf2082a987",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Mínima seguridad",
+      "link": "https://elpais.com/television/series/minima-seguridad/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SZTH37JEMVC6ZF22BKKIXNGCC4.webp?auth=267f56fbbb0f3e9a2d9a85890d13c549907e2781d98bf3cdf608d45d3e6c1c6c",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Slow Horses",
+      "link": "https://elpais.com/television/series/slow-horses/",
+      "imagen": "https://vdmedia.elpais.com/elpaistop/multimedia/20224/28/20220428095802_1651132764_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La muñeca",
       "link": "https://elpais.com/television/series/la-muneca/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/3U3GWBL4QBG6NAXOT63BI5AW2M.jpg?auth=3291d4988ed768fd7bc014bdeb622a61a9dded121a268ad7777a3bb8de9d57ca",
@@ -16,24 +34,6 @@
       "titulo": "City of Blood",
       "link": "https://elpais.com/television/series/city-of-blood/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/H7BZPYBUGFGGRNGCOD4OPYFKAY.jpg?auth=1bb2d6f9cfe04f0f5cd052570718c991d006fd8cb7c9a91471994e74f8bebf50",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘The Undeclared War’: sistemas informáticos y ciberataques",
-      "link": "https://elpais.com/television/series/2026-09-16/the-undeclared-war-sistemas-informaticos-y-ciberataques.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/CIGYSFLTOFERLAOC64H46XUZQE.jpg?auth=12f4e2384fd156863d2562eaf108a587df35b7f3c22b4249922f5a05c6c7d49d",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "NCIS: Sydney",
-      "link": "https://elpais.com/television/series/ncis-sydney/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/2VMOZDU46ZGYDCDRPL7VDKV6RM.webp?auth=b8217e8618d994675a65f431d08fbfd2d7d2de697e44f911b5537e38626ea6de",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La televisión valenciana suspende un concurso que arrancó con un saludo del presentador “a la tele de todos los madrileños”",
-      "link": "https://elpais.com/espana/comunidad-valenciana/2026-09-15/la-television-valenciana-suspende-un-concurso-que-arranco-con-un-saludo-del-presentador-a-la-tele-de-todos-los-madrilenos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/IWK4HOIELBHMXJA2RW6EYLTY4M.webp?auth=6e751f14228c6cb1e435c56f14dd2abd7eb7534b6cd7ebe892d065701518ee0a",
       "tipo": "imagen"
     }
   ]
