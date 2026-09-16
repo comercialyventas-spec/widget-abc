@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "¿Cómo dejan el pelo los champús sólidos? Comparamos cuatro y tenemos un claro favorito",
-      "link": "https://elpais.com/escaparate/comparativas/mejores-champus-solidos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/DUROMPLMTRHTTKLB56RNSBYU6I.png?auth=24f602c3e26d4905c895f40582f48ab33c8b2ee41d65c67d7486558bf9946ba7",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Más de 96.000 valoraciones avalan esta crema de CeraVe: por qué causa furor en redes",
       "link": "https://elpais.com/escaparate/belleza/crema-hidratante-cerave.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/IICXXGMSMRGAFKLOIVANEPHZJU.png?auth=39828f94819fc55055e6296c5d1bc1a4c481f26f5163032b85a16758d793df6d",
@@ -34,6 +28,12 @@
       "titulo": "He probado varios teclados ergonómicos y este es mi preferido",
       "link": "https://elpais.com/escaparate/comparativas/mejores-teclados-ergonomicos.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/2CVSEHWNQNCF3AQEQHUDOBHDPA.jpg?auth=5d9007733cab81d4559818677f91b271f5b5b1aed3b910d13c6404ef2bf18364",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ponemos a prueba cuatro champús para perros y descubrimos cuál es el mejor",
+      "link": "https://elpais.com/escaparate/comparativas/mejor-champu-seco-para-perros.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/34PZKSC3MBABRPIUKIWPPIIPTY.jpg?auth=a5e03a5a25befc87bebcc6eaf227224ff5018c9c91bf7ff1d861726e6ce8a796",
       "tipo": "imagen"
     }
   ]
