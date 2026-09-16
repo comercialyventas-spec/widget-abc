@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "El sótano de la tortura",
-      "link": "https://www.abc.es/play/television/noticias/rebeca-argudo-sotano-tortura-20260915013657-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/15/sotano-RsgYGf7TZ9baSY4n63qVIXP-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "El efecto Shakira dispara las reservas en Madrid: «Es la primera vez que vivimos algo así»",
-      "link": "https://www.abc.es/espana/madrid/negocios-villaverde-expectantes-ante-efecto-shakirano-creo-20260915014117-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/15/macondo-RORQTqAUWWV4oZuNI6nMsBM-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "Javier Sierra desvela los mensajes ocultos que Da Vinci escondió en su obra culmen: 'La última cena'",
       "link": "https://www.abc.es/historia/javier-sierra-sobre-mensajes-ocultos-ultima-cena-20260916013622-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/historia/2026/09/16/javiersierra1_papel_xoptimizadax-RovGi7FyRt5bh0Wo0ug3oUK-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/historia/2026/09/16/javiersierra1_papel_xoptimizadax-RovGi7FyRt5bh0Wo0ug3oUK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El efecto Shakira dispara las reservas en hoteles y restaurantes de Madrid: «Es la primera vez que vivimos algo así»",
+      "link": "https://www.abc.es/espana/madrid/negocios-villaverde-expectantes-ante-efecto-shakirano-creo-20260915014117-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/15/macondo-RORQTqAUWWV4oZuNI6nMsBM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "El mundo libre",
       "link": "https://www.abc.es/opinion/michael-ignatieff-mundo-libre-20260915185840-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2026/09/15/DAMBin%20(46)-R3IsmntaGoJc64YyWZukVgI-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2026/09/15/DAMBin%20(46)-R3IsmntaGoJc64YyWZukVgI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Inquietante giro en la desaparición de Roberto, un anciano con alzhéimer",
       "link": "https://www.abc.es/espana/madrid/inquietante-giro-desaparicion-roberto-anciano-alzheimer-20260915014054-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/15/roberto-fernandez-magrinat-desaparecido-madrid-090920226-RBgsGgwh657RX8uHbwsHpzO-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/15/roberto-fernandez-magrinat-desaparecido-madrid-090920226-RBgsGgwh657RX8uHbwsHpzO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Inma Martínez: «La inteligencia artificial no puede matarnos, pero puede dejarnos sin dinero, comida o luz»",
       "link": "https://www.abc.es/tecnologia/inma-martinez-inteligencia-artificial-puede-matarnos-puede-20260916014154-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/16/122287521-R8brVKrK71pTmJ45fh9C6pK-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/16/122287521-R8brVKrK71pTmJ45fh9C6pK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Justicia andaluza alerta al Gobierno de que sus pulseras antimaltrato indican ubicaciones falsas",
+      "link": "https://www.abc.es/espana/andalucia/justicia-andaluza-alerta-gobierno-pulseras-antimaltrato-ofrecen-20260916013451-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/16/cover-pulseras-redondo-documentos-horiz-Rrlf3iaLvT1rwjFmlXgGEsI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }
