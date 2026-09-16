@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La sombra del arco iris en el Alt Penedès",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260916/11636319/sombra-arco-iris-alt-penedes.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/16/6aaa8118279bb.r_d.1029-981-2338.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El encanto otoñal de la zarzaparrilla",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260916/11636330/encanto-otonal-zarzaparrilla.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/16/6aaa82ee07b8c.r_d.960-640-2338.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Los girasoles tristes de Pals",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260916/11636200/girasoles-tristes-pals.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/16/6aaa6a3d950a0.r_d.966-808-2338.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El agapornis de los búnkeres del Carmel",
-      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260916/11636060/agapornis-bunkeres-carmel.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/16/6aaa4fcde90e8.r_d.1049-670-2338.jpeg",
       "tipo": "imagen"
     }
   ]
