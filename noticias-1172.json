@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El incendio de Tuéjar arrasa 690 hectáreas, deja 2 bomberos heridos y amenaza una reserva de la biosfera",
+      "link": "https://okdiario.com/comunidad-valenciana/incendio-tuejar-arrasa-690-hectareas-deja-2-bomberos-heridos-amenaza-reserva-biosfera-20297119",
+      "imagen": "https://okdiario.com/img/2026/09/16/incendio-tuejar.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Precio de la gasolina hoy 16 de septiembre: localiza las gasolineras más baratas de Madrid",
       "link": "https://okdiario.com/madrid/precio-gasolina-hoy-16-septiembre-localiza-gasolineras-mas-baratas-madrid-20282700",
       "imagen": "https://okdiario.com/img/2026/09/14/precio-de-la-gasolina-hoy-16-de-septiembre-localiza-las-gasolineras-mas-baratas-de-madrid.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Cielos despejados y riesgo de tormentas en Andalucía, según AEMET",
       "link": "https://okdiario.com/andalucia/cielos-despejados-y-riesgo-de-tormentas-en-andalucia-segun-aemet-2-20299545",
       "imagen": "https://okdiario.com/img/2026/01/12/maximas-andalucia-interior.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Precio de la gasolina hoy 16 de septiembre: localiza las gasolineras más baratas de Sevilla, Cádiz y otras ciudades de Andalucía",
-      "link": "https://okdiario.com/andalucia/precio-gasolina-hoy-16-septiembre-localiza-gasolineras-mas-baratas-sevilla-cadiz-otras-ciudades-andalucia-20282715",
-      "imagen": "https://okdiario.com/img/2026/09/14/precio-de-la-gasolina-hoy-16-de-septiembre-localiza-las-gasolineras-mas-baratas-de-sevilla-cadiz-y-otras-ciudades-de-andalucia.jpg",
       "tipo": "imagen"
     }
   ]
