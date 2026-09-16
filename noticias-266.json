@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Galicia registra la mayor caída de nacimientos de España",
+      "link": "https://www.abc.es/espana/galicia/galicia-registra-mayor-caida-nacimientos-espana-20260916104009-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/16/1410668137-RasykrJ9mzd7KHbWum5xkbP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El incendio de Quiroga (Lugo) sigue sin control y arrasa ya 250 hectáreas",
       "link": "https://www.abc.es/espana/galicia/incendio-quiroga-lugo-sigue-control-arrasa-250-20260916095037-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/16/1509360113-R1RwSWv65JpdC6y8mD7T04I-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Estos son los 96 alquileres asequibles que el Gobierno oferta en Galicia: ninguno en Vigo, La Coruña o Santiago",
       "link": "https://www.abc.es/espana/galicia/alquileres-asequibles-gobierno-oferta-galicia-ninguno-vigo-20260915062302-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/15/1508375163-RziHBNgNaOnZbeEJetdhGEP-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Este es el único restaurante gallego que aspira a ser la mejor apertura de España en los TheFork Awards",
-      "link": "https://www.abc.es/espana/galicia/unico-restaurante-gallego-aspira-mejor-apertura-espana-20260915062300-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/15/1448714578-Rzk0w9Co0eFdOIiEjXmamFK-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

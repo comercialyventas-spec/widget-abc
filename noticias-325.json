@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Una pizzería de Madrid, reelegida la octava mejor del mundo en el 'Top 50 Pizza'",
+      "link": "https://www.abc.es/gastronomia/pizzeria-madrid-reelegida-octava-mejor-mundo-top-20260916103208-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/16/baldoria-R1bjyfVFZkImHh6STusR2FI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Amigos Blanco, dos generaciones de viñedo en una botella",
       "link": "https://www.abc.es/gastronomia/vinos/amigos-blanco-dos-generaciones-vinedo-botella-20260910104130-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/10/torre-RSLTbl5WUWEIJRD87yJFqfP-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El nuevo gastronómico de Madrid escondido en uno de sus templos del ocio nocturno",
       "link": "https://www.abc.es/gastronomia/nuevo-gastronomico-madrid-escondido-templos-emblematicos-ocio-20260906182041-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/06/Espacio_01-RwC4T0wOemKmbQykJfXAl4K-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "'Subijana, Más allá de un bigote', el documental sobre los 50 años de la Nueva Cocina Vasca",
-      "link": "https://www.abc.es/gastronomia/subijana-documental-20260905020129-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/05/PEDROSUBIJANAENTREVISTA-R5ZOIhu0YBfTbpVzcv7Yy1L-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

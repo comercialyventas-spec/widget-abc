@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Seis pizzerías españolas entre las 100 mejores del mundo",
+      "link": "https://elpais.com/gastronomia/2026-09-16/seis-pizzerias-espanolas-entre-las-100-mejores-del-mundo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/DWMUPNLLP5AWJKWXU6ZLQCF2EM.jpg?auth=c6725690f8abcafc881f2a2171cc25995632c5bde590df3ff8dfaba15f819957",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Trece recetas que explican por qué la cocina mexicana es de las mejores del mundo",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-09-16/trece-recetas-que-explican-por-que-la-cocina-mexicana-es-de-las-mejores-del-mundo.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/M4O6FX36ZFEEHA5VJYJTR72NBE.jpg?auth=1d15bc560b71a2aba2aeea0ae33da716f556bee8f72c6aa398a70150f531c4b5",
@@ -28,12 +34,6 @@
       "titulo": "La bodega señera de Rioja que conquista también en la Ribera del Duero",
       "link": "https://elpais.com/gastronomia/2026-09-15/la-bodega-senera-de-rioja-que-conquista-tambien-en-la-ribera-del-duero.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/TG64IHUYPVCDZFDJZX37ECOE7Y.jfif?auth=6b98e081e170033ae8c2c1cd160f2e51dae6bef9f50f30f9dab25142de5fecc5",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Berenjenas con tomate, una receta mediterránea multiuso",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-09-15/berenjenas-con-tomate-una-receta-mediterranea-multiuso.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20260724/1198521_122556_video_1800.mp4",
       "tipo": "imagen"
     }
   ]
