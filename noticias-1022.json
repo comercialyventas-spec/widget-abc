@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "La Fed de Warsh desafía a Trump y sube tipos al 4%",
-      "link": "https://www.abc.es/economia/reserva-federal-sube-tipos-interes-cuarto-punto-20260916200545-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/16/1517393029-kHgB-U301752234026YAE-1200x840@diario_abc.jpg"
+      "titulo": "Gabriel Jesus se suma a la fiesta: Festival de goles en el Camp Nou",
+      "link": "https://www.abc.es/deportes/futbol/barcelona-racing-santander-directo-resultado-ganador-goles-20260916204413-di.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/16/liga-j6-barsa-racing_20260914121205-Rq7OtyKymoJceE9LSo9yAiJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "Error garrafal de Szczesny y penalti de Luque: Festival de goles en el Camp Nou",
-      "link": "https://www.abc.es/deportes/futbol/barcelona-racing-santander-directo-resultado-ganador-goles-20260916204413-di.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/16/liga-j6-barsa-racing_20260914121205-Rq7OtyKymoJceE9LSo9yAiJ-1200x840@diario_abc.jpg"
+      "titulo": "La Fed de Warsh desafía a Trump y sube tipos al 4%",
+      "link": "https://www.abc.es/economia/reserva-federal-sube-tipos-interes-cuarto-punto-20260916200545-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/16/1517393029-kHgB-U301752234026YAE-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Cataluña, Comunidad Valenciana y Murcia en alerta por las fuertes lluvias",
       "link": "https://www.abc.es/sociedad/cataluna-comunidad-valenciana-murcia-alerta-fuertes-lluvias-20260916222947-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/16/image(18)-kRl-U301756386961fFD-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/16/image(18)-kRl-U301756386961fFD-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Mbappé se explica tras esconder el apoyo a Ceuta",
       "link": "https://www.abc.es/deportes/real-madrid/mbappe-explica-tras-esconder-apoyo-ceuta-queria-20260916215318-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/16/1517408803-kbtG-U301756070546KfD-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/16/1517408803-kbtG-U301756070546KfD-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Menú semanal para cuidar la microbiota",
       "link": "https://www.abc.es/recetasderechupete/menu-semanal-para-cuidar-la-microbiota-recetas-faciles-con-fibra-fermentados-y-comida-casera/171916/",
-      "imagen": ""
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Pollo frito súper crujiente y sabroso estilo KFC",
       "link": "https://www.abc.es/recetasderechupete/pollo-frito-al-estilo-kfc/13032/",
-      "imagen": ""
+      "imagen": "",
+      "tipo": ""
     }
   ]
 }
