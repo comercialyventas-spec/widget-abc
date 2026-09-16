@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Una distopía europea, Atomizado Berlín de Julia Kornberg",
+      "link": "https://www.20minutos.es/cultura/blogs/motel-margot/",
+      "imagen": "https://www.20minutos.es/uploads/icons/blogs/motel-margot.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Una pareja gana 120.000 euros a la lotería porque el marido selló el boleto equivocado",
       "link": "https://www.20minutos.es/gonzoo/blogs/becario/",
       "imagen": "https://www.20minutos.es/uploads/icons/blogs/becario.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Esperando a la DANA",
       "link": "https://www.20minutos.es/medio-ambiente/blogs/la-cima2030/",
       "imagen": "https://www.20minutos.es/uploads/icons/blogs/la-cima-2030.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Qué tiene de educativo llevar escolares a visitar zoológicos?",
-      "link": "https://www.20minutos.es/medio-ambiente/blogs/cronicaverde/",
-      "imagen": "https://www.20minutos.es/uploads/icons/blogs/cronicaverde.jpg",
       "tipo": "imagen"
     }
   ]

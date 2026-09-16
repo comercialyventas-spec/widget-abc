@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Sin vivienda no hay educación",
+      "link": "https://www.eldiario.es/andalucia/el-blog-de-apdha/vivienda-no-hay-educacion_132_13510312.html",
+      "imagen": "https://static.eldiario.es/clip/0588bab8-5b2e-4fa9-ba5b-749287984822_16-9-discover-aspect-ratio_default_0_x536y285.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los institutos andaluces reciben este martes a más de 887.500 alumnos de ESO, Bachillerato y FP",
       "link": "https://www.eldiario.es/andalucia/institutos-andaluces-reciben-martes-887-500-alumnos-bachillerato-fp_1_13507493.html",
       "imagen": "https://static.eldiario.es/clip/61d955b5-7b6f-46ce-a00d-d5dda7bab0a1_16-9-discover-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La catástrofe de PISA, desde el aula: ¿es culpa de la IA o de un cúmulo de desdichas?",
       "link": "https://www.eldiario.es/opinion/tribuna-abierta/catastrofe-pisa-aula-culpa-ia-cumulo-desdichas_129_13495145.html",
       "imagen": "https://static.eldiario.es/eldiario/public/file/2026/0908/12/captura-de-pantalla-2026-09-08-a-las-14-17.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un conflicto que no cesa: el último curso de “la legislatura del profesorado” arranca entre huelgas y protestas docentes",
-      "link": "https://www.eldiario.es/sociedad/conflicto-no-cesa-ultimo-curso-legislatura-profesorado-arranca-huelgas-protestas-docentes_1_13480101.html",
-      "imagen": "https://static.eldiario.es/clip/bffbf74a-d7c9-4f09-af50-00ac2d65cffc_16-9-discover-aspect-ratio_default_0_x904y799.jpg",
       "tipo": "imagen"
     }
   ]
