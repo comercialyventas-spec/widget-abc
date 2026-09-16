@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en directo, en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-09-16/el-pulso-de-hoy-por-hoy-en-directo-en-el-pais.html",
+      "imagen": "https://www.youtube.com/watch?v=bzgN3LHlY3s",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Qué es Anthropic y por qué se ha convertido en un gigante de la IA?",
       "link": "https://elpais.com/videos/2026-09-16/que-es-anthropic-y-por-que-se-ha-convertido-en-un-gigante-de-la-ia.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260915/1214637_191033_video_1800.mp4",
@@ -28,12 +34,6 @@
       "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en EL PAÍS | Programa del 15 de septiembre de 2026",
       "link": "https://elpais.com/videos/2026-09-15/el-pulso-de-hoy-por-hoy-en-directo-en-el-pais.html",
       "imagen": "https://www.youtube.com/watch?v=6OVV2HLvs4Q",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "En la biblioteca de Sara Barquinero: “Sentí que mi vida mejoraba por tener ‘La náusea’ entre las manos”",
-      "link": "https://elpais.com/videos/2026-09-15/en-la-biblioteca-de-sara-barquinero-senti-que-mi-vida-mejoraba-por-tener-la-nausea-entre-las-manos.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260904/1211024_160806_video_1800.mp4",
       "tipo": "imagen"
     }
   ]
