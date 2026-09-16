@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La niebla y el viento obligan a desviar siete vuelos del aeropuerto de Santiago",
+      "link": "https://www.abc.es/espana/galicia/niebla-viento-obligan-desviar-siete-vuelos-aeropuerto-20260916113029-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/16/1516490769-RxofaY0fjW44YUd4UZiUHCI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Galicia registra la mayor caída de nacimientos de España",
       "link": "https://www.abc.es/espana/galicia/galicia-registra-mayor-caida-nacimientos-espana-20260916104009-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/16/1410668137-RasykrJ9mzd7KHbWum5xkbP-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Un incendio en la montaña de Quiroga (Lugo) supera las 20 hectáreas calcinadas",
       "link": "https://www.abc.es/espana/galicia/incendio-montana-quiroga-lugo-supera-hectareas-calcinadas-20260916083931-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/16/1513672500-ROVpQLRwGErpMvNPpSjUeQN-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Estos son los 96 alquileres asequibles que el Gobierno oferta en Galicia: ninguno en Vigo, La Coruña o Santiago",
-      "link": "https://www.abc.es/espana/galicia/alquileres-asequibles-gobierno-oferta-galicia-ninguno-vigo-20260915062302-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/15/1508375163-RziHBNgNaOnZbeEJetdhGEP-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
