@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Evento sociocultural en zona Centro. Afectadas 18 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260919-Romeria-Colegio-San-Luis.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Rodaje cinematográfico en paseo del Prado. Afectadas 2 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260919-Rodaje-Paseo-Prado.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -27,12 +33,6 @@
     {
       "titulo": "Manifestación en zona Gran Vía. Afectadas 13 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260919-M-Palma-Gran-Via.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Manifestación en zona Centro. Afectadas 27 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260919-M-Carrera-San-Jeronimo-Alcala.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

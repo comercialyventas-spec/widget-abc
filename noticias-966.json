@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La muñeca",
+      "link": "https://elpais.com/television/series/la-muneca/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/3U3GWBL4QBG6NAXOT63BI5AW2M.jpg?auth=3291d4988ed768fd7bc014bdeb622a61a9dded121a268ad7777a3bb8de9d57ca",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El corazón del crimen",
+      "link": "https://elpais.com/television/series/el-corazon-del-crimen/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TT2TJMXGSBGZ3G6SRXJ5C4HYAQ.png?auth=b8b8a40ec202b47b53f6a44429d649af4106da62bdba6b153a7be0427d1d6226",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "City of Blood",
       "link": "https://elpais.com/television/series/city-of-blood/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/H7BZPYBUGFGGRNGCOD4OPYFKAY.jpg?auth=1bb2d6f9cfe04f0f5cd052570718c991d006fd8cb7c9a91471994e74f8bebf50",
@@ -22,18 +34,6 @@
       "titulo": "La televisión valenciana suspende un concurso que arrancó con un saludo del presentador “a la tele de todos los madrileños”",
       "link": "https://elpais.com/espana/comunidad-valenciana/2026-09-15/la-television-valenciana-suspende-un-concurso-que-arranco-con-un-saludo-del-presentador-a-la-tele-de-todos-los-madrilenos.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/IWK4HOIELBHMXJA2RW6EYLTY4M.webp?auth=6e751f14228c6cb1e435c56f14dd2abd7eb7534b6cd7ebe892d065701518ee0a",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "María Galiana, sobre su papel como la abuela Alcántara en ‘Cuéntame’: “El tiempo como actriz lo he desperdiciado”",
-      "link": "https://elpais.com/television/series/2026-09-15/maria-galiana-sobre-su-papel-como-la-abuela-alcantara-en-cuentame-el-tiempo-como-actriz-lo-he-desperdiciado.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260915/1214522_153325_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los premios Emmy ensalzan a actores televisivos como Matthew Rhys y dos comedias raras que más gente debería descubrir",
-      "link": "https://elpais.com/television/series/2026-09-15/los-premios-emmy-ensalzan-a-actores-televisivos-como-matthew-rhys-y-dos-comedias-raras-que-mas-gente-deberia-descubrir.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/DVS6PPU3NVOQXJXLLYT23BGALA.jpg?auth=c13ebc83843ad4dbed68ba28fe9b45300050018104dc0f78884f0d5e0ec00124",
       "tipo": "imagen"
     }
   ]
