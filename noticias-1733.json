@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "'La bola negra', rodada en parte en Granada, representará a España en los Oscar",
+      "link": "https://www.ahoragranada.com/noticias/la-bola-negra-rodada-en-parte-en-granada-representara-a-espana-en-los-oscar/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Rodaje-Los-Javis-Granada-LFR-6.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El capataz Alberto Ortega pregonará la Semana Santa de Granada 2027",
       "link": "https://www.ahoragranada.com/noticias/el-capataz-alberto-ortega-pregonara-la-semana-santa-de-granada-2027/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/06/14-Traslados-Pasos-Kerygma-LFR-26.jpg",
@@ -29,12 +35,6 @@
       "link": "https://www.ahoragranada.com/noticias/el-parlamento-de-andalucia-aprueba-una-declaracion-institucional-en-apoyo-a-granada-2031/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Candidatura-Granada-2031-Parlamento-Andalucia-1.jpg",
       "tipo": "imagen"
-    },
-    {
-      "titulo": "Aviso amarillo por lluvias y tormentas este jueves en tres comarcas de Granada",
-      "link": "https://www.ahoragranada.com/noticias/aviso-amarillo-por-lluvias-y-tormentas-este-jueves-en-tres-comarcas-de-granada/",
-      "imagen": "",
-      "tipo": ""
     }
   ]
 }
