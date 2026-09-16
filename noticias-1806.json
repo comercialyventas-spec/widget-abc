@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Muere el conductor de un tractor en un accidente en Tarragona",
+      "link": "https://www.20minutos.es/cataluna/barcelona/muere-conductor-un-tractor-un-accidente-tarragona_7037257_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/03/6a995f4becf004-21971033.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los delitos en Catalunya bajan un 8,4% hasta agosto de 2026",
       "link": "https://www.20minutos.es/cataluna/barcelona/los-delitos-catalunya-bajan-un-8-4-hasta-agosto-2026_7037209_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/15/6aa987cd034da9-20564572.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "El aeropuerto del Prat registra un récord de 5,9 millones de pasajeros en agosto y supera los 40 millones desde principios de año",
       "link": "https://www.20minutos.es/cataluna/barcelona/aeropuerto-prat-registra-un-record-5-9-millones-pasajeros-agosto-supera-los-40-millones-desde-principios-ano_7037186_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/08/28/68b0308985ff1.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Barcelona abre este martes las ayudas de 600 euros para cambiar un ciclomotor de combustión por uno eléctrico",
-      "link": "https://www.20minutos.es/cataluna/barcelona/barcelona-abre-este-martes-las-ayudas-600-euros-para-cambiar-un-ciclomotor-combustion-por-uno-electrico_7037113_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/03/07/motos-aparcadas-en-aribau.jpeg",
       "tipo": "imagen"
     }
   ]
