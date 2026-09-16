@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Cristina Pitarch, responsable de Anthropic en España: «Un juguete está más regulado que la IA»",
+      "link": "https://www.abc.es/tecnologia/anthropic-urge-gobiernos-legislar-ia-juguete-regulado-20260917000000-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/17/pitarch-anthropic-RDdVq0soKJA8mjvRrUVTAvJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La inteligencia artificial que no sabe escribir: así es la nueva propuesta de uno de los creadores de ChatGPT",
       "link": "https://www.abc.es/tecnologia/inteligencia-artificial-sabe-escribir-nueva-propuesta-creadores-20260916192325-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/16/diogo-almeida-typesafe-ai-RNRUIRTkawFKCgh5K8ukCrL-1200x840@diario_abc.png",
@@ -28,12 +34,6 @@
       "titulo": "España investiga el primer ciberataque realizado por un agente de IA en el país",
       "link": "https://www.abc.es/tecnologia/espana-investiga-primer-ciberataque-realizado-agente-ia-20260915210145-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/15/1442973325-R71owPNgjzOPquTp6ieXknK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las razones ocultas tras la alerta de los gigantes de la IA: «Les permite lavar su imagen y traspasar la responsabilidad a los Gobiernos»",
-      "link": "https://www.abc.es/tecnologia/razones-ocultas-tras-alerta-gigantes-ia-permite-20260915012204-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/15/1517205291-RaJYtrjdib3ZUfEg6eA4GrM-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
