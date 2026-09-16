@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Una historia compartida con Barcelona",
+      "link": "<![CDATA[https://www.elperiodico.com/es/sociedad/20260916/historia-compartida-barcelona-134313395",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2f144b43-de4c-4150-a431-1e90c2ee3dc1_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cristina Taverner y Marta González: «El futuro del diseño seguirá siendo profundamente humano»",
+      "link": "<![CDATA[https://www.elperiodico.com/es/sociedad/20260916/cristina-taverner-marta-gonzalez-futuro-134136424",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/1594001e-c79c-4ce6-b43f-6ef450610aba_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un incendio forestal en Valencia arrasa 690 hectáreas, deja dos bomberos heridos leves y moviliza a 200 efectivos",
       "link": "<![CDATA[https://www.elperiodico.com/es/sociedad/20260916/incendio-forestal-valencia-arrasa-690-134329527",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/07d0b4f1-146b-4662-81e3-3ee9c34f7e8d_media-libre-aspect-ratio_default_0.jpg",
@@ -22,18 +34,6 @@
       "titulo": "La Zarza, símbolo de la emigración extremeña a Catalunya: \"Para mí son mis dos pueblos\"",
       "link": "<![CDATA[https://www.elperiodico.com/es/sociedad/20260915/zarza-simbolo-emigracion-extremena-catalunya-134325173",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/86fc231d-7fdb-409a-829a-de25b45098e9_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Comunidad de Madrid defiende la gestión de las listas de espera tras las acusaciones de alterar la prioridad en el Ramón y Cajal",
-      "link": "<![CDATA[https://www.elperiodico.com/es/sociedad/20260915/comunidad-madrid-defiende-gestion-listas-134324830",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d83e8af8-58a2-41eb-83c7-24ff37b5f2f1_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La delincuencia cae un 8,4% en Catalunya en los primeros ocho meses de este año",
-      "link": "<![CDATA[https://www.elperiodico.com/es/sociedad/20260915/generalitat-reduccion-delincuencia-catalunya-mossos-134324043",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/929af759-9ba8-4a18-ab7c-8f571bc12bae_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
