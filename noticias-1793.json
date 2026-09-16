@@ -1,7 +1,31 @@
 {
   "noticias": [
     {
-      "titulo": "La Audiencia Nacional paraliza el campamento de inmigrantes del Puerto de Ceuta",
+      "titulo": "Cierre del aeropuerto de Manises, caída de un techo en el Vall d'Hebron, calles inundadas... El temporal azota el Mediterráneo",
+      "link": "https://www.20minutos.es/nacional/cierre-aeropuerto-valencia-caida-un-techo-vall-d-hebron-calles-inundadas-temporal-azota-con-fuerza-mediterraneo_7037734_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/16/6aaaff3f6e6782-46434127.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Murcia, Valencia, Alicante y Almería suspenden las clases de este jueves ante la alerta por las fuertes lluvias",
+      "link": "https://www.20minutos.es/nacional/alerta-temporal-lluvia-mediterraneo-obliga-suspender-clases-almeria-murcia_7037748_6.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/15/6aa93529ed7f29-46145534.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El temporal de lluvia en Barcelona causa inundaciones, afectaciones en metro, trenes, aviones y carreteras",
+      "link": "https://www.20minutos.es/cataluna/barcelona/govern-envia-un-es-alert-barcelones-maresme-alertando-riesgo-inundaciones-repentinas_7037728_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/16/6aaaf39d2052f9-62667346.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Una violenta tromba de agua anega Valencia y pone la provincia en alerta por inundaciones",
+      "link": "https://www.20minutos.es/comunidad-valenciana/valencia/una-violenta-tromba-agua-anega-valencia-pone-provincia-alerta-por-inundaciones_7037752_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/16/6aab09f9e15338-45723639.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Audiencia Nacional paraliza el campamento de inmigrantes del Puerto de Ceuta a petición del SUP",
       "link": "https://www.20minutos.es/nacional/audiencia-nacional-paraliza-forma-provisional-campamento-migrantes-puerto-ceuta-peticion-sup_7037671_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/14/6aa7d280d6ea71-15946514.webp",
       "tipo": "imagen"
@@ -10,30 +34,6 @@
       "titulo": "El Gobierno muestra su \"perplejidad\" por la paralización del campamento para migrantes en el Puerto: \"Ceuta no puede esperar\"",
       "link": "https://www.20minutos.es/nacional/gobierno-muestra-su-perplejidad-por-paralizacion-campamento-para-migrantes-puerto-ceuta-no-puede-esperar_7037732_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/16/6aaaf6d6151fd9-74818763.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La jueza cita como testigos a Vivas y el exjefe de gabinete de la Delegación del Gobierno en Ceuta y pide las alertas sobre la entrada masiva de migrantes",
-      "link": "https://www.20minutos.es/nacional/jueza-cita-como-testigos-vivas-exjefe-gabinete-delegacion-gobierno-ceuta-pide-todas-las-alertas_7037580_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/16/6aaab24f6f4924-91831345.webp",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Fiscalía de Ceuta ve una posible \"relación causal\" entre las \"omisiones\" del delegado del Gobierno y los fallecimientos en la frontera",
-      "link": "https://www.20minutos.es/ceuta/fiscalia-senala-delegado-gobierno-ceuta-por-omision-medidas-crisis-migratoria_7037405_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/16/6aaa7575425058-35093785.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Parlamento Europeo reclama \"una investigación independiente y exhaustiva\" sobre la crisis de Ceuta",
-      "link": "https://www.20minutos.es/internacional/parlamento-europeo-reclama-una-investigacion-independiente-exhaustiva-sobre-crisis-ceuta_7037584_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/15/6aa9ac6f5c6c26-13541964.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Congreso reprueba a Marlaska por la crisis de Ceuta con el apoyo de ERC y la abstención de varios socios del Gobierno",
-      "link": "https://www.20minutos.es/nacional/congreso-reprueba-marlaska-por-crisis-ceuta-con-apoyo-erc-abstencion-varios-socios-gobierno_7037718_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/16/6aaae7c93a9bf7-00081895.jpeg",
       "tipo": "imagen"
     }
   ]
