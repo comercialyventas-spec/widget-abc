@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Zuckerberg descarta frenar el desarrollo de la IA y se limita a pedir evaluadores independientes",
+      "link": "https://www.eldiario.es/tecnologia/zuckerberg-ceo-meta-apuesta-evaluadores-independientes-analicen-ia-no-frenar_1_13513241.html",
+      "imagen": "https://static.eldiario.es/clip/3cc90e36-6634-4622-ac21-3630ae4fb744_16-9-discover-aspect-ratio_default_0_x962y334.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La mala pinta de los tipos de interés",
       "link": "https://www.eldiario.es/economia/mala-pinta-tipos-interes_129_13510700.html",
       "imagen": "https://static.eldiario.es/clip/b0d4f24d-4d9f-434f-b154-8e8dfcd78402_avatar-200-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La historia avisa una y otra vez",
       "link": "https://www.eldiario.es/opinion/zona-critica/historia-avisa-vez_129_13512062.html",
       "imagen": "https://static.eldiario.es/clip/a05ebcd3-5357-4d97-9982-d4957670579b_avatar-200-aspect-ratio_default_0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ayuso intenta escapar en un Fórmula 1",
-      "link": "https://www.eldiario.es/opinion/zona-critica/ayuso-escapar-formula-1_129_13511196.html",
-      "imagen": "https://static.eldiario.es/clip/e94f1310-cf2f-4e60-ad40-c9a15bd68921_avatar-200-aspect-ratio_default_0.jpeg",
       "tipo": "imagen"
     }
   ]
