@@ -1,46 +1,6 @@
 {
   "productos": [
     {
-      "titulo": "CAMISETA LETRAS FUCSIA AGATHA RUIZ DE LA PRADA",
-      "url": "https://www.agatharuizdelaprada.com/products/camiseta-letras-multicolor-agatha-ruiz-de-la-prada",
-      "imagen": "https://cdn.shopify.com/s/files/1/0901/8746/4971/files/DSC_0678_3000.jpg?v=1777480858"
-    },
-    {
-      "titulo": "SUDADERA MUJER MOSTAZA FLOR FUCSIA",
-      "url": "https://www.agatharuizdelaprada.com/products/sudadera-mujer-mostaza-flor-fucsia",
-      "imagen": "https://cdn.shopify.com/s/files/1/0901/8746/4971/files/DSC_0213_3000_77c4235a-191f-4001-a70f-066d3d632c03.jpg?v=1777480850"
-    },
-    {
-      "titulo": "PANTALON ALGODON FUCSIA SOBRE BOTON NUBE",
-      "url": "https://www.agatharuizdelaprada.com/products/pantalon-algodon-fucsia-sobre-boton-nube",
-      "imagen": "https://cdn.shopify.com/s/files/1/0901/8746/4971/files/DSC_0510_3000_8e7f1405-1b1a-46c4-bd6c-2d850b09645d.jpg?v=1777480867"
-    },
-    {
-      "titulo": "CUERPO MICROPANA ESTRELLA",
-      "url": "https://www.agatharuizdelaprada.com/products/cuerpo-micropana-estrella",
-      "imagen": "https://cdn.shopify.com/s/files/1/0901/8746/4971/files/DSC_0475_3000a.jpg?v=1777481215"
-    },
-    {
-      "titulo": "CUERPO MICROPANA NUBE",
-      "url": "https://www.agatharuizdelaprada.com/products/cuerpo-micropana-nube",
-      "imagen": "https://cdn.shopify.com/s/files/1/0901/8746/4971/files/DSC_0362-2_3000.jpg?v=1777480886"
-    },
-    {
-      "titulo": "BOTIN CORAZON DORADO",
-      "url": "https://www.agatharuizdelaprada.com/products/botin-corazon-dorado",
-      "imagen": "https://cdn.shopify.com/s/files/1/0901/8746/4971/files/251985-A103-02.webp?v=1777480892"
-    },
-    {
-      "titulo": "CAMISETA CUELLO ALTO TOPOS Y CORAZONES",
-      "url": "https://www.agatharuizdelaprada.com/products/camiseta-cuello-alto-topos-y-corazones",
-      "imagen": "https://cdn.shopify.com/s/files/1/0901/8746/4971/files/DSC_0925_3000.jpg?v=1777480956"
-    },
-    {
-      "titulo": "FALDA GLOBO LARGA FUCSIA",
-      "url": "https://www.agatharuizdelaprada.com/products/falda-globo-larga-fucsia",
-      "imagen": "https://cdn.shopify.com/s/files/1/0901/8746/4971/files/DSC_2028_14c49563-7df6-4ffb-aa13-14693fd081e9.jpg?v=1777481009"
-    },
-    {
       "titulo": "SUDADERA TOPOS CORAZONES ROSA",
       "url": "https://www.agatharuizdelaprada.com/products/sudadera-topos-corazones-rosa",
       "imagen": "https://cdn.shopify.com/s/files/1/0901/8746/4971/files/DSC_0422_3000.jpg?v=1777480901"
@@ -119,10 +79,50 @@
       "titulo": "PENDIENTES NUBE DIVERSIONES LÍNEAS",
       "url": "https://www.agatharuizdelaprada.com/products/pendientes-nube-diversiones-lineas",
       "imagen": "https://cdn.shopify.com/s/files/1/0901/8746/4971/files/014DIV_FOTO_014DIV.jpg?v=1777480942"
+    },
+    {
+      "titulo": "PENDIENTES FLOR DIVERSIONES ROSAS CZ",
+      "url": "https://www.agatharuizdelaprada.com/products/pendientes-flor-diversiones-rosas-cz",
+      "imagen": "https://cdn.shopify.com/s/files/1/0901/8746/4971/files/015DIV_FOTO_015DIV.jpg?v=1777480940"
+    },
+    {
+      "titulo": "PENDIENTES FLOR DIVERSIONES MULTICOLOR PASTEL CZ",
+      "url": "https://www.agatharuizdelaprada.com/products/pendientes-flor-diversiones-multi-pastel-cz",
+      "imagen": "https://cdn.shopify.com/s/files/1/0901/8746/4971/files/018DIV_FOTO_018DIV.jpg?v=1777480941"
+    },
+    {
+      "titulo": "PENDIENTES FLOR DIVERSIONES AZUL PASTEL CZ",
+      "url": "https://www.agatharuizdelaprada.com/products/pendientes-flor-diversiones-azul-pastel-cz",
+      "imagen": "https://cdn.shopify.com/s/files/1/0901/8746/4971/files/019DIV_FOTO_019DIV.jpg?v=1777480948"
+    },
+    {
+      "titulo": "PENDIENTES MARIPOSA DIVERSIONES FUCSIA NARANJA",
+      "url": "https://www.agatharuizdelaprada.com/products/pendientes-mariposa-diversiones-fucsia-naranja",
+      "imagen": "https://cdn.shopify.com/s/files/1/0901/8746/4971/files/021DIV_FOTO_021DIV.jpg?v=1777480947"
+    },
+    {
+      "titulo": "PENDIENTES MARIPOSA DIVERSIONES ROSA FUCSIA",
+      "url": "https://www.agatharuizdelaprada.com/products/pendientes-mariposa-diversiones-rosa-fucsia",
+      "imagen": "https://cdn.shopify.com/s/files/1/0901/8746/4971/files/022DIV_FOTO_022DIV.jpg?v=1777480947"
+    },
+    {
+      "titulo": "PENDIENTES MARIPOSA DIVERSIONES FUCSIA AGUA",
+      "url": "https://www.agatharuizdelaprada.com/products/pendientes-mariposa-diversiones-fucsia-agua",
+      "imagen": "https://cdn.shopify.com/s/files/1/0901/8746/4971/files/023DIV_FOTO_023DIV.jpg?v=1777480947"
+    },
+    {
+      "titulo": "CRIOLLAS CORAZÓN DIVERSIONES ROSAS",
+      "url": "https://www.agatharuizdelaprada.com/products/criollas-corazon-diversiones-rosas",
+      "imagen": "https://cdn.shopify.com/s/files/1/0901/8746/4971/files/026DIV_FOTO_026DIV.jpg?v=1777480947"
+    },
+    {
+      "titulo": "CRIOLLAS CORAZÓN DIVERSIONES TOPOS",
+      "url": "https://www.agatharuizdelaprada.com/products/criollas-corazon-diversiones-topos",
+      "imagen": "https://cdn.shopify.com/s/files/1/0901/8746/4971/files/027DIV_FOTO_027DIV.jpg?v=1777480947"
     }
   ],
   "pagina": 24,
   "totalPaginas": 37,
   "hayMas": true,
-  "generado": "2026-09-11T03:03:51.966Z"
+  "generado": "2026-09-16T03:03:42.623Z"
 }
