@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Europa necesita un líder de ayer",
+      "link": "https://www.lavanguardia.com/internacional/20260917/11636714/europa-necesita-lider-ayer.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Trump clausura el Centro Kennedy hasta que la justicia le permita poner su nombre en la fachada",
       "link": "https://www.lavanguardia.com/internacional/20260916/11636481/trump-clausura-centro-kennedy-justicia-le-permita-poner-nombre-fachada.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Al menos 21 muertos y 10 desaparecidos en el derrumbe de un edificio de seis plantas en Gaza",
       "link": "https://www.lavanguardia.com/internacional/20260916/11636250/muertos-derrumbe-edificio-seis-plantas-gaza.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/16/6aaa7b8a18d4f.r_d.4320-2880-519.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Tribunal de la Haya condena a Hashim Thaci, expresidente de Kosovo a 25 años por crímenes de guerra",
-      "link": "https://www.lavanguardia.com/internacional/20260916/11636236/tribunal-haya-condena-hashim-thaci-expresidente-kosovo-25-anos-crimenes-guerra.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/09/6989cfe5c91a2.r_d.1311-1268-0.jpeg",
       "tipo": "imagen"
     }
   ]
