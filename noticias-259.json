@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Valencia amanece en aviso naranja tras revivir las pesadillas de la dana",
+      "titulo": "Valencia amanece en alerta tras revivir las pesadillas de la dana",
       "link": "https://www.abc.es/espana/comunidad-valenciana/valencia-amanece-aviso-naranja-tras-revivir-pesadillas-20260917075307-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/17/valencia-lluvias-RBKpWeedSBlQNCmjQ86uAJO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Una menor alerta a Emergencias de que su padre intenta estrangular a su madre en su vivienda de Málaga",
+      "link": "https://www.abc.es/espana/andalucia/malaga/menor-alerta-emergencias-padre-intenta-estrangular-madre-20260917080822-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/17/crimen-machista-malaga-kWYE-U301759324291t6-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -29,12 +35,6 @@
       "link": "https://www.abc.es/espana/andalucia/cordoba/semana-santa/virgen-fuensanta-cordoba-retirara-culto-estudio-conservacion-20260917072418-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/17/virgen-fuensanta-conservacion-RVuZ3atsIBGk3WnAq35MHHI-1200x840@diario_abc.jpg",
       "tipo": "imagen"
-    },
-    {
-      "titulo": "El peligro está en no pensar",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/jose-luque-peligro-pensar-20260917072233-nts.html",
-      "imagen": "",
-      "tipo": ""
     }
   ]
 }

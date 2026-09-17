@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Guerra de Irán, en directo",
+      "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260917/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9dee4255-971f-43a4-a49d-40c2e7e13623_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Guerra Ucrania - Rusia, última hora en directo",
+      "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260917/guerra-ucrania---rusia-ultima-126605559",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a315bd8f-ea71-4514-9eaf-d053fe7a66e3_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Trump amenaza con grandes aranceles contra Europa si Canadá se asocia con la UE",
       "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260917/trump-amenaza-grandes-aranceles-europa-134376332",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/4fb85730-33b5-4fe6-89bc-429920ee8ca9_media-libre-aspect-ratio_default_0.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Trump saca a Venezuela de la lista de países que incumplen en la lucha contra el narcotráfico",
       "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260916/trump-saca-venezuela-lista-paises-incumplen-lucha-narcotrafico-134362506",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/64122d74-981b-42cc-88d6-c852a9314b99_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Marine Le Pen convierte la vivienda en el nuevo caballo de batalla de la \"preferencia nacional\"",
-      "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260916/marine-le-pen-convierte-vivienda-nueva-batalla-preferencia-nacional-francia-134359952",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f60e4780-c337-413f-a358-400facb752a3_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Al menos 20 muertos, entre ellos niños, por el derrumbe de un edificio dañado por los ataques israelíes en Ciudad de Gaza",
-      "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260916/muertos-derrumbe-edificio-danado-bombas-israel-gaza-refugio-familias-134355689",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ce6ec850-09e7-4432-9afb-43fc2bb94c14_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
