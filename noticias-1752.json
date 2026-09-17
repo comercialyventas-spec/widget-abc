@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Frankenstein y la IA: el problema no es la tecnología",
+      "link": "https://www.publico.es/opinion/columnas/frankenstein-ia-problema-tecnologia.html",
+      "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/09/6aa168e61f370.r_d.964-513-1406.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las lluvias torrenciales dejan hasta 71 litros por metro cuadrado en solo media hora en Torrent",
       "link": "https://www.publico.es/sociedad/sucesos/lluvias-torrenciales-dejan-71-m2-media-hora-torrent.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/16/6aab06923aeba.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "El límite de lo decible",
       "link": "https://www.publico.es/opinion/columnas/limite-decible.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/15/6aa91d7e3e4a4.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un fallo en la justicia hizo que no se avisara a una víctima de que su agresor dejaba de llevar pulsera: \"No sé si solo me ha pasado a mí\"",
-      "link": "https://www.publico.es/mujer/violencia-machista/fallo-justicia-hizo-avisara-victima-agresor-dejaba-llevar-pulsera-me-pasado.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/16/6aaa66e472173.jpeg",
       "tipo": "imagen"
     }
   ]

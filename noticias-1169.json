@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "No tengo tiempo para tener más amigos",
+      "link": "https://elpais.com/videos/2026-09-17/no-tengo-tiempo-para-tener-mas-amigos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/W4CNWJ6HWJBRXLHOZCJG2QOWB4.jpg?auth=4c34bc1aa671d5fd127f32dcb610c0868c3a27befa8f8400df671e73ee326435&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Por qué China está obsesionada con construir grandes estructuras de transporte?",
+      "link": "https://elpais.com/videos/2026-09-17/por-que-china-esta-obsesionada-con-construir-grandes-estructuras-de-transporte.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/W3YQGSJMHREQXGY2A43PTQVHAA.jpeg?auth=b91968139abaa31dc4dac03e4225a8fecbcb5fa6eae3e7259b5603f49838901f&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "‘La mesa de Hora 25’, en EL PAÍS | Programa del 16 de septiembre de 2026",
+      "link": "https://elpais.com/videos/2026-09-16/la-mesa-de-hora-25-en-el-pais-programa-del-16-de-septiembre-de-2026.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RIBFKHCERJDFHKWBRGWFOY5NAA.jpeg?auth=9cd2dd0d3f4eae441365fd01bca6aa58b73d643f07eab2bd9f9493a926406d01&width=414&height=233&focal=354%2C362",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Video| Así informó en vivo la NBC el accidente de un helicóptero de la cadena",
+      "link": "https://elpais.com/us/2026-09-16/video-asi-informo-en-vivo-la-nbc-el-accidente-de-un-helicoptero-de-la-cadena.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ILDJZPRXSZLA3BHC6JP7NAOYPA.jpg?auth=0bc745cf8b8beb8a4da8677a9456f819bc9e6ebc4db04fa1dc1b38493867d6f2&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en directo, en EL PAÍS",
       "link": "https://elpais.com/videos/2026-09-16/el-pulso-de-hoy-por-hoy-en-directo-en-el-pais.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/W33TL5GQBBHPPKZ2CBK6PCULCY.png?auth=31d69aadfdcdc576317e80f0f9b468205ca1109494b0cb67b67bfad3ad681896&width=414&height=233&smart=true",
@@ -8,32 +32,8 @@
     },
     {
       "titulo": "¿Qué es Anthropic y por qué se ha convertido en un gigante de la IA?",
-      "link": "https://elpais.com/videos/2026-09-16/que-es-anthropic-y-por-que-se-ha-convertido-en-un-gigante-de-la-ia.html",
+      "link": "https://elpais.com/noticias/inteligencia-artificial/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/2RJTTXOE3RFCBDVZGXDXMC5LZI.jpg?auth=336017853cf561d9d009e9bd77af3c8633f21836fd39ba11de2ed1e301ac26a5&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘La mesa de Hora 25’, en EL PAÍS | Programa del 15 de septiembre de 2026",
-      "link": "https://elpais.com/videos/2026-09-15/la-mesa-de-hora-25-en-el-pais-programa-del-15-de-septiembre-de-2026.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/RIBFKHCERJDFHKWBRGWFOY5NAA.jpeg?auth=9cd2dd0d3f4eae441365fd01bca6aa58b73d643f07eab2bd9f9493a926406d01&width=414&height=233&focal=354%2C362",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La denuncia de la hermana de Claudia, la estudiante asesinada en México: “¿Tenemos que normalizar que se asesine a tres mujeres en un mes en la misma universidad?\"",
-      "link": "https://elpais.com/videos/2026-09-15/la-denuncia-de-la-hermana-de-claudia-la-estudiante-asesinada-en-mexico-tenemos-que-normalizar-que-se-asesine-a-tres-mujeres-en-un-mes-en-la-misma-universidad.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/NXTBVMRNKJEV7BFJVFMTOJA7NA.jpg?auth=a5cac0cd64d60466bc7b3825e2a465d0d349811057ff237be28921f272b37ba0&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las imágenes de cámaras de seguridad que muestran al presunto asesino de Claudia Tacoronte",
-      "link": "https://elpais.com/videos/2026-09-15/las-imagenes-de-camaras-de-seguridad-que-muestran-al-presunto-asesino-de-claudia-tacoronte.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/VGLVHCKGLNEZ7FGNAO4UOVKX2E.jpg?auth=2f886aaafba27df8ced8de3bfb070fbc327bdd9841e8fa84c3018c46544f12b0&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en EL PAÍS | Programa del 15 de septiembre de 2026",
-      "link": "https://elpais.com/noticias/cadena-ser/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/W33TL5GQBBHPPKZ2CBK6PCULCY.png?auth=31d69aadfdcdc576317e80f0f9b468205ca1109494b0cb67b67bfad3ad681896&width=414&height=233&smart=true",
       "tipo": "imagen"
     }
   ]
