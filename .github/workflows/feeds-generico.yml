@@ -87,55 +87,88 @@ jobs:
             return { noticias };
           }
 
-          async function procesarFeed(feed) {
+          async function procesarFeed(feed, opciones) {
             const wid = feed.wid;
             const url = feed.url;
+            const intentosMaximos = (opciones && opciones.intentosMaximos) || 1;
+            const timeoutMs = (opciones && opciones.timeoutMs) || 6000;
+            let intento = 1;
 
-            try {
-              const controller = new AbortController();
-              const timeout = setTimeout(() => controller.abort(), 6000);
+            while (true) {
+              try {
+                const controller = new AbortController();
+                const timeout = setTimeout(() => controller.abort(), timeoutMs);
 
-              const respuesta = await fetch(url, {
-                signal: controller.signal,
-                headers: { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/139 Safari/537.36" }
+                const respuesta = await fetch(url, {
+                  signal: controller.signal,
+                  headers: { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/139 Safari/537.36" }
+                });
+                clearTimeout(timeout);
+
+                // 17 sept: el semaforo de concurrencia de scraper_generico.php en el
+                // NAS devuelve 503 cuando sus huecos (maximo 2 simultaneos) estan
+                // ocupados. Antes eso se trataba como un fallo definitivo del feed en
+                // este ciclo; ahora, solo para los feeds que pasan por el NAS,
+                // reintentamos con una breve espera con jitter antes de rendirnos.
+                if (respuesta.status === 503 && intento < intentosMaximos) {
+                  const espera = 3000 + Math.floor(Math.random() * 2000);
+                  console.warn("[" + wid + "] NAS ocupado (503), reintento " + intento + "/" + intentosMaximos + " en " + espera + "ms");
+                  await new Promise(r => setTimeout(r, espera));
+                  intento++;
+                  continue;
+                }
+
+                if (!respuesta.ok) throw new Error("HTTP " + respuesta.status);
+
+                const texto = await respuesta.text();
+                const trimmed = texto.trim();
+
+                let resultado;
+                if (trimmed.startsWith("{")) {
+                  const data = JSON.parse(trimmed);
+                  if (Array.isArray(data.noticias)) resultado = data;
+                  else throw new Error("JSON sin campo 'noticias' válido");
+                } else {
+                  resultado = parsearRss(texto);
+                }
+
+                if (!resultado.noticias || resultado.noticias.length === 0) {
+                  throw new Error("Sin noticias extraídas");
+                }
+
+                const archivo = wid + ".json";
+                const contenidoNuevo = JSON.stringify(resultado, null, 2);
+                let contenidoAnterior = "";
+                if (fs.existsSync(archivo)) contenidoAnterior = fs.readFileSync(archivo, "utf8");
+
+                if (contenidoAnterior.trim() !== contenidoNuevo.trim()) {
+                  fs.writeFileSync(archivo, contenidoNuevo, "utf8");
+                  console.log("[" + wid + "] Actualizado (" + resultado.noticias.length + " noticias)");
+                  return "actualizado";
+                } else {
+                  console.log("[" + wid + "] Sin cambios");
+                  return "sin_cambios";
+                }
+
+              } catch (error) {
+                console.warn("[" + wid + "] ERROR: " + error.message);
+                return "error";
+              }
+            }
+          }
+
+          async function procesarEnLotes(feeds, tamanoLote, opciones, contadores) {
+            for (let i = 0; i < feeds.length; i += tamanoLote) {
+              const lote = feeds.slice(i, i + tamanoLote);
+              const resultados = await Promise.all(lote.map(f => procesarFeed(f, opciones)));
+
+              resultados.forEach(r => {
+                if (r === "actualizado") contadores.actualizados++;
+                else if (r === "sin_cambios") contadores.sinCambios++;
+                else contadores.errores++;
               });
-              clearTimeout(timeout);
 
-              if (!respuesta.ok) throw new Error("HTTP " + respuesta.status);
-
-              const texto = await respuesta.text();
-              const trimmed = texto.trim();
-
-              let resultado;
-              if (trimmed.startsWith("{")) {
-                const data = JSON.parse(trimmed);
-                if (Array.isArray(data.noticias)) resultado = data;
-                else throw new Error("JSON sin campo 'noticias' válido");
-              } else {
-                resultado = parsearRss(texto);
-              }
-
-              if (!resultado.noticias || resultado.noticias.length === 0) {
-                throw new Error("Sin noticias extraídas");
-              }
-
-              const archivo = wid + ".json";
-              const contenidoNuevo = JSON.stringify(resultado, null, 2);
-              let contenidoAnterior = "";
-              if (fs.existsSync(archivo)) contenidoAnterior = fs.readFileSync(archivo, "utf8");
-
-              if (contenidoAnterior.trim() !== contenidoNuevo.trim()) {
-                fs.writeFileSync(archivo, contenidoNuevo, "utf8");
-                console.log("[" + wid + "] Actualizado (" + resultado.noticias.length + " noticias)");
-                return "actualizado";
-              } else {
-                console.log("[" + wid + "] Sin cambios");
-                return "sin_cambios";
-              }
-
-            } catch (error) {
-              console.warn("[" + wid + "] ERROR: " + error.message);
-              return "error";
+              console.log("Progreso: " + Math.min(i + tamanoLote, feeds.length) + "/" + feeds.length);
             }
           }
 
@@ -170,28 +203,25 @@ jobs:
             const config = await respuestaFeeds.json();
             const feeds = config.feeds || [];
 
-            console.log("Total de feeds a procesar: " + feeds.length);
+            // 17 sept: separamos los feeds que se sirven a traves del semaforo de
+            // concurrencia del NAS (scraper_generico.php, maximo 2 huecos a la vez)
+            // de los que van directos a la fuente original. Los del NAS se procesan
+            // en lotes mas pequeños y con reintento ante 503; el resto sigue
+            // exactamente igual que antes.
+            const feedsNas = feeds.filter(f => f.url && f.url.includes("scraper_generico.php"));
+            const feedsOtros = feeds.filter(f => !f.url || !f.url.includes("scraper_generico.php"));
 
-            let actualizados = 0, sinCambios = 0, errores = 0;
-            const TAMANO_LOTE = 20;
+            console.log("Total de feeds a procesar: " + feeds.length + " (NAS: " + feedsNas.length + ", otros: " + feedsOtros.length + ")");
 
-            for (let i = 0; i < feeds.length; i += TAMANO_LOTE) {
-              const lote = feeds.slice(i, i + TAMANO_LOTE);
-              const resultados = await Promise.all(lote.map(procesarFeed));
+            const contadores = { actualizados: 0, sinCambios: 0, errores: 0 };
 
-              resultados.forEach(r => {
-                if (r === "actualizado") actualizados++;
-                else if (r === "sin_cambios") sinCambios++;
-                else errores++;
-              });
-
-              console.log("Progreso: " + Math.min(i + TAMANO_LOTE, feeds.length) + "/" + feeds.length);
-            }
+            await procesarEnLotes(feedsOtros, 20, { intentosMaximos: 1, timeoutMs: 6000 }, contadores);
+            await procesarEnLotes(feedsNas, 10, { intentosMaximos: 3, timeoutMs: 20000 }, contadores);
 
             console.log("========================================");
-            console.log("Actualizados: " + actualizados);
-            console.log("Sin cambios: " + sinCambios);
-            console.log("Con error: " + errores);
+            console.log("Actualizados: " + contadores.actualizados);
+            console.log("Sin cambios: " + contadores.sinCambios);
+            console.log("Con error: " + contadores.errores);
             console.log("========================================");
           })();
 
