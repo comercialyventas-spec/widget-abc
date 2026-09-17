@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "‘La mesa de Hora 25’, programa en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-09-17/la-mesa-de-hora-25-programa-en-el-pais.html",
+      "imagen": "https://www.youtube.com/watch?v=XfKJsmckSDc",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ayuso, sobre la atención sanitaria a migrantes: “Prefiero atender a un rumano, por muy rumano que sea, que a un español delincuente y okupa”",
       "link": "https://elpais.com/videos/2026-09-17/ayuso-sobre-la-atencion-sanitaria-a-migrantes-prefiero-atender-a-un-rumano-por-muy-rumano-que-sea-que-a-un-espanol-delincuente-y-okupa.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260917/1215258_111347_video_1800.mp4",
@@ -28,12 +34,6 @@
       "titulo": "‘La mesa de Hora 25’, en EL PAÍS | Programa del 16 de septiembre de 2026",
       "link": "https://elpais.com/videos/2026-09-16/la-mesa-de-hora-25-en-el-pais-programa-del-16-de-septiembre-de-2026.html",
       "imagen": "https://www.youtube.com/watch?v=OGPVvih90t4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Video| Así informó en vivo la NBC el accidente de un helicóptero de la cadena",
-      "link": "https://elpais.com/us/2026-09-16/video-asi-informo-en-vivo-la-nbc-el-accidente-de-un-helicoptero-de-la-cadena.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260916/1214959_153031_video_1800.mp4",
       "tipo": "imagen"
     }
   ]

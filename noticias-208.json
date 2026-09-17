@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Tusk denuncia nuevos ataques rusos cerca de Polonia",
+      "link": "https://www.dw.com/es/tusk-denuncia-nuevos-ataques-rusos-cerca-de-polonia/a-79315767",
+      "imagen": "https://static.dw.com/image/76972002_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Mecklemburgo-Pomerania Occidental vota: la mujer que quiere frenar a AfD",
       "link": "https://www.dw.com/es/mecklemburgo-pomerania-occidental-vota-la-mujer-que-quiere-frenar-a-afd/a-79315356",
       "imagen": "https://static.dw.com/image/79188250_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Alemania detiene a un presunto seguidor del EI por atentado",
       "link": "https://www.dw.com/es/alemania-detiene-a-un-presunto-seguidor-del-ei-por-atentado/a-79315188",
       "imagen": "https://static.dw.com/image/73631802_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El nuevo fútbol que Jürgen Klopp quiere insuflar a la selección de Alemania",
-      "link": "https://www.dw.com/es/el-nuevo-fútbol-que-jürgen-klopp-quiere-insuflar-a-la-selección-de-alemania/a-79312373",
-      "imagen": "https://static.dw.com/image/79304568_6.jpg",
       "tipo": "imagen"
     }
   ]
