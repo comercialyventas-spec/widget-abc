@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "OpenAI desvela nuevos incidentes “preocupantes” en los que la IA se saltó a sus creadores",
+      "link": "https://www.eldiario.es/tecnologia/openai-desvela-nuevos-incidentes-preocupantes-ia-salto-creadores_1_13516500.html",
+      "imagen": "https://static.eldiario.es/clip/f0a56140-efb2-472c-88d6-238c2e7da6a3_facebook-aspect-ratio-1200-675_default_0_x842y266.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El 'freno' para la IA fractura Silicon Valley y abre un cisma con Trump: “Hay que correr tan rápido como podamos”",
       "link": "https://www.eldiario.es/tecnologia/freno-ia-fractura-silicon-valley-abre-cisma-trump-hay-correr-rapido-podamos_1_13513662.html",
       "imagen": "https://static.eldiario.es/clip/80ff93bf-889d-4ce2-9ed1-ce8c704ba8af_facebook-aspect-ratio-1200-675_default_0_x642y443.jpg",
@@ -28,12 +34,6 @@
       "titulo": "¿Se puede 'frenar' la IA? Por qué el resto del mundo desconfía del plan de Silicon Valley",
       "link": "https://www.eldiario.es/tecnologia/frenar-ia-resto-mundo-desconfia-plan-silicon-valley_1_13507439.html",
       "imagen": "https://static.eldiario.es/clip/795898f6-1fb2-4ab0-922b-59435f697ec6_facebook-aspect-ratio-1200-675_default_0_x1027y783.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La ONU alerta del peligro de la IA y pide regularla: “Todos los derechos humanos están en riesgo”",
-      "link": "https://www.eldiario.es/tecnologia/onu-alerta-peligro-ia-pide-regularla-derechos-humanos-riesgo_1_13508447.html",
-      "imagen": "https://static.eldiario.es/clip/651a37cc-1c2a-4f64-95cb-436e25219084_facebook-aspect-ratio-1200-675_default_0_x1336y490.jpg",
       "tipo": "imagen"
     }
   ]
