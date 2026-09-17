@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Incendios en España",
+      "link": "https://www.elconfidencialdigital.com/album/vivir/incendios-en-espana/202609171308361193655.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/17/2026091713041291758.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Viajes en septiembre",
       "link": "https://www.elconfidencialdigital.com/album/vivir/viajes-septiembre/202609161212311193400.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/16/2026091612091390216.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Contenedores de reciclaje",
       "link": "https://www.elconfidencialdigital.com/album/vivir/contenedores-reciclaje/202609081800191039622.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/08/2026090817574465436.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Crisis migratoria de Ceuta",
-      "link": "https://www.elconfidencialdigital.com/album/vivir/crisis-migratoria-ceuta/202608131302301035916.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/08/13/2026081312555978681.jpg",
       "tipo": "imagen"
     }
   ]

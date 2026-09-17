@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Cinco ciudades en España para comer muy bien más allá de Madrid y Barcelona",
-      "link": "https://elpais.com/elviajero/lonely-planet/2026-09-17/cinco-ciudades-en-espana-para-comer-muy-bien-mas-alla-de-madrid-y-barcelona.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/N32C7FDWMFBBNLLUEQU4CEABMU.jpg?auth=033cd3b062aec80ed2e1beb8d69882d4c39bc27a67e4d1c729017f5d9290e2b3",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Los 50 mejores hoteles del mundo, en imágenes: el Rosewood Hong Kong repite liderazgo y el lujo asiático se consolida en los primeros puestos",
       "link": "https://elpais.com/elviajero/2026-09-16/los-50-mejores-hoteles-del-mundo-en-imagenes-el-rosewood-hong-kong-repite-liderazgo-y-el-lujo-asiatico-se-consolida-en-los-primeros-puestos.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/TNHTBFZGA5BB3MMLGDPCF3XCG4.jpg?auth=1250dd1e1ca04ccc0753c172adcad4ab933b7d6c8075b861b74c90a966a0081e",
@@ -34,6 +28,12 @@
       "titulo": "Recorriendo Esposende, un museo moderno al aire libre único en Portugal",
       "link": "https://elpais.com/elviajero/escapadas/europa/2026-09-14/recorriendo-esposende-un-museo-moderno-al-aire-libre-unico-en-portugal.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/JUW3QKKEYRCSHOKVE4LXE3KNUU.jpg?auth=ed5d9b42a1128cb8bf3b98de0ced369ca8d94407ecf6e6d55707493ef9a174e2",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La última frontera nazarí: ruta por los castillos y torres vigías de los guardianes de Boabdil",
+      "link": "https://elpais.com/elviajero/escapadas/espana/2026-09-13/la-ultima-frontera-nazari-ruta-por-los-castillos-y-torres-vigias-de-los-guardianes-de-boabdil.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/YVSVECTJDBHZFPBTOTWXGPPPNI.jpg?auth=de9227b42cba7fa479a2fcec0961da53ad67f9f49fe58b32e9abf4e283761412",
       "tipo": "imagen"
     }
   ]
