@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Stranger Things: Relatos del 85",
-      "link": "https://elpais.com/television/series/stranger-things-relatos-del-85/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/T6DJ4KNODNDLDIPJDMRWHXIJ6M.jpg?auth=5848935cbbf20825c893f73a01fa700544c8fab01c423d6f8887223cba4c0b0b",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "‘El túnel’ y el informe PISA, conexión si la hubiera",
       "link": "https://elpais.com/television/2026-09-17/el-tunel-y-el-informe-pisa-conexion-si-la-hubiera.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/6UQJHVCGSJHGRGJUSRBZP6B3WE.jpg?auth=05d7919679d5de461cd67e1450505f134e28104176044674904852142dcd4aee",
@@ -34,6 +28,12 @@
       "titulo": "Slow Horses",
       "link": "https://elpais.com/television/series/slow-horses/",
       "imagen": "https://vdmedia.elpais.com/elpaistop/multimedia/20224/28/20220428095802_1651132764_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La muñeca",
+      "link": "https://elpais.com/television/series/la-muneca/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/3U3GWBL4QBG6NAXOT63BI5AW2M.jpg?auth=3291d4988ed768fd7bc014bdeb622a61a9dded121a268ad7777a3bb8de9d57ca",
       "tipo": "imagen"
     }
   ]
