@@ -60,7 +60,62 @@ jobs:
             return m ? m[2] : "";
           }
 
-          function parsearRss(xml) {
+          // 17 sept: muchos periodicos cargan la imagen "en diferido" (lazy
+          // loading) - el <img> del HTML/RSS no trae la URL real en "src"
+          // sino en "data-src" o en un "srcset" (o dentro de un <picture>
+          // con <source srcset="...">). Antes solo mirabamos src="...jpg",
+          // asi que estos casos se quedaban sin imagen aunque el dato SI
+          // estaba presente en el contenido. Ampliamos la busqueda, en
+          // orden de preferencia, antes de rendirnos.
+          function extraerImagenInline(bloque) {
+            const contenido = extraerTag(bloque, "content:encoded") || extraerTag(bloque, "description");
+            if (!contenido) return "";
+
+            let m = contenido.match(/<img[^>]+\bsrc\s*=\s*["']([^"']+\.(?:jpg|jpeg|png|webp|gif))[^"']*["']/i);
+            if (m) return m[1];
+
+            m = contenido.match(/<img[^>]+\bdata-src\s*=\s*["']([^"']+\.(?:jpg|jpeg|png|webp|gif))[^"']*["']/i);
+            if (m) return m[1];
+
+            m = contenido.match(/<(?:img|source)[^>]+\b(?:data-)?srcset\s*=\s*["']([^"',\s]+)/i);
+            if (m) return m[1];
+
+            m = contenido.match(/https?:\/\/[^\s"'<>]+\.(?:jpg|jpeg|png|webp)/i);
+            if (m) return m[0];
+
+            return "";
+          }
+
+          // 17 sept: ultimo recurso cuando el feed no trae imagen en ningun
+          // sitio reconocible - visitamos la propia pagina del articulo y
+          // cogemos su <meta property="og:image">, que casi todos los
+          // medios rellenan siempre porque la usan para las vistas previas
+          // al compartir en redes sociales. Limitado por un presupuesto
+          // global de peticiones para no disparar la duracion del job.
+          let presupuestoOgImage = 250;
+
+          async function obtenerImagenOg(url, timeoutMs) {
+            if (!url || presupuestoOgImage <= 0) return "";
+            presupuestoOgImage--;
+            try {
+              const controller = new AbortController();
+              const timeout = setTimeout(() => controller.abort(), timeoutMs);
+              const respuesta = await fetch(url, {
+                signal: controller.signal,
+                headers: { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/139 Safari/537.36" }
+              });
+              clearTimeout(timeout);
+              if (!respuesta.ok) return "";
+              const html = await respuesta.text();
+              let m = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i);
+              if (!m) m = html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i);
+              return m ? decodeHtml(m[1]) : "";
+            } catch (error) {
+              return "";
+            }
+          }
+
+          async function parsearRss(xml) {
             const itemsRaw = xml.match(/<item\b[\s\S]*?<\/item>/gi) || [];
             const noticias = [];
 
@@ -75,15 +130,20 @@ jobs:
               if (enclosureUrl && (!enclosureType || /image/i.test(enclosureType))) imagen = enclosureUrl;
               if (!imagen) imagen = extraerAtributo(bloque, "media:content", "url");
               if (!imagen) imagen = extraerAtributo(bloque, "media:thumbnail", "url");
-              if (!imagen) {
-                const contentEncoded = extraerTag(bloque, "content:encoded") || extraerTag(bloque, "description");
-                const imgMatch = contentEncoded.match(/src=["']([^"']+\.(?:jpg|jpeg|png|webp))[^"']*["']/i);
-                if (imgMatch) imagen = imgMatch[1];
-              }
+              if (!imagen) imagen = extraerImagenInline(bloque);
               imagen = decodeHtml(imagen);
 
-              noticias.push({ titulo, link, imagen, tipo: imagen ? "imagen" : "" });
+              noticias.push({ titulo, link, imagen });
             }
+
+            await Promise.all(noticias.map(async (noticia) => {
+              if (!noticia.imagen) {
+                noticia.imagen = await obtenerImagenOg(noticia.link, 3500);
+              }
+            }));
+
+            noticias.forEach(n => { n.tipo = n.imagen ? "imagen" : ""; });
+
             return { noticias };
           }
 
@@ -129,7 +189,7 @@ jobs:
                   if (Array.isArray(data.noticias)) resultado = data;
                   else throw new Error("JSON sin campo 'noticias' válido");
                 } else {
-                  resultado = parsearRss(texto);
+                  resultado = await parsearRss(texto);
                 }
 
                 if (!resultado.noticias || resultado.noticias.length === 0) {
