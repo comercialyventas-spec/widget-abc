@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La Moncloa",
+      "link": "https://www.elconfidencialdigital.com/album/el-chau-chau/la-moncloa/202609172229381193773.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/17/2026091722264398000.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ejército de Tierra",
       "link": "https://www.elconfidencialdigital.com/album/defensa/ejercito-de-tierra/202609171900311193749.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/17/2026091718583534334.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Incendios en España",
       "link": "https://www.elconfidencialdigital.com/album/vivir/incendios-en-espana/202609171308361193655.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/17/2026091713041291758.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Álbum Kawasaki Ninja H2 2027",
-      "link": "https://www.elconfidencialdigital.com/album/motor/album-kawasaki-ninja-h2-2027/202609171253411193636.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/17/2026091712523259937.webp",
       "tipo": "imagen"
     }
   ]
