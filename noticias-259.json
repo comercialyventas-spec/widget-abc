@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Valencia amanece en aviso naranja tras revivir las pesadillas de la dana",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/valencia-amanece-aviso-naranja-tras-revivir-pesadillas-20260917075307-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/17/valencia-lluvias-RBKpWeedSBlQNCmjQ86uAJO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Gas de la risa: denuncian la aparición de botes de óxido nitroso en El Arenal en Córdoba",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/gas-risa-denuncian-aparicion-botes-oxido-nitroso-20260917075219-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/17/oxido-nitroso-cordoba-kWB-U301759203458rOI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Horario y dónde ver por televisión el Albacete - Córdoba CF",
       "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-cf/horario-ver-television-albacete-cordoba-20260917072434-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/17/cordobacf-albacete-estadio-RjBla1CqZZ21eIIbcUvbwEN-1200x840@diario_abc.jpg",
@@ -23,18 +35,6 @@
       "link": "https://www.abc.es/espana/andalucia/cordoba/jose-luque-peligro-pensar-20260917072233-nts.html",
       "imagen": "",
       "tipo": ""
-    },
-    {
-      "titulo": "De Bolonia a la Inteligencia Artificial",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/bolonia-inteligencia-artificial-20260917071706-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/16/1500592177.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Vueling salda su primer año en el aeropuerto de Córdoba con 29.329 pasajeros, un 55% del total",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/vueling-salda-primer-ano-aeropuerto-cordoba-29329-20260917071703-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/17/aeropuerto-vueling-cordoba-kPaF-U301750489016nlF-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
     }
   ]
 }
