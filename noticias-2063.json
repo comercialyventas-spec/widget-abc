@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Yemen, ¿ahora qué?",
+      "link": "https://loquesomos.es/yemen-ahora-que/",
+      "imagen": "https://loquesomos.es/wp-content/uploads/2026/09/guerrilleros-huties-retarato-del-lider-Abdul-Malik-al-Houthi-yemen-lqsomos.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Yemen, reto a la Meca",
       "link": "https://loquesomos.es/yemen-reto-a-la-meca/",
       "imagen": "https://loquesomos.es/wp-content/uploads/2026/09/Houthies-yemen-manifestacion-de-fuerza-lqsomos--777x450.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "El cerco de la violencia y la economía de guerra en Myanmar",
       "link": "https://loquesomos.es/el-cerco-de-la-violencia-y-la-economia-de-guerra-en-myanmar/",
       "imagen": "https://loquesomos.es/wp-content/uploads/2026/08/myanmar-mujer-refugiada-lqsomos.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Siria, el emirato discreto",
-      "link": "https://loquesomos.es/siria-el-emirato-discreto/",
-      "imagen": "https://loquesomos.es/wp-content/uploads/2025/09/siria-viejas-paredes-lqsomos.jpeg",
       "tipo": "imagen"
     }
   ]

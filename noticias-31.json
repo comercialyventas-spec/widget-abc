@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Martín de la Puente, el tenista español que aprovechó el segundo bote de la bola",
+      "link": "https://www.lavanguardia.com/deportes/20260917/11636422/martin-puente-tenista-espanol-aprovecho-segundo-bote-bola.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/16/6aaab72d4fbbf.r_d.1920-1080-1169.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La presión en dos líneas",
       "link": "https://www.lavanguardia.com/deportes/20260917/11636818/presion-dos-lineas.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Las notas de los jugadores del Barça en la goleada al Racing de Santander",
       "link": "https://www.lavanguardia.com/deportes/futbol/20260917/11636672/notas-jugadores-barca-goleada-racing-santander-1x1-liga.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/17/6aab140860aa9.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Balones a Cancelo y otras extravagancias en el Camp Nou",
-      "link": "https://www.lavanguardia.com/deportes/20260916/11636664/balones-cancelo-extravagancias-camp-nou.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/16/6aab0e1f09324.jpeg",
       "tipo": "imagen"
     }
   ]
