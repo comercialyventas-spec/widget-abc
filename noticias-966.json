@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Belleza plástica",
-      "link": "https://elpais.com/television/series/belleza-plastica/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ZGIPLGDVZZBKNKKNG7Y54OREIQ.jpg?auth=60c4df8551132b1ffaf81528a053d0fe3b893d35471219825d08d9cdbde434df",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Stranger Things: Relatos del 85",
       "link": "https://elpais.com/television/series/stranger-things-relatos-del-85/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/T6DJ4KNODNDLDIPJDMRWHXIJ6M.jpg?auth=5848935cbbf20825c893f73a01fa700544c8fab01c423d6f8887223cba4c0b0b",
@@ -34,6 +28,12 @@
       "titulo": "Mínima seguridad",
       "link": "https://elpais.com/television/series/minima-seguridad/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/SZTH37JEMVC6ZF22BKKIXNGCC4.webp?auth=267f56fbbb0f3e9a2d9a85890d13c549907e2781d98bf3cdf608d45d3e6c1c6c",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Slow Horses",
+      "link": "https://elpais.com/television/series/slow-horses/",
+      "imagen": "https://vdmedia.elpais.com/elpaistop/multimedia/20224/28/20220428095802_1651132764_video_1800.mp4",
       "tipo": "imagen"
     }
   ]

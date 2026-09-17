@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Ya no me gusta el rojo",
+      "link": "<![CDATA[https://www.elperiodico.com/es/opinion/20260917/gusta-rojo-134404961",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f4cb682e-5024-4e24-abe4-7a7383ea8425_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El mayor hotel de Catalunya, el Don Juan de Lloret de Mar, con casi 800 habitaciones, entra en la cadena Fergus Group",
       "link": "<![CDATA[https://www.elperiodico.com/es/economia/20260917/mayor-hotel-catalunya-don-juan-lloret-mar-fergus-group-134397727",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/79c77103-113f-4847-bed8-706e4c1ef790_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Veolia se perfila ganador del gran contrato de agua del área de Barcelona al validar el AMB su oferta económica",
       "link": "<![CDATA[https://www.elperiodico.com/es/barcelona/20260917/veolia-gran-contrato-agua-barcelona-metropolitana-1000-millones-134210068",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2711dbad-f6c1-4b54-afb1-076eef68ea8b_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Gobierno actualizará los pluses a funcionarios de toda España tras subirlos en Baleares",
-      "link": "<![CDATA[https://www.elperiodico.com/es/economia/20260917/gobierno-actualizara-pluses-funcionarios-134399131",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/90c4855f-3857-4dd4-ae2d-f89b3343cc41_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
