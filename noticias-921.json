@@ -1,10 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "Una \"revolución de adictos\" contra el \"negocio del sufrimiento\" del 'Modelo Minnesota'",
+      "link": "https://www.elmundo.es/cronica/2026/09/17/6aa2aa3ae85ece9e108b4590.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/10/17890452977729.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La ONU no quiere que uses el mapa 'Mercator', pero los expertos defienden que no existe el atlas perfecto: \"La equidad cartográfica es un brindis al sol\"",
+      "link": "https://www.elmundo.es/cronica/2026/09/17/6aaaad52e85ece49088b45b0.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/16/17895706681540.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los campos de la España rural que no quieren nubes (de datos): \"Me preocupa que esto divida un poco al pueblo\"",
       "link": "https://www.elmundo.es/cronica/2026/09/16/6aa17eb4e9cf4aa4248b459b.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/09/17889686197721.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Las 25 toneladas de pulpo podrido que apestaron la A-381 de Cádiz durante 26 días tras el abandono de un camión marroquí",
@@ -19,21 +31,9 @@
       "tipo": ""
     },
     {
-      "titulo": "Habla Luis Mayandía, el jefe (recién jubilado) de los policías que señalan a Marruecos: \"El error fue la inacción. Debía haber más Policía, Guardia Civil y Ejército\"",
-      "link": "https://www.elmundo.es/cronica/2026/09/13/6aa4267de9cf4a282b8b45a1.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Ex número 3 del CNI: \"Por mi experiencia puedo afirmar que las rencillas entre ministros han impedido una rápida solución. Marlaska y Albares se comportan como prima donnas\"",
-      "link": "https://www.elmundo.es/cronica/2026/09/12/6aa42704e85ece160b8b45b6.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/11/17891427317272.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La muerte de Elcano, el primer marino que rodeó el mundo y sigue en el fondo del Pacífico",
-      "link": "https://www.elmundo.es/cronica/2026/09/14/6aa80ff4fdddffc2558b456d.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/14/17893994683364.jpg",
+      "titulo": "Un camión calcinado con 25 toneladas de pulpo podrido permanece 26 días en la A-381 de Cádiz",
+      "link": "https://www.elmundo.es/cronica/2026/09/16/6aaac8aefc6c830d7e8b4580-video.html",
+      "imagen": "https://s2.dmcdn.net/v/eW40A1ggibDFm7MiE/x1080",
       "tipo": "imagen"
     }
   ]
