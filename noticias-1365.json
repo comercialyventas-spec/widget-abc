@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Pronto todos habremos visto a Shakira",
+      "link": "https://elpais.com/opinion/2026-09-18/pronto-todos-habremos-visto-a-shakira.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KSVVQHUTJZHSLEGW6EWUD7YVGU.jpg?auth=ebe109b25f704401f586ef0178e2690416e7473078808fd63e23980bfa432e17",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Flavita Banana: un buen sueño",
       "link": "https://elpais.com/opinion/2026-09-17/flavita-banana-un-buen-sueno.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/XW7NQQJWEND5PBFU47RHJD576U.jpg?auth=f6a331abf783ea76a940364d9b841883220d3338779e10b2b06b8f94496d0684",
@@ -28,12 +34,6 @@
       "titulo": "Voto de confianza para la UE",
       "link": "https://elpais.com/opinion/2026-09-17/voto-de-confianza-para-la-ue.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/JZ4LR4FX6FG3VIFAGMNE3MHQL4.JPG?auth=249ce3f003dd37de60b3d8d5febb3fe28c674a61d1d7861b4d5ff94eef8d8fbe",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una nueva era para la dependencia",
-      "link": "https://elpais.com/opinion/2026-09-17/una-nueva-era-para-la-dependencia.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/JIOKRI54VJBDVD6GVMXBO7L4BQ.jpg?auth=be399b0d42c8c87c4005b842a497fd77dcf49dc35ab50886363dbb1fa3f62437",
       "tipo": "imagen"
     }
   ]
