@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Cristina Pitarch, responsable de Anthropic en España: «Un juguete está más regulado que la IA»",
-      "link": "https://www.abc.es/tecnologia/anthropic-urge-gobiernos-legislar-ia-juguete-regulado-20260917000000-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/17/pitarch-anthropic-RDdVq0soKJA8mjvRrUVTAvJ-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "Cuatro detenidos y una excavadora sospechosa en el patio: la Policía sigue buscando a Alejandro dos años después",
       "link": "https://www.abc.es/espana/andalucia/malaga/cuatro-detenidos-excavadora-policia-busca-alejandro-navarro-20260917100611-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/17/ronda-detenida-desaparecido-RYEvJgVhbzq1JyvGXJ54sLN-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/17/ronda-detenida-desaparecido-RYEvJgVhbzq1JyvGXJ54sLN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Da igual si cobras mucho o poco: así penaliza la pensión de viudedad a tu jubilación",
       "link": "https://www.abc.es/economia/cuentas-corrientes/igual-cobras-poco-penaliza-pension-viudedad-jubilacion-20260917012940-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/17/pensionistas-U301731361489zyE-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/17/pensionistas-U301731361489zyE-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "El oncólogo Luis Paz-Ares y el marcapasos más pequeño del mundo, entre los galardonados de los premios ABC Salud",
       "link": "https://www.abc.es/salud/oncologo-luis-pazares-marcapasos-pequeno-mundo-galardonados-20260917012105-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/salud/2026/09/17/premios-luis-paz-ares-RzUJUTSjc7UTCbxdcoXezgP-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/salud/2026/09/17/premios-luis-paz-ares-RzUJUTSjc7UTCbxdcoXezgP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Estos son los 15 modelos aspirantes al Premio ABC al Mejor Coche del Año 2027",
       "link": "https://www.abc.es/motor/novedades/modelos-aspirantes-premio-abc-mejor-coche-ano-20260917093637-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/17/CARTELA-MEJOR-COCHE-CANDIDATOS-RnvpSQVVOLGmoxGv8KQz3YM-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/17/CARTELA-MEJOR-COCHE-CANDIDATOS-RnvpSQVVOLGmoxGv8KQz3YM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Laporta tercia en el pulso por la final del Mundial: «Casablanca y Madrid son lo mismo»",
       "link": "https://www.abc.es/deportes/futbol/laporta-tercia-pulso-final-mundial-casablanca-madrid-20260917094133-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/17/camp-nou-RQfPItnfRG8QOxmxSVVrwzK-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/17/camp-nou-RQfPItnfRG8QOxmxSVVrwzK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ilia Topuria pide la revancha con Justin Gaethje: «Estoy de vuelta. Nos vemos pronto»",
+      "link": "https://www.abc.es/deportes/mma/ilia-topuria-pide-revancha-justin-gaethje-vuelta-20260917090546-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/17/ilia-topuria-casablanca-RFnC146IiEZRLyriY59tffM-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
     }
   ]
 }
