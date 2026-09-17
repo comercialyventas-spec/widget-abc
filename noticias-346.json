@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Europa quiere prohibir el 'scroll' infinito en redes sociales a los menores de 18 años",
+      "link": "https://www.abc.es/tecnologia/europa-quiere-prohibir-scroll-infinito-redes-sociales-20260917130739-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/17/1517294249-RYXXfSYW8z1VzRGTJM1dOZM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "OpenAI revela otros seis incidentes «preocupantes» en los que su IA trató de engañar a los humanos",
       "link": "https://www.abc.es/tecnologia/openai-revela-seis-incidentes-ia-descontrolados-20260917085500-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/17/altman-RGSWGCpNwe2pCd2PsROzJBN-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Jensen Huang, CEO de Nvidia, en contra de la regulación de la IA: «Si construyes un producto y no estás seguro de su seguridad, no lo lances»",
       "link": "https://www.abc.es/tecnologia/jensen-huang-ceo-nvidia-regulacion-ia-construyes-20260916183226-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/16/jensen-huang-afp-Rm5mxQNr8BR6Dp4IYl7wv2K-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mark Zuckerberg rechaza frenar el avance de la IA y defiende que hay suficientes incentivos para la seguridad",
-      "link": "https://www.abc.es/tecnologia/mark-zuckerberg-rechaza-frenar-avance-ia-defiende-20260916104424-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/16/zuckerberg-kJoB-U301742875043kqE-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
