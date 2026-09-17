@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Una nueva avería en el AVE Málaga Madrid obliga a interrumpir el servicio y a cancelar los trayectos de primera hora",
+      "link": "https://www.elmundo.es/andalucia/2026/09/17/6aabb811fc6c83b3608b45bc.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/17/17896387697836.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Una mujer, hospitalizada tras ser agredida por su marido en presencia de su hija",
       "link": "https://www.elmundo.es/andalucia/2026/09/16/6aaafc0dfc6c83972b8b4581.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/16/17895907728023.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Estabilizado el incendio forestal de Benahavís",
       "link": "https://www.elmundo.es/espana/2026/09/15/6aa886af21efa0772c8b4571.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/15/17894294032296.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Guardia Civil investiga la muerte de un disparo de un hombre en Pizarra (Málaga)",
-      "link": "https://www.elmundo.es/andalucia/2026/09/14/6aa84076e4d4d849098b459f.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2025/02/17/17398102214238.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,8 +1,14 @@
 {
   "noticias": [
     {
+      "titulo": "La UE propone limitar una hora al día el acceso a redes sociales para los menores de entre 13 y 15 años",
+      "link": "https://www.lavanguardia.com/vida/20260917/11636963/ue-propone-limitar-hora-dia-acceso-redes-sociales-menores-13-15-anos.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/14/6a7f8cde365c1.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Aemet activa la alerta roja en Murcia por lluvias y tormentas",
-      "link": "https://www.lavanguardia.com/vida/20260917/11636987/aemet-activa-aviso-rojo-murcia-lluvias-tormentas.html",
+      "link": "https://www.lavanguardia.com/natural/20260917/11636987/aemet-activa-aviso-rojo-murcia-lluvias-tormentas.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/17/6aaba86d80d2a.r_d.342-264-6564.jpeg",
       "tipo": "imagen"
     },
@@ -28,12 +34,6 @@
       "titulo": "Un ingeniero de la china DeepSeek alerta del riesgo de que EE.UU. controle la IA más avanzada",
       "link": "https://www.lavanguardia.com/vida/20260917/11636872/ingeniero-china-deepseek-alerta-riesgo-ee-uu-controle-ia-mas-avanzada.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/06/01/6a1d717c673fa.r_d.1598-1271-1670.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "OpenAI revela nuevos incidentes en los que la IA ignoró las órdenes de sus desarrolladores",
-      "link": "https://www.lavanguardia.com/vida/20260917/11636870/openai-revela-nuevos-incidentes-ia-ignoro-ordenes-desarrolladores.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/25/6a8dd4ce8fadf.jpeg",
       "tipo": "imagen"
     }
   ]
