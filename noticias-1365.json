@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Flavita Banana: un buen sueño",
+      "link": "https://elpais.com/opinion/2026-09-17/flavita-banana-un-buen-sueno.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XW7NQQJWEND5PBFU47RHJD576U.jpg?auth=f6a331abf783ea76a940364d9b841883220d3338779e10b2b06b8f94496d0684",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Peridis: flexibilidad según Von der Leyen",
+      "link": "https://elpais.com/opinion/2026-09-17/peridis-flexibilidad-segun-von-der-leyen.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TPDYHNM5FZHRBKAK35WTP6V4RU.jpg?auth=145811e2bf9648162502dced0d83434a490c84c049d236c0dafe04eeaf07189a",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El último servicio de Pedro Sánchez",
+      "link": "https://elpais.com/opinion/2026-09-17/el-ultimo-servicio-de-pedro-sanchez.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/W7HE3TYZGNDCNDMVIHRBA6GMGE.jpg?auth=5d6379481ae059969c431bd90bd931c05652b49b3ad19c8b13ba998adcd8235e",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Mójate, pero solo en mi charco",
       "link": "https://elpais.com/opinion/2026-09-17/mojate-pero-solo-en-mi-charco.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/UTHLHRBKNZE7BAIK2BPNP7BRMQ.jpeg?auth=243ce152aa7ea894005f009ab2a6fe73387aeaeb892448d11afaa23c1ac1f3f9",
@@ -16,24 +34,6 @@
       "titulo": "Una nueva era para la dependencia",
       "link": "https://elpais.com/opinion/2026-09-17/una-nueva-era-para-la-dependencia.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/JIOKRI54VJBDVD6GVMXBO7L4BQ.jpg?auth=be399b0d42c8c87c4005b842a497fd77dcf49dc35ab50886363dbb1fa3f62437",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Llega el fin del mundo y yo con este cardado",
-      "link": "https://elpais.com/opinion/2026-09-17/llega-el-fin-del-mundo-y-yo-con-este-cardado.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/WD3TL44JQFD3BO6LDAJSOYMINY.jpg?auth=469aaf15883a98b5f0c914a269acf088308c515e3c45c8c3e174252099bad882",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un lector: “Hay un auge revisionista que busca dinamitar el consenso histórico”",
-      "link": "https://elpais.com/opinion/2026-09-17/un-lector-hay-un-auge-revisionista-que-busca-dinamitar-el-consenso-historico.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/XPNK6OXENRDRZCYMJLTLB5XI4Y.jpg?auth=580bc0e8ec77b6ca00ef6eef6be3092b7dba96b9afb252e534a356e70e32adef",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La IA, las lágrimas de Strogatz y el momento Kaspárov",
-      "link": "https://elpais.com/opinion/2026-09-17/la-ia-las-lagrimas-de-strogatz-y-el-momento-kasparov.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/QIWNDBDIBFELZP3D56NQXQURF4.jpg?auth=4fd3956acd3ea6443b7facad1883d2a451b23118c6d2401cf17e75086e1cd3b1",
       "tipo": "imagen"
     }
   ]
