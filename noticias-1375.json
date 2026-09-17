@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "El calentamiento global cocinó a fuego lento el catastrófico colapso del glaciar nepalí",
-      "link": "https://elpais.com/clima-y-medio-ambiente/2026-09-16/el-calentamiento-global-cocino-a-fuego-lento-el-catastrofico-colapso-del-glaciar-nepali.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/S4MQDQ46CJAT7E53QFWTZ6MWPU.jpg?auth=0ad1af26ef5fda688f50a0ea865124b1bf4f116857035b040bc7b02b4236e8d4",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Un frente tumba hoy las temperaturas 10 grados y deja lluvias “muy adversas” en el área mediterránea",
       "link": "https://elpais.com/el-tiempo/2026-09-16/un-frente-tumbara-las-temperaturas-10-grados-y-dejara-lluvias-muy-fuertes-en-el-este.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/AZIWX7T3IFDLRASZ46SFZ4VGHQ.jpg?auth=50935d22cac73d973fda747d938c4818cb64219e1f303e316071af8296679637",
@@ -34,6 +28,12 @@
       "titulo": "Otra semana de calor de pleno verano, salvo por el paso de un frente el miércoles",
       "link": "https://elpais.com/el-tiempo/2026-09-14/otra-semana-de-calor-de-pleno-verano-salvo-por-el-paso-de-un-frente-el-miercoles.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/Z7NL2JNSE5MCVGTOPFVVG5NDUM.jpg?auth=61a1ff54f9aadb68ae8eab180710eb0b7c84eb864e3a34346882a257e60911bc",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un verano infernal para los buitres negros de Ávila: el gran incendio de Burgohondo mató a un centenar de polluelos",
+      "link": "https://elpais.com/clima-y-medio-ambiente/2026-09-12/un-verano-infernal-para-los-buitres-negros-de-avila-el-gran-incendio-de-burgohondo-mato-a-un-centenar-de-polluelos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/OGDJ4VVIJJFXFILL4VYYEZYE6U.jpg?auth=b4ab3a0ef6171b57aaf40f7ad9e2ff3c220dc5fba7fb275c1eafe730bb8e857d",
       "tipo": "imagen"
     }
   ]
