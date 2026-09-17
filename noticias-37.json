@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El peligro de estar bien",
+      "link": "https://www.lavanguardia.com/participacion/red-lectores/20260917/11635326/peligro.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2020/06/15/5fa91f2db4934.r_d.328-218-6844.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Placeres que no admiten prisa",
+      "link": "https://www.lavanguardia.com/participacion/lectores-corresponsales/20260917/11635365/placeres-admiten-prisa.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/10/24/671990745a541.r_d.2880-2972-786.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La evolución de los chiringuitos financieros",
       "link": "https://www.lavanguardia.com/participacion/red-lectores/20260917/11635303/evolucion-chiringuitos-financieros.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2023/06/26/6499677ab6a88.r_d.1087-803-2116.jpeg",
@@ -22,18 +34,6 @@
       "titulo": "Ruta por los miradores de Andorra",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260917/11635388/ruta-miradores-andorra.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/15/6aa92c10d1a12.r_d.419-331-5351.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El gran balcón del mirador de Can Oliveres",
-      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260917/11635337/gran-balcon-mirador-can-oliveres.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/15/6aa923c65ca68.r_d.485-521-4736.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cuando llueve",
-      "link": "https://www.lavanguardia.com/participacion/cartas/20260917/11636736/llueve.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
       "tipo": "imagen"
     }
   ]
