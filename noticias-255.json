@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Declarado un incendio en un piso de la avenida Luis de Morales",
+      "link": "https://www.abc.es/sevilla/ciudad/declarado-incendio-piso-avenida-luis-morales-20260917091446-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/17/1509409356%20(1)-RGJYXC0G78k3xakXnLzwgpO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Audiencia confirma el archivo de la causa contra el colegio por el caso Sandra Peña",
       "link": "https://www.abc.es/sevilla/ciudad/audiencia-confirma-archivo-causa-colegio-sandra-pena-20260916222933-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/16/manifestacion-sandra-pena-RxVGQHYIkYs9Yxum8owbgYN-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Indra mantendrá en Sevilla la ingeniería de sus drones pero no la fabricación",
       "link": "https://www.abc.es/sevilla/economia/indra-mantendra-sevilla-ingenieria-drones-fabricacion-20260917071620-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/15/aertec-RF9IXoPNtDA6txbITi0UrJL-1200x840@diario_abc.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Extraditan a Marruecos a un detenido en Sevilla por una mafia de inmigración con 400 víctimas y tres muertos",
-      "link": "https://www.abc.es/sevilla/ciudad/extraditan-marruecos-detenido-sevilla-mafia-inmigracion-400-20260917144921-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/17/1435015529%20(1)-RcNdSH7T38J65vNYuH6nr5H-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
