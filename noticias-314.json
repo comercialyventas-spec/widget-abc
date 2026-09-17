@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Vallas",
+      "link": "https://www.abc.es/xlsemanal/firmas/cartas-lector/lorenzo-silva-vallas-20260914143237-ntrc.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "Ideología y turbios instintos",
+      "link": "https://www.abc.es/xlsemanal/firmas/juan-manuel-de-prada/ideologia-y-turbios-instintos-20260914152900-ntrc.html",
+      "imagen": "https://static.vocento.com/xlsemanal/2026/09/07/xlsemanal-juan-manuel-de-prada-ideologia-y-turbios-instintos-unamuno-kLzH--1200x840@RC.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Si de mí dependiera",
+      "link": "https://www.abc.es/xlsemanal/firmas/andres-trapiello/si-de-mi-dependiera-20260914202413-ntrc.html",
+      "imagen": "https://static.vocento.com/xlsemanal/2026/09/07/xlsemanal-andres-trapiello-ilustracion-fernando-hernandez-kyYC-U301665659568UGB-1200x840@RC.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "«A las grandes tecnológicas la compasión, la empatía o la democracia les resultan irrelevantes»",
       "link": "https://www.abc.es/xlsemanal/yuval-noah-harari-entrevista-grandes-tecnologicas-democracia-es-irrelevante-20260914155645-ntrc.html",
       "imagen": "https://static.vocento.com/xlsemanal/2026/09/14/xlsemanal-2030-yuval-harari-dentro.gif",
@@ -17,24 +35,6 @@
       "link": "https://www.abc.es/xlsemanal/desayuno-albert-boadella-20260914124444-ntrc.html",
       "imagen": "",
       "tipo": ""
-    },
-    {
-      "titulo": "Mi vida extrema con un multimillonario obsesionado con no envejecer",
-      "link": "https://www.abc.es/xlsemanal/biohacker-bryan-johnson-kate-tolo-blueprint-xx-20260914122010-ntrc.html",
-      "imagen": "https://static.vocento.com/xlsemanal/2026/09/14/xlsemanal-biohacker-bryan-johnson-kate-tolo-kjXF-U301744033381Y7F-1200x672@RC.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Miley Cyrus cambia de nombre, lanza disco y llora a su madrina Dolly Parton",
-      "link": "https://www.abc.es/xlsemanal/miley-cyrus-cambia-nombre-nuevo-disco-dolly-parton-20260914182846-ntrc.html",
-      "imagen": "https://static.vocento.com/xlsemanal/2026/09/14/xlsemanal-miley-cyrus-disco--758x531.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "«Lo que iba a ser una inmersión fácil se convirtió en una lucha de tres horas a vida o muerte»",
-      "link": "https://www.abc.es/xlsemanal/entrevista-jill-heinerth-espeleologa-submarina-20260914113510-ntrc.html",
-      "imagen": "https://static.vocento.com/xlsemanal/2026/09/14/xlsemanal-jill-heinerth-espeleologa-submarina%20copia-kvcD-U301725369600XwB-1200x672@RC.jpg",
-      "tipo": "imagen"
     }
   ]
 }
