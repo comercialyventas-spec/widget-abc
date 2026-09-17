@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La pirámide del pantano de Sau",
+      "link": "https://www.lavanguardia.com/opinion/20260917/11637677/piramide-pantano-sau.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/17/6aac5d8373854.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Extremar la precaución",
+      "link": "https://www.lavanguardia.com/opinion/20260917/11637637/extremar-precaucion.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El amanecer desde los jardines de Miramar",
       "link": "https://www.lavanguardia.com/opinion/20260917/11636737/amanecer-jardines-miramar.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/17/6aab206f3e4f2.jpeg",
@@ -22,18 +34,6 @@
       "titulo": "Los egos de Lamine Yamal y Mbappé contra la IA",
       "link": "https://www.lavanguardia.com/opinion/20260917/11636434/ia-morira-ego.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/16/6aaa224fb142b.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El cambio ya ha llegado",
-      "link": "https://www.lavanguardia.com/opinion/20260917/11636427/cambio-llegado.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/16/6aaaa788f12bb.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Dónde estabas entonces?",
-      "link": "https://www.lavanguardia.com/opinion/20260917/11636425/donde-estabas.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/16/6aaaa6569b44b.jpeg",
       "tipo": "imagen"
     }
   ]
