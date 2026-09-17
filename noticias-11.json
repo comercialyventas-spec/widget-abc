@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Este vídeo de ‘Al Jazeera’ no muestra un camión con migrantes rumbo a Ceuta el 30 de julio, sino su retorno a Marruecos",
+      "link": "https://www.newtral.es/al-jazeera-migrantes-ceuta/20260917/",
+      "imagen": "https://www.newtral.es/wp-content/uploads/2026/09/Copia-de-mexicanos-comida-afectados-California-3-1-1024x576.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Esta foto de un bombero de brazos cruzados delante de Sánchez está generada con IA",
       "link": "https://www.newtral.es/bombero-brazos-cruzados-sanchez/20260916/",
       "imagen": "https://www.newtral.es/wp-content/uploads/2026/09/fake-bombero-brazos-cruzados-Sanchez-1024x576.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Datos y contexto: Ceuta y el papel de Marruecos vuelven a marcar una nueva sesión de control",
       "link": "https://www.newtral.es/sesion-control-marruecos-ceuta/20260916/",
       "imagen": "https://www.newtral.es/wp-content/uploads/2026/09/ESION-CONTROL-CONGRESO-DIPUTADO-RODRIGO-JIMENEZ-EFE-20260916-1-1024x683.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cataluña alcanzó el mayor registro de viviendas protegidas finalizadas desde 2008 para un primer trimestre del año",
-      "link": "https://www.newtral.es/viviendas-protegidas-cataluna-factcheck/20260915/",
-      "imagen": "https://www.newtral.es/wp-content/uploads/2026/09/55021398638-FF-SALVADOR-ILLA-NUEVO-CURSO-POLITICO-ALEJANDRO-GARCIA-EFE-20260914-1024x683.jpg",
       "tipo": "imagen"
     }
   ]
