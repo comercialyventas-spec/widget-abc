@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Rusia vota en parlamentarias marcadas por guerra con Ucrania",
+      "link": "https://www.dw.com/es/rusia-vota-en-parlamentarias-marcadas-por-guerra-con-ucrania/a-79316845",
+      "imagen": "https://static.dw.com/image/79281783_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Trump: EEUU y Polonia avanzan en diálogo para instalar base militar",
       "link": "https://www.dw.com/es/trump-eeuu-y-polonia-avanzan-en-diálogo-para-instalar-base-militar/a-79316361",
       "imagen": "https://static.dw.com/image/73872011_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El brote de malaria en Alemania causa una tercera muerte",
       "link": "https://www.dw.com/es/el-brote-de-malaria-en-alemania-causa-una-tercera-muerte/a-79316136",
       "imagen": "https://static.dw.com/image/79315444_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tusk denuncia nuevos ataques rusos cerca de Polonia",
-      "link": "https://www.dw.com/es/tusk-denuncia-nuevos-ataques-rusos-cerca-de-polonia/a-79315767",
-      "imagen": "https://static.dw.com/image/76972002_6.jpg",
       "tipo": "imagen"
     }
   ]
