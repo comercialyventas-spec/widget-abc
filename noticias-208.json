@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "China y Filipinas se acusan de colisión en el mar de China Meridional",
+      "link": "https://www.dw.com/es/china-y-filipinas-se-acusan-de-colisión-en-el-mar-de-china-meridional/a-79319450",
+      "imagen": "https://static.dw.com/image/73842596_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Nigeria: mueren 37 presuntos mineros ilegales en custodia estatal",
       "link": "https://www.dw.com/es/nigeria-mueren-37-presuntos-mineros-ilegales-en-custodia-estatal/a-79317333",
       "imagen": "https://static.dw.com/image/74831365_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Trump: EEUU y Polonia avanzan en diálogo para instalar base militar",
       "link": "https://www.dw.com/es/trump-eeuu-y-polonia-avanzan-en-diálogo-para-instalar-base-militar/a-79316361",
       "imagen": "https://static.dw.com/image/73872011_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El ascenso del partido AfD: la apuesta por el todo o nada",
-      "link": "https://www.dw.com/es/el-ascenso-del-partido-afd-la-apuesta-por-el-todo-o-nada/a-79315730",
-      "imagen": "https://static.dw.com/image/79111853_6.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Zuara, nuevo espacio, mismo nivel",
+      "link": "https://www.abc.es/gastronomia/zuara-nuevo-espacio-nivel-20260918102923-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/18/Barra-RJTt2hggTtQEo4nHrgpBvKI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Barrera al Sol 2021, un vino contra las llamas",
       "link": "https://www.abc.es/gastronomia/vinos/barrera-llamas-20260917103635-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/17/riconuevo-RzVPPOEqtdn5mCkJuxHCeUN-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Real Balneario de Salinas, donde reina el mar",
       "link": "https://www.abc.es/gastronomia/real-balneario-salinas-reina-mar-20260911101344-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/11/realbalenariosalinas-Rt4CVl9j2Bp3AMd1SPJ3eLK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Chefs Michelin firman la gastronomía del Gran Premio de F1 de Madrid",
-      "link": "https://www.abc.es/gastronomia/chefs-michelin-firman-gastronomia-gran-premio-madrid-20260907190306-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/07/chefsf1-R6RYbX3LfMa9Pk9UO8BO07N-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
