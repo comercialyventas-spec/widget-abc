@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Granada premia a quienes proyectan su riqueza turística al mundo",
+      "link": "https://www.ahoragranada.com/noticias/granada-premia-a-quienes-proyectan-su-riqueza-turistica-al-mundo/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Premios-Turismo.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Al menos tres heridos tras la colisión entre dos vehículos en la antigua N323 cerca de Albolote",
       "link": "https://www.ahoragranada.com/noticias/al-menos-tres-heridos-tras-la-colision-entre-dos-vehiculos-en-la-antigua-n323-cerca-de-albolote/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Accidente-Albolote-N323.jpeg",
@@ -13,10 +19,10 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Martita de Graná dará el pregón de las Fiestas de San Miguel de Armilla",
-      "link": "https://www.ahoragranada.com/noticias/martita-de-grana-dara-el-pregon-de-las-fiestas-de-san-miguel-de-armilla/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Martita-de-Grana.jpg",
-      "tipo": "imagen"
+      "titulo": "Libertad provisional para diez de los investigados por su presunta pertenencia a la banda de Albolote",
+      "link": "https://www.ahoragranada.com/noticias/libertad-provisional-para-diez-de-los-investigados-por-su-presunta-pertenencia-a-la-banda-de-albolote/",
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Limpieza de más de 12.000 imbornales para preparar la red de 22 pueblos metropolitanos ante las lluvias",
@@ -25,16 +31,10 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Dílar convierte el ciclismo 'indoor' en una jornada solidaria",
-      "link": "https://www.ahoragranada.com/noticias/dilar-convierte-el-ciclismo-indoor-en-una-jornada-solidaria/",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Libertad provisional para diez de los investigados por su presunta pertenencia a la banda de Albolote",
-      "link": "https://www.ahoragranada.com/noticias/libertad-provisional-para-diez-de-los-investigados-por-su-presunta-pertenencia-a-la-banda-de-albolote/",
-      "imagen": "",
-      "tipo": ""
+      "titulo": "Martita de Graná dará el pregón de las Fiestas de San Miguel de Armilla",
+      "link": "https://www.ahoragranada.com/noticias/martita-de-grana-dara-el-pregon-de-las-fiestas-de-san-miguel-de-armilla/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Martita-de-Grana.jpg",
+      "tipo": "imagen"
     }
   ]
 }
