@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un equipo de investigadores logra acceder a algoritmos secretos de OpenAI usando la IA de Anthropic",
+      "link": "https://www.eldiario.es/tecnologia/equipo-investigadores-logra-acceder-algoritmos-secretos-openai-usando-ia-anthropic_1_13520376.html",
+      "imagen": "https://static.eldiario.es/clip/f9f6b14a-4278-4171-a2c6-9df92a8c5304_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Daron Acemoglu, Nobel de Economía: “El debate sobre la amenaza existencial de la IA esconde riesgos más inmediatos”",
       "link": "https://www.eldiario.es/tecnologia/daron-acemoglu-nobel-economia-debate-amenaza-existencial-ia-esconde-riesgos-inmediatos_1_13517771.html",
       "imagen": "https://static.eldiario.es/clip/6e27b06c-55e2-4dcb-a783-faed364c336e_facebook-aspect-ratio-1200-675_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Zuckerberg descarta frenar el desarrollo de la IA y se limita a pedir evaluadores independientes",
       "link": "https://www.eldiario.es/tecnologia/zuckerberg-ceo-meta-apuesta-evaluadores-independientes-analicen-ia-no-frenar_1_13513241.html",
       "imagen": "https://static.eldiario.es/clip/3cc90e36-6634-4622-ac21-3630ae4fb744_facebook-aspect-ratio-1200-675_default_0_x962y334.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cristian Canton, ingeniero y exjefe de IA en Meta: “No nos va a matar a todos”",
-      "link": "https://www.eldiario.es/tecnologia/cristian-canton-ingeniero-exjefe-ia-meta-no-matar_128_13509777.html",
-      "imagen": "https://static.eldiario.es/clip/1101176f-e494-4077-bb87-24826dfa6859_facebook-aspect-ratio-1200-675_default_0_x1000y399.jpg",
       "tipo": "imagen"
     }
   ]
