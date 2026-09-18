@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en directo, en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-09-18/el-pulso-de-hoy-por-hoy-de-la-cadena-ser-en-el-pais.html",
+      "imagen": "https://www.youtube.com/watch?v=7_7Vd-LyEV4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Vídeo | Del Museo de Shakira a la terraza VIP por 725€: dentro del ‘Macondo Park’ que acoge sus 12 conciertos en Madrid",
       "link": "https://elpais.com/videos/2026-09-18/del-museo-de-shakira-a-la-terraza-vip-por-725-dentro-del-macondo-park-que-acoge-sus-12-conciertos-en-madrid.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260917/1215389_162119_video_1800.mp4",
@@ -28,12 +34,6 @@
       "titulo": "No tengo tiempo para tener más amigos",
       "link": "https://elpais.com/videos/2026-09-17/no-tengo-tiempo-para-tener-mas-amigos.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260916/1214917_140132_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Por qué China está obsesionada con construir grandes estructuras de transporte?",
-      "link": "https://elpais.com/videos/2026-09-17/por-que-china-esta-obsesionada-con-construir-grandes-estructuras-de-transporte.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260916/1215015_181018_video_1800.mp4",
       "tipo": "imagen"
     }
   ]
