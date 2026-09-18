@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Últimas noticias | 18 septiembre 2026 - Mediodía",
+      "link": "https://es.euronews.com/video/2026/09/18/ultimas-noticias-18-septiembre-2026-mediodia",
+      "imagen": "https://images.euronews.com/articles/stories/09/91/88/28/1200x675_cmsv2_b765deaa-bff0-5a95-bae4-0f7f1b212d38-9918828.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "EE.UU. aprueba la venta de 48 cazas F-35 a Arabia Saudí",
       "link": "https://es.euronews.com/2026/09/18/eeuu-aprueba-la-venta-de-48-cazas-f-35-a-arabia-saudi",
       "imagen": "https://images.euronews.com/articles/stories/09/91/82/75/1200x675_cmsv2_d3c3e99e-5b2f-5dd4-9ba5-8a4c6b8682a3-9918275.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Manifestantes protestan contra OpenAI y Anthropic en San Francisco por temor a la seguridad de la IA",
       "link": "https://es.euronews.com/video/2026/09/18/manifestantes-protestan-contra-openai-y-anthropic-en-san-francisco-por-temor-a-la-segurida",
       "imagen": "https://images.euronews.com/articles/stories/09/91/82/89/1200x675_cmsv2_2b5f1060-bcd0-53eb-85e1-5e3baf8d4662-9918289.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Trump anuncia \"importantes\" avances en la posible instalación de una base militar de EE.UU. en Polonia",
-      "link": "https://es.euronews.com/2026/09/18/trump-anuncia-importantes-avances-en-la-posible-instalacion-de-una-base-militar-de-eeuu-en",
-      "imagen": "https://images.euronews.com/articles/stories/09/91/82/26/1200x675_cmsv2_ba8ec1ce-c074-5e4d-8034-81ce1ff19c1e-9918226.jpg",
       "tipo": "imagen"
     }
   ]
