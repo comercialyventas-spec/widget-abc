@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
+      "titulo": "Shakira conquista Macondo y convierte el realismo mágico en realismo pop",
+      "link": "https://www.abc.es/cultura/shakira-conquista-macondo-convierte-realismo-magico-realismo-20260918193812-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/18/shakira1-RDssk3icEc6rPkAUcDr5oAM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Madrid lista para recibir a la artista colombiana",
+      "link": "https://www.abc.es/cultura/musica/madrid-prepara-concierto-shakira-imagenes-20260918190139-ga.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/18/shaki1-kg7D-U301788783517TqG-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Qué se come y se bebe en los conciertos",
+      "link": "https://www.abc.es/gastronomia/come-bebe-conciertos-shakira-madrid-20260918164929-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/18/Terrace_SideView-RjvKFoTZM9ktOXyxhDUdhLO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Unos 2.000 inmigrantes vuelven a las playas tras la saturación en el campamento del puerto de Ceuta",
       "link": "https://www.abc.es/espana/tension-caos-traslado-inmigrantes-puerto-ceuta-entran-20260918101849-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/18/ceuta-efe-kglD-Rn5ZhuUqJfSuhrMVPY2oXgM-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/18/ceuta-efe-kglD-Rn5ZhuUqJfSuhrMVPY2oXgM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Rabat no ve «incriminatoria» la resolución de la UE que habla de «invasión»",
       "link": "https://www.abc.es/espana/marruecos-incriminatoria-resolucion-ue-respecto-ceuta-habla-20260918165034-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/18/1517403610-kMKB-U301786655040DjH-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/18/1517403610-kMKB-U301786655040DjH-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "El Real Madrid abre la temporada ante el Dubai en las semifinales de la Supercopa europea",
       "link": "https://www.abc.es/deportes/baloncesto/dubai-basketball-real-madrid-directo-semifinales-supercopa-20260918184004-di.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/18/896067-RpbgSGtAgMnoD1LHyjNDO0O-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Isabel Preysler y su momento viral con Pilar Rubio: «¿Quién eres?»",
-      "link": "https://www.abc.es/gente/isabel-preysler-momento-viral-pilar-rubio-mercedes-20260918125335-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/18/preysler-rubio1-RZn5EX17TZxPhHf0spPe3KN-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Más madera contra Infantino: le piden que reparta 2.100 millones",
-      "link": "https://www.abc.es/deportes/futbol/madera-infantino-piden-reparta-2100-millones-20260918193430-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/18/DAMBin%20(3)-RzbTe8Jhy5wYQJdK0SZHtnL-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Alemania recibe su primer caza F-35 invisible al radar y capaz de portar bombas nucleares",
-      "link": "https://www.abc.es/internacional/alemania-integra-disuasion-nuclear-otan-f35-eeuu-20260918192011-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/18/caza-RIUoDVPZAcxvI4YyRMpV6QL-1200x840@diario_abc.JPG"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/18/896067-RpbgSGtAgMnoD1LHyjNDO0O-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }
