@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El hallazgo de cámaras ocultas en la tumba de Tutankamón abre la puerta a encontrar el sarcófago de Nefertiti",
+      "link": "https://www.lavanguardia.com/cultura/20260918/11638233/hallazgo-camaras-ocultas-tumba-tutankamon-abre-puerta-encontrar-sarcofago-nefertiti.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2018/05/07/5fa4340aed6fb.r_d.910-274-4526.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cuando el destino de Europa dependió de un meteorólogo",
       "link": "https://www.lavanguardia.com/cultura/20260918/11630214/destino-europa-dependio-meteorologo.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/08/6aa04ccb1fe33.r_d.717-238-0.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Estrella Damm despliega 45 conciertos por salas de Catalunya, Baleares o Andorra",
       "link": "https://www.lavanguardia.com/qf/planes/20260918/11637126/estrella-damm-despliega-45-conciertos-salas-catalunya-baleares-andorra.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/17/6aabc16146a86.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Coyote declara la guerra a ACME",
-      "link": "https://www.lavanguardia.com/cultura/cine/20260918/11637049/coyote-declara-guerra-acme.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/17/6aabb67d3bf42.jpeg",
       "tipo": "imagen"
     }
   ]
