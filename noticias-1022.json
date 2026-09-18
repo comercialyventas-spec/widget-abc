@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Cambios en los parquímetros de Madrid los fines de semana",
-      "link": "https://www.abc.es/espana/madrid/cambios-parquimetros-madrid-fines-semana-empezara-cobrar-20260918132034-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/03/27/parquimetro-k07G-U301767195874JDD-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "Cortada la línea 6 de Metro de Madrid entre Conde de Casal y Diego de León por una avería eléctrica",
       "link": "https://www.abc.es/espana/madrid/cortada-linea-metro-madrid-conde-casal-diego-20260918094055-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/18/metro-Rq7aHf7pL9p5LEx0IAGaDgM-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "La jueza Tardón busca responsables del asalto a Ceuta por encima del delegado del Gobierno",
-      "link": "https://www.abc.es/espana/juez-tardon-busca-responsables-asalto-ceuta-encima-20260918013017-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/18/InmigrantesPlayaCeuta-U301767871911x9C-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/18/metro-Rq7aHf7pL9p5LEx0IAGaDgM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Las víctimas piden al juez que revoque la libertad de Txeroki",
       "link": "https://www.abc.es/espana/victimas-piden-juez-revoque-libertad-txeroki-20260918012810-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/18/1506668814%20(1)-ROVQLIsrnBn0mzZhwBgGwIJ-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/18/1506668814%20(1)-ROVQLIsrnBn0mzZhwBgGwIJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Edit, monja de clausura: «En mi primera visita al convento me sorprendió que las hermanas eran mujeres felices, guapas, normales»",
       "link": "https://www.abc.es/recreo/edit-monja-clausura-primera-visita-convento-sorprendio-20260918081921-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2026/09/18/videoframe_422492-kClE-U301760714297bBE-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2026/09/18/videoframe_422492-kClE-U301760714297bBE-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Detienen al presunto responsable del asesinato de la española Claudia Tacoronte en México",
       "link": "https://www.abc.es/sociedad/detienen-presunto-responsable-feminicidio-claudia-tacoronte-mexico-20260918030510-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/18/eltrompas-kXHE-U30177631710105H-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/18/eltrompas-kXHE-U30177631710105H-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La burocracia amenaza a los pueblos de la dana sin las obras terminadas",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/agua-vuelve-amenazar-pueblos-dana-obras-empezar-20260918012914-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/18/paiporta-poyo-R4mBtgesab75jnGlCH2n1NK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Sandra Peña: las claves de un caso que puso al colegio bajo la lupa mediática y que queda sin castigo penal",
+      "link": "https://www.abc.es/sevilla/ciudad/sandra-pena-claves-puso-colegio-bajo-lupa-20260918181508-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/17/1511654814-RZpuOoHRczXAupHGsulicoM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }
