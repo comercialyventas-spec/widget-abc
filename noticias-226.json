@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "El salari medià creix al juny fins als 2.235 euros, un 4,5% més que l’any passat, i supera els 2.200 en l’acumulat anual",
+      "titulo": "El salari medià creix al juny fins als 2.235 euros, un 4,5% més que el 2025, i supera els 2.200 en l’acumulat anual",
       "link": "https://elperiodic.ad/societat/el-salari-media-creix-al-juny-fins-als-2-235-euros-un-45-mes-que-lany-passat-i-supera-els-2-200-en-lacumulat-anual/",
       "imagen": "https://elperiodic.ad/wp-content/uploads/2026/09/Proyecto-nuevo-2026-09-17T154705.346-300x150.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cadena reclama que les lleis d’igualtat es tradueixin en mesures efectives i disposin dels recursos necessaris",
+      "link": "https://elperiodic.ad/societat/cadena-reclama-que-les-lleis-digualtat-es-tradueixin-en-mesures-efectives-i-disposin-dels-recursos-necessaris/",
+      "imagen": "https://elperiodic.ad/wp-content/uploads/2026/09/Proyecto-nuevo-3-10.jpg",
       "tipo": "imagen"
     },
     {
@@ -19,21 +25,15 @@
       "tipo": "imagen"
     },
     {
+      "titulo": "Andorra Telecom preveu ingressar 89,1 milions d’euros el 2027 i destinar-ne 9,6 a continuar modernitzant la xarxa",
+      "link": "https://elperiodic.ad/societat/andorra-telecom-preveu-ingressar-891-milions-deuros-el-2027-i-destinar-ne-96-milions-a-inversions/",
+      "imagen": "https://elperiodic.ad/wp-content/uploads/2026/07/node-web-300x150.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "23 milions davant la crisi de l’habitatge",
       "link": "https://elperiodic.ad/editorial/23-milions-davant-la-crisi-de-lhabitatge/",
       "imagen": "https://elperiodic.ad/wp-content/uploads/2024/07/placeholder-elperiodic.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El pressupost per a l’any 2027 preveu un dèficit de 43 milions d’euros, amb unes despeses que superaran els 834 milions",
-      "link": "https://elperiodic.ad/economia/el-pressupost-per-a-lany-2027-preveu-un-deficit-de-43-milions-deuros-amb-unes-despeses-que-superaran-els-834-milions/",
-      "imagen": "https://elperiodic.ad/wp-content/uploads/2026/09/Proyecto-nuevo-30-300x150.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Govern defensa la contenció migratòria després de reduir fins a un 34% les autoritzacions respecte de l’any passat",
-      "link": "https://elperiodic.ad/politica/govern-defensa-la-contencio-migratoria-despres-de-reduir-un-34-les-autoritzacions-respecte-de-lany-passat/",
-      "imagen": "https://elperiodic.ad/wp-content/uploads/2026/09/Proyecto-nuevo-11-300x150.jpg",
       "tipo": "imagen"
     }
   ]

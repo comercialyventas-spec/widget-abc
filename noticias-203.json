@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Cómo el peso colombiano se convirtió en una de las monedas más fuertes del mundo en 2026",
+      "link": "https://www.bbc.com/mundo/articles/cm1wxz8d3dj5o",
+      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f9a0/live/8f4bbdd0-b34f-11f1-b949-71f91f81d1ab.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Por qué a Putin le importan las elecciones legislativas en Rusia, pese a que no habrá sorpresas",
       "link": "https://www.bbc.com/mundo/articles/cqgl75nenp3no",
       "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1ea1/live/831afed0-b2e7-11f1-924c-2f087f69d9e9.jpg",
@@ -10,12 +16,6 @@
       "titulo": "\"Los hispanos se sienten traicionados\": el mensaje a Trump de la congresista republicana María Elvira Salazar en plena ola de arrestos y deportaciones",
       "link": "https://www.bbc.com/mundo/articles/c64g7jz9yzvno",
       "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/493e/live/8032d500-b2d1-11f1-aa00-7947ea0dbeab.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La playa de los huesos: cómo Rusia intenta olvidar la represión soviética (pero las pruebas siguen aflorando en un lago)",
-      "link": "https://www.bbc.com/mundo/articles/cqm2m487e0kro",
-      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d11c/live/8915b9c0-a55d-11f1-aed2-8d6da8d75094.jpg",
       "tipo": "imagen"
     },
     {
@@ -31,9 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Quién es Robert Kraft, el multimillonario en el centro de la polémica por la gira de Ed Sheeran",
-      "link": "https://www.bbc.com/mundo/articles/cq4g7j9zl4m2o",
-      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b9ad/live/215c01f0-b2c7-11f1-9830-658a48c7da16.jpg",
+      "titulo": "La playa de los huesos: cómo Rusia intenta olvidar la represión soviética (pero las pruebas siguen aflorando en un lago)",
+      "link": "https://www.bbc.com/mundo/articles/cqm2m487e0kro",
+      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d11c/live/8915b9c0-a55d-11f1-aed2-8d6da8d75094.jpg",
       "tipo": "imagen"
     }
   ]

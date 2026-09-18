@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Logran 'hackear' a OpenAI en 72 horas utilizando la IA de Anthropic",
+      "link": "https://www.abc.es/tecnologia/logran-hackear-openai-horas-utilizando-ia-anthropic-20260918124846-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/18/1517307382-RDxowaP5PUJnqLumAlRpWjO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Quién puede permitirse frenar la IA?: el miedo a la extinción como estrategia de mercado",
       "link": "https://www.abc.es/tecnologia/puede-permitirse-frenar-ia-miedo-extincion-estrategia-20260918012528-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/18/1517307360-RA8QASROZwKwIbjpfBpXXFL-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Apple prepara un mando para convertir el iPhone en una consola de videojuegos",
       "link": "https://www.abc.es/tecnologia/moviles/apple-prepara-mando-convertir-iphone-consola-videojuegos-20260917180254-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/17/mujer-telefono-movil-videojuego-RhKBmPYHfwKTTTEGR2KYNvJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "OpenAI revela otros seis incidentes «preocupantes» en los que su IA trató de engañar a los humanos",
-      "link": "https://www.abc.es/tecnologia/openai-revela-seis-incidentes-ia-descontrolados-20260917085500-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/17/altman-RGSWGCpNwe2pCd2PsROzJBN-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

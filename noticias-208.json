@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El mito de Jürgen Klopp está en los pies de una nueva generación",
+      "link": "https://www.dw.com/es/el-mito-de-jürgen-klopp-está-en-los-pies-de-una-nueva-generación/a-79320486",
+      "imagen": "https://static.dw.com/image/79311496_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Al menos tres muertos en tiroteo en una escuela en Filipinas",
       "link": "https://www.dw.com/es/al-menos-tres-muertos-en-tiroteo-en-una-escuela-en-filipinas/a-79320490",
       "imagen": "https://static.dw.com/image/79322564_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Pyongyang acusa a EE.UU. de aumentar tensiones regionales",
       "link": "https://www.dw.com/es/pyongyang-acusa-a-ee-uu-de-aumentar-tensiones-regionales/a-79316855",
       "imagen": "https://static.dw.com/image/77446935_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Rusia vota en parlamentarias marcadas por guerra con Ucrania",
-      "link": "https://www.dw.com/es/rusia-vota-en-parlamentarias-marcadas-por-guerra-con-ucrania/a-79316845",
-      "imagen": "https://static.dw.com/image/79281783_6.jpg",
       "tipo": "imagen"
     }
   ]
