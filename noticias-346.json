@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un robot humanoide entra en 30 casas que nunca había visto y empieza a hacer las tareas por sí mismo",
+      "link": "https://www.abc.es/tecnologia/electronica/robot-humanoide-entra-casas-nunca-visto-empieza-20260918200341-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/18/figure-ai-helix-2-5_20260918192707-RLTmNv9MqVdc4MC0A8TqeJI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La IA empieza a desarrollar a sus sucesoras: Claude ya lidera una cuarta parte de la investigación de Anthropic",
       "link": "https://www.abc.es/tecnologia/ia-empieza-desarrollar-sucesoras-claude-lidera-cuarta-20260918185117-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/18/dario-amodei-anthropic-claude-RnoYCFHlO2ekHqxcpbM7B6N-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La IA ya puede controlar tu hogar: Google abre la puerta a los agentes que manejan dispositivos domésticos",
       "link": "https://www.abc.es/tecnologia/electronica/ia-puede-controlar-hogar-google-abre-puerta-20260917194446-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/17/google-home-R5ZK9GNs9eeqrXbmP9LDj1J-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Europa quiere prohibir el 'scroll' infinito en redes sociales a los menores de 18 años",
-      "link": "https://www.abc.es/tecnologia/europa-quiere-prohibir-scroll-infinito-redes-sociales-20260917130739-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/17/1517294249-RYXXfSYW8z1VzRGTJM1dOZM-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

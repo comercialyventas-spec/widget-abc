@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La Palma dice adiós al Telescopio de Treinta Metros",
+      "link": "https://www.abc.es/ciencia/palma-dice-adios-telescopio-treinta-metros-20260918201524-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/18/jcr_content-R2DJTOZMtrmwI7vxxCbusHJ-1200x840@diario_abc.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El cerebro humano no es uno, sino dos órganos distintos y 'acoplados' por la evolución",
       "link": "https://www.abc.es/ciencia/cerebro-humano-dos-organos-distintos-acoplados-evolucion-20260918112142-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/18/cerebro-humano1-Rfv8Y4vS4kkWC2oTXkStLlL-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Descubren que los chimpancés ceden sus propias herramientas para 'educar' a sus crías",
       "link": "https://www.abc.es/ciencia/descubren-chimpances-ceden-propias-herramientas-educar-crias-20260916102115-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/16/Chimpance-usando-herramientas-Ri3a3DFCYn2nPr7g4TPXYFK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Leer la mente ya es posible: logran predecir tus decisiones antes de que actúes",
-      "link": "https://www.abc.es/ciencia/leer-mente-posible-logran-predecir-tus-decisiones-20260914110000-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/14/Cerebro%20en%20accion-RSdneO3oAoNTIYjDqeOA4CL-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

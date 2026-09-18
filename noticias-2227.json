@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Obras: Carretera M-500. Afectadas 4 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260918-O-Pasarela-M-500.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Recuperación de Parada: Carretera de Boadilla. Afectada línea 65 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260921-RP-2637-Carretera-Boadilla.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -27,12 +33,6 @@
     {
       "titulo": "Evento deportivo en Centro, Chamberí y Moncloa. Afectadas 38 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260920-Carrera-Madrid-Corre-Por-Madrid.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Acto religioso en Villaverde Alto. Afectadas 5 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260920-Ensayo-Costaleros-Virgen-Rosario-Villaverde.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

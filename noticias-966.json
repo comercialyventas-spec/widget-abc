@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El escándalo",
+      "link": "https://elpais.com/television/series/el-escandalo/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/EDFBSWB43RGOVETGSU6OGEW6Z4.jpg?auth=2112df1bb22f0df30c248033ff0a857cce994339ef1849ea9a4752b4ba181a95",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "South Park",
+      "link": "https://elpais.com/television/series/south-park/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/WHCXV3UR6NHBNMZ3I2FZJXCNYI.jpg?auth=09ed64ad4b7c52122020bb766a898d7a617bb82ac94bd43e4218f041234c98bc",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "RTVE, el primer medio que accede a las criptas de Cuelgamuros para narrar en un documental la exhumación de víctimas de la Guerra Civil",
       "link": "https://elpais.com/television/2026-09-18/rtve-el-primer-medio-que-accede-a-las-criptas-de-cuelgamuros-para-narrar-en-un-documental-la-exhumacion-de-victimas-de-la-guerra-civil.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/O6UHPMXJ2JESZJYM3IHGQN5HXA.jpg?auth=edaf4d5e80a26ac18738956e44008eac65dfa56aca8595b14a2b9bbcbc4c494b",
@@ -22,18 +34,6 @@
       "titulo": "Monstruo: La historia de Lizzie Borden",
       "link": "https://elpais.com/television/series/monstruo-la-historia-de-lizzie-borden/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/A72DHRFXDNAVHF37QHGJUOMDIQ.jpg?auth=91140e08e9da847baaf6ce790ff1204d2e019b0b7db5b0e8a0bcae1ba0884f80",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Belleza plástica",
-      "link": "https://elpais.com/television/series/belleza-plastica/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ZGIPLGDVZZBKNKKNG7Y54OREIQ.jpg?auth=60c4df8551132b1ffaf81528a053d0fe3b893d35471219825d08d9cdbde434df",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Stranger Things: Relatos del 85",
-      "link": "https://elpais.com/television/series/stranger-things-relatos-del-85/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/T6DJ4KNODNDLDIPJDMRWHXIJ6M.jpg?auth=5848935cbbf20825c893f73a01fa700544c8fab01c423d6f8887223cba4c0b0b",
       "tipo": "imagen"
     }
   ]

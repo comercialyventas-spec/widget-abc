@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "La tragedia del Santa Isabel entra en el Museo Valle-Inclán",
+      "link": "https://www.lavozdegalicia.es/noticia/arousa/vilagarcia-de-arousa/2026/09/19/tragedia-santa-isabel-entra-museo-valle-inclan/0003_202609B19C10993.htm",
+      "imagen": "https://cflvdg.avoz.es/sc/p-ucYIqMR-x0QaRpuLGploLrVh0=/768x/2026/09/18/00121789732861805875160/Foto/BS19C10F2_2.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Puerto de A Coruña adjudica la ampliación del muelle de Langosteira",
       "link": "https://www.lavozdegalicia.es/noticia/somosmar/2026/09/18/puerto-coruna-adjudica-ampliacion-muelle-langosteira/00031789730488032870928.htm",
       "imagen": "https://cflvdg.avoz.es/sc/IJ_0nBe7Wx-WtT-lbuylar1pbNQ=/768x/2026/07/02/00121782994812648737743/Foto/puerto.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El viaje a las islas Cíes se cuela entre las diez experiencias turísticas más vendidas del mundo este verano",
+      "link": "https://www.lavozdegalicia.es/noticia/vigo/2026/09/18/viaje-islas-cies-cuela-diez-experiencias-turisticas-vendidas-mundo-verano/00031789717577204625583.htm",
+      "imagen": "https://cflvdg.avoz.es/sc/P7jGyJIVe39V0QGzWDFZK_YNgzk=/768x/2026/05/12/00121778602862988870155/Foto/V16L4577.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "El Congreso de Argentina debate las sanciones por explotar recursos en las Malvinas",
       "link": "https://www.lavozdegalicia.es/noticia/internacional/2026/09/18/congreso-argentina-debate-sanciones-explotar-recursos-malvinas/0003_202609G18P18991.htm",
       "imagen": "https://cflvdg.avoz.es/sc/b3y2ixwG4fc4Ka491v5M259MmH0=/768x/2026/09/17/00121789663502526284878/Foto/eup_20260905_084426791.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Anfaco manda sus latas a la Universidad",
-      "link": "https://www.lavozdegalicia.es/noticia/somosmar/2026/09/17/anfacomanda-latas-universidad/00031789658599109311667.htm",
-      "imagen": "https://cflvdg.avoz.es/sc/mwvJDyODEyL99ul87Cn6rBVj65s=/768x/2026/09/17/00121789660322443253817/Foto/H_20250916_135857000.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Massó albergará la segunda uci de fauna marina de Galicia",
-      "link": "https://www.lavozdegalicia.es/noticia/vigo/2026/09/18/masso-albergara-segunda-uci-fauna-marina-galicia/0003_202609V18C1993.htm",
-      "imagen": "https://cflvdg.avoz.es/sc/n1Gelr-TcIlbIBALZRMzgPvQcyg=/768x/2026/09/17/00121789646341393714664/Foto/VS18C1F2_135752.jpg",
       "tipo": "imagen"
     }
   ]
