@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El Maresme reduce más de un 10% los índices de criminalidad durante el primer semestre del año",
+      "link": "https://www.lavanguardia.com/local/maresme/20260918/11638270/maresme-reduce-mas-10-indices-criminalidad-primer-semestre-ano.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2022/03/22/6239918e8f307.r_d.304-500-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Al menos dos ancianos muertos en un pueblo de Salamanca por una posible intoxicación",
       "link": "https://www.lavanguardia.com/sucesos/20260918/11638380/dos-ancianos-muertos-pueblo-salamanca-posible-intoxicacion.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/02/19/67b64dce17725.r_d.496-311-4553.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Un hombre muere al ser atacado por un tiburón blanco a pocos metros de la orilla en Australia",
       "link": "https://www.lavanguardia.com/sucesos/20260918/11638127/hombre-muere-atacado-tiburon-blanco-pocos-metros-orilla-australia.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2019/01/19/5fa517e57f5c9.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un hombre ataca a la Guardia Civil en Oleiros y termina herido de bala al ser detenido por violencia machista",
-      "link": "https://www.lavanguardia.com/sucesos/20260918/11638039/hombre-oleiros-ataca-agentes-oleiros-acaba-herido-bala-detenido-violencia-machista.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/09/69385f3e8fea1.r_d.2480-1653-0.jpeg",
       "tipo": "imagen"
     }
   ]
