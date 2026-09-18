@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La lot(eria) del sistema literari català",
+      "link": "https://elpais.com/quadern/literatura/2026-09-18/la-loteria-del-sistema-literari-catala.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/M2J7Y2HGHFG2HEKBBV7TUIO7OA.jpg?auth=1fc98facf409e0f0daa19d27f18490dcdb6c514ccc5bdcce8d55dfbd6c749af0",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "L’hora de la façana de la Glòria de la Sagrada Família: així la va imaginar Gaudí",
       "link": "https://elpais.com/quadern/art-i-arquitectura/2026-09-17/lhora-de-la-facana-de-la-gloria-de-la-sagrada-familia-aixi-la-va-imaginar-gaudi.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/HQO6IWZI6ZHBNGVUBEHH6MR4D4.JPG?auth=b1b91a644cc433fc33791735dac89a15aa4e8e648a153882da7d6f39a66bcf67",
@@ -28,12 +34,6 @@
       "titulo": "Tots els estius que ens queden per suar",
       "link": "https://elpais.com/quadern/tendencies/2026-09-13/tots-els-estius-que-ens-queden-per-suar.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/RIRSN5D2YZBKVOVRTE336BOPO4.jpg?auth=34cfdfcb352100cb7a3304c87272c135bc731c8e52e65b242744f672581b608b",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘Cronos’: com es parla d’integració a Catalunya després del 17-A?",
-      "link": "https://elpais.com/quadern/cinema-i-televisio/2026-09-13/cronos-com-es-parla-dintegracio-despres-del-17-a.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/FQH7JWCIMBHOTBQANWTOJIF6IA.jpg?auth=2306e0843723c8ce121bad1c0071a97cd7330054d60b36c80bc87ad05cb2ac50",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El Roto: embobados",
+      "link": "https://elpais.com/opinion/2026-09-18/el-roto-embobados.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/JM3QLZUMSFF2XIU56FGKO65WBE.jpg?auth=55033cf6ea57fd3cf17955306cd1f72737764b5ff29391605c85c889f93a5496",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El cambio climático, con sus olas de calor, favorece los megaincendios",
+      "link": "https://elpais.com/clima-y-medio-ambiente/2026-09-18/el-cambio-climatico-con-sus-olas-de-calor-favorece-los-megaincendios.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/MTTEL7G7NJLDDGZ535XTFSAILY.jpg?auth=7fc128b21bd33ecc03a7626597c5c51a9ec61d4c0205d390f85a5e2579360548",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ceuta en la camiseta",
       "link": "https://elpais.com/opinion/2026-09-18/ceuta-en-la-camiseta.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/PDW2TJ4IWZA77L2NPJGUVXX6ZA.jpg?auth=22524e2e891f425981308e86a114ddf7a053abc9ddd441fd8c7b9b9ae855272b",
@@ -22,18 +34,6 @@
       "titulo": "Peridis: flexibilidad según Von der Leyen",
       "link": "https://elpais.com/opinion/2026-09-17/peridis-flexibilidad-segun-von-der-leyen.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/TPDYHNM5FZHRBKAK35WTP6V4RU.jpg?auth=145811e2bf9648162502dced0d83434a490c84c049d236c0dafe04eeaf07189a",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El último servicio de Pedro Sánchez",
-      "link": "https://elpais.com/opinion/2026-09-17/el-ultimo-servicio-de-pedro-sanchez.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/W7HE3TYZGNDCNDMVIHRBA6GMGE.jpg?auth=5d6379481ae059969c431bd90bd931c05652b49b3ad19c8b13ba998adcd8235e",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mójate, pero solo en mi charco",
-      "link": "https://elpais.com/opinion/2026-09-17/mojate-pero-solo-en-mi-charco.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/UTHLHRBKNZE7BAIK2BPNP7BRMQ.jpeg?auth=243ce152aa7ea894005f009ab2a6fe73387aeaeb892448d11afaa23c1ac1f3f9",
       "tipo": "imagen"
     }
   ]

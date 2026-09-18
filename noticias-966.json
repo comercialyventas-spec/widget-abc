@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Uno de los nuestros",
+      "link": "https://elpais.com/television/2026-09-18/uno-de-los-nuestros.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NBPD474PVBMP3IE3RGNJPUCGWI.jpg?auth=c173e550528356d2384aa431f0e14670a490a5b165e5ffa503a2287c80c2fdf1",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "TVE se queda sin ‘Masterchef Junior’, que pasará a Disney+",
       "link": "https://elpais.com/television/2026-09-17/tve-se-queda-sin-masterchef-junior-que-pasara-a-disney.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/4NYHLKZ26FKVNHN7BIJDL7SIJM.jpg?auth=0e1dfcbd00cb992fa50f2ed0ca8cd90559e9e51b8e5620258b4ac99945dcec40",
@@ -28,12 +34,6 @@
       "titulo": "‘El túnel’ y el informe PISA, conexión si la hubiera",
       "link": "https://elpais.com/television/2026-09-17/el-tunel-y-el-informe-pisa-conexion-si-la-hubiera.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/6UQJHVCGSJHGRGJUSRBZP6B3WE.jpg?auth=05d7919679d5de461cd67e1450505f134e28104176044674904852142dcd4aee",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mucho más que el ex de Madonna: Guy Ritchie dirige un imperio criminal británico en las series",
-      "link": "https://elpais.com/television/series/2026-09-17/mucho-mas-que-el-ex-de-madonna-guy-ritchie-dirige-un-imperio-criminal-britanico-en-las-series.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/WQ6JDCQF6JGWHCF6ZVZMF2RSQI.jpg?auth=7ad980260ce56deb36c55141b9a932e618786fb79dbfc9f1e65ae132a4f793b4",
       "tipo": "imagen"
     }
   ]

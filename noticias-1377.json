@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "¿Se debe publicar una mala crítica de un restaurante pequeño y barato?",
+      "link": "https://elpais.com/gastronomia/2026-09-18/se-debe-publicar-una-mala-critica-de-un-restaurante-pequeno-y-barato.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QRINTA2RWNEAXI6VDAUXMOFZEU.jpg?auth=d42edc21f4d79fb4d0fad86fb81516a5cfa8e2812808d1e33043c37280f7d4f0",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Hermanos Alba, el restaurante de barrio que atrae a chefs y futbolistas hasta Málaga",
+      "link": "https://elpais.com/gastronomia/2026-09-18/hermanos-alba-el-restaurante-de-barrio-que-atrae-a-chefs-y-futbolistas-hasta-malaga.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/AW646LWW3NEWNBJMCDSLX6VX7I.jpg?auth=fb157f1bc94f336beb8cdffaf4706ef841f5c639ed36edf5267bd708a5354916",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "‘Pad kra pao’, un plato icónico de las calles de Tailandia",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-09-17/pad-kra-pao-un-plato-iconico-de-las-calles-de-tailandia.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/WRGABF4RKZAOZA2BGDWKB5EIX4.jpg?auth=2677933ada1fb665c2409627b444817602c02fe4299d028590961e6d88277122",
@@ -22,18 +34,6 @@
       "titulo": "Cinco vinos blancos españoles de altura elaborados con la variedad riesling",
       "link": "https://elpais.com/gastronomia/beber/2026-09-17/cinco-vinos-blancos-espanoles-de-altura-elaborados-con-la-variedad-riesling.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/JAZJE53WQFDXNEWFX54BKEC34I.jpg?auth=6d0bbb198c8917c8b5a3c331745fa6771e558e3016597ec1973d1a93650dfc87",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Seis pizzerías españolas entre las 100 mejores del mundo",
-      "link": "https://elpais.com/gastronomia/2026-09-16/seis-pizzerias-espanolas-entre-las-100-mejores-del-mundo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/DWMUPNLLP5AWJKWXU6ZLQCF2EM.jpg?auth=c6725690f8abcafc881f2a2171cc25995632c5bde590df3ff8dfaba15f819957",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Trece recetas que explican por qué la cocina mexicana es de las mejores del mundo",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-09-16/trece-recetas-que-explican-por-que-la-cocina-mexicana-es-de-las-mejores-del-mundo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/M4O6FX36ZFEEHA5VJYJTR72NBE.jpg?auth=1d15bc560b71a2aba2aeea0ae33da716f556bee8f72c6aa398a70150f531c4b5",
       "tipo": "imagen"
     }
   ]

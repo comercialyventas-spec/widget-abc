@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Montoneros, una historia trágica",
+      "link": "https://elpais.com/babelia/2026-09-18/montoneros-una-historia-tragica.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/P7OOWCLK4BGEBHKBJPFMANT3T4.jpg?auth=c640acb9d0f242dea81c37e8a25699fbb13a763417ca7671d0c3d6dd51c85c17",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Pawel Pawlikowski, cineasta: “No estoy seguro de lo que el futuro nos traerá, de si tiene sentido hacer películas”",
+      "link": "https://elpais.com/babelia/2026-09-18/pawel-pawlikowski-cineasta-no-estoy-seguro-de-lo-que-el-futuro-nos-traera-de-como-actuar-de-si-tiene-sentido-hacer-peliculas.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/WK72N3TQRVAN5E63PO6GEWSEPA.jpg?auth=3636a1fab0490f706baa86254bf7d216d4f30b28d0084f0ed9ffc1981f42f73c",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "‘No contaban con las ondas’, el duelo tras el feminicidio",
       "link": "https://elpais.com/babelia/2026-09-17/no-contaban-con-las-ondas-el-duelo-tras-el-feminicidio.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/EPSKRPSA7NHTBG4J4XH2CCTZBE.jpg?auth=24abf7a4cd79f7059de864cfd5c0af2fde2d07036d44df9e534777be8fd5f55a",
@@ -22,18 +34,6 @@
       "titulo": "Trampantojo: ¡Pásmense!",
       "link": "https://elpais.com/babelia/2026-09-16/trampantojo-pasmense.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/B7DJ4BEF6ZEORLAS7HMEGPXBN4.jpg?auth=6a65eaf6a4b5c056ba63053ed78e395ef70c9efa65568cebe963b36e6c0fef85",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Trampantojo: Taller de escritura creativa",
-      "link": "https://elpais.com/babelia/2026-09-16/trampantojo-taller-de-escritura-creativa.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/FJVNFTPZXFHLLNBQ7RTFKPYVDA.jpg?auth=9c2c49741ea90e2402c47e3e6db2ede057e382dd18fab41659c63b2838d559d7",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Trampantojo: Inocente",
-      "link": "https://elpais.com/babelia/2026-09-16/trampantojo-inocente.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/GBUXOYPSUZAQZIA7OWUKOE5CQI.jpg?auth=ee864f15672f7dd0fae2f830be79a88253e6d5d23426120c35420fff8315b3c6",
       "tipo": "imagen"
     }
   ]
