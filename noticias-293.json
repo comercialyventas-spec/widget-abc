@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "'La bola negra': todos los hombres de Lorca",
+      "link": "https://www.abc.es/cultura/cultural/bola-negra-hombres-lorca-20260918013259-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/18/Bola-Negra-RQVWZ7dBz3ksA8qLwktkdPP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Fuera del agua",
       "link": "https://www.abc.es/cultura/cultural/agua-20260917100543-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/17/1200x840-web-Barbara-caballa-2-RXRqnqwgz0HBJz6oVX0MhbL-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Aberto Galicia 2026: Abrir Galicia... desde las galerías",
       "link": "https://www.abc.es/cultura/cultural/aberto-galicia-2026-abrir-galicia-galerias-20260917100410-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/17/DUPLA%20-%20Hugo%20Alonso%20.%20Lynda%20Blair%20_Back%20to%20Back_-RvecDcHIX9T9RewTCUhANlN-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Festival de (mis) ideas",
-      "link": "https://www.abc.es/cultura/cultural/festival-ideas-20260916173634-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/16/festivaldelasideas-RS60PbwWsYriIOvHoIihcrJ-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
