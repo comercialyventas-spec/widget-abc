@@ -1,10 +1,16 @@
 {
   "noticias": [
     {
+      "titulo": "Algeciras celebra su fiesta de la Comunidad Portuaria",
+      "link": "https://www.algecirasalminuto.es/municipal/algeciras-celebra-su-fiesta-de-la-comunidad-portuaria/",
+      "imagen": "https://www.algecirasalminuto.es/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-18-at-14.21.33.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Algeciras, detenido el presunto autor de los últimos incendios",
       "link": "https://www.algecirasalminuto.es/sucesos/algeciras-detenido-autor-fuegos/",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://www.algecirasalminuto.es/wp-content/uploads/2026/09/IMG_9916.jpeg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Algeciras, acaban las obras del Paseo de la Conferencia y la Calle Museo",
@@ -28,12 +34,6 @@
       "titulo": "Algeciras sufre dos incendios más esta noche",
       "link": "https://www.algecirasalminuto.es/municipal/algeciras-sufre-dos-incendios-mas-esta-noche/",
       "imagen": "https://www.algecirasalminuto.es/wp-content/uploads/2026/09/Captura-de-pantalla-2026-09-18-104222.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Infoca da por extinguido el incendio de Las Pantallas en Algeciras",
-      "link": "https://www.algecirasalminuto.es/sucesos/el-infoca-da-por-extinguido-el-incendio-de-las-pantallas-en-algeciras/",
-      "imagen": "https://www.algecirasalminuto.es/wp-content/uploads/2026/09/fotonoticia_20260918100624_1920.jpg",
       "tipo": "imagen"
     }
   ]

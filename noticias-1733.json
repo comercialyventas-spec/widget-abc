@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Sentido un nuevo terremoto de magnitud 2,9 en Granada y el Área Metropolitana",
+      "link": "https://www.ahoragranada.com/noticias/sentido-un-nuevo-terremoto-de-magnitud-29-en-granada-y-el-area-metropolitana/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Terremoto-Ogijares-18-septiembre.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Siete campos de fútbol municipales de Granada contarán con cámaras para retransmitir sus partidos",
       "link": "https://www.ahoragranada.com/noticias/siete-campos-de-futbol-municipales-de-granada-contaran-con-camaras-para-retransmitir-sus-partidos/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Campo-futbol-Cerrillo-1.jpg",
@@ -29,12 +35,6 @@
       "link": "https://www.ahoragranada.com/noticias/nace-geobuses-la-aplicacion-que-reune-todo-el-transporte-publico-metropolitano-de-granada/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Geobuses.jpg",
       "tipo": "imagen"
-    },
-    {
-      "titulo": "Denuncian la \"falta de recursos y planificación\" en el inicio del curso escolar en Granada",
-      "link": "https://www.ahoragranada.com/noticias/denuncian-la-falta-de-recursos-y-planificacion-en-el-inicio-del-curso-escolar-en-granada/",
-      "imagen": "",
-      "tipo": ""
     }
   ]
 }
