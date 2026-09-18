@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Los agricultores saldrán a la calle en toda España para exigir soluciones a la subida del gasóleo",
-      "link": "https://www.abc.es/economia/agricultores-saldran-calle-espana-exigir-soluciones-subida-20260918105717-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/18/1477807045-RNSxudN7NgwPgy2lyooIQDK-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "Las 15 mejores ofertas de hoy (18 de septiembre) en Amazon: hasta un 54% en Nike, Huawei y más",
       "link": "https://www.abc.es/favorito/las-5-mejores-ofertas-de-hoy-20260918072940-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/favorito/2026/09/18/portada-20260918073858-RkgyPxU1oc3RLfmgCs4ULmK-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/favorito/2026/09/18/portada-20260918073858-RkgyPxU1oc3RLfmgCs4ULmK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "El caos reina en casa de Pierce Brosnan y Helen Mirren",
       "link": "https://www.abc.es/play/series/criticas/lucia-cabanelas-caos-reina-cotswolds-20260917172907-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/17/mobland4-kqPI-U301765135717dgC-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/17/mobland4-kqPI-U301765135717dgC-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Aznar, convencido de lo que va a pasar en las próximas elecciones generales en España: «Vamos a pasar meses muy desagradables»",
       "link": "https://www.abc.es/play/television/noticias/preguntan-aznar-proximas-elecciones-generales-respuesta-enciende-20260918104829-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/18/pdsd-kVkH-RX0WrOUSDiH4Jc8yLHXBYnM-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/18/aznar-chantaje-sanchez-marruecos-espejo-publico-RX0WrOUSDiH4Jc8yLHXBYnM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los agricultores saldrán a la calle en toda España para exigir soluciones a la subida del gasóleo",
+      "link": "https://www.abc.es/economia/agricultores-saldran-calle-espana-exigir-soluciones-subida-20260918105717-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/18/1477807045-RNSxudN7NgwPgy2lyooIQDK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Descubren una nueva especie de felino salvaje: el tilcayo",
       "link": "https://www.abc.es/sociedad/descubren-nueva-especie-felino-salvaje-tilcayo-20260918104942-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/18/tilcayo01-Ryo48JOrC1atioGuHebaBZN-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/18/tilcayo01-Ryo48JOrC1atioGuHebaBZN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Cambios en los parquímetros de Madrid los fines de semana",
       "link": "https://www.abc.es/espana/madrid/cambios-parquimetros-madrid-fines-semana-empezara-cobrar-20260918132034-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/03/27/parquimetro-k07G-U301767195874JDD-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/03/27/parquimetro-k07G-U301767195874JDD-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }

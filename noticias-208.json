@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Al menos tres muertos en tiroteo en una escuela en Filipinas",
+      "link": "https://www.dw.com/es/al-menos-tres-muertos-en-tiroteo-en-una-escuela-en-filipinas/a-79320490",
+      "imagen": "https://static.dw.com/image/79322564_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "China y Filipinas se acusan de colisión en el mar de China Meridional",
       "link": "https://www.dw.com/es/china-y-filipinas-se-acusan-de-colisión-en-el-mar-de-china-meridional/a-79319450",
       "imagen": "https://static.dw.com/image/73842596_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Rusia vota en parlamentarias marcadas por guerra con Ucrania",
       "link": "https://www.dw.com/es/rusia-vota-en-parlamentarias-marcadas-por-guerra-con-ucrania/a-79316845",
       "imagen": "https://static.dw.com/image/79281783_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Trump: EEUU y Polonia avanzan en diálogo para instalar base militar",
-      "link": "https://www.dw.com/es/trump-eeuu-y-polonia-avanzan-en-diálogo-para-instalar-base-militar/a-79316361",
-      "imagen": "https://static.dw.com/image/73872011_6.jpg",
       "tipo": "imagen"
     }
   ]

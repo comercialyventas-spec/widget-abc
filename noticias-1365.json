@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Sciammarella: Shakira",
+      "link": "https://elpais.com/opinion/2026-09-18/sciammarella-shakira.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NJ4GD4TCXZGG7OEJM2BYTWBG2Y.jpg?auth=77deb16445313d0db8ebb4a164bfa23d4a144d48c687ecdc51fb05b060594206",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Roto: embobados",
       "link": "https://elpais.com/opinion/2026-09-18/el-roto-embobados.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/JM3QLZUMSFF2XIU56FGKO65WBE.jpg?auth=55033cf6ea57fd3cf17955306cd1f72737764b5ff29391605c85c889f93a5496",
@@ -28,12 +34,6 @@
       "titulo": "Las Brigadas Internacionales y la debilidad del antifascismo",
       "link": "https://elpais.com/opinion/2026-09-18/las-brigadas-internacionales-y-la-debilidad-del-antifascismo.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/BXUYSKDZMJGY3MRU5CO2LPLJ6Q.jpg?auth=9b385fde722788a265bd7e38e058b2eacb5a38e23cd9960057d96c939542a4b1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Europa en la crisis de Ceuta",
-      "link": "https://elpais.com/opinion/2026-09-18/europa-en-la-crisis-de-ceuta.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/LQSEMT4Y5VEHBNHBMJZQ45NZA4.jpg?auth=59f6259b1851263dc2a4c7609c0896a2a9e2cedd30fff19d6cddc2b82fa818ea",
       "tipo": "imagen"
     }
   ]

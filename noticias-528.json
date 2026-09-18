@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Guardia Civil",
+      "link": "https://www.elconfidencialdigital.com/album/seguridad/guardia-civil/202609181054161193803.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/18/2026091810530762263.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Inmigrantes irregulares",
       "link": "https://www.elconfidencialdigital.com/album/seguridad/inmigrantes-irregulares/202609151332331193183.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/15/2026091513301589057.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Guardia Civil",
       "link": "https://www.elconfidencialdigital.com/album/seguridad/guardia-civil/202609091353071039886.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/09/2026090913512416258.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Gran apagón",
-      "link": "https://www.elconfidencialdigital.com/album/seguridad/gran-apagon/202609031412491038738.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/03/2026090320465045313.jpg",
       "tipo": "imagen"
     }
   ]

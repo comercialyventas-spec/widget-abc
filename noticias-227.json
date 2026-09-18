@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Crisis en Ceuta y actualidad política, en directo | Los primeros migrantes llegan al centro de acogida del puerto de Ceuta",
-      "link": "https://elpais.com/espana/2026-09-18/crisis-en-ceuta-y-actualidad-politica-en-directo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/JOMNE47TRJOPPI6W7KZK73JTXU.jpg?auth=12161e760eab81ed68e1bc881e52b4d33705007934cd365a640460224d611c2c",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Tensión y caos en el traslado de los migrantes de la playa Benítez al puerto de Ceuta",
       "link": "https://elpais.com/espana/2026-09-18/tension-y-caos-en-el-traslado-de-los-migrantes-de-la-playa-benitez-al-puerto-de-ceuta.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260918/1215583_073126_video_1800.mp4",
@@ -16,6 +10,12 @@
       "titulo": "Avalancha inicial y momentos de tensión en el traslado de migrantes al campamento del puerto de Ceuta",
       "link": "https://elpais.com/videos/2026-09-18/avalancha-inicial-y-momentos-de-tension-en-el-traslado-de-migrantes-al-campamento-del-puerto-de-ceuta.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260918/1215561_061746_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Crisis en Ceuta y actualidad política, en directo | Los primeros migrantes llegan al centro de acogida del puerto de Ceuta",
+      "link": "https://elpais.com/espana/2026-09-18/crisis-en-ceuta-y-actualidad-politica-en-directo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/JOMNE47TRJOPPI6W7KZK73JTXU.jpg?auth=12161e760eab81ed68e1bc881e52b4d33705007934cd365a640460224d611c2c",
       "tipo": "imagen"
     },
     {
