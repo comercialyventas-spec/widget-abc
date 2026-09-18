@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Aguas turbulentas",
+      "link": "https://www.lavanguardia.com/internacional/vanguardia-dossier/revista/revista/20260918/11638145/aguas-turbulentas.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/18/6aad187c6212a.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Finlandia ensaya en el Báltico cómo responder a las amenazas contra cables y gasoductos submarinos",
       "link": "https://www.lavanguardia.com/internacional/20260918/11637909/finlandia-ensaya-baltico-como-responder-amenazas-cables-gasoductos-submarinos.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El Congreso de EE.UU. aprueba el paquete de sanciones contra Rusia impulsado por el difunto senador Graham",
       "link": "https://www.lavanguardia.com/internacional/20260917/11637438/congreso-ee-uu-aprueba-paquete-sanciones-rusia-impulsado-difunto-senador-graham.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/12/6a537a56183cb.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Milei presenta al Congreso la ley para sancionar a las empresas que operen en las Islas Malvinas",
-      "link": "https://www.lavanguardia.com/internacional/20260917/11637407/milei-presenta-congreso-ley-sancionar-empresas-operen-islas-malvinas.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/04/6a9b0b7e7ee3b.r_d.2910-2211-0.jpeg",
       "tipo": "imagen"
     }
   ]

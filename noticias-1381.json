@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Los estrenos de teatro de la semana",
+      "link": "https://elpais.com/babelia/2026-09-18/los-estrenos-de-teatro-de-la-semana.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SXUGQPRTZ5BEZGM5PTCNHAE4SY.jpg?auth=6253dcfd6b9d6a60dd81af88c31e3be3c650a8b3e58813b7973748faba3bd99e",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "‘Libres!!!’: una cita alegre con el anarcofeminismo",
+      "link": "https://elpais.com/babelia/2026-09-18/libres-una-cita-alegre-con-el-anarcofeminismo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4CFKT3AJPJCO3NVBQ52VLHRRXM.jpg?auth=a139971ac92ac80cd9a20042770d3a2c82a17ec4fca9e30002ab720d92d503bf",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "‘Taxidermia de una alondra’: el placer de contemplar las desgracias ajenas",
       "link": "https://elpais.com/babelia/2026-09-18/taxidermia-de-una-alondra-el-placer-de-contemplar-las-desgracias-ajenas.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/QVMQPO6ILFCX5K6XU4KJQNUGME.jpg?auth=84b05759036861fe5acbf3c3ed65adbb0105522754c80bff6068bfaf8a6077c6",
@@ -22,18 +34,6 @@
       "titulo": "‘No contaban con las ondas’, el duelo tras el feminicidio",
       "link": "https://elpais.com/babelia/2026-09-17/no-contaban-con-las-ondas-el-duelo-tras-el-feminicidio.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/EPSKRPSA7NHTBG4J4XH2CCTZBE.jpg?auth=24abf7a4cd79f7059de864cfd5c0af2fde2d07036d44df9e534777be8fd5f55a",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Doscientos años de primeras veces fotográficas",
-      "link": "https://elpais.com/babelia/2026-09-17/doscientos-anos-de-primeras-veces-fotograficas.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/5AGOXY7BA5HFPOTOJZH6CALEJM.tif?auth=523a75804525722acb840a0d78a8131a792686cb6f2ff88bd9f1cc5b1686af77",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Trampantojo: Cómo rematar una novela",
-      "link": "https://elpais.com/babelia/2026-09-16/trampantojo-como-rematar-una-novela.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/OZHKDMYOQBCNRDWTLJXIUACGHE.jpg?auth=f31c06fe976b665abb33349db0e24af6ae0392c1071d5a04280461b50cdf8dc1",
       "tipo": "imagen"
     }
   ]
