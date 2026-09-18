@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Ceuta en la camiseta",
-      "link": "https://elpais.com/opinion/2026-09-18/ceuta-en-la-camiseta.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/PDW2TJ4IWZA77L2NPJGUVXX6ZA.jpg?auth=22524e2e891f425981308e86a114ddf7a053abc9ddd441fd8c7b9b9ae855272b",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Pronto todos habremos visto a Shakira",
       "link": "https://elpais.com/opinion/2026-09-18/pronto-todos-habremos-visto-a-shakira.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/KSVVQHUTJZHSLEGW6EWUD7YVGU.jpg?auth=ebe109b25f704401f586ef0178e2690416e7473078808fd63e23980bfa432e17",
@@ -34,6 +28,12 @@
       "titulo": "Mójate, pero solo en mi charco",
       "link": "https://elpais.com/opinion/2026-09-17/mojate-pero-solo-en-mi-charco.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/UTHLHRBKNZE7BAIK2BPNP7BRMQ.jpeg?auth=243ce152aa7ea894005f009ab2a6fe73387aeaeb892448d11afaa23c1ac1f3f9",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Voto de confianza para la UE",
+      "link": "https://elpais.com/opinion/2026-09-17/voto-de-confianza-para-la-ue.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/JZ4LR4FX6FG3VIFAGMNE3MHQL4.JPG?auth=249ce3f003dd37de60b3d8d5febb3fe28c674a61d1d7861b4d5ff94eef8d8fbe",
       "tipo": "imagen"
     }
   ]

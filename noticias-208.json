@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Pyongyang acusa a EE.UU. de aumentar tensiones regionales",
+      "link": "https://www.dw.com/es/pyongyang-acusa-a-ee-uu-de-aumentar-tensiones-regionales/a-79316855",
+      "imagen": "https://static.dw.com/image/77446935_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Rusia vota en parlamentarias marcadas por guerra con Ucrania",
       "link": "https://www.dw.com/es/rusia-vota-en-parlamentarias-marcadas-por-guerra-con-ucrania/a-79316845",
       "imagen": "https://static.dw.com/image/79281783_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Alemania, ante el dilema fiscal de la electromovilidad",
       "link": "https://www.dw.com/es/alemania-ante-el-dilema-fiscal-de-la-electromovilidad/a-79315908",
       "imagen": "https://static.dw.com/image/76954960_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El brote de malaria en Alemania causa una tercera muerte",
-      "link": "https://www.dw.com/es/el-brote-de-malaria-en-alemania-causa-una-tercera-muerte/a-79316136",
-      "imagen": "https://static.dw.com/image/79315444_6.jpg",
       "tipo": "imagen"
     }
   ]
