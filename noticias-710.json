@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Dario Amodei, el “evangelista de la seguridad” que lleva 10 años estudiando el apocalipsis de la IA",
+      "link": "https://www.eldiario.es/tecnologia/dario-amodei-evangelista-seguridad-lleva-10-anos-estudiando-apocalipsis-ia_1_13520313.html",
+      "imagen": "https://static.eldiario.es/clip/89db1480-e447-49e6-8eb7-9cd6b53ea510_facebook-aspect-ratio-1200-675_default_0_x611y219.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un equipo de investigadores logra acceder a algoritmos secretos de OpenAI usando la IA de Anthropic",
       "link": "https://www.eldiario.es/tecnologia/equipo-investigadores-logra-acceder-algoritmos-secretos-openai-usando-ia-anthropic_1_13520376.html",
       "imagen": "https://static.eldiario.es/clip/f9f6b14a-4278-4171-a2c6-9df92a8c5304_facebook-aspect-ratio-1200-675_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El 'freno' para la IA rompe Silicon Valley y desata una guerra de bandos entre gigantes tecnológicos",
       "link": "https://www.eldiario.es/tecnologia/freno-ia-fractura-silicon-valley-abre-cisma-trump-hay-correr-rapido-podamos_1_13513662.html",
       "imagen": "https://static.eldiario.es/clip/80ff93bf-889d-4ce2-9ed1-ce8c704ba8af_facebook-aspect-ratio-1200-675_default_0_x642y443.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Zuckerberg descarta frenar el desarrollo de la IA y se limita a pedir evaluadores independientes",
-      "link": "https://www.eldiario.es/tecnologia/zuckerberg-ceo-meta-apuesta-evaluadores-independientes-analicen-ia-no-frenar_1_13513241.html",
-      "imagen": "https://static.eldiario.es/clip/3cc90e36-6634-4622-ac21-3630ae4fb744_facebook-aspect-ratio-1200-675_default_0_x962y334.jpg",
       "tipo": "imagen"
     }
   ]
