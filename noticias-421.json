@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Guardia Civil",
+      "link": "https://www.elconfidencialdigital.com/album/guardia-civil/guardia-civil/202609181712131193958.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/18/2026091817100385978.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Álbum Audi Festival de San Sebastián",
       "link": "https://www.elconfidencialdigital.com/album/motor/album-audi/202609181528421193901.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/18/2026091815270636782.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Plantas de almacenamiento de energía",
       "link": "https://www.elconfidencialdigital.com/album/dinero/plantas-almacenamiento-energia/202609181151281193811.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/18/2026091811440634410.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Guardia Civil",
-      "link": "https://www.elconfidencialdigital.com/album/seguridad/guardia-civil/202609181054161193803.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/18/2026091810530762263.jpg",
       "tipo": "imagen"
     }
   ]

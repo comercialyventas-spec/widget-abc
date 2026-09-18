@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "'La bola negra': todos los hombres de Lorca",
+      "link": "https://www.abc.es/cultura/cultural/bola-negra-hombres-lorca-20260918013259-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/18/Bola-Negra-RQVWZ7dBz3ksA8qLwktkdPP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Lo inédito de Ineditad",
       "link": "https://www.abc.es/cultura/cultural/javier-diazguardiola-inedito-ineditad-20260918095524-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/18/Eduardo%20Urdiales_Lo%20de%20siempre-RFkKhNrPfSBxG1lNXby1I0M-1200x840@diario_abc.JPG",
@@ -28,12 +34,6 @@
       "titulo": "Somos cántaros rotos",
       "link": "https://www.abc.es/cultura/cultural/cantaros-rotos-20260918095509-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/18/interior3-trapiello-adria_ramirez-RyHfVkkfWcCjgazv9RJiOuL-1200x1700@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Amores perdidos",
-      "link": "https://www.abc.es/cultura/cultural/piedad-bonnett-amores-perdidos-20260918095340-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/18/Nothomb-RrcQiqHZRCDh94EuZFTepxL-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
