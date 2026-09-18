@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Esplendor aragonés bajo las magnolias",
+      "link": "https://www.lavanguardia.com/cultura/20260919/11638905/esplendor-aragones-magnolias.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/19/6aadbcd0e4b3b.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Shakira incendia Madrid",
       "link": "https://www.lavanguardia.com/cultura/20260918/11638772/shakira-incendia-madrid.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/18/6aadaf1506498.r_d.373-437-4891.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "El consejo de Werner Herzog a los jóvenes en San Sebastián: “No viváis una vida dictada por algoritmos”",
       "link": "https://www.lavanguardia.com/cultura/20260918/11638407/consejo-werner-herzog-jovenes-san-sebastian-vivais-vida-dictada-algoritmos.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/18/6aad4edef3503.r_d.3058-1942-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las colles castelleres estrenarán el nuevo casco de protección infantil el 24 de septiembre",
-      "link": "https://www.lavanguardia.com/cultura/20260918/11638429/colles-castelleres-estrenaran-nuevo-casco-proteccion-infantil-24-septiembre.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/18/6aad4853ea43d.r_d.2123-1415-1057.jpeg",
       "tipo": "imagen"
     }
   ]
