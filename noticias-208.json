@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Nigeria: mueren 37 presuntos mineros ilegales en custodia estatal",
+      "link": "https://www.dw.com/es/nigeria-mueren-37-presuntos-mineros-ilegales-en-custodia-estatal/a-79317333",
+      "imagen": "https://static.dw.com/image/74831365_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Irán afirma que atacó petrolero en el estrecho de Ormuz",
       "link": "https://www.dw.com/es/irán-afirma-que-atacó-petrolero-en-el-estrecho-de-ormuz/a-79316861",
       "imagen": "https://static.dw.com/image/79286133_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El ascenso del partido AfD: la apuesta por el todo o nada",
       "link": "https://www.dw.com/es/el-ascenso-del-partido-afd-la-apuesta-por-el-todo-o-nada/a-79315730",
       "imagen": "https://static.dw.com/image/79111853_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Expresidente condenado: conmoción en Kosovo, descontento en Serbia",
-      "link": "https://www.dw.com/es/expresidente-condenado-conmoción-en-kosovo-descontento-en-serbia/a-79315689",
-      "imagen": "https://static.dw.com/image/79293097_6.jpg",
       "tipo": "imagen"
     }
   ]

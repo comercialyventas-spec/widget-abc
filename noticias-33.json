@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La primera trinchera y las elecciones con ‘ritornello’",
+      "link": "https://www.lavanguardia.com/opinion/20260918/11635479/primera-trinchera-elecciones-ritornello.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/15/6aa94a966acce.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El apocalipsis de los ‘tecnobros’",
       "link": "https://www.lavanguardia.com/opinion/20260918/11637356/apocalipsis-tecnobros.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/17/6aabf36f25016.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Un órgano desafinado",
       "link": "https://www.lavanguardia.com/opinion/20260918/11637180/organo-desafinado.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/17/6aabc9438ef9d.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La tecnología no es el problema",
-      "link": "https://www.lavanguardia.com/opinion/20260918/11637167/tecnologia-problema.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/17/6aabc7ad2bbd7.jpeg",
       "tipo": "imagen"
     }
   ]
