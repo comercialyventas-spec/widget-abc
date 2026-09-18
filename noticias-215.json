@@ -1,7 +1,19 @@
 {
   "noticias": [
     {
-      "titulo": "México detiene a un sospechoso por el asesinato de una estudiante española en un caso de feminicidio",
+      "titulo": "Manifestantes protestan contra OpenAI y Anthropic en San Francisco por temor a la seguridad de la IA",
+      "link": "https://es.euronews.com/video/2026/09/18/manifestantes-protestan-contra-openai-y-anthropic-en-san-francisco-por-temor-a-la-segurida",
+      "imagen": "https://images.euronews.com/articles/stories/09/91/82/89/1200x675_cmsv2_2b5f1060-bcd0-53eb-85e1-5e3baf8d4662-9918289.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Trump anuncia \"importantes\" avances en la posible instalación de una base militar de EE.UU. en Polonia",
+      "link": "https://es.euronews.com/2026/09/18/trump-anuncia-importantes-avances-en-la-posible-instalacion-de-una-base-militar-de-eeuu-en",
+      "imagen": "https://images.euronews.com/articles/stories/09/91/82/26/1200x675_cmsv2_ba8ec1ce-c074-5e4d-8034-81ce1ff19c1e-9918226.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "México detiene a un sospechoso por el asesinato de la estudiante española en un caso de feminicidio",
       "link": "https://es.euronews.com/2026/09/18/mexico-detiene-sospechoso-asesinato-estudiante-espanola",
       "imagen": "https://images.euronews.com/articles/stories/09/91/82/54/1200x675_cmsv2_8f291e0d-378b-5cc2-a864-a3542862b2db-9918254.jpg",
       "tipo": "imagen"
@@ -22,18 +34,6 @@
       "titulo": "La ONU calcula en más de 12.000 millones de euros los daños del terremoto de Colombia",
       "link": "https://es.euronews.com/2026/09/17/onu-calcula-14000-millones-los-danos-del-terremoto-de-colombia-pide-ayuda-internacional",
       "imagen": "https://images.euronews.com/articles/stories/09/91/79/98/1200x675_cmsv2_a3d792a3-e2f0-5851-92e8-73ea05e404b4-9917998.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "\"Trump quiere acabar pronto la guerra con Irán\", asegura el asesor de Trump, Massad Boulos a 'Euronews'",
-      "link": "https://es.euronews.com/2026/09/17/trump-quiere-acabar-pronto-guerra-iran-asegura-asesor-trump-massad-boulos-euronews",
-      "imagen": "https://images.euronews.com/articles/stories/09/91/77/13/1200x675_cmsv2_4c44ca5b-6b3d-5bd7-8175-cba994e67722-9917713.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Venezuela comienza a levantar el bloqueo a portales web en el marco del diálogo político",
-      "link": "https://es.euronews.com/2026/09/17/conatel-comienza-levantar-bloqueo-portales-web-venezuela-marco-del-dialogo-politico",
-      "imagen": "https://images.euronews.com/articles/stories/09/91/78/43/1200x675_cmsv2_7e08e533-29d4-5efa-91e9-71cd2df4d5b8-9917843.jpg",
       "tipo": "imagen"
     }
   ]
