@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Lluvias torrenciales e inundaciones golpean Túnez y obligan a cerrar escuelas",
+      "link": "https://es.euronews.com/video/2026/09/18/lluvias-torrenciales-e-inundaciones-golpean-tunez-y-obligan-a-cerrar-escuelas",
+      "imagen": "https://images.euronews.com/articles/stories/09/91/91/60/1200x675_cmsv2_ccc2413f-2fa5-50cf-9a1f-c07c9767000f-9919160.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Seúl confirma que no desplegará tropas en Oriente Medio a pesar de la presión de la Administración Trump",
       "link": "https://es.euronews.com/2026/09/18/seul-confirma-no-desplegara-tropas-oriente-medio-presion-administracion-trump",
       "imagen": "https://images.euronews.com/articles/stories/09/91/84/28/1200x675_cmsv2_2291f488-cf1c-5096-99ab-5b2950e62b0f-9918428.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Drones rusos arrasan un centro comercial en la ciudad de Zaporiyia",
       "link": "https://es.euronews.com/video/2026/09/18/drones-rusos-arrasan-un-centro-comercial-en-la-ciudad-de-zaporiyia",
       "imagen": "https://images.euronews.com/articles/stories/09/91/86/18/1200x675_cmsv2_e688f01e-807e-5508-817f-ad0ed877a1d4-9918618.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Rusia celebra elecciones a la Duma mientras la guerra en Ucrania reconfigura el voto",
-      "link": "https://es.euronews.com/video/2026/09/18/rusia-celebra-elecciones-a-la-duma-mientras-la-guerra-en-ucrania-reconfigura-el-voto",
-      "imagen": "https://images.euronews.com/articles/stories/09/91/84/70/1200x675_cmsv2_76598e9a-e4ba-557e-8961-b47ce79c5ced-9918470.jpg",
       "tipo": "imagen"
     }
   ]
