@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Shakira incendia Madrid",
+      "link": "https://www.lavanguardia.com/cultura/20260918/11638772/shakira-incendia-madrid.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/18/6aadaf1506498.r_d.373-437-4891.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Pintan en Gaza un mural del rapero Macklemore tras la polémica por la gira de Ed Sheeran",
       "link": "https://www.lavanguardia.com/cultura/arte/20260918/11638632/pintan-gaza-mural-rapero-macklemore-polemica-gira-ed-sheeran.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/18/6aad5ef0f414f.r_d.2750-1777-816.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Las colles castelleres estrenarán el nuevo casco de protección infantil el 24 de septiembre",
       "link": "https://www.lavanguardia.com/cultura/20260918/11638429/colles-castelleres-estrenaran-nuevo-casco-proteccion-infantil-24-septiembre.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/18/6aad4853ea43d.r_d.2123-1415-1057.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Meta censura un anuncio sobre una obra de teatro de Virginia Woolf que contiene la palabra ‘feminismo’",
-      "link": "https://www.lavanguardia.com/cultura/20260918/11638374/meta-censura-virginia-woolf-raval.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/18/6aad3cbb1f7c2.r_d.497-279-4490.jpeg",
       "tipo": "imagen"
     }
   ]
