@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Detienen al presunto responsable del asesinato de la española Claudia Tacoronte en México",
-      "link": "https://www.abc.es/sociedad/detienen-presunto-responsable-feminicidio-claudia-tacoronte-mexico-20260918030510-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/18/eltrompas-kXHE-U30177631710105H-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Florentino Pérez visita Ceuta: «Vivas es el presidente más ilustre»",
-      "link": "https://www.abc.es/deportes/real-madrid/florentino-perez-visita-ceuta-vivas-presidente-ilustre-20260918125556-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/18/ceuta-Rlft037a0bhScB20vSiwQiI-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "Macron busca blindar Francia frente a ataques híbridos ante una creciente «agresividad» de Rusia",
       "link": "https://www.abc.es/internacional/macron-busca-blindar-francia-frente-posibles-ataques-20260918154721-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/18/1517493492-kbw-U301785576508JnE-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/18/1517493492-kbw-U301785576508JnE-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Arrestado Philip Foster: actor de telenovelas y uno de los fugitivos más buscados del Reino Unido",
       "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/detienen-philip-foster-torrevieja-actor-telenovelas-fugitivos-20260918123538-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/18/fugitivo-alicante-foster-Ri23R6simwNcqRDyOUk9lXM-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/18/fugitivo-alicante-foster-Ri23R6simwNcqRDyOUk9lXM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Increíble hallazgo en la taberna más antigua de Madrid: un retrato perdido del torero Paquiro",
       "link": "https://www.abc.es/espana/madrid/increible-hallazgo-taberna-antigua-madrid-retrato-perdido-20260915012440-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/15/1-paquiro2-R8eDt2w6Rig6B9LZxJ11bqI-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/15/1-paquiro2-R8eDt2w6Rig6B9LZxJ11bqI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "La entrada en servicio del blindado 8x8, principal desafío del nuevo general jefe de La Legión",
       "link": "https://www.abc.es/espana/entrada-servicio-blindado-8x8-principal-desafio-nuevo-20260918151420-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/18/8x8-R9nd5DvsniqX92dYe7CPowJ-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/18/8x8-R9nd5DvsniqX92dYe7CPowJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Hallan nuevos indicios de cámaras ocultas en la tumba de Tutankamón: ¿el buscado sepulcro de Nefertiti?",
+      "link": "https://www.abc.es/cultura/hallan-nuevos-indicios-camaras-ocultas-tumba-tutankamon-20260918132436-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/18/48361158-RAPe4pJrVyDHPSdcOINlqqI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Rescatan 48 perros chihuahua y ocho gatos de una casa en condiciones insalubres",
+      "link": "https://www.abc.es/espana/madrid/policia-municipal-madrid-rescata-perros-chihuahua-ocho-20260918123554-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/18/chihuahuas-kOw-U3017811976322PG-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }
