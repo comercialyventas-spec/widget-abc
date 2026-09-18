@@ -1,11 +1,6 @@
 {
   "productos": [
     {
-      "titulo": "GORRO VERDE",
-      "url": "https://www.agatharuizdelaprada.com/products/276897-gorro-verde",
-      "imagen": "https://cdn.shopify.com/s/files/1/0901/8746/4971/files/21284.jpg?v=1777479429"
-    },
-    {
       "titulo": "FALDA CANALE CORAZON PETALOS",
       "url": "https://www.agatharuizdelaprada.com/products/276898-falda-canale-corazon-petalos",
       "imagen": "https://cdn.shopify.com/s/files/1/0901/8746/4971/files/20770.jpg?v=1777479436"
@@ -119,10 +114,15 @@
       "titulo": "COLGANTE P",
       "url": "https://www.agatharuizdelaprada.com/products/276952-colgante-p",
       "imagen": "https://cdn.shopify.com/s/files/1/0901/8746/4971/files/20983.jpg?v=1777479486"
+    },
+    {
+      "titulo": "COLGANTE R",
+      "url": "https://www.agatharuizdelaprada.com/products/276953-colgante-r",
+      "imagen": "https://cdn.shopify.com/s/files/1/0901/8746/4971/files/20986.jpg?v=1777479486"
     }
   ],
   "pagina": 8,
-  "totalPaginas": 37,
+  "totalPaginas": 36,
   "hayMas": true,
-  "generado": "2026-09-16T03:03:42.623Z"
+  "generado": "2026-09-18T03:03:52.462Z"
 }
