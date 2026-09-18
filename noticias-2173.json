@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Guerra de Irán, en directo",
+      "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260918/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9dee4255-971f-43a4-a49d-40c2e7e13623_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Guerra Ucrania - Rusia, última hora en directo",
+      "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260918/guerra-ucrania---rusia-ultima-126605559",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a315bd8f-ea71-4514-9eaf-d053fe7a66e3_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Empleados de OpenAI y Microsoft temen el impacto de la IA en el periodismo: \"El mayor robo de trabajo de la historia de la humanidad\"",
+      "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260918/empleados-openai-microsoft-aseguran-ia-amenaza-existencial-articulos-editores-prensa-robo-humanidad-134421594",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6af361bc-be55-40dc-873c-1a453aee7eff_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Seis muertos y 17 heridos tras un tiroteo en una escuela al sur de Filipinas",
       "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260918/seis-muertos-17-heridos-tiroteo-134421040",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ca3a309a-b792-451f-bf78-3cb7e4319df9_media-libre-aspect-ratio_default_0.jpg",
@@ -13,27 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Guerra Ucrania - Rusia, última hora en directo",
-      "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260918/guerra-ucrania---rusia-ultima-126605559",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a315bd8f-ea71-4514-9eaf-d053fe7a66e3_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Guerra de Irán, en directo",
-      "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260918/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9dee4255-971f-43a4-a49d-40c2e7e13623_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Otra estudiante es hallada muerta en México tras dos días desaparecida",
       "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260918/estudiante-hallada-muerta-mexico-dias-134414664",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8c1b857f-defe-469e-8f92-d0979bfb6d7a_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Detenido El Trompas', presunto asesino de la estudiante española Claudia Tacoronte en México",
-      "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260918/detenido-trompas-asesino-claudia-tacorontoe-mexico-estudiante-granada-134413509",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/113e4841-5902-4e99-8820-eecb15eb3ac5_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
