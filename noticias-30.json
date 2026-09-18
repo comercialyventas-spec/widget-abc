@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El juicio por el caso de presunta corrupción del PSC en Tarragona empieza 13 años después",
+      "link": "https://www.lavanguardia.com/vida/20260918/11638264/juicio-caso-presunta-corrupcion-psc-tarragona-empieza-13-anos.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/18/6aad28e5a6fc0.r_d.2016-1134-1113.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La UAB estrenará un nuevo centro de investigación en neurociencia en 2029",
       "link": "https://www.lavanguardia.com/vida/20260918/11638251/uab-estrenara-nuevo-centro-investigacion-neurocientifica-2029.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/27/69286bd20f0f5.r_d.2477-2411-0.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "El mensaje interno de un directivo de Microsoft revela que OpenIA “robó” millones de artículos del New York Times para desarrollar su IA",
       "link": "https://www.lavanguardia.com/vida/20260918/11637830/mensaje-interno-directivo-microsoft-revela-openia-robo-millones-articulos-new-york-times-desarrollar-ia.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/09/12/68c3dc7b807db.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Claude ya hace por sí solo una cuarta parte del trabajo de los investigadores para crear nuevos modelos de IA",
-      "link": "https://www.lavanguardia.com/vida/20260918/11637827/claude-cuarta-parte-trabajo-crear-nuevos-modelos-ia.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/31/6a6d1923f40cb.r_d.704-382-4891.jpeg",
       "tipo": "imagen"
     }
   ]
