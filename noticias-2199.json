@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Entrevista a Laure Vega, Candidata de la CUP a Barcelona",
+      "link": "<![CDATA[https://www.elperiodico.com/es/videos/politica/entrevista-laure-vega-candidata-cup/134446913.shtml]]>",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0da61e3d-e60d-49f4-95c1-1ed9a43f109b_1-1-large-aspect-ratio_default_0_x960y426.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Trump anuncia un \"acuerdo\" con Dinamarca y Groenlandia para controlar la seguridad de la isla",
       "link": "<![CDATA[https://www.elperiodico.com/es/videos/internacional/trump-anuncia-acuerdo-dinamarca-groenlandia/134456343.shtml]]>",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9060838e-6abe-4934-8f9d-f7843f96da5c_1-1-large-aspect-ratio_default_0_x505y224.jpg",
@@ -13,6 +19,12 @@
       "tipo": "imagen"
     },
     {
+      "titulo": "Once detenidos en Alicante y Sueca por robar más de un millón de euros en ropa de Zara y de Lefties.",
+      "link": "<![CDATA[https://www.elperiodico.com/es/videos/sucesos/once-detenidos-alicante-robar-millon-euros-ropa/134457021.shtml]]>",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f89c4040-b38c-48cd-b780-48b2d035553a_1-1-large-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Florentino se desmarca en Ceuta del lío de las camisetas: \"Este acto no es por ninguna noticia reciente\"",
       "link": "<![CDATA[https://www.elperiodico.com/es/videos/deportes/florentino-desmarca-ceuta-lio-camisetas/134439228.shtml]]>",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/758340d8-47ba-446b-bb9e-26a34cfdf325_1-1-large-aspect-ratio_default_0_x1200y533.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Rodrigo Cortés: \"He tenido que escribir la Hija del cielo con dos cerebros\"",
       "link": "<![CDATA[https://www.elperiodico.com/es/videos/ocio-y-cultura/rodrigo-cortes-he-tenido-escribir/134437082.shtml]]>",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/104c7e4c-b652-4853-9c93-82abc0df25de_1-1-large-aspect-ratio_default_0_x609y270.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Así es el ‘gato tilcayo’, la nueva especie de felino descubierta en Bolivia",
-      "link": "<![CDATA[https://www.elperiodico.com/es/videos/sociedad/gato-tilcayo-nueva-especie-felino-descubierta-bolivia/134434308.shtml]]>",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/586b5c9c-e458-4e00-bf70-4015f2eb11e9_1-1-large-aspect-ratio_default_0_x779y739.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los primeros visitantes de GRAVITEO A Coruña Xacobeo",
-      "link": "<![CDATA[https://www.elperiodico.com/es/videos/deportes/primeros-visitantes-graviteo-coruna/134432138.shtml]]>",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f12bf0ba-082e-4732-826b-9e205663eef6_1-1-large-aspect-ratio_default_0_x1000y444.jpg",
       "tipo": "imagen"
     }
   ]
