@@ -1,21 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Marlon Brando, se sube al tranvía del éxito",
+      "link": "https://www.lavanguardia.com/hemeroteca/20140701/54409996375/marlon-brando-actores-cine-estados-unidos-muerte-bografia-oscar-actor-s-studio-hollywood.html",
+      "imagen": "https://hemeroteca-imagenes.lavanguardia.com/uploads/20260910/images.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Juan de la Cierva, el inventor sin miedo a volar",
+      "link": "https://www.lavanguardia.com/hemeroteca/20211208/7910353/juan-de-la-cierva-autogiro-inventos-inventores-helicoptero-espana.html",
+      "imagen": "https://hemeroteca-imagenes.lavanguardia.com/uploads/20260910/CACA.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La torturada vida de Frida Kahlo",
+      "link": "https://www.lavanguardia.com/hemeroteca/20140713/54410830264/frida-kahlo-pintora-pintura-mexico-mujeres-muerte-siglo-xx.html",
+      "imagen": "https://hemeroteca-imagenes.lavanguardia.com/uploads/20260917/images.0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Emilia Pardo Bazán, la escritora total",
       "link": "https://www.lavanguardia.com/hemeroteca/20210511/7314013/emilia-pardo-bazan-escritoras-carlismo-feminismo-prensa-la-vanguardia-colaboradora-firmas-celebres.html",
       "imagen": "https://hemeroteca-imagenes.lavanguardia.com/uploads/20260910/bazan.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Somme, una masacre inútil",
-      "link": "https://www.lavanguardia.com/hemeroteca/20160706/402961953248/primera-guerra-mundial-batalla-del-somme-frente-occidental-guerra-de-trincheras.html",
-      "imagen": "https://hemeroteca-imagenes.lavanguardia.com/uploads/20260909/_101874945_tank.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Theodore Roosevelt, presidente",
-      "link": "https://www.lavanguardia.com/hemeroteca/20201104/49229753272/franklin-delano-roosevelt-presidentes-estados-unidos-elecciones.html",
-      "imagen": "https://hemeroteca-imagenes.lavanguardia.com/uploads/20260908/Franklin_Roosevelt_Secretary_of_the_Navy_1913.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Camp David: hoy termina la \"cumbre\"",
       "link": "https://hemeroteca.lavanguardia.com/preview/1978/09/17/pagina-5/33746474/pdf.html",
       "imagen": "https://hemeroteca-imagenes.lavanguardia.com/uploads/20260914/Captura-de-pantalla-2026-09-14-100453.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Guerra por el ocio digital",
-      "link": "https://hemeroteca.lavanguardia.com/preview/2006/09/19/pagina-1/51476575/pdf.html",
-      "imagen": "https://hemeroteca-imagenes.lavanguardia.com/uploads/20260914/caca.png",
       "tipo": "imagen"
     }
   ]

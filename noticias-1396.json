@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de Los Berrocales",
+      "link": "https://nuevosureste.es/suministro-electricidad-vicalvaro/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2024/02/Diseno-sin-titulo-4-2-400x250.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un balcón comercial con vistas al Metro en Los Berrocales",
       "link": "https://nuevosureste.es/berrocales-centro-comercial/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2024/10/Detalle-de-plano-de-la-segunda-etapa-de-urbanizacion-de-Los-Berrocales-fuente-Ayuntamiento-de-Madrid-400x250.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "La futura estación de Ahijones-Berrocales no conoce aún su ubicación definitiva",
       "link": "https://nuevosureste.es/ubicacion-estacion-metro-ahijones-berrocales/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2024/10/Transbordo-en-la-linea-9B-de-Metro-fuente-Ayuntamiento-de-Rivas-Vaciamadrid-400x250.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las obras de la L11 provocan el cierre completo de la A-3 en Conde de Casal durante la noche de este miércoles",
-      "link": "https://nuevosureste.es/corte-a3-obras-metro/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/08/Corte-Conde-de-Casal-400x250.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,16 +1,16 @@
 {
   "noticias": [
     {
-      "titulo": "Madrid Madrid Parcialmente nublado 15° 15° / 26°",
+      "titulo": "Madrid Madrid Despejado 28° 16° / 28°",
       "link": "https://eltiempo.lavanguardia.com/madrid",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://eltiempo.lavanguardia.com/api/og/madrid.png",
+      "tipo": "imagen"
     },
     {
-      "titulo": "Shanghai China Nublado 29° 22° / 30°",
+      "titulo": "Shanghai China Nublado 24° 24° / 31°",
       "link": "https://eltiempo.lavanguardia.com/shanghai",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://eltiempo.lavanguardia.com/api/og/shanghai.png",
+      "tipo": "imagen"
     }
   ]
 }

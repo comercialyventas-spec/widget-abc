@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Warren Buffett anuncia el adiós definitivo y cede la presidencia de Berkshire Hathaway",
+      "link": "https://elpais.com/noticias/inversion/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/YWIJHLO7A5FPXELOVHY66QSNZ4.jpg?auth=de412c74db050229568643039570d6bb4437494ab310d206cc296a276a67f676&width=414&height=233&focal=2429%2C230",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los gigantes de las criptomonedas inundan de dinero al Partido Republicano pese al fracaso de la ley cripto",
+      "link": "https://elpais.com/economia/2026-09-18/los-gigantes-de-las-criptomonedas-inundan-de-dinero-al-partido-republicano-pese-al-fracaso-de-la-ley-cripto.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KZJDBPJJ2JNBLNM4ANJQGSJGWM.jpg?auth=b8a9a51f4c5c238935def56e4f0a8c015b674b98a548649b37cb942addf86276&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Así podría repercutir en España el plan de Trump para bajar el precio de los medicamentos en EE UU",
       "link": "https://elpais.com/expres/2026-09-14/asi-podria-repercutir-en-espana-el-plan-de-trump-para-bajar-el-precio-de-los-medicamentos-en-ee-uu.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/W6C7TSD7OFEXDBNMWMWR2AEBYE.jpg?auth=f2ccea1680233fd98f6f542b88206a5dc10ab25175cb06116488489080acabcb&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/W6C7TSD7OFEXDBNMWMWR2AEBYE.jpg?auth=f2ccea1680233fd98f6f542b88206a5dc10ab25175cb06116488489080acabcb&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Coffee Break con José Ramón Iturriaga",
       "link": "https://elpais.com/suscripciones/elpaismas/2026-09-10/coffee-break-con-jose-ramon-iturriaga.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/YPAGJFJ2MJH6VPASLOFHSHJUVE.JPG?auth=5a85e88bbaf01c50ecbd1d19f7703701cf0e776b2f2d9a3c9a22e9eec6b924d7&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El petróleo supera los 100 dólares por barril por el recrudecimiento de la guerra en Oriente Próximo",
-      "link": "https://elpais.com/economia/2026-09-09/el-petroleo-toca-los-100-dolares-por-barril-por-el-recrudecimiento-de-la-guerra-en-oriente-proximo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/K4DESNPHJBP2LH3TPESAQAOUUA.jpg?auth=75d5002fdf1915ad84558d9e451452524280ef38981a221157dfe356ec8c581c&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Europa solo ha aplicado el 16% de las reformas del informe Draghi dos años después de su presentación",
-      "link": "https://elpais.com/noticias/economia-europea/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/CC45TPWDCFF4LBH5WGQX7IFJ7M.jpg?auth=828a5f96bec79af8cfc4d97fc13227e9c87ed04875ab0883b5bbad9073aa955c&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

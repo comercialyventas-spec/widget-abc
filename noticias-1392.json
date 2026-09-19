@@ -2,6 +2,30 @@
   "noticias": [
     {
       "titulo": "Noticias de Nuevo Sureste de Madrid",
+      "link": "https://nuevosureste.es/vi-marcha-ciclista-a-pinon-fijo-por-la-movilidad/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2025/09/Ensanche-2025-108-1080x675.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La capacidad eléctrica actual de Vicálvaro resulta insuficiente para el volumen de vivienda previsto en sus nuevos desarrollos",
+      "link": "https://nuevosureste.es/suministro-electricidad-vicalvaro/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2024/02/Diseno-sin-titulo-4-2.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Vuelta al colegio: rutinas clave y el papel de los profesores en el éxito escolar",
+      "link": "https://nuevosureste.es/colegio-el-valle-vuelta-al-cole/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/Septiembre-1.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Madrid celebra la XXIII Semana Internacional de la Arquitectura con más de 330 actividades y Suiza como país invitado",
+      "link": "https://nuevosureste.es/semana-internacional-de-la-arquitectura-2026/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/IMG_8942-1080x675.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "EMVS Madrid reparará las fachadas fisuradas de una promoción municipal en el Ensanche de Vallecas",
       "link": "https://nuevosureste.es/reparaciones-vallecas-27/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/Promocion-Vallecas-27-foto-EMVS-Madrid.jpg",
       "tipo": "imagen"
@@ -10,30 +34,6 @@
       "titulo": "Feijóo y Almeida visitan la promoción de vivienda pública de la EMVS Madrid Cañaveral 7",
       "link": "https://nuevosureste.es/feijoo-almeida-visita-promocion-canaveral-7-emvs-madrid/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/IMG_8923-1080x675.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un balcón comercial con vistas al Metro en Los Berrocales",
-      "link": "https://nuevosureste.es/berrocales-centro-comercial/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2024/10/Detalle-de-plano-de-la-segunda-etapa-de-urbanizacion-de-Los-Berrocales-fuente-Ayuntamiento-de-Madrid.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Madrid, Andalucía y Castilla y León, los principales lugares de nacimiento de los vecinos de El Cañaveral",
-      "link": "https://nuevosureste.es/lugar-nacimiento-vecinos-el-canaveral/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/08/Captura-de-pantalla-2026-08-28-a-las-13.37.04.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Ensanche de Vallecas suma más de 9.000 residentes extranjeros",
-      "link": "https://nuevosureste.es/extranjeros-ensanche-vallecas/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/08/Captura-de-pantalla-2026-08-28-a-las-11.07.24.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Cuántos niños y jóvenes hay en El Cañaveral?",
-      "link": "https://nuevosureste.es/ninos-jovenes-edad-escolar-el-canaveral/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/04/IMG_6112-1067x675.jpg",
       "tipo": "imagen"
     }
   ]

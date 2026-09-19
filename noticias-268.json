@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un incendio forestal en Ayamonte obliga a cortar la carretera A-499 y activa la alerta por humo",
+      "link": "https://www.abc.es/espana/andalucia/huelva/incendio-forestal-ayamonte-obliga-cortar-carretera-a499-20260919174729-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/19/villablanca-RXmVwTLdWsM44ZbgpILSsqJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Rafa Lozano Jr. se despide del Campeonato Europeo en su estreno tras caer ante el ruso Rogozin",
       "link": "https://www.abc.es/espana/andalucia/cordoba/rafa-lozano-despide-campeonato-europeo-estreno-tras-20260919154430-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/19/rafael-lozano-cordoba_20260919152244-Rk2kMkT9gSHSp4zLjBlrCCJ-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Fernando Priego, el alcalde de las mayorías absolutas en Cabra, presenta su candidatura para el quinto mandato",
       "link": "https://www.abc.es/espana/andalucia/cordoba/fernando-priego-alcalde-mayorias-absolutas-cabra-presenta-20260919135746-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/19/fernando-priego-cordoba-kKyF-U301797499249Vw-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Próximamente en su barrio",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/luis-miranda-proximamente-barrio-20260919090659-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/19/miranda-proximo-barrio_20260918212528-Rw7QkBxKQgIU3g5pUpZRoHL-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

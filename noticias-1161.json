@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "El proyecto de un cuarto campo de golf amenaza el suministro de agua y áreas protegidas en San Miguel de Allende",
+      "link": "https://elpais.com/noticias/san-miguel-de-allende/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/I52LJL3ZYNFVVGIWAM4EMGOWOM.jpg?auth=e300b2ddafcc32fd383372b12d4c752556a0e84b809830a295e6b5cc0c35fe2b&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Europa recupera la corona de la Solheim Cup de golf al ganar por 15-13 a EE UU",
       "link": "https://elpais.com/noticias/golf/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/RL6GNFQHEBK63B6W35BUVMAEWE.jpg?auth=a497522a2f986990a764f26edf229b86c9e01e4cfacfff0ec172c6a539852e90&width=414&height=233&focal=4220%2C3195",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RL6GNFQHEBK63B6W35BUVMAEWE.jpg?auth=a497522a2f986990a764f26edf229b86c9e01e4cfacfff0ec172c6a539852e90&width=414&height=311&focal=4220%2C3195",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Vanessa Trump, exnuera de Donald Trump y pareja de Tiger Woods, anuncia que tiene cáncer de mama",
       "link": "https://elpais.com/noticias/cancer/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/6GTC63S7JVCLRKH67PCVUIWTMI.jpg?auth=baad345af7a9964dd9e74b9bcb7218596c0d4fdb707658c83ef56b2a3b890b07&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Arabia Saudí seguirá financiando fichajes de futbolistas tras abandonar su torneo de golf",
-      "link": "https://elpais.com/noticias/liga-arabia-saudi/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/YKGBSVYG5ZOCBIZOPD7B575LOY.jpg?auth=5685179f19bb11ba794cc62d3b213ef219ad64f9f72a2db8b695b08c37a60ce0&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

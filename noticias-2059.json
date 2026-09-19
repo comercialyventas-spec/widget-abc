@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La subasta de tu atención: 200 milisegundos",
+      "link": "https://loquesomos.es/la-subasta-de-tu-atencion-200-milisegundos/",
+      "imagen": "https://loquesomos.es/wp-content/uploads/2026/09/Si_No_Pagas.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La biología femenina es la clave olvidada para comprender la longevidad humana",
       "link": "https://loquesomos.es/la-biologia-femenina-es-la-clave-olvidada-para-comprender-la-longevidad-humana/",
       "imagen": "https://loquesomos.es/wp-content/uploads/2026/08/reproducion-ilustrada.-un-ovario-mujer-nosotras-lqsomos-777x450.png",
@@ -28,12 +34,6 @@
       "titulo": "Red neuronal prealimentada",
       "link": "https://loquesomos.es/red-neuronal-prealimentada/",
       "imagen": "https://loquesomos.es/wp-content/uploads/2026/09/RedNeuronal-800x450.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cómo los volcanes enfriaron el planeta y crearon a los gigantes del océano",
-      "link": "https://loquesomos.es/como-los-volcanes-enfriaron-el-planeta-y-crearon-a-los-gigantes-del-oceano/",
-      "imagen": "https://loquesomos.es/wp-content/uploads/2026/06/ballenas-oceanos-agua-vida-animal-lqsomos-777x450.jpg",
       "tipo": "imagen"
     }
   ]

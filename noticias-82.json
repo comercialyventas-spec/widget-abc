@@ -1,33 +1,39 @@
 {
   "noticias": [
     {
+      "titulo": "TROPOSFERICA",
+      "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/425943/troposferica-2020-sl.html",
+      "imagen": "https://edv-static.lavanguardia.com/assets/img/425943/banner-1731348842000.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Nonoca Pediatría",
+      "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/1443703/nonoca-pediatrics-slp.html",
+      "imagen": "https://edv-static.lavanguardia.com/assets/img/1443703/banner-image.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Doctoralia",
+      "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/4909947/doctoralia-internet-sl.html",
+      "imagen": "https://edv-static.lavanguardia.com/assets/img/4909947/banner-1768991913000.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Centro de meditación Zen Kannon Barcelona",
+      "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/6717809/dojo-zen-barcelona-kannon-centre-budista.html",
+      "imagen": "https://edv-static.lavanguardia.com/assets/img/6717809/banner-1759840821000.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "CONCILIANS",
+      "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/7972767/luis-cano-guardia.html",
+      "imagen": "https://edv-static.lavanguardia.com/assets/img/7972767/banner-1789730496000.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "SITGES MASSAGE CENTER",
       "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/6230878/adil-kabbouch-touaimia.html",
       "imagen": "https://edv-static.lavanguardia.com/assets/img/6230878/banner-1781692009000.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "LUCAS FRANCO ABOGADOS",
-      "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/2806143/daniel-lucas-romero.html",
-      "imagen": "https://edv-static.lavanguardia.com/assets/img/2806143/banner-1778514523000.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La bata vacía",
-      "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/4760573/isem-formacion-y-desarrollo-del-medico.html",
-      "imagen": "https://edv-static.lavanguardia.com/assets/img/4760573/banner-1789549014000.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "COCA ADVOCATS",
-      "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/9991495/vanessa-cabrera-.html",
-      "imagen": "https://edv-static.lavanguardia.com/assets/img/9991495/banner-1771598402000.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "LA TEVA WEB",
-      "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/7195475/la-teva-web-sl.html",
-      "imagen": "https://edv-static.lavanguardia.com/assets/img/7195475/banner-image.jpeg",
       "tipo": "imagen"
     }
   ]

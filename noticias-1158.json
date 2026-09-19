@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Paula Blasi correrá en el Movistar hasta 2029",
+      "link": "https://elpais.com/noticias/ciclismo/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XLQB7X3MTJHAHI4CNWSIY3QOIQ.jpg?auth=d31cdeb18414c5fd9eeeeacfee003ca1c24060b36139c9db3bfb4fec75031501&width=414&height=233&focal=2534%2C886",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Enric Mas, ganador de la Vuelta: “Se me han escapado las lágrimas y algunas más caerán”",
-      "link": "https://elpais.com/noticias/vuelta-espana/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/VC7VWI6CDRA27P64FT7JMVL5NQ.jpg?auth=2d5b6841877913edeba429f457b99ec91bfc1aa3b807e9aca832ebdfe0c7518e&width=414&height=233&smart=true",
+      "link": "https://elpais.com/deportes/ciclismo/2026-09-15/enric-mas-se-me-han-escapado-las-lagrimas-y-algunas-mas-caeran.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ITUBVT6DPZOGLE2EJWJTRJEFWY.jpg?auth=94fae7e63400437cc14f8b7303c146f0d6246af1cfc7dde7ef6090d9b59bdb32&width=1200",
       "tipo": "imagen"
     },
     {
@@ -15,25 +21,19 @@
     {
       "titulo": "Mas: “Este triunfo lo he soñado y trabajado”",
       "link": "https://elpais.com/deportes/ciclismo/2026-09-13/mas-este-triunfo-lo-he-sonado-y-trabajado.html",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://imagenes.elpais.com/resizer/v2/DIUBQFUYEZMPBOJIBPKAUGYI6U.jpg?auth=f3445891a01b9fc80a06ba5765e33fce58535b70f6c694275909d01cab3f0e53&width=414&height=233&focal=2248%2C1266",
+      "tipo": "imagen"
     },
     {
       "titulo": "Triunfo de Johannessen y eternidad para Mas en el fin de fiesta de la Vuelta a España",
       "link": "https://elpais.com/deportes/ciclismo/2026-09-13/triunfo-de-johannessen-y-eternidad-para-mas-en-el-fin-de-fiesta-de-la-vuelta-a-espana.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/WWUIYODAURPURAH4WUTFQUSRVQ.jpg?auth=e4b844a97acb8daaba0c413b08d9e55de9707df005e185c8bc9cdda61978c121&width=414&height=233&focal=2670%2C1256",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Enric Mas y el laurel de la perseverancia: el mallorquín gana la Vuelta",
-      "link": "https://elpais.com/deportes/ciclismo/2026-09-13/enric-mas-y-el-laurel-de-la-perseverancia-el-mallorquin-gana-la-vuelta.html",
       "imagen": "",
       "tipo": ""
     },
     {
-      "titulo": "Un joven de 21 años, herido muy grave al sufrir un accidente con su moto en Tres Cantos",
-      "link": "https://elpais.com/noticias/accidentes-trafico/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/PR6Q6RKIYZHXDPCLSHATM7TS4U.jpeg?auth=09e9cb427fea83956734b632d465697a61e6452926fdd53c245587b787239f3d&width=414&height=233&smart=true",
+      "titulo": "Enric Mas y el laurel de la perseverancia: el mallorquín gana la Vuelta",
+      "link": "https://elpais.com/noticias/vuelta-espana/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/PN2CMABB4JNG7NE32IT32RORQU.jpg?auth=83ed32dd9e7364611ff37933773b9cbe04f69ed7931cd1c22b9af97017598a47&width=414&height=233&focal=2282%2C1206",
       "tipo": "imagen"
     }
   ]
