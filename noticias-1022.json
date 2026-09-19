@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
+      "titulo": "La Audiencia Nacional da 20 días a Transportes para que envíe el expediente del campamento del Puerto",
+      "link": "https://www.abc.es/espana/audiencia-nacional-dias-transportes-envie-expediente-campamento-20260919162607-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/19/TrasladoInmigrantes-R6NLagNm4BrECM4bIPJbSVN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Poseidón: la «navaja suiza» de la Armada para apoyar a los submarinos S-80",
       "link": "https://www.abc.es/espana/poseidon-navaja-suiza-armada-apoyar-despliegue-submarinos-20260919133250-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/19/1517490064-RLJduSKdJIjFT1ysv4Nw0qJ-1200x840@diario_abc.JPG"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/19/1517490064-RLJduSKdJIjFT1ysv4Nw0qJ-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Mourinho: «Cada vez es más difícil escuchar algo positivo del Madrid»",
+      "link": "https://www.abc.es/deportes/real-madrid/mourinho-vez-dificil-escuchar-positivo-madrid-20260919161508-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/19/jose-Rw0EiVPhAAkYVcyszYY9xdO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Carmen Machi: «Las mujeres maduras también interesan»",
       "link": "https://www.abc.es/cultura/cine/carmen-machi-premio-nacional-cinematografia-2026-mujeres-20260919133657-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/19/DAMBin%20(9)-RpEQ5HyEGAzJlVHJuGJZcjM-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/19/DAMBin%20(9)-RpEQ5HyEGAzJlVHJuGJZcjM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Naomi Watts: «A medida que me hago mayor, me preocupa menos complacer a los demás»",
       "link": "https://www.abc.es/cultura/naomi-watts-premio-donostia-2026-medida-hago-20260919154651-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/19/1517532327-kqqH-U301797707525P1F-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/19/1517532327-kqqH-U301797707525P1F-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Un triunfo salvaje: el Real Madrid, campeón del mundo juvenil",
       "link": "https://www.abc.es/deportes/real-madrid/triunfo-salvaje-real-madrid-campeon-mundo-juvenil-20260919150637-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/19/HSlRT2dXAAEWiTE-RxQfIerNvMj45ZRFh0N0GeL-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Tragedia para Acosta en casa de KTM: le da el triunfo y el liderato a Jorge Martín",
-      "link": "https://www.abc.es/deportes/motos/tragedia-acosta-casa-ktm-triunfo-liderato-jorge-20260919154255-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/19/podioesprintafp-ReFRryklNSNgjHWPq3BexQK-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Shakira convierte Madrid en un templo de 50.000 fieles entregados",
-      "link": "https://www.abc.es/cultura/musica/shakira-corona-mundo-shakira-ante-50000-feligreses-20260918230354-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/18/shakira-ep-km6F-U301792589476HS-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/19/HSlRT2dXAAEWiTE-RxQfIerNvMj45ZRFh0N0GeL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }

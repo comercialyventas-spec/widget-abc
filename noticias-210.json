@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "El mundo vuelve a los préstamos caros por la guerra en Irán, los aranceles y el auge de la IA",
+      "link": "https://www.france24.com/es/programas/econom%C3%ADa/20260919-el-mundo-vuelve-a-los-pr%C3%A9stamos-caros-por-la-guerra-en-ir%C3%A1n-los-aranceles-y-el-auge-de-la-ia",
+      "imagen": "https://s.france24.com/media/display/763598c6-b39e-11f1-b997-ed3d9e22a40f/w:1024/p:16x9/2026-09-16T200737Z-126985946-RC2IKNASV7PE-RTRMADP-3-USA-FED-STOCKS.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cuba enfrenta su octavo apagón nacional en 2026 en plena crisis energética",
+      "link": "https://www.france24.com/es/video/20260919-cuba-enfrenta-su-octavo-apag%C3%B3n-nacional-en-2026-en-plena-crisis-energ%C3%A9tica",
+      "imagen": "https://s.france24.com/media/display/0ffb5fe4-b431-11f1-9f31-ed3d9e22a40f/w:1024/p:16x9/ES-20260919-081024-081220-CS.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Estados Unidos: protestas contra amenaza de demolición del Centro Kennedy en Washington",
+      "link": "https://www.france24.com/es/video/20260919-estados-unidos-protestas-contra-amenaza-de-demolici%C3%B3n-del-centro-kennedy-en-washington",
+      "imagen": "https://s.france24.com/media/display/5718d994-b42f-11f1-92df-5b4fdf021577/w:1024/p:16x9/ES-20260919-070704-070852-CS.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Donald Trump anuncia acuerdo de seguridad sobre Groenlandia",
+      "link": "https://www.france24.com/es/video/20260919-donald-trump-anuncia-acuerdo-de-seguridad-sobre-groenlandia",
+      "imagen": "https://s.france24.com/media/display/ceede58e-b42c-11f1-8a4b-9f514b90f153/w:1024/p:16x9/ES-20260919-060136-060344-CS.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "En directo: Arabia Saudita emitió alertas aéreas en todo el país, en medio de la escalada en Yemen",
       "link": "https://www.france24.com/es/medio-oriente/20260919-en-directo-arabia-saudita-emiti%C3%B3-alertas-a%C3%A9reas-en-todo-el-pa%C3%ADs-en-medio-de-la-escalada-en-yemen",
       "imagen": "https://s.france24.com/media/display/f5c423ba-b42e-11f1-9171-6f779f079bc8/w:1024/p:16x9/2026-09-19T114800Z-1100229945-RC28MNAOL58F-RTRMADP-3-IRAN-CRISIS-SAUDI-YEMEN.jpg",
@@ -10,30 +34,6 @@
       "titulo": "Los hutíes tras Bab el-Mandeb: ¿una nueva carta de poder para Irán?",
       "link": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20260919-los-hut%C3%ADes-tras-bab-el-mandeb-una-nueva-carta-de-poder-para-ir%C3%A1n",
       "imagen": "https://s.france24.com/media/display/7ee961fa-b399-11f1-8d7a-9ff5c3f464d4/w:1024/p:16x9/IMG-0204.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Johanna Gómez: \"Hay una limitación para que las mujeres estemos en mejores posiciones\"",
-      "link": "https://www.france24.com/es/video/20260919-johanna-g%C3%B3mez-hay-una-limitaci%C3%B3n-para-que-las-mujeres-estemos-en-mejores-posiciones",
-      "imagen": "https://s.france24.com/media/display/f45d854a-b3cd-11f1-a32a-9ff5c3f464d4/w:1024/p:16x9/ES-20260918-200801-201341-CS.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cuba sufre su octavo apagón nacional de 2026 en medio de una profunda crisis energética",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260919-cuba-sufre-su-octavo-apag%C3%B3n-nacional-de-2026-en-medio-de-una-profunda-crisis-energ%C3%A9tica",
-      "imagen": "https://s.france24.com/media/display/b83863b6-8ff4-11f1-ac0a-005056bf30b7/w:1280/p:16x9/2026-08-04T033337Z-537837745-RC2DRMA0O7QS-RTRMADP-3-CUBA-CRISIS-GRID.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cuba sufre su octavo apagón nacional de 2026 en medio de una profunda crisis energética",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260919-cuba-sufre-su-octavo-apag%C3%B3n-nacional-de-2026-en-medio-de-una-profunda-crisis-energ%C3%A9tica",
-      "imagen": "https://s.france24.com/media/display/b83863b6-8ff4-11f1-ac0a-005056bf30b7/w:1024/p:16x9/2026-08-04T033337Z-537837745-RC2DRMA0O7QS-RTRMADP-3-CUBA-CRISIS-GRID.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Gazatíes pintan un mural en honor a Macklemore tras ser excluido de la gira de Ed Sheeran",
-      "link": "https://www.france24.com/es/video/20260919-gazat%C3%ADes-pintan-un-mural-en-honor-a-macklemore-tras-ser-excluido-de-la-gira-de-ed-sheeran",
-      "imagen": "https://s.france24.com/media/display/27afd388-b3cb-11f1-abe6-ed3d9e22a40f/w:1024/p:16x9/ES-20260918-191608-191801-CS.jpg",
       "tipo": "imagen"
     }
   ]
