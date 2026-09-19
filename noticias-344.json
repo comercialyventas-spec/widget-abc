@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "DS Número 7: el nuevo estandarte del confort francés",
+      "link": "https://www.abc.es/motor/novedades/numero-nuevo-estandarte-confort-frances-20260919102700-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/19/image1-RQp5SJ6965LdHl26vUz3RVI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Del Atlántico al Peñón por la última frontera del sur: Nos vamos de ruta con el Jeep Rubicon",
       "link": "https://www.abc.es/motor/reportajes/atlantico-penon-ultima-frontera-sur-vamos-ruta-20260919090000-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/19/jeep-RuulGHqrxDob5g3AVQYbLaN-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Volkswagen presenta el nuevo ID.3 GTI con 326 CV",
       "link": "https://www.abc.es/motor/novedades/volkswagen-presenta-nuevo-id3-gti-326-20260917125102-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/17/DB2026AU00621_large-RiSKUBeLHNOCTDdSvSKUhrK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Volkswagen comienza la producción en Navarra del ID.Cross, el SUV eléctrico asequible",
-      "link": "https://www.abc.es/motor/novedades/volkswagen-comienza-produccion-navarra-idcross-suv-electrico-20260918111828-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/18/wolkswagen-id-cross-Rn2ippG2y8d9RGhK3L9dNqJ-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
