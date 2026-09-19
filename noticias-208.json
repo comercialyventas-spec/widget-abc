@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Múnich abre la 191.ª edición del Oktoberfest",
+      "link": "https://www.dw.com/es/múnich-abre-la-191-ª-edición-del-oktoberfest/a-79338083",
+      "imagen": "https://static.dw.com/image/79337632_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Rusia dice haber capturado 5.300 km² de Ucrania en 2026",
       "link": "https://www.dw.com/es/rusia-dice-haber-capturado-5-300-km²-de-ucrania-en-2026/a-79336664",
       "imagen": "https://static.dw.com/image/79281783_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Trump y Xi cenarán con líderes de IA en Washington",
       "link": "https://www.dw.com/es/trump-y-xi-cenarán-con-líderes-de-ia-en-washington/a-79335264",
       "imagen": "https://static.dw.com/image/74447045_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Fuertes explosiones en Arabia Saudita tras una alerta aérea",
-      "link": "https://www.dw.com/es/fuertes-explosiones-en-arabia-saudita-tras-una-alerta-aérea/a-79335271",
-      "imagen": "https://static.dw.com/image/61282453_6.jpg",
       "tipo": "imagen"
     }
   ]

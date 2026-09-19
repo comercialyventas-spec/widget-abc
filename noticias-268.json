@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Próximamente en su barrio",
+      "link": "https://www.abc.es/espana/andalucia/cordoba/luis-miranda-proximamente-barrio-20260919090659-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/19/miranda-proximo-barrio_20260918212528-Rw7QkBxKQgIU3g5pUpZRoHL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Junta de Andalucía lanza la mayor oferta de suelo público en diez años: 3.700 pisos en cartera",
+      "link": "https://www.abc.es/espana/andalucia/mapa-vivienda-asequible-andalucia-impulso-vpo-sur-20260919212726-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/24/1200-100-RASDuZyi2O7PbteJxt5QhhO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Condenada a 47 años de cárcel una mujer por prostituir a sus hijas de 5 y 9 años en Almería",
       "link": "https://www.abc.es/espana/andalucia/almeria/condenada-anos-carcel-mujer-prostituir-hijas-anos-20260919120345-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/19/EuropaPress_6220784_audiencia_provincial_almeria-RPavZxJz6MaGtqcLFhMvjvO-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "El verano no ha acabado y ya asoma... la Navidad en Córdoba: la pista de hielo del Vial abrirá el 21 de noviembre",
       "link": "https://www.abc.es/espana/andalucia/cordoba/verano-acabado-asoma-navidad-cordoba-pista-hielo-20260919104905-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/19/pista-hielotres-cordoba-kZKF-U301795902739xAE-1200x840@diario_abc.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El novedoso parking de Lepanto, la llave de nuevas peatonalizaciones en Córdoba",
-      "link": "https://www.abc.es/espana/andalucia/cordoba/novedoso-parking-lepanto-llave-nuevas-peatonalizaciones-cordoba-20260919100856-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/19/lepanto-parking-cordoba-kOhF-U301795553919JYD-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El tiroteo de este viernes en Málaga termina con un muerto y tres detenidos en la 'Operación Brown'",
-      "link": "https://www.abc.es/espana/andalucia/malaga/tiroteo-viernes-malaga-termina-muerto-tres-detenidos-20260919100650-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/19/tiroteo-sur-malag-kPQG-U301795729593IdG-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
