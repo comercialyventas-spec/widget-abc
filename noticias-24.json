@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "'Drácula', de Bram Stoker",
+      "link": "https://www.lavanguardia.com/cultura/20260919/11638747/dracula-bram-stoker.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Veronal vuelve a sacudir con su teatro físico turbulento en el dúo ‘Living & Leaving’",
       "link": "https://www.lavanguardia.com/cultura/20260919/11638775/veronal-vuelve-sacudir-teatro-fisico-turbulento-duo-living-leaving.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/19/6aadb73447212.r_d.2918-1945-769.jpeg",
@@ -9,7 +15,7 @@
     {
       "titulo": "Un alcalde debe dimitir",
       "link": "https://www.lavanguardia.com/cultura/20260919/11638759/alcalde-debe-dimitir.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/18/6aad97b7bd334.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/18/6aad97b7bd334.r_d.4040-2561-0.jpeg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "El triunfo de la lectura",
       "link": "https://www.lavanguardia.com/cultura/culturas/20260919/11637111/suplemento-especial-setmana-llibre-catala-triunfo-lectura.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La genealogía de las poetas",
-      "link": "https://www.lavanguardia.com/cultura/culturas/20260919/11636582/genealogia-poetas.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/16/6aaad20a5aa13.jpeg",
       "tipo": "imagen"
     }
   ]
