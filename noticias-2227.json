@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Evento deportivo en avenida de Concha Espina. Afectadas 4 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260919-Evento-Deportivo-Bernabeu.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Obras: Calle Imperial. Afectada línea N26 de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260922-GRUA-Calle-Imperial.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Concentración en Alcalde Sainz de Baranda. Afectadas 3 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260922-C-Alcalde-Sainz-Baranda.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Concentración en paseo de la Chopera. Afectadas 2 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260922-C-Paseo-Chopera.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -15,24 +33,6 @@
     {
       "titulo": "Obras: Carretera M-500. Afectadas 4 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260918-O-Pasarela-M-500.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Recuperación de Parada: Carretera de Boadilla. Afectada línea 65 de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260921-RP-2637-Carretera-Boadilla.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Obras: Calle Cantueso. Afectada línea 177 de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260921-O-Cantueso.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Supresión de Parada: Francisco Umbral. Afectada línea 171 de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260920-SP-5888-Francisco-Umbral.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }
