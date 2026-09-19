@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El 'Museu de la Mar' que le faltaba a València",
+      "link": "https://www.lavanguardia.com/local/valencia/20260919/11638117/museu-mar-le-faltaba-valencia.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/18/6aad06fbc8a01.r_d.2067-1378-1086.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Esplendor aragonés bajo las magnolias",
       "link": "https://www.lavanguardia.com/cultura/20260919/11638905/esplendor-aragones-magnolias.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/19/6aadbcd0e4b3b.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Paolo Virzì: “Busco la profundidad emocional ante el dilema atroz de un padre atormentado”",
       "link": "https://www.lavanguardia.com/cultura/20260918/11638477/paolo-virzi-busco-profundidad-emocional-dilema-atroz-padre-atormentado.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2017/09/05/5fa3db1e12677.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El consejo de Werner Herzog a los jóvenes en San Sebastián: “No viváis una vida dictada por algoritmos”",
-      "link": "https://www.lavanguardia.com/cultura/20260918/11638407/consejo-werner-herzog-jovenes-san-sebastian-vivais-vida-dictada-algoritmos.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/18/6aad4edef3503.r_d.3058-1942-0.jpeg",
       "tipo": "imagen"
     }
   ]

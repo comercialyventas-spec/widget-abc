@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "El Roto: donde caben dos",
+      "link": "https://elpais.com/opinion/2026-09-19/el-roto-donde-caben-dos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/O5NXXISDJ5G6TJDZMLYTUA5LFE.jpg?auth=7360ec26077a41feee411fa3e42ecfcc9039cd9fd72dc918130a30aa8a8d66ad",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Peridis: Ayuso sin ático",
+      "link": "https://elpais.com/opinion/2026-09-19/peridis-ayuso-sin-atico.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/2YIC5TKTLBBDTPA6EEJOAUUJJ4.jpg?auth=06748d37e7e778b5f3572bd03ef0eb1d17a55d1ba70530d3bae0d17f2d0b2056",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Flavita Banana: estoicos",
+      "link": "https://elpais.com/opinion/2026-09-19/flavita-banana-estoicos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/CGXEUO3AB5EA5KNLHLZBQGTPG4.jpg?auth=f19ead40457b1b87157697931a587b5fb86404f2555cba04d74ac3ba6cc04b18",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ahora, todos quieren regular (la IA)",
+      "link": "https://elpais.com/opinion/2026-09-19/ahora-todos-quieren-regular-la-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/EUKRGBFLCNG65FEF73IERHSRUI.jpg?auth=6e9dbbd67232583dbddaac867066667f9454f64befed9ab1641b589ab8a33863",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Terminator resuelve la paradoja de Fermi",
       "link": "https://elpais.com/opinion/2026-09-19/terminator-resuelve-la-paradoja-de-fermi.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/3IVMQ7N6IBEVXJ5JAYQ3HP5PDM.jpg?auth=a50b6939cc65808c7ac3322e91b0bacbbec2df9e0a5f8965216c642c794c65d9",
@@ -10,30 +34,6 @@
       "titulo": "Los de entonces",
       "link": "https://elpais.com/opinion/2026-09-19/los-de-entonces.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/I2HAKLTJ5VAEBNUI735LRWCX7Q.jpg?auth=e6e7226dd825171ee9645288ac45c8439145f106d42c6ed96af4f255ad87e685",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una igualdad que se aleja",
-      "link": "https://elpais.com/opinion/2026-09-19/una-igualdad-que-se-aleja.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/PY7Z3TMAJFEKDGODQIRBDZP7I4.jpg?auth=365f92d8990a3b26da535fe643bc60a477a48106ac9a322f3fb3fa936d10168c",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "España-Marruecos, superar la crisis",
-      "link": "https://elpais.com/opinion/2026-09-19/espana-marruecos-superar-la-crisis.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/DKA24MJJHRCVPCEXCSTFA4N424.jpg?auth=08e09ea8d35ea81edf566a2fe34de4b37d5c3fb19bc4f9bfb81a8f1899a09398",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La fuerza de Marruecos",
-      "link": "https://elpais.com/opinion/2026-09-19/la-fuerza-de-marruecos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/TJPHB7YEUFF6FOJCGA5ZT7RR2Q.jpg?auth=24a928ad16e86da42ddd044124218bd69a4c8fc41f81f266bfa213dae2ec6c81",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Buscando votos en los basurales de Ceuta",
-      "link": "https://elpais.com/opinion/2026-09-19/buscando-votos-en-los-basurales-de-ceuta.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/YYKWX6LZAJAD5ITJLCG4OT7SJM.JPG?auth=fb9ae8610c39c49cebc878e65f1caf6f13e0267eab579b5da37bedd61eb13743",
       "tipo": "imagen"
     }
   ]
