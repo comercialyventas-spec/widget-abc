@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "La IA puede hacer el trabajo, pero no puede aprender por ti",
+      "link": "https://elpais.com/economia/formacion/2026-09-17/la-ia-puede-hacer-el-trabajo-pero-no-puede-aprender-por-ti.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/3TGY55FOTNCETOC6RCGXE5JFLA.jpg?auth=76108fb6933b6cb329f687be255c4061e6d42b9ae36f1972f4644ea739e090c6&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Altas capacidades: los alumnos que el sistema no sabe ver",
       "link": "https://elpais.com/economia/formacion/2026-09-11/altas-capacidades-los-alumnos-que-el-sistema-no-sabe-ver.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/3VE6OIMC3JEFLH34B4PHEC6SZQ.jpg?auth=68a19fa5885be5695146636753ada16310d4bd97ff4330f30d6dddba1fd3b845&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/3VE6OIMC3JEFLH34B4PHEC6SZQ.jpg?auth=68a19fa5885be5695146636753ada16310d4bd97ff4330f30d6dddba1fd3b845&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
@@ -22,12 +28,6 @@
       "titulo": "Quién diseña la inteligencia artificial del futuro (y por qué siguen faltando mujeres)",
       "link": "https://elpais.com/economia/formacion/2026-08-20/quien-disena-la-inteligencia-artificial-del-futuro-y-por-que-siguen-faltando-mujeres.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/GLR5TWWWNZFAVGIHETFIX6LAPI.jpg?auth=0fc31ab6ceb7c25325b5f34d0aff18652696435550420098db3c6dd4e9c43084&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Santiago Ávila, escritor: “Es la primera vez que vemos a tantos titulados superiores que son analfabetos funcionales”",
-      "link": "https://elpais.com/economia/formacion/2026-08-13/santiago-avila-escritor-es-la-primera-vez-que-vemos-a-tantos-titulados-superiores-que-son-analfabetos-funcionales.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/4YFELPCGKVA3LEPR53SHOJZ6SI.png?auth=2058627b4aeacd2f95272eff13f80bcb8c05d398d313af7314dd6a1314a92833&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
