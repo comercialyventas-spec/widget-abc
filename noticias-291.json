@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Cómo nació el catalejo, el invento que cambió la forma de mirar el mundo",
+      "link": "https://www.abc.es/ciencia/nacio-catalejo-invento-cambio-forma-mirar-mundo-20260918013305-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/18/Galileo_Telescopio-R53KgQKuSQqzZoUyoQEkoCO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Palma dice adiós al Telescopio de Treinta Metros",
       "link": "https://www.abc.es/ciencia/palma-dice-adios-telescopio-treinta-metros-20260918201524-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/18/jcr_content-R2DJTOZMtrmwI7vxxCbusHJ-1200x840@diario_abc.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Científicos injertan neuronas humanas en ratones sin corteza cerebral y recuperan sus capacidades",
       "link": "https://www.abc.es/ciencia/cientificos-injertan-neuronas-humanas-ratones-medio-cerebro-20260915170011-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/15/raton-neuronas-RFh21TEGbKZWGFYTIOyL4fM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Descubren que los chimpancés ceden sus propias herramientas para 'educar' a sus crías",
-      "link": "https://www.abc.es/ciencia/descubren-chimpances-ceden-propias-herramientas-educar-crias-20260916102115-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/16/Chimpance-usando-herramientas-Ri3a3DFCYn2nPr7g4TPXYFK-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
