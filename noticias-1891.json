@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Literal: El cambio climático nos quita el sueño",
-      "link": "https://www.20minutos.es/medio-ambiente/blogs/cronicaverde/",
-      "imagen": "https://www.20minutos.es/uploads/icons/blogs/cronicaverde.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Uniformes para la historia. Charlotte Hornets y su famoso color turquesa",
       "link": "https://www.20minutos.es/deportes/blogs/quefuede/",
       "imagen": "https://www.20minutos.es/uploads/icons/blogs/quefuede.jpg",
@@ -34,6 +28,12 @@
       "titulo": "Sydney Sweeney y el negocio de vender los cuerpos de las mujeres",
       "link": "https://www.20minutos.es/mujer/blogs/el-blog-de-lilih-blue/",
       "imagen": "https://www.20minutos.es/uploads/icons/blogs/el-blog-de-lilih-blue.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El curioso origen del término ‘feligrés’",
+      "link": "https://www.20minutos.es/cultura/blogs/yaestaellistoquetodolosabe/",
+      "imagen": "https://www.20minutos.es/uploads/icons/blogs/yaestaellistoquetodolosabe.jpg",
       "tipo": "imagen"
     }
   ]
