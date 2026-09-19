@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Activo un incendio en A Lama (Pontevedra), que afecta a unas 20 hectáreas y se aproximó a las casas",
+      "link": "https://www.abc.es/espana/galicia/activo-incendio-lama-pontevedra-afecta-hectareas-aproximo-20260919132522-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/19/1450164016-RjJEl3yG9IzN9Yw9Ptu02fO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Alfonso Rueda lanza el tercer episodio de su podcast con una entrevista al periodista Álex Fidalgo",
+      "link": "https://www.abc.es/espana/galicia/alfonso-rueda-lanza-tercer-episodio-podcast-entrevista-20260919131615-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/19/rueda-RSnJdN1ghTBbmL1KzYskoUL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La amenaza de España de vincular la ampliación de la UE con la oficialidad del gallego deja fríos a sus socios",
       "link": "https://www.abc.es/espana/galicia/amenaza-espana-vincular-ampliacion-ue-oficialidad-gallego-20260919111056-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/19/1509137128-Rtxw77efChzYoAuPwCCZoLO-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Vuelve el calor a Galicia: alertas por termómetros disparados en mitad de una anomalía climática",
       "link": "https://www.abc.es/espana/galicia/vuelve-calor-galicia-alertas-termometros-disparados-mitad-20260919103929-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/19/1515885429-RBXJsmR9Y8kbnnfku5buRYK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Silvio Rodríguez agota las entradas para su concierto en La Coruña, su reencuentro con el público gallego",
-      "link": "https://www.abc.es/espana/galicia/silvio-rodriguez-agota-entradas-concierto-coruna-reencuentro-20260919103212-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/19/1441381015-RMi4VEqYjXiCh5S5DgYKgrJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Caudal Fest estrena una guía de la Xunta para que los festivales sean más sostenibles",
-      "link": "https://www.abc.es/espana/galicia/caudal-fest-estrena-guia-xunta-festivales-sostenibles-20260918060001-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/18/EuropaPress_7784167_caudal_fest_estrena_guia_xunta_convertir_festivales_eventos_mas_sostenibles-RUoT4yLc0RWX0z7z1ZWhXtO-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

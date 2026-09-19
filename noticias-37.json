@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Los grandes ladrones de néctar",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260919/11638231/grandes-ladrones-nectar.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/18/6aad20b48bd6c.r_d.960-720-2338.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El banco de cine del parque de El Retiro",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260919/11638216/banco-cine-parque-retiro.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/18/6aad1f50362bb.r_d.974-490-2338.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Luke Slater vuelve a Girona casi 30 años después de su primera actuación en España",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260919/11638992/luke-slater-vuelve-girona-30-anos-primera-actuacion-espana.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/19/6aae485b29ed1.r_d.348-319-7015.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El bello amanecer de los flamencos en el Delta del Ebro",
-      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260919/11638989/bello-amanecer-flamencos-delta-ebro.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/19/6aae46d8376f3.r_d.960-550-2338.jpeg",
       "tipo": "imagen"
     }
   ]
