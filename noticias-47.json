@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Madrid celebra pasado y futuro",
+      "link": "https://www.lavanguardia.com/magazine/moda/20260919/11638956/madrid-celebra-pasado-futuro.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/19/6aadbc2ab1fd0.r_d.2538-1866-866.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "11 estrellas Michelin en Maitia, la gran noche solidaria del Hotel María Cristina en Donosti",
       "link": "https://www.lavanguardia.com/magazine/lifestyle/20260919/11637501/11-estrellas-michelin-maitia-gran-noche-solidaria-hotel-maria-cristina-donosti.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/17/6aac18dd373d4.r_d.1144-628-2060.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Horóscopo de hoy: amor, trabajo, salud y dinero signo a signo para el 19 de septiembre de 2026",
       "link": "https://www.lavanguardia.com/magazine/horoscopo/20260918/11629139/horoscopo-diario-prediccion-suerte-19-septiembre-ctx.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2023/07/10/64abea6089ffe.r_d.600-337-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Horóscopo de Piscis para hoy: predicciones en amor, trabajo, salud y dinero para el sábado, 19 de septiembre",
-      "link": "https://www.lavanguardia.com/magazine/horoscopo/20260918/11629225/horoscopo-diario-hoy-piscis-sabado-19-septiembre-2026-ctx.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/07/10/64abeda61c642.jpeg",
       "tipo": "imagen"
     }
   ]
