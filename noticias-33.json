@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Sin políticos en la escuela",
+      "link": "https://www.lavanguardia.com/opinion/20260920/11639240/politicos-escuela.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Vivienda, problema número uno",
+      "link": "https://www.lavanguardia.com/opinion/20260920/11639199/vivienda-problema-numero.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Yom Kippur: el día del perdón Judío, aprender a perdonarnos",
       "link": "https://www.lavanguardia.com/opinion/20260919/11637834/yom-kippur-dia-perdon-judio-aprender-perdonarnos.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Los presos van de compras",
       "link": "https://www.lavanguardia.com/opinion/20260919/11638730/presos-compras.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/04/16/67ffcaef47529.r_d.537-614-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Vivas a Mbappé",
-      "link": "https://www.lavanguardia.com/opinion/20260919/11638728/vivas-mbappe.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/18/6aad8483050c9.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Arte en tono mayor",
-      "link": "https://www.lavanguardia.com/opinion/20260919/11638693/arte-tono-mayor.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/18/6aad93240b406.jpeg",
       "tipo": "imagen"
     }
   ]
