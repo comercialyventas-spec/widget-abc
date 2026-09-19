@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Estos profesionales cobran más que un ministro y casi nadie lo sabe",
+      "link": "https://elpais.com/economia/negocios/2026-09-19/estos-profesionales-cobran-mas-que-un-ministro-y-casi-nadie-lo-sabe.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TKM4QEUA3ZCXXMCSQOHHKUEBYQ.jpg?auth=10f9c9f4319c10d89661ebea73d5f737557bc2d6eb2c3c249710297530faecb1",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El millonario negocio de la devoción religiosa en Bolivia",
+      "link": "https://elpais.com/economia/negocios/carta-del-corresponsal/2026-09-19/el-millonario-negocio-de-la-devocion-sincretica-en-bolivia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7G5MFUNWH5HNVN6C3KX6HFAH4M.jpg?auth=28b910c0ef977e4c90eafc49e6fb69fec1022e5a545de341bb1cda148a554756",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Carlos Villar (Protos): “Bud Bunny salía en un video cocinando en su casa con nuestro vino. Le escribí, pero no me contestó”",
+      "link": "https://elpais.com/economia/negocios/entrevistas-afterwork/2026-09-19/carlos-villar-protos-mis-vacaciones-son-atipicas-cada-mes-y-medio-me-gusta-tener-cinco-dias-de-desconexion.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/DSXJKJHS4RHZXEZJDKFEMI7SRU.jpg?auth=b8a53af2cfba212b483d63c67c5b4f078a8a439ce8f66c99f77ba5203dc4d65b",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cuando el chollo inmobiliario no es una vivienda, sino una deuda o una cesión de remate",
+      "link": "https://elpais.com/economia/negocios/2026-09-19/cuando-el-chollo-inmobiliario-no-es-una-vivienda-sino-una-deuda-o-una-cesion-de-remate.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/D5AKOV5HVNET5MMUHA2VFS3MQQ.jpg?auth=9aae415ebd821a2e9685cdb4c9c92674e59f0ee46703893337905a0d2fdff5e7",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las tres casas de la semana: una masía del siglo XV que respeta la arquitectura original por 3,5 millones de euros",
       "link": "https://elpais.com/economia/negocios/2026-09-18/las-tres-casas-de-la-semana-una-masia-del-siglo-xv-que-respeta-la-arquitectura-original-por-35-millones-de-euros.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/Y4WXEQJSN5DW5CVC3APEW6ATUE.jpg?auth=3d75abde1bc6db8f3eee58b19b96aa457662eb18091a10c3fd16b2ecf0d1975d",
@@ -10,30 +34,6 @@
       "titulo": "Horus ML, la empresa que propone detectar la aterosclerosis a través de la retina",
       "link": "https://elpais.com/economia/negocios/2026-09-17/horus-ml-la-empresa-que-propone-detectar-la-aterosclerosis-a-traves-de-la-retina.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/N34EXGMS2ZEIVHXN2QN4G6MYLA.JPG?auth=df7adac954903b7320baa8cd14eecc0a747af7584b0fec99e507aff142db842c",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La empresa que usa cascarilla de arroz en vez de madera para hacer tableros",
-      "link": "https://elpais.com/economia/negocios/2026-09-17/la-empresa-que-usa-cascarilla-de-arroz-en-vez-de-madera-para-hacer-tableros.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/763BBWW7AZFYFGBIHD5EF7W2DM.jpg?auth=27fc9a44ef4eb5646096f27ead0a66ed2756e23a9e0030a48dcbd40313ffb817",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Han tocado los grandes bancos su techo en la Bolsa?",
-      "link": "https://elpais.com/economia/negocios/2026-09-16/han-tocado-los-grandes-bancos-su-techo-en-la-bolsa.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/UOG3R7KXABDJRHD7ACMA22X5EI.jpg?auth=1d5f397b0787b86fb44a1d92b63e6e1515a61d5100bbc1e34c880aaee5b4fc12",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La generación del músculo: los adolescentes ponen en forma a los gimnasios",
-      "link": "https://elpais.com/economia/negocios/2026-09-23/la-generacion-del-musculo-los-adolestentes-ponen-en-forma-a-los-gimnasios.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/QXOOSXASONH2NAIBYPQ5EMJ72E.jpg?auth=e4c156d333d17f149458cd6204ed91ba1486dccfb9cbd6e6b9487d6d7931dbef",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Terapias celulares y diagnóstico precoz: claves en el abordaje actual del linfoma",
-      "link": "https://elpais.com/economia/negocios/2026-09-15/terapias-celulares-y-diagnostico-precoz-claves-en-el-abordaje-actual-del-linfoma.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260914/1214111_142944_video_1800.mp4",
       "tipo": "imagen"
     }
   ]
