@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Un festival de Granada cancela a Ariana Harwicz por oponerse al boicot cultural a Israel",
-      "link": "https://www.abc.es/cultura/presion-propalestina-cancela-ariana-harwicz-festival-cultural-20260919131232-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/19/Harwicz-sieira-RFIUzxmCLboyD9qZ9NQU83I-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "Un triunfo salvaje: el Real Madrid, campeón del mundo juvenil",
       "link": "https://www.abc.es/deportes/real-madrid/triunfo-salvaje-real-madrid-campeon-mundo-juvenil-20260919150637-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/19/DAMBin-RxQfIerNvMj45ZRFh0N0GeL-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/19/DAMBin-RxQfIerNvMj45ZRFh0N0GeL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Abascal, tras sufrir un intento de agresión en Tarragona: «No soportan que sus vecinos nos muestren su cariño»",
       "link": "https://www.abc.es/espana/abascal-tras-sufrir-intento-agresion-tarragona-violentos-20260919144310-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/19/abascal-agresion-RBvOgSzwM9TzUHnf7lgIv2K-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/19/newspaint-1789820171922-1200x840_20260919145635-RBvOgSzwM9TzUHnf7lgIv2K-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un festival de Granada cancela a Ariana Harwicz por oponerse al boicot cultural a Israel",
+      "link": "https://www.abc.es/cultura/presion-propalestina-cancela-ariana-harwicz-festival-cultural-20260919131232-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/19/Harwicz-sieira-RFIUzxmCLboyD9qZ9NQU83I-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Un ex guardia civil de 85 años estrangula hasta la muerte a su exnuera con un cinturón en Arganzuela",
       "link": "https://www.abc.es/espana/madrid/guardia-civil-anos-estrangula-muerte-exnuera-cinturon-20260919135044-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/19/crimen-arganzuela-suceso1-RRNLnH95tRhjBsHz5B3bK2L-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/19/crimen-arganzuela-suceso1-RRNLnH95tRhjBsHz5B3bK2L-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Poseidón: la «navaja suiza» de la Armada para apoyar el despliegue de los submarinos S-80",
       "link": "https://www.abc.es/espana/poseidon-navaja-suiza-armada-apoyar-despliegue-submarinos-20260919133250-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/19/1517490064-RLJduSKdJIjFT1ysv4Nw0qJ-1200x840@diario_abc.JPG"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/19/1517490064-RLJduSKdJIjFT1ysv4Nw0qJ-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
     },
     {
       "titulo": "Morelos, la ciudad en la que mataron a Claudia Tacoronte: una mujer asesinada cada cuatro días",
       "link": "https://www.abc.es/internacional/morelos-ciudad-mataron-claudia-tacoronte-mujer-asesinada-20260917135703-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/17/1517510516-kcAF-RXNWtVy1bYsi37e5noP9LfJ-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/17/1517510516-kcAF-RXNWtVy1bYsi37e5noP9LfJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }
