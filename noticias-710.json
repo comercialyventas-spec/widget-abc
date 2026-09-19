@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El modelo de IA de Google hackeó a tres empresas",
+      "link": "https://www.eldiario.es/tecnologia/modelo-ia-google-hackeo-tres-empresas_1_13522731.html",
+      "imagen": "https://static.eldiario.es/clip/77757c1a-eba8-4e27-acaf-f64cfd5239b5_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Dario Amodei, el “evangelista de la seguridad” que lleva 10 años estudiando el apocalipsis de la IA",
       "link": "https://www.eldiario.es/tecnologia/dario-amodei-evangelista-seguridad-lleva-10-anos-estudiando-apocalipsis-ia_1_13520313.html",
       "imagen": "https://static.eldiario.es/clip/89db1480-e447-49e6-8eb7-9cd6b53ea510_facebook-aspect-ratio-1200-675_default_0_x611y219.jpg",
@@ -28,12 +34,6 @@
       "titulo": "OpenAI desvela nuevos incidentes “preocupantes” en los que la IA se saltó las órdenes de sus creadores",
       "link": "https://www.eldiario.es/tecnologia/openai-desvela-nuevos-incidentes-preocupantes-ia-salto-creadores_1_13516500.html",
       "imagen": "https://static.eldiario.es/clip/f0a56140-efb2-472c-88d6-238c2e7da6a3_facebook-aspect-ratio-1200-675_default_0_x842y266.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El 'freno' para la IA rompe Silicon Valley y desata una guerra de bandos entre gigantes tecnológicos",
-      "link": "https://www.eldiario.es/tecnologia/freno-ia-fractura-silicon-valley-abre-cisma-trump-hay-correr-rapido-podamos_1_13513662.html",
-      "imagen": "https://static.eldiario.es/clip/80ff93bf-889d-4ce2-9ed1-ce8c704ba8af_facebook-aspect-ratio-1200-675_default_0_x642y443.jpg",
       "tipo": "imagen"
     }
   ]
