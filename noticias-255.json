@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La guitarra impresionista de María Marín",
+      "link": "https://www.abc.es/sevilla/cultura/guitarra-impresionista-maria-marin-20260919213800-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/19/maria-marin-guitarra-Rn6aT5M2AcEwbVEKzwp0BhP-1200x840@diario_abc.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Hallan muerta en el Guadalquivir a la altura de San Juan de Aznalfarache a la vecina desaparecida de Mairena del Aljarafe",
       "link": "https://www.abc.es/sevilla/provincia/aljarafe/hallan-muerta-guadalquivir-altura-san-juan-aznalfarache-20260919122859-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/19/foto-rio-uno_20260919123240-RUJ1yuXSTwz5oWh0ssv727I-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El arzobispo de Sevilla inaugura con una Eucaristía el 50 aniversario de la entidad ANIDI de Dos Hermanas",
       "link": "https://www.abc.es/sevilla/provincia/dos-hermanas/arzobispo-sevilla-inaugura-eucaristia-aniversario-entidad-anidi-20260919143020-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/19/arzbobipso-anidid-aniver-RVSmnwbjK28ROOIa8w8wVFI-1200x840@diario_abc.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Dime, guitarra, ¿y tú de quién eres?",
-      "link": "https://www.abc.es/sevilla/cultura/dime-guitarra-20260919134205-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/19/86e878a6-4633-4e05-aac3-1f7af448e27f-RW1EqpZacEdDzAWVSeQrkjI-1200x840@diario_abc.JPG",
       "tipo": "imagen"
     }
   ]
