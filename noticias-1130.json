@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "Maquinaria de crueldad",
+      "titulo": "La fuerza de Marruecos",
       "link": "https://elpais.com/opinion/editoriales/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/M672VVLK6VHEPO4JAEAOEJ5V2M.jpg?auth=469cf38fc5c15d26fb7c073071513bd8adba73e7a0e71c4fc5d0e9cd01cfa94e&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TJPHB7YEUFF6FOJCGA5ZT7RR2Q.jpg?auth=24a928ad16e86da42ddd044124218bd69a4c8fc41f81f266bfa213dae2ec6c81&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Una nueva era para la dependencia",
+      "link": "https://elpais.com/opinion/2026-09-17/una-nueva-era-para-la-dependencia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/JIOKRI54VJBDVD6GVMXBO7L4BQ.jpg?auth=be399b0d42c8c87c4005b842a497fd77dcf49dc35ab50886363dbb1fa3f62437&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Voto de confianza para la UE",
+      "link": "https://elpais.com/opinion/2026-09-17/voto-de-confianza-para-la-ue.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/JZ4LR4FX6FG3VIFAGMNE3MHQL4.JPG?auth=249ce3f003dd37de60b3d8d5febb3fe28c674a61d1d7861b4d5ff94eef8d8fbe&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Una joya medieval contra el Brexit",
       "link": "https://elpais.com/opinion/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/KOX7KFFJ5NDURNMDT2REPUJW6M.jpg?auth=ea369d0498c0da17354f2dddbbd87d22f4043e8524aa3f93e4442a3a8f8a0a14&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Seat, un futuro en el aire",
-      "link": "https://elpais.com/opinion/2026-09-05/seat-un-futuro-en-el-aire.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/DWOHFQEEYFFO5GTAQNHYMR36G4.jpg?auth=32838224bb8d62aa62d57afa1e84cd7ecdc81a62e663373ca9076e314373c791&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Meloni, estabilidad e inacción",
-      "link": "https://elpais.com/opinion/2026-09-05/meloni-estabilidad-e-inaccion.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/FB533DUBRRDJTJWII6JZBB7WGY.jpg?auth=27cc32e5951041e645e6843a1c62ffea8b4e9d5329b6aedd0ad93bf5e530ec55&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

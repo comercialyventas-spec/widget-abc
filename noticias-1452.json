@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Google reconoce por primera vez que su IA Gemini ha hackeado a tres empresas",
+      "link": "https://www.eldiario.es/tecnologia/modelo-ia-google-hackeo-tres-empresas_1_13522731.html",
+      "imagen": "https://static.eldiario.es/clip/77757c1a-eba8-4e27-acaf-f64cfd5239b5_16-9-discover-aspect-ratio_default_1151585.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Daron Acemoglu, Nobel de Economía: “El debate sobre la amenaza existencial de la IA esconde riesgos más inmediatos”",
+      "link": "https://www.eldiario.es/tecnologia/daron-acemoglu-nobel-economia-debate-amenaza-existencial-ia-esconde-riesgos-inmediatos_1_13517771.html",
+      "imagen": "https://static.eldiario.es/clip/6e27b06c-55e2-4dcb-a783-faed364c336e_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Se puede 'frenar' la IA? Por qué el resto del mundo desconfía del plan de Silicon Valley",
       "link": "https://www.eldiario.es/tecnologia/frenar-ia-resto-mundo-desconfia-plan-silicon-valley_1_13507439.html",
       "imagen": "https://static.eldiario.es/clip/795898f6-1fb2-4ab0-922b-59435f697ec6_16-9-discover-aspect-ratio_default_0_x1027y783.jpg",
@@ -22,18 +34,6 @@
       "titulo": "OpenAI planea frenar el desarrollo de IA de vanguardia en pleno debate sobre sus riesgos",
       "link": "https://www.eldiario.es/tecnologia/openai-planea-frenar-desarrollo-ia-vanguardia-pleno-debate-riesgos_1_13502156.html",
       "imagen": "https://static.eldiario.es/clip/68850f7d-779f-447b-8cdc-8f46717bc5d9_16-9-discover-aspect-ratio_default_0_x1485y659.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Puede la IA perder el control y amenazar a la humanidad? Esto es lo que dicen algunos de los mayores expertos del mundo",
-      "link": "https://www.eldiario.es/tecnologia/ia-perder-control-amenazar-humanidad-dicen-mayores-expertos-mundo_1_13499280.html",
-      "imagen": "https://static.eldiario.es/clip/8abaec39-d1fe-4d40-8ec3-744d71c7c929_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un ingeniero de Anthropic dimite y denuncia que las empresas de IA ocultan su riesgo real: “Están apostando nuestras vidas”",
-      "link": "https://www.eldiario.es/tecnologia/ex-ingeniero-anthropic-denuncia-empresas-ia-ocultan-riesgo-real-apostando-vidas_1_13496785.html",
-      "imagen": "https://static.eldiario.es/clip/848db49c-aebf-4741-a018-71288716ae5b_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
