@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Concentración en paseo de la Chopera. Afectadas 2 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260922-C-Paseo-Chopera.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Evento: Palacio de los Deportes. Afectadas 4 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260922-PD-Evento.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Obras: Carretera M-500. Afectadas 4 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260918-O-Pasarela-M-500.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -21,18 +33,6 @@
     {
       "titulo": "Supresión de Parada: Francisco Umbral. Afectada línea 171 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260920-SP-5888-Francisco-Umbral.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Finalización de obras en Ribera del Sena y Francisco Umbral. Afectada línea 171 de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260921-FO-Circuito-Formula-1.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Evento deportivo en Centro, Chamberí y Moncloa. Afectadas 38 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260920-Carrera-Madrid-Corre-Por-Madrid.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }
