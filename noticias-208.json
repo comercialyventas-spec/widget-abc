@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Cancelaciones en el Aeropuerto de Riad tras un posible ataque",
+      "link": "https://www.dw.com/es/cancelaciones-en-el-aeropuerto-de-riad-tras-un-posible-ataque/a-79338781",
+      "imagen": "https://static.dw.com/image/79338200_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Múnich abre la 191.ª edición del Oktoberfest",
       "link": "https://www.dw.com/es/múnich-abre-la-191-ª-edición-del-oktoberfest/a-79338083",
       "imagen": "https://static.dw.com/image/79337632_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Ataque armado en comisaría de Pakistán deja 31 muertos",
       "link": "https://www.dw.com/es/ataque-armado-en-comisaría-de-pakistán-deja-31-muertos/a-79335542",
       "imagen": "https://static.dw.com/image/78502943_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Trump y Xi cenarán con líderes de IA en Washington",
-      "link": "https://www.dw.com/es/trump-y-xi-cenarán-con-líderes-de-ia-en-washington/a-79335264",
-      "imagen": "https://static.dw.com/image/74447045_6.jpg",
       "tipo": "imagen"
     }
   ]
