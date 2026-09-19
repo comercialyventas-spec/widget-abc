@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Se pone el Barcelona por delante: doblete de Raphinha",
+      "titulo": "¡Final en el Sánchez Pizjuán! ¡Otra victoria del Barça con tres goles de Raphinha!",
       "link": "https://www.abc.es/deportes/futbol/sevilla-barcelona-directo-resultado-ganador-goles-partido-20260919203153-di.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/19/liga-j7-sevilla-barsa_20260914120827-RD1sUNBrnBum0lzQuj2KVNL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "España toma ventaja 2-0 ante Chile con las victorias de Mérida y Jódar",
+      "link": "https://www.abc.es/deportes/tenis/merida-remonta-ante-tabilo-pone-espana-delante-20260919210535-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/19/merida-davis-RI1SQGSDT2CQWBwCxqipeAM-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Un triunfo salvaje: el Real Madrid, campeón del mundo juvenil",
       "link": "https://www.abc.es/deportes/real-madrid/triunfo-salvaje-real-madrid-campeon-mundo-juvenil-20260919150637-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/19/HSlRT2dXAAEWiTE-RxQfIerNvMj45ZRFh0N0GeL-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Matan a puñaladas a una mujer en su habitación y tratan de incendiar la vivienda en Leganés",
-      "link": "https://www.abc.es/espana/madrid/matan-punaladas-mujer-habitacion-tratan-incendiar-vivienda-20260919204654-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/19/vivienda-leganes12-RegmiOCtAkQ2m6rfvnxY6OJ-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

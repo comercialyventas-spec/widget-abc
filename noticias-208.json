@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Bachelet se retira de la carrera para liderar Naciones Unidas",
+      "link": "https://www.dw.com/es/bachelet-se-retira-de-la-carrera-para-liderar-naciones-unidas/a-79340073",
+      "imagen": "https://static.dw.com/image/78049258_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Hutíes reivindican ataques contra \"objetivos sensibles\" sauditas",
       "link": "https://www.dw.com/es/hutíes-reivindican-ataques-contra-objetivos-sensibles-sauditas/a-79339996",
       "imagen": "https://static.dw.com/image/79338200_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Once muertos en una explosión en puesto militar en Siria",
       "link": "https://www.dw.com/es/once-muertos-en-una-explosión-en-puesto-militar-en-siria/a-79339028",
       "imagen": "https://static.dw.com/image/76210452_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cancelaciones en el Aeropuerto de Riad tras un posible ataque",
-      "link": "https://www.dw.com/es/cancelaciones-en-el-aeropuerto-de-riad-tras-un-posible-ataque/a-79338781",
-      "imagen": "https://static.dw.com/image/79338200_6.jpg",
       "tipo": "imagen"
     }
   ]
