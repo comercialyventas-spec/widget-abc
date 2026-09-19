@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Honduras declara \"terroristas\" a tres grupos criminales",
+      "link": "https://www.dw.com/es/honduras-declara-terroristas-a-tres-grupos-criminales/a-79340504",
+      "imagen": "https://static.dw.com/image/65959295_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Bachelet se retira de la carrera para liderar Naciones Unidas",
       "link": "https://www.dw.com/es/bachelet-se-retira-de-la-carrera-para-liderar-naciones-unidas/a-79340073",
       "imagen": "https://static.dw.com/image/78049258_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Dinamarca: acuerdo con EE.UU. sobre Groenlandia beneficia a la OTAN",
       "link": "https://www.dw.com/es/dinamarca-acuerdo-con-ee-uu-sobre-groenlandia-beneficia-a-la-otan/a-79339680",
       "imagen": "https://static.dw.com/image/79272633_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Once muertos en una explosión en puesto militar en Siria",
-      "link": "https://www.dw.com/es/once-muertos-en-una-explosión-en-puesto-militar-en-siria/a-79339028",
-      "imagen": "https://static.dw.com/image/76210452_6.jpg",
       "tipo": "imagen"
     }
   ]
