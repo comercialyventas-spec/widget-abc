@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Agresión puerto de Ceuta",
+      "link": "https://www.eldiario.es/desalambre/cargas-policiales-puerto-ceuta-agresion-decenas-personas-miembros-ong_1_13524691.html",
+      "imagen": "https://static.eldiario.es/clip/b8658daa-5d8b-4f9c-85d6-20b1ef6cf05b_facebook-aspect-ratio-1200-675_default_0_x1165y279.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Elecciones Alemania",
       "link": "https://www.eldiario.es/internacional/extrema-derecha-gana-nuevas-elecciones-regionales-alemania-partido-merz-obtiene-peor-resultado-historia-sondeos_1_13524492.html",
       "imagen": "https://static.eldiario.es/clip/ebfc20e9-3c3a-4f23-bbb3-95f6e64c0bd0_facebook-aspect-ratio-1200-675_default_0_x752y376.jpg",
@@ -15,8 +21,8 @@
     {
       "titulo": "Listas de espera",
       "link": "https://www.eldiario.es/sociedad/listas-espera-operacion-no-llega-no-pueda-baston-tendre-silla-ruedas_1_13432381.html",
-      "imagen": "https://static.eldiario.es/clip/95243fba-50aa-44e4-a068-96ed60d69ec5_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Juicio Greenpeace",
@@ -27,12 +33,6 @@
     {
       "titulo": "Agresión mujer trans",
       "link": "https://www.eldiario.es/asturias/detenidos-cinco-hombres-grupo-ultra-asturias-agredir-amenazar-muerte-mujer-trans_1_13523839.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Oposiciones Canal Sur",
-      "link": "https://www.eldiario.es/andalucia/filtran-temario-primeras-oposiciones-canal-sur-20-anos-publicacion-oficial_1_13521622.html",
       "imagen": "",
       "tipo": ""
     }
