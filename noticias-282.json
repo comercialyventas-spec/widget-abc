@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "La falta de mano de obra y el envejecimiento paralizan la construcción",
+      "link": "https://www.abc.es/economia/falta-mano-obra-envejecimiento-paralizan-construccion-20260918011547-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/18/1517449825-RoPqOfZRt3fnEJudnR4hJBI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Está agotada la excepción ibérica?",
+      "link": "https://www.abc.es/economia/agotada-excepcion-iberica-20260920011535-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/20/1517441497-RM9bTfQqw3qRZpOUdk0FLuI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Apocalipsis o simple ajuste de expectativas?",
+      "link": "https://www.abc.es/economia/apocalipsis-simple-ajuste-expectativas-20260921011527-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/21/ia-chatgpt-RxR0ZvAmLn1xn8JMmawyjNM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cristina Cervantes, analista financiera: «Ocho de cada diez personas llegan con dificultades a final de mes. Somos una sociedad con poco margen para ahorrar e invertir»",
+      "link": "https://www.abc.es/economia/cristina-cervantes-analista-financiera-ocho-diez-personas-20260921050000-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2026/09/17/cristina-cervantes-bravo-RJjydKlDusRwxzFfBnYgfwN-1200x840@diario_abc.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El marcaje normativo que pone cerco al uso oculto de la IA en las empresas",
       "link": "https://www.abc.es/economia/marcaje-normativo-pone-cerco-uso-oculto-ia-20260921000600-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/21/shadow-ia-RtyaRYBsLr0ztYEXLy7BoxK-1200x840@diario_abc.jpg",
@@ -10,30 +34,6 @@
       "titulo": "La automatización llega al control aéreo, pero con los pies en la tierra",
       "link": "https://www.abc.es/economia/automatizacion-llega-control-aereo-pies-tierra-20260921000403-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/21/control%20aereo-RxxtWROOJDgkLlFzx6L1XsK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El ingrediente colaborativo que enriquece la receta de la I+D",
-      "link": "https://www.abc.es/economia/ingrediente-colaborativo-enriquece-receta-20260921000400-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/21/foodtech--RLup6WMZFaBw44DKUg1au3K-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las trampas tras la regulación de la IA",
-      "link": "https://www.abc.es/economia/trampas-tras-regulacion-ia-20260921000200-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/21/inteligencia%20artificial-RAEzVnsvuEm1GKwpruDSS6O-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "De las 10.000 hamburguesas de EE.UU. a las 4.300 de España: el 'índice Big Mac' revela tu bajo poder adquisitivo",
-      "link": "https://www.abc.es/economia/cuentas-corrientes/titu-indice-big-mac-20260918181920-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/19/hamburguesa-redes--758x531.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cómo la industria láctea hundió la ganadería: «Pactaban los precios; y si te querías ir, nadie te recogía la leche»",
-      "link": "https://www.abc.es/economia/industria-lactea-hundio-ganaderia-pactaban-precios-querias-20260917012111-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/17/20260731_MM_FERNANDO%20SAIZ%20(3%20de%2024)-U20609936686gm-RKdvIS6zGmSTEqvElG4qOvM-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

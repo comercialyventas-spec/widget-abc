@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El partido de Putin gana elecciones legislativas en Rusia",
+      "link": "https://www.dw.com/es/el-partido-de-putin-gana-elecciones-legislativas-en-rusia/a-79348957",
+      "imagen": "https://static.dw.com/image/79343137_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Elecciones en Alemania: se confirma avance electoral de AfD",
       "link": "https://www.dw.com/es/elecciones-en-alemania-se-confirma-avance-electoral-de-afd/live-79341327",
       "imagen": "https://static.dw.com/image/79347248_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Alternativa para Alemania: muchos votos, poco poder",
       "link": "https://www.dw.com/es/alternativa-para-alemania-muchos-votos-poco-poder/a-79348452",
       "imagen": "https://static.dw.com/image/79346560_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Se convertirá Canadá en miembro asociado de la Unión Europea?",
-      "link": "https://www.dw.com/es/¿se-convertirá-canadá-en-miembro-asociado-de-la-unión-europea/a-79347653",
-      "imagen": "https://static.dw.com/image/79308690_6.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Sánchez, entre Trump y Putin",
+      "link": "https://www.abc.es/espana/cataluna/sergi-doria-sanchez-trump-putin-20260921011625-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/21/sanchez00-RIvK7p60k5Y2aSb81FEL6qJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Barcelona se sienta a la mesa por La Mercè",
       "link": "https://www.abc.es/espana/cataluna/barcelona-sienta-mesa-merce-20260920200423-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/20/fismulermerce-RsU0UgavLxjfKPMvwfXRU6N-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Muere por suicidio un preso de Quatre Camins, la segunda muerte en la cárcel en apenas tres días",
       "link": "https://www.abc.es/espana/cataluna/muere-suicidio-preso-quatre-camins-segunda-muerte-20260920174605-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/20/quatre-R9CTvq9nW1uyThekYlGm16O-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Feijóo avanza que España estará «cerrada a cal y canto» para quien venga a infringir la ley si gobierna",
-      "link": "https://www.abc.es/espana/cataluna/feijoo-confia-empuje-pp-cataluna-propiciar-limpieza-20260920131213-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/20/fe-RZhgaPjKqA6QamZoN8CM6EI-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
