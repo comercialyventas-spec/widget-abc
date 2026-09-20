@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Galicia gana el primer evento de la temporada de la Liga Iberdrola",
+      "link": "https://www.abc.es/deportes/vela/vela-crucero/galicia-gana-primer-evento-temporada-liga-iberdrola-20260920204647-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/20/Ence%20Galicia-RcJvuYeAUBlRsRuqCgXT5jO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Final por todo lo alto en la Ibiza JoySail",
       "link": "https://www.abc.es/deportes/vela/vela-crucero/final-alto-ibiza-joysail-20260920175725-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/20/Ibiza%20JS-RP14LklF9BsMAfdbkaXLaAM-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La Liga de Vela Femenina bate su récord de participación en Vilagarcía",
       "link": "https://www.abc.es/deportes/vela/vela-crucero/liga-vela-femenina-bate-record-participacion-vilagarcia-20260917161217-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/17/vela%20femenina%20galicia-Rsjb1LysL1J2QVOzIZAvErM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Formentera marca el camino de la Ibiza JoySail",
-      "link": "https://www.abc.es/deportes/vela/vela-crucero/formentera-marca-camino-ibiza-joysail-20260918190537-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/18/Paso%20Formenter-R1srFYPH3x50X1e0UPk9FKN-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
