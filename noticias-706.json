@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El absentismo, con bisturí y no con motosierra",
+      "link": "https://www.eldiario.es/economia/absentismo-bisturi-no-motosierra_129_13512351.html",
+      "imagen": "https://static.eldiario.es/clip/d26cf0ae-6eb7-4a55-96fb-b692d0d54735_avatar-200-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El presidente de Bidafarma: “El modelo cooperativo garantiza que los medicamentos lleguen a todos los rincones de España”",
       "link": "https://www.eldiario.es/economia/presidente-bidafarma-modelo-cooperativo-garantiza-medicamentos-lleguen-rincones-espana_128_13518957.html",
       "imagen": "https://static.eldiario.es/clip/7481742a-f3fd-4e93-bc63-342f1a17c70d_16-9-discover-aspect-ratio_default_0_x571y306.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Trump tiene el mapa de la jungla, la UE, un acta",
       "link": "https://www.eldiario.es/opinion/zona-critica/trump-mapa-jungla-ue-acta_129_13523307.html",
       "imagen": "https://static.eldiario.es/clip/6063e57b-6d22-44f8-a9c1-65babd0b6b94_avatar-200-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Buenas familias",
-      "link": "https://www.eldiario.es/opinion/zona-critica/buenas-familias_129_13523390.html",
-      "imagen": "https://static.eldiario.es/clip/e008cbdc-e5dc-4115-a4ee-9bec26ce17a8_facebook-aspect-ratio-1200-675_default_0.jpg",
       "tipo": "imagen"
     }
   ]

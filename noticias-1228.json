@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El Niño amenaza a California con un invierno extremo tras un verano de temperaturas récord",
+      "link": "https://efe.com/medio-ambiente/2026-09-20/fenomeno-el-nino-california-invierno/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/el-nino-amenaza-california-con-invierno-extremo-tras-verano-temperaturas-record.webp?fit=900%2C599&ssl=1",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La sequía en Guatemala destruye cultivos y empuja a los campesinos a la supervivencia",
       "link": "https://efe.com/medio-ambiente/2026-09-18/guatemala-sequia-el-nino/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/OBJ_20260915T002257S0032I_1_1_1_43_3_1.webp?fit=900%2C600&ssl=1",
@@ -28,12 +34,6 @@
       "titulo": "La lluvia activa aviso naranja en 4 comunidades del este peninsular, hasta 40 litros/hora",
       "link": "https://efe.com/medio-ambiente/2026-09-16/lluvia-activa-aviso-naranja-4-comunidades-este-peninsular/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/lluvia.webp?fit=900%2C601&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El viento condiciona extinción del fuego de Tuéjar (Valencia), con 880 hectáreas quemadas",
-      "link": "https://efe.com/comunidad-valenciana/2026-09-16/labores-extincion-incendio-tuejar/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/incendio-valencia.webp?fit=900%2C601&ssl=1",
       "tipo": "imagen"
     }
   ]

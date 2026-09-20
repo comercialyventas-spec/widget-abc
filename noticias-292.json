@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Tres horas y tres sobreros",
+      "link": "https://www.abc.es/cultura/toros/tres-horas-tres-sobreros-20260920222820-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/20/5E5EBF05-40BF-4670-AC4C-B999B4B2652F-Ru5W6tTddsuXUEnnUrrJ18O-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "David de Miranda le mete miedo al miedo en Écija",
       "link": "https://www.abc.es/cultura/toros/sevilla/david-miranda-mete-miedo-miedo-ecija-20260920213900-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/20/david-miranda-ecija-R0RKQDTcJ2SRlBzGFB6QEvL-1200x840@diario_abc.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Los perseguidores",
       "link": "https://www.abc.es/cultura/aurelio-major-perseguidores-20260920194908-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/20/harwizc-retiro-tsieira-Rot0Aar9nyrj1AHEQpTuO4K-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las taquillas de la Maestranza para la Feria de San Miguel y el festival taurino abren este lunes",
-      "link": "https://www.abc.es/cultura/toros/sevilla/taquillas-maestranza-feria-san-miguel-festival-taurino-20260920192258-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/20/colas-plaza-toros-R18IjDSydI8mc5kmRvwDclN-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
