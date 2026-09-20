@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un accidente de tráfico deja cuatro heridos en la AP-4 a la altura de Las Cabezas de San Juan",
+      "link": "https://www.abc.es/sevilla/provincia/accidente-trafico-deja-cuatro-heridos-ap4-altura-20260920181917-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/20/atascos-autopista-cadiz-RwnOknTxS7nogycj1NJ5BjJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un incendio en un ático de Écija deja siete personas atendidas por los sanitarios",
       "link": "https://www.abc.es/sevilla/provincia/varias-personas-atentidas-sanitarios-incendiarse-atico-ecija-20260920125726-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/20/personal-assistencia-112-RCffZ9qpfT8o9ZjNS7GC7WJ-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "«La gente dice que le duele un codo y no viene a trabajar. Antes querían trabajar más horas para ganar más dinero»",
       "link": "https://www.abc.es/sevilla/ciudad/gente-dice-duele-codo-viene-trabajar-querian-20260920065508-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/20/1517355646-RwoU0I9Xwm860qEWjXHNtaK-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Más de un centenar alumnos de la Universidad de Sevilla inician trabajos de investigación en la sinagoga de Utrera",
-      "link": "https://www.abc.es/sevilla/provincia/utrera/centenar-alumnos-universidad-sevilla-inician-trabajos-investigacion-20260920124728-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/20/sinagoga-utrera-foto-RBnq2bsNe8A3bWZHQrlNNxO-1200x840@diario_abc.jpeg",
       "tipo": "imagen"
     }
   ]

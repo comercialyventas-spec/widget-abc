@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Elecciones Alemania",
+      "link": "https://www.eldiario.es/internacional/extrema-derecha-gana-nuevas-elecciones-regionales-alemania-partido-merz-obtiene-peor-resultado-historia-sondeos_1_13524492.html",
+      "imagen": "https://static.eldiario.es/clip/ebfc20e9-3c3a-4f23-bbb3-95f6e64c0bd0_facebook-aspect-ratio-1200-675_default_0_x752y376.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Incendio Pamplona",
       "link": "https://www.eldiario.es/navarra/muerto-18-heridos-incendio-residencia-pamplona_1_13523774.html",
       "imagen": "https://static.eldiario.es/clip/d41accde-c100-4750-a648-60886cd19c9d_facebook-aspect-ratio-1200-675_default_0.jpg",
@@ -15,8 +21,8 @@
     {
       "titulo": "Juicio Greenpeace",
       "link": "https://www.eldiario.es/sociedad/activismo-climatico-afronta-juicio-historico-sirva-futuro-no-sufran-calvario_1_13519820.html",
-      "imagen": "https://static.eldiario.es/clip/45e4fbed-1ccb-4978-aa22-eb2f6673efcf_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Agresión mujer trans",
@@ -27,12 +33,6 @@
     {
       "titulo": "Oposiciones Canal Sur",
       "link": "https://www.eldiario.es/andalucia/filtran-temario-primeras-oposiciones-canal-sur-20-anos-publicacion-oficial_1_13521622.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Documental Lorca",
-      "link": "https://www.eldiario.es/vertele/noticias/documental-rtve-asesinato-lorca-enfada-asociacion-memoria-historica-entrevistados-revisionismo-impone_1_13523791.html",
       "imagen": "",
       "tipo": ""
     }
