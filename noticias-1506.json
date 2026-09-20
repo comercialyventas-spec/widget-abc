@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El bulo del culo de Ayuso",
+      "link": "https://www.eldiario.es/blog/politica-para-supervivientes/bulo-culo-ayuso_132_13521504.html",
+      "imagen": "https://static.eldiario.es/clip/26b7538d-1d64-4bf3-a158-3fd337b6f361_16-9-discover-aspect-ratio_default_0_x2450y1364.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Tribunal Supremo sale al rescate de Feijóo",
       "link": "https://www.eldiario.es/blog/politica-para-supervivientes/tribunal-supremo-sale-rescate-feijoo_132_13504021.html",
       "imagen": "https://static.eldiario.es/clip/d745ac0d-47d6-4a38-ab9e-ed21fc83a9de_16-9-discover-aspect-ratio_default_0_x1125y953.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El fuego que acompañará nuestras vidas",
       "link": "https://www.eldiario.es/blog/politica-para-supervivientes/fuego-acompanara-vidas_132_13405855.html",
       "imagen": "https://static.eldiario.es/clip/71ac9391-6313-40df-a96e-3cef802d8ff0_16-9-discover-aspect-ratio_default_1148121.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Audiencia de Madrid completa el trabajo de Peinado contra Begoña Gómez",
-      "link": "https://www.eldiario.es/blog/politica-para-supervivientes/audiencia-madrid-completa-trabajo-peinado-begona-gomez_132_13388699.html",
-      "imagen": "https://static.eldiario.es/clip/c4cef0b5-b3d7-4783-b46a-51eda03705ef_16-9-discover-aspect-ratio_default_1147693.jpg",
       "tipo": "imagen"
     }
   ]

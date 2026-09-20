@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Fallece una persona y 18 resultan heridas en el incendio de una residencia de Pamplona",
+      "link": "https://www.publico.es/sociedad/sucesos/fallece-persona-18-resultan-heridas-incendio-residencia-pamplona.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/20/6aaf8dda1ec9b.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Receta de calabaza asada sobre cama de yogur y frutos del bosque",
       "link": "https://www.publico.es/culturas/recetas/receta-calabaza-asada-sobre-cama-yogur-frutos-bosque.html",
       "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/18/6aad1977540c3.r_d.499-308-2700.jpeg",
@@ -13,27 +19,21 @@
       "tipo": "imagen"
     },
     {
+      "titulo": "A Meta no le gusta Virginia Woolf, y no me extraña",
+      "link": "https://www.publico.es/opinion/columnas/meta-le-gusta-virginia-woolf-me-extrana.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/19/6aaec900937c3.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cuatro pistas para desencriptar la ola de pánico ante la inteligencia artificial",
+      "link": "https://www.publico.es/politica/video-cuatro-pistas-desencriptar-ola-panico-inteligencia-artificial.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/18/6aad1064e8e08.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El tren Madrid-Vigo que mató a la Movida: \"Aquella noche una revolución cultural se convirtió en una bacanal\"",
       "link": "https://www.publico.es/culturas/musica/tren-madrid-vigo-mato-movida-aquella-noche-revolucion-cultural-convirtio-bacanal.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/18/6aad70c518204.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Marruecos vota para que (casi) nada cambie: cómo funciona el sistema electoral en el que siempre gana Mohamed VI",
-      "link": "https://www.publico.es/internacional/africa/marruecos-vota-proxima-semana-casi-cambie-funciona-sistema-electoral-siempre-gana-mohamed-vi.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/19/6aaebd339923b.webp",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Togas contra el Gobierno: diez ejemplos de ataques sin consecuencias que retratan el corporativismo judicial",
-      "link": "https://www.publico.es/politica/tribunales/togas-gobierno-diez-ejemplos-ataques-consecuencias-retratan-corporativismo-judicial.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/18/6aad147765a47.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cuando la cultura de la cancelación sí es necesaria",
-      "link": "https://www.publico.es/opinion/columnas/cultura-cancelacion-necesaria.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/15/6aa92c371924b.png",
       "tipo": "imagen"
     }
   ]

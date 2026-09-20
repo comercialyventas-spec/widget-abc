@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Una subasta vacía que obligó al Gobierno de Ayuso a dejar la crisis del ático al descubierto",
+      "link": "https://elpais.com/espana/madrid/2026-09-20/una-subasta-vacia-que-obligo-al-gobierno-de-ayuso-a-dejar-la-crisis-del-atico-al-descubierto.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "La reunión de crisis en el Ramón y Cajal desmonta la acusación de Ayuso: “Acordamos que las prioridades preferentes pasarían a normales”",
       "link": "https://elpais.com/espana/madrid/2026-09-19/la-reunion-de-crisis-en-el-ramon-y-cajal-desmonta-la-acusacion-de-ayuso-acordamos-que-las-prioridades-preferentes-pasarian-a-normales.html",
       "imagen": "",
@@ -9,14 +15,14 @@
     {
       "titulo": "400 kilos de cocaína, agentes encubiertos y un juicio que acaba con los acusados siendo esposados ante el tribunal",
       "link": "https://elpais.com/espana/madrid/2026-09-19/400-kilos-de-cocaina-agentes-encubiertos-y-un-juicio-que-acaba-con-los-acusados-siendo-esposados-ante-el-tribunal.html",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://imagenes.elpais.com/resizer/v2/V36JTJBGI5EWNCX5XNIXAJ7U3A.jpg?auth=a08444724b4b33820b9d18daad3455857dc1b097ee61a3ecd995fcadee1426bc&width=414&height=233&smart=true",
+      "tipo": "imagen"
     },
     {
       "titulo": "‘El Niño’, un conocido alunicero de Madrid, es abandonado en el Hospital de Móstoles con cinco disparos",
       "link": "https://elpais.com/espana/madrid/2026-09-19/el-nino-un-conocido-alunicero-de-madrid-es-abandonado-en-el-hospital-de-mostoles-con-cinco-disparos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/FAMB4GHZVJAOZOEX3RHVYVMYIE.jpg?auth=c729f8bd6054e150998e2e5a08aecd1cb81e26da82bba9580daa1fd41d525301&width=414&height=233&smart=true",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Los sindicatos de Madrid avivan la huelga indefinida de los docentes del 14 de octubre",
@@ -27,13 +33,7 @@
     {
       "titulo": "Ayuso se desentiende del expediente del ático: “No quiero saber nada de esa historia”",
       "link": "https://elpais.com/espana/madrid/2026-09-18/ayuso-se-desentiende-del-expediente-del-atico-no-quiero-saber-nada-de-esa-historia.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "La criminalidad crece un 2,6% en la Comunidad de Madrid por el aumento del tráfico de drogas y delitos sexuales",
-      "link": "https://elpais.com/espana/madrid/2026-09-18/la-criminalidad-crece-un-26-en-la-comunidad-de-madrid-por-el-aumento-del-trafico-de-drogas-y-delitos-sexuales.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/IWBDLPSMD5DYTENOROBCM4ESQQ.jpg?auth=1b5ea4b8dfddaeb6d490753faff924a477734d768e927023b685cc816b933e39&width=414&height=311&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/OJ3RCRADZZHLHNKSVL437MHPPU.jpg?auth=0a32aba48731aa2888cdf6cb74b0011c6570a66affb360a5e2212e0b7f6718d6&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]
