@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Estancados",
+      "link": "https://elpais.com/noticias/democracia/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RNTJD5KC2ZCPRFID4WBT6TOWPI.jpg?auth=7413800b47432dbecab77a5a738df0b2f6c32926a839d333ea99592a625f9006&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Prudente ejercicio de contención",
+      "link": "https://elpais.com/noticias/defensor-lector/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TWMU5AFFLVA5HDMQZ2Z6B5NIMI.jpg?auth=1078f778d56381bd207bb36aad38011381a9135a0a227c8ca92e28df51a8105e&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Fiebre, arrebato y némesis",
+      "link": "https://elpais.com/opinion/2026-09-20/fiebre-arrebato-y-nemesis.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KIZT3DV2XFASRNITH2HKLM4GBA.jpg?auth=dcca5bfdf5e8007861f6cdaa43a728c8fda62e333ee3b311e9fd3eed8ae8b30a&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Háganos soñar",
       "link": "https://elpais.com/opinion/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/OZTTXVBO3RE6FH7YEASE67FG4A.jpg?auth=256cda817b408c98ef980ee7affd37c3f047e1a985cc34c100c23cf0c8bfafe8&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/OZTTXVBO3RE6FH7YEASE67FG4A.jpg?auth=256cda817b408c98ef980ee7affd37c3f047e1a985cc34c100c23cf0c8bfafe8&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "Los de entonces",
       "link": "https://elpais.com/autor/antonio-munoz-molina/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/I2HAKLTJ5VAEBNUI735LRWCX7Q.jpg?auth=e6e7226dd825171ee9645288ac45c8439145f106d42c6ed96af4f255ad87e685&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "En busca de sentido",
-      "link": "https://elpais.com/noticias/filosofia/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/WHUB2WDNVNADJKXLNEDC34A4XE.jpg?auth=762307ae1435fc5e8d91fe28ec3d58f5cbecf90e68981b9764d971f4150a4665&width=414&height=311&focal=4298%2C2485",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Quién dio la orden de bloquear y censurar a los medios venezolanos?",
-      "link": "https://elpais.com/noticias/venezuela/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ZG4OXI7M2NDS7KC7PDTRP23O7U.jpeg?auth=68eb8cea6d984b6450ed1874ec5f38016d11980ffaded34b8c35ceeffa3fe13e&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El cambio climático, con sus olas de calor, favorece los megaincendios",
-      "link": "https://elpais.com/noticias/incendios/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/MTTEL7G7NJLDDGZ535XTFSAILY.jpg?auth=7fc128b21bd33ecc03a7626597c5c51a9ec61d4c0205d390f85a5e2579360548&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]
