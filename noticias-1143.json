@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Irán apuntala el control de dos estrechos clave ante la inacción de Estados Unidos",
+      "link": "https://elpais.com/noticias/ofensiva-contra-iran/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/5QPB3CXBHFIKJBG4CS4HXCAVW4.jpg?auth=94dfee493a65b3f12b5aec71ce7bfff018f377869e847056daf2015bb8d51ef5&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El otro miedo de la IA: ¿y si estalla una burbuja?",
+      "link": "https://elpais.com/noticias/inteligencia-artificial/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/WSNJJAZNK5KEDAF7OLDU5PFUP4.jpg?auth=f191525f663a7640954fc856804b437b3ba419cf4da8b1f84d1031c777df66d1&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Bruselas quiere menos papeles y más control para saltar a la Bolsa",
+      "link": "https://elpais.com/noticias/bolsa/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/PVALQJKKIFDDHPQNNPFBHKDK4I.jpg?auth=cead3739e436b0ba70455733c4e9bb504c2aad2838c4525e5254f75b0b3d41f1&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Warren Buffett anuncia el adiós definitivo y cede la presidencia de Berkshire Hathaway",
       "link": "https://elpais.com/noticias/inversion/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/YWIJHLO7A5FPXELOVHY66QSNZ4.jpg?auth=de412c74db050229568643039570d6bb4437494ab310d206cc296a276a67f676&width=414&height=233&focal=2429%2C230",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/YWIJHLO7A5FPXELOVHY66QSNZ4.jpg?auth=de412c74db050229568643039570d6bb4437494ab310d206cc296a276a67f676&width=414&height=311&focal=2429%2C230",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "Así podría repercutir en España el plan de Trump para bajar el precio de los medicamentos en EE UU",
       "link": "https://elpais.com/expres/2026-09-14/asi-podria-repercutir-en-espana-el-plan-de-trump-para-bajar-el-precio-de-los-medicamentos-en-ee-uu.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/W6C7TSD7OFEXDBNMWMWR2AEBYE.jpg?auth=f2ccea1680233fd98f6f542b88206a5dc10ab25175cb06116488489080acabcb&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El cheque electoral de Trump enciende las alarmas con el mercado de deuda al rojo vivo",
-      "link": "https://elpais.com/noticias/estados-unidos/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/6RAWWXONZNIXFNGYEJTSNHGP3U.jpg?auth=df23a1014c6991f01be775895615a1ecf17a220f9602bf05965c27e6ce52d089&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El impacto de un precio del dinero al 2,5%: mazazo a las hipotecas y premio al ahorro",
-      "link": "https://elpais.com/economia/2026-09-10/el-impacto-de-la-subida-de-tipos-mazazo-a-las-hipotecas-y-premio-al-ahorro.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/CLRM5JM22JJMPOLYWIZED6I7V4.jpg?auth=5661768dd366bbc311f42e6d615eb05d184a01d16ca1607063f4f3fd212d491f&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Coffee Break con José Ramón Iturriaga",
-      "link": "https://elpais.com/suscripciones/elpaismas/2026-09-10/coffee-break-con-jose-ramon-iturriaga.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/YPAGJFJ2MJH6VPASLOFHSHJUVE.JPG?auth=5a85e88bbaf01c50ecbd1d19f7703701cf0e776b2f2d9a3c9a22e9eec6b924d7&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]
