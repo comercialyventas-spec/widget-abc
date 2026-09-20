@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Evenepoel, imparable en Montreal, suma su cuarto título mundial",
+      "link": "https://www.lavanguardia.com/deportes/ciclismo/20260920/11639792/evenepoel-campeon-contrarreloj-mundial-ciclismo-cuarto-titulo.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/20/6ab0346bac4a4.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El mago Laprovittola regala la Supercopa a la Penya y endosa el primer revés al Barça de Sekulic",
+      "link": "https://www.lavanguardia.com/deportes/baloncesto/20260920/11639790/mago-laprovittola-regala-supercopa-penya-endosa-primer-reves-barca-sekulic.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/20/6ab0339d45713.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Valencia – Real Sociedad el partido de fútbol de Jornada 7 de LaLiga EA Sports, en directo",
       "link": "https://www.lavanguardia.com/deportes/futbol/20260920/24549/valencia-real-sociedad-laliga-primera-division-ca-en-directo-ctx.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/09/13/65016ce5577c1.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Olympique de Marsella – PSG el partido de fútbol de Jornada 5 de la Ligue 1, en directo",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260920/4486/olympique-de-marsella-psg-ligue-1-ca-en-directo-ctx.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/01/26/65b39b45e683a.jpeg",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "Mourinho para llorar",
       "link": "https://www.lavanguardia.com/deportes/real-madrid/20260920/11639768/mourinho-llorar.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/20/6ab01cd9c3ef1.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mourinho se quita la careta: “No quiero pensar que esto estaba preparado, quiero pensar que el comité se equivoca”",
-      "link": "https://www.lavanguardia.com/deportes/real-madrid/20260920/11639756/mourinho-quejas-arbitro-real-madrid-atletico-de-madrid-comite-var.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/20/6ab013361f596.r_d.918-431-2856.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Paderborn – Hoffenheim el partido de fútbol de Jornada 4 de la Bundesliga, en directo",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260920/30943/paderborn-hoffenheim-bundesliga-ca-en-directo-ctx.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/01/26/65b39bad85a3e.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "En un pispás, España se proyecta hacia la Final a 8 de la Copa Davis",
-      "link": "https://www.lavanguardia.com/deportes/tenis/20260920/11639743/pispas-espana-proyecta-final-8-copa-davis.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/20/6ab00c1319a9a.jpeg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¿Se convertirá Canadá en miembro asociado de la Unión Europea?",
+      "link": "https://www.dw.com/es/¿se-convertirá-canadá-en-miembro-asociado-de-la-unión-europea/a-79347653",
+      "imagen": "https://static.dw.com/image/79308690_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Elecciones en Alemania: se confirma avance electoral de AfD",
       "link": "https://www.dw.com/es/elecciones-en-alemania-se-confirma-avance-electoral-de-afd/live-79341327",
       "imagen": "https://static.dw.com/image/79347248_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Ucrania: ataque ruso en la región de Kiev deja cuatro muertos",
       "link": "https://www.dw.com/es/ucrania-ataque-ruso-en-la-región-de-kiev-deja-cuatro-muertos/a-79344994",
       "imagen": "https://static.dw.com/image/79344203_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Irán exige concesiones antes de nuevas negociaciones",
-      "link": "https://www.dw.com/es/irán-exige-concesiones-antes-de-nuevas-negociaciones/a-79342930",
-      "imagen": "https://static.dw.com/image/78297845_6.jpg",
       "tipo": "imagen"
     }
   ]
