@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "El Atleti derrota a un Madrid con 10 en un derbi muy tenso lleno de polémica",
+      "titulo": "El Atlético derrota a un Real Madrid con 10 en un derbi muy tenso lleno de polémica",
       "link": "https://www.20minutos.es/deportes/futbol/atletico-real-madrid-directo-ultima-hora-resultado-goles-derbi-madrileno-jornada-7-laliga_7038961_6.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/20/6aaffd53094264-94230767.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Mourinho saca una hoja con las dos faltas que el árbitro no consideró rojas: \"El pobre no ha podido con la presión\"",
+      "link": "https://www.20minutos.es/deportes/futbol/mourinho-saca-una-hoja-con-las-dos-faltas-que-arbitro-no-considero-como-rojas-pobre-ha-venido-aqui-no-ha-podido-con-presion_7039040_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/20/6ab00f24c26574-26160714.jpeg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Pedro Sánchez ve \"muy grave\" que el Supremo suspenda la 'ley de nietos' y carga contra PP y Vox: \"No lo voy a perdonar\"",
       "link": "https://www.20minutos.es/nacional/pedro-sanchez-muy-grave-supremo-suspende-ley-nietos-contra-pp-vox-no-voy-perdonar_7039004_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/20/6aafe7311995e8-42344136.webp",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Merz, contra las cuerdas: la ultraderecha gana otro estado y los poscomunistas se hacen con Berlín",
-      "link": "https://www.20minutos.es/internacional/merz-elecciones-alemania-ultraderecha-estado-poscomunistas-berlin_7039041_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/20/6ab008cd179151-77137586.jpeg",
       "tipo": "imagen"
     }
   ]
