@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Una paciente muere en un incendio en una residencia psiquiátrica de Pamplona",
+      "link": "https://www.lavanguardia.com/local/navarra/20260920/11639513/paciente-muere-incendio-residencia-psiquiatrica-pamplona.html",
+      "imagen": "https://www.lavanguardia.com/files/listing_main/files/fp/uploads/2026/09/20/6aaf17d275f7d.r_d.3482-2347-167.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los arietes del presidente",
       "link": "https://www.lavanguardia.com/deportes/20260920/11639466/arietes-presidente.html",
       "imagen": "",
@@ -28,12 +34,6 @@
       "titulo": "El principio del fin de la pesadilla",
       "link": "https://www.lavanguardia.com/opinion/20260920/11639148/principio-pesadilla.html",
       "imagen": "https://www.lavanguardia.com/files/listing_main/uploads/2026/09/19/6aadbd0727729.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Otro conflicto polarizado",
-      "link": "https://www.lavanguardia.com/opinion/20260920/11639147/conflicto-polarizado.html",
-      "imagen": "https://www.lavanguardia.com/files/listing_main/uploads/2023/10/02/651acb69971ec.jpeg",
       "tipo": "imagen"
     }
   ]
