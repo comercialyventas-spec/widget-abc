@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Pedaleando",
+      "link": "https://elpais.com/eps/2026-09-20/pedaleando.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ZPVMS2OUUNA65LQSRZLBAZ5ZBM.jpg?auth=b060f37947aacba96f41f23af3425d6a89e61455ec3ed20b94cd414074e5b13d",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Chao, Partenón",
+      "link": "https://elpais.com/eps/2026-09-20/chao-partenon.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/K3QGVOEVCRB6XHL7FKQMJAJJGQ.jpg?auth=7033f91f5f526a771ef79fee6c54dbb73132c071870c8d45e4c093a23b8ed639",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cómo conquistar el mundo desde Cartagena: de gira con Arde Bogotá antes de su nuevo álbum",
+      "link": "https://elpais.com/eps/2026-09-20/como-conquistar-el-mundo-desde-cartagena-de-gira-con-arde-bogota-antes-de-su-nuevo-album.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/J67DZ5PZYFAS3EVYAXDQPGD5LQ.JPG?auth=961faf8142afacbe39b01e5c941c1dd535b030107f3cd07dd8e6c45ea01711fe",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Pierre Paulin, el diseñador que fue al interiorismo lo que Courrèges o Rabanne a la moda",
+      "link": "https://elpais.com/eps/2026-09-20/pierre-paulin-el-disenador-que-fue-al-interiorismo-lo-que-courreges-o-rabanne-a-la-moda.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/HBEXJQVKPVBUXDAVVJ5DZNLGEY.JPG?auth=2be95b35179f22b72adb61669003c120d37ee5dda40757f1485635bd2ee4fda3",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Xu Tiantian, arquitecta: “Construir en el desierto rascacielos poniendo aire acondicionado es ignorancia, no progreso”",
       "link": "https://elpais.com/eps/2026-09-19/xu-tiantian-arquitecta-construir-en-el-desierto-rascacielos-poniendo-aire-acondicionado-es-ignorancia-no-progreso.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/XMVFZ4BNQVBHBEMZLLCT7M6KPU.JPG?auth=56266a493a1ff1af2fb85b8a5edcb86b95944ad585b9a9b7426b1e4fa13183ae",
@@ -10,30 +34,6 @@
       "titulo": "El inesperado interés de los jóvenes por las últimas trashumancias",
       "link": "https://elpais.com/eps/2026-09-19/el-inesperado-interes-de-los-jovenes-por-las-ultimas-trashumancias.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/NXGDQZNHWNC4VPUNH3PKKJIYTE.JPG?auth=801b25ef6844ec77235d521e80368b6186c9198bfb0007bcb3b9975ddbe89122",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Desnudos ante el tráfico: ciclistas que pedalean sin ropa para reclamar infraestructuras seguras",
-      "link": "https://elpais.com/eps/2026-09-19/desnudos-ante-el-trafico-ciclistas-que-pedalean-sin-ropa-para-reclamar-infraestructuras-seguras.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ILM4XY3JGVBPHB5UI7NEOI3S3M.jpg?auth=c6dcc5392e7dccd4e25b285af630a8fe29f54870e23d91251d8084b8ee5c3992",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La palabra rubicón",
-      "link": "https://elpais.com/eps/2026-09-19/la-palabra-rubicon.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/JEI4HDARLZBGBDPWKSJZ3LUDU4.jpg?auth=96f71c26a4b1464ed48b3de532436b63160efd7a5cb5b7dc8ea0935d8af96629",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "“Los vips ya no son gente muy importante, sino gente a la que exprimir, no hay excentricidad”: vuelve Manumission, la fiesta que revolucionó Ibiza",
-      "link": "https://elpais.com/eps/2026-09-18/los-vips-ya-no-son-gente-muy-importante-sino-gente-a-la-que-exprimir-no-hay-excentricidad-vuelve-manumission-la-fiesta-que-revoluciono-ibiza.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/A2T6DZY7SNHNPLRLOL6EOFDOME.JPG?auth=81d210c4251b3814382371f6cac63d232ccfbc44f5f5b18bfc8dc5751da112d5",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "En un mundo disperso, la lectura es un acto de rebeldía",
-      "link": "https://elpais.com/eps/2026-09-18/en-un-mundo-disperso-la-lectura-es-un-acto-de-rebeldia.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/E74567DRAVCVDKUHXKREDNTZ54.JPG?auth=d2211a91e00629ef093ee3a976aa87bab1ee0844e5fb0ce34bb0ac07ae677256",
       "tipo": "imagen"
     }
   ]

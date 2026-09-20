@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Somos un Estado tontito",
+      "link": "https://okdiario.com/opinion/somos-estado-tontito-20339626",
+      "imagen": "https://okdiario.com/img/2026/09/19/opinion-eduardo-inda-interior.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Hotel Restaurante El Puerto: \"Ceuta, un sueño a tu alcance\"",
       "link": "https://okdiario.com/opinion/hotel-restaurante-puerto-ceuta-sueno-tu-alcance-20333453",
       "imagen": "https://okdiario.com/img/2026/09/18/hotel-restaurante-el-puerto_desk.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Desastre educativo: un vistazo a la televisión",
       "link": "https://okdiario.com/opinion/desastre-educativo-vistazo-television-20328021",
       "imagen": "https://okdiario.com/img/2026/09/18/palomo-sabado-1-interior-1.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cuatro millones de españoles en riesgo de exclusión",
-      "link": "https://okdiario.com/actualidad/cuatro-millones-espanoles-riesgo-exclusion-20329289",
-      "imagen": "https://okdiario.com/img/2026/09/18/palomo-sabado-3-interior-1.jpg",
       "tipo": "imagen"
     }
   ]
