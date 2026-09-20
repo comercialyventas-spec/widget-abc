@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El mirador Punta de las Eras",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260920/11639016/mirador-punta.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/19/6aae549a9a455.r_d.993-788-2338.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El canibalismo de la araña tigre hembra",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260920/11637944/canibalismo-arana-tigre-hembra.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/18/6aacf4174c791.r_d.976-648-2338.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "De la mariposa cabezota al héroe de basura",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260920/11636274/mariposa-cabezota-heroe-basura.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/16/6aaa7947ee5c6.r_d.436-246-5307.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Encuesta: ¿Escocia, Gales y el Ulster deben poder tener derecho a dejar el Reino Unido?",
-      "link": "https://www.lavanguardia.com/participacion/debates/20260920/11635040/encuesta-escocia-gales-ulster-debe-derecho-dejar-reino-unido.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/14/6aa842e2257ac.r_d.2878-1986-0.jpeg",
       "tipo": "imagen"
     }
   ]

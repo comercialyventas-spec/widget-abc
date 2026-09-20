@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "El apocalipsis no está escrito",
+      "link": "https://elpais.com/opinion/2026-09-20/el-apocalipsis-no-esta-escrito.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7ZOELU5CVNFCXPZFYCTJYK7SDQ.jpg?auth=5edafb77e8bdfe54411e74e2696449915033996a9570fd77d2fc675889b30e91&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Una igualdad que se aleja",
       "link": "https://elpais.com/opinion/editoriales/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/PY7Z3TMAJFEKDGODQIRBDZP7I4.jpg?auth=365f92d8990a3b26da535fe643bc60a477a48106ac9a322f3fb3fa936d10168c&width=414&height=233&focal=2299%2C1523",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/PY7Z3TMAJFEKDGODQIRBDZP7I4.jpg?auth=365f92d8990a3b26da535fe643bc60a477a48106ac9a322f3fb3fa936d10168c&width=414&height=311&focal=2299%2C1523",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Canadá europeo",
       "link": "https://elpais.com/opinion/2026-09-15/canada-europeo.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/4N7BHBQWGBAATECPCE4PHXXXN4.jpg?auth=0ebc414ae67d6be411b0bf657956170042e3147c8f65d5336389fd4488c4fe51&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una joya medieval contra el Brexit",
-      "link": "https://elpais.com/opinion/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/KOX7KFFJ5NDURNMDT2REPUJW6M.jpg?auth=ea369d0498c0da17354f2dddbbd87d22f4043e8524aa3f93e4442a3a8f8a0a14&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

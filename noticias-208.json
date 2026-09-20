@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Corea del Norte lanza un proyectil no identificado hacia el Mar del Este",
+      "link": "https://www.dw.com/es/corea-del-norte-lanza-un-proyectil-no-identificado-hacia-el-mar-del-este/a-79342376",
+      "imagen": "https://static.dw.com/image/79326469_6.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ucrania golpea Moscú en la última jornada de elecciones legislativas",
+      "link": "https://www.dw.com/es/ucrania-golpea-moscú-en-la-última-jornada-de-elecciones-legislativas/a-79341969",
+      "imagen": "https://static.dw.com/image/79342334_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Elecciones regionales en Alemania: abren los colegios electorales",
       "link": "https://www.dw.com/es/elecciones-regionales-en-alemania-abren-los-colegios-electorales/live-79341327",
       "imagen": "https://static.dw.com/image/79341886_6.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Cuba restablece conexión eléctrica tras nuevo apagón masivo",
       "link": "https://www.dw.com/es/cuba-restablece-conexión-eléctrica-tras-nuevo-apagón-masivo/a-79340525",
       "imagen": "https://static.dw.com/image/77440439_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ataques de Israel dejan cuatro muertos en Gaza",
-      "link": "https://www.dw.com/es/ataques-de-israel-dejan-cuatro-muertos-en-gaza/a-79340518",
-      "imagen": "https://static.dw.com/image/79208843_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Deuda pública de Francia alcanzará récord en 2026 y 2027",
-      "link": "https://www.dw.com/es/deuda-pública-de-francia-alcanzará-récord-en-2026-y-2027/a-79340511",
-      "imagen": "https://static.dw.com/image/57510967_6.jpg",
       "tipo": "imagen"
     }
   ]
