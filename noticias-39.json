@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Diario de una buceadora, 2: Un banco de murciélagos gigantes",
+      "link": "https://www.lavanguardia.com/natural/20260920/11638316/diario-buceadora-2-banco-murcielagos-gigantes.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/18/6aad8f65a2e8c.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Diario de una buceadora, 1: Volver a respirar bajo el agua",
       "link": "https://www.lavanguardia.com/natural/20260919/11638300/diario-buceadora-1-volver-respirar-agua.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/18/6aad8f836bcdf.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "La Organización Meteorológica Mundial alerta del descenso de la reserva global de agua dulce",
       "link": "https://www.lavanguardia.com/natural/20260917/11637284/organizacion-meteorologica-mundial-alerta-descenso-reserva-global-agua-dulce.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/17/6aabda24d9a22.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Aemet activa la alerta roja en Murcia por lluvias y tormentas",
-      "link": "https://www.lavanguardia.com/natural/20260917/11636987/aemet-activa-aviso-rojo-murcia-lluvias-tormentas.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/17/6aaba86d80d2a.r_d.342-264-6564.jpeg",
       "tipo": "imagen"
     }
   ]

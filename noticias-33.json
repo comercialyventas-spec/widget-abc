@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Los tejemanejes judiciales",
+      "link": "https://www.lavanguardia.com/opinion/20260920/11639310/tejemanejes-judiciales.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El principio del fin de la pesadilla",
       "link": "https://www.lavanguardia.com/opinion/20260920/11639148/principio-pesadilla.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/19/6aadbd0727729.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "La nueva guerra fría",
       "link": "https://www.lavanguardia.com/opinion/20260920/11639141/nueva-guerra-fria.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/19/6aae9f6e5df37.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los alcohólicos golpistas",
-      "link": "https://www.lavanguardia.com/opinion/20260920/11639137/alcoholicos-golpistas.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/29/692b720d0f80c.jpeg",
       "tipo": "imagen"
     }
   ]
