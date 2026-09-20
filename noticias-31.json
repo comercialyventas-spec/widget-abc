@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Fin de semana perfecto",
+      "link": "https://www.lavanguardia.com/deportes/20260920/11639915/semana-perfecto.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/20/6ab051820756c.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El ausente imprescindible",
+      "link": "https://www.lavanguardia.com/deportes/20260920/11639914/ausente-imprescindible.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Mourinho para llorar",
+      "link": "https://www.lavanguardia.com/deportes/20260920/11639905/mourinho-llorar.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ricky Rubio: “Estaba más nervioso que en la final del Mundial”",
       "link": "https://www.lavanguardia.com/deportes/baloncesto/20260920/11639795/ricky-rubio-mas-nervioso-final-mundial.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/20/6ab03944ab661.r_d.1812-1273-1242.jpeg",
@@ -16,24 +34,6 @@
       "titulo": "El mago Laprovittola regala la Supercopa a la Penya y endosa el primer revés al Barça de Sekulic",
       "link": "https://www.lavanguardia.com/deportes/baloncesto/20260920/11639790/mago-laprovittola-regala-supercopa-penya-endosa-primer-reves-barca-sekulic.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/20/6ab03b5c4b5ec.r_d.3956-2639-567.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Valencia – Real Sociedad el partido de fútbol de Jornada 7 de LaLiga EA Sports, en directo",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260920/24549/valencia-real-sociedad-laliga-primera-division-ca-en-directo-ctx.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/09/13/65016ce5577c1.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Olympique de Marsella – PSG el partido de fútbol de Jornada 5 de la Ligue 1, en directo",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260920/4486/olympique-de-marsella-psg-ligue-1-ca-en-directo-ctx.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/01/26/65b39b45e683a.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Milan – Lecce el partido de fútbol de Jornada 5 de la Serie A, en directo",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260920/2399/milan-lecce-serie-a-ca-en-directo-ctx.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/01/26/65b39a64444e5.jpeg",
       "tipo": "imagen"
     }
   ]
