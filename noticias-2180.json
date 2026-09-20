@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Tiempo en Catalunya mañana lunes: las temperaturas continúan subiendo y tocarán techo en Tarragona",
+      "link": "<![CDATA[https://www.elperiodico.com/es/tiempo/20260920/tiempo-cataluna-manana-lunes-21-septiembre-temperaturas-calor-dv-loc-134490447",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/44649842-6a13-4b47-a603-05904fcf7ad5_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Tiempo en Catalunya hoy domingo: suben las temperaturas y vuelve el calor a Barcelona",
       "link": "<![CDATA[https://www.elperiodico.com/es/tiempo/20260919/tiempo-cataluna-hoy-domingo-20-septiembre-temperaturas-calor-lluvia-dv-loc-134466048",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7a97c855-8e69-4987-8c9b-41b48d8437d7_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El tiempo en Catalunya hoy viernes: avisos por lluvia intensa en el litoral",
       "link": "<![CDATA[https://www.elperiodico.com/es/tiempo/20260917/tiempo-catalunya-hoy-viernes-avisos-lluvia-intensa-barcelona-dv-loc-134395766",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/aa55b5d0-fb5b-4228-825c-cd2aa6509393_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El tiempo en Catalunya hoy jueves: chubascos en Barcelona y mínimas por debajo de los 15 grados en el interior",
-      "link": "<![CDATA[https://www.elperiodico.com/es/tiempo/20260916/tiempo-catalunya-hoy-jueves-lluvias-meteocat-dv-loc-134354460",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/489d7475-fa23-4eb5-aa6a-7c13b64459f3_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

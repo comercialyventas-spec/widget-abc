@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El agua chocolate de Navarcles",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260920/11639582/agua-chocolate-navarcles.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/20/6aafa2f9828e7.r_d.960-539-2338.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La mariposa amenazada",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260920/11637952/mariposa-amenazada.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/18/6aacf5ef6a759.r_d.960-640-2338.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "No Surf en el Mercat de Música Viva de Vic",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260920/11639637/surf-mercat-musica-viva-vic.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/20/6aafbb8d645d6.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El beneficio de las farolas solares",
-      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260920/11639030/beneficio-farolas-solares.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/19/6aae57fa8da1e.r_d.987-906-2338.jpeg",
       "tipo": "imagen"
     }
   ]
