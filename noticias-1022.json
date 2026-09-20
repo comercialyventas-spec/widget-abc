@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "El 'índice Big Mac' que revela tu bajo poder adquisitivo",
-      "link": "https://www.abc.es/economia/cuentas-corrientes/titu-indice-big-mac-20260918181920-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/19/hamburguesa-redes--758x531.jpg"
-    },
-    {
-      "titulo": "Ceutíes protestan contra la llegada de organizaciones proetarras a la ciudad: «No les vamos a dejar pasar»",
-      "link": "https://www.abc.es/espana/vecinos-ceuties-protestan-llegada-organizaciones-proetarras-ciudad-20260920204237-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/20/HShB6blWwAAm_Qi-RudBrMs5tkx8FWK1tlkvqKJ-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "Laprovittola lleva al Joventut a conquistar la Supercopa cuarenta años después",
       "link": "https://www.abc.es/deportes/baloncesto/laprovittola-lleva-joventut-conquistar-supercopa-cuarenta-anos-20260920211331-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/20/laprovittola-R3YNqw7ef0xaqn7BJDpGJHM-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/20/laprovittola-R3YNqw7ef0xaqn7BJDpGJHM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Las elecciones regionales en Alemania confirman la debacle de Merz, que reconoce el «desastre», pero no dimite",
       "link": "https://www.abc.es/internacional/extrema-derecha-gana-nuevas-elecciones-regionales-alemania-20260920181128-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/20/merz-RcqLKpgS7K2f5ou3tNRgLkO-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/20/merz-RcqLKpgS7K2f5ou3tNRgLkO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Rajada histórica de Mourinho: «Enhorabuena al Comité Arbitral»",
       "link": "https://www.abc.es/deportes/real-madrid/rajada-historica-mourinho-contaron-cambiado-enhorabuena-comite-20260920192734-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/20/Mou-R0lYOZ5jSYYiP2oLJDifjrJ-1200x840@diario_abc.jpeg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/20/Mou-R0lYOZ5jSYYiP2oLJDifjrJ-1200x840@diario_abc.jpeg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Más de mil ceutíes defienden su españolidad: «Tú no eres caballa»",
       "link": "https://www.abc.es/espana/cientos-ceuties-marchan-tarajal-defensa-espanolidad-ciudad-20260920140207-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/20/ceuta-invadida-kjOF-U301807991516KlB-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/20/ceuta-invadida-kjOF-U301807991516KlB-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Rusia recluta cientos de peruanos para la guerra en Ucrania mediante engaños laborales",
+      "link": "https://www.abc.es/internacional/mandando-carne-canon-capto-rusia-decenas-peruanos-20260828012432-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/14/multimedia-16-9-RsmtSyqgomyXwPS3pX02P6K-1200x672@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ceutíes protestan contra la llegada de organizaciones proetarras a la ciudad: «No les vamos a dejar pasar»",
+      "link": "https://www.abc.es/espana/vecinos-ceuties-protestan-llegada-organizaciones-proetarras-ciudad-20260920204237-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/20/HShB6blWwAAm_Qi-RudBrMs5tkx8FWK1tlkvqKJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }
