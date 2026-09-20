@@ -1,0 +1,38 @@
+name: prueba-efe
+
+# Prueba de un solo uso: comprobar si EFE deja leer sus sitemaps/articulos desde los servidores de GitHub.
+# No modifica nada del repositorio. Se borra despues de la prueba.
+
+on:
+  workflow_dispatch:
+
+jobs:
+  probar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Probar accesos a efe.com
+        run: |
+          UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+          probar() {
+            nombre="$1"; url="$2"
+            codigo=$(curl -s -L --max-time 30 -A "$UA" -o /tmp/r.txt -w "%{http_code}" "$url" || echo "000")
+            tam=$(wc -c < /tmp/r.txt 2>/dev/null || echo 0)
+            urls=$(grep -o "<loc>" /tmp/r.txt 2>/dev/null | wc -l)
+            imgs=$(grep -o "image:loc" /tmp/r.txt 2>/dev/null | wc -l)
+            ultima=$(grep -o "<lastmod>[^<]*" /tmp/r.txt 2>/dev/null | sed 's/<lastmod>//' | sort | tail -1)
+            noticia=$(grep -o "<news:publication_date>[^<]*" /tmp/r.txt 2>/dev/null | sed 's/<news:publication_date>//' | sort | tail -1)
+            og=$(grep -o 'property="og:image" content="[^"]*"' /tmp/r.txt 2>/dev/null | head -1 | cut -c1-120)
+            echo "$nombre | HTTP $codigo | $tam bytes | loc $urls | image:loc $imgs | ultimo lastmod $ultima | ultima noticia $noticia | $og"
+          }
+          probar "sitemap_index"   "https://efe.com/sitemap_index.xml"
+          probar "post-sitemap33"  "https://efe.com/post-sitemap33.xml"
+          probar "news-sitemap"    "https://efe.com/news-sitemap.xml?v=$(date +%s)"
+          probar "seccion-espana"  "https://efe.com/espana/"
+          probar "buscador"        "https://efe.com/?s=espa%C3%B1a"
+          probar "feed-espana"     "https://efe.com/espana/feed/"
+          probar "wp-json-posts"   "https://efe.com/wp-json/wp/v2/posts?per_page=3"
+          # Un articulo concreto: el primero del sitemap de noticias, si se pudo leer
+          curl -s -L --max-time 30 -A "$UA" "https://efe.com/news-sitemap.xml" -o /tmp/ns.txt || true
+          art=$(grep -o "<loc>[^<]*" /tmp/ns.txt | head -1 | sed 's/<loc>//')
+          if [ -n "$art" ]; then probar "articulo" "$art"; else echo "articulo | sin URL de articulo para probar"; fi
