@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "El PSOE exige el cese del director de Emergencias por las «deficiencias» en la gestión de los incendios en Andalucía",
+      "titulo": "El PSOE exige el cese del director de la Agencia de Emergencias por «deficiencias» en la gestión de los incendios en Andalucía",
       "link": "https://www.abc.es/espana/andalucia/psoe-exige-cese-director-emergencias-deficiencias-gestion-20260920120916-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/20/niebla-Rx33EkrwRnCtxiPz637WXEJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Detenido un falso empresario por una estafa millonaria a 258 agricultores de aceituna de mesa en Sevilla y Huelva",
+      "link": "https://www.abc.es/espana/andalucia/detenido-falso-empresario-estafa-millonaria-258-agricultores-20260920123448-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/20/aceitunas-RoDE3ONR1ra0jgf1NoSHH7L-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Pablo López Carmona, CEO de Silbon: «Estuve 8 meses sin cobrar; me tuve que volver a casa de mis padres con mi mujer y mi hija»",
+      "link": "https://www.abc.es/espana/andalucia/pablo-lopez-carmona-ceo-silbon-meses-cobrar-20260920123526-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/20/ceo-silbon-RwV53QmnlUVWrOMJ0jznJWM-1200x840@diario_abc.png",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "La cinegética no tiene acento en Córdoba con Intercaza: «No deja de ser un punto de encuentro para disfrutarla»",
       "link": "https://www.abc.es/espana/andalucia/cordoba/cinegetica-acento-cordoba-intercaza-deja-punto-encuentro-20260919135856-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/01/INTERCAZA37COR-RB5xtYlGsngIgrmp4HAXuHN-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El incendio forestal en Ayamonte queda estabilizado y trabajan para controlarlo y extinguirlo",
-      "link": "https://www.abc.es/espana/andalucia/huelva/incendio-forestal-ayamonte-obliga-cortar-carretera-a499-20260919174729-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/19/villablanca-RXmVwTLdWsM44ZbgpILSsqJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Educación y la patronal del transporte pactan restablecer el servicio de transporte escolar en la provincia de Jaén",
-      "link": "https://www.abc.es/espana/andalucia/jaen/educacion-patronal-transporte-pactan-restablecer-servicio-transporte-20260920095440-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/20/acuerdo-trasnporte-escolar-RepIoXRTtBsz7uWx2gg1vOK-1200x840@diario_abc.png",
       "tipo": "imagen"
     }
   ]
