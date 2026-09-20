@@ -1,0 +1,88 @@
+name: productos-generico
+
+# Capa 2 (respaldo) de los catálogos de GENERADOR_HTMLROBOTS.
+# Lee la lista de catálogos que los visitantes han pedido al NAS (nunca la hoja),
+# y genera cada catálogo aquí con el MISMO código PHP del NAS (productos/generar_o_servir.php).
+# Los JSON quedan en productos/producto-<slug>-p<N>.json, igual que en la caché del NAS.
+# Si el NAS está caído, usa la última copia de la lista guardada en el repositorio.
+
+on:
+  schedule:
+    - cron: '30 2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: widget-abc-git-write
+  cancel-in-progress: false
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Preparar PHP
+        run: |
+          php -v | head -1
+          php -m | grep -i -E '^(curl|json|mbstring)$' || true
+
+      - name: Obtener la lista de catalogos
+        run: |
+          mkdir -p productos
+          LISTA_NAS="https://carmenprofe.synology.me/generador_htmlrobots/cache_productos/_catalogos_pedidos.txt"
+          if curl -sf --max-time 30 "$LISTA_NAS" -o /tmp/lista_nas.txt && grep -q '^https\?://' /tmp/lista_nas.txt; then
+            # Se une con la copia anterior para no perder catalogos si la lista del NAS se reinicia.
+            touch productos/_catalogos_pedidos.txt
+            cat productos/_catalogos_pedidos.txt /tmp/lista_nas.txt | grep '^https\?://' | awk '!visto[$0]++' > /tmp/lista_unida.txt
+            cp /tmp/lista_unida.txt productos/_catalogos_pedidos.txt
+            echo "Lista obtenida del NAS."
+          else
+            echo "NAS no disponible: se usa la ultima copia de la lista del repositorio."
+            touch productos/_catalogos_pedidos.txt
+          fi
+          echo "Catalogos en la lista: $(grep -c '^https\?://' productos/_catalogos_pedidos.txt || echo 0)"
+
+      - name: Generar catalogos
+        run: |
+          MOTOR=/tmp/motor
+          rm -rf "$MOTOR"; mkdir -p "$MOTOR/cache_productos"
+          cp productos/generar_o_servir.php "$MOTOR/"
+          ok=0; vacios=0
+          while IFS= read -r url; do
+            case "$url" in http://*|https://*) ;; *) continue ;; esac
+            slug=$(php -r 'echo substr(md5(trim($argv[1])), 0, 16);' -- "$url")
+            rm -f "$MOTOR"/cache_productos/producto-"$slug"-p*.json
+            timeout 600 php -d display_errors=0 -r '$_GET = ["url" => $argv[1], "pagina" => "1", "refrescar" => "1"]; include "/tmp/motor/generar_o_servir.php";' -- "$url" > /dev/null 2>&1 || true
+            n=$(find "$MOTOR/cache_productos" -maxdepth 1 -name "producto-$slug-p*.json" | wc -l)
+            if [ "$n" -gt 0 ]; then
+              # Solo se sustituye la copia del repositorio si esta vez se ha generado algo.
+              rm -f productos/producto-"$slug"-p*.json
+              mv "$MOTOR"/cache_productos/producto-"$slug"-p*.json productos/
+              ok=$((ok+1))
+              echo "OK  $n paginas  $url"
+            else
+              vacios=$((vacios+1))
+              echo "SIN PRODUCTOS (se conserva la copia anterior)  $url"
+            fi
+          done < productos/_catalogos_pedidos.txt
+          echo "Generados: $ok | Sin productos: $vacios"
+
+      - name: Guardar en el repositorio
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add productos
+          if git diff --cached --quiet; then
+            echo "Sin cambios."
+            exit 0
+          fi
+          git commit -m "productos: catalogos de respaldo $(date -u +%Y-%m-%dT%H:%MZ)"
+          for intento in 1 2 3; do
+            git pull --no-edit --rebase origin main && git push origin HEAD:main && exit 0
+            sleep $((intento*5))
+          done
+          exit 1
