@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La guitarra impresionista de María Marín",
+      "link": "https://www.abc.es/sevilla/cultura/guitarra-impresionista-maria-marin-20260919213800-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/19/maria-marin-guitarra-Rn6aT5M2AcEwbVEKzwp0BhP-1200x840@diario_abc.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Estadio de La Cartuja anuncia una reforma urgente en sus accesos y entorno ante la avalancha de aficionados",
       "link": "https://www.abc.es/sevilla/ciudad/estadio-cartuja-anuncia-reforma-urgente-accesos-entorno-20260920112907-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/20/atasco-RBjXCTiFKjuoALinjvnAk0I-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Sevilla es la provincia con menor inversión del Estado por habitante desde 1985",
       "link": "https://www.abc.es/sevilla/ciudad/sevilla-provincia-menor-inversion-estado-habitante-1985-20260920191549-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/20/cover-deficit-inversor-hor-RtoCDoJHuP2wCMjohgmM4YN-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Chisporroteos. La velocidad de las cofradías",
-      "link": "https://www.abc.es/sevilla/pasionensevilla/noticias-semana-santa-sevilla/chisporroteos-velocidad-cofradias-20260920012156-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/20/fuensanta-bellasartes-restauradora-kg7D-U78852508187ipq-1248x698_abc%20(3)-RcykRCNuGbZfFsMNIOKVeOI-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

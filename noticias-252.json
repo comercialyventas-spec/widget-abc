@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El centro francés tiene una pregunta: ¿quién puede vencer a Marine Le Pen?",
+      "link": "https://www.abc.es/internacional/centro-frances-pregunta-puede-vencer-marine-pen-20260920120556-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/17/economist_1200x840.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un tiroteo entre familias se salda con un muerto, tres heridos y cuatro detenidos en Alzira",
       "link": "https://www.abc.es/espana/comunidad-valenciana/muerto-tres-heridos-tiroteo-clanes-enfrentados-alzira-20260920111733-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/20/alzira-tiroteo-valencia-RwhWm4OgAphbEiTN4FG6geN-1200x840@diario_abc.PNG",
@@ -13,7 +19,7 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Detenida una paciente por el incendio de la residencia psiquiátrica de Pamplona en el que ha muerto una mujer",
+      "titulo": "Detenida una paciente por el incendio de la residencia psiquiátrica en el que ha muerto una mujer",
       "link": "https://www.abc.es/espana/navarra/mujer-muerta-personas-trasladadas-hospital-incendio-residencia-20260920084010-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/20/1517573209-U206099366862GC-U301805601156sYG-1200x840@diario_abc.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Rusia recluta cientos de peruanos para la guerra en Ucrania mediante engaños laborales",
       "link": "https://www.abc.es/internacional/mandando-carne-canon-capto-rusia-decenas-peruanos-20260828012432-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/14/multimedia-16-9-RsmtSyqgomyXwPS3pX02P6K-1200x672@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Deniegan el pago de dietas a policías desplazados una semana al incendio de La Vall por un bocadillo",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/policias-reclaman-dietas-perdieron-comer-bocadillo-incendio-20260920095433-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/20/incendio-vall-policia-RNdBrirTEr34o48yCSxBEqO-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
