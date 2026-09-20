@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Mourinho para llorar",
+      "link": "https://www.lavanguardia.com/deportes/real-madrid/20260920/11639768/mourinho-llorar.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/20/6ab01cd9c3ef1.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Mourinho se quita la careta: “No quiero pensar que esto estaba preparado, quiero pensar que el comité se equivoca”",
       "link": "https://www.lavanguardia.com/deportes/real-madrid/20260920/11639756/mourinho-quejas-arbitro-real-madrid-atletico-de-madrid-comite-var.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/20/6ab013361f596.r_d.918-431-2856.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Paderborn – Hoffenheim el partido de fútbol de Jornada 4 de la Bundesliga, en directo",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260920/30943/paderborn-hoffenheim-bundesliga-ca-en-directo-ctx.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/01/26/65b39bad85a3e.jpeg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Lluvia de títulos mundiales en trial y en motocross, con hito histórico de Daniela Guillén",
       "link": "https://www.lavanguardia.com/deportes/20260920/11639729/motociclismo-lluvia-titulos-mundiales-trial-motocross-hito-historico-daniela-guillen-guillem-farres-berta-abellan-arnau-farre-abril-montserrat.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/20/6ab006106a417.r_d.518-382-4389.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Villarreal – Levante el partido de fútbol de Jornada 7 de LaLiga EA Sports, en directo",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260920/24547/villarreal-levante-laliga-primera-division-ca-en-directo-ctx.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/09/13/65016ce5577c1.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "RC Deportivo – Real Betis el partido de fútbol de Jornada 7 de LaLiga EA Sports, en directo",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260920/24543/rc-deportivo-real-betis-laliga-primera-division-ca-en-directo-ctx.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/09/13/65016ce5577c1.jpeg",
       "tipo": "imagen"
     }
   ]

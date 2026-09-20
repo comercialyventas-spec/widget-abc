@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Todo lo que nos ocultaron sobre los fallos de la IA que ahora reconocen sus creadores",
+      "link": "https://www.publico.es/ciencias/tecnologia/ocultaron-sobre-fallos-ia-ahora-reconocen-creadores.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/17/6aac1701f17c7.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ni piensa ni conspira: por qué hablar de la IA como si fuera humana beneficia a las tecnológicas",
       "link": "https://www.publico.es/ciencias/tecnologia/piensa-conspira-hablar-ia-fuera-humana-beneficia-tecnologicas.html",
       "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/18/6aad4eb85fab4.r_d.449-288-3000.webp",
@@ -28,12 +34,6 @@
       "titulo": "OpenAI desvela varios casos en los que sus modelos ignoraron las reglas de los desarrolladores",
       "link": "https://www.publico.es/ciencias/tecnologia/openai-desvela-varios-casos-modelos-ignoraron-reglas-desarrolladores.html",
       "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/07/22/6a60e36f1474a.r_d.961-574-1406.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Zuckerberg se desmarca del catastrofismo de la IA y revela las diferencias dentro del sector tecnológico",
-      "link": "https://www.publico.es/ciencias/tecnologia/zuckerberg-desmarca-catastrofismo-ia-revela-diferencias-sector-tecnologico.html",
-      "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/16/6aaac7809603b.r_d.964-332-1406.jpeg",
       "tipo": "imagen"
     }
   ]
