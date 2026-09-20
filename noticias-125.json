@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Federico entre nosotros",
+      "link": "https://www.lavanguardia.com/television/20260920/11639422/federico.html",
+      "imagen": "https://www.lavanguardia.com/files/author_twitter_meta/uploads/2024/01/18/65a8ee5b27d33.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "'Gent de primera’, una mirada humana y transformadora al sector primario catalán",
       "link": "https://www.lavanguardia.com/television/20260919/11638364/gent-primera-mirada-humana-transformadora-sector-primario-catalan.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/18/6aad3b5097c74.r_d.3000-2000.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Joaquín Prat redefine ‘El tiempo justo’ con dos nuevos fichajes",
       "link": "https://www.lavanguardia.com/television/20260918/11638503/joaquin-prat-redefine-justo-dos-nuevos-fichajes.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/18/6aad5193b57e5.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Marta Peñate suplica entre lágrimas abandonar 'Supervivientes All Stars' al verse sobrepasada por las discusiones: “No soy capaz”",
-      "link": "https://www.lavanguardia.com/television/20260918/11638050/marta-penate-suplica-lagrimas-abandonar-supervivientes-all-stars-verse-sobrepasada-discusiones-capaz.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/18/6aacf6cd76402.r_d.960-540-6250.jpeg",
       "tipo": "imagen"
     }
   ]
