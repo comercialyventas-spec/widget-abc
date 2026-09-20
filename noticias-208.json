@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Nuevo ataque de EE.UU. a lancha en el Caribe deja cuatro muertos",
+      "link": "https://www.dw.com/es/nuevo-ataque-de-ee-uu-a-lancha-en-el-caribe-deja-cuatro-muertos/a-79340534",
+      "imagen": "https://static.dw.com/image/74709903_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cuba restablece conexión eléctrica tras nuevo apagón masivo",
       "link": "https://www.dw.com/es/cuba-restablece-conexión-eléctrica-tras-nuevo-apagón-masivo/a-79340525",
       "imagen": "https://static.dw.com/image/77440439_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Bachelet se retira de la carrera para liderar Naciones Unidas",
       "link": "https://www.dw.com/es/bachelet-se-retira-de-la-carrera-para-liderar-naciones-unidas/a-79340073",
       "imagen": "https://static.dw.com/image/78049258_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Hutíes reivindican ataques contra \"objetivos sensibles\" sauditas",
-      "link": "https://www.dw.com/es/hutíes-reivindican-ataques-contra-objetivos-sensibles-sauditas/a-79339996",
-      "imagen": "https://static.dw.com/image/79338200_6.jpg",
       "tipo": "imagen"
     }
   ]
