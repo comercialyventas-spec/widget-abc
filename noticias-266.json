@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Cambio de tique",
+      "link": "https://www.abc.es/espana/galicia/cambio-tique-20260920171403-nt.html",
+      "imagen": "https://s1.abcstatics.com/narwhal/1.3.69/assets/images/abc-noticias.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un experto, sobre los peligros de la IA: «Todos tenemos un cuchillo en casa, otra cosa es que lo usemos para matar»",
+      "link": "https://www.abc.es/espana/galicia/experto-sobre-peligros-ia-cuchillo-casa-usemos-20260920170710-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/20/1517297172-R5574MaoNdbuxFRNy7MnYgI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Silvio Rodríguez emociona en La Coruña: voz impecable, destreza instrumental y compromiso social",
       "link": "https://www.abc.es/espana/galicia/silvio-rodriguez-emociona-coruna-voz-impecable-destreza-20260920165419-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/20/1441381062-RktzQBKf20e3FpwFh5nPMPO-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "«Cuffed jeans»: Los vaqueros tendencia de este otoño que eclipsarán a los polémicos «barrel»",
       "link": "https://www.abc.es/espana/galicia/cuffed-jeans-vaqueros-tendencia-otono-eclipsaran-polemicos-20260920120623-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/20/zara-baggy-R5CFQtzy9LVHWxVEzqwemdI-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El censo exterior en Galicia se acerca a la suma de la población de Vigo y La Coruña",
-      "link": "https://www.abc.es/espana/galicia/censo-exterior-galicia-acerca-suma-poblacion-vigo-20260917112434-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/17/15892481-R74c0l9nNA3o8umGFPW3t2L-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Se regala aldea en Galicia: doce casas a una hora de Santiago «por 0 euros»",
-      "link": "https://www.abc.es/espana/galicia/regala-aldea-galicia-doce-casas-hora-santiago-20260920111244-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/20/barca-RG6YfCiExBVIrhB0vEz9DJO-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

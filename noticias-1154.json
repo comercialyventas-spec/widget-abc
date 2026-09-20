@@ -1,22 +1,28 @@
 {
   "noticias": [
     {
-      "titulo": "El Barça de Raphinha revienta a un enérgico Sevilla",
+      "titulo": "Atlético - Real Madrid en directo | Jonathan David marca el segundo y amplía la ventaja",
       "link": "https://elpais.com/noticias/liga-espanola-de-futbol/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/PRZW5LADY5DL3BYUNPTF2WLSP4.jpg?auth=1baeba104bc1036fb508e0c247fe7a80108ae223e97f48f4d285aaf9cf58a2e8&width=414&height=233&focal=2151%2C1011",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ZUNYUMPNDRCB3KR73RG653TIAM.jpg?auth=c0e440a15eebdcfc09cff4a141cd8230d0e063633268d083fd27bcbf460a75ee&width=414&height=233&focal=2421%2C1336",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Pedro Acosta gana el GP de Austria y conquista por fin la victoria en MotoGP",
+      "link": "https://elpais.com/noticias/motociclismo/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SEJWTPYCSNDKVH3VOQNGOQGKKE.png?auth=b640870211b3a4af7ef9c423e5198d4a40e0b827510ab604d5a10c6ed173fac6",
       "tipo": "imagen"
     },
     {
       "titulo": "Lamine para principiantes",
       "link": "https://elpais.com/deportes/futbol/2026-09-19/lamine-para-principiantes.html",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://imagenes.elpais.com/resizer/v2/APTKUH3NTVGJTN6PBB6TLRHUXI.jpg?auth=0ef88a3105a49e5208412e37d5b286d02c3cf6a3a1caab8c1975a989e996ce90&width=1200",
+      "tipo": "imagen"
     },
     {
       "titulo": "La fantasía de la camiseta",
       "link": "https://elpais.com/deportes/2026-09-18/la-fantasia-de-la-camiseta.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/2YPW7JXXINMTZHLFV5O72CEIHU.jpg?auth=da87a2132b252c095fd5b13a5d3eb8bda57ba1666e5b5178ae978eb8f46caab8&width=1200",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Todos somos canallas",
@@ -29,12 +35,6 @@
       "link": "https://elpais.com/deportes/tenis/2026-09-15/triunfos-que-cambian-una-carrera.html",
       "imagen": "",
       "tipo": ""
-    },
-    {
-      "titulo": "El nuevo Madrid gana como siempre: campeón de la Supercopa de la Euroliga",
-      "link": "https://elpais.com/noticias/euroliga/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/GRGUV2S2L5AJDKF7VITHJ4D7HE.jpg?auth=2cf37420f25e71472a0c079b7339ceb6a269b7ba0f2c4f632afbb9fc51fea6fb&width=414&height=311&focal=2689%2C1349",
-      "tipo": "imagen"
     }
   ]
 }
