@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Cuba restablece conexión eléctrica tras nuevo apagón masivo",
+      "link": "https://www.dw.com/es/cuba-restablece-conexión-eléctrica-tras-nuevo-apagón-masivo/a-79340525",
+      "imagen": "https://static.dw.com/image/77440439_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ataques de Israel dejan cuatro muertos en Gaza",
       "link": "https://www.dw.com/es/ataques-de-israel-dejan-cuatro-muertos-en-gaza/a-79340518",
       "imagen": "https://static.dw.com/image/76537438_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Hutíes reivindican ataques contra \"objetivos sensibles\" sauditas",
       "link": "https://www.dw.com/es/hutíes-reivindican-ataques-contra-objetivos-sensibles-sauditas/a-79339996",
       "imagen": "https://static.dw.com/image/79338200_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "General alemán asume mando de Comité Militar de la OTAN",
-      "link": "https://www.dw.com/es/general-alemán-asume-mando-de-comité-militar-de-la-otan/a-79339848",
-      "imagen": "https://static.dw.com/image/77198288_6.jpg",
       "tipo": "imagen"
     }
   ]
