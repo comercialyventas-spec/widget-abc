@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Los Javis: \"Estamos programados para sentirnos mal por quienes somos. Esa es la bola negra que tenemos dentro\"",
+      "link": "https://www.publico.es/culturas/cine-tv/javis-programados-sentirnos-mal-quienes-somos-bola-negra-tenemos.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/20/6ab00523c6976.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Receta de calabaza asada sobre cama de yogur y frutos del bosque",
       "link": "https://www.publico.es/culturas/recetas/receta-calabaza-asada-sobre-cama-yogur-frutos-bosque.html",
       "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/18/6aad1977540c3.r_d.499-308-2700.jpeg",
@@ -19,21 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Sophia Loren, una de las últimas estrellas vivas del cine clásico que ya es leyenda",
-      "link": "https://www.publico.es/culturas/cine-tv/sophia-loren-ultimas-estrellas-vivas-cine-clasico-leyenda.html",
-      "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/15/6aa958e336511.r_d.642-392-2112.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "'La nueva era del machismo', de Laura Bates | Biblioteca Público",
-      "link": "https://www.publico.es/culturas/libros/video-nueva-era-machismo-laura-bates-biblioteca-publico.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/18/6aad4ada17a6c.jpeg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "¿Hay alguna posibilidad de que España vuelva a Eurovisión en 2027?",
       "link": "https://www.publico.es/culturas/cine-tv/hay-posibilidad-espana-vuelva-eurovision-2027.html",
       "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/05/17/6a0967023c58c.r_d.1090-647-1227.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Sophia Loren, una de las últimas estrellas vivas del cine clásico que ya es leyenda",
+      "link": "https://www.publico.es/culturas/cine-tv/sophia-loren-ultimas-estrellas-vivas-cine-clasico-leyenda.html",
+      "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/15/6aa958e336511.r_d.642-392-2112.jpeg",
       "tipo": "imagen"
     }
   ]
