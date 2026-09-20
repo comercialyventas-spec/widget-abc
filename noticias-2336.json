@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Filmoteca abierta: «Luna de lobos»",
+      "link": "https://loquesomos.es/filmoteca-abierta-luna-de-lobos/",
+      "imagen": "https://loquesomos.es/wp-content/uploads/2026/08/luna_de_lobos-cine-cartel-lqsomos.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El porvenir de los libros de papel (Oda no lírica)",
       "link": "https://loquesomos.es/el-porvenir-de-los-libros-de-papel-oda-no-lirica/",
       "imagen": "https://loquesomos.es/wp-content/uploads/2026/04/libreria-libros-lectura-lector-vierjo-lqsomos.png",
@@ -15,8 +21,8 @@
     {
       "titulo": "Aquella visita del Papa León XIV y los éxitos del cristianismo",
       "link": "https://loquesomos.es/aquella-visita-del-papa-leon-xiv-y-los-exitos-del-cristianismo/",
-      "imagen": "https://loquesomos.es/wp-content/uploads/2026/06/papa-leon-xiv-canarias-visita-religion-lqsomos.jpeg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Soul Underground – Tommy Cogbill",
@@ -27,12 +33,6 @@
     {
       "titulo": "La subasta de tu atención: 200 milisegundos",
       "link": "https://loquesomos.es/la-subasta-de-tu-atencion-200-milisegundos/",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Hunter S. Thompson: política lisérgica y Freak Power para conquistar el Sueño Americano",
-      "link": "https://loquesomos.es/hunter-s-thompson-politica-lisergica-y-freak-power-para-conquistar-el-sueno-americano/",
       "imagen": "",
       "tipo": ""
     }
