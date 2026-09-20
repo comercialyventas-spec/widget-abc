@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La Federación Española suspende el partido de fútbol de la selección sub-20 que se iba a jugar en Ceuta",
+      "link": "https://www.eldiario.es/sociedad/federacion-espanola-suspende-partido-futbol-seleccion-sub-20-iba-jugar-ceuta_1_13524400.html",
+      "imagen": "https://static.eldiario.es/clip/cd3820d1-7652-4d41-a5b5-0a4eb4ccb7f9_facebook-aspect-ratio-1200-675_default_0_x1087y287.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Feijóo asegura que cerrará “a cal y canto” España para aquellos “que vengan a saltarse la ley”",
       "link": "https://www.eldiario.es/politica/feijoo-asegura-cerrara-cal-canto-espana-vengan-saltarse-ley_1_13524230.html",
       "imagen": "https://static.eldiario.es/clip/ef4b917d-bfba-4d30-ab96-e61f46cf2ad3_facebook-aspect-ratio-1200-675_default_0_x877y295.jpg",
@@ -15,8 +21,8 @@
     {
       "titulo": "El bulo del culo de Ayuso",
       "link": "https://www.eldiario.es/blog/politica-para-supervivientes/bulo-culo-ayuso_132_13521504.html",
-      "imagen": "https://static.eldiario.es/clip/456acbad-6de3-4f9e-a403-41ad390a9370_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Por qué publicamos y es noticia que Ayuso quiso comprar un piso en Chamberí un mes antes del 'aticazo'",
@@ -29,12 +35,6 @@
       "link": "https://www.eldiario.es/blog/el-boletin-del-director/papeles-atico-conducen-ayuso_132_13522487.html",
       "imagen": "",
       "tipo": ""
-    },
-    {
-      "titulo": "El PP culpa a la “escalada permanente de impuestos” del incremento de la inflación provocado por la guerra de Irán",
-      "link": "https://www.eldiario.es/politica/feijoo-culpa-escalada-permanente-impuestos-incremento-inflacion-provocada-guerra-iran_1_13524060.html",
-      "imagen": "https://static.eldiario.es/clip/bbbdf9d1-f23e-4d4f-a0bc-eb9db85fadfa_16-9-discover-aspect-ratio_default_1151616.jpg",
-      "tipo": "imagen"
     }
   ]
 }

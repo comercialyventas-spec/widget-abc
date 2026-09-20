@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La mariposa amenazada",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260920/11637952/mariposa-amenazada.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/18/6aacf5ef6a759.r_d.960-640-2338.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Llega ya el otoño a las calles",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260920/11637998/llega-otono-calles.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/20/6aafcde5c611a.r_d.983-754-2338.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El idílico halo solar de Puigcerdà",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260920/11639574/idilico-halo-solar-puigcerda.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/20/6aafa0819da94.r_d.993-620-2338.jpeg",
@@ -22,18 +34,6 @@
       "titulo": "El beneficio de las farolas solares",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260920/11639030/beneficio-farolas-solares.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/19/6aae57fa8da1e.r_d.987-906-2338.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El arco iris blanco",
-      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260920/11639577/arco-iris-blanco.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/20/6aafa1c95337d.r_d.1041-664-2338.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Abanico de rayos crepusculares",
-      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260920/11639014/abanico-rayos-crepusculares.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/19/6aae52fae1898.r_d.1051-844-2338.jpeg",
       "tipo": "imagen"
     }
   ]

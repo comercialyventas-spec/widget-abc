@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "GP de Austria en directo | Pedro Acosta logra en Austria su primera victoria de domingo en MotoGP",
+      "titulo": "Así te hemos contado la victoria de Pedro Acosta en el GP de Austria",
       "link": "https://elpais.com/deportes/motociclismo/2026-09-20/gp-de-austria-en-directo-la-carrera-de-motogp-en-vivo.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/AANVOHP7MBLVTLLWTEPVG5MBEI.jpg?auth=83723e16ce0a0be6451c9cc31429579eb339f00e960d836ec70eabee72af4d00&width=4054&height=2531&focal=2106%2C1065",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Pedro Acosta gana el GP de Austria y conquista por fin la victoria en MotoGP",
+      "link": "https://elpais.com/deportes/motociclismo/2026-09-20/pedro-acosta-gana-el-gp-de-austria-y-conquista-por-fin-la-victoria-en-motogp.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/O6GXTEV55RPMRPZMHEMQANFRHU.jpg?auth=80c94d9623ddae6ea483540e246bfedbf3daf854b7c92ee1e444613a042fe9bb&width=7357&height=5173&smart=true",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Marc Márquez deja de jugar al póker y libera su mente: 33 años, un brazo muy mermado y un plan para revalidar el título",
       "link": "https://elpais.com/deportes/motociclismo/2026-09-18/marc-marquez-deja-de-jugar-al-poker-y-libera-su-mente-33-anos-un-brazo-muy-mermado-y-un-plan-para-revalidar-el-titulo.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/56DYL72OMZAR7JOTPKR4PL3KPQ.jpg?auth=6aa639fa9a1560dd7d618fc0a1ddc12ed305f4e366a7722cba8ef64a02712655&width=3875&height=2584&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cascos innovadores y protocolos más severos: así avanza el motociclismo para proteger mejor la cabeza de sus pilotos",
-      "link": "https://elpais.com/deportes/motociclismo/2026-09-17/el-motociclismo-avanza-para-proteger-mejor-la-cabeza-de-sus-pilotos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/VPZRK7P7GVG7TE3LG664KGU52A.jpg?auth=f4475df12373ef9f120944c6a889f834d0a0a56159939d4fc0c0560dc5d3dfa2&width=4096&height=2731&focal=2413%2C1035",
       "tipo": "imagen"
     }
   ]
