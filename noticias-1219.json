@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Un muerto y tres heridos en un tiroteo entre dos clanes en Alzira (Valencia)",
+      "link": "https://efe.com/espana/2026-09-20/tiroteo-clanes-alzira-valencia-muerto/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/02/policia-nacional-1.webp?fit=900%2C600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Detenida una paciente tras el incendio en una residencia de Pamplona en el que murió una mujer",
+      "link": "https://efe.com/espana/2026-09-20/detenida-paciente-residencia-pamplona-incendio/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/RESIDENCIA-PAMPLONA.webp?fit=900%2C600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Tribunal Constitucional aborda la amnistía a los líderes del procés por malversación",
       "link": "https://efe.com/espana/2026-09-20/amnistia-proces-tribunal-constitucional-puigdemont/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2025/11/rss-efed70c160df1214d6838f8bacff6e01c612486642ew.webp?fit=1024%2C683&ssl=1",
@@ -22,18 +34,6 @@
       "titulo": "Colectivos antirracistas piden en varias ciudades respeto a los derechos humanos en Ceuta",
       "link": "https://efe.com/espana/2026-09-19/ceuta-derechos-humanos-antirracistas/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/GRAF9934-ESPANA-SOCIEDAD-INMIGRACION.webp?fit=900%2C600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Fiscalía ceutí envía al juez denuncias de menores por vejaciones en centros de acogida",
-      "link": "https://efe.com/espana/2026-09-19/denuncias-menores-migrantes-abusos-vejaciones/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/GRAF4851-ESPANA-SOCIEDAD-INMIGRACION.webp?fit=900%2C600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Detenido en Madrid un hombre de 85 años por la muerte violenta de su exnuera",
-      "link": "https://efe.com/espana/2026-09-19/mujer-asesinada-exsuegro/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/mujer-asesinada-madrid.webp?fit=900%2C506&ssl=1",
       "tipo": "imagen"
     }
   ]

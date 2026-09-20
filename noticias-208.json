@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Irán exige concesiones antes de nuevas negociaciones",
+      "link": "https://www.dw.com/es/irán-exige-concesiones-antes-de-nuevas-negociaciones/a-79342930",
+      "imagen": "https://static.dw.com/image/78297845_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Cuán segura es la comida en India?",
       "link": "https://www.dw.com/es/¿cuán-segura-es-la-comida-en-india/a-79340050",
       "imagen": "https://static.dw.com/image/79326512_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El poderoso tifón Dujuan avanza al sur de Japón",
       "link": "https://www.dw.com/es/el-poderoso-tifón-dujuan-avanza-al-sur-de-japón/a-79340618",
       "imagen": "https://static.dw.com/image/79107713_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Nuevo ataque de EE.UU. a lancha en el Caribe deja cuatro muertos",
-      "link": "https://www.dw.com/es/nuevo-ataque-de-ee-uu-a-lancha-en-el-caribe-deja-cuatro-muertos/a-79340534",
-      "imagen": "https://static.dw.com/image/74709903_6.jpg",
       "tipo": "imagen"
     }
   ]
