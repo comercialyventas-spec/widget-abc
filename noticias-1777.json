@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "¿Se puede regular la IA?: la automejora de los modelos más avanzados plantea nuevos retos para los legisladores",
-      "link": "https://www.elperiodico.com/es/internacional/20260920/regular-ia-auto-mejora-modelos-openai-anthropic-chatgpt-ue-china-eeuu-134467708",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2a2c9888-8a35-4e15-806f-c8d676278c22_16-9-discover-aspect-ratio_default_0_x600y225.jpg",
+      "titulo": "Feijóo reclama a Sánchez \"recuperar la protección de las fronteras\" y \"devolver el prestigio del pasaporte español\"",
+      "link": "https://www.elperiodico.com/es/politica/20260920/feijoo-promete-recuperar-proteccion-fronteras-espana-prestigio-pasaporte-acto-badalona-134484168",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/1c54f499-9ba2-4abe-bd7d-41ca11c775d7_16-9-discover-aspect-ratio_default_0_x800y300.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Sánchez promete \"todos los recursos\" para Ceuta y censura la \"oposición destructiva\" de Feijóo y Abascal",
+      "link": "https://www.elperiodico.com/es/videos/politica/sanchez-promete-recursos-ceuta-censura/134489579.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6ac4b4f2-b8e0-4579-8db0-c01205809b8e_16-9-discover-aspect-ratio_default_0_x1200y534.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las telecos se lanzan a la gran revolución cuántica",
+      "link": "https://www.elperiodico.com/es/economia/telecomunicaciones-revolucion-cuantica-134318446-rm/index.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9e2fd54f-1286-4d4a-9d4a-01bdc4e06e43_16-9-discover-aspect-ratio_default_0_x960y360.jpg",
       "tipo": "imagen"
     },
     {
@@ -19,21 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "La cruda lección de Groenlandia: las amenazas de Trump dan frutos",
-      "link": "https://www.elperiodico.com/es/opinion/20260920/cruda-leccion-groenlandia-acuerdo-estados-unidos-dinamarca-134472913",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7fb882b6-16ec-43f9-bb43-9a44a04389fc_16-9-discover-aspect-ratio_default_0_x1031y247.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Barcelona prepara una red de comercios asequibles inspirada en los supermercados públicos de Nueva York",
-      "link": "https://www.elperiodico.com/es/barcelona/20260919/collboni-anuncia-red-comercios-asequibles-134473141",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/250741c9-bf91-45ca-84b7-3eb87d643128_16-9-discover-aspect-ratio_default_0_x1000y414.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Por qué no invitan a Max Weber a Estrasburgo?",
-      "link": "https://www.elperiodico.com/es/opinion/20260920/invitan-max-weber-estrasburgo-134453925",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/e81fc960-1257-45cd-8156-6cd3b437c5e2_16-9-discover-aspect-ratio_default_0_x768y341.jpg",
+      "titulo": "\"Nos sentimos jardineros del bosque\": 25 payeses sostienen el futuro de Collserola",
+      "link": "https://www.elperiodico.com/es/barcelona/20260920/sentimos-jardineros-bosque-25-payeses-collserola-fuego-134392844",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6c487448-d66c-47e9-a99a-5ac09a228ecf_16-9-discover-aspect-ratio_default_0_x1000y444.jpg",
       "tipo": "imagen"
     }
   ]
