@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Elecciones regionales en Alemania: abren los colegios electorales",
+      "link": "https://www.dw.com/es/elecciones-regionales-en-alemania-abren-los-colegios-electorales/live-79341327",
+      "imagen": "https://static.dw.com/image/79341252_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El poderoso tifón Dujuan avanza al sur de Japón",
       "link": "https://www.dw.com/es/el-poderoso-tifón-dujuan-avanza-al-sur-de-japón/a-79340618",
       "imagen": "https://static.dw.com/image/79107713_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Deuda pública de Francia alcanzará récord en 2026 y 2027",
       "link": "https://www.dw.com/es/deuda-pública-de-francia-alcanzará-récord-en-2026-y-2027/a-79340511",
       "imagen": "https://static.dw.com/image/57510967_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Honduras declara \"terroristas\" a tres grupos criminales",
-      "link": "https://www.dw.com/es/honduras-declara-terroristas-a-tres-grupos-criminales/a-79340504",
-      "imagen": "https://static.dw.com/image/65959295_6.jpg",
       "tipo": "imagen"
     }
   ]
