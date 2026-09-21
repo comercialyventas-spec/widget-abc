@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Trasplante de órganos",
+      "link": "https://www.eldiario.es/sociedad/medicos-espanoles-crean-trasplantes-futuro-yassine-nora-viven-organos-vida-rechazo_1_13486590.html",
+      "imagen": "https://static.eldiario.es/clip/6fdf1f1b-af79-4371-b413-1d4cea0022ac_facebook-aspect-ratio-1200-675_default_0_x722y176.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Listas de espera",
       "link": "https://www.eldiario.es/",
       "imagen": "https://static.eldiario.es/clip/4737196c-2353-44b1-b78e-3c26b1adcfe8_facebook-aspect-ratio_default_0.jpg",
@@ -15,8 +21,8 @@
     {
       "titulo": "Veranillo San Miguel 2026",
       "link": "https://www.eldiario.es/sociedad/el-tiempo/veranillo-san-miguel-subira-termometros-espana-pm_1_13525502.html",
-      "imagen": "https://static.eldiario.es/clip/0cb397b2-78e7-45d1-970a-f9dbc82b396c_facebook-aspect-ratio-1200-675_default_0_x1547y410.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Trivial actualidad",
@@ -27,12 +33,6 @@
     {
       "titulo": "Seguir elDiario.es en Google",
       "link": "https://www.eldiario.es/redaccion/anade-eldiario-fuente-preferida-google-seguir-actualidad-ver-noticias_132_13200417.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Cambio de hora 2026",
-      "link": "https://www.eldiario.es/spin/cambiaremos-hora-otono-pasar-horario-invierno-pm_1_13525017.html",
       "imagen": "",
       "tipo": ""
     }

@@ -1,27 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "iPhone 18 Pro: el mismo cuerpo, otro teléfono",
-      "link": "https://www.elmundo.es/tecnologia/gadgets/2026/09/16/6aaa95ebe85ece19588b45b0.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/16/17895640894167.jpg",
+      "titulo": "Mac mini M6: un gran procesador en un cuerpo muy pequeño",
+      "link": "https://www.elmundo.es/tecnologia/creadores/2026/09/21/6ab16a70e85ece29748b458a.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/21/17900125270416.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Google lanzará los Googlebook en octubre con procesadores de Qualcomm e Intel",
+      "link": "https://www.elmundo.es/tecnologia/creadores/2026/09/21/6ab17b15e4d4d83a2c8b4595.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/21/17900162576127.png",
       "tipo": "imagen"
     },
     {
       "titulo": "Dimite un investigador de Google DeepMind que se une a las voces que dicen que la IA \"podría matarnos\"",
       "link": "https://www.elmundo.es/tecnologia/2026/09/15/6aa97edae85ece33538b45ac.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/15/17894928923944.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Dyson pone una cámara y un algoritmo de IA en tu boca con su nuevo cepillo",
-      "link": "https://www.elmundo.es/tecnologia/2026/09/01/6a96ecdbfdddfffe168b4586.html",
-      "imagen": "https://e01-phantom-elmundo.uecdn.es/3a449456343f9489616a0028fd234540/crop/263x0/2207x1296/resize/1200/f/webp/assets/multimedia/imagenes/2026/09/01/17882758141133.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Instagram penalizará y reducirá el alcance de los perfiles con personas generadas por IA no identificadas",
-      "link": "https://www.elmundo.es/tecnologia/2026/08/31/6a959fb9e85ecefb098b4586.html",
-      "imagen": "https://e01-phantom-elmundo.uecdn.es/2b234eb8ac8033e1d980f098996c5492/crop/77x0/901x549/f/webp/assets/multimedia/imagenes/2026/08/31/17881906140395.jpg",
+      "imagen": "https://e01-phantom-elmundo.uecdn.es/7c860a1f02ba793207ff94e35fa598e7/resize/1200/f/webp/assets/multimedia/imagenes/2026/09/15/17894928923944.jpg",
       "tipo": "imagen"
     },
     {
@@ -31,9 +25,15 @@
       "tipo": "imagen"
     },
     {
+      "titulo": "iPhone 18 Pro: el mismo cuerpo, otro teléfono",
+      "link": "https://www.elmundo.es/tecnologia/gadgets/2026/09/16/6aaa95ebe85ece19588b45b0.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/16/17895640894167.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Apple rebaja al 26% su comisión en la App Store europea y elimina el peaje por instalación",
       "link": "https://www.elmundo.es/tecnologia/2026/08/18/6a848c9a21efa047238b45b8.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/18/17870716591064.jpg",
+      "imagen": "https://e01-phantom-elmundo.uecdn.es/332ad4ecd12e72f5380d699f1893a911/crop/0x0/1280x853/resize/1200/f/webp/assets/multimedia/imagenes/2026/08/18/17870716591064.jpg",
       "tipo": "imagen"
     }
   ]

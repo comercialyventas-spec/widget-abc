@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "iPhone 18 Pro: el mismo cuerpo, otro teléfono",
-      "link": "https://www.elmundo.es/tecnologia/gadgets/2026/09/16/6aaa95ebe85ece19588b45b0.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/16/17895640894167.jpg",
+      "titulo": "Mac mini M6: un gran procesador en un cuerpo muy pequeño",
+      "link": "https://www.elmundo.es/tecnologia/creadores/2026/09/21/6ab16a70e85ece29748b458a.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/21/17900125270416.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Google lanzará los Googlebook en octubre con procesadores de Qualcomm e Intel",
+      "link": "https://www.elmundo.es/tecnologia/creadores/2026/09/21/6ab17b15e4d4d83a2c8b4595.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/21/17900162576127.png",
       "tipo": "imagen"
     },
     {
@@ -13,21 +19,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Dyson pone una cámara y un algoritmo de IA en tu boca con su nuevo cepillo",
-      "link": "https://www.elmundo.es/tecnologia/2026/09/01/6a96ecdbfdddfffe168b4586.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/01/17882758141133.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Instagram penalizará y reducirá el alcance de los perfiles con personas generadas por IA no identificadas",
-      "link": "https://www.elmundo.es/tecnologia/2026/08/31/6a959fb9e85ecefb098b4586.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/31/17881906140395.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Apple filtra por accidente el vídeo de sus nuevos AirPods con cámara",
       "link": "https://www.elmundo.es/tecnologia/innovacion/2026/08/18/6a83e9a3e9cf4a5f758b456d.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/18/17870297928222.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "iPhone 18 Pro: el mismo cuerpo, otro teléfono",
+      "link": "https://www.elmundo.es/tecnologia/gadgets/2026/09/16/6aaa95ebe85ece19588b45b0.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/16/17895640894167.jpg",
       "tipo": "imagen"
     },
     {
