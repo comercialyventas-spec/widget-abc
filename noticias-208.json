@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Japón cancela cientos de vuelos ante llegada de tifón Dujuan",
+      "link": "https://www.dw.com/es/japón-cancela-cientos-de-vuelos-ante-llegada-de-tifón-dujuan/a-79349855",
+      "imagen": "https://static.dw.com/image/77403746_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un ministro de Taiwán realiza inusual visita a China",
       "link": "https://www.dw.com/es/un-ministro-de-taiwán-realiza-inusual-visita-a-china/a-79349020",
       "imagen": "https://static.dw.com/image/74581255_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Elecciones en Alemania: se confirma avance electoral de AfD",
       "link": "https://www.dw.com/es/elecciones-en-alemania-se-confirma-avance-electoral-de-afd/live-79341327",
       "imagen": "https://static.dw.com/image/79347248_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Macron y Carney respaldan acercamiento UE-Canadá",
-      "link": "https://www.dw.com/es/macron-y-carney-respaldan-acercamiento-ue-canadá/a-79348731",
-      "imagen": "https://static.dw.com/image/79348642_6.jpg",
       "tipo": "imagen"
     }
   ]

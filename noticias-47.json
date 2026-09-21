@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Guess anuncia una colección codiseñada con la alemana más influyente de la moda",
+      "link": "https://www.lavanguardia.com/magazine/moda/20260921/11638343/guess-anuncia-coleccion-codisenada-alemana-mas-influyente-moda.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/18/6aad39b2298ea.r_d.483-196-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El pueblo italiano en territorio suizo que no paga impuestos y depende de su casino",
+      "link": "https://www.lavanguardia.com/magazine/viajes/20260921/11637131/pueblo-italiano-territorio-suizo-paga-impuestos-depende-casino.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/17/6aabc3739c974.r_d.1154-649-2307.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Mango Man redefine el estilo casual del denim",
+      "link": "https://www.lavanguardia.com/magazine/moda/20260921/11635617/mango-man-redefine-estilo-casual-denim.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/15/6aa96701886a7.r_d.2015-1241-997.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El oficio de no pensar en nada",
       "link": "https://www.lavanguardia.com/magazine/protagonistas/20260921/11637093/oficio-pensar.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/17/6aabbf707d227.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/17/6aabbf707d227.r_d.767-459-0.jpeg",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "Horóscopo semanal de Piscis: descubre qué te depara en amor, trabajo, salud y dinero del 21 al 27 de septiembre de 2026",
       "link": "https://www.lavanguardia.com/magazine/horoscopo/20260921/11634487/horoscopo-predicciones-piscis-semana-lunes-21-domingo-27-septiembre-ctx.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/07/10/64abed9537f27.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Horóscopo semanal de Acuario: descubre qué te depara en amor, trabajo, salud y dinero del 21 al 27 de septiembre de 2026",
-      "link": "https://www.lavanguardia.com/magazine/horoscopo/20260921/11634486/horoscopo-predicciones-acuario-semana-lunes-21-domingo-27-septiembre-ctx.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/07/10/64abeaae87c4e.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Horóscopo semanal de Capricornio: descubre qué te depara en amor, trabajo, salud y dinero del 21 al 27 de septiembre de 2026",
-      "link": "https://www.lavanguardia.com/magazine/horoscopo/20260921/11634485/horoscopo-predicciones-capricornio-semana-lunes-21-domingo-27-septiembre-ctx.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/07/10/64abebf72679c.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Horóscopo semanal de Sagitario: descubre qué te depara en amor, trabajo, salud y dinero del 21 al 27 de septiembre de 2026",
-      "link": "https://www.lavanguardia.com/magazine/horoscopo/20260921/11634484/horoscopo-predicciones-sagitario-semana-lunes-21-domingo-27-septiembre-ctx.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/07/10/64abedd8152b0.jpeg",
       "tipo": "imagen"
     }
   ]

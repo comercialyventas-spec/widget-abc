@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Jordi Cruz, sobre las jornadas en la hostelería: «Hemos pasado de ser espartanos a hacer sólo 8 horas»",
-      "link": "https://www.abc.es/recreo/jordi-cruz-filtros-sobre-jornadas-laborales-hosteleria-20260921120526-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2025/09/18/jordcir-kOoG-U301778317574qeC-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "Cómo la industria láctea hundió la ganadería",
       "link": "https://www.abc.es/economia/industria-lactea-hundio-ganaderia-pactaban-precios-querias-20260917012111-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/17/20260731_MM_FERNANDO%20SAIZ%20(3%20de%2024)-U20609936686gm-RKdvIS6zGmSTEqvElG4qOvM-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/17/20260731_MM_FERNANDO%20SAIZ%20(3%20de%2024)-U20609936686gm-RKdvIS6zGmSTEqvElG4qOvM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Tu hijo se va a estudiar fuera: ¿cómo acompañarle sin estar encima?",
       "link": "https://www.abc.es/familia/padres-hijos/hijo-estudiar-acompanarle-estar-encima-20260921012005-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/familia/2026/09/21/AdobeStock_2161424729-RGV3LLeQWhAsSffQKghv7DL-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/familia/2026/09/21/AdobeStock_2161424729-RGV3LLeQWhAsSffQKghv7DL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Con Iván Ferreiro la vida transcurre mientras estábamos en nuestra trinchera pop",
       "link": "https://www.abc.es/cultura/musica/ivan-ferreiro-vida-transcurre-trinchera-pop-20260921072302-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/21/1517600643-ksBH-U301815533302N1-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Llega a Netflix la miniserie basada en una novela de Reverte y protagonizada por José Coronado",
-      "link": "https://www.abc.es/play/series/noticias/llega-netflix-miniserie-basada-novela-arturo-perezreverte-20260921070000-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/07/12/reverte-coronado-U202229076921ZNE-U301779253979E6E-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/21/1517600643-ksBH-U301815533302N1-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Laura Escanes se lanza al mundo del entrenamiento personal",
       "link": "https://www.abc.es/gente/laura-escanes-lanza-mundo-entrenamiento-personal-20260917011747-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/17/laura-escanes_20260917163344-RpsaOdMkRuGi418sDRQ1mhP-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/17/laura-escanes_20260917163344-RpsaOdMkRuGi418sDRQ1mhP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cristina Cervantes: «Ocho de cada diez llegan con dificultades a final de mes»",
+      "link": "https://www.abc.es/economia/cristina-cervantes-analista-financiera-ocho-diez-personas-20260921050000-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2026/09/17/cristina-cervantes-bravo-RJjydKlDusRwxzFfBnYgfwN-1200x840@diario_abc.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Aemet avisa a Madrid por lo que llega en las próximas horas: «Entramos en el otoño con temperaturas extremas en la capital»",
+      "link": "https://www.abc.es/espana/madrid/aemet-avisa-madrid-llega-proximas-horas-entramos-20260921050000-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/21/calor-extremo-k0aD-U301808351563pTF-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }

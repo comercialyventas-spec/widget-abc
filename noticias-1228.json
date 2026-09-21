@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Depresión tropical en el Pacífico de México podría convertirse en un huracán, dicen autoridades",
+      "link": "https://efe.com/medio-ambiente/2026-09-21/depresion-tropical-pacifico-mexico-huracan/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/MX-1.webp?fit=900%2C600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Niño amenaza a California con un invierno extremo tras un verano de temperaturas récord",
       "link": "https://efe.com/medio-ambiente/2026-09-20/fenomeno-el-nino-california-invierno/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/el-nino-amenaza-california-con-invierno-extremo-tras-verano-temperaturas-record.webp?fit=900%2C599&ssl=1",
@@ -28,12 +34,6 @@
       "titulo": "Finaliza la alerta por inundaciones en Valencia mientras las lluvias causan la muerte de una persona en Barcelona",
       "link": "https://efe.com/espana/2026-09-17/tormentas-lluvias-alertas/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/TORMENTA-VALENCIA-COCHE.webp?fit=900%2C600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La lluvia activa aviso naranja en 4 comunidades del este peninsular, hasta 40 litros/hora",
-      "link": "https://efe.com/medio-ambiente/2026-09-16/lluvia-activa-aviso-naranja-4-comunidades-este-peninsular/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/lluvia.webp?fit=900%2C601&ssl=1",
       "tipo": "imagen"
     }
   ]
