@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Youth",
-      "link": "https://elpais.com/television/series/youth/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/K3ATSN5AR5ARTLWYAPBCF6SJGQ.jpg?auth=7b26f1768a4ece921f6692761c9168e837a2cc762b7a4a8623bfda968afd0074",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Mobland (Tierra de mafiosos)",
       "link": "https://elpais.com/television/series/tierra-de-mafiosos/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/GGHGPWLMBNFTJN6ADYM4FEMEBE.jpg?auth=ed849575539b88e4e85b6202a6da108d7b3f2f74b361dabbfe911eca2223acc9",
@@ -34,6 +28,12 @@
       "titulo": "La cursilería, antesala del trumpismo",
       "link": "https://elpais.com/television/2026-09-20/la-cursileria-antesala-del-trumpismo.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/2ZJO2DE6LBCNJETWCX7Z7BGPIA.jpg?auth=d9aa10044e0a8f92f32e87ca7b34ba188531c8229e5cef70ccc9acefca1fe29d",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Martín Escolar, el divulgador cultural que triunfa en ‘Saber y ganar’: “No sabía que su mensaje sobre el respeto a los concursantes iba por mí”",
+      "link": "https://elpais.com/television/2026-09-20/martin-escolar-el-divulgador-cultural-que-triunfa-en-saber-y-ganar-no-sabia-que-su-mensaje-sobre-el-respeto-a-los-concursantes-iba-por-mi.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NM6SOCYGEZHCTI66XKM77LCZBY.jpg?auth=dbb944d9f79f74406b3979ccf1f53c24576e143d656626230750afae708e552a",
       "tipo": "imagen"
     }
   ]
