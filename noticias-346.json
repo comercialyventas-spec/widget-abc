@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El estado de Columbia Británica demanda a OpenAI por un tiroteo en una escuela de Canadá",
+      "link": "https://www.abc.es/tecnologia/estado-columbia-britanica-demanda-openai-tiroteo-escuela-20260921230147-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/21/1506823939-k9m-U3018310327828tC-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Documentos desclasificados señalan a Microsoft y OpenAI y revelan cómo la IA destruye en secreto a los medios de comunicación",
       "link": "https://www.abc.es/tecnologia/documentos-desclasificados-senalan-microsoft-openai-revelan-ia-20260921204732-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/21/sam-altman-satya-nadella-RlNaT4y0oFlRibElNwbF59H-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "EE.UU. propone a China crear un «mecanismo de notificación» mutua sobre IA",
       "link": "https://www.abc.es/tecnologia/eeuu-propone-china-crear-mecanismo-notificacion-mutua-20260921082240-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/21/1517601994-kVUD-U301816097880fkF-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un robot humanoide entra en 30 casas que nunca había visto y empieza a hacer las tareas por sí mismo",
-      "link": "https://www.abc.es/tecnologia/electronica/robot-humanoide-entra-casas-nunca-visto-empieza-20260918200341-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/18/figure-ai-helix-2-5_20260918192707-RLTmNv9MqVdc4MC0A8TqeJI-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
