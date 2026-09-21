@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "España activa mecanismos «preventivos» para evitar entradas irregulares a Ceuta el día 23",
+      "link": "https://efe.com/portada-espana/2026-09-21/espana-activa-mecanismos-preventivos-para-entradas-irregulares-ceuta-23/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/mecanismos-preventivos-ceuta.webp?w=600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Gobierno calcula que todavía hay algo más de 3.000 migrantes por las calles de Ceuta",
+      "link": "https://efe.com/espana/2026-09-21/migrantes-calles-ceuta/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/migrantes-1.webp?w=600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Pedro Sánchez pide no ser indiferente a la «normalización del odio» tras el ataque a una diputada ceutí",
+      "link": "https://efe.com/espana/2026-09-21/sanchez-ataque-diputada-ceuta/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/sanchez-2.webp?w=600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Intervienen más de 2.000 kilos de cocaína a 400 millas de las costas gallegas",
       "link": "https://efe.com/espana/2026-09-21/cocaina-intervenida-galicia/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/narcos.webp?w=600&ssl=1",
@@ -13,27 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Detenido en Alicante por la muerte de su pareja, una mujer de 34 años, en Leganés (Madrid)",
-      "link": "https://efe.com/espana/2026-09-21/leganes-detenido-violencia-machista/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/leganes.webp?w=600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Marlaska viaja a Ceuta para supervisar los triajes a los migrantes que permanecen en la ciudad",
-      "link": "https://efe.com/espana/2026-09-21/marlaska-ceuta-triajes/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/MARLASKA-CETI.webp?w=600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Caso Asunta Basterra: Trece años después, su padre y asesino aspira a tres días de permiso",
-      "link": "https://efe.com/espana/2026-09-21/caso-asunta-basterra-trece-anos-padre-permiso/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/asunta-basterra.webp?w=600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Juan Carlos I presenta sus memorias como un legado y admite: «Fue más temerario que prudente»",
-      "link": "https://efe.com/espana/2026-09-20/juan-carlos-i-memorias/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/EPA4379-FRANCE-KING-JUAN-CARLOS.webp?w=600&ssl=1",
+      "titulo": "El tiempo en España",
+      "link": "https://efe.com/espana/2025-11-26/tiempo-espana-hoy-prediccion-meteorologia-aemet/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/08/banistas-playa-vigo.webp?w=600&ssl=1",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¿Qué tipo de material necesita un gimnasio de CrossFit?",
+      "link": "https://www.mediterraneodigital.com/deportes/venta-de-material-deportivo-para-crossfit",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/9/crossfit.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Después de Ceuta y Melilla, Marruecos reclama el Monte Tropic de las islas Canarias",
       "link": "https://www.mediterraneodigital.com/espana/monte-tropic",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/monte-tropic.jpg",
@@ -15,8 +21,8 @@
     {
       "titulo": "Puigdemont pide un referéndum para Ceuta y Melilla",
       "link": "https://www.mediterraneodigital.com/espana/cataluna/puigdemont-ceuta-melilla",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/9/puigdemont-carles.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "5 hombres disfrazados de policía paran un coche en la AP-7 y secuestran al conductor",
@@ -27,12 +33,6 @@
     {
       "titulo": "Florentino Pérez la lía en el palco del Metropolitano: «Dice que se va»",
       "link": "https://www.mediterraneodigital.com/deportes/florentino-perez-metropolitano",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Los herederos del Partido Comunista ganan las elecciones en Berlín",
-      "link": "https://www.mediterraneodigital.com/internacional/die-linke-berlin",
       "imagen": "",
       "tipo": ""
     }
