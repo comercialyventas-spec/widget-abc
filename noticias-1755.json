@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Hamlet 2.0",
+      "link": "https://www.publico.es/opinion/vinetas/hamlet-2-0.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/20/6aafd9acbb8bb.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El empujón",
       "link": "https://www.publico.es/opinion/vinetas/empujon-1.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/17/6aac0a8f6e045.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "El desgarro",
       "link": "https://www.publico.es/opinion/vinetas/desgarro.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/08/6aa01b0e2f05c.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un menú para Ayuso",
-      "link": "https://www.publico.es/opinion/vinetas/menu-ayuso.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/06/6a9d4d9226d58.jpeg",
       "tipo": "imagen"
     }
   ]

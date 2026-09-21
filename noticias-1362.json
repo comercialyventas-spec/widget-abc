@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¿Qué escuchamos cuando estamos en coma?",
+      "link": "https://elpais.com/podcasts/hoy-en-el-pais/2026-09-21/que-escuchamos-cuando-estamos-en-coma.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/LKGQYWDRONBJ3LCUMMLJRVGP7E.jpg?auth=00d82f66beb5181fd285f9e0529210fb2a5a42eb6f9d57dc57d8bdab160a983f",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Son los psicodélicos la solución a los problemas de salud mental?",
       "link": "https://elpais.com/podcasts/mis-preguntas/2026-09-20/son-los-psicodelicos-la-solucion-a-los-problemas-de-salud-mental.html",
       "imagen": "https://vdmedia.elpais.com/elpaistop/20269/18/1789753895_still.jpg",
@@ -29,12 +35,6 @@
       "link": "https://elpais.com/podcasts/hoy-en-el-pais/2026-09-16/los-prejuicios-la-principal-barrera-de-la-discapacidad-psicosocial.html",
       "imagen": "",
       "tipo": ""
-    },
-    {
-      "titulo": "Cumplir 18 años en un centro de menores: “Me trajeron una tarta, pero ni siquiera la probé”",
-      "link": "https://elpais.com/podcasts/hoy-en-el-pais/2026-09-16/cumplir-18-anos-en-un-centro-de-menores-me-trajeron-una-tarta-pero-ni-siquiera-la-probe.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/EZVT7AW5ARID7AAKO3H62G5KLQ.jpg?auth=bb483b2f77eb5c7522c852c105ec519f131591e01576e4841129be97d0a66f4d",
-      "tipo": "imagen"
     }
   ]
 }
