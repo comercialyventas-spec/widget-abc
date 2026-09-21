@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "De la IA a la Mediateca Mundial…",
+      "link": "https://loquesomos.es/de-la-ia-a-la-mediateca-mundial/",
+      "imagen": "https://loquesomos.es/wp-content/uploads/2026/02/ciber-creaccion-contenido-IA-lqsomos-777x450.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Telediario",
       "link": "https://loquesomos.es/telediario/",
       "imagen": "https://loquesomos.es/wp-content/uploads/2026/08/television-tv-informacion-comunicacion-periodismo-lqsomos-555x450.png",
@@ -28,12 +34,6 @@
       "titulo": "Sufrimiento",
       "link": "https://loquesomos.es/sufrimiento/",
       "imagen": "https://loquesomos.es/wp-content/uploads/2025/12/suicidio-depresion-consciencia-lqsomos-777x450.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Abur! a Jean Zegler",
-      "link": "https://loquesomos.es/abur-a-jean-zegler/",
-      "imagen": "https://loquesomos.es/wp-content/uploads/2026/06/Jean_Ziegler_kqsomos-777x450.jpg",
       "tipo": "imagen"
     }
   ]

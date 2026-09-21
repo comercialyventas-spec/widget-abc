@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Manifestación en distrito Carabanchel. Afectadas 6 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260924-M-Av-Abrantes-Gta-Valle-Oro.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Concentración en Alcalá. Afectadas 11 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260922-C-Alcala.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Supresión de Parada: Fuente Carrantona. Afectadas 3 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260922-SP-848-Fuente-Carrantona.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Supresión de Parada: Fuente Carrantona. Afectadas 3 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260922-SP-3026-Fuente-Carrantona.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Supresión de Parada: Fuente Carrantona. Afectadas 3 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260922-SP-1059-Fuente-Carrantona.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -9,30 +33,6 @@
     {
       "titulo": "Obras: calle Monte Perdido. Afectada línea 10 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260924-O-Monte-Perdido.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Evento: Palacio de los Deportes. Afectadas 4 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260924-PD-Evento.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Obras: Arturo Soria. Afectada línea N1 de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260924-Grua-Arturo-Soria.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Manifestación en zona Centro. Afectadas 6 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260924-M-Atocha-Mayor.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Recuperación de Parada: Carretera de Castilla. Afectadas 4 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260921-RPS-3426-Carretera-Castilla.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }
