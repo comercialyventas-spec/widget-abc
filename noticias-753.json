@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Somos Chamberí",
+      "link": "https://www.eldiario.es/madrid/somos/chamberi/",
+      "imagen": "https://static.eldiario.es/clip/ecc1cdd9-fcc0-41c9-b84a-4ca8bef56653_16-9-discover-aspect-ratio_default_0_x744y308.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Nuevo corte en la línea 6 de Metro de Madrid los dos próximos fines de semana, ahora entre Cuatro Caminos y Lucero",
+      "link": "https://www.eldiario.es/madrid/somos/nuevo-corte-linea-6-metro-madrid-proximos-fines-semana-ahora-cuatro-caminos-lucero_1_13525658.html",
+      "imagen": "https://static.eldiario.es/clip/b47d3b5f-4cc7-4e42-a563-dad6a58d0072_16-9-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Chamberí Sound: festival ecléctico y gratuito que mezcla indie con Pitingo, pop cayetano y los DJ preferidos de Almeida",
       "link": "https://www.eldiario.es/madrid/somos/chamberi/chamberi-sound-festival-eclectico-gratuito-mezcla-indie-pitingo-pop-cayetano-dj-preferidos-almeida_1_13502663.html",
-      "imagen": "https://static.eldiario.es/clip/b8b24258-1ade-4158-b444-acb2018b044c_16-9-aspect-ratio_default_0_x763y561.jpg",
+      "imagen": "https://static.eldiario.es/clip/b8b24258-1ade-4158-b444-acb2018b044c_16-9-discover-aspect-ratio_default_0_x763y561.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Una tragedia laboral o trabajo forzado: lo que la exposición del Canal de Isabel II omite y tejería una historia más honesta",
       "link": "https://www.eldiario.es/madrid/somos/chamberi/tragedia-laboral-trabajo-forzado-exposicion-canal-isabel-ii-omite-tejeria-historia-honesta_1_13445987.html",
       "imagen": "https://static.eldiario.es/clip/fa01e6c3-6b20-402c-97ac-155d48f8ccd1_16-9-discover-aspect-ratio_default_0_x427y527.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Gobierno de Ayuso licita a través de Planifica Madrid por 2,9 millones de euros las obras en Velintonia",
-      "link": "https://www.eldiario.es/madrid/somos/chamberi/gobierno-ayuso-licita-traves-planifica-madrid-2-9-millones-euros-obras-velintonia_1_13442192.html",
-      "imagen": "https://static.eldiario.es/clip/0f74deaf-c594-48ff-80d6-06120dd5869e_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Gran incendio en un edificio del corazón de Chamberí, con decenas de desalojados pero sin víctimas",
-      "link": "https://www.eldiario.es/madrid/somos/chamberi/gran-incendio-edificio-corazon-chamberi-decenas-desalojados-victimas_1_13424299.html",
-      "imagen": "https://static.eldiario.es/clip/4e860909-6e80-4dc9-a0a2-fca84f306fb1_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
