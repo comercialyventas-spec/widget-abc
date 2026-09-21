@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un menor marroquí cruzó el estrecho bajo el autobús del Valladolid",
+      "link": "https://www.abc.es/deportes/futbol/menor-marroqui-viajo-cruzo-estrecho-bajo-autobus-20260921140329-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/21/bus-ceuta-RgO6e7leAg2Fc3ykD1SsElJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Real Madrid, en guerra",
       "link": "https://www.abc.es/deportes/futbol/real-madrid-guerra-20260921134003-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/21/real%20amdrid-REzjoSs0JMkN3i4y5qrXTfI-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Vinicius y Mbappé, desaparecidos",
       "link": "https://www.abc.es/deportes/futbol/vinicius-mbappe-desaparecidos-20260920182333-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/20/mba-R4BKhqTaVZlPO2BaWQELSdP-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Otro revolcón al Madrid en el Metropolitano en un polémico derbi",
-      "link": "https://www.abc.es/deportes/futbol/cronica-atletico-real-madrid-20260920094941-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/20/alegria-atletico-ignacio-gil-RHAKgdL79M42LatmEwstGmK-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Elecciones regionales en Alemania: ¿voto de castigo a Friedrich Merz?",
+      "link": "https://www.dw.com/es/elecciones-regionales-en-alemania-¿voto-de-castigo-a-friedrich-merz/a-79354603",
+      "imagen": "https://static.dw.com/image/79347170_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El partido de Putin logra un récord de escaños en Rusia",
       "link": "https://www.dw.com/es/el-partido-de-putin-logra-un-récord-de-escaños-en-rusia/a-79354199",
       "imagen": "https://static.dw.com/image/79345595_6.jpg",
@@ -25,15 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Tras las elecciones regionales: AfD afirma superar a CDU como partido de masas",
-      "link": "https://www.dw.com/es/tras-las-elecciones-regionales-afd-afirma-superar-a-cdu-como-partido-de-masas/live-79350170",
-      "imagen": "https://static.dw.com/image/79351530_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Japón cancela cientos de vuelos ante llegada de tifón Dujuan",
-      "link": "https://www.dw.com/es/japón-cancela-cientos-de-vuelos-ante-llegada-de-tifón-dujuan/a-79349855",
-      "imagen": "https://static.dw.com/image/77403746_6.jpg",
+      "titulo": "Tras las elecciones regionales: Merz promete mantener la coalición de gobierno",
+      "link": "https://www.dw.com/es/tras-las-elecciones-regionales-merz-promete-mantener-la-coalición-de-gobierno/live-79350170",
+      "imagen": "https://static.dw.com/image/79357244_6.jpg",
       "tipo": "imagen"
     }
   ]

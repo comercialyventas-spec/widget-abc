@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "El juez Peinado envía de nuevo a juicio a Begoña Gómez por presuntos delitos de malversación y tráfico de influencias",
+      "titulo": "El juez Peinado envía a juicio a Begoña Gómez por presuntos delitos de malversación y tráfico de influencias",
       "link": "https://www.europapress.es/nacional/noticia-juez-peinado-envia-nuevo-juicio-begona-gomez-presuntos-delitos-malversacion-trafico-influencias-20260921121357.html",
       "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20260921121357_600x400_0_0_0_0_bgfff.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Moncloa condena que Peinado envíe a juicio a Begoña Gómez y espera que el jurado popular sea \"ecuánime\"",
+      "link": "https://www.europapress.es/nacional/noticia-moncloa-condena-peinado-envie-juicio-begona-gomez-espera-jurado-popular-sea-ecuanime-20260921133025.html",
+      "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20260921133025_290_103_103_0_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -19,21 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Feijóo exige a Sánchez desde Ceuta que active mecanismos europeos para devolver a migrantes y pedir refuerzo de Frontex",
-      "link": "https://www.europapress.es/nacional/noticia-ultima-hora-crisis-migratoria-ceuta-2026-directo-marruecos-retornos-situacion-migrantes-20260921075954.html",
-      "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20260921075954_290_149_149_0_0.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Albares dice que trabaja con autoridades marroquíes para prevenir el llamamiento del día 23 para entrar a Ceuta",
       "link": "https://www.europapress.es/nacional/noticia-albares-dice-gobierno-actuando-prevencion-llamamiento-entrar-ceuta-23-septiembre-20260921090818.html",
       "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20260921090818_617_104_104_0_0_v2.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Sánchez anuncia un bono de 600 millones para que pymes y autónomos incorporen la IA",
-      "link": "https://www.europapress.es/economia/noticia-sanchez-anuncia-bono-600-millones-pymes-autonomos-incorporen-ia-20260921134944.html",
-      "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20260921134944_283_139_139_0_0.jpg",
+      "titulo": "Feijóo exige a Sánchez desde Ceuta que active mecanismos europeos para devolver a migrantes y pedir refuerzo de Frontex",
+      "link": "https://www.europapress.es/nacional/noticia-ultima-hora-crisis-migratoria-ceuta-2026-directo-marruecos-retornos-situacion-migrantes-20260921075954.html",
+      "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20260921075954_283_146_146_0_0.jpg",
       "tipo": "imagen"
     }
   ]
