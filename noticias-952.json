@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "En tendencia",
-      "link": "https://entradas.elmundo.es/",
-      "imagen": "https://entradas.elmundo.es/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgigsberg_white.3bgzniiz5a63k.png&w=256&q=75",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "ConciertosRockPopHard Rock MetalRock y popRapHip Hop ReggaeAlternativo e indieTodos los conciertosDeportesFútbolRugbyDardosTenisFútbol americanoWWETod",
       "link": "https://entradas.elmundo.es/es",
       "imagen": "https://entradas.elmundo.es/_next/image?url=https%3A%2F%2Fgigsberg.com%2Ffiles%2Fimages%2Flogos%2Flogo-metropoli.png&w=384&q=75",
@@ -19,20 +13,26 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "FútbolRugbyDardosTenisFútbol americanoWWETodos los deportes",
+      "titulo": "DeportesFútbolRugbyDardosTenisFútbol americanoWWETodos los deportes",
       "link": "https://entradas.elmundo.es/es/sport-tickets/football",
       "imagen": "https://entradas.elmundo.es/og/types-all.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "ComediaToda la comedia",
+      "titulo": "ComediaComediaToda la comedia",
       "link": "https://entradas.elmundo.es/es/comedy-tickets/comedy",
       "imagen": "https://entradas.elmundo.es/og/types-all.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Reino UnidoEspañaPaíses BajosAustraliaFestivales internacionalesTodos los festivales",
+      "titulo": "FestivalesReino UnidoEspañaPaíses BajosAustraliaFestivales internacionalesTodos los festivales",
       "link": "https://entradas.elmundo.es/es/festival-tickets/uk-festivals",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "TeatroClásicaConferencias y recorridosBallet y danzaEspectáculos",
+      "link": "https://entradas.elmundo.es/es/theatre-tickets/classical",
       "imagen": "",
       "tipo": ""
     }
