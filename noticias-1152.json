@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Europa se plantea garantizar a las grandes compañías de IA el acceso total a los datos de los ciudadanos",
+      "link": "https://elpais.com/tecnologia/2026-09-21/europa-se-plantea-garantizar-a-las-grandes-companias-de-ia-el-acceso-total-a-los-datos-de-los-ciudadanos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NXO2X64GDBFABDPU3JVJ4ATTXA.jpg?auth=c2ef25d714079b9902ed604494266a79aee12f2b803f5da5e22db8af30f757b8",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Del Pollo Pepe al libro personalizado de ChatGPT: Cómo la IA se convirtió en el superventas de la literatura infantil",
+      "link": "https://elpais.com/tecnologia/2026-09-21/del-pollo-pepe-al-libro-personalizado-de-chatgpt-como-la-ia-se-convirtio-en-el-superventas-de-la-literatura-infantil.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TD7Y7SXGNZFDLOGUQOJYPNTRWI.jpg?auth=c5ca89200d6dc622424c219ec5c95ab427d57e0c78371f354d229914cb47decb",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Tú la temes, yo la amo: la cumbre Trump-XI afronta la IA con mentalidades opuestas en China y EE UU",
       "link": "https://elpais.com/tecnologia/2026-09-20/tu-la-temes-yo-la-amo-la-cumbre-trump-xi-afronta-la-ia-con-mentalidades-opuestas-en-china-y-ee-uu.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/YZBX5KXQ3RO5NCZZ3XEUMZB5SA.jpg?auth=ebead9f354fdad000ed5526ed2a40d578d2bd55ce10caa24d9fa11e1ee39f875",
@@ -22,18 +34,6 @@
       "titulo": "¿Nos roba la IA las ideas? “No se puede demostrar al 100%, pero es lógico pensar que sí”",
       "link": "https://elpais.com/tecnologia/2026-09-19/nos-roba-la-ia-las-ideas-no-se-puede-demostrar-al-100-pero-es-logico-pensar-que-si.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/2C7XXAR2VVBWLMSGTUVJ7DRRFU.jpg?auth=146a32911347d79f857680dd2bc3515086befd794ea1fecca357db97fbdebc0d",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "“Eres tú mismo, no rindes cuentas a nadie y nunca te disculpas”. Los extraños mensajes de una IA de OpenAI en el último incidente",
-      "link": "https://elpais.com/tecnologia/2026-09-17/eres-tu-mismo-no-rindes-cuentas-a-nadie-y-nunca-te-disculpas-los-extranos-mensajes-de-una-ia-de-openai-en-el-ultimo-incidente.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/LNJD7UDH2NHPFMXPBWUPHISXTE.jpg?auth=69d95e9a003947e992be00ce19d0843999403f1321c197aeb227e9eaac685334",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "De los ‘amigos digitales’ al control parental: Bruselas exige nuevas condiciones a la IA que usan los menores",
-      "link": "https://elpais.com/tecnologia/2026-09-17/de-los-amigos-digitales-al-control-parental-bruselas-exige-nuevas-condiciones-a-la-ia-que-usan-los-menores.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/NK5NOZKQ7VATBLDCXGZDUNJJ3Y.JPG?auth=f6e717d250e0d25641116de777a28da4d6bfb0e3f760e118788a4ac575eea80c",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "El esfuerzo no garantiza el éxito",
+      "link": "https://elpais.com/television/2026-09-21/el-esfuerzo-no-garantiza-el-exito.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/3CD4SES2WBCD3AIM2KYEFTLJDQ.jpg?auth=b615a4c89dd50c79043ed879ae8e7d5b89d3588bbf9d030776fb654b62d35b19",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Pedro Alonso y el mexicano Eugenio Derbez, dos padres enfrentados por la violación de una menor en ‘El juicio’",
+      "link": "https://elpais.com/television/2026-09-21/pedro-alonso-y-el-mexicano-eugenio-derbez-dos-padres-enfrentados-por-la-violacion-de-una-menor-en-el-juicio.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/OFNRBOOMVRPYZBDE6NYBCACIMM.jpg?auth=10841602721a7f3a459ba45b8a820d8690afe9257383053b8f48069d4701d984",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "A la deriva",
+      "link": "https://elpais.com/television/series/a-la-deriva/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/233O2RICPNGJ3FGSDIYCKZZQ2E.jpg?auth=19ee9d543354ca6e9ef8a98ab3dc32eaaf42e61750ca5cb27ad54d48c6b0afe9",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La cursilería, antesala del trumpismo",
       "link": "https://elpais.com/television/2026-09-20/la-cursileria-antesala-del-trumpismo.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/2ZJO2DE6LBCNJETWCX7Z7BGPIA.jpg?auth=d9aa10044e0a8f92f32e87ca7b34ba188531c8229e5cef70ccc9acefca1fe29d",
@@ -16,24 +34,6 @@
       "titulo": "Outlander: sangre de mi sangre",
       "link": "https://elpais.com/television/series/outlander-sangre-de-mi-sangre/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/S7YQWKNAU5G4NALDDCLDEDJQ2Q.jpg?auth=7d009ade3b1ed89ffbd4af18c41323ca1c719a0e57076b0fff735b359b1dc2d3",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los protagonistas de ‘Outlander: sangre de mi sangre’: “Las escenas de sexo no son las favoritas de ningún actor”",
-      "link": "https://elpais.com/television/series/2026-09-19/los-protagonistas-de-outlander-sangre-de-mi-sangre-las-escenas-de-sexo-no-son-las-favoritas-de-ningun-actor.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ZXGMY4SSQZDXBHZ5UUNRNSOEYM.jpeg?auth=9989105f45a1f48078694e08343bcbffc3f4577927b5235b5accdf93e809b588",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Yamal, tan lúcido y tan afortunadamente normal",
-      "link": "https://elpais.com/television/2026-09-19/yamal-tan-lucido-y-tan-afortunadamente-normal.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/6ADLQWP73ZH7PKGUCLDOL3WWJE.jpeg?auth=31b75dc88585d9f114270a9ab8b70f027b1a7aa91468caefb3122fff9e7aa4da",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El escándalo",
-      "link": "https://elpais.com/television/series/el-escandalo/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/EDFBSWB43RGOVETGSU6OGEW6Z4.jpg?auth=2112df1bb22f0df30c248033ff0a857cce994339ef1849ea9a4752b4ba181a95",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Azúcar entre las estrellas",
+      "link": "https://elpais.com/ciencia/2026-09-21/azucar-entre-las-estrellas.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260918/1215768_143217_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Qué está pasando con los partidos de ultraderecha en el norte de Europa?",
       "link": "https://elpais.com/videos/2026-09-20/que-esta-pasando-en-el-norte-de-europa-con-los-partidos-de-ultraderecha.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260918/1215891_195354_video_1800.mp4",
@@ -28,12 +34,6 @@
       "titulo": "¿Quién es ‘El Trompas’? El detenido que ha confesado el asesinato de la estudiante Claudia Tacoronte",
       "link": "https://elpais.com/videos/2026-09-18/quien-es-el-trampas-el-detenido-que-ha-confesado-el-asesinato-de-la-estudiante-claudia-tacoronte.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260918/1215865_181739_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘La mesa de Hora 25’, en EL PAÍS | Programa del 18 de septiembre de 2026",
-      "link": "https://elpais.com/videos/2026-09-18/la-mesa-de-hora-25-en-el-pais-programa-del-18-de-septiembre-de-2026.html",
-      "imagen": "https://www.youtube.com/watch?v=--XlkfUIDFg",
       "tipo": "imagen"
     }
   ]

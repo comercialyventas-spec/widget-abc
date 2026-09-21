@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Hugo Boss debe vestirse de lujo si quiere convencer al mercado",
+      "link": "https://elpais.com/economia/negocios/2026-09-21/hugo-boss-debe-vestirse-de-lujo-si-quiere-convencer-al-mercado.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/AZJPB5RFHFAPTA3XYGOJHIEX5U.jpg?auth=ce85c585f99d8179863da761e4784d5e361db088a794879ca7e9c257d06a643d",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los costes del secretismo económico",
+      "link": "https://elpais.com/economia/negocios/2026-09-21/los-costes-del-secretismo-economico.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/3XEJ7KMO4Z2WJXEDP7JIPEETP4.jpg?auth=589e981927473078e2b493714b5951497b696b69b35ead1757d6b2005a625ebf",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Inflación y desequilibrios del crecimiento",
       "link": "https://elpais.com/economia/negocios/2026-09-20/inflacion-y-desequilibrios-del-crecimiento.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/246NEDMDWBNY5IS6U6V35VAA3A.jpg?auth=91b1dde1d501f2a7730ccb2295923772e01f3d1839d16a2e97cd704153af6a0f",
@@ -22,18 +34,6 @@
       "titulo": "Bruselas quiere menos papeles y más control para saltar a la Bolsa",
       "link": "https://elpais.com/economia/negocios/2026-09-20/bruselas-quiere-menos-papeles-y-mas-control-para-saltar-a-la-bolsa.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/PVALQJKKIFDDHPQNNPFBHKDK4I.jpg?auth=cead3739e436b0ba70455733c4e9bb504c2aad2838c4525e5254f75b0b3d41f1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El estrecho margen energético de Europa",
-      "link": "https://elpais.com/economia/negocios/2026-09-20/el-estrecho-margen-de-europa.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/AP4C4NAVTVKVNQWCROJCNGAZXA.jpg?auth=7ab5293d2f1828efe5a03e3d24a9e4e2e2902638536d4f0c3042ae8a6a15a235",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El rediseño del programa que necesita el FMI",
-      "link": "https://elpais.com/economia/negocios/2026-09-20/el-rediseno-del-programa-que-necesita-el-fondo-monetario-internacional.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/JT6C27CE6BACXPDSWSRQAWIGRI.jpg?auth=be03f1fdf84b60df3209c84c4b1a04667f82648296a6014b7b5b7f38be20951c",
       "tipo": "imagen"
     }
   ]

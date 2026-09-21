@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Guerra Ucrania - Rusia, última hora en directo",
+      "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260921/guerra-ucrania---rusia-ultima-126605559",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a315bd8f-ea71-4514-9eaf-d053fe7a66e3_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Guerra de Irán, en directo",
+      "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260921/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9dee4255-971f-43a4-a49d-40c2e7e13623_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El partido de Putin gana las legislativas con el 57,3% de votos, según los primeros resultados",
       "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260920/partido-putin-gana-legislativas-57-134500250",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d0dec740-6812-4751-b27b-fb0044943e2d_media-libre-aspect-ratio_default_0.jpg",
@@ -22,18 +34,6 @@
       "titulo": "El desafío independentista en el Reino Unido: más presión sobre Londres pero pocas perspectivas de éxito",
       "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260920/desafio-independentista-reino-unido-mas-presion-londres-pocas-perspectivas-exito-134489372",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/abf7ce00-1ced-4f2b-a88f-e737ec57f4d3_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Netanyahu anuncia cierres y un despliegue militar en Cisjordania tras la muerte de un colono israelí en un tiroteo",
-      "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260920/netanyahu-anuncia-cierres-despliegue-militar-muerte-colono-israeli-tiroteo-134488516",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/1c58673e-a6a0-4332-b19b-ceb8233d99ec_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Rusia anuncia una reunión con Estados Unidos en las próximas semanas para tratar diferencias",
-      "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260920/rusia-anuncia-reunion-estados-unidos-proximas-semanas-diferencias-134487518",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/41e81a73-b185-4a6a-b4d9-84ea045cce36_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
