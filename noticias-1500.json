@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El frontón Beti Jai acoge ocho partidos de pelota vasca con entradas gratuitas",
+      "link": "https://www.eldiario.es/madrid/somos/chamberi/fronton-beti-jai-acoge-ocho-partidos-pelota-vasca-entradas-gratuitas_1_13526615.html",
+      "imagen": "https://static.eldiario.es/clip/ecc1cdd9-fcc0-41c9-b84a-4ca8bef56653_16-9-discover-aspect-ratio_default_0_x744y308.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un festival de bandas emergentes lleva más de 60 conciertos a 27 salas de Madrid con entradas a siete euros",
       "link": "https://www.eldiario.es/madrid/somos/agenda/festival-bandas-emergentes-lleva-60-conciertos-27-salas-madrid-entradas-siete-euros_1_13520478.html",
       "imagen": "https://static.eldiario.es/clip/f41573cf-f1c6-4d36-895e-d7084dcecb36_16-9-discover-aspect-ratio_default_0_x1078y409.jpg",
@@ -19,21 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Asociaciones ecologistas y de Tetuán organizan un paseo botánico para pedir la conservación de los 367 árboles de AZCA",
-      "link": "https://www.eldiario.es/madrid/somos/tetuan/asociaciones-ecologistas-tetuan-organizan-paseo-botanico-pedir-conservacion-367-arboles-azca_1_13512112.html",
-      "imagen": "https://static.eldiario.es/clip/ad1279ef-a33a-45ff-ba32-4a3cabd193df_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Qué hacer en Madrid este fin de semana",
       "link": "https://www.eldiario.es/guia-ocio/que-hacer-fin-semana-madrid_1_9005597.html",
       "imagen": "https://static.eldiario.es/clip/71831d95-f3d1-469d-ad4b-216f2a3354fa_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Lucero celebra 50 años de comunidad, cultura y lucha vecinal con sus fiestas de 2026: fechas, horarios y programa",
-      "link": "https://www.eldiario.es/madrid/somos/agenda/lucero-celebra-50-anos-comunidad-cultura-lucha-vecinal-fiestas-2026-fechas-horarios-programa_1_13498494.html",
-      "imagen": "https://static.eldiario.es/clip/cb727a4e-4fd7-4720-bdfd-9dc206e07429_16-9-discover-aspect-ratio_default_1151459.jpg",
+      "titulo": "Asociaciones ecologistas y de Tetuán organizan un paseo botánico para pedir la conservación de los 367 árboles de AZCA",
+      "link": "https://www.eldiario.es/madrid/somos/tetuan/asociaciones-ecologistas-tetuan-organizan-paseo-botanico-pedir-conservacion-367-arboles-azca_1_13512112.html",
+      "imagen": "https://static.eldiario.es/clip/ad1279ef-a33a-45ff-ba32-4a3cabd193df_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

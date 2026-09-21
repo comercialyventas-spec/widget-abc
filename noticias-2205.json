@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Se disparan los casos de COVID",
+      "link": "<![CDATA[https://www.elperiodico.com/es/videos/sociedad/disparan-casos-covid/134532812.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/4371cd58-98d1-4a3e-9197-41ffd0eb26b0_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Que podemos esperar de este otoño según AEMET?",
       "link": "<![CDATA[https://www.elperiodico.com/es/videos/sociedad/esperar-otono-aemet/134530075.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/c2edd693-0eb9-47d4-96dc-dcd9e14ffe30_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Espectacular maniobra del Ejército de Tierra para rescatar un helicóptero de la Guardia Civil accidentado en la Sierra de Gredos",
       "link": "<![CDATA[https://www.elperiodico.com/es/videos/sucesos/espectacular-maniobra-ejercito-tierra-rescatar/134514338.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/fa74aa58-f3e9-4c46-8847-bc6d8ceeb900_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cinco hombres vestidos de policías se llevan a un individuo de un coche en la AP-7 en el Vallès",
-      "link": "<![CDATA[https://www.elperiodico.com/es/videos/sociedad/cinco-hombres-vestidos-policias-llevan-individuo-coche-ap-7-valles-video/134507298.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7dff6b41-4041-44bb-9fca-4d4887bf6368_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

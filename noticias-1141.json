@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Los gobiernos de Madrid y Vitoria pactan un aumento de la potencia eléctrica del 50% en Euskadi",
+      "link": "https://elpais.com/hemeroteca/2026-09-21/",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "Un ensayo aplica la computación cuántica a las neuronas obtenidas de dientes de leche",
       "link": "https://elpais.com/espana/pais-vasco/2026-09-18/un-ensayo-aplica-la-computacion-cuantica-a-las-neuronas-obtenidas-de-dientes-de-leche.html",
       "imagen": "",
@@ -9,13 +15,13 @@
     {
       "titulo": "Vitoria se enfrenta a los taxistas para que salgan más los fines de semana: “Es un clamor ciudadano”",
       "link": "https://elpais.com/espana/pais-vasco/2026-09-17/vitoria-se-enfrenta-a-los-taxistas-para-que-salgan-mas-los-fines-de-semana-es-un-clamor-ciudadano.html",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XOAQQ23HLJCXJLIUFH2MDLNOAQ.jpg?auth=c0bde959c53a2b81f569ab839a9cabc017cac580cadc587017357cdde674e5c6&width=414&height=233&smart=true",
+      "tipo": "imagen"
     },
     {
       "titulo": "Bizkaia enciende la alarma por la falta de plazas suficientes para atender a los menores extranjeros",
       "link": "https://elpais.com/espana/pais-vasco/2026-09-16/bizkaia-enciende-la-alarma-por-la-falta-de-plazas-suficientes-para-atender-a-los-menores-extranjeros.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ZG3I6CH2ABEPJPDD63I65G4PZE.jpeg?auth=f9975cdb67f740432cd88558d0fb74b01764b2da0500b208acb09f664180b5c6&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ZG3I6CH2ABEPJPDD63I65G4PZE.jpeg?auth=f9975cdb67f740432cd88558d0fb74b01764b2da0500b208acb09f664180b5c6&width=1200",
       "tipo": "imagen"
     },
     {
@@ -27,13 +33,7 @@
     {
       "titulo": "La primera universidad vasca recupera todo su esplendor renacentista",
       "link": "https://elpais.com/espana/pais-vasco/2026-09-11/la-primera-universidad-vasca-recupera-todo-su-esplendor-renacentista.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Los chavales de origen migrante van dos cursos por detrás de los autóctonos",
-      "link": "https://elpais.com/educacion/2026-09-11/los-chavales-de-origen-migrante-van-dos-cursos-por-detras-de-los-autoctonos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/MXKANQLEMRDZVP3KTCCIR4G3JY.jpg?auth=73737c469743bd016ff2cc44f8ec806e46ca927fd8d11a41e3fd5cf08df497c4&width=414&height=311&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7NL5EQJIOZFGXFVA32OUMBRZ6Q.jpg?auth=f381b76614d3b5ca71cbd23a07d3583072064fde840ef809dc7a57580dcdaba8&width=414&height=311&focal=2781%2C2131",
       "tipo": "imagen"
     }
   ]

@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Màrius Serra: “‘El mal entès’ és una novel·la amb foc i joc\"",
-      "link": "https://elpais.com/quadern/club-de-lectura/2026-09-21/marius-serra-el-mal-entes-es-una-novella-amb-foc-i-joc.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260918/1215770_143244_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Les 30 recomanacions de ‘Quadern’ per a La Setmana del Llibre en Català",
       "link": "https://elpais.com/quadern/literatura/2026-09-19/les-30-recomanacions-de-quadern-per-a-la-setmana-del-llibre-en-catala.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/ZV3NMQXYTFBP7AMSA6P5ODXCUA.JPG?auth=ca43ec2aba8b93d4ff292b5ddae554deb2cea73362cd2769e173f7405039fea5",
@@ -34,6 +28,12 @@
       "titulo": "Toni i Meritxell Falgueras: “A tots els bars hi ha Jägermeister, hem de reivindicar la ratafia”",
       "link": "https://elpais.com/quadern/2026-09-16/toni-i-meritxell-falgueras-a-tots-els-bars-hi-ha-jagermeister-hem-de-reivindicar-la-ratafia.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/B4OSQEXHQBDEPFLHIX676OWEJQ.JPG?auth=092f9b55b0378e06856c598dc2ebba01e59fd1cb974ef7e7272e8643b6c4a9b6",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Nacionalismes imperials",
+      "link": "https://elpais.com/quadern/2026-09-16/nacionalismes-imperials.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/2XVDWJYBXRDGVLNDND4ODN2V2Q.jpg?auth=2947064c4b64641c123311259dba646a667d4c4fe218ab54ac253bbd5b80fa64",
       "tipo": "imagen"
     }
   ]
