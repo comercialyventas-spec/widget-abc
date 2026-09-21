@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Sánchez arrancará en octubre las negociaciones para “el nuevo contrato social” de la era de la IA",
-      "link": "https://www.eldiario.es/tecnologia/sanchez-arrancara-octubre-negociaciones-nuevo-contrato-social-ia_1_13525061.html",
-      "imagen": "https://static.eldiario.es/clip/125edc2b-ca19-44c4-a63a-9a102c45dbde_16-9-discover-aspect-ratio_default_0_x990y267.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "El absentismo, con bisturí y no con motosierra",
       "link": "https://www.eldiario.es/economia/absentismo-bisturi-no-motosierra_129_13512351.html",
       "imagen": "https://static.eldiario.es/clip/d26cf0ae-6eb7-4a55-96fb-b692d0d54735_avatar-200-aspect-ratio_default_0.jpg",
@@ -34,6 +28,12 @@
       "titulo": "Los buenos modales están al caer",
       "link": "https://www.eldiario.es/opinion/zona-critica/buenos-modales-caer_129_13524545.html",
       "imagen": "https://static.eldiario.es/clip/3188c29c-c999-46b2-b9e0-8bc7fe97b551_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "No diga “niños y adolescentes”, diga “menores migrantes”",
+      "link": "https://www.eldiario.es/opinion/zona-critica/no-diga-ninos-adolescentes-diga-menores-migrantes_129_13524565.html",
+      "imagen": "https://static.eldiario.es/clip/60f63a2a-3507-4eb6-a28c-7949f7a45178_avatar-200-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
