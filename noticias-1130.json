@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Secuelas de la desinformación",
+      "link": "https://elpais.com/opinion/2026-09-21/secuelas-de-la-desinformacion.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NJ276PP37NCRHGZPUGYQ5LQP7M.jpg?auth=b1a399991c77f6a0685e8bedb9d2fb83c69004e723c4d19f3f5b9535e5efa35b&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Groenlandia no es de Trump",
       "link": "https://elpais.com/opinion/2026-09-21/groenlandia-no-es-de-trump.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/PJIRTWKMPRAR3HVL4YGCEAXXQQ.jpg?auth=686b95ac70b21873ceca9643b7efdf44112883837e79f439ebd909ae94010a2e&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/PJIRTWKMPRAR3HVL4YGCEAXXQQ.jpg?auth=686b95ac70b21873ceca9643b7efdf44112883837e79f439ebd909ae94010a2e&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Voto de confianza para la UE",
       "link": "https://elpais.com/opinion/2026-09-17/voto-de-confianza-para-la-ue.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/JZ4LR4FX6FG3VIFAGMNE3MHQL4.JPG?auth=249ce3f003dd37de60b3d8d5febb3fe28c674a61d1d7861b4d5ff94eef8d8fbe&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Justicia ahogada en petróleo",
-      "link": "https://elpais.com/opinion/2026-09-15/justicia-ahogada-en-petroleo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/JVFCBZBNDZGYVIZI7XICJBQVPM.jpg?auth=53865e27e073d40a2b5bdb9e379ca648186ef6eed148146e6c95621422a76184&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

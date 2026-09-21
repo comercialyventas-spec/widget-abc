@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Ceuta",
+      "link": "https://www.elconfidencialdigital.com/album/defensa/ceuta/202609211958581428829.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/21/2026092118502293895.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los JTAC españoles entrenan en el Báltico",
       "link": "https://www.elconfidencialdigital.com/album/defensa/jtac-espanoles-entrenan-baltico/202609181739021193988.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/18/2026091817372366777.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Ejército de Tierra",
       "link": "https://www.elconfidencialdigital.com/album/defensa/ejercito-de-tierra/202609171900311193749.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/17/2026091718583534334.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Drizzle, el nuevo interceptor antidrón de Indra",
-      "link": "https://www.elconfidencialdigital.com/album/defensa/drizzle-nuevo-interceptor-antidron-indra/202609171409211193694.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/17/2026091714084420353.jpg",
       "tipo": "imagen"
     }
   ]

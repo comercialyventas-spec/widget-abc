@@ -1,7 +1,13 @@
 {
   "noticias": [
     {
-      "titulo": "Vídeos de ajedrez | El día que Hoi brilló como el sol",
+      "titulo": "‘La mesa de Hora 25’, programa en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-09-21/la-mesa-de-hora-25-programa-en-el-pais.html",
+      "imagen": "https://www.youtube.com/watch?v=npkrcdLASVE",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Vídeos-ajedrez | El día que Hoi brilló como el sol",
       "link": "https://elpais.com/ajedrez/videos/2026-09-21/videos-de-ajedrez-el-dia-que-hoi-brillo-como-el-sol.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260918/1215737_132257_video_1800.mp4",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "¿Qué está pasando con los partidos de ultraderecha en el norte de Europa?",
       "link": "https://elpais.com/videos/2026-09-20/que-esta-pasando-en-el-norte-de-europa-con-los-partidos-de-ultraderecha.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260918/1215891_195354_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El primer concierto de Shakira en Madrid, en cinco momentos: De su solo con armónica a su guiño a España por el Mundial",
-      "link": "https://elpais.com/videos/2026-09-19/el-primer-concierto-de-shakira-en-madrid-en-cinco-momentos-de-su-solo-con-armonica-a-su-guino-a-espana-por-el-mundial.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260919/1216015_115137_video_1800.mp4",
       "tipo": "imagen"
     }
   ]

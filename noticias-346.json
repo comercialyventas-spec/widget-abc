@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Google quiere acabar con las contraseñas y así es como podrás acceder a tu cuenta a partir de ahora",
+      "link": "https://www.abc.es/tecnologia/redes/google-quiere-acabar-contrasenas-podras-acceder-cuenta-20260921192624-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/21/mujer-selfie-telefono-movil-RAa0HpPVdqIBlao1oT60xgK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Gemini hackea por error tres empresas reales tras escapar del entorno de prueba de Google",
       "link": "https://www.abc.es/tecnologia/gemini-hackea-error-tres-empresas-reales-tras-20260921111207-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/21/gemini-kLHE-U301818018983yIH-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La IA empieza a desarrollar a sus sucesoras: Claude ya lidera una cuarta parte de la investigación de Anthropic",
       "link": "https://www.abc.es/tecnologia/ia-empieza-desarrollar-sucesoras-claude-lidera-cuarta-20260918185117-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/18/dario-amodei-anthropic-claude-RnoYCFHlO2ekHqxcpbM7B6N-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Quién puede permitirse frenar la IA?: el miedo a la extinción como estrategia de mercado",
-      "link": "https://www.abc.es/tecnologia/puede-permitirse-frenar-ia-miedo-extincion-estrategia-20260918012528-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/18/1517307360-RA8QASROZwKwIbjpfBpXXFL-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
