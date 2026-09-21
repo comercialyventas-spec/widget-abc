@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Los hutíes de Yemen prometen no atacar barcos de EEUU tras Trump cancelar los ataques",
+      "titulo": "Los hutíes dicen que no atacarán buques de EE.UU. en el mar Rojo después de que Trump descartara una ofensiva",
       "link": "https://es.euronews.com/2026/09/21/los-huties-de-yemen-prometen-no-atacar-barcos-de-eeuu-tras-trump-cancelar-los-ataques",
       "imagen": "https://images.euronews.com/articles/stories/09/92/12/26/1200x675_cmsv2_60688122-ab60-5480-88bb-edb1e1a6c8d9-9921226.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Últimas noticias | 21 septiembre 2026 - Mediodía",
+      "link": "https://es.euronews.com/video/2026/09/21/ultimas-noticias-21-septiembre-2026-mediodia",
+      "imagen": "https://images.euronews.com/articles/stories/09/92/14/02/1200x675_cmsv2_6c784197-f96a-5933-97a4-79bb209f7eb1-9921402.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Arranca la Oktoberfest con cerveza, brindis y el tradicional primer barril",
       "link": "https://es.euronews.com/video/2026/09/21/arranca-la-oktoberfest-con-cerveza-brindis-y-el-tradicional-primer-barril",
       "imagen": "https://images.euronews.com/articles/stories/09/92/10/33/1200x675_cmsv2_4f906c76-a675-5581-b060-85ea8d7ad9d6-9921033.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Campeonato mundial de puzles en Valladolid: los más rápidos compiten contra el reloj",
-      "link": "https://es.euronews.com/video/2026/09/21/campeonato-mundial-de-puzles-los-mas-rapidos-compiten-contra-el-reloj",
-      "imagen": "https://images.euronews.com/articles/stories/09/92/08/10/1200x675_cmsv2_0c38f925-651a-58bc-ac9d-178d849eb498-9920810.jpg",
       "tipo": "imagen"
     }
   ]

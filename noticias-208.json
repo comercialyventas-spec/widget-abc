@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La UE multa a Google con 462 millones por la geolocalización",
+      "link": "https://www.dw.com/es/la-ue-multa-a-google-con-462-millones-por-la-geolocalización/a-79354489",
+      "imagen": "https://static.dw.com/image/76141728_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Pekín confirma la visita del presidente chino a Estados Unidos",
       "link": "https://www.dw.com/es/pekín-confirma-la-visita-del-presidente-chino-a-estados-unidos/a-79351440",
       "imagen": "https://static.dw.com/image/77996961_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Un ministro de Taiwán realiza inusual visita a China",
       "link": "https://www.dw.com/es/un-ministro-de-taiwán-realiza-inusual-visita-a-china/a-79349020",
       "imagen": "https://static.dw.com/image/74581255_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "EE.UU. tilda a “exitosa” reunión con China sobre IA y comercio",
-      "link": "https://www.dw.com/es/ee-uu-tilda-a-exitosa-reunión-con-china-sobre-ia-y-comercio/a-79349012",
-      "imagen": "https://static.dw.com/image/78594330_6.jpg",
       "tipo": "imagen"
     }
   ]
