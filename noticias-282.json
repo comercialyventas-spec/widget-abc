@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El zarpazo del gas llega este otoño con récord de hogares refugiados en la tarifa regulada",
+      "link": "https://www.abc.es/economia/cuentas-corrientes/zarpazo-gas-llega-otono-record-hogares-tarifa-20260920021043-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/20/factura_luz_chamorro4-RoRWW9JUdyIZV3PtwoCccxI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las energéticas piden actualizar la TUR para que se acerque al coste real del gas",
+      "link": "https://www.abc.es/economia/cuentas-corrientes/empresas-piden-actualizar-tur-acerque-coste-real-20260920021053-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/20/gasnatural-instalaciones-R8wVOnPAx4yhdBomDVwV2fN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La falta de mano de obra y el envejecimiento paralizan la construcción",
       "link": "https://www.abc.es/economia/falta-mano-obra-envejecimiento-paralizan-construccion-20260918011547-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/18/1517449825-RoPqOfZRt3fnEJudnR4hJBI-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Cristina Cervantes, analista financiera: «Ocho de cada diez personas llegan con dificultades a final de mes. Somos una sociedad con poco margen para ahorrar e invertir»",
       "link": "https://www.abc.es/economia/cristina-cervantes-analista-financiera-ocho-diez-personas-20260921050000-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2026/09/17/cristina-cervantes-bravo-RJjydKlDusRwxzFfBnYgfwN-1200x840@diario_abc.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El marcaje normativo que pone cerco al uso oculto de la IA en las empresas",
-      "link": "https://www.abc.es/economia/marcaje-normativo-pone-cerco-uso-oculto-ia-20260921000600-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/21/shadow-ia-RtyaRYBsLr0ztYEXLy7BoxK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La automatización llega al control aéreo, pero con los pies en la tierra",
-      "link": "https://www.abc.es/economia/automatizacion-llega-control-aereo-pies-tierra-20260921000403-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/21/control%20aereo-RxxtWROOJDgkLlFzx6L1XsK-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
