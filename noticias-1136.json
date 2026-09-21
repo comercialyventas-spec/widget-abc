@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Muere la mujer que fue estrangulada por su pareja la semana pasada en Málaga",
+      "link": "https://elpais.com/sociedad/2026-09-21/muere-la-mujer-que-fue-estrangulada-por-su-pareja-la-semana-pasada-en-malaga.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "Listas de espera: un sistema bajo sospecha de maquillaje durante más de 20 años",
       "link": "https://elpais.com/sociedad/2026-09-21/listas-de-espera-un-sistema-bajo-sospecha-de-maquillaje-durante-mas-de-20-anos.html",
       "imagen": "",
@@ -9,31 +15,25 @@
     {
       "titulo": "Oficina del sheriff, ‘saloon’ y horca: se vende poblado del Oeste en Almería",
       "link": "https://elpais.com/espana/andalucia/2026-09-21/oficina-del-sheriff-saloon-y-horca-se-vende-poblado-del-oeste-en-almeria.html",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://imagenes.elpais.com/resizer/v2/P4M6CEV3ENANZGQUUVLZILI5OQ.jpg?auth=1f7b95c79bebdccb5024e2790b91c17bd4cbb82037225ed7fd83387d3325105a&width=414&height=233&focal=2860%2C1537",
+      "tipo": "imagen"
     },
     {
       "titulo": "Una gala privada a los pies de la Giralda con dinero público exalta a los sevillanos",
       "link": "https://elpais.com/espana/andalucia/2026-09-18/una-gala-privada-a-los-pies-de-la-giralda-con-dinero-publico-exalta-a-los-sevillanos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/SEJZOCX2CZG5PKLVDYI4INHXXI.jpg?auth=dfd9f7270dc0d51032b597500424ea0266b8050cc3d2afaf16ef142d69e3a88b&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El 93% de los informes de la Intervención andaluza sobre 38.000 millones de gasto público no sujetos a control previo fueron desfavorables",
-      "link": "https://elpais.com/espana/andalucia/2026-09-18/el-93-de-los-informes-de-la-intervencion-andaluza-sobre-38-millones-de-gasto-publico-no-sujetos-a-control-previo-fueron-desfavorables.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/JJPKMXOJKNAENLDPC253I4EKXU.jpg?auth=19dd00a1baf0ed1f187b45c29bad8632b808006ede40352a34684984ec1065a5&width=1200",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tres versiones y un jurado para aclarar la muerte de Ana Buza hace siete años, cuando iba en coche con su novio",
-      "link": "https://elpais.com/espana/andalucia/2026-09-18/tres-versiones-y-un-jurado-para-aclarar-la-muerte-de-ana-buza-hace-siete-anos-cuando-iba-en-coche-con-su-novio.html",
       "imagen": "",
       "tipo": ""
     },
     {
-      "titulo": "24 horas en Ayamonte, la ciudad de Huelva donde vivir uno de los mejores atardeceres de Europa",
-      "link": "https://elpais.com/elviajero/escapadas/espana/2026-09-18/24-horas-en-ayamonte-la-ciudad-de-huelva-donde-vivir-uno-de-los-mejores-atardeceres-de-europa.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/FEENE5LYWJC7JAYHQCSMBROYR4.jpg?auth=9097fcf9ffe3bc7498e0f1f35afe885821cba6c13155c7feae0afb1f51e20c31&width=414&height=311&smart=true",
+      "titulo": "El 93% de los informes de la Intervención andaluza sobre 38.000 millones de gasto público no sujetos a control previo fueron desfavorables",
+      "link": "https://elpais.com/espana/andalucia/2026-09-18/el-93-de-los-informes-de-la-intervencion-andaluza-sobre-38-millones-de-gasto-publico-no-sujetos-a-control-previo-fueron-desfavorables.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "Tres versiones y un jurado para aclarar la muerte de Ana Buza hace siete años, cuando iba en coche con su novio",
+      "link": "https://elpais.com/espana/andalucia/2026-09-18/tres-versiones-y-un-jurado-para-aclarar-la-muerte-de-ana-buza-hace-siete-anos-cuando-iba-en-coche-con-su-novio.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VW6PL7RIRNAUJPSHINQRK2KYOA.jpg?auth=6cac79d79de64981b966162a01174d74b0f7ada870b3d2f33480eaedf2145966&width=414&height=311&focal=1073%2C1238",
       "tipo": "imagen"
     }
   ]

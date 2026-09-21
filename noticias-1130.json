@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Groenlandia no es de Trump",
+      "link": "https://elpais.com/opinion/2026-09-21/groenlandia-no-es-de-trump.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/PJIRTWKMPRAR3HVL4YGCEAXXQQ.jpg?auth=686b95ac70b21873ceca9643b7efdf44112883837e79f439ebd909ae94010a2e&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El apocalipsis no está escrito",
       "link": "https://elpais.com/opinion/2026-09-20/el-apocalipsis-no-esta-escrito.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/7ZOELU5CVNFCXPZFYCTJYK7SDQ.jpg?auth=5edafb77e8bdfe54411e74e2696449915033996a9570fd77d2fc675889b30e91&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7ZOELU5CVNFCXPZFYCTJYK7SDQ.jpg?auth=5edafb77e8bdfe54411e74e2696449915033996a9570fd77d2fc675889b30e91&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Justicia ahogada en petróleo",
       "link": "https://elpais.com/opinion/2026-09-15/justicia-ahogada-en-petroleo.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/JVFCBZBNDZGYVIZI7XICJBQVPM.jpg?auth=53865e27e073d40a2b5bdb9e379ca648186ef6eed148146e6c95621422a76184&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Canadá europeo",
-      "link": "https://elpais.com/opinion/2026-09-15/canada-europeo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/4N7BHBQWGBAATECPCE4PHXXXN4.jpg?auth=0ebc414ae67d6be411b0bf657956170042e3147c8f65d5336389fd4488c4fe51&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

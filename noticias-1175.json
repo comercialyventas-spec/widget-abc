@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¿Y si la víctima es Santiago Abascal?",
+      "link": "https://okdiario.com/opinion/si-victima-santiago-abascal-20350415",
+      "imagen": "https://okdiario.com/img/2026/09/21/imagen_final-35.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ceuta: ¡La frontera subcontratada!",
       "link": "https://okdiario.com/opinion/ceuta-frontera-subcontratada-20349930",
       "imagen": "https://okdiario.com/img/2026/09/21/imagen_final-10.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Somos un Estado tontito",
       "link": "https://okdiario.com/opinion/somos-estado-tontito-20339626",
       "imagen": "https://okdiario.com/img/2026/09/19/opinion-eduardo-inda-interior.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Hotel Restaurante El Puerto: \"Ceuta, un sueño a tu alcance\"",
-      "link": "https://okdiario.com/opinion/hotel-restaurante-puerto-ceuta-sueno-tu-alcance-20333453",
-      "imagen": "https://okdiario.com/img/2026/09/18/hotel-restaurante-el-puerto_desk.jpg",
       "tipo": "imagen"
     }
   ]
