@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La casa prefabricada de Amazon por menos de 18.000 euros con tres habitaciones y cocina equipada",
+      "link": "https://www.abc.es/economia/casa-prefabricada-amazon-18000-euros-tres-habitaciones-20260921060000-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/21/image-U81414245564SiX-562x315@diario_abc.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cuánto dinero cobra un piloto de Ryanair en 2026: sueldo base y complementos",
       "link": "https://www.abc.es/economia/dinero-cobra-piloto-ryanair-2026-sueldo-base-20260921053000-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/09/12/pilotory-kuoB-U301778269906EtE-562x315@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Putin consolida su poder en las urnas",
       "link": "https://www.abc.es/internacional/putin-consolida-poder-urnas-20260920213631-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/20/1517597530-kcdE--562x315@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Rajada histórica de Mourinho: «Enhorabuena al Comité Arbitral»",
-      "link": "https://www.abc.es/deportes/real-madrid/rajada-historica-mourinho-contaron-cambiado-enhorabuena-comite-20260920192734-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/20/Mou-U31332836776WcT-562x315@diario_abc.jpeg",
       "tipo": "imagen"
     }
   ]
