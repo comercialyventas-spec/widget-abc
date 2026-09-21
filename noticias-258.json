@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El perfil de quienes piden una baja médica en España: mujer, menor de 40 años, con salario medio y de una empresa pública",
+      "link": "https://www.abc.es/economia/cuentas-corrientes/perfil-piden-baja-medica-espana-mujer-menor-20260922042636-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/21/medico.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los jubilados españoles, entre los europeos a los que menos les cunde su pensión",
+      "link": "https://www.abc.es/economia/cuentas-corrientes/espana-continua-peores-paises-europa-jubilarse-20260922012123-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/22/mayores%20jubilados%20matt-bennett-RnltdLnouXJhoacrMvRmmUL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Bizum ya permite pagar en tienda a 20 millones de ciudadanos, pero aún dependen del permiso de sus bancos",
       "link": "https://www.abc.es/economia/cuentas-corrientes/bizum-permite-pagar-tienda-millones-ciudadanos-dependen-20260921105714-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/21/pago-movilbizum-RTiCTisxJgwE6mre8WvGaNI-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Las energéticas piden actualizar la TUR para que se acerque al coste real del gas",
       "link": "https://www.abc.es/economia/cuentas-corrientes/empresas-piden-actualizar-tur-acerque-coste-real-20260920021053-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/20/gasnatural-instalaciones-R8wVOnPAx4yhdBomDVwV2fN-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "De las 10.000 hamburguesas de EE.UU. a las 4.300 de España: el 'índice Big Mac' revela tu bajo poder adquisitivo",
-      "link": "https://www.abc.es/economia/cuentas-corrientes/titu-indice-big-mac-20260918181920-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/19/hamburguesa-redes--758x531.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las empresas ya usan la IA para gestionar las bajas de los trabajadores",
-      "link": "https://www.abc.es/economia/cuentas-corrientes/empresas-usan-ia-gestionar-bajas-trabajadores-20260920020714-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/20/doctora-baja-ReRNUdqU8GNSilEfl9uzRvM-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

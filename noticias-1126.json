@@ -1,28 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "Trump, a Mamdani: “Espero que sea un gran alcalde de Nueva York. Tiene potencial”",
+      "link": "https://elpais.com/us/2026-09-21/trump-a-mamdani-espero-que-sea-un-gran-alcalde-de-nueva-york-tiene-potencia-para-ello.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/6BJNUS243NI7NMYRJ53LON3J4M.jpg?auth=39f8eda9f4f175064830e04e6d015d9b3f4ed547c98ebb1f2dc7696c9f828606&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las grandes televisiones no participarán en el ‘pool’ presidencial tras la demanda de CNN, MS NOW y Politico a Trump",
       "link": "https://elpais.com/us/2026-09-21/cnn-ms-now-y-politico-demandan-a-trump-por-negarles-el-acceso-a-la-casa-blanca.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/DEWWOGLUH5NVJLNTCXCXXI6AGM.jpg?auth=473a4023af26c75901342a30f209ce0d1313164823f65265a90f0d30d0aae628&width=414&height=233&focal=1581%2C1651",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El migrante herido en Austin está bajo custodia del ICE y sin medicinas para el dolor",
-      "link": "https://elpais.com/us/migracion/2026-09-21/el-migrante-herido-en-austin-esta-bajo-custodia-del-ice-y-sin-medicamentos-para-el-dolor-segun-su-abogada.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/TTP7DA32FZHVZH6F6STQKSCSRM.jpg?auth=8efefa8eefb32a12e78fc263f3c64d289e5021b39d376385bce10af0d5a6d06b&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ciudadanos de EE UU visitaron El Salvador y terminaron en las cárceles de Bukele: “Dicen que es parte de una pandilla”",
-      "link": "https://elpais.com/us/migracion/2026-09-21/ciudadanos-de-ee-uu-visitaron-el-salvador-y-terminaron-en-las-carceles-de-bukele-dicen-que-es-parte-de-una-pandilla.html",
       "imagen": "",
       "tipo": ""
     },
     {
       "titulo": "Delcy Rodríguez, en Nueva York: “Venezuela estará en la ONU para llevar su voz y defender sus principios”",
       "link": "https://elpais.com/us/2026-09-21/delcy-rodriguez-al-aterrizar-en-nueva-york-venezuela-estara-en-la-onu-para-llevar-su-voz-y-defender-sus-principios.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/B3D2J7E5FRHBFEDHVSOUAJSFQM.JPG?auth=65b3103027580336ee1c39500ba3fc1c0e52ce6a28d9f184e8f0e5d7c87a063d&width=414&height=233&smart=true",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Paramount alcanza un acuerdo con los fiscales estatales para desbloquear la compra de Warner",
@@ -31,10 +25,16 @@
       "tipo": ""
     },
     {
-      "titulo": "Oficina del sheriff, ‘saloon’ y horca: se vende poblado del Oeste en España",
-      "link": "https://elpais.com/espana/andalucia/2026-09-21/oficina-del-sheriff-saloon-y-horca-se-vende-poblado-del-oeste-en-almeria.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/P4M6CEV3ENANZGQUUVLZILI5OQ.jpg?auth=1f7b95c79bebdccb5024e2790b91c17bd4cbb82037225ed7fd83387d3325105a&width=414&height=233&focal=2860%2C1537",
+      "titulo": "El migrante herido en Austin está bajo custodia del ICE y sin medicinas para el dolor",
+      "link": "https://elpais.com/us/migracion/2026-09-21/el-migrante-herido-en-austin-esta-bajo-custodia-del-ice-y-sin-medicamentos-para-el-dolor-segun-su-abogada.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TTP7DA32FZHVZH6F6STQKSCSRM.jpg?auth=8efefa8eefb32a12e78fc263f3c64d289e5021b39d376385bce10af0d5a6d06b&width=414&height=233&smart=true",
       "tipo": "imagen"
+    },
+    {
+      "titulo": "El ICE deja de publicar la localización de los detenidos que va a deportar",
+      "link": "https://elpais.com/us/migracion/2026-09-21/el-ice-deja-de-publicar-la-localizacion-de-los-detenidos-que-va-a-deportar.html",
+      "imagen": "",
+      "tipo": ""
     }
   ]
 }
