@@ -1,7 +1,13 @@
 {
   "noticias": [
     {
-      "titulo": "Marlaska viaja a Ceuta para supervisar los triajes a los migrantes que permanecen en la cuidad",
+      "titulo": "Detenido en Alicante por la muerte de su pareja, una mujer de 34 años, en Leganés (Madrid)",
+      "link": "https://efe.com/espana/leganes-detenido-violencia-machista/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/leganes.webp?w=600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Marlaska viaja a Ceuta para supervisar los triajes a los migrantes que permanecen en la ciudad",
       "link": "https://efe.com/espana/2026-09-21/marlaska-ceuta-triajes/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/MARLASKA-CETI.webp?w=600&ssl=1",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "España despliega una campaña en redes para desalentar las entradas irregulares a Ceuta y Melilla",
       "link": "https://efe.com/espana/2026-09-20/campana-entradas-irregulares-ceuta-melilla/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/GRAF4764-ESPANA-INMIGRACION.webp?w=600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los ceutíes vuelven a exigir soluciones a pie de la frontera: «Un caballa nunca se rinde»",
-      "link": "https://efe.com/espana/2026-09-20/ceuta-concentracion-crisis-migratoria/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/ceua-concentracion.webp?w=600&ssl=1",
       "tipo": "imagen"
     }
   ]

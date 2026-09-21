@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Los herederos del Partido Comunista ganan las elecciones en Berlín",
+      "link": "https://www.mediterraneodigital.com/internacional/die-linke-berlin",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/9/die-linke.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Políticos australianos impulsan una iniciativa para prohibir a los Hermanos Musulmanes",
       "link": "https://www.mediterraneodigital.com/internacional/hermanos-musulmanes",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/hermanos-musulmanes.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Trump promete una 'paguita' de 5.000 dólares a cada estadounidense si gana las elecciones",
       "link": "https://www.mediterraneodigital.com/internacional/trump-eeuu-dividendo",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/usa-trump.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Dimite un investigador de la IA Anthropic: «Es un peligro para nuestras vidas»",
-      "link": "https://www.mediterraneodigital.com/internacional/ia-anthropic-jacob-coxon",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/9/ai.jpg",
       "tipo": "imagen"
     }
   ]

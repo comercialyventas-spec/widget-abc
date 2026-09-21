@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en directo, en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-09-21/el-pulso-de-hoy-por-hoy-en-el-pais.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/W33TL5GQBBHPPKZ2CBK6PCULCY.png?auth=31d69aadfdcdc576317e80f0f9b468205ca1109494b0cb67b67bfad3ad681896&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Azúcar entre las estrellas",
+      "link": "https://elpais.com/ciencia/2026-09-21/azucar-entre-las-estrellas.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/3WU3WLHQSNCLXI62G5ATMAYIOA.jpg?auth=2cfd4abd8b42d55ee39c1f8caedbd9c2b5a25820ed61f9f759073e3c2cb5290e&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Qué está pasando con los partidos de ultraderecha en el norte de Europa?",
       "link": "https://elpais.com/videos/2026-09-20/que-esta-pasando-en-el-norte-de-europa-con-los-partidos-de-ultraderecha.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/BQC4G45VTFDP5DXQYWR32G34IA.jpeg?auth=990ad65a3bc4aabf7dfdb7536d1878701ac919b64144bd6b10159f989241cb56&width=414&height=233&smart=true",
@@ -20,20 +32,8 @@
     },
     {
       "titulo": "Los campamentos del puerto de Ceuta cuelgan el cartel de completo: “Miles de migrantes han tenido que volver a dormir al raso”",
-      "link": "https://elpais.com/videos/2026-09-18/los-campamentos-del-puerto-de-ceuta-cuelgan-el-cartel-de-completo-miles-de-migrantes-han-tenido-que-volver-a-dormir-al-raso.html",
+      "link": "https://elpais.com/noticias/crisis-migratoria/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/OS5LXGMTUZEJPKKGM2W4R7GJU4.png?auth=04d7d81c1340cf154c1e1e44e1595c06e49394d78cb873c8ef0ec44917d815f9&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Quién es ‘El Trompas’? El detenido que ha confesado el asesinato de la estudiante Claudia Tacoronte",
-      "link": "https://elpais.com/videos/2026-09-18/quien-es-el-trampas-el-detenido-que-ha-confesado-el-asesinato-de-la-estudiante-claudia-tacoronte.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/WPWNX3SOAZEXVACSFLCF7KGIWA.jpg?auth=69dc9abd0e018afc612d2e15c4d47729f5f1cac11e04fd9afca93487a84a8f48&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘La mesa de Hora 25’, en EL PAÍS | Programa del 18 de septiembre de 2026",
-      "link": "https://elpais.com/noticias/cadena-ser/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/RIBFKHCERJDFHKWBRGWFOY5NAA.jpeg?auth=9cd2dd0d3f4eae441365fd01bca6aa58b73d643f07eab2bd9f9493a926406d01&width=414&height=233&focal=354%2C362",
       "tipo": "imagen"
     }
   ]

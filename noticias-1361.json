@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en directo, en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-09-21/el-pulso-de-hoy-por-hoy-en-el-pais.html",
+      "imagen": "https://www.youtube.com/watch?v=J4tYdo4VnyM",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Azúcar entre las estrellas",
       "link": "https://elpais.com/ciencia/2026-09-21/azucar-entre-las-estrellas.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260918/1215768_143217_video_1800.mp4",
@@ -28,12 +34,6 @@
       "titulo": "Los campamentos del puerto de Ceuta cuelgan el cartel de completo: “Miles de migrantes han tenido que volver a dormir al raso”",
       "link": "https://elpais.com/videos/2026-09-18/los-campamentos-del-puerto-de-ceuta-cuelgan-el-cartel-de-completo-miles-de-migrantes-han-tenido-que-volver-a-dormir-al-raso.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260918/1215889_194816_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Quién es ‘El Trompas’? El detenido que ha confesado el asesinato de la estudiante Claudia Tacoronte",
-      "link": "https://elpais.com/videos/2026-09-18/quien-es-el-trampas-el-detenido-que-ha-confesado-el-asesinato-de-la-estudiante-claudia-tacoronte.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260918/1215865_181739_video_1800.mp4",
       "tipo": "imagen"
     }
   ]
