@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El Real Madrid, en guerra",
+      "link": "https://www.abc.es/deportes/futbol/real-madrid-guerra-20260921134003-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/21/real%20amdrid-REzjoSs0JMkN3i4y5qrXTfI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "De la Fuente seguirá al mando de la selección española hasta 2032",
       "link": "https://www.abc.es/deportes/futbol/fuente-seguira-mando-roja-2032-20260921130438-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/21/delafu-RQDLAPdwe3bOi96FjMVOzQO-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Otro revolcón al Madrid en el Metropolitano en un polémico derbi",
       "link": "https://www.abc.es/deportes/futbol/cronica-atletico-real-madrid-20260920094941-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/20/alegria-atletico-ignacio-gil-RHAKgdL79M42LatmEwstGmK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Así queda la clasificación de la Liga: el Real Madrid cae al cuarto puesto",
-      "link": "https://www.abc.es/deportes/futbol/queda-clasificacion-liga-real-madrid-cae-cuarto-20260920193057-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/20/derrota-Rofj06feGyRGxrSTHWLKRiK-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

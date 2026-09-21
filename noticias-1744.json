@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Los tres medios vetados por Trump presentan una demanda contra el presidente",
+      "link": "https://www.publico.es/internacional/eeuu/tres-medios-vetados-trump-presentan-demanda-presidente.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/21/6ab11d08788d9.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Administración Trump investiga los disparos del ICE a un migrante venezolano",
       "link": "https://www.publico.es/internacional/administracion-trump-investiga-disparos-ice-migrante-venezolano.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/07/14/6a567d683130e.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "La ultraderecha gana de nuevo en unas elecciones en Alemania ante una CDU hundida",
       "link": "https://www.publico.es/internacional/europa/ultraderecha-gana-elecciones-noreste-aleman-cdu-hunde-sondeos.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/20/6ab00a1611d3b.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Meloni anuncia una ley para limitar el número de alumnos extranjeros en los colegios italianos",
-      "link": "https://www.publico.es/internacional/meloni-anuncia-ley-limitar-numero-alumnos-extranjeros-colegios-italianos.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/20/6aafeeb362a79.jpeg",
       "tipo": "imagen"
     }
   ]

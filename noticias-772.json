@@ -1,8 +1,14 @@
 {
   "noticias": [
     {
-      "titulo": "Julia Ferreras y Rafael Borrego, después de que una turba destrozara su coche en Ceuta: “Éramos el enemigo, el objetivo a batir”",
+      "titulo": "Julia Ferreras y Rafael Borrego, después de que una turba destrozara su coche en Ceuta: “Éramos el enemigo, el objetivo a abatir”",
       "link": "https://www.eldiario.es/desalambre/julia-ferreras-rafael-borrego-agresion-coche-ceuta-enemigo-objetivo-batir_1_13524844.html",
+      "imagen": "https://static.eldiario.es/clip/08f27df6-018d-4919-93fa-cc606528787f_16-9-discover-aspect-ratio_default_0_x1008y303.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ferreras y Borrego presentan una denuncia por la agresión",
+      "link": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13524866_1125081.html",
       "imagen": "https://static.eldiario.es/clip/08f27df6-018d-4919-93fa-cc606528787f_16-9-discover-aspect-ratio_default_0_x1008y303.jpg",
       "tipo": "imagen"
     },
@@ -28,12 +34,6 @@
       "titulo": "Carlos Mazón se niega a responder en la comisión de investigación de la dana: “Los tribunales ya se han pronunciado”",
       "link": "https://www.eldiario.es/comunitat-valenciana/politica/carlos-mazon-niega-responder-comision-investigacion-dana-tribunales-han-pronunciado_1_13525041.html",
       "imagen": "https://static.eldiario.es/clip/29d9e92c-5685-431f-bd57-be758ac7fda0_16-9-discover-aspect-ratio_default_0_x1974y783.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El juez da tres días a Zapatero para que entregue la documentación de las joyas",
-      "link": "https://www.eldiario.es/politica/juez-fija-30-noviembre-declaracion-investigadas-hijas-zapatero_1_13525735.html",
-      "imagen": "https://static.eldiario.es/clip/639c65de-c0dc-4c11-be4d-3a76acd4bad0_facebook-aspect-ratio-1200-675_default_0_x905y289.jpg",
       "tipo": "imagen"
     }
   ]

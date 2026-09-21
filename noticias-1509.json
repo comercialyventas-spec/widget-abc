@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Peinado, uno de los nuestros",
+      "link": "https://www.eldiario.es/opinion/tribuna-abierta/peinado_129_13525980.html",
+      "imagen": "https://static.eldiario.es/clip/f6eda45a-1d5e-453d-bfd7-53066a50bda8_avatar-200-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Bloqueo legislativo, también en lo comunitario y laboral",
       "link": "https://www.eldiario.es/opinion/tribuna-abierta/bloqueo-legislativo-comunitario-laboral_129_13523380.html",
       "imagen": "https://static.eldiario.es/clip/8fa89901-7226-4331-9511-d6eeb94ce8e6_avatar-200-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Ladrones de soberanía",
       "link": "https://www.eldiario.es/opinion/tribuna-abierta/ladrones-soberania_129_13518529.html",
       "imagen": "https://static.eldiario.es/clip/c8871900-1d2d-482a-9ca1-2f260f48728b_avatar-200-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La violencia de los colonos es esencial para el proyecto de eliminación de Palestina por parte de Israel",
-      "link": "https://www.eldiario.es/opinion/tribuna-abierta/violencia-colonos-esencial-proyecto-eliminacion-palestina-parte-israel_129_13512124.html",
-      "imagen": "https://static.eldiario.es/clip/8e433897-f697-4f3a-b0d3-cd9d8b92d2ca_avatar-200-aspect-ratio_default_0.jpeg",
       "tipo": "imagen"
     }
   ]
