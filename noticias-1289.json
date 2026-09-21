@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Puigdemont pide un referéndum para Ceuta y Melilla",
+      "link": "https://www.mediterraneodigital.com/espana/cataluna/puigdemont-ceuta-melilla",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/9/carles-puigdemont.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Es oficial: España es el país con más inmigrantes de toda Europa",
       "link": "https://www.mediterraneodigital.com/espana/espana-inmigrantes-union-europea",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/inmigrantes-espana-europa.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Caso Moroccogate: el CNI advirtió al Gobierno de que varios políticos socialistas están a sueldo de Marruecos",
       "link": "https://www.mediterraneodigital.com/espana/moroccogate",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/morosgate.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Dimite el jefe de Gabinete de Ceuta y desmiente al Gobierno: sí trasladó el aviso del CNI",
-      "link": "https://www.mediterraneodigital.com/espana/ceuta-y-melilla/delegado-gobierno-ceuta",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/9/gonzalo-sanz.jpg",
       "tipo": "imagen"
     }
   ]

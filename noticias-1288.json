@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Puigdemont pide un referéndum para Ceuta y Melilla",
+      "link": "https://www.mediterraneodigital.com/espana/cataluna/puigdemont-ceuta-melilla",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/9/puigdemont-carles.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "5 hombres disfrazados de policía paran un coche en la AP-7 y secuestran al conductor",
       "link": "https://www.mediterraneodigital.com/sucesos-espana/secuestro-autopista",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/secuestro.jpg",
@@ -15,8 +21,8 @@
     {
       "titulo": "Los herederos del Partido Comunista ganan las elecciones en Berlín",
       "link": "https://www.mediterraneodigital.com/internacional/die-linke-berlin",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/9/die-linke.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Políticos australianos impulsan una iniciativa para prohibir a los Hermanos Musulmanes",
@@ -27,12 +33,6 @@
     {
       "titulo": "Un anciano de 85 años mata a su exnuera okupa estrangulándola con el cinturón",
       "link": "https://www.mediterraneodigital.com/sucesos-espana/sucesos-fuencarral-madrid",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "La Policía mata de un disparo a un africano que intentó apuñalar a los agentes al grito de «¡Alá es grande!»",
-      "link": "https://www.mediterraneodigital.com/sucesos-espana/policia-mata-africano-madrid",
       "imagen": "",
       "tipo": ""
     }
