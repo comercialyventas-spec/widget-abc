@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El Gobierno de Ceuta condena la agresión sufrida por una diputada de la Asamblea",
+      "link": "https://efe.com/espana/2026-09-21/ceuta-agresion-coche-diputada/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/ceuta-16.webp?w=600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Detenido en Alicante por la muerte de su pareja, una mujer de 34 años, en Leganés (Madrid)",
       "link": "https://efe.com/espana/2026-09-21/leganes-detenido-violencia-machista/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/leganes.webp?w=600&ssl=1",
@@ -28,12 +34,6 @@
       "titulo": "La Legión cumple 106 años con la mirada puesta en la vanguardia del combate",
       "link": "https://efe.com/espana/2026-09-20/legion-cumple-106-anos/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/GRAF699-ESPANA-FUERZAS-ARMADAS.webp?w=600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "España despliega una campaña en redes para desalentar las entradas irregulares a Ceuta y Melilla",
-      "link": "https://efe.com/espana/2026-09-20/campana-entradas-irregulares-ceuta-melilla/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/GRAF4764-ESPANA-INMIGRACION.webp?w=600&ssl=1",
       "tipo": "imagen"
     }
   ]

@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
+      "titulo": "El Real Madrid, sin centro del campo pero con impresora a color",
+      "link": "https://www.abc.es/deportes/real-madrid/real-madrid-centro-campo-impresora-color-20260921091814-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/21/valverde-Re8CdkaKyUe4i4M2Mjsq7kM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La ruina de tener prisionero el velero de 530 millones de un oligarca ruso",
       "link": "https://www.abc.es/internacional/velero-lujo-530-millones-prisionero-golfo-trieste-20260918011811-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/18/58648927%20(1)-RStqxnH23yi3PdLpk5qEk3K-1200x840@diario_abc.JPG"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/18/58648927%20(1)-RStqxnH23yi3PdLpk5qEk3K-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
     },
     {
       "titulo": "Muere un hombre de 82 años en Grecia tras pelear con otro de 76 por una tumbona de playa",
       "link": "https://www.abc.es/internacional/muere-hombre-anos-grecia-tras-pelear-tumbona-20260921091231-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/21/playa-grecia-kRAH-U301816366855VWB-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/21/playa-grecia-kRAH-U301816366855VWB-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Muere el hijo de Cindy Crawford a los 27 años en un centro de rehabilitación",
       "link": "https://www.abc.es/gente/muere-hijo-cindy-crawford-anos-centro-rehabilitacion-20260921084719-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/21/Presley-Gerber-RmFGeRqXS5KwTckHS3ocm1H-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/21/Presley-Gerber-RmFGeRqXS5KwTckHS3ocm1H-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "La Aemet avisa a Madrid por lo que llega en las próximas horas: «Entramos en el otoño con temperaturas extremas en la capital»",
       "link": "https://www.abc.es/espana/madrid/aemet-avisa-madrid-llega-proximas-horas-entramos-20260921050000-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/21/calor-extremo-k0aD-U301808351563pTF-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/21/calor-extremo-k0aD-U301808351563pTF-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "La Aemet avisa a España del regreso del calor de agosto: temperaturas de más de 35 grados y noches tropicales",
       "link": "https://www.abc.es/sociedad/aemet-avisa-espana-regreso-calor-agosto-temperaturas-20260921083920-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/21/calor-meteored-kZZ-U301798525578uBF-1200x840@diario_abc.png"
-    },
-    {
-      "titulo": "Un grupo de vecinos destroza el coche de la diputada de Ceuta Ya! al confundirlo con el de la organización proetarra",
-      "link": "https://www.abc.es/espana/grupo-vecinos-destroza-coche-diputada-ceuta-confundirlo-20260921070607-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/21/ceuta-protesta-kUIE-U301815321498Q9E-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/21/calor-meteored-kZZ-U301798525578uBF-1200x840@diario_abc.png",
+      "tipo": "imagen"
     }
   ]
 }

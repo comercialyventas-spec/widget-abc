@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Un grupo de manifestantes destrozan con piedras el coche de una diputada ceutí durante una protesta",
+      "link": "https://www.publico.es/sociedad/migracion/manifestantes-zarandean-lanzan-huevos-coche-diputada-ceuti-protesta.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/21/6ab0d7a15cbf0.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El partido de Putin gana por mayoría las legislativas rusas entre denuncias de irregularidades",
+      "link": "https://www.publico.es/internacional/asia/partido-putin-gana-mayoria-legislativas-rusas-denuncias-irregularidades.html",
+      "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/21/6ab0d364e4f76.r_d.1135-642-1227.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Fallece a los 27 años Presley Gerber, hijo de la modelo estadounidense Cindy Crawford",
       "link": "https://www.publico.es/culturas/fallece-27-anos-presley-gerber-hijo-modelo-estadounidense-cindy-crawford.html",
       "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/21/6ab0ca38a0243.r_d.1059-608-1227.png",
@@ -13,27 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "\"Paco, ¿tú vienes a trabajar o a delinquir?\"",
-      "link": "https://www.publico.es/opinion/columnas/paco-vienes-trabajar-delinquir.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/01/6a96fa45a191f.jpeg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "El odio en televisión",
       "link": "https://www.publico.es/opinion/columnas/odio-television.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/07/13/6a551b5d1fe68.png",
       "tipo": "imagen"
     },
     {
-      "titulo": "Las verborragias de Ayuso",
-      "link": "https://www.publico.es/opinion/verborragias-ayuso.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/18/6aad59aebaa0a.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ricas, famosas y no gestantes",
-      "link": "https://www.publico.es/opinion/columnas/ricas-famosas-gestantes.html",
-      "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/20/6ab0273a33e93.r_d.545-275-3157.png",
+      "titulo": "\"Paco, ¿tú vienes a trabajar o a delinquir?\"",
+      "link": "https://www.publico.es/opinion/columnas/paco-vienes-trabajar-delinquir.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/01/6a96fa45a191f.jpeg",
       "tipo": "imagen"
     }
   ]
