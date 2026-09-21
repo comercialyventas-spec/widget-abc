@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La UE planea convertir décadas de datos personales en combustible para las empresas de la IA",
+      "link": "https://www.publico.es/ciencias/tecnologia/ue-planea-convertir-decadas-datos-personales-combustible-empresas-ia.html",
+      "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/21/6ab161198d095.r_d.970-547-1406.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Todo lo que nos ocultaron sobre los fallos de la IA que ahora reconocen sus creadores",
       "link": "https://www.publico.es/ciencias/tecnologia/ocultaron-sobre-fallos-ia-ahora-reconocen-creadores.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/17/6aac1701f17c7.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "La tasa de vacunación infantil disminuye en la mayoría de los países de la Unión Europea",
       "link": "https://www.publico.es/ciencias/investigacion/tasa-vacunacion-infantil-disminuye-mayoria-paises-union-europea.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/07/15/6a575af1ea8ff.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "OpenAI desvela varios casos en los que sus modelos ignoraron las reglas de los desarrolladores",
-      "link": "https://www.publico.es/ciencias/tecnologia/openai-desvela-varios-casos-modelos-ignoraron-reglas-desarrolladores.html",
-      "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/07/22/6a60e36f1474a.r_d.961-574-1406.jpeg",
       "tipo": "imagen"
     }
   ]

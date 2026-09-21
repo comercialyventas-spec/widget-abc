@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Tiembla Alemania",
+      "link": "https://www.eldiario.es/opinion/tribuna-abierta/tiembla-alemania_129_13525554.html",
+      "imagen": "https://static.eldiario.es/clip/996c6798-091c-44a2-8cd6-cc9101e1534b_avatar-200-aspect-ratio_default_0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Peinado, uno de los nuestros",
       "link": "https://www.eldiario.es/opinion/tribuna-abierta/peinado_129_13525980.html",
       "imagen": "https://static.eldiario.es/clip/f6eda45a-1d5e-453d-bfd7-53066a50bda8_avatar-200-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El club de los jueces cabales",
       "link": "https://www.eldiario.es/opinion/tribuna-abierta/club-jueces-cabales_129_13510955.html",
       "imagen": "https://static.eldiario.es/clip/054c923d-3698-4240-b6be-4b27175dd217_avatar-200-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ladrones de soberanía",
-      "link": "https://www.eldiario.es/opinion/tribuna-abierta/ladrones-soberania_129_13518529.html",
-      "imagen": "https://static.eldiario.es/clip/c8871900-1d2d-482a-9ca1-2f260f48728b_avatar-200-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

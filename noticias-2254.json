@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Rivas, segundo municipio de la región con más viviendas vacías por detrás de la ciudad de Madrid",
+      "link": "https://www.diarioderivas.es/rivas-viviendas-vacias-ine/",
+      "imagen": "https://www.diarioderivas.es/wp-content/uploads/2024/12/Placas-solares-vista-aerea.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las Juventudes Socialistas de Rivas renuevan su Ejecutiva: Jorge Pastrano, reelegido como secretario general",
       "link": "https://www.diarioderivas.es/las-juventudes-socialistas-de-rivas-renuevan-su-ejecutiva-jorge-pastrano-reelegido-como-secretario-general/",
       "imagen": "https://www.diarioderivas.es/wp-content/uploads/2026/09/Jorge-Pastrano-2-1080x675.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Rivas se vuelca en el 25 aniversario de Rivamadrid con una gran jornada de puertas abiertas",
       "link": "https://www.diarioderivas.es/25-aniversario-rivamadrid-jornada-puertas-abiertas/",
       "imagen": "https://www.diarioderivas.es/wp-content/uploads/2026/09/Puertas-abiertas-Rivamadrid-9-1080x675.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Feria del Vehículo Sostenible vuelve a Rivas del 16 al 18 de octubre con más de 400 vehículos",
-      "link": "https://www.diarioderivas.es/feria-del-vehiculo-sostenible/",
-      "imagen": "https://www.diarioderivas.es/wp-content/uploads/2025/10/Dursan-2-1080x675.jpg",
       "tipo": "imagen"
     }
   ]

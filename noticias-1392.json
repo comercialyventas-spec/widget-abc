@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de Nuevo Sureste de Madrid",
+      "link": "https://nuevosureste.es/finalizacion-canaveral-11/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/Visita-a-Canaveral-11-.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "ASPRIMA advierte de que el nuevo decreto de inundabilidad puede bloquear vivienda y desarrollos urbanísticos",
       "link": "https://nuevosureste.es/asprima-decreto-inundabilidad/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2025/11/Los-Cerros-alumbrado-1080x675.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Madrid celebra la XXIII Semana Internacional de la Arquitectura con más de 330 actividades y Suiza como país invitado",
       "link": "https://nuevosureste.es/semana-internacional-de-la-arquitectura-2026/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/IMG_8942-1080x675.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "EMVS Madrid reparará las fachadas fisuradas de una promoción municipal en el Ensanche de Vallecas",
-      "link": "https://nuevosureste.es/reparaciones-vallecas-27/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/Promocion-Vallecas-27-foto-EMVS-Madrid.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La izquierda, única esperanza",
+      "link": "https://www.eldiario.es/blog/el-ojo-izquierdo/izquierda-unica-esperanza_132_13527050.html",
+      "imagen": "https://static.eldiario.es/clip/78a571ec-965d-4fa7-a5a1-dad30959f18c_16-9-discover-aspect-ratio_default_0_x1192y251.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El tiempo, implacable, nos come los pies",
       "link": "https://www.eldiario.es/blog/el-ojo-izquierdo/tiempo-implacable-come-pies_132_13509407.html",
       "imagen": "https://static.eldiario.es/clip/4057bce5-6836-4b2a-a75d-e20b32d4cea8_16-9-discover-aspect-ratio_default_0_x976y381.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Criticamos a los jueces, sí. ¿Pasa algo?",
       "link": "https://www.eldiario.es/blog/el-ojo-izquierdo/criticamos-jueces-si-pasa_132_13394361.html",
       "imagen": "https://static.eldiario.es/clip/6b7271a5-762f-4100-aa05-d08c481c3b2c_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Que se rompan los morros. Con su propio ímpetu",
-      "link": "https://www.eldiario.es/blog/el-ojo-izquierdo/rompan-morros-propio-impetu_132_13377377.html",
-      "imagen": "https://static.eldiario.es/clip/0f302a6d-12c6-4aaf-a5c5-c59a1d935c09_16-9-discover-aspect-ratio_default_0_x1101y368.jpg",
       "tipo": "imagen"
     }
   ]
