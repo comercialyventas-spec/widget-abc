@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "El Real Madrid, en guerra",
-      "link": "https://www.abc.es/deportes/futbol/real-madrid-guerra-20260921134003-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/21/real%20amdrid-REzjoSs0JMkN3i4y5qrXTfI-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Zapatero tiene tres días para justificar sus joyas y sus hijas declararán en noviembre como imputadas",
-      "link": "https://www.abc.es/espana/juez-cita-imputadas-hijas-zapatero-noviembre-20260921130313-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/21/ZAPATERO-kMDF-U3018205651297qG-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "Delcy Rodríguez llega a Nueva York para participar en la Asamblea General de la ONU",
       "link": "https://www.abc.es/internacional/delcy-rodriguez-llega-nueva-york-participar-asamblea-20260921155446-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/21/delcy-RpdXJ2OACsJN4PGoqqUuqJJ-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/21/delcy-RpdXJ2OACsJN4PGoqqUuqJJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Muere un hombre de 93 años y la conductora de 75 resulta herida tras volcar su coche en Arganda",
       "link": "https://www.abc.es/espana/madrid/muere-hombre-anos-conductora-resulta-herida-tras-20260921170907-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/21/1463813716-k65G-U3018259950733v-1200x840@diario_abc.JPG"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/21/1463813716-k65G-U3018259950733v-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
     },
     {
       "titulo": "Las 15 mejores ofertas de hoy (21 de septiembre) en Amazon: hasta un 52% en Skechers, Xiaomi y más",
       "link": "https://www.abc.es/favorito/las-5-mejores-ofertas-de-hoy-20260921072842-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/favorito/2026/09/21/portada-20260921073806-R1UujBJWXDbIgczBRSxetIN-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/favorito/2026/09/21/portada-20260921073806-R1UujBJWXDbIgczBRSxetIN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Zapatero tiene tres días para justificar sus joyas y sus hijas declararán en noviembre como imputadas",
+      "link": "https://www.abc.es/espana/juez-cita-imputadas-hijas-zapatero-noviembre-20260921130313-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/21/ZAPATERO-kMDF-U3018205651297qG-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Ferran Torres: «Desayuno contundente los días de partido. Como gofres o le meto chocolate al croissant»",
       "link": "https://www.abc.es/gente/ferran-torres-anos-desayuno-contundente-dias-partido-20260921160000-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/02/27/ferran-torres-ok-kcmG-U301816833778XpD-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/02/27/ferran-torres-ok-kcmG-U301816833778XpD-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las Fuerzas Armadas entrenan el sistema de defensa aérea de España frente a la costa de Marruecos",
+      "link": "https://www.abc.es/espana/fuerzas-armadas-entrenan-sistema-defensa-aerea-espana-20260921154321-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/21/UDDA1-RH64KBFMfRmGHZxGersAR3H-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }

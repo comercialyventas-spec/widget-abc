@@ -1,21 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Peinado, uno de los nuestros",
+      "link": "https://www.eldiario.es/opinion/tribuna-abierta/peinado_129_13525980.html",
+      "imagen": "https://static.eldiario.es/clip/3b142ec5-ee41-4287-9cf7-aff554a92476_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Gobierno carga contra los “excesos” del Supremo con la ley de nietos y dice que “nadie puede predecir” a quién votarían",
+      "link": "https://www.eldiario.es/politica/gobierno-carga-excesos-supremo-ley-nietos-dice-nadie-predecir-votarian_1_13526571.html",
+      "imagen": "https://static.eldiario.es/clip/1625e726-323a-4659-98bc-621dadc79aad_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El audio que encendió la chispa en la agresión al coche de la diputada ceutí: “Apoyan a ETA”",
+      "link": "https://www.eldiario.es/politica/audio-encendio-chispa-acabo-agresion-coche-diputada-ceuti-apoyan-eta_1_13526246.html",
+      "imagen": "https://static.eldiario.es/clip/09257411-556b-4bb1-8eb5-fb7a8a6aa815_16-9-discover-aspect-ratio_default_0_x1079y228.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Julia Ferreras y Rafael Borrego, después de que una turba destrozara su coche en Ceuta: “Éramos el enemigo, el objetivo a abatir”",
       "link": "https://www.eldiario.es/desalambre/julia-ferreras-rafael-borrego-agresion-coche-ceuta-enemigo-objetivo-batir_1_13524844.html",
       "imagen": "https://static.eldiario.es/clip/08f27df6-018d-4919-93fa-cc606528787f_16-9-discover-aspect-ratio_default_0_x1008y303.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ferreras y Borrego presentan una denuncia por la agresión",
-      "link": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13524866_1125081.html",
-      "imagen": "https://static.eldiario.es/clip/08f27df6-018d-4919-93fa-cc606528787f_16-9-discover-aspect-ratio_default_0_x1008y303.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Decenas de personas destrozan en Ceuta el coche de una diputada y un activista: “Nos iban a matar”",
-      "link": "https://www.eldiario.es/desalambre/cargas-policiales-puerto-ceuta-agresion-decenas-personas-miembros-ong_1_13524691.html",
-      "imagen": "https://static.eldiario.es/clip/b8658daa-5d8b-4f9c-85d6-20b1ef6cf05b_16-9-discover-aspect-ratio_default_0_x1165y279.jpg",
       "tipo": "imagen"
     },
     {
@@ -25,15 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Feijóo señala “interés, desidia o estrategia” del Gobierno para “ampliar” el “conflicto” de Ceuta, “cronificarlo y buscar un culpable”",
+      "titulo": "Feijóo señala “interés” del Gobierno para “cronificar” el “conflicto” y “buscar un culpable”",
       "link": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13524866_1125090.html",
-      "imagen": "https://static.eldiario.es/clip/0a87a8f5-ccc0-4cb3-b4dd-0a770a186128_facebook-aspect-ratio-1200-675_default_0_x1160y214.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las grandes cadenas plantan a la Casa Blanca tras el veto de Trump a CNN, MSNOW y Politico",
-      "link": "https://www.eldiario.es/internacional/cnn-msnow-politico-denuncian-trump-veto-casa-blanca_1_13526396.html",
-      "imagen": "https://static.eldiario.es/clip/c554faab-e5b1-4dcf-a555-56d1ce11b43d_16-9-aspect-ratio_default_0_x546y653.jpg",
+      "imagen": "https://static.eldiario.es/clip/fda176b6-f251-4bf6-8264-334c497dd602_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
