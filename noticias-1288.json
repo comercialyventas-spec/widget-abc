@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Después de Ceuta y Melilla, Marruecos reclama el Monte Tropic de las islas Canarias",
+      "link": "https://www.mediterraneodigital.com/espana/monte-tropic",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/9/monte-tropic.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Mercadona despide a un trabajador que entró a internet 7.685 veces en un mes",
       "link": "https://www.mediterraneodigital.com/negocios-y-finanzas/mercadona-despido",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/mercadona.jpg",
@@ -15,8 +21,8 @@
     {
       "titulo": "5 hombres disfrazados de policía paran un coche en la AP-7 y secuestran al conductor",
       "link": "https://www.mediterraneodigital.com/sucesos-espana/secuestro-autopista",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/9/secuestro.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Florentino Pérez la lía en el palco del Metropolitano: «Dice que se va»",
@@ -27,12 +33,6 @@
     {
       "titulo": "Los herederos del Partido Comunista ganan las elecciones en Berlín",
       "link": "https://www.mediterraneodigital.com/internacional/die-linke-berlin",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Políticos australianos impulsan una iniciativa para prohibir a los Hermanos Musulmanes",
-      "link": "https://www.mediterraneodigital.com/internacional/hermanos-musulmanes",
       "imagen": "",
       "tipo": ""
     }

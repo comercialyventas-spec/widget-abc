@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Gordofobia",
+      "link": "https://www.abc.es/espana/cataluna/david-miras-estevez-gordofobia-20260921101853-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/21/gordofobia-ataque-metro-RdL08WYH44Lks9Jw9ReI3GL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los Mossos buscan a cinco hombres que perpetraron un secuestro en la AP-7 disfrazados de policías",
+      "link": "https://www.abc.es/espana/cataluna/mossos-buscan-cinco-hombres-perpetraron-secuestro-ap7-20260921101036-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/21/secuestro-ap7-Ri4NM0V5VKQoNtdvIrfnd3N-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sánchez, entre Trump y Putin",
       "link": "https://www.abc.es/espana/cataluna/sergi-doria-sanchez-trump-putin-20260921011625-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/21/sanchez00-RIvK7p60k5Y2aSb81FEL6qJ-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Unas 5.500 personas se manifiestan en Barcelona en contra de la ampliación del aeropuerto",
       "link": "https://www.abc.es/espana/cataluna/5500-personas-manifiestan-barcelona-ampliacion-aeropuerto-20260920192307-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/20/mani-RrZC5KjqC8lzIRnKunDPdBL-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Puigdemont pregunta qué sentido tiene para España «tener dos colonias o dos ciudades en Marruecos»",
-      "link": "https://www.abc.es/espana/cataluna/puigdemont-pregunta-sentido-espana-tener-dos-colonias-20260920183917-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/20/1517354857-RSMvhALaL7yMPzGit2Oj23N-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Muere por suicidio un preso de Quatre Camins, la segunda muerte en la cárcel en apenas tres días",
-      "link": "https://www.abc.es/espana/cataluna/muere-suicidio-preso-quatre-camins-segunda-muerte-20260920174605-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/20/quatre-R9CTvq9nW1uyThekYlGm16O-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
