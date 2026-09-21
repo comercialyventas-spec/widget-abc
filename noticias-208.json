@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El partido de Putin logra un récord de escaños en Rusia",
+      "link": "https://www.dw.com/es/el-partido-de-putin-logra-un-récord-de-escaños-en-rusia/a-79354199",
+      "imagen": "https://static.dw.com/image/79345595_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La UE multa a Google con 462 millones por la geolocalización",
       "link": "https://www.dw.com/es/la-ue-multa-a-google-con-462-millones-por-la-geolocalización/a-79354489",
       "imagen": "https://static.dw.com/image/76141728_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Japón cancela cientos de vuelos ante llegada de tifón Dujuan",
       "link": "https://www.dw.com/es/japón-cancela-cientos-de-vuelos-ante-llegada-de-tifón-dujuan/a-79349855",
       "imagen": "https://static.dw.com/image/77403746_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un ministro de Taiwán realiza inusual visita a China",
-      "link": "https://www.dw.com/es/un-ministro-de-taiwán-realiza-inusual-visita-a-china/a-79349020",
-      "imagen": "https://static.dw.com/image/74581255_6.jpg",
       "tipo": "imagen"
     }
   ]
