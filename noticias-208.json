@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Pekín confirma la visita del presidente chino a Estados Unidos",
+      "link": "https://www.dw.com/es/pekín-confirma-la-visita-del-presidente-chino-a-estados-unidos/a-79351440",
+      "imagen": "https://static.dw.com/image/77996961_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Canadá propone que Londres se sume a la alianza con la UE",
       "link": "https://www.dw.com/es/canadá-propone-que-londres-se-sume-a-la-alianza-con-la-ue/a-79350611",
       "imagen": "https://static.dw.com/image/78511221_6.jpg",
@@ -9,7 +15,7 @@
     {
       "titulo": "Tras las elecciones regionales: la CDU de Merz bajo presión",
       "link": "https://www.dw.com/es/tras-las-elecciones-regionales-la-cdu-de-merz-bajo-presión/live-79350170",
-      "imagen": "https://static.dw.com/image/79347595_6.jpg",
+      "imagen": "https://static.dw.com/image/79351530_6.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "EE.UU. tilda a “exitosa” reunión con China sobre IA y comercio",
       "link": "https://www.dw.com/es/ee-uu-tilda-a-exitosa-reunión-con-china-sobre-ia-y-comercio/a-79349012",
       "imagen": "https://static.dw.com/image/78594330_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Agente de ICE dispara en Texas contra un migrante venezolano",
-      "link": "https://www.dw.com/es/agente-de-ice-dispara-en-texas-contra-un-migrante-venezolano/a-79349004",
-      "imagen": "https://static.dw.com/image/79304116_6.jpg",
       "tipo": "imagen"
     }
   ]

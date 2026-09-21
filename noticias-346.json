@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Gemini hackea por error tres empresas reales tras escapar del entorno de prueba de Google",
+      "link": "https://www.abc.es/tecnologia/gemini-hackea-error-tres-empresas-reales-tras-20260921111207-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/21/gemini-kLHE-U301818018983yIH-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sánchez busca impulsar un contrato social en el uso de la IA y advierte de sus riesgos si «está en manos de unos pocos»",
       "link": "https://www.abc.es/tecnologia/sanchez-busca-impulsar-contrato-social-avanzar-uso-20260921105017-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/21/1517624831-kttB-U301817825600N0C-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "¿Quién puede permitirse frenar la IA?: el miedo a la extinción como estrategia de mercado",
       "link": "https://www.abc.es/tecnologia/puede-permitirse-frenar-ia-miedo-extincion-estrategia-20260918012528-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/18/1517307360-RA8QASROZwKwIbjpfBpXXFL-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Logran 'hackear' a OpenAI en 72 horas utilizando la IA de Anthropic",
-      "link": "https://www.abc.es/tecnologia/logran-hackear-openai-horas-utilizando-ia-anthropic-20260918124846-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/18/1517307382-RDxowaP5PUJnqLumAlRpWjO-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

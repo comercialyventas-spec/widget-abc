@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "‘Estampas japonesas’",
+      "link": "https://elpais.com/opinion/2026-09-21/estampas-japonesas.html-2",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "Estampas japonesas",
+      "link": "https://elpais.com/opinion/2026-09-21/estampas-japonesas.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/GHWNTO2C6JGXTOQIVYJW6YXVHI.jpg?auth=c17e730f86216f0378ad3ec8a79e8782c39b003ccdec6b9a0bd32ba66c3eb016",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Una lectora: “Nos exigen puntualidad y son los gobiernos quienes llegan tarde”",
       "link": "https://elpais.com/opinion/2026-09-21/una-lectora-nos-exigen-puntualidad-y-son-los-gobiernos-quienes-llegan-tarde.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/ZCWY7MBXEFNUXDZQA5HCF3GWFA.jpg?auth=db6b7d43634253afc373a4dddb2669507e08c083d238097f683854f226f1ac2f",
@@ -22,18 +34,6 @@
       "titulo": "Los piratas",
       "link": "https://elpais.com/opinion/2026-09-21/los-piratas.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/KZXQHF6X2BHOPNJKZ3CCISAIOU.jpg?auth=826fefdbadb5e053a8a8e412e346a7d20c9433b38bf78ac6b828d18bc3f3ffa9",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sciammarella: el escultor Julio González",
-      "link": "https://elpais.com/opinion/2026-09-21/sciammarella-el-escultor-julio-gonzalez.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/SOSKAVUCG5F5VGXIDNTM5K5G6I.jpg?auth=d991d426525acf8af67f7f8336a227c5e0634c0121e033c058f812e88813d3e6",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Paco",
-      "link": "https://elpais.com/opinion/2026-09-21/paco.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/WDR5PHTAHFDGRGVJR7HYIIN7VE.jpg?auth=7f2cb8bb7d9caa5e65afe99d167bf93e216281820cff792c85cd179ffcae854c",
       "tipo": "imagen"
     }
   ]
