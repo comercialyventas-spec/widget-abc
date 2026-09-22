@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Cataluña plantea prohibir el uso de la IA en las escuelas hasta los 14 años",
+      "link": "https://efe.com/cataluna/inteligencia-artificial/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/Anthropic-IA-3.webp?w=600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Abogacía del Estado ve imposible revisar 170.000 expedientes de la ley de nietos antes de 2027",
+      "link": "https://efe.com/espana/2026-09-22/abogacia-estado-ley-de-nietos/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/NIETOS-1.webp?w=600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Continúa el calor inusual al menos hasta el fin de semana, con riesgo de incendios extremo",
+      "link": "https://efe.com/espana/2026-09-22/tiempo-calor-riesgo-incendios/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/calor-12.webp?w=600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Tribunal Supremo decidirá si el caso Montoro se queda en los juzgados de Tarragona o de Madrid",
       "link": "https://efe.com/espana/2026-09-22/tribunal-supremo-caso-montoro/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/montoro.webp?w=600&ssl=1",
@@ -16,24 +34,6 @@
       "titulo": "El otoño llega mañana con mucho calor y con Mercurio y Venus visibles tras la puesta de Sol",
       "link": "https://efe.com/espana/2026-09-22/llegada-otono-astronomico/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/otono.webp?w=600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Vox denuncia a Leire Díez por pedir a un clan que diera un «sustillo» a la jueza Biedma",
-      "link": "https://efe.com/espana/2026-09-22/vox-denuncia-leire-diez-clan-sustillo-jueza-biedma/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/BIEDMA.webp?w=600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Congreso retira definitivamente la acreditación de prensa al agitador Vito Quiles",
-      "link": "https://efe.com/espana/2026-09-22/congreso-retira-definitivamente-acreditacion-prensa-vito-quiles/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/vito.webp?w=600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Greenpeace, sobre el juicio a 11 activistas en Valencia: Fue una protesta pacífica",
-      "link": "https://efe.com/espana/2026-09-22/greenpeace-juicio-activistas-valencia/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/green.webp?w=600&ssl=1",
       "tipo": "imagen"
     }
   ]

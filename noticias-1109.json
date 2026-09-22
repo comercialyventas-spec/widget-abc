@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Los padres españoles son los que más sobreexponen a sus hijos en internet de toda la UE",
+      "link": "https://www.publico.es/ciencias/tecnologia/padres-espanoles-son-sobreexponen-hijos-internet-toda-ue.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/22/6ab254d694c68.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La UE planea convertir décadas de datos personales en combustible para las empresas de la IA",
       "link": "https://www.publico.es/ciencias/tecnologia/ue-planea-convertir-decadas-datos-personales-combustible-empresas-ia.html",
       "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/21/6ab161198d095.r_d.970-547-1406.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Un equipo de investigadores logra 'hackear' a OpenAI con la IA de Anthropic",
       "link": "https://www.publico.es/ciencias/tecnologia/equipo-investigadores-logra-hackear-openai-ia-anthropic.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/18/6aad03ed1dd60.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La tasa de vacunación infantil disminuye en la mayoría de los países de la Unión Europea",
-      "link": "https://www.publico.es/ciencias/investigacion/tasa-vacunacion-infantil-disminuye-mayoria-paises-union-europea.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/07/15/6a575af1ea8ff.jpeg",
       "tipo": "imagen"
     }
   ]
