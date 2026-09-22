@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Lo mismo para vos que para Nóos",
+      "link": "https://okdiario.com/opinion/lo-mismo-vos-que-noos-20353428",
+      "imagen": "https://okdiario.com/img/2026/09/21/22-09-2026-begona-banquillo-peinado.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "De Manacor al Consell: cuando el separatismo cambia de despacho",
       "link": "https://okdiario.com/baleares/manacor-consell-cuando-separatismo-cambia-despacho-20349931",
       "imagen": "https://okdiario.com/img/2026/09/21/imagen_final-1.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Ceuta: ¡La frontera subcontratada!",
       "link": "https://okdiario.com/opinion/ceuta-frontera-subcontratada-20349930",
       "imagen": "https://okdiario.com/img/2026/09/21/imagen_final-10.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Día Mundial del Alzhéimer",
-      "link": "https://okdiario.com/opinion/dia-mundial-del-alzheimer-20342196",
-      "imagen": "https://okdiario.com/img/2026/09/20/21-09-2026-dia-del-alzheimer-farmacos.jpeg",
       "tipo": "imagen"
     }
   ]

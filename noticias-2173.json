@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Guerra Ucrania - Rusia, última hora en directo",
+      "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260922/guerra-ucrania---rusia-ultima-126605559",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a315bd8f-ea71-4514-9eaf-d053fe7a66e3_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Guerra de Irán, en directo",
+      "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260922/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9dee4255-971f-43a4-a49d-40c2e7e13623_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Mamdani y Trump hablan sobre vivienda asequible y migración en su reunión en Nueva York",
       "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260922/mamdani-trump-hablan-vivienda-asequible-migracion-reunion-nueva-york-134539047",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/17d5e3f7-56b8-4dd2-a751-3b03979461ee_media-libre-aspect-ratio_default_0.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Encuestas de las elecciones en Estados Unidos 2026: así están los sondeos sobre Trump y las 'midterm'",
       "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260921/encuestas-elecciones-estados-unidos-2026-sondeos-eeuu-129673684",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6ad96515-3cba-400a-bacf-cfefc1192695_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Trump se arriesga a perder el control absoluto de Texas por un error de cálculo",
-      "link": "<![CDATA[https://www.elperiodico.com/es/internacional/20260921/texas-elecciones-eeuu-candidato-trump-democrata-james-talarico-134532981",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7c950c30-641a-4fbc-9b35-e1afd450f59e_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Bruselas propone crear una etiqueta europea para medir el consumo de energía y agua de los centros de datos",
-      "link": "<![CDATA[https://www.elperiodico.com/es/economia/20260921/bruselas-propone-etiqueta-europea-consumo-energia-agua-centros-datos-134530814",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/76fa565a-43c5-4110-bef6-dd4cbc3822e6_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
