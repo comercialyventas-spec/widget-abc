@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El placer de pasear frente a la tormenta",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260922/11640970/placer-pasear-frente-tormenta.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/22/6ab2177b9d82c.r_d.1158-858-2192.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La fuerza de la mujer de los Pirineos",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260922/11640968/fuerza-mujer-pirineos.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/22/6ab21649332f3.r_d.1116-687-2338.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "De Pippi Calzaslargas al collage sobre ruedas",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260922/11640218/pippi-calzaslargas-collage-sobre-ruedas.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/21/6ab10b3ec7230.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Encuesta: ¿Aceptas que Canadá sea “país asociado” a la UE?",
-      "link": "https://www.lavanguardia.com/participacion/debates/20260922/11637255/encuesta-aceptas-canada-sea-pais-asociado-ue.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/17/6aabbca5c3c4c.r_d.4282-2145-0.jpeg",
       "tipo": "imagen"
     }
   ]

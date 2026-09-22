@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El Holocausto en Ucrania",
+      "link": "https://lix.li/gZbp5k",
+      "imagen": "https://hemeroteca-imagenes.lavanguardia.com/uploads/20260922/5b--3056_1.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Juan Pablo II se reúne con los 'hermanos mayores'",
       "link": "https://www.lavanguardia.com/hemeroteca/20220921/8537540/juan-pablo-ii-israel-meir-lau-catolicismo-judaismo-reuniones.html",
       "imagen": "https://hemeroteca-imagenes.lavanguardia.com/uploads/20260918/632ab8160a150.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Camp David: hoy termina la \"cumbre\"",
       "link": "https://hemeroteca.lavanguardia.com/preview/1978/09/17/pagina-5/33746474/pdf.html",
       "imagen": "https://hemeroteca-imagenes.lavanguardia.com/uploads/20260914/Captura-de-pantalla-2026-09-14-100453.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Guerra por el ocio digital",
-      "link": "https://hemeroteca.lavanguardia.com/preview/2006/09/19/pagina-1/51476575/pdf.html",
-      "imagen": "https://hemeroteca-imagenes.lavanguardia.com/uploads/20260914/caca.png",
       "tipo": "imagen"
     }
   ]
