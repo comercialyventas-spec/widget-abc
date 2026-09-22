@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "El huracán ‘Polo’ alcanza la categoría 5 y mantiene en alerta a cinco Estados de la costa del Pacífico mexicano",
-      "link": "https://elpais.com/mexico/2026-09-21/huracan-polo-se-intensifica-frente-a-mexico-esta-es-su-trayectoria-y-el-pronostico-de-lluvias.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/DH4X6645EZFTTLFJZRRTIKHBNA.jpg?auth=509981ebf65b29095311077d2432b7db9ecccffedfe4b88c38dac8a4635cdacf&width=414&height=233&smart=true",
+      "titulo": "Trump, en la Asamblea General de la ONU: “Tenemos una muy buena relación con México”",
+      "link": "https://elpais.com/noticias/asamblea-general-onu/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SEJWTPYCSNDKVH3VOQNGOQGKKE.png?auth=b640870211b3a4af7ef9c423e5198d4a40e0b827510ab604d5a10c6ed173fac6",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Salvar a la ONU",
+      "link": "https://elpais.com/opinion/editoriales/",
+      "imagen": "https://imagenes.elpais.com/resizer/SRWcqt_XKUScZso4ky3pK7HQeHA=/300x300/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/2IZPH2YJMVHLJMHFOBJXFQTSSM.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El huracán ‘Polo’ llega a categoría 5 y se mueve en paralelo a las costas del Pacífico mexicano",
+      "link": "https://elpais.com/mexico/2026-09-22/el-huracan-polo-llega-a-categoria-5-y-se-mueve-en-paralelo-a-las-costas-del-pacifico-mexicano.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/S3Z2WC6URNAO3BVBMAFWKM5PRI.jpg?auth=085f62e8d25ccf22de2078346c2220bd2277d77b4295e49eab4110e771acab7f&width=414&height=233&smart=true",
       "tipo": "imagen"
     },
     {
@@ -23,18 +35,6 @@
       "link": "https://elpais.com/mexico/2026-09-22/angel-aguirre-y-las-funerarias-mandan-el-caso-ayotzinapa-a-punto-muerto.html",
       "imagen": "",
       "tipo": ""
-    },
-    {
-      "titulo": "Trump lleva sus batallas a las Naciones Unidas",
-      "link": "https://elpais.com/internacional/2026-09-22/trump-lleva-sus-batallas-a-la-asamblea-general-de-naciones-unidas.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "México se sube a la ola latinoamericana más severa contra los celulares en las escuelas",
-      "link": "https://elpais.com/mexico/2026-09-22/mexico-se-sube-a-la-ola-latinoamericana-mas-severa-contra-los-celulares-en-las-escuelas.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/DVUJMQ32WZABTF2KQWZ43WJCCY.jpg?auth=970f3c483e864669b04f94887b97f9dee631fcc1b68a224eb81607a7260147cc&width=414&height=233&smart=true",
-      "tipo": "imagen"
     }
   ]
 }

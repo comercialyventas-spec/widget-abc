@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Descubierta la 'ameba de fuego', el único ser vivo complejo conocido que prospera a más de 60º C",
+      "link": "https://www.abc.es/ciencia/descubierta-ameba-fuego-unico-vivo-complejo-conocido-20260921170000-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/21/ameba-2_20260922104800-RrsA3cxVZUI10NOSBs30fFN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El momento en que la Tierra dejó de ser un infierno y los primeros 'ladrillos' de la vida pudieron sobrevivir",
+      "link": "https://www.abc.es/ciencia/tierra-preparada-mundo-arn-precursor-vida-4330-20260922170004-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/22/1.%20Origen%20vida-RCANqHHFtkT7jmIVE0WCVMM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "IA y Matemáticas : acelerar sin sustituir a la creatividad humana",
       "link": "https://www.abc.es/ciencia/ia-acelerador-puede-sustituir-creatividad-matematica-humano-20260921012455-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/21/ChatGPT%20Image-9-RAsexlIvUHvr3f2razH3ppK-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Los objetos en órbita se triplican en una década y ponen en riesgo el tráfico espacial",
       "link": "https://www.abc.es/ciencia/objetos-orbita-triplican-decada-ponen-riesgo-trafico-20260914012045-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/14/RISE_Extending_missions_in_geostationary_orbit-Rj9wgL4Nyt6gvKdByuTn0MK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El cerebro humano no es uno, sino dos órganos distintos y 'acoplados' por la evolución",
-      "link": "https://www.abc.es/ciencia/cerebro-humano-dos-organos-distintos-acoplados-evolucion-20260918112142-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/18/cerebro-humano1-Rfv8Y4vS4kkWC2oTXkStLlL-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cómo nació el catalejo, el invento que cambió la forma de mirar el mundo",
-      "link": "https://www.abc.es/ciencia/nacio-catalejo-invento-cambio-forma-mirar-mundo-20260918013305-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/18/Galileo_Telescopio-R53KgQKuSQqzZoUyoQEkoCO-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

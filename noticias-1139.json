@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Una protesta antirracista de cientos de personas boicotea un acto de Vox en Santiago",
+      "link": "https://elpais.com/espana/galicia/2026-09-22/una-protesta-antirracista-de-cientos-de-personas-boicotea-un-acto-de-vox-en-santiago.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "Aduanas asesta otro golpe a proveedores de cocaína del clan de Los Balcanes con la captura de 2.500 kilos de coca en un velero",
       "link": "https://elpais.com/espana/galicia/2026-09-21/aduanas-apresa-un-velero-con-al-menos-2000-kilos-de-cocaina-a-400-millas-de-galicia.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/W65T5NTWMJNERGJEDI6HFTDJHA.jpg?auth=d1e1ccb3140700afe273ab0c82b748c8745b1aacdeb5c72a2340eee20205e3d8&width=1200",
@@ -9,14 +15,14 @@
     {
       "titulo": "Sorpresas de un convento de clausura: de la dinastía Ming a Eisenhower... pasando por dos vísceras de monja",
       "link": "https://elpais.com/espana/galicia/2026-09-21/sorpresas-de-un-convento-de-clausura-de-la-dinastia-ming-a-eisenhower-pasando-por-dos-visceras-de-monja.html",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://imagenes.elpais.com/resizer/v2/2Z3Y2LS34REJ3PBF6GFZ3AQNVI.JPG?auth=2035c9f5012902e46d751ad3a825749899f3be23909e37f4a9ef50b39a8c7a4d&width=414&height=233&smart=true",
+      "tipo": "imagen"
     },
     {
       "titulo": "Duelo eterno por el marinero gallego Guillermo Casais: ocho años sin justicia para su viuda e hijos",
       "link": "https://elpais.com/espana/galicia/2026-09-15/duelo-eterno-por-el-marinero-gallego-guillermo-casais-ocho-anos-sin-justicia-para-su-viuda-e-hijos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/JACGLIT2RFFMZIH7IB62RFZ76I.jpg?auth=db13e8d8adc9a0e2b264a3f367e8d4e1d3e1b2adbe469617e8c624509e7d55fb&width=414&height=233&focal=1884%2C781",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "“¡Esas palmas, coño!”: Vigo añora y reivindica su “irrepetible” Movida",
@@ -27,13 +33,7 @@
     {
       "titulo": "Detenido un hombre por la muerte violenta de su madre en Ponteareas (Pontevedra)",
       "link": "https://elpais.com/espana/2026-09-13/detenido-un-hombre-por-la-muerte-violenta-de-su-madre-en-ponteareas-pontevedra.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "La Xunta admite deficiencias en los equipos de seguridad de los bomberos forestales",
-      "link": "https://elpais.com/espana/galicia/2026-09-11/la-xunta-admite-deficiencias-en-los-equipos-de-seguridad-de-los-bomberos-forestales.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/364SMUJSZZLWLP365UPH6P77MU.jpg?auth=ab0ae2c8052347955c0759e3e3988dc92cf88e0bd7900483c31804cb48da7e52&width=414&height=311&focal=2015%2C948",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XBD3ZAM7BVEYXFRNFPKU7EEGMA.jpg?auth=ff23f6a0828812e8a107d90aa758bfc91b79659ed20fbd4c934aad6318627fb0&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

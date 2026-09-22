@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Recuperación de Parada: Francisco Umbral. Afectada línea 171 de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260923-RPS-5888-Francisco-Umbral.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Acto religioso en Barajas. Afectadas 5 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260926-PR-Cristo-Expiracion-Barajas.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Supresión de Parada: paseo de la Castellana. Afectada línea 5 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260923-SP-5372-Paseo-Castellana.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -21,18 +33,6 @@
     {
       "titulo": "Supresión de Parada: Fuente Carrantona. Afectadas 4 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260923-SP-1056-Fuente-Carrantona.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Obras: paseo de la Castellana. Afectada línea N24 de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260923-O-Paseo-Castellana.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Supresión de Parada: Carretera de Castilla frente a Club de Campo. Afectadas 4 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260922-SP-3426-Crtra-Castilla.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }
