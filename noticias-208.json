@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Tifón Dujuan deja dos muertos y a miles sin energía en Japón",
+      "link": "https://www.dw.com/es/tifón-dujuan-deja-dos-muertos-y-a-miles-sin-energía-en-japón/a-79364808",
+      "imagen": "https://static.dw.com/image/79356217_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Pyongyang dice que probó un nuevo sistema de armas",
       "link": "https://www.dw.com/es/pyongyang-dice-que-probó-un-nuevo-sistema-de-armas/a-79364631",
       "imagen": "https://static.dw.com/image/79242021_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Líderes mundiales impulsan medidas de seguridad para la IA",
       "link": "https://www.dw.com/es/líderes-mundiales-impulsan-medidas-de-seguridad-para-la-ia/a-79364581",
       "imagen": "https://static.dw.com/image/79325293_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "California declara emergencia ante amenaza de El Niño",
-      "link": "https://www.dw.com/es/california-declara-emergencia-ante-amenaza-de-el-niño/a-79364544",
-      "imagen": "https://static.dw.com/image/79277166_6.jpg",
       "tipo": "imagen"
     }
   ]

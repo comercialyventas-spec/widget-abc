@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Innofab, la gran apuesta por los chips diseñados en Catalunya",
+      "link": "https://www.lavanguardia.com/local/catalunya/catalunya-avanca/20260922/11631172/innofab-gran-apuesta-chips-disenados-catalunya.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/09/6aa17dffb7990.r_d.629-187-3563.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La falsa rebelión de la IA y el mito del riesgo existencial",
       "link": "https://www.lavanguardia.com/ciencia/20260921/11638455/falsa-rebelion-ia-mito-riesgo-existencial.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/24/6a63990eb16c9.r_d.2100-1429-0.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Descubierta una nueva especie de felino en Bolivia, la primera en más de un siglo",
       "link": "https://www.lavanguardia.com/ciencia/20260917/11637244/descubierta-nueva-especie-felino-bolivia-primera-mas-siglo.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/17/6aabd834b7acc.r_d.641-689-3741.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Resuelto el enigma de la temperatura corporal del T. rex: 36 grados",
-      "link": "https://www.lavanguardia.com/ciencia/20260916/11636132/resuelto-enigma-temperatura-corporal-t-rex-36-grados.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/16/6aaa56eeb7883.jpeg",
       "tipo": "imagen"
     }
   ]
