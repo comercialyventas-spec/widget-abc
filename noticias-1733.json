@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un muerto y tres heridos tras el accidente entre dos coches en Caniles",
+      "link": "https://www.ahoragranada.com/noticias/un-muerto-y-tres-heridos-tras-el-accidente-entre-dos-coches-en-caniles/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Accidente-Caniles.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Plataforma en Defensa de la Sanidad Pública de Atarfe traslada sus demandas a la delegada de Salud",
       "link": "https://www.ahoragranada.com/noticias/la-plataforma-en-defensa-de-la-sanidad-publica-de-atarfe-traslada-sus-demandas-a-la-delegada-de-la-junta/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/FotoPuertaDelegacion.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Armilla da color a su conexión ciclista con Granada capital",
       "link": "https://www.ahoragranada.com/noticias/armilla-da-color-su-conexion-ciclista-con-granada-capital/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/08/Armilla-carril-bici.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Sala de Estudio de Ogíjares supera los 21.000 usuarios desde su apertura",
-      "link": "https://www.ahoragranada.com/noticias/la-sala-de-estudio-de-ogijares-supera-los-21-000-usuarios-desde-su-apertura/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/08/Sala-estudio-Ogijares.jpg",
       "tipo": "imagen"
     }
   ]

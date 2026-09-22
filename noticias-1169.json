@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Especial 40 años de ‘Hoy por Hoy’, en directo, en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-09-22/especial-40-anos-de-hoy-por-hoy-en-el-pais.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/3TYEYWHQE5DAVHSBH4WWZCXEG4.jpeg?auth=00d0ade6c8f1138332683c07b731ea07cddf9076b37c4535ed1b06f13cdbb687&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "‘La mesa de Hora 25’, programa en EL PAÍS",
       "link": "https://elpais.com/videos/2026-09-21/la-mesa-de-hora-25-programa-en-el-pais.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/RIBFKHCERJDFHKWBRGWFOY5NAA.jpeg?auth=9cd2dd0d3f4eae441365fd01bca6aa58b73d643f07eab2bd9f9493a926406d01&width=414&height=233&focal=354%2C362",
@@ -26,14 +32,8 @@
     },
     {
       "titulo": "Azúcar entre las estrellas",
-      "link": "https://elpais.com/ciencia/2026-09-21/azucar-entre-las-estrellas.html",
+      "link": "https://elpais.com/noticias/universo/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/3WU3WLHQSNCLXI62G5ATMAYIOA.jpg?auth=2cfd4abd8b42d55ee39c1f8caedbd9c2b5a25820ed61f9f759073e3c2cb5290e&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Qué está pasando con los partidos de ultraderecha en el norte de Europa?",
-      "link": "https://elpais.com/noticias/suecia/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/BQC4G45VTFDP5DXQYWR32G34IA.jpeg?auth=990ad65a3bc4aabf7dfdb7536d1878701ac919b64144bd6b10159f989241cb56&width=414&height=233&smart=true",
       "tipo": "imagen"
     }
   ]

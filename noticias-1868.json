@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "¿Quién controla a una IA cuando empieza a actuar por su cuenta? Los límites de la vigilancia humana ante la 'desalineación'",
+      "link": "https://www.20minutos.es/tecnologia/inteligencia-artificial/openai-control-ia-autonoma-supervision-humana_7039366_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/21/6ab11c4590cf95-56734043.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Casi la mitad de la población en España ya usa IA generativa: es la sexta economía del mundo que más la utiliza",
+      "link": "https://www.20minutos.es/tecnologia/inteligencia-artificial/espana-sexta-economia-mundo-adopcion-ia-generativa_7039566_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/21/6ab192812717e4-32310559.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Podría EEUU 'desenchufar' la IA europea? La dependencia de chips, nube y modelos que preocupa a los expertos",
       "link": "https://www.20minutos.es/tecnologia/tecnologia-empresas/europa-dependencia-eeuu-inteligencia-artificial-chips-nube-modelos_7038568_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/18/6aad2bab74bcd2-66031109.jpeg",
@@ -22,18 +34,6 @@
       "titulo": "Europa abre la puerta a que las empresas de IA usen más datos personales sin permiso: qué cambiaría para nosotros",
       "link": "https://www.20minutos.es/tecnologia/actualidad/europa-empresas-ia-datos-personales-sin-consentimiento-digital-omnibus_7039339_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/21/6ab111b94a36a5-41502501.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Kim Komando, experta en tecnología, sobre cómo protegerte de la IA: \"Mantenla alejada de tu banco y de tu e-mail\"",
-      "link": "https://www.20minutos.es/tecnologia/actualidad/kim-komando-experta-tecnologia-sobre-como-protegerte-ia-mantenla-alejada-banco-email_7038967_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/20/6aafa5091858b6-76680109.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Lidl ya utiliza un camión sin cabina ni conductor para repartir mercancía por carreteras públicas",
-      "link": "https://www.20minutos.es/tecnologia/actualidad/lidl-camion-sin-cabina-ni-conductor-repartir-mercancia-carreteras-publicas_7038130_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/17/6aac01267b7560-45128588.jpeg",
       "tipo": "imagen"
     }
   ]

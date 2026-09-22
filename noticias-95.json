@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La fascinación del amanecer",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260922/11640974/fascinacion-amanecer.html",
+      "imagen": "https://www.lavanguardia.com/files/listing_main/files/fp/uploads/2026/09/22/6ab219a3346ca.r_d.680-463-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El placer de pasear frente a la tormenta",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260922/11640970/placer-pasear-frente-tormenta.html",
       "imagen": "https://www.lavanguardia.com/files/listing_main/files/fp/uploads/2026/09/22/6ab2177b9d82c.r_d.1158-858-0.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Huelga de autobuses en Barcelona: servicios mínimos entre el 20% y el 40% este martes",
       "link": "https://www.lavanguardia.com/local/barcelona/20260922/11640965/huelga-autobuses-barcelona-servicios-minimos-20-40-martes.html",
       "imagen": "https://www.lavanguardia.com/files/listing_main/files/fp/uploads/2026/04/28/69f0fa3667c46.r_d.2964-1976-213.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Greenpeace extiende un ojo gigante en el Hemisfèric València por el juicio a 11 activistas",
-      "link": "https://www.lavanguardia.com/local/valencia/20260922/11640726/greenpeace-extiende-ojo-gigante-hemisferic-valencia-juicio-11-activistas.html",
-      "imagen": "https://www.lavanguardia.com/files/listing_main/uploads/2026/09/21/6ab17dfc0fa1c.jpeg",
       "tipo": "imagen"
     }
   ]
