@@ -1,27 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Ceuta se adhiere al proyecto de Granada 2031",
+      "link": "https://www.ahoragranada.com/noticias/ceuta-se-adhiere-al-proyecto-de-granada-2031/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Granada-2031-Ceuta.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El plan de partido le sale a Pacheta pero tras recibir dos goles",
       "link": "https://www.ahoragranada.com/noticias/el-plan-de-partido-le-sale-a-pacheta-pero-tras-recibir-dos-goles/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Arnai-Granada-CF-Leganes.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Armilla da color a su conexión ciclista con Granada capital",
-      "link": "https://www.ahoragranada.com/noticias/armilla-da-color-su-conexion-ciclista-con-granada-capital/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/08/Armilla-carril-bici.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El alcalde de Albolote reordena las áreas de cinco de sus seis concejales y sitúa a Juanjo Martínez como portavoz",
-      "link": "https://www.ahoragranada.com/noticias/el-alcalde-de-albolote-reordena-las-areas-de-cinco-de-sus-seis-concejales-y-situa-a-juanjo-martinez-como-portavoz/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Nueva-concejal-Albolote.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Sala de Estudio de Ogíjares supera los 21.000 usuarios desde su apertura",
-      "link": "https://www.ahoragranada.com/noticias/la-sala-de-estudio-de-ogijares-supera-los-21-000-usuarios-desde-su-apertura/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/08/Sala-estudio-Ogijares.jpg",
       "tipo": "imagen"
     },
     {
@@ -31,10 +19,22 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Las máximas alcanzan los 34 grados en Granada en el penúltimo martes de septiembre",
-      "link": "https://www.ahoragranada.com/noticias/las-maximas-alcanzan-los-34-grados-en-granada-en-el-penultimo-martes-de-septiembre/",
-      "imagen": "",
-      "tipo": ""
+      "titulo": "Armilla da color a su conexión ciclista con Granada capital",
+      "link": "https://www.ahoragranada.com/noticias/armilla-da-color-su-conexion-ciclista-con-granada-capital/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/08/Armilla-carril-bici.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Sala de Estudio de Ogíjares supera los 21.000 usuarios desde su apertura",
+      "link": "https://www.ahoragranada.com/noticias/la-sala-de-estudio-de-ogijares-supera-los-21-000-usuarios-desde-su-apertura/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/08/Sala-estudio-Ogijares.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El alcalde de Albolote reordena las áreas de cinco de sus seis concejales y sitúa a Juanjo Martínez como portavoz",
+      "link": "https://www.ahoragranada.com/noticias/el-alcalde-de-albolote-reordena-las-areas-de-cinco-de-sus-seis-concejales-y-situa-a-juanjo-martinez-como-portavoz/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Nueva-concejal-Albolote.jpg",
+      "tipo": "imagen"
     }
   ]
 }

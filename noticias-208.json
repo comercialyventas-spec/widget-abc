@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Ministros G7: hutíes deben cesar \"inmediatamente\" ataques",
+      "link": "https://www.dw.com/es/ministros-g7-hutíes-deben-cesar-inmediatamente-ataques/a-79364990",
+      "imagen": "https://static.dw.com/image/77561008_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Tifón Dujuan deja dos muertos y a miles sin energía en Japón",
       "link": "https://www.dw.com/es/tifón-dujuan-deja-dos-muertos-y-a-miles-sin-energía-en-japón/a-79364808",
       "imagen": "https://static.dw.com/image/79356217_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Vance justifica prohibición a medios a la Casa Blanca",
       "link": "https://www.dw.com/es/vance-justifica-prohibición-a-medios-a-la-casa-blanca/a-79364601",
       "imagen": "https://static.dw.com/image/77621372_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Líderes mundiales impulsan medidas de seguridad para la IA",
-      "link": "https://www.dw.com/es/líderes-mundiales-impulsan-medidas-de-seguridad-para-la-ia/a-79364581",
-      "imagen": "https://static.dw.com/image/79325293_6.jpg",
       "tipo": "imagen"
     }
   ]

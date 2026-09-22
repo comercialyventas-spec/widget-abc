@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La música amansa a sus señorías",
+      "link": "https://www.lavanguardia.com/cultura/20260922/11640887/musica-amansa-senorias.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/21/6ab1a3fdafece.r_d.3416-2652-641.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "‘Cabaret’ y ‘Mamma mia!’, grandes apuestas musicales de la temporada de Balañá en Viu",
       "link": "https://www.lavanguardia.com/cultura/20260922/11640941/cabaret-mamma-mia-balana-teatro.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/21/6ab1a422de520.r_d.3275-2422-683.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Serrat, Sílvia y el Mediterráneo de Calella",
       "link": "https://www.lavanguardia.com/cultura/20260922/11640756/serrat-silvia-perez-cruz-mediterraneo-calella.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/21/6ab19e1eb5f03.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La ópera de Pazos",
-      "link": "https://www.lavanguardia.com/cultura/20260921/11640892/opera-pazos.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
       "tipo": "imagen"
     }
   ]

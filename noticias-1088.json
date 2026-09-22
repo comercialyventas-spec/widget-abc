@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La generación de los padres",
+      "link": "https://www.abc.es/sevilla/cultura/manuel-curao-generacion-padres-20260922075634-nts.html",
+      "imagen": "https://s1.abcstatics.com/narwhal/1.3.69/assets/images/sevilla-noticias.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Albares se fía de Marruecos: dice que tomará las «medidas necesarias» para evitar otra invasión",
       "link": "https://www.abc.es/espana/albares-fia-marruecos-dice-tomara-medidas-necesarias-20260922074019-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/22/1517647700-k2vG--562x315@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El Sevilla FC firma un inicio para soñar con algo más que la permanencia",
       "link": "https://www.abc.es/deportes/orgullodenervion/noticias-sevilla-fc/sevilla-firma-inicio-sonar-permanencia-20260922072511-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/22/foto-U84137843461Xku-562x315@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Fismuler abre este viernes en Sevilla tras su éxito en Madrid y Barcelona",
-      "link": "https://www.abc.es/gurme/sevilla/aperturas/fismuler-abre-viernes-sevilla-tras-exito-madrid-20260922072027-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gurme/2026/09/22/montajes-fismuler-sevilla-ktyG--562x315@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
