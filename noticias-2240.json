@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Greenpeace, sobre el juicio a 11 activistas en Valencia: Fue una protesta pacífica",
+      "link": "https://efe.com/espana/2026-09-22/greenpeace-juicio-activistas-valencia/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/green.webp?w=600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Interceptan a 16 migrantes llegados en patera a Formentera",
+      "link": "https://efe.com/english/2026-09-22/interceptan-migrantes-patera-formentera/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/patera-2.webp?w=600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Más Madrid denuncia al Ramón y Cajal y a la consejería de Sanidad por alterar las listas de espera",
       "link": "https://efe.com/espana/2026-09-22/mas-madrid-denuncia-ramon-y-cajal-y-consejeria-listas-espera/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/cajal.webp?w=600&ssl=1",
@@ -22,18 +34,6 @@
       "titulo": "Un experto reivindica el rol de la mujer en la construcción de la paz",
       "link": "https://efe.com/castilla-la-mancha/2026-09-22/experto-rol-mujer-paz/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/Oscar-Lopez-UCLM.webp?w=600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Albares se verá con su homólogo marroquí en Nueva York para abordar la situación en Ceuta",
-      "link": "https://efe.com/espana/2026-09-21/ceuta-melilla-albares-onu/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/ceuta-dos-1.webp?w=600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Centenares de personas impiden un acto de Vox en Santiago de Compostela",
-      "link": "https://efe.com/espana/2026-09-21/manifestacion-acto-vox-santiago-de-compostela/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/acto-vox-santiago.webp?w=600&ssl=1",
       "tipo": "imagen"
     }
   ]

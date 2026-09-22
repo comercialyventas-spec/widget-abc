@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Detenidos 13 miembros de un clan gitano con un arsenal en Madrid",
+      "link": "https://www.mediterraneodigital.com/sucesos-espana/gitanos-tetuan",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/9/armas.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Encuentran a un menor marroquí escondido entre las ruedas del autobús del Real Valladolid",
       "link": "https://www.mediterraneodigital.com/deportes/valladolid-marroqui-autobus",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/bus-valladolid.jpg",
@@ -15,8 +21,8 @@
     {
       "titulo": "Emisarios de Leire Díez contactaron con los narcos de Badajoz para que se encargaran de la jueza de David Sánchez",
       "link": "https://www.mediterraneodigital.com/espana/caso-leire-diez-psoe",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/9/psoe-mafia.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "¿Qué tipo de material necesita un gimnasio de CrossFit?",
@@ -27,12 +33,6 @@
     {
       "titulo": "Después de Ceuta y Melilla, Marruecos reclama el Monte Tropic de las islas Canarias",
       "link": "https://www.mediterraneodigital.com/espana/monte-tropic",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Mercadona despide a un trabajador que entró a internet 7.685 veces en un mes",
-      "link": "https://www.mediterraneodigital.com/negocios-y-finanzas/mercadona-despido",
       "imagen": "",
       "tipo": ""
     }

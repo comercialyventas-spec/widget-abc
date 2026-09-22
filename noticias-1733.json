@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Cae una red que distribuía cocaína gran escala en Granada y otras provincias",
+      "link": "https://www.ahoragranada.com/noticias/cae-una-red-que-distribuia-cocaina-gran-escala-en-granada-y-otras-provincias/",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "Un muerto y tres heridos tras el accidente entre dos coches en Caniles",
       "link": "https://www.ahoragranada.com/noticias/un-muerto-y-tres-heridos-tras-el-accidente-entre-dos-coches-en-caniles/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Accidente-Caniles.jpeg",
@@ -25,15 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "La gallega Miriam Reyes protagoniza la tercera sesión del ciclo 'Poesía en el Jardín'",
-      "link": "https://www.ahoragranada.com/noticias/la-gallega-miriam-reyes-protagoniza-la-tercera-sesion-del-ciclo-poesia-en-el-jardin/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/miriam_reyes.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Armilla da color a su conexión ciclista con Granada capital",
-      "link": "https://www.ahoragranada.com/noticias/armilla-da-color-su-conexion-ciclista-con-granada-capital/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/08/Armilla-carril-bici.jpg",
+      "titulo": "La Sala de Estudio de Ogíjares supera los 21.000 usuarios desde su apertura",
+      "link": "https://www.ahoragranada.com/noticias/la-sala-de-estudio-de-ogijares-supera-los-21-000-usuarios-desde-su-apertura/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/08/Sala-estudio-Ogijares.jpg",
       "tipo": "imagen"
     }
   ]

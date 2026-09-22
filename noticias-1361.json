@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Así fue la colisión entre un carguero panameño y un pesquero chino en aguas de Singapur",
+      "link": "https://elpais.com/videos/2026-09-22/asi-fue-la-colision-entre-un-carguero-panameno-y-un-pesquero-chino-en-aguas-de-singapur.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260922/1216846_082015_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Especial 40 años de ‘Hoy por Hoy’, en directo, en EL PAÍS",
       "link": "https://elpais.com/videos/2026-09-22/especial-40-anos-de-hoy-por-hoy-en-el-pais.html",
       "imagen": "https://www.youtube.com/watch?v=UvLxEhIIr5U",
@@ -28,12 +34,6 @@
       "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en EL PAÍS | Programa del 21 de septiembre de 2026",
       "link": "https://elpais.com/videos/2026-09-21/el-pulso-de-hoy-por-hoy-en-el-pais.html",
       "imagen": "https://www.youtube.com/watch?v=J4tYdo4VnyM",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Azúcar entre las estrellas",
-      "link": "https://elpais.com/ciencia/2026-09-21/azucar-entre-las-estrellas.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260918/1215768_143217_video_1800.mp4",
       "tipo": "imagen"
     }
   ]
