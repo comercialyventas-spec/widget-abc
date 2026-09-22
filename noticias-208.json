@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Pyongyang dice que probó un nuevo sistema de armas",
+      "link": "https://www.dw.com/es/pyongyang-dice-que-probó-un-nuevo-sistema-de-armas/a-79364631",
+      "imagen": "https://static.dw.com/image/79242021_6.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Reino Unido apoyará a Arabia Saudita contra hutíes, según medios",
+      "link": "https://www.dw.com/es/reino-unido-apoyará-a-arabia-saudita-contra-hutíes-según-medios/a-79364623",
+      "imagen": "https://static.dw.com/image/78134131_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "UE sin acuerdo para levantar sanciones a oligarcas rusos",
       "link": "https://www.dw.com/es/ue-sin-acuerdo-para-levantar-sanciones-a-oligarcas-rusos/a-79364615",
       "imagen": "https://static.dw.com/image/76794609_6.jpg",
@@ -22,18 +34,6 @@
       "titulo": "California declara emergencia ante amenaza de El Niño",
       "link": "https://www.dw.com/es/california-declara-emergencia-ante-amenaza-de-el-niño/a-79364544",
       "imagen": "https://static.dw.com/image/79277166_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El \"nuevo Hezbolá\" de Irán: ¿cuánto poder tienen los hutíes?",
-      "link": "https://www.dw.com/es/el-nuevo-hezbolá-de-irán-¿cuánto-poder-tienen-los-hutíes/a-79360236",
-      "imagen": "https://static.dw.com/image/79234637_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cómo afecta el conflicto con los hutíes a países vecinos en África",
-      "link": "https://www.dw.com/es/cómo-afecta-el-conflicto-con-los-hutíes-a-países-vecinos-en-áfrica/a-79362702",
-      "imagen": "https://static.dw.com/image/79284237_6.jpg",
       "tipo": "imagen"
     }
   ]
