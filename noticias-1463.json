@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Bakú, la recta más larga contra la nueva Fórmula 1",
+      "link": "https://www.eldiario.es/motor/competicion-y-estilo/baku-recta-larga-nueva-formula-1_1_13527663.html",
+      "imagen": "https://static.eldiario.es/clip/eef4165d-b3eb-4749-bdca-7cd13f9cc896_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El príncipe heredero saudí presenta su propio superdeportivo eléctrico",
       "link": "https://www.eldiario.es/motor/protagonistas/principe-heredero-saudi-presenta-propio-superdeportivo-electrico_1_13529220.html",
       "imagen": "https://static.eldiario.es/clip/42fbd7c1-b528-4db3-9edd-6aea4d398bd2_16-9-discover-aspect-ratio_default_0_x749y360.jpg",
@@ -19,21 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "La DGT pone fin a una excepción histórica para los taxistas a partir del 1 de octubre",
-      "link": "https://www.eldiario.es/motor/dgt-pone-excepcion-historica-taxistas-partir-1-octubre-pm_1_13526472.html",
-      "imagen": "https://static.eldiario.es/clip/c5e2be2b-5fd5-484d-b8e2-9423cb431d9a_16-9-discover-aspect-ratio_default_0_x957y548.jpg",
+      "titulo": "Los trabajadores alemanes explotan contra el “apagón” de la industria de automoción",
+      "link": "https://www.eldiario.es/motor/sector_y_mercado/trabajadores-alemanes-explotan-apagon-industria-automocion_1_13525828.html",
+      "imagen": "https://static.eldiario.es/clip/b6da21e8-76aa-40a3-9716-e038803fb474_16-9-discover-aspect-ratio_default_0_x773y237.jpg",
       "tipo": "imagen"
     },
     {
       "titulo": "La electrificación de camiones y buses en España acumula un “alarmante” retraso sin un plan de ayudas",
       "link": "https://www.eldiario.es/motor/sector_y_mercado/electrificacion-camiones-buses-espana-acumula-alarmante-retraso-plan-ayudas_1_13525388.html",
       "imagen": "https://static.eldiario.es/clip/c91b37ab-bb04-44b6-8f37-4fdd88665779_16-9-discover-aspect-ratio_default_0_x296y403.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Volkswagen completa la “nueva era” en España con el ID. Cross fabricado en Navarra",
-      "link": "https://www.eldiario.es/motor/sector_y_mercado/volkswagen-completa-nueva-espana-id-cross-fabricado-navarra_1_13525115.html",
-      "imagen": "https://static.eldiario.es/clip/5dcbb8be-7506-48ce-a98e-0f175e149a41_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

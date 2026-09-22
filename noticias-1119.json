@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El nuevo sistema de peajes que propone Cataluña: horas gratis y precios variables según el momento del día",
+      "link": "https://okdiario.com/cataluna/nuevo-sistema-peajes-que-propone-cataluna-horas-gratis-precios-variables-segun-momento-del-dia-20364188",
+      "imagen": "https://okdiario.com/img/2026/09/22/trafico-dgt2.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "AEMET prevé cielo despejado y viento suave en Barcelona, con descenso en las temperaturas máximas",
       "link": "https://okdiario.com/cataluna/aemet-preve-cielo-despejado-y-viento-suave-en-barcelona-con-descenso-en-las-temperaturas-maximas-20355528",
       "imagen": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
@@ -28,12 +34,6 @@
       "titulo": "AEMET prevé un día soleado y cálido en Barcelona con viento suave y cambios en las mínimas",
       "link": "https://okdiario.com/cataluna/aemet-preve-un-dia-soleado-y-calido-en-barcelona-con-viento-suave-y-cambios-en-las-minimas-20335379",
       "imagen": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un grupo de magrebíes destroza el coche de un diputado de Vox por grabar con OKDIARIO su gueto en El Vendrell",
-      "link": "https://okdiario.com/cataluna/manada-magrebies-destroza-coche-diputado-vox-grabar-okdiario-gueto-vendrell-20332683",
-      "imagen": "https://okdiario.com/img/2026/09/18/imagen_recortada-36-1.jpg",
       "tipo": "imagen"
     }
   ]
