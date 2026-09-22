@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El templo español de Chuck Norris",
+      "link": "https://www.abc.es/play/cine/noticias/templo-espanol-chuck-norris-20260501012304-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/05/01/chuck-norris-mario5-kEsG-U201939259670otC-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "'Ruega por nosotras', correccional femenino vigilado por malos hábitos",
       "link": "https://www.abc.es/play/cine/noticias/ruega-correccional-femenino-vigilado-malos-habitos-20260921165703-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/21/1517625928-R131iagA3YSVNZyJarByJfP-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Pablo Trapero estrena 'Sus hijos': «Lo que pasa dentro de las familias es una analogía de lo que ocurre en la vida»",
       "link": "https://www.abc.es/play/cine/noticias/pablo-trapero-estrena-hijos-pasa-dentro-familias-20260918142750-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/18/1516960997-kQxG-U301771598392nAF-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Festival de Cine de San Sebastián abre el telón y cierra un ciclo",
-      "link": "https://www.abc.es/play/cine/noticias/festival-cine-san-sebastian-abre-telon-cierra-20260917194107-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/17/1517438503-kWUB-U301764100296MMG-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

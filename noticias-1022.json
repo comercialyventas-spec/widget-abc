@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Feo a Trump; afable con Delcy",
-      "link": "https://www.abc.es/opinion/editorial-feo-trump-afable-delcy-20260922203619-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2026/09/22/1517679414-RMYqWNO3LxMRAt8YeA4a2WI-1200x840@diario_abc.JPG"
-    },
-    {
       "titulo": "Cae el clan de los Cucos justo antes de una matanza en los juzgados de Plaza Castilla",
       "link": "https://www.abc.es/espana/madrid/pelea-multitudinaria-tetuan-acaba-detenidos-cinco-pistolas-20260922103946-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/22/IMG-20260922-WA0001-Rfspexlfa6Ib9Rf2HcusVBJ-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/22/IMG-20260922-WA0001-Rfspexlfa6Ib9Rf2HcusVBJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Capital de la maleta",
       "link": "https://www.abc.es/espana/madrid/angel-antonio-herrera-capital-maleta-20260922010700-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/22/1450695942-RqB71JsFO0izd1Zy58d32eM-1200x840@diario_abc.JPG"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/22/1450695942-RqB71JsFO0izd1Zy58d32eM-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
     },
     {
       "titulo": "Ayuso sortea el boicot de la izquierda y levantará residencias en Alcorcón y Rivas",
       "link": "https://www.abc.es/espana/madrid/ayuso-sortea-boicot-izquierda-levantara-residencias-alcorcon-20260922010641-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/22/residencia-mayores1-RjBSUeVzBLWBpRCl3OZn3EN-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/22/residencia-mayores1-RjBSUeVzBLWBpRCl3OZn3EN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Manuel Filiberto de Saboya rompe con Adriana Abascal: «Se acabó definitivamente»",
       "link": "https://www.abc.es/gente/manuel-filiberto-saboya-rompe-adriana-abascal-acabo-20260922145106-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/22/filiberto-adriana-RN1cAjyuN7EJVz1HNbiMj5M-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/22/filiberto-adriana-RN1cAjyuN7EJVz1HNbiMj5M-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Lo que Charles Spencer nunca contó sobre su hermana Diana, Princesa de Gales",
       "link": "https://www.abc.es/gente/charles-spencer-nunca-conto-sobre-hermana-diana-20260917010504-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/17/charles-diana-Rp4T3En2HCeIewudOXxtFmL-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/17/charles-diana-Rp4T3En2HCeIewudOXxtFmL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Adiós a los artículos científicos: esta IA puede convertir los 'papers' en agentes capaces de trabajar por sí solos",
+      "link": "https://www.abc.es/tecnologia/adios-articulos-cientificos-ia-puede-convertir-papers-20260922170746-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/22/cientifica-investigadora-R7F6ccWPep3LjhcZRCqXJ9H-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }
