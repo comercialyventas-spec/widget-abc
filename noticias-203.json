@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "\"Es un hada madrina\": la mujer que envía US$10.000 a la semana para que los niños migrantes detenidos en EE.UU. compren comida",
-      "link": "https://www.bbc.com/mundo/articles/cm5y798z1lv1o",
-      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/670b/live/cd028060-b678-11f1-aa5f-039462a18036.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "\"Contratacaremos si nos atacan\": el gobierno de Lituania le dice a la BBC que tiene planes de respuesta y evacuación ante las amenazas de Rusia",
       "link": "https://www.bbc.com/mundo/articles/cm36ly7p3pe9o",
       "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4e66/live/e66f3610-b646-11f1-bc1f-3f186ca4140c.jpg",
@@ -16,6 +10,12 @@
       "titulo": "El huracán Polo alcanza la categoría 5 en tiempo récord y amenaza las costas de México",
       "link": "https://www.bbc.com/mundo/articles/c3n07v5wr0rqo",
       "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/501e/live/479d1c10-b69f-11f1-ba3d-1d5c8a47f823.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "\"Es un hada madrina\": la mujer que envía US$10.000 a la semana para que los niños migrantes detenidos en EE.UU. compren comida",
+      "link": "https://www.bbc.com/mundo/articles/cm5y798z1lv1o",
+      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/670b/live/cd028060-b678-11f1-aa5f-039462a18036.jpg",
       "tipo": "imagen"
     },
     {
@@ -31,7 +31,7 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Qué gana EE.UU. con el acuerdo sobre Groenlandia firmado con Dinamarca tras meses de amenazas de Trump",
+      "titulo": "Qué contempla el acuerdo sobre Groenlandia firmado por EE.UU. y Dinamarca tras meses de amenazas de Trump",
       "link": "https://www.bbc.com/mundo/articles/cvzez9yz6766o",
       "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/90f1/live/f79db310-b6b1-11f1-a430-4d16ee157c41.jpg",
       "tipo": "imagen"
