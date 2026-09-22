@@ -108,7 +108,14 @@ if ($huecoScraper === false) {
     echo json_encode(['error' => 'NAS ocupado, reintenta en unos segundos', 'reintentar_tras_segundos' => 5]);
     exit;
 }
-register_shutdown_function('liberarHuecoScraper', $huecoScraper);
+register_shutdown_function(function () {
+    global $huecoScraper;
+    if (!empty($huecoScraper)) { liberarHuecoScraper($huecoScraper); $huecoScraper = null; }
+});
+function soltarHueco() {
+    global $huecoScraper;
+    if (!empty($huecoScraper)) { liberarHuecoScraper($huecoScraper); $huecoScraper = null; }
+}
 
 function descargarUrl($url) {
     // 20 sept: la extension curl de PHP esta desactivada en este perfil (desde el 10 sept, para que proxy.php
@@ -116,7 +123,7 @@ function descargarUrl($url) {
     // se usa el binario curl del sistema, igual que hace scraper_generico.php.
     if (!function_exists('curl_init')) {
         $ua = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36';
-        $cmd = 'curl -s -L --max-time 25 -A ' . escapeshellarg($ua) . ' -w ' . escapeshellarg("\n%{http_code}") . ' ' . escapeshellarg($url) . ' 2>/dev/null';
+        $cmd = 'curl -s -L --max-time 25 -A ' . escapeshellarg($ua) . ' -H ' . escapeshellarg('Accept-Language: es-ES,es;q=0.9') . ' -w ' . escapeshellarg("\n%{http_code}") . ' ' . escapeshellarg($url) . ' 2>/dev/null';
         $salida = shell_exec($cmd);
         if (!is_string($salida) || $salida === '') return null;
         $pos = strrpos($salida, "\n");
@@ -133,6 +140,7 @@ function descargarUrl($url) {
         CURLOPT_TIMEOUT => 25,
         CURLOPT_SSL_VERIFYPEER => true,
         CURLOPT_USERAGENT => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        CURLOPT_HTTPHEADER => ['Accept-Language: es-ES,es;q=0.9'],
     ]);
     $body = curl_exec($ch);
     $codigo = curl_getinfo($ch, CURLINFO_HTTP_CODE);
@@ -306,9 +314,242 @@ function extraerDeColeccionShopify($url, $maxPaginas = 8) {
     return $todos;
 }
 
-$deColeccionShopify = (stripos($url, '/collections/') !== false && stripos($url, '.xml') === false) ? extraerDeColeccionShopify($url, 8) : null;
-$primerFetch = !empty($deColeccionShopify) ? null : descargarUrl($url);
+
+// ============================================================================
+// 22 sept (AÑADIDO): PUERTA ÚNICA. Si la URL no es un sitemap ni una colección
+// Shopify, se mira de qué plataforma es la tienda (una vez por dominio, con
+// caché de 30 días) y se atiende por el camino que le corresponda:
+//   1. Los endpoints hermanos de este mismo NAS (sfcc_categoria.php,
+//      magento_categoria.php, woo_store.php, insales_store.php), si existen.
+//      Se llaman por HTTP para no mezclar su código con el de este archivo.
+//   2. Si no existen (p. ej. cuando este archivo corre en GitHub Actions como
+//      capa de respaldo), extractores propios incluidos aquí abajo.
+// Si nada de esto da productos, sigue funcionando el camino de siempre.
+// ============================================================================
+function textoJson($s) {
+    $v = json_decode('"' . str_replace('"', '\\"', $s) . '"');
+    return is_string($v) ? $v : $s;
+}
+
+function origenDeUrl($url) {
+    $u = parse_url($url);
+    if (empty($u['scheme']) || empty($u['host'])) return '';
+    return $u['scheme'] . '://' . $u['host'];
+}
+
+function detectarPlataformaHtml($html, $url) {
+    if ($html === null || $html === '') return 'generico';
+    $h = strtolower($html);
+    if (strpos($h, 'insales') !== false) return 'insales';
+    if (strpos($h, 'woocommerce') !== false || strpos($h, '/wp-content/plugins/woo') !== false) return 'woo';
+    if (strpos($h, 'demandware') !== false || strpos($h, 'mobify') !== false || strpos($h, '/dw/image/') !== false) return 'sfcc';
+    if (strpos($h, 'mage/') !== false || strpos($h, 'magento_') !== false || strpos($h, 'data-mage-init') !== false || strpos($h, '/static/version') !== false) return 'magento';
+    if (strpos($h, 'cdn.shopify.com') !== false || strpos($h, 'shopify') !== false) return 'shopify';
+    return 'generico';
+}
+
+function plataformaDeTienda($url) {
+    global $dirCache;
+    $host = parse_url($url, PHP_URL_HOST);
+    if (!$host) return 'generico';
+    $fich = $dirCache . '/_plataformas.json';
+    $mapa = json_decode((string) @file_get_contents($fich), true);
+    if (!is_array($mapa)) $mapa = [];
+    // Una deteccion buena vale 30 dias; si salio 'generico' (a veces por una descarga fallida)
+    // se reintenta a las 2 horas, para no quedarse un mes con un fallo pasajero.
+    if (isset($mapa[$host]['p']) && isset($mapa[$host]['t'])) {
+        $edad = time() - (int) $mapa[$host]['t'];
+        $validez = $mapa[$host]['p'] === 'generico' ? 7200 : 2592000;
+        if ($edad < $validez) return $mapa[$host]['p'];
+    }
+    $plat = detectarPlataformaHtml(descargarUrl($url), $url);
+    $mapa[$host] = ['p' => $plat, 't' => time()];
+    @file_put_contents($fich, json_encode($mapa), LOCK_EX);
+    return $plat;
+}
+
+function endpointDePlataforma($plataforma) {
+    $mapa = [
+        'sfcc' => 'sfcc_categoria.php',
+        'magento' => 'magento_categoria.php',
+        'woo' => 'woo_store.php',
+        'insales' => 'insales_store.php',
+    ];
+    return isset($mapa[$plataforma]) ? $mapa[$plataforma] : '';
+}
+
+/** Llama por HTTP al endpoint hermano de este mismo NAS. Devuelve el JSON tal cual, o null. */
+function delegarEnHermano($plataforma, $url, $pagina) {
+    if (!empty($_GET['_delegado'])) return null;            // evita cualquier bucle
+    if (php_sapi_name() === 'cli' || empty($_SERVER['HTTP_HOST'])) return null;
+    $fichero = endpointDePlataforma($plataforma);
+    if ($fichero === '' || !file_exists(__DIR__ . '/' . $fichero)) return null;
+    soltarHueco();                                           // el hermano pedirá el suyo
+    $esquema = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? 'https' : 'http';
+    $base = $esquema . '://' . $_SERVER['HTTP_HOST'] . rtrim(dirname($_SERVER['SCRIPT_NAME']), '/') . '/';
+    $destino = $base . $fichero . '?url=' . rawurlencode($url) . '&pagina=' . (int) $pagina . '&_delegado=1';
+    $salida = descargarUrl($destino);
+    if ($salida === null) return null;
+    $j = json_decode($salida, true);
+    if (!is_array($j) || empty($j['productos'])) return null;
+    return $salida;
+}
+
+/** Salesforce Commerce Cloud (PWA Kit): productos dentro del JSON que la propia página lleva incrustado. */
+function extraerSfccDeHtml($html, $base) {
+    $origen = origenDeUrl($base);
+    $out = [];
+    $pos = 0;
+    while (($i = strpos($html, '"c_productDetailPageURL"', $pos)) !== false) {
+        $pos = $i + 24;
+        $ini = max(0, $i - 2500);
+        $antes = substr($html, $ini, $i - $ini);
+        $despues = substr($html, $i, 1500);
+
+        if (!preg_match('/"c_productDetailPageURL"\s*:\s*"([^"]+)"/', $despues, $mu)) continue;
+        $urlProd = textoJson($mu[1]);
+        if ($urlProd === '') continue;
+        if (strpos($urlProd, 'http') !== 0) $urlProd = $origen . $urlProd;
+
+        $titulo = '';
+        if (preg_match_all('/"(?:productName|name)"\s*:\s*"([^"]+)"/', $antes, $mt) && !empty($mt[1])) {
+            $titulo = textoJson(end($mt[1]));
+        }
+        if ($titulo === '') continue;
+
+        $imagen = '';
+        if (preg_match('/"c_imageURL"\s*:\s*"([^"]+)"/', $despues, $mi)) {
+            $imagen = textoJson($mi[1]);
+        } elseif (preg_match_all('/"(?:disBaseLink|link)"\s*:\s*"(https?:[^"]+)"/', $antes, $mim) && !empty($mim[1])) {
+            $imagen = textoJson(end($mim[1]));
+        }
+        if ($imagen !== '' && strpos($imagen, 'http') !== 0) $imagen = $origen . $imagen;
+        if ($imagen === '') continue;
+
+        $precio = '';
+        if (preg_match('/"c_salesPriceFormatted"\s*:\s*"([^"]*)"/', $despues, $mp)) $precio = textoJson($mp[1]);
+        if ($precio === '' && preg_match_all('/"price"\s*:\s*([0-9.]+)/', $antes, $mpn) && !empty($mpn[1])) {
+            $precio = rtrim(rtrim(number_format((float) end($mpn[1]), 2, ',', '.'), '0'), ',') . '€';
+        }
+        $antesPrecio = '';
+        if (preg_match('/"c_standardPriceFormatted"\s*:\s*"([^"]*)"/', $despues, $ma)) $antesPrecio = textoJson($ma[1]);
+
+        $out[] = [
+            'titulo' => $titulo,
+            'url' => $urlProd,
+            'imagen' => $imagen,
+            'precio' => $precio,
+            'precio_antes' => $antesPrecio,
+        ];
+    }
+    return $out;
+}
+
+function extraerSfcc($url, $maxPaginas = 8) {
+    $todos = [];
+    $vistos = [];
+    for ($p = 0; $p < $maxPaginas; $p++) {
+        $sep = strpos($url, '?') !== false ? '&' : '?';
+        $u = $p === 0 ? $url : $url . $sep . 'start=' . ($p * 24) . '&sz=24';
+        $html = descargarUrl($u);
+        if ($html === null) break;
+        $nuevos = 0;
+        foreach (extraerSfccDeHtml($html, $url) as $prod) {
+            if (isset($vistos[$prod['url']])) continue;
+            $vistos[$prod['url']] = true;
+            $todos[] = $prod;
+            $nuevos++;
+        }
+        if ($nuevos === 0) break;
+    }
+    return $todos;
+}
+
+/** WooCommerce por su Store API pública (no necesita clave). */
+function extraerWoo($url, $maxPaginas = 8) {
+    $origen = origenDeUrl($url);
+    if ($origen === '') return [];
+    $categoria = '';
+    $ruta = trim((string) parse_url($url, PHP_URL_PATH), '/');
+    if ($ruta !== '') {
+        $segmentos = explode('/', $ruta);
+        $slug = end($segmentos);
+        $cats = json_decode((string) descargarUrl($origen . '/wp-json/wc/store/v1/products/categories?per_page=100'), true);
+        if (is_array($cats)) {
+            foreach ($cats as $c) {
+                if (!empty($c['slug']) && strcasecmp($c['slug'], $slug) === 0) { $categoria = (string) $c['id']; break; }
+            }
+        }
+    }
+    $todos = [];
+    for ($p = 1; $p <= $maxPaginas; $p++) {
+        $u = $origen . '/wp-json/wc/store/v1/products?per_page=50&page=' . $p . ($categoria !== '' ? '&category=' . $categoria : '');
+        $lista = json_decode((string) descargarUrl($u), true);
+        if (!is_array($lista) || empty($lista)) break;
+        foreach ($lista as $pr) {
+            $img = '';
+            if (!empty($pr['images'][0]['src'])) $img = $pr['images'][0]['src'];
+            if ($img === '' || empty($pr['name']) || empty($pr['permalink'])) continue;
+            $precio = '';
+            $antes = '';
+            if (!empty($pr['prices']['price'])) {
+                $dec = isset($pr['prices']['currency_minor_unit']) ? (int) $pr['prices']['currency_minor_unit'] : 2;
+                $sim = isset($pr['prices']['currency_symbol']) ? $pr['prices']['currency_symbol'] : '';
+                $precio = number_format($pr['prices']['price'] / pow(10, $dec), 2, ',', '.') . ' ' . $sim;
+                if (!empty($pr['prices']['regular_price']) && $pr['prices']['regular_price'] !== $pr['prices']['price']) {
+                    $antes = number_format($pr['prices']['regular_price'] / pow(10, $dec), 2, ',', '.') . ' ' . $sim;
+                }
+            }
+            $todos[] = [
+                'titulo' => html_entity_decode(strip_tags($pr['name']), ENT_QUOTES, 'UTF-8'),
+                'url' => $pr['permalink'],
+                'imagen' => $img,
+                'precio' => trim($precio),
+                'precio_antes' => trim($antes),
+            ];
+        }
+        if (count($lista) < 50) break;
+    }
+    return $todos;
+}
+
+/**
+ * Algunas tiendas sirven la web en el idioma/pais de quien pregunta (no en el de la URL).
+ * Si la URL del catalogo lleva prefijo de idioma (p. ej. /eur/es/) y los productos salen
+ * con otro, se descartan: mejor no dar catalogo que darlo en ingles y en dolares.
+ */
+function filtrarPorIdioma($productos, $url) {
+    if (!preg_match('#^https?://[^/]+((?:/[a-z]{2,4}){1,2})/#i', $url, $m)) return $productos;
+    $prefijo = strtolower($m[1]) . '/';
+    $buenos = [];
+    foreach ($productos as $p) {
+        if (strpos(strtolower($p['url']), $prefijo) !== false) $buenos[] = $p;
+    }
+    return $buenos;
+}
+
+function extraerPorPlataforma($plataforma, $url) {
+    if ($plataforma === 'sfcc') return filtrarPorIdioma(extraerSfcc($url, 8), $url);
+    if ($plataforma === 'woo') return extraerWoo($url, 8);
+    return [];
+}
+
+$esUrlSitemap = (stripos($url, '.xml') !== false || stripos($url, 'sitemap') !== false);
+$esUrlColeccion = (stripos($url, '/collections/') !== false && stripos($url, '.xml') === false);
 $todosLosProductos = [];
+
+if (!$esUrlSitemap && !$esUrlColeccion) {
+    $plataforma = isset($_GET['plataforma']) ? strtolower(trim($_GET['plataforma'])) : '';
+    if ($plataforma === '') { $plataforma = plataformaDeTienda($url); }
+    $delegado = delegarEnHermano($plataforma, $url, $pagina);
+    if ($delegado !== null) { registrarCatalogo(); echo $delegado; exit; }
+    $todosLosProductos = extraerPorPlataforma($plataforma, $url);
+}
+
+if (empty($todosLosProductos)) {
+$deColeccionShopify = (stripos($url, '/collections/') !== false && stripos($url, '.xml') === false) ? extraerDeColeccionShopify($url, 8) : null;
+
+$primerFetch = !empty($deColeccionShopify) ? null : descargarUrl($url);
 
 if ($primerFetch !== null && esSitemapIndice($primerFetch)) {
     $todosLosProductos = extraerDeSitemapIndice($primerFetch, 10);
@@ -318,6 +559,7 @@ if ($primerFetch !== null && esSitemapIndice($primerFetch)) {
     $todosLosProductos = extraerDeCategoria($url, $MAX_PAGINAS_CATEGORIA);
 }
 if (empty($todosLosProductos) && !empty($deColeccionShopify)) { $todosLosProductos = $deColeccionShopify; }
+}
 
 $total = count($todosLosProductos);
 
