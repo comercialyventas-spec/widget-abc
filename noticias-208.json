@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Vance justifica prohibición a medios a la Casa Blanca",
+      "link": "https://www.dw.com/es/vance-justifica-prohibición-a-medios-a-la-casa-blanca/a-79364601",
+      "imagen": "https://static.dw.com/image/77621372_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Líderes mundiales impulsan medidas de seguridad para la IA",
       "link": "https://www.dw.com/es/líderes-mundiales-impulsan-medidas-de-seguridad-para-la-ia/a-79364581",
       "imagen": "https://static.dw.com/image/79325293_6.jpg",
@@ -13,9 +19,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Cómo afecta el conflicto con los hutíes a países vecinos en África",
-      "link": "https://www.dw.com/es/cómo-afecta-el-conflicto-con-los-hutíes-a-países-vecinos-en-áfrica/a-79362702",
-      "imagen": "https://static.dw.com/image/79284237_6.jpg",
+      "titulo": "Las nuevas normas de China contra la fuga de cerebros y capitales",
+      "link": "https://www.dw.com/es/las-nuevas-normas-de-china-contra-la-fuga-de-cerebros-y-capitales/a-79362956",
+      "imagen": "https://static.dw.com/image/79267226_6.jpg",
       "tipo": "imagen"
     },
     {
@@ -25,15 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Las nuevas normas de China contra la fuga de cerebros y capitales",
-      "link": "https://www.dw.com/es/las-nuevas-normas-de-china-contra-la-fuga-de-cerebros-y-capitales/a-79362956",
-      "imagen": "https://static.dw.com/image/79267226_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "OpenAI sugiere que EE.UU. impulse normas globales para la IA",
-      "link": "https://www.dw.com/es/openai-sugiere-que-ee-uu-impulse-normas-globales-para-la-ia/a-79364488",
-      "imagen": "https://static.dw.com/image/76974038_6.jpg",
+      "titulo": "Cómo afecta el conflicto con los hutíes a países vecinos en África",
+      "link": "https://www.dw.com/es/cómo-afecta-el-conflicto-con-los-hutíes-a-países-vecinos-en-áfrica/a-79362702",
+      "imagen": "https://static.dw.com/image/79284237_6.jpg",
       "tipo": "imagen"
     }
   ]
