@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "‘La mesa de Hora 25’, programa en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-09-22/la-mesa-de-hora-25-programa-en-el-pais.html",
+      "imagen": "https://www.youtube.com/watch?v=NwoPY9LqBzU",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Programa especial | Debate de la Asamblea General de la ONU",
       "link": "https://elpais.com/videos/2026-09-22/programa-especial-debate-de-la-asamblea-general-de-la-onu.html",
       "imagen": "https://www.youtube.com/watch?v=9wAmGOeEkGI",
@@ -28,12 +34,6 @@
       "titulo": "Vídeos-ajedrez | El día que Hoi brilló como el sol",
       "link": "https://elpais.com/ajedrez/videos/2026-09-21/videos-de-ajedrez-el-dia-que-hoi-brillo-como-el-sol.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260918/1215737_132257_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las preguntas sin respuesta de Rufián a Mazón en la comisión de la Dana del Congreso",
-      "link": "https://elpais.com/videos/2026-09-21/las-preguntas-sin-respuesta-de-mazon-a-rufian-en-la-comision-de-la-dana-del-congreso.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260921/1216528_113915_video_1800.mp4",
       "tipo": "imagen"
     }
   ]

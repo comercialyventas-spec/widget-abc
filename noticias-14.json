@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "El Instituto Español de Analistas premia a ACS con la Brújula del Año 2026",
-      "link": "https://www.elplural.com/economia/empresas/instituto-espanol-analistas-premia-acs-brujula-ano-2026_400972102",
-      "imagen": "https://www.elplural.com/uploads/s1/27/05/66/6/juan-santamaria-consejero-delegado-de-acs-ep.jpeg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Banco Sabadell premia una investigación pionera sobre cómo empresas y trabajadores responden a la incertidumbre económica",
       "link": "https://www.elplural.com/economia/empresas/banco-sabadell-premia-investigacion-pionera-empresas-trabajadores-responden-incertidumbre-economica_400938102",
       "imagen": "https://www.elplural.com/uploads/s1/27/05/22/8/isaac.jpeg",
@@ -34,6 +28,12 @@
       "titulo": "Repsol mejora las condiciones de 14.000 trabajadores con más jornada intensiva, subida con el IPC y un pago extra del 3%",
       "link": "https://www.elplural.com/economia/empresas/repsol-mejora-condiciones-trabajadores-jornada-intensiva-subida-ipc-pago-extra_400883102",
       "imagen": "https://www.elplural.com/uploads/s1/25/32/87/3/repsol.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Google sigue acumulando miles de millones en multas en el territorio europeo: Irlanda le sanciona por los datos de localización",
+      "link": "https://www.elplural.com/economia/empresas/google-sigue-acumulando-miles-millones-multas-territorio-europeo-irlanda-sanciona-datos-localizacion_400878102",
+      "imagen": "https://www.elplural.com/uploads/s1/20/47/58/6/bruselas-multa-a-google-ep.jpeg",
       "tipo": "imagen"
     }
   ]

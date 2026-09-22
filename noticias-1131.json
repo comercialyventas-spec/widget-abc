@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Mañana bombardearán a una anciana",
+      "link": "https://elpais.com/noticias/desahucios/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/BFYILFGK3JCSNHSAWJ2YUVV4XQ.jpeg?auth=5487934df54ee32963e1c8593e0545c52a66b134d13bfbf9d33c1929b5004934&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ceuta y Melilla son España",
+      "link": "https://elpais.com/opinion/2026-09-22/ceuta-y-melilla-son-espana.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4MKK47CVOJG7JKDY6LOWLQX4MM.jpg?auth=5ecc9442cdf01574537b08a46af9b16d7908c309a9899b653fdacf75574c9719&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El declive petrolero de México y la falsa solución del ‘fracking’",
       "link": "https://elpais.com/noticias/fracking/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/3VEGD6TWKFAKTJACWCQDWVBNMM.jpg?auth=4cbb588f2b3f1fe672cdb276c78bba9c274316cc06b49e4171b1f28c609b8ab6&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/3VEGD6TWKFAKTJACWCQDWVBNMM.jpg?auth=4cbb588f2b3f1fe672cdb276c78bba9c274316cc06b49e4171b1f28c609b8ab6&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "La IA no necesita frenos, necesita otro rumbo",
       "link": "https://elpais.com/noticias/inteligencia-artificial/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/C7DQJULHFNFRHE5NKWP4CTY7KQ.jpg?auth=eec8c45c3a6da01d078d6be0b34df10ca08369e2d9e2eca146791c4864b5d77f&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mario Draghi y Rhine Group, Cepal y Club de Roma. Europa y América Latina: retos y desafíos compartidos",
-      "link": "https://elpais.com/noticias/globalizacion/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/UTCVIUIQ4RB25LD4ZTZJLFGVQA.jpg?auth=d7a24951fa6e635cefac61bde6b4fb9d3a2aa1981aa5a335d6cebd379ecbdbc3&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cuando el mercado se convierte en un casino",
-      "link": "https://elpais.com/hemeroteca/2026-09-21/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/WXJUHSN7QZDSBEMDZPHM3A2NNE.jpg?auth=1bb3906b47b12243a8284c819a9a5010fe07a7091444c6a0a40e3ce10d10d7fb&width=414&height=311&focal=2077%2C912",
       "tipo": "imagen"
     }
   ]

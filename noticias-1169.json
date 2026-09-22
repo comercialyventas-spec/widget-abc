@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "‘La mesa de Hora 25’, programa en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-09-22/la-mesa-de-hora-25-programa-en-el-pais.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RIBFKHCERJDFHKWBRGWFOY5NAA.jpeg?auth=9cd2dd0d3f4eae441365fd01bca6aa58b73d643f07eab2bd9f9493a926406d01&width=414&height=233&focal=354%2C362",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Programa especial | Debate de la Asamblea General de la ONU",
       "link": "https://elpais.com/videos/2026-09-22/programa-especial-debate-de-la-asamblea-general-de-la-onu.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/RPT5SX5NWZFCVIATOWMTRSXK4A.jpg?auth=1f0c909f592cd833437e6d06470730254f4df409b695c5f1453918ae5363eb3b&width=414&height=233&smart=true",
@@ -26,14 +32,8 @@
     },
     {
       "titulo": "Vídeos-ajedrez | El día que Hoi brilló como el sol",
-      "link": "https://elpais.com/ajedrez/videos/2026-09-21/videos-de-ajedrez-el-dia-que-hoi-brillo-como-el-sol.html",
+      "link": "https://elpais.com/ajedrez/videos/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/XS7YR4FJSJHHNKOC3HU7SCMSH4.png?auth=47f7e7ec66c275e75a71808e0cf928ba41484443d862b80452132468d3cfa7c4&width=414&height=233&focal=656%2C292",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las preguntas sin respuesta de Rufián a Mazón en la comisión de la Dana del Congreso",
-      "link": "https://elpais.com/noticias/carlos-mazon-guixot/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/C2AGGIGSZRA4RF6VZG6PJYO4SE.jpg?auth=299c462e75005199523a99a62b24629e4b5aa10eb1a4bb5fad9b3e2be95ee06e&width=414&height=233&smart=true",
       "tipo": "imagen"
     }
   ]
