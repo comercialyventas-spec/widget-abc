@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Las canas y el estrés: una historia entre el mito y la ciencia",
+      "link": "https://www.eldiario.es/edcreativo/diario-salud/canas-estres-historia-mito-ciencia_1_13526608.html",
+      "imagen": "https://static.eldiario.es/clip/df11fd18-e981-49b8-8a85-eb7fa9e32197_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Nos están enfermando las estelas de los aviones?",
       "link": "https://www.eldiario.es/edcreativo/diario-salud/enfermando-estelas-aviones_1_13499493.html",
       "imagen": "https://static.eldiario.es/clip/0fc9be4c-771f-47d4-b1c4-b4f7739dcfbc_16-9-discover-aspect-ratio_default_0.jpg",
@@ -19,21 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Por qué los adolescentes necesitan atención personalizada en salud mental",
-      "link": "https://www.eldiario.es/edcreativo/diario-salud/adolescentes-necesitan-atencion-personalizada-salud-mental_1_13415297.html",
-      "imagen": "https://static.eldiario.es/clip/6772733a-ac21-4be9-be83-07fb738c9936_16-9-discover-aspect-ratio_default_0_x957y340.jpg",
+      "titulo": "¿Cómo detectar un golpe de calor en niños? Estos son los síntomas de alarma",
+      "link": "https://www.eldiario.es/edcreativo/diario-salud/detectar-golpe-calor-ninos-son-sintomas-alarma_1_13312532.html",
+      "imagen": "https://static.eldiario.es/clip/d69b7283-d13b-44a1-b16a-0d1f5b788ee9_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
       "titulo": "Humanizar la radioterapia eliminando las huellas físicas y psicológicas del tratamiento",
       "link": "https://www.eldiario.es/edcreativo/diario-salud/humanizar-radioterapia-eliminando-huellas-fisicas-psicologicas-tratamiento_1_13311320.html",
       "imagen": "https://static.eldiario.es/clip/90d34529-beeb-40ba-931e-3e18e3660773_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Enfermedades respiratorias y vacaciones: cómo planificar el viaje para proteger los pulmones",
-      "link": "https://www.eldiario.es/edcreativo/diario-salud/enfermedades-respiratorias-vacaciones-planificar-viaje-proteger-pulmones_1_13305073.html",
-      "imagen": "https://static.eldiario.es/clip/793ca7a4-947c-4b9b-a41b-e577162101b4_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

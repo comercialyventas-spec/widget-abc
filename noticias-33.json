@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Amigos para siempre",
+      "link": "https://www.lavanguardia.com/local/valencia/20260922/11640557/amigos-siempre.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/30/6a6b2248aadc7.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Mou y Ayuso, pareja de hecho",
       "link": "https://www.lavanguardia.com/opinion/20260922/11640671/mou-ayuso-pareja-hecho.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/20/6ab0517344bd1.r_d.830-528-0.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Un león en la laica Francia",
       "link": "https://www.lavanguardia.com/opinion/20260922/11640273/leon-laica-francia.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/21/6ab1119690cf0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "África, China y nosotros",
-      "link": "https://www.lavanguardia.com/opinion/20260922/11640272/africa-china.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/21/6ab11083edd50.jpeg",
       "tipo": "imagen"
     }
   ]
