@@ -1,7 +1,13 @@
 {
   "noticias": [
     {
-      "titulo": "Euríbor hoy, martes 22 de septiembre: descenso ligero de la tasa diaria",
+      "titulo": "Ni Ronda ni Colmenar: este municipio del interior lidera la subida del alquiler en la provincia este verano",
+      "link": "https://www.elmundo.es/andalucia/2026/09/22/6ab03b30fc6c832a1b8b4592.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/22/17900763514460.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Euríbor hoy, martes 22 de septiembre: ascenso ligero de la tasa diaria",
       "link": "https://www.elmundo.es/economia/vivienda/2026/09/22/6ab25d21e85eceee388b45b4.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/06/08/17809195230603.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Isabel Rodríguez suscribe un acuerdo con Facua para facilitar información y orientación sobre las dudas en vivienda",
       "link": "https://www.elmundo.es/economia/vivienda/2026/09/18/6aad281dfdddffbe708b45b8.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/18/17897329180816.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Euríbor hoy, viernes 18 de septiembre: otra bajada mínima que no alivia la preocupante tendencia al alza",
-      "link": "https://www.elmundo.es/economia/vivienda/2026/09/18/6aad2445e9cf4a11308b45c6.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/05/21/17793574933067.jpg",
       "tipo": "imagen"
     }
   ]

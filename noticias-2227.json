@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Supresión de Parada: paseo de la Castellana. Afectada línea 5 de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260923-SP-5372-Paseo-Castellana.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Obras: Paseo de la Castellana. Afectada línea 126 de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260923-O-Paseo-Castellana-L126.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Obras: Cantueso. Afectada línea 177 de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260923-O-Cantueso.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Supresión de Parada: Fuente Carrantona. Afectadas 4 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260923-SP-1056-Fuente-Carrantona.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Obras: paseo de la Castellana. Afectada línea N24 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260923-O-Paseo-Castellana.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -9,30 +33,6 @@
     {
       "titulo": "Supresión de Parada: Carretera de Castilla frente a Club de Campo. Afectadas 4 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260922-SP-3426-Crtra-Castilla.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Supresión de Parada: avenida de Las Suertes. Afectada línea 145 de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260923-SP-4321-Antonio-Gades.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Evento sociocultural en distrito Villaverde. Afectada línea 79 de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260925-Shakira-Residencia-Europea-L79.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Supresión de Parada: Conde de Peñalver. Afectadas 2 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260925-SP-2217-Conde-Peñalver.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Supresión de Parada: Conde de Peñalver. Afectadas 3 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260925-SP-2020-Conde-Peñalver.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }
