@@ -1,13 +1,25 @@
 {
   "noticias": [
     {
+      "titulo": "Despliegue de la Guardia Civil en Loja contra el narcotráfico",
+      "link": "https://www.ahoragranada.com/noticias/despliegue-de-la-guardia-civil-en-loja-contra-el-narcotrafico/",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "Tres días de convivencia, música y gastronomía para celebrar las Fiestas del Barranco del Abogado",
+      "link": "https://www.ahoragranada.com/noticias/tres-dias-de-convivencia-musica-y-gastronomia-para-celebrar-las-fiestas-del-barranco-del-abogado/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Fiestas-Populares-Barranco-Abogado-Granada.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Granada busca compatibilizar economía y movilidad con el nuevo modelo de distribución urbana de mercancías",
       "link": "https://www.ahoragranada.com/noticias/granada-busca-compatibilizar-economia-y-movilidad-con-el-nuevo-modelo-de-distribucion-urbana-de-mercancias/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Distribucion-mercancias-Granada-Semana-Movilidad.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Cae una red que distribuía cocaína gran escala en Granada y otras provincias",
+      "titulo": "Cae una red que distribuía cocaína a gran escala en Granada y otras provincias",
       "link": "https://www.ahoragranada.com/noticias/cae-una-red-que-distribuia-cocaina-gran-escala-en-granada-y-otras-provincias/",
       "imagen": "",
       "tipo": ""
@@ -22,18 +34,6 @@
       "titulo": "La Plataforma en Defensa de la Sanidad Pública de Atarfe traslada sus demandas a la delegada de Salud",
       "link": "https://www.ahoragranada.com/noticias/la-plataforma-en-defensa-de-la-sanidad-publica-de-atarfe-traslada-sus-demandas-a-la-delegada-de-la-junta/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/FotoPuertaDelegacion.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ceuta se adhiere al proyecto de Granada 2031",
-      "link": "https://www.ahoragranada.com/noticias/ceuta-se-adhiere-al-proyecto-de-granada-2031/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Granada-2031-Ceuta.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El plan de partido le sale a Pacheta pero tras recibir dos goles",
-      "link": "https://www.ahoragranada.com/noticias/el-plan-de-partido-le-sale-a-pacheta-pero-tras-recibir-dos-goles/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Arnai-Granada-CF-Leganes.jpeg",
       "tipo": "imagen"
     }
   ]

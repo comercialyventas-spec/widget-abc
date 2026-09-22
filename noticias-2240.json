@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El Tribunal Supremo decidirá si el caso Montoro se queda en los juzgados de Tarragona o de Madrid",
+      "link": "https://efe.com/espana/2026-09-22/tribunal-supremo-caso-montoro/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/montoro.webp?w=600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Golpe a una red que movía 50 kilos de cocaína al mes en coches caleteados desde Barcelona",
+      "link": "https://efe.com/cataluna/2026-09-22/golpe-a-red-movia-50-kilos-cocaina-al-mes-en-coches-caleteados-desde-barcelona/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/rss-efe4b897950659bb84134a2f90477226806093086b2w.webp?w=600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El otoño llega mañana con mucho calor y con Mercurio y Venus visibles tras la puesta de Sol",
       "link": "https://efe.com/espana/2026-09-22/llegada-otono-astronomico/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/otono.webp?w=600&ssl=1",
@@ -22,18 +34,6 @@
       "titulo": "Greenpeace, sobre el juicio a 11 activistas en Valencia: Fue una protesta pacífica",
       "link": "https://efe.com/espana/2026-09-22/greenpeace-juicio-activistas-valencia/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/green.webp?w=600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Interceptan a 16 migrantes llegados en patera a Formentera",
-      "link": "https://efe.com/espana/2026-09-22/interceptan-migrantes-patera-formentera/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/patera-2.webp?w=600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Más Madrid denuncia al Ramón y Cajal y a la consejería de Sanidad por alterar las listas de espera",
-      "link": "https://efe.com/espana/2026-09-22/mas-madrid-denuncia-ramon-y-cajal-y-consejeria-listas-espera/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/cajal.webp?w=600&ssl=1",
       "tipo": "imagen"
     }
   ]

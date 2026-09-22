@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Such Brave Girls",
+      "link": "https://elpais.com/television/series/such-brave-girls/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/PIK7FN4TNFEE3KQOI4S5RVCENY.jpg?auth=17e242eccb1b2ca4b1b32f28e3684dcd0f8a11feab41aa17cadc04f8c06651e6",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El presidente de RTVE propondrá al Consejo de Administración que España siga fuera de Eurovisión",
       "link": "https://elpais.com/television/2026-09-22/el-presidente-de-rtve-propondra-al-consejo-de-administracion-que-espana-siga-fuera-de-eurovision.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/NVLA6QSDUFHZVGRND7VCM5ONAU.jpg?auth=399a22c68ff62341219a7eff7147d93eafd6ee7bcfd0dace10617ac22d9ae94d",
@@ -28,12 +34,6 @@
       "titulo": "Mobland (Tierra de mafiosos)",
       "link": "https://elpais.com/television/series/tierra-de-mafiosos/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/GGHGPWLMBNFTJN6ADYM4FEMEBE.jpg?auth=ed849575539b88e4e85b6202a6da108d7b3f2f74b361dabbfe911eca2223acc9",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El esfuerzo no garantiza el éxito",
-      "link": "https://elpais.com/television/2026-09-21/el-esfuerzo-no-garantiza-el-exito.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/3CD4SES2WBCD3AIM2KYEFTLJDQ.jpg?auth=b615a4c89dd50c79043ed879ae8e7d5b89d3588bbf9d030776fb654b62d35b19",
       "tipo": "imagen"
     }
   ]
