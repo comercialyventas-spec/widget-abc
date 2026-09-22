@@ -236,6 +236,16 @@
     return out;
   }
 
+  // Algunas tiendas sirven la web en el idioma/pais del visitante (o del proxy). Si la URL del
+  // catalogo lleva prefijo de idioma (p. ej. /eur/es/), se descartan los productos de otro idioma.
+  function filtrarIdioma(ps, base) {
+    var m = String(base).match(/^https?:\/\/[^\/]+((?:\/[a-z]{2,4}){1,2})\//i);
+    if (!m) return ps;
+    var pref = m[1].toLowerCase();
+    var buenos = ps.filter(function (p) { return String(p.url).toLowerCase().indexOf(pref + "/") !== -1; });
+    return buenos.length ? buenos : [];
+  }
+
   function capaProxy(w, url, pagina) {
     if (pareceShopify(w, url)) {
       return porProxy(urlShopifyJson(url, pagina)).then(function (t) {
@@ -255,7 +265,7 @@
       if (/<urlset/i.test(t)) return extraerSitemap(t);
       var j = null; try { j = JSON.parse(t); } catch (e) {}
       if (j && j.products) return desdeShopifyJson(j, url);
-      return extraerDeHtml(t, url);
+      return filtrarIdioma(extraerDeHtml(t, url), url);
     }).then(function (ps) {
       if (!ps || !ps.length) throw new Error("sin productos");
       w.proxyTodos = w.proxyTodos || {}; w.proxyTodos[url] = ps; return ps;
@@ -353,6 +363,7 @@
     }).then(function () {
       w.ocupado = false;
       if (w.fin) {
+        if (w.reloj) { clearInterval(w.reloj); w.reloj = null; }
         botonFinal(w);
         estado(w, w.productos.length ? w.productos.length + " productos" : "");
       } else {
@@ -403,10 +414,16 @@
       if (a) { try { fetch(a.getAttribute("data-clic"), { mode: "no-cors" }); } catch (x) {} }
     });
     if (window.IntersectionObserver) {
-      var cent = document.createElement("div"); el.appendChild(cent);
+      var cent = document.createElement("div"); cent.style.height = "1px"; el.appendChild(cent);
       new IntersectionObserver(function (ent) { if (ent[0].isIntersecting) cargarSiguiente(w); }, { rootMargin: "600px" }).observe(cent);
     }
     window.addEventListener("scroll", function () { if (casiVisible(w)) cargarSiguiente(w); }, { passive: true });
+    document.addEventListener("scroll", function () { if (casiVisible(w)) cargarSiguiente(w); }, { passive: true, capture: true });
+    // Red de seguridad: algunas plantillas de blog no disparan el evento de scroll en window
+    w.reloj = setInterval(function () {
+      if (w.fin) { clearInterval(w.reloj); return; }
+      if (casiVisible(w)) cargarSiguiente(w);
+    }, 800);
     cargarSiguiente(w);
   }
   function iniciarTodos() { var els = document.querySelectorAll(".motor-productos"); for (var i = 0; i < els.length; i++) iniciar(els[i]); }
