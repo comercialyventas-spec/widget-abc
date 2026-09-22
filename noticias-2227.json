@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Evento sociocultural en distrito Villaverde Alto. Afectada línea N14 de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260925-Shakira-Residencia-Europea-LN14.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Recuperación de Parada: Francisco Umbral. Afectada línea 171 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260923-RPS-5888-Francisco-Umbral.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -27,12 +33,6 @@
     {
       "titulo": "Obras: Cantueso. Afectada línea 177 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260923-O-Cantueso.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Supresión de Parada: Fuente Carrantona. Afectadas 4 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260923-SP-1056-Fuente-Carrantona.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }
