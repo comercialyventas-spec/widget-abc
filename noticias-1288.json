@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Encuentran a un menor marroquí escondido entre las ruedas del autobús del Real Valladolid",
+      "link": "https://www.mediterraneodigital.com/deportes/valladolid-marroqui-autobus",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/9/bus-valladolid.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Lipedema y autoestima: el impacto invisible de una enfermedad que aún cuesta diagnosticar",
       "link": "https://www.mediterraneodigital.com/sociedad-y-tiempo-libre/clinicas-simarro",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/lipedema.jpg",
@@ -15,8 +21,8 @@
     {
       "titulo": "¿Qué tipo de material necesita un gimnasio de CrossFit?",
       "link": "https://www.mediterraneodigital.com/deportes/venta-de-material-deportivo-para-crossfit",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/9/crossfit.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Después de Ceuta y Melilla, Marruecos reclama el Monte Tropic de las islas Canarias",
@@ -27,12 +33,6 @@
     {
       "titulo": "Mercadona despide a un trabajador que entró a internet 7.685 veces en un mes",
       "link": "https://www.mediterraneodigital.com/negocios-y-finanzas/mercadona-despido",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Puigdemont pide un referéndum para Ceuta y Melilla",
-      "link": "https://www.mediterraneodigital.com/espana/cataluna/puigdemont-ceuta-melilla",
       "imagen": "",
       "tipo": ""
     }
