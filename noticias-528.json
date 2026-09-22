@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Tráfico",
+      "link": "https://www.elconfidencialdigital.com/album/seguridad/trafico/202609221807031487412.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/22/2026092218035668878.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Guardia Civil",
       "link": "https://www.elconfidencialdigital.com/album/seguridad/guardia-civil/202609181054161193803.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/18/2026091810530762263.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Marruecos",
       "link": "https://www.elconfidencialdigital.com/album/seguridad/marruecos/202609101400511040025.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/07/22/2026072222325718850.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Guardia Civil",
-      "link": "https://www.elconfidencialdigital.com/album/seguridad/guardia-civil/202609091353071039886.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/09/2026090913512416258.jpg",
       "tipo": "imagen"
     }
   ]

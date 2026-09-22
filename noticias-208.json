@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El piloto de un F-16 estadounidense se salva antes de estrellarse en el oeste de Alemania",
+      "link": "https://www.dw.com/es/el-piloto-de-un-f-16-estadounidense-se-salva-antes-de-estrellarse-en-el-oeste-de-alemania/a-79377998",
+      "imagen": "https://static.dw.com/image/79378410_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Luis Díaz se queda en Múnich y no viaja con Colombia",
       "link": "https://www.dw.com/es/luis-díaz-se-queda-en-múnich-y-no-viaja-con-colombia/a-79363133",
       "imagen": "https://static.dw.com/image/78553043_6.jpg",
@@ -29,12 +35,6 @@
       "link": "https://www.dw.com/es/tiroteo-frente-a-una-escuela-de-turquía-deja-once-heridos/a-79368853",
       "imagen": "https://static.dw.com/image/79365349_6.jpg",
       "tipo": "imagen"
-    },
-    {
-      "titulo": "Nuevos ataques rusos matan a cuatro personas en Ucrania",
-      "link": "https://www.dw.com/es/nuevos-ataques-rusos-matan-a-cuatro-personas-en-ucrania/a-79366999",
-      "imagen": "",
-      "tipo": ""
     }
   ]
 }

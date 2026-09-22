@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "OpenAI afirma que su IA ha conseguido resolver más de 100 grandes problemas matemáticos",
+      "link": "https://www.abc.es/ciencia/openai-afirma-ia-conseguido-resolver-100-grandes-20260922175710-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/22/1517641162-ReEtoUpQEyeCAM5uBt8P5yK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Descubierta la 'ameba de fuego', el único ser vivo complejo conocido que prospera a más de 60º C",
       "link": "https://www.abc.es/ciencia/descubierta-ameba-fuego-unico-vivo-complejo-conocido-20260921170000-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/21/ameba-2_20260922104800-RrsA3cxVZUI10NOSBs30fFN-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La Tierra cambia de forma: los polos se elevan mientras el ecuador se hunde a un ritmo sin precedentes",
       "link": "https://www.abc.es/ciencia/tierra-cambia-forma-polos-elevan-ecuador-hunde-20260921104418-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/21/Geoide-Riyz9RcpWVxFe43sJ7mfLWO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los objetos en órbita se triplican en una década y ponen en riesgo el tráfico espacial",
-      "link": "https://www.abc.es/ciencia/objetos-orbita-triplican-decada-ponen-riesgo-trafico-20260914012045-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/14/RISE_Extending_missions_in_geostationary_orbit-Rj9wgL4Nyt6gvKdByuTn0MK-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
