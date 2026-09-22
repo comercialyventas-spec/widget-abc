@@ -1,10 +1,28 @@
 {
   "noticias": [
     {
+      "titulo": "Pérez Llorca se reúne en Génova con Tellado en plena tensión interna por su designación como candidato",
+      "link": "https://elpais.com/espana/2026-09-21/perez-llorca-se-reune-en-genova-con-tellado-en-plena-tension-interna-por-su-designacion-como-candidato.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/UWNF3RFJTVO5PG2RT2VE7T7RNM.jpg?auth=63d9f17fb901bc4e8566faa82a383caeb7e1872b3cb3f4df4b8221aba298a7f1&width=1200",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Mazón sostiene que no estuvo al frente de la emergencia cuando llegó por la noche al Cecopi",
       "link": "https://elpais.com/espana/2026-09-21/mazon-regresa-al-congreso-para-responder-de-nuevo-sobre-su-papel-en-la-gestion-de-la-dana.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/LY24ZMV2ERA37E37GALN73HOOY.jpg?auth=b722e1dfb32e3e136b5a1e6be142dace8640447107748e1137cbec3e6e9d9b29&width=1200",
       "tipo": "imagen"
+    },
+    {
+      "titulo": "La “aldea” de bares y tabernas que resiste la turistificación del centro de Valencia",
+      "link": "https://elpais.com/gastronomia/2026-09-22/la-aldea-de-bares-y-tabernas-que-resiste-a-la-turistificacion-del-centro-de-valencia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/Y324O53QH5BBRGYQ7RJ3TUQOOE.JPG?auth=f8103d17159cc7988330c07a2a3c4fbccbf9500862a0b29217d48bb5feb4ee91&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Aemet, ante una posible dana por la elevada temperatura del mar: “Tenemos combustible, pero no sabemos si hay coche”",
+      "link": "https://elpais.com/espana/comunidad-valenciana/2026-09-21/la-aemet-ante-una-posible-dana-por-la-elevada-temperatura-del-mar-tenemos-combustible-pero-no-sabemos-si-hay-coche.html",
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "La jueza de la dana descarta un careo entre dos dirigentes del PP",
@@ -13,27 +31,9 @@
       "tipo": ""
     },
     {
-      "titulo": "La Aemet, ante una posible dana por la elevada temperatura del mar: “Tenemos combustible, pero no sabemos si hay coche”",
-      "link": "https://elpais.com/espana/comunidad-valenciana/2026-09-21/la-aemet-ante-una-posible-dana-por-la-elevada-temperatura-del-mar-tenemos-combustible-pero-no-sabemos-si-hay-coche.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/BSQOFL5OZ5EH3KNJ5WOOU36O6I.JPG?auth=6ab0202d5fffdfec885cc98548fc987d5257d360f700b9a979c7aba91c37cf68&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "A prisión el joven que mató presuntamente a su padrastro con una mancuerna en Valencia",
       "link": "https://elpais.com/espana/comunidad-valenciana/2026-09-21/a-prision-el-joven-que-mato-presuntamente-a-su-padrastro-con-una-mancuerna-en-valencia.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "La movilidad en Valencia: crece un 5% el tráfico privado, cae la bici y baja la velocidad del bus",
-      "link": "https://elpais.com/espana/comunidad-valenciana/2026-09-21/la-movilidad-en-valencia-crece-un-5-el-trafico-privado-cae-la-bici-y-baja-la-velocidad-del-bus-segun-compromis.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Los fantasmas del Valencia CF",
-      "link": "https://elpais.com/deportes/futbol/2026-09-21/los-fantasmas-del-valencia-cf.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/HXTNXHRHEVGZXNOB2536WVDK7Y.jpg?auth=c144bdd8d7a93f969fbb66bdbebf22146a054f594141c3c802d115c377f4fe17&width=414&height=311&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RPMY7WM4KFPUZD7WHYM6QKE6MA.jpg?auth=f6f27ca72fa5efa4d3db27af2d2f054046f8bf8df547e8f8ec8cae491f616fde&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

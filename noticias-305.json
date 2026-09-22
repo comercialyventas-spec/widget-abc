@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Ferrari anuncia la tripulación del Hypersail",
+      "link": "https://www.abc.es/deportes/vela/vela-oceanica/ferrari-anuncia-tripulacion-hypersail-20260922085155-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/22/Giulia%20Conti%20%20Ferrari%20Hypersail-RSJop502q9Koy6dcR0PvIiP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Mahón presenta el Mundial de Snipe",
       "link": "https://www.abc.es/deportes/vela/vela-ligera/mahon-presenta-mundial-snipe-20260921163543-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/21/Mundial%20Snipe%20Mahon-RdhSowONxojNFMUmRmqK6YN-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Final por todo lo alto en la Ibiza JoySail",
       "link": "https://www.abc.es/deportes/vela/vela-crucero/final-alto-ibiza-joysail-20260920175725-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/20/Ibiza%20JS-RP14LklF9BsMAfdbkaXLaAM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "España sobrevive al poco viento y está en la pelea para entrar en la final en el lago Leman",
-      "link": "https://www.abc.es/deportes/vela/vela-crucero/espana-sobrevive-poco-viento-pelea-entrar-final-20260919195949-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/19/Los%20Gallos-RIbUpXvi1c10GGUDWjDsTpN-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
