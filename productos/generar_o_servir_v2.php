@@ -123,7 +123,7 @@ function descargarUrl($url) {
     // se usa el binario curl del sistema, igual que hace scraper_generico.php.
     if (!function_exists('curl_init')) {
         $ua = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36';
-        $cmd = 'curl -s -L --max-time 25 -A ' . escapeshellarg($ua) . ' -w ' . escapeshellarg("\n%{http_code}") . ' ' . escapeshellarg($url) . ' 2>/dev/null';
+        $cmd = 'curl -s -L --max-time 25 -A ' . escapeshellarg($ua) . ' -H ' . escapeshellarg('Accept-Language: es-ES,es;q=0.9') . ' -w ' . escapeshellarg("\n%{http_code}") . ' ' . escapeshellarg($url) . ' 2>/dev/null';
         $salida = shell_exec($cmd);
         if (!is_string($salida) || $salida === '') return null;
         $pos = strrpos($salida, "\n");
@@ -140,6 +140,7 @@ function descargarUrl($url) {
         CURLOPT_TIMEOUT => 25,
         CURLOPT_SSL_VERIFYPEER => true,
         CURLOPT_USERAGENT => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36',
+        CURLOPT_HTTPHEADER => ['Accept-Language: es-ES,es;q=0.9'],
     ]);
     $body = curl_exec($ch);
     $codigo = curl_getinfo($ch, CURLINFO_HTTP_CODE);
@@ -508,8 +509,23 @@ function extraerWoo($url, $maxPaginas = 8) {
     return $todos;
 }
 
+/**
+ * Algunas tiendas sirven la web en el idioma/pais de quien pregunta (no en el de la URL).
+ * Si la URL del catalogo lleva prefijo de idioma (p. ej. /eur/es/) y los productos salen
+ * con otro, se descartan: mejor no dar catalogo que darlo en ingles y en dolares.
+ */
+function filtrarPorIdioma($productos, $url) {
+    if (!preg_match('#^https?://[^/]+((?:/[a-z]{2,4}){1,2})/#i', $url, $m)) return $productos;
+    $prefijo = strtolower($m[1]) . '/';
+    $buenos = [];
+    foreach ($productos as $p) {
+        if (strpos(strtolower($p['url']), $prefijo) !== false) $buenos[] = $p;
+    }
+    return $buenos;
+}
+
 function extraerPorPlataforma($plataforma, $url) {
-    if ($plataforma === 'sfcc') return extraerSfcc($url, 8);
+    if ($plataforma === 'sfcc') return filtrarPorIdioma(extraerSfcc($url, 8), $url);
     if ($plataforma === 'woo') return extraerWoo($url, 8);
     return [];
 }
