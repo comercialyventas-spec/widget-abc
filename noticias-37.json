@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Las miradas del rebeco del Puigmal",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260922/11640106/miradas-rebeco-puigmal.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/21/6ab0f3132d089.r_d.1868-1567-1232.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ser del Espanyol",
       "link": "https://www.lavanguardia.com/participacion/cartas/20260921/11640820/espanyol.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Experimentos políticos",
       "link": "https://www.lavanguardia.com/participacion/cartas/20260921/11640816/experimentos-politicos.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¡Despeja la mente pedaleando!",
-      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260921/11640094/despeja-mente-pedaleando.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/21/6ab0f037122ed.r_d.1013-876-2338.jpeg",
       "tipo": "imagen"
     }
   ]
