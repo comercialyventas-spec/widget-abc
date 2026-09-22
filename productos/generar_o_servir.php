@@ -514,26 +514,30 @@ function extraerWoo($url, $maxPaginas = 8) {
 }
 
 /**
- * Algunas tiendas sirven la web en el idioma/pais de quien pregunta (no en el de la URL).
- * Si la URL del catalogo lleva prefijo de idioma (p. ej. /eur/es/) y los productos salen
- * con otro, se descartan: mejor no dar catalogo que darlo en ingles y en dolares.
+ * Algunas tiendas sirven la web en el idioma/pais de quien pregunta, no en el de la URL
+ * (p. ej. LOEWE responde en ingles y dolares si se le pregunta desde fuera de Europa).
+ * No se descarta ese catalogo: se marca, y el widget solo lo usa para visitantes de
+ * fuera o cuando no hay nada mejor.
  */
-function filtrarPorIdioma($productos, $url) {
+function marcarSiOtroIdioma($productos, $url) {
     if (!preg_match('#^https?://[^/]+((?:/[a-z]{2,4}){1,2})/#i', $url, $m)) return $productos;
+    if (empty($productos)) return $productos;
     $prefijo = strtolower($m[1]) . '/';
-    $buenos = [];
+    $coinciden = 0;
     foreach ($productos as $p) {
-        if (strpos(strtolower($p['url']), $prefijo) !== false) $buenos[] = $p;
+        if (strpos(strtolower($p['url']), $prefijo) !== false) $coinciden++;
     }
-    return $buenos;
+    if ($coinciden < (count($productos) / 2)) { $GLOBALS['idiomaDistinto'] = true; }
+    return $productos;
 }
 
 function extraerPorPlataforma($plataforma, $url) {
-    if ($plataforma === 'sfcc') return filtrarPorIdioma(extraerSfcc($url, 8), $url);
+    if ($plataforma === 'sfcc') return marcarSiOtroIdioma(extraerSfcc($url, 8), $url);
     if ($plataforma === 'woo') return extraerWoo($url, 8);
     return [];
 }
 
+$idiomaDistinto = false;   // se pone a true si la tienda respondio en otro idioma/moneda
 $esUrlSitemap = (stripos($url, '.xml') !== false || stripos($url, 'sitemap') !== false);
 $esUrlColeccion = (stripos($url, '/collections/') !== false && stripos($url, '.xml') === false);
 $todosLosProductos = [];
@@ -581,6 +585,7 @@ foreach ($paginas as $i => $productosPagina) {
         'hayMas' => $numPagina < $totalPaginas,
         'generado' => date('c'),
     ];
+    if (!empty($GLOBALS['idiomaDistinto'])) { $payload['idioma_distinto'] = true; }
     file_put_contents($dirCache . "/producto-{$slug}-p{$numPagina}.json", json_encode($payload, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES));
 }
 
