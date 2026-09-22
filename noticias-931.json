@@ -1,15 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Pese a los llamamientos para frenar el ritmo, Anthropic y OpenAI lanzan nuevos modelos de inteligencia artificial",
+      "link": "https://www.elmundo.es/tecnologia/2026/09/22/6ab2f298e4d4d806778b45a3.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/22/17901123735164.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Qualcomm divide la gama alta de Android en dos con los Snapdragon 8 Elite Gen 6 y 8 Elite Extreme Gen 6",
+      "link": "https://www.elmundo.es/tecnologia/2026/09/22/6ab2f8b921efa02b0c8b45ac.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/22/17901139363604.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Mac mini M6: un gran procesador en un cuerpo muy pequeño",
       "link": "https://www.elmundo.es/tecnologia/creadores/2026/09/21/6ab16a70e85ece29748b458a.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/21/17900125270416.jpg",
+      "imagen": "https://e01-phantom-elmundo.uecdn.es/5940c875b259c3f647327283dbac1d20/resize/1200/f/webp/assets/multimedia/imagenes/2026/09/21/17900125270416.jpg",
       "tipo": "imagen"
     },
     {
       "titulo": "Google lanzará los Googlebook en octubre con procesadores de Qualcomm e Intel",
       "link": "https://www.elmundo.es/tecnologia/creadores/2026/09/21/6ab17b15e4d4d83a2c8b4595.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/21/17900162576127.png",
+      "imagen": "https://e01-phantom-elmundo.uecdn.es/904389f0efc0100cfc54c6e6e10a793f/crop/84x0/771x458/f/webp/assets/multimedia/imagenes/2026/09/21/17900162576127.png",
       "tipo": "imagen"
     },
     {
@@ -19,21 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Filtran por accidente el vídeo de los AirPods con cámara",
-      "link": "https://www.elmundo.es/tecnologia/innovacion/2026/08/18/6a83e9a3e9cf4a5f758b456d.html",
-      "imagen": "https://e01-phantom-elmundo.uecdn.es/08d6bca31ed97d2bc6bc2e35384130e7/crop/0x0/2975x1983/resize/1200/f/webp/assets/multimedia/imagenes/2026/08/18/17870297928222.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "iPhone 18 Pro: el mismo cuerpo, otro teléfono",
       "link": "https://www.elmundo.es/tecnologia/gadgets/2026/09/16/6aaa95ebe85ece19588b45b0.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/16/17895640894167.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Apple rebaja al 26% su comisión en la App Store europea y elimina el peaje por instalación",
-      "link": "https://www.elmundo.es/tecnologia/2026/08/18/6a848c9a21efa047238b45b8.html",
-      "imagen": "https://e01-phantom-elmundo.uecdn.es/332ad4ecd12e72f5380d699f1893a911/crop/0x0/1280x853/resize/1200/f/webp/assets/multimedia/imagenes/2026/08/18/17870716591064.jpg",
       "tipo": "imagen"
     }
   ]

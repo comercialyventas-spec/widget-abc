@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Groenlandia, controlada pero soberana",
+      "link": "https://www.lavanguardia.com/opinion/20260923/11641666/groenlandia-controlada-soberana.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Italia, a calzón quitado",
+      "link": "https://www.lavanguardia.com/opinion/20260923/11641477/italia-calzon-quitado.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La maniobra de aterrizaje del flamenco",
       "link": "https://www.lavanguardia.com/opinion/20260922/11641739/maniobra-aterrizaje-flamenco.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/22/6ab2f14c77cbe.jpeg",
@@ -22,18 +34,6 @@
       "titulo": "Mou y Ayuso, pareja de hecho",
       "link": "https://www.lavanguardia.com/opinion/20260922/11640671/mou-ayuso-pareja-hecho.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/20/6ab0517344bd1.r_d.830-528-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Zohran, dame día y hora",
-      "link": "https://www.lavanguardia.com/opinion/20260922/11640548/zohran-dame-dia-hora.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/21/6ab13dba006a9.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Lugares que ya no existen",
-      "link": "https://www.lavanguardia.com/opinion/20260922/11640308/lugares-existen.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/21/6ab1150641c03.jpeg",
       "tipo": "imagen"
     }
   ]
