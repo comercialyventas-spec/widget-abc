@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La maniobra de aterrizaje del flamenco",
+      "link": "https://www.lavanguardia.com/opinion/20260922/11641739/maniobra-aterrizaje-flamenco.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/22/6ab2f14c77cbe.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La responsabilidad digital",
+      "link": "https://www.lavanguardia.com/opinion/20260922/11641720/responsabilidad-digital.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Amigos para siempre",
       "link": "https://www.lavanguardia.com/local/valencia/20260922/11640557/amigos-siempre.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/30/6a6b2248aadc7.jpeg",
@@ -22,18 +34,6 @@
       "titulo": "Lugares que ya no existen",
       "link": "https://www.lavanguardia.com/opinion/20260922/11640308/lugares-existen.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/21/6ab1150641c03.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La adicción a las redes sociales",
-      "link": "https://www.lavanguardia.com/opinion/20260922/11640294/adiccion-redes-sociales.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/21/6ab112a811c6d.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un león en la laica Francia",
-      "link": "https://www.lavanguardia.com/opinion/20260922/11640273/leon-laica-francia.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/21/6ab1119690cf0.jpeg",
       "tipo": "imagen"
     }
   ]
