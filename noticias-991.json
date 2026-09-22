@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El nuevo ADN de la franquicia en España",
+      "link": "https://emprendedores.es/franquicias/adn-franquicia-espana/",
+      "imagen": "https://emprendedores.es/wp-content/uploads/2026/09/emprendedores-en-franquicia-mesa-1-1-1024x683.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cómo automatizar el departamento de RRHH en una empresa con ChatGPT",
       "link": "https://emprendedores.es/gestion/recursos-humanos/automatizar-rrhh-con-chatgpt/",
       "imagen": "",
@@ -29,12 +35,6 @@
       "link": "https://emprendedores.es/startups/propuestas-emprendedoras-de-exito/",
       "imagen": "https://wp.emprendedores.es/wp-content/uploads/2026/08/Lenke.jpeg",
       "tipo": "imagen"
-    },
-    {
-      "titulo": "A la venta el número de septiembre 2026 de Emprendedores",
-      "link": "https://emprendedores.es/revista-emprendedores/ultimo-numero/",
-      "imagen": "",
-      "tipo": ""
     }
   ]
 }
