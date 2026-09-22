@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Academia Minerva",
+      "link": "https://elpais.com/television/series/academia-minerva/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/M2ORW24CVVDAZHWOJ3QVN6IYNU.jpg?auth=55cdd88403f61dd5b436edc35714a32bcf75e703f625a86c8dcf373458717834",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ley y orden: Crimen organizado",
       "link": "https://elpais.com/television/series/ley-y-orden-crimen-organizado/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/GKW2DURT65BKJP37DNXIZTCKEQ.png?auth=5ed9fcab8bc931a02d5dc1c806d9b2bbdd1f8738e630acb38920914b9bcd6939",
@@ -28,12 +34,6 @@
       "titulo": "Pablo Larraín ilustra en ‘Mis muertos tristes’ una Argentina fantasmal y traumatizada nacida de la escritura de Mariana Enriquez",
       "link": "https://elpais.com/television/2026-09-22/pablo-larrain-ilustra-en-mis-muertos-tristes-una-argentina-fantasmal-y-traumatizada-nacida-de-la-escritura-de-mariana-enriquez.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/MZBUTTITRJFXBFBBI67MV4EZHI.jpg?auth=f177f9c10524154664ca2329a67dcc77eb37a1d258de5531720067ab3bd135c1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Youth",
-      "link": "https://elpais.com/television/series/youth/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/K3ATSN5AR5ARTLWYAPBCF6SJGQ.jpg?auth=7b26f1768a4ece921f6692761c9168e837a2cc762b7a4a8623bfda968afd0074",
       "tipo": "imagen"
     }
   ]

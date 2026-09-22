@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Luis Díaz se queda en Múnich y no viaja con Colombia",
+      "link": "https://www.dw.com/es/luis-díaz-se-queda-en-múnich-y-no-viaja-con-colombia/a-79363133",
+      "imagen": "https://static.dw.com/image/78553043_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "EE. UU., Dinamarca y Groenlandia firman hoy pacto de seguridad",
       "link": "https://www.dw.com/es/ee-uu-dinamarca-y-groenlandia-firman-hoy-pacto-de-seguridad/a-79373366",
       "imagen": "https://static.dw.com/image/79335026_6.jpg",
@@ -9,7 +15,7 @@
     {
       "titulo": "Arranca en Nueva York la 81. Asamblea General de la ONU",
       "link": "https://www.dw.com/es/arranca-en-nueva-york-la-81-asamblea-general-de-la-onu/a-79374251",
-      "imagen": "https://static.dw.com/image/79375195_6.jpg",
+      "imagen": "https://static.dw.com/image/79373618_6.jpg",
       "tipo": "imagen"
     },
     {
@@ -27,14 +33,8 @@
     {
       "titulo": "Nuevos ataques rusos matan a cuatro personas en Ucrania",
       "link": "https://www.dw.com/es/nuevos-ataques-rusos-matan-a-cuatro-personas-en-ucrania/a-79366999",
-      "imagen": "https://static.dw.com/image/79366512_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ministros G7: hutíes deben cesar \"inmediatamente\" ataques",
-      "link": "https://www.dw.com/es/ministros-g7-hutíes-deben-cesar-inmediatamente-ataques/a-79364990",
-      "imagen": "https://static.dw.com/image/77561008_6.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     }
   ]
 }

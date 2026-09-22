@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Ceuta y Melilla son España",
+      "link": "https://elpais.com/opinion/2026-09-22/ceuta-y-melilla-son-espana.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/WSYRGLESCZJUXJGDR6DREFMWHM.jpg?auth=c903a841de8343d8e6ca077208a6f1a335b5f649f67987b76e93575719218339",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Riki Blanco: punto de cruz",
       "link": "https://elpais.com/opinion/2026-09-22/riki-blanco-punto-de-cruz.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/TCJVIQAHJNG53JH7JR6IG6WY4E.jpg?auth=f8702dfcdfcd6fd962f02a1dc89a0fb16c97a4b7d8f7d5bdba99648195a385a7",
@@ -28,12 +34,6 @@
       "titulo": "El lobo ya ha venido",
       "link": "https://elpais.com/opinion/2026-09-22/el-lobo-ya-ha-venido.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/RWLI57TJYJCCDOTS2ZU4XAT2GA.JPG?auth=3c70fc02facd9fe2012983690da4f89afdf4a70576bd183367156c603db989fd",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un lector advierte sobre la denominación de “invasores” a los migrantes en Ceuta",
-      "link": "https://elpais.com/opinion/2026-09-22/un-lector-advierte-sobre-la-denominacion-de-invasores-a-los-migrantes-en-ceuta.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/6DEZIIT2Q5HNRCRVANYDRDFZNI.jpg?auth=636eb87b98edfcc22de26f2e7608a58998067024018391968aa647cd8ae6c371",
       "tipo": "imagen"
     }
   ]

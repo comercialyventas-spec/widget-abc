@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Hacienda",
+      "link": "https://www.elconfidencialdigital.com/album/dinero/hacienda/202609221650381487372.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/22/2026092216481751829.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Plantas de almacenamiento de energía",
       "link": "https://www.elconfidencialdigital.com/album/dinero/plantas-almacenamiento-energia/202609181151281193811.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/18/2026091811440634410.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Central nuclear de Almaraz",
       "link": "https://www.elconfidencialdigital.com/album/dinero/central-nuclear-almaraz/202609111113041040208.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/11/2026091111065666176.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "BBVA",
-      "link": "https://www.elconfidencialdigital.com/album/dinero/bbva/202609081646001039600.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/08/2026090816400938775.jpg",
       "tipo": "imagen"
     }
   ]
