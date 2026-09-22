@@ -22,6 +22,7 @@
  *   data-comprar     texto del botón de cada producto (por defecto "Comprar ahora")
  *   data-club        "0" para quitar "Unirme al Club de Ahorro"
  *   data-form        URL del formulario del Club (termina en entry.X=)
+ *   data-filtro      (opcional) deja solo los productos cuya URL o título contienen ese texto
  *   data-moneda      símbolo para precios numéricos (por defecto "€")
  *   data-lote        productos que se añaden en cada tanda (por defecto 12)
  */
@@ -340,11 +341,18 @@
     if (w.club) h += '<a class="mp-club" href="' + esc(w.form + encodeURIComponent(p.titulo)) + '" target="_blank" rel="nofollow">Unirme al Club de Ahorro</a>';
     return h + "</div>";
   }
+  // data-filtro: deja solo los productos cuya direccion o cuyo titulo contienen ese texto
+  function pasaFiltro(p, w) {
+    if (!w.filtro) return true;
+    var f = w.filtro.toLowerCase();
+    return (p.url && p.url.toLowerCase().indexOf(f) !== -1) || (p.titulo && p.titulo.toLowerCase().indexOf(f) !== -1);
+  }
+
   function anadir(w, lista) {
     var h = "";
     lista.forEach(function (p) {
       p = normalizar(p, w.urls[w.idx] || w.urls[0], w.moneda);
-      if (!p || w.vistos[p.url]) return;
+      if (!p || w.vistos[p.url] || !pasaFiltro(p, w)) return;
       w.vistos[p.url] = 1; w.productos.push(p); h += tarjeta(p, w);
     });
     if (h) { quitarAviso(w); w.grid.insertAdjacentHTML("beforeend", h); }
@@ -417,6 +425,7 @@
       comprar: el.getAttribute("data-comprar") || "Comprar ahora",
       club: el.getAttribute("data-club") !== "0",
       form: el.getAttribute("data-form") || FORM_POR_DEFECTO,
+      filtro: (el.getAttribute("data-filtro") || "").trim(),
       moneda: el.getAttribute("data-moneda") || "€"
     };
     ponerEstilos();
