@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Ali Smith: «La IA se alimenta destruyendo libros, eso nos lo dice todo»",
-      "link": "https://www.abc.es/cultura/ali-smith-20260921165437-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/21/Ali-Smith-Sarah-Wood-Rm7QdBAz4INyC0iGHH4gYfM-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "«Apunta a tus hijos a extraescolares para reforzar su autonomía, personalidad y habilidades sociales»",
       "link": "https://www.abc.es/familia/padres-hijos/javier-haro-psicologo-apunta-tus-hijos-extraescolares-20260922060000-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/familia/2026/09/22/extraescolares-psicologo-RitycYQcVZudHDEnSYF9tHM-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/familia/2026/09/22/extraescolares-psicologo-RitycYQcVZudHDEnSYF9tHM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "La portavoz de Vox se lanza a la campaña en el antiguo cinturón rojo de Madrid",
       "link": "https://www.abc.es/espana/madrid/portavoz-vox-lanza-campana-antiguo-cinturon-rojo-20260918012301-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/18/portavoz-vox-ROXSuOGwPhq9QVmdYEUivQN-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/18/portavoz-vox-ROXSuOGwPhq9QVmdYEUivQN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Albares se fía de Marruecos: tomará las «medidas necesarias» para evitar otra invasión",
       "link": "https://www.abc.es/espana/albares-fia-marruecos-dice-tomara-medidas-necesarias-20260922074019-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/22/1517647700-k2vG-U301833033660tbE-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/22/1517647700-k2vG-U301833033660tbE-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "José Coronado, sobre sus estudios: «Me metí a hacer Medicina y Derecho, nunca supe cuál era mi vocación»",
       "link": "https://www.abc.es/gente/jose-coronado-sobre-estudios-universitarios-meti-medicina-20260921054500-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/21/jose-coronado-actor-kFlD-U301782911148sz-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/21/jose-coronado-actor-kFlD-U301782911148sz-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "El primer destino del Imserso reduce a un tercio sus hoteles y el ministro saca pecho por las colas",
       "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/primer-destino-imserso-reduce-tercio-hoteles-ministro-20260922011900-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/19/mayores-benidorm-RB4jKUCWg6JHK4S2h9cd2KK-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/19/mayores-benidorm-RB4jKUCWg6JHK4S2h9cd2KK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "«Cuando me fui a México, había perdido la fe y la confianza en mí misma como actriz»",
+      "link": "https://www.abc.es/gente/monica-pont-mexico-perdido-confianza-actriz-20260917012150-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/17/monica-pont-RzLgcHFQ2qbUH2i53dUgLLM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }

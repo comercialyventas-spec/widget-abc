@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El pulso del valor público de la universidad",
+      "link": "https://elpais.com/educacion/2026-09-22/el-pulso-del-valor-publico-de-la-universidad.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/IBQRS4FQ7JDLVENNN4ZIOYFXWE.jpg?auth=d398d2a1968cb3ee531f3b27ebc0172a1575baf1da99f40d4d314ff9f8c0e079&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Esther Niubó: “Negociamos con unos representantes sindicales que al final no deciden”",
       "link": "https://elpais.com/espana/catalunya/2026-09-20/esther-niubo-negociamos-con-unos-representantes-sindicales-que-al-final-no-deciden.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/X4DCECJU35C2HGRRSWERJ2R7AA.jpg?auth=b793fb8518ea380be84cd3bc127f3f0db801ac0efe60c9bfe7eb8a31304748f2&width=414&height=311&focal=1899%2C539",
@@ -26,15 +32,9 @@
     },
     {
       "titulo": "El Gobierno emprende una batalla contra titulaciones privadas a distancia “cuestionables”",
-      "link": "https://elpais.com/educacion/2026-09-18/el-gobierno-contra-las-universidades-chiringuito-las-carreras-sanitarias-deberan-ser-estrictamente-presenciales.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/QQ5HCQRMSRKCRA3PIY6XSFR2CA.jpg?auth=fc2de2c153d519ec2d6c6d69d7ee6fbeeaf33313496303b8c575b1b38eb27d53&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los rectores quieren reforzar los controles antes de mandar alumnos a México tras el asesinato de Claudia Tacoronte",
-      "link": "https://elpais.com/noticias/violencia-mexico/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/SEJWTPYCSNDKVH3VOQNGOQGKKE.png?auth=b640870211b3a4af7ef9c423e5198d4a40e0b827510ab604d5a10c6ed173fac6",
-      "tipo": "imagen"
+      "link": "https://elpais.com/noticias/universidad/",
+      "imagen": "",
+      "tipo": ""
     }
   ]
 }
