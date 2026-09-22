@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Prada, el poder de la falda",
+      "link": "https://elpais.com/smoda/milan-fashion-week/2026-09-22/prada-el-poder-de-la-falda.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/PGFDVOECERJR5DIQ6JXLZNJUGA.jpg?auth=fe669d201c1a992260cbe932840e7a6f1953ac74f87e2ca57a942ae7eaf13e0d",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La moda es cultura: Londres reivindica la pasarela como relato humano",
+      "link": "https://elpais.com/smoda/2026-09-22/la-moda-es-cultura-londres-reivindica-la-pasarela-como-relato-humano.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/6GG23V25DNLRZB7W7DCARZVVB4.jpg?auth=872e4d0b2f874b4d3078b3c2fbdb4acf8cb03069f0e52daf643dc67dd35bc9d8",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Burberry suma legados",
       "link": "https://elpais.com/smoda/londres-fashion-week/2026-09-22/burberry-suma-legados.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/VQOD32SPNRKFJHDW3LYQFBF75I.jpg?auth=f8df7f5a668da04f03a105e4f5cae3ab8d07f5b84ba5682d75bf686fbc203a45",
@@ -22,18 +34,6 @@
       "titulo": "La moda que abraza en Simone Rocha",
       "link": "https://elpais.com/smoda/londres-fashion-week/2026-09-21/la-moda-que-abraza-en-simone-rocha.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/UAHEK252QFPDNLUABHFHYZQHTA.jpg?auth=de66453063be9106ec059fbff72466db8e77a0e874f4f6e80e0f2fa55cbcc606",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El estreno de Christopher Kane al frente de Mulberry",
-      "link": "https://elpais.com/smoda/londres-fashion-week/2026-09-21/el-estreno-de-christopher-kane-al-frente-de-mulberry.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/2QNPU4CEP5M6PETCC6DFBCYOXA.jpg?auth=f34fdcf8814856e1db4699ff9f30a837dd370e86406153919ddf8c5edd7a840e",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "De Uma Thurman y Ethan Hawke a Naomi Watts y Billy Cudrup: 38 parejas de estrellas que se enamoraron rodando",
-      "link": "https://elpais.com/smoda/2026-09-17/parejas-que-se-enamoraron-durante-el-rodaje-y-llevaron-su-historia-de-amor-mas-alla-de-la-pantalla.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/XJFNR67LQZAQBI6CYFXYR2GZCA.jpg?auth=b2ddcfdc6b3754e3ee7cc4ddf874db2a81c3bb9b2362fc701e2c416307b6a705",
       "tipo": "imagen"
     }
   ]

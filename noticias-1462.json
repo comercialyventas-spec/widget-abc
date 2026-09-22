@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Ayuso The District",
-      "link": "https://www.eldiario.es/economia/interrumpen-visita-ayuso-feria-inmobiliaria-the-district-manana-desahuciar-senora-87-anos_1_13528346.html",
-      "imagen": "https://static.eldiario.es/clip/3dabb522-ceda-4f09-a39d-f83aa89b2b21_facebook-aspect-ratio-1200-675_default_0_x918y317.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Propiedad horizontal",
       "link": "https://www.eldiario.es/consumoclaro/abogada-aclara-permiso-vecinos-obra-xp_1_13529355.html",
       "imagen": "https://static.eldiario.es/clip/d186a97e-565d-45eb-9ada-eeee56d8c165_facebook-watermarked-aspect-ratio_default_0.jpg",
@@ -21,8 +15,8 @@
     {
       "titulo": "Trivial actualidad",
       "link": "https://www.eldiario.es/juegos/game/trivial-de-actualidad/",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://static.eldiario.es/clip/33de2c95-b55f-4708-9006-7be24ad48d4e_facebook-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Seguir elDiario.es en Google",
@@ -33,6 +27,12 @@
     {
       "titulo": "Cambio de hora 2026",
       "link": "https://www.eldiario.es/consumoclaro/cambiaremos-hora-otono-pasar-horario-invierno-pm_1_13527758.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "Libro familia online",
+      "link": "https://www.eldiario.es/consumoclaro/como-solicitar-libro-familia-online_1_12252746.html",
       "imagen": "",
       "tipo": ""
     }

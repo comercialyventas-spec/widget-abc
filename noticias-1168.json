@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Prada, el poder de la falda",
+      "link": "https://elpais.com/smoda/milan-fashion-week/2026-09-22/prada-el-poder-de-la-falda.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QZQVTGGBABIULOO66INBLXT24U.jpg?auth=588e8039014884a88cff41dd611a15ad11f3ded390806b38e00481b1e007a896&width=414",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Asamblea General de la ONU, en imágenes",
+      "link": "https://elpais.com/internacional/2026-09-22/la-asamblea-general-de-la-onu-en-imagenes.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XDB6SUCGEBMAHCB3HI7G2DZLHE.jpg?auth=a1aa0722840cca9109bf4db6cae4f9120539f796a2aaf246ac797a1edaf17662&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Burberry suma legados",
       "link": "https://elpais.com/smoda/londres-fashion-week/2026-09-22/burberry-suma-legados.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/XWLAVVKOV5OILGFYWY4HH76RK4.jpg?auth=6a839d33f9648272f125ea26a288b07e930f8cb35a15238c937a5703e44faeb7&width=414",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XWLAVVKOV5OILGFYWY4HH76RK4.jpg?auth=6a839d33f9648272f125ea26a288b07e930f8cb35a15238c937a5703e44faeb7&width=414&height=311&focal=520%2C251",
       "tipo": "imagen"
     },
     {
@@ -16,18 +28,6 @@
       "titulo": "Conjurar la feminidad en Erdem",
       "link": "https://elpais.com/smoda/londres-fashion-week/2026-09-21/conjurar-la-feminidad-en-erdem.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/6RXXLZZBJRKINGKXG4EAHJY55I.jpg?auth=fbe5e773c0d9304ca6066ae453fc788dab9175ade5a7912b1a20e2aecf08b880&width=414&height=311&focal=460%2C167",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La moda que abraza en Simone Rocha",
-      "link": "https://elpais.com/smoda/londres-fashion-week/2026-09-21/la-moda-que-abraza-en-simone-rocha.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/EZCHWMWLTRN5JMOECNLB5K2TQA.jpg?auth=ddd5a9bf35cb96e77c694aa24a9e4bb6d3b9ba823ddf781b3dc6479c763b9fb5&width=414&height=311&focal=509%2C209",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El estreno de Christopher Kane al frente de Mulberry",
-      "link": "https://elpais.com/smoda/londres-fashion-week/2026-09-21/el-estreno-de-christopher-kane-al-frente-de-mulberry.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/5EP66JXL5ZN27I46YFYKD7AG2A.jpg?auth=1ad9d0afc1f3dfb1cc129fc27ca5dd26513a584c7177ba5c7b9cc845932ec42b&width=414&height=311&focal=478%2C181",
       "tipo": "imagen"
     },
     {

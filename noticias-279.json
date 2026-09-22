@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "Activistas lanzan bombas fétidas contra Ayuso y Almeida en la feria inmobiliaria The District",
+      "titulo": "El alcohol lidera las adicciones en adultos y el uso de pantallas ya supera al cannabis entre los jóvenes",
+      "link": "https://www.abc.es/espana/madrid/alcohol-lidera-adicciones-adultos-uso-pantallas-impone-20260922161407-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/22/ALB09569-RmBcMTBeTv7rOEiq5FTWAiK-1200x840@diario_abc.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Activistas lanzan bombas fétidas contra Ayuso en la feria inmobiliaria The District",
       "link": "https://www.abc.es/espana/madrid/activistas-lanzan-bombas-fetidas-ayuso-almeida-feria-20260922144417-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/22/VIDEO-activistas-irrumpen-district-proclamas-kcPB-U58308156315vXD-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Ayuntamiento retirará el amianto del Parque de Atracciones de Madrid",
+      "link": "https://www.abc.es/espana/madrid/ayuntamiento-retirara-amianto-parque-atracciones-madrid-20260922154715-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/22/1445219823-RwIgJhtfp0LPfer7jm3YveK-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Cae el clan de los Cucos justo antes de una matanza en los juzgados de Plaza Castilla",
       "link": "https://www.abc.es/espana/madrid/pelea-multitudinaria-tetuan-acaba-detenidos-cinco-pistolas-20260922103946-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/22/IMG-20260922-WA0001-Rfspexlfa6Ib9Rf2HcusVBJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Delegación del Gobierno promociona La Séptima frente a las televisiones «vinculadas a ideas conservadoras»",
-      "link": "https://www.abc.es/espana/madrid/delegacion-gobierno-promociona-septima-frente-televisiones-vinculadas-20260922131351-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/22/HSusn9hXwAAYpYb-RRBOOZLsBV6AC7MFbHjqQiM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La venta de espráis de defensa se desboca: «No solo son mujeres; también taxistas, repartidores y comerciantes»",
-      "link": "https://www.abc.es/espana/madrid/venta-esprays-defensa-desboca-solo-mujeres-taxistas-20260916012254-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/16/1517492395-RkYaH6DLTCg4WFlOXDkI6zN-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
