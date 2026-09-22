@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Trump lleva sus batallas a la Asamblea General de Naciones Unidas",
-      "link": "https://elpais.com/internacional/2026-09-22/trump-lleva-sus-batallas-a-la-asamblea-general-de-naciones-unidas.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ESAYSLJOPNDEJINHF2YFGGIAC4.JPG?auth=5d10e0c146c0864952b0e073e61a53588d38b509b110b0ca3017c43988de1996&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "De la Espriella delega en su vicepresidente la representación de Colombia en la ONU",
       "link": "https://elpais.com/america-colombia/2026-09-22/de-la-espriella-delega-en-su-vicepresidente-la-representacion-de-colombia-en-la-asamblea-general-de-la-onu.html",
       "imagen": "",
@@ -21,19 +15,25 @@
     {
       "titulo": "Ni intervención de Estados Unidos ni inmovilismo comunista: el plan que propone Harvard para Cuba",
       "link": "https://elpais.com/us/2026-09-22/ni-intervencion-de-ee-uu-ni-inmovilismo-comunista-el-plan-que-propone-harvard-para-cuba.html",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://imagenes.elpais.com/resizer/v2/LTYYABQP2NAQNDHECCPFKZCBNI.jpg?auth=79af91cc3f96da9ad74c90ded08ac66aeb0e32683688e05ffec6e6baa4e5b670&width=1200",
+      "tipo": "imagen"
     },
     {
       "titulo": "Cinco antiguos internos denuncian abusos sexuales de un cura en un albergue de niños en Bolivia",
       "link": "https://elpais.com/america/2026-09-22/cinco-antiguos-internos-denuncian-abusos-sexuales-de-un-cura-espanol-en-un-albergue-de-ninos-en-bolivia.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/AOQRUJFGQ5HLNPYBHZ5QJHK4FE.jpg?auth=717beebcf658654942a0365fc9a027d16c69f73319e1d0bd3df8117bc2191fa6&width=414&height=311&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/AOQRUJFGQ5HLNPYBHZ5QJHK4FE.jpg?auth=717beebcf658654942a0365fc9a027d16c69f73319e1d0bd3df8117bc2191fa6&width=414&height=414&smart=true",
       "tipo": "imagen"
     },
     {
       "titulo": "Pablo Larraín ilustra en ‘Mis muertos tristes’ una Argentina fantasmal y traumatizada nacida de la escritura de Mariana Enriquez",
       "link": "https://elpais.com/television/2026-09-22/pablo-larrain-ilustra-en-mis-muertos-tristes-una-argentina-fantasmal-y-traumatizada-nacida-de-la-escritura-de-mariana-enriquez.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/MZBUTTITRJFXBFBBI67MV4EZHI.jpg?auth=f177f9c10524154664ca2329a67dcc77eb37a1d258de5531720067ab3bd135c1&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El huracán ‘Polo’ alcanza la categoría 5 y mantiene en alerta a cinco Estados del Pacífico mexicano",
+      "link": "https://elpais.com/mexico/2026-09-21/huracan-polo-se-intensifica-frente-a-mexico-esta-es-su-trayectoria-y-el-pronostico-de-lluvias.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/DH4X6645EZFTTLFJZRRTIKHBNA.jpg?auth=509981ebf65b29095311077d2432b7db9ecccffedfe4b88c38dac8a4635cdacf&width=414&height=233&smart=true",
       "tipo": "imagen"
     }
   ]

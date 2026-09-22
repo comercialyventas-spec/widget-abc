@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Pedro Porro",
+      "link": "https://www.elconfidencialdigital.com/album/mercadona/pedro-porro/202609221533491487338.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/22/2026092215313915130.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Empleados de Mercadona",
       "link": "https://www.elconfidencialdigital.com/album/mercadona/empleados-mercadona/202609141924251040693.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/09/2026090913071152112.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Máquina de devolución de envases del sistema SDDR",
       "link": "https://www.elconfidencialdigital.com/album/mercadona/maquina-devolucion-envases-sistema-sddr/202608141036211036045.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/08/14/2026081410323246482.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Gel de ducha para pieles atópicas",
-      "link": "https://www.elconfidencialdigital.com/album/mercadona/gel-ducha-pieles-atopicas/202608101103301035354.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/08/10/2026081011004774595.jpg",
       "tipo": "imagen"
     }
   ]

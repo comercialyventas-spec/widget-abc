@@ -1,10 +1,16 @@
 {
   "noticias": [
     {
+      "titulo": "EE. UU., Dinamarca y Groenlandia firman hoy pacto de seguridad",
+      "link": "https://www.dw.com/es/ee-uu-dinamarca-y-groenlandia-firman-hoy-pacto-de-seguridad/a-79373366",
+      "imagen": "https://static.dw.com/image/79335026_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Arranca en Nueva York la 81. Asamblea General de la ONU",
       "link": "https://www.dw.com/es/arranca-en-nueva-york-la-81-asamblea-general-de-la-onu/a-79374251",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://static.dw.com/image/79375195_6.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Encuentro en Nueva York: Macron promete a Zelenski apoyo para el invierno",
@@ -13,8 +19,8 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Tiroteo frente a una escuela de Turquía deja cinco heridos",
-      "link": "https://www.dw.com/es/tiroteo-frente-a-una-escuela-de-turquía-deja-cinco-heridos/a-79368853",
+      "titulo": "Tiroteo frente a una escuela de Turquía deja once heridos",
+      "link": "https://www.dw.com/es/tiroteo-frente-a-una-escuela-de-turquía-deja-once-heridos/a-79368853",
       "imagen": "https://static.dw.com/image/79365349_6.jpg",
       "tipo": "imagen"
     },
@@ -28,12 +34,6 @@
       "titulo": "Ministros G7: hutíes deben cesar \"inmediatamente\" ataques",
       "link": "https://www.dw.com/es/ministros-g7-hutíes-deben-cesar-inmediatamente-ataques/a-79364990",
       "imagen": "https://static.dw.com/image/77561008_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tifón Dujuan deja 5 muertos y a miles sin energía en Japón",
-      "link": "https://www.dw.com/es/tifón-dujuan-deja-5-muertos-y-a-miles-sin-energía-en-japón/a-79364808",
-      "imagen": "https://static.dw.com/image/79356217_6.jpg",
       "tipo": "imagen"
     }
   ]
