@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Programa especial | Debate de la Asamblea General de la ONU",
+      "link": "https://elpais.com/videos/2026-09-22/programa-especial-debate-de-la-asamblea-general-de-la-onu.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RPT5SX5NWZFCVIATOWMTRSXK4A.jpg?auth=1f0c909f592cd833437e6d06470730254f4df409b695c5f1453918ae5363eb3b&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Así fue la colisión entre un carguero panameño y un pesquero chino en aguas de Singapur",
+      "link": "https://elpais.com/videos/2026-09-22/asi-fue-la-colision-entre-un-carguero-panameno-y-un-pesquero-chino-en-aguas-de-singapur.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/HM3ZMGEMSBBZZJ53ZZJUDKW5UU.jpg?auth=931b64d59b751f2e55941276ccf635128fdfcdcef87475a8e2355c35542e077c&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Especial 40 años de ‘Hoy por Hoy’, en directo, en EL PAÍS",
       "link": "https://elpais.com/videos/2026-09-22/especial-40-anos-de-hoy-por-hoy-en-el-pais.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/3TYEYWHQE5DAVHSBH4WWZCXEG4.jpeg?auth=00d0ade6c8f1138332683c07b731ea07cddf9076b37c4535ed1b06f13cdbb687&width=414&height=233&smart=true",
@@ -20,20 +32,8 @@
     },
     {
       "titulo": "Las preguntas sin respuesta de Rufián a Mazón en la comisión de la Dana del Congreso",
-      "link": "https://elpais.com/videos/2026-09-21/las-preguntas-sin-respuesta-de-mazon-a-rufian-en-la-comision-de-la-dana-del-congreso.html",
+      "link": "https://elpais.com/noticias/carlos-mazon-guixot/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/C2AGGIGSZRA4RF6VZG6PJYO4SE.jpg?auth=299c462e75005199523a99a62b24629e4b5aa10eb1a4bb5fad9b3e2be95ee06e&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en EL PAÍS | Programa del 21 de septiembre de 2026",
-      "link": "https://elpais.com/videos/2026-09-21/el-pulso-de-hoy-por-hoy-en-el-pais.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/W33TL5GQBBHPPKZ2CBK6PCULCY.png?auth=31d69aadfdcdc576317e80f0f9b468205ca1109494b0cb67b67bfad3ad681896&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Azúcar entre las estrellas",
-      "link": "https://elpais.com/noticias/universo/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/3WU3WLHQSNCLXI62G5ATMAYIOA.jpg?auth=2cfd4abd8b42d55ee39c1f8caedbd9c2b5a25820ed61f9f759073e3c2cb5290e&width=414&height=233&smart=true",
       "tipo": "imagen"
     }
   ]

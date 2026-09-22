@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Parte médico de Valverde tras la entrada de Kang-in: esguince de grado tres en el tobillo",
-      "link": "https://www.abc.es/deportes/real-madrid/valverde-lesionado-tras-entrada-kangin-derbi-esguince-20260922124236-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/22/1517589995-R49xYLLGvgXRXMgJWkWhnQK-1200x840@diario_abc.JPG"
-    },
-    {
-      "titulo": "El Congreso retira a Vito Quiles la credencial de prensa definitivamente",
-      "link": "https://www.abc.es/espana/congreso-retira-vito-quiles-credencial-prensa-definitivamente-20260922105835-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/22/1511243844-RAIyL9WZQx2vJUA7FvHk3XP-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Bruselas contradice a la ministra Rego y recuerda que los menores también han de volver a Marruecos",
-      "link": "https://www.abc.es/espana/bruselas-contradice-rego-recuerda-menores-volver-marruecos-20260922151711-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/22/Markus-Lammert-kCWD-RaylFDxSh9rZphDEvgyubcI-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Google Maps no reconoce la soberanía española en la frontera de Ceuta y Melilla",
-      "link": "https://www.abc.es/espana/andalucia/google-maps-reconoce-soberania-espanola-ceuta-melilla-20260922011633-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/21/fronteras-ceuta-melilla-google-hor-Roh6v8P5aS9VRPKISzSQOyK-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "IA y Matemáticas : acelerar sin sustituir a la creatividad humana",
       "link": "https://www.abc.es/ciencia/ia-acelerador-puede-sustituir-creatividad-matematica-humano-20260921012455-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/21/ChatGPT%20Image-9-RAsexlIvUHvr3f2razH3ppK-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/21/ChatGPT%20Image-9-RAsexlIvUHvr3f2razH3ppK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "«Cuando cumples 60 años, la cremallera comienza a atascarse»",
       "link": "https://www.abc.es/bienestar/vicente-mera-experto-longevidad-cumples-anos-cremallera-20260919012503-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/09/19/mera-RLVngcOfbZ2auYhboahn9tJ-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/09/19/mera-RLVngcOfbZ2auYhboahn9tJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Parte médico de Valverde tras la entrada de Kang-in: esguince de grado tres en el tobillo",
+      "link": "https://www.abc.es/deportes/real-madrid/valverde-lesionado-tras-entrada-kangin-derbi-esguince-20260922124236-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/22/1517589995-R49xYLLGvgXRXMgJWkWhnQK-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Constitucional amparará a Turull y abre la vía para amnistiar todo el 'procés'",
+      "link": "https://www.abc.es/espana/tc-decide-amparar-turull-desautorizar-tribunal-supremo-20260922143532-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/22/1501295512-Rumh6mRhXuYl3eZnQ077cdJ-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Nuevo varapalo del CGPJ a Bolaños por sus quejas contra el juez Peinado",
+      "link": "https://www.abc.es/espana/nuevo-varapalo-cgpj-bolanos-quejas-juez-peinado-20260922132723-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/22/1517360992-RieFnAx4oX0izlyfno5lwnI-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "«España está abocada al fracaso si no hay vocación empresarial»",
+      "link": "https://www.abc.es/economia/cuentas-corrientes/espana-abocada-fracaso-absoluto-vocaciones-empresariales-20260922202047-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/22/2-R4loyb8fbdWAwCwfmPd9ZXM-1200x672@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }
