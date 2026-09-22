@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Trasplante de órganos",
-      "link": "https://www.eldiario.es/sociedad/medicos-espanoles-crean-trasplantes-futuro-yassine-nora-viven-organos-vida-rechazo_1_13486590.html",
-      "imagen": "https://static.eldiario.es/clip/6fdf1f1b-af79-4371-b413-1d4cea0022ac_facebook-aspect-ratio-1200-675_default_0_x722y176.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Ayuso The District",
       "link": "https://www.eldiario.es/economia/interrumpen-visita-ayuso-feria-inmobiliaria-the-district-manana-desahuciar-senora-87-anos_1_13528346.html",
       "imagen": "https://static.eldiario.es/clip/3dabb522-ceda-4f09-a39d-f83aa89b2b21_facebook-aspect-ratio-1200-675_default_0_x918y317.jpg",
@@ -21,8 +15,8 @@
     {
       "titulo": "Amianto Parque Atracciones",
       "link": "https://www.eldiario.es/madrid/somos/nuevo-concurso-parque-atracciones-madrid-revela-14-zonas-amianto-pendiente-retirado_1_13524967.html",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://static.eldiario.es/clip/2cd88027-f4fb-4250-88fa-764e73108128_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Masterchef Celebrity",
@@ -33,6 +27,12 @@
     {
       "titulo": "Veranillo San Miguel 2026",
       "link": "https://www.eldiario.es/sociedad/el-tiempo/veranillo-san-miguel-subira-termometros-espana-pm_1_13525502.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "Trivial actualidad",
+      "link": "https://www.eldiario.es/juegos/game/trivial-de-actualidad/",
       "imagen": "",
       "tipo": ""
     }

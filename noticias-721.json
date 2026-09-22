@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Las motos eléctricas crecen pero siguen sin seducir a los usuarios",
+      "link": "https://www.eldiario.es/motor/ecomovilidad/motos-electricas-crecen-siguen-seducir-usuarios_1_13528313.html",
+      "imagen": "https://static.eldiario.es/clip/c439f8dd-4889-4b10-8c76-5e294dd2d7f4_16-9-discover-aspect-ratio_default_0_x1133y260.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La DGT pone fin a una excepción histórica para los taxistas a partir del 1 de octubre",
       "link": "https://www.eldiario.es/motor/dgt-pone-excepcion-historica-taxistas-partir-1-octubre-pm_1_13526472.html",
       "imagen": "https://static.eldiario.es/clip/c5e2be2b-5fd5-484d-b8e2-9423cb431d9a_16-9-discover-aspect-ratio_default_0_x957y548.jpg",
@@ -19,21 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Los trabajadores alemanes explotan contra el “apagón” de la industria de automoción",
-      "link": "https://www.eldiario.es/motor/sector_y_mercado/trabajadores-alemanes-explotan-apagon-industria-automocion_1_13525828.html",
-      "imagen": "https://static.eldiario.es/clip/b6da21e8-76aa-40a3-9716-e038803fb474_16-9-discover-aspect-ratio_default_0_x773y237.jpg",
+      "titulo": "Volkswagen completa la “nueva era” en España con el ID. Cross fabricado en Navarra",
+      "link": "https://www.eldiario.es/motor/sector_y_mercado/volkswagen-completa-nueva-espana-id-cross-fabricado-navarra_1_13525115.html",
+      "imagen": "https://static.eldiario.es/clip/5dcbb8be-7506-48ce-a98e-0f175e149a41_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
       "titulo": "Los desguaces piden colaboración a Wallapop para evitar estafas con los recambios",
       "link": "https://www.eldiario.es/motor/sector_y_mercado/desguaces-piden-colaboracion-wallapop-evitar-estafas-recambios_1_13524578.html",
       "imagen": "https://static.eldiario.es/clip/79cb653b-fd77-4478-8b58-f1663db2ff46_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "elDiario.es presenta Movilidad+Auto ante los principales actores del sector",
-      "link": "https://www.eldiario.es/motor/sector_y_mercado/eldiario-presenta-movilidad-auto-principales-actores-sector_1_13516776.html",
-      "imagen": "https://static.eldiario.es/clip/a59b2486-ebe3-4638-86d5-a0db4a1f5945_16-9-discover-aspect-ratio_default_1151521.jpg",
       "tipo": "imagen"
     }
   ]

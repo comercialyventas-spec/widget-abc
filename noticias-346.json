@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El bloqueo de Amazon a Muse anticipa la próxima batalla por dominar la IA: el agente de Meta ya supera a ChatGPT en descargas",
+      "link": "https://www.abc.es/tecnologia/bloqueo-amazon-muse-anticipa-proxima-batalla-dominar-20260922131158-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/22/newspaint-1790074023024-1200x840-R6rYKsx24YaKsIBQ6WXsQKI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Jensen Huang, CEO de Nvidia, asegura que la IA no acabará pronto con la humanidad: «2030 no va a ser el fin del mundo, hay un 0% de probabilidades»",
+      "link": "https://www.abc.es/tecnologia/jensen-huang-ceo-nvidia-asegura-ia-acabara-20260922130039-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/22/jensen-huang-nvidia-R5mMvCwzUPaiNIWJ6NRqGbL-1200x840@diario_abc.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Francisco Luis, experto en ciberseguridad: «Si vas a viajar, lo más seguro es llevar dinero en efectivo y poquito. Dosifícalo con una caja fuerte en el hotel»",
       "link": "https://www.abc.es/tecnologia/francisco-luis-experto-ciberseguridad-vas-viajar-seguro-20260922180353-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/22/newspaint-1790008475339-1200x840-RqOqfJPa6VS0YlgQA40ujIL-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Google quiere acabar con las contraseñas y así es como podrás acceder a tu cuenta a partir de ahora",
       "link": "https://www.abc.es/tecnologia/redes/google-quiere-acabar-contrasenas-podras-acceder-cuenta-20260921192624-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/21/mujer-selfie-telefono-movil-RAa0HpPVdqIBlao1oT60xgK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Gemini hackea por error tres empresas reales tras escapar del entorno de prueba de Google",
-      "link": "https://www.abc.es/tecnologia/gemini-hackea-error-tres-empresas-reales-tras-20260921111207-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/21/gemini-kLHE-U301818018983yIH-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sánchez busca impulsar un contrato social en el uso de la IA y advierte de sus riesgos si «está en manos de unos pocos»",
-      "link": "https://www.abc.es/tecnologia/sanchez-busca-impulsar-contrato-social-avanzar-uso-20260921105017-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/21/1517624831-kttB-U301817825600N0C-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

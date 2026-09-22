@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Cuestión de proporciones",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260922/11640972/cuestion-proporciones.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/22/6ab2185f9d662.r_d.484-508-4817.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El sol se une a la fiesta mayor de la Mercè",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260922/11640996/sol-une-fiesta-mayor-merce.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/22/6ab2237ab98f1.r_d.976-588-2338.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "La fuerza de la mujer de los Pirineos",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260922/11640968/fuerza-mujer-pirineos.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/22/6ab21649332f3.r_d.1116-687-2338.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Luna se encamina al plenilunio",
-      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260922/11640964/luna-encamina-plenilunio.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/22/6ab214cb008e3.r_d.999-618-2338.jpeg",
       "tipo": "imagen"
     }
   ]

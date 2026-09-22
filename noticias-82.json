@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "CARMEN SECRETS & RINGANA PARTNER",
+      "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/308574/carmen-rodenas-reina.html",
+      "imagen": "https://edv-static.lavanguardia.com/assets/img/308574/banner-1759918630000.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Lima & Asociadas Soluciones Jurídicas",
       "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/7949242/lima-asociadas-soluciones-juridicas.html",
       "imagen": "https://edv-static.lavanguardia.com/assets/img/7949242/banner-1790005535000.png",
@@ -28,12 +34,6 @@
       "titulo": "Doctoralia",
       "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/4909947/doctoralia-internet-sl.html",
       "imagen": "https://edv-static.lavanguardia.com/assets/img/4909947/banner-1768991913000.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Centro de meditación Zen Kannon Barcelona",
-      "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/6717809/dojo-zen-barcelona-kannon-centre-budista.html",
-      "imagen": "https://edv-static.lavanguardia.com/assets/img/6717809/banner-1759840821000.jpeg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El puerto de Barcelona cerrará una terminal de cruceros el 30 de octubre y otra el 31 de diciembre",
+      "link": "<![CDATA[https://www.elperiodico.com/es/barcelona/20260922/barcelona-cruceros-cierre-terminales-puerto-134552851",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8d477719-9077-45bc-98d5-18cb53813292_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Guardia Urbana denuncia una fiesta ilegal en Collserola que dura cuatro días con la música a todo volumen",
       "link": "<![CDATA[https://www.elperiodico.com/es/barcelona/20260922/guardia-urbana-denuncia-fiesta-ilegal-collserola-134551381",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/87d39bcb-4ebb-4a02-9663-48ee0fab044b_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Última hora del tráfico y transporte público en Barcelona, en directo: colapso en las rondas, problemas en la AP-7 y huelga de autobuses",
       "link": "<![CDATA[https://www.elperiodico.com/es/barcelona/20260922/trafico-hoy-directo-rondas-ap7-huelga-tmb-133938712",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/e6591823-7638-45ae-b3ca-75c7ecab33ea_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Nuevo secuestro en Barcelona: un hombre, obligado a subirse a un coche, es localizado más tarde en Girona",
-      "link": "<![CDATA[https://www.elperiodico.com/es/barcelona/20260922/secuestro-barcelona-sant-marti-girona-mossos-134543380",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/929af759-9ba8-4a18-ab7c-8f571bc12bae_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

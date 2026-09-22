@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Robo con arma de fuego en Zamora",
+      "link": "https://www.zamora24horas.com/sucesos/detenido-robo-arma-fuego-restaurante-zamora",
+      "imagen": "https://statics.zamora24horas.com/353d6b54-3dc6-41ce-b8c6-00ed547ab90a.webp?format=webp&width=320&quality=75",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El fuego de Muelas del Pan, provocado: ya se conoce la superficie afectada",
       "link": "https://www.zamora24horas.com/sucesos/fuego-muelas-pan-provocado-conoce-superficie-afectada",
       "imagen": "https://statics.zamora24horas.com/db3e9622-69f8-456b-9adf-32cfc3023813.webp?format=webp&width=320&quality=75",
@@ -22,12 +28,6 @@
       "titulo": "Pillado en Zamora sin carnet y triplicando la tasa de alcoholemia: era reincidente",
       "link": "https://www.zamora24horas.com/sucesos/pillado-zamora-carnet-triplicando-tasa-alcoholemia-tenia-antecedentes",
       "imagen": "https://statics.zamora24horas.com/ce2c86c0-d5ab-4cb4-9053-1d3ebb76332f.webp?format=webp&width=320&quality=75",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Dos personas trasladadas al hospital tras un accidente de tráfico en Zamora",
-      "link": "https://www.zamora24horas.com/sucesos/dos-personas-trasladadas-hospital-tras-accidente-trafico-zamora",
-      "imagen": "https://statics.zamora24horas.com/54408ca6-96f7-4bcc-b935-f2f7e2a80cda.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
     }
   ]
