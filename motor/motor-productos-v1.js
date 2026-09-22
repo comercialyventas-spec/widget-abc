@@ -125,6 +125,19 @@
     return { titulo: tit, url: url, imagen: img, precio: formatoPrecio(p.precio, moneda), precio_antes: formatoPrecio(p.precio_antes, moneda) };
   }
 
+  /* ---------- de donde entra el visitante ---------- */
+  // Sin servicios externos: se mira el idioma del navegador y su zona horaria.
+  function visitanteEsDeAqui() {
+    try {
+      var idioma = (navigator.language || "").toLowerCase();
+      var zona = "";
+      try { zona = (Intl.DateTimeFormat().resolvedOptions().timeZone || ""); } catch (e) {}
+      if (/^es/.test(idioma)) return true;
+      if (/^Europe\//.test(zona) || zona === "Atlantic/Canary" || zona === "Africa/Ceuta") return true;
+      return false;
+    } catch (e) { return true; }
+  }
+
   /* ---------- capa 1: GitHub ---------- */
   function capaGitHub(w, url, pagina) {
     var archivo = "producto-" + md5(url).slice(0, 16) + "-p" + pagina + ".json";
@@ -133,6 +146,12 @@
       if (pagina === 1 && d.generado) {
         var edad = (Date.now() - new Date(d.generado).getTime()) / 3600000;
         if (edad > GH_CADUCA_HORAS) { w.ghViejo = w.ghViejo || d.productos; throw new Error("GitHub antiguo"); }
+      }
+      // Copia que la tienda sirvio en otro idioma/moneda: vale tal cual para un visitante
+      // de fuera; para uno de aqui se guarda como reserva y se intenta antes el NAS.
+      if (d.idioma_distinto && visitanteEsDeAqui()) {
+        w.ghOtroIdioma = w.ghOtroIdioma || d.productos;
+        throw new Error("GitHub en otro idioma");
       }
       return { productos: d.productos, hayMas: d.hayMas != null ? d.hayMas : pagina < (d.totalPaginas || 1) };
     });
@@ -356,7 +375,7 @@
       if (r.hayMas) w.pagina++; else siguienteUrl(w);
     }, function () {
       if (pagina === 1 && !w.productos.length && w.idx === w.urls.length - 1) {
-        var copia = leerCopia(w) || w.ghViejo;
+        var copia = leerCopia(w) || w.ghViejo || w.ghOtroIdioma;
         if (copia) { anadir(w, copia); w.deCopia = true; }
       }
       siguienteUrl(w);
