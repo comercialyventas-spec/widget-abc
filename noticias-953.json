@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El mundo no está preparado para la salida a bolsa de Anthropic",
+      "link": "https://www.elmundo.es/economia/empresas/2026/09/22/6ab1547ffdddff5d778b4587.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/21/17900141429354.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Administración Trump propone 5.000 millones de dólares para poner en marcha un fondo de inversión destinado a reconstruir las instalaciones energéticas del Golfo",
       "link": "https://www.elmundo.es/internacional/2026/09/21/6ab1845fe4d4d8323d8b457a.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/21/17900187016538.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La pugna interna en la Casa Blanca para influir en Trump sobre la IA",
       "link": "https://www.elmundo.es/economia/macroeconomia/2026/09/18/6aabff7ffc6c83716b8b4576.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/17/17896568624267.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La llamada de 40 minutos que dejó la gira de Ed Sheeran pendiente de un hilo",
-      "link": "https://www.elmundo.es/cultura/musica/2026/09/17/6aac0e8efc6c830d7e8b45a8.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/17/17896615922623.jpg",
       "tipo": "imagen"
     }
   ]
