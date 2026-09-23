@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "García Lorca, memoria y libertad",
+      "link": "https://elpais.com/opinion/2026-09-23/garcia-lorca-memoria-y-libertad.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/M4VORSZHLFAPTD2LXY4VOTMNGQ.jpg?auth=a621d43d842c68cf88ca06063f5403afa54d883842869635352e1b26b112d004&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Claridad sobre las listas de espera",
+      "link": "https://elpais.com/opinion/2026-09-23/claridad-sobre-las-listas-de-espera.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/HAA2FE73LJE3JFCIYIZYAP2B4I.jpg?auth=74bd29286383e5133ec2929180f29086fc8cecccf434681c878252c3b519fc77&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Salvar a la ONU",
       "link": "https://elpais.com/opinion/editoriales/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/UWYH6OWPKRL7HCH2UGPWHRVIBE.jpg?auth=e3ad4f1a7dbe1bed53255922df0c3c11606c0bb5f1ea1b226b939ce0d2ac97d0&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/UWYH6OWPKRL7HCH2UGPWHRVIBE.jpg?auth=e3ad4f1a7dbe1bed53255922df0c3c11606c0bb5f1ea1b226b939ce0d2ac97d0&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "El apocalipsis no está escrito",
       "link": "https://elpais.com/opinion/2026-09-20/el-apocalipsis-no-esta-escrito.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/7ZOELU5CVNFCXPZFYCTJYK7SDQ.jpg?auth=5edafb77e8bdfe54411e74e2696449915033996a9570fd77d2fc675889b30e91&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una nueva era para la dependencia",
-      "link": "https://elpais.com/opinion/2026-09-17/una-nueva-era-para-la-dependencia.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/JIOKRI54VJBDVD6GVMXBO7L4BQ.jpg?auth=be399b0d42c8c87c4005b842a497fd77dcf49dc35ab50886363dbb1fa3f62437&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Voto de confianza para la UE",
-      "link": "https://elpais.com/opinion/2026-09-17/voto-de-confianza-para-la-ue.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/JZ4LR4FX6FG3VIFAGMNE3MHQL4.JPG?auth=249ce3f003dd37de60b3d8d5febb3fe28c674a61d1d7861b4d5ff94eef8d8fbe&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]
