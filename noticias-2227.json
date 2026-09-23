@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Incidencia en la calzada: Paseo del General Martínez Campos. Afectadas 3 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260923-IC-General-Martinez-Campos.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Concentración en San Bernardo. Afectadas 3 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260925-C-San-Bernardo.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -27,12 +33,6 @@
     {
       "titulo": "Concentración en Hospital Ramón y Cajal. Afectadas 5 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260924-C-Hospital-Ramon-y-Cajal.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Acto religioso en Real de Pinto y Dr. Martín Arévalo. Afectadas 4 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260926-PR-Rosario-Aurora-Villaverde.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

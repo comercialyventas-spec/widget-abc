@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Pedro Sánchez da su respaldo a la candidatura de Pablo Hernández de Cos para presidir el Banco Central Europeo",
+      "link": "https://elpais.com/noticias/pablo-hernandez-de-cos/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/IW32AKLUGVQUM2BJSUL2UV7T44.jpg?auth=73fe686fc538fe7f75ed3aecadbf10e128a4768c059f548ac00d81cf366309d2&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Irán apuntala el control de dos estrechos clave ante la inacción de Estados Unidos",
       "link": "https://elpais.com/noticias/ofensiva-contra-iran/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/5QPB3CXBHFIKJBG4CS4HXCAVW4.jpg?auth=94dfee493a65b3f12b5aec71ce7bfff018f377869e847056daf2015bb8d51ef5&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/5QPB3CXBHFIKJBG4CS4HXCAVW4.jpg?auth=94dfee493a65b3f12b5aec71ce7bfff018f377869e847056daf2015bb8d51ef5&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Los gigantes de las criptomonedas inundan de dinero al Partido Republicano pese al fracaso de la ley cripto",
       "link": "https://elpais.com/economia/2026-09-18/los-gigantes-de-las-criptomonedas-inundan-de-dinero-al-partido-republicano-pese-al-fracaso-de-la-ley-cripto.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/KZJDBPJJ2JNBLNM4ANJQGSJGWM.jpg?auth=b8a9a51f4c5c238935def56e4f0a8c015b674b98a548649b37cb942addf86276&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Así podría repercutir en España el plan de Trump para bajar el precio de los medicamentos en EE UU",
-      "link": "https://elpais.com/expres/2026-09-14/asi-podria-repercutir-en-espana-el-plan-de-trump-para-bajar-el-precio-de-los-medicamentos-en-ee-uu.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/W6C7TSD7OFEXDBNMWMWR2AEBYE.jpg?auth=f2ccea1680233fd98f6f542b88206a5dc10ab25175cb06116488489080acabcb&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]
