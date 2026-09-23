@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "¿Cuánto le costará a Chile el Escudo de las Américas?",
+      "link": "https://elpais.com/noticias/donald-trump/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/2MJP36HZSVOQJGF4ICE4W63SAA.jpg?auth=b677a2d5b46254ce1847d3d48a40ab6518ed60efc8f705503c418eda87889f1d&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Maricarmen, la última víctima de un negocio sin alma",
       "link": "https://elpais.com/noticias/desahucios/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/DIVMEGLABRHKDORLXKDL7LI42Q.jpg?auth=f7b316c08f67656bd40a74fdbbaee663ed7e8711d11e8a136c33b357f57b1b01&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/DIVMEGLABRHKDORLXKDL7LI42Q.jpg?auth=f7b316c08f67656bd40a74fdbbaee663ed7e8711d11e8a136c33b357f57b1b01&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Ceuta y Melilla son España",
       "link": "https://elpais.com/opinion/2026-09-22/ceuta-y-melilla-son-espana.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/4MKK47CVOJG7JKDY6LOWLQX4MM.jpg?auth=5ecc9442cdf01574537b08a46af9b16d7908c309a9899b653fdacf75574c9719&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El declive petrolero de México y la falsa solución del ‘fracking’",
-      "link": "https://elpais.com/noticias/fracking/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/3VEGD6TWKFAKTJACWCQDWVBNMM.jpg?auth=4cbb588f2b3f1fe672cdb276c78bba9c274316cc06b49e4171b1f28c609b8ab6&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

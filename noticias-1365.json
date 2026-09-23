@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El símbolo de un derecho roto",
+      "link": "https://elpais.com/opinion/2026-09-23/el-simbolo-de-un-derecho-roto.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TK5HVYYOLNGK7NPTCMFUEVJB2A.jpeg?auth=40c6e84a7f98b6a065801cfc037a09547cc6486688c4bc1fa2f6abd7e0f0b174",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Claridad sobre las listas de espera",
       "link": "https://elpais.com/opinion/2026-09-23/claridad-sobre-las-listas-de-espera.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/HAA2FE73LJE3JFCIYIZYAP2B4I.jpg?auth=74bd29286383e5133ec2929180f29086fc8cecccf434681c878252c3b519fc77",
@@ -28,12 +34,6 @@
       "titulo": "Peridis: señala culo",
       "link": "https://elpais.com/opinion/2026-09-23/peridis-senala-culo.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/P5ZIMZALLRALVOCNTMJ5VH4SNY.jpg?auth=f5fc88391f5f15bb95a59875857b67882a5a1d15062b99323405de56be1dae47",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "García Lorca, memoria y libertad",
-      "link": "https://elpais.com/opinion/2026-09-23/garcia-lorca-memoria-y-libertad.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/M4VORSZHLFAPTD2LXY4VOTMNGQ.jpg?auth=a621d43d842c68cf88ca06063f5403afa54d883842869635352e1b26b112d004",
       "tipo": "imagen"
     }
   ]
