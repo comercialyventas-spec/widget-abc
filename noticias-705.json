@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un estudio prevé hasta 450.000 muertes debido al calor extremo provocado por El Niño",
+      "link": "https://www.eldiario.es/sociedad/estudio-preve-450-000-muertes-debido-calor-extremo-provocado-nino_1_13530888.html",
+      "imagen": "https://static.eldiario.es/clip/be21dd1e-551a-430f-9c16-0114870fcd1b_16-9-discover-aspect-ratio_default_0_x1290y665.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Perfecto planeta azul",
       "link": "https://www.eldiario.es/sociedad/perfecto-planeta-azul_129_13404011.html",
       "imagen": "https://static.eldiario.es/clip/0d859b59-1e75-4602-9d7e-b09aeaffee73_avatar-200-aspect-ratio_default_0.jpeg",
@@ -22,12 +28,6 @@
       "titulo": "¿Qué comen las moscas?",
       "link": "https://www.eldiario.es/sociedad/comen-moscas_1_13516969.html",
       "imagen": "https://static.eldiario.es/clip/d22e335a-7f56-440c-b9e8-499250cab3d0_16-9-discover-aspect-ratio_default_1151391.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Qué aporta el feminismo a la psicoterapia? “No supe lo que era una relación asimétrica hasta que mi psicóloga me lo explicó”",
-      "link": "https://www.eldiario.es/sociedad/aporta-feminismo-psicoterapia-no-supe-relacion-asimetrica-psicologa-explico_1_13501237.html",
-      "imagen": "https://static.eldiario.es/clip/6549409b-1c6b-4048-939d-9cbc6f40279b_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

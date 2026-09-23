@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Los Mossos detienen en Madrid a la pareja del arquitecto Josep Juanpere, fallecido en diciembre en Baqueira",
+      "titulo": "Los Mossos detienen en Madrid a la pareja del arquitecto Josep Juanpere por su muerte en Baqueira el pasado diciembre",
       "link": "https://www.abc.es/gente/mossos-detienen-madrid-pareja-arquitecto-josep-juanpere-20260923102442-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/23/esposas-RwBNSLknIgdBg7FfGa9XsgI-1200x840@diario_abc.jpg",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/23/josep-juanpere-RwBNSLknIgdBg7FfGa9XsgI-1200x840@diario_abc.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La pareja de Irene Rosales siembra la duda con un desliz: ¿hubo infidelidad de Irene Rosales con Kiko Rivera o solo noviazgo exprés?",
+      "link": "https://www.abc.es/gente/pareja-irene-rosales-siembra-duda-desliz-infidelidad-20260923103232-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/23/guillermo-irene-RdKH0NXCGTOkhMETy6IZppL-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Malú, sobre la crianza de su hija con Albert Rivera: «En mi casa no existen gordos y flacos. Todo el mundo somos lo mismo, unas personas tienen un cuerpo y otras tienen otro»",
       "link": "https://www.abc.es/gente/malu-sobre-crianza-hija-albert-rivera-casa-20260922101844-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/08/06/malurivera-hija-kAwG-U301175215339lMF-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Dabiz Muñoz, sobre su infancia en un barrio de Madrid: «Mi familia era de clase media baja. Jugar en la calle es una de las cosas que más me marcó»",
-      "link": "https://www.abc.es/gente/dabiz-munoz-sobre-infancia-barrio-madrid-familia-20260922195034-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/21/dabiz-munoz-mayor-nino-Rw3OdOAU9nP1KjSaLc9GF3O-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
