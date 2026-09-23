@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¿Y si dejamos de castigar a quien ha sobrevivido?",
+      "link": "https://www.lavanguardia.com/local/valencia/20260923/11641054/dejamos-castigar-sobrevivido.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2021/11/04/6183bef95eaae.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Vivir a una hora de tu trabajo",
       "link": "https://www.lavanguardia.com/opinion/20260923/11641562/vivir-hora-trabajo.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/09/26/66f52643ee57e.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "La habitación y la voz propias",
       "link": "https://www.lavanguardia.com/opinion/20260923/11641186/habitacion-voz-propias.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/22/6ab251adce2ff.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El diván del psicoanálisis",
-      "link": "https://www.lavanguardia.com/opinion/20260923/11641177/divan-psicoanalisis.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/22/6ab24ffe55e14.jpeg",
       "tipo": "imagen"
     }
   ]

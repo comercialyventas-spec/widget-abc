@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Una cabeza en el armario (y II)",
+      "link": "https://www.lavanguardia.com/sucesos/20260923/11640417/cabeza-armario-ii.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/21/6ab1155bd59df.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La familia de Ana Buza luchará “incansable” para probar el asesinato pese a la “soberbia” judicial y policial",
       "link": "https://www.lavanguardia.com/sucesos/20260922/11641547/familia-ana-buza-luchara-incansable-probar-asesinato-pese-soberbia-judicial-policial.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Condenada una estafadora del amor que robó 400.000 € a un octogenario con el que vivió en Dénia",
       "link": "https://www.lavanguardia.com/local/valencia/20260921/11640677/condenada-estafadora-amor-robo-400-000-octogenario-vivio-denia.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/03/04/65e5efaf5e8c0.r_d.900-600-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Parlon atribuye a “las drogas” el secuestro de un hombre por cinco falsos policías en la AP-7",
-      "link": "https://www.lavanguardia.com/local/barcelona/20260921/11640609/parlon-atribuye-drogas-secuestro-hombre-cinco-falsos-policias-ap-7.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
       "tipo": "imagen"
     }
   ]

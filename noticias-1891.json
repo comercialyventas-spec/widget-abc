@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El internet oscuro de mano de James Tynion IV y el español Fernando Blanco",
+      "link": "https://www.20minutos.es/cultura/blogs/motel-margot/",
+      "imagen": "https://www.20minutos.es/uploads/icons/blogs/motel-margot.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Nash, el perro que invitó a jugar al ladrón que entró a robar su casa: \"Le llevó un reno\"",
       "link": "https://www.20minutos.es/gonzoo/blogs/becario/",
       "imagen": "https://www.20minutos.es/uploads/icons/blogs/becario.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Quién fue... Otto Glória: el hombre que hizo grande al Benfica y a la selección de Portugal",
       "link": "https://www.20minutos.es/deportes/blogs/quefuede/",
       "imagen": "https://www.20minutos.es/uploads/icons/blogs/quefuede.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Literal: El cambio climático nos quita el sueño",
-      "link": "https://www.20minutos.es/medio-ambiente/blogs/cronicaverde/",
-      "imagen": "https://www.20minutos.es/uploads/icons/blogs/cronicaverde.jpg",
       "tipo": "imagen"
     }
   ]
