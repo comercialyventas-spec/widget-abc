@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un muerto en ataque de origen desconocido contra barco en Ormuz",
+      "link": "https://www.dw.com/es/un-muerto-en-ataque-de-origen-desconocido-contra-barco-en-ormuz/a-79403912",
+      "imagen": "https://static.dw.com/image/79249917_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Con qué ciudad se postulará Alemania como sede de las Olimpiadas?",
       "link": "https://www.dw.com/es/¿con-qué-ciudad-se-postulará-alemania-como-sede-de-las-olimpiadas/a-79403787",
       "imagen": "https://static.dw.com/image/79376627_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La Academia Goncourt pide cautela ante las acusaciones de IA contra un autor nominado",
       "link": "https://www.dw.com/es/la-academia-goncourt-pide-cautela-ante-las-acusaciones-de-ia-contra-un-autor-nominado/a-79403041",
       "imagen": "https://static.dw.com/image/77070596_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Presidente de Irán acusa ante la ONU de terrorismo a Estados Unidos",
-      "link": "https://www.dw.com/es/presidente-de-irán-acusa-ante-la-onu-de-terrorismo-a-estados-unidos/a-79403088",
-      "imagen": "https://static.dw.com/image/79400637_6.jpg",
       "tipo": "imagen"
     }
   ]
