@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El Banco de España estima que el déficit de viviendas superará el millón en dos años",
+      "link": "https://www.publico.es/economia/vivienda/banco-espana-estima-deficit-viviendas-superara-millon-dos-anos.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/20/6ab0360eca7f4.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El violento desahucio de Maricarmen conmociona España: \"¿Qué debe pasar para que hagan algo?\"",
       "link": "https://www.publico.es/economia/violento-desahucio-maricarmen-conmociona-espana-debe-pasar-hagan.html",
       "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/23/6ab40abd0f9e4.r_d.942-433-1406.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "La Seguridad Social permitirá recuperar años cotizados a los deportistas profesionales",
       "link": "https://www.publico.es/economia/seguridad-social-permitira-recuperar-anos-cotizados-deportistas-profesionales.html",
       "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/22/6ab2c4ae411cc.r_d.844-241-1406.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Activistas por la vivienda irrumpen en la feria inmobiliaria The District con proclamas contra Ayuso y Almeida: \"Madrid para vivir, no para invertir\"",
-      "link": "https://www.publico.es/economia/vivienda/activistas-vivienda-irrumpen-feria-inmobiliaria-the-district-proclamas-ayuso-almeida-madrid-vivir-invertir.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/22/6ab25f1af0155.jpeg",
       "tipo": "imagen"
     }
   ]

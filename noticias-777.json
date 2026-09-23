@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Un estudio prevé hasta 450.000 muertes debido al calor extremo provocado por El Niño",
-      "link": "https://www.eldiario.es/sociedad/estudio-preve-450-000-muertes-debido-calor-extremo-provocado-nino_1_13530888.html",
-      "imagen": "https://static.eldiario.es/clip/be21dd1e-551a-430f-9c16-0114870fcd1b_16-9-discover-aspect-ratio_default_0_x1289y666.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Por qué Ibiza se moviliza contra la macroampliación del aeropuerto",
       "link": "https://www.eldiario.es/illes-balears/sociedad/ibiza-moviliza-macroampliacion-aeropuerto_1_13518834.html",
       "imagen": "https://static.eldiario.es/clip/f3cf3ac2-ce97-4529-8941-8aaf90561608_16-9-discover-aspect-ratio_default_0.jpg",
@@ -34,6 +28,12 @@
       "titulo": "Los cargueros toman el Ártico mientras el calor extremo funde el hielo marino a ritmo de récord",
       "link": "https://www.eldiario.es/sociedad/cargueros-toman-artico-calor-extremo-funde-hielo-marino-ritmo-record_1_13485579.html",
       "imagen": "https://static.eldiario.es/clip/f9920d06-ab90-489e-ae40-3951ceb4416f_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las olas de calor facilitan los apagones recurrentes en los negocios en plena temporada turística en Balears",
+      "link": "https://www.eldiario.es/illes-balears/economia/olas-calor-facilitan-apagones-recurrentes-negocios-plena-temporada-turistica-balears_1_13478576.html",
+      "imagen": "https://static.eldiario.es/clip/2c190622-40be-4869-a3f0-53a72164eb13_16-9-discover-aspect-ratio_default_0_x815y557.jpg",
       "tipo": "imagen"
     }
   ]

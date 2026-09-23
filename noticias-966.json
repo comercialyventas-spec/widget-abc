@@ -1,18 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Brothers",
-      "link": "https://elpais.com/television/series/brothers/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/6LR77DLNZNGDJJGGRAEMJPS54E.jpg?auth=2ce8a1234f794b3ffef240a1a8fca58962564147539b2d81fbc8107e0d7687fd",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Habeas Corpus",
-      "link": "https://elpais.com/television/series/habeas-corpus/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/QY652AEMAJAFVJ2V2BQXEI64ZI.jpg?auth=a43eb42afd79a961ad1b92f44745c19a943ba22d07c9436694bda572f2baee35",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "‘Such Brave Girls’ 2: sonríe y destruye, que nada más que tú importa",
       "link": "https://elpais.com/television/series/2026-09-23/such-brave-girls-2-sonrie-y-destruye-que-nada-mas-que-tu-importa.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/XXKCXI4MOZBRXE5N6EDLUN2SXU.jpg?auth=eeef37d7c1e29f7eda044b8639b3bc3ab797dca0a9144ded6ae365b0fabd125b",
@@ -34,6 +22,18 @@
       "titulo": "Ley y orden: Crimen organizado",
       "link": "https://elpais.com/television/series/ley-y-orden-crimen-organizado/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/GKW2DURT65BKJP37DNXIZTCKEQ.png?auth=5ed9fcab8bc931a02d5dc1c806d9b2bbdd1f8738e630acb38920914b9bcd6939",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Such Brave Girls",
+      "link": "https://elpais.com/television/series/such-brave-girls/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/PIK7FN4TNFEE3KQOI4S5RVCENY.jpg?auth=17e242eccb1b2ca4b1b32f28e3684dcd0f8a11feab41aa17cadc04f8c06651e6",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El presidente de RTVE propondrá al Consejo de Administración que España siga fuera de Eurovisión",
+      "link": "https://elpais.com/television/2026-09-22/el-presidente-de-rtve-propondra-al-consejo-de-administracion-que-espana-siga-fuera-de-eurovision.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260922/1216899_101931_video_1800.mp4",
       "tipo": "imagen"
     }
   ]
