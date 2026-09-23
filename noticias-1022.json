@@ -1,40 +1,34 @@
 {
   "noticias": [
     {
+      "titulo": "ABC, en la operación Ítaca: tres intentos en 24 horas para devolver a Machado a Venezuela",
+      "link": "https://www.abc.es/internacional/abc-testigo-operacion-itaca-tres-intentos-horas-20260923141012-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/23/PHOTO-2026-09-23-17-02-26%202-U20659008022FKC-U301857227258P8-1200x840@diario_abc.jpg"
+    },
+    {
       "titulo": "Daniel Luque, o la historia de una oreja que nadie intuía",
       "link": "https://www.abc.es/cultura/toros/daniel-luque-historia-oreja-intuia-20260923212129-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/23/338c5f28-713d-44d8-9cc1-498c2bc8cf79-RyugVCUyDoOjtjYfV8DpPaI-1200x840@diario_abc.jpeg",
-      "tipo": "imagen"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/23/338c5f28-713d-44d8-9cc1-498c2bc8cf79-RyugVCUyDoOjtjYfV8DpPaI-1200x840@diario_abc.jpeg"
+    },
+    {
+      "titulo": "«¿Esto es la transición?»: la foto y el bloqueo que desconcierta a los venezolanos",
+      "link": "https://www.abc.es/internacional/venezuela-reclama-maria-corina-machado-dejenla-entrar-20260923212749-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/23/protestas-caracas-RCnHkX0mKbe18n06RduLRwJ-1200x840@diario_abc.jpg"
     },
     {
       "titulo": "El desahucio de Maricarmen deriva en otro choque frontal entre el Gobierno y Madrid",
       "link": "https://www.abc.es/espana/madrid/desahucio-maricarmen-deriva-choque-frontal-gobierno-madrid-20260923162200-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/23/desahucio-madrid-R1svzwbxROuEQy7vIWMUoBK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/23/desahucio-madrid-R1svzwbxROuEQy7vIWMUoBK-1200x840@diario_abc.jpg"
     },
     {
       "titulo": "El Congreso se ahoga en un bote de gas pimienta",
       "link": "https://www.abc.es/espana/bote-gas-pimienta-deja-segundo-plano-ceuta-20260923110405-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/23/1517709837-RUOApNAiVYdVr6lg2rSZIvM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/23/1517709837-RUOApNAiVYdVr6lg2rSZIvM-1200x840@diario_abc.jpg"
     },
     {
       "titulo": "«Amnistiar a Puigdemont es condenar a mi Españita»",
       "link": "https://www.abc.es/espana/amnistiar-puigdemont-condenar-espanita-20260923210034-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/23/Secuencia%2004.00_21_05_05.Imagen%20fija006-RnuvRk8bN1S4eaoZ1mza97K-1200x672@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Puigdemont podría regresar a España en cuanto el Constitucional amnistíe a Turull el día 6",
-      "link": "https://www.abc.es/espana/cataluna/fugado-regresar-espana-tribunal-constitucional-amnistie-turull-20260924194034-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/24/1473651394-RvZQJYBeVpd1dLLkguWkPRN-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Delcy aprovecha su foto con Trump para enviar un mensaje al chavismo",
-      "link": "https://www.abc.es/internacional/delcy-rodriguez-aprovecha-foto-trump-enviar-mensaje-20260923205003-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/23/newspaint-1790188530629-1200x840-ReKnKd3zULPXSROkir1YGNJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/23/Secuencia%2004.00_21_05_05.Imagen%20fija006-RnuvRk8bN1S4eaoZ1mza97K-1200x672@diario_abc.jpg"
     }
   ]
 }
