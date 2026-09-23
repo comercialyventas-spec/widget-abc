@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "No me gusta que al Congreso te lleves el gas pimienta",
-      "link": "https://www.abc.es/espana/gusta-congreso-lleves-gas-pimienta-20260923123601-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/23/acotaciones-de-un-oyente-kIDE-U3018546425427dH-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Más de 100 personas dicen haber sufrido daños cerebrales después de subirse a una montaña rusa en el Six Flags en California",
-      "link": "https://www.abc.es/internacional/100-personas-dicen-haber-sufrido-danos-cerebrales-20260923122500-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/23/Captura%20de%20pantalla%202026-09-23%20122207-kfEB-U301853215362yID-1200x840@diario_abc.png"
-    },
-    {
-      "titulo": "El templo español de Chuck Norris",
-      "link": "https://www.abc.es/play/cine/noticias/templo-espanol-chuck-norris-20260501012304-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/05/01/chuck-norris-mario5-kEsG-U201939259670otC-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "La OCDE señala a España como la gran economía del euro donde más se encarecerá la vida por la guerra en Irán",
-      "link": "https://www.abc.es/economia/ocde-mejora-cuatro-decimas-pib-espana-preve-20260923105044-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/23/1517624008-R3jRfeQrngnE19jR8bBP7SO-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "Desahucian a Maricarmen, la vecina de Retiro de 87 años, pese al apoyo de 400 manifestantes",
       "link": "https://www.abc.es/espana/madrid/tension-retiro-detener-desahucio-vecina-anos-20260923094212-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/23/1517708429-R4E8vSBZah5VjzoMGQSQMEL-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/23/1517708429-R4E8vSBZah5VjzoMGQSQMEL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Bronca en el Congreso: Armengol hace abandonar el hemiciclo a una diputada del PP por llevar un espray de pimienta",
       "link": "https://www.abc.es/espana/bronca-congreso-armengol-abandonar-hemiciclo-diputada-pp-20260923102226-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/23/vazquez-kBPD-U301852362509U0-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/23/vazquez-kBPD-U301852362509U0-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "No me gusta que al Congreso te lleves el gas pimienta",
+      "link": "https://www.abc.es/espana/gusta-congreso-lleves-gas-pimienta-20260923123601-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/23/acotaciones-de-un-oyente-kIDE-U3018546425427dH-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Más de 100 personas dicen haber sufrido daños cerebrales después de subirse a una montaña rusa en el Six Flags en California",
+      "link": "https://www.abc.es/internacional/100-personas-dicen-haber-sufrido-danos-cerebrales-20260923122500-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/23/Captura%20de%20pantalla%202026-09-23%20122207-kfEB-U301853215362yID-1200x840@diario_abc.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El templo español de Chuck Norris",
+      "link": "https://www.abc.es/play/cine/noticias/templo-espanol-chuck-norris-20260501012304-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/05/01/chuck-norris-mario5-kEsG-U201939259670otC-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La OCDE señala a España como la gran economía del euro donde más se encarecerá la vida por la guerra en Irán",
+      "link": "https://www.abc.es/economia/ocde-mejora-cuatro-decimas-pib-espana-preve-20260923105044-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/23/1517624008-R3jRfeQrngnE19jR8bBP7SO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }

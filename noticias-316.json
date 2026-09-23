@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El templo español de Chuck Norris",
+      "link": "https://www.abc.es/play/cine/noticias/templo-espanol-chuck-norris-20260501012304-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/05/01/chuck-norris-mario5-kEsG-U201939259670otC-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Quién es Brian Pérez, el nuevo azafato del programa de 'La Ruleta de la Suerte': así es el sustituto de Laura Moure",
       "link": "https://www.abc.es/play/television/noticias/brian-perez-nuevo-azafato-programa-ruleta-suerte-20260923120120-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/09/ruleta-kEUB-U301852708608OqD-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Pepa Charro sorprende a Pablo Motos con su peculiar plan para la vejez: «Si es nudista ya me gusta»",
       "link": "https://www.abc.es/play/television/noticias/pepa-charro-sorprende-pablo-motos-peculiar-plan-20260922224305-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/22/hormiguero_20260922221338-RWXALtVsrWloOHqmS4pO9uJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El templo español de Chuck Norris",
-      "link": "https://www.abc.es/play/cine/noticias/templo-espanol-chuck-norris-20260501012304-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/05/01/chuck-norris-mario5-kEsG-U201939259670otC-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

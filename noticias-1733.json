@@ -1,8 +1,14 @@
 {
   "noticias": [
     {
-      "titulo": "Las obras de la calle Doctor Martín Lagos de Granada prevén finalizar en diciembre",
-      "link": "https://www.ahoragranada.com/noticias/las-obras-de-la-calle-doctor-martin-lagos-de-granada-preven-finalizar-en-diciembre/",
+      "titulo": "La Universidad de Granada da la bienvenida a sus estudiantes con más de 60 expositores en los Paseíllos",
+      "link": "https://www.ahoragranada.com/noticias/la-universidad-de-granada-da-la-bienvenida-a-sus-estudiantes-con-mas-de-60-expositores-en-los-paseillos/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Jornadas-de-Recepcion-de-Estudiantes-UGR.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las obras en la calle Doctor Martín Lagos de Granada finalizarán en diciembre",
+      "link": "https://www.ahoragranada.com/noticias/las-obras-de-la-calle-doctor-martin-lagos-de-granada-finalizaran-en-diciembre/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Obras-calle-Doctor-Martin-Lagos-Granada.jpg",
       "tipo": "imagen"
     },
@@ -29,12 +35,6 @@
       "link": "https://www.ahoragranada.com/noticias/tokio-ya-mira-a-granada-con-el-estreno-de-una-campana-internacional-de-diputacion/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Campana-Turismo-Dipgra-Granada-Tokio.jpg",
       "tipo": "imagen"
-    },
-    {
-      "titulo": "La Alcazaba de la Alhambra reabre al público con un itinerario adaptado tras los seísmos",
-      "link": "https://www.ahoragranada.com/noticias/la-alcazaba-de-la-alhambra-reabre-al-publico-con-un-itinerario-adaptado-tras-los-seismos/",
-      "imagen": "",
-      "tipo": ""
     }
   ]
 }
