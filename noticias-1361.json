@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El momento del desahucio de Maricarmen",
+      "link": "https://elpais.com/videos/2026-09-23/el-momento-del-desahucio-de-maricarmen.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260923/1217380_110935_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en directo, en EL PAÍS",
       "link": "https://elpais.com/videos/2026-09-23/el-pulso-de-hoy-por-hoy-en-el-pais.html",
       "imagen": "https://www.youtube.com/watch?v=zBo5dxnOSTQ",
@@ -28,12 +34,6 @@
       "titulo": "Programa especial | Debate de la Asamblea General de la ONU",
       "link": "https://elpais.com/videos/2026-09-22/programa-especial-debate-de-la-asamblea-general-de-la-onu.html",
       "imagen": "https://www.youtube.com/watch?v=9wAmGOeEkGI",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Así fue la colisión entre un carguero panameño y un pesquero chino en aguas de Singapur",
-      "link": "https://elpais.com/videos/2026-09-22/asi-fue-la-colision-entre-un-carguero-panameno-y-un-pesquero-chino-en-aguas-de-singapur.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260922/1216846_082015_video_1800.mp4",
       "tipo": "imagen"
     }
   ]

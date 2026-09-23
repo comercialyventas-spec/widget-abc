@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Concentración en Hospital Ramón y Cajal. Afectadas 5 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260924-C-Hospital-Ramon-y-Cajal.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Acto religioso en Real de Pinto y Dr. Martín Arévalo. Afectadas 4 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260926-PR-Rosario-Aurora-Villaverde.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -27,12 +33,6 @@
     {
       "titulo": "Evento sociocultural en distrito Villaverde Alto. Afectada línea N14 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260925-Shakira-Residencia-Europea-LN14.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Recuperación de Parada: Francisco Umbral. Afectada línea 171 de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260923-RPS-5888-Francisco-Umbral.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }
