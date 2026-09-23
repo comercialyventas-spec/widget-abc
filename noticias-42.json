@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¿Humanos o máquinas? El baile inaugural de 'WorldSkills' 2026 en Shanghái",
+      "link": "https://www.lavanguardia.com/tecnologia/20260923/11642209/humanos-maquinas-wordskills-shanghai-baile-vestuario.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Catalunya avança",
       "link": "https://www.lavanguardia.com/local/catalunya/catalunya-avanca/20260921/11639006/catalunya-avanca.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Cómo los anillos inteligentes han llegado a millones de dedos",
       "link": "https://www.lavanguardia.com/tecnologia/20260910/11630386/anillo-inteligente-salud-oura.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/08/6aa054f4b826b.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El apocalipsis laboral se aplaza: la IA crea empleo",
-      "link": "https://www.lavanguardia.com/tecnologia/20260909/11629074/ia-inteligencia-articial-empleo-paro.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/02/11/698c67a0c222a.r_d.1931-1289-0.jpeg",
       "tipo": "imagen"
     }
   ]
