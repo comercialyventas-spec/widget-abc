@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Las guerras de Irán y Ucrania centran el foco de la cumbre con los discursos de sus presidentes",
-      "link": "https://elpais.com/noticias/asamblea-general-onu/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/XNZFPRZRJZBNXDQXT7Z56XS6BQ.JPG?auth=b26cc657263d05de1e8b923708c2f4548e564421bf15205852f4f33d5735cdd9&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Trump y Delcy Rodríguez sellan el deshielo con un encuentro a puerta cerrada en Nueva York",
       "link": "https://elpais.com/america/2026-09-23/trump-y-delcy-rodriguez-sellan-el-deshielo-entre-caracas-y-washington-con-un-encuentro-en-nueva-york.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/IABMWHPOBJEUDHEWXC5CMFKHCY.jpeg?auth=354d8baa2f8edc3143baf4fa3da579718b9a23d0450b8a6bdf73e56480088354&width=414&height=233&smart=true",
@@ -15,8 +9,8 @@
     {
       "titulo": "La apertura diplomática exprés de Delcy Rodríguez llega a la ONU",
       "link": "https://elpais.com/america/2026-09-23/la-apertura-diplomatica-expres-de-delcy-rodriguez-llega-a-la-onu.html",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://imagenes.elpais.com/resizer/v2/FMWFCBE5HZPGTFA6BHATI6JVPA.jpg?auth=e908adaa85bb0fa10aed947d9f80ee2a511e498a5daeca33c4da3c9f47baf64c&width=1200",
+      "tipo": "imagen"
     },
     {
       "titulo": "La cumbre entre Trump y Xi Jinping comienza con mucho oropel y pocas expectativas",
@@ -34,6 +28,12 @@
       "titulo": "Charles Spencer: “La tragedia de la familia real fue no saber abrazar la oportunidad de mi hermana Diana”",
       "link": "https://elpais.com/gente/2026-09-23/charles-spencer-la-tragedia-de-la-familia-real-fue-no-saber-abrazar-la-oportunidad-de-mi-hermana-diana.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/OBZAAPMTOFEUFDQCEPIL3NA6YE.jpg?auth=11d39db508c55636ee7c3b8af414eaed33567cb1d47c37f4d9d50c01772a1ba7&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "México se mantiene expectante ante el avance del “extremadamente peligroso” huracán ‘Polo’",
+      "link": "https://elpais.com/mexico/2026-09-23/mexico-se-mantiene-expectante-ante-el-avance-del-extremadamente-peligroso-huracan-polo-de-categoria-5.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/F5BAZHLFUZE7VCVX7E2WPONK7I.jpg?auth=87756ab3e1afead35c7545f949121206a3399483ad8b74d3b710875611622d17&width=414&height=233&smart=true",
       "tipo": "imagen"
     }
   ]
