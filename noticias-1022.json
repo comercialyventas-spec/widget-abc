@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
+      "titulo": "Cambio en la jornada laboral para miles de funcionarios: entran en vigor las 35 horas semanales",
+      "link": "https://www.abc.es/economia/cambio-jornada-laboral-miles-funcionarios-hoy-entra-20260922184353-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/22/juzgados-junta-andalucia-RPOzdISmComWRoz973U3qOO-1200x840@diario_abc.PNG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Diez nuevos restaurantes en Madrid que aún no conoces",
+      "link": "https://www.abc.es/gastronomia/diez-nuevos-bares-tabernas-restaurantes-madrid-descubrir-20260922105806-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/22/aperturas-R2orj0wvQ7WOo8fhiKn45yM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los Mossos detienen en Madrid a la pareja del arquitecto Josep Juanpere por su muerte en Baqueira el pasado diciembre",
+      "link": "https://www.abc.es/gente/mossos-detienen-madrid-pareja-arquitecto-josep-juanpere-20260923102442-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/23/josep-juanpere-RwBNSLknIgdBg7FfGa9XsgI-1200x840@diario_abc.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un bote de gas pimienta deja en segundo plano a Ceuta y al clan de Badajoz",
       "link": "https://www.abc.es/espana/bote-gas-pimienta-deja-segundo-plano-ceuta-20260923110405-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/23/1517709837-RUOApNAiVYdVr6lg2rSZIvM-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/23/1517709837-RUOApNAiVYdVr6lg2rSZIvM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "María Corina ha intentado regresar siete veces a Venezuela sin conseguirlo",
-      "link": "https://www.abc.es/internacional/maria-corina-machado-intentado-regresar-siete-veces-20260923031343-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/23/mcm.PNG"
+      "titulo": "Las polémicas del derbi a través de los ojos del árbitro: «¿Lo viste?, ¿no le vas a amonestar?»",
+      "link": "https://www.abc.es/deportes/futbol/polemicas-derbi-traves-ojos-arbitro-viste-vas-20260923111654-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/23/mourinho-refcam-RqJDl0Wfw2usmda1f7Ei37L-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "Bronca en el Congreso: Armengol hace abandonar el hemiciclo a una diputada del PP por llevar un espray de pimienta",
+      "titulo": "Bronca en en Congreso: Armengol hace abandonar el hemiciclo a una diputada del PP por llevar un espray de pimienta",
       "link": "https://www.abc.es/espana/bronca-congreso-armengol-abandonar-hemiciclo-diputada-pp-20260923102226-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/23/vazquez-kBPD-U301852362509U0-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "La odisea para conseguir un tratamiento de la menopausia: «Somos como detectives»",
-      "link": "https://www.abc.es/sociedad/odisea-conseguir-medicamento-menopausia-20260923013129-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/23/tratamientos-menopausia-R4hqlvHKzVps7SfryD1aVnO-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "El Gobierno envió menores inmigrantes a Andalucía en vez de a Cataluña",
-      "link": "https://www.abc.es/espana/andalucia/andalucia-acogio-menas-pidieron-cataluna-rechazo-independentismo-20260923213047-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/23/menores-calles-ceuta-R1IY8Zpg4NZyr0gMEnIqX4I-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "'Los Javis': del hall del Teatro Lara a ser la promesa española en los Oscars",
-      "link": "https://www.abc.es/play/javis-hall-teatro-latina-promesa-espanola-oscars-20260923012312-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/23/portada%201920x1080-k0uD-U301839606643GC-1200x672@diario_abc.png"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/23/vazquez-kBPD-U301852362509U0-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }

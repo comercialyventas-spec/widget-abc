@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "EL PUEBLO ITALIANO EN TERRITORIO SUIZO QUE NO PAGA IMPUESTOS",
+      "titulo": "BOLONIA, LA VIDA BAJO LOS PÓRTICOS",
+      "link": "https://www.lavanguardia.com/magazine/viajes/20260923/11640620/bolonia-vida-porticos.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/09/21/6ab154c3d7ce8.r_d.1153-796.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "“Me gustaría alojarme en su hotel...” Cartas manuscritas y otras reservas muy exclusivas",
+      "link": "https://www.lavanguardia.com/magazine/viajes/20260922/11638323/hoteles-reservas-exclusivas-carta-recomendacion-presentacion.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/09/18/6aad47430910c.r_d.1046-808.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El pueblo italiano en territorio suizo que no paga impuestos y depende de su casino",
       "link": "https://www.lavanguardia.com/magazine/viajes/20260921/11637131/pueblo-italiano-territorio-suizo-paga-impuestos-depende-casino.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/09/17/6aabc3739c974.r_d.1430-725-2485.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/09/17/6aabc3739c974.r_d.1442-789-3840.jpeg",
       "tipo": "imagen"
     },
     {
@@ -13,27 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Aguas transparentes y ritmo pausado en A Illa de Arousa, el ‘Caribe gallego’",
-      "link": "https://www.lavanguardia.com/magazine/viajes/20260917/11636180/aguas-transparentes-ritmo-pausado-illa-arousa-caribe-gallego.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/09/16/6aaa6f8538416.r_d.1397-1317.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La deliciosa pasión inglesa por los jardines",
-      "link": "https://www.lavanguardia.com/magazine/viajes/20260916/11634663/deliciosa-pasion-inglesa-jardines.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/09/14/6aa815a8d30eb.r_d.3252-2338.jpeg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Fin de fresca, adiós al verano",
       "link": "https://www.lavanguardia.com/magazine/viajes/20260917/11635644/fresca-adios-verano.html",
       "imagen": "https://www.lavanguardia.com/files/image_290_300/uploads/2026/09/15/6aa9714291ea9.jpeg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Taramundi, la aldea de agua y hierro que inauguró en España el turismo rural",
-      "link": "https://www.lavanguardia.com/magazine/viajes/20260915/11634489/taramundi-aldea-agua-hierro-inauguro-espana-turismo-rural.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/09/14/6aa7e98cd3314.r_d.772-603.jpeg",
+      "titulo": "Aguas transparentes y ritmo pausado en A Illa de Arousa, el ‘Caribe gallego’",
+      "link": "https://www.lavanguardia.com/magazine/viajes/20260917/11636180/aguas-transparentes-ritmo-pausado-illa-arousa-caribe-gallego.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/09/16/6aaa6f8538416.r_d.1397-1317.jpeg",
       "tipo": "imagen"
     }
   ]
