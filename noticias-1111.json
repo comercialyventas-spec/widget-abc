@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Salamanca suspende la Feria del Libro Antiguo",
+      "link": "https://www.publico.es/culturas/libros/salamanca-suspende-feria-libro-antiguo.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/23/6ab3d1329266b.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Y si tu mejor amigo es tu hermano?: Matthew McConaughey y Woody Harrelson avivan en 'Brothers' los rumores sobre su parentesco",
       "link": "https://www.publico.es/culturas/cine-tv/mejor-amigo-hermano-matthew-mcconaughey-woody-harrelson-avivan-brothers-rumores-sobre-parentesco.html",
       "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/15/6aa9477b41a1e.r_d.1592-487-900.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Paramount alcanza un acuerdo con los fiscales estatales para desbloquear la fusión con Warner",
       "link": "https://www.publico.es/culturas/paramount-alcanza-acuerdo-fiscales-estatales-desbloquear-fusion-warner.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/21/6ab16f8a2b267.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Muere el escritor y crítico cultural barcelonés Marcos Ordóñez a los 69 años",
-      "link": "https://www.publico.es/culturas/libros/muere-escritor-critico-cultural-barcelones-marcos-ordonez-69-anos.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/21/6ab162370fa91.jpeg",
       "tipo": "imagen"
     }
   ]
