@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Del ordenador al fisio: la factura del deportista dominguero",
-      "link": "https://www.abc.es/bienestar/ordenador-fisio-factura-deportista-dominguero-20260526013111-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/05/26/1512263736-U201171448821A6F-Ry7HVdDpANBTAMMJpuMDUYJ-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Veintiuno: «El 'indie' a veces es tener padres ricos»",
-      "link": "https://www.abc.es/espana/madrid/veintiuno-indie-veces-tener-padres-ricos-20260915012954-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/16/1-veintiuno-RC9tJIQJcq6TUqurxaDW8oN-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Las obras de Picasso, Miró y Francis Bacon que podría venderse por más de 170 millones",
-      "link": "https://www.abc.es/summum/living/ocio/coleccion-arte-obras-picasso-miro-francis-bacon-20260922143514-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/summum/2026/09/22/cuadros-2-Ryf6lU9eBMN75oRwAsLiJhJ-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Más de 200.000 familias españolas pedirán préstamos para pagar la universidad",
-      "link": "https://www.abc.es/economia/cuentas-corrientes/drama-200000-familias-espana-hijos-estudien-universidad-20260923012428-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/18/estudiantes--758x531.jpg"
-    },
-    {
       "titulo": "Trump y Delcy escenifican su alianza en Nueva York mientras se frustra el retorno de Machado",
       "link": "https://www.abc.es/internacional/trump-reune-primera-vez-delcy-rodriguez-mitad-20260922034220-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/22/delcy-trump-U20991769760n8G-RGBNuMDvL5jfDJYNBqiO8sJ-758x531@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/22/delcy-trump-U20991769760n8G-RGBNuMDvL5jfDJYNBqiO8sJ-758x531@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "España lidera el ranking mundial de laudos internacionales impagados",
       "link": "https://www.abc.es/economia/espana-lidera-ranking-mundial-laudos-internacionales-impagados-20260922012700-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/22/renovables-RG4ljw18OuAnU4l8OGIxuiO-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/22/renovables-RG4ljw18OuAnU4l8OGIxuiO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Hacia un nuevo mundo",
+      "link": "https://www.abc.es/opinion/ramon-tamames-nuevo-mundo-20260922012406-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2026/09/22/1517680584-RHd8a0cskXpSMR2RkKnpjWJ-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El templo español de Chuck Norris",
+      "link": "https://www.abc.es/play/cine/noticias/templo-espanol-chuck-norris-20260501012304-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/05/01/chuck-norris-mario5-kEsG-U201939259670otC-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El clan de Villaverde que montaba a menores en avión para 'robar' maletas y reclamar su extravío",
+      "link": "https://www.abc.es/espana/madrid/clan-villaverde-montaba-menores-avion-robar-maletas-20260922012935-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/22/maletas-barajas1-RrJwfbAlXEwwCRwRwXJkDZI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Inquietud y resignación en el PSOE por Óscar López: «Nuestro candidato no tiene ganas de Madrid»",
+      "link": "https://www.abc.es/espana/madrid/inquietud-resignacion-psoe-candidato-ganas-madrid-20260916012927-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/16/oscar-lopez2-RmXiowzOH9Nd2rvvu2SER6I-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }
