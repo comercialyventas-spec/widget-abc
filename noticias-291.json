@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El cerebro no termina de madurar hasta los 24 años",
+      "link": "https://www.abc.es/ciencia/cerebro-termina-madurar-anos-20260922170022-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/22/cerebro11-R6IAuFzt3y21nY8sBfFmvzK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El vómito revela el secreto de los plesiosaurios, los monstruos marinos que regurgitaban a sus víctimas",
       "link": "https://www.abc.es/ciencia/vomito-revela-secreto-plesiosaurios-monstruos-marinos-regurgitaban-20260922013022-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/22/plesiusaurio-vomito-RnhJjqZyNnjgfX8McGfOYJL-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "IA y Matemáticas : acelerar sin sustituir a la creatividad humana",
       "link": "https://www.abc.es/ciencia/ia-acelerador-puede-sustituir-creatividad-matematica-humano-20260921012455-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/21/ChatGPT%20Image-9-RAsexlIvUHvr3f2razH3ppK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Captan por primera vez el 'salto cuántico' de un sonido",
-      "link": "https://www.abc.es/ciencia/captan-primera-vez-salto-cuantico-sonido-20260922012333-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/22/Salto%20cuantico%20sonido-RwoFiS2TCZfU8TgLe8vu6EI-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

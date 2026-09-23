@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El cerebro humano no acaba de madurar hasta los 24 años",
+      "link": "https://www.lavanguardia.com/ciencia/20260923/11642130/cerebro-humano-acaba-madurar-24-anos.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/06/27/667dd764948f0.r_d.4013-3253-561.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Descubren por qué el esqueleto humano es tan vulnerable a la artrosis",
+      "link": "https://www.lavanguardia.com/ciencia/20260923/11641325/descubren-esqueleto-humano-vulnerable-artrosis.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/06/22/6a3904caf25cc.r_d.631-337-3507.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Innofab, la gran apuesta por los chips diseñados en Catalunya",
       "link": "https://www.lavanguardia.com/local/catalunya/catalunya-avanca/20260922/11631172/innofab-gran-apuesta-chips-disenados-catalunya.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/09/6aa17dffb7990.r_d.629-187-3563.jpeg",
@@ -22,18 +34,6 @@
       "titulo": "El Antic Mercat del Peix refuerza la Barcelona científica",
       "link": "https://www.lavanguardia.com/local/catalunya/catalunya-avanca/20260921/11630364/antic-mercat-peix-refuerza-barcelona-cientifica.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/08/6aa03c9ec0cce.r_d.4004-2249-590.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Puede la medicina preventiva evitar casos de leucemia infantil?",
-      "link": "https://www.lavanguardia.com/ciencia/20260921/11626669/medicina-preventiva-evitar-casos-leucemia-infantil.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2019/03/01/5fa51bcfcf78a.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Descubierta una nueva especie de felino en Bolivia, la primera en más de un siglo",
-      "link": "https://www.lavanguardia.com/ciencia/20260917/11637244/descubierta-nueva-especie-felino-bolivia-primera-mas-siglo.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/17/6aabd834b7acc.r_d.641-689-3741.jpeg",
       "tipo": "imagen"
     }
   ]
