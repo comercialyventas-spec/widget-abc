@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Acto religioso en Real de Pinto y Dr. Martín Arévalo. Afectadas 4 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260926-PR-Rosario-Aurora-Villaverde.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Manifestación en zona Centro. Afectadas 33 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260926-M-Alcala-Sta-Maria-Cabeza.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -27,12 +33,6 @@
     {
       "titulo": "Recuperación de Parada: Francisco Umbral. Afectada línea 171 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260923-RPS-5888-Francisco-Umbral.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Acto religioso en Barajas. Afectadas 5 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260926-PR-Cristo-Expiracion-Barajas.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Josef Aschbacher, director general de la ESA: “Debemos lanzar una estación espacial europea”",
+      "link": "https://elpais.com/ciencia/2026-09-23/josef-aschbacher-director-general-de-la-esa-debemos-lanzar-una-estacion-espacial-europea.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "Vivir y comer a 63 grados: la ‘ameba de fuego’ rompe el récord de temperatura a la que prospera la vida compleja",
       "link": "https://elpais.com/ciencia/2026-09-22/vivir-y-comer-a-63-grados-la-ameba-de-fuego-rompe-el-record-de-temperatura-a-la-que-prospera-la-vida-compleja.html",
       "imagen": "",
@@ -9,14 +15,14 @@
     {
       "titulo": "OpenAI anuncia ahora que su IA ha resuelto más de 100 problemas históricos de las matemáticas, ¿qué futuro le queda a la disciplina?",
       "link": "https://elpais.com/tecnologia/2026-09-22/openai-anuncia-ahora-que-su-ia-ha-resuelto-mas-de-100-problemas-historicos-de-las-matematicas-que-futuro-le-queda-a-la-disciplina.html",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://imagenes.elpais.com/resizer/v2/UMNKOMEDGZEY3OUKVADDFMMHH4.jpg?auth=68827cd50181fabf2f5f8809ec2fd62bf01bf6312ce00d2a14ca5d64b9db4caf&width=414&height=233&smart=true",
+      "tipo": "imagen"
     },
     {
       "titulo": "El ‘no’ a La Palma anticipa el final del Telescopio de Treinta Metros: “El proyecto está muerto”",
       "link": "https://elpais.com/ciencia/2026-09-22/el-no-a-la-palma-anticipa-el-final-del-telescopio-de-treinta-metros-el-proyecto-esta-muerto.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/MQB3KXGUDVDH7MV3ATVRZY75TY.jpg?auth=1b4f26b7e9215dc88f95ce55cb43bb601f063d843d089edacd586bbb20f081cc&width=414&height=233&smart=true",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Azúcar entre las estrellas",
@@ -27,13 +33,7 @@
     {
       "titulo": "Consuelo Walss-Bass, científica que estudia la esquizofrenia: “Mi madre y mi hermana ya se acostumbraron a oír las voces, pero siguen ahí”",
       "link": "https://elpais.com/ciencia/2026-09-19/consuelo-walss-bass-cientifica-que-estudia-la-esquizofrenia-mi-madre-y-mi-hermana-ya-se-acostumbraron-a-oir-las-voces-pero-siguen-ahi.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "La isla canaria de La Palma, descartada para albergar el Telescopio de Treinta Metros",
-      "link": "https://elpais.com/ciencia/2026-09-18/la-palma-descartada-para-albergar-el-telescopio-de-treinta-metros.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/2XKZB36B7JH6HJ6LQOI2JSN52E.png?auth=ff85f5b4293fdfec08aa13e2ce8bf9f67649a063679bb551a8ac779562eab31d&width=414&height=311&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/L6KELTGGPRHWVLQJ6BANN7VYDU.jpg?auth=9fc60378e1841313d55d5ffe558d334ddecb42e41d013bf0a145c0f434d6bb3d&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]
