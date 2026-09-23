@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Cuéntame",
+      "link": "https://www.elconfidencialdigital.com/album/tl-medios/cuentame/202609230500001487349.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/22/2026092216170822398.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Álbum circuito de seguridad vial en la Comunidad de Madrid",
       "link": "https://www.elconfidencialdigital.com/album/motor/album-circuito-seguridad-vial-comunidad-madrid/202609222344311487512.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/22/2026092223425359144.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Militares en Ceuta",
       "link": "https://www.elconfidencialdigital.com/album/defensa/militares-en-ceuta/202609221959541487451.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/08/13/2026081314334480896.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Patrulleros",
-      "link": "https://www.elconfidencialdigital.com/album/defensa/patrulleros/202609221949361487450.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/22/2026092219475719703.jpg",
       "tipo": "imagen"
     }
   ]
