@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El Ballet Español de la Comunidad de Madrid vuelve a nacer",
+      "link": "https://www.abc.es/cultura/teatros/ballet-espanol-comunidad-madrid-vuelve-nacer-20260922181250-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/22/NASCENCIA_WR_Juan_Carlos_Toledo%20213-RfMy9VhJscnF7lQ51UM2T2J-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Muere Marcos Ordóñez, voz y memoria de un escritor potente",
       "link": "https://www.abc.es/cultura/teatros/muere-marcos-ordonez-voz-memoria-escritor-potente-20260921203129-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/21/49527668-RzRtOyXEq1QARmVVAkUmWoM-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "'Leonora': retrato de una mujer tan rebelde como atormentada",
       "link": "https://www.abc.es/cultura/teatros/leonora-retrato-mujer-rebelde-patetica-20260909012202-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/09/12_susanamartin_foto-R2C27QwkA0KTgb9kbDQFJrO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Crítica de teatro de 'Ella i màquina': la IA contra el demonio de los otros",
-      "link": "https://www.abc.es/cultura/teatros/critica-teatro-maquina-ia-demonio-20260910123329-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/10/fff-RjmV5KfqJoIICpPUSFRuwrM-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
