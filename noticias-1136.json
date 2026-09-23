@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "La decisión de la Universidad de Sevilla de cancelar la presentación de Feministas frente al fascismo por su “connotación política” enerva a profesionales y alumnos",
+      "link": "https://elpais.com/espana/andalucia/2026-09-23/la-decision-de-la-universidad-de-sevilla-de-cancelar-la-presentacion-de-feministas-frente-al-fascismo-por-su-connotacion-politica-enerva-a-profesionales-y-alumnos.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "El Supremo confirma cuatro años de cárcel para el futbolista Santi Mina por abuso sexual a una mujer",
+      "link": "https://elpais.com/sociedad/2026-09-23/el-supremo-confirma-cuatro-anos-de-carcel-para-el-futbolista-santi-mina-por-abuso-sexual-a-una-mujer.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SCKWNHD3VRGA7AATSO6Z6GJKCQ.jpg?auth=091da20771568f786cdb50d723dce7ce462b5510d351c6a699a2e3475a51dbb0&width=1200",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Absuelta la psiquiatra de Córdoba enjuiciada por la muerte de un paciente",
       "link": "https://elpais.com/sociedad/2026-09-23/absuelta-la-psiquiatra-de-cordoba-enjuiciada-por-la-muerte-de-un-paciente-agudo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/4DKXCCDCTFFLRJ6FKQNVXZ3SUI.jpg?auth=6e3670120e818e07f2da352c85627c771704559a0d45bb2160981c52fccaf48f&width=1200",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4DKXCCDCTFFLRJ6FKQNVXZ3SUI.jpg?auth=6e3670120e818e07f2da352c85627c771704559a0d45bb2160981c52fccaf48f&width=414&height=233&smart=true",
       "tipo": "imagen"
     },
     {
@@ -15,25 +27,13 @@
     {
       "titulo": "El juicio por la muerte de Ana Buza enfrenta los relatos de su padre y la familia del acusado",
       "link": "https://elpais.com/sociedad/2026-09-22/las-familias-de-ana-buza-y-su-novio-tratan-de-convencer-al-jurado-de-las-razones-que-determinaron-la-muerte-de-la-joven.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/2IO6M3MP5ZJMNE3Q6RKYGMY2AY.jpg?auth=497f804e5e9faf3a1e23a2b44f5b0faca36de21d7c828e7177a5c9bd10d43870&width=414&height=233&smart=true",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "La gala privada ante la Giralda, denunciada en los tribunales por posible prevaricación",
       "link": "https://elpais.com/espana/2026-09-22/la-gala-privada-ante-la-giralda-denunciada-en-los-tribunales-por-posible-prevaricacion.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "El PSOE eleva al Defensor del Pueblo una queja por el incumplimiento del convenio entre Andalucía y Ceuta",
-      "link": "https://elpais.com/espana/andalucia/2026-09-22/el-psoe-eleva-al-defensor-del-pueblo-una-queja-por-el-incumplimiento-del-convenio-entre-andalucia-y-ceuta.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "El Gobierno y la Junta retrasan la declaración como sobreexplotados de los acuíferos andaluces, pese a que muchos se secan",
-      "link": "https://elpais.com/espana/2026-09-22/el-gobierno-y-la-junta-retrasan-la-declaracion-como-sobreexplotados-de-los-acuiferos-andaluces-pese-a-que-muchos-se-secan.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/7KYV62SDCBHR3CGFN4SIBJOLAY.jpg?auth=c7f7c9f6eb5fa55ce21a2a1667cecc64732b103e5b9d765ab1567e78633efb54&width=414&height=311&focal=2860%2C2110",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/CFBSGRHGZ5JBZOXNG6STEYGDHI.jpg?auth=e38a3fe014995d83690b72c7b75782872db1f2e5e7033202f6f0ca36a593c917&width=414&height=311&focal=757%2C561",
       "tipo": "imagen"
     }
   ]
