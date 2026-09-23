@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¡Las violaciones aumentan un 500% en cinco años!",
+      "link": "https://www.mediterraneodigital.com/sucesos-espana/hospitalet-violaciones",
+      "imagen": "https://www.mediterraneodigital.com/images/2021/9/violacion-inmigrantes.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Detenidos 13 miembros de un clan gitano con un arsenal en Madrid",
       "link": "https://www.mediterraneodigital.com/sucesos-espana/gitanos-tetuan",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/armas-gitanos.jpg",
@@ -22,12 +28,6 @@
       "titulo": "La Policía mata de un disparo a un africano que intentó apuñalar a los agentes al grito de «¡Alá es grande!»",
       "link": "https://www.mediterraneodigital.com/sucesos-espana/policia-mata-africano-madrid",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/policia.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Detenido un magrebí por obligar a una niña a hacerle una felación en Gerona",
-      "link": "https://www.mediterraneodigital.com/sucesos-espana/san-juan-de-las-abadesas-gerona",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/9/detenido-mossos.jpg",
       "tipo": "imagen"
     }
   ]

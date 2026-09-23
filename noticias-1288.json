@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¡Las violaciones aumentan un 500% en cinco años!",
+      "link": "https://www.mediterraneodigital.com/sucesos-espana/hospitalet-violaciones",
+      "imagen": "https://www.mediterraneodigital.com/images/2021/9/violacion-inmigrantes.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Congreso retira la acreditación de prensa a Vito Quiles",
       "link": "https://www.mediterraneodigital.com/gente-y-tv/congreso-retira-acreditacion-prensa-vito-quiles",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/vito-quiles.jpg",
@@ -15,8 +21,8 @@
     {
       "titulo": "Detenidos 13 miembros de un clan gitano con un arsenal en Madrid",
       "link": "https://www.mediterraneodigital.com/sucesos-espana/gitanos-tetuan",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/9/armas.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Encuentran a un menor marroquí escondido entre las ruedas del autobús del Real Valladolid",
@@ -27,12 +33,6 @@
     {
       "titulo": "Lipedema y autoestima: el impacto invisible de una enfermedad que aún cuesta diagnosticar",
       "link": "https://www.mediterraneodigital.com/sociedad-y-tiempo-libre/clinicas-simarro",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Emisarios de Leire Díez contactaron con los narcos de Badajoz para que se encargaran de la jueza de David Sánchez",
-      "link": "https://www.mediterraneodigital.com/espana/caso-leire-diez-psoe",
       "imagen": "",
       "tipo": ""
     }

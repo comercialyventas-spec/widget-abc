@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de Nuevo Sureste de Madrid",
+      "link": "https://nuevosureste.es/desbloqueo-metro-ahijones-berrocales/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2024/06/Diseno-sin-titulo-2024-06-06T115250.704.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Cañaveral suma 45 nuevas viviendas públicas de alquiler asequible con una inversión de 12 millones",
       "link": "https://nuevosureste.es/finalizacion-canaveral-11/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/Visita-a-Canaveral-11-.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Vuelta al colegio: rutinas clave y el papel de los profesores en el éxito escolar",
       "link": "https://nuevosureste.es/colegio-el-valle-vuelta-al-cole/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/Septiembre-1.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Madrid celebra la XXIII Semana Internacional de la Arquitectura con más de 330 actividades y Suiza como país invitado",
-      "link": "https://nuevosureste.es/semana-internacional-de-la-arquitectura-2026/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/IMG_8942-1080x675.jpg",
       "tipo": "imagen"
     }
   ]
