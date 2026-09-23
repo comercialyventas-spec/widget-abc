@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Trump ultima un plan para prohibir las exportaciones de diésel durante 90 días",
+      "link": "https://elpais.com/economia/2026-09-23/trump-ultima-un-plan-para-prohibir-las-exportaciones-de-diesel-durante-90-dias.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/6CBZLN2ABJOU3F47YWJGUS72G4.jpg?auth=32f42c08db8dca5fd615c732618c462d057db9a257f42f09c9d4fb2f4806438d",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La espiral alcista del petróleo asusta al mercado y el Ibex baja hasta los 19.600 puntos",
+      "link": "https://cincodias.elpais.com/mercados-financieros/2026-09-23/la-bolsa-y-el-ibex-35.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/HTRIUEPBNFLNXHJ5YILKQCX2JE.jpg?auth=3c918577a207a346e9e3d9195ca018beb63e0107f4c56a2665f5d59ef7c93fe3",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Así es Urbagestión, la inmobiliaria propietaria del piso del que Maricarmen ha sido desahuciada",
       "link": "https://elpais.com/espana/madrid/2026-09-23/asi-es-urbagestion-la-inmobiliaria-propietaria-del-piso-del-que-maricarmen-ha-sido-desahuciada.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260923/1217270_063804_video_1800.mp4",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260923/1217566_180316_video_1800.mp4",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Volotea negocia un plan de viabilidad con sus bancos y la SEPI que incluye despidos y recortes de flota",
       "link": "https://cincodias.elpais.com/companias/2026-09-23/volotea-negocia-un-plan-de-viabilidad-con-sus-bancos-y-la-sepi-que-incluye-despidos-y-recortes-de-flota.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/B7MYYLWDBNH4HCCHYOVFEZOOSQ.jfif?auth=10ee37d3ad25a9640f2a9a873acc9b409a03d5d98ffbc5bb59b129cf87dc61ce",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Atresmedia aprueba un dividendo a cuenta histórico de 187 millones tras la venta de Fever",
-      "link": "https://cincodias.elpais.com/companias/2026-09-23/atresmedia-aprueba-un-dividendo-a-cuenta-historico-de-187-millones-tras-la-venta-de-fever.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/TOCFV6R53VKEXOYPW3KYPUW7RQ.jpg?auth=0416594504b9059ba0ca17bd07ef731d7f626303b3f22b5224a69c25254cf8dc",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La banca española abre la batalla contra Alemania y Francia por la norma sobre los cálculos del capital",
-      "link": "https://cincodias.elpais.com/companias/2026-09-23/la-banca-espanola-abre-la-batalla-contra-alemania-y-francia-por-la-norma-sobre-los-calculos-del-capital.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/QWU4PQ2TJRBWJG5S243KSM3PIU.jpg?auth=0384f5a52d08a8d9524525098be44909e5913ca93809df7cccd4c42266d5dad8",
       "tipo": "imagen"
     }
   ]
