@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de Nuevo Sureste de Madrid",
+      "link": "https://nuevosureste.es/jornada-surestelab-la-ciudad-antes-de-la-ciudad/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/Cartel-SuresteLAB-2026-2-1080x667.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Desbloqueada a la licitación del proyecto de la estación de Ahijones-Berrocales",
       "link": "https://nuevosureste.es/desbloqueo-metro-ahijones-berrocales/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2024/06/Diseno-sin-titulo-2024-06-06T115250.704.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "La capacidad eléctrica actual de Vicálvaro resulta insuficiente para el volumen de vivienda previsto en sus nuevos desarrollos",
       "link": "https://nuevosureste.es/suministro-electricidad-vicalvaro/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2024/02/Diseno-sin-titulo-4-2.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Vuelta al colegio: rutinas clave y el papel de los profesores en el éxito escolar",
-      "link": "https://nuevosureste.es/colegio-el-valle-vuelta-al-cole/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/Septiembre-1.jpg",
       "tipo": "imagen"
     }
   ]
