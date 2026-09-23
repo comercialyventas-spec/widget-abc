@@ -1,18 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Brasil: cómo la crisis del Tribunal Supremo remece las elecciones a la Presidencia",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260922-brasil-c%C3%B3mo-la-crisis-del-tribunal-supremo-remece-las-elecciones-a-la-presidencia",
-      "imagen": "https://s.france24.com/media/display/08307768-b69d-11f1-9fbb-1d61c7110e09/w:1024/p:16x9/d734cc25bbfd3d1375f82ac9da5035b06a9d668a-1.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cuba: animales del zoológico luchan por sobrevivir en medio de la crisis",
-      "link": "https://www.france24.com/es/video/20260922-cuba-animales-del-zool%C3%B3gico-luchan-por-sobrevivir-en-medio-de-la-crisis",
-      "imagen": "https://s.france24.com/media/display/c6a6940a-b6bd-11f1-8745-d5a6f2570fbe/w:1024/p:16x9/ES-20260922-121317-121505-CS.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Informe desde Nueva York: Asamblea de la ONU enfocada en la guerra, la IA y el cambio climático",
       "link": "https://www.france24.com/es/video/20260922-informe-desde-nueva-york-asamblea-de-la-onu-enfocada-en-la-guerra-la-ia-y-el-cambio-clim%C3%A1tico",
       "imagen": "https://s.france24.com/media/display/971ad8e0-b6c2-11f1-8fcc-d382746d948a/w:1024/p:16x9/ES-20260922-130515-130851-CS.jpg",
@@ -34,6 +22,18 @@
       "titulo": "Irán, Cuba, Ucrania, Groenlandia e IA: qué dijo Trump ante la Asamblea General de la ONU",
       "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260922-ir%C3%A1n-cuba-ucrania-groenlandia-e-ia-qu%C3%A9-dijo-trump-ante-la-asamblea-general-de-la-onu",
       "imagen": "https://s.france24.com/media/display/987550d2-b6c0-11f1-b4a9-1d61c7110e09/w:1024/p:16x9/2026-09-22T144613Z-1952586155-RC2EONARX4BR-RTRMADP-3-UN-ASSEMBLY.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las llamas asedian Villa de Leyva, joya turística de Colombia",
+      "link": "https://www.france24.com/es/video/20260922-las-llamas-asedian-villa-de-leyva-joya-turi%CC%81stica-de-colombia",
+      "imagen": "https://s.france24.com/media/display/1c8ccf60-b696-11f1-b2f3-e554abee39f5/w:1024/p:16x9/Las-llamas-asedian-Villa-de-Leyva-joya-turi%CC%81stica-del-pai%CC%81s.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Texas: ¿la IA abre una grieta en el bastión republicano?",
+      "link": "https://www.france24.com/es/programas/en-foco/20260922-texas-la-ia-abre-una-grieta-en-el-basti%C3%B3n-republicano",
+      "imagen": "https://s.france24.com/media/display/fd51f178-b043-11f1-87fa-005056a90284/w:1024/p:16x9/PASDEREF-FOCUS-EN-Data-Centers-Texas-CORNET-0309.jpg",
       "tipo": "imagen"
     }
   ]
