@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La Mamadeta de Santa Tecla",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260923/11641919/mamadeta-santa-tecla.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/23/6ab37493aa592.r_d.336-441-7015.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El primer sol del otoño en la Costa Brava",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260923/11641913/primer-sol-otono-costa-brava.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/23/6ab37340be4bc.r_d.938-540-2338.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Corridas patrimoniales convierten las calles de Santiago de Chile en un museo al aire libre",
       "link": "https://www.lavanguardia.com/participacion/lectores-corresponsales/20260923/11640990/corridas-patrimoniales-convierten-calles-santiago-chile-museo-aire-libre.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/22/6ab21fa4000ee.r_d.656-337-3507.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tercera Guerra Mundial de sangre transparente",
-      "link": "https://www.lavanguardia.com/participacion/red-lectores/20260923/11641160/tercera-guerra-mundial-sangre-transparente.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/01/09/659d356410695.r_d.565-524-0.jpeg",
       "tipo": "imagen"
     }
   ]
