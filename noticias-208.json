@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¿Con qué ciudad se postulará Alemania como sede de las Olimpiadas?",
+      "link": "https://www.dw.com/es/¿con-qué-ciudad-se-postulará-alemania-como-sede-de-las-olimpiadas/a-79403787",
+      "imagen": "https://static.dw.com/image/79376627_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "\"AI Force\": ¿Trump realmente quiere regular la inteligencia artificial?",
       "link": "https://www.dw.com/es/ai-force-¿trump-realmente-quiere-regular-la-inteligencia-artificial/a-79401548",
       "imagen": "https://static.dw.com/image/79307126_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Presidente de Irán acusa ante la ONU de terrorismo a Estados Unidos",
       "link": "https://www.dw.com/es/presidente-de-irán-acusa-ante-la-onu-de-terrorismo-a-estados-unidos/a-79403088",
       "imagen": "https://static.dw.com/image/79400637_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Polonia denuncia incursión de helicóptero ruso en su espacio aéreo",
-      "link": "https://www.dw.com/es/polonia-denuncia-incursión-de-helicóptero-ruso-en-su-espacio-aéreo/a-79401759",
-      "imagen": "https://static.dw.com/image/78446777_6.jpg",
       "tipo": "imagen"
     }
   ]
