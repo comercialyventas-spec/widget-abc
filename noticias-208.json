@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "China advierte a EEUU sus líneas rojas antes de visita de Xi Jinping",
+      "link": "https://www.dw.com/es/china-advierte-a-eeuu-sus-líneas-rojas-antes-de-visita-de-xi-jinping/a-79382332",
+      "imagen": "https://static.dw.com/image/76061753_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Macron llama al mundo a mantenerse \"firme junto a la ONU\"",
       "link": "https://www.dw.com/es/macron-llama-al-mundo-a-mantenerse-firme-junto-a-la-onu/a-79382284",
       "imagen": "https://static.dw.com/image/79381078_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Hambruna en Ucrania: la ciudad ocupada de Oleshki \"se ha convertido en una trampa mortal\"",
       "link": "https://www.dw.com/es/hambruna-en-ucrania-la-ciudad-ocupada-de-oleshki-se-ha-convertido-en-una-trampa-mortal/a-79376918",
       "imagen": "https://static.dw.com/image/63750957_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "AfD: ¿puede el Gobierno alemán aplicar la \"coerción federal\" contra la extrema derecha en Sajonia-Anhalt?",
-      "link": "https://www.dw.com/es/afd-¿puede-el-gobierno-alemán-aplicar-la-coerción-federal-contra-la-extrema-derecha-en-sajonia-anhalt/a-79381047",
-      "imagen": "https://static.dw.com/image/79079726_6.jpg",
       "tipo": "imagen"
     }
   ]
