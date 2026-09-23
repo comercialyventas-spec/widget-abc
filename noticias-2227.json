@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Concentración en San Bernardo. Afectadas 3 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260925-C-San-Bernardo.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Traslado de Parada: paseo Imperial. Afectada línea 41 de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260925-TP-3814-Paseo-Imperial.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Traslado de Parada: paseo Imperial. Afectada línea 41 de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260924-TP-3815-Paseo-Imperial.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Manifestación en Centro y Moncloa. Afectadas 40 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260926-M-Alcala-Plaza-Moncloa.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Concentración en Hospital Ramón y Cajal. Afectadas 5 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260924-C-Hospital-Ramon-y-Cajal.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -9,30 +33,6 @@
     {
       "titulo": "Acto religioso en Real de Pinto y Dr. Martín Arévalo. Afectadas 4 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260926-PR-Rosario-Aurora-Villaverde.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Manifestación en zona Centro. Afectadas 33 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260926-M-Alcala-Sta-Maria-Cabeza.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Evento: Palacio de los Deportes. Afectadas 4 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260926-PD-Evento.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Evento socio-cultural en distrito Usera. Afectadas 3 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260926-Batucada-Usera.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Evento sociocultural en distrito Villaverde Alto. Afectada línea N14 de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260925-Shakira-Residencia-Europea-LN14.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }
