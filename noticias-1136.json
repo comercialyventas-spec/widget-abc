@@ -1,22 +1,28 @@
 {
   "noticias": [
     {
-      "titulo": "La importancia de la cocina de los desconocidos",
-      "link": "https://elpais.com/gastronomia/2026-09-23/la-importancia-de-la-cocina-anonima.html",
+      "titulo": "Absuelta la psiquiatra de Córdoba enjuiciada por la muerte de un paciente",
+      "link": "https://elpais.com/sociedad/2026-09-23/absuelta-la-psiquiatra-de-cordoba-enjuiciada-por-la-muerte-de-un-paciente-agudo.html",
       "imagen": "",
       "tipo": ""
+    },
+    {
+      "titulo": "La importancia de la cocina de los desconocidos",
+      "link": "https://elpais.com/gastronomia/2026-09-23/la-importancia-de-la-cocina-anonima.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/HU5U2ZB5OZBMXO2JEHEBEJKO6Q.jpg?auth=205f5be100625672eb57e7231a98b58e166ac2b4ba24c1ed6148d989bf88a8cb&width=1200",
+      "tipo": "imagen"
     },
     {
       "titulo": "El juicio por la muerte de Ana Buza enfrenta los relatos de su padre y la familia del acusado",
       "link": "https://elpais.com/sociedad/2026-09-22/las-familias-de-ana-buza-y-su-novio-tratan-de-convencer-al-jurado-de-las-razones-que-determinaron-la-muerte-de-la-joven.html",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://imagenes.elpais.com/resizer/v2/2IO6M3MP5ZJMNE3Q6RKYGMY2AY.jpg?auth=497f804e5e9faf3a1e23a2b44f5b0faca36de21d7c828e7177a5c9bd10d43870&width=414&height=233&smart=true",
+      "tipo": "imagen"
     },
     {
       "titulo": "La gala privada ante la Giralda, denunciada en los tribunales por posible prevaricación",
       "link": "https://elpais.com/espana/2026-09-22/la-gala-privada-ante-la-giralda-denunciada-en-los-tribunales-por-posible-prevaricacion.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/CFBSGRHGZ5JBZOXNG6STEYGDHI.jpg?auth=e38a3fe014995d83690b72c7b75782872db1f2e5e7033202f6f0ca36a593c917&width=414&height=233&focal=757%2C561",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "El PSOE eleva al Defensor del Pueblo una queja por el incumplimiento del convenio entre Andalucía y Ceuta",
@@ -27,13 +33,7 @@
     {
       "titulo": "El Gobierno y la Junta retrasan la declaración como sobreexplotados de los acuíferos andaluces, pese a que muchos se secan",
       "link": "https://elpais.com/espana/2026-09-22/el-gobierno-y-la-junta-retrasan-la-declaracion-como-sobreexplotados-de-los-acuiferos-andaluces-pese-a-que-muchos-se-secan.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Tres universidades analizan cómo los pueblos se organizan para crear redes y solucionar problemas",
-      "link": "https://elpais.com/espana/2026-09-09/los-pueblos-que-aprendieron-a-cuidarse-para-responder-a-problemas-como-el-envejecimiento.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/NWLIRWODVFAMNLUQVMF25WOKRI.jpg?auth=a7c0dbf77acdf2fb2b533faa8aa0d39cbec55b9c6a50c9e4d66d4390c6ea088a&width=414&height=311&focal=1689%2C1738",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7KYV62SDCBHR3CGFN4SIBJOLAY.jpg?auth=c7f7c9f6eb5fa55ce21a2a1667cecc64732b103e5b9d765ab1567e78633efb54&width=414&height=311&focal=2860%2C2110",
       "tipo": "imagen"
     }
   ]
