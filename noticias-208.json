@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "China y EE.UU. acuerdan extender hasta enero su tregua comrcial",
+      "link": "https://www.dw.com/es/china-y-ee-uu-acuerdan-extender-hasta-enero-su-tregua-comrcial/a-79404729",
+      "imagen": "https://static.dw.com/image/79404789_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Javier Milei dice que la ONU es una \"organización inútil\"",
       "link": "https://www.dw.com/es/javier-milei-dice-que-la-onu-es-una-organización-inútil/a-79404798",
       "imagen": "https://static.dw.com/image/79401701_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "\"AI Force\": ¿Trump realmente quiere regular la inteligencia artificial?",
       "link": "https://www.dw.com/es/ai-force-¿trump-realmente-quiere-regular-la-inteligencia-artificial/a-79401548",
       "imagen": "https://static.dw.com/image/79307126_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La justicia francesa confirma juicio al futbolista Achraf Hakimi por violación",
-      "link": "https://www.dw.com/es/la-justicia-francesa-confirma-juicio-al-futbolista-achraf-hakimi-por-violación/a-79403822",
-      "imagen": "https://static.dw.com/image/77391830_6.jpg",
       "tipo": "imagen"
     }
   ]
