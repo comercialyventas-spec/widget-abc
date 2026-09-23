@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "María Corina Machado ha intentado regresar siete veces a Venezuela sin conseguirlo",
+      "link": "https://www.abc.es/internacional/maria-corina-machado-intentado-regresar-siete-veces-20260923031343-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/23/mcm.PNG",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Trump intenta un 'blitz' diplomático en la ONU para lograr los éxitos que se le resisten en Irán y Ucrania",
       "link": "https://www.abc.es/internacional/trump-intenta-blitz-diplomatico-onu-lograr-exitos-20260923015822-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/23/1517687626-kBEH-U301849317244RmD-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Odisea truncada de María Corina Machado: siete intentos para volver a Venezuela",
+      "link": "https://www.abc.es/internacional/odisea-truncada-maria-corina-machado-siete-intentos-20260921031552-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/21/1514049699-kSSF-R8wMjQFbfV4YKPUmUBQYY9O-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La paradoja de Trump en Venezuela: se llevó a Maduro pero mantuvo al régimen",
+      "link": "https://www.abc.es/internacional/paradoja-trump-venezuela-llevo-maduro-mantuvo-regimen-20260921031540-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/21/corina6-kWnC-U301839590560ebC-1200x840@diario_abc.png",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "Marruecos vota entre la desafección juvenil y la sombra de Ceuta",
       "link": "https://www.abc.es/internacional/marruecos-vota-desafeccion-juvenil-sombra-ceuta-20260922012218-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/22/1517508879-RW2jXRmK6ffIwG3hH8DU11J-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Trump defiende ante la ONU su actuación en Irán o Venezuela: «Mientras otros hablan, yo actúo»",
-      "link": "https://www.abc.es/internacional/trump-protagoniza-discurso-81a-asamble-general-onu-20260922183838-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/22/1501112194-RTbcQZvZVqcvKO6tcRHtxON-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Trump construirá dos nuevas bases militares en el sur y el este de Groenlandia",
-      "link": "https://www.abc.es/internacional/trump-construira-dos-nuevas-bases-militares-sur-20260922214650-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/22/1517680025-kxZH-U301847548713a7C-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los venezolanos protestan ante la legitimación internacional de Delcy: «No la elegimos y no nos representa»",
-      "link": "https://www.abc.es/internacional/desilusion-venezolanos-ver-trump-delcy-20260922203004-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/22/delcy-RnUFQZcZNEw4VpJnxBY8ktO-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
