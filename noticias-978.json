@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "¿Cuál es el panorama en Marruecos en las elecciones legislativas?",
+      "link": "https://www.france24.com/es/programas/invitad-del-d%C3%ADa/20260923-cu%C3%A1l-es-el-panorama-en-marruecos-en-las-elecciones-legislativas",
+      "imagen": "https://s.france24.com/media/display/984ac27c-b774-11f1-954c-4d7b41827f6c/w:1024/p:16x9/capture-4614321786ab40cea1a2a89-55218156.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Nueve mujeres asesinadas en Sudáfrica en dos meses: ¿qué está pasando?",
+      "link": "https://www.france24.com/es/programas/ellas-hoy/20260923-nueve-mujeres-asesinadas-en-sud%C3%A1frica-en-dos-meses-qu%C3%A9-est%C3%A1-pasando",
+      "imagen": "https://s.france24.com/media/display/77f3dfc8-b75a-11f1-a258-55848da96185/w:1024/p:16x9/WEB-PORTADA-22SEP-ELL.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Cuál es el panorama en Marruecos en las elecciones legislativas?",
+      "link": "https://www.france24.com/es/video/20260923-cu%C3%A1l-es-el-panorama-en-marruecos-en-las-elecciones-legislativas",
+      "imagen": "https://s.france24.com/media/display/cedbad9a-b771-11f1-8501-55848da96185/w:1024/p:16x9/ES-20260923-071258-072213-CS.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Harvey Weinstein es condenado a 15 años de prisión en EE. UU. por caso de delito sexual",
       "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260923-harvey-weinstein-es-condenado-a-15-a%C3%B1os-de-prisi%C3%B3n-en-ee-uu-por-caso-de-delito-sexual",
       "imagen": "https://s.france24.com/media/display/d96b6810-b76a-11f1-bf6a-513157f91e8c/w:1024/p:16x9/0b4e85d73dc9bb895accc481755b4df92b686b10.jpg",
@@ -17,24 +35,6 @@
       "link": "https://www.france24.com/es/minuto-a-minuto/20260923-harvey-weinstein-es-condenado-a-15-a%C3%B1os-de-prisi%C3%B3n-en-ee-uu-por-caso-de-delito-sexual",
       "imagen": "",
       "tipo": ""
-    },
-    {
-      "titulo": "“La búsqueda a toda costa de Trump de un fraude electoral”: ‘Axios’",
-      "link": "https://www.france24.com/es/programas/revista-de-prensa/20260923-la-b%C3%BAsqueda-a-toda-costa-de-trump-de-un-fraude-electoral-axios",
-      "imagen": "https://s.france24.com/media/display/3edadf58-b754-11f1-a4de-cd71256adcef/w:1024/p:16x9/ES-20260923-081502-082218-CS.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "En directo: \"Argentina no va a esperar que la ONU esté a la altura de su mandato, va a tomar cartas en el asunto\": Milei sobre Malvinas",
-      "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260923-en-directo-presidente-iran%C3%AD-intervendr%C3%A1-ante-la-onu-por-primera-vez-desde-que-ee-uu-e-israel-lanzaron-la-guerra-contra-teher%C3%A1nc",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Intensas lluvias y puertos restringidos: sin tocar tierra, el huracán Polo pone en alerta a México",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260923-intensas-lluvias-y-puertos-restringidos-sin-tocar-tierra-el-hurac%C3%A1n-polo-pone-en-alerta-a-m%C3%A9xico",
-      "imagen": "https://s.france24.com/media/display/6e864d32-b754-11f1-894b-4d7b41827f6c/w:1024/p:16x9/FOTO-MEXICO-HURACAN-POLO-TRAYECTORIA.jpg",
-      "tipo": "imagen"
     }
   ]
 }
