@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en directo, en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-09-23/el-pulso-de-hoy-por-hoy-en-el-pais.html",
+      "imagen": "https://www.youtube.com/watch?v=zBo5dxnOSTQ",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Quién se hace cargo de la ayuda al desarrollo que Estados Unidos ha dejado de pagar?",
       "link": "https://elpais.com/videos/2026-09-23/quien-se-hace-cargo-de-la-ayuda-al-desarrollo-que-estados-unidos-ha-dejado-de-pagar.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260922/1217178_194810_video_1800.mp4",
@@ -28,12 +34,6 @@
       "titulo": "Así fue la colisión entre un carguero panameño y un pesquero chino en aguas de Singapur",
       "link": "https://elpais.com/videos/2026-09-22/asi-fue-la-colision-entre-un-carguero-panameno-y-un-pesquero-chino-en-aguas-de-singapur.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260922/1216846_082015_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Especial 40 años de ‘Hoy por Hoy’, en directo, en EL PAÍS",
-      "link": "https://elpais.com/videos/2026-09-22/especial-40-anos-de-hoy-por-hoy-en-el-pais.html",
-      "imagen": "https://www.youtube.com/watch?v=UvLxEhIIr5U",
       "tipo": "imagen"
     }
   ]

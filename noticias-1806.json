@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un muerto por el incendio en una residencia de ancianos en Barcelona",
+      "link": "https://www.20minutos.es/cataluna/barcelona/un-muerto-por-incendio-una-residencia-mayores-barcelona_7040136_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/23/6ab370d8c22074-57651915.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Catalunya afronta un otoño más cálido de lo normal con los embalses al 75%",
       "link": "https://www.20minutos.es/cataluna/barcelona/catalunya-afronta-un-otono-mas-calido-normal-con-los-embalses-75_7040049_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/22/6ab2bb311c8b80-12867299.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Vecinos denuncian una 'rave' de cuatro días en Collserola, cerrada por la peste porcina",
       "link": "https://www.20minutos.es/cataluna/barcelona/vecinos-denuncian-una-rave-cuatro-dias-collserola-cerrada-por-peste-porcina_7039904_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2020/08/20/coche-de-la-guardia-urbana-de-barcelona.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La ATM estudia levantar el veto al patinete eléctrico en el metro, autobuses y tranvías",
-      "link": "https://www.20minutos.es/cataluna/barcelona/atm-estudia-levantar-veto-patinete-electrico-metro-autobuses-tranvias_7039992_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2021/03/01/usuaria-patinete-electrico-diagonal-barcelona.jpeg",
       "tipo": "imagen"
     }
   ]

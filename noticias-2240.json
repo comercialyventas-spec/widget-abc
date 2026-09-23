@@ -1,7 +1,25 @@
 {
   "noticias": [
     {
-      "titulo": "Atendidas 71 personas por un incendio en una residencia en L’Ametlla del Vallès, Barcelona",
+      "titulo": "La frontera del Tarajal amanece tranquila en día de llamamiento a nueva entrada masiva",
+      "link": "https://efe.com/espana/2026-09-23/frontera-tarajal-llamamiento-nueva-entrada-masiva/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/frontera-dos.webp?w=600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La policía acordona la zona junto al domicilio de Maricarmen, la anciana que hoy desahucian en Madrid",
+      "link": "https://efe.com/espana/2026-09-23/desahucio-casa-maricarmen-madrid/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/maricarmmen.webp?w=600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Aumentar las exigencias en los títulos universitarios, un reto no solo para las privadas",
+      "link": "https://efe.com/espana/2026-09-23/aumentar-exigencias-titulos-universitarios-reto-no-solo-para-privadas/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/univerdisda-dos.webp?w=600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un fallecido y 13 heridos en el incendio de una residencia en L’Ametlla (Barcelona)",
       "link": "https://efe.com/cataluna/2026-09-23/incendio-residencia-cataluna-atendidos/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/BOMBEROS-GENERALITAT.webp?w=600&ssl=1",
       "tipo": "imagen"
@@ -16,24 +34,6 @@
       "titulo": "Sánchez asegura que el control de Marruecos falló en Ceuta y por eso pide respuestas",
       "link": "https://efe.com/espana/2026-09-22/marruecos-control-migrantes-ceuta-falla-pedro-sanchez-onu/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/Sanchez-Ceuta-1-4.webp?w=600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Interior inicia los trámites para prolongar el espigón de El Tarajal, en Ceuta",
-      "link": "https://efe.com/espana/2026-09-22/interior-prolongar-espigon-tarajal-ceuta/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/interior-espigon-tarajal-ceuta.webp?w=600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Andalucía acoge al menor migrante que llegó a Jerez (Cádiz) en los bajos del bus del Real Valladolid",
-      "link": "https://efe.com/espana/2026-09-22/andalucia-menor-migrante-bajos-bus-real-valladolid/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/andalucia-migrante-ceuta-real-valladolid.webp?w=600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Pedro Sánchez garantiza a Delcy Rodríguez el compromiso de España con Venezuela",
-      "link": "https://efe.com/espana/2026-09-22/venezuela-pedro-sanchez-compromiso-espana-delcy-rodriguez-onu/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/Delcy-Sanchez-2.webp?w=600&ssl=1",
       "tipo": "imagen"
     }
   ]
