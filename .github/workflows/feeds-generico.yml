@@ -261,7 +261,50 @@ jobs:
             }
 
             const config = await respuestaFeeds.json();
-            const feeds = config.feeds || [];
+            const feedsTodos = config.feeds || [];
+
+            // 24 sept: frecuencia por seccion. Portadas, ultima hora y similares
+            // (las que cambian rapido) se siguen pidiendo en cada pasada (30 min);
+            // el resto de secciones, como mucho una vez cada HORAS_LENTAS horas.
+            // Se anota cuando se pidio cada seccion lenta (aunque fallara), para no
+            // insistir cada 30 min contra webs que bloquean por exceso de visitas.
+            const RUTA_ESTADO = ".estado-frecuencias.json";
+            const HORAS_LENTAS = 3;
+            let estadoFrec = {};
+            try { estadoFrec = JSON.parse(fs.readFileSync(RUTA_ESTADO, "utf8")); } catch (e) { estadoFrec = {}; }
+            const ahoraMs = Date.now();
+
+            function urlOrigen(u) {
+              u = String(u || "");
+              try {
+                const x = new URL(u);
+                if (x.pathname.includes("scraper_generico.php") && x.searchParams.get("url")) return x.searchParams.get("url");
+              } catch (e) {}
+              return u;
+            }
+
+            function esRapida(f) {
+              let ruta = "", host = "";
+              try {
+                const x = new URL(urlOrigen(f.url));
+                ruta = x.pathname.toLowerCase().replace(/\/+$/, "");
+                host = x.hostname.toLowerCase();
+              } catch (e) { return false; }
+              // portada del medio (no la de subdominios como tienda., club., hemeroteca.)
+              if (ruta === "") return /^www\./.test(host) || host.split(".").length === 2;
+              if (/^\/(index\.html?|home|portada|es|rss|feed|rss\.xml|feed\.xml|rss\/home(\.xml)?|rss\/portada(\.xml)?|rss\/ultima-hora(\.xml)?)$/.test(ruta)) return true;
+              return /ultima-hora|ultimas-noticias|ultimas-horas|lo-ultimo|portada|en-directo|breaking|latest/.test(ruta);
+            }
+
+            const feeds = feedsTodos.filter(f => {
+              if (esRapida(f)) return true;
+              const ultima = Number(estadoFrec[f.wid] || 0);
+              return ahoraMs - ultima >= HORAS_LENTAS * 3600000 - 10 * 60000;
+            });
+            feeds.forEach(f => { if (f.wid && !esRapida(f)) estadoFrec[f.wid] = ahoraMs; });
+            fs.writeFileSync(RUTA_ESTADO, JSON.stringify(estadoFrec));
+            console.log("Frecuencia: " + feeds.length + " de " + feedsTodos.length + " feeds en esta pasada (" +
+              feedsTodos.filter(esRapida).length + " rapidos cada 30 min, resto cada " + HORAS_LENTAS + " h)");
 
             // 17 sept: separamos los feeds que se sirven a traves del semaforo de
             // concurrencia del NAS (scraper_generico.php, maximo 2 huecos a la vez)
@@ -292,7 +335,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add noticias-*.json
+          git add noticias-*.json .estado-frecuencias.json
 
           if git diff --cached --quiet; then
             echo "No hay cambios nuevos."
