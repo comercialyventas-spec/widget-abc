@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La temida mantis enana",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260924/11642025/temida-mantis-enana.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/23/6ab3998e77d90.r_d.1080-751-2434.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Comprar en català",
       "link": "https://www.lavanguardia.com/participacion/cartas/20260923/11642648/comprar-catala.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El poder de l’Estat",
       "link": "https://www.lavanguardia.com/participacion/cartas/20260923/11642644/l-estat.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El verdadero misterio de Stonehenge",
-      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260923/11639961/verdadero-misterio-stonehenge.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/23/6ab3850156714.r_d.609-427-3808.jpeg",
       "tipo": "imagen"
     }
   ]
