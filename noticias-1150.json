@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Los elefantes se automedican con plantas medicinales que también usan los humanos",
+      "link": "https://elpais.com/ciencia/2026-09-24/los-elefantes-se-automedican-con-plantas-medicinales-que-tambien-usan-los-humanos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QJKNASHCYBE25GURVC5X2VF52I.JPG?auth=a9d30048bbea71c94ad13a51e639b96945066ffb2df63a22eb9275b3291de2de&width=1200",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las edades del cerebro: el atlas más detallado de la corteza prefrontal revela cómo cambia y envejece a lo largo de la vida",
       "link": "https://elpais.com/ciencia/2026-09-23/las-edades-del-cerebro-el-atlas-mas-detallado-de-la-corteza-prefrontal-revela-como-cambia-y-envejece-a-lo-largo-de-la-vida.html",
       "imagen": "",
@@ -9,14 +15,14 @@
     {
       "titulo": "El maltrato de género deja huella en la cuenta bancaria años antes de que la víctima lo denuncie",
       "link": "https://elpais.com/sociedad/2026-09-23/el-maltrato-de-genero-deja-huella-en-la-cuenta-bancaria-anos-antes-de-que-la-victima-lo-denuncie.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/WPV7AOVDTRBXDKSLN3A2YCDNOM.jpg?auth=98714de40b47c6e011105a1b2ec7cd8f037957516d3609f105bbc05757753d20&width=1200",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/WPV7AOVDTRBXDKSLN3A2YCDNOM.jpg?auth=98714de40b47c6e011105a1b2ec7cd8f037957516d3609f105bbc05757753d20&width=414&height=233&smart=true",
       "tipo": "imagen"
     },
     {
       "titulo": "Josef Aschbacher, director general de la ESA: “Debemos lanzar una estación espacial europea”",
       "link": "https://elpais.com/ciencia/2026-09-23/josef-aschbacher-director-general-de-la-esa-debemos-lanzar-una-estacion-espacial-europea.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/X3UVR652EZC3DKS6SUZCIQIYHQ.jpg?auth=d6f3a2d7866d44f1ae8e24a8fd122abf8ded2b05b38707ce1968e38530692045&width=414&height=233&smart=true",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Vivir y comer a 63 grados: la ‘ameba de fuego’ rompe el récord de temperatura a la que prospera la vida compleja",
@@ -27,13 +33,7 @@
     {
       "titulo": "OpenAI anuncia ahora que su IA ha resuelto más de 100 problemas históricos de las matemáticas, ¿qué futuro le queda a la disciplina?",
       "link": "https://elpais.com/tecnologia/2026-09-22/openai-anuncia-ahora-que-su-ia-ha-resuelto-mas-de-100-problemas-historicos-de-las-matematicas-que-futuro-le-queda-a-la-disciplina.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "El ‘no’ a La Palma anticipa el final del Telescopio de Treinta Metros: “El proyecto está muerto”",
-      "link": "https://elpais.com/ciencia/2026-09-22/el-no-a-la-palma-anticipa-el-final-del-telescopio-de-treinta-metros-el-proyecto-esta-muerto.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/MQB3KXGUDVDH7MV3ATVRZY75TY.jpg?auth=1b4f26b7e9215dc88f95ce55cb43bb601f063d843d089edacd586bbb20f081cc&width=414&height=311&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/UMNKOMEDGZEY3OUKVADDFMMHH4.jpg?auth=68827cd50181fabf2f5f8809ec2fd62bf01bf6312ce00d2a14ca5d64b9db4caf&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]
