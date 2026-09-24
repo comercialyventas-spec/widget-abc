@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Una mujer con cáncer terminal será desahuciada este viernes en Tenerife",
+      "link": "https://www.abc.es/espana/canarias/mujer-cancer-terminal-desahuciada-viernes-tenerife-20260924095346-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/24/desahucio-RgKX4Kv6JT6zsPKQ5YmvWJP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Noche intensa en la Ruta Canaria con 185 inmigrantes rescatados de tres cayucos",
+      "link": "https://www.abc.es/espana/canarias/noche-intensa-ruta-canaria-185-inmigrantes-rescatados-20260924091909-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/24/salvamento-Rk1OWiUbh12LgAyKVxa4CsO-1200x840@diario_abc.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Tres detenidos por la violación de una mujer en una patera con destino Lanzarote",
       "link": "https://www.abc.es/espana/canarias/tres-detenidos-violacion-mujer-patera-destino-lanzarote-20260923155159-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/23/patera-RoNrRhplSMB4I9Y5xsDsyPJ-1200x840@diario_abc.png",
@@ -22,18 +34,6 @@
       "titulo": "Marruecos ignoró el aviso de una patera en sus aguas que tuvo que rescatar Salvamento Marítimo horas después",
       "link": "https://www.abc.es/espana/canarias/marruecos-ignoro-aviso-patera-aguas-rescatar-salvamento-20260923100607-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/23/salvamento-kFdH-RVFbn4TWynck4GTG46fEBKP-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Canarias incorpora 763 docentes más para el curso 2026/2027",
-      "link": "https://www.abc.es/espana/canarias/canarias-incorpora-763-docentes-curso-20262027-20260923100400-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/23/aula-RoH20N3T7hiWR5j3DYzkJKK-1200x840@diario_abc.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Canarias se enfrenta a un nuevo episodio de calor y activa la alerta de incendio forestal",
-      "link": "https://www.abc.es/espana/canarias/canarias-enfrenta-nuevo-episodio-calor-activa-alerta-20260923091316-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/23/calor-R8ZPF0P4esON0545iHn8uNP-1200x840@diario_abc.png",
       "tipo": "imagen"
     }
   ]

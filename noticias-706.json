@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Australia revela que la IA de OpenAI accedió a los archivos de su sistema público de salud sin autorización",
+      "link": "https://www.eldiario.es/tecnologia/australia-revela-ia-openai-accedio-archivos-sistema-publico-salud-autorizacion_1_13533894.html",
+      "imagen": "https://static.eldiario.es/clip/6fce7023-16c9-42a9-b9fd-f0347b4bd12c_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El frente secreto de la IA: EEUU y China se disputan el desierto egipcio para sus centros de datos",
       "link": "https://www.eldiario.es/tecnologia/frente-secreto-ia-eeuu-china-disputan-desierto-egipcio-centros-datos_1_13532393.html",
       "imagen": "https://static.eldiario.es/clip/ff0bd3b9-1817-4aa9-a078-8f98ba904b68_16-9-discover-aspect-ratio_default_0_x859y617.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Maricarmen no se va: se la llevan leyes injustas",
       "link": "https://www.eldiario.es/opinion/zona-critica/maricarmen-no-llevan-leyes-injustas_129_13531377.html",
       "imagen": "https://static.eldiario.es/clip/41a8c90d-79bd-4161-b3d4-b6ee95ab4baa_avatar-200-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Maricarmen somos todos",
-      "link": "https://www.eldiario.es/opinion/zona-critica/maricarmen_129_13533334.html",
-      "imagen": "https://static.eldiario.es/clip/d56f7b4e-be9a-4461-9270-175595b310a1_avatar-200-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La IA de los coches autónomos muestra discriminación según el tono de piel y la discapacidad de los peatones",
+      "link": "https://www.abc.es/motor/reportajes/ia-coches-autonomos-muestra-discriminacion-segun-tono-20260924093800-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/24/ia-coches-seguros-RNjbOMzdjgbWGXpI5S4IZrM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La normativa de movilidad suma nuevas ciudades al mapa de restricciones al tráfico",
       "link": "https://www.abc.es/motor/reportajes/normativa-movilidad-suma-nuevas-ciudades-mapa-restricciones-20260924085500-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/24/MAPA-ZONAS-BAJAS-EMISIONES-RiahfuAloxuzwtIgu6kf2PM-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Nuevas Zonas de Bajas Emisiones: la lista se amplía hasta las 68 ciudades",
       "link": "https://www.abc.es/motor/reportajes/nuevas-zonas-bajas-emisiones-lista-amplia-ciudades-20260923005957-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/23/VIGO-ZBE-RRemu3kjv9P11N80cZhmiVM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La caravana del hidrógeno demuestra su viabilidad técnica en la automoción",
-      "link": "https://www.abc.es/motor/motoreco/caravana-hidrogeno-demuestra-viabilidad-tecnica-automocion-20260923075700-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/23/toyotahidrogeno2-Rsh3hD2w4YkIFlgOH4T7teP-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

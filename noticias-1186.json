@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Australia denuncia que la IA de OpenAI accedió sin autorización al portal de su sistema público de salud",
+      "link": "https://okdiario.com/internacional/australia-denuncia-que-ia-openai-accedio-sin-autorizacion-portal-sistema-publico-salud-20378375",
+      "imagen": "https://okdiario.com/img/2026/09/24/imagen_recortada-63.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Polonia moviliza aviones de combate tras detectar un helicóptero ruso en su espacio aéreo",
       "link": "https://okdiario.com/internacional/polonia-moviliza-aviones-combate-detectar-helicoptero-ruso-espacio-aereo-20372901",
       "imagen": "https://okdiario.com/img/2026/09/23/imagen_recortada-2-1.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Trump anuncia la construcción de dos bases militares en Groenlandia para dominar del Ártico",
       "link": "https://okdiario.com/internacional/trump-anuncia-construccion-dos-bases-militares-groenlandia-dominar-del-artico-20363688",
       "imagen": "https://okdiario.com/img/2026/09/22/trump-en-la-asamblea-de-la-onu.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Trump en la ONU: \"Tendremos un acuerdo con Irán si no, los sumiré en el infierno\"",
-      "link": "https://okdiario.com/internacional/trump-onu-tendremos-acuerdo-iran-si-no-sumire-infierno-20362246",
-      "imagen": "https://okdiario.com/img/2026/09/22/trump-onu.jpg",
       "tipo": "imagen"
     }
   ]
