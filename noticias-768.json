@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La dieta mediática de Vox",
+      "link": "https://www.eldiario.es/piedrasdepapel/dieta-mediatica-vox_132_13531882.html",
+      "imagen": "https://static.eldiario.es/clip/a39a3bb7-102d-4e59-aa63-40c04bc61c0d_16-9-discover-aspect-ratio_default_0_x1200y536.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La paradoja de la “democratización” en el ecosistema cripto: ¿Una forma de repartir el poder o de invisibilizarlo?",
       "link": "https://www.eldiario.es/piedrasdepapel/paradoja-democratizacion-ecosistema-cripto-forma-repartir-invisibilizarlo_132_13515022.html",
       "imagen": "https://static.eldiario.es/clip/0579848e-50b7-4d9e-93fe-32f3ce93292f_16-9-discover-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La casa y la urna",
       "link": "https://www.eldiario.es/piedrasdepapel/casa-urna_132_13383309.html",
       "imagen": "https://static.eldiario.es/clip/54174a3f-4cbf-4b26-8afe-e65a7cc7d406_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Qué papel juega ETA en la memoria de la sociedad?",
-      "link": "https://www.eldiario.es/piedrasdepapel/papel-juega-eta-memoria-sociedad_132_13366717.html",
-      "imagen": "https://static.eldiario.es/clip/1b76aff7-4aff-462a-8685-32ab0c48bc09_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
