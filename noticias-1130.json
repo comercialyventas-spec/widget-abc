@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Esperpento en el Congreso",
+      "link": "https://elpais.com/opinion/2026-09-24/esperpento-en-el-congreso.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/G4LVPTRLGRGVXKAXXJTR7PZNQE.jpg?auth=b87e87b9ff38eccc74d4717cfbcbd2c0c01b36ec1b9e417acc4f5664a75c0708&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El símbolo de un derecho roto",
       "link": "https://elpais.com/opinion/2026-09-23/el-simbolo-de-un-derecho-roto.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/TK5HVYYOLNGK7NPTCMFUEVJB2A.jpeg?auth=40c6e84a7f98b6a065801cfc037a09547cc6486688c4bc1fa2f6abd7e0f0b174&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TK5HVYYOLNGK7NPTCMFUEVJB2A.jpeg?auth=40c6e84a7f98b6a065801cfc037a09547cc6486688c4bc1fa2f6abd7e0f0b174&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Secuelas de la desinformación",
       "link": "https://elpais.com/opinion/2026-09-21/secuelas-de-la-desinformacion.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/NJ276PP37NCRHGZPUGYQ5LQP7M.jpg?auth=b1a399991c77f6a0685e8bedb9d2fb83c69004e723c4d19f3f5b9535e5efa35b&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Groenlandia no es de Trump",
-      "link": "https://elpais.com/opinion/2026-09-21/groenlandia-no-es-de-trump.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/PJIRTWKMPRAR3HVL4YGCEAXXQQ.jpg?auth=686b95ac70b21873ceca9643b7efdf44112883837e79f439ebd909ae94010a2e&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

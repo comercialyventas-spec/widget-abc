@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Zuckerberg aboga por \"empoderar a las personas\" con la IA frente a llamados a regularla",
+      "link": "https://www.dw.com/es/zuckerberg-aboga-por-empoderar-a-las-personas-con-la-ia-frente-a-llamados-a-regularla/a-79405457",
+      "imagen": "https://static.dw.com/image/77568058_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Pakistán lanza ataque contra ciudad afgana de Kandahar",
       "link": "https://www.dw.com/es/pakistán-lanza-ataque-contra-ciudad-afgana-de-kandahar/a-79405285",
       "imagen": "https://static.dw.com/image/76387885_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "EEUU: piden a juez que retire prohibición de Trump a medios",
       "link": "https://www.dw.com/es/eeuu-piden-a-juez-que-retire-prohibición-de-trump-a-medios/a-79405079",
       "imagen": "https://static.dw.com/image/79368716_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "China y EE.UU. acuerdan extender hasta enero su tregua comrcial",
-      "link": "https://www.dw.com/es/china-y-ee-uu-acuerdan-extender-hasta-enero-su-tregua-comrcial/a-79404729",
-      "imagen": "https://static.dw.com/image/79404789_6.jpg",
       "tipo": "imagen"
     }
   ]
