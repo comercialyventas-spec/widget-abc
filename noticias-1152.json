@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Una IA de OpenAI hackeó el sistema público de salud de Australia",
+      "link": "https://elpais.com/tecnologia/2026-09-24/una-ia-de-openai-hackeo-el-sistema-publico-de-salud-de-australia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TN6AN4MJEBLVJFCGTLAHHN3OLI.jpg?auth=06702e565679df9eed6a4bf3210d4f8a2fc6f41868340b5cf51bc9ac82a50906",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Puede una IA desenmascarar a otra? Pangram, una herramienta casi infalible para detectar textos y novelas creadas por máquinas",
       "link": "https://elpais.com/tecnologia/2026-09-24/puede-una-ia-desenmascarar-a-otra-pangram-una-herramienta-casi-infalible-para-detectar-textos-y-novelas-creadas-por-maquinas.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/7TE3VXMR7VJ47NZUAJT4C7YNBE.jpg?auth=b4650d2fded10543f186476de9cd0c6821b519d9c8a38121e2833aa265477056",
@@ -28,12 +34,6 @@
       "titulo": "La IA no necesita frenos, necesita otro rumbo",
       "link": "https://elpais.com/tecnologia/2026-09-22/la-ia-no-necesita-frenos-necesita-otro-rumbo.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/C7DQJULHFNFRHE5NKWP4CTY7KQ.jpg?auth=eec8c45c3a6da01d078d6be0b34df10ca08369e2d9e2eca146791c4864b5d77f",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sánchez reclama “un nuevo contrato social” para abordar la IA: “La autorregulación no funciona”",
-      "link": "https://elpais.com/tecnologia/2026-09-21/sanchez-reclama-un-nuevo-contrato-social-de-la-ia-antes-de-viajar-a-la-cumbre-de-la-onu-en-nueva-york.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260921/1216498_101059_video_1800.mp4",
       "tipo": "imagen"
     }
   ]
