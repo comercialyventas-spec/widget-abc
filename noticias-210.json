@@ -1,39 +1,39 @@
 {
   "noticias": [
     {
+      "titulo": "París inaugura su monumental ‘Ciudad del cine’",
+      "link": "https://www.france24.com/es/programas/carrusel-de-las-artes/20260924-par%C3%ADs-inaugura-su-monumental-ciudad-del-cine",
+      "imagen": "https://s.france24.com/media/display/5916be26-b83c-11f1-812a-91cf9f3cd539/w:1024/p:16x9/Carrusel-de-las-artes-RFI.jfif",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Venezolanos reaccionan a asistencia de presidenta encargada Delcy Rodríguez a Asamblea de la ONU",
+      "link": "https://www.france24.com/es/video/20260924-venezolanos-reaccionan-a-asistencia-de-presidenta-encargada-delcy-rodr%C3%ADguez-a-asamblea-de-la-onu",
+      "imagen": "https://s.france24.com/media/display/4fdd0ca2-b83c-11f1-a7d1-11fa9f8a3b4f/w:1024/p:16x9/ES-20260924-073753-073955-CS.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Así es Asia - Un río, seis países: ¿por qué el Mekong es tan importante para Asia?",
+      "link": "https://www.france24.com/es/programas/as%C3%AD-es-asia/20260924-un-r%C3%ADo-seis-pa%C3%ADses-por-qu%C3%A9-el-mekong-es-tan-importante-para-asia",
+      "imagen": "https://s.france24.com/media/display/7de33a9a-b783-11f1-8936-55848da96185/w:1280/p:16x9/WEB-PORTADA-23SEP-AEA.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "India lanza batalla contra la venta de comida chatarra cerca de las escuelas",
+      "link": "https://www.france24.com/es/programas/econom%C3%ADa/20260924-india-lanza-batalla-contra-la-venta-de-comida-chatarra-cerca-de-las-escuelas",
+      "imagen": "https://s.france24.com/media/display/146e865e-b838-11f1-a69a-c959b9d22ec6/w:1024/p:16x9/2026-09-24T045858Z-1750873282-RC2GLNAABM1Z-RTRMADP-3-INDIA-FOOD-SCHOOLS.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Qué dudas plantea la infiltración de agentes de OpenAI al sistema de salud pública de Australia?",
+      "link": "https://www.france24.com/es/ciencia-y-tecnolog%C3%ADas/20260924-qu%C3%A9-dudas-plantea-la-infiltraci%C3%B3n-de-agentes-de-openai-al-sistema-de-salud-p%C3%BAblica-de-australia",
+      "imagen": "https://s.france24.com/media/display/ca46ff78-b843-11f1-824d-91cf9f3cd539/w:1024/p:16x9/FOTO-PORTADA-AUSTRALIA-OPENAI.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "En vivo: Netanyahu inicia su discurso ante la ONU en medio de abucheos",
       "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260924-en-directo-netanyahu-afronta-el-debate-sobre-gaza-en-la-onu-mientras-abbas-intervendr%C3%A1-por-videoconferencia",
       "imagen": "https://s.france24.com/media/display/8724d968-b843-11f1-8122-11fa9f8a3b4f/w:1280/p:16x9/2026-09-24T181118Z-906499700-RC2UPNAMFTO4-RTRMADP-3-UN-ASSEMBLY.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Francia: ¿pueden los empresarios salvar los bosques?",
-      "link": "https://www.france24.com/es/programas/en-foco/20260924-francia-pueden-los-empresarios-salvar-los-bosques",
-      "imagen": "https://s.france24.com/media/display/bc5af3b0-b80c-11f1-986a-41bcac5946c5/w:1024/p:16x9/DN196991-A-01-20260916-01.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cuba: los cortes de electricidad ponen en peligro a los animales del zoológico",
-      "link": "https://www.france24.com/es/video/20260924-cuba-los-cortes-de-electricidad-ponen-en-peligro-a-los-animales-del-zool%C3%B3gico",
-      "imagen": "https://s.france24.com/media/display/9cd4fd1c-b832-11f1-bd06-555a0aff87a4/w:1024/p:16x9/Fotita-Leo.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Aranceles, guerra y economía: el panorama del encuentro entre Xi Jinping y Donald Trump",
-      "link": "https://www.france24.com/es/programas/invitad-del-d%C3%ADa/20260924-aranceles-guerra-y-econom%C3%ADa-el-panorama-del-encuentro-entre-xi-jinping-y-donald-trump",
-      "imagen": "https://s.france24.com/media/display/42c3000e-b83b-11f1-b6f7-8f3418d01115/w:1024/p:16x9/capture-19211771266ab55a38740a36-32076690.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Por qué se encarece el regreso a clases en Irán?",
-      "link": "https://www.france24.com/es/programas/corresponsales/20260924-por-qu%C3%A9-se-encarece-el-regreso-a-clases-en-ir%C3%A1n",
-      "imagen": "https://s.france24.com/media/display/6b959cbc-b831-11f1-b97d-852b23529bb9/w:1024/p:16x9/Corresponsales-8.jfif",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "\"Conmoción social y política por el desahucio de Maricarmen\": 'El País'",
-      "link": "https://www.france24.com/es/programas/revista-de-prensa/20260924-conmoci%C3%B3n-social-y-pol%C3%ADtica-por-el-desahucio-de-maricarmen-el-pa%C3%ADs",
-      "imagen": "https://s.france24.com/media/display/e44d20c0-b81e-11f1-99f1-a18ad05a0c45/w:1024/p:16x9/ES-20260924-081346-082057-CS.jpg",
       "tipo": "imagen"
     }
   ]

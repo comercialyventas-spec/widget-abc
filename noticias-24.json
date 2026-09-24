@@ -1,7 +1,19 @@
 {
   "noticias": [
     {
-      "titulo": "U2 anuncia ‘Carnaval De Luz’, su primer álbum de estudio en nueve años",
+      "titulo": "Benvinguts al gran teatre dels llibres lliures",
+      "link": "https://www.lavanguardia.com/encatala/20260924/11643208/benvinguts-gran-teatre-llibres-lliures-manrique-camps-vives-orriols.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/24/6ab56788866d0.r_d.3579-2630-894.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Macklemore anuncia la gira 'Free Palestine' tras ser excluido de los conciertos de Ed Sheeran",
+      "link": "https://www.lavanguardia.com/cultura/musica/20260924/11643261/macklemore-anuncia-gira-free-palestine-excluido-conciertos-ed-sheeran.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/05/08/663b6d9d103a6.r_d.2522-1357-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "U2 anuncia ‘Carnaval De Luz’, su primer álbum de estudio en nueve años, con una colaboración de Rosalía",
       "link": "https://www.lavanguardia.com/cultura/20260924/11643169/u2-anuncia-carnaval-luz-primer-album-estudio-nueve-anos.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/03/09/67cdad358616b.jpeg",
       "tipo": "imagen"
@@ -22,18 +34,6 @@
       "titulo": "Màrius Serra, premio Difusió de La Setmana, reivindica la Barcelona de los ‘inpats’",
       "link": "https://www.lavanguardia.com/cultura/20260924/11643071/marius-serra-premio-difusio-setmana-reivindica-barcelona-inpats.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/24/6ab50d3615872.r_d.3597-2455-624.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Màrius Serra, premi Difusió de La Setmana, reivindica la Barcelona dels ‘inpats’",
-      "link": "https://www.lavanguardia.com/cultura/20260924/11643062/marius-serra-premi-difusio-setmana-reivindica-barcelona-dels-inpats.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/24/6ab50d3615872.r_d.3597-2455-624.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "'Sants', la película por la que Victoria Luengo recupera su diente roto para hacer de ladrona",
-      "link": "https://www.lavanguardia.com/cultura/20260924/11642879/sants-pelicula-victoria-luengo-recupera-diente-roto-ladrona.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/24/6ab510fe6afd7.jpeg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La Guardia Civil investiga el intento de secuestro de una menor en Costur",
+      "link": "https://www.20minutos.es/comunidad-valenciana/castellon/guardia-civil-investiga-intento-secuestro-una-menor-costur_7041096_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2023/06/30/la-guardia-civil-a-las-puertas-de-la-vivienda-de-burriana-donde-se-ha-atrincherado-un-hombre.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Muere una mujer de 39 años tras caer de un quad por un terraplén en Castellón",
       "link": "https://www.20minutos.es/comunidad-valenciana/castellon/muere-una-mujer-39-anos-tras-caer-un-quad-por-un-terraplen-castellon_7038844_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/31/69557e534dddb2-66791953.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Controlado el incendio forestal de Segorbe tras calcinar 630 hectáreas en cinco días",
       "link": "https://www.20minutos.es/comunidad-valenciana/castellon/controlado-incendio-forestal-segorbe-tras-calcinar-630-hectareas-cinco-dias_7029324_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/25/6a8dd79659f490-82980995.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Estabilizado el incendio forestal de Segorbe tras calcinar 630 hectáreas",
-      "link": "https://www.20minutos.es/comunidad-valenciana/castellon/estabilizado-incendio-forestal-segorbe-calcinar-hectareas_7028425_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/08/23/6a8a9bbbcf55c6-99100077.r_d.964-601.jpeg",
       "tipo": "imagen"
     }
   ]
