@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Kiko Rivera entrega a Fran la herencia de Paquirri que llevaba 42 años esperando",
-      "link": "https://www.abc.es/gente/kiko-rivera-cumple-promesa-entrega-fran-herencia-20260924204149-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/24/fran-kiko-RZReOOub0lUm5dn1f4iQYdL-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Lista de premios de Lotería Nacional del jueves 24 de septiembre",
-      "link": "https://www.abc.es/loterias/loteria-nacional/loteria-nacional-hoy-jueves-directo-comprobar-resultados-numeros-sorteo-20260924193000-di.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/loterias/2026/05/07/loteria-jueves%20(5)-kCrD-U3018740296938YC-1200x838@diario_abc.jpg"
-    },
-    {
-      "titulo": "Una testigo dice que el PSOE pagó al medio de Leire con fondos de la campaña europea",
-      "link": "https://www.abc.es/espana/testigo-dice-psoe-pago-medio-leire-diez-20260924152312-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/24/Leire-kTcB-U301877512041eKB-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "Alonso, peor que nunca en la recta de Bakú: fue más lento que todos los coches de la F2",
       "link": "https://www.abc.es/deportes/formula-1/alonso-peor-nunca-recta-baku-lento-coches-20260924210759-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/24/alonso-baku-knwH-U301883784457xYB-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/24/alonso-baku-knwH-U301883784457xYB-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Junts aprovecha el desahucio de Maricarmen para sentar al PSOE a negociar el decreto de vivienda",
       "link": "https://www.abc.es/espana/psoe-junts-vuelven-negociar-sacar-decreto-vivienda-20260924135139-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/24/miriamnogueras-kyBC-U301875408755Y6G-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/24/miriamnogueras-kyBC-U301875408755Y6G-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "«Paquita, no estás sola»",
       "link": "https://www.abc.es/espana/paquita-sola-20260924205944-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/24/Secuencia%2004.00_30_21_19.Imagen%20fija009-RhCSgp5X7IzQsw37pFJ6Y1J-1200x672@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/24/Secuencia%2004.00_30_21_19.Imagen%20fija009-RhCSgp5X7IzQsw37pFJ6Y1J-1200x672@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "España boicotea el discurso de Netanyahu en la ONU",
+      "link": "https://www.abc.es/espana/espana-boicotea-discurso-netanyahu-onu-20260924210028-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/24/spain-kYN-U301884677827JuH-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Una testigo dice que el PSOE pagó al medio de Leire con fondos de la campaña europea",
+      "link": "https://www.abc.es/espana/testigo-dice-psoe-pago-medio-leire-diez-20260924152312-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/24/Leire-kTcB-U301877512041eKB-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "«Facha» y «racista»: acosan a un futbolista por decir que ama a su país y que canta el himno nacional desde niño",
+      "link": "https://www.abc.es/deportes/futbol/facha-racista-acosan-futbolista-decir-ama-pais-20260924182206-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/24/DAMBin%20(1)-Rwn2H4lzlwtH6ipqHO5oUTL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }
