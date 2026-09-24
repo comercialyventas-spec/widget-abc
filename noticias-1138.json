@@ -1,10 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "El alcalde de Ribarroja sostiene ante la jueza de la dana que temió por el barranco del Poyo siete horas antes del Es-Alert",
+      "link": "https://elpais.com/espana/comunidad-valenciana/2026-09-24/el-alcalde-de-ribarroja-sostiene-ante-la-jueza-de-la-dana-que-temio-por-el-barranco-del-poyo-siete-horas-antes-del-aviso-a-la-poblacion.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "Un alto cargo de Mazón asegura ante la jueza de la dana que Pradas habló del ‘Es Alert’ tres horas antes de su envío",
       "link": "https://elpais.com/espana/comunidad-valenciana/2026-09-23/un-alto-cargo-de-mazon-asegura-ante-la-jueza-de-la-dana-que-pradas-hablo-del-es-alert-tres-horas-antes-de-su-envio.html",
       "imagen": "",
       "tipo": ""
+    },
+    {
+      "titulo": "Un grupo de jóvenes persigue y apaliza a un magrebí en las fiestas de Tavernes de la Valldigna (Valencia)",
+      "link": "https://elpais.com/espana/comunidad-valenciana/2026-09-24/un-grupo-de-jovenes-persigue-y-apalea-a-un-magrebi-en-las-fiestas-de-tavernes-de-la-valldigna-valencia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VXJUHPI4V5EOXB3YYYR2Q27VEE.jpg?auth=f71fb0a80f76488e259960aaad6db9bf44e95c2be916376dbea94418d1e234ba&width=414&height=233&smart=true",
+      "tipo": "imagen"
     },
     {
       "titulo": "Todos los testigos afirman que la protesta de 11 activistas de Greenpeace en Sagunto fue pacífica, pero la fiscal pide dos años y medio de prisión",
@@ -15,25 +27,13 @@
     {
       "titulo": "Muere Manolo Boix, el renovador del realismo",
       "link": "https://elpais.com/espana/comunidad-valenciana/2026-09-23/muere-manolo-boix-el-renovador-del-realismo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/EZ5ZBTYCNZNUU7DOVFHE3O4ZBU.jpg?auth=3f41c46369962e8ac904647e3b3dce56c1d610f53f97ddb3baa42cb0461b769a&width=414&height=233&smart=true",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "La Audiencia impone 17 años y 9 meses de cárcel al hermano de Antonio Anglés por secuestrar y torturar a un hombre",
       "link": "https://elpais.com/espana/comunidad-valenciana/2026-09-23/la-audiencia-impone-17-anos-y-9-meses-de-carcel-al-hermano-de-antonio-angles-por-secuestrar-y-torturar-a-un-hombre.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Un juzgado respalda la multa de 30.000 euros puesta por el Ayuntamiento a tres pisos turísticos sin licencia en Valencia",
-      "link": "https://elpais.com/espana/comunidad-valenciana/2026-09-23/un-juzgado-respalda-la-multa-de-30000-euros-puesta-por-el-ayuntamiento-a-tres-pisos-turisticos-sin-licencia-en-valencia.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Valencia se abre a un gran debate que dividirá la capital: ¿un corredor verde sin vehículos o con tres carriles?",
-      "link": "https://elpais.com/espana/comunidad-valenciana/2026-09-23/valencia-se-abre-a-un-gran-debate-que-dividira-la-capital-un-corredor-verde-sin-vehiculos-o-con-tres-carriles.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/LP7PRV5UIJGIBN2FKD34DDLCZY.jpg?auth=9447cf51ee36c0339cc01510bb40ebbb361a643772befd8357e302cd176e02f4&width=414&height=311&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/GF2HPP5ZYFHVZBN7FP63NJOWPI.JPG?auth=270c864ede89a0a5c33e60a93ba57ca226482bdd8c76ae9d25f3f06e7558934a&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

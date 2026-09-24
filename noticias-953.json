@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Traficantes de cocaína eluden a las fuerzas de seguridad europeas con narcolanchas y tecnología",
+      "link": "https://www.elmundo.es/espana/2026/09/24/6ab50e62e4d4d8aa168b45b0.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/24/17902546429109.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La élite tecnológica está financiando una alternativa a la universidad",
       "link": "https://www.elmundo.es/economia/2026/09/23/6ab29feafc6c83a2128b4594.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/22/17900912987224.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Los bufetes de abogados tienen un gran problema: los socios veteranos no se están jubilando",
       "link": "https://www.elmundo.es/economia/empresas/2026/09/19/6aae5e0ae4d4d8c23a8b456e.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/19/17898122776344.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Hackers utilizaron Claude de Anthropic para entrar en OpenAI",
-      "link": "https://www.elmundo.es/economia/empresas/2026/09/18/6aace6c0fdddff4d318b45a3.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/18/17897165076344.jpg",
       "tipo": "imagen"
     }
   ]

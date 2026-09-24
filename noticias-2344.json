@@ -1,19 +1,25 @@
 {
   "noticias": [
     {
+      "titulo": "Un hombre y una mujer, condenados por una estafa informática de más de 118.000 euros en Zamora",
+      "link": "https://www.zamora24horas.com/sucesos/confirmada-condena-hombre-mujer-condena-dos-personas-estafa-informatica-118-000-euros-zamora",
+      "imagen": "https://statics.zamora24horas.com/df77c99c-7f87-4841-9844-c4700d7f33d4.webp?format=webp&width=320&quality=75",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Una mujer herida en un accidente entre un turismo y una cosechadora en Zamora",
       "link": "https://www.zamora24horas.com/sucesos/mujer-herida-accidente-entre-turismo-cosechadora-zamora",
       "imagen": "https://statics.zamora24horas.com/fe39255b-dfd4-47d6-9ece-92123a128307.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
     },
     {
-      "titulo": "Un incidente sanitario en pleno centro de Zamora moviliza a los servicios de emergencias",
+      "titulo": "Ambulancia y Policía Local en el lugar de los hechos",
       "link": "https://www.zamora24horas.com/sucesos/incidente-sanitario-pleno-centro-zamora-moviliza-servicios-emergencias",
       "imagen": "https://statics.zamora24horas.com/e1ecbc20-2efa-4cfb-9054-b32fd2d84da7.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
     },
     {
-      "titulo": "Incendio en Tamame, Sayago",
+      "titulo": "El fuego regresa a Sayago este martes y obliga a intervenir medios terrestres y aéreos",
       "link": "https://www.zamora24horas.com/sucesos/fuego-regresa-sayago-este-martes-obliga-intervenir-medios-terrestres-aereos",
       "imagen": "https://statics.zamora24horas.com/74a99119-7744-415e-ad27-05b8fe3b5ab9.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
@@ -22,12 +28,6 @@
       "titulo": "Detenido por un robo con arma de fuego en un restaurante de Zamora",
       "link": "https://www.zamora24horas.com/sucesos/detenido-robo-arma-fuego-restaurante-zamora",
       "imagen": "https://statics.zamora24horas.com/353d6b54-3dc6-41ce-b8c6-00ed547ab90a.webp?format=webp&width=320&quality=75",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El fuego de Muelas del Pan, provocado: ya se conoce la superficie afectada",
-      "link": "https://www.zamora24horas.com/sucesos/fuego-muelas-pan-provocado-conoce-superficie-afectada",
-      "imagen": "https://statics.zamora24horas.com/db3e9622-69f8-456b-9adf-32cfc3023813.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
     }
   ]
