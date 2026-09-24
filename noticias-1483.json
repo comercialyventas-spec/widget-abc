@@ -1,15 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "El Supremo confirma ocho años y medio de inhabilitación al expresidente de la Diputación de León por la trama Púnica",
+      "link": "https://www.eldiario.es/autores/alberto-pozas/",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "La Fiscalía de Palencia archiva la denuncia por la adjudicación de un chalé protegido a una concejala del PP",
+      "link": "https://www.eldiario.es/castilla-y-leon/tribunales/fiscalia-palencia-archiva-denuncia-adjudicacion-chale-protegido-concejala-pp_1_13534490.html",
+      "imagen": "https://static.eldiario.es/clip/3e28c19a-60a1-4ca2-8a61-b32e52e97862_facebook-aspect-ratio-1200-675_default_0_x1089y326.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Junta de Castilla y León cree que el desahucio de Maricarmen demuestra “el fracaso del Gobierno en Vivienda”",
       "link": "https://www.eldiario.es/castilla-y-leon/politica/junta-castilla-leon-cree-desahucio-maricarmen-demuestra-fracaso-gobierno-materia-vivienda_1_13534637.html",
-      "imagen": "https://static.eldiario.es/clip/545031a7-e925-431a-921c-6f291f7ae51f_facebook-aspect-ratio-1200-675_default_0_x840y363.jpg",
+      "imagen": "https://static.eldiario.es/clip/545031a7-e925-431a-921c-6f291f7ae51f_16-9-discover-aspect-ratio_default_0_x840y363.jpg",
       "tipo": "imagen"
     },
     {
       "titulo": "La familia de una menor denuncia a un párroco de un pueblo de Soria por acoso sexual",
       "link": "https://www.eldiario.es/castilla-y-leon/sociedad/familia-menor-denuncia-parroco-pueblo-soria-acoso-sexual_1_13534034.html",
-      "imagen": "https://static.eldiario.es/clip/d6e2b20e-92fd-4a90-865e-ca1f79f3efbc_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "imagen": "https://static.eldiario.es/clip/d6e2b20e-92fd-4a90-865e-ca1f79f3efbc_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -19,21 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "La Guardia Civil de Palencia detiene a dos personas por sustraer productos del Banco de Alimentos y venderlos en Parla",
-      "link": "https://www.eldiario.es/castilla-y-leon/sucesos/guardia-civil-palencia-detiene-personas-sustraer-productos-banco-alimentos-venderlos-parla_1_13534300.html",
-      "imagen": "https://static.eldiario.es/clip/1516282a-6342-4260-a44c-f43a77ca540d_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Justicia confirma la limitación a los pisos turísticos de Salamanca: solo se podrán autorizar en plantas bajas y primeros",
-      "link": "https://www.eldiario.es/castilla-y-leon/provincias/salamanca/justicia-confirma-limitacion-pisos-turisticos-salamanca-podran-autorizar-plantas-bajas-primeros_1_13532431.html",
-      "imagen": "https://static.eldiario.es/clip/696be7ad-58e6-4ad4-967a-e0aaadea6e3f_16-9-discover-aspect-ratio_default_0_x199y177.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Guterres será investido 'honoris causa' en la USAL el 6 de noviembre",
-      "link": "https://www.eldiario.es/castilla-y-leon/sociedad/antonio-guterres-sera-investido-honoris-causa-universidad-salamanca-6-noviembre_1_13532363.html",
-      "imagen": "https://static.eldiario.es/clip/77ed2b31-5215-4557-aef8-969958248d92_16-9-discover-aspect-ratio_default_0_x964y201.jpg",
+      "titulo": "Los jóvenes de Castilla y León podrán pedir la subvención para el carnet de conducir a partir del 1 de octubre",
+      "link": "https://www.eldiario.es/castilla-y-leon/sociedad/jovenes-castilla-leon-podran-pedir-subvencion-carnet-conducir-partir-1-octubre_1_13534583.html",
+      "imagen": "https://static.eldiario.es/clip/2f062307-7c7e-4488-a4a4-cfd4494338fb_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

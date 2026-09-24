@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El rey alerta del riesgo de la desinformación y pide usar la IA bajo el control humano",
+      "link": "https://efe.com/espana/2026-09-24/rey-apertura-curso-academico-universidades/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/FELIPE-VI-CURSO-UNIVERSITARIO.webp?w=600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Más de 850.000 pacientes están en lista de espera para operarse, con una media de 122 días",
+      "link": "https://efe.com/espana/listas-espera-operacion-espana-sanidad/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/08/rss-efea44fb7a242aa9055062891a41abf536c115fa29aw.webp?w=600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Supremo confirma 8 años de inhabilitación al expresidente de la Diputación de León en el caso Púnica",
       "link": "https://efe.com/espana/2026-09-24/caso-punica-inhabilitacion-diputacion-leon/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/punica-leon.webp?w=600&ssl=1",
@@ -22,18 +34,6 @@
       "titulo": "El cirujano que denunció la manipulación de las listas de espera en Madrid anuncia acciones legales",
       "link": "https://efe.com/espana/2026-09-24/cirujano-listas-espera-madrid-acciones-legales/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/cirujano-ramon-cajal.webp?w=600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Defensor del Pueblo pide medidas urgentes para evitar desahucios como el de Maricarmen",
-      "link": "https://efe.com/espana/2026-09-24/defensor-pueblo-pide-medidas-urgentes-evitar-desahucios-maricarmen-2/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/defensor.webp?w=600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "En España hay cerca de 8.000 residencias, un 62 % privadas",
-      "link": "https://efe.com/espana/2026-09-24/residencias-mayores-espana/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/RGC_4653.webp?w=600&ssl=1",
       "tipo": "imagen"
     }
   ]

@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Baddie",
-      "link": "https://elpais.com/television/series/baddie/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/XOQNXFNV2FDMHKPVDEZX77JCXU.jpg?auth=f9b67b4dd9be916b632438965d4ab3dc9445c3fcfa4cb94cd25a56e333e9171d",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "‘Compañeros’ prepara su regreso para contar qué fue de Quimi y Valle 25 años después",
       "link": "https://elpais.com/television/series/2026-09-24/companeros-prepara-su-regreso-para-contar-que-fue-de-quimi-y-valle-25-anos-despues.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/H725GOFYRVBCJA7GTBTQ5EWVYU.webp?auth=b2b4c1d1ad69d68650f6f267e7de1590da9fecda1528d3c098b4669330d19015",
@@ -34,6 +28,12 @@
       "titulo": "Y ahora, ¿qué hacemos contigo, Ana Vázquez?",
       "link": "https://elpais.com/television/2026-09-24/y-ahora-que-hacemos-contigo-ana-vazquez.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/Z3FPALJGCVBA3IRCYUDFHE7R4U.jpg?auth=a746e2ad6ac21e2d902705750302f50ab1d2e23e0b1d8e971cae872fd24d0a0e",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los que se salen con la suya",
+      "link": "https://elpais.com/television/2026-09-24/los-que-se-salen-con-la-suya.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/Z4NVDJ76UZNFFLMIAVIQP4ZMLQ.jpg?auth=f6e7ff756d09a2d43523d884f484277d580d25cf71d6a4f1f8b6192bc25c7633",
       "tipo": "imagen"
     }
   ]
