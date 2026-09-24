@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Menores Ceuta",
+      "link": "https://www.elconfidencialdigital.com/album/vivir/menores-ceuta/202609241233291487950.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/24/2026092412293917381.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Trabajadores de Renfe",
       "link": "https://www.elconfidencialdigital.com/album/vivir/trabajadores-renfe/202609231203571487574.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/23/2026092312025941160.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Huevos Guillén",
       "link": "https://www.elconfidencialdigital.com/album/vivir/huevos/202609111736341040404.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/11/2026091117313346341.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Supermercados",
-      "link": "https://www.elconfidencialdigital.com/album/vivir/supermercados/202609101132181039990.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/10/2026091011301786085.jpg",
       "tipo": "imagen"
     }
   ]
