@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Los perros detectan palabras con una estrategia similar a la humana",
+      "link": "https://www.lavanguardia.com/ciencia/20260924/11641600/perros-detectan-palabras-estrategia-similar-humana.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/22/6ab2b83eb7488.r_d.2644-2096-866.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El cerebro humano no acaba de madurar hasta los 24 años",
       "link": "https://www.lavanguardia.com/ciencia/20260923/11642130/cerebro-humano-acaba-madurar-24-anos.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/06/27/667dd764948f0.r_d.4013-3253-561.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "El CaixaResearch Institute crece con el reto de ser referente en inmunología",
       "link": "https://www.lavanguardia.com/local/catalunya/catalunya-avanca/20260921/11634612/caixaresearch-institute-crece-reto-referente-inmunologia.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/04/23/69ea418279a2f.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Antic Mercat del Peix refuerza la Barcelona científica",
-      "link": "https://www.lavanguardia.com/local/catalunya/catalunya-avanca/20260921/11630364/antic-mercat-peix-refuerza-barcelona-cientifica.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/08/6aa03c9ec0cce.r_d.4004-2249-590.jpeg",
       "tipo": "imagen"
     }
   ]

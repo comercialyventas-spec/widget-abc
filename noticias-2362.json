@@ -1,0 +1,40 @@
+{
+  "noticias": [
+    {
+      "titulo": "#lr-p-banner-container-wah *, #lr-p-banner-container-wah *::before, #lr-p-banner-container-wah *::after { box-sizing: border-box !important; margin: 0",
+      "link": "https://promociones.larazon.es/easy-grill-pro/",
+      "imagen": "https://promociones.larazon.es/wp-content/uploads/2026/09/Cartela-Generica-1008x664-Grill-v2.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "#lr-p-banner-container-aquopolis *, #lr-p-banner-container-aquopolis *::before, #lr-p-banner-container-aquopolis *::after { box-sizing: border-box !important; margin: 0 !important; padding: 0 !important; } /* Contenedor estricto del logo de La Razón */ #lr-p-banner-container-aquopolis .lr-logo-wrapper { position: absolute !important; width: 118px !important; height: 22px !important; left: 21px !important; top: 39px !important; z-index: 5 !important; display: block !important; } #lr-p-banner-container-aquopolis .lr-logo-wrapper img { width: 118px !important; height: 22px !important; max-width: 118px !important; max-height: 22px !important; display: block !important; object-fit: contain !important; } /* Capas fijas */ #lr-p-banner-container-aquopolis .lr-layer { position: absolute !important; width: 100% !important; height: 100% !important; top: 0 !important; left: 0 !important; } #lr-p-banner-container-aquopolis .lr-bg-shape { width: 136.6px !important; height: 580px !important; left: 11.7px !important; top: 10px !important; z-index: 1 !important; border: 1px solid rgba(255,255,255,0.1) !important; border-radius: 20px !important; background-color: #000512 !important; } #lr-p-banner-container-aquopolis .lr-central-img-box { width: 136.6px !important; height: 225px !important; left: 11.7px !important; top: 247px !important; z-index: 2 !important; border-radius: 10px !important; overflow: hidden !important; } #lr-p-banner-container-aquopolis .lr-brand-logo-box { width: 128px !important; height: 74px !important; left: 16px !important; top: 485px !important; z-index: 4 !important; } #lr-p-banner-container-aquopolis .lr-gift-icon-box { width: 110px !important; height: 122px !important; left: 25px !important; top: 474px !important; z-index: 3 !important; } /* Textos animados */ #lr-p-banner-container-aquopolis .lr-text-block { position: absolute !important; width: 142px !important; height: 138px !important; left: 9px !important; top: 90px !important; z-index: 10 !important; font-family: 'Playfair Display', serif !important; font-weight: 900 !important; font-size: 20px !important; line-height: 1.25 !important; text-align: center !important; word-wrap: break-word !important; } #lr-p-banner-container-aquopolis .lr-text-block .row { display: block !important; } #lr-p-banner-container-aquopolis .lr-text-white { color: #f6f7f9 !important; } #lr-p-banner-container-aquopolis .lr-text-yellow { color: #f5d40e !important; } /* Animaciones */ #lr-p-banner-container-aquopolis .lr-txt-1 { animation: lrAnimAqua1 12s infinite ease-in-out; } #lr-p-banner-container-aquopolis .lr-txt-2 { animation: lrAnimAqua2 12s infinite ease-in-out; opacity: 0; } #lr-p-banner-container-aquopolis .lr-txt-3 { animation: lrAnimAqua3 12s infinite ease-in-out; opacity: 0; } @keyframes lrAnimAqua1 { 0% { opacity: 0; transform: translateY(5px); filter: blur(3px); } 3%, 30% { opacity: 1; transform: translateY(0); filter: blur(0); } 33% { opacity: 0; transform: translateY(-5px); filter: blur(3px); } 100% { opacity: 0; } } @keyframes lrAnimAqua2 { 0%, 33% { opacity: 0; transform: translateY(5px); filter: blur(3px); } 36%, 63% { opacity: 1; transform: translateY(0); filter: blur(0); } 66% { opacity: 0; transform: translateY(-5px); filter: blur(3px); } 100% { opacity: 0; } } @keyframes lrAnimAqua3 { 0%, 66% { opacity: 0; transform: translateY(5px); filter: blur(3px); } 69%, 96% { opacity: 1; transform: translateY(0); filter: blur(0); } 99%, 100% { opacity: 0; transform: translateY(-5px); filter: blur(3px); } } #lr-p-banner-container-aquopolis .lr-img-cover { width: 100% !important; height: 100% !important; background-size: cover !important; background-position: center !important; background-repeat: no-repeat !important; } /* Imagen central - Foto de la familia en la piscina */ #lr-p-banner-container-aquopolis .lr-central-aqua-img { background-image: url(https://promociones.larazon.es/wp-content/uploads/2026/06/2243b30602ba7e9cd41fcb3d730c9e47.png) !important; animation: lrAquaBlur 12s infinite ease-in-out; } @keyframes lrAquaBlur { 0% { filter: blur(8px); opacity: 0; } 4%, 100% { filter: blur(0); opacity: 1; } } /* Logo de marca abajo - Logotipo oficial de Aquopolis */ #lr-p-banner-container-aquopolis .lr-brand-aqua-img { background-image: url(https://promociones.larazon.es/wp-content/uploads/2026/06/dd0c720e73d9cb560f9eded782318546.png) !important; background-size: contain !important; animation: lrAquaLogoEnt 12s infinite ease-in-out; opacity: 0; } @keyframes lrAquaLogoEnt { 0%, 63% { opacity: 0; transform: translateY(10px); } 68%, 100% { opacity: 1; transform: translateY(0); } } /* Icono del periódico regalo */ #lr-p-banner-container-aquopolis .lr-gift-aqua-img { background-image: url(https://promociones.larazon.es/wp-content/uploads/2026/06/85add5b4e2d22f28bee948ecba176a7c-2.png) !important; background-size: contain !important; animation: lrAquaRegaloIn 12s infinite ease-in-out; } @keyframes lrAquaRegaloIn { 0% { transform: scale(2); opacity: 0; } 6%, 63% { transform: scale(1); opacity: 1; } 66%, 100% { transform: scale(0); opacity: 0; } } El plan más fresco del verano está aquí. Refréscate. Entra ahora y consigue tu súper regalo. 2 entradas para Aquopolis Madrid GRATIS. (function() { var currentScript = document.currentScript; if (currentScript && currentScript.parentElement) { var banner = currentScript.parentElement; banner.addEventListener('click', function(e) { if(e.target.tagName !== 'A') { e.preventDefault(); window.open('https://ofertasuscripcion.larazon.es/aquopolis', '_blank'); } }); } })();",
+      "link": "https://ofertasuscripcion.larazon.es/aquopolis",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "#lr-p-banner-container-warner *, #lr-p-banner-container-warner *::before, #lr-p-banner-container-warner *::after { box-sizing: border-box !important;",
+      "link": "https://promociones.larazon.es/bolsa-formula-1-madring/",
+      "imagen": "https://promociones.larazon.es/wp-content/uploads/2026/08/Cartela-generica-1008x664-Bolsa-F1.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Publicidad ⎜ Equipo ⎜ Privacidad ⎜ Cookies Facebook-f Twitter Instagram",
+      "link": "https://www.larazon.es/",
+      "imagen": "https://www.larazon.es/public/img/larazon/favicon/apple-touch-icon.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Publicidad ⎜ Equipo ⎜ Privacidad ⎜ Cookies",
+      "link": "https://www.larazon.es/publicidad/",
+      "imagen": "https://www.larazon.es/public/img/larazon/favicon/apple-touch-icon.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Facebook-f Twitter Instagram",
+      "link": "https://www.facebook.com/larazon.es",
+      "imagen": "",
+      "tipo": ""
+    }
+  ]
+}

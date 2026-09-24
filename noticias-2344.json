@@ -1,19 +1,25 @@
 {
   "noticias": [
     {
+      "titulo": "Un hombre resulta herido en un choque entre dos turismos en Zamora capital",
+      "link": "https://www.zamora24horas.com/sucesos/hombre-resulta-herido-choque-entre-dos-turismos-zamora-capital",
+      "imagen": "https://statics.zamora24horas.com/5dfcfe2e-db29-4f84-859e-765866db56cc.webp?format=webp&width=320&quality=75",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un hombre y una mujer, condenados por una estafa informática de más de 118.000 euros en Zamora",
       "link": "https://www.zamora24horas.com/sucesos/confirmada-condena-hombre-mujer-condena-dos-personas-estafa-informatica-118-000-euros-zamora",
       "imagen": "https://statics.zamora24horas.com/df77c99c-7f87-4841-9844-c4700d7f33d4.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
     },
     {
-      "titulo": "Una mujer herida en un accidente entre un turismo y una cosechadora en Zamora",
+      "titulo": "La grúa traslada el turismo implicado en el accidente de Abraveses con una cosechadora",
       "link": "https://www.zamora24horas.com/sucesos/mujer-herida-accidente-entre-turismo-cosechadora-zamora",
       "imagen": "https://statics.zamora24horas.com/748b0182-50dd-46a7-964b-8fe786f25e1c.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
     },
     {
-      "titulo": "Ambulancia y Policía Local en el lugar de los hechos",
+      "titulo": "Un incidente sanitario en pleno centro de Zamora moviliza a los servicios de emergencias",
       "link": "https://www.zamora24horas.com/sucesos/incidente-sanitario-pleno-centro-zamora-moviliza-servicios-emergencias",
       "imagen": "https://statics.zamora24horas.com/e1ecbc20-2efa-4cfb-9054-b32fd2d84da7.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
@@ -22,12 +28,6 @@
       "titulo": "El fuego regresa a Sayago este martes y obliga a intervenir medios terrestres y aéreos",
       "link": "https://www.zamora24horas.com/sucesos/fuego-regresa-sayago-este-martes-obliga-intervenir-medios-terrestres-aereos",
       "imagen": "https://statics.zamora24horas.com/74a99119-7744-415e-ad27-05b8fe3b5ab9.webp?format=webp&width=320&quality=75",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Detenido por un robo con arma de fuego en un restaurante de Zamora",
-      "link": "https://www.zamora24horas.com/sucesos/detenido-robo-arma-fuego-restaurante-zamora",
-      "imagen": "https://statics.zamora24horas.com/353d6b54-3dc6-41ce-b8c6-00ed547ab90a.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Hablar a los perros moldea su cerebro",
+      "link": "https://www.abc.es/ciencia/hablar-perros-moldea-cerebro-20260924200000-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/24/perros_20260924184238-RlIJN7fuDvJu0lT0OQQbhmI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Anthropic anuncia que su IA ha descubierto un nuevo sistema biológico similar a Crispr",
       "link": "https://www.abc.es/ciencia/anthropic-anuncia-ia-descubierto-nuevo-sistema-biologico-20260924112559-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/24/claude-RUrDqRS6K50IAmurQgYmHZO-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El atlas más completo de la corteza prefrontal muestra que el cerebro madura a los 24 años",
       "link": "https://www.abc.es/ciencia/cerebro-termina-madurar-anos-20260922170022-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/22/cerebro11-R6IAuFzt3y21nY8sBfFmvzK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El vómito revela el secreto de los plesiosaurios, los monstruos marinos que regurgitaban a sus víctimas",
-      "link": "https://www.abc.es/ciencia/vomito-revela-secreto-plesiosaurios-monstruos-marinos-regurgitaban-20260922013022-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/22/plesiusaurio-vomito-RnhJjqZyNnjgfX8McGfOYJL-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
