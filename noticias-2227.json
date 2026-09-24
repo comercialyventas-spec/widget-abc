@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Supresión de Parada: Fuente Carrantona. Afectadas 4 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260924-SP-1057-Fuente-Carrantona.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Supresión de Parada: Fuente Carrantona. Afectadas 3 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260924-SP-3336-Fuente-Carrantona.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Servicio Especial línea 6 de Metro entre Cuatro Caminos y Laguna",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260926-SE6-Cuatro-Caminos-Laguna.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -19,20 +31,8 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Acto religioso en Villaverde Alto. Afectadas 5 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260927-Ensayo-Costaleros-Virgen-Rosario-Villaverde.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Evento deportivo en varios distritos. Afectadas 33 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260924-Carrera-Tajamar.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Incidencia en la calzada: Paseo del General Martínez Campos. Afectadas 3 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260923-IC-General-Martinez-Campos.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }
