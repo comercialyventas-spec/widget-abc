@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La flor de la verdejo",
+      "link": "https://www.abc.es/gastronomia/vinos/flor-verdejo-20260924175217-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/24/florinnata2-R9MylJJfo3OJDbAeQFj5S6I-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Nuevos restaurantes en Madrid: 10 aperturas para todos los gustos",
       "link": "https://www.abc.es/gastronomia/diez-nuevos-bares-tabernas-restaurantes-madrid-descubrir-20260922105806-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/22/aperturas-R2orj0wvQ7WOo8fhiKn45yM-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Qué se come y se bebe en los conciertos de Shakira en Madrid",
       "link": "https://www.abc.es/gastronomia/come-bebe-conciertos-shakira-madrid-20260918164929-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/18/Terrace_SideView-RjvKFoTZM9ktOXyxhDUdhLO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Barrera al Sol 2021, un vino contra las llamas",
-      "link": "https://www.abc.es/gastronomia/vinos/barrera-llamas-20260917103635-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/17/riconuevo-RzVPPOEqtdn5mCkJuxHCeUN-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

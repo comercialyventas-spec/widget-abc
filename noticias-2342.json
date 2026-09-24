@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "GALERÍA | Medios aéreos y terrestres luchan contra el fuego en Muelas del Pan",
-      "link": "https://www.zamora24horas.com/sucesos/galeria-medios-aereos-terrestres-luchan-fuego-muelas-pan",
-      "imagen": "https://statics.zamora24horas.com/593b83c2-2d66-4da4-b040-72100c5f42b3.webp?format=webp&width=320&quality=75",
+      "titulo": "GALERÍA | La Feria de Bienvenida del nuevo curso en el Campus de Zamora, en imágenes",
+      "link": "https://www.zamora24horas.com/local/galeria-feria-bienvenida-nuevo-curso-campus-zamora-imagenes",
+      "imagen": "https://statics.zamora24horas.com/c0583506-3254-41ee-b55a-e1d2827507ac.webp?format=webp&width=320&quality=75",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "GALERÍA | Así ha sido el partido entre el Zamora CF y el CD Lugo",
+      "link": "https://www.zamora24horas.com/deportes/galeria-asi-ha-sido-partido-entre-zamora-cf-cd-lugo",
+      "imagen": "https://statics.zamora24horas.com/6297f500-a2e0-468d-b1d6-da466127401d.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
     },
     {
@@ -16,12 +22,6 @@
       "titulo": "GALERÍA | El Día de la Bici en Zamora, en imágenes",
       "link": "https://www.zamora24horas.com/local/galeria-dia-bici-zamora-imagenes",
       "imagen": "https://statics.zamora24horas.com/76541c8c-d207-4031-a3f3-5b0f57bfbfea.webp?format=webp&width=320&quality=75",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "GALERÍA | Revive en imágenes la procesión de la Virgen de la Saleta por el centro de Zamora",
-      "link": "https://www.zamora24horas.com/cultura/galeria-revive-imagenes-procesion-virgen-saleta-centro-zamora",
-      "imagen": "https://statics.zamora24horas.com/a5be6f5a-77cd-4c83-8927-7c3cdaca8521.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
     }
   ]
