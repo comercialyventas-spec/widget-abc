@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un mundo diferente",
+      "link": "https://elpais.com/television/series/un-mundo-diferente/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/N2GHJYLEQFGY5HNX4GICACLM24.webp?auth=08e7ee4a6b9826cf5f1a05a0992aee07721c76ddd21c3e68e60c47a55ef1df30",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Baddie",
       "link": "https://elpais.com/television/series/baddie/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/XOQNXFNV2FDMHKPVDEZX77JCXU.jpg?auth=f9b67b4dd9be916b632438965d4ab3dc9445c3fcfa4cb94cd25a56e333e9171d",
@@ -28,12 +34,6 @@
       "titulo": "Marc Giró toma medidas legales tras recibir amenazas de muerte por hablar de Ceuta: “Si te veo por ahí te arranco la mandíbula”",
       "link": "https://elpais.com/television/2026-09-24/marc-giro-denuncia-amenazas-de-muerte-tras-hablar-de-ceuta-si-te-veo-por-ahi-te-arranco-la-mandibula.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/AEDJRGR2VVD3LHDD3NB2AIJ5F4.png?auth=e04250f3b4abc451ebe36c29310675d0ea41fb5ae40bd7cb2d09af53e817fb2e",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Y ahora, ¿qué hacemos contigo, Ana Vázquez?",
-      "link": "https://elpais.com/television/2026-09-24/y-ahora-que-hacemos-contigo-ana-vazquez.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/Z3FPALJGCVBA3IRCYUDFHE7R4U.jpg?auth=a746e2ad6ac21e2d902705750302f50ab1d2e23e0b1d8e971cae872fd24d0a0e",
       "tipo": "imagen"
     }
   ]

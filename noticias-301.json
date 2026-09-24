@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La cruz",
+      "link": "https://www.abc.es/deportes/real-madrid/juanma-rodriguez-cruz-20260924165600-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/24/mou-R4IajyCIOIbSaQlbxeJ4HLK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Konaté, primera víctima del parón de selecciones",
       "link": "https://www.abc.es/deportes/real-madrid/konate-primera-victima-paron-selecciones-20260924102508-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/24/konate-RXiNlXPv7OpovpuB9gE305J-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El derbi acaba con el Mourinho 'zen'",
       "link": "https://www.abc.es/deportes/real-madrid/derbi-acaba-mourinho-zen-20260921112820-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/21/mourinho-ortiz-arias-R2hXCgIpFG9saOGEBtVAeCK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Real Madrid, sin centro del campo pero con impresora a color",
-      "link": "https://www.abc.es/deportes/real-madrid/real-madrid-centro-campo-impresora-color-20260921091814-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/21/valverde-Re8CdkaKyUe4i4M2Mjsq7kM-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

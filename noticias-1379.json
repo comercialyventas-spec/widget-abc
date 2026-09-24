@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Marni, en busca de lo esencial",
+      "link": "https://elpais.com/smoda/milan-fashion-week/2026-09-24/marni-en-busca-de-lo-esencial.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XM3RVEJXZVILXAAI32ZGRHZ47M.jpg?auth=531d0665ab748453ce168a807d0099de66b7ed80cb23704e5143b4140e363a9d",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los horizontes de Max Mara",
       "link": "https://elpais.com/smoda/milan-fashion-week/2026-09-24/los-horizontes-de-max-mara.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/ZFKD5F2IXFIYBJVCAM5ULJFTX4.jpg?auth=d40c71128f973c59491e85c112b5ea4d817b207149b6ff959257831bb39e67a4",
@@ -28,12 +34,6 @@
       "titulo": "Fendi, reflejos de feminidad",
       "link": "https://elpais.com/smoda/milan-fashion-week/2026-09-23/fendi-reflejos-de-feminidad.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/GNOJ4FHH7JKRBHNUM2AIUJ6DOM.jpg?auth=a953861b087577d9c1c3afe22014fc074fcca974610dd81e87e11dc85c37f657",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La despedida de Glenn Martens de Diesel",
-      "link": "https://elpais.com/smoda/milan-fashion-week/2026-09-23/la-despedida-de-glenn-martens-de-diesel.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/NDTLSZT6TZJLJIOEY7R2EL4DUI.jpg?auth=1ea9620f75c25b650993e8f54090ce00d167aaf1e88c6f3991f32f50733f5625",
       "tipo": "imagen"
     }
   ]

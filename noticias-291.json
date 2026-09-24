@@ -1,15 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "Una 'batalla' en el centro de la Tierra decide cuánto debe durar cada día",
-      "link": "https://www.abc.es/ciencia/batalla-centro-tierra-decide-debe-durar-dia-20260924122554-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/24/Interacciones%20Tierra-RfqYULHQm5YMI7ymkwVMxrJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Anthropic anuncia que su IA ha descubierto un nuevo sistema biológico similar a Crispr",
       "link": "https://www.abc.es/ciencia/anthropic-anuncia-ia-descubierto-nuevo-sistema-biologico-20260924112559-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/24/claude-RUrDqRS6K50IAmurQgYmHZO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Astrónomos captan por primera vez señales de radio de un exoplaneta, un mundo fuera del Sistema Solar",
+      "link": "https://www.abc.es/ciencia/astronomos-captan-primera-vez-senales-radio-exoplaneta-20260924162820-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/24/meerkat_1-RJ95n86b6yCYKsE5T3PNOAJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Una 'batalla' en el centro de la Tierra decide cuánto debe durar cada día",
+      "link": "https://www.abc.es/ciencia/batalla-centro-tierra-decide-debe-durar-dia-20260924122554-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/24/Interacciones%20Tierra-RfqYULHQm5YMI7ymkwVMxrJ-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "El vómito revela el secreto de los plesiosaurios, los monstruos marinos que regurgitaban a sus víctimas",
       "link": "https://www.abc.es/ciencia/vomito-revela-secreto-plesiosaurios-monstruos-marinos-regurgitaban-20260922013022-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/22/plesiusaurio-vomito-RnhJjqZyNnjgfX8McGfOYJL-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Descubierta la 'ameba de fuego', el único ser vivo complejo conocido que prospera a más de 60º C",
-      "link": "https://www.abc.es/ciencia/descubierta-ameba-fuego-unico-vivo-complejo-conocido-20260921170000-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/21/ameba-2_20260922104800-RrsA3cxVZUI10NOSBs30fFN-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

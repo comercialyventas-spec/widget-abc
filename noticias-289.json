@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "La OMS confirma que un TAC anual detecta antes el cáncer de pulmón y reduce la mortalidad",
+      "link": "https://www.abc.es/salud/enfermedades/oms-confirma-tac-anual-detecta-cancer-pulmon-20260924163016-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/salud/2026/09/24/1500667641-RuVH0LmN8u2lF8QeClzx85I-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La investigación contra el cáncer, una responsabilidad de todos",
+      "link": "https://www.abc.es/salud/enfermedades/investigacion-cancer-responsabilidad-20260924165029-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/salud/2026/09/24/48501786-RCj4JHM6WYbQABOqzBxXTIO-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Vinculan cientos de químicos presentes en pesticidas y alimentos con un mayor riesgo de cáncer de mama",
+      "link": "https://www.abc.es/salud/enfermedades/vinculan-cientos-quimicos-presentes-pesticidas-alimentos-mayor-20260923012404-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/salud/2026/09/23/1507938396-Rjz4RfySVlaPfxmWH3tehdM-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La cirugía robótica en niños ya en marcha en España: por qué puede ser ventajosa",
       "link": "https://www.abc.es/salud/salud-al-dia/cirugia-robotica-ninos-marcha-espana-puede-ventajosa-20260924090102-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/salud/2026/09/21/davinci--758x531.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Amelia Bono: «Hace muchísimos años que dejé el gluten, tengo más energía y me encuentro muy bien»",
       "link": "https://www.abc.es/salud/amelia-bono-muchisimos-anos-deje-gluten-energia-20260910012427-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/salud/2026/09/10/amelia-RNiINr10426znxJo2GzvGcI-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Vinculan cientos de químicos presentes en pesticidas y alimentos con un mayor riesgo de cáncer de mama",
-      "link": "https://www.abc.es/salud/enfermedades/vinculan-cientos-quimicos-presentes-pesticidas-alimentos-mayor-20260923012404-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/salud/2026/09/23/1507938396-Rjz4RfySVlaPfxmWH3tehdM-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El volcán de La Palma dejó más tos y problemas pulmonares en los vecinos",
-      "link": "https://www.abc.es/salud/enfermedades/huella-pulmones-dejo-volcan-palma-20260922134905-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/salud/2026/09/22/1517481654-RXxHKHWw1ZuXs7Yjr9kdACN-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La cara B de unos pechos muy grandes: mayor riesgo de migrañas, dolor de cuello y apnea del sueño",
-      "link": "https://www.abc.es/salud/enfermedades/cara-pechos-grandes-mayor-riesgo-migranas-dolor-20260922154614-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/salud/2026/09/22/1517514400-RXtU0sefoJcQGk4ilUdPc7J-1200x840@diario_abc.JPG",
       "tipo": "imagen"
     }
   ]
