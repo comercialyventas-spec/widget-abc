@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Maricarmen pasa su primera noche en el hospital con un cuadro de agotamiento severo",
+      "link": "https://www.lavanguardia.com/local/madrid/20260924/11642938/maricarmen-pasa-primera-noche-hospital-cuadro-agotamiento-severo.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/24/6ab4f5700e76c.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Guardia Civil investiga una posible agresión racista en las fiestas de Tavernes de la Valldigna",
       "link": "https://www.lavanguardia.com/local/valencia/20260924/11642943/guardia-civil-investiga-posible-agresion-racista-fiestas-tavernes-valldigna.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/08/10/66b731f53312f.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Quince años de la última Mercè con toros",
       "link": "https://www.lavanguardia.com/vida/20260924/11642837/quinze-anos-ultima-merce-toros.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2011/09/24/5f9ae87c0d10e.r_d.501-309-4526.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un agente de IA de OpenAI accedió sin autorización a un portal del sistema público de salud de Australia",
-      "link": "https://www.lavanguardia.com/vida/20260924/11642790/agente-ia-openai-accedio-autorizacion-portal-sistema-publico-salud-australia.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/24/6ab4ef67d1cc6.jpeg",
       "tipo": "imagen"
     }
   ]

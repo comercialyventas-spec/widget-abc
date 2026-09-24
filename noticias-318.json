@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Ozark",
+      "link": "https://www.abc.es/play/series/criticas/ozark-20260924130715-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/24/ozark-kWx-U301874109562bOH-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un barrio que no deja descansar a sus muertos",
       "link": "https://www.abc.es/play/series/barrio-deja-descansar-muertos-20260923011820-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/23/L1014654_R_16x9-RDcrsMlaCv1nuBq71bLLXHP-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Jose Coronado resuelve 'El problema final' de Pérez-Reverte",
       "link": "https://www.abc.es/play/series/noticias/jose-coronado-resuelve-problema-final-perezreverte-personaje-20260921011937-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/21/el-problema-final4-kSHB-U301822056170KKI-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Pedro Alonso, después de 'La casa de papel': «Mi vida ya ha sido varias vidas»",
-      "link": "https://www.abc.es/play/series/noticias/pedro-alonso-despues-casa-papel-vida-varias-20260921172236-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/21/pedro-alonso-el-juicio-k86E-U301781644810a3E-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

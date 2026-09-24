@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en directo, en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-09-24/el-pulso-de-hoy-por-hoy-en-el-pais.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/W33TL5GQBBHPPKZ2CBK6PCULCY.png?auth=31d69aadfdcdc576317e80f0f9b468205ca1109494b0cb67b67bfad3ad681896&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Por qué no se ha podido impedir el desahucio de Maricarmen?",
+      "link": "https://elpais.com/videos/2026-09-24/por-que-no-se-ha-podido-impedir-el-desahucio-de-maricarmen.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TUTVTO55UVC7DPJVA3AMEJTWOU.jpg?auth=fa67e62227e26554571ef8a2b50bc81798c216ed4dfde18507b8e6bc3e7e05b7&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La dictadura de las reviews",
+      "link": "https://elpais.com/videos/2026-09-24/la-dictadura-de-las-reviews.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/YC3FSTUQXZD5DGLXDWBSJLPRXM.jpg?auth=36ea1c07d4f9a100eb398b5de880dba428ed12515016220883d44f3320657aad&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Crónica visual del desahucio de Maricarmen: de la acampada de activistas a su desalojo en camilla",
       "link": "https://elpais.com/videos/2026-09-23/cronica-visual-del-desahucio-de-maricarmen-de-la-acampada-de-activistas-a-su-desalojo-en-camilla.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/MTDEUJOHX5EXPFZPUH3YMUOJTY.jpg?auth=7f874a3bc778152b9417eab6382dcf5122d3fb27f3bbc5a39e71b8837e13bbce&width=414&height=233&smart=true",
@@ -14,26 +32,8 @@
     },
     {
       "titulo": "Así ha sido la polémica de Ana Vázquez en el Congreso: del espray de pimienta en el hemiciclo a las dependencias acordonadas por la policía",
-      "link": "https://elpais.com/espana/2026-09-23/asi-ha-sido-la-polemica-de-ana-vazquez-en-el-congreso-del-spray-de-pimienta-en-el-hemiciclo-a-las-dependencias-acordonadas-por-la-policia.html",
+      "link": "https://elpais.com/noticias/congreso-diputados/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/572LBLINMBOWVJGXKINICWTBKM.jpg?auth=b7c66a0bbceb05d2282fba1f450f16bf6dbfdbf707fba7c3c75a157d16bc2889&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El momento en el que Ana Vázquez le da el bote de gas pimienta a un trabajador del PP",
-      "link": "https://elpais.com/espana/2026-09-23/el-momento-en-el-que-ana-vazquez-le-da-el-bote-de-gas-pimienta-a-un-trabajador-del-pp.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/4BGISB2SDFCE7EUYKNJZYI2YFA.jpg?auth=a20a75072965dd3d99216f40053656e46b6819f241aac21f78c115603a05a23f&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El momento del desahucio de Maricarmen",
-      "link": "https://elpais.com/videos/2026-09-23/el-momento-del-desahucio-de-maricarmen.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/OKXWIT4BDJCNBHIKLIGJ2F76AA.jpg?auth=315e5009db1b3069750c16ab9cf84bcfaafef02451d8e3f8e3bb5d770776c92b&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en directo, en EL PAÍS",
-      "link": "https://elpais.com/noticias/cadena-ser/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/W33TL5GQBBHPPKZ2CBK6PCULCY.png?auth=31d69aadfdcdc576317e80f0f9b468205ca1109494b0cb67b67bfad3ad681896&width=414&height=233&smart=true",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El Gobierno y Junts retoman los contactos para aprobar el decreto de vivienda",
+      "link": "https://www.lavanguardia.com/politica/20260924/11642978/gobierno-junts-retoman-contactos-aprobar-decreto-vivienda.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/06/02/6a1ec606b3acc.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Más de 7.533 migrantes en Ceuta han retornado a Marruecos desde agosto",
       "link": "https://www.lavanguardia.com/politica/20260924/11642973/mas-7-533-migrantes-ceuta-han-retornado-marruecos-agosto.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/24/6ab4fcd961690.r_d.788-558-2893.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "El Govern acusa a Ayuso de “fake news” por decir que en Catalunya hay cinco veces más desahucios que en Madrid",
       "link": "https://www.lavanguardia.com/politica/20260924/11642890/govern-acusa-ayuso-fake-news-decir-catalunya-hay-mas-desahucios-madrid.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/10/69b0598bea889.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ayuso se escuda en la ley y devuelve a Sánchez la responsabilidad por el desahucio de Maricarmen",
-      "link": "https://www.lavanguardia.com/politica/20260924/11642855/ayuso-escuda-ley-devuelve-sanchez-responsabilidad-desahucio-maricarmen.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
       "tipo": "imagen"
     }
   ]

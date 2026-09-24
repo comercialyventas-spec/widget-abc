@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El Getty adquiere el retrato inédito del conde-duque pintado por Velázquez",
+      "link": "https://www.abc.es/cultura/arte/getty-adquiere-retrato-condeduque-pintado-velazquez-descubierto-20260924125012-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/24/Olivares1_20260924124305-RI1uvQXqAxFJhAheX7dTpGO-1200x1340@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Un posible premio Goncourt escrito con IA?",
       "link": "https://www.abc.es/cultura/libros/escandalo-literario-francia-acusan-autor-revelacion-thelyson-20260924110726-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/24/orelien-k7mC-U3018715789389BG-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La memoria de lo sublime con Fabrizio Plessi",
       "link": "https://www.abc.es/cultura/cultural/memoria-sublime-fabrizio-plessi-20260924110445-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/24/Foto_Carmen%20Verdu%2003-RuaWXfwoMHw0c4kRAsxx0PJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "David Bestué y la memoria de las buganvillas",
-      "link": "https://www.abc.es/cultura/cultural/david-bestue-memoria-buganvillas-20260924110417-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/24/evento_David%20Bestue_Gran_ojo_45-Rigm0WHO9zvd1HZwZhcTq7K-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
