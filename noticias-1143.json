@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "El colapso de una trama financiera sacude Turquía y revela las costuras de su mercado: “Es un casino”",
+      "link": "https://elpais.com/noticias/finanzas/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/6XDXQWYWFVOAFGIWL4Q3BKB4F4.jpg?auth=d5737e606a0d1a2676e750ef7838c8bd8cdec7624097d210b86af014b0a60899&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El plan de Trump para vetar las exportaciones de diésel agrava la crisis en Europa",
+      "link": "https://elpais.com/noticias/energia/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/Y6YPYAYZ7BHXPJQI3A2UCHLTKU.jpg?auth=0581823a9f127f0b3e8e74f514794052469a7e1a3b431970b826f121b731b926&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Pedro Sánchez da su respaldo a la candidatura de Pablo Hernández de Cos para presidir el Banco Central Europeo",
       "link": "https://elpais.com/noticias/pablo-hernandez-de-cos/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/IW32AKLUGVQUM2BJSUL2UV7T44.jpg?auth=73fe686fc538fe7f75ed3aecadbf10e128a4768c059f548ac00d81cf366309d2&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/IW32AKLUGVQUM2BJSUL2UV7T44.jpg?auth=73fe686fc538fe7f75ed3aecadbf10e128a4768c059f548ac00d81cf366309d2&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Bruselas quiere menos papeles y más control para saltar a la Bolsa",
       "link": "https://elpais.com/noticias/bolsa/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/PVALQJKKIFDDHPQNNPFBHKDK4I.jpg?auth=cead3739e436b0ba70455733c4e9bb504c2aad2838c4525e5254f75b0b3d41f1&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Warren Buffett anuncia el adiós definitivo y cede la presidencia de Berkshire Hathaway",
-      "link": "https://elpais.com/noticias/inversion/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/YWIJHLO7A5FPXELOVHY66QSNZ4.jpg?auth=de412c74db050229568643039570d6bb4437494ab310d206cc296a276a67f676&width=414&height=311&focal=2429%2C230",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los gigantes de las criptomonedas inundan de dinero al Partido Republicano pese al fracaso de la ley cripto",
-      "link": "https://elpais.com/economia/2026-09-18/los-gigantes-de-las-criptomonedas-inundan-de-dinero-al-partido-republicano-pese-al-fracaso-de-la-ley-cripto.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/KZJDBPJJ2JNBLNM4ANJQGSJGWM.jpg?auth=b8a9a51f4c5c238935def56e4f0a8c015b674b98a548649b37cb942addf86276&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

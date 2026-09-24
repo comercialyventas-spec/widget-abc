@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Anthropic anuncia que su IA ha descubierto un nuevo sistema biológico similar a Crispr",
-      "link": "https://www.abc.es/ciencia/anthropic-anuncia-ia-descubierto-nuevo-sistema-biologico-20260924112559-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/24/claude-RUrDqRS6K50IAmurQgYmHZO-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "'La hipótesis del amor' o el romance como caballo de Troya",
-      "link": "https://www.abc.es/play/cine/hipotesis-amor-romance-caballo-troya-20260921114314-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/21/d-RpzwLDypreCY4yISe1Igu4M-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "Amaia Montero y su momento 'tierra, trágame' en el escenario: «Ha cantado toda la canción como si fuese un topo»",
       "link": "https://www.abc.es/gente/amaia-montero-momento-tierra-tragame-escenario-cantado-20260924102803-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/24/amaia-montero-plataforma-R8uKU6vqgcl33OPnAbRywrJ-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/24/amaia-montero-plataforma-R8uKU6vqgcl33OPnAbRywrJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Pablo Motos, sobre su comunión: «Es el día más triste de mi vida. Nosotros no teníamos nada de dinero y mi ilusión era ir de marinero»",
       "link": "https://www.abc.es/espana/comunidad-valenciana/pablo-motos-sobre-comunion-dia-triste-vida-20260924113504-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/24/motos-comunion-k5NB-U301870948683DyF-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/24/motos-comunion-k5NB-U301870948683DyF-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Anthropic anuncia que su IA ha descubierto un nuevo sistema biológico similar a Crispr",
+      "link": "https://www.abc.es/ciencia/anthropic-anuncia-ia-descubierto-nuevo-sistema-biologico-20260924112559-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/24/claude-RUrDqRS6K50IAmurQgYmHZO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Sánchez no admite errores sobre Ceuta ante la ONU y proclama: «Saldremos más fuertes»",
       "link": "https://www.abc.es/espana/sanchez-atribuye-crisis-ceuta-desigualdad-desesperacion-desinformacion-20260924025352-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/24/1517744768-kkBH-U301867925843oYB-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/24/1517744768-kkBH-U301867925843oYB-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "¿Un posible premio Goncourt escrito con IA?",
       "link": "https://www.abc.es/cultura/libros/escandalo-literario-francia-acusan-autor-revelacion-thelyson-20260924110726-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/24/orelien-k7mC-U3018715789389BG-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/24/orelien-k7mC-U3018715789389BG-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Codorníu se desprende de su bodega en California",
+      "link": "https://www.abc.es/espana/cataluna/codorniu-desprende-bodega-california-20260924111637-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/24/napa-RqKh1iEwcMiRJ5BeN9y00WO-1200x840@diario_abc.PNG",
+      "tipo": "imagen"
     }
   ]
 }

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "EEUU anuncia un acuerdo con China para prorrogar la tregua comercial hasta enero",
+      "link": "https://www.publico.es/internacional/eeuu-anuncia-acuerdo-china-prorrogar-tregua-comercial-enero.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/24/6ab4dda3468ab.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Una IA de OpenAI hackeó el sistema sanitario público de Australia y la empresa tardó tres meses en avisar al Gobierno",
       "link": "https://www.publico.es/internacional/ia-openai-hackeo-sistema-sanitario-publico-australia-empresa-tardo-tres-meses-avisar-gobierno.html",
       "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/24/6ab4c9827c3c8.r_d.1092-715-1227.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Milei pide negociaciones sobre Malvinas y amenaza con consecuencias para las empresas",
       "link": "https://www.publico.es/internacional/america-latina/milei-pide-negociaciones-sobre-malvinas-amenaza-consecuencias-empresas.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/23/6ab40b8c101c9.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Irán acusa ante la ONU a Estados Unidos e Israel de terrorismo",
-      "link": "https://www.publico.es/internacional/iran-acusa-onu-estados-unidos-e-israel-terrorismo.html",
-      "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/23/6ab3eb6a60221.r_d.966-620-1406.jpeg",
       "tipo": "imagen"
     }
   ]
