@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Juez de EE.UU. ordena a la Casa Blanca restablecer el acceso a medios vetados por Trump",
+      "link": "https://www.dw.com/es/juez-de-ee-uu-ordena-a-la-casa-blanca-restablecer-el-acceso-a-medios-vetados-por-trump/a-79408151",
+      "imagen": "https://static.dw.com/image/79368848_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La IA de OpenAI se infiltró en la web de salud pública de Australia tras denegársele el acceso a los datos que buscaba",
       "link": "https://www.dw.com/es/la-ia-de-openai-se-infiltró-en-la-web-de-salud-pública-de-australia-tras-denegársele-el-acceso-a-los-datos-que-buscaba/a-79406779",
       "imagen": "https://static.dw.com/image/79404110_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Consejo Europeo pide a Irán permitir navegación en Ormuz y cesar ataques",
       "link": "https://www.dw.com/es/consejo-europeo-pide-a-irán-permitir-navegación-en-ormuz-y-cesar-ataques/a-79405278",
       "imagen": "https://static.dw.com/image/79286096_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ataques de Rusia dejan al menos dos muertos en Ucrania",
-      "link": "https://www.dw.com/es/ataques-de-rusia-dejan-al-menos-dos-muertos-en-ucrania/a-79405257",
-      "imagen": "https://static.dw.com/image/79286005_6.jpg",
       "tipo": "imagen"
     }
   ]

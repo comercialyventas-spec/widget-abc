@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El sindicato SITES acusa a Sanidad de bloquear las mejoras salariales del transporte sanitario en Canarias",
+      "link": "https://www.eldiario.es/canariasahora/sociedad/sindicato-sites-acusa-sanidad-bloquear-mejoras-salariales-transporte-sanitario-canarias_1_13534199.html",
+      "imagen": "https://static.eldiario.es/clip/9ceb343d-f71d-4d72-871e-f39a25cb85f4_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El director del Servicio Canario de la Salud cesa a la presidenta de la Comisión de Garantías de la eutanasia y esta recurre",
+      "link": "https://www.eldiario.es/canariasahora/politica/director-servicio-canario-salud-cesa-presidenta-comision-garantias-eutanasia-recurre-sanidad-canarias_1_13532440.html",
+      "imagen": "https://static.eldiario.es/clip/5e206b14-57cc-4415-b98e-06c3d69f8844_16-9-discover-aspect-ratio_default_0_x901y287.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Vox y Junts, únicos en votar en contra de las ayudas fiscales para La Palma y el uso del déficit",
       "link": "https://www.eldiario.es/canariasahora/politica/vox-ayudas-fiscales-palma-deficit-congreso-rechazo-junts_1_13532419.html",
       "imagen": "https://static.eldiario.es/clip/98b517fe-1fa3-48ef-88c7-4b35f9d2764e_16-9-discover-aspect-ratio_default_0_x1047y286.jpg",
@@ -13,27 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "El Parlamento canario se posiciona contra los listados de periodistas, pero no admite una enmienda por la “neutralidad” en los medios públicos",
-      "link": "https://www.eldiario.es/canariasahora/politica/parlamento-canario-listados-periodistas-enmiendas_1_13532454.html",
-      "imagen": "https://static.eldiario.es/clip/30ae7316-6cab-4d08-8663-08bcbc399045_16-9-discover-aspect-ratio_default_0_x1283y243.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Gobierno canario presume de bonanza económica y el PSOE le recuerda que España es el motor de Europa",
-      "link": "https://www.eldiario.es/canariasahora/politica/gobierno-canario-presume-bonanza-economica-psoe-espana-motor-europa_1_13531541.html",
-      "imagen": "https://static.eldiario.es/clip/59baa41d-9674-4fb6-bf8b-f2b7fe5307f2_16-9-discover-aspect-ratio_default_0_x911y351.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El director del Servicio Canario de la Salud cesa a la presidenta de la Comisión de Garantías de la eutanasia y esta recurre",
-      "link": "https://www.eldiario.es/canariasahora/politica/director-servicio-canario-salud-cesa-presidenta-comision-garantias-eutanasia-recurre-sanidad-canarias_1_13532440.html",
-      "imagen": "https://static.eldiario.es/clip/5e206b14-57cc-4415-b98e-06c3d69f8844_16-9-discover-aspect-ratio_default_0_x901y287.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "María Jesús Tovar se hará cargo de la gestora del PP de Lanzarote tras la defenestración de Astrid Pérez",
       "link": "https://www.eldiario.es/canariasahora/politica/maria-jesus-tovar-hara-cargo-gestora-pp-lanzarote-defenestracion-astrid-perez_1_13532519.html",
       "imagen": "https://static.eldiario.es/clip/c1b3dae9-a921-4ba7-b51c-7afa61f776d4_16-9-discover-aspect-ratio_default_1151844.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Parlamento canario se posiciona contra los listados de periodistas, pero no admite una enmienda por la “neutralidad” en los medios públicos",
+      "link": "https://www.eldiario.es/canariasahora/politica/parlamento-canario-listados-periodistas-enmiendas_1_13532454.html",
+      "imagen": "https://static.eldiario.es/clip/30ae7316-6cab-4d08-8663-08bcbc399045_16-9-discover-aspect-ratio_default_0_x1283y243.jpg",
       "tipo": "imagen"
     }
   ]
