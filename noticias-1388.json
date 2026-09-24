@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El nadó de Lena Dunham",
+      "link": "https://elpais.com/quadern/tendencies/2026-09-24/el-nado-de-lena-dunham.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/3U7CDQDFLVG4NOGNDPK7YE2UXA.JPG?auth=a0670b585c71a508491f6ad2df07a98ef9245c2e62e1a722e0e2569adb7570ce",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Adania Shibli i la dificultat d’escriure honestament sobre Palestina",
       "link": "https://elpais.com/quadern/literatura/2026-09-24/adania-shibli-i-la-dificultat-descriure-honestament-sobre-palestina.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/KQW7AS7I7JBWJILCZAO7OFCYQA.jpg?auth=cd1e866e37058a05c2d3f28976ba582f2caa0bd16af45ce0c49c4e383f4d3ba8",
@@ -28,12 +34,6 @@
       "titulo": "Eloi Vila retrata les vides individuals trinxades per la Guerra Civil a ‘El silenci heretat’",
       "link": "https://elpais.com/quadern/literatura/2026-09-23/eloi-vila-retrata-les-vides-individuals-trinxades-per-la-guerra-civil-a-el-silenci-heretat.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/L36CLMHXMNFBTFARYHS5IZSE2Q.JPG?auth=03e98dbfd8414ae822d7cecb62b37a8e633d3619b49d64c50c69637f5e19bfbf",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘Gènesi’, un bon retrat de l’aventura d’elBulli cap a un nou llenguatge culinari",
-      "link": "https://elpais.com/quadern/cinema-i-televisio/2026-09-21/genesi-un-bon-retrat-de-laventura-delbulli-cap-a-un-nou-llenguatge-culinari.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/4BHYN6AQYJDPLMFMWGMZADUK5Y.JPG?auth=d77bc2697061d3014604e5f9af3b2c32d027308c22a0e9c44f5d3b67bfe16364",
       "tipo": "imagen"
     }
   ]

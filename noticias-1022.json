@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "El mundo ama a Lorca y 'La bola negra' recogerá los frutos de ese amor hasta los Oscar",
-      "link": "https://www.abc.es/play/cine/criticas/critica-bola-negra-imbatible-lorca-bien-enmarcado-20260924144526-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/24/la-bola-negra-guitarrica-kZhH-U3018767568573IC-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "Ayuso asegura que la idea de comprar el ático de Chamberí fue de su equipo: «Y a mí no me pareció mal»",
       "link": "https://www.abc.es/espana/madrid/ayuso-asegura-idea-comprar-atico-chamberi-equipo-20260924170638-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/24/1517775429-Ra3Oo1ERDMTHir7xchWXvHP-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/24/1517775429-Ra3Oo1ERDMTHir7xchWXvHP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "Rosario Pérez, premio Cocherito: «Son muchas las lecciones de vida que los toreros nos dan»",
-      "link": "https://www.abc.es/cultura/toros/regalo-premio-cocherito-20260924172135-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/24/1516483773-RQjSfORH0UHso14jR68vq7H-1200x840@diario_abc.jpg"
+      "titulo": "Trump y Xi acuerdan ampliar su tregua comercial pese a sus crecientes tensiones",
+      "link": "https://www.abc.es/internacional/trump-reune-jinping-alargar-tregua-comercial-20260924170152-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/24/trump-RMEkxmdXJs9OFgxNcZwqz3H-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
     },
     {
-      "titulo": "¿Por qué la déspota reciclada de Venezuela encaja tan bien con Trump?",
-      "link": "https://www.abc.es/internacional/pedro-rodriguez-despota-reciclada-venezuela-encaja-bien-trump-20260923012325-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/23/1517700689-RculB6FaRXFpPbn9fI0hTxN-1200x840@diario_abc.JPG"
+      "titulo": "La Junta Electoral Central cumple con el Supremo y endurece los requisitos para poder votar con la ley de nietos",
+      "link": "https://www.abc.es/espana/junta-electoral-central-endurece-requisitos-acreditar-arraigo-20260924164943-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/24/consulado-kkFC-U301877142632cvD-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "La presión de Machado devuelve las elecciones al centro de la agenda de Trump",
-      "link": "https://www.abc.es/internacional/presion-machado-devuelve-elecciones-centro-agenda-trump-20260924140032-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/24/1505342756-RUfs0YuoRONOEG9WxYfWkFK-1200x840@diario_abc.jpg"
+      "titulo": "Valdecarros, listo para levantar 51.656 viviendas en el mayor desarrollo residencial de Europa",
+      "link": "https://www.abc.es/espana/madrid/valdecarros-listo-levantar-51656-viviendas-mayor-desarrollo-20260924120645-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/24/valdecarros-RSUKlLl6edRBCBWPbPYxfKK-1200x840@diario_abc.PNG",
+      "tipo": "imagen"
     },
     {
-      "titulo": "Junts aprovecha el desahucio de Maricarmen para sentar al PSOE a negociar el decreto de vivienda",
-      "link": "https://www.abc.es/espana/psoe-junts-vuelven-negociar-sacar-decreto-vivienda-20260924135139-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/24/miriamnogueras-kyBC-U301875408755Y6G-1200x840@diario_abc.jpg"
+      "titulo": "Renault apuesta por España con una inversión de 600 millones de euros",
+      "link": "https://www.abc.es/motor/economia/renault-apuesta-espana-inversion-600-millones-euros-20260924170000-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/24/renol-inversion-Rq0BS4AD6EwVQioJvEOtViN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La líder de la oposición estudia un regreso público a Venezuela tras siete intentos fallidos",
+      "link": "https://www.abc.es/internacional/maria-corina-machado-prepara-regreso-multitudinario-venezuela-20260923012303-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/23/MCPTY5-RpT92TApDmVLq0X5p1TjjHK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }

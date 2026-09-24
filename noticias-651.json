@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "Asamblea de la ONU, en directo | Tercera jornada marcada por los discursos de Netanyahu, Palestina y António Costa",
+      "titulo": "Un terremoto de magnitud 5,4 sacude el sureste de Turquía",
+      "link": "https://www.20minutos.es/internacional/un-terremoto-magnitud-5-4-sacude-sureste-turquia_7041003_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/24/6ab53a4e016484-62977632.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Abbas acusa a Israel de perpetrar \"un plan colonial maligno en Palestina\" y pide a la ONU que reaccione: \"No permitan más masacres\"",
+      "link": "https://www.20minutos.es/internacional/abbas-acusa-israel-perpetrar-un-plan-colonial-maligno-palestina-pide-onu-que-reaccione-no-permitan-mas-masacres_7040708_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/24/6ab531de4d2a42-40006309.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Asamblea de la ONU, en directo | Tercera jornada marcada por los discursos de Netanyahu, Mahmoud Abbas y António Costa",
       "link": "https://www.20minutos.es/internacional/asamblea-onu-directo-sigue-comparecencia-benjamin-netanyahu_7040889_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/24/6ab508aba4ddd9-73592556.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Unión Europea no muestra sorpresa por que drones rusos pudieran alcanzar España, Francia o Italia",
+      "link": "https://www.20minutos.es/internacional/union-europea-no-muestra-sorpresa-por-que-drones-rusos-pudieran-alcanzar-espana-francia-italia_7040983_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/09/24/6ab4bfe05b6332-97606551.r_d.720-960.jpeg",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "La Casa Blanca veta el acceso a periodistas de la CNN y otros dos medios pese a la orden judicial que lo impide",
       "link": "https://www.20minutos.es/internacional/casa-blanca-veta-acceso-periodistas-cnn-otros-dos-medios-pese-orden-judicial-que-impide_7040945_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/20/6aafa0f989e539-01929939.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El relator de la ONU sobre Vivienda asegura que el desahucio de Maricarmen \"no se entiende\" y pide cambios de legislación",
-      "link": "https://www.20minutos.es/internacional/relator-onu-sobre-vivienda-asegura-que-desahucio-maricarmen-no-se-entiende-pide-cambios-legislacion_7040877_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/23/6ab36e5332d596-67491956.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "\"Extrema preocupación\" en Australia tras la infiltración de OpenAI en su sistema de salud, un hecho sin precedentes a nivel mundial",
-      "link": "https://www.20minutos.es/internacional/extrema-preocupacion-australia-tras-infiltracion-openai-su-sistema-salud-un-hecho-sin-precedentes-nivel-mundial_7040798_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/02/16/primer-ministro-austrialia-anthony-albanese.r_d.942-648.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Defensas antiaéreas rusas derriban 40 drones y atacan dos fábricas y un centro logístico en Kiev",
-      "link": "https://www.20minutos.es/internacional/defensas-antiaereas-rusas-derriban-40-drones-atacan-dos-fabricas-un-centro-logistico-kiev_7040823_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/24/6ab4f4f6d81474-35936554.jpeg",
       "tipo": "imagen"
     }
   ]
