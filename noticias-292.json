@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Toroslam aterriza en ABC",
+      "link": "https://www.abc.es/cultura/toros/sevilla/toroslam-aterriza-abc-sevilla-20260924014031-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/22/1000193857-RGQj8UfcLPwWMbJW6C7pLZP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Santiago Muñoz Machado rastrea la influencia de los pensadores ilustrados en la obra de Goya",
       "link": "https://www.abc.es/cultura/arte/santiago-munoz-machado-rastrea-influencia-pensadores-ilustrados-20260923011832-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/23/SANTI-R6z4ywQshNV1YAS9t60qeKN-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Jesse Eisenberg impresiona con 'El debut': «Es fácil volverte loco como actor porque te metes en la piel de personas inestables»",
       "link": "https://www.abc.es/cultura/jesse-eisenberg-impresiona-debut-facil-volverte-loco-20260923200803-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/23/1517724689-REkU62CXXll1sBskxxtzEoI-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "David de Miranda: «Para ser figura del toreo hay que ser capaz de llenar una plaza por ti mismo, yo no lo soy todavía»",
-      "link": "https://www.abc.es/cultura/toros/sevilla/david-miranda-figura-toreo-capaz-llenar-plaza-20260923200930-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/23/encuentros-cajasol-miranda%201-RkSPxjll2qYgp3Oc93fouIJ-1200x840@diario_abc.jpeg",
       "tipo": "imagen"
     }
   ]
