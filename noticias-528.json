@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Ceuta",
+      "link": "https://www.elconfidencialdigital.com/album/seguridad/ceuta/202609241101021487856.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/24/2026092410520522004.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Tráfico",
       "link": "https://www.elconfidencialdigital.com/album/seguridad/trafico/202609221807031487412.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/22/2026092218035668878.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Narcotráfico",
       "link": "https://www.elconfidencialdigital.com/album/seguridad/narcotrafico/202609111306111040284.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/11/2026091113040693903.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Marruecos",
-      "link": "https://www.elconfidencialdigital.com/album/seguridad/marruecos/202609101400511040025.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/07/22/2026072222325718850.jpg",
       "tipo": "imagen"
     }
   ]

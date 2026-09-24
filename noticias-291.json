@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Anthropic anuncia que su IA ha descubierto un nuevo sistema biológico similar a Crispr",
+      "link": "https://www.abc.es/ciencia/anthropic-anuncia-ia-descubierto-nuevo-sistema-biologico-20260924112559-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/24/claude-RUrDqRS6K50IAmurQgYmHZO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los matemáticos españoles cuyo trabajo permitió a OpenAI resolver un problema del milenio: «Unos meses más y dábamos un resultado»",
+      "link": "https://www.abc.es/ciencia/matematicos-espanoles-trabajo-utilizo-openai-resolver-problema-20260910133421-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/10/matematicos-fotos-Ru2gKE7K7FHQZQwWktE8d2O-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El atlas más completo de la corteza prefrontal muestra que el cerebro madura a los 24 años",
       "link": "https://www.abc.es/ciencia/cerebro-termina-madurar-anos-20260922170022-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/22/cerebro11-R6IAuFzt3y21nY8sBfFmvzK-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "OpenAI afirma que su IA ha conseguido resolver más de 100 grandes problemas matemáticos",
       "link": "https://www.abc.es/ciencia/openai-afirma-ia-conseguido-resolver-100-grandes-20260922175710-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/22/1517641162-ReEtoUpQEyeCAM5uBt8P5yK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El momento en que la Tierra dejó de ser un infierno y los primeros 'ladrillos' de la vida pudieron sobrevivir",
-      "link": "https://www.abc.es/ciencia/tierra-preparada-mundo-arn-precursor-vida-4330-20260922170004-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/22/1.%20Origen%20vida-RCANqHHFtkT7jmIVE0WCVMM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "IA y Matemáticas : acelerar sin sustituir a la creatividad humana",
-      "link": "https://www.abc.es/ciencia/ia-acelerador-puede-sustituir-creatividad-matematica-humano-20260921012455-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/21/ChatGPT%20Image-9-RAsexlIvUHvr3f2razH3ppK-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

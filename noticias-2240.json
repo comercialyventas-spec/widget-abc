@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Muere un hombre en una pelea entre personas sintecho en Terrassa (Barcelona)",
+      "link": "https://efe.com/espana/2026-09-24/muerto-pelea-sintecho-terrassa-barcelona/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2025/02/rss-efeaa29b11394d5cb21b8249c28e635cc4c99869102w.jpg?w=600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ayuso denuncia «algaradas» y «barra libre de demagogia» en torno al desahucio de Maricarmen",
       "link": "https://efe.com/espana/2026-09-24/ayuso-desahucio-maricarmen/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2025/09/ayuso-izquierda-tristes.webp?w=600&ssl=1",
@@ -28,12 +34,6 @@
       "titulo": "Pedro Sánchez niega haber cambiado su posición sobre Marruecos al constatar los fallos en Ceuta",
       "link": "https://efe.com/espana/2026-09-24/pedro-sanchez-niega-cambio-posicion-marruecos-fallos-control-migratorio-ceuta/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/Pedro_Sanchez_Ceuta.webp?w=600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sánchez: «El desahucio de Maricarmen es una tragedia social que no podemos aceptar»",
-      "link": "https://efe.com/espana/2026-09-23/sanchez-decreto-urgente-vivienda/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/sanchez-decreto-urgente-vivienda.webp?w=600&ssl=1",
       "tipo": "imagen"
     }
   ]

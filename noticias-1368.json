@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Los elefantes se automedican con plantas medicinales que también usan los humanos",
+      "link": "https://elpais.com/ciencia/2026-09-24/los-elefantes-se-automedican-con-plantas-medicinales-que-tambien-usan-los-humanos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QJKNASHCYBE25GURVC5X2VF52I.JPG?auth=a9d30048bbea71c94ad13a51e639b96945066ffb2df63a22eb9275b3291de2de",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las edades del cerebro: el atlas más detallado de la corteza prefrontal revela cómo cambia y envejece a lo largo de la vida",
       "link": "https://elpais.com/ciencia/2026-09-23/las-edades-del-cerebro-el-atlas-mas-detallado-de-la-corteza-prefrontal-revela-como-cambia-y-envejece-a-lo-largo-de-la-vida.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/UVQVI4HXANFOVOQTAO6AID6AGQ.jpg?auth=70abd38035389021b70ead73fdcb9cd5255355d6ff66ff38e87f5295d9d01586",
@@ -28,12 +34,6 @@
       "titulo": "OpenAI anuncia ahora que su IA ha resuelto más de 100 problemas históricos de las matemáticas, ¿qué futuro le queda a la disciplina?",
       "link": "https://elpais.com/tecnologia/2026-09-22/openai-anuncia-ahora-que-su-ia-ha-resuelto-mas-de-100-problemas-historicos-de-las-matematicas-que-futuro-le-queda-a-la-disciplina.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/UMNKOMEDGZEY3OUKVADDFMMHH4.jpg?auth=68827cd50181fabf2f5f8809ec2fd62bf01bf6312ce00d2a14ca5d64b9db4caf",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El ‘no’ a La Palma anticipa el final del Telescopio de Treinta Metros: “El proyecto está muerto”",
-      "link": "https://elpais.com/ciencia/2026-09-22/el-no-a-la-palma-anticipa-el-final-del-telescopio-de-treinta-metros-el-proyecto-esta-muerto.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/MQB3KXGUDVDH7MV3ATVRZY75TY.jpg?auth=1b4f26b7e9215dc88f95ce55cb43bb601f063d843d089edacd586bbb20f081cc",
       "tipo": "imagen"
     }
   ]
