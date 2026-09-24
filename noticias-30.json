@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Quinze años de la última Mercè con toros",
+      "link": "https://www.lavanguardia.com/vida/20260924/11642837/quinze-anos-ultima-merce-toros.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2011/09/24/5f9ae87c0d10e.r_d.501-309-4526.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un agente de IA de OpenAI accedió sin autorización a un portal del sistema público de salud de Australia",
       "link": "https://www.lavanguardia.com/vida/20260924/11642790/agente-ia-openai-accedio-autorizacion-portal-sistema-publico-salud-australia.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/24/6ab4a51079db9.r_d.5997-2857-548.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "SYNAPSE convierte la colaboración científica en resultados",
       "link": "https://www.lavanguardia.com/vida/20260924/11640242/synapse-convierte-colaboracion-cientifica-resultados-brl.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/22/6ab256828874d.r_d.1787-1282-1247.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Viajar en tren por España: las ciudades que estarán más conectadas en 2027",
-      "link": "https://www.lavanguardia.com/vida/20260924/11640141/viajar-tren-espana-ciudades-estaran-mas-conectadas-2027-brl.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/21/6ab0f918ce6da.jpeg",
       "tipo": "imagen"
     }
   ]

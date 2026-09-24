@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Un conductor ebrio circula a contramano por la A-92 y acaba colisionando contra una señal de tráfico",
+      "link": "https://www.abc.es/sevilla/provincia/utrera/conductor-ebrio-circula-contramano-a92-acaba-colisionando-20260924102240-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/24/WhatsApp%20Image%202026-09-24%20at%2010.07.35-RTuF1pDIxSpWPqwI5yz6VeI-1200x840@diario_abc.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "'Viva la Danza Española, señores!",
+      "link": "https://www.abc.es/sevilla/cultura/viva-danza-espanola-senores-20260923071927-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/23/molia-agueda-baile-RdaV8NsHrD4CqHjVdhh27vK-1200x840@diario_abc.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Desmantelan en la Alameda de Sevilla una asociación cannábica que vendía droga: los compradores debían permanecer 20 minutos en el local",
       "link": "https://www.abc.es/sevilla/ciudad/desmantelan-alameda-sevilla-asociacion-cannabica-vendia-droga-20260924094747-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/24/drogas-alameda-sevilla-policia-kBxC-U3018704342182nC-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "El cierre, entonces definitivo, de la mina de Aznalcóllar",
       "link": "https://www.abc.es/sevilla/ciudad/javier-rubio-cierre-definitivo-mina-aznalcollar-20260924071256-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2026/09/24/9270346-R9N9HAFyvBkiubMVKUsvZyK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Israel Galván: «Me he dado cuenta que le caigo mejor a la gente cuando bailo»",
-      "link": "https://www.abc.es/sevilla/cultura/israel-galvan-dado-cuenta-caigo-mejor-gente-20260924200833-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/23/galv%c3%a1n-boler-bienal-Rdix7mCJc6zVDWAplwc3jwN-1200x840@diario_abc.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "'Viva la Danza Española, señores!",
-      "link": "https://www.abc.es/sevilla/cultura/viva-danza-espanola-senores-20260923071927-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/23/molia-agueda-baile-RdaV8NsHrD4CqHjVdhh27vK-1200x840@diario_abc.jpeg",
       "tipo": "imagen"
     }
   ]

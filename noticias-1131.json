@@ -1,39 +1,39 @@
 {
   "noticias": [
     {
+      "titulo": "A propósito del caso Ramón y Cajal: sobre el principio de respeto al criterio clínico del médico responsable",
+      "link": "https://elpais.com/noticias/sanidad-publica/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/UCMW2LMAMJB7FEQKKI7HM6DROA.jpg?auth=184ec307d085ee0aa4329d7382b7ffa4e6fb0ccb888c5e6ad415b49795987ce5&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El marco mental de la crisis de Ceuta",
+      "link": "https://elpais.com/opinion/tribunas/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/6AEMXPS3YRAYVFGLHBVKKX55TM.jpg?auth=20841a370371a2018df69a4fde68b5bd9266e3311181c89d5a3b09d65bb4aef2&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los ‘ricos’, según Irene Montero",
+      "link": "https://elpais.com/opinion/2026-09-24/los-ricos-segun-irene-montero.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QFT4YB372FB3VE6Z3FDB7EJEMU.jpg?auth=706cf1d2bea62afc02982bbc8f3f3319c76574937c0fcafeb68f4a1615d2a514&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Renaturalización: una herramienta frente a los grandes incendios",
+      "link": "https://elpais.com/noticias/incendios-forestales/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/OGDJ4VVIJJFXFILL4VYYEZYE6U.jpg?auth=b4ab3a0ef6171b57aaf40f7ad9e2ff3c220dc5fba7fb275c1eafe730bb8e857d&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El declive de la ONU depende de una decisión",
+      "link": "https://elpais.com/opinion/2026-09-24/el-declive-de-la-onu-depende-de-una-decision.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ARF3XSAWVRBUZONLR4LA6PRFJY.jpg?auth=047cfaece4a4ccb33e41e0a9a740ebb4c52d114a7f389b5799c1e8e0f14c4ff0&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Cuánto le costará a Chile el Escudo de las Américas?",
       "link": "https://elpais.com/noticias/donald-trump/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/2MJP36HZSVOQJGF4ICE4W63SAA.jpg?auth=b677a2d5b46254ce1847d3d48a40ab6518ed60efc8f705503c418eda87889f1d&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Maricarmen, la última víctima de un negocio sin alma",
-      "link": "https://elpais.com/noticias/desahucios/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/DIVMEGLABRHKDORLXKDL7LI42Q.jpg?auth=f7b316c08f67656bd40a74fdbbaee663ed7e8711d11e8a136c33b357f57b1b01&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ecoturismo indígena achuar: resistencia y conservación en la Amazonía",
-      "link": "https://elpais.com/noticias/amazonia/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/KJX3TZ6VERBSFMI3NZUFM4NIAQ.jpg?auth=afd74cfeb9cab54be61cedbf334e4e10b0136207e05e12e8fc4c37f75d304d61&width=414&height=311&focal=921%2C524",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El apocalipsis de la IA ya ha empezado (pero no es el que te están contando)",
-      "link": "https://elpais.com/noticias/inteligencia-artificial/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/4OIDENQGFJBB3BYZZPY56PPXRE.jpg?auth=137c3b1b7b4baa1916583f8ce34a3b79054c1b14d1eecfc92b0f1fb316e1b301&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Entre lo que vemos y lo que viven: ¿qué escuela estamos contando?",
-      "link": "https://elpais.com/educacion/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/UXTW2F7SDZF7FO4JN5JGTVFPEA.jpg?auth=f9130e97ade7d385e5cbe5225ccfb990f38d56b924c640e4f9d01120a9f015f3&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ceuta y Melilla son España",
-      "link": "https://elpais.com/opinion/2026-09-22/ceuta-y-melilla-son-espana.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/4MKK47CVOJG7JKDY6LOWLQX4MM.jpg?auth=5ecc9442cdf01574537b08a46af9b16d7908c309a9899b653fdacf75574c9719&width=414&height=311&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/2MJP36HZSVOQJGF4ICE4W63SAA.jpg?auth=b677a2d5b46254ce1847d3d48a40ab6518ed60efc8f705503c418eda87889f1d&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]
