@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "OpenAI dejó vía libre a su IA para hackear a gobiernos y universidades durante meses",
+      "link": "https://www.eldiario.es/tecnologia/openai-dejo-via-libre-ia-hackear-gobiernos-universidades-durante-meses_1_13534624.html",
+      "imagen": "https://static.eldiario.es/clip/365416a9-b3a1-4e4c-adef-9ad168111eff_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Australia revela que la IA de OpenAI accedió a los archivos de su sistema público de salud sin autorización",
       "link": "https://www.eldiario.es/tecnologia/australia-revela-ia-openai-accedio-archivos-sistema-publico-salud-autorizacion_1_13533894.html",
       "imagen": "https://static.eldiario.es/clip/6fce7023-16c9-42a9-b9fd-f0347b4bd12c_facebook-aspect-ratio-1200-675_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Google reconoce por primera vez que su IA Gemini ha hackeado a tres empresas",
       "link": "https://www.eldiario.es/tecnologia/modelo-ia-google-hackeo-tres-empresas_1_13522731.html",
       "imagen": "https://static.eldiario.es/clip/77757c1a-eba8-4e27-acaf-f64cfd5239b5_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Dario Amodei, el “evangelista de la seguridad” que lleva 10 años estudiando el apocalipsis de la IA",
-      "link": "https://www.eldiario.es/tecnologia/dario-amodei-evangelista-seguridad-lleva-10-anos-estudiando-apocalipsis-ia_1_13520313.html",
-      "imagen": "https://static.eldiario.es/clip/89db1480-e447-49e6-8eb7-9cd6b53ea510_facebook-aspect-ratio-1200-675_default_0_x611y219.jpg",
       "tipo": "imagen"
     }
   ]
