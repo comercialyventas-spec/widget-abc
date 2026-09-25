@@ -1,15 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "Los 'mochufas'",
-      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20260924/marruecos-vecino-incomodo-critica-libro-sonia-moreno-134134497",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/3b6ed073-77a8-4050-8dd4-8f2541b7a4fa_source-aspect-ratio_320w_0.jpg",
+      "titulo": "'Los buenos mueren jóvenes', de Bhaskar Sunkara, Jonah Walters y René Rojas: algunos hombres cínicos",
+      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20260925/libro-henry-kissinger-buenos-mueren-jovenes-134030249",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8327662a-e2d8-4356-885b-5ea19708fec1_16-9-discover-aspect-ratio_default_0_x1002y445.webp",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Pia Capdevila, interiorista: \"Me gusta el papel, su olor, como los objetos y nuestra relación con ellos\"",
+      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20260925/pia-capdevila-interiorista-libros-134264903",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a8cc62a0-f485-4d9d-8061-9d61832f1280_16-9-discover-aspect-ratio_default_0_x813y297.webp",
       "tipo": "imagen"
     },
     {
       "titulo": "Los 'mochufas'",
       "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20260924/mochufas-134264279",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/3b6ed073-77a8-4050-8dd4-8f2541b7a4fa_source-aspect-ratio_320w_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "'Marruecos, el vecino incómodo', de Sonia Moreno: agresiones híbridas",
+      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20260924/marruecos-vecino-incomodo-critica-libro-sonia-moreno-134134497",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/30518877-050f-43bf-aad8-474bec52a8f8_16-9-discover-aspect-ratio_default_0_x252y96.webp",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "'L’antropòloga', de Ada Castells: el remedio contra la tristeza",
       "link": "https://www.epe.es/es/ocio-y-cultura/libros/20260923/ada-castells-critica-libro-antropologa-134260126",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b20350e5-85fb-48f7-bc15-9bb1eeb791b1_16-9-discover-aspect-ratio_default_0_x742y337.webp",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "'Atentamente', de Patricia Esquivias: en busca de los relatos olvidados",
-      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20260922/patricia-esquivias-critica-libro-atentamente-134262840",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/1d42e7de-0f3e-465a-9c28-521e14c498f8_16-9-discover-aspect-ratio_default_0_x743y202.webp",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "'En lengua privada', de Emiliano Monge: memoria e imaginación",
-      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20260922/emiliano-monge-critica-libro-relatos-lengua-privada-134180035",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/5829133c-5768-4a11-877f-f44d5dc07177_16-9-discover-aspect-ratio_default_0_x975y341.webp",
       "tipo": "imagen"
     }
   ]

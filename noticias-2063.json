@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Pirómanos en el mar Rojo",
+      "link": "https://loquesomos.es/piromanos-en-el-mar-rojo/",
+      "imagen": "https://loquesomos.es/wp-content/uploads/2026/09/Explosion-en-un-buque-en-el-mar-Rojo-atacado-por-huties-de-Yemen-lqsomos-777x450.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Yemen, ¿ahora qué?",
       "link": "https://loquesomos.es/yemen-ahora-que/",
       "imagen": "https://loquesomos.es/wp-content/uploads/2026/09/guerrilleros-huties-retarato-del-lider-Abdul-Malik-al-Houthi-yemen-lqsomos.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Afganistán entre el islam y el Pentágono",
       "link": "https://loquesomos.es/afganistan-entre-el-islam-y-el-pentagono/",
       "imagen": "https://loquesomos.es/wp-content/uploads/2026/07/afganistan-guardias-lqsomos-.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El cerco de la violencia y la economía de guerra en Myanmar",
-      "link": "https://loquesomos.es/el-cerco-de-la-violencia-y-la-economia-de-guerra-en-myanmar/",
-      "imagen": "https://loquesomos.es/wp-content/uploads/2026/08/myanmar-mujer-refugiada-lqsomos.jpg",
       "tipo": "imagen"
     }
   ]
