@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Mensaje con trampa",
+      "link": "https://www.abc.es/opinion/fe-de-ratas/jm-nieto-mensaje-trampa-20260925010000-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2026/09/25/ab-ab-ab--620x1077-ReY1xfK5BBgJwnmf4NMI5fM-758x531@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un joven de 20 años mata a una prostituta en un apartamento turístico de Bormujos",
       "link": "https://www.abc.es/sevilla/provincia/joven-mata-prostituta-hotel-bormujos-20260925084244-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/25/bormujos-U20631907919c0C-U3018885688452W-1200x835@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Marruecos vence a Gabón con Abde como titular",
       "link": "https://www.abc.es/deportes/alfinaldelapalmera/noticias-betis/marruecos-vence-gabon-abde-titular-20260926000541-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/25/abde-k3uF-RaQb4f9xTago5XE7A01SZRP-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Jódar y Alcaraz impulsan a Europa en una jornada de estreno con victoria en la Laver Cup",
-      "link": "https://www.abc.es/deportes/tenis/jodar-estrena-grande-laver-cup-tumba-bublik-20260925221540-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/25/1517851097-Rsu3TbjhbDZtOdXCffqNHdP-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
