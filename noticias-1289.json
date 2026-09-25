@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Marruecos apunta a Melilla: drones marroquíes ya vigilan la frontera",
+      "link": "https://www.mediterraneodigital.com/espana/ceuta-y-melilla/marruecos-drones-melilla",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/9/ceuta-melilla-marruecos.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El juez abre juicio oral contra Begoña Gómez por malversación y tráfico de influencias",
       "link": "https://www.mediterraneodigital.com/espana/begona-gomez-juicio-oral",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/begona-gomez-pedro-sanchez.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Es oficial: España es el país con más inmigrantes de toda Europa",
       "link": "https://www.mediterraneodigital.com/espana/espana-inmigrantes-union-europea",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/inmigrantes-espana-europa.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Diagnosticado el primer caso de viruela del mono en un mena marroquí de Ceuta",
-      "link": "https://www.mediterraneodigital.com/espana/ceuta-y-melilla/viruela-del-mono-ceuta",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/9/ceuta-invasion.jpg",
       "tipo": "imagen"
     }
   ]

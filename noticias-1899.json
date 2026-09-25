@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Winter is coming",
+      "link": "https://www.20minutos.es/ceuta/winter-is-coming-ceuta-marruecos-psoe-pp-vox_7040836_3.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_320_240/uploads/imagenes/2026/09/23/6ab3e057701459-75865447.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Hallan un asentamiento de inmigrantes en un antiguo túnel militar de Ceuta: había decenas de personas en condiciones insalubres",
       "link": "https://www.20minutos.es/ceuta/hallan-un-asentamiento-inmigrantes-un-antiguo-tunel-militar-ceuta-habia-decenas-personas-condiciones-insalubres_7041033_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_320_240/uploads/imagenes/2026/09/24/6ab533ed34af39-97675661.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Detenida una inmigrante en Ceuta tras apuñalar a otra en las inmediaciones del CETI durante la madrugada",
       "link": "https://www.20minutos.es/ceuta/detenida-una-inmigrante-ceuta-tras-apunalar-otra-las-inmediaciones-ceti-durante-madrugada_7039775_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_320_240/uploads/imagenes/2026/09/07/6a9ea781e443c6-77046167.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Asociaciones militares piden amparo al Defensor del Pueblo para reclamar \"medios adecuados\" y protección en Ceuta",
-      "link": "https://www.20minutos.es/ceuta/asociaciones-militares-piden-amparo-defensor-pueblo-para-reclamar-medios-adecuados-proteccion-ceuta_7039849_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_320_240/uploads/imagenes/2026/09/22/6ab24ba13dd328-05956901.jpeg",
       "tipo": "imagen"
     }
   ]

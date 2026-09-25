@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La Legión",
+      "link": "https://www.elconfidencialdigital.com/album/el-chau-chau/la-legion/202609251441111488269.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/25/2026092514390531412.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Moncloa",
       "link": "https://www.elconfidencialdigital.com/album/el-chau-chau/la-moncloa/202609172229381193773.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/17/2026091722264398000.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Ministerio de Defensa",
       "link": "https://www.elconfidencialdigital.com/album/el-chau-chau/ministerio-defensa/202608202216041036798.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2024/10/28/2024102816231121926.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Complejo de la Moncloa",
-      "link": "https://www.elconfidencialdigital.com/album/el-chau-chau/complejo-moncloa/202608121816031035816.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2025/02/21/2025022113265634178.jpg",
       "tipo": "imagen"
     }
   ]
