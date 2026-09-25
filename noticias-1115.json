@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Zaragoza: AEMET prevé cielo poco nuboso y viento variable con leves ascensos en temperaturas",
+      "link": "https://okdiario.com/aragon/zaragoza-aemet-preve-cielo-poco-nuboso-y-viento-variable-con-leves-ascensos-en-temperaturas-20388893",
+      "imagen": "https://okdiario.com/img/2026/01/12/maximas-zaragoza-interior.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "AEMET prevé un día soleado y suave en Zaragoza con vientos flojos",
       "link": "https://okdiario.com/aragon/aemet-preve-un-dia-soleado-y-suave-en-zaragoza-con-vientos-flojos-20377788",
       "imagen": "https://okdiario.com/img/2026/09/24/suben-las-temperaturas.-europa-press.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Cielos despejados y temperaturas en ascenso en Zaragoza, según AEMET",
       "link": "https://okdiario.com/aragon/cielos-despejados-y-temperaturas-en-ascenso-en-zaragoza-segun-aemet-20340086",
       "imagen": "https://okdiario.com/img/2026/09/20/mujer-se-protege-del-sol-ante-la-mejora-del-tiempo.-europa-press.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "AEMET prevé un día soleado con brisas suaves y brumas en Zaragoza",
-      "link": "https://okdiario.com/aragon/aemet-preve-un-dia-soleado-con-brisas-suaves-y-brumas-en-zaragoza-20335424",
-      "imagen": "https://okdiario.com/img/2026/09/19/suben-las-temperaturas.-europa-press.jpg",
       "tipo": "imagen"
     }
   ]

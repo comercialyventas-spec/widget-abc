@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Acto religioso en zona El Pozo. Afectadas 5 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20260926-Pasacalles-Virgen-Merced-Puente-Vallecas.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Acto religioso en zona Universidad. Afectada línea 002 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260926-PR-Beata-Mariana-Jesus-Centro.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -27,12 +33,6 @@
     {
       "titulo": "Manifestación en zona Cibeles. Afectadas 25 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20260927-M-Prado -Alcala.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Manifestación en zona Cortes. Afectadas 18 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20260927-M-Paseo-Prado-Puerta-Sol.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

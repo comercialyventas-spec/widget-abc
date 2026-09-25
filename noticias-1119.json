@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Soleadas y suaves brisas en Barcelona, según AEMET, con algunas nubes en el horizonte",
+      "link": "https://okdiario.com/cataluna/soleadas-y-suaves-brisas-en-barcelona-segun-aemet-con-algunas-nubes-en-el-horizonte-20388608",
+      "imagen": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Previsión AEMET: cielo despejado y viento moderado en Barcelona para hoy",
       "link": "https://okdiario.com/cataluna/prevision-aemet-cielo-despejado-y-viento-moderado-en-barcelona-para-hoy-20377619",
       "imagen": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
@@ -28,12 +34,6 @@
       "titulo": "AEMET prevé cielo despejado y viento suave en Barcelona, con descenso en las temperaturas máximas",
       "link": "https://okdiario.com/cataluna/aemet-preve-cielo-despejado-y-viento-suave-en-barcelona-con-descenso-en-las-temperaturas-maximas-20355528",
       "imagen": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "AEMET prevé nublados y viento moderado en Barcelona, con aumento de temperaturas en el prelitoral",
-      "link": "https://okdiario.com/cataluna/aemet-preve-nublados-y-viento-moderado-en-barcelona-con-aumento-de-temperaturas-en-el-prelitoral-20344714",
-      "imagen": "https://okdiario.com/img/2026/09/21/borrasca-en-barcelona.-europa-press.jpg",
       "tipo": "imagen"
     }
   ]

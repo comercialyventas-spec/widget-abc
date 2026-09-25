@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Madrid, ¡despierta!",
+      "link": "https://www.lavanguardia.com/deportes/real-madrid/20260925/11643278/madrid-despierta.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Dani Olmo: “En el Barça quiero demostrar el nivel que alcancé en el Mundial”",
       "link": "https://www.lavanguardia.com/deportes/futbol/20260925/11643141/dani-olmo-seleccion-espanola-barca-entrevista.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/24/6ab51f2088e6e.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Doblete de Benjamín Noval en el Mundial al imponerse también en la prueba júnior en línea",
       "link": "https://www.lavanguardia.com/deportes/ciclismo/20260924/11643282/doblete-benjamin-noval-mundial-imponerse-prueba-junior-linea.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/24/6ab58e3cf15f4.r_d.694-468-2813.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Punter y Brizuela, los clásicos de siempre, siempre estarán allí",
-      "link": "https://www.lavanguardia.com/deportes/baloncesto/20260924/11643279/punter-brizuela-siempre-estaran.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/24/6ab58b7f31b50.jpeg",
       "tipo": "imagen"
     }
   ]

@@ -1,14 +1,20 @@
 {
   "noticias": [
     {
+      "titulo": "Tifón Dujuan deja al menos 12 muertos y graves daños en el oriente de Japón",
+      "link": "https://www.dw.com/es/tifón-dujuan-deja-al-menos-12-muertos-y-graves-daños-en-el-oriente-de-japón/a-79422154",
+      "imagen": "https://static.dw.com/image/79356217_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Carney admite que Canadá ha examinado el riesgo de una acción militar de EE.UU.",
       "link": "https://www.dw.com/es/carney-admite-que-canadá-ha-examinado-el-riesgo-de-una-acción-militar-de-ee-uu/a-79420857",
       "imagen": "https://static.dw.com/image/79308782_6.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Xi pide a Trump mantenerse contra independencia de Taiwán",
-      "link": "https://www.dw.com/es/xi-pide-a-trump-mantenerse-contra-independencia-de-taiwán/a-79420751",
+      "titulo": "Xi pide a Trump no apoyar independencia de Taiwán",
+      "link": "https://www.dw.com/es/xi-pide-a-trump-no-apoyar-independencia-de-taiwán/a-79420751",
       "imagen": "https://static.dw.com/image/79418764_6.jpg",
       "tipo": "imagen"
     },
@@ -28,12 +34,6 @@
       "titulo": "Doctrina \"Donroe\": Trump presiona a Brasil antes de las elecciones",
       "link": "https://www.dw.com/es/doctrina-donroe-trump-presiona-a-brasil-antes-de-las-elecciones/a-79417338",
       "imagen": "https://static.dw.com/image/79370505_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Centros de datos: el difícil camino de Europa hacia la soberanía digital",
-      "link": "https://www.dw.com/es/centros-de-datos-el-difícil-camino-de-europa-hacia-la-soberanía-digital/a-79419570",
-      "imagen": "https://static.dw.com/image/79414803_6.jpg",
       "tipo": "imagen"
     }
   ]
