@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Silenciar a quien documenta",
+      "link": "https://elpais.com/opinion/editoriales/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/IPT2QLJIMBESPGKG6DCQJQZB4A.jpg?auth=65a8d5bf551133a60e52eb2448a179cf0388e8dd152ad573e05b9f669e8559e7&width=414&height=233&focal=2825%2C1603",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Esperpento en el Congreso",
       "link": "https://elpais.com/opinion/2026-09-24/esperpento-en-el-congreso.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/G4LVPTRLGRGVXKAXXJTR7PZNQE.jpg?auth=b87e87b9ff38eccc74d4717cfbcbd2c0c01b36ec1b9e417acc4f5664a75c0708&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/G4LVPTRLGRGVXKAXXJTR7PZNQE.jpg?auth=b87e87b9ff38eccc74d4717cfbcbd2c0c01b36ec1b9e417acc4f5664a75c0708&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
@@ -22,12 +28,6 @@
       "titulo": "Claridad sobre las listas de espera",
       "link": "https://elpais.com/opinion/2026-09-23/claridad-sobre-las-listas-de-espera.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/HAA2FE73LJE3JFCIYIZYAP2B4I.jpg?auth=74bd29286383e5133ec2929180f29086fc8cecccf434681c878252c3b519fc77&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Salvar a la ONU",
-      "link": "https://elpais.com/opinion/editoriales/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/UWYH6OWPKRL7HCH2UGPWHRVIBE.jpg?auth=e3ad4f1a7dbe1bed53255922df0c3c11606c0bb5f1ea1b226b939ce0d2ac97d0&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {

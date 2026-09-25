@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El destello de la puesta de la luna",
+      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260925/11643583/destello-puesta-luna.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/25/6ab62c1f7945f.r_d.863-543-2771.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La luna escondida en el bosque de Vic",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260925/11643504/luna-escondida-bosque-vic.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/25/6ab60a4b33195.r_d.960-545-2338.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Espectáculo en el cielo de Campdevànol",
       "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260925/11643509/espectaculo-cielo-campdevanol.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/25/6ab60bf46598c.r_d.996-620-2338.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un espectáculo con 750 drones une Barcelona y Shanghái en el cielo de la Mercè",
-      "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20260925/11643570/espectaculo-750-drones-une-barcelona-shanghai-cielo-merce.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/25/6ab628cda15c4.r_d.960-768-2338.jpeg",
       "tipo": "imagen"
     }
   ]

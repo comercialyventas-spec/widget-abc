@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "China levanta una ciudad prefabricada para 5.000 trabajadores a 4.000 metros en los Andes",
+      "link": "https://www.lavanguardia.com/lugaresdeaventura/20260925/11642196/china-levanta-ciudad-prefabricada-5-000-trabajadores-4-000-metros-andes.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/09/23/6ab3ba280a317.r_d.496-449-4535.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Si quieres una aventura al fin del mundo, se buscan informáticos para la Antártida",
+      "link": "https://www.lavanguardia.com/lugaresdeaventura/20260924/11641900/quieres-aventura-mundo-buscan-informaticos-antartida.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/uploads/2026/09/23/6ab37eb2b0225.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Machu Picchu cambia las reglas para conseguir una entrada",
       "link": "https://www.lavanguardia.com/lugaresdeaventura/20260923/11641122/machu-picchu-cambia-reglas-conseguir-entrada.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/08/11/6a7ac63a5f224.r_d.3901-1927-619.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/08/11/6a7ac63a5f224.r_d.3901-1927-619.jpeg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Tailandia frena el turismo a gran escala con nuevas restricciones para los trotamundos",
       "link": "https://www.lavanguardia.com/lugaresdeaventura/20260921/11639679/tailandia-frena-turismo-gran-escala-nuevas-restricciones-trotamundos.html",
       "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/09/01/6a96f7c9bcb16.r_d.1138-761-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Caminando por Gran Canaria, la isla que aprendió a guardar el agua",
-      "link": "https://www.lavanguardia.com/lugaresdeaventura/20260919/11638463/caminando-gran-canaria-isla-aprendio-guardar-agua.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/09/18/6aad4ec2f394e.r_d.1094-538-2806.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Chasing Chamonix retrata el salto del ganador de la OCC del Mont Blanc a la larga distancia",
-      "link": "https://www.lavanguardia.com/lugaresdeaventura/20260918/11636309/chasing-chamonix-retrata-salto-ganador-occ-mont-blanc-larga-distancia.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/09/17/6aab87f5f38b1.r_d.600-400-3742.jpeg",
       "tipo": "imagen"
     }
   ]

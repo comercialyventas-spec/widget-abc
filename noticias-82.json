@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Solarea Tech",
+      "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/6375927/sol-y-area-energeticas-sl.html",
+      "imagen": "https://edv-static.lavanguardia.com/assets/img/6375927/banner-1763655880000.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Espai Micra",
       "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/306651/espai-micra-bcn.html",
       "imagen": "https://edv-static.lavanguardia.com/assets/img/306651/banner-1760617311000.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "TROPOSFERICA",
       "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/425943/troposferica-2020-sl.html",
       "imagen": "https://edv-static.lavanguardia.com/assets/img/425943/banner-1731348842000.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Nonoca Pediatría",
-      "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/1443703/nonoca-pediatrics-slp.html",
-      "imagen": "https://edv-static.lavanguardia.com/assets/img/1443703/banner-image.jpeg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El Consorcio Vega Sierra Elvira mostrará la riqueza de sus municipios en la Feria de los Pueblos",
+      "link": "https://www.ahoragranada.com/noticias/el-consorcio-vega-sierra-elvira-mostrara-la-riqueza-de-sus-municipios-en-la-feria-de-los-pueblos/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/COnsorcio-Vega-Sierra-Elvira.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Copa del Rey se expone en Maracena",
+      "link": "https://www.ahoragranada.com/noticias/la-copa-del-rey-se-expone-en-maracena/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Copa-del-Rey-01.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Otura activa una variada agenda para fomentar el aprendizaje, el ocio y la convivencia entre sus vecinos",
       "link": "https://www.ahoragranada.com/noticias/otura-activa-una-variada-agenda-para-fomentar-el-aprendizaje-el-ocio-y-la-convivencia-entre-sus-vecinos/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Otura-Programacion-Otono.jpg",
@@ -15,26 +27,14 @@
     {
       "titulo": "Los 57 municipios de Granada con más de diez solicitudes de indemnización por los terremotos",
       "link": "https://www.ahoragranada.com/noticias/los-57-municipios-de-granada-con-mas-de-diez-solicitudes-de-indemnizacion-por-los-terremotos/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Peticiones-ayudas-Terremotos.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Aurea Fest reivindica en Granada un espacio propio para la salud y el bienestar de las mujeres",
       "link": "https://www.ahoragranada.com/noticias/aurea-fest-reivindica-en-granada-un-espacio-propio-para-la-salud-y-el-bienestar-de-las-mujeres/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Mirador-de-San-Nicolas-turistas-11.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Leve descenso de las máximas este sábado en Granada",
-      "link": "https://www.ahoragranada.com/noticias/leve-descenso-de-las-maximas-este-sabado-en-granada/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Ambiente-y-calor-por-el-principio-de-Camino-de-Ronda-Helicoptero-10.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Consorcio de Compensación de Seguros abona más de 12 millones a los afectados por los terremotos en Granada",
-      "link": "https://www.ahoragranada.com/noticias/el-consorcio-de-compensacion-de-seguros-abona-mas-de-12-millones-a-los-afectados-por-los-terremotos-en-granada/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Danos-Terremotos-Zaidin-Septiembre-LFR-15.jpeg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     }
   ]
 }

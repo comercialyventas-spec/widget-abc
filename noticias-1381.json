@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Los estrenos de teatro y danza de la semana",
-      "link": "https://elpais.com/babelia/2026-09-25/los-estrenos-de-teatro-y-danza-de-la-semana.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/DVH6LBL4MZHE3EABZSSA2ZWIVA.jpg?auth=461209ad273c933c91d7596d5516d814733428d64ee29b9e2371b027de017235",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "‘La ópera de los tres centavos’: Brecht y el arte que rima con la realidad",
       "link": "https://elpais.com/babelia/2026-09-25/la-opera-de-los-tres-centavos-brecht-y-el-arte-que-rima-con-la-realidad.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/5MJ5M4KAPVCPVBV7HMRVB4SP5I.jpg?auth=8ed91eaba5ba60f05c534e49f96d74695452586a5e545777e4c26e30cbb703f4",
@@ -34,6 +28,12 @@
       "titulo": "Sylvia Plath no adoraba a un fascista",
       "link": "https://elpais.com/babelia/2026-09-25/sylvia-plath-no-adoraba-a-un-fascista.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/JMOZA5VGDNG3LG7NYVN77J4A7I.jpg?auth=87273b4e8e5f4d3074d7c5d401e627e91ee99c230d828772e1d58f39521c7d53",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "A la búsqueda de mujeres, y también hombres, que dejan crecer sus cabellos como símbolo de espiritualidad",
+      "link": "https://elpais.com/babelia/2026-09-24/a-la-busqueda-de-mujeres-y-tambien-hombres-que-dejan-crecer-sus-cabellos-como-simbolo-de-espiritualidad.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/EAW7HK4NLJGHRPEH6Y6NV2MVCU.jpg?auth=495cdab78615144ab22b816573dd7ce088fed456d6d380746ae0e6c6178a80bf",
       "tipo": "imagen"
     }
   ]
