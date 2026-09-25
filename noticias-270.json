@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Un aviso de bomba obliga a desalojar un avión en Tenerife Sur",
+      "link": "https://www.abc.es/espana/canarias/aviso-bomba-obliga-desalojar-avion-tenerife-sur-20260925161432-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/25/aena-R61SpVpNGaTH533tUSm2BYN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Apoyo unánime de CC a la reelección de Fernando Clavijo para gobernar Canarias",
+      "link": "https://www.abc.es/espana/canarias/apoyo-unanime-reeleccion-fernando-clavijo-gobernar-canarias-20260925151048-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/25/cc-Rkjb6chbINT1adylTw7RAQN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Clavijo sobre el decreto de vivienda: «Cuando llegue otro gobierno, lo derogará y volveremos a la casilla de salida»",
       "link": "https://www.abc.es/espana/canarias/clavijo-sobre-decreto-vivienda-llegue-gobierno-derogara-20260925133749-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/25/CLAVIJO-RxSJiTCSXF0SxkuBYH1K6RP-1200x840@diario_abc.JPG",
@@ -22,18 +34,6 @@
       "titulo": "Rescatado un cayuco en El Hierro con 107 personas y varios niños",
       "link": "https://www.abc.es/espana/canarias/rescatado-cayuco-hierro-107-personas-varios-ninos-20260925094414-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/25/d74ba3a3e79505d0efa5b2f8147bc39792432a4c-RtauSUtpdMjS2RDYpmV0VQJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Controlado el incendio en Santa Lucía (Gran Canaria) que deja varias viviendas calcinadas",
-      "link": "https://www.abc.es/espana/canarias/controlado-incendio-santa-lucia-gran-canaria-deja-20260924204131-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/24/fuego3-RiYKU1ZAxD9IG32by6IcGXI-1200x840@diario_abc.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Detenidos varios trabajadores por el robo de tres lingotes de oro de 12.000 euros durante la reforma de una vivienda",
-      "link": "https://www.abc.es/espana/canarias/detenidos-varios-trabajadores-robo-tres-lingotes-oro-20260924102423-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/24/oro-RKyusZOcjfAlvoElC0KaOSK-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
