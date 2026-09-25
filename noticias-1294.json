@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El auge de los grandes abogados: Nacho Toledano, referente en España del derecho penal",
+      "link": "https://www.mediterraneodigital.com/sociedad-y-tiempo-libre/nacho-toledano-abogado-penalista-espana-perfil",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/4/toledano-nacho.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Lipedema y autoestima: el impacto invisible de una enfermedad que aún cuesta diagnosticar",
       "link": "https://www.mediterraneodigital.com/sociedad-y-tiempo-libre/clinicas-simarro",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/estetica.jpg",
@@ -28,12 +34,6 @@
       "titulo": "X estrena un nuevo modelo para pagar a creadores",
       "link": "https://www.mediterraneodigital.com/sociedad-y-tiempo-libre/x-creadores",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/x-creadores.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cuando el hotel se convierte en el destino: una nueva forma de viajar",
-      "link": "https://www.mediterraneodigital.com/sociedad-y-tiempo-libre/viajes",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/9/hotel.jpg",
       "tipo": "imagen"
     }
   ]

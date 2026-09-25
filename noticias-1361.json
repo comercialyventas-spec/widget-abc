@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "‘La mesa de Hora 25′, programa en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-09-25/la-mesa-de-hora-25-programa-en-el-pais.html",
+      "imagen": "https://www.youtube.com/watch?v=r-a3MPhKJlU",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El embajador israelí intenta entregarle una terminal Starlink al delegado iraní en la ONU",
       "link": "https://elpais.com/videos/2026-09-25/el-embajador-israeli-intenta-entregarle-una-terminal-starlink-al-delegado-irani-en-la-onu.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260925/1218450_104255_video_1800.mp4",
@@ -28,12 +34,6 @@
       "titulo": "Bunbury inaugura la tercera temporada de ‘Tercer acto’, el videopodcast de entrevistas de EL PAÍS Semanal",
       "link": "https://elpais.com/eps/2026-09-25/bunbury-inaugura-la-tercera-temporada-de-tercer-acto-el-videopodcast-de-entrevistas-de-el-pais-semanal.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260923/1217345_101139_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El discurso de Netanyahu en la Asamblea General de la ONU, en seis momentos: Del mensaje a Mamdani, el desplante de las delegaciones a la negación de genocidio",
-      "link": "https://elpais.com/internacional/2026-09-24/el-discurso-de-netanyahu-en-la-asamblea-general-de-la-onu-del-mensaje-a-mamdani-el-desplante-de-las-delegaciones-a-la-negacion-de-genocidio.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260924/1218278_214107_video_1800.mp4",
       "tipo": "imagen"
     }
   ]

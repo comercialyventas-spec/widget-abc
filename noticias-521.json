@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Mario Suárez",
+      "link": "https://www.elconfidencialdigital.com/album/medios/mario-suarez/202609251900001488291.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/25/2026092515125530253.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cuéntame",
       "link": "https://www.elconfidencialdigital.com/album/medios/cuentame/202609230500001487349.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/22/2026092216170822398.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La Séptima",
       "link": "https://www.elconfidencialdigital.com/album/medios/la-septima/202609080500001039344.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/07/2026090718245832699.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sálvame",
-      "link": "https://www.elconfidencialdigital.com/album/medios/salvame/202609071300001039004.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2023/06/03/2023060313523632003.jpg",
       "tipo": "imagen"
     }
   ]
