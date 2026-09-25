@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El Covirán Granada inicia su nuevo camino con el reencuentro más especial",
+      "link": "https://www.ahoragranada.com/noticias/el-coviran-granada-inicia-su-nuevo-camino-con-el-reencuentro-mas-especial/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/cOVIRAN-gRANADA.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Consorcio Vega Sierra Elvira mostrará la riqueza de sus municipios en la Feria de los Pueblos",
       "link": "https://www.ahoragranada.com/noticias/el-consorcio-vega-sierra-elvira-mostrara-la-riqueza-de-sus-municipios-en-la-feria-de-los-pueblos/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/COnsorcio-Vega-Sierra-Elvira.jpeg",
@@ -27,14 +33,8 @@
     {
       "titulo": "Los 57 municipios de Granada con más de diez solicitudes de indemnización por los terremotos",
       "link": "https://www.ahoragranada.com/noticias/los-57-municipios-de-granada-con-mas-de-diez-solicitudes-de-indemnizacion-por-los-terremotos/",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Aurea Fest reivindica en Granada un espacio propio para la salud y el bienestar de las mujeres",
-      "link": "https://www.ahoragranada.com/noticias/aurea-fest-reivindica-en-granada-un-espacio-propio-para-la-salud-y-el-bienestar-de-las-mujeres/",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Peticiones-ayudas-Terremotos.jpg",
+      "tipo": "imagen"
     }
   ]
 }
