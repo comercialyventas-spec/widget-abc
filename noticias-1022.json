@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "El ponente para la sentencia sobre la amnistía mantiene que el Supremo no actuó de forma ilógica ni arbitraria",
-      "link": "https://www.abc.es/espana/nuevo-borrador-amnistia-mantiene-supremo-actuo-forma-20260926143609-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/26/1485850242-RHAh9JoTKvL7baYmna0Q4ZI-1200x840@diario_abc.JPG"
-    },
-    {
-      "titulo": "Junts plantea al Gobierno suspender los desahucios cuando el inmueble sea de un fondo buitre",
-      "link": "https://www.abc.es/espana/cataluna/junts-plantea-suspender-desahucios-inmueble-pertenezca-fondo-20260925141703-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/25/nogue-R0heUVQva7Pf50l5zMbP02O-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "El PSOE estalla contra el «vergonzoso» origen de las joyas de Zapatero y urge a dejarle caer",
-      "link": "https://www.abc.es/espana/psoe-estalla-vergonzoso-origen-joyas-zapatero-urge-20260925020242-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/25/1510583755-R9HyPq5BCipd8AvmcAMMWRI-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "Lérida aprueba la prohibición del burka en la calle pero no «donde sea normal ir con el rostro cubierto»",
       "link": "https://www.abc.es/espana/cataluna/ayuntamiento-lerida-prohibe-burka-niqab-calle-votos-20260925135723-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/25/burka-niqab-lerida-prohibicion-R9HbDIZmx3yOT3NLh3P1C1I-1200x840@diario_abc.jpeg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/25/burka-niqab-lerida-prohibicion-R9HbDIZmx3yOT3NLh3P1C1I-1200x840@diario_abc.jpeg",
+      "tipo": "imagen"
     },
     {
       "titulo": "La guerra de los mapas, la última fantasía del poder",
       "link": "https://www.abc.es/cultura/cultural/guerra-mapas-ultima-fantasia-poder-20260925161433-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/24/geografos-1%20copia%20(1)-R2l4Uexau7G4ERPQe78Z3MI-1200x1000@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/24/geografos-1%20copia%20(1)-R2l4Uexau7G4ERPQe78Z3MI-1200x1000@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "El Papa León XIV empieza su viaje a Francia alertando de la «crisis humanitaria» en Ceuta",
       "link": "https://www.abc.es/internacional/papa-leon-xiv-llega-francia-visita-historica-20260925102550-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/25/1517821592-RPBgMcBFU7AblLPJGAc2mkM-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/25/1517821592-RPBgMcBFU7AblLPJGAc2mkM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Suspendida por dopaje la subcampeona olímpica de los 100 vallas",
+      "link": "https://www.abc.es/deportes/suspendida-dopaje-subcampeona-olimpica-100-vallas-20260925172914-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/25/078078y-Ra1lLiyn2WSdFEKYXLhsxGL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Detenidos tres marroquíes en la playa del Trampolín por intentar secuestrar a dos niñas inmigrantes",
+      "link": "https://www.abc.es/espana/detenidos-tres-marroquies-playa-trampolin-ceuta-intentar-20260925175556-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/25/1517720531-kTOH-U301898931021EBI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las cuatro grandes Ligas acusan a Infantino de «abusón» y de «no proteger el fútbol»",
+      "link": "https://www.abc.es/deportes/futbol/cuatro-grandes-ligas-acusan-infantino-abuson-proteger-20260925122610-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/25/DAMBin-RBeAnTQSaon5ZCRDKk6iqtL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }
