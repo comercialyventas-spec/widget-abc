@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La compraventa de vivienda en Canarias sube un 2,1%, con 2.289 operaciones",
+      "link": "https://www.abc.es/espana/canarias/compraventa-vivienda-canarias-sube-2289-operaciones-20260925110412-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/25/venta-RyX6mekqNbl7NQN4L5bbiWL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Rescatado un cayuco en El Hierro con 107 personas y varios niños",
+      "link": "https://www.abc.es/espana/canarias/rescatado-cayuco-hierro-107-personas-varios-ninos-20260925094414-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/25/d74ba3a3e79505d0efa5b2f8147bc39792432a4c-RtauSUtpdMjS2RDYpmV0VQJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Controlado el incendio en Santa Lucía (Gran Canaria) que deja varias viviendas calcinadas",
       "link": "https://www.abc.es/espana/canarias/controlado-incendio-santa-lucia-gran-canaria-deja-20260924204131-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/24/fuego3-RiYKU1ZAxD9IG32by6IcGXI-1200x840@diario_abc.png",
@@ -22,18 +34,6 @@
       "titulo": "Mañana complicada en Gran canaria con dos conatos de incendio y temperaturas en ascenso",
       "link": "https://www.abc.es/espana/canarias/manana-complicada-gran-canaria-dos-conatos-incendio-20260924142801-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/24/fuego-R6gRSotmRKDlAjIFRBe2IOO-1200x840@diario_abc.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una mujer con cáncer terminal será desahuciada este viernes en Tenerife",
-      "link": "https://www.abc.es/espana/canarias/mujer-cancer-terminal-desahuciada-viernes-tenerife-20260924095346-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/24/desahucio-RgKX4Kv6JT6zsPKQ5YmvWJP-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Noche intensa en la Ruta Canaria con 185 inmigrantes rescatados de tres cayucos",
-      "link": "https://www.abc.es/espana/canarias/noche-intensa-ruta-canaria-185-inmigrantes-rescatados-20260924091909-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/24/salvamento-Rk1OWiUbh12LgAyKVxa4CsO-1200x840@diario_abc.png",
       "tipo": "imagen"
     }
   ]

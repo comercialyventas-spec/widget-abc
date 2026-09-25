@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Marruecos apunta a Melilla: drones marroquíes ya vigilan la frontera",
+      "link": "https://www.mediterraneodigital.com/espana/ceuta-y-melilla/marruecos-drones-melilla",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/9/ceuta-melilla-marruecos.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Diagnosticado el primer caso de viruela del mono en un mena marroquí de Ceuta",
       "link": "https://www.mediterraneodigital.com/espana/ceuta-y-melilla/viruela-del-mono-ceuta",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/ceuta-invasion.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Nueva emboscada en Ceuta: marroquíes atacan a un convoy militar español",
       "link": "https://www.mediterraneodigital.com/espana/ceuta-y-melilla/militares-espanoles-ceuta",
       "imagen": "https://www.mediterraneodigital.com/images/2026/8/militares.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Vecinos de Ceuta rompen el cordón policial y queman chabolas de inmigrantes ilegales en la playa",
-      "link": "https://www.mediterraneodigital.com/espana/ceuta-y-melilla/ceuta-playa-trampolin",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/8/trampolin.jpg",
       "tipo": "imagen"
     }
   ]

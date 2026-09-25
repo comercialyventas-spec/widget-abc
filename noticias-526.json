@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Taxis",
+      "link": "https://www.elconfidencialdigital.com/album/vivir/taxis/202609251132061488190.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2018/03/09/ECDIMA20180309_0013_1.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Menores Ceuta",
       "link": "https://www.elconfidencialdigital.com/album/vivir/menores-ceuta/202609241233291487950.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/24/2026092412293917381.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Viajes en septiembre",
       "link": "https://www.elconfidencialdigital.com/album/vivir/viajes-septiembre/202609161212311193400.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/16/2026091612091390216.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Huevos Guillén",
-      "link": "https://www.elconfidencialdigital.com/album/vivir/huevos/202609111736341040404.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/11/2026091117313346341.jpg",
       "tipo": "imagen"
     }
   ]

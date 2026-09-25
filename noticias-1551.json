@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Las temperaturas veraniegas se mantienen en gran parte del país este viernes",
+      "link": "https://www.eldiario.es/sociedad/el-tiempo/temperaturas-veraniegas-mantienen-gran-parte-pais-viernes-pm_1_13536350.html",
+      "imagen": "https://static.eldiario.es/clip/6dded6bd-5833-4196-9bfb-de925045f46b_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El calor veraniego tiene los días contados: cambios a partir del fin de semana",
       "link": "https://www.eldiario.es/sociedad/el-tiempo/calor-veraniego-dias-contados-cambios-partir-semana-pm_1_13532471.html",
       "imagen": "https://static.eldiario.es/clip/fdaef2aa-3776-4cff-8733-fa70be92140d_16-9-discover-aspect-ratio_default_0_x1346y543.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La lluvia afloja este viernes y las temperaturas subirán de cara al fin de semana",
       "link": "https://www.eldiario.es/sociedad/el-tiempo/lluvia-afloja-viernes-temperaturas-subiran-cara-semana-pm_1_13517905.html",
       "imagen": "https://static.eldiario.es/clip/4d80d3de-ab80-4380-a09a-bb40ce3147f3_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Aemet advierte de tormentas fuertes y activa avisos hoy en seis comunidades",
-      "link": "https://www.eldiario.es/sociedad/el-tiempo/aemet-advierte-tormentas-fuertes-activa-avisos-hoy-seis-comunidades-pm_1_13515160.html",
-      "imagen": "https://static.eldiario.es/clip/eeb1d6f0-6b1f-46e4-a692-152b4532909d_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

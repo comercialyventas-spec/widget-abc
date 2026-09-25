@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Hipocampo, cocina con personalidad",
+      "link": "https://www.abc.es/gastronomia/hipocampo-cocina-personalidad-20260925095130-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/25/Comedor%201-RzGV5YfyoTayZduf7nGP0CO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La flor de la verdejo",
       "link": "https://www.abc.es/gastronomia/vinos/flor-verdejo-20260924175217-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/24/florinnata2-R9MylJJfo3OJDbAeQFj5S6I-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "EZuara, nuevo espacio, mismo nivel",
       "link": "https://www.abc.es/gastronomia/zuara-nuevo-espacio-nivel-20260918102923-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/18/Barra-RJTt2hggTtQEo4nHrgpBvKI-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Qué se come y se bebe en los conciertos de Shakira en Madrid",
-      "link": "https://www.abc.es/gastronomia/come-bebe-conciertos-shakira-madrid-20260918164929-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/18/Terrace_SideView-RjvKFoTZM9ktOXyxhDUdhLO-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

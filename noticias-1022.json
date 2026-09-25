@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Zelenski asegura que Trump ha aceptado dar a Ucrania licencias para los Patriot",
-      "link": "https://www.abc.es/internacional/zelensky-asegura-trump-aceptado-dar-ucrania-licencias-20260925105211-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/25/zelenski-trump-kVvG-U301890184311wvE-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "España esquiva el primer impacto de la guerra de Irán y creció a un ritmo del 2,6% hasta junio",
-      "link": "https://www.abc.es/economia/espana-esquivo-desaceleracion-guerra-iran-crecio-segundo-20260925090135-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/25/turistas%20bilbao-RDBGsyBAwEAxmjD1hoEka1O-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Los trenes sin conductor de la línea 6 de Metro se estrenarán el primer trimestre de 2027",
-      "link": "https://www.abc.es/espana/madrid/trenes-conductor-linea-metro-estrenaran-primer-trimestre-20260925113000-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/25/1516089781-RuixrpOJPQKhTHgfT29v3EO-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Discos de la semana: Regresar a los 60 años con el espíritu juguetón de Mike D",
-      "link": "https://www.abc.es/cultura/musica/discos-semana-regresar-anos-espiritu-jugueton-mike-20260925112611-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/25/Mike_D-RF675I2fGpD6hdJn1mE5o9M-1200x840@diario_abc.JPG"
-    },
-    {
       "titulo": "Los estudiantes de Harvard acorralan a Sánchez con preguntas sobre Begoña Gómez y Pegasus",
       "link": "https://www.abc.es/espana/begona-pegasus-zapatero-escandalos-persiguen-sanchez-harvard-20260925031353-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/25/1517799663-k20B-U301886740019EnE-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/25/1517799663-k20B-U301886740019EnE-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Los Reyes harán un viaje de Estado a Finlandia, la mayor frontera europea con Rusia",
       "link": "https://www.abc.es/espana/reyes-haran-viaje-estado-finlandia-mayor-frontera-20260925111548-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/25/1442873456-R1LA8rU0VZeMymWlLC3CzuN-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/25/1442873456-R1LA8rU0VZeMymWlLC3CzuN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Zelenski asegura que Trump ha aceptado dar a Ucrania licencias para los Patriot",
+      "link": "https://www.abc.es/internacional/zelensky-asegura-trump-aceptado-dar-ucrania-licencias-20260925105211-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/25/zelenski-trump-kVvG-U301890184311wvE-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Alejandro Amenábar ve 'La bola negra', la nueva película de los Javis, y solo necesita una palabra para sentenciarla: «Es muy difícil»",
+      "link": "https://www.abc.es/play/cine/noticias/alejandro-amenabar-bola-negra-nueva-pelicula-javis-20260925110006-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/25/amenabar--kzMH-U301889284274aUF-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Llega a Netflix la miniserie basada en una novela de Reverte y protagonizada por José Coronado",
+      "link": "https://www.abc.es/play/series/noticias/llega-hoy-netflix-miniserie-basada-novela-reverte-coronado-20260925070000-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/07/12/coronado-reverte-U20862470093zTG-U301841228047DKB-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Muere el padre de Mike Tindall, yerno de la Princesa Ana, tras más de 20 años conviviendo con el párkinson",
+      "link": "https://www.abc.es/gente/muere-padre-mike-tindall-yerno-princesa-ana-20260925103846-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/09/25/mike-tindall-RCrYx09EW6WfmN4SkkO9O7L-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }

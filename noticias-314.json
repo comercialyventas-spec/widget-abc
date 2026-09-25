@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Camaradas de altos vuelos",
+      "link": "https://www.abc.es/xlsemanal/firmas/benjamin-lana/camaradas-de-altos-vuelos-20260921112754-ntrc.html",
+      "imagen": "https://s1.abcstatics.com/narwhal/1.3.69/assets/images/abc-noticias.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "PISA",
+      "link": "https://www.abc.es/xlsemanal/firmas/cartas-lector/lorenzo-silva-informe-pisa-20260921111947-ntrc.html",
+      "imagen": "https://s1.abcstatics.com/narwhal/1.3.69/assets/images/abc-noticias.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Carlos Santos: «La Guardia Civil me persiguió una vez... para hacerse una foto conmigo»",
       "link": "https://www.abc.es/xlsemanal/carlos-santos-actor-entrevista-20260921194342-ntrc.html",
       "imagen": "https://static.vocento.com/xlsemanal/2026/09/21/xlsemanal-2031-desayuno-carlos-santos-kf9B-U301863288856UuD-1200x840@RC.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Gregorio Prieto, el pintor de Lorca que soñó con 'La bola negra'",
       "link": "https://www.abc.es/xlsemanal/gregorio-prieto-pintor-lorca-la-bola-negra-pelicula-los-javis-20260921174640-ntrc.html",
       "imagen": "https://static.vocento.com/xlsemanal/2026/09/21/xlsemanal-gregorio-prieto-pintor-lorca-la-bola-negra-silla-en-alta-kJwC-U301840918615b3E-1200x672@RC.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "«El bigote, las pesas, el cuero... Si no veías señales de que Freddie era gay, no sé qué más necesitabas»",
-      "link": "https://www.abc.es/xlsemanal/freddie-mercury-mary-austin-libro-novia-matrimonio-gay-sida-live-aid-20260921173116-ntrc.html",
-      "imagen": "https://static.vocento.com/xlsemanal/2026/09/21/xlsemanal-freddie-mercury-mary-austin-libro%20copia-kaEG-U301824553089zQE-1200x672@RC.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Triaca: la medicina que no curaba nada (y se recetó durante dos mil años para casi todo)",
-      "link": "https://www.abc.es/xlsemanal/triaca-la-medicina-que-no-curaba-dos-milenios-20260921170552-ntrc.html",
-      "imagen": "https://static.vocento.com/xlsemanal/2026/09/21/xlsemanal-triaca-la-medicina-que-no-curaba-y-se-receto-dos-milenios-kWfC-U301825067782fvH-1200x672@RC.jpg",
       "tipo": "imagen"
     }
   ]

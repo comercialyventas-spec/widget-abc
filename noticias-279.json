@@ -1,7 +1,25 @@
 {
   "noticias": [
     {
-      "titulo": "El mayor proyecto urbanístico de Europa está en Madrid: Valdecarros tendrá más de 28.000 viviendas públicas y viviendas para 150.000 personas",
+      "titulo": "Los trenes sin conductor de la línea 6 de Metro se estrenarán el primer trimestre de 2027",
+      "link": "https://www.abc.es/espana/madrid/trenes-conductor-linea-metro-estrenaran-primer-trimestre-20260925113000-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/25/1516089781-RuixrpOJPQKhTHgfT29v3EO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las primeras declaraciones de Maricarmen desde el hospital tras su desahucio en Madrid: «No lo he logrado, pero sí he luchado»",
+      "link": "https://www.abc.es/espana/madrid/primeras-declaraciones-maricarmen-hospital-tras-desahucio-madrid-20260925110559-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/25/maricarmen-hospital-k3AG-U301890280283T6D-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Detenido en Bruselas uno de los asesinos de Coco, el gerente chino de un piso burdel",
+      "link": "https://www.abc.es/espana/madrid/detenido-bruselas-asesinos-coco-gerente-chino-piso-20260925102749-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/25/1422530481-RRW6E61tjKQJdCg4vDjq7mM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El mayor proyecto urbanístico de Europa está en Madrid: Valdecarros tendrá más de 28.000 viviendas públicas y será más grande que Badajoz",
       "link": "https://www.abc.es/espana/madrid/mayor-proyecto-urbanistico-europa-madrid-valdecarros-28000-20260925050000-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/25/newspaint-1790260462120-1200x840-RJ3iI3qXEX2e8CVNfED2mOP-1200x840@diario_abc.jpg",
       "tipo": "imagen"
@@ -16,24 +34,6 @@
       "titulo": "Secuestra a su expareja durante tres días en un camión desde Motril a Getafe",
       "link": "https://www.abc.es/espana/madrid/secuestra-expareja-tres-dias-camion-motril-getafe-20260921015302-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/21/secuestro-RHCiuInUD1G9d7ORTEl1iIK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Concierto de Shakira en Madrid hoy: cuándo empieza, a qué hora abren las puertas del Estadio de Villaverde y cómo llegar",
-      "link": "https://www.abc.es/espana/madrid/concierto-shakira-madrid-hoy-empieza-hora-abren-puertas-estadio-como-llegar-20260925163745-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/18/shakira%20(2)-kxTE-U301836746831Y1F-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Madrid lanza la mayor oferta de empleo público de la historia: plazas, requisitos y cómo inscribirse",
-      "link": "https://www.abc.es/espana/madrid/madrid-lanza-mayor-oferta-empleo-publico-historia-20260925050000-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/25/almeida-trabajo-R1BiZI6dxpNuCdSkOsWaFLN-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Riopy: «El piano es un canal para expresar mis sentimientos»",
-      "link": "https://www.abc.es/espana/madrid/riopy-piano-canal-expresar-sentimientos-20260924013537-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/24/1-riopy-RHuXFEImxWH43wHM8mCvgdN-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

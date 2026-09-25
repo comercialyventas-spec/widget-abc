@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Tres caras para el Fiat Grande Panda",
+      "link": "https://www.abc.es/motor/novedades/tres-caras-fiat-grande-panda-20260925103700-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/25/panda-colores-RDwhFW9vGQjusOAt7ZoC6VN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El precio récord del gasóleo acorrala a los conductores europeos",
       "link": "https://www.abc.es/motor/economia/precio-record-gasoleo-acorrala-conductores-europeos-20260925073900-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/25/estacion-de-servicio-RsXQ04if1VAdphmCiHyVfsN-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La IA de los coches autónomos muestra discriminación según el tono de piel y la discapacidad de los peatones",
       "link": "https://www.abc.es/motor/reportajes/ia-coches-autonomos-muestra-discriminacion-segun-tono-20260924093800-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/24/ia-coches-seguros-RNjbOMzdjgbWGXpI5S4IZrM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La normativa de movilidad suma nuevas ciudades al mapa de restricciones al tráfico",
-      "link": "https://www.abc.es/motor/reportajes/normativa-movilidad-suma-nuevas-ciudades-mapa-restricciones-20260924085500-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/24/MAPA-ZONAS-BAJAS-EMISIONES-RiahfuAloxuzwtIgu6kf2PM-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
