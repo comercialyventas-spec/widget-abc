@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Amaia Montero y un ridículo muy español",
+      "link": "https://www.abc.es/play/series/criticas/lucia-cabanelas-amaia-montero-ridiculo-espanol-20260925014527-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/25/amaia-montero-atascada-kHiB-U301872455009XGG-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ozark",
       "link": "https://www.abc.es/play/series/criticas/ozark-20260924130715-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/24/ozark-kWx-U301874109562bOH-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Llega a Netflix la miniserie basada en una novela de Arturo Pérez-Reverte: está protagonizada por José Coronado y tiene cuatro episodios",
       "link": "https://www.abc.es/play/series/noticias/llega-netflix-miniserie-basada-novela-arturo-perezreverte-20260921070000-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/07/12/reverte-coronado-U202229076921ZNE-U301779253979E6E-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Jose Coronado resuelve 'El problema final' de Pérez-Reverte",
-      "link": "https://www.abc.es/play/series/noticias/jose-coronado-resuelve-problema-final-perezreverte-personaje-20260921011937-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/21/el-problema-final4-kSHB-U301822056170KKI-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

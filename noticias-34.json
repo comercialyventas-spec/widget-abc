@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un brindis por Marcos Ordóñez",
+      "link": "https://www.lavanguardia.com/cultura/20260925/11643412/brindis-marcos-ordonez.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Benvinguts al gran teatre dels llibres lliures",
       "link": "https://www.lavanguardia.com/encatala/20260924/11643208/benvinguts-gran-teatre-llibres-lliures-manrique-camps-vives-orriols.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/24/6ab56788866d0.r_d.3579-2630-894.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Un perito afirma que una llave encontrada en un rastro es nazarí y puede ser de la Alhambra",
       "link": "https://www.lavanguardia.com/cultura/20260924/11643105/perito-afirma-llave-encontrada-rastro-nazari-alhambra.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/24/6ab530af43ddb.r_d.2039-1474-1102.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Màrius Serra, premio Difusió de La Setmana, reivindica la Barcelona de los ‘inpats’",
-      "link": "https://www.lavanguardia.com/cultura/20260924/11643071/marius-serra-premio-difusio-setmana-reivindica-barcelona-inpats.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/24/6ab50d3615872.r_d.3597-2455-624.jpeg",
       "tipo": "imagen"
     }
   ]
