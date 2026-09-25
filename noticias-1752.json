@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Don Buitre",
+      "link": "https://www.publico.es/opinion/vinetas/don-buitre.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/24/6ab532860cd01.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El pelotazo que se esconde tras la negativa de los desahuciadores de Maricarmen a aceptar el pago íntegro del alquiler",
       "link": "https://www.publico.es/politica/pelotazo-esconde-negativa-desahuciadores-maricarmen-aceptar-pago-integro-alquiler.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/24/6ab57c1e4ae9f.png",
@@ -28,12 +34,6 @@
       "titulo": "Expropiar una vivienda es difícil, intervenir el mercado es constitucional: los límites legales contra la especulación",
       "link": "https://www.publico.es/politica/gobierno/expropiar-vivienda-dificil-intervenir-mercado-constitucional-limites-legales-especulacion.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/24/6ab53e41da91b.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Madrid se gana puerta a puerta",
-      "link": "https://www.publico.es/opinion/columnas/madrid-gana-puerta-puerta.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/24/6ab53068cf114.jpeg",
       "tipo": "imagen"
     }
   ]
