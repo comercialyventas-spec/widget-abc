@@ -20,6 +20,14 @@ jobs:
           POST_ID: "2313092392529705022"          # SUCESOS LA VANGUARDIA
         run: |
           set -e
+          # Quitar espacios/saltos de línea que se cuelan al pegar los secretos
+          CLIENT_ID=$(printf '%s' "$CLIENT_ID" | tr -d '[:space:]')
+          CLIENT_SECRET=$(printf '%s' "$CLIENT_SECRET" | tr -d '[:space:]')
+          REFRESH_TOKEN=$(printf '%s' "$REFRESH_TOKEN" | tr -d '[:space:]')
+          echo "Comprobación (sin mostrar valores):"
+          echo "  ID: ${#CLIENT_ID} caracteres, empieza por ${CLIENT_ID:0:7}…, termina en …${CLIENT_ID: -27}"
+          echo "  Secreto: ${#CLIENT_SECRET} caracteres, empieza por ${CLIENT_SECRET:0:7}…"
+          echo "  Refresh token: ${#REFRESH_TOKEN} caracteres, empieza por ${REFRESH_TOKEN:0:3}…"
           RESP=$(curl -s -X POST https://oauth2.googleapis.com/token \
             --data-urlencode "client_id=$CLIENT_ID" \
             --data-urlencode "client_secret=$CLIENT_SECRET" \
