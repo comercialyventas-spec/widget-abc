@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "En invierno también se navega",
+      "link": "https://www.abc.es/deportes/vela/opinion/eloy-herrero-invierno-navega-20260926105406-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/26/Varadero%20Valencia-RIFzFy439jBdG4Q43rMjF9M-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Rondina y Herrlein toman el mando en un Mundial de Snipe al rojo vivo",
       "link": "https://www.abc.es/deportes/vela/vela-ligera/rondina-herrlein-toman-mando-mundial-snipe-rojo-20260925182744-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/25/Flota%20Mundial%20Snipe%20Mahon-R0DrUzZwa65youaR1T9aSgK-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Nápoles vivirá el último test de cara a la 38 Copa América que se celebrará el próximo verano",
       "link": "https://www.abc.es/deportes/vela/copa-america/napoles-vivira-ultimo-test-cara-copa-america-20260924120413-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/24/AC40%20Cagliari-RPaQOHnWwdFylLZidXQP22L-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los hermanos Gustavo y Rafael Del Castillo se colocan líderes en el Mundial de Snipe",
-      "link": "https://www.abc.es/deportes/vela/vela-ligera/hermanos-gustavo-rafael-castillo-colocan-lideres-mundial-20260923185647-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/23/Del%20Castillo%20Snipe-ResOEMy1DRzlp41k7Qw5RzO-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

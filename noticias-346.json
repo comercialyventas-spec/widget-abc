@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La IA de OpenAI accedió sin autorización a datos del Gobierno de Estados Unidos",
+      "link": "https://www.abc.es/tecnologia/ia-openai-accedio-autorizacion-datos-gobierno-estados-20260926100116-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/26/reuters-openai-RtQrNrvb9FKTeG69guBQADO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "David Gross, Premio Nobel de Física, alerta a la sociedad: «Las probabilidades de que la humanidad viva 50 años más son muy bajas»",
       "link": "https://www.abc.es/tecnologia/david-gross-premio-nobel-fisica-alerta-sociedad-20260924064500-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/24/david-gross-kLZC-Rb4RgHqW6ou11ffcPAsHuuN-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El peligro de la «rendición cognitiva»: un informe del MIT alerta de cómo la IA está destruyendo el pensamiento crítico de los estudiantes",
       "link": "https://www.abc.es/tecnologia/peligro-rendicion-cognitiva-informe-mit-alerta-ia-20260923053000-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/23/nino-estudiante-ordenador-RqQiy8Rbi01RsPhiGBmnPhK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Adiós a los artículos científicos: esta IA puede convertir los 'papers' en agentes capaces de trabajar por sí solos",
-      "link": "https://www.abc.es/tecnologia/adios-articulos-cientificos-ia-puede-convertir-papers-20260922170746-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/22/cientifica-investigadora-R7F6ccWPep3LjhcZRCqXJ9H-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
