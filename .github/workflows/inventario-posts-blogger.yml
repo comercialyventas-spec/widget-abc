@@ -1,0 +1,33 @@
+name: Inventario posts Blogger (solo lectura)
+
+# Solo se lanza a mano. No cambia nada: lista posts con script viejo de Google
+# y revisa filas de GENERADOR_NOTICIAS.
+on:
+  workflow_dispatch:
+    inputs:
+      blog:
+        description: 'ID del blog'
+        default: '7463231340560247006'
+        required: true
+      filas:
+        description: 'Filas de GENERADOR_NOTICIAS a revisar (separadas por espacios)'
+        default: '2419 2420 2421 2422 2423 2424 2425 2426 2427 2428 2429 2430 1360'
+        required: false
+
+permissions:
+  contents: read
+
+jobs:
+  inventario:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Inventario
+        env:
+          CLIENT_ID: ${{ secrets.BLOGGER_CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.BLOGGER_CLIENT_SECRET }}
+          REFRESH_TOKEN: ${{ secrets.BLOGGER_REFRESH_TOKEN }}
+        run: node migracion/inventario.js "${{ inputs.blog }}" "${{ inputs.filas }}"
