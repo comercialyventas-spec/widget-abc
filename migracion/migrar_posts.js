@@ -14,6 +14,13 @@ const path = require('path');
 
 const HOJA_GN = '17HjbMWPmmfI6npzxfMlq3gcrBKZTm2MC4mfMDcSjnXA';
 const VIEJOS = ['AKfycbxTehoGzJL9MT1Sv', 'AKfycbzeMKVUzOXYNngx1d8', 'AKfycbxMwKitb599oOi'];
+// Listas de productos ("detectar": "cualquier_script"): vale cualquier script de Google salvo los contadores de clics.
+const CONTADORES = ['w7seO', 'mjaZZ'];
+function llevaScriptGoogle(c, modoDetectar) {
+  if (modoDetectar !== 'cualquier_script') return VIEJOS.some((id) => c.includes(id));
+  const ids = (c.match(/script\.google\.com\/macros\/s\/[A-Za-z0-9_-]{20,}/g) || []);
+  return ids.some((m) => !CONTADORES.some((x) => m.includes(x)));
+}
 const API = 'https://www.googleapis.com/blogger/v3';
 const DIR_BACKUP = path.join(__dirname, 'backups');
 
@@ -71,7 +78,7 @@ async function main() {
   const [listaArchivo, modo] = process.argv.slice(2);
   if (!['simular', 'aplicar', 'restaurar'].includes(modo)) throw new Error('Modo no válido: ' + modo);
   const lista = JSON.parse(fs.readFileSync(listaArchivo, 'utf8'));
-  const blogId = lista.blogId;
+  const blogPorDefecto = lista.blogId;
   const token = await tokenAcceso();
   fs.mkdirSync(DIR_BACKUP, { recursive: true });
 
@@ -79,7 +86,13 @@ async function main() {
   const resumen = [];
   let errores = 0;
 
-  for (const [ruta, fila, nombre] of lista.posts) {
+  for (const entrada of lista.posts) {
+    // Entrada de noticias: [ruta, fila, nombre]. Entrada de productos: {ruta, nombre, html, blogId}
+    const esObjeto = !Array.isArray(entrada);
+    const ruta = esObjeto ? entrada.ruta : entrada[0];
+    const fila = esObjeto ? null : entrada[1];
+    const nombre = esObjeto ? entrada.nombre : entrada[2];
+    const blogId = (esObjeto && entrada.blogId) || blogPorDefecto;
     try {
       const post = await blogger(token, 'GET',
         `${API}/blogs/${blogId}/posts/bypath?path=${encodeURIComponent(ruta)}&view=ADMIN`);
@@ -95,33 +108,39 @@ async function main() {
         continue;
       }
 
-      const llevaViejo = VIEJOS.some((id) => viejo.includes(id));
+      const llevaViejo = llevaScriptGoogle(viejo, lista.detectar);
       if (!llevaViejo) { resumen.push(`YA ESTABA BIEN  ${nombre}: no lleva el script viejo, no se toca`); continue; }
 
-      const nuevo = await widgetDeFila(token, fila);
-      if (!nuevo.includes(`noticias-${fila}-container`)) {
-        resumen.push(`SALTADO  ${nombre}: la fila ${fila} no tiene su widget en la columna G`);
-        continue;
+      let nuevo;
+      if (esObjeto) {
+        nuevo = fs.readFileSync(path.join(__dirname, '..', entrada.html), 'utf8');
+        if (!nuevo.includes('motor-productos')) { resumen.push(`SALTADO  ${nombre}: el HTML nuevo no lleva el motor`); continue; }
+      } else {
+        nuevo = await widgetDeFila(token, fila);
+        if (!nuevo.includes(`noticias-${fila}-container`)) {
+          resumen.push(`SALTADO  ${nombre}: la fila ${fila} no tiene su widget en la columna G`);
+          continue;
+        }
       }
-      if (VIEJOS.some((id) => nuevo.includes(id))) {
-        resumen.push(`SALTADO  ${nombre}: el widget nuevo de la fila ${fila} TAMBIÉN usa un script de Google`);
+      if (llevaScriptGoogle(nuevo, 'cualquier_script')) {
+        resumen.push(`SALTADO  ${nombre}: el contenido nuevo TAMBIÉN llama a un script de Google`);
         continue;
       }
 
       if (modo === 'simular') {
-        resumen.push(`SE CAMBIARÍA  ${nombre}  (post ${post.id}, ${viejo.length} → ${nuevo.length} caracteres, widget noticias-${fila})  ${post.url}`);
+        resumen.push(`SE CAMBIARÍA  ${nombre}  (post ${post.id}, ${viejo.length} → ${nuevo.length} caracteres, ${esObjeto ? entrada.html : 'widget noticias-' + fila})  ${post.url}`);
         continue;
       }
 
       // aplicar: primero la copia, luego el cambio
       if (!fs.existsSync(archivoBackup)) {
         fs.writeFileSync(archivoBackup, JSON.stringify({
-          id: post.id, url: post.url, path: ruta, titulo: post.title, fila,
+          id: post.id, blogId, url: post.url, path: ruta, titulo: post.title, fila,
           contenido: viejo, fecha_copia: new Date().toISOString(),
         }, null, 1));
       }
       await blogger(token, 'PATCH', `${API}/blogs/${blogId}/posts/${post.id}`, { content: nuevo });
-      resumen.push(`CAMBIADO  ${nombre} → widget noticias-${fila}  ${post.url}`);
+      resumen.push(`CAMBIADO  ${nombre} → ${esObjeto ? 'motor de productos' : 'widget noticias-' + fila}  ${post.url}`);
       await esperar(3000);
     } catch (e) {
       errores++;
