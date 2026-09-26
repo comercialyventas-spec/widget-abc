@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Así funciona la red de ‘La Derecha Diario’ en 11 países, según una investigación de fact-checkers latinoamericanos",
+      "link": "https://www.newtral.es/desinformacion-latinoamerica-la-derecha-diario/20260926/",
+      "imagen": "https://www.newtral.es/wp-content/uploads/2026/09/Nota-Chequeado-5-1024x576.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "“No intentes ganar”: cómo hablar con amigos y familiares que comparten desinformación",
+      "link": "https://www.newtral.es/guia-desinformacion-amigos/20260926/",
+      "imagen": "https://www.newtral.es/wp-content/uploads/2026/09/nueva-1024x649.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Vídeos recortados e imágenes con IA: la desinformación que rodea el desahucio de Maricarmen",
       "link": "https://www.newtral.es/bulos-maricarmen/20260925/",
       "imagen": "https://www.newtral.es/wp-content/uploads/2026/09/55021479928-FF-DESAHUCIO-MARICARMEN-FERNANDO-VILLAR-EFE-20260923-1-1024x683.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Esta fotografía de Maricarmen comiendo en un bar está manipulada con IA",
       "link": "https://www.newtral.es/maricarmen-fotografia-bar/20260925/",
       "imagen": "https://www.newtral.es/wp-content/uploads/2026/09/IL20260925080929-cartelas-2026-09-25T100742.784-1024x575.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Este vídeo de un migrante mostrando una tarjeta monedero de Eroski entregada por Cruz Roja no fue grabado en Ceuta",
-      "link": "https://www.newtral.es/tarjeta-monedero-ceuta/20260924/",
-      "imagen": "https://www.newtral.es/wp-content/uploads/2026/09/Cartela-Fake-46-1024x576.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "No es una fila de mujeres musulmanas esperando para inscribir a sus hijos en una guardería en Países Bajos",
-      "link": "https://www.newtral.es/guarderia-musulmanas/20260924/",
-      "imagen": "https://www.newtral.es/wp-content/uploads/2026/09/FAKE-Musulmanas-guarderia--1024x576.jpg",
       "tipo": "imagen"
     }
   ]

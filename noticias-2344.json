@@ -1,7 +1,19 @@
 {
   "noticias": [
     {
-      "titulo": "Un hombre resulta herido en un choque entre dos turismos en Zamora capital",
+      "titulo": "Zamora registra un terremoto de 2,6 grados este sábado en este punto de la provincia",
+      "link": "https://www.zamora24horas.com/sucesos/zamora-registra-terremoto-2-6-grados-este-sabado-este-punto-provincia",
+      "imagen": "https://statics.zamora24horas.com/8508f52c-5e30-4797-b9cb-2bb561a5bb93.webp?format=webp&width=320&quality=75",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Estabilizado un incendio de Nivel 1 en la localidad de Vecilla de Trasmonte",
+      "link": "https://www.zamora24horas.com/sucesos/estabilizado-incendio-nivel-1-localidad-vecilla-trasmonte",
+      "imagen": "https://statics.zamora24horas.com/a2c2ee59-8d95-4357-a8ad-3612575efadb.webp?format=webp&width=320&quality=75",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ambulancia y Policía Local en Cardenal Cisneros. Archivo",
       "link": "https://www.zamora24horas.com/sucesos/hombre-resulta-herido-choque-entre-dos-turismos-zamora-capital",
       "imagen": "https://statics.zamora24horas.com/5dfcfe2e-db29-4f84-859e-765866db56cc.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
@@ -13,21 +25,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "La grúa traslada el turismo implicado en el accidente de Abraveses con una cosechadora",
+      "titulo": "Una mujer herida en un accidente entre un turismo y una cosechadora en Zamora",
       "link": "https://www.zamora24horas.com/sucesos/mujer-herida-accidente-entre-turismo-cosechadora-zamora",
       "imagen": "https://statics.zamora24horas.com/748b0182-50dd-46a7-964b-8fe786f25e1c.webp?format=webp&width=320&quality=75",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un incidente sanitario en pleno centro de Zamora moviliza a los servicios de emergencias",
-      "link": "https://www.zamora24horas.com/sucesos/incidente-sanitario-pleno-centro-zamora-moviliza-servicios-emergencias",
-      "imagen": "https://statics.zamora24horas.com/e1ecbc20-2efa-4cfb-9054-b32fd2d84da7.webp?format=webp&width=320&quality=75",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El fuego regresa a Sayago este martes y obliga a intervenir medios terrestres y aéreos",
-      "link": "https://www.zamora24horas.com/sucesos/fuego-regresa-sayago-este-martes-obliga-intervenir-medios-terrestres-aereos",
-      "imagen": "https://statics.zamora24horas.com/74a99119-7744-415e-ad27-05b8fe3b5ab9.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
     }
   ]

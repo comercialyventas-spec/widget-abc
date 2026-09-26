@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Más de 100.000 españoles salen a la calle para defender a Ceuta: «¡No es inmigración, es una invasión!»",
+      "link": "https://www.mediterraneodigital.com/espana/manifestacion-ceuta-madrid",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/9/mani-espana-ceuta.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Marruecos apunta a Melilla: drones marroquíes ya vigilan la frontera",
       "link": "https://www.mediterraneodigital.com/espana/ceuta-y-melilla/marruecos-drones-melilla",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/ceuta-melilla-marruecos.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Puigdemont pide un referéndum para Ceuta y Melilla",
       "link": "https://www.mediterraneodigital.com/espana/cataluna/puigdemont-ceuta-melilla",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/carles-puigdemont.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Es oficial: España es el país con más inmigrantes de toda Europa",
-      "link": "https://www.mediterraneodigital.com/espana/espana-inmigrantes-union-europea",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/9/inmigrantes-espana-europa.jpg",
       "tipo": "imagen"
     }
   ]

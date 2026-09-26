@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Tres formas de resistir al extractivismo de datos",
+      "link": "https://loquesomos.es/tres-formas-de-resistir-al-extractivismo-de-datos/",
+      "imagen": "https://loquesomos.es/wp-content/uploads/2026/09/hero_cover-777x450.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La subasta de tu atención: 200 milisegundos",
       "link": "https://loquesomos.es/la-subasta-de-tu-atencion-200-milisegundos/",
       "imagen": "https://loquesomos.es/wp-content/uploads/2026/09/Si_No_Pagas.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La Inteligencia Artificial y nosotras",
       "link": "https://loquesomos.es/la-inteligencia-artificial-y-nosotras/",
       "imagen": "https://loquesomos.es/wp-content/uploads/2026/08/Portada-800x450.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "GLM-5.2: Lo que no te cuentan",
-      "link": "https://loquesomos.es/glm-5-2-lo-que-no-te-cuentan/",
-      "imagen": "https://loquesomos.es/wp-content/uploads/2026/07/2083196871781650432-800x450.jpg",
       "tipo": "imagen"
     }
   ]

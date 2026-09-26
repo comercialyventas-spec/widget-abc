@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Unidad Cirugía Barcelona",
+      "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/6282983/unidad-cirugia-barcelona-slp.html",
+      "imagen": "https://edv-static.lavanguardia.com/assets/img/6282983/banner-1760373967000.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Solarea Tech",
       "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/6375927/sol-y-area-energeticas-sl.html",
       "imagen": "https://edv-static.lavanguardia.com/assets/img/6375927/banner-1763655880000.png",
@@ -28,12 +34,6 @@
       "titulo": "Marie Solange",
       "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/3508217/javier-marcelo-firpo-firpo.html",
       "imagen": "https://edv-static.lavanguardia.com/assets/img/3508217/banner-1790078367000.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "TROPOSFERICA",
-      "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/425943/troposferica-2020-sl.html",
-      "imagen": "https://edv-static.lavanguardia.com/assets/img/425943/banner-1731348842000.jpeg",
       "tipo": "imagen"
     }
   ]

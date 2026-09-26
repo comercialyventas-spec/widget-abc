@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La IA de OpenAI intentó acceder sin autorización a webs oficiales del Gobierno de EEUU",
+      "link": "https://www.publico.es/ciencias/tecnologia/ia-openai-intento-acceder-autorizacion-webs-oficiales-gobierno-eeuu.html",
+      "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/07/22/6a60e36f1474a.r_d.961-574-1406.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Guterres llama a gobernar la IA: \"Debe ser moldeada por la humanidad y para la humanidad\"",
       "link": "https://www.publico.es/ciencias/tecnologia/guterres-llama-gobernar-ia-debe-moldeada-humanidad-humanidad.html",
       "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/22/6ab288ffbfb56.r_d.957-555-1406.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Ni piensa ni conspira: por qué hablar de la IA como si fuera humana beneficia a las tecnológicas",
       "link": "https://www.publico.es/ciencias/tecnologia/piensa-conspira-hablar-ia-fuera-humana-beneficia-tecnologicas.html",
       "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/18/6aad4eb85fab4.r_d.449-288-3000.webp",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Justicia obliga al CNIO a readmitir e indemnizar al directivo que denunció irregularidades",
-      "link": "https://www.publico.es/ciencias/investigacion/justicia-obliga-cnio-readmitir-e-indemnizar-directivo-denuncio-irregularidades.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2025/12/22/69495f9063af1.jpeg",
       "tipo": "imagen"
     }
   ]

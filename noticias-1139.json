@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "A Curva, la taberna diminuta de Portonovo con más de 4.000 referencias de vino gallego",
+      "link": "https://elpais.com/gastronomia/2026-09-25/a-curva-la-taberna-diminuta-de-portonovo-con-mas-de-4000-referencias-de-vino-gallego.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/L3X6CMYK6FH2DEFUYLVJHHC2QA.jpg?auth=370cc4d01e0b3a14decea927e2127751ec9f583c3f4229f284ec36f908d89afe&width=1200",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las Madrinas de San Simón, una red de lavanderas contra los horrores de un penal franquista",
+      "link": "https://elpais.com/espana/galicia/2026-09-24/las-madrinas-de-san-simon-una-red-de-lavanderas-contra-los-horrores-de-un-penal-franquista.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "Varios niños de Lugo confunden pastillas de éxtasis que encontraron en un bus escolar con caramelos",
       "link": "https://elpais.com/espana/galicia/2026-09-23/varios-ninos-de-lugo-confunden-pastillas-de-extasis-que-encontraron-en-un-bus-escolar-con-caramelos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/4MVXAFJJGFOA7FUKLJ4HA6MFJA.jpg?auth=22bc7244e5bbafa329dd86f6c685bf8bf23235da628a81a89e2d0b47a6e08728&width=1200",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4MVXAFJJGFOA7FUKLJ4HA6MFJA.jpg?auth=22bc7244e5bbafa329dd86f6c685bf8bf23235da628a81a89e2d0b47a6e08728&width=414&height=233&smart=true",
       "tipo": "imagen"
     },
     {
@@ -15,25 +27,13 @@
     {
       "titulo": "Una protesta antirracista de cientos de personas boicotea un acto de Vox en Santiago",
       "link": "https://elpais.com/espana/galicia/2026-09-22/una-protesta-antirracista-de-cientos-de-personas-boicotea-un-acto-de-vox-en-santiago.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/JXUSCOXHSZAXBJOADU25NUJS7Q.JPG?auth=8d8a4058f3526c93d3ff15651a6d2463d4135eb684ce097cb704d1a82f899e04&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Aduanas asesta otro golpe a proveedores de cocaína del clan de Los Balcanes con la captura de 2.500 kilos de coca en un velero",
-      "link": "https://elpais.com/espana/galicia/2026-09-21/aduanas-apresa-un-velero-con-al-menos-2000-kilos-de-cocaina-a-400-millas-de-galicia.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/W65T5NTWMJNERGJEDI6HFTDJHA.jpg?auth=d1e1ccb3140700afe273ab0c82b748c8745b1aacdeb5c72a2340eee20205e3d8&width=1200",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sorpresas de un convento de clausura: de la dinastía Ming a Eisenhower... pasando por dos vísceras de monja",
-      "link": "https://elpais.com/espana/galicia/2026-09-21/sorpresas-de-un-convento-de-clausura-de-la-dinastia-ming-a-eisenhower-pasando-por-dos-visceras-de-monja.html",
       "imagen": "",
       "tipo": ""
     },
     {
-      "titulo": "Duelo eterno por el marinero gallego Guillermo Casais: ocho años sin justicia para su viuda e hijos",
-      "link": "https://elpais.com/espana/galicia/2026-09-15/duelo-eterno-por-el-marinero-gallego-guillermo-casais-ocho-anos-sin-justicia-para-su-viuda-e-hijos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/JACGLIT2RFFMZIH7IB62RFZ76I.jpg?auth=db13e8d8adc9a0e2b264a3f367e8d4e1d3e1b2adbe469617e8c624509e7d55fb&width=414&height=311&focal=1884%2C781",
+      "titulo": "Aduanas asesta otro golpe a proveedores de cocaína del clan de Los Balcanes con la captura de 2.500 kilos de coca en un velero",
+      "link": "https://elpais.com/espana/galicia/2026-09-21/aduanas-apresa-un-velero-con-al-menos-2000-kilos-de-cocaina-a-400-millas-de-galicia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/W65T5NTWMJNERGJEDI6HFTDJHA.jpg?auth=d1e1ccb3140700afe273ab0c82b748c8745b1aacdeb5c72a2340eee20205e3d8&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]
