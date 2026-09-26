@@ -1,0 +1,47 @@
+name: Prueba Blogger API (solo lectura)
+
+# Solo se lanza a mano (botón "Run workflow"). No modifica ningún post.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  leer:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pedir token de acceso a Google y leer un post
+        env:
+          CLIENT_ID: ${{ secrets.BLOGGER_CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.BLOGGER_CLIENT_SECRET }}
+          REFRESH_TOKEN: ${{ secrets.BLOGGER_REFRESH_TOKEN }}
+          BLOG_ID: "7463231340560247006"          # PERIÓDICOS ALIAZON
+          POST_ID: "2313092392529705022"          # SUCESOS LA VANGUARDIA
+        run: |
+          set -e
+          RESP=$(curl -s -X POST https://oauth2.googleapis.com/token \
+            --data-urlencode "client_id=$CLIENT_ID" \
+            --data-urlencode "client_secret=$CLIENT_SECRET" \
+            --data-urlencode "refresh_token=$REFRESH_TOKEN" \
+            --data-urlencode "grant_type=refresh_token")
+          ACCESS=$(echo "$RESP" | jq -r '.access_token // empty')
+          if [ -z "$ACCESS" ]; then
+            echo "ERROR al pedir el token:"
+            echo "$RESP" | jq '{error, error_description}'
+            exit 1
+          fi
+          echo "::add-mask::$ACCESS"
+          echo "Token de acceso conseguido."
+
+          echo "--- Blogs de la cuenta ---"
+          curl -s -H "Authorization: Bearer $ACCESS" \
+            "https://www.googleapis.com/blogger/v3/users/self/blogs?fields=items(id,name,url)" \
+            | jq -r '.items[]? | "\(.id)  \(.name)  \(.url)"'
+
+          echo "--- Post de prueba ---"
+          POST=$(curl -s -H "Authorization: Bearer $ACCESS" \
+            "https://www.googleapis.com/blogger/v3/blogs/$BLOG_ID/posts/$POST_ID?view=ADMIN&fields=id,title,url,status,updated,content")
+          echo "$POST" | jq '{id, title, url, status, updated, error}'
+          echo "Longitud del HTML del post: $(echo "$POST" | jq -r '.content // ""' | wc -c) caracteres"
+          echo "PRUEBA DE LECTURA OK"
