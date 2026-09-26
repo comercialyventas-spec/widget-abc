@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El lenguaje visual de Dolce & Gabbana",
+      "link": "https://elpais.com/smoda/milan-fashion-week/2026-09-26/el-lenguaje-visual-de-dolce-gabbana.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/5XJYDCGNTNLYTH4VVJVDYCXQ34.jpg?auth=508bcda47ec169989ba2eddc537b720309bb9587bdbda10c2c6753d6ec7bf7d9",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ferragamo, sensualidad a flor de piel",
       "link": "https://elpais.com/smoda/milan-fashion-week/2026-09-26/ferragamo-sensualidad-a-flor-de-piel.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/A7OSHENBTNJ6DNTL4NUN67JKAU.jpg?auth=7e3ba2ae353eb131e37666a0ea46680da521be5536ea0e46559e0d017cb2da04",
@@ -28,12 +34,6 @@
       "titulo": "Demna dinamita la barrera entre el dinero viejo y el nuevo: así es el nuevo Gucci",
       "link": "https://elpais.com/smoda/moda/2026-09-25/demna-dinamita-la-barrera-entre-el-dinero-viejo-y-el-nuevo-asi-es-el-nuevo-gucci.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/K7LJQSJQHRABHF35V2W3ZTZM3U.jpg?auth=e1befc36e5d58e26694038a6bb1d8fde3832fea514f158bc5c58634289220ac8",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Naty Abascal desfilando para Gucci en Milán",
-      "link": "https://elpais.com/smoda/milan-fashion-week/2026-09-25/naty-abascal-desfilando-para-gucci-en-milan.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/4M456FGASFJWZJIIY3RRFXAWXA.jpg?auth=0e7e3d517cab59bc2209cd09e7c462ea9a54611ad1e3e61e1208518ecbaceaff",
       "tipo": "imagen"
     }
   ]

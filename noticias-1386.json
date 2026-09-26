@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "El organizador de cocina bajo estante que aprovecha un espacio que siempre olvidamos",
-      "link": "https://elpais.com/escaparate/estilo-de-vida/organizador-cocina-bajo-estante.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/BE4Z5WIY7VHQFCO3TZLA76KWWI.png?auth=3dc0055f7dff26005259f1bc5ffd4f04a01502a559af2168228dd869fcf0bf4d",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Se acabó rebuscar en cajones: el soporte para joyas más vendido para tenerlas todas ordenadas y a la vista",
       "link": "https://elpais.com/escaparate/lo-mas-vendido/soporte-para-joyas.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/L22NX3PTRVFCNEGFUONAAHND2E.png?auth=89f1e075d3fb99147fd1656220b897c18b0d80b38d114b3d4cff9fd4ada99250",
@@ -34,6 +28,12 @@
       "titulo": "Las mejores ofertas y precios de la semana en Amazon y eBay (26 de septiembre)",
       "link": "https://elpais.com/escaparate/ofertas-y-descuentos/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/3UFRXPB4WT6BM7XTHBXMA7OPFI.jpg?auth=4c6e2c408de6af3342f2b0ff6900ea28008fd3ce4e6b7f7afa0651c422269e04",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las mejores ofertas y descuentos para la oficina",
+      "link": "https://elpais.com/escaparate/ofertas-y-descuentos/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/PUQAY75DOVX4XUXT22JTVJUMFU.jpg?auth=4332ddf61644717e9e88fca8c4233383a46bab6df139071ea403bc3e6c2c2cac",
       "tipo": "imagen"
     }
   ]

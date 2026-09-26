@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "GALERÍA | Revive en imágenes la XXIX edición de los Premios Fundación Caja Rural",
-      "link": "https://www.zamora24horas.com/local/galeria-revive-imagenes-xxix-edicion-premios-fundacion-caja-rural",
-      "imagen": "https://statics.zamora24horas.com/70d103fe-5723-4205-9575-6b11ff510912.webp?format=webp&width=320&quality=75",
+      "titulo": "GALERÍA | La exposición de Gigantes y Cabezudos en la Plaza Mayor de Zamora, en imágenes",
+      "link": "https://www.zamora24horas.com/local/galeria-exposicion-gigantes-cabezudos-plaza-mayor-zamora-imagenes",
+      "imagen": "https://statics.zamora24horas.com/773328e6-79b1-44a8-812d-3e2e6882980f.webp?format=webp&width=320&quality=75",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "GALERÍA | Zamora se presenta en Naturcyl como referente del turismo interior",
+      "link": "https://www.zamora24horas.com/local/galeria-zamora-presenta-naturcyl-referente-turismo-interior",
+      "imagen": "https://statics.zamora24horas.com/ceb5c382-6c1b-4e01-b1ff-c5f6848320d6.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
     },
     {
@@ -16,12 +22,6 @@
       "titulo": "GALERÍA | Medios aéreos y terrestres luchan contra el fuego en Muelas del Pan",
       "link": "https://www.zamora24horas.com/sucesos/galeria-medios-aereos-terrestres-luchan-fuego-muelas-pan",
       "imagen": "https://statics.zamora24horas.com/593b83c2-2d66-4da4-b040-72100c5f42b3.webp?format=webp&width=320&quality=75",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "GALERÍA | Así ha sido el partido entre el Zamora CF y el CD Lugo",
-      "link": "https://www.zamora24horas.com/deportes/galeria-asi-ha-sido-partido-entre-zamora-cf-cd-lugo",
-      "imagen": "https://statics.zamora24horas.com/6297f500-a2e0-468d-b1d6-da466127401d.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
     }
   ]
