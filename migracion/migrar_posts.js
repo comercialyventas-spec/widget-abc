@@ -55,18 +55,16 @@ async function blogger(token, metodo, url, cuerpo) {
   }
 }
 
-// Lee la celda G<fila> de GENERADOR_NOTICIAS (hoja compartida por enlace).
-async function widgetDeFila(fila) {
-  const url = `https://docs.google.com/spreadsheets/d/${HOJA_GN}/gviz/tq?tqx=out:csv&headers=0` +
-    `&sheet=GENERADOR_NOTICIAS&range=G${fila}:G${fila}`;
-  const r = await fetch(url);
+// Lee la celda G<fila> de GENERADOR_NOTICIAS con la API de Sheets (solo lectura, la hoja sigue privada).
+async function widgetDeFila(token, fila) {
+  const rango = encodeURIComponent(`GENERADOR_NOTICIAS!G${fila}`);
+  const r = await fetch(`https://sheets.googleapis.com/v4/spreadsheets/${HOJA_GN}/values/${rango}`, {
+    headers: { Authorization: 'Bearer ' + token },
+  });
   const txt = await r.text();
-  if (!r.ok || /^\s*<!DOCTYPE|<html/i.test(txt.slice(0, 200))) {
-    throw new Error(`No se pudo leer la fila ${fila} de GENERADOR_NOTICIAS (HTTP ${r.status}). ¿La hoja no es visible con el enlace?`);
-  }
-  let v = txt.trim();
-  if (v.startsWith('"') && v.endsWith('"')) v = v.slice(1, -1).replace(/""/g, '"');
-  return v;
+  if (!r.ok) throw new Error(`No se pudo leer la fila ${fila} de GENERADOR_NOTICIAS (Sheets ${r.status}): ${txt.slice(0, 200)}`);
+  const j = JSON.parse(txt);
+  return String((j.values && j.values[0] && j.values[0][0]) || '');
 }
 
 async function main() {
@@ -100,7 +98,7 @@ async function main() {
       const llevaViejo = VIEJOS.some((id) => viejo.includes(id));
       if (!llevaViejo) { resumen.push(`YA ESTABA BIEN  ${nombre}: no lleva el script viejo, no se toca`); continue; }
 
-      const nuevo = await widgetDeFila(fila);
+      const nuevo = await widgetDeFila(token, fila);
       if (!nuevo.includes(`noticias-${fila}-container`)) {
         resumen.push(`SALTADO  ${nombre}: la fila ${fila} no tiene su widget en la columna G`);
         continue;
