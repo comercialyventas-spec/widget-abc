@@ -1,0 +1,9 @@
+{
+ "id": "5299727191092647361",
+ "url": "https://periodicosaliazon.blogspot.com/2026/04/fotografias-el-pais.html",
+ "path": "/2026/04/fotografias-el-pais.html",
+ "titulo": "FOTOGRAFÍAS EL PAÍS",
+ "fila": 1360,
+ "contenido": "<div id=\"seccion-galerias-propio\" style=\"min-height: 250px;\">\n  <p style=\"text-align: center; color: #666; font-family: sans-serif; padding: 20px;\">\n    Conectando con el Motor Privado para Galerías...\n  </p>\n</div>\n\n<script>\n  (function() {\n    // 1. TU MOTOR (El mismo que te funciona siempre con ABC)\n    const MI_MOTOR = \"https://script.google.com/macros/s/AKfycbxTehoGzJL9MT1SvEnV7XNNbpIs0n3XEQd_yFl1aBQdC_ZBPLRhQ3m-wokLZKZtwrIT/exec\"; \n    \n    // 2. URL DE GALERÍAS\n    const RSS_URL = \"https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/gallery\"; \n\n    // Llamada al motor\n    fetch(`${MI_MOTOR}?url=${encodeURIComponent(RSS_URL)}`)\n      .then(response => response.text())\n      .then(html => {\n        // Inyectamos lo que devuelve tu motor\n        document.getElementById('seccion-galerias-propio').innerHTML = html;\n      })\n      .catch(err => {\n        console.error(\"Error:\", err);\n        document.getElementById('seccion-galerias-propio').innerHTML = \n          \"<p style='text-align:center; font-family:sans-serif;'>El motor propio está reintentando la conexión...</p>\";\n      });\n  })();\n</script>",
+ "fecha_copia": "2026-09-26T15:40:12.229Z"
+}
