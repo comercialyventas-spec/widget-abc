@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "OpenAI intentó acceder sin autorización a webs de agencias del Gobierno de EE.UU.",
+      "link": "https://www.lavanguardia.com/internacional/20260926/11644396/openai-intento-acceder-autorizacion-webs-agencias-gobierno-ee-uu.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/06/09/6a27bf627615a.r_d.1602-985-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Papa ofrece el reverso de Trump",
       "link": "https://www.lavanguardia.com/internacional/20260926/11644150/papa-ofrece-reverso-trump.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/25/6ab6cb39d4b66.r_d.3698-2128-865.jpeg",
@@ -27,13 +33,7 @@
     {
       "titulo": "Vannacci busca su Sajonia en el sur de Italia",
       "link": "https://www.lavanguardia.com/internacional/20260926/11643951/vannacci-busca-sajonia-sur-italia.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/25/6ab67a75355ee.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Papa pide preservar la dignidad humana frente a la inteligencia artificial",
-      "link": "https://www.lavanguardia.com/internacional/20260925/11643987/papa-pide-preservar-dignidad-humana-frente-inteligencia-artificial.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/25/6ab687f9c585b.r_d.503-328-4885.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/25/6ab67a75355ee.r_d.2680-1325-0.jpeg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La dama errante",
+      "link": "https://www.abc.es/cultura/cultural/dama-errante-20260925095605-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/25/atentado_papel_xoptimizadax-RspGhICquVn7CgPlHJFOq1H-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Eric Vuillard: «La irreverencia ha desaparecido de nuestras sociedades»",
       "link": "https://www.abc.es/cultura/cultural/eric-vuillard-irreverencia-desaparecido-sociedades-20260925093705-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/25/vuillard-eric-R8V5YnbwKEez1eTu6VSHgRI-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Geopolítica: en el centro del plano",
       "link": "https://www.abc.es/cultura/cultural/geopolitica-centro-plano-20260925161442-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/25/Matteo_Ricci_Far_East_1602_Larger-RUqkcz7NSUYfIqISTGKfcGJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Barcelona Gallery Weekend 2026: El efecto mariposa (y otros empujones)",
-      "link": "https://www.abc.es/cultura/cultural/barcelona-gallery-weekend-2026-efecto-mariposa-empujones-20260925093630-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/25/_DSC8432-RyxUnXM64dhsRf0kysWR8ZJ-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

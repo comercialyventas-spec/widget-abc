@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "La IA de OpenAI penetró por su cuenta y sin autorización a portales oficiales del Gobierno de Estados Unidos",
+      "link": "https://www.20minutos.es/internacional/ia-openai-penetro-cuenta-sin-autorizacion-portales-oficiales-gobierno-eeuu_7041623_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/01/09/sam-altman-creador-de-chatgpt.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Fariba Hashimi: pedalear cuando hasta montar en bicicleta es un desafío",
+      "link": "https://www.20minutos.es/internacional/fariba-hashimi-pedalear-cuando-hasta-montar-bicicleta-es-un-desafio_7040844_3.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/24/6ab53dc34ff3d0-44422288.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El triste epílogo de las Naciones Unidas",
+      "link": "https://www.20minutos.es/internacional/triste-epilogo-las-naciones-unidas-opinion-juan-rodriguez-garat_7041391_3.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/09/24/6ab46918e18237-00833703.r_d.1550-415.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Niño de 2026 ya es un Súper Niño y amenaza con dejar en Europa un invierno más crudo de lo normal",
+      "link": "https://www.20minutos.es/internacional/nino-2026-ya-es-un-super-nino-amenaza-con-dejar-europa-un-invierno-mas-crudo-normal_7038053_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/06/02/6a1f0b306bfc36-28027796.webp",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Rusia dice en la ONU que Ceuta refleja la \"contradicción\" en el enfoque migratorio entre países de Europa",
       "link": "https://www.20minutos.es/internacional/rusia-dice-onu-ceuta-refleja-contradiccion-enfoque-migratorio-entre-paises-europa_7041605_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/09/27/68d820cc53c14.jpeg",
@@ -10,30 +34,6 @@
       "titulo": "El Supremo permite a Trump aplicar un sistema de control de votantes",
       "link": "https://www.20minutos.es/internacional/supremo-permite-trump-aplicar-un-sistema-control-votantes_7041595_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/25/6ab6d10f3ab989-55831903.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Siete investigados por la muerte de un trabajador en el Coliseo de Roma",
-      "link": "https://www.20minutos.es/internacional/siete-investigados-por-muerte-un-trabajador-coliseo-roma_7041579_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/25/6ab6bbf552fe42-54614007.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tres heridos y seis desaparecidos tras el derrumbe de un edificio por una explosión cerca de la Acrópolis de Atenas",
-      "link": "https://www.20minutos.es/internacional/tres-heridos-derrumbarse-un-edificio-por-una-explosion-cerca-acropolis-atenas_7041477_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/25/6ab67dcb78cef9-78475928.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El ejército británico recupera el uso de caballos en operaciones militares para combatir el auge de los drones",
-      "link": "https://www.20minutos.es/internacional/ejercito-britanico-recupera-uso-caballos-operaciones-militares-combatir-auge-drones_7041563_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/25/6ab6ac1a5f6c86-59183726.webp",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El papa León XIV pide desde Notre Dame una Iglesia abierta que 'acoja al extranjero'",
-      "link": "https://www.20minutos.es/internacional/papa-leon-xiv-pide-desde-notre-dame-una-iglesia-abierta-que-acoja-extranjero_7041564_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/25/6ab6ab4364d0b2-63845994.jpeg",
       "tipo": "imagen"
     }
   ]

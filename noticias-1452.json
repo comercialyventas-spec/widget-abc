@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La IA de OpenAI intentó acceder sin autorización a páginas web del Gobierno de EEUU",
+      "link": "https://www.eldiario.es/tecnologia/ia-openai-acceder-autorizacion-paginas-web-gobierno-eeuu_1_13539922.html",
+      "imagen": "https://static.eldiario.es/clip/98a14ed9-8a53-48dd-9aca-d4b2ffd38c17_16-9-discover-aspect-ratio_default_0_x995y732.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sánchez arrancará en octubre las negociaciones para “el nuevo contrato social” de la era de la IA",
       "link": "https://www.eldiario.es/tecnologia/sanchez-arrancara-octubre-negociaciones-nuevo-contrato-social-ia_1_13525061.html",
       "imagen": "https://static.eldiario.es/clip/125edc2b-ca19-44c4-a63a-9a102c45dbde_16-9-discover-aspect-ratio_default_0_x990y267.jpg",
@@ -10,18 +16,6 @@
       "titulo": "Daron Acemoglu, Nobel de Economía: “El debate sobre la amenaza existencial de la IA esconde riesgos más inmediatos”",
       "link": "https://www.eldiario.es/tecnologia/daron-acemoglu-nobel-economia-debate-amenaza-existencial-ia-esconde-riesgos-inmediatos_1_13517771.html",
       "imagen": "https://static.eldiario.es/clip/6e27b06c-55e2-4dcb-a783-faed364c336e_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Se puede 'frenar' la IA? Por qué el resto del mundo desconfía del plan de Silicon Valley",
-      "link": "https://www.eldiario.es/tecnologia/frenar-ia-resto-mundo-desconfia-plan-silicon-valley_1_13507439.html",
-      "imagen": "https://static.eldiario.es/clip/795898f6-1fb2-4ab0-922b-59435f697ec6_16-9-discover-aspect-ratio_default_0_x1027y783.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Quién gana cuando los dueños de la IA piden que los regulen",
-      "link": "https://www.eldiario.es/tecnologia/gana-duenos-ia-piden-regulen_129_13507386.html",
-      "imagen": "https://static.eldiario.es/clip/549ced4e-93c2-479e-9e23-9a2131af15de_avatar-200-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
