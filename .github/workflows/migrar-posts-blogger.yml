@@ -1,0 +1,50 @@
+name: Migrar posts Blogger
+
+# Solo se lanza a mano. Modo "simular" no cambia nada.
+on:
+  workflow_dispatch:
+    inputs:
+      lista:
+        description: 'Lista de posts'
+        default: 'migracion/grupoA.json'
+        required: true
+      modo:
+        description: 'simular (no cambia nada) / aplicar / restaurar'
+        type: choice
+        options: [simular, aplicar, restaurar]
+        default: simular
+
+permissions:
+  contents: write
+
+concurrency:
+  group: widget-abc-git-write
+  cancel-in-progress: false
+
+jobs:
+  migrar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Migrar
+        env:
+          CLIENT_ID: ${{ secrets.BLOGGER_CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.BLOGGER_CLIENT_SECRET }}
+          REFRESH_TOKEN: ${{ secrets.BLOGGER_REFRESH_TOKEN }}
+        run: node migracion/migrar_posts.js "${{ inputs.lista }}" "${{ inputs.modo }}"
+
+      - name: Guardar copias de seguridad en el repositorio
+        if: always() && inputs.modo == 'aplicar'
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add migracion/backups || true
+          if git diff --cached --quiet; then echo "Sin copias nuevas"; exit 0; fi
+          git commit -m "Copias de seguridad de posts antes de migrar"
+          git pull --no-edit origin main || true
+          git push
