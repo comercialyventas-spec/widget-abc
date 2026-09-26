@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La IA de OpenAI intentó acceder sin autorización a páginas web del Gobierno de EEUU",
+      "link": "https://www.eldiario.es/tecnologia/ia-openai-acceder-autorizacion-paginas-web-gobierno-eeuu_1_13539922.html",
+      "imagen": "https://static.eldiario.es/clip/98a14ed9-8a53-48dd-9aca-d4b2ffd38c17_facebook-aspect-ratio-1200-675_default_0_x995y732.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "OpenAI dejó vía libre a su IA para hackear a gobiernos y universidades durante meses",
       "link": "https://www.eldiario.es/tecnologia/openai-dejo-via-libre-ia-hackear-gobiernos-universidades-durante-meses_1_13534624.html",
       "imagen": "https://static.eldiario.es/clip/365416a9-b3a1-4e4c-adef-9ad168111eff_facebook-aspect-ratio-1200-675_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Sánchez arrancará en octubre las negociaciones para “el nuevo contrato social” de la era de la IA",
       "link": "https://www.eldiario.es/tecnologia/sanchez-arrancara-octubre-negociaciones-nuevo-contrato-social-ia_1_13525061.html",
       "imagen": "https://static.eldiario.es/clip/125edc2b-ca19-44c4-a63a-9a102c45dbde_facebook-aspect-ratio-1200-675_default_0_x990y267.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Google reconoce por primera vez que su IA Gemini ha hackeado a tres empresas",
-      "link": "https://www.eldiario.es/tecnologia/modelo-ia-google-hackeo-tres-empresas_1_13522731.html",
-      "imagen": "https://static.eldiario.es/clip/77757c1a-eba8-4e27-acaf-f64cfd5239b5_facebook-aspect-ratio-1200-675_default_0.jpg",
       "tipo": "imagen"
     }
   ]
