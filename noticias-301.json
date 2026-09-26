@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Entre Súper Mario y el parón",
+      "link": "https://www.abc.es/deportes/real-madrid/super-mario-paron-20260925020104-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/25/supermario-RVgwT7hVQmzKbF2hdnGHZGK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La cruz",
       "link": "https://www.abc.es/deportes/real-madrid/juanma-rodriguez-cruz-20260924165600-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/24/mou-R4IajyCIOIbSaQlbxeJ4HLK-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Cero autocrítica en el campo, pánico en el palco",
       "link": "https://www.abc.es/deportes/real-madrid/estupefaccion-arbitral-poca-autocritica-temor-camp-nou-20260921191334-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/21/Vini-RRz8QaJ2pKe9frmSbO6KxWP-1200x840@diario_abc.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El derbi acaba con el Mourinho 'zen'",
-      "link": "https://www.abc.es/deportes/real-madrid/derbi-acaba-mourinho-zen-20260921112820-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/21/mourinho-ortiz-arias-R2hXCgIpFG9saOGEBtVAeCK-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

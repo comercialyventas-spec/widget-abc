@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Encontrar vida en Encélado puede ser mucho más fácil de lo que se creía",
+      "link": "https://www.abc.es/ciencia/encontrar-vida-encelado-puede-facil-creia-20260925021248-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/25/Enceladus-RqL2lYZfNpd4XflNr2AT8CJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Anthropic anuncia que su IA ha descubierto un nuevo sistema biológico similar a Crispr",
       "link": "https://www.abc.es/ciencia/anthropic-anuncia-ia-descubierto-nuevo-sistema-biologico-20260924112559-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/24/claude-RUrDqRS6K50IAmurQgYmHZO-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Los matemáticos españoles cuyo trabajo permitió a OpenAI resolver un problema del milenio: «Unos meses más y dábamos un resultado»",
       "link": "https://www.abc.es/ciencia/matematicos-espanoles-trabajo-utilizo-openai-resolver-problema-20260910133421-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/10/matematicos-fotos-Ru2gKE7K7FHQZQwWktE8d2O-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El atlas más completo de la corteza prefrontal muestra que el cerebro madura a los 24 años",
-      "link": "https://www.abc.es/ciencia/cerebro-termina-madurar-anos-20260922170022-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/22/cerebro11-R6IAuFzt3y21nY8sBfFmvzK-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

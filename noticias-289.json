@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¿Cómo viene la gripe en España este año?",
+      "link": "https://www.abc.es/salud/enfermedades/viene-gripe-espana-ano-20260925021926-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/salud/2026/09/25/1501380073-RV2sPF6FI1lf6YCRv4MmQHK-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La OMS confirma que un TAC anual detecta antes el cáncer de pulmón y reduce la mortalidad",
       "link": "https://www.abc.es/salud/enfermedades/oms-confirma-tac-anual-detecta-cancer-pulmon-20260924163016-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/salud/2026/09/24/1500667641-RuVH0LmN8u2lF8QeClzx85I-1200x840@diario_abc.JPG",
@@ -28,12 +34,6 @@
       "titulo": "El misterio del Ozempic: «No sabemos por qué reduce enfermedades cardiovasculares»",
       "link": "https://www.abc.es/salud/misterio-ozempic-sabemos-reduce-enfermedades-cardiovasculares-20260924093528-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/salud/2026/09/24/Helen%20Colhoun-Rpx1Fp1NwdoX1q24zGsxQjI-1200x840@diario_abc.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Amelia Bono: «Hace muchísimos años que dejé el gluten, tengo más energía y me encuentro muy bien»",
-      "link": "https://www.abc.es/salud/amelia-bono-muchisimos-anos-deje-gluten-energia-20260910012427-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/salud/2026/09/10/amelia-RNiINr10426znxJo2GzvGcI-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

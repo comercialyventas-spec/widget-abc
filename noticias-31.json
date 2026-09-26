@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La pandemia del Real Madrid",
+      "link": "https://www.lavanguardia.com/deportes/20260926/11644334/pandemia-real-madrid.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "David de Gea reacciona con un tuit viral a la sentencia contra el Manchester City",
+      "link": "https://www.lavanguardia.com/clic/20260925/11644171/david-gea-reacciona-tuit-viral-sentencia-manchester-city-lol.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/12/30/659098fc8cd5c.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Alejandra Neira se proclama campeona del mundo júnior de ciclismo en ruta",
       "link": "https://www.lavanguardia.com/deportes/ciclismo/20260925/11644164/alejandra-neira-proclama-campeona-mundo-junior-ciclismo-ruta.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/25/6ab6e4bb9bdf6.jpeg",
@@ -22,18 +34,6 @@
       "titulo": "Héctor Álvarez se cuelga la plata de la prueba en ruta en el Mundial sub-23",
       "link": "https://www.lavanguardia.com/deportes/ciclismo/20260925/11644088/hector-alvarez-cuelga-plata-prueba-ruta-mundial-sub-23.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/25/6ab6b4c9a73c9.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Roberto Carlos relata cómo perdió todo su dinero: “Me dejaron la cuenta a cero”",
-      "link": "https://www.lavanguardia.com/clic/20260925/11644036/roberto-carlos-relata-como-perdio-dinero-me-dejaron-cuenta-cero-lol.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/25/6ab695176b3a8.r_d.1715-1045-1307.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El dinero que ha recibido David Beckham tras un récord de beneficios de sus marcas",
-      "link": "https://www.lavanguardia.com/clic/20260925/11644016/dinero-recibido-david-beckham-record-beneficios-marcas-lol.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/25/6ab68eb4150f7.jpeg",
       "tipo": "imagen"
     }
   ]

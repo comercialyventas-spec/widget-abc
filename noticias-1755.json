@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Don Buitre",
+      "link": "https://www.publico.es/opinion/vinetas/don-buitre.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/24/6ab532860cd01.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cuatro veces Trump",
       "link": "https://www.publico.es/opinion/vinetas/cuatro-veces-trump.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/22/6ab2a370dfe26.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Neofascismo",
       "link": "https://www.publico.es/opinion/vinetas/neofascismo.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/13/6aa6805278630.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¡Qué Montesquieu ni qué Montesquieu!",
-      "link": "https://www.publico.es/opinion/vinetas/montesquieu-montesquieu.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/10/6aa2bed3d94d8.jpeg",
       "tipo": "imagen"
     }
   ]
