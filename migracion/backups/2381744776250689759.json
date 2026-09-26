@@ -1,0 +1,9 @@
+{
+ "id": "2381744776250689759",
+ "url": "https://periodicosaliazon.blogspot.com/2026/04/educacion-el-pais.html",
+ "path": "/2026/04/educacion-el-pais.html",
+ "titulo": "EDUCACIÓN EL PAÍS",
+ "fila": 965,
+ "contenido": "<div id=\"seccion-educacion-elpais\" style=\"min-height: 250px;\">\n  <p style=\"text-align: center; color: #666; font-family: sans-serif; padding: 20px;\">\n    Sincronizando noticias de Educación (EL PAÍS)...\n  </p>\n</div>\n\n<script>\n  (function() {\n    // 1. TU MOTOR (El mismo que usas para ABC)\n    const MI_MOTOR = \"https://script.google.com/macros/s/AKfycbxTehoGzJL9MT1SvEnV7XNNbpIs0n3XEQd_yFl1aBQdC_ZBPLRhQ3m-wokLZKZtwrIT/exec\"; \n    \n    // 2. LA URL DE EDUCACIÓN DE EL PAÍS\n    const RSS_URL = \"https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/educacion\"; \n\n    // Ejecución del fetch\n    fetch(`${MI_MOTOR}?url=${encodeURIComponent(RSS_URL)}`)\n      .then(response => {\n        if (!response.ok) throw new Error(\"Error en red\");\n        return response.text();\n      })\n      .then(html => {\n        // Inyectamos el contenido directamente\n        document.getElementById('seccion-educacion-elpais').innerHTML = html;\n      })\n      .catch(err => {\n        console.error(\"Error:\", err);\n        document.getElementById('seccion-educacion-elpais').innerHTML = \n          \"<p style='text-align:center; font-family:sans-serif; color:red;'>No se pudieron cargar las noticias de Educación.</p>\";\n      });\n  })();\n</script>",
+ "fecha_copia": "2026-09-26T15:18:11.888Z"
+}

@@ -1,0 +1,9 @@
+{
+ "id": "6545935901260994839",
+ "url": "https://periodicosaliazon.blogspot.com/2026/04/tarragona-en-la-vanguardia.html",
+ "path": "/2026/04/tarragona-en-la-vanguardia.html",
+ "titulo": "TARRAGONA EN LA VANGUARDIA",
+ "fila": 53,
+ "contenido": "<div id=\"seccion-tarragona-lv\" style=\"min-height: 250px;\">\n  <p style=\"text-align: center; color: #666; font-family: sans-serif;\">Cargando actualidad de Tarragona...</p>\n</div>\n\n<script>\n  (function() {\n    // 1. TU MOTOR (El mismo que usas para ABC)\n    const MI_MOTOR = \"https://script.google.com/macros/s/AKfycbxTehoGzJL9MT1SvEnV7XNNbpIs0n3XEQd_yFl1aBQdC_ZBPLRhQ3m-wokLZKZtwrIT/exec\"; \n    \n    // 2. LA URL DE TARRAGONA\n    const RSS_URL = \"https://www.lavanguardia.com/rss/local/tarragona.xml\"; \n\n    // Petición al motor\n    fetch(`${MI_MOTOR}?url=${encodeURIComponent(RSS_URL)}`)\n      .then(response => response.text())\n      .then(html => {\n        // Inyectamos el contenido en el contenedor\n        document.getElementById('seccion-tarragona-lv').innerHTML = html;\n      })\n      .catch(err => {\n        console.error(err);\n        document.getElementById('seccion-tarragona-lv').innerHTML = \"<p style='text-align:center;'>Error al cargar las noticias de Tarragona.</p>\";\n      });\n  })();\n</script>",
+ "fecha_copia": "2026-09-26T15:17:50.953Z"
+}

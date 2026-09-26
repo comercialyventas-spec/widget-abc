@@ -1,0 +1,9 @@
+{
+ "id": "6877311880591350450",
+ "url": "https://periodicosaliazon.blogspot.com/2026/04/economia-el-mundo.html",
+ "path": "/2026/04/economia-el-mundo.html",
+ "titulo": "ECONOMÍA EL MUNDO",
+ "fila": 821,
+ "contenido": "<div id=\"seccion-portada-elmundo\" style=\"min-height: 250px;\">\n  <p style=\"text-align: center; color: #666; font-family: sans-serif;\">Cargando economía...</p>\n</div>\n\n<script>\n  (function() {\n    // Tu motor centralizado\n    const MI_MOTOR = \"https://script.google.com/macros/s/AKfycbxTehoGzJL9MT1SvEnV7XNNbpIs0n3XEQd_yFl1aBQdC_ZBPLRhQ3m-wokLZKZtwrIT/exec\"; \n    \n    // URL de El Mundo Economía\n    const RSS_URL = \"https://e00-elmundo.uecdn.es/elmundo/rss/economia.xml\"; \n\n    // Referencia al contenedor\n    const contenedor = document.getElementById('seccion-portada-elmundo');\n\n    fetch(`${MI_MOTOR}?url=${encodeURIComponent(RSS_URL)}`)\n      .then(response => response.text())\n      .then(html => {\n        contenedor.innerHTML = html;\n      })\n      .catch(err => {\n        contenedor.innerHTML = \"<p style='text-align:center; color:red;'>Error al cargar las noticias.</p>\";\n      });\n  })();\n</script>",
+ "fecha_copia": "2026-09-26T15:18:07.613Z"
+}

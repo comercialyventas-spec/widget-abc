@@ -1,0 +1,9 @@
+{
+ "id": "8530466311107078903",
+ "url": "https://periodicosaliazon.blogspot.com/2026/04/portada-abc.html",
+ "path": "/2026/04/portada-abc.html",
+ "titulo": "PORTADA ABC",
+ "fila": 1022,
+ "contenido": "<div id=\"seccion-portada-abc\" style=\"min-height: 250px;\">\n  <p style=\"text-align: center; color: #666; font-family: sans-serif;\">Cargando actualidad...</p>\n</div>\n\n<script>\n  (function() {\n    // 1. TU MOTOR (Ya está puesto el tuyo)\n    const MI_MOTOR = \"https://script.google.com/macros/s/AKfycbxTehoGzJL9MT1SvEnV7XNNbpIs0n3XEQd_yFl1aBQdC_ZBPLRhQ3m-wokLZKZtwrIT/exec\"; \n    \n    // 2. EL PERIÓDICO QUE QUIERAS (Cámbialo cuando quieras otra sección)\n    const RSS_URL = \"https://www.abc.es/rss/2.0/portada/\"; \n\n    // No tocar nada de aquí abajo\n    fetch(`${MI_MOTOR}?url=${encodeURIComponent(RSS_URL)}`)\n      .then(response => response.text())\n      .then(html => {\n        document.getElementById('seccion-portada-abc').innerHTML = html;\n      })\n      .catch(err => {\n        document.getElementById('seccion-portada-abc').innerHTML = \"Error al cargar las noticias.\";\n      });\n  })();\n</script>",
+ "fecha_copia": "2026-09-26T15:18:16.052Z"
+}

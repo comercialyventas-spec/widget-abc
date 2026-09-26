@@ -1,0 +1,9 @@
+{
+ "id": "9080322562754739791",
+ "url": "https://periodicosaliazon.blogspot.com/2026/04/cargando-ultima-hora-de-politica.html",
+ "path": "/2026/04/cargando-ultima-hora-de-politica.html",
+ "titulo": "POLÍTICA LA VANGUARDIA",
+ "fila": 29,
+ "contenido": "<div id=\"seccion-noticias\" style=\"min-height: 250px;\">\n  <p style=\"text-align: center; color: #666; font-family: sans-serif;\">Cargando actualidad...</p>\n</div>\n\n<script>\n  (function() {\n    // 1. TU MOTOR (Ya está puesto el tuyo)\n    const MI_MOTOR = \"https://script.google.com/macros/s/AKfycbxTehoGzJL9MT1SvEnV7XNNbpIs0n3XEQd_yFl1aBQdC_ZBPLRhQ3m-wokLZKZtwrIT/exec\"; \n    \n    // 2. EL PERIÓDICO QUE QUIERAS (Cámbialo cuando quieras otra sección)\n    const RSS_URL = \"https://www.lavanguardia.com/rss/politica.xml\"; \n\n    // No tocar nada de aquí abajo\n    fetch(`${MI_MOTOR}?url=${encodeURIComponent(RSS_URL)}`)\n      .then(response => response.text())\n      .then(html => {\n        document.getElementById('seccion-noticias').innerHTML = html;\n      })\n      .catch(err => {\n        document.getElementById('seccion-noticias').innerHTML = \"Error al cargar las noticias.\";\n      });\n  })();\n</script>",
+ "fecha_copia": "2026-09-26T15:17:46.778Z"
+}
