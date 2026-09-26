@@ -1,0 +1,31 @@
+<div class="separator" style="clear: both;"><a href="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXqLFT31wIVF8CU7gXbolInyjkRRmCcrk_T5IOu1A9Oy1QRA" style="display: block; padding: 1em 0px; text-align: center;"><img alt="" border="0" height="320" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXqLFT31wIVF8CU7gXbolInyjkRRmCcrk_T5IOu1A9Oy1QRA" /></a></div>
+
+<div style="text-align: justify;">Soy Oaxaca es una plataforma de comercio electrónico dedicada a promover y comercializar productos auténticamente oaxaqueños, conectando a artesanos y pequeños productores con mercados nacionales e internacionales. Su propuesta reúne gastronomía, textiles, artesanías y productos tradicionales elaborados en Oaxaca, bajo principios de comercio justo, sostenibilidad y apoyo a la economía local. Con más de dos décadas de experiencia en comercio electrónico, la marca se ha consolidado como un escaparate de la riqueza cultural, artística y gastronómica del estado, contribuyendo a preservar sus tradiciones y generar oportunidades para las comunidades productoras.</div>
+
+<!--more-->
+
+<div class="motor-productos"
+  data-url="https://www.soyoaxaca.com/sitemap.xml"
+  data-tienda="https://www.soyoaxaca.com/"
+  data-boton="SOYOAXACA.COM"
+  data-blog="supermercadoaliazon"
+  data-campana="soyoaxaca">
+  <p style="text-align:center;color:#999;">Cargando productos... <a href="https://www.soyoaxaca.com/?utm_source=supermercadoaliazon&amp;utm_medium=boton_oficial&amp;utm_campaign=catalogo_soyoaxaca" rel="nofollow" target="_blank">Ver en SOYOAXACA.COM</a></p>
+</div>
+
+<script>
+(function () {
+  if (window.MotorProductos) { window.MotorProductos.iniciarTodos(); return; }
+  if (window.__motorProductosCargando) return;
+  window.__motorProductosCargando = true;
+  var f = "motor/motor-productos-v1.js";
+  var s = document.createElement("script");
+  s.src = "https://cdn.jsdelivr.net/gh/comercialyventas-spec/widget-abc@main/" + f;
+  s.onerror = function () {
+    fetch("https://raw.githubusercontent.com/comercialyventas-spec/widget-abc/main/" + f)
+      .then(function (r) { return r.text(); })
+      .then(function (c) { var e = document.createElement("script"); e.text = c; document.head.appendChild(e); });
+  };
+  document.head.appendChild(s);
+})();
+</script>

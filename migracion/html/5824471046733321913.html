@@ -1,0 +1,29 @@
+<div class="separator" style="clear: both;"><a href="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnE4-uKgQgl85PjpYPgTCmUkRdOEM88-5KZk3nNof5dH35XA" style="display: block; padding: 1em 0px; text-align: center;"><img alt="" border="0" height="320" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnE4-uKgQgl85PjpYPgTCmUkRdOEM88-5KZk3nNof5dH35XA" /></a></div>
+
+<div style="text-align: justify;">La Acequia es una tienda online de alimentación ecológica con base en Canarias (La Laguna, Tenerife) que vende principalmente productos bio, orgánicos y de consumo responsable. Funciona como un eco-mercado: ofrece frutas, verduras, productos a granel y alimentos envasados, muchos de ellos de producción ecológica. También tiene servicios como compra online con entrega a domicilio o recogida en tienda. Además de la tienda, el proyecto incluye un enfoque de consumo consciente, promoviendo agricultura ecológica, productos de temporada y pequeños productores, con cierta dimensión educativa y comunitaria.</div>
+
+<div class="motor-productos"
+  data-url="https://la-acequia.com/es/"
+  data-tienda="https://la-acequia.com/"
+  data-boton="LA-ACEQUIA.COM"
+  data-blog="supermercadoaliazon"
+  data-campana="la-acequia">
+  <p style="text-align:center;color:#999;">Cargando productos... <a href="https://la-acequia.com/?utm_source=supermercadoaliazon&amp;utm_medium=boton_oficial&amp;utm_campaign=catalogo_la-acequia" rel="nofollow" target="_blank">Ver en LA-ACEQUIA.COM</a></p>
+</div>
+
+<script>
+(function () {
+  if (window.MotorProductos) { window.MotorProductos.iniciarTodos(); return; }
+  if (window.__motorProductosCargando) return;
+  window.__motorProductosCargando = true;
+  var f = "motor/motor-productos-v1.js";
+  var s = document.createElement("script");
+  s.src = "https://cdn.jsdelivr.net/gh/comercialyventas-spec/widget-abc@main/" + f;
+  s.onerror = function () {
+    fetch("https://raw.githubusercontent.com/comercialyventas-spec/widget-abc/main/" + f)
+      .then(function (r) { return r.text(); })
+      .then(function (c) { var e = document.createElement("script"); e.text = c; document.head.appendChild(e); });
+  };
+  document.head.appendChild(s);
+})();
+</script>
