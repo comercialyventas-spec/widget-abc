@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Receta de ensalada de hígados de pollo",
+      "link": "https://www.publico.es/culturas/recetas/receta-ensalada-higados-pollo.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/25/6ab65d668ed19.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Gobierno madrileño y el Poder Judicial firmaron en 2019 un convenio para hacer frente a los desahucios que nunca se aplicó",
       "link": "https://www.publico.es/economia/vivienda/gobierno-madrileno-poder-judicial-firmaron-2019-convenio-frente-desahucios-nunca-aplico.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/25/6ab6b9a4e6429.jpeg",
@@ -19,21 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Campeonas del mundo ¿minoritarias?",
-      "link": "https://www.publico.es/opinion/campeonas-mundo-minoritarias.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/25/6ab6ad40cde9e.jpeg",
+      "titulo": "Moncloa confía en que el desahucio de Maricarmen termine con los vetos cruzados que bloqueaban el decreto de vivienda",
+      "link": "https://www.publico.es/politica/gobierno/moncloa-confia-desahucio-maricarmen-sea-punto-inflexion-aprobar-decreto-vivienda.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/25/6ab685daa02c4.jpeg",
       "tipo": "imagen"
     },
     {
-      "titulo": "La aparición de Colau en las quinielas reactiva el nuevo Frente Amplio de izquierdas",
-      "link": "https://www.publico.es/politica/partidos/aparicion-colau-quinielas-reactiva-nuevo-frente-amplio-izquierdas.html",
-      "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/25/6ab69725ccc57.r_d.1522-1112-900.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El amuleto Mamdani y el símbolo Maricarmen",
-      "link": "https://www.publico.es/opinion/columnas/amuleto-mamdani-simbolo-maricarmen.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/24/6ab5152301c69.jpeg",
+      "titulo": "El desahucio de Maricarmen desata una ola de protestas y eleva la presión sobre el Gobierno: \"Tiene que ser un punto de inflexión\"",
+      "link": "https://www.publico.es/sociedad/desahucio-maricarmen-desata-ola-protestas-eleva-presion-sobre-gobierno-punto-inflexion.html",
+      "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/24/6ab50238171d5.r_d.942-560-1406.jpeg",
       "tipo": "imagen"
     }
   ]

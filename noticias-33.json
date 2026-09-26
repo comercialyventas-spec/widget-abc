@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Barcelona y la propiedad comercial",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260926/11643560/barcelona-propiedad-comercial.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/06/17/6670af3158805.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Fiscalidad turística",
       "link": "https://www.lavanguardia.com/opinion/20260926/11644213/fiscalidad-turistica.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Diamantes tristes",
       "link": "https://www.lavanguardia.com/opinion/20260926/11644050/diamantes-tristes.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/06/26/6a3e2c6ae690f.r_d.365-188-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Aulas con olor a goma de borrar",
-      "link": "https://www.lavanguardia.com/opinion/20260926/11643778/aulas-olor-goma-borrar.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/25/6ab653a9b431d.jpeg",
       "tipo": "imagen"
     }
   ]

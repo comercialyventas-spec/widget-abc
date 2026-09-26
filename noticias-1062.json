@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Gorra «Hagamos España Grande Otra vez» ¡Nueva versión en español! No te quedes sin ella",
-      "link": "https://tienda.eldebate.com/gorra-hagamos-espana-grande-otra-vez",
-      "imagen": "https://tienda.eldebate.com/media/catalog/product/cache/2a3ebd75b151fff9413b04d59c86ce46/8/0/80-gorra-hagamos-espana-01.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "'use strict'; function initMiniSearch() { return { minSearchLength: 3, suggestions: [], suggest() { const search = this.$refs.searchInput; if (search.",
       "link": "https://tienda.eldebate.com/",
       "imagen": "https://tienda.eldebate.com/media/logo/websites/4/eldebate-logo-short.png",
@@ -33,6 +27,12 @@
     {
       "titulo": "Mi cesta El carrito está vacío x Eliminar Subtotal: Realizar pedido o Ver y editar carrito loader Cargando...",
       "link": "https://tienda.eldebate.com/checkout/",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "¿Olvidaste la contraseña?",
+      "link": "https://tienda.eldebate.com/customer/account/forgotpassword/",
       "imagen": "",
       "tipo": ""
     }

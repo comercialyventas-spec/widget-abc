@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
+      "titulo": "El Gobierno prepara un decreto ley para acelerar las devoluciones de migrantes a Marruecos",
+      "link": "https://elpais.com/espana/2026-09-26/el-gobierno-prepara-un-decreto-ley-para-acelerar-las-devoluciones-de-migrantes-a-marruecos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/IGFL62GMGBFJVJEVEMOUPAJGNM.JPG?auth=301310793aaf2b3524bdaada9df45980318a2e649369f4f09b5efa235e47a090",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Qué es Sociedad Civil Española: así es la red derechista tras la manifestación “ciudadana” para juzgar a Sánchez por “traición”",
+      "link": "https://elpais.com/espana/2026-09-26/que-es-sociedad-civil-espanola-la-red-derechista-tras-la-manifestacion-ciudadana-para-juzgar-a-sanchez-por-traicion.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/23R7BYTLFRLRRBX3X6MQC3L6UI.jpg?auth=2b8513e401d7473807bd83dcd75b18b7c558ea32b6d9dbbf55c10c2acb3e6377",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La lenta agonía del alquiler de vivienda en España: ¿Qué salió mal?",
+      "link": "https://elpais.com/economia/negocios/2026-09-26/la-lenta-agonia-del-alquiler-de-vivienda-en-espana-que-salio-mal.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/PRW2BOQUHJE5JIDSZ64JRYMMZA.jpg?auth=4da70c8df86e246c45fbe741de34bb538379e1e0ecfe7b6cf8900184e1b26d49",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Madrid rechaza la propuesta de Urbagestión para asumir el piso de Maricarmen por “inviable”, pero se ofrece a mediar",
       "link": "https://elpais.com/espana/madrid/2026-09-25/urbagestion-propone-ceder-al-ayuntamiento-de-madrid-la-casa-de-maricarmen-para-que-pueda-volver.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260925/1218388_085028_video_1800.mp4"
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260925/1218388_085028_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Vivienda estudia eliminar el IPC como referencia para la subida de todos los alquileres",
+      "link": "https://elpais.com/economia/2026-09-26/vivienda-estudia-eliminar-el-ipc-como-referencia-para-la-subida-de-todos-los-alquileres.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/L2HJT6RHTZABPGCWVIJAKG2MZE.JPG?auth=50d24649c668cfeb3e033aba5e5da1864b55456b50aa4f7509e560133dd074d8",
+      "tipo": "imagen"
     },
     {
       "titulo": "El sistema de IA de OpenAI accedió por su cuenta y sin autorización a portales oficiales del Gobierno de Estados Unidos",
       "link": "https://elpais.com/us/2026-09-26/el-sistema-de-ia-de-openai-accedio-por-su-cuenta-y-sin-autorizacion-a-portales-oficiales-del-gobierno-de-estados-unidos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/RRR5INS67RKU5EZQYXHZH3JRYI.jpg?auth=03a1e8f67f51446467e790891347db8f86bf5840f104efd58caf4a15c5b4288b"
-    },
-    {
-      "titulo": "Explorer, el exoesqueleto que permitirá a muchos niños dejar la silla de ruedas en el trastero, ya se puede llevar a casa",
-      "link": "https://elpais.com/salud-y-bienestar/2026-09-26/explorer-el-exoesqueleto-que-permitira-a-muchos-ninos-dejar-la-silla-de-ruedas-en-el-trastero-ya-se-puede-llevar-a-casa.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260925/1218482_114424_video_1800.mp4"
-    },
-    {
-      "titulo": "‘Maxximiza’, exprímete a ti mismo: la insana obsesión por optimizarlo todo",
-      "link": "https://elpais.com/ideas/2026-09-26/maxximiza-exprimete-a-ti-mismo-la-insana-obsesion-por-optimizarlo-todo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/POP7JECIIRHHJJT7HP6IPYQQZY.jpg?auth=714b4dbe3d18018de760004af84e77e6f6401ea59d7a9b9b63d31a94d317d19a"
-    },
-    {
-      "titulo": "Beth, 24 años después de ‘OT’: “Me da pena que parezca que, como no sales en la tele, estás muerta”",
-      "link": "https://elpais.com/smoda/famosos/2026-09-26/beth-24-anos-despues-de-ot-me-da-pena-que-parezca-que-como-no-sales-en-la-tele-estas-muerta.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/2AKY4GNSSFAE3BKSO3JIHS5LD4.jpg?auth=29f7a3126f5e57ce470a828d4393bf2d577137d80c2d348038cd7ee20ac84bb3"
-    },
-    {
-      "titulo": "La resurrección del huevo pasado por agua: de ser la cena de nuestros abuelos al desayuno de los urbanitas",
-      "link": "https://elpais.com/gastronomia/2026-09-26/la-resurreccion-del-huevo-pasado-por-agua-de-ser-la-cena-de-nuestros-abuelos-al-desayuno-de-los-urbanitas.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/NTRX4MCECBA5XPGMRZT2DQV3LE.jpg?auth=7ee039c91604774b9af30cd79b056e92ca3ee73c6fce0b44d1abfc7fc8905160"
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RRR5INS67RKU5EZQYXHZH3JRYI.jpg?auth=03a1e8f67f51446467e790891347db8f86bf5840f104efd58caf4a15c5b4288b",
+      "tipo": "imagen"
     }
   ]
 }
