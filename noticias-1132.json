@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Peridis: burbujas",
+      "link": "https://elpais.com/opinion/2026-09-27/peridis-burbujas.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ZZBKPPRLYJBZZOMPTLYAYCYHJY.jpg?auth=62d0c279fc5e7edf6af213a01c17e74d1b7fa7e4d3a2bce31e810b35e51d6bc0&width=414&height=233&focal=1284%2C564",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Flavita Banana: autoconciencia",
+      "link": "https://elpais.com/opinion/2026-09-27/flavita-banana-autoconciencia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/CBVQM76NGNE6DCDPEO54JWSLBA.jpg?auth=a6203b935401d8477df97778ab61a4b3f457b06679c65a824bed7d6c24805e11&width=414&height=311&focal=641%2C826",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Roto: estériles tormentas",
+      "link": "https://elpais.com/opinion/2026-09-27/el-roto-esteriles-tormentas.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/AR4APXVS4JHXZIPZVNZCSPRXLM.jpg?auth=4db5c1846ecdc9a4be0eec5f4f15fe7eaa9ce1436e05aaf12ee9e25d20729a18&width=414&height=311&focal=819%2C890",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Roto: un día de estos",
       "link": "https://elpais.com/opinion/2026-09-26/el-roto-un-dia-de-estos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/BAEELW2VWJFQNJEOWJO2PPDQMI.jpg?auth=3f1772a85dc332a021a3690b238e59e661c775ce08605a29b650c3fafadf0839&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/BAEELW2VWJFQNJEOWJO2PPDQMI.jpg?auth=3f1772a85dc332a021a3690b238e59e661c775ce08605a29b650c3fafadf0839&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "Peridis: fondos buitre",
       "link": "https://elpais.com/opinion/2026-09-26/peridis-fondos-buitre.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/ODPYPFHUSFBP3G3AYZLXCXV5TQ.jpg?auth=d80d143e6eb67672c9d57f9d0597cac03c427983ea04f310a0f3e879a7b48868&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Peridis: gas mostaza",
-      "link": "https://elpais.com/opinion/2026-09-25/peridis-gas-mostaza.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/KIAOPFTILBHI7KYX7GD3TGZBTQ.jpg?auth=d2deb931651b61f12508993b7f434b33ab7523bdd9d06ea0c95b82000b8370ba&width=414&height=311&focal=1065%2C524",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Carmen Laffón, por Sciammarella",
-      "link": "https://elpais.com/opinion/2026-09-25/carmen-laffon-por-sciammarella.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/H4ZOP4SPVRA73MO6M4F5DZXTX4.jpg?auth=d5f5a94dcd85440cd600cf2b559c0bb8cd94d71103bd40f458eb9fce3060ab52&width=414&height=311&focal=695%2C1462",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Flavita Banana: coches tristes",
-      "link": "https://elpais.com/opinion/2026-09-25/flavita-banana-coches-tristes.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/EGIJKP4K7JH7LESJJRCCL4XYQY.jpg?auth=b7acfca081688bc072075c43a504abe71544fd0f633174331641118311dcea2a&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]
