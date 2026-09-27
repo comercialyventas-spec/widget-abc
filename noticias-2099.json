@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Unos y otros",
+      "link": "https://loquesomos.es/unos-y-otros/",
+      "imagen": "https://loquesomos.es/wp-content/uploads/2026/07/rico-pobre-capitalismo-lqsomos-550x450.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "De la IA a la Mediateca Mundial…",
       "link": "https://loquesomos.es/de-la-ia-a-la-mediateca-mundial/",
       "imagen": "https://loquesomos.es/wp-content/uploads/2026/02/ciber-creaccion-contenido-IA-lqsomos-777x450.png",
@@ -28,12 +34,6 @@
       "titulo": "Información tranquilizadora",
       "link": "https://loquesomos.es/informacion-tranquilizadora/",
       "imagen": "https://loquesomos.es/wp-content/uploads/2026/05/Pederastia-en-la-iglesia-abuso-sexual-lqsomos-menores-.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sufrimiento",
-      "link": "https://loquesomos.es/sufrimiento/",
-      "imagen": "https://loquesomos.es/wp-content/uploads/2025/12/suicidio-depresion-consciencia-lqsomos-777x450.jpg",
       "tipo": "imagen"
     }
   ]

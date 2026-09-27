@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un motorista herido tras un accidente en la rotonda de la Aldehuela",
+      "link": "https://www.zamora24horas.com/sucesos/motorista-herido-tras-accidente-rotonda-aldehuela",
+      "imagen": "https://statics.zamora24horas.com/ac79ad94-70da-4516-a186-666e472435a5.webp?format=webp&width=1200&quality=75",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Nuevas normas de circulación para patinetes, a partir de octubre",
       "link": "https://www.zamora24horas.com/local/nuevas-normas-circulacion-patinetes-partir-octubre",
       "imagen": "https://statics.zamora24horas.com/c3229260-8328-45de-b9af-ad042bcc7564.webp?format=webp&width=1200&quality=75",
@@ -28,12 +34,6 @@
       "titulo": "GALERÍA | La Calle de los Herreros se llena de vida en su día",
       "link": "https://www.zamora24horas.com/local/galeria-virgen-herreros-llena-vida-dia",
       "imagen": "https://statics.zamora24horas.com/b7309509-ddf0-4158-9b9d-149a2ff396df.webp?format=webp&width=1200&quality=75",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Más de 400 corredores se dieron cita en la MillaZa de Toro",
-      "link": "https://www.zamora24horas.com/deportes/400-corredores-dieron-cita-milla-za-toro",
-      "imagen": "https://statics.zamora24horas.com/80006c50-9a4f-407c-952a-7373cdcb984f.webp?format=webp&width=1200&quality=75",
       "tipo": "imagen"
     }
   ]
