@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El Fiat Panda es como unos vaqueros, vale para cualquier tipo de circunstancia",
+      "link": "https://www.esdiario.com/motor/260927/198649/fiat-panda-vaqueros-vale-tipo-circunstancia.html",
+      "imagen": "https://imagenes.esdiario.com/static/img/logo-esdiario-poster.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Dongfeng Vigo: mucho equipamiento y precio ajustado para intentar hacerse un hueco entre los SUV eléctricos",
       "link": "https://www.esdiario.com/motor/260927/198226/dongfeng-vigo-521-km-autonomia-electrica-ciudad-miedo-viajar.html",
       "imagen": "https://imagenes.esdiario.com/files/og_thumbnail/uploads/2026/09/20/6ab02e5b4b939.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Renault compromete 600 millones en España y llevará por primera vez la producción de eléctricos a sus fábricas",
       "link": "https://www.esdiario.com/motor/260925/198634/renault-compromete-600-millones-espana-llevara-primera-vez-produccion-electricos-fabricas.html",
       "imagen": "https://imagenes.esdiario.com/files/og_thumbnail/uploads/2026/09/24/6ab5902c474e7.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Volkswagen copia a Stellantis con la economía circular para abaratar sus reparaciones y fidelizar al cliente",
-      "link": "https://www.esdiario.com/motor/260924/198560/volkswagen-tamabien-alia-economia-circular-abaratar-reparaciones-fidelizar-cliente.html",
-      "imagen": "https://imagenes.esdiario.com/files/og_thumbnail/uploads/2026/09/24/6ab4cf09143fd.jpeg",
       "tipo": "imagen"
     }
   ]

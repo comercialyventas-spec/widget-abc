@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Cuando las montañas de Colorado se vuelven doradas",
+      "link": "https://www.lavanguardia.com/lugaresdeaventura/20260927/11634620/montanas-colorado-vuelven-doradas.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/09/14/6aa8299ff1bbb.r_d.1940-1680-945.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "De Carcassonne a los Pirineos, Aude vive el otoño de la vendimia",
       "link": "https://www.lavanguardia.com/lugaresdeaventura/20260926/11639647/carcassonne-pirineos-aude-vive-otono-vendimia.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/09/20/6ab012aa232df.r_d.579-544-3223.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/09/20/6ab012aa232df.r_d.579-544-3223.jpeg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Cuando el otoño entra en el valle de Ordesa",
       "link": "https://www.lavanguardia.com/lugaresdeaventura/20260922/11640552/otono-entra-valle-ordesa.html",
       "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2019/06/06/5fa535f359ce6.r_d.328-218-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Lluís Puigvert, campeón del mundo de Kilómetro Vertical a los 21 años",
-      "link": "https://www.lavanguardia.com/lugaresdeaventura/20260921/11640008/lluis-puigvert-campeon-mundo-kilometro-vertical-21-anos.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/09/21/6ab0df31ef786.r_d.480-401-3742.jpeg",
       "tipo": "imagen"
     }
   ]

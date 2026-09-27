@@ -1,10 +1,28 @@
 {
   "noticias": [
     {
-      "titulo": "Los gobiernos de Madrid y Vitoria pactan un aumento de la potencia eléctrica del 50% en Euskadi",
-      "link": "https://elpais.com/hemeroteca/2026-09-21/",
+      "titulo": "No es una avería cualquiera: seis meses sin ascensor en el barrio alto de Leioa obligan a subir a pie 250 peldaños",
+      "link": "https://elpais.com/espana/2026-09-26/no-es-una-averia-cualquiera-seis-meses-sin-ascensor-en-el-barrio-alto-de-leioa-obligan-a-subir-a-pie-250-peldanos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/C3YPYDTDKNGXRE4UO7UHXRDJII.jpg?auth=d7b338922aed6d96f5be4505fd5c4e959d480a92e5e9e8ef331d42ea05b38f55&width=1200",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "OHLA gana la obra de 241 millones en la línea Burgos-Vitoria que da entrada a la alta velocidad en el País Vasco",
+      "link": "https://elpais.com/hemeroteca/2026-09-25/",
       "imagen": "",
       "tipo": ""
+    },
+    {
+      "titulo": "San Sebastián rescata una idea de 1917 para transformar un gran muro urbano en un jardín vertical",
+      "link": "https://elpais.com/espana/pais-vasco/2026-09-25/san-sebastian-rescata-una-idea-de-1917-para-transformar-un-gran-muro-urbano-en-un-jardin-vertical.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RLOF7SG7PRE3NDCL3ZOYXJ7YMI.jpg?auth=0d2d402abe7c67321d85f2e4bbd959a8e318a77d8ab3424a07f0fed404e30181&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los gobiernos de Madrid y Vitoria pactan un aumento de la potencia eléctrica del 50% en Euskadi",
+      "link": "https://elpais.com/hemeroteca/2026-09-21/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/IK42KBOB6ZC5VI4JGI7EYUZKLQ.png?auth=112441537d9dec67f7cc9f9fced813d6076459b6adbd16de14e93cec3115a7bb",
+      "tipo": "imagen"
     },
     {
       "titulo": "Un ensayo aplica la computación cuántica a las neuronas obtenidas de dientes de leche",
@@ -15,25 +33,7 @@
     {
       "titulo": "Vitoria se enfrenta a los taxistas para que salgan más los fines de semana: “Es un clamor ciudadano”",
       "link": "https://elpais.com/espana/pais-vasco/2026-09-17/vitoria-se-enfrenta-a-los-taxistas-para-que-salgan-mas-los-fines-de-semana-es-un-clamor-ciudadano.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/XOAQQ23HLJCXJLIUFH2MDLNOAQ.jpg?auth=c0bde959c53a2b81f569ab839a9cabc017cac580cadc587017357cdde674e5c6&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Bizkaia enciende la alarma por la falta de plazas suficientes para atender a los menores extranjeros",
-      "link": "https://elpais.com/espana/pais-vasco/2026-09-16/bizkaia-enciende-la-alarma-por-la-falta-de-plazas-suficientes-para-atender-a-los-menores-extranjeros.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Red Bay, el pueblo con pasado vasco que emerge de la niebla en Canadá",
-      "link": "https://elpais.com/elviajero/2026-09-12/red-bay-el-pueblo-con-pasado-vasco-que-emerge-de-la-niebla-en-canada.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "La primera universidad vasca recupera todo su esplendor renacentista",
-      "link": "https://elpais.com/espana/pais-vasco/2026-09-11/la-primera-universidad-vasca-recupera-todo-su-esplendor-renacentista.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/7NL5EQJIOZFGXFVA32OUMBRZ6Q.jpg?auth=f381b76614d3b5ca71cbd23a07d3583072064fde840ef809dc7a57580dcdaba8&width=414&height=311&focal=2781%2C2131",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XOAQQ23HLJCXJLIUFH2MDLNOAQ.jpg?auth=c0bde959c53a2b81f569ab839a9cabc017cac580cadc587017357cdde674e5c6&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

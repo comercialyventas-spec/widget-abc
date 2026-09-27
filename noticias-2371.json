@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Un clásico de PS2 regresa para consolas modernas con una remasterización 25 años después de su estreno",
+      "link": "https://www.larazon.es/videojuegos/retro/clasico-ps2-regresa-consolas-modernas-remasterizacion-25-anos-despues-su-estreno_202609276ab66ed682932a3cf91a4a63.html",
+      "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/09/27/20B3C3EB-B181-4478-BE64-9C6EE8047162/clasico-ps2-regresa-consolas-modernas-remasterizaci_60.jpg?crop%3D1280%2C720%2Cx0%2Cy0%26width%3D640%26height%3D360%26optimize%3Dhigh%26format%3Dwebply",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La serie de ciencia ficción más arriesgada de Netflix es capaz de romper las reglas de la narración",
+      "link": "https://www.larazon.es/videojuegos/netflix/serie-ciencia-ficcion-arriesgada-netflix-es-capaz-romper-reglas-narracion_202609276ab3dae4355e0970d4cf12e3.html",
+      "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/09/27/20B2FA27-F1CB-46AA-A8EA-21D332CD9706/love-death-robots-es-serie-netflix_49.jpg?crop%3D1088%2C720%2Cx96%2Cy0%26width%3D680%26height%3D450%26optimize%3Dhigh%26format%3Dwebply",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Stardew Valley anticipa tres grandes novedades en la versión 1.7",
       "link": "https://www.larazon.es/videojuegos/multiplataforma/stardew-valley-anticipa-tres-grandes-novedades-version-17_202609266ab7e72e82932a3cf91afc39.html",
-      "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/09/26/02C0B3D5-DCA9-4D5D-9987-00696992525C/stardew-valley-17_60.jpg?crop%3D1024%2C576%2Cx0%2Cy0%26width%3D640%26height%3D360%26optimize%3Dhigh%26format%3Dwebply",
+      "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/09/26/02C0B3D5-DCA9-4D5D-9987-00696992525C/stardew-valley-17_49.jpg?crop%3D870%2C576%2Cx77%2Cy0%26width%3D680%26height%3D450%26optimize%3Dhigh%26format%3Dwebply",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Star Wars podría remover el canon de la saga tras la segunda temporada de Ahsoka",
       "link": "https://www.larazon.es/videojuegos/star-wars/star-wars-podria-remover-canon-saga-segunda-temporada-ahsoka_202609266ab7b59cd5f3ae10c735b42c.html",
       "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/09/26/CFD06B33-6475-4EB1-B3E7-28420FA6F7B6/ahsola-viaje_49.jpg?crop%3D1360%2C900%2Cx120%2Cy0%26width%3D680%26height%3D450%26optimize%3Dhigh%26format%3Dwebply",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La mejor película de ciencia ficción de M. Night Shyamalan se vuelve un éxito en streaming",
-      "link": "https://www.larazon.es/videojuegos/cine/mejor-pelicula-ciencia-ficcion-m-night-shyamalan-se-vuelve-exito-streaming_202609266ab67f5282932a3cf91a5508.html",
-      "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/09/26/93384438-E8CD-42D9-A66B-2E2BAE28E7F5/senales-plantea-misterio-relacionado-extranos-fenomenos_49.jpg?crop%3D1088%2C720%2Cx96%2Cy0%26width%3D680%26height%3D450%26optimize%3Dhigh%26format%3Dwebply",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un juego de PS5 rinde homenaje a una mítica saga de PS2",
-      "link": "https://www.larazon.es/videojuegos/playstation/juego-ps5-rinde-homenaje-mitica-saga-ps2_202609266ab7a541f8fc5f73abbaeb3e.html",
-      "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/09/26/783227B9-CA65-4968-9229-C76CAE87CBA4/ps2-recordada_49.jpg?crop%3D816%2C540%2Cx72%2Cy0%26width%3D680%26height%3D450%26optimize%3Dhigh%26format%3Dwebply",
       "tipo": "imagen"
     }
   ]

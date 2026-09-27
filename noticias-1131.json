@@ -1,39 +1,39 @@
 {
   "noticias": [
     {
+      "titulo": "Lula en defensa de la humanidad",
+      "link": "https://elpais.com/noticias/onu-organizacion-naciones-unidas/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/IQ24TR6YSNP2NCCLROE5TEMBDI.jpg?auth=c0e68ea442ef33c72bc13ba58243703711c30b58ad8beb57f944745920d1d008&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Verde y humilde Ítaca",
+      "link": "https://elpais.com/noticias/cine/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ODPXMYATFVCLHBNU5YXI5ASIII.jpg?auth=2e3aa6ea637007010335f5c30dd94dceae68dfee3b21bcab3988acd45998323d&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los Alonso no quieren ser llamados buitres",
+      "link": "https://elpais.com/espana/2026-09-27/los-alonso-no-quieren-ser-llamados-buitres.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/MVT2ZFBP5FCDZFUH75TISFQDLE.jpg?auth=5ce1aa6ef14bd75503d0302936cbcd3d6d3e94f0f8bd95d76e23ff402c63e316&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El alma no tiene pasaporte",
+      "link": "https://elpais.com/noticias/alejandro-sanz/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QL55GUDQK5JF7BZK3NYSIPZYPY.jpg?auth=aa358450cb879d0618c54b9cb390ce3b5ed1ce98a364469d6241f957d34bd0a6&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El libro total",
+      "link": "https://elpais.com/opinion/tribunas/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/BGG7FNWD55FTRA6WU3C5IT6NPI.jpg?auth=29faa3a5b7054f732f7e5c80b3625340cd3c34ecaa9b46bfcd2df793204841bd&width=414&height=311&focal=568%2C563",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La participación ciudadana en Bogotá muestra resultados",
       "link": "https://elpais.com/noticias/bogota/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/3KWA6DKCMFAMBACMARD6VNZTSQ.jpg?auth=81fdbbc30cd9b1a284a56ff93fceb4972ac9a5eef38bb9bea7d411d5ed196c6e&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Protección de los electores o límite a las aspiraciones políticas",
-      "link": "https://elpais.com/noticias/elecciones-colombia/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/CDKREALKPBJOFAVFTXPHD5YQWM.jpg?auth=befb91872bdcf8a0da422cca81ac4723ac1267e0c544f17df5b2b07963913f5b&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Donald Trump en Albacete",
-      "link": "https://elpais.com/opinion/tribunas/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/GEXGI6GILRHENGQHE4CSLWIWXE.jpg?auth=2be32ae2b5edb829c1126aa22ae0ae2132a36842551e8f3f27b6105c073a629c&width=414&height=311&focal=1935%2C1563",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un genio del Mal llamado Sánchez",
-      "link": "https://elpais.com/opinion/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/LUTGBPYIW5HRFG3SM574HJOISM.jpg?auth=c488e4ef875ca50ba11ce4095ad83f0aefab5664a88409c2c4697a18c58713f7&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "A tu servicio, 24/7",
-      "link": "https://elpais.com/autor/antonio-munoz-molina/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/OIILMJXQRNEX7G6N7ENKAH4ZBI.jpg?auth=f6f65f25c0eaea642971e5a7c84e009f70b76022596cdbbc6eef39f276728544&width=414&height=311&focal=814%2C541",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El alma de Chile",
-      "link": "https://elpais.com/noticias/asamblea-general-onu/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/WH2FDE5TCFDVHHR6BZBI7KD65Y.jpg?auth=fd81b3c1f4620b06b9b23b4d346c02621669400d3218f8b31aaae384b48c0546&width=414&height=311&focal=3849%2C2578",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/3KWA6DKCMFAMBACMARD6VNZTSQ.jpg?auth=81fdbbc30cd9b1a284a56ff93fceb4972ac9a5eef38bb9bea7d411d5ed196c6e&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]
