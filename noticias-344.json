@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "John Cooper Works, una gran historia en un pequeño Mini",
+      "link": "https://www.abc.es/motor/reportajes/john-cooper-works-gran-historia-pequeno-mini-20260927074600-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/27/Foto1-R1kXsR9ems119ekxV49MxvK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La fiabilidad de los coches chinos, a prueba: arranca nuestro test de medio año con el Jaecoo 7 PHEV",
+      "link": "https://www.abc.es/motor/pruebas/fiabilidad-coches-chinos-prueba-arranca-test-medio-20260927025345-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/27/foto1-R3HKatzUdjbdIOUBCK2l1BL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Bultaco prueba la Rally GT 300 en Monegros antes de viajar a Marruecos",
       "link": "https://www.abc.es/motor/motos/bultaco-prueba-rally-300-monegros-viajar-marruecos-20260924120000-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/24/bultaco1-RTLsZkPMZaqNJn4rQmBkC4O-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Volkswagen llama a revisión a casi tres millones de coches de dos de sus marcas por riesgo de corrosión",
       "link": "https://www.abc.es/motor/volkswagen-retira-tres-millones-coches-dos-marcas-20260925163443-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/25/tiguan-kyGI-U301897133534m7H-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Alfa Romeo lanza la edición Luna Rossa que une diseño náutico con la tecnología de automoción",
-      "link": "https://www.abc.es/motor/novedades/alfa-romeo-lanza-edicion-luna-rossa-une-20260925125304-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/25/lunarossa1-RxboBP8PVRI1iZufBvpl4pM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Equipamiento urbano: protección y estilo para volver a la rutina",
-      "link": "https://www.abc.es/motor/motos/equipamiento-urbano-proteccion-estilo-volver-rutina-20260924120000-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/09/24/apertura-RGLCdZ3omn5sQ6fRmjQKokK-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

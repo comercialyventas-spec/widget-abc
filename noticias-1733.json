@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Sobresalto en Huétor Vega por un incendio nocturno en Monte Vélez",
+      "link": "https://www.ahoragranada.com/noticias/sobresalto-en-huetor-vega-por-un-incendio-nocturno-en-monte-velez/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Incendio-Montevelez-Huetor-Vega.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ocho localizaciones de Granada que aparecen en 'La Bola Negra' de Los Javis",
+      "link": "https://www.ahoragranada.com/noticias/ocho-localizaciones-de-granada-que-aparecen-en-la-bola-negra-los-javis/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2025/02/sigue-4-Alfombra-Roja-Premios-Goya-AC-8.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los dos institutos de Atarfe, elegidos embajadores del Parlamento Europeo",
+      "link": "https://www.ahoragranada.com/noticias/los-dos-institutos-de-atarfe-elegidos-embajadores-del-parlamento-europeo-para-este-curso/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Centros-Parlamento-Europeo-01.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Estreno sin disfrute del Covirán Granada en Primera FEB",
       "link": "https://www.ahoragranada.com/noticias/estreno-sin-disfrute-del-coviran-granada-en-primera-feb/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Coviran-Gipuzkoa-03-1-1130x636.jpg",
@@ -15,26 +33,8 @@
     {
       "titulo": "La máxima llegará a los 33 grados este domingo en Granada",
       "link": "https://www.ahoragranada.com/noticias/la-maxima-llegara-a-los-33-grados-este-domingo-en-granada/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2016/09/archivo-calor-AlexCamara-6-1.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Carrera del Agua de Lanjarón declarada Fiesta de Interés Turístico Nacional",
-      "link": "https://www.ahoragranada.com/noticias/la-carrera-del-agua-de-lanjaron-declarada-fiesta-de-interes-turistico-nacional/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2024/06/Carrera-del-Agua-Lanjaron.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Fallece un miembro de la banda alemana Das Ich tras ofrecer un concierto en Granada",
-      "link": "https://www.ahoragranada.com/noticias/fallece-un-miembro-de-la-banda-alemana-das-ich-tras-ofrecer-un-concierto-en-granada/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2023/10/Sala-Planta-Baja-23.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Procesión de la Virgen de las Angustias en Granada: recorridos, horarios, restricciones y cortes de tráfico",
-      "link": "https://www.ahoragranada.com/noticias/procesion-de-la-virgen-de-las-angustias-en-granada-recorridos-horarios-restricciones-y-cortes-de-trafico/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2025/09/Procesion-de-la-Virgen-de-las-Angustias-2025-AC-80.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     }
   ]
 }

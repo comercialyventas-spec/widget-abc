@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Qué son las granjas de trols y cómo identificarlas",
+      "link": "https://www.newtral.es/granja-de-trol/20260927/",
+      "imagen": "https://www.newtral.es/wp-content/uploads/2026/09/trols-1024x568.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Así funciona la red de ‘La Derecha Diario’ en 11 países, según una investigación de fact-checkers latinoamericanos",
       "link": "https://www.newtral.es/desinformacion-latinoamerica-la-derecha-diario/20260926/",
       "imagen": "https://www.newtral.es/wp-content/uploads/2026/09/Nota-Chequeado-5-1024x576.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Vídeos recortados e imágenes con IA: la desinformación que rodea el desahucio de Maricarmen",
       "link": "https://www.newtral.es/bulos-maricarmen/20260925/",
       "imagen": "https://www.newtral.es/wp-content/uploads/2026/09/55021479928-FF-DESAHUCIO-MARICARMEN-FERNANDO-VILLAR-EFE-20260923-1-1024x683.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "En Cataluña hay más desahucios que en Madrid, pero no son cinco veces más como dijo Ayuso",
-      "link": "https://www.newtral.es/desahucios-cataluna-madrid-ayuso-factcheck/20260925/",
-      "imagen": "https://www.newtral.es/wp-content/uploads/2026/09/55021492031-FF-ISABEL-DIAZ-AYUSO-DANI-POZO-EFE-20260924-1024x685.jpg",
       "tipo": "imagen"
     }
   ]

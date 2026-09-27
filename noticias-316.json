@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Las madrinas",
+      "link": "https://www.abc.es/play/series/madrinas-20260927011804-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/27/mafia-RGDBZmkdxYwb0DSCY8SflsK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las historias tras 'La bola negra', la película de Los Javis: de una novela inacabada de Lorca a una obra de teatro inspirada en su último gran amor",
       "link": "https://www.abc.es/play/cine/noticias/historias-tras-bola-negra-pelicula-javis-novela-20260926153322-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/25/la-bola-negra-k8DF-U301842058971gxF-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Isabel Peña y Mabel Lozano se unen para derribar 'El castillo' de la prostitución y la impunidad",
       "link": "https://www.abc.es/play/series/noticias/isabel-pena-mabel-lozano-unen-derribar-castillo-20260925195313-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/25/1517832369-kRVG-U3019012493765SF-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Quién es Guitarricadelafuente, el protagonista de 'La bola negra': su nombre real, sus estudios universitarios y su relación con los Javis",
-      "link": "https://www.abc.es/play/cine/noticias/guitarricadelafuente-protagonista-bola-negra-nombre-real-estudios-javis-20260924133944-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/24/GUITARRICA-kKrH-RtAQ0DCWBCG3QRP5nbhuuQN-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

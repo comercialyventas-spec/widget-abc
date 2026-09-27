@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Qué pena que no vayan a leer a Lena Dunham",
+      "link": "https://elpais.com/television/2026-09-27/que-pena-que-no-vayan-a-leer-a-lena-dunham.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RIXDAN24G5HFDHN6FBP7J2A3UY.jpg?auth=dbe5accacdba790492551dcfad5d2d9e98fcf70d1c630c3d39b91447c17f7b12",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Perder a propósito una estrella Michelin para intentar recuperarla en 52 días: los milagros gastronómicos de Apple TV",
+      "link": "https://elpais.com/television/2026-09-27/perder-a-proposito-una-estrella-michelin-para-intentar-recuperarla-en-52-dias-los-milagros-gastronomicos-de-apple-tv.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/IDKLX7F2T5GOHA3QHRYYI2I54Q.jpg?auth=35cf0adc05bc7612cac1b400ed4c7b7631e3c465bb7ad747fd1c2f38e1a279db",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Belén Esteban vuelve a Telecinco en ‘De viernes’: un ‘belenazo’ recalentado",
       "link": "https://elpais.com/television/2026-09-26/belen-esteban-vuelve-a-telecinco-en-de-viernes-un-belenazo-recalentado.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/ROLZVRG6DNCHFPVFYMT7II4WVA.png?auth=e50f5f5412f92a38f88554e7820ee03854f2dfef9e8c22b94dac547efdeeb6e3",
@@ -22,18 +34,6 @@
       "titulo": "American Horror Story",
       "link": "https://elpais.com/television/series/american-horror-story/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/R5FAKCCOVFEVDBJUAEBYCRO23Q.png?auth=767ce3dc120d74bfa59c2eff9751bbd4d07a5892a83beeab5620eac7732bb1d9",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El problema final",
-      "link": "https://elpais.com/television/series/el-problema-final/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/AP7LJWI4MBDJJK4FO6GSHCK6KE.jpg?auth=8d3897a6f148b109f5dce2bceb4683bdbceee874f98f1337f626da6d4900e1c1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Muere el actor Tony Canal, el padre Froilán de ‘Cuéntame’ y voz de Winnie the Pooh",
-      "link": "https://elpais.com/television/series/2026-09-25/muere-el-actor-tony-canal-el-padre-froilan-de-cuentame-y-voz-de-winnie-the-pooh.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/LKAYU7LSCJDD3LD2BCLQDL7BCI.jpg?auth=0fbd9bd49bddffec668d7f775c84ba4bdf2fb1acfd2b1bc96980cebec09b2686",
       "tipo": "imagen"
     }
   ]

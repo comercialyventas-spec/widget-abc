@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Las madrinas",
+      "link": "https://www.abc.es/play/series/madrinas-20260927011804-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/27/mafia-RGDBZmkdxYwb0DSCY8SflsK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Isabel Peña y Mabel Lozano se unen para derribar 'El castillo' de la prostitución y la impunidad",
       "link": "https://www.abc.es/play/series/noticias/isabel-pena-mabel-lozano-unen-derribar-castillo-20260925195313-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/25/1517832369-kRVG-U3019012493765SF-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Un barrio que no deja descansar a sus muertos",
       "link": "https://www.abc.es/play/series/barrio-deja-descansar-muertos-20260923011820-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/23/L1014654_R_16x9-RDcrsMlaCv1nuBq71bLLXHP-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Llega a Netflix la miniserie de terror aclamada por Stephen King: tiene cuatro episodios y está basada en los cuentos de Mariana Enriquez",
-      "link": "https://www.abc.es/play/series/noticias/llega-netflix-miniserie-terror-aclamada-stephen-king-20260923070000-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/22/mismuertostristes-kGLH-RV8x5nEM1R1t0Ot3iw2oxuI-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
