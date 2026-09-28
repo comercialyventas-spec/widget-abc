@@ -1,0 +1,37 @@
+name: Crear borradores Blogger
+
+# Solo se lanza a mano. Crea BORRADORES (nunca publica) a partir de filas de GENERADOR_NOTICIAS.
+# Modo "simular" no cambia nada.
+on:
+  workflow_dispatch:
+    inputs:
+      lote:
+        description: 'Lista de filas'
+        default: 'migracion/lote_ecd_520_551.json'
+        required: true
+      modo:
+        description: 'simular (no cambia nada) / aplicar'
+        type: choice
+        options: [simular, aplicar]
+        default: simular
+
+permissions:
+  contents: read
+
+jobs:
+  crear:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Crear borradores
+        env:
+          CLIENT_ID: ${{ secrets.BLOGGER_CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.BLOGGER_CLIENT_SECRET }}
+          REFRESH_TOKEN: ${{ secrets.BLOGGER_REFRESH_TOKEN }}
+        run: node migracion/crear_borradores.js "${{ inputs.lote }}" "${{ inputs.modo }}"
