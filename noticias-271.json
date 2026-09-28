@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "No dan miedo",
+      "link": "https://www.abc.es/espana/castilla-leon/dan-miedo-20260925212548-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/25/AFD-RlYCxs5qoe2q2DZYzeAw8dM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La corrupción: el veneno de la confianza democrática",
+      "link": "https://www.abc.es/espana/castilla-leon/corrupcion-veneno-confianza-democratica-20260928211910-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/28/ABALOS-RWJ4UlUpnHvsC75X8l4ktRI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "'Entre las hojas escondido', de David Muñoz Mateos: Salvaje y tierno",
       "link": "https://www.abc.es/espana/castilla-leon/salvaje-tierno-20260922182818-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/22/David%20Munoz-RXsXgRVLX7DVet9xmxUceGM-1200x1400@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "'Pastoris': cine arraigado en el territorio",
       "link": "https://www.abc.es/espana/castilla-leon/pastoris-cine-arraigado-territorio-20260924160008-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/24/PASTORIS1-RMOQAB6ejMNFbZG1HVAUgoJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "«Necesitamos mil torres para el 5G y los fondos no nos dan ni para dos»",
-      "link": "https://www.abc.es/espana/castilla-leon/necesitamos-mil-torres-fondos-dan-dos-20260928183020-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/28/_08MAX202609751184-R0PntzniE3JlL8x5r4cIM2L-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una nueva carta inédita de Unamuno confirma su encuentro con el autor de 'La guerra de los mundos' en Londres",
-      "link": "https://www.abc.es/espana/castilla-leon/nueva-carta-inedita-unamuno-confirma-encuentro-autor-20260928160748-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/28/Unamuno_01-RM7XhPG3WHdDLFTnuHwyVbI-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

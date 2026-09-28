@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "POMEROL LEGAL PARTNERS",
+      "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/2764591/pomerol-legal-partners-slp.html",
+      "imagen": "https://edv-static.lavanguardia.com/assets/img/2764591/banner-image.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Unidad Cirugía Barcelona",
       "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/6282983/unidad-cirugia-barcelona-slp.html",
       "imagen": "https://edv-static.lavanguardia.com/assets/img/6282983/banner-1760373967000.png",
@@ -28,12 +34,6 @@
       "titulo": "Lima & Asociadas Soluciones Jurídicas",
       "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/7949242/lima-asociadas-soluciones-juridicas.html",
       "imagen": "https://edv-static.lavanguardia.com/assets/img/7949242/banner-1790005535000.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Marie Solange",
-      "link": "https://www.lavanguardia.com/empresas-de-vanguardia/directorio/3508217/javier-marcelo-firpo-firpo.html",
-      "imagen": "https://edv-static.lavanguardia.com/assets/img/3508217/banner-1790078367000.jpeg",
       "tipo": "imagen"
     }
   ]
