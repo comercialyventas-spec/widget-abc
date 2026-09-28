@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La mejor hamburguesa de España se hace en Córdoba y lleva caviar, wagyu y oro comestible",
+      "link": "https://www.abc.es/gastronomia/mejor-hamburguesa-espana-cordoba-lleva-caviar-wagyu-20260928113243-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/28/TCB_UmamiRoyale_Godeo-Rh79wl02QQCDQBYiy9kql6N-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Vendimiar después del fuego: la larga factura de los incendios en Gredos y Arribes",
       "link": "https://www.abc.es/gastronomia/vinos/vendimiar-despues-fuego-larga-factura-incendios-gredos-20260926021424-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/26/CuevadelEspino-RitWnQ1XsjSxCm3YT07jK6K-1200x840@diario_abc.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "El valor de los 'grandes vinos': el reto pendiente de España",
       "link": "https://www.abc.es/gastronomia/vinos/valor-grandes-vinos-reto-pendiente-espana-20260923121758-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/23/vegasicilia-Ry7AqVnKWxsXpe0Vpx1YihM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Madrid, la nueva capital del taco mexicano",
-      "link": "https://www.abc.es/gastronomia/madrid-nueva-capital-taco-mexicano-20260919013251-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/19/oncemil-ReZNwc0ToOMMmAgXbIJsqhK-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

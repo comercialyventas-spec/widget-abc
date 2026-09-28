@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La inteligencia artificial sume al sector editorial en un caos absoluto",
+      "link": "https://www.elmundo.es/la-lectura/2026/09/27/6aabc475e9cf4afd068b4576.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/21/17900041962913.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Traficantes de cocaína eluden a las fuerzas de seguridad europeas con narcolanchas y tecnología",
       "link": "https://www.elmundo.es/espana/2026/09/24/6ab50e62e4d4d8aa168b45b0.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/24/17902546429109.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Estados Unidos alcanza un acuerdo de seguridad con Groenlandia",
       "link": "https://www.elmundo.es/internacional/2026/09/19/6aadb39f21efa00e708b4583.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/19/17897688857335.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los bufetes de abogados tienen un gran problema: los socios veteranos no se están jubilando",
-      "link": "https://www.elmundo.es/economia/empresas/2026/09/19/6aae5e0ae4d4d8c23a8b456e.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/19/17898122776344.jpg",
       "tipo": "imagen"
     }
   ]

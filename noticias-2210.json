@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "TVyMAS Lunes 28",
+      "link": "<![CDATA[https://www.elperiodico.com/es/videos/tele/tvymas-lunes-28/134734119.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/c5122cac-956a-4c14-add4-532c63f0acec_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El primer Piromusical en la playa de la Nova Icària",
       "link": "<![CDATA[https://www.elperiodico.com/es/videos/ocio-y-cultura/primer-piromusical-playa-nova-icaria/134743253.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/29d70c94-e181-4012-b9f7-42526399e0ee_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Al·lèrgiques al Pol·len en la Platja del Bogatell",
       "link": "<![CDATA[https://www.elperiodico.com/es/videos/ocio-y-cultura/allergiques-pollen-platja-bogatell/134717205.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/18ac69cc-32f6-4df5-822c-1f682e67faf8_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "TVyMAS Viernes 25",
-      "link": "<![CDATA[https://www.elperiodico.com/es/videos/tele/tvymas-viernes-25/134653489.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2028960f-f93a-406d-a31d-f1632dac1cf9_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

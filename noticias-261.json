@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Investigan la muerte de una mujer en una vivienda de Oviedo",
+      "link": "https://www.abc.es/espana/asturias/investigan-muerte-mujer-vivienda-oviedo-20260928111904-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/28/policia-nacional-k0VC-U301929409110h1C-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Guardia Civil detiene a cinco hombres por una agresión contra una mujer trans en Asturias",
       "link": "https://www.abc.es/espana/asturias/guardia-civil-detiene-cinco-hombres-agresion-mujer-20260920122201-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/20/guardia-civil-kM7E-U3018069615474tH-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Mueren dos jóvenes de 23 años en un accidente de tráfico en Asturias",
       "link": "https://www.abc.es/espana/asturias/mueren-dos-jovenes-anos-accidente-trafico-asturias-20260906114514-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/06/asturias-krpG-U301593207733twF-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Cofradía de Pescadores Santa Ana de Llanes, Premio al Pueblo Ejemplar de la Fundación Princesa de Asturias",
-      "link": "https://www.abc.es/espana/asturias/cofradia-pescadores-santa-ana-llanes-premio-pueblo-20260901145304-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/01/cofradia-pescadores-llanes1-knyG-U301520618620IlC-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

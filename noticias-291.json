@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Elon Musk enviará hoy por primera vez su megacohete Starship a la órbita terrestre en un viaje de 10 horas",
+      "link": "https://www.abc.es/ciencia/elon-musk-enviara-megacohete-starship-orbita-permanecera-20260928102757-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/28/1474951797-RguMchgZib04uvLVh0pJ9yI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Anthropic anuncia que su IA ha descubierto un nuevo sistema biológico similar a Crispr",
+      "link": "https://www.abc.es/ciencia/anthropic-anuncia-ia-descubierto-nuevo-sistema-biologico-20260924112559-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/24/claude-RUrDqRS6K50IAmurQgYmHZO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Dos meses del fuego que llegó hasta las puertas del espacio: «Salvaron la antena que nos conecta con las estrellas»",
       "link": "https://www.abc.es/ciencia/dos-meses-fuego-llego-puertas-espacio-incendio-20260928014428-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/28/1517686753-RbEb9eiPkse051I4Cr8p0OM-1200x840@diario_abc.jpg",
@@ -13,12 +25,6 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Anthropic anuncia que su IA ha descubierto un nuevo sistema biológico similar a Crispr",
-      "link": "https://www.abc.es/ciencia/anthropic-anuncia-ia-descubierto-nuevo-sistema-biologico-20260924112559-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/24/claude-RUrDqRS6K50IAmurQgYmHZO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Encontrar vida en Encélado puede ser mucho más fácil de lo que se creía",
       "link": "https://www.abc.es/ciencia/encontrar-vida-encelado-puede-facil-creia-20260925021248-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/25/Enceladus-RqL2lYZfNpd4XflNr2AT8CJ-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Hablar a los perros moldea su cerebro",
       "link": "https://www.abc.es/ciencia/hablar-perros-moldea-cerebro-20260924200000-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/24/perros_20260924184238-RlIJN7fuDvJu0lT0OQQbhmI-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Astrónomos captan por primera vez señales de radio de un exoplaneta, un mundo fuera del Sistema Solar",
-      "link": "https://www.abc.es/ciencia/astronomos-captan-primera-vez-senales-radio-exoplaneta-20260924162820-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/24/meerkat_1-RJ95n86b6yCYKsE5T3PNOAJ-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

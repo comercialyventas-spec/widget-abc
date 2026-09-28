@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en directo, en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-09-28/el-pulso-de-hoy-por-hoy-en-el-pais.html",
+      "imagen": "https://www.youtube.com/watch?v=WQuZU7pwBMM",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La odisea de transportar petróleo por dos estrechos en guerra",
+      "link": "https://elpais.com/videos/2026-09-28/la-odisea-de-transportar-petroleo-por-dos-estrechos-en-guerra.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260926/1218850_143334_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Una acampada “muy diversa” en Sol por la vivienda promete aguantar “hasta que la cosa cambie”",
       "link": "https://elpais.com/videos/2026-09-27/una-acampada-muy-diversa-en-sol-por-la-vivienda-prometen-aguantar-hasta-que-la-cosa-cambie.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260927/1219142_183643_video_1800.mp4",
@@ -22,18 +34,6 @@
       "titulo": "Maricamen anima desde el hospital a acudir a la manifestación contra los desahucios en Madrid: “Si todas nos unimos, podemos conseguir lo que nos proponemos”",
       "link": "https://elpais.com/videos/2026-09-26/maricamen-anima-desde-el-hospital-a-acudir-a-la-manifestacion-contra-los-desahucios-en-madrid-si-todas-nos-unimos-podemos-conseguir-lo-que-nos-proponemos.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260926/1218853_150312_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Shakira y Alejandro Sanz vuelven a cantar ‘La tortura’ en el Macondo Park en Madrid",
-      "link": "https://elpais.com/videos/2026-09-26/shakira-y-alejandro-sanz-vuelven-a-cantar-la-tortura-en-el-macondo-park-en-madrid.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260926/1218802_082124_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La visita de Xi Jinping a Trump: una “ventana de oportunidad” que deja pistas sobre la relación entre China y Estados Unidos",
-      "link": "https://elpais.com/videos/2026-09-26/la-visita-de-xi-jinping-a-trump-una-ventana-de-oportunidad-que-deja-pistas-sobre-la-relacion-entre-china-y-estados-unidos.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260925/1218722_223735_video_1800.mp4",
       "tipo": "imagen"
     }
   ]
