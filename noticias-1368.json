@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Starship culmina su primer vuelo orbital: Musk amplía su poder con la nave espacial más grande de la historia",
+      "link": "https://elpais.com/ciencia/2026-09-28/lanzamiento-del-cohete-starship-de-elon-musk-la-nave-espacial-mas-grande-de-la-historia.html",
+      "imagen": "https://www.youtube.com/watch?v=7LaH1dfjRG8",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Una farmacéutica de Mataró logra que la UE apruebe una terapia única contra una enfermedad infantil mortal",
       "link": "https://elpais.com/sociedad/2026-09-28/una-farmaceutica-de-mataro-logra-que-la-ue-apruebe-una-terapia-unica-contra-una-enfermedad-infantil-mortal.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/YJ4JYZ24VBETVP7NVQX4LB7CXQ.jpg?auth=41b70b69fd2087c4a0b6b416621b8e86dd61e1cafd8d76da904d6582f93f1851",
@@ -28,12 +34,6 @@
       "titulo": "Los elefantes se automedican con plantas medicinales que también usan los humanos",
       "link": "https://elpais.com/ciencia/2026-09-24/los-elefantes-se-automedican-con-plantas-medicinales-que-tambien-usan-los-humanos.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/QJKNASHCYBE25GURVC5X2VF52I.JPG?auth=a9d30048bbea71c94ad13a51e639b96945066ffb2df63a22eb9275b3291de2de",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las edades del cerebro: el atlas más detallado de la corteza prefrontal revela cómo cambia y envejece a lo largo de la vida",
-      "link": "https://elpais.com/ciencia/2026-09-23/las-edades-del-cerebro-el-atlas-mas-detallado-de-la-corteza-prefrontal-revela-como-cambia-y-envejece-a-lo-largo-de-la-vida.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/UVQVI4HXANFOVOQTAO6AID6AGQ.jpg?auth=70abd38035389021b70ead73fdcb9cd5255355d6ff66ff38e87f5295d9d01586",
       "tipo": "imagen"
     }
   ]

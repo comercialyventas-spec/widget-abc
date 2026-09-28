@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Plex",
+      "link": "https://www.elconfidencialdigital.com/album/medios/plex/202609281900001488818.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/28/2026092814011571437.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Mario Suárez",
       "link": "https://www.elconfidencialdigital.com/album/medios/mario-suarez/202609251900001488291.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/25/2026092515125530253.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Alfredo Relaño",
       "link": "https://www.elconfidencialdigital.com/album/medios/alfredo-relano/202609092100001039943.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2025/09/05/2025090512143392646.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Séptima",
-      "link": "https://www.elconfidencialdigital.com/album/medios/la-septima/202609080500001039344.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/07/2026090718245832699.jpg",
       "tipo": "imagen"
     }
   ]

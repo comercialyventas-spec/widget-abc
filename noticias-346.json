@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Nvidia crea un «cortafuegos» para impedir que los agentes de inteligencia artificial se escapen de control",
+      "link": "https://www.abc.es/tecnologia/nvidia-crea-cortafuegos-impedir-agentes-inteligencia-artificial-20260928194046-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/28/indianmale-hacker-with-smartphone-coding-computers-screen-dark-room-RPL5RlFMhxMBLDh5HuVUgfN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Tus próximos auriculares podrían saber qué estás haciendo y actuar por ti: la IA quiere entender todo tu entorno",
+      "link": "https://www.abc.es/tecnologia/electronica/tus-proximos-auriculares-saber-haciendo-actuar-ia-20260928184116-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/28/personal-ai-hearables-snapdragon-sound_20260928183829-R90331ltbceAtj5LyPyu2iJ-1200x840@diario_abc.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La IA de OpenAI accedió sin autorización a datos del Gobierno de Estados Unidos",
       "link": "https://www.abc.es/tecnologia/ia-openai-accedio-autorizacion-datos-gobierno-estados-20260926100116-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/26/reuters-openai-RtQrNrvb9FKTeG69guBQADO-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Spotify incorpora una nueva función para evitar que la aplicación colapse la memoria de tu teléfono",
       "link": "https://www.abc.es/tecnologia/redes/spotify-incorpora-nueva-funcion-evitar-aplicacion-colapse-20260924192251-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/24/persona-spotify-telefono-movil-RCniJWayiD9M7g8Lw0CsXVP-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El primer robot de cuatro patas que corre una maratón sin quedarse sin batería",
-      "link": "https://www.abc.es/tecnologia/primer-robot-cuatro-patas-corre-maraton-quedarse-20260923171517-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/23/raibo_20260923133200-RkLLCWzDcraLC9xt3iOqpMJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El peligro de la «rendición cognitiva»: un informe del MIT alerta de cómo la IA está destruyendo el pensamiento crítico de los estudiantes",
-      "link": "https://www.abc.es/tecnologia/peligro-rendicion-cognitiva-informe-mit-alerta-ia-20260923053000-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/23/nino-estudiante-ordenador-RqQiy8Rbi01RsPhiGBmnPhK-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

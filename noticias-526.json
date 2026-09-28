@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Covid",
+      "link": "https://www.elconfidencialdigital.com/album/vivir/covid/202609281722571488893.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/28/2026092817172446406.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Tratamientos estéticos",
       "link": "https://www.elconfidencialdigital.com/album/vivir/tratamientos-esteticos/202609251235191488222.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2023/04/10/2023041010261169153.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Campaña en redes que anima a los españoles a viajar a Ceuta",
       "link": "https://www.elconfidencialdigital.com/album/vivir/campana-redes-que-anima-espanoles-viajar-ceuta/202609181032021193791.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/18/2026091810290157484.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Incendios en España",
-      "link": "https://www.elconfidencialdigital.com/album/vivir/incendios-en-espana/202609171308361193655.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/17/2026091713041291758.jpg",
       "tipo": "imagen"
     }
   ]
