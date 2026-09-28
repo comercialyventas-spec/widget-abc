@@ -30,7 +30,7 @@
   "use strict";
   if (window.MotorProductos && window.MotorProductos.version) { window.MotorProductos.iniciarTodos(); return; }
 
-  var VERSION = "1.0";
+  var VERSION = "1.1";
   var GH_BASES = [
     "https://cdn.jsdelivr.net/gh/comercialyventas-spec/widget-abc@main/productos/",
     "https://raw.githubusercontent.com/comercialyventas-spec/widget-abc/main/productos/"
@@ -454,8 +454,32 @@
     }, 800);
     cargarSiguiente(w);
   }
-  function iniciarTodos() { var els = document.querySelectorAll(".motor-productos"); for (var i = 0; i < els.length; i++) iniciar(els[i]); }
+  function iniciarTodosYa() { var els = document.querySelectorAll(".motor-productos"); for (var i = 0; i < els.length; i++) iniciar(els[i]); }
+
+  /* ---------- filtro de bots ----------
+   * Los productos solo se piden cuando hay una persona delante: se espera al primer
+   * gesto real (mover el ratón, tocar la pantalla, hacer scroll, pulsar una tecla).
+   * Los robots que ejecutan JavaScript no hacen esos gestos, así que no gastan NAS,
+   * GitHub ni proxies. Mientras tanto se ve el texto del post y el enlace a la tienda.
+   * Si el navegador se declara automatizado o el agente es de un robot, no se carga nada. */
+  var hayPersona = false;
+  function esRobot() {
+    try { if (navigator.webdriver) return true; } catch (e) {}
+    return /bot|crawl|spider|slurp|headless|lighthouse|pagespeed|preview|facebookexternalhit|embedly|python|curl|wget|httpclient|java\/|go-http|okhttp|axios|node-fetch|phantom|puppeteer|playwright|selenium/i.test(navigator.userAgent || "");
+  }
+  function iniciarTodos() { if (hayPersona) iniciarTodosYa(); }
+  function esperarPersona() {
+    if (esRobot()) return;
+    var gestos = ["mousemove", "pointerdown", "touchstart", "scroll", "wheel", "keydown"];
+    function arrancar() {
+      if (hayPersona) return;
+      hayPersona = true;
+      for (var i = 0; i < gestos.length; i++) window.removeEventListener(gestos[i], arrancar, true);
+      iniciarTodosYa();
+    }
+    for (var i = 0; i < gestos.length; i++) window.addEventListener(gestos[i], arrancar, { passive: true, capture: true });
+  }
 
   window.MotorProductos = { version: VERSION, iniciarTodos: iniciarTodos, _md5: md5, _extraerDeHtml: extraerDeHtml, _extraerSitemap: extraerSitemap };
-  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", iniciarTodos); else iniciarTodos();
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", esperarPersona); else esperarPersona();
 })();
