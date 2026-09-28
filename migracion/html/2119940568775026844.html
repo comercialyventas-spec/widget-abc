@@ -1,0 +1,31 @@
+<div class="separator" style="clear: both;"><a href="https://juangomezseleccion.com/1768-medium_default/manzana-fuji.jpg" style="display: block; padding: 1em 0px; text-align: center;"><img alt="" border="0" height="320" src="https://juangomezseleccion.com/1768-medium_default/manzana-fuji.jpg" /></a></div>
+
+<div style="text-align: justify;">Las manzanas de Juan Gómez Selección forman parte de la oferta de fruta fresca de la compañía, orientada a proporcionar productos de calidad para el consumo cotidiano. Disponibles en distintas variedades, destacan por su versatilidad y por ser una opción saludable y natural dentro de una alimentación equilibrada. La propuesta se enmarca en el compromiso de la empresa por ofrecer productos seleccionados y adaptados a las necesidades de sus clientes.</div>
+
+<!--more-->
+
+<div class="motor-productos"
+  data-url="https://juangomezseleccion.com/frutas"
+  data-tienda="https://juangomezseleccion.com/"
+  data-boton="JUANGOMEZSELECCION.COM"
+  data-blog="supermercadoaliazon"
+  data-campana="juangomezseleccion">
+  <p style="text-align:center;color:#999;">Cargando productos... <a href="https://juangomezseleccion.com/?utm_source=supermercadoaliazon&amp;utm_medium=boton_oficial&amp;utm_campaign=catalogo_juangomezseleccion" rel="nofollow" target="_blank">Ver en JUANGOMEZSELECCION.COM</a></p>
+</div>
+
+<script>
+(function () {
+  if (window.MotorProductos) { window.MotorProductos.iniciarTodos(); return; }
+  if (window.__motorProductosCargando) return;
+  window.__motorProductosCargando = true;
+  var f = "motor/motor-productos-v1.js";
+  var s = document.createElement("script");
+  s.src = "https://cdn.jsdelivr.net/gh/comercialyventas-spec/widget-abc@main/" + f;
+  s.onerror = function () {
+    fetch("https://raw.githubusercontent.com/comercialyventas-spec/widget-abc/main/" + f)
+      .then(function (r) { return r.text(); })
+      .then(function (c) { var e = document.createElement("script"); e.text = c; document.head.appendChild(e); });
+  };
+  document.head.appendChild(s);
+})();
+</script>

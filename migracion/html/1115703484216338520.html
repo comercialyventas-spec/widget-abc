@@ -1,0 +1,29 @@
+<div class="separator" style="clear: both;"><a href="https://modacesmar.es/wp-content/uploads/2025/04/file_00000000987c6246815b1f70bfa9e450_conversation_id68021193-66f0-8006-8a97-2c7753719c67message_idc320f1e8-34d3-4e1e-a46d-d39bd94de5e0-600x734.png" style="display: block; padding: 1em 0px; text-align: center;"><img alt="" border="0" height="320" src="https://modacesmar.es/wp-content/uploads/2025/04/file_00000000987c6246815b1f70bfa9e450_conversation_id68021193-66f0-8006-8a97-2c7753719c67message_idc320f1e8-34d3-4e1e-a46d-d39bd94de5e0-600x734.png" /></a></div>
+
+<div style="text-align: justify;"></div>
+
+<div class="motor-productos"
+  data-url="https://modacesmar.es/categoria/aromatica/"
+  data-tienda="https://modacesmar.es/"
+  data-boton="MODACESMAR.ES"
+  data-blog="hogaraliazon"
+  data-campana="modacesmar">
+  <p style="text-align:center;color:#999;">Cargando productos... <a href="https://modacesmar.es/?utm_source=hogaraliazon&amp;utm_medium=boton_oficial&amp;utm_campaign=catalogo_modacesmar" rel="nofollow" target="_blank">Ver en MODACESMAR.ES</a></p>
+</div>
+
+<script>
+(function () {
+  if (window.MotorProductos) { window.MotorProductos.iniciarTodos(); return; }
+  if (window.__motorProductosCargando) return;
+  window.__motorProductosCargando = true;
+  var f = "motor/motor-productos-v1.js";
+  var s = document.createElement("script");
+  s.src = "https://cdn.jsdelivr.net/gh/comercialyventas-spec/widget-abc@main/" + f;
+  s.onerror = function () {
+    fetch("https://raw.githubusercontent.com/comercialyventas-spec/widget-abc/main/" + f)
+      .then(function (r) { return r.text(); })
+      .then(function (c) { var e = document.createElement("script"); e.text = c; document.head.appendChild(e); });
+  };
+  document.head.appendChild(s);
+})();
+</script>
