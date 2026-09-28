@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Algeciras busca prolongar el tirón turístico más allá del verano",
+      "link": "https://www.algecirasalminuto.es/municipal/algeciras-medidas-por-turismo/",
+      "imagen": "https://www.algecirasalminuto.es/wp-content/uploads/2026/09/IMG_5717.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Algeciras, el Conservatorio irá al museo y al Pérez Villalta",
       "link": "https://www.algecirasalminuto.es/cultura/algecira-actuaciones-musicales/",
       "imagen": "https://www.algecirasalminuto.es/wp-content/uploads/2026/09/IMG_5219.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Algeciras, la ópera de Alcina llega al escenario del Florida",
       "link": "https://www.algecirasalminuto.es/cultura/algeciras-opera-alcina-florida/",
       "imagen": "https://www.algecirasalminuto.es/wp-content/uploads/2026/09/IMG_5221.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Algeciras, La Borriquita culmina los cultos en honor de la Alegría",
-      "link": "https://www.algecirasalminuto.es/sociedad/algeciras-borriquita-cultos-fin/",
-      "imagen": "https://www.algecirasalminuto.es/wp-content/uploads/2026/09/IMG_5711.jpeg",
       "tipo": "imagen"
     }
   ]

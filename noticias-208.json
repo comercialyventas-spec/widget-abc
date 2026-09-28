@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Al menos ocho muertos en oleada de ataques contra varias regiones de Ucrania",
+      "link": "https://www.dw.com/es/al-menos-ocho-muertos-en-oleada-de-ataques-contra-varias-regiones-de-ucrania/a-79451493",
+      "imagen": "https://static.dw.com/image/79445517_6.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Selección de Klopp debuta en casa con una derrota ante Grecia",
+      "link": "https://www.dw.com/es/selección-de-klopp-debuta-en-casa-con-una-derrota-ante-grecia/a-79451235",
+      "imagen": "https://static.dw.com/image/79451265_6.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "León XIV se reúne con víctimas de abusos en la iglesia francesa",
+      "link": "https://www.dw.com/es/león-xiv-se-reúne-con-víctimas-de-abusos-en-la-iglesia-francesa/a-79451125",
+      "imagen": "https://static.dw.com/image/79449156_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Qasem: Israel no logró \"romper la resistencia\" de Hezbolá",
       "link": "https://www.dw.com/es/qasem-israel-no-logró-romper-la-resistencia-de-hezbolá/a-79450353",
       "imagen": "https://static.dw.com/image/76118954_6.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Ucrania lanza desde drones 4.000 kilos de alimentos sobre Oleshki",
       "link": "https://www.dw.com/es/ucrania-lanza-desde-drones-4-000-kilos-de-alimentos-sobre-oleshki/a-79450153",
       "imagen": "https://static.dw.com/image/79281499_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sorpresa diplomática: Johann Wadephul se reunió con Serguei Lavrov en Nueva York al margen de la Asamblea General de la ONU",
-      "link": "https://www.dw.com/es/sorpresa-diplomática-johann-wadephul-se-reunió-con-serguei-lavrov-en-nueva-york-al-margen-de-la-asamblea-general-de-la-onu/a-79449309",
-      "imagen": "https://static.dw.com/image/79446072_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "León XIV llama en Francia a \"perseverar\" en la lucha contra los abusos sexuales",
-      "link": "https://www.dw.com/es/león-xiv-llama-en-francia-a-perseverar-en-la-lucha-contra-los-abusos-sexuales/a-79449880",
-      "imagen": "https://static.dw.com/image/79449520_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Dos muertos y múltiples heridos entre un grupo de turistas filipinos al volcar un autocar en Alemania por causas que todavía se desconocen",
-      "link": "https://www.dw.com/es/dos-muertos-y-múltiples-heridos-entre-un-grupo-de-turistas-filipinos-al-volcar-un-autocar-en-alemania-por-causas-que-todavía-se-desconocen/a-79449577",
-      "imagen": "https://static.dw.com/image/79448921_6.jpg",
       "tipo": "imagen"
     }
   ]

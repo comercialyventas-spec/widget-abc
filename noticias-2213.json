@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "'De la Naturaleza', de Tito Lucrecio Caro: explicar la naturaleza",
+      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20260928/naturaleza-tito-lucrecio-caro-explicar-134522023",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/156d65dd-6396-4464-a11c-54dbe8d51784_16-9-discover-aspect-ratio_default_0_x288y287.webp",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "'Hija del cielo', de Rodrigo Cortés: el caos de una niña dislocada en un mundo de extraviados",
+      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20260928/rodrigo-cortes-critica-libro-hija-cielo-134516000",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0a8c5aff-96e7-4300-8c5a-08f72b8f5eed_16-9-discover-aspect-ratio_default_0_x819y364.webp",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Celia Filipetto, traductora literaria: \"Las obras tienen un tono, una voz, una música\"",
+      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20260928/celia-filipetto-traductora-literaria-obras-134550458",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/e7f8a5b2-abd3-4660-8157-a502c080a364_16-9-discover-aspect-ratio_default_0_x367y260.webp",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Francesco Casolo, escritor: \"La impunidad del poder financiero es brutal\"",
       "link": "https://www.epe.es/es/ocio-y-cultura/20260927/francesco-casolo-escritor-impunidad-financiero-134629930",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/999467a2-d165-4d4c-a0c0-84a524c4bf9c_16-9-discover-aspect-ratio_default_0_x200y89.webp",
@@ -16,24 +34,6 @@
       "titulo": "Juan F. Rivero, la escritura atenta",
       "link": "https://www.epe.es/es/ocio-y-cultura/libros/20260927/juan-rivero-entrevista-ines-martin-rodrigo-134509235",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/104ba73f-5a21-49fb-aea5-e2c63782d65a_16-9-discover-aspect-ratio_default_0_x997y497.webp",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los libros recomendados por el suplemento ABRIL: Care Santos, Sylvia Plath y Takis Würger",
-      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20260927/suplemento-abril-care-santos-sylvia-plath-134403008",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/1d7d00fa-3d70-4d22-8e7b-af3f3f646e16_16-9-discover-aspect-ratio_default_0_x703y306.webp",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Matt Haig, novelista: \"La IA nunca escribirá un poema porque esté triste\"",
-      "link": "https://www.epe.es/es/ocio-y-cultura/20260926/matt-haig-novelista-ia-escribira-134320826",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/834d10f9-cf7d-474a-b297-126263dbd380_16-9-discover-aspect-ratio_default_0_x720y358.webp",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Alberto Conejero, coguionista de 'La bola negra': \"El texto me cambió la vida para siempre\"",
-      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20260926/alberto-conejero-bola-negra-javis-134547285",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d27c7b30-8f29-4cd1-82e0-d760ee70fb63_16-9-discover-aspect-ratio_default_0_x948y365.webp",
       "tipo": "imagen"
     }
   ]

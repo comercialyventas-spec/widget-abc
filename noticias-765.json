@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "🎙 PODCAST | Una acampada en Sol",
+      "link": "https://www.eldiario.es/untemaaldia/podcast-acampada-sol_132_13542260.html",
+      "imagen": "https://static.eldiario.es/clip/c203f874-030e-4b28-ade4-71bc37b6e096_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "🎙 PODCAST | La España del gas pimienta",
       "link": "https://www.eldiario.es/untemaaldia/podcast-espana-gas-pimienta_132_13535935.html",
       "imagen": "https://static.eldiario.es/clip/c8915a60-a99e-4c23-be02-a11d851221a1_16-9-discover-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "🎙 PODCAST | ¿Existirá el Reino Unido dentro de diez años?",
       "link": "https://www.eldiario.es/untemaaldia/podcast-existira-reino-unido-dentro-diez-anos_132_13521738.html",
       "imagen": "https://static.eldiario.es/clip/b48418f1-38c8-4c8c-bef2-5f6a58efb3d7_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "🎙 PODCAST | La camiseta de Ceuta, Mbappé y el sentido común",
-      "link": "https://www.eldiario.es/untemaaldia/podcast-camiseta-ceuta-mbappe-sentido-comun_132_13518746.html",
-      "imagen": "https://static.eldiario.es/clip/12988238-1e24-4b62-bd83-9e98858fcb1d_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

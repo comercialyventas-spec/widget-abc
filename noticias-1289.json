@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Activistas de ultraizquierda acampan en Sol para luchar contra la especulación de la vivienda",
+      "link": "https://www.mediterraneodigital.com/espana/acampada-puerta-sol-activistas-vivienda",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/9/acampada-sol.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Más de 100.000 españoles salen a la calle para defender a Ceuta: «¡No es inmigración, es una invasión!»",
       "link": "https://www.mediterraneodigital.com/espana/manifestacion-ceuta-madrid",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/mani-espana-ceuta.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Después de Ceuta y Melilla, Marruecos reclama el Monte Tropic de las islas Canarias",
       "link": "https://www.mediterraneodigital.com/espana/monte-tropic",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/monte.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Puigdemont pide un referéndum para Ceuta y Melilla",
-      "link": "https://www.mediterraneodigital.com/espana/cataluna/puigdemont-ceuta-melilla",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/9/carles-puigdemont.jpg",
       "tipo": "imagen"
     }
   ]
