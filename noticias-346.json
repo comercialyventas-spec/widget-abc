@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Spotify sufre una caída a nivel mundial",
+      "link": "https://www.abc.es/tecnologia/spotify-sufre-caida-nivel-mundial-20260929163521-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/29/1415155577-kj0C-U301955666550itE-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "OpenAI pospone el lanzamiento de un nuevo modelo de IA por preocupantes fallos de seguridad",
       "link": "https://www.abc.es/tecnologia/openai-pospone-lanzamiento-nuevo-modelo-ia-preocupantes-20260929085821-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/29/1518005180-k3BH-U301945381492swF-1200x840@diario_abc.JPG",
@@ -28,12 +34,6 @@
       "titulo": "Nvidia crea un «cortafuegos» para impedir que los agentes de inteligencia artificial se escapen de control",
       "link": "https://www.abc.es/tecnologia/nvidia-crea-cortafuegos-impedir-agentes-inteligencia-artificial-20260928194046-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/28/indianmale-hacker-with-smartphone-coding-computers-screen-dark-room-RPL5RlFMhxMBLDh5HuVUgfN-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tus próximos auriculares podrían saber qué estás haciendo y actuar por ti: la IA quiere entender todo tu entorno",
-      "link": "https://www.abc.es/tecnologia/electronica/tus-proximos-auriculares-saber-haciendo-actuar-ia-20260928184116-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/28/personal-ai-hearables-snapdragon-sound_20260928183829-R90331ltbceAtj5LyPyu2iJ-1200x840@diario_abc.png",
       "tipo": "imagen"
     }
   ]

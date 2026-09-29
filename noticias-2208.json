@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La estación de metro Mundet, inundada por las fuertes lluvias",
+      "link": "<![CDATA[https://www.elperiodico.com/es/videos/barcelona/estacion-metro-mundet-inundada-fuertes-lluvias-barcelona-video/134793936.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6bddc0cf-1080-4a76-a9bf-d520953296d1_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sánchez visita una promoción de vivienda pública de alquiler asequible",
       "link": "<![CDATA[https://www.elperiodico.com/es/videos/barcelona/sanchez-visita-promocion-vivienda-publica-video/134774051.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/fc487070-5624-4830-b4cc-293ac8def0de_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "A PIE DE CALLE Así ha sido la noche en los diferentes escenarios de la Mercè",
       "link": "<![CDATA[https://www.elperiodico.com/es/videos/barcelona/pie-calle-sido-noche-diferentes/134657579.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a903f3ce-f1d2-4f4c-ab3b-11a932fe74e7_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "A PIE DE CALLE Así ha sido el espectáculo de drones en la playa del Espigó del Gas",
-      "link": "<![CDATA[https://www.elperiodico.com/es/videos/barcelona/pie-calle-sido-espectaculo-drones/134657221.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/addbd862-b9f3-46f6-964d-6881f58f2b3f_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

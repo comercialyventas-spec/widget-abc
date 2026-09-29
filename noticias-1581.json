@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Una motorista resulta herida tras sufrir una caída en el centro de Zamora",
+      "link": "https://www.zamoranews.com/articulo/sucesos/motorista-resulta-herida-sufrir-caida-centro-zamora/20260929134941416939.html",
+      "imagen": "https://www.zamoranews.com/media/zamoranews/images/2022/12/29/2022122911004444704.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ocho pasajeros, evacuados en taxi tras el atropello de un corzo a un tren que pasaba por Zamora",
       "link": "https://www.zamoranews.com/articulo/sucesos/ocho-pasajeros-evacuados-taxi-atropello-corzo-tren-que-pasaba-zamora/20260928191420416869.html",
       "imagen": "https://www.zamoranews.com/media/zamoranews/images/2025/04/28/2025042816180496051.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Una vecina de Carbajales pierde 159 euros al comprar una lavadora en una web \"fantasma\" y alerta del timo",
       "link": "https://www.zamoranews.com/articulo/sucesos/vecina-carbajales-pierde-159-euros-comprar-lavadora-web-fantasma-alerta-timo/20260927143633416704.html",
       "imagen": "https://www.zamoranews.com/media/zamoranews/images/2021/09/20/2021092011112069147.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Dos jóvenes resultan heridos tras volcar su turismo en Benavente",
-      "link": "https://www.zamoranews.com/articulo/sucesos/dos-jovenes-resultan-heridos-volcar-turismo-benavente/20260927101846416444.html",
-      "imagen": "https://www.zamoranews.com/media/zamoranews/images/2024/08/04/2024080411164138805.jpg",
       "tipo": "imagen"
     }
   ]

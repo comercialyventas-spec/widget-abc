@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La Policía Foral investiga un posible caso de violencia machista en Pamplona y descarta que hubiese un atrincherado en una vivienda",
+      "link": "https://www.eldiario.es/navarra/hombre-atrinchera-domicilio-pamplona-presunto-caso-violencia-machista_1_13546327.html",
+      "imagen": "https://static.eldiario.es/clip/9146d53b-d57a-47a6-b75a-6737e6aee1fd_facebook-aspect-ratio-1200-675_default_0_x626y248.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Izquierda Unida espera que Podemos se una “en los próximos días” a la coalición Contigo/Zurekin en Navarra",
+      "link": "https://www.eldiario.es/navarra/izquierda-unida-espera-proximos-dias-coalicion-zurekin-navarra_1_13547577.html",
+      "imagen": "https://static.eldiario.es/clip/1a4d2b97-bc04-4323-88b9-ce8ee2685029_16-9-discover-aspect-ratio_default_0_x955y359.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sergio Sayas, tránsfuga de UPN, presidirá la gestora del PP de Navarra tras la dimisión de Javier García",
       "link": "https://www.eldiario.es/navarra/sergio-sayas-transfuga-upn-presidira-gestora-pp-navarra-dimision-javier-garcia_1_13543470.html",
       "imagen": "https://static.eldiario.es/clip/430fea42-b285-4797-8c80-2fac6ea18c2b_facebook-aspect-ratio-1200-675_default_0_x939y268.jpg",
@@ -15,24 +27,12 @@
     {
       "titulo": "El Gobierno no autoriza una protesta sobre vivienda y desahucios en Pamplona",
       "link": "https://www.eldiario.es/navarra/gobierno-no-autoriza-protesta-vivienda-desahucios-pamplona_1_13544453.html",
-      "imagen": "https://static.eldiario.es/clip/b39cfcd3-09f9-41b3-8263-be67ba7ff560_16-9-discover-aspect-ratio_default_1152212.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "La ciudadanía elige el proyecto más “disruptivo” para resignificar el monumento franquista los Caídos de Pamplona",
       "link": "https://www.eldiario.es/navarra/ciudadania-elige-proyecto-disruptivo-resignificar-monumento-franquista-caidos-pamplona_1_13543241.html",
-      "imagen": "https://static.eldiario.es/clip/613441bf-06be-4872-bb80-f2bf0103ebb6_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las muertes por calor en verano se quintuplican en Navarra en solo dos años",
-      "link": "https://www.eldiario.es/navarra/muertes-calor-verano-quintuplican-navarra-anos_1_13537360.html",
-      "imagen": "https://static.eldiario.es/clip/6aa3c26e-e676-4a6f-ac5b-729a701100f9_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El PNV y Uxue Barkos, cuatro años más juntos en Navarra: la letra pequeña del funcionamiento de Geroa Bai",
-      "link": "https://www.eldiario.es/euskadi/pnv-uxue-barkos-cuatro-anos-navarra-letra-pequena-funcionamiento-geroa-bai_1_13539920.html",
       "imagen": "",
       "tipo": ""
     }

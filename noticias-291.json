@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "El consorcio del telescopio de 30 metros descartó La Palma por la oferta financiera y apuesta ahora por Hawái",
+      "titulo": "Un nuevo dinosaurio volador reescribe la historia del origen de las aves",
+      "link": "https://www.abc.es/ciencia/nuevo-dinosaurio-volador-reescribe-historia-origen-aves-20260929170000-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/29/Dino%20con%20plumas-R5sDcizg5zAL0sF7nOr7hrJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Estas son las aves con el canto más fuerte del mundo: peor aún que una motosierra o un martillo neumático",
+      "link": "https://www.abc.es/ciencia/aves-canto-fuerte-mundo-peor-motosierra-martillo-20260928150004-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/28/bare%20throated%20bellbird-RrmK0u33HnIxMw2h4mRgJLO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El consorcio del TMT se centrará en Hawái pese a la apuesta «sólida» de España",
       "link": "https://www.abc.es/ciencia/consorcio-telescopio-metros-descarto-palma-oferta-financiera-20260929110038-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/29/tmt-canarias-RihyMNlVyc7ivv7OVWAxzTP-1200x840@diario_abc.jpg",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/29/tmt_comp-RihyMNlVyc7ivv7OVWAxzTP-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Elon Musk envía por primera vez su megacohete Starship a la órbita terrestre en un viaje de 10 horas",
       "link": "https://www.abc.es/ciencia/elon-musk-enviara-megacohete-starship-orbita-permanecera-20260928102757-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/28/1474951797-RguMchgZib04uvLVh0pJ9yI-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Anthropic anuncia que su IA ha descubierto un nuevo sistema biológico similar a Crispr",
-      "link": "https://www.abc.es/ciencia/anthropic-anuncia-ia-descubierto-nuevo-sistema-biologico-20260924112559-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/24/claude-RUrDqRS6K50IAmurQgYmHZO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Dos meses del fuego que llegó hasta las puertas del espacio: «Salvaron la antena que nos conecta con las estrellas»",
-      "link": "https://www.abc.es/ciencia/dos-meses-fuego-llego-puertas-espacio-incendio-20260928014428-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/09/28/1517686753-RbEb9eiPkse051I4Cr8p0OM-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

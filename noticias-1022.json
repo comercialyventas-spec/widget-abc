@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "El Gobierno recupera las ayudas de 20 céntimos al combustible y se olvida de la factura de la luz",
-      "link": "https://www.abc.es/economia/gobierno-recupera-ayudas-centimos-combustible-olvida-factura-20260929144149-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/29/ayudas%20gasolinas-RCCy0jjsHXSLykM2hbYLK4M-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "Rafa Mateos, alcalde de Cáceres: «La 'ley de nietos' es un pucherazo y pone en riesgo nuestro sistema democrático»",
       "link": "https://www.abc.es/espana/extremadura/rafa-mateos-alcalde-caceres-ley-nietos-pucherazo-20260929115628-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/29/_DYD6468-R4uKAVHNwyF9IICCQrgywpM-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/29/_DYD6468-R4uKAVHNwyF9IICCQrgywpM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "Las medidas anunciadas, una a una: de un contrato indefinido sin concretar a las rebajas fiscales",
+      "titulo": "Burnham afirma que el Brexit «ha hecho más daño que bien» y promete redefinir la relación con la UE",
+      "link": "https://www.abc.es/internacional/andy-burnham-afirma-brexit-dano-bien-promete-20260929171437-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/29/1518039164-Re1cZFzMRVEu2uTiCj03dWP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Una de cada cuatro españolas de 30 años sin hijos no los tiene porque se siente «demasiado joven»",
+      "link": "https://www.abc.es/sociedad/cuatro-espanolas-anos-hijos-siente-joven-20260929153328-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/09/29/escuela-infantil-RApXXQZZ7gstwDh1V81gAlJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Todas las medidas, una a una: de un contrato indefinido sin concretar a las rebajas fiscales",
       "link": "https://www.abc.es/economia/cuentas-corrientes/medidas-sobre-vivienda-aprobadas-gobierno-20260929142157-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/29/isabel-rdigez-U20978908959mOD-U301950099099St-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/29/isabel-rdigez-U20978908959mOD-U301950099099St-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "El Gobierno irrumpe en el mercado de vivienda: castiga a fondos y pisos turísticos y prohíbe los desahucios",
-      "link": "https://www.abc.es/economia/aprobacion-decreto-vivienda-directo-acuerdo-maricarmen-medidas-20260929084808-di.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/09/29/pse-U202063865105Y-U301945673801NdE-1200x840@diario_abc.jpg"
+      "titulo": "Spotify sufre una caída a nivel mundial",
+      "link": "https://www.abc.es/tecnologia/spotify-sufre-caida-nivel-mundial-20260929163521-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/29/1415155577-kj0C-U301955666550itE-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "Esperanza Aguirre: «Sánchez cree que la okupación de la Puerta del Sol le viene bien. En la Moncloa no duran ni cinco minutos»",
-      "link": "https://www.abc.es/play/television/noticias/esperanza-aguirre-pedro-sanchez-cree-okupacion-puerta-20260929105931-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/09/29/esperanse-U20762730167A1C-U301935330264ddB-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Fernando Alonso renueva un año con Aston Martin: «Me retiraré de la Fórmula 1... pero no todavía»",
-      "link": "https://www.abc.es/deportes/formula-1/fernando-alonso-renueva-ano-aston-martin-retirare-20260929131402-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/29/alonso-kSUD-U301951118730vRF-1200x840@diario_abc.jpg"
+      "titulo": "Los Reyes reciben a Macron en su primera visita de Estado a España",
+      "link": "https://www.abc.es/espana/reyes-reciben-macron-primera-visita-estado-espana-20260929142853-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/29/1518030780-RhnQHnChfanZ3nmyggwVfsM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }
