@@ -1,40 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "En tendencia",
+      "titulo": "Conciertos",
       "link": "https://entradas.elmundo.es/",
       "imagen": "https://entradas.elmundo.es/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgigsberg_white.3bgzniiz5a63k.png&w=256&q=75",
       "tipo": "imagen"
     },
     {
-      "titulo": "ConciertosRockPopHard Rock MetalRock y popRapHip Hop ReggaeAlternativo e indieTodos los conciertosDeportesFútbolRugbyDardosTenisFútbol americanoWWETod",
+      "titulo": "Conciertos",
       "link": "https://entradas.elmundo.es/es",
       "imagen": "https://entradas.elmundo.es/_next/image?url=https%3A%2F%2Fgigsberg.com%2Ffiles%2Fimages%2Flogos%2Flogo-metropoli.png&w=384&q=75",
       "tipo": "imagen"
     },
     {
+      "titulo": "Conciertos",
+      "link": "https://entradas.elmundo.es/es/faqs",
+      "imagen": "https://entradas.elmundo.es/_next/image?url=https%3A%2F%2Fgigsberg.com%2Ffiles%2Fimages%2Flogos%2Flogo-metropoli.png&w=384&q=75",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "€£GBP€EUR$USDAU$AUDlzPLNKcCZK₪ILSSFrCHF$ARSØreDKK₹INREnglishEspañol",
+      "link": "https://entradas.elmundo.es/en/",
+      "imagen": "https://entradas.elmundo.es/_next/image?url=https%3A%2F%2Fflagcdn.com%2Fw40%2Fes.webp&w=48&q=75",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "ConciertosRockPopHard Rock MetalRock y popRapHip Hop ReggaeAlternativo e indieTodos los conciertosDeportesFútbolRugbyDardosTenisFútbol americanoWWETod",
-      "link": "https://entradas.elmundo.es/es/concert-tickets/rock",
+      "link": "https://entradas.elmundo.es/es/concert-tickets",
       "imagen": "https://entradas.elmundo.es/og/types-all.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "FútbolRugbyDardosTenisFútbol americanoWWETodos los deportes",
-      "link": "https://entradas.elmundo.es/es/sport-tickets/football",
-      "imagen": "https://entradas.elmundo.es/og/types-all.jpg",
+      "titulo": "Loreenself.__wrap_n=self.__wrap_n||(self.CSS&&CSS.supports(\"text-wrap\",\"balance\")?1:2);self.__wrap_b=(a,b,c)=>{let d=null==(c=c||document.querySelector(`[data-br=\"${a}\"]`))?void 0:c.parentElement;if(!d)return;let e=a=>c.style.maxWidth=a+\"px\";c.style.maxWidth=\"\";let f=d.clientWidth,g=d.clientHeight,h=f/2-.25,i=f+.5,j;if(f){for(e(h),h=Math.max(c.scrollWidth,h);h+1<i;)e(j=Math.round((h+i)/2)),d.clientHeight===g?i=j:h=j;e(i*b+f*(1-b))}c.__wrap_o||\"u\">typeof ResizeObserver&&(c.__wrap_o=new ResizeObserver(()=>{self.__wrap_b(0,+c.dataset.brr,c)})).observe(d)};self.__wrap_n!=1&&self.__wrap_b(\"_R_1gmav5tubsqkqivb_\",1)",
+      "link": "https://entradas.elmundo.es/es/concert-tickets/pop/loreen-tickets",
+      "imagen": "https://entradas.elmundo.es/_next/image?url=https%3A%2F%2Fgigsberg.com%2Ffiles%2Fimages%2Fperformers%2Floreen_1786343215.webp&w=1920&q=75",
       "tipo": "imagen"
-    },
-    {
-      "titulo": "ComediaToda la comedia",
-      "link": "https://entradas.elmundo.es/es/comedy-tickets/comedy",
-      "imagen": "https://entradas.elmundo.es/og/types-all.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Reino UnidoEspañaPaíses BajosAustraliaFestivales internacionalesTodos los festivales",
-      "link": "https://entradas.elmundo.es/es/festival-tickets/uk-festivals",
-      "imagen": "",
-      "tipo": ""
     }
   ]
 }

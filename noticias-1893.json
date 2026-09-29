@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un atunero se hunde en el puerto de Arrecife",
+      "link": "https://www.20minutos.es/canarias/un-atunero-se-hunde-puerto-arrecife_7042955_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_320_240/uploads/imagenes/2026/09/29/6abc00f28e5666-12333216.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Desalojan un vuelo de Tenerife a Londres antes de despegar: un pasajero afirmaba que llevaba una bomba en el equipaje",
       "link": "https://www.20minutos.es/canarias/tenerife/desalojan-vuelo-tenerife-londres-antes-despegar-pasajero-afirmaba-llevaba-bomba-equipaje_7041738_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_320_240/uploads/imagenes/2026/05/24/6a133f3480ed62-92165912.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Tres detenidos por violar a una compañera de patera durante la travesía a Lanzarote",
       "link": "https://www.20minutos.es/canarias/las-palmas/tres-detenidos-violar-companera-patera-durante-travesia-lanzarote-canarias_7040441_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_320_240/uploads/imagenes/2025/09/03/68b84e52424f7.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Azúcar en las estrellas",
-      "link": "https://www.20minutos.es/canarias/azucar-las-estrellas_7039816_3.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_320_240/uploads/imagenes/2021/05/22/el-observatorio-del-roque-de-los-muchachos-la-palma-acogera-el-telescopio-solar-europeo.jpeg",
       "tipo": "imagen"
     }
   ]

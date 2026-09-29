@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "Spotify sufre una caída a nivel mundial",
+      "titulo": "Un masivo fraude con tarjetas robadas salpica a Polymarket y destapa el caos interno en las apuestas digitales",
+      "link": "https://www.abc.es/tecnologia/masivo-fraude-tarjetas-robadas-salpica-polymarket-destapa-20260929211643-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/29/graficos-apuestas-telefono-movil-alphatradezone-R1o3S1DgUtlRWPtit4ZUX5H-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Spotify sufre una caída a nivel mundial durante más de cuatro horas",
       "link": "https://www.abc.es/tecnologia/spotify-sufre-caida-nivel-mundial-20260929163521-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/29/1415155577-kj0C-U301955666550itE-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Google elimina una de las funciones clave de Gemini y transforma por completo la experiencia de sus usuarios",
+      "link": "https://www.abc.es/tecnologia/google-elimina-funciones-clave-gemini-transforma-completo-20260929203309-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/29/gemini-R4eHmcVB65b5sZN9wM9PZcL-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -13,27 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "OpenAI pausa el entrenamiento de sus modelos más capaces en plena cadena de incidentes",
-      "link": "https://www.abc.es/tecnologia/openai-pausa-entrenamiento-modelos-capaces-plena-cadena-20260928222327-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/28/1517811542-kmdD-U301941807363dWB-1200x840@diario_abc.jpg",
+      "titulo": "Anthropic lanza Claude Sonnet 5.5, la nueva IA que promete hacer tu trabajo de oficina en la mitad de tiempo que ChatGPT",
+      "link": "https://www.abc.es/tecnologia/anthropic-lanza-claude-sonnet-nueva-ia-promete-20260929191307-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/29/dario-amodei-anthropic-claude-RYpaNbtqVxJQPy6SX8kLS6I-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Los expertos piden supervisar con urgencia el autoaprendizaje de la IA: «Puede escapar de forma irreversible al control humano»",
-      "link": "https://www.abc.es/tecnologia/expertos-piden-supervisar-urgencia-autoaprendizaje-ia-puede-20260928205356-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/28/OpenAI-kyXB-U3019382766130w-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Apple prepara la llegada de un producto inédito para el hogar: todos los detalles del nuevo dispositivo para este otoño",
-      "link": "https://www.abc.es/tecnologia/electronica/apple-prepara-llegada-producto-inedito-hogar-detalles-20260928203948-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/28/apple-home-app-RzP1hOFf82kFBTLKxJUFCEL-1200x840@diario_abc.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Nvidia crea un «cortafuegos» para impedir que los agentes de inteligencia artificial se escapen de control",
-      "link": "https://www.abc.es/tecnologia/nvidia-crea-cortafuegos-impedir-agentes-inteligencia-artificial-20260928194046-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/28/indianmale-hacker-with-smartphone-coding-computers-screen-dark-room-RPL5RlFMhxMBLDh5HuVUgfN-1200x840@diario_abc.jpg",
+      "titulo": "Probamos los nuevos HeadPhone (1) Pro: la madurez acústica de Nothing desafía a los gigantes",
+      "link": "https://www.abc.es/tecnologia/probamos-nuevos-headphone-pro-madurez-acustica-nothing-20260929184444-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/29/auricularress-RS10MTM0SUKo8csjNJ1gH4N-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

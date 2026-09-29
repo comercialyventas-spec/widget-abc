@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La Constitución es más lista que el constituyente",
+      "link": "https://eldiario.es/contracorriente",
+      "imagen": "https://static.eldiario.es/clip/4a2c20e7-cdf5-485a-996b-9e68bee4d18b_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los pulpos ganan la batalla, pero no la guerra: por qué es importante prohibir su acuicultura antes de que se produzca",
       "link": "https://eldiario.es/caballodenietzsche",
       "imagen": "https://static.eldiario.es/clip/d35a21ce-0c57-4537-92da-ad5040a9575a_16-9-discover-aspect-ratio_default_0.jpg",
@@ -10,12 +16,6 @@
       "titulo": "🎙 PODCAST | La España del gas pimienta",
       "link": "https://eldiario.es/un-tema-al-dia/",
       "imagen": "https://static.eldiario.es/clip/c8915a60-a99e-4c23-be02-a11d851221a1_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El otoño electoral alemán: no hay motivos para el pesimismo",
-      "link": "https://eldiario.es/contracorriente",
-      "imagen": "https://static.eldiario.es/clip/910f8fee-22f7-431f-873d-0d857689a6e3_16-9-discover-aspect-ratio_default_0_x926y658.jpg",
       "tipo": "imagen"
     }
   ]
