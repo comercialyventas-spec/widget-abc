@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El incendio en la cocina de un restaurante en Tenerife deja dos afectados",
+      "link": "https://www.abc.es/espana/canarias/incendio-cocina-restaurante-tenerife-deja-dos-afectados-20260929095237-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/29/bombero-RL6wIKIfrXPLETeoeo4bhRN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "En libertad los tres acusados de violar en grupo a una mujer en una neumática rumbo a Canarias",
       "link": "https://www.abc.es/espana/canarias/libertad-tres-acusados-violar-grupo-mujer-neumatica-20260928151343-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/28/neumatica-RUXdKX0XYSvytCKmAI5ldVJ-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Canarias recibe a más de 100 inmigrantes en varias embarcaciones rescatadas este fin de semana",
       "link": "https://www.abc.es/espana/canarias/canarias-recibe-100-inmigrantes-varias-embarcaciones-rescatadas-20260928091048-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/28/URANIA-RjVcV0nJ5aeRiEoartyvmaO-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un aviso de bomba obliga a desalojar un avión en Tenerife Sur",
-      "link": "https://www.abc.es/espana/canarias/aviso-bomba-obliga-desalojar-avion-tenerife-sur-20260925161432-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/25/aena-R61SpVpNGaTH533tUSm2BYN-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

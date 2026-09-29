@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Las inundaciones en Tailandia dejan al menos 23 muertos",
+      "link": "https://elpais.com/planeta-futuro/2026-09-29/las-inundaciones-en-tailandia-dejan-decenas-de-muertos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/JZDZ4KSHYRMAVJ2ZI32RESS7MM.jpg?auth=a973a749bac3e51ee3e8377d74a98a1cc8d2e515b10d17ba0cb3483f74e7e909",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "“Corríamos y las balas pasaban por encima de nuestras cabezas”: la huida de los periodistas yemeníes, amenazados por los hutíes",
+      "link": "https://elpais.com/planeta-futuro/2026-09-29/corriamos-y-las-balas-pasaban-por-encima-de-nuestras-cabezas-la-huida-de-los-periodistas-yemenies-amenazados-por-los-huties.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/GFENJH3OLRFDTPSMXD7S5RNY2I.JPG?auth=261fd7ab79d5cf635fcf73b8576d86d881a5c0665164212522ae04e1f34fbdf2",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "De Renée Good a Wilber Garcés: cinco casos que reflejan las violentas tácticas del ICE",
       "link": "https://elpais.com/us/2026-09-28/de-renee-good-a-wilber-garces-cinco-casos-que-reflejan-las-violentas-tacticas-del-ice.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260925/1218718_221635_video_1800.mp4",
@@ -22,18 +34,6 @@
       "titulo": "Los abusos sexuales propagan el VIH entre los indígenas awajún de la Amazonía peruana: “Nos vamos a exterminar como pueblo”",
       "link": "https://elpais.com/planeta-futuro/2026-09-28/los-abusos-sexuales-propagan-el-vih-entre-los-indigenas-awajun-de-la-amazonia-peruana-nos-vamos-a-exterminar-como-pueblo.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260924/1217796_093359_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Somalia, el país que entierra a bebés muertos de hambre: “Ya solo confiamos en la ayuda de Dios”",
-      "link": "https://elpais.com/planeta-futuro/2026-09-27/somalia-el-pais-que-entierra-a-bebes-muertos-de-hambre-ya-solo-confiamos-en-la-ayuda-de-dios.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/PG7Z55WRT5AY7H3YVB5CSQBMAU.jpg?auth=f2f303c34f94670ff9ebf3188173d1eb2f33d8dcfd9f40601ba7427558e6eec0",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La vida en edificios a punto de colapsar en Gaza: “Caen trozos de vez en cuando, en mi habitación o en las de al lado”",
-      "link": "https://elpais.com/planeta-futuro/2026-09-26/la-vida-en-edificios-a-punto-de-colapsar-en-gaza-caen-trozos-de-vez-en-cuando-en-mi-habitacion-o-en-las-de-al-lado.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/WB3OIJJA5JBEDCUPTTWJMENG7Y.jpg?auth=b50782b5aed35ffe4a1c09c12e1bf415154450fabf1c6341accb57da59713abe",
       "tipo": "imagen"
     }
   ]

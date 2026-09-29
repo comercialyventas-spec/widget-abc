@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Aviso rojo por lluvias torrenciales en Barcelona tras descargar con furia 123 litros en Cáceres y 73 en Requena",
+      "link": "https://elpais.com/el-tiempo/2026-09-29/aviso-rojo-en-tarragona-tras-descargar-con-furia-123-litros-en-caceres-y-73-en-requena.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/WKKBF4QOONI23NRAMRWFMY2VQM.jpg?auth=25f002ef33dad344070d07af176af63805c281abe5abe91dbee1e0221ce304bc",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La revolución solar se atasca en las ciudades: faltan tejados y sobran barreras",
+      "link": "https://elpais.com/clima-y-medio-ambiente/2026-09-29/la-revolucion-solar-choca-con-la-falta-de-tejados-en-las-ciudades.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/E3PWGWZYZVHVFFA47ZV4PFRODE.jpg?auth=1d71debd6725ba427eafcc801b86c553e0451280ee6e272d375d8baa3351048c",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cambio de tiempo: caída brusca de las temperaturas de hasta 12° y chubascos fuertes con granizo",
       "link": "https://elpais.com/el-tiempo/2026-09-28/cambio-de-tiempo-caida-brusca-de-las-temperaturas-de-hasta-12-y-chubascos-fuertes-con-granizo.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/UM4UMYIQKBFVHLTOQD5ZWBFCMI.JPG?auth=4ef83e51f12349a798aa4b40fc5af43ff6be10924ac7ad9e79ce43ceec753834",
@@ -22,18 +34,6 @@
       "titulo": "Adiós al garaje obligatorio: por qué ciudades como Londres, Ámsterdam y Barcelona ya diseñan viviendas sin pensar en el coche",
       "link": "https://elpais.com/clima-y-medio-ambiente/2026-09-25/adios-al-garaje-obligatorio-ciudades-como-londres-amsterdam-y-oslo-ya-disenan-viviendas-sin-pensar-en-el-coche.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/SC2TU46RYBBZPPSMRRB6SHS45I.jpg?auth=3878e488c7650d73cf8445183658ee0ecdef88f91fbbfa8842b71c83ccc1e9bd",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "António Guterres, la voz de la alerta climática: diez años en diez frases",
-      "link": "https://elpais.com/clima-y-medio-ambiente/2026-09-24/antonio-guterres-la-voz-de-la-alerta-climatica-diez-anos-en-diez-frases.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/DQDWXOYLJFJ5RDOQRQRDKW54NI.jpg?auth=0e07eefa75938b6b26434ac8645073a2f9ed710f7b10271cd5a8ccab92d44848",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Renaturalización: una herramienta frente a los grandes incendios",
-      "link": "https://elpais.com/clima-y-medio-ambiente/2026-09-24/renaturalizacion-una-herramienta-frente-a-los-grandes-incendios.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/OGDJ4VVIJJFXFILL4VYYEZYE6U.jpg?auth=b4ab3a0ef6171b57aaf40f7ad9e2ff3c220dc5fba7fb275c1eafe730bb8e857d",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "A las 9 en el Carlyle",
+      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20260929/9-carlyle-134548292",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/258edddc-0468-4d2f-aa7d-cf59c46b9b67_16-9-discover-aspect-ratio_default_0_x756y347.webp",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Itaf Benjelloun, artista: \"Hay libros que me instruyeron, me entretuvieron e incluso me salvaron\"",
+      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20260929/itaf-benjelloun-artista-hay-libros-134551054",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/e2281ef5-b178-4438-aaa5-f5d9f40703ae_16-9-discover-aspect-ratio_default_0_x372y116.webp",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "'El hijo del oligarca', de Patrick Radden Keefe: el Londres que creyó a Zac",
+      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20260929/patrick-radden-keefe-critica-libro-hijo-oligarca-134517243",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f4f29bc6-ce83-4cd6-ab43-d9d0d59432a4_16-9-discover-aspect-ratio_default_0_x999y443.webp",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "'De la Naturaleza', de Tito Lucrecio Caro: explicar la naturaleza",
       "link": "https://www.epe.es/es/ocio-y-cultura/libros/20260928/naturaleza-tito-lucrecio-caro-explicar-134522023",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/156d65dd-6396-4464-a11c-54dbe8d51784_16-9-discover-aspect-ratio_default_0_x288y287.webp",
@@ -16,24 +34,6 @@
       "titulo": "Celia Filipetto, traductora literaria: \"Las obras tienen un tono, una voz, una música\"",
       "link": "https://www.epe.es/es/ocio-y-cultura/libros/20260928/celia-filipetto-traductora-literaria-obras-134550458",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/e7f8a5b2-abd3-4660-8157-a502c080a364_16-9-discover-aspect-ratio_default_0_x367y260.webp",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Francesco Casolo, escritor: \"La impunidad del poder financiero es brutal\"",
-      "link": "https://www.epe.es/es/ocio-y-cultura/20260927/francesco-casolo-escritor-impunidad-financiero-134629930",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/999467a2-d165-4d4c-a0c0-84a524c4bf9c_16-9-discover-aspect-ratio_default_0_x200y89.webp",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Lluís Riera, escritor: \"A menudo, los hijos reproducimos lo que más hemos odiado de nuestros padres\"",
-      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20260927/lluis-riera-escritor-habla-libro-furia-134582179",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/1962c08f-b23f-427a-8db3-111fd833a710_16-9-discover-aspect-ratio_default_0_x1000y400.webp",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Juan F. Rivero, la escritura atenta",
-      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20260927/juan-rivero-entrevista-ines-martin-rodrigo-134509235",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/104ba73f-5a21-49fb-aea5-e2c63782d65a_16-9-discover-aspect-ratio_default_0_x997y497.webp",
       "tipo": "imagen"
     }
   ]

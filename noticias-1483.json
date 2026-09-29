@@ -1,39 +1,39 @@
 {
   "noticias": [
     {
+      "titulo": "El dueño de Urbagestión tiene una calle con su nombre en Astorga (y unos vecinos muy sorprendidos)",
+      "link": "https://www.eldiario.es/autores/antonio_m_velez/",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "Detenido de nuevo un brigada de la Guardia Civil de Segovia que estuvo en prisión en 2017 por una investigación sobre drogas",
+      "link": "https://www.eldiario.es/castilla-y-leon/sucesos/detenido-nuevo-brigada-guardia-civil-segovia-estuvo-prision-investigacion-drogas_1_13546109.html",
+      "imagen": "https://static.eldiario.es/clip/21add7f3-a7e0-411c-b280-b231648ae04e_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El tribunal fija el 31 de mayo de 2027 para el posible desahucio de las exmonjas de Belorado del convento de Orduña",
+      "link": "https://www.eldiario.es/castilla-y-leon/tribunales/tribunal-fija-31-mayo-2027-posible-desahucio-exmonjas-belorado_1_13545964.html",
+      "imagen": "https://static.eldiario.es/clip/7ee9085f-b04c-4b6a-bb86-468312de6e20_16-9-discover-aspect-ratio_default_0_x1131y514.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "23 años y 9 meses para el hombre que mató de 12 cuchilladas a su suegro en Aranda de Duero",
+      "link": "https://www.eldiario.es/castilla-y-leon/tribunales/23-anos-9-meses-hombre-mato-12-cuchilladas-suegro-aranda-duero_1_13545864.html",
+      "imagen": "https://static.eldiario.es/clip/575a7cd2-3bf4-4724-8850-2e650f9f0c75_16-9-discover-aspect-ratio_default_0_x791y520.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Treviño, el enclave de Burgos, votará pedir al Gobierno una consulta sobre su integración en Álava",
+      "link": "https://www.eldiario.es/castilla-y-leon/sociedad/trevino-enclave-burgos-votara-pedir-gobierno-consulta-integracion-alava_1_13545759.html",
+      "imagen": "https://static.eldiario.es/clip/efa4b044-420e-4d74-9e44-a6e656072800_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Renault parará la producción en su fábrica de Palencia del 1 al 19 de octubre por la caída de la demanda",
       "link": "https://www.eldiario.es/castilla-y-leon/economia/renault-parara-produccion-fabrica-palencia-1-19-octubre-caida-demanda_1_13544192.html",
-      "imagen": "https://static.eldiario.es/clip/c61c23b9-ab5c-47e5-8294-c12a39a19a7b_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ecologistas en Acción Palencia pide el cese del director de Caza de Castilla y León por querer autorizar visores térmicos",
-      "link": "https://www.eldiario.es/castilla-y-leon/politica/ecologistas-accion-palencia-pide-cese-director-caza-castilla-leon-autorizar-visores-termicos_1_13542863.html",
-      "imagen": "https://static.eldiario.es/clip/d6399b7f-f8a4-4aea-a211-3d62ca9c542d_facebook-aspect-ratio-1200-675_default_1152162.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Descubren una carta de Unamuno que confirma que fue al cine con H.G. Wells en Londres en 1936",
-      "link": "https://www.eldiario.es/castilla-y-leon/cultura/descubren-carta-unamuno-confirma-cine-h-g-wells-londres-1936_1_13543716.html",
-      "imagen": "https://static.eldiario.es/clip/f09306fa-c094-4801-8be9-6792158d321c_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las Cortes de Castilla y León plantean subir un 5% su presupuesto hasta los 24,6 millones en 2027",
-      "link": "https://www.eldiario.es/castilla-y-leon/politica/cortes-castilla-leon-plantean-subir-5-presupuesto-24-6-millones-2027_1_13544103.html",
-      "imagen": "https://static.eldiario.es/clip/803a3ada-8999-44ad-afa1-d850dfb1ba49_16-9-discover-aspect-ratio_default_0_x956y474.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "12 años de Púnica León: del presidente esposado por la UCO tras el asesinato de Carrasco a la condena por prevaricación",
-      "link": "https://ileon.eldiario.es/actualidad/12-anos-punica-leon-presidente-esposado-uco-asesinato-carrasco-condena-prevaricacion_1_13534979.html",
-      "imagen": "https://static.eldiario.es/clip/2ee970ed-004c-4f86-a695-09975ceb5e5f_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Ayuntamiento de Valladolid aprueba una nueva reducción del 5% del IBI para 2027",
-      "link": "https://www.eldiario.es/castilla-y-leon/provincias/valladolid/ayuntamiento-valladolid-aprueba-nueva-reduccion-5-ibi-2027_1_13544191.html",
-      "imagen": "https://static.eldiario.es/clip/2eb7f793-4c5c-44f7-bef8-0087e7976792_16-9-discover-aspect-ratio_default_0_x817y556.jpg",
+      "imagen": "https://static.eldiario.es/clip/c61c23b9-ab5c-47e5-8294-c12a39a19a7b_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

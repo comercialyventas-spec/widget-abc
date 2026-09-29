@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Galicia: Industria & Tech 4.0",
+      "link": "https://elpais.com/economia/negocios/2026-09-29/galicia-industria-tech-40.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KP6ZKP4WQBE3DJE5PPVAL5TL74.jpg?auth=28a92bd51f96987b20188593d565c36b34d2d27190949cfbb0923009eb4dd6b2",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "A Rusia se le hace cada vez más cara la guerra",
+      "link": "https://elpais.com/economia/negocios/2026-09-29/a-rusia-se-le-hace-cada-vez-mas-cara-la-guerra.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/MMTKK3DQWFB5ZGHF6Z2FH2LVGY.jpg?auth=586e9cd94fd9a8b4f9515a002af8a7b46a352b29c62e30a2e82a41dab8b5103e",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Iñaki Fernández (LetsGo): “Con 20 años gané mi primer millón de pesetas y me picó el veneno del entretenimiento”",
+      "link": "https://elpais.com/economia/negocios/entrevistas-afterwork/2026-09-28/inaki-fernandez-letsgo-con-20-anos-gane-mi-primer-millon-de-pesetas-y-me-pico-el-veneno-del-entretenimiento.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/5IWVQUAKDFCXTFVSOLK5R3MZQI.jpg?auth=1df03e08e5245408f4a713943659d6ff18720e812d1c80336709eb2a0a8577b2",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Joan Bonet (Banca March): “Creemos que la tendencia alcista para las Bolsas va a continuar”",
       "link": "https://elpais.com/economia/negocios/2026-09-28/joan-bonet-banca-march-creemos-que-la-tendencia-alcista-para-las-bolsas-va-a-continuar.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/S3RSSVVOWBGU5KXENPI2RR7BY4.jpg?auth=8957b491fdf83d2fd4e82353a67f76147d21c9f5905ab30c8759e3e6e23830dc",
@@ -16,24 +34,6 @@
       "titulo": "El precio de la desconfianza",
       "link": "https://elpais.com/economia/negocios/2026-09-27/el-precio-de-la-desconfianza.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/NXF3BZMDRFHJ5PBHG3ILIAN5JM.jpg?auth=efb4b4b68db73beaa1bf48942b96e51993080b8d787825fdb325e1462d879f9a",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Por qué mi jefe tiene coche de empresa y yo no?: el goteo constante de disputas legales por los vehículos corporativos",
-      "link": "https://elpais.com/economia/negocios/2026-09-27/por-que-mi-jefe-tiene-coche-de-empresa-y-yo-no-el-goteo-constante-de-disputas-legales-por-los-vehiculos-corporativos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/R645V6UWIJDUXJMJON4JEBJDCI.jpg?auth=88307de22f013e8e48d7c43daeb3fd9b1f1fbf5e3d67ca5f8b006bdd379c71b1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La tecnología como puntal del ciclo expansivo",
-      "link": "https://elpais.com/economia/negocios/2026-09-27/la-tecnologia-como-puntal-del-ciclo-expansivo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/G3TTVWUXKFO5PN2V6HL2TPSS2A.jpg?auth=e998f439f7cd344d013372c30d6181cb0996921877674f9738b4893a81ca768f",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Electricidad en la era de la IA",
-      "link": "https://elpais.com/economia/negocios/2026-09-27/electricidad-en-la-era-de-la-ia.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/7GHADEDEYVDE7AAXJIDNUIQO3M.jpg?auth=e9f001d3b040f98e84a789f8943a6179e6e9da1b5ae6cf9585946877255cd592",
       "tipo": "imagen"
     }
   ]

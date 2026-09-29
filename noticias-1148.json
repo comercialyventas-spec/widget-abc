@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Haga lo que haga, siempre puedo cambiar de opinión",
+      "link": "https://elpais.com/educacion/2026-09-29/haga-lo-que-haga-siempre-puedo-cambiar-de-opinion.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/WH7GJUSNJFGWLARDJBYU4JM6LQ.JPG?auth=ef429b2b8be8fdbbc8b1760268db56adb310e8370efb7e6527efbe913faae631&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Así es el decreto contra los chiringuitos privados de FP: los títulos online tendrán un máximo de 50 alumnos por profesor",
       "link": "https://elpais.com/educacion/2026-09-28/asi-es-el-decreto-contra-los-chiringuitos-privados-de-fp-los-titulos-a-distancia-tendran-entre-un-15-y-un-39-de-presencialidad.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/QWJVOE6YTRGH3JUADGKWUVCMIQ.JPG?auth=63ccb5f25a08505b7860265fbcb2e5e2486df7f145191e856021035f38edb5f5&width=414&height=311&smart=true",
@@ -26,14 +32,8 @@
     },
     {
       "titulo": "La FP se ha hecho mayor: es hora de cambiarla por dentro",
-      "link": "https://elpais.com/economia/formacion/2026-09-25/la-fp-se-ha-hecho-mayor-es-hora-de-cambiarla-por-dentro.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/S3J4KR3VNBHTLCCNGJDASDIXDY.jpg?auth=3ef9ab5f81e34c1b945cd67ad0fc8435b518098a8b1c3974fc14ae02bf17d59f&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Gobierno relanza el ansiado complemento salarial que premia a los investigadores que transmiten su ciencia a la sociedad",
-      "link": "https://elpais.com/noticias/universidad/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/SEJWTPYCSNDKVH3VOQNGOQGKKE.png?auth=b640870211b3a4af7ef9c423e5198d4a40e0b827510ab604d5a10c6ed173fac6",
+      "link": "https://elpais.com/economia/formacion/",
+      "imagen": "https://imagenes.elpais.com/resizer/g91WK2Hu9zAKh8pAseQ6R_L_aqs=/300x300/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/F7OFJLA4MNCHJMQI3ZOUKGXQZM.png",
       "tipo": "imagen"
     }
   ]
