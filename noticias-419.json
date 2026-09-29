@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La pregunta prohibida",
+      "link": "https://www.elconfidencialdigital.com/opinion/carola-minguet-civera/pregunta-prohibida/202609290200091488937.html",
+      "imagen": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2022/02/02/2022020215410298680.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Zapatero, conspirador contra España",
       "link": "https://www.elconfidencialdigital.com/blog/jose-apezarena/zapatero-conspirador-espana/202609271823081488510.html",
       "imagen": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2018/09/05/2018090513442128715.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Los sueños de Dios y la IA",
       "link": "https://www.elconfidencialdigital.com/opinion/jose-antonio-garcia-prieto-segura/suenos-dios-ia/202609270202561488478.html",
       "imagen": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2021/01/05/2021010513355887248.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Magnifica humanitas y la teología de la comunión",
-      "link": "https://www.elconfidencialdigital.com/opinion/ramiro-pellitero/magnifica-humanitas-teologia-comunion/202609260134011488398.html",
-      "imagen": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2018/07/19/2018071917471149481.jpg",
       "tipo": "imagen"
     }
   ]

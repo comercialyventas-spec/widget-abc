@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La cosecha de arroz en el delta del Ebro",
+      "link": "https://www.lavanguardia.com/opinion/20260929/11646238/cosecha-arroz-delta-ebro.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/29/6abaf98c5376e.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El sol calienta y poco más",
+      "link": "https://www.lavanguardia.com/opinion/20260929/11646205/sol-calienta-poco-mas.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Gordon, el embajador",
       "link": "https://www.lavanguardia.com/opinion/20260929/11646146/gordon-embajador.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Bajo la mirada del Tío Pepe",
       "link": "https://www.lavanguardia.com/opinion/20260929/11645854/mirada-tio-pepe.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/28/6aba6ba36feac.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El fraude de la universidad",
-      "link": "https://www.lavanguardia.com/opinion/20260929/11645714/fraude-universidad.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/28/6aba50cbe3aea.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘In vino veritas’",
-      "link": "https://www.lavanguardia.com/opinion/20260929/11645709/in-vino-veritas.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/28/6aba6daf3ecd0.jpeg",
       "tipo": "imagen"
     }
   ]

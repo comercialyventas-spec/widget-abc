@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Somos cántaros rotos",
+      "link": "https://www.abc.es/cultura/cultural/cantaros-rotos-20260918095509-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/18/interior3-trapiello-adria_ramirez-RyHfVkkfWcCjgazv9RJiOuL-1200x1700@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Canibalismo digital: cuando la IA empieza a soñar consigo misma",
       "link": "https://www.abc.es/cultura/cultural/canibalismo-digital-ia-empieza-sonar-consigo-20260928170304-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/28/wire-RKVZaWECZVVfhQ4a8Pb5HnO-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Éric Vuillard: «La irreverencia ha desaparecido de nuestras sociedades»",
       "link": "https://www.abc.es/cultura/cultural/eric-vuillard-irreverencia-desaparecido-sociedades-20260925093705-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/25/vuillard-eric-R8V5YnbwKEez1eTu6VSHgRI-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La guerra de los mapas, la última fantasía del poder",
-      "link": "https://www.abc.es/cultura/cultural/guerra-mapas-ultima-fantasia-poder-20260925161433-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/24/geografos-1%20copia%20(1)-R2l4Uexau7G4ERPQe78Z3MI-1200x1000@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
