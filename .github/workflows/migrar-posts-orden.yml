@@ -40,7 +40,10 @@ jobs:
           node migracion/migrar_posts.js "$LISTA" "$MODO" 2>&1 | tee /tmp/ultimo_resultado.txt
           echo "FIN $(date -u +%Y-%m-%dT%H:%M:%SZ) lista=$LISTA modo=$MODO" >> /tmp/ultimo_resultado.txt
           # Resumen visible como avisos del run (se leen sin iniciar sesión)
-          grep -E "MODO|SE CAMBIAR|YA ESTABA|SALTADO|ERROR|CAMBIADO|RESTAURADO|SIN COPIA|con error|FIN" /tmp/ultimo_resultado.txt | while IFS= read -r l; do echo "::notice::$l"; done
+          grep -E "MODO|SE CAMBIAR|YA ESTABA|SALTADO|ERROR|CAMBIADO|RESTAURADO|SIN COPIA|con error|FIN" /tmp/ultimo_resultado.txt | sed -E 's/ +https?:[^ ]*$//; s/\(post ([0-9]+)[^)]*\)/[\1]/' > /tmp/resumen.txt
+          # GitHub solo enseña 10 avisos por paso: se agrupan de 6 en 6 líneas
+          split -l 6 /tmp/resumen.txt /tmp/trozo_
+          for f in /tmp/trozo_*; do echo "::notice::$(paste -sd'#' "$f" | sed 's/#/ ### /g')"; done
           exit 0
 
       - name: Guardar resultado y copias de seguridad
