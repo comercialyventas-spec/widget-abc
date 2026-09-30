@@ -39,6 +39,8 @@ jobs:
           set +e
           node migracion/migrar_posts.js "$LISTA" "$MODO" 2>&1 | tee migracion/ultimo_resultado.txt
           echo "FIN $(date -u +%Y-%m-%dT%H:%M:%SZ) lista=$LISTA modo=$MODO" >> migracion/ultimo_resultado.txt
+          # Resumen visible como avisos del run (se leen sin iniciar sesión)
+          grep -E "MODO|SE CAMBIAR|YA ESTABA|SALTADO|ERROR|CAMBIADO|RESTAURADO|SIN COPIA|con error|FIN" migracion/ultimo_resultado.txt | while IFS= read -r l; do echo "::notice::$l"; done
           exit 0
 
       - name: Guardar resultado y copias de seguridad
@@ -48,9 +50,12 @@ jobs:
           git config user.email "github-actions@users.noreply.github.com"
           git add migracion/backups migracion/ultimo_resultado.txt || true
           if git diff --cached --quiet; then echo "Nada que guardar"; exit 0; fi
-          git commit -m "Resultado de migración por orden"
+          git commit -m "Resultado de migración por orden" 2>&1 | while IFS= read -r l; do echo "::notice::commit: $l"; done
           for i in 1 2 3 4 5; do
-            git fetch origin main && git rebase origin/main && git push origin HEAD:main && exit 0
+            git fetch origin main 2>&1 | sed 's/^/::notice::fetch: /'
+            git rebase origin/main 2>&1 | sed 's/^/::notice::rebase: /'
+            if git push origin HEAD:main > push.log 2>&1; then exit 0; fi
+            sed 's/^/::warning::push: /' push.log
             git rebase --abort 2>/dev/null || true
             sleep 10
           done
