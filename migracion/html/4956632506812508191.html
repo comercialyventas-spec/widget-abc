@@ -1,0 +1,29 @@
+<div class="separator" style="clear: both;"><a href="https://tienda.apisierra.com/c/40-category_default/aceite-de-oliva-virgen-extra.jpg" style="display: block; padding: 1em 0px; text-align: center;"><img alt="" border="0" height="320" src="https://tienda.apisierra.com/c/40-category_default/aceite-de-oliva-virgen-extra.jpg" /></a></div>
+
+<div style="text-align: justify;">Apisierra es una empresa artesanal nacida en el corazón del Parque Natural de la Sierra de Cazorla, dedicada a la producción de mieles y chocolates elaborados con pasión, tradición y respeto por el entorno natural. Fundada por María José Gámez, la marca combina la riqueza de la apicultura tradicional con la innovación en productos gourmet, ofreciendo mieles monoflorales, chocolates artesanos y especialidades derivadas de la miel. Su compromiso con la calidad, la producción local y los sabores auténticos convierte a Apisierra en un referente de la gastronomía jiennense.</div>
+
+<div class="motor-productos"
+  data-url="https://apisierra.com/1_es_0_sitemap.xml"
+  data-tienda="https://apisierra.com/"
+  data-boton="APISIERRA.COM"
+  data-blog="supermercadoaliazon"
+  data-campana="apisierra">
+  <p style="text-align:center;color:#999;">Cargando productos... <a href="https://apisierra.com/?utm_source=supermercadoaliazon&amp;utm_medium=boton_oficial&amp;utm_campaign=catalogo_apisierra" rel="nofollow" target="_blank">Ver en APISIERRA.COM</a></p>
+</div>
+
+<script>
+(function () {
+  if (window.MotorProductos) { window.MotorProductos.iniciarTodos(); return; }
+  if (window.__motorProductosCargando) return;
+  window.__motorProductosCargando = true;
+  var f = "motor/motor-productos-v1.js";
+  var s = document.createElement("script");
+  s.src = "https://cdn.jsdelivr.net/gh/comercialyventas-spec/widget-abc@main/" + f;
+  s.onerror = function () {
+    fetch("https://raw.githubusercontent.com/comercialyventas-spec/widget-abc/main/" + f)
+      .then(function (r) { return r.text(); })
+      .then(function (c) { var e = document.createElement("script"); e.text = c; document.head.appendChild(e); });
+  };
+  document.head.appendChild(s);
+})();
+</script>

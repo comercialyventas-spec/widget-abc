@@ -1,0 +1,40 @@
+{
+ "detectar": "cualquier_script",
+ "posts": [
+  {
+   "ruta": "/2026/05/cargando-catalogo_5.html",
+   "nombre": "TIENDA ÁLVARO MORENO",
+   "html": "migracion/html/467178801028735072.html",
+   "blogId": "517559064211767769",
+   "catalogo": "https://www.alvaromoreno.com/sitemap_index.xml"
+  },
+  {
+   "ruta": "/2026/05/alvaro-moreno-es-una-marca-andaluza-de.html",
+   "nombre": "BIMBA Y LOLA",
+   "html": "migracion/html/6570440715987692729.html",
+   "blogId": "517559064211767769",
+   "catalogo": "https://www.bimbaylola.com/es_es/sitemap_index.xml"
+  },
+  {
+   "ruta": "/2026/06/cafe-100-arabica-bio-grano-500-g.html",
+   "nombre": "Café 100% Arábica BIO grano 500 g",
+   "html": "migracion/html/6327278131012187521.html",
+   "blogId": "6400647277621096048",
+   "catalogo": "https://www.cafesoquendo.com/product-sitemap.xml"
+  },
+  {
+   "ruta": "/2026/05/cargando-productos-veganos.html",
+   "nombre": "MI TIENDA VEGANA",
+   "html": "migracion/html/7171814537874955741.html",
+   "blogId": "6400647277621096048",
+   "catalogo": "https://www.mitiendavegana.com/product-sitemap1.xml"
+  },
+  {
+   "ruta": "/2026/06/apisierra-es-una-empresa-artesanal.html",
+   "nombre": "APISIERRA.COM",
+   "html": "migracion/html/4956632506812508191.html",
+   "blogId": "6400647277621096048",
+   "catalogo": "https://apisierra.com/1_es_0_sitemap.xml"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+<div class="separator" style="clear: both;"><a href="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAvvmFi4r6knTPDu356Mzz5r94APN_t8xUrt10svRRn8jjfg" style="display: block; padding: 1em 0px; text-align: center;"><img alt="" border="0" height="320" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAvvmFi4r6knTPDu356Mzz5r94APN_t8xUrt10svRRn8jjfg" /></a></div>
+
+<div style="text-align: justify;">Cafés Oquendo Café 100% Arábica BIO grano 500 g: BIO, Café, Café en Grano BIO, Grano, Productos BIO, Top ventas</div>
+
+<div class="motor-productos"
+  data-url="https://www.cafesoquendo.com/product-sitemap.xml"
+  data-tienda="https://www.cafesoquendo.com/"
+  data-boton="CAFESOQUENDO.COM"
+  data-blog="supermercadoaliazon"
+  data-campana="cafesoquendo">
+  <p style="text-align:center;color:#999;">Cargando productos... <a href="https://www.cafesoquendo.com/?utm_source=supermercadoaliazon&amp;utm_medium=boton_oficial&amp;utm_campaign=catalogo_cafesoquendo" rel="nofollow" target="_blank">Ver en CAFESOQUENDO.COM</a></p>
+</div>
+
+<script>
+(function () {
+  if (window.MotorProductos) { window.MotorProductos.iniciarTodos(); return; }
+  if (window.__motorProductosCargando) return;
+  window.__motorProductosCargando = true;
+  var f = "motor/motor-productos-v1.js";
+  var s = document.createElement("script");
+  s.src = "https://cdn.jsdelivr.net/gh/comercialyventas-spec/widget-abc@main/" + f;
+  s.onerror = function () {
+    fetch("https://raw.githubusercontent.com/comercialyventas-spec/widget-abc/main/" + f)
+      .then(function (r) { return r.text(); })
+      .then(function (c) { var e = document.createElement("script"); e.text = c; document.head.appendChild(e); });
+  };
+  document.head.appendChild(s);
+})();
+</script>
