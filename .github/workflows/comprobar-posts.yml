@@ -1,0 +1,28 @@
+name: Comprobar posts en navegador (solo lectura)
+
+# Se lanza cuando Claude sube migracion/comprobar_posts.txt (una URL de post por línea).
+# Abre cada post en Chromium, simula a una persona y cuenta los productos que carga. No cambia nada.
+on:
+  push:
+    branches: [main]
+    paths: ['migracion/comprobar_posts.txt']
+
+jobs:
+  comprobar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Instalar Chromium
+        run: |
+          npm install --no-save playwright@1.47.2
+          npx playwright install --with-deps chromium
+      - name: Comprobar
+        run: |
+          node migracion/comprobar_posts.js migracion/comprobar_posts.txt || true
+          # GitHub solo enseña 10 avisos por paso: se agrupan de 5 en 5 líneas
+          split -l 5 /tmp/comprobacion.txt /tmp/trozo_
+          for f in /tmp/trozo_*; do echo "::notice::$(paste -sd'#' "$f" | sed 's/#/ ### /g')"; done
