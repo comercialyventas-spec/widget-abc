@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Registrado un terremoto de magnitud 2,8 al este de Garrucha",
+      "link": "https://www.20minutos.es/andalucia/almeria/registrado-un-terremoto-magnitud-2-8-este-garrucha_7042997_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2021/07/03/sucesos-rescatan-a-13-personas-de-una-patera-a-siete-millas-de-garrucha.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sale a subasta por 60.000 euros una parcela de 5.100 metros cuadrados en La Molineta con vistas a la Alcazaba y a la bahía de Almería",
       "link": "https://www.20minutos.es/andalucia/almeria/sale-subasta-por-60-000-euros-una-parcela-5-100-metros-cuadrados-molineta-con-vistas-alcazaba-bahia-almeria_7042982_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/29/6abc1c57a59f02-93500871.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Desarticulada una red de tráfico de drogas en Roquetas de Mar tras ser detenidas nueve personas en cinco registros simultáneos",
       "link": "https://www.20minutos.es/andalucia/almeria/desarticulada-una-red-trafico-drogas-roquetas-mar-tras-detenerse-nueve-personas-cinco-registros-simultaneos_7041137_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/24/6ab58579d480e6-63245287.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El juez envía a prisión a los dos detenidos por el doble tiroteo sin víctimas en El Ejido",
-      "link": "https://www.20minutos.es/andalucia/almeria/juez-envia-prision-los-dos-detenidos-por-doble-tiroteo-sin-victimas-ejido_7040614_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/23/6ab43a08317194-27940792.jpeg",
       "tipo": "imagen"
     }
   ]

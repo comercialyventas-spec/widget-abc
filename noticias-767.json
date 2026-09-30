@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La revolución del sueño",
+      "link": "https://www.eldiario.es/opinion/tribuna-abierta/revolucion-sueno_129_13546497.html",
+      "imagen": "https://static.eldiario.es/clip/71214f03-96c2-4295-81c9-cf2b60b009fd_avatar-200-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Maricarmen, ¿principio o final?",
+      "link": "https://www.eldiario.es/opinion/tribuna-abierta/maricarmen-principio-final_129_13547415.html",
+      "imagen": "https://static.eldiario.es/clip/761c9f6e-adf1-41dd-a8dd-a0c09c1aaf1d_avatar-200-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Maricarmen y la razón de ser de la izquierda",
       "link": "https://www.eldiario.es/opinion/tribuna-abierta/maricarmen-razon-izquierda_129_13545390.html",
       "imagen": "https://static.eldiario.es/clip/6e2bf310-3780-406d-9af1-a0b4f1d68faf_avatar-200-aspect-ratio_default_0.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Para la libertad de las mujeres, políticas feministas",
       "link": "https://www.eldiario.es/opinion/tribuna-abierta/libertad-mujeres-politicas-feministas_129_13535513.html",
       "imagen": "https://static.eldiario.es/clip/c87b6721-2712-4f63-93df-9591b92d85b4_avatar-200-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Alianza Global y el camino para alcanzar la Agenda 2030",
-      "link": "https://www.eldiario.es/opinion/tribuna-abierta/alianza-global-camino-alcanzar-agenda-2030_129_13539365.html",
-      "imagen": "https://static.eldiario.es/clip/044b51ca-4659-4011-ab8b-5fa8d0858e43_avatar-200-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Quién debe decidir España? Nacionalidad, residencia y voto tras la “ley de nietos”",
-      "link": "https://www.eldiario.es/opinion/tribuna-abierta/debe-decidir-espana-nacionalidad-residencia-voto-ley-nietos_129_13536207.html",
-      "imagen": "https://static.eldiario.es/clip/f061b06e-d8a9-47eb-9b65-e84a004bf67f_avatar-200-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Otras dos mujeres relatan a la jueza comportamientos machistas del expresidente de la Diputación de Lugo",
+      "link": "https://elpais.com/espana/galicia/2026-09-29/otras-dos-mujeres-relatan-a-la-jueza-tocamientos-y-proposiciones-obscenas-del-expresidente-de-la-diputacion-de-lugo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/N76TIJX7JRCY7G4D5MVKDHFCNA.JPG?auth=f0d7ae5a5e7782a6807f73be11e34b3202c4d09642d87a444edefd56767191c0&width=1200",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Galicia: Industria & Tech 4.0",
+      "link": "https://elpais.com/economia/negocios/2026-09-29/galicia-industria-tech-40.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "El plan de Vigo contra la prostitución: cerco a proxenetas y puteros y concienciación hasta en los coles",
+      "link": "https://elpais.com/espana/galicia/2026-09-29/el-plan-de-vigo-contra-la-prostitucion-cerco-a-proxenetas-y-puteros-y-concienciacion-hasta-en-los-coles.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/6BBU6DE33BBWLI4BZR3ZW3A3NM.jpg?auth=466c98587ea351791373d41dd2f6441bdb01179f8ddc3e5e99fb5391b874c775&width=414&height=233&focal=1793%2C966",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "A Curva, la taberna diminuta de Portonovo con más de 4.000 referencias de vino gallego",
       "link": "https://elpais.com/gastronomia/2026-09-25/a-curva-la-taberna-diminuta-de-portonovo-con-mas-de-4000-referencias-de-vino-gallego.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/L3X6CMYK6FH2DEFUYLVJHHC2QA.jpg?auth=370cc4d01e0b3a14decea927e2127751ec9f583c3f4229f284ec36f908d89afe&width=1200",
@@ -15,25 +33,7 @@
     {
       "titulo": "Varios niños de Lugo confunden pastillas de éxtasis que encontraron en un bus escolar con caramelos",
       "link": "https://elpais.com/espana/galicia/2026-09-23/varios-ninos-de-lugo-confunden-pastillas-de-extasis-que-encontraron-en-un-bus-escolar-con-caramelos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/4MVXAFJJGFOA7FUKLJ4HA6MFJA.jpg?auth=22bc7244e5bbafa329dd86f6c685bf8bf23235da628a81a89e2d0b47a6e08728&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La bronca entre dos recién casados acaba con los platos rotos en una propiedad del siglo XVII en Ourense",
-      "link": "https://elpais.com/espana/2026-09-23/la-bronca-entre-dos-recien-casados-acaba-con-los-platos-rotos-en-una-propiedad-del-siglo-xvii.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Una protesta antirracista de cientos de personas boicotea un acto de Vox en Santiago",
-      "link": "https://elpais.com/espana/galicia/2026-09-22/una-protesta-antirracista-de-cientos-de-personas-boicotea-un-acto-de-vox-en-santiago.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Aduanas asesta otro golpe a proveedores de cocaína del clan de Los Balcanes con la captura de 2.500 kilos de coca en un velero",
-      "link": "https://elpais.com/espana/galicia/2026-09-21/aduanas-apresa-un-velero-con-al-menos-2000-kilos-de-cocaina-a-400-millas-de-galicia.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/W65T5NTWMJNERGJEDI6HFTDJHA.jpg?auth=d1e1ccb3140700afe273ab0c82b748c8745b1aacdeb5c72a2340eee20205e3d8&width=414&height=311&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4MVXAFJJGFOA7FUKLJ4HA6MFJA.jpg?auth=22bc7244e5bbafa329dd86f6c685bf8bf23235da628a81a89e2d0b47a6e08728&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

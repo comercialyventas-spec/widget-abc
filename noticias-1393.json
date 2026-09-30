@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de El Cañaveral",
+      "link": "https://nuevosureste.es/personajes-historicos-calle-el-canaveral/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/07/calles-el-canaveral-2-400x250.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Comunidad de Madrid licita el proyecto de la residencia de mayores de El Cañaveral",
       "link": "https://nuevosureste.es/residencia-de-mayores-el-canaveral/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/Ubicacion-de-la-residencia-de-El-Canaveral--400x250.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Feijóo y Almeida visitan la promoción de vivienda pública de la EMVS Madrid Cañaveral 7",
       "link": "https://nuevosureste.es/feijoo-almeida-visita-promocion-canaveral-7-emvs-madrid/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/IMG_8923-400x250.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Madrid, Andalucía y Castilla y León, los principales lugares de nacimiento de los vecinos de El Cañaveral",
-      "link": "https://nuevosureste.es/lugar-nacimiento-vecinos-el-canaveral/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/08/Captura-de-pantalla-2026-08-28-a-las-13.37.04-400x250.png",
       "tipo": "imagen"
     }
   ]
