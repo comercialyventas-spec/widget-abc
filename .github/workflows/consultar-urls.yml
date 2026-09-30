@@ -1,7 +1,8 @@
 name: Consultar URLs (solo lectura)
 
 # Se lanza cuando Claude sube migracion/consulta_urls.txt (una URL por línea).
-# Descarga cada URL desde GitHub y deja un extracto como avisos del run. No cambia nada.
+# Descarga cada URL desde GitHub y deja un resumen como avisos del run. No cambia nada.
+# Si la línea empieza por "COMPLETO ", deja el principio del contenido (1 aviso por URL; máx. 10).
 on:
   push:
     branches: [main]
@@ -10,14 +11,28 @@ on:
 jobs:
   consultar:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
       - name: Consultar
         run: |
-          while IFS= read -r url; do
+          UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+          : > /tmp/res.txt
+          while IFS= read -r linea; do
+            completo=""; url="$linea"
+            case "$linea" in "COMPLETO "*) completo=1; url="${linea#COMPLETO }";; esac
             case "$url" in http://*|https://*) ;; *) continue ;; esac
-            cuerpo=$(curl -s -m 60 -A "Mozilla/5.0" "$url" | head -c 3000 | tr '\n\r' '  ')
-            echo "::notice::$url => ${cuerpo:0:900}"
-            sleep 5
+            info=$(curl -s -L -m 45 -A "$UA" -H "Accept-Language: es-ES,es;q=0.9" -o /tmp/c -w "%{http_code} %{size_download} %{url_effective}" "$url")
+            if [ -n "$completo" ]; then
+              echo "::notice::$url => $info => $(head -c 1500 /tmp/c | tr '\n\r\t' '   ')"
+            else
+              h=$(tr 'A-Z' 'a-z' < /tmp/c | grep -o -E 'cdn\.shopify|woocommerce|wp-content|prestashop|magento|mage/|insales|demandware|salesforce|cf-challenge|just a moment|captcha|__next|vtex|wix|squarespace|bigcommerce|"products":' | sort -u | tr '\n' ',')
+              t=$(grep -o -i -E '<title[^>]*>[^<]{0,80}' /tmp/c | head -1 | sed 's/<[^>]*>//')
+              echo "$info | $h | $t | $url" | cut -c1-330 >> /tmp/res.txt
+            fi
+            sleep 3
           done < migracion/consulta_urls.txt
+          if [ -s /tmp/res.txt ]; then
+            split -l 6 /tmp/res.txt /tmp/trozo_
+            for f in /tmp/trozo_*; do echo "::notice::$(paste -sd'#' "$f" | sed 's/#/ ### /g')"; done
+          fi
