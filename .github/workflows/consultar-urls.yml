@@ -16,18 +16,19 @@ jobs:
       - uses: actions/checkout@v4
       - name: Consultar
         run: |
+          set +e
           UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
           : > /tmp/res.txt
           while IFS= read -r linea; do
             completo=""; url="$linea"
             case "$linea" in "COMPLETO "*) completo=1; url="${linea#COMPLETO }";; esac
             case "$url" in http://*|https://*) ;; *) continue ;; esac
-            info=$(curl -s -L -m 45 -A "$UA" -H "Accept-Language: es-ES,es;q=0.9" -o /tmp/c -w "%{http_code} %{size_download} %{url_effective}" "$url")
+            info=$(curl -s -L -m 45 -A "$UA" -H "Accept-Language: es-ES,es;q=0.9" -o /tmp/c -w "%{http_code} %{size_download} %{url_effective}" "$url" || true)
             if [ -n "$completo" ]; then
               echo "::notice::$url => $info => $(head -c 1500 /tmp/c | tr '\n\r\t' '   ')"
             else
-              h=$(tr 'A-Z' 'a-z' < /tmp/c | grep -o -E 'cdn\.shopify|woocommerce|wp-content|prestashop|magento|mage/|insales|demandware|salesforce|cf-challenge|just a moment|captcha|__next|vtex|wix|squarespace|bigcommerce|"products":' | sort -u | tr '\n' ',')
-              t=$(grep -o -i -E '<title[^>]*>[^<]{0,80}' /tmp/c | head -1 | sed 's/<[^>]*>//')
+              h=$(tr 'A-Z' 'a-z' < /tmp/c | grep -o -E 'cdn\.shopify|woocommerce|wp-content|prestashop|magento|mage/|insales|demandware|salesforce|cf-challenge|just a moment|captcha|__next|vtex|wix|squarespace|bigcommerce|"products":' | sort -u | tr "\n" "," || true)
+              t=$(grep -o -i -E '<title[^>]*>[^<]{0,80}' /tmp/c | head -1 | sed 's/<[^>]*>//' || true)
               echo "$info | $h | $t | $url" | cut -c1-330 >> /tmp/res.txt
             fi
             sleep 3
