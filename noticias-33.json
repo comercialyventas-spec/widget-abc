@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Dónde está la empatía",
+      "link": "https://www.lavanguardia.com/local/valencia/20260930/11646914/donde-esta-empatia.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2022/12/29/63ad56245425a.r_d.2153-1317-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las yeguas de la cresta del Puigmal",
       "link": "https://www.lavanguardia.com/opinion/20260930/11647231/yeguas-cresta-puigmal.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/30/6abc422d59ee8.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "La sombra del 15-M",
       "link": "https://www.lavanguardia.com/opinion/20260930/11646864/sombra-15-m.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/29/6abbc977a4cf5.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Lectura y familia",
-      "link": "https://www.lavanguardia.com/opinion/20260930/11646534/lectura-familia.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/29/6abbc59fbbe0e.jpeg",
       "tipo": "imagen"
     }
   ]

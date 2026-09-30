@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Por qué el ‘prime time’ ya no es lo que pensabas",
+      "link": "https://elpais.com/television/2026-09-30/por-que-el-prime-time-ya-no-es-lo-que-pensabas.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7NAPSSYL3FGBDGQPHBMUH2MX3E.jpg?auth=d72fdeef0b54071a326c47565c941392b67965724965117b7cd6151254311eae",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "‘Republic of Doyle’, detectives privados y flota bacaladera",
+      "link": "https://elpais.com/television/series/2026-09-30/republic-of-doyle-detectives-privados-y-flota-bacaladera.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/F6JZLYK33BAL5PGU6MJFEVPMFI.jpg?auth=893339bc2348d45023b8333ee8b96f62aded7dc854fb8772f614f456e0a285f2",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Muere Dennis Haskins, el director Belding de ‘Salvados por la campana’, a los 75 años",
       "link": "https://elpais.com/television/series/2026-09-29/muere-dennis-haskins-el-director-belding-de-salvados-por-la-campana-a-los-75-anos.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/PIYLAKWBEVHUBIGCU6U4BMLNQQ.jpg?auth=f3890c781864b72229ec705ef3894f3b31c0f47237cd2694ee0dbb3e966ea398",
@@ -22,18 +34,6 @@
       "titulo": "Las nueve horas diarias producidas por Ana Rosa Quintana no consiguen salvar a Telecinco en las audiencias",
       "link": "https://elpais.com/television/2026-09-29/las-nueve-horas-diarias-producidas-por-ana-rosa-quintana-no-consiguen-salvar-a-telecinco-en-las-audiencias.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/7OJERERNOVCIDL26KMBRYZIK4E.png?auth=c94ebbfc35d0df9ceb43a5ee087400f88d5b0494163b1318042684cd355d36ba",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Así será el primer ‘MasterChef Junior’ de Disney+: fecha de estreno, episodios más cortos y otros detalles",
-      "link": "https://elpais.com/television/2026-09-28/asi-sera-el-primer-masterchef-junior-de-disney-fecha-de-estreno-episodios-mas-cortos-y-otros-detalles.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/3TFATGO7JZF7XKQSD6A7LJK7ZE.jpg?auth=21a08f2d38485660e598b152739e1e075ced5a0c0dde61fc89a23bf6246863fe",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "NCIS: Origins",
-      "link": "https://elpais.com/television/series/ncis-origins/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/D6R52LWLSFAI3PJ3SPC5AUW64U.webp?auth=e563922e0f6bc6eabcbe1eb730dfb4221a85e8d56b0d6a086fc4c382e2818337",
       "tipo": "imagen"
     }
   ]

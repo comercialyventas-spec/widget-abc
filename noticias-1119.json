@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Nubosidad y ligero ascenso de temperaturas en Barcelona hoy, según AEMET",
+      "link": "https://okdiario.com/cataluna/nubosidad-y-ligero-ascenso-de-temperaturas-en-barcelona-hoy-segun-aemet-20435865",
+      "imagen": "https://okdiario.com/img/2026/09/30/lluvia-en-barcelona.-europa-press.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Chubascos tormentosos y nubes en Barcelona hoy, según AEMET, con viento moderado por la tarde",
       "link": "https://okdiario.com/cataluna/chubascos-tormentosos-y-nubes-en-barcelona-hoy-segun-aemet-con-viento-moderado-por-la-tarde-20421606",
       "imagen": "https://okdiario.com/img/2026/01/12/lluvias-barcelona-interior.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Ya hay fecha para uno de los trámites más esperados por los cazadores: Cataluña abre sus sorteos de caza pública de 2026",
       "link": "https://okdiario.com/cataluna/ya-hay-fecha-uno-tramites-mas-esperados-cazadores-cataluna-abre-sus-sorteos-caza-publica-2026-20389598",
       "imagen": "https://okdiario.com/img/2026/09/25/ya-hay-fecha-para-uno-de-los-tramites-mas-esperados-por-los-cazadores-cataluna-abre-sus-sorteos-de-caza-publica-de-2026.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cielo despejado y ligero descenso de temperaturas en Barcelona, según AEMET",
-      "link": "https://okdiario.com/cataluna/cielo-despejado-y-ligero-descenso-de-temperaturas-en-barcelona-segun-aemet-2-20400719",
-      "imagen": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
       "tipo": "imagen"
     }
   ]

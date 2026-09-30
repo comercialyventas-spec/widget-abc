@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La deuda mundial alcanza los 365 billones y enciende las alarmas financieras",
+      "link": "https://www.esdiario.com/economia/260930/199036/deuda-mundial-alcanza-365-billones-enciende-alarmas-financieras.html",
+      "imagen": "https://imagenes.esdiario.com/files/image_414_276/uploads/2026/09/29/6abc303445aed.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Madrid crecerá hacia el Norte afirman los constructores de viviendas de lujo",
       "link": "https://www.esdiario.com/economia/260929/199024/madrid-crecera-norte-afirman-constructores-viviendas-lujo.html",
       "imagen": "https://imagenes.esdiario.com/files/image_414_276/uploads/2026/09/29/6abbec1d65ccd.jpeg",
@@ -19,21 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "¿Se puede con el SMI en España hacer una cesta de la compra razonable?",
-      "link": "https://www.esdiario.com/economia/260929/199006/smi-espana-cesta-compra-razonable.html",
-      "imagen": "https://imagenes.esdiario.com/files/image_414_276/uploads/2026/09/29/6abbd8767b874.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las hipotecas marcan su mayor caída en dos años, pero el importe medio bate nuevos máximos",
-      "link": "https://www.esdiario.com/economia/260928/198903/hipotecas-marcan-mayor-caida-dos-anos-importe-medio-bate-nuevos-maximos.html",
-      "imagen": "https://imagenes.esdiario.com/files/listing_more/uploads/2026/09/28/6aba9a8e6957b.jpeg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Señor Sánchez, La cesta de la compra sube un 5,18% y eleva el gasto anual a 6.602 euros",
       "link": "https://www.esdiario.com/economia/260928/198896/senor-sanchez-cesta-compra-sube-5-18-eleva-gasto-anual-6-602-euros.html",
       "imagen": "https://imagenes.esdiario.com/files/listing_more/uploads/2026/09/28/6aba8824a119d.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La trampa de la vivienda: proteger a unos mientras se expulsa a otros del mercado",
+      "link": "https://www.esdiario.com/economia/260928/198787/trampa-vivienda-proteger-expulsa-otros-mercado.html",
+      "imagen": "https://imagenes.esdiario.com/files/listing_more/uploads/2026/09/27/6ab8cc8972fe7.jpeg",
       "tipo": "imagen"
     }
   ]

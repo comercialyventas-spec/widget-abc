@@ -1,19 +1,25 @@
 {
   "noticias": [
     {
+      "titulo": "Una motorista herida en un accidente en Zamora capital",
+      "link": "https://www.zamora24horas.com/sucesos/motorista-herida-accidente-zamora-capital",
+      "imagen": "https://statics.zamora24horas.com/bea2bf4a-c18b-47cc-8c3c-828eee41a7d6.webp?format=webp&width=320&quality=75",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Policía refuerza la vigilancia en Zamora ante los hurtos del \"abrazo\" y el robo de catalizadores",
       "link": "https://www.zamora24horas.com/sucesos/policia-refuerza-vigilancia-zamora-ante-hurtos-abrazo-robo-catalizadores",
       "imagen": "https://statics.zamora24horas.com/04287c11-9351-4e44-8022-62f1659316a6.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
     },
     {
-      "titulo": "Roban una cartera en el aparcamiento de un supermercado de Zamora mediante el método de la siembra",
+      "titulo": "Imagen De Archivo De La Policía Nacional En Un Supermercado De La Capital",
       "link": "https://www.zamora24horas.com/sucesos/roban-cartera-aparcamiento-supermercado-zamora-mediante-metodo-siembra",
       "imagen": "https://statics.zamora24horas.com/1ded9004-bc85-49b5-90f0-96b8e4567685.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
     },
     {
-      "titulo": "Imagen del accidente en la rotonda de la Carretera la Aldehuela.",
+      "titulo": "Un motorista herido tras un accidente en la rotonda de la Aldehuela",
       "link": "https://www.zamora24horas.com/sucesos/motorista-herido-tras-accidente-rotonda-aldehuela",
       "imagen": "https://statics.zamora24horas.com/ac79ad94-70da-4516-a186-666e472435a5.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
@@ -22,12 +28,6 @@
       "titulo": "Dos jóvenes resultan heridos tras volcar su vehículo durante la madrugada en Benavente",
       "link": "https://www.zamora24horas.com/sucesos/dos-jovenes-resulta-heridos-tras-volcar-vehiculo-madrugada-benavente",
       "imagen": "https://statics.zamora24horas.com/a24a4b4e-5574-46fc-888c-27a9087e972f.webp?format=webp&width=320&quality=75",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Zamora registra un terremoto de 2,6 grados este sábado en este punto de la provincia",
-      "link": "https://www.zamora24horas.com/sucesos/zamora-registra-terremoto-2-6-grados-este-sabado-este-punto-provincia",
-      "imagen": "https://statics.zamora24horas.com/8508f52c-5e30-4797-b9cb-2bb561a5bb93.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
     }
   ]
