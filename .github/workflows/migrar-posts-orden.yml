@@ -20,6 +20,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-node@v4
         with:
@@ -47,5 +49,8 @@ jobs:
           git add migracion/backups migracion/ultimo_resultado.txt || true
           if git diff --cached --quiet; then echo "Nada que guardar"; exit 0; fi
           git commit -m "Resultado de migración por orden"
-          git pull --rebase origin main || true
-          git push
+          for i in 1 2 3 4 5; do
+            git pull --no-edit origin main && git push && exit 0
+            sleep 10
+          done
+          exit 1
