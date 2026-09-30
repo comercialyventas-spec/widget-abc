@@ -2,7 +2,7 @@ name: Migrar posts Blogger (por orden)
 
 # Se lanza solo cuando cambia migracion/orden.json (lo sube Claude con el permiso de Dani).
 # orden.json: {"lista": "migracion/xxx.json", "modo": "simular" | "aplicar" | "restaurar"}
-# El resultado queda en migracion/ultimo_resultado.txt
+# El resultado sale como avisos (notice) del run; las copias van a migracion/backups
 on:
   push:
     branches: [main]
@@ -37,10 +37,10 @@ jobs:
           MODO=$(node -e "console.log(require('./migracion/orden.json').modo)")
           echo "Lista: $LISTA  Modo: $MODO"
           set +e
-          node migracion/migrar_posts.js "$LISTA" "$MODO" 2>&1 | tee migracion/ultimo_resultado.txt
-          echo "FIN $(date -u +%Y-%m-%dT%H:%M:%SZ) lista=$LISTA modo=$MODO" >> migracion/ultimo_resultado.txt
+          node migracion/migrar_posts.js "$LISTA" "$MODO" 2>&1 | tee /tmp/ultimo_resultado.txt
+          echo "FIN $(date -u +%Y-%m-%dT%H:%M:%SZ) lista=$LISTA modo=$MODO" >> /tmp/ultimo_resultado.txt
           # Resumen visible como avisos del run (se leen sin iniciar sesión)
-          grep -E "MODO|SE CAMBIAR|YA ESTABA|SALTADO|ERROR|CAMBIADO|RESTAURADO|SIN COPIA|con error|FIN" migracion/ultimo_resultado.txt | while IFS= read -r l; do echo "::notice::$l"; done
+          grep -E "MODO|SE CAMBIAR|YA ESTABA|SALTADO|ERROR|CAMBIADO|RESTAURADO|SIN COPIA|con error|FIN" /tmp/ultimo_resultado.txt | while IFS= read -r l; do echo "::notice::$l"; done
           exit 0
 
       - name: Guardar resultado y copias de seguridad
@@ -48,7 +48,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
-          git add migracion/backups migracion/ultimo_resultado.txt || true
+          git add migracion/backups || true
           if git diff --cached --quiet; then echo "Nada que guardar"; exit 0; fi
           git commit -m "Resultado de migración por orden" 2>&1 | while IFS= read -r l; do echo "::notice::commit: $l"; done
           for i in 1 2 3 4 5; do
