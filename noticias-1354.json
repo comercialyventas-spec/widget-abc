@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Un piloto apuñala a otro en pleno vuelo y pone al borde del desastre a un avión con destino a Israel",
+      "link": "https://elpais.com/internacional/2026-09-30/un-avion-que-volaba-a-tel-aviv-aterriza-en-arabia-saudi-tras-una-alerta-de-emergencia-por-un-incidente-entre-los-pilotos.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260930/1220418_172034_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las imágenes del interior del avión: “Hemos controlado a los terroristas”",
+      "link": "https://elpais.com/videos/2026-09-30/las-imagenes-del-incidente-en-el-interior-del-avion.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260930/1220332_143527_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sheinbaum desacredita la publicación de ‘The New York Times’ sobre las indagatorias de Estados Unidos contra Andy López Beltrán",
       "link": "https://elpais.com/mexico/2026-09-30/sheinbaum-desacredita-la-publicacion-de-the-new-york-times-sobre-las-indagatorias-de-estados-unidos-contra-andy-lopez-beltran.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/L3454WTDHJIKJKTDYFNJ2QRQAM.jpg?auth=4eed73b3727a29010b1929d161d9582a5b8a1fe9e5bfae750acfbe24b7ac5305",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260930/1220388_164033_video_1800.mp4",
       "tipo": "imagen"
     },
     {
@@ -15,25 +27,13 @@
     {
       "titulo": "Las entrañas de Los Mayitos, al descubierto",
       "link": "https://elpais.com/mexico/2026-09-30/las-entranas-de-los-mayitos-al-descubierto.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/UTM7HJ7COFEDBISJDUFIYCMABA.jpg?auth=7041481e2ac5c01bfd2ef5394b613cde0789e38536f5e93a6e41d63ef5df693c",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/K3O3EPPICNEZDEWPUNVQTYHZBY.png?auth=34515049522a495c2bc353acaf0b24aec2f5a0b578e09f2c68527def03d69ff6",
       "tipo": "imagen"
     },
     {
       "titulo": "Marina del Pilar Ávila, socia hasta hace tres años en la empresa de su exesposo sancionada por Estados Unidos",
       "link": "https://elpais.com/mexico/2026-09-30/marina-del-pilar-avila-socia-hasta-hace-tres-anos-en-la-empresa-de-su-exposo-sancionada-por-estados-unidos-por-nexos-criminales.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/BJTIZLWZMJD5DKVGSW6N7XPT6A.jpg?auth=0cf694d620ca84e75ea6f298d9f3ccfe2fd2469c56a170017fdc9323873c04db",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una soldada de la 4T: el auge y caída de Andrea Chávez en Morena",
-      "link": "https://elpais.com/mexico/2026-09-30/una-soldada-de-la-4t-el-auge-y-caida-de-andrea-chavez-en-morena.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/QMP6H3DJPNFSBAKESL3JKJALKA.jpg?auth=2ce0dcc5b0b3be70901b2e2a81ec65f2680f6489b83d2c2f8d8abbbba0779509",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El capital de Sheinbaum",
-      "link": "https://elpais.com/opinion/2026-09-30/el-capital-de-sheinbaum.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/6GVK3IFMTRPZPGJ5AIQFMPOSPI.jpg?auth=ad3bcdad417f00596e8d68bbbf6494484dd01ccd4c9f36a41e651466c5cd378b",
       "tipo": "imagen"
     }
   ]

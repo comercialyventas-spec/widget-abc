@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Las inundaciones en Tailandia dejan al menos 23 muertos",
-      "link": "https://elpais.com/planeta-futuro/2026-09-29/las-inundaciones-en-tailandia-dejan-decenas-de-muertos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/JZDZ4KSHYRMAVJ2ZI32RESS7MM.jpg?auth=a973a749bac3e51ee3e8377d74a98a1cc8d2e515b10d17ba0cb3483f74e7e909",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Diez formas de sufrir la especulación inmobiliaria: rostros de acampados en Sol",
       "link": "https://elpais.com/espana/madrid/2026-09-28/diez-formas-de-sufrir-la-especulacion-inmobiliaria-rostros-de-acampados-en-sol.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/E7M2DRWO4VDOBDEZN2LEAEABCI.jpg?auth=6c24c826095252a4babbe12e5884dbb86542a5de54c1dcc0b8a27824fdf8431d",
@@ -34,6 +28,12 @@
       "titulo": "La segunda noche de la acampada de Sol, en imágenes",
       "link": "https://elpais.com/espana/2026-09-28/la-segunda-noche-de-la-acampada-de-sol-en-imagenes.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/42X5XIMJDZB5TLIYNYLMUEPFW4.jpeg?auth=c36de1a76ac9f81e9a54f086cd74988fbc5239a395aeecd2b011ee469a87a510",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "‘After’",
+      "link": "https://elpais.com/opinion/2026-09-28/after.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SCNMGVTCBVGL5ICGQDHJU6GW7Y.jpg?auth=ed473e812cd7e9aea0a5baa82c1d34a81b67491b3a43e104bb0c24822aaa052a",
       "tipo": "imagen"
     }
   ]

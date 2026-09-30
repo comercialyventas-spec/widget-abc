@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Homenaje a Antoni Trilla en su despedida como decano de Medicina",
+      "link": "https://www.lavanguardia.com/vida/20260930/11647976/homenaje-antoni-trilla-despedida-decano-medicina.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/30/6abd73f66631b.r_d.2581-1428-890.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un pequeño dinosaurio con plumas hallado en China aporta nuevos datos sobre el origen de las aves",
       "link": "https://www.lavanguardia.com/ciencia/20260929/11646515/pequeno-dinosaurio-plumas-hallado-china-aporta-nuevos-datos-sobre-origen-aves.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/29/6abb7bed74a66.r_d.1570-1774-1470.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "¿Enseñar a nuestras defensas a proteger el cerebro del párkinson?",
       "link": "https://www.lavanguardia.com/ciencia/20260928/11643032/ensenar-defensas-proteger-cerebro-parkinson.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/04/02/69ce5218f2658.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los perros detectan palabras con una estrategia similar a la humana",
-      "link": "https://www.lavanguardia.com/ciencia/20260924/11641600/perros-detectan-palabras-estrategia-similar-humana.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/22/6ab2b83eb7488.r_d.2644-2096-866.jpeg",
       "tipo": "imagen"
     }
   ]

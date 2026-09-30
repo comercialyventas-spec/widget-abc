@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "¿Sabías que la palabra ‘arsenal’ originalmente significaba ‘casa de la industria’?",
+      "titulo": "Un chico toca la guitarra en la playa cuando aparece un espectador inesperado: \"Noooo\"",
+      "link": "https://www.20minutos.es/gonzoo/blogs/becario/",
+      "imagen": "https://www.20minutos.es/uploads/icons/blogs/becario.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Biocombustibles: necesarios para despegar, insuficientes para aterrizar en la descarbonización",
+      "link": "https://www.20minutos.es/medio-ambiente/blogs/la-energia-como-derecho/",
+      "imagen": "https://www.20minutos.es/uploads/icons/blogs/la-energia-como-derecho.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Quién dijo la frase «La soledad comienza con el silencio que es necesario saber guardar»?",
       "link": "https://www.20minutos.es/cultura/blogs/yaestaellistoquetodolosabe/",
       "imagen": "https://www.20minutos.es/uploads/icons/blogs/yaestaellistoquetodolosabe.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los primeros acordes españoles de Leonard Cohen",
+      "link": "https://www.20minutos.es/cultura/blogs/motel-margot/",
+      "imagen": "https://www.20minutos.es/uploads/icons/blogs/motel-margot.jpg",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "Por favor, no los llamemos fondos buitre. Las necrófagas son gente buena",
       "link": "https://www.20minutos.es/medio-ambiente/blogs/cronicaverde/",
       "imagen": "https://www.20minutos.es/uploads/icons/blogs/cronicaverde.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La estrecha relación entre esta práctica sexual y sufrir un ictus",
-      "link": "https://www.20minutos.es/mujer/blogs/el-blog-de-lilih-blue/",
-      "imagen": "https://www.20minutos.es/uploads/icons/blogs/el-blog-de-lilih-blue.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Quién fue... Ervin Zádor: el protagonista del 'Baño Sangriento de Melbourne'",
-      "link": "https://www.20minutos.es/deportes/blogs/quefuede/",
-      "imagen": "https://www.20minutos.es/uploads/icons/blogs/quefuede.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El crudo debut de Denis Johnson, una historia de crimen y familia",
-      "link": "https://www.20minutos.es/cultura/blogs/motel-margot/",
-      "imagen": "https://www.20minutos.es/uploads/icons/blogs/motel-margot.jpg",
       "tipo": "imagen"
     }
   ]

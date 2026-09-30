@@ -1,39 +1,39 @@
 {
   "noticias": [
     {
+      "titulo": "¿Quién cuida a quienes cuidan?",
+      "link": "https://elpais.com/noticias/tercera-edad/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/6Q3AP3E7ORA33NSC4SRVWOTPVY.jpg?auth=53f794fb62cda1cce5bdd7589a93e2a9afb97936d29baa66bd1f2146ba5c887f&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El “super” Niño y las alertas planetarias",
+      "link": "https://elpais.com/noticias/fenomeno-el-nino/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QHOR6OAAIJCGVBWAO2QCNAE7WM.jpg?auth=b2c551528311fd5ae410234706b683ec631d90bea3cd09dc02f57142f337d2b9&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Alejandro Ángel Escobar: retorno a Eureka",
+      "link": "https://elpais.com/ciencia/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VMCC2J6VX5FG5PXSAVYLB4IFYY.jpg?auth=56faf199a4c3c3933e3b2fc20779035acd2f194f7f08fb421cebfae147aee5ec&width=414&height=311&focal=313%2C177",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La vivienda necesita una política del sí",
+      "link": "https://elpais.com/opinion/tribunas/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/IFPLOIWVJZBVXNTIEG235FHIWY.jpg?auth=54c8cd1d74ca1f679f305e7ed98280cd85aafe24db448feb716e16bee506b0c9&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Vivienda: ¿por qué no en ocho años y sí en ocho días?",
       "link": "https://elpais.com/opinion/2026-09-29/vivienda-por-que-no-en-ocho-anos-y-si-en-ocho-dias.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/RDDIL6TVHVDHHPMPSBZGMDBBVU.jpg?auth=e64cb9285020fb8845c7bfdf836308e3d09d3e4856be9e819d89a5bc422743dd&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RDDIL6TVHVDHHPMPSBZGMDBBVU.jpg?auth=e64cb9285020fb8845c7bfdf836308e3d09d3e4856be9e819d89a5bc422743dd&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
       "titulo": "Prohibir no salva vidas: lo que muestra el mapa mundial de leyes del aborto",
       "link": "https://elpais.com/noticias/aborto/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/B3HE5DDF6RAYJGEFDJMPZ2VVII.jpg?auth=a56f3cca1e0ce3e21a108a16d9c3ac80dae0dc9b62fb3032bea25cd5eb899482&width=414&height=311&focal=3813%2C2698",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Aprender a leer otra vez",
-      "link": "https://elpais.com/noticias/lectura/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/Y6EOYIWZNFA2XKKUV2NES4AHWQ.jpg?auth=2e2e5e0b8245b4e9efe9c37671a5814ac7ca653eaf7ec0a0409fd22161a20e62&width=414&height=311&focal=3321%2C1200",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Alemania: cuando la vacuna de la historia pierde efecto",
-      "link": "https://elpais.com/opinion/tribunas/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/UADWRLTWURBTBATCVRC3RFYBG4.jpg?auth=987771154f7db152cc6d16e81889f60ef7b559e34af7f5ffd59adbcb4bc54651&width=414&height=311&focal=2731%2C2184",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Acompañar a quienes dejan las armas: una capacidad que Colombia no puede perder",
-      "link": "https://elpais.com/noticias/proceso-paz-colombia/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/KN3CSE7UP5CU3I6FXURH2AFA7U.jpg?auth=963edd7296b780ec4ee3e0aab634958f04e894ce2b075704a8c5a41a1cbeb507&width=414&height=311&focal=2144%2C2067",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sabemos cómo devolver la vida a las tierras degradadas",
-      "link": "https://elpais.com/noticias/desforestacion/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/W6MCVPRXJFCGPNWMEULYMZJKOE.jpg?auth=1ae8e8ebda224e8fbb70437dd0c49c4d95f53619d8c2cd3b2ebd71d1fa49f6f8&width=414&height=311&focal=2183%2C2829",
       "tipo": "imagen"
     }
   ]

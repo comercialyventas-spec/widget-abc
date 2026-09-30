@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Traslado de Parada: carretera de Vicálvaro a la Estación de O´Donnell. Afectada línea 106 de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261002-TP-5445-Ctra-Vicalvaro.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Evento sociocultural en zona Portazgo. Afectadas 2 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261002-Dia-Del-Mayor.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Obras: Alfredo Castro Camba. Afectada línea 24 de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261001-O-Alfredo-Castro-Camba.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Traslado definitivo de parada: Avenida de la Victoria. Afectadas 2 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261002-TDP-18-Avenida-de-la-Victoria.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Traslado definitivo de parada: Avenida de la Victoria. Afectadas 2 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261002-TDP-16-Avenida-Victoria.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -9,30 +33,6 @@
     {
       "titulo": "Traslado de Parada: calle de Ocaña. Afectada línea 17 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261001-TP-574-Ocaña.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Acto religioso en zona Lucero. Afectadas 8 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261003-PR-Cristo-Resucitado-Latina.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Servicio Especial línea 6 de Metro entre Cuatro Caminos y Laguna",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261003-SE6-Cuatro-Caminos-Laguna.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Evento: Palacio de los Deportes. Afectadas 4 líneas de EMT",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261003-PD-Evento.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Recuperación de Parada: Guabairo. Afectadas 3 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261001-RP-4528-Guabairo.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

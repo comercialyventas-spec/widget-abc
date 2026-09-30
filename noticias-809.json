@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La lluvia afloja este miércoles pero seguirán los chubascos en estas zonas de España",
+      "link": "https://www.eldiario.es/sociedad/el-tiempo/lluvia-afloja-miercoles-seguiran-chubascos-zonas-espana-pm_1_13547482.html",
+      "imagen": "https://static.eldiario.es/clip/3eb2b991-e0d5-4521-9956-d150a5f780f5_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las lluvias descargan con fuerza este martes en tres comunidades y las temperaturas repuntan",
       "link": "https://www.eldiario.es/sociedad/el-tiempo/lluvias-descargan-fuerza-martes-tres-comunidades-temperaturas-repuntan-pm_1_13544015.html",
       "imagen": "https://static.eldiario.es/clip/961a0e2c-d455-49ac-a613-7e1194510b51_16-9-discover-aspect-ratio_default_0_x1086y263.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El calor anómalo se mantiene este miércoles con más de 35 grados en estas provincias",
       "link": "https://www.eldiario.es/sociedad/el-tiempo/calor-anomalo-mantiene-miercoles-35-grados-provincias-pm_1_13529099.html",
       "imagen": "https://static.eldiario.es/clip/04dedd17-0da8-4688-ba34-02ce25812f4e_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El calor no afloja ni en otoño: hasta 38 grados y máximas 10 grados por encima de lo normal",
-      "link": "https://www.eldiario.es/sociedad/el-tiempo/calor-no-afloja-otono-38-grados-maximas-10-grados-normal-pm_1_13526083.html",
-      "imagen": "https://static.eldiario.es/clip/fbcfb936-1a39-4515-9e14-2edecc0c23fe_16-9-discover-aspect-ratio_default_0_x1246y557.jpg",
       "tipo": "imagen"
     }
   ]

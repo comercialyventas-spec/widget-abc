@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Historias del mundo real",
+      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20260930/nelio-biedermann-critica-libro-lazar-134518012",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a6bd2ccb-bb5c-4f1b-b155-2aefa017fa94_source-aspect-ratio_320w_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Historias del mundo real",
+      "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20260930/historias-mundo-real-134548813",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a6bd2ccb-bb5c-4f1b-b155-2aefa017fa94_source-aspect-ratio_320w_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Paul Auster, Patti Smith, Irene Solà y Francisco Casavella: los 30 años de La Central en 30 libros",
       "link": "https://www.epe.es/es/ocio-y-cultura/20260929/paul-auster-patti-smith-irene-134771839",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/abb01a05-c94a-45f1-83c6-51ecb931e0d6_16-9-discover-aspect-ratio_default_0_x1000y444.webp",
@@ -22,18 +34,6 @@
       "titulo": "'El hijo del oligarca', de Patrick Radden Keefe: el Londres que creyó a Zac",
       "link": "https://www.epe.es/es/ocio-y-cultura/libros/20260929/patrick-radden-keefe-critica-libro-hijo-oligarca-134517243",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f4f29bc6-ce83-4cd6-ab43-d9d0d59432a4_16-9-discover-aspect-ratio_default_0_x999y443.webp",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "'De la Naturaleza', de Tito Lucrecio Caro: explicar la naturaleza",
-      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20260928/naturaleza-tito-lucrecio-caro-explicar-134522023",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/156d65dd-6396-4464-a11c-54dbe8d51784_16-9-discover-aspect-ratio_default_0_x288y287.webp",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "'Hija del cielo', de Rodrigo Cortés: el caos de una niña dislocada en un mundo de extraviados",
-      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20260928/rodrigo-cortes-critica-libro-hija-cielo-134516000",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0a8c5aff-96e7-4300-8c5a-08f72b8f5eed_16-9-discover-aspect-ratio_default_0_x819y364.webp",
       "tipo": "imagen"
     }
   ]
