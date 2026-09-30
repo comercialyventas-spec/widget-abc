@@ -1,0 +1,23 @@
+name: Consultar URLs (solo lectura)
+
+# Se lanza cuando Claude sube migracion/consulta_urls.txt (una URL por línea).
+# Descarga cada URL desde GitHub y deja un extracto como avisos del run. No cambia nada.
+on:
+  push:
+    branches: [main]
+    paths: ['migracion/consulta_urls.txt']
+
+jobs:
+  consultar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Consultar
+        run: |
+          while IFS= read -r url; do
+            case "$url" in http://*|https://*) ;; *) continue ;; esac
+            cuerpo=$(curl -s -m 60 -A "Mozilla/5.0" "$url" | head -c 3000 | tr '\n\r' '  ')
+            echo "::notice::$url => ${cuerpo:0:900}"
+            sleep 5
+          done < migracion/consulta_urls.txt
