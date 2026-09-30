@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Traslado definitivo de parada: Avenida de la Victoria. Afectadas 2 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261002-TDP-16-Avenida-Victoria.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Traslado de Parada: calle de Ocaña. Afectada línea 17 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261001-TP-574-Ocaña.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -27,12 +33,6 @@
     {
       "titulo": "Recuperación de Parada: Guabairo. Afectadas 3 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261001-RP-4528-Guabairo.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Manifestación en Las Águilas. Afectadas 6 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261003-M-Blas-Cabrera-Rafael-Finat.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

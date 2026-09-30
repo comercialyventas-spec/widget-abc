@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Las imágenes del interior del avión: “Hemos controlado a los terroristas”",
+      "link": "https://elpais.com/videos/2026-09-30/las-imagenes-del-incidente-en-el-interior-del-avion.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260930/1220332_143527_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en directo, en EL PAÍS",
       "link": "https://elpais.com/videos/2026-09-30/el-pulso-de-hoy-por-hoy-en-el-pais.html",
       "imagen": "https://www.youtube.com/watch?v=IMbazQhxoJU",
@@ -28,12 +34,6 @@
       "titulo": "¿Qué dicen los decretos de vivienda que aprobó el Gobierno?",
       "link": "https://elpais.com/videos/2026-09-29/que-dicen-los-decretos-de-vivienda-que-aprobo-el-gobierno.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260929/1219983_183915_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘La Mesa de Hora 25’, programa en EL PAÍS",
-      "link": "https://elpais.com/videos/2026-09-29/la-mesa-de-hora-25-programa-en-el-pais.html",
-      "imagen": "https://www.youtube.com/watch?v=Hf0UADIbPAo",
       "tipo": "imagen"
     }
   ]

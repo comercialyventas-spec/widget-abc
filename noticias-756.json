@@ -1,15 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Adiós a La Pequeñita, la penúltima mercería de Malasaña",
+      "link": "https://www.eldiario.es/madrid/somos/malasana/adios-pequenita-penultima-merceria-malasana_1_13551005.html",
+      "imagen": "https://static.eldiario.es/clip/128c0070-3320-416f-b457-05f0e3726cea_16-9-discover-aspect-ratio_default_0_x1010y540.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La exposición 'Yo fui a EGB' bate el récord de visitas en los museos del Ayuntamiento de Madrid",
       "link": "https://www.eldiario.es/madrid/somos/malasana/exposicion-egb-bate-record-visitas-museos-ayuntamiento-madrid_1_13528544.html",
-      "imagen": "https://static.eldiario.es/clip/4338139b-8b1a-4cc2-af27-80da9d79c26d_16-9-discover-aspect-ratio_default_0.jpg",
+      "imagen": "https://static.eldiario.es/clip/4338139b-8b1a-4cc2-af27-80da9d79c26d_16-9-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
       "titulo": "El Maderfaker cierra y pone fin a 30 años como alma de la música negra y el baile en Malasaña",
       "link": "https://www.eldiario.es/madrid/somos/malasana/maderfaker-cierra-pone-30-anos-alma-musica-negra-baile-malasana_1_13482519.html",
-      "imagen": "https://static.eldiario.es/clip/b2f937ec-937a-44c4-9cc6-39fe3920a4ce_16-9-aspect-ratio_default_0_x1254y905.jpg",
+      "imagen": "https://static.eldiario.es/clip/b2f937ec-937a-44c4-9cc6-39fe3920a4ce_16-9-discover-aspect-ratio_default_0_x1254y905.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Un incendio en un edificio de la calle San Roque obliga a desalojar a sus vecinos y cubre de humo Malasaña",
       "link": "https://www.eldiario.es/madrid/somos/malasana/incendio-edificio-calle-san-roque-obliga-desalojar-vecinos-cubre-humo-malasana_1_13484128.html",
       "imagen": "https://static.eldiario.es/clip/23569770-385b-410f-9ff8-fe46c21e8bd7_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Telefónica firma la venta de su centenario edificio de Gran Vía a Tomás Olivo, el impulsor de Valdebebas Shopping",
-      "link": "https://www.eldiario.es/madrid/somos/telefonica-firma-venta-centenario-edificio-gran-via-tomas-olivo-impulsor-valdebebas-shopping_1_13482644.html",
-      "imagen": "https://static.eldiario.es/clip/24eb66b6-f688-431e-b933-0022ce008c22_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

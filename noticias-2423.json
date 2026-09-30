@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Campanada histórica de las Liberty",
+      "link": "https://www.marca.com/baloncesto/nba/2026/09/30/campanada-historica-liberty.html",
+      "imagen": "https://e01-xlk-ue-marca.uecdn.es/files/article_main_microformat/uploads/2026/09/30/6abcd35c2146d.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "LeBron, que vive en Nueva York, viaja en helicóptero a Filadelfia para evitar atascos y jugar con los Sixers",
       "link": "https://www.marca.com/baloncesto/nba/2026/09/30/lebron-vive-nueva-york-viaja-helicoptero-filadelfia-evitar-atascos-jugar-sixers-video.html",
       "imagen": "https://www.dailymotion.com/crawler/video/xbf4t2q",
@@ -28,12 +34,6 @@
       "titulo": "Baba Miller, el quinto elemento español de la NBA: así se presentó el unicornio con alcance de 2,82 m.",
       "link": "https://www.marca.com/baloncesto/nba/2026/09/30/baba-miller-quinto-elemento-espanol-nba-asi-presento-unicornio-alcance-2-82-m-video.html",
       "imagen": "https://www.dailymotion.com/crawler/video/xbeimyq",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una camiseta de Michael Jordan se vende por 12,26 millones: The Last Dance de las Finales NBA de 1998",
-      "link": "https://www.marca.com/baloncesto/nba/2026/09/30/camiseta-michael-jordan-vende-12-26-millones-the-last-dance-finales-nba-1998.html",
-      "imagen": "https://e01-xlk-ue-marca.uecdn.es/files/article_main_microformat/uploads/2026/09/30/6abc770f69967.jpeg",
       "tipo": "imagen"
     }
   ]

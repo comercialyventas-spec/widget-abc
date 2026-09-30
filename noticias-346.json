@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Una IA gratuita para las pequeñas empresas: Meta acerca Muse a los negocios locales con la promesa de ahorrarles horas de trabajo",
+      "link": "https://www.abc.es/tecnologia/ia-gratuita-pequenas-empresas-meta-acerca-muse-20260930191555-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/30/empresaria-pyme-RTCRaPDoSGlij6z4sXFe1cI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ciberataque histórico al FBI: una filtración masiva expone datos médicos y secretos de miles de agentes",
+      "link": "https://www.abc.es/tecnologia/informatica/ciberataque-historico-fbi-filtracion-masiva-expone-datos-20260930182235-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/30/fbi-hrt-1-RgMGvyzRUaBu0NFrxK0Bo3K-1200x840@diario_abc.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un masivo fraude con tarjetas robadas salpica a Polymarket y destapa el caos interno en las apuestas digitales",
       "link": "https://www.abc.es/tecnologia/masivo-fraude-tarjetas-robadas-salpica-polymarket-destapa-20260929211643-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/29/graficos-apuestas-telefono-movil-alphatradezone-R1o3S1DgUtlRWPtit4ZUX5H-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "OpenAI pospone el lanzamiento de un nuevo modelo de IA por preocupantes fallos de seguridad",
       "link": "https://www.abc.es/tecnologia/openai-pospone-lanzamiento-nuevo-modelo-ia-preocupantes-20260929085821-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/29/1518005180-k3BH-U301945381492swF-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Anthropic lanza Claude Sonnet 5.5, la nueva IA que promete hacer tu trabajo de oficina en la mitad de tiempo que ChatGPT",
-      "link": "https://www.abc.es/tecnologia/anthropic-lanza-claude-sonnet-nueva-ia-promete-20260929191307-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/29/dario-amodei-anthropic-claude-RYpaNbtqVxJQPy6SX8kLS6I-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Probamos los nuevos HeadPhone (1) Pro: la madurez acústica de Nothing desafía a los gigantes",
-      "link": "https://www.abc.es/tecnologia/probamos-nuevos-headphone-pro-madurez-acustica-nothing-20260929184444-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/09/29/auricularress-RS10MTM0SUKo8csjNJ1gH4N-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

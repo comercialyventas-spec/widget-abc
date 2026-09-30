@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Medusa",
+      "link": "https://elpais.com/television/series/medusa/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TTTUI5QCTFG5TPGNWZX63MP4FE.jpg?auth=d8bc173e8a527c4f715819542c79290842e2eae2a9593057edc6647456e2ef19",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Adults",
       "link": "https://elpais.com/television/series/adults/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/5VZWSA3GQRFC7NXVGKTRZMLZE4.jpg?auth=797d5306673e60b46f90cdab913fdca8e88a2843f67e86e65372ad8472b8d0b0",
@@ -28,12 +34,6 @@
       "titulo": "Muere Dennis Haskins, el director Belding de ‘Salvados por la campana’, a los 75 años",
       "link": "https://elpais.com/television/series/2026-09-29/muere-dennis-haskins-el-director-belding-de-salvados-por-la-campana-a-los-75-anos.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/PIYLAKWBEVHUBIGCU6U4BMLNQQ.jpg?auth=f3890c781864b72229ec705ef3894f3b31c0f47237cd2694ee0dbb3e966ea398",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Inspectora Ellis",
-      "link": "https://elpais.com/television/series/inspectora-ellis/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/XMZA3WALXRBUFFAZZQAOHGD6GU.jpg?auth=60d8e8d488b29453ac22ae38a63547de53ed9305bebb13612579c34970363bd4",
       "tipo": "imagen"
     }
   ]
