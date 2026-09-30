@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en directo, en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-09-30/el-pulso-de-hoy-por-hoy-en-el-pais.html",
+      "imagen": "https://www.youtube.com/watch?v=IMbazQhxoJU",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cronología visual de una crisis que comenzó con la llegada de miles de inmigrantes a Ceuta",
       "link": "https://elpais.com/videos/2026-09-30/cronologia-visual-de-una-crisis-que-comenzo-con-la-llegada-de-miles-de-inmigrantes-a-ceuta.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260929/1219908_154535_video_1800.mp4",
@@ -28,12 +34,6 @@
       "titulo": "‘La Mesa de Hora 25’, programa en EL PAÍS",
       "link": "https://elpais.com/videos/2026-09-29/la-mesa-de-hora-25-programa-en-el-pais.html",
       "imagen": "https://www.youtube.com/watch?v=Hf0UADIbPAo",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Programa especial | ¿Qué medidas recoge el nuevo decreto sobre la vivienda y cómo las reciben en Sol?",
-      "link": "https://elpais.com/videos/2026-09-29/programa-especial-que-medidas-recoge-el-nuevo-decreto-sobre-la-vivienda-y-como-las-reciben-en-sol.html",
-      "imagen": "https://www.youtube.com/watch?v=HzD7lUc6w4M",
       "tipo": "imagen"
     }
   ]

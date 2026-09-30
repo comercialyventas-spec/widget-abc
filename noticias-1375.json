@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "‘Backpack’ se corona como el oso más gordo de Alaska",
+      "link": "https://elpais.com/clima-y-medio-ambiente/2026-09-30/backpack-se-corona-como-el-oso-mas-gordo-de-alaska.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/OSTTXFLL7JFGBHEZBEZBKE2RTQ.jpg?auth=d507d85942cf750d618a3fe45b20edf5de9ebaed0c0fa848385dff6d0000d444",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las lluvias y una noria térmica protagonizarán el paso a octubre en buena parte del país",
+      "link": "https://elpais.com/el-tiempo/2026-09-30/las-lluvias-y-una-noria-termica-protagonizaran-el-paso-a-octubre-en-buena-parte-del-pais.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7LSWSCVLXNPWPBAFOHHLFZ76ZE.jpg?auth=bd0ff64cfcafb56b1bdcaa5b4a3c38ad8370b9557ebb8df27d4ddfcc0ea03937",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las rutas migratorias de la contaminación: así se saltan las fronteras el ozono, el polvo sahariano y el humo de los incendios",
       "link": "https://elpais.com/clima-y-medio-ambiente/2026-09-30/las-rutas-migratorias-de-la-contaminacion-asi-se-saltan-las-fronteras-el-ozono-el-polvo-sahariano-y-el-humo-de-los-incendios.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/7NZRNCHOZVTEQG6URZ3WADOR34.jpg?auth=cc341020fda4dceeaca55c92d12451a3f67d8ecc51af80711103f8eee4174c89",
@@ -22,18 +34,6 @@
       "titulo": "Aviso rojo por lluvias torrenciales en Barcelona tras descargar con furia 123 litros en Cáceres y 73 en Requena",
       "link": "https://elpais.com/el-tiempo/2026-09-29/aviso-rojo-en-tarragona-tras-descargar-con-furia-123-litros-en-caceres-y-73-en-requena.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/OJANFU6DONA7NNMYWW4HF2AXUI.jpg?auth=65e805bd678b53e3009af9e5700ea77f5236dc04d340a263dd31cd7a138d9cdd",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La revolución solar se atasca en las ciudades: faltan tejados y sobran barreras",
-      "link": "https://elpais.com/clima-y-medio-ambiente/2026-09-29/la-revolucion-solar-choca-con-la-falta-de-tejados-en-las-ciudades.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/E3PWGWZYZVHVFFA47ZV4PFRODE.jpg?auth=1d71debd6725ba427eafcc801b86c553e0451280ee6e272d375d8baa3351048c",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cambio de tiempo: caída brusca de las temperaturas de hasta 12° y chubascos fuertes con granizo",
-      "link": "https://elpais.com/el-tiempo/2026-09-28/cambio-de-tiempo-caida-brusca-de-las-temperaturas-de-hasta-12-y-chubascos-fuertes-con-granizo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/UM4UMYIQKBFVHLTOQD5ZWBFCMI.JPG?auth=4ef83e51f12349a798aa4b40fc5af43ff6be10924ac7ad9e79ce43ceec753834",
       "tipo": "imagen"
     }
   ]

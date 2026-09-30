@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "Alerta por contaminación en Lanzarote tras hundirse un buque atracado con 10.000 litros de gasoil",
+      "titulo": "Se investiga la muerte de un hombre tras ser arrollado por una pala excavadora en Tenerife",
+      "link": "https://www.abc.es/espana/canarias/investiga-muerte-hombre-tras-arrollado-pala-excavadora-20260930114341-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/30/c7-RvnqqnrZq0e3ZzPbqyQdqsO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Canarias ve una «ventana de oportunidad» en la presidencia irlandesa de la UE para limitar la compra de vivienda a extranjeros",
+      "link": "https://www.abc.es/espana/canarias/canarias-ventana-oportunidad-presidencia-irlandesa-ue-limitar-20260930101454-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/30/clavijo-RcRYU56sZi0khUKNLazDXtM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Alerta por contaminación en Lanzarote tras hundirse un buque con 10.000 litros de gasoil",
       "link": "https://www.abc.es/espana/canarias/alerta-contaminacion-lanzarote-tras-hundirse-buque-atracado-20260929195920-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/29/0a828e01822d8f22aafa50d3e24074557441a6a1_20260929195741-RWrg2MMRYqsLr0fw1Hyv9hP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Canarias se suma a las protestas sobre vivienda y extiende la acampada de Sol al archipiélago",
+      "link": "https://www.abc.es/espana/canarias/canarias-suma-protestas-sobre-vivienda-extiende-acampada-20260930094105-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/30/f27a396fec69d2819532fd5d03be771f776b8509-RRHs6YHQMRtSYsjKUaXhQGJ-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "Ocho detenidos en Tenerife por simular anuncios de alquiler y cobrar reserva y fianza",
       "link": "https://www.abc.es/espana/canarias/ocho-detenidos-tenerife-simular-anuncios-alquiler-cobrar-20260929141028-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/29/guardiacivil-R3p8Q7xkb0t5rsnuk873JyO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Clavijo sobre vivienda: «Es un asunto importante que no se puede resolver con un decreto ley en 48 horas»",
-      "link": "https://www.abc.es/espana/canarias/clavijo-sobre-vivienda-asunto-importante-puede-resolver-20260929140117-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/29/clavijo-RoDSlYHKXkEVR4ElUeXF0VK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El incendio en la cocina de un restaurante en Tenerife deja dos afectados",
-      "link": "https://www.abc.es/espana/canarias/incendio-cocina-restaurante-tenerife-deja-dos-afectados-20260929095237-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/29/bombero-RL6wIKIfrXPLETeoeo4bhRN-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "En libertad los tres acusados de violar en grupo a una mujer en una neumática rumbo a Canarias",
-      "link": "https://www.abc.es/espana/canarias/libertad-tres-acusados-violar-grupo-mujer-neumatica-20260928151343-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/28/neumatica-RUXdKX0XYSvytCKmAI5ldVJ-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

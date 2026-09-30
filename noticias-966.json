@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Adults",
+      "link": "https://elpais.com/television/series/adults/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/5VZWSA3GQRFC7NXVGKTRZMLZE4.jpg?auth=797d5306673e60b46f90cdab913fdca8e88a2843f67e86e65372ad8472b8d0b0",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Mediapro cierra el canal deportivo Gol tras más de una década",
+      "link": "https://elpais.com/television/2026-09-30/mediapro-cierra-el-canal-deportivo-gol-tras-mas-de-una-decada.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7POEU3A3IJH6BGL3O3RMEJ3G6E.jpg?auth=31a9a9c9cfcbf8bc47accb94275f3e81f11e7c9ec4b292e72232dd8089609c6c",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Por qué el ‘prime time’ ya no es lo que pensabas",
       "link": "https://elpais.com/television/2026-09-30/por-que-el-prime-time-ya-no-es-lo-que-pensabas.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/7NAPSSYL3FGBDGQPHBMUH2MX3E.jpg?auth=d72fdeef0b54071a326c47565c941392b67965724965117b7cd6151254311eae",
@@ -22,18 +34,6 @@
       "titulo": "Inspectora Ellis",
       "link": "https://elpais.com/television/series/inspectora-ellis/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/XMZA3WALXRBUFFAZZQAOHGD6GU.jpg?auth=60d8e8d488b29453ac22ae38a63547de53ed9305bebb13612579c34970363bd4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘Mis muertos tristes’: lo peor está en este barrio",
-      "link": "https://elpais.com/television/series/2026-09-29/mis-muertos-tristes-lo-peor-esta-en-este-barrio.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/WDWPI4RLORBVJJWK4DYLLHDMYQ.jpg?auth=a5f818785f8d11938c2ea26167219f9ff639f3a7d26baedcef4a2f2dd0078a42",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las nueve horas diarias producidas por Ana Rosa Quintana no consiguen salvar a Telecinco en las audiencias",
-      "link": "https://elpais.com/television/2026-09-29/las-nueve-horas-diarias-producidas-por-ana-rosa-quintana-no-consiguen-salvar-a-telecinco-en-las-audiencias.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/7OJERERNOVCIDL26KMBRYZIK4E.png?auth=c94ebbfc35d0df9ceb43a5ee087400f88d5b0494163b1318042684cd355d36ba",
       "tipo": "imagen"
     }
   ]

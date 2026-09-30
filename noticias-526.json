@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Leche",
+      "link": "https://www.elconfidencialdigital.com/album/vivir/leche/202609301252431489396.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/30/2026093012472046997.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Maricarmen, vecina de 87 años de Retiro",
       "link": "https://www.elconfidencialdigital.com/album/vivir/maricarmen-vecina-87-anos-retiro/202609291214201489007.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/29/2026092912103112531.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Menores Ceuta",
       "link": "https://www.elconfidencialdigital.com/album/vivir/menores-ceuta/202609241233291487950.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/24/2026092412293917381.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Trabajadores de Renfe",
-      "link": "https://www.elconfidencialdigital.com/album/vivir/trabajadores-renfe/202609231203571487574.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/23/2026092312025941160.jpg",
       "tipo": "imagen"
     }
   ]

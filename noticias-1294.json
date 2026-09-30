@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Somos potencia mundial: el pistacho se dispara un 1.310% en España",
+      "link": "https://www.mediterraneodigital.com/sociedad-y-tiempo-libre/pistachos-cultivo",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/5/pistachos.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El auge de los grandes abogados: Nacho Toledano, referente en España del derecho penal",
       "link": "https://www.mediterraneodigital.com/sociedad-y-tiempo-libre/nacho-toledano-abogado-penalista-espana-perfil",
       "imagen": "https://www.mediterraneodigital.com/images/2026/4/toledano-nacho.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Libros de segunda mano: cómo comprar barato sin renunciar a la calidad",
       "link": "https://www.mediterraneodigital.com/sociedad-y-tiempo-libre/libros-de-segunda-mano",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/libros.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "X estrena un nuevo modelo para pagar a creadores",
-      "link": "https://www.mediterraneodigital.com/sociedad-y-tiempo-libre/x-creadores",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/9/x-creadores.jpg",
       "tipo": "imagen"
     }
   ]
