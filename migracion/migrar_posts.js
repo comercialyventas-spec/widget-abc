@@ -108,6 +108,31 @@ async function main() {
         continue;
       }
 
+      // Lista "detectar": "poner_moneda": solo añade data-moneda al motor de productos que ya lleva el post.
+      // No toca nada más del post. La copia de backups/ (si ya existe, la original antes de migrar) no se pisa.
+      if (lista.detectar === 'poner_moneda') {
+        const moneda = String(entrada.moneda || '');
+        if (!/^[A-Z]{3}$/.test(moneda)) { resumen.push(`SALTADO  ${nombre}: moneda no válida "${moneda}"`); continue; }
+        const bloques = viejo.match(/<div class="motor-productos"[^>]*>/g) || [];
+        if (bloques.length !== 1) { resumen.push(`SALTADO  ${nombre}: el post tiene ${bloques.length} bloques motor-productos (se esperaba 1)`); continue; }
+        if (/data-moneda=/.test(bloques[0])) { resumen.push(`YA ESTABA BIEN  ${nombre}: ya lleva data-moneda`); continue; }
+        const nuevoMon = viejo.replace(bloques[0], bloques[0].replace('<div class="motor-productos"', `<div class="motor-productos" data-moneda="${moneda}"`));
+        if (modo === 'simular') {
+          resumen.push(`SE CAMBIARÍA  ${nombre}  (post ${post.id}: añade data-moneda="${moneda}", ${viejo.length} → ${nuevoMon.length} caracteres)  ${post.url}`);
+          continue;
+        }
+        if (!fs.existsSync(archivoBackup)) {
+          fs.writeFileSync(archivoBackup, JSON.stringify({
+            id: post.id, blogId, url: post.url, path: ruta, titulo: post.title, fila,
+            contenido: viejo, fecha_copia: new Date().toISOString(),
+          }, null, 1));
+        }
+        await blogger(token, 'PATCH', `${API}/blogs/${blogId}/posts/${post.id}`, { content: nuevoMon });
+        resumen.push(`CAMBIADO  ${nombre} → data-moneda="${moneda}"  ${post.url}`);
+        await esperar(3000);
+        continue;
+      }
+
       const llevaViejo = llevaScriptGoogle(viejo, lista.detectar);
       if (!llevaViejo) { resumen.push(`YA ESTABA BIEN  ${nombre}: no lleva el script viejo, no se toca`); continue; }
 
