@@ -1,0 +1,44 @@
+name: Catalogos desde paginas de producto
+
+# Para tiendas cuyo sitemap no trae fotos: visita las páginas de producto y genera el catálogo.
+# Se lanza los martes y viernes de madrugada, y cuando Claude cambia productos/catalogos_paginas.txt.
+on:
+  schedule:
+    - cron: '15 4 * * 2,5'
+  push:
+    branches: [main]
+    paths: ['productos/catalogos_paginas.txt', 'productos/catalogo_desde_paginas.py']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: widget-abc-git-write
+  cancel-in-progress: false
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Generar
+        run: |
+          python3 productos/catalogo_desde_paginas.py productos/catalogos_paginas.txt | tee /tmp/res.txt
+          while IFS= read -r l; do echo "::notice::$l"; done < /tmp/res.txt
+      - name: Guardar
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add productos
+          if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
+          git commit -m "productos: catalogos desde paginas de producto"
+          for i in 1 2 3 4 5; do
+            git fetch origin main && git rebase origin/main && git push origin HEAD:main && exit 0
+            git rebase --abort 2>/dev/null || true
+            sleep 10
+          done
+          exit 1
