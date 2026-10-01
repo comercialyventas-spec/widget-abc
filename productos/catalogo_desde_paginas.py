@@ -27,7 +27,9 @@ def precio_jsonld(p):
 SIMB = {'EUR': '€', 'USD': 'USD', 'GBP': '£'}
 for linea in open(sys.argv[1], encoding='utf-8'):
     if not linea.strip() or linea.startswith('#'): continue
-    clave, sitemap, filtro, maximo = [x.strip() for x in linea.split('|')]
+    partes = [x.strip() for x in linea.split('|')]
+    clave, sitemap, filtro, maximo = partes[:4]
+    orden = partes[4] if len(partes) > 4 else ''
     maximo = int(maximo)
     slug = hashlib.md5(clave.encode()).hexdigest()[:16]
     try:
@@ -36,6 +38,8 @@ for linea in open(sys.argv[1], encoding='utf-8'):
         print('SITEMAP NO DISPONIBLE', clave, e); continue
     urls = [html.unescape(u.strip()) for u in re.findall(r'<loc>\s*(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?\s*</loc>', xml, re.S)]
     urls = [u for u in dict.fromkeys(urls) if filtro in u and re.search(r'\.html?$|/p/|/product', u)]
+    if orden == 'id_desc':   # los productos más nuevos primero (número de producto al principio de la dirección)
+        urls.sort(key=lambda u: -int((re.search(r'/(\d+)-[^/]*$', u) or [0, 0])[1]))
     prods, vistos_img = [], set()
     for u in urls:
         if len(prods) >= maximo: break
@@ -45,7 +49,7 @@ for linea in open(sys.argv[1], encoding='utf-8'):
             continue
         img = meta(p, 'og:image', 'og:image:secure_url', 'twitter:image')
         tit = meta(p, 'og:title', 'twitter:title') or (re.search(r'<title[^>]*>(.*?)</title>', p, re.S | re.I) or [None, ''])[1]
-        tit = re.sub(r'\s*[|\-–]\s*(Adolfo Dom[ií]nguez|Catchalot)[^|]*$', '', html.unescape(tit or '').strip(), flags=re.I)
+        tit = re.sub(r'\s*[|\-–]\s*(Adolfo Dom[ií]nguez|AD Espa[ñn]a|Catchalot)[^|]*$', '', html.unescape(tit or '').strip(), flags=re.I)
         if not img or not tit or img in vistos_img: 
             time.sleep(1); continue
         vistos_img.add(img)
@@ -59,6 +63,9 @@ for linea in open(sys.argv[1], encoding='utf-8'):
             except Exception: pass
         prods.append({'titulo': tit, 'url': u, 'imagen': img, 'precio': precio})
         time.sleep(1.2)
+    precios = [x['precio'] for x in prods if x['precio']]
+    if len(precios) > 5 and len(set(precios)) == 1:   # todos iguales: el precio no se ha leído bien, mejor no ponerlo
+        for x in prods: x['precio'] = ''
     print(f'{clave}: {len(urls)} direcciones con "{filtro}", {len(prods)} productos con foto')
     if len(prods) < 6:
         print('  pocos productos: se conserva la copia anterior'); continue
