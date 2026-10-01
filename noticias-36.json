@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "La Guardia Civil investiga el secuestro y la agresión a tres jóvenes argelinos en Mallorca",
+      "link": "https://www.lavanguardia.com/sucesos/20261001/11648568/guardia-civil-investiga-secuestro-agresion-tres-jovenes-argelinos-mallorca.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/10/08/68e63d886ea0f.r_d.570-407-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El pilot d'un vol de Dubai amb destinació a Tel-Aviv va intentar estavellar un avió amb 150 passatgers",
+      "link": "https://www.lavanguardia.com/encatala/20261001/11648160/pilot-d-vol-dubai-amb-destinacio-tel-aviv-intentar-estavellar-avio-amb-150-passatgers.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/30/6abd740f7f179.r_d.3369-2246-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Guardia Civil alerta del peligro extremo de practicar barranquismo",
       "link": "https://www.lavanguardia.com/sucesos/20261001/11647949/guardia-civil-alerta-peligro-extremo-practicar-barranquismo.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Localizan a la víctima de otro secuestro exprés el domingo en Calella",
+      "link": "https://www.lavanguardia.com/local/maresme/20260930/11647950/localizan-victima-secuestro-expreso-domingo-calella.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/12/22/6949711ac2551.jpeg",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "Paralizado el desahucio de Daniel, investigador de Valencia: “Hay que seguir protestando porque esto es injusto”",
       "link": "https://www.lavanguardia.com/local/valencia/20260930/11647638/paralizado-desahucio-daniel-investigador-valencia-hay-seguir-protestando-esto-injusto.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/30/6abcf2987bc3e.r_d.2477-1663-1100.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El piloto de un vuelo de Dubái con destino a Tel Aviv intentó estrellar un avión con 150 pasajeros",
-      "link": "https://www.lavanguardia.com/internacional/20260930/11647419/piloto-apunala-pleno-vuelo-evitar-secuestro-avion-dirigia-tel-aviv.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/30/6abd740f7f179.r_d.3369-2246-666.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La insólita reacción de la arrestada por la muerte de Juanpere a la llegada de los sanitarios: “Me quería casar con él y él no quería”",
-      "link": "https://www.lavanguardia.com/sucesos/20260930/11647429/insolita-reaccion-arrestada-muerte-juanpere-llegada-sanitarios-me-queria-casar-queria.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/26/6ab6fa34c86cc.r_d.1710-902-2725.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Hallan el cadáver de un hombre sin cabeza ni extremidades flotando en Sagunt",
-      "link": "https://www.lavanguardia.com/local/valencia/20260930/11647415/hallan-cadaver-hombre-cabeza-extremidades-flotando-sagunt.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/05/30/6a1aecbf6ed7d.jpeg",
       "tipo": "imagen"
     }
   ]

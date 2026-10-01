@@ -1,7 +1,19 @@
 {
   "noticias": [
     {
-      "titulo": "Última hora de la alerta por lluvias torrenciales en Barcelona y Catalunya, en directo: envío del ES-Alert y previsión del tiempo del Meteocat",
+      "titulo": "Este fin de semana, Día de las Aves con observaciones en 120 puntos de toda España",
+      "link": "<![CDATA[https://www.elperiodico.com/es/medio-ambiente/20261001/semana-dia-aves-observaciones-120-134877832",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0b5d07d4-c088-4ecc-a8e9-7d2b4a810de1_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los devastadores incendios de Indonesia acorralan a los orangutanes, en peligro crítico de extinción",
+      "link": "<![CDATA[https://www.elperiodico.com/es/medio-ambiente/20261001/devastadores-incendios-indonesia-acorralan-orangutanes-134871344",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/687ff4ec-3d7d-45d7-8836-45bcbcecc799_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Última hora de la alerta por lluvias en Catalunya y Valencia, en directo Avisos de la Aemet y el Meteocat en Tarragona, Barcelona y Castellón",
       "link": "<![CDATA[https://www.elperiodico.com/es/sociedad/20261001/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/acdc1168-ea82-49a8-9da9-c03b082f9d92_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
@@ -22,18 +34,6 @@
       "titulo": "Un millón de animales muertos cada año en balsas de riego: denuncian la paralización del decreto que lo evitaría",
       "link": "<![CDATA[https://www.elperiodico.com/es/medio-ambiente/20260930/millon-animales-muertos-ano-balsas-134829125",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/191e94ae-d834-4cb5-b372-59326d8d28e4_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Estados Unidos legaliza la muerte de especies amenazadas y protegidas",
-      "link": "<![CDATA[https://www.elperiodico.com/es/medio-ambiente/20260930/estados-unidos-legaliza-muerte-especies-134825461",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9b2124fd-e425-4142-9a8d-86fb49f2ebd9_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Misteriosa mortandad de crías de ballena en la Patagonia argentina",
-      "link": "<![CDATA[https://www.elperiodico.com/es/medio-ambiente/20260929/misteriosa-mortandad-crias-ballena-patagonia-134788472",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/02da9507-5af0-439e-93b6-1184b84be764_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

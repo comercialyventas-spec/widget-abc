@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Idealista",
+      "link": "https://www.elconfidencialdigital.com/album/vivir/idealista/202610011143261489799.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/01/2026100111460489919.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Test de covid",
+      "link": "https://www.elconfidencialdigital.com/album/vivir/test-de-covid/202610011131311489787.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/01/2026100111271935701.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Viajeros en la Estación de Madrid - Puerta de Atocha - Almudena Grandes",
       "link": "https://www.elconfidencialdigital.com/album/vivir/viajeros-estacion-madrid-puerta-atocha-almudena-grandes/202609301621401489560.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/30/2026093016160055400.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Covid",
       "link": "https://www.elconfidencialdigital.com/album/vivir/covid/202609281722571488893.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/28/2026092817172446406.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tratamientos estéticos",
-      "link": "https://www.elconfidencialdigital.com/album/vivir/tratamientos-esteticos/202609251235191488222.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2023/04/10/2023041010261169153.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Taxis",
-      "link": "https://www.elconfidencialdigital.com/album/vivir/taxis/202609251132061488190.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2018/03/09/ECDIMA20180309_0013_1.jpg",
       "tipo": "imagen"
     }
   ]

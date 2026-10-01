@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Crece el acampe en Plaza Catalunya",
+      "link": "<![CDATA[https://www.elperiodico.com/es/videos/barcelona/crece-acampe-plaza-catalunya-video/134876788.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0a3f01ab-b01c-4d7f-98d5-4012d477d1d1_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Barcelona quiere reducir atascos y mejorar el transporte público",
       "link": "<![CDATA[https://www.elperiodico.com/es/videos/barcelona/barcelona-quiere-reducir-atascos-mejorar/134858861.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0c057c61-8130-4ebc-9214-c6fcce258815_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Sánchez visita una promoción de vivienda pública de alquiler asequible",
       "link": "<![CDATA[https://www.elperiodico.com/es/videos/barcelona/sanchez-visita-promocion-vivienda-publica-video/134774051.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/fc487070-5624-4830-b4cc-293ac8def0de_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "A pie de calle Danza y circo por la Mercè en el Fòrum",
-      "link": "<![CDATA[https://www.elperiodico.com/es/videos/barcelona/pie-calle-danza-circo-merce-video/134710922.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2a9febca-8c59-402f-8ef5-506e757454ec_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

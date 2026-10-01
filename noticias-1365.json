@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Querido Pedro, querido Javier",
+      "link": "https://elpais.com/opinion/2026-10-01/querido-pedro-querido-javier.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/C7XST2XXWRJQTA6SRKIM635RZQ.jpg?auth=5bb69453a4c97e429a8268b93c527ceb21caca493b55c9354278f88d58688421",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un simulacro de 15-M contra la derecha",
       "link": "https://elpais.com/opinion/2026-10-01/un-simulacro-de-15-m-contra-la-derecha.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/37DNG3VAZBAABCH3E7JQOFC5SU.JPG?auth=3811f10743071c458bd4b7f1f7dcb2458165d880ef016fede397ea58bf5971e9",
@@ -28,12 +34,6 @@
       "titulo": "Un lector: “Necesitamos expertos, no productores de ‘papers”",
       "link": "https://elpais.com/opinion/2026-10-01/un-lector-necesitamos-expertos-no-productores-de-papers.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/EOGKSEH4JVFU3JVHQTQYZWLB74.JPG?auth=f31cdea468285245eab08ea8699a99857e1d954389047c59e1c56fd311a02726",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Brasil, peligro de involución",
-      "link": "https://elpais.com/opinion/2026-10-01/brasil-peligro-de-involucion.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ATRZ5YX7FVFEPDWOKVIEWEC3U4.JPG?auth=cf73b7dd4efd4fdbae99103d505052d19fd35a10091859920160048a9884700b",
       "tipo": "imagen"
     }
   ]
