@@ -32,9 +32,11 @@ const { chromium } = require('playwright');
         const p = cards[0] ? (cards[0].querySelector('.mp-precio') || {}).textContent || '' : '';
         const estado = (document.querySelector('.mp-estado') || {}).textContent || '';
         const viejo = /script\.google\.com\/macros/.test(document.documentElement.innerHTML.replace(/w7seO|mjaZZ/g, ''));
-        return { conFoto, conPrecio, t: t.trim().slice(0, 40), p: p.trim().slice(0, 20), estado: estado.trim().slice(0, 40), motor: !!document.querySelector('.motor-productos') };
+        const html = document.documentElement.innerHTML;
+        const pista = (html.match(/motor-productos|tienda-catalogo|script\.google\.com\/macros\/s\/[A-Za-z0-9_-]{8}/g) || []).slice(0, 4).join(',');
+        return { pista, titulo: document.title.slice(0, 40), conFoto, conPrecio, t: t.trim().slice(0, 40), p: p.trim().slice(0, 20), estado: estado.trim().slice(0, 40), motor: !!document.querySelector('.motor-productos') };
       });
-      linea = `${n > 0 ? 'OK ' : 'MAL'} ${n} productos (${datos.conFoto} foto, ${datos.conPrecio} precio) motor=${datos.motor ? 'si' : 'NO'} | ${datos.t} | ${datos.p} | ${datos.estado} | ${url.replace(/^https:\/\//, '')}`;
+      linea = `${n > 0 ? 'OK ' : 'MAL'} ${n} productos (${datos.conFoto} foto, ${datos.conPrecio} precio) motor=${datos.motor ? 'si' : 'NO'} | ${datos.t} | ${datos.p} | ${datos.estado} | ${datos.titulo} | ${datos.pista} | ${url.replace(/^https:\/\//, '')}`;
     } catch (e) {
       linea = `ERROR ${e.message.slice(0, 100)} | ${url}`;
     }
