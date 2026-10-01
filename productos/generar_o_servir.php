@@ -178,6 +178,15 @@ function extraerDeSitemap($xml) {
             $titulo = ucwords(str_replace('-', ' ', $slugPart));
         }
 
+        // Títulos que son solo un número de modelo (p. ej. "42717"): se antepone la marca
+        // tomada del primer tramo de la dirección ("/jovani/..." -> "Jovani 42717").
+        if (preg_match('/^\d+$/', $titulo)) {
+            $ruta = trim((string) parse_url(trim($mLoc[1]), PHP_URL_PATH), '/');
+            $primero = $ruta !== '' ? explode('/', $ruta)[0] : '';
+            if ($primero !== '' && !preg_match('/^\d+$/', $primero)) {
+                $titulo = ucwords(str_replace('-', ' ', $primero)) . ' ' . $titulo;
+            }
+        }
         $productos[] = [
             'titulo' => $titulo,
             'url' => trim($mLoc[1]),
