@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Las alertas sobre la IA espantan a las aseguradoras mientras las grandes tecnológicas limitan su responsabilidad",
+      "link": "https://www.eldiario.es/tecnologia/alertas-ia-espantan-aseguradoras-grandes-tecnologicas-limitan-responsabilidad_1_13547209.html",
+      "imagen": "https://static.eldiario.es/clip/1f4f5732-49c5-44b6-84c9-c23f1cd48338_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Trump asegura que EEUU puede comprar acciones de OpenAI y Anthropic",
       "link": "https://www.eldiario.es/tecnologia/trump-asegura-eeuu-comprar-acciones-openai-anthropic_1_13554431.html",
       "imagen": "https://static.eldiario.es/clip/b17457da-0883-495c-850c-6c3fb08c5760_facebook-aspect-ratio-1200-675_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Nvidia presenta una plataforma de seguridad para controlar a la IA antes de una comida de Trump con tecnoligarcas en la Casa Blanca",
       "link": "https://www.eldiario.es/tecnologia/nvidia-presenta-plataforma-seguridad-controlar-ia-comida-trump-tecnoligarcas-casa-blanca_1_13545527.html",
       "imagen": "https://static.eldiario.es/clip/3620472a-5672-4a48-bcb9-2a79c484c279_facebook-aspect-ratio-1200-675_default_0_x553y429.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Investigadores españoles demuestran que ChatGPT, Gemini, Claude y otras IA filtran datos de los chats a anunciantes",
-      "link": "https://www.eldiario.es/tecnologia/investigadores-espanoles-demuestran-chatgpt-gemini-claude-ia-filtran-datos-chats-anunciantes_1_13527757.html",
-      "imagen": "https://static.eldiario.es/clip/78a528ae-db3f-415e-9514-69f00104752a_facebook-aspect-ratio-1200-675_default_0.jpg",
       "tipo": "imagen"
     }
   ]
