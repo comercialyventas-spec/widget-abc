@@ -47,6 +47,10 @@ function liberarHuecoScraper($handle) {
 }
 
 $url = isset($_GET['url']) ? trim($_GET['url']) : '';
+// Filtro opcional en la propia URL: "...sitemap.xml#filtro=falda" deja solo los productos cuya
+// dirección o título contienen ese texto (la caché sigue usando la URL completa, con el filtro).
+$FILTRO_URL = '';
+if (preg_match('/#filtro=([^#&]+)/i', $url, $mFiltro)) { $FILTRO_URL = mb_strtolower(rawurldecode($mFiltro[1]), 'UTF-8'); }
 $pagina = isset($_GET['pagina']) ? max(1, (int)$_GET['pagina']) : 1;
 $forzar = isset($_GET['refrescar']) && $_GET['refrescar'] == '1';
 
@@ -565,6 +569,12 @@ if ($primerFetch !== null && esSitemapIndice($primerFetch)) {
 if (empty($todosLosProductos) && !empty($deColeccionShopify)) { $todosLosProductos = $deColeccionShopify; }
 }
 
+if ($FILTRO_URL !== '' && !empty($todosLosProductos)) {
+    $todosLosProductos = array_values(array_filter($todosLosProductos, function ($p) use ($FILTRO_URL) {
+        return mb_stripos((string)($p['url'] ?? ''), $FILTRO_URL, 0, 'UTF-8') !== false
+            || mb_stripos((string)($p['titulo'] ?? ''), $FILTRO_URL, 0, 'UTF-8') !== false;
+    }));
+}
 $total = count($todosLosProductos);
 
 if ($total === 0) {
