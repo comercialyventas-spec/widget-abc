@@ -1,0 +1,38 @@
+name: Explorar sitemaps de tiendas (solo lectura)
+
+# Se lanza cuando Claude sube migracion/explorar_tiendas.txt. Deja el informe en migracion/explorar_informe.txt
+on:
+  push:
+    branches: [main]
+    paths: ['migracion/explorar_tiendas.txt']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: widget-abc-git-write
+  cancel-in-progress: false
+
+jobs:
+  explorar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Explorar
+        run: python3 migracion/explorar_sitemaps.py migracion/explorar_tiendas.txt > migracion/explorar_informe.txt 2>&1 || true
+      - name: Guardar informe
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add migracion/explorar_informe.txt
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Informe de exploración de sitemaps"
+          for i in 1 2 3 4 5; do
+            git fetch origin main && git rebase origin/main && git push origin HEAD:main && exit 0
+            git rebase --abort 2>/dev/null || true
+            sleep 10
+          done
+          exit 1
