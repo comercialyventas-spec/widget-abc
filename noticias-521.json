@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "OpenAI",
+      "link": "https://www.elconfidencialdigital.com/album/medios/openai/202610010500001489547.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/06/10/2026061020174889408.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Pilar R. Losantos",
       "link": "https://www.elconfidencialdigital.com/album/medios/pilar-r-losantos/202609301340001489447.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/30/2026093013354036932.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Televisión",
       "link": "https://www.elconfidencialdigital.com/album/medios/television/202609220500001428682.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2025/04/07/2025040712271517377.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Georgina",
-      "link": "https://www.elconfidencialdigital.com/album/medios/georgina/202609111900001040278.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/11/2026091112342149229.jpg",
       "tipo": "imagen"
     }
   ]

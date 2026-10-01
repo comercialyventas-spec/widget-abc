@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Google lanza su primer satélite para llevarse los centros de datos al espacio",
+      "link": "https://elpais.com/tecnologia/2026-10-01/google-lanza-su-primer-satelite-para-llevarse-los-centros-de-datos-al-espacio.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RLKZF5Y2RVKJFNPGSTR4B5XA6Y.jpg?auth=2a7d73149d0db9f5c3fad308ef6addcf437594c0a5a1ac6119ca7217ec41db34",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Una fábrica de tejidos vivos: células impresas para crear desde médula ósea hasta carne",
+      "link": "https://elpais.com/tecnologia/2026-10-01/una-fabrica-de-tejidos-vivos-celulas-impresas-para-crear-desde-medula-osea-hasta-carne.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ZGHM4SSYOJBW3BLYNQSAYKOJ5A.jpg?auth=893770164abef59fb8780ed3b2dffce1f007d60578715c658b4e16b4eddf3ae8",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El secreto de las alas de las mariposas: cuanto más llamativas, más difícil es cazarlas",
       "link": "https://elpais.com/ciencia/2026-09-30/el-secreto-de-las-alas-de-las-mariposas-cuanto-mas-llamativas-mas-dificil-es-cazarlas.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260930/1220336_145114_video_1800.mp4",
@@ -22,18 +34,6 @@
       "titulo": "Starship culmina su primer vuelo orbital: Musk amplía su poder con la nave espacial más grande de la historia",
       "link": "https://elpais.com/ciencia/2026-09-28/lanzamiento-del-cohete-starship-de-elon-musk-la-nave-espacial-mas-grande-de-la-historia.html",
       "imagen": "https://www.youtube.com/watch?v=7LaH1dfjRG8",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una farmacéutica de Mataró logra que la UE apruebe una terapia única contra una enfermedad infantil mortal",
-      "link": "https://elpais.com/sociedad/2026-09-28/una-farmaceutica-de-mataro-logra-que-la-ue-apruebe-una-terapia-unica-contra-una-enfermedad-infantil-mortal.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/YJ4JYZ24VBETVP7NVQX4LB7CXQ.jpg?auth=41b70b69fd2087c4a0b6b416621b8e86dd61e1cafd8d76da904d6582f93f1851",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Victor Glover, piloto de Artemis 2: “Llevaremos humanos a Marte y, para ello, ganaremos a China la carrera al polo sur de la Luna”",
-      "link": "https://elpais.com/ciencia/2026-09-27/victor-glover-piloto-de-artemis-2-llevaremos-humanos-a-marte-y-para-ello-ganaremos-a-china-la-carrera-al-polo-sur-de-la-luna.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/4U6KXJNM6JLAJPV7FAA4GCGA3E.jpg?auth=16144fae3d4045caf5479c6013b690b57a2b3e8fb9d4955665fe6e9f09fa18c3",
       "tipo": "imagen"
     }
   ]

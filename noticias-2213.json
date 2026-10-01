@@ -1,15 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "Historias del mundo real",
-      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20260930/nelio-biedermann-critica-libro-lazar-134518012",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a6bd2ccb-bb5c-4f1b-b155-2aefa017fa94_source-aspect-ratio_320w_0.jpg",
+      "titulo": "Escribir y algo más",
+      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20261001/mark-frost-critica-libro-sexto-mesias-134518838",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/4db3e96b-1249-47c7-a099-4d5fd19e438d_source-aspect-ratio_320w_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Escribir y algo más",
+      "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261001/escribir-134549533",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/4db3e96b-1249-47c7-a099-4d5fd19e438d_source-aspect-ratio_320w_0.jpg",
       "tipo": "imagen"
     },
     {
       "titulo": "Historias del mundo real",
       "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20260930/historias-mundo-real-134548813",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a6bd2ccb-bb5c-4f1b-b155-2aefa017fa94_source-aspect-ratio_320w_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "'Lázár', de Nelio Biedermann: música funcional",
+      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20260930/nelio-biedermann-critica-libro-lazar-134518012",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/5bde2320-e4b9-4610-9770-d6eeb88f2633_16-9-discover-aspect-ratio_default_0_x440y165.webp",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "A las 9 en el Carlyle",
       "link": "https://www.epe.es/es/ocio-y-cultura/libros/20260929/9-carlyle-134548292",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/258edddc-0468-4d2f-aa7d-cf59c46b9b67_16-9-discover-aspect-ratio_default_0_x756y347.webp",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Itaf Benjelloun, artista: \"Hay libros que me instruyeron, me entretuvieron e incluso me salvaron\"",
-      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20260929/itaf-benjelloun-artista-hay-libros-134551054",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/e2281ef5-b178-4438-aaa5-f5d9f40703ae_16-9-discover-aspect-ratio_default_0_x372y116.webp",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "'El hijo del oligarca', de Patrick Radden Keefe: el Londres que creyó a Zac",
-      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20260929/patrick-radden-keefe-critica-libro-hijo-oligarca-134517243",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f4f29bc6-ce83-4cd6-ab43-d9d0d59432a4_16-9-discover-aspect-ratio_default_0_x999y443.webp",
       "tipo": "imagen"
     }
   ]

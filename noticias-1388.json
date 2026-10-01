@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La singular guia de viatges de Flavia Company",
+      "link": "https://elpais.com/quadern/literatura/2026-10-01/la-singular-guia-de-viatges-de-flavia-company.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/HZ4BN62TTRHAVEPOTLZYED6LU4.jpg?auth=67a871a38a6e6965be42be2ed5f8d3cb519fdad5c07ebf0b4849ca079f7b9fea",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Els franctiradors de Barcelona",
+      "link": "https://elpais.com/quadern/literatura/2026-10-01/els-franctiradors-de-barcelona.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/T2657ZJHANGIVDJXOMANBDDSTE.JPG?auth=3fb20ffedee234a165b4d8e7993ab98a550498d7126c8a043427ddf5f7d1af43",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Què sabien els grecs sobre la península Ibèrica?",
       "link": "https://elpais.com/quadern/literatura/2026-09-30/que-sabien-els-grecs-sobre-la-peninsula-iberica.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/V5UQ42IGUJGW3O25C363QBRLI4.JPG?auth=feaaa9322ea971a6c76384353439e0b1d1adb9700b5e86c89b98cb6a7bc0842d",
@@ -22,18 +34,6 @@
       "titulo": "Tot fent ‘La bella Helena’: Gent jove, pa tou",
       "link": "https://elpais.com/quadern/2026-09-28/tot-fent-la-bella-helena-gent-jove-pa-tou.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/TKMHIUTBSJFVVHGUA4JCZSH7X4.jpg?auth=6368db9be398a89e21c19dadd23449db5e8ded58cb1d5a05234e005e778c77b3",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Carles Rebassa celebra els cent anys del “text vital” de Blai Bonet amb una gran biografia",
-      "link": "https://elpais.com/quadern/literatura/2026-09-27/carles-rebassa-celebra-els-cent-anys-del-text-vital-de-blai-bonet.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/OVNWV3ZO4NCIDGZZKSTXNPHTFE.JPG?auth=846c367143c9e091d583b73e1eecf53d2bd91c8086f5f6ee85de4d84b8dc112c",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Reconstruir el foc creatiu de les Galeries Dalmau",
-      "link": "https://elpais.com/quadern/art-i-arquitectura/2026-09-27/reconstruir-el-foc-creatiu-de-les-galeries-dalmau.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/NOPENHJTMVBZXLHGWW6UAIOVFY.JPG?auth=6cfbf38e7504387419b305a3a69be335996ece7bb54663b9b0853cf96e4dd06a",
       "tipo": "imagen"
     }
   ]

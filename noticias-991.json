@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Cuidado con el web scraping",
+      "link": "https://emprendedores.es/gestion/cuidado-web-scraping/",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "¿Cómo gestionar la cartera de clientes para fidelizar o captar?",
+      "link": "https://emprendedores.es/gestion/gestionar-cartera-de-clientes/",
+      "imagen": "https://wp.emprendedores.es/wp-content/uploads/¿Que-es-una-cartera-de-clientes-1024x577.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Emprender, montando la filial de una multinacional",
+      "link": "https://emprendedores.es/gestion/emprender-filial-multinacional/",
+      "imagen": "https://wp.emprendedores.es/wp-content/uploads/Juan-Fontan.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "FIS inaugura su edición de 2026: el presente del futuro de la franquicia",
       "link": "https://emprendedores.es/franquicias/franquicias-actualidad/fis-inaugura-su-edicion-de-2026-el-presente-del-futuro-de-la-franquicia/",
       "imagen": "https://emprendedores.es/wp-content/uploads/2026/09/fis2026-jornada-1.jpg",
@@ -17,24 +35,6 @@
       "link": "https://emprendedores.es/marketing-y-ventas/380amk-lanza-su-nueva-unidad-de-ia-especializada-en-el-deporte/",
       "imagen": "https://emprendedores.es/wp-content/uploads/2026/09/David-Hernando-380AMK-683x1024.jpg",
       "tipo": "imagen"
-    },
-    {
-      "titulo": "Seguridad web para pymes: cómo evitar perderlo todo en un ataque",
-      "link": "https://emprendedores.es/ayudas/seguridad-web-para-pymes-como-evitar-perderlo-todo-en-un-ataque/",
-      "imagen": "https://emprendedores.es/wp-content/uploads/2026/09/Ciberseguridad-contrasena-1024x683.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "C-Meet 2026: Innovación y digitalización en Cantabria",
-      "link": "https://emprendedores.es/innovacion/meet-2026-cantabria/",
-      "imagen": "https://emprendedores.es/wp-content/uploads/2026/09/C-Meet-emprendedores-2-1024x677.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Arranca la 20.ª edición de los Premios EmprendeXXI",
-      "link": "https://emprendedores.es/ayudas/directorio-quien-te-ayuda-a-emprender/20-edicion-premios-emprendexxi/",
-      "imagen": "",
-      "tipo": ""
     }
   ]
 }

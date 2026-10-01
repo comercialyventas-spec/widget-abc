@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de Nuevo Sureste de Madrid",
+      "link": "https://nuevosureste.es/cambios-fechas-suelo-previsto-en-carga-nuevos-desarrollos-sureste/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/IMG_9320-1080x675.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los Cerros conoce 26 nombres para sus futuras calles",
       "link": "https://nuevosureste.es/denominaciones-viales-los-cerros/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/07/Obras-de-urbanizacion-Los-Cerros-julio-2026.jpeg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Aprobada definitivamente la reparcelación de Valdecarros, el mayor desarrollo urbanístico y residencial de Europa",
       "link": "https://nuevosureste.es/aprobada-reparcelacion-valdecarros/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2025/11/Valdecarros-Cam3-1080x675.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Comunidad de Madrid licita el proyecto de la residencia de mayores de El Cañaveral",
-      "link": "https://nuevosureste.es/residencia-de-mayores-el-canaveral/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/Ubicacion-de-la-residencia-de-El-Canaveral--1080x675.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La Guardia Civil alerta del peligro extremo de practicar barranquismo",
+      "link": "https://www.lavanguardia.com/sucesos/20261001/11647949/guardia-civil-alerta-peligro-extremo-practicar-barranquismo.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Agreden sexualmente a una joven en el polígono del Sot de Sant Adrià de Besòs",
       "link": "https://www.lavanguardia.com/local/barcelones-nord/20260930/11647681/agreden-sexualmente-joven-poligono-sot-sant-adria-besos.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/30/6abd051d18273.r_d.287-216-8878.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Hallan el cadáver de un hombre sin cabeza ni extremidades flotando en Sagunt",
       "link": "https://www.lavanguardia.com/local/valencia/20260930/11647415/hallan-cadaver-hombre-cabeza-extremidades-flotando-sagunt.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/05/30/6a1aecbf6ed7d.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Profanar un cadáver es el último desprecio del asesino por su víctima",
-      "link": "https://www.lavanguardia.com/sucesos/20260930/11646760/profanar-cadaver-ultimo-desprecio-asesino-victima.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2022/12/10/6393c8a274ffd.jpeg",
       "tipo": "imagen"
     }
   ]

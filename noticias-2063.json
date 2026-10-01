@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Paquistán, el peor socio posible",
+      "link": "https://loquesomos.es/paquistan-el-peor-socio-posible/",
+      "imagen": "https://loquesomos.es/wp-content/uploads/2026/09/militares-paquistan-rangers-lqsomos-.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Pirómanos en el mar Rojo",
       "link": "https://loquesomos.es/piromanos-en-el-mar-rojo/",
       "imagen": "https://loquesomos.es/wp-content/uploads/2026/09/Explosion-en-un-buque-en-el-mar-Rojo-atacado-por-huties-de-Yemen-lqsomos-777x450.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Sudán, presos de un déjà vu",
       "link": "https://loquesomos.es/sudan-presos-de-un-deja-vu/",
       "imagen": "https://loquesomos.es/wp-content/uploads/2026/06/ejercito-oficial-sudan-lqsomos-777x450.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Afganistán entre el islam y el Pentágono",
-      "link": "https://loquesomos.es/afganistan-entre-el-islam-y-el-pentagono/",
-      "imagen": "https://loquesomos.es/wp-content/uploads/2026/07/afganistan-guardias-lqsomos-.jpeg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "López Obrador, en su reaparición: “No soy jefe máximo ni poder tras el trono”",
+      "link": "https://elpais.com/mexico/2026-10-01/el-expresidente-lopez-obrador-reaparece-para-dar-un-mensaje-desde-palenque.html",
+      "imagen": "https://www.youtube.com/watch?v=mMbRNUnBtv0",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "México persigue más inversiones y exportación de tequila, acero y automóviles en el G20",
+      "link": "https://elpais.com/mexico/economia/2026-10-01/mexico-persigue-mas-inversiones-y-exportacion-de-tequila-acero-y-automoviles-en-el-g20.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/N3I5KNVRQZCQRGDZAQZIUP4XJQ.jpeg?auth=7f403c56ad9d00d156609ab5e8eb3f8641d4597dc00c33fe4d9c8265854d078f",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El estrecho margen de las finanzas públicas convoca a las voces que llaman a una reforma fiscal integral en México",
+      "link": "https://elpais.com/mexico/economia/2026-10-01/el-estrecho-margen-de-las-finanzas-publicas-convoca-a-las-voces-que-llaman-a-una-reforma-fiscal-integral-en-mexico.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/LG3ATGQRXZGP5B3VI2L3MC2D5A.jpg?auth=76086e40bf43951b3d97ec57730c285e7c95c1c0fdcdc9dc60dc46a2ea1a0617",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Édgar Amador asegura que la recaudación en México crecerá sin necesidad de una reforma fiscal",
+      "link": "https://elpais.com/mexico/economia/2026-09-30/edgar-amador-asegura-que-la-recaudacion-en-mexico-crecera-sin-necesidad-de-una-reforma-fiscal.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TOIX2MSI2RFY7DGGNCZEDI3MLU.jpg?auth=ce0ac822372096521353d795cb30b7955191c0457fcfb2fa5e78e774fa03631a",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un piloto apuñala a otro en pleno vuelo y pone al borde del desastre a un avión con destino a Israel",
       "link": "https://elpais.com/internacional/2026-09-30/un-avion-que-volaba-a-tel-aviv-aterriza-en-arabia-saudi-tras-una-alerta-de-emergencia-por-un-incidente-entre-los-pilotos.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260930/1220418_172034_video_1800.mp4",
@@ -10,30 +34,6 @@
       "titulo": "Las imágenes del interior del avión: “Hemos controlado a los terroristas”",
       "link": "https://elpais.com/videos/2026-09-30/las-imagenes-del-incidente-en-el-interior-del-avion.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260930/1220332_143527_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sheinbaum desacredita la publicación de ‘The New York Times’ sobre las indagatorias de Estados Unidos contra Andy López Beltrán",
-      "link": "https://elpais.com/mexico/2026-09-30/sheinbaum-desacredita-la-publicacion-de-the-new-york-times-sobre-las-indagatorias-de-estados-unidos-contra-andy-lopez-beltran.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260930/1220388_164033_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Interpol retira la ficha roja a Víctor Álvarez Puga e Inés Gómez Mont pese a la orden de captura en México",
-      "link": "https://elpais.com/mexico/2026-09-30/interpol-retira-la-ficha-roja-a-victor-alvarez-puga-e-ines-gomez-mont-pese-a-la-orden-de-captura-en-mexico.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260930/1220371_160540_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "“Estamos regresando a la dictadura perfecta”: Felipe Calderón reaparece en México para participar en una cumbre de derechas",
-      "link": "https://elpais.com/mexico/2026-09-30/estamos-regresando-a-la-dictadura-perfecta-felipe-calderon-regresa-a-mexico-para-participar-en-una-cumbre-de-derechas.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/RU2PIIVE5ZFQLHR6Q7DJMEEM4Y.jpg?auth=73edaf7fcac21fd7efa60ebc5eaef1fd4454a24c39551c1b2af5d99c3d19a384",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Édgar Amador asegura que la recaudación en México crecerá sin necesidad de una reforma fiscal",
-      "link": "https://elpais.com/mexico/economia/2026-09-30/edgar-amador-asegura-que-la-recaudacion-en-mexico-crecera-sin-necesidad-de-una-reforma-fiscal.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/TOIX2MSI2RFY7DGGNCZEDI3MLU.jpg?auth=ce0ac822372096521353d795cb30b7955191c0457fcfb2fa5e78e774fa03631a",
       "tipo": "imagen"
     }
   ]

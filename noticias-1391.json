@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Un inspector para los cultivos",
+      "link": "https://elpais.com/economia/negocios/2026-10-01/un-inspector-para-los-cultivos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/T2WIH74SVNHIBGKP73QZA77CNY.jpg?auth=f2e03b2a793d80c985d0b546ebe8602aad85e128dff691154ecac29390df9e67",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La empresa española Persei Space inventa una solución para terminar con la basura espacial",
+      "link": "https://elpais.com/economia/negocios/2026-10-01/la-empresa-espanola-persei-space-inventa-una-solucion-para-terminar-con-la-basura-espacial.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/2DZIW7CAC5A6PFUEXBM3URKO7Y.jpg?auth=185670c98f148d598e2601d1cc77c45dc204406d51b9cd66b7eaf3f2b8733b3d",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las grandes ambiciones de Enrique Riquelme llevan a Cox a enfrentarse a un muro de deuda",
       "link": "https://elpais.com/economia/negocios/2026-09-30/las-grandes-ambiciones-de-enrique-riquelme-llevan-a-cox-a-enfrentarse-a-un-muro-de-deuda.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/FEYB72SK65EGXLIQVIQH37ZN7M.jpg?auth=650e9291db12948521faa6531a0625c34a597667c423d147003b458e161601b3",
@@ -22,18 +34,6 @@
       "titulo": "A Rusia se le hace cada vez más cara la guerra",
       "link": "https://elpais.com/economia/negocios/2026-09-29/a-rusia-se-le-hace-cada-vez-mas-cara-la-guerra.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/MMTKK3DQWFB5ZGHF6Z2FH2LVGY.jpg?auth=586e9cd94fd9a8b4f9515a002af8a7b46a352b29c62e30a2e82a41dab8b5103e",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Iñaki Fernández (LetsGo): “Con 20 años gané mi primer millón de pesetas y me picó el veneno del entretenimiento”",
-      "link": "https://elpais.com/economia/negocios/entrevistas-afterwork/2026-09-28/inaki-fernandez-letsgo-con-20-anos-gane-mi-primer-millon-de-pesetas-y-me-pico-el-veneno-del-entretenimiento.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/5IWVQUAKDFCXTFVSOLK5R3MZQI.jpg?auth=1df03e08e5245408f4a713943659d6ff18720e812d1c80336709eb2a0a8577b2",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Joan Bonet (Banca March): “Creemos que la tendencia alcista para las Bolsas va a continuar”",
-      "link": "https://elpais.com/economia/negocios/2026-09-28/joan-bonet-banca-march-creemos-que-la-tendencia-alcista-para-las-bolsas-va-a-continuar.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/S3RSSVVOWBGU5KXENPI2RR7BY4.jpg?auth=8957b491fdf83d2fd4e82353a67f76147d21c9f5905ab30c8759e3e6e23830dc",
       "tipo": "imagen"
     }
   ]
