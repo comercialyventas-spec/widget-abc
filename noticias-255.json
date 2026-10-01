@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Los veteranos no se cortan un pelo",
+      "link": "https://www.abc.es/sevilla/cultura/veteranos-cortan-pelo-20261001012125-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/10/01/capullo%20(12)-k3wC-U301982913463zO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Mayte Martín excava en la memoria del flamenco",
       "link": "https://www.abc.es/sevilla/cultura/mayte-martin-excava-memoria-flamenco-20260930222547-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/30/maite-kk2C-U301981812283f2F-1200x840@diario_abc.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Lunes Santo baraja un adelanto horario sin cambios de orden",
+      "link": "https://www.abc.es/sevilla/pasionensevilla/noticias-semana-santa-sevilla/lunes-santo-baraja-adelanto-horario-cambios-orden-20261001135712-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/10/01/san-pablo-misterio-RqIRbH2cUsMbKSC6jXEp5XL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los bomberos controlan el incendio declarado en una nave ganadera de Carmona",
+      "link": "https://www.abc.es/sevilla/provincia/bomberos-controlan-incendio-declarado-nave-ganadera-carmona-20260930231057-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/30/EuropaPress_7810773_treintena_bomberos_sistema_provincial_forman_gestion_estres_situaciones%20(1)-R59PbkRvEmmARxLAZY2WLlI-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "Andalucía duplicará la capacidad de sus redes eléctricas en cuatro años",
       "link": "https://www.abc.es/sevilla/economia/andalucia-duplicara-capacidad-redes-electricas-cuatro-anos-20260930222308-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/30/plani-RyPC4GdCadUXjSKo9Y34kwJ-1200x840@diario_abc.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Más de 16.000 sevillanos disfrutan de la Copa del Mundo en el Ayuntamiento de Sevilla",
-      "link": "https://www.abc.es/sevilla/ciudad/colas-ver-copa-mundo-ayuntamiento-sevilla-llegan-20260930191521-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/30/copa%20(5)-U201568478612tfE-R2lrF6DmcAmyn2u0D26fTNJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mairena del Aljarafe anuncia alquileres VPO por 350 euros al mes",
-      "link": "https://www.abc.es/sevilla/economia/inmobiliario/mairena-aljarafe-anuncia-alquileres-vpo-350-euros-20260930215927-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/09/30/fotonoticia-mairena-vpo-R4Sz8kwNTJXWph2omiNIuhO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ninguna empresa quiere quitar las naranjas de los árboles de Sevilla",
-      "link": "https://www.abc.es/sevilla/ciudad/ninguna-empresa-quiere-quitar-naranjas-arboles-sevilla-20260930184316-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/10/01/retirada-naranjas-sevilla-RaxIuk88FQLNrCshCj0IEJO-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

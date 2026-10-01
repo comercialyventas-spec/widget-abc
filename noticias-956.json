@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La gran feria hortofrutícola española, Fruit Attraction, alcanza la mayoría de edad",
+      "link": "https://www.elmundo.es/extras/ifema.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/18/17897526757335.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Estampa trae a Madrid galerismo de arte de viejo y nuevo cuño",
       "link": "https://www.elmundo.es/extras/ifema/2026/09/21/6aa28c20fdddffa4708b457c.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/10/17890372557598.jpg",
@@ -13,18 +19,6 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "FIAA 2026: el epicentro de una industria en su mejor década",
-      "link": "https://www.elmundo.es/extras/ifema.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/16/17841829615241.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Pasarela de la moda de Madrid volverá a brillar en septiembre",
-      "link": "https://www.elmundo.es/extras/ifema/2026/07/24/6a5fbd58e4d4d8aa608b4586.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/21/17846588898308.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Más oportunidades para las mentes más brillantes del país",
       "link": "https://www.elmundo.es/extras/2026/07/13/6a4ae1b3e85ece9e788b45a9.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/10/17837078634269.jpg",
@@ -34,6 +28,12 @@
       "titulo": "El 70% de los estudiantes españoles estudia la carrera deseada",
       "link": "https://www.elmundo.es/t/fo/formacion-online.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/06/08/17809302934572.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La irrupción de la inteligencia artificial en las aulas monopoliza el 'Gran Debate sobre la Educación en España'",
+      "link": "https://www.elmundo.es/espana/2026/03/20/69bc2b2cfdddff1b7f8b457a.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/19/17739455050847.jpg",
       "tipo": "imagen"
     }
   ]
