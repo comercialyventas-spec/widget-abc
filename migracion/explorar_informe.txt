@@ -1,145 +1,34 @@
-=== www.elganso.com  robots=200  sitemaps_en_robots=12
-  SM 200 URLSET locs=3089 imgs=2663 https://www.elganso.com/media/sitemap_es.xml
-      https://www.elganso.com/es/
-      https://www.elganso.com/es/hombre.html
-      https://www.elganso.com/es/mujer.html
-  SM 200 URLSET locs=3080 imgs=2636 https://www.elganso.com/media/sitemap_intl_es.xml
-      https://www.elganso.com/intl_es/
-      https://www.elganso.com/intl_es/catalog/category/view/id/4
-      https://www.elganso.com/intl_es/mujer.html
-  SM 200 URLSET locs=3090 imgs=2661 https://www.elganso.com/media/sitemap_pt_es.xml
-      https://www.elganso.com/pt_es/
-      https://www.elganso.com/pt_es/catalog/category/view/id/4
-      https://www.elganso.com/pt_es/mujer.html
-  SM 200 URLSET locs=3535 imgs=3101 https://www.elganso.com/media/sitemap_cn.xml
-      https://www.elganso.com/es_cn/
-      https://www.elganso.com/es_cn/catalog/category/view/id/4
-      https://www.elganso.com/es_cn/mujer.html
-=== castro-vega.com  robots=200  sitemaps_en_robots=4
-  SM 200 INDICE locs=3 imgs=0 https://castro-vega.com/sitemap.xml
-     hijo https://castro-vega.com/sitemap_page_1.xml
-     hijo https://castro-vega.com/sitemap_products_1.xml
-     hijo https://castro-vega.com/sitemap_collections_1.xml
-     -> 200 locs=12 imgs=0 titulos_img=0
-         https://castro-vega.com/pages/datenschutzerklärung
-         https://castro-vega.com/pages/faq
-         https://castro-vega.com/pages/haftungsausschluss-für-die-gesundheit
-=== www.celine.com  robots=200  sitemaps_en_robots=1
-  SM 200 INDICE locs=90 imgs=0 https://www.celine.com/sitemap_index.xml
-     hijo https://www.celine.com/en-sg/sitemap_index.xml
-     hijo https://www.celine.com/zht-tw/sitemap_index.xml
-     hijo https://www.celine.com/en-tw/sitemap_index.xml
-     hijo https://www.celine.com/en-us/sitemap_index.xml
-     hijo https://www.celine.com/en-int/sitemap_index.xml
-     hijo https://www.celine.com/en-nz/sitemap_index.xml
-     -> 200 locs=4 imgs=0 titulos_img=0
-         https://www.celine.com/en-sg/sitemap_0-product.xml
-         https://www.celine.com/en-sg/sitemap_1-image.xml
-         https://www.celine.com/en-sg/sitemap_2-category.xml
-=== www.zimmermann.com  robots=200  sitemaps_en_robots=11
-  SM 200 URLSET locs=2128 imgs=7613 https://www.zimmermann.com/media/sitemap/sitemap_en_eu.xml
-      https://www.zimmermann.com/en-eu/ready-to-wear
-      https://www.zimmermann.com/en-eu/ready-to-wear/accessories
-      https://www.zimmermann.com/en-eu/ready-to-wear/accessories/bags
-  SM 200 URLSET locs=2128 imgs=7605 https://www.zimmermann.com/media/sitemap/sitemap_fr_eu.xml
-      https://www.zimmermann.com/fr-eu/ready-to-wear
-      https://www.zimmermann.com/fr-eu/ready-to-wear/accessories
-      https://www.zimmermann.com/fr-eu/ready-to-wear/accessories/bags
-  SM 200 URLSET locs=2129 imgs=7613 https://www.zimmermann.com/media/sitemap/sitemap_it_eu.xml
-      https://www.zimmermann.com/it-eu/ready-to-wear
-      https://www.zimmermann.com/it-eu/ready-to-wear/accessories
-      https://www.zimmermann.com/it-eu/ready-to-wear/accessories/bags
-  SM 200 URLSET locs=2129 imgs=7613 https://www.zimmermann.com/media/sitemap/sitemap_es_eu.xml
-      https://www.zimmermann.com/es-eu/ready-to-wear
-      https://www.zimmermann.com/es-eu/ready-to-wear/accessories
-      https://www.zimmermann.com/es-eu/ready-to-wear/accessories/bags
-=== www.adolfodominguez.com  robots=200  sitemaps_en_robots=9
-  SM 200 URLSET locs=3464 imgs=0 https://www.adolfodominguez.com/es-es/sitemap_0.xml
-      https://www.adolfodominguez.com/en-es/oversize-layered-shirt-bermuda-shorts-109012620262.html
-      https://www.adolfodominguez.com/es-es/bermuda-oversize-camisa-superpuesta-109012620262.html
-      https://www.adolfodominguez.com/en-es/nylon-compact-backpack-112011054161.html
-  SM 200 URLSET locs=1701 imgs=0 https://www.adolfodominguez.com/en-gb/sitemap_0.xml
-      https://www.adolfodominguez.com/en-gb/oversize-layered-shirt-bermuda-shorts-109012620262.html
-      https://www.adolfodominguez.com/en-gb/nylon-compact-backpack-112011054161.html
-      https://www.adolfodominguez.com/en-gb/nylon-flap-crossbody-112022211262.html
-  SM 200 URLSET locs=3842 imgs=0 https://www.adolfodominguez.com/fr-fr/sitemap_0.xml
-      https://www.adolfodominguez.com/en-fr/oversize-layered-shirt-bermuda-shorts-109012620262.html
-      https://www.adolfodominguez.com/fr-fr/oversize-layered-shirt-bermuda-shorts-109012620262.html
-      https://www.adolfodominguez.com/en-fr/nylon-compact-backpack-112011054161.html
-  SM 200 URLSET locs=3464 imgs=0 https://www.adolfodominguez.com/pt-pt/sitemap_0.xml
-      https://www.adolfodominguez.com/en-pt/oversize-layered-shirt-bermuda-shorts-109012620262.html
-      https://www.adolfodominguez.com/pt-pt/oversize-layered-shirt-bermuda-shorts-109012620262.html
-      https://www.adolfodominguez.com/en-pt/nylon-compact-backpack-112011054161.html
-=== catchalot.es  robots=200  sitemaps_en_robots=1
-  SM 200 INDICE locs=3 imgs=0 https://catchalot.es/es/module/lgsitemaps/sitemap?name=sitemap_1
-     hijo http://catchalot.es/index.php?fc=module&module=lgsitemaps&controller=sitemap&name=product_1_1
-     hijo http://catchalot.es/index.php?fc=module&module=lgsitemaps&controller=sitemap&name=manufacturer_1_1
-     hijo http://catchalot.es/index.php?fc=module&module=lgsitemaps&controller=sitemap&name=category_1_1
-     -> 200 locs=5344 imgs=0 titulos_img=0
-         https://catchalot.es/es/100009-spray-impermeabilizante-calzado-woly.html
-         https://catchalot.es/en/100009-woly-shoe-waterproofing-spray.html
-         https://catchalot.es/es/100010-plantilla-extraible-para-calzado-de-senora-pitillos.html
-=== www.catherineandre.com  robots=200  sitemaps_en_robots=0
-  SM 404 URLSET locs=0 imgs=0 https://www.catherineandre.com/sitemap.xml
-  SM 404 URLSET locs=0 imgs=0 https://www.catherineandre.com/sitemap_index.xml
-  SM 404 URLSET locs=0 imgs=0 https://www.catherineandre.com/sitemap-index.xml
-=== 0not1.ru  robots=200  sitemaps_en_robots=0
-  SM 200 URLSET locs=0 imgs=0 https://0not1.ru/sitemap.xml
-  SM 200 URLSET locs=0 imgs=0 https://0not1.ru/sitemap_index.xml
-  SM 200 URLSET locs=0 imgs=0 https://0not1.ru/sitemap-index.xml
-=== www.robertocavalli.com  robots=200  sitemaps_en_robots=102
-  SM 200 URLSET locs=567 imgs=0 https://www.robertocavalli.com/es-es/sitemap-category_0.xml
-      https://www.robertocavalli.com/es-es/novedades/
-      https://www.robertocavalli.com/es-es/novedades/novedades-para-ella/
-      https://www.robertocavalli.com/es-es/novedades/novedades-para-ella/ropa/
-  SM 200 URLSET locs=3751 imgs=19796 https://www.robertocavalli.com/es-es/sitemap-product_0.xml
-      https://www.robertocavalli.com/es-es/rebajas/sandalias-de-cuero-negro--WNS006-PZ908-05000.html
-      https://www.robertocavalli.com/es-es/archive-vault/mujer/accesorios/panuelo-de-seda-con-estampado-florentine-flowers--WQI004-OZR29-00551.html
-      https://www.robertocavalli.com/es-es/archive-vault/mujer/ropa/pantalones-y-shorts/leggings-con-estampado-florentine-flowers--WQT23A-LNR29-00551.html
-  SM 200 URLSET locs=4094 imgs=19294 https://www.robertocavalli.com/es-es/sitemap-product_1.xml
-      https://www.robertocavalli.com/es-es/archive-vault/hombre/ropa/pantalones-y-shorts/bermudas-cargo-marrones--WFT019-WF046-E0719.html
-      https://www.robertocavalli.com/es-es/archive-vault/mujer/ropa/camisetas/top-de-hombros-descubiertos-con-estampado-natural-barb--WFT239-WF621-MT078.htm
-      https://www.robertocavalli.com/es-es/archive-vault/mujer/bolsos/bolsos-de-hombro/bolso-de-hombro-con-asa-trenzada--WFB050-WF380-E0722.html
-  SM 200 URLSET locs=567 imgs=0 https://www.robertocavalli.com/de-at/sitemap-category_0.xml
-      https://www.robertocavalli.com/de-at/neuheiten/
-      https://www.robertocavalli.com/de-at/neuheiten/neuheiten-fur-sie/
-      https://www.robertocavalli.com/de-at/neuheiten/neuheiten-fur-sie/kleidung/
-=== www.mycecileboutique.com  robots=200  sitemaps_en_robots=2
-  SM 200 INDICE locs=13 imgs=0 https://www.mycecileboutique.com/sitemap-index.xml
-     hijo https://www.mycecileboutique.com/products-sitemap/A
-     hijo https://www.mycecileboutique.com/products-sitemap/C
-     hijo https://www.mycecileboutique.com/products-sitemap/D
-     hijo https://www.mycecileboutique.com/products-sitemap/F
-     hijo https://www.mycecileboutique.com/products-sitemap/J
-     hijo https://www.mycecileboutique.com/products-sitemap/M
-     -> 200 locs=1170 imgs=0 titulos_img=0
-         https://www.mycecileboutique.com/alyce-paris
-         https://www.mycecileboutique.com/atria
-         https://www.mycecileboutique.com/ava-presley
-  SM 200 INDICE locs=25 imgs=0 https://www.mycecileboutique.com/product-images-sitemap-index.xml
-     hijo https://www.mycecileboutique.com/product-images-sitemap/alyce-paris
-     hijo https://www.mycecileboutique.com/product-images-sitemap/amelia-couture
-     hijo https://www.mycecileboutique.com/product-images-sitemap/atria
-     hijo https://www.mycecileboutique.com/product-images-sitemap/ava-presley
-     hijo https://www.mycecileboutique.com/product-images-sitemap/cameron-blake
-     hijo https://www.mycecileboutique.com/product-images-sitemap/clarisse
-     -> 200 locs=5 imgs=9 titulos_img=0
-         https://www.mycecileboutique.com/alyce-paris/in-store-collection/4006
-         https://www.mycecileboutique.com/alyce-paris/in-store-collection/4040
-         https://www.mycecileboutique.com/alyce-paris/in-store-collection/4077
-=== www.anaisa.es  robots=200  sitemaps_en_robots=1
-  SM 200 INDICE locs=3 imgs=0 https://www.anaisa.es/sitemaps.xml
-     hijo https://www.anaisa.es/category-sitemap1.xml
-     hijo https://www.anaisa.es/product_cat-sitemap1.xml
-     hijo https://www.anaisa.es/product_tag-sitemap1.xml
-     -> 200 locs=4 imgs=0 titulos_img=0
-         https://www.anaisa.es/category/ropa/
-         https://www.anaisa.es/category/complementos/
-         https://www.anaisa.es/category/blog/
-=== basycojerez.com  robots=200  sitemaps_en_robots=1
-  SM 200 INDICE locs=1 imgs=0 https://basycojerez.com/1_index_sitemap.xml
-     hijo https://basycojerez.com/1_es_0_sitemap.xml
-     -> 200 locs=786 imgs=4808 titulos_img=0
-         https://basycojerez.com/
-         https://basycojerez.com/pagina-no-encontrada
-         https://basycojerez.com/contactenos
+=== www.comprafrutaonline.com  robots=404  sitemaps_en_robots=0
+  SM 404 URLSET locs=0 imgs=0 https://www.comprafrutaonline.com/sitemap.xml
+  SM 404 URLSET locs=0 imgs=0 https://www.comprafrutaonline.com/sitemap_index.xml
+  SM 404 URLSET locs=0 imgs=0 https://www.comprafrutaonline.com/sitemap-index.xml
+=== www.shahigrocery.com  robots=404  sitemaps_en_robots=0
+  SM 200 URLSET locs=0 imgs=0 https://www.shahigrocery.com/sitemap.xml
+  SM 404 URLSET locs=0 imgs=0 https://www.shahigrocery.com/sitemap_index.xml
+  SM 404 URLSET locs=0 imgs=0 https://www.shahigrocery.com/sitemap-index.xml
+=== www.mitiendavegana.com  robots=200  sitemaps_en_robots=0
+  SM 200 INDICE locs=8 imgs=0 https://www.mitiendavegana.com/sitemap.xml
+     hijo https://www.mitiendavegana.com/post-sitemap.xml
+     hijo https://www.mitiendavegana.com/page-sitemap.xml
+     hijo https://www.mitiendavegana.com/product-sitemap1.xml
+     hijo https://www.mitiendavegana.com/product-sitemap2.xml
+     hijo https://www.mitiendavegana.com/category-sitemap.xml
+     hijo https://www.mitiendavegana.com/product_cat-sitemap.xml
+     -> 200 locs=164 imgs=440 titulos_img=163
+         https://www.mitiendavegana.com/
+         https://www.mitiendavegana.com/galletas-veganas-de-avena/
+         https://www.mitiendavegana.com/el-tempeh-en-tu-cocina/
+        titulo_img: <![CDATA[galletas-veganas]]>
+  SM 200 INDICE locs=8 imgs=0 https://www.mitiendavegana.com/sitemap_index.xml
+     hijo https://www.mitiendavegana.com/post-sitemap.xml
+     hijo https://www.mitiendavegana.com/page-sitemap.xml
+     hijo https://www.mitiendavegana.com/product-sitemap1.xml
+     hijo https://www.mitiendavegana.com/product-sitemap2.xml
+     hijo https://www.mitiendavegana.com/category-sitemap.xml
+     hijo https://www.mitiendavegana.com/product_cat-sitemap.xml
+     -> 200 locs=164 imgs=440 titulos_img=163
+         https://www.mitiendavegana.com/
+         https://www.mitiendavegana.com/galletas-veganas-de-avena/
+         https://www.mitiendavegana.com/el-tempeh-en-tu-cocina/
+        titulo_img: <![CDATA[galletas-veganas]]>
+  SM 500 URLSET locs=0 imgs=0 https://www.mitiendavegana.com/sitemap-index.xml
