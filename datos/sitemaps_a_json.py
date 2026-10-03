@@ -7,6 +7,7 @@
 #     og_imagen        -> si un elemento no trae imagen, se toma la og:image de su pagina (se guarda y no se vuelve a pedir)
 #     imagen_pagina    -> igual, pero toma la primera foto propia de la pagina (descarta las que se repiten en casi todas: logo, menu...)
 #     incluir=REGEX    -> solo se quedan las URL que cumplan la expresion
+#     titulo_imagen    -> usa como nombre el <image:title> del sitemap cuando lo hay
 # Si una fuente falla o sale vacia, NO se pisa el JSON anterior.
 import json, os, re, sys, time, urllib.request, urllib.parse
 from datetime import datetime, timezone
@@ -36,7 +37,7 @@ def nombre_de(slug):
     slug = urllib.parse.unquote(slug)
     return re.sub(r'\b\w', lambda m: m.group(0).upper(), slug.replace('-', ' ').replace('_', ' ')).strip()
 
-def procesar(xml, tipo):
+def procesar(xml, tipo, titulo_imagen=False):
     items, vistos = [], set()
     for bloque in xml.split('<url>')[1:]:
         loc = re.search(r'<loc>\s*([^<\s]+)\s*</loc>', bloque)
@@ -47,6 +48,11 @@ def procesar(xml, tipo):
         if slug in OMITIR or url in vistos:
             continue
         item = {'nombre': nombre_de(slug), 'url': url, 'slug': slug}
+        if titulo_imagen:
+            ti = re.search(r'<image:title>\s*([^<]+?)\s*</image:title>', bloque)
+            if ti:
+                import html as H
+                item['nombre'] = H.unescape(H.unescape(ti.group(1))).strip()
         img = re.search(r'<image:loc>\s*([^<\s]+)\s*</image:loc>', bloque)
         if tipo == 'con_imagen' and not img:
             continue
@@ -170,7 +176,7 @@ def main(lista):
             except Exception:
                 anterior = []
         try:
-            items = workday(url) if tipo == 'workday' else agredasa(url) if tipo == 'agredasa' else procesar(bajar(url), tipo)
+            items = workday(url) if tipo == 'workday' else agredasa(url) if tipo == 'agredasa' else procesar(bajar(url), tipo, 'titulo_imagen' in opciones)
         except Exception as e:
             print(f'ERROR {salida}: {e} (se deja el JSON anterior)')
             continue
