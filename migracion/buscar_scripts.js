@@ -3,6 +3,8 @@
 // Uso: node migracion/buscar_scripts.js migracion/buscar_scripts_orden.txt
 //   línea 1: IDs de blogs separados por espacios
 //   línea 2: IDs (o principios de ID) de los scripts, separados por espacios
+//   TODOS en la línea 1 = todos los blogs de la cuenta; CUALQUIERA en la línea 2 = cualquier
+//   script.google.com/macros/s/... (menos los contadores de clics w7seO y mjaZZ)
 const fs = require('fs');
 const limpiar = (s) => String(s || '').replace(/\s+/g, '');
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36';
@@ -23,13 +25,29 @@ async function api(token, url) {
   if (!r.ok) throw new Error(r.status + ' ' + (await r.text()).slice(0, 120));
   return r.json();
 }
-const encontrados = (texto, scripts) => scripts.filter((s) => texto.includes(s));
+const CONTADORES = ['w7seO', 'mjaZZ'];
+let MODO_CUALQUIERA = false;
+const encontrados = (texto, scripts) => {
+  if (!MODO_CUALQUIERA) return scripts.filter((s) => texto.includes(s));
+  const ids = (texto.match(/script\.google\.com\/macros\/s\/[A-Za-z0-9_-]{20,}/g) || [])
+    .map((x) => x.split('/s/')[1]).filter((x) => !CONTADORES.some((c) => x.includes(c)));
+  const nuevos = [...new Set(ids)];
+  nuevos.forEach((x) => { if (!scripts.includes(x)) scripts.push(x); });
+  return nuevos;
+};
 
 async function main() {
   const [l1, l2] = fs.readFileSync(process.argv[2], 'utf8').split('\n');
-  const blogs = l1.split(/\s+/).filter(Boolean), scripts = l2.split(/\s+/).filter(Boolean);
+  let blogs = l1.split(/\s+/).filter(Boolean), scripts = (l2 || '').split(/\s+/).filter(Boolean);
   const token = await tokenAcceso();
-  const uso = {}; scripts.forEach((s) => { uso[s] = []; });
+  if (blogs.some((b) => b.toUpperCase() === 'TODOS')) {
+    const j = await api(token, 'https://www.googleapis.com/blogger/v3/users/self/blogs?fields=items(id)');
+    blogs = [...new Set([...blogs.filter((b) => b.toUpperCase() !== 'TODOS'), ...(j.items || []).map((b) => b.id)])];
+  }
+  if (scripts.some((x) => x.toUpperCase() === 'CUALQUIERA')) { MODO_CUALQUIERA = true; scripts = []; }
+  const uso = new Proxy({}, { get: (o, k) => (o[k] = o[k] || []) });
+  const usoClaves = () => Object.keys(uso);
+  scripts.forEach((s) => uso[s]);
   const lineas = [], sinPortada = [];
   for (const id of blogs) {
     let nombre = id, url = '';
@@ -56,9 +74,15 @@ async function main() {
     lineas.push(`${nombre}: ${nPag} páginas, portada ${estado}`);
     await new Promise((s) => setTimeout(s, 1500));
   }
-  console.log('::notice::BLOGS: ' + lineas.join(' ### '));
-  const res = scripts.map((s) => `${s.slice(0, 16)}… → ${uso[s].length ? uso[s].join(' | ') : 'NO APARECE'}`);
-  console.log('::notice::SCRIPTS: ' + res.join(' ### ').slice(0, 3900));
+  for (let i = 0; i < lineas.length; i += 15) console.log('::notice::BLOGS: ' + lineas.slice(i, i + 15).join(' ### '));
+  const res = (MODO_CUALQUIERA ? usoClaves() : scripts).map((s) => `${s.slice(0, 16)}… → ${uso[s].length ? uso[s].join(' | ') : 'NO APARECE'}`);
+  if (MODO_CUALQUIERA && !res.length) res.push('NINGUN SCRIPT DE GOOGLE (aparte de los contadores de clics) en paginas ni portadas');
+  let trozo = '';
+  for (const linea of res) {
+    if ((trozo + ' ### ' + linea).length > 3800) { console.log('::notice::SCRIPTS: ' + trozo); trozo = ''; }
+    trozo = trozo ? trozo + ' ### ' + linea : linea;
+  }
+  if (trozo) console.log('::notice::SCRIPTS: ' + trozo);
   console.log('::notice::PORTADAS NO LEÍDAS (revisar a mano): ' + (sinPortada.join(' ### ') || 'ninguna'));
 }
 main().catch((e) => { console.error(e.message); process.exit(1); });
