@@ -43,7 +43,8 @@ def procesar(xml, tipo, titulo_imagen=False):
         loc = re.search(r'<loc>\s*([^<\s]+)\s*</loc>', bloque)
         if not loc:
             continue
-        url = loc.group(1).replace('&amp;', '&')
+        import html as H
+        url = H.unescape(H.unescape(loc.group(1)))
         slug = url.rstrip('/').split('/')[-1]
         if slug in OMITIR or url in vistos:
             continue
