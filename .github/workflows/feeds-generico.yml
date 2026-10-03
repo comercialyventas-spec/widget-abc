@@ -257,10 +257,26 @@ jobs:
               console.error("CUERPO DE LA RESPUESTA DE ERROR (primeros 3000 caracteres):");
               console.error(cuerpoError.slice(0, 3000));
               console.error("========================================");
+              if (/Authorization needed|ppConfig|accounts\.google\.com|ServiceLogin/i.test(cuerpoError)) {
+                console.log("::error title=Apps Script LISTAR_FEEDS sin autorizar::El script 'Publicador Blogger' pide autorizacion de nuevo. Abre la direccion de LISTAR_FEEDS_URL con tu cuenta de Google y pulsa Review permissions.");
+              } else {
+                console.log("::error title=LISTAR_FEEDS no responde::El Apps Script de la lista de feeds devolvio HTTP " + respuestaFeeds.status + ". Mira el log de este paso.");
+              }
               throw new Error("No se pudo obtener la lista de feeds: HTTP " + respuestaFeeds.status);
             }
 
-            const config = await respuestaFeeds.json();
+            const textoFeeds = await respuestaFeeds.text();
+            let config;
+            try {
+              config = JSON.parse(textoFeeds);
+            } catch (e) {
+              if (/Authorization needed|ppConfig|accounts\.google\.com|ServiceLogin/i.test(textoFeeds)) {
+                console.log("::error title=Apps Script LISTAR_FEEDS sin autorizar::El script 'Publicador Blogger' pide autorizacion de nuevo. Abre la direccion de LISTAR_FEEDS_URL con tu cuenta de Google y pulsa Review permissions.");
+              } else {
+                console.log("::error title=LISTAR_FEEDS respuesta no valida::El Apps Script no devolvio JSON. Primeros caracteres: " + textoFeeds.slice(0, 200).replace(/\s+/g, " "));
+              }
+              throw new Error("La lista de feeds no es JSON valido.");
+            }
             const feedsTodos = config.feeds || [];
 
             // 24 sept: frecuencia por seccion. Portadas, ultima hora y similares
@@ -341,5 +357,15 @@ jobs:
             echo "No hay cambios nuevos."
           else
             git commit -m "Actualizar feeds genéricos ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
-            git push
+            ok=0
+            for intento in 1 2 3 4; do
+              if git push; then ok=1; break; fi
+              echo "Push rechazado (intento $intento). Trayendo cambios recientes y reintentando..."
+              git pull --rebase -X theirs origin main || { git rebase --abort || true; }
+              sleep $((intento * 5))
+            done
+            if [ "$ok" != "1" ]; then
+              echo "::error title=No se pudieron guardar los feeds::El push a GitHub fallo 4 veces seguidas."
+              exit 1
+            fi
           fi
