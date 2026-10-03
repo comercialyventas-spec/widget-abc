@@ -142,6 +142,8 @@ async function main() {
         const esJsonGithub = entrada.tipo === 'json_github';
         if (esJsonGithub) {
           if (!nuevo.includes('raw.githubusercontent.com/comercialyventas-spec/widget-abc/main/') || !/["']datos\/[a-z0-9-]+\.json["']/.test(nuevo)) { resumen.push(`SALTADO  ${nombre}: el HTML nuevo no lee sus datos de GitHub (datos/)`); continue; }
+        } else if (entrada.tipo === 'widget_noticias') {
+          if (!/id="noticias-[0-9]+-container"/.test(nuevo) || !nuevo.includes('raw.githubusercontent.com/comercialyventas-spec/widget-abc/main/')) { resumen.push(`SALTADO  ${nombre}: el HTML nuevo no lleva un widget de noticias que lea de GitHub`); continue; }
         } else if (!nuevo.includes('motor-productos')) { resumen.push(`SALTADO  ${nombre}: el HTML nuevo no lleva el motor`); continue; }
       } else {
         nuevo = await widgetDeFila(token, fila);
@@ -168,7 +170,7 @@ async function main() {
         }, null, 1));
       }
       await blogger(token, 'PATCH', `${API}/blogs/${blogId}/posts/${post.id}`, { content: nuevo });
-      resumen.push(`CAMBIADO  ${nombre} → ${esObjeto ? (entrada.tipo === 'json_github' ? 'datos JSON de GitHub' : 'motor de productos') : 'widget noticias-' + fila}  ${post.url}`);
+      resumen.push(`CAMBIADO  ${nombre} → ${esObjeto ? (entrada.tipo === 'json_github' ? 'datos JSON de GitHub' : entrada.tipo === 'widget_noticias' ? 'widget de noticias (GitHub)' : 'motor de productos') : 'widget noticias-' + fila}  ${post.url}`);
       await esperar(3000);
     } catch (e) {
       errores++;
