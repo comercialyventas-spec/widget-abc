@@ -1,0 +1,85 @@
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoSr8nOL-HSe5eGcl2WmIEuYa0Gn8qe7XmMF8tjR4o2RkZKLL-R1251NRQccwftsB_SLGnzn4sEkThuXytL69Ng2XLmZYU5X8l3HRq8zJw_5ePQmIsNpUfMAZ40bkd7r2wtPSP8LWgyBqixd4j2Ic138W1BLfFCFVHned_AWw0y0mS6GY-w7FyXr5_KV9U/s1920/banner_evento_pabellon_puente_glb_glc.jpg" style="display: block; padding: 1em 0px; text-align: center;"><img alt="" border="0" data-original-height="800" data-original-width="1920" height="166" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoSr8nOL-HSe5eGcl2WmIEuYa0Gn8qe7XmMF8tjR4o2RkZKLL-R1251NRQccwftsB_SLGnzn4sEkThuXytL69Ng2XLmZYU5X8l3HRq8zJw_5ePQmIsNpUfMAZ40bkd7r2wtPSP8LWgyBqixd4j2Ic138W1BLfFCFVHned_AWw0y0mS6GY-w7FyXr5_KV9U/w400-h166/banner_evento_pabellon_puente_glb_glc.jpg" width="400" /></a></div><div id="agredasa-turismos-widget">
+
+  <!--PORTADA-->
+  <div style="font-family: &quot;Segoe UI&quot;, Roboto, Arial, sans-serif; margin-bottom: 30px; margin-left: auto; margin-right: auto; max-width: 800px; text-align: center;">
+    <h2 style="color: #111111; font-weight: 800; margin-bottom: 15px;"><span style="font-size: medium;">Mercedes-Benz Turismos Nuevos</span></h2>
+    <p style="color: #444444; font-size: 16px; line-height: 1.6; margin: 0px auto 25px; max-width: 650px; text-align: justify;">
+      Descubre la gama de <strong>turismos nuevos Mercedes-Benz</strong> en Ágreda Automóvil, concesionario oficial en Zaragoza. 
+      Vehículos en stock con entrega inmediata y todas las garantías oficiales.
+    </p>
+    <div style="background: rgb(232, 245, 233); border-left: 4px solid rgb(39, 174, 96); border-radius: 6px; margin-bottom: 10px; padding: 15px 20px; text-align: left;">
+      <p style="color: #1b5e20; font-size: 14px; margin: 0px;">
+        Vehículos nuevos en stock. Financiación a medida y garantía oficial Mercedes-Benz.
+      </p>
+    </div>
+  </div>
+
+  <!--GRID DE COCHES-->
+  <div id="agredasa-turismos-grid" style="color: #333333; display: grid; font-family: &quot;Segoe UI&quot;, Roboto, Arial, sans-serif; gap: 20px; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); margin: auto; max-width: 1000px;">
+    <p style="color: #999999; grid-column: 1 / -1; text-align: center;">Cargando modelos...</p>
+  </div>
+
+</div>
+
+<style>
+  #agredasa-turismos-widget .coche-card { border: 1px solid #eaeaea; border-radius: 10px; overflow: hidden; background: #fff; display: flex; flex-direction: column; transition: all 0.2s; }
+  #agredasa-turismos-widget .coche-card:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+  #agredasa-turismos-widget .coche-card img { width: 100%; height: 180px; object-fit: contain; background: #fafafa; }
+  #agredasa-turismos-widget .coche-card .coche-body { padding: 15px; display: flex; flex-direction: column; flex: 1; }
+  #agredasa-turismos-widget .coche-card h3 { font-size: 17px; font-weight: 700; color: #111; margin-bottom: 5px; }
+  #agredasa-turismos-widget .coche-card .coche-precio { font-size: 15px; font-weight: bold; color: #2c3e50; margin-bottom: 5px; }
+  #agredasa-turismos-widget .coche-card .coche-stock { font-size: 12px; color: #666; margin-bottom: 15px; }
+  #agredasa-turismos-widget .coche-card .coche-btn { display: block; background: #111; color: #fff; padding: 12px; text-decoration: none; border-radius: 8px; font-size: 13px; font-weight: bold; margin-top: auto; text-align: center; }
+  #agredasa-turismos-widget .coche-card .coche-btn:hover { background: #c0392b; }
+</style>
+
+<script>
+(function() {
+  var PAGE_URL = "https://www.agredasa.es/mercedes-benz-turismos-nuevos/";
+  var F = "datos/agredasa-mercedes-turismos.json";
+  var URLS = [
+    "https://raw.githubusercontent.com/comercialyventas-spec/widget-abc/main/" + F,
+    "https://cdn.jsdelivr.net/gh/comercialyventas-spec/widget-abc@main/" + F
+  ];
+  function esc(t) { return String(t || "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/"/g, "&quot;"); }
+  function pedir(i) {
+    if (i >= URLS.length) return Promise.reject(new Error("sin datos"));
+    return fetch(URLS[i], { cache: "no-store" })
+      .then(function(r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function(d) { if (!d || !d.items || !d.items.length) throw new Error("vacio"); return d.items; })
+      .catch(function() { return pedir(i + 1); });
+  }
+  function cargar() {
+    pedir(0)
+      .then(function(coches) {
+        var htmlOut = "";
+        coches.forEach(function(c) {
+          htmlOut +=
+            '<div class="coche-card">' +
+            (c.img ? '<img src="' + esc(c.img) + '" alt="' + esc(c.nombre) + '" loading="lazy">' : '<div style="height:180px; background:#f5f5f5; display:flex; align-items:center; justify-content:center; color:#ccc; font-size:40px;">🚗</div>') +
+            '<div class="coche-body">' +
+            '<h3>' + esc(c.nombre) + '</h3>' +
+            (c.precio ? '<div class="coche-precio">' + esc(c.precio) + '</div>' : '') +
+            (c.stock ? '<div class="coche-stock">' + esc(c.stock) + '</div>' : '') +
+            '<a class="coche-btn" href="' + esc(c.url) + '" target="_blank">VER MODELO</a>' +
+            '</div>' +
+            '</div>';
+        });
+        htmlOut +=
+          '<div style="grid-column: 1/-1; text-align: center; padding: 20px;">' +
+          '<a href="' + PAGE_URL + '" target="_blank" style="display: inline-block; background: #c0392b; color: #fff; padding: 16px 40px; text-decoration: none; border-radius: 10px; font-size: 16px; font-weight: bold;">VER TODOS LOS TURISMOS NUEVOS</a>' +
+          '</div>';
+        document.getElementById("agredasa-turismos-grid").innerHTML = htmlOut;
+      })
+      .catch(function() {
+        document.getElementById("agredasa-turismos-grid").innerHTML =
+          '<p style="grid-column: 1/-1; text-align: center; color: #666;">No se pudieron cargar los modelos. <a href="' + PAGE_URL + '" target="_blank">Ver en agredasa.es</a></p>';
+      });
+  }
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", cargar);
+  } else {
+    cargar();
+  }
+})();
+</script>
