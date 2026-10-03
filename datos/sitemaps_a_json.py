@@ -2,7 +2,7 @@
 # Lee sitemaps (o la lista publica de ofertas de Workday) y guarda datos/<salida>.json
 # para que los posts lo lean desde GitHub sin pasar por Apps Script.
 # Formato de cada linea:  salida | url | tipo | opciones
-#   tipo: con_imagen | sin_imagen | imagen_opcional | workday
+#   tipo: con_imagen | sin_imagen | imagen_opcional | workday | agredasa (pagina de modelos de agredasa.es)
 #   opciones (separadas por comas, opcional):
 #     og_imagen        -> si un elemento no trae imagen, se toma la og:image de su pagina (se guarda y no se vuelve a pedir)
 #     imagen_pagina    -> igual, pero toma la primera foto propia de la pagina (descarta las que se repiten en casi todas: logo, menu...)
@@ -93,6 +93,32 @@ def workday(base):
         time.sleep(1)
     return items
 
+def agredasa(url):
+    import html as H
+    pagina = bajar(url, aceptar='text/html,*/*')
+    bloques = pagina.split('class="vc_grid-item vc_clearfix vn_grid_comp')[1:]
+    items, vistos = [], set()
+    for b in bloques:
+        img = (re.search(r'data-bg="([^"]+)"', b) or re.search(r'data-lazy-src="([^"]+)"', b)
+               or re.search(r'<img[^>]+src="([^"]+\.(?:png|jpg|jpeg|webp))"', b, re.I))
+        tit = (re.search(r'title="([^"]+)" class="vc_gitem-link"', b)
+               or re.search(r'>([^<]+)</a></div>\s*</div>\s*<div class="wpb_text_column', b))
+        pre = re.search(r'pdesde">([^<]+)<', b)
+        sto = re.search(r'<strong>(\d+)</strong>\s*veh', b)
+        enl = re.search(r'href="(https://www\.agredasa\.es/mercedes-benz-turismo/[^"]+)"', b)
+        if not (tit and enl) or enl.group(1) in vistos:
+            continue
+        vistos.add(enl.group(1))
+        it = {'nombre': H.unescape(tit.group(1).strip()), 'url': enl.group(1)}
+        if img:
+            it['img'] = H.unescape(img.group(1))
+        if pre:
+            it['precio'] = H.unescape(pre.group(1).strip())
+        if sto:
+            it['stock'] = sto.group(1) + ' vehículos en stock'
+        items.append(it)
+    return items
+
 def og_imagen(url):
     try:
         html = bajar(url, aceptar='text/html,*/*', intentos=2)
@@ -144,7 +170,7 @@ def main(lista):
             except Exception:
                 anterior = []
         try:
-            items = workday(url) if tipo == 'workday' else procesar(bajar(url), tipo)
+            items = workday(url) if tipo == 'workday' else agredasa(url) if tipo == 'agredasa' else procesar(bajar(url), tipo)
         except Exception as e:
             print(f'ERROR {salida}: {e} (se deja el JSON anterior)')
             continue
