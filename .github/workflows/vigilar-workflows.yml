@@ -1,0 +1,65 @@
+name: Vigilar workflows (alarma)
+
+# Cada 3 horas mira el último resultado de los workflows que alimentan los blogs.
+# Si alguno ha fallado o lleva demasiado tiempo sin terminar bien, este run sale en ROJO
+# (GitHub manda el aviso de "workflow fallido") y explica cuál y por qué.
+# Solo lee; no cambia nada del repositorio.
+on:
+  schedule:
+    - cron: '17 */3 * * *'
+  workflow_dispatch:
+
+permissions:
+  actions: read
+  contents: read
+
+jobs:
+  vigilar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Comprobar
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          node <<'NODE'
+          // archivo del workflow | nombre para el aviso | horas maximas sin un run correcto
+          const VIGILAR = [
+            ['feeds-generico.yml', 'Actualizar feeds genéricos (noticias)', 8],
+            ['rtve-api.yml', 'Noticias RTVE por API', 6],
+            ['sitemaps-a-json.yml', 'Sitemaps a JSON (Cash Fresh, empleo, cocinas, Mercedes, Castro-Vega)', 30],
+            ['catalogos-desde-categorias.yml', 'Catálogos desde páginas de categoría', 30],
+            ['catalogos-desde-paginas.yml', 'Catálogos desde páginas de producto', 30],
+            ['productos-generico.yml', 'productos-generico', 30],
+          ];
+          const api = (p) => fetch(`https://api.github.com/repos/${process.env.REPO}${p}`, {
+            headers: { Authorization: 'Bearer ' + process.env.GH_TOKEN, Accept: 'application/vnd.github+json' },
+          }).then((r) => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); });
+          (async () => {
+            const problemas = [], bien = [];
+            for (const [archivo, nombre, horas] of VIGILAR) {
+              try {
+                const d = await api(`/actions/workflows/${archivo}/runs?per_page=10&status=completed`);
+                const runs = (d.workflow_runs || []).filter((r) => r.conclusion !== 'cancelled' && r.conclusion !== 'skipped');
+                if (!runs.length) { problemas.push(`${nombre}: no hay ningún run terminado`); continue; }
+                const ultimo = runs[0];
+                const ok = runs.find((r) => r.conclusion === 'success');
+                const horasOk = ok ? (Date.now() - new Date(ok.updated_at).getTime()) / 3600000 : Infinity;
+                if (ultimo.conclusion !== 'success') {
+                  problemas.push(`${nombre}: el último run (${ultimo.updated_at}) terminó en "${ultimo.conclusion}". Mira ${ultimo.html_url}`);
+                } else if (horasOk > horas) {
+                  problemas.push(`${nombre}: lleva ${horasOk.toFixed(1)} h sin un run correcto (máximo ${horas} h)`);
+                } else {
+                  bien.push(`${nombre}: bien (hace ${horasOk.toFixed(1)} h)`);
+                }
+              } catch (e) {
+                problemas.push(`${nombre}: no se pudo consultar (${e.message})`);
+              }
+            }
+            if (bien.length) console.log('::notice title=Funcionan bien::' + bien.join(' ### '));
+            for (const p of problemas) console.log('::error title=Workflow con problemas::' + p);
+            if (problemas.length) process.exit(1);
+            console.log('Todo bien.');
+          })().catch((e) => { console.log('::error::' + e.message); process.exit(1); });
+          NODE
