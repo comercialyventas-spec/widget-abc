@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Nubosidad y probabilidad de lluvias este domingo en Granada",
+      "link": "https://www.ahoragranada.com/noticias/nubosidad-y-probabilidad-de-lluvias-este-domingo-en-granada/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2024/04/Nubes-cielo-Granada.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Corporación Tecnológica de Andalucía se une a Granada 2031 para reforzar la alianza entre cultura y ciencia",
       "link": "https://www.ahoragranada.com/noticias/corporacion-tecnologica-de-andalucia-se-suma-a-granada-2031-para-reforzar-la-alianza-entre-cultura-y-ciencia/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/10/Corporacion-tecnologica-andalucia-Granada-2031.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Las tormentas de este viernes dejan carreteras cortadas en Granada",
       "link": "https://www.ahoragranada.com/noticias/las-tormentas-de-este-viernes-dejan-carreteras-cortadas-en-granada/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/10/Carretera-anegada-lluvia-Granada.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Coviran Granada busca en tierras asturianas la primera victoria de la temporada",
-      "link": "https://www.ahoragranada.com/noticias/el-coviran-granada-busca-en-tierras-asturianas-la-primera-victoria-de-la-temporada/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Coviran-Gipuzkoa-02-1-scaled.jpg",
       "tipo": "imagen"
     }
   ]
