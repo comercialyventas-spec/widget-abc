@@ -4,7 +4,7 @@
 # Escribe productos/producto-<md5(clave)[:16]>-pN.json, el mismo formato que usa el motor de productos.
 # Uso: python3 productos/catalogo_desde_categorias.py productos/catalogos_categorias.txt
 # cada línea: clave (= data-url del post) | página de categoría | tipo | máximo de páginas | máximo de productos | moneda | opciones
-# tipos: woocommerce | opencart | prestashop | bitrix | comprafruta
+# tipos: woocommerce | opencart | prestashop | bitrix | comprafruta | banners (webs de hoteles con 'const BANNERS = [...]', p. ej. AZZ Hoteles)
 # opciones (separadas por comas): sin_agotados (no pone los productos agotados)
 import sys, re, json, time, hashlib, html, gzip, glob, os, urllib.request, urllib.parse
 
@@ -121,6 +121,27 @@ def extraer_bitrix(p, base, moneda):
     return out
 
 
+def extraer_banners(p, base):
+    # webs de hoteles (motor "sbbasic", p. ej. azzhoteles.com) que llevan los alojamientos en "const BANNERS = [...]"
+    out = []
+    m = re.search(r'const BANNERS = (\[[\s\S]*?\]);', p)
+    if not m:
+        return out
+    try:
+        banners = json.loads(m.group(1))
+    except Exception:
+        return out
+    raiz = re.match(r'https?://[^/]+', base).group(0)
+    for b in banners:
+        tit = re.sub(r'\s+', ' ', str(b.get('title') or '')).strip()
+        fichero = (b.get('image') or {}).get('file') if isinstance(b.get('image'), dict) else ''
+        enlace = str(b.get('link') or '').strip()
+        if not tit or not fichero or not enlace or not re.search(r'AZZ|Hotel|SPA|PAQUETE|BONO', tit):
+            continue
+        out.append({'titulo': tit, 'url': absoluta(enlace, raiz + '/'), 'imagen': foto(raiz + '/files-sbbasic/gr_azz_hoteles/' + fichero, base), 'precio': ''})
+    return out
+
+
 def extraer_opencart(p, base, moneda):
     out = []
     for b in p.split('class="product-thumb')[1:]:
@@ -179,6 +200,8 @@ for linea in open(sys.argv[1], encoding='utf-8'):
             nuevos = extraer_prestashop(p, u, moneda)
         elif tipo == 'bitrix':
             nuevos = extraer_bitrix(p, url, moneda)
+        elif tipo == 'banners':
+            nuevos = extraer_banners(p, u)
         else:
             nuevos = extraer_comprafruta(p, u)
         pagina_nueva = 0
