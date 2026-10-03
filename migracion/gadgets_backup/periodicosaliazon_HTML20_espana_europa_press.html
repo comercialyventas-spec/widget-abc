@@ -1,0 +1,76 @@
+<div id="ep-widget-final">
+  <div id="ep-contenido">
+    <p style="text-align:center; padding:20px; color:#666; font-family:sans-serif;">🔄 Cargando noticias en alta resolución...</p>
+  </div>
+</div>
+
+<style>
+  #ep-contenido { 
+    display: grid; 
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); 
+    gap: 20px; 
+    font-family: 'Segoe UI', Roboto, Arial, sans-serif;
+  }
+  
+  /* NOTICIA PRINCIPAL */
+  #ep-contenido > div:first-child { 
+    grid-column: 1 / -1; 
+    border-bottom: 2px solid #eee !important;
+    padding-bottom: 20px;
+  }
+  
+  /* TRATAMIENTO DE IMAGEN PARA MÁXIMA NITIDEZ */
+  #ep-contenido div[style*="background"] { 
+    background-size: cover !important; 
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    border-radius: 8px;
+    /* Evita que el navegador suavice de más la imagen si es pequeña */
+    image-rendering: -webkit-optimize-contrast; 
+  }
+
+  #ep-contenido > div:first-child div[style*="background"] { 
+    height: 400px !important; 
+  }
+
+  #ep-contenido > div:not(:first-child) div[style*="background"] { 
+    height: 160px !important; 
+  }
+
+  #ep-contenido a { 
+    text-decoration: none; 
+    color: #111; 
+    font-weight: 800; 
+    font-size: 18px;
+    display: block;
+    margin-top: 12px;
+    line-height: 1.3;
+  }
+</style>
+
+<script>
+(function() {
+  const MI_MOTOR = "https://script.google.com/macros/s/AKfycbxTehoGzJL9MT1SvEnV7XNNbpIs0n3XEQd_yFl1aBQdC_ZBPLRhQ3m-wokLZKZtwrIT/exec";
+  const RSS_URL = "https://www.europapress.es/rss/rss.aspx?ch=00066";
+  const contenedor = document.getElementById('ep-contenido');
+
+  fetch(`${MI_MOTOR}?url=${encodeURIComponent(RSS_URL)}`)
+    .then(response => response.text())
+    .then(html => {
+      /* 
+         TRUCO MAESTRO PARA EUROPA PRESS:
+         Europa Press suele enviar miniaturas terminadas en num_100.jpg o num_120.jpg.
+         Este código detecta esos patrones y pide la imagen original (más grande).
+      */
+      let altaCalidad = html
+        .replace(/_(\d{2,3})\.jpg/g, '.jpg') // Quita el sufijo de miniatura (ej: _120.jpg -> .jpg)
+        .replace(/_(\d{2,3})\.png/g, '.png')
+        .replace(/filter: blur\(.*?\);/g, ''); // Por si acaso hay desenfoque por código
+
+      contenedor.innerHTML = altaCalidad;
+    })
+    .catch(err => {
+      contenedor.innerHTML = "<p style='text-align:center;'>Error al cargar las imágenes.</p>";
+    });
+})();
+</script>
