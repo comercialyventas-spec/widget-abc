@@ -1,0 +1,70 @@
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpwTMK7xgGcz8Hm1G7fFpraxC1AyxbCAjy73SNlOy6opqwaFe0bvgdyGXtOAHSKhU_Cg07bcz8LzVY97AV8QvVKePiKxi9hfHmWvXBe9md49eDGWRFaR-YoZWk4-4C1xpatW-Ub-I4v4s8cg5VStVs1pxFG4sf7ROPPo7_ZETWLzNwtgTUM1d-FczKV0c/s845/hemos-mejorado-para-ti-en-c-lope-de-vega-845x321.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="320" data-original-height="321" data-original-width="845" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpwTMK7xgGcz8Hm1G7fFpraxC1AyxbCAjy73SNlOy6opqwaFe0bvgdyGXtOAHSKhU_Cg07bcz8LzVY97AV8QvVKePiKxi9hfHmWvXBe9md49eDGWRFaR-YoZWk4-4C1xpatW-Ub-I4v4s8cg5VStVs1pxFG4sf7ROPPo7_ZETWLzNwtgTUM1d-FczKV0c/s320/hemos-mejorado-para-ti-en-c-lope-de-vega-845x321.jpg"/></a></div>
+Cash Fresh es una cadena de supermercados andaluza conocida por sus precios competitivos y por destacar en secciones de frescos como carnicería, pescadería y frutería. Muchos clientes valoran la variedad de productos y el trato cercano del personal, especialmente en tiendas de Andalucía, aunque algunas reseñas mencionan colas en caja o diferencias de calidad según el establecimiento. En general, se percibe como una opción práctica para hacer la compra diaria con buenas ofertas y productos frescos.
+<div id="cashfresh-widget">
+  <div id="cashfresh-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px; font-family: 'Segoe UI', Roboto, Arial, sans-serif; max-width: 1000px; margin: auto; color: #333;">
+    <p style="grid-column: 1/-1; text-align: center; color: #999;">Cargando supermercados Cash Fresh...</p>
+  </div>
+</div>
+
+<style>
+  #cashfresh-widget .cf-card { border: 1px solid #eaeaea; border-radius: 10px; overflow: hidden; background: #fff; display: flex; flex-direction: column; }
+  #cashfresh-widget .cf-card img { width: 100%; height: 180px; object-fit: cover; }
+  #cashfresh-widget .cf-card-body { padding: 18px; display: flex; flex-direction: column; flex: 1; }
+  #cashfresh-widget .cf-card h3 { font-size: 17px; font-weight: 700; color: #111; margin-bottom: 5px; text-transform: capitalize; }
+  #cashfresh-widget .cf-card .cf-folleto { font-size: 12px; color: #e63946; margin-bottom: 12px; }
+  #cashfresh-widget .cf-card .cf-btn { display: block; background: #e63946; color: #fff; padding: 10px; text-decoration: none; border-radius: 6px; font-size: 13px; font-weight: bold; text-align: center; margin-top: auto; margin-bottom: 6px; }
+  #cashfresh-widget .cf-card .cf-btn:hover { background: #c1121f; }
+  #cashfresh-widget .cf-card .cf-btn-folleto { background: #fff; color: #e63946; border: 1px solid #e63946; }
+  #cashfresh-widget .cf-card .cf-btn-folleto:hover { background: #fef2f2; }
+</style>
+
+<script>
+(function() {
+  var F = "datos/cashfresh-tiendas.json";
+  var URLS = [
+    "https://raw.githubusercontent.com/comercialyventas-spec/widget-abc/main/" + F,
+    "https://cdn.jsdelivr.net/gh/comercialyventas-spec/widget-abc@main/" + F
+  ];
+  function pedir(i) {
+    if (i >= URLS.length) return Promise.reject(new Error("sin datos"));
+    return fetch(URLS[i], { cache: "no-store" })
+      .then(function(r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function(d) { if (!d || !d.items || !d.items.length) throw new Error("vacio"); return d.items; })
+      .catch(function() { return pedir(i + 1); });
+  }
+
+  function cargarCF() {
+    pedir(0)
+      .then(function(tiendas) {
+        var html = "";
+        tiendas.forEach(function(t) {
+          var urlFolleto = "https://www.cashfresh.es/folleto-de-" + t.slug + "/";
+          html +=
+            '<div class="cf-card">' +
+            '<img src="' + t.img + '" alt="' + t.nombre + '" loading="lazy">' +
+            '<div class="cf-card-body">' +
+            '<h3>' + t.nombre + '</h3>' +
+            '<a class="cf-btn" href="' + t.url + '" target="_blank">🛒 VER TIENDA</a>' +
+            '<a class="cf-btn cf-btn-folleto" href="' + urlFolleto + '" target="_blank">📖 VER FOLLETO</a>' +
+            '</div>' +
+            '</div>';
+        });
+        html +=
+          '<div style="grid-column: 1/-1; text-align: center; padding: 20px;">' +
+          '<a href="https://www.cashfresh.es/" target="_blank" style="display: inline-block; background: #e63946; color: #fff; padding: 14px 35px; text-decoration: none; border-radius: 8px; font-size: 15px; font-weight: bold;">🛒 VER WEB DE CASH FRESH</a>' +
+          '</div>';
+        document.getElementById("cashfresh-grid").innerHTML = html;
+      })
+      .catch(function() {
+        document.getElementById("cashfresh-grid").innerHTML =
+          '<p style="grid-column: 1/-1; text-align: center; color: #666;">No se pudieron cargar las tiendas. <a href="https://www.cashfresh.es/" target="_blank">Ver en cashfresh.es</a></p>';
+      });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", cargarCF);
+  } else {
+    cargarCF();
+  }
+})();
+</script>

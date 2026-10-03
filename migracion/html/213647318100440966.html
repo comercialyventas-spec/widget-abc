@@ -1,0 +1,65 @@
+<div id="cashfresh-cat-widget">
+  <!-- PORTADA -->
+  <div style="text-align: center; margin-bottom: 30px; font-family: 'Segoe UI', Roboto, Arial, sans-serif; max-width: 650px; margin-left: auto; margin-right: auto;">
+    <img src="https://www.cashfresh.es/wp-content/uploads/2022/11/servicios_profesionales.png" alt="Cash Fresh" style="width: 100%; max-width: 400px; height: auto; border-radius: 10px; margin-bottom: 15px;" />
+    <h2 style="font-size: 22px; font-weight: 800; color: #111; margin-bottom: 10px;">📂 Categorías de Cash Fresh</h2>
+    <p style="font-size: 14px; color: #666; line-height: 1.6;">
+      Descubre todas las secciones del blog de Cash Fresh, donde encontrarás recetas fáciles y tradicionales, consejos de alimentación y ahorro, novedades sobre productos y noticias relacionadas con el supermercado. Un espacio pensado para inspirarte en tu día a día con ideas prácticas para cocinar, conocer nuevos productos y sacar más partido a tu compra semanal.
+    </p>
+  </div>
+
+  <div id="cashfresh-cat-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 12px; font-family: 'Segoe UI', Roboto, Arial, sans-serif; max-width: 800px; margin: auto; color: #333;">
+    <p style="grid-column: 1/-1; text-align: center; color: #999;">Cargando categorías de Cash Fresh...</p>
+  </div>
+</div>
+
+<style>
+  #cashfresh-cat-widget .cfcat-card { border: 1px solid #eaeaea; border-radius: 10px; padding: 16px; text-align: center; background: #fff; }
+  #cashfresh-cat-widget .cfcat-card a { font-size: 14px; font-weight: 600; color: #e63946; text-decoration: none; display: block; }
+  #cashfresh-cat-widget .cfcat-card a:hover { color: #c1121f; }
+</style>
+
+<script>
+(function() {
+  var F = "datos/cashfresh-categorias.json";
+  var URLS = [
+    "https://raw.githubusercontent.com/comercialyventas-spec/widget-abc/main/" + F,
+    "https://cdn.jsdelivr.net/gh/comercialyventas-spec/widget-abc@main/" + F
+  ];
+  function pedir(i) {
+    if (i >= URLS.length) return Promise.reject(new Error("sin datos"));
+    return fetch(URLS[i], { cache: "no-store" })
+      .then(function(r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function(d) { if (!d || !d.items || !d.items.length) throw new Error("vacio"); return d.items; })
+      .catch(function() { return pedir(i + 1); });
+  }
+
+  function cargarCFCat() {
+    pedir(0)
+      .then(function(categorias) {
+        var html = "";
+        categorias.forEach(function(c) {
+          html +=
+            '<div class="cfcat-card">' +
+            '<a href="' + c.url + '" target="_blank">📂 ' + c.nombre + '</a>' +
+            '</div>';
+        });
+        html +=
+          '<div style="grid-column: 1/-1; text-align: center; padding: 15px;">' +
+          '<a href="https://www.cashfresh.es/" target="_blank" style="display: inline-block; background: #e63946; color: #fff; padding: 12px 30px; text-decoration: none; border-radius: 8px; font-size: 14px; font-weight: bold;">🛒 VER WEB DE CASH FRESH</a>' +
+          '</div>';
+        document.getElementById("cashfresh-cat-grid").innerHTML = html;
+      })
+      .catch(function() {
+        document.getElementById("cashfresh-cat-grid").innerHTML =
+          '<p style="grid-column: 1/-1; text-align: center; color: #666;">No se pudieron cargar las categorías. <a href="https://www.cashfresh.es/" target="_blank">Ver en cashfresh.es</a></p>';
+      });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", cargarCFCat);
+  } else {
+    cargarCFCat();
+  }
+})();
+</script>
