@@ -1,0 +1,26 @@
+name: Buscar scripts en paginas y gadgets (solo lectura)
+
+# Se lanza cuando Claude sube migracion/buscar_scripts_orden.txt. No cambia nada.
+on:
+  push:
+    branches: [main]
+    paths: ['migracion/buscar_scripts_orden.txt']
+
+permissions:
+  contents: read
+
+jobs:
+  buscar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Buscar
+        env:
+          CLIENT_ID: ${{ secrets.BLOGGER_CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.BLOGGER_CLIENT_SECRET }}
+          REFRESH_TOKEN: ${{ secrets.BLOGGER_REFRESH_TOKEN }}
+        run: node migracion/buscar_scripts.js migracion/buscar_scripts_orden.txt
