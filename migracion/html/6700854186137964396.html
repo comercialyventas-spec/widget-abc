@@ -1,0 +1,115 @@
+<div id="tienda-catalogo">Cargando catálogo...</div>
+<div id="ver-mas-container" style="text-align:center; margin-top:20px; display:none;">
+  <button id="btn-ver-mas" onclick="cargarMas()" style="
+    background:#111; color:#fff; border:none; padding:12px 30px;
+    border-radius:6px; font-size:14px; font-weight:bold;
+    text-transform:uppercase; letter-spacing:1px; cursor:pointer;">
+    Ver más
+  </button>
+</div>
+
+<style>
+  #tienda-catalogo {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 25px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    padding: 10px;
+  }
+  .producto-card {
+    border: 1px solid #eaeaea;
+    padding: 15px;
+    border-radius: 12px;
+    text-align: center;
+    background: #fff;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .producto-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.05);
+  }
+  .producto-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+    background: #f7f7f7;
+  }
+  .producto-card img.sin-imagen {
+    display: none;
+  }
+  .producto-title {
+    font-size: 14px;
+    font-weight: 600;
+    color: #333;
+    margin: 12px 0;
+    height: 40px;
+    line-height: 1.3;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
+  .producto-link {
+    display: block;
+    background: #111;
+    color: #fff !important;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  #btn-ver-mas:hover {
+    background: #333;
+  }
+</style>
+
+<script>
+(function() {
+  var F = "datos/castrovega-productos.json";
+  var URLS = [
+    "https://raw.githubusercontent.com/comercialyventas-spec/widget-abc/main/" + F,
+    "https://cdn.jsdelivr.net/gh/comercialyventas-spec/widget-abc@main/" + F
+  ];
+  var LOTE = 24;
+  var lista = [], mostrados = 0;
+  function esc(t) { return String(t || "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/"/g, "&quot;"); }
+  function pedir(i) {
+    if (i >= URLS.length) return Promise.reject(new Error("sin datos"));
+    return fetch(URLS[i], { cache: "no-store" })
+      .then(function(r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function(d) { if (!d || !d.items || !d.items.length) throw new Error("vacio"); return d.items; })
+      .catch(function() { return pedir(i + 1); });
+  }
+  function tarjeta(p) {
+    return '<div class="producto-card">' +
+      (p.img ? '<img src="' + esc(p.img) + '" alt="' + esc(p.nombre) + '" loading="lazy" onerror="this.style.display=\'none\'">' : '') +
+      '<div class="producto-title">' + esc(p.nombre) + '</div>' +
+      '<a href="' + esc(p.url) + '" class="producto-link" target="_blank" rel="nofollow">Comprar ahora</a>' +
+      '</div>';
+  }
+  function mostrarMas() {
+    var fin = Math.min(lista.length, mostrados + LOTE), html = "";
+    for (; mostrados < fin; mostrados++) html += tarjeta(lista[mostrados]);
+    document.getElementById("tienda-catalogo").insertAdjacentHTML("beforeend", html);
+    document.getElementById("ver-mas-container").style.display = mostrados < lista.length ? "block" : "none";
+  }
+  window.cargarMas = mostrarMas;
+  pedir(0).then(function(items) {
+    lista = items;
+    document.getElementById("tienda-catalogo").innerHTML = "";
+    mostrarMas();
+  }).catch(function() {
+    document.getElementById("tienda-catalogo").innerHTML =
+      "<p style='grid-column:1/-1;text-align:center;'>No se pudo cargar el catálogo. <a href='https://castro-vega.com' target='_blank'>Ver en castro-vega.com</a></p>";
+  });
+})();
+</script>
+
+<span style="font-size: x-large;">
+SI NO HAY DE TU TALLA O NO ENVÍAN A TU DESTINO CONTÁCTANOS:
+<a href="mailto:comercialyventas@gmail.com">comercialyventas@gmail.com</a>
+</span>
