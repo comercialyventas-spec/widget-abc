@@ -11,12 +11,27 @@ import sys, re, json, time, hashlib, html, gzip, glob, os, urllib.request, urlli
 UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36'
 
 
+COOKIES = {}   # host -> 'nombre=valor' de las páginas de espera que ponen una cookie con JavaScript y recargan
+
+
 def get(url, maxb=4_000_000):
-    r = urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': UA, 'Accept-Language': 'es-ES,es;q=0.9'}), timeout=40)
-    b = r.read(maxb)
-    if b[:2] == b'\x1f\x8b':
-        b = gzip.decompress(b)
-    return b.decode('utf-8', 'ignore')
+    host = urllib.parse.urlparse(url).netloc
+    for intento in range(2):
+        cab = {'User-Agent': UA, 'Accept-Language': 'es-ES,es;q=0.9'}
+        if COOKIES.get(host):
+            cab['Cookie'] = COOKIES[host]
+        r = urllib.request.urlopen(urllib.request.Request(url, headers=cab), timeout=40)
+        b = r.read(maxb)
+        if b[:2] == b'\x1f\x8b':
+            b = gzip.decompress(b)
+        t = b.decode('utf-8', 'ignore')
+        # página de espera (p. ej. botica3.es): "document.cookie = 'dhd2=...'" + recarga a los 3 s
+        m = re.search(r"document\.cookie\s*=\s*['\"]([A-Za-z0-9_]+=[A-Za-z0-9]+)", t) if len(t) < 8000 else None
+        if not m or intento:
+            return t
+        COOKIES[host] = m.group(1)
+        time.sleep(4)
+    return t
 
 
 def limpio(t):
