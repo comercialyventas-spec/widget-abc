@@ -30,7 +30,7 @@
   "use strict";
   if (window.MotorProductos && window.MotorProductos.version) { window.MotorProductos.iniciarTodos(); return; }
 
-  var VERSION = "1.1";
+  var VERSION = "1.2";
   var GH_BASES = [
     "https://cdn.jsdelivr.net/gh/comercialyventas-spec/widget-abc@main/productos/",
     "https://raw.githubusercontent.com/comercialyventas-spec/widget-abc/main/productos/"
@@ -368,6 +368,7 @@
   /* ---------- carga por tandas ---------- */
   function cargarSiguiente(w) {
     if (w.ocupado || w.fin) return;
+    if (w.esperaPersona && !hayPersona) return;
     w.ocupado = true;
     var url = w.urls[w.idx], pagina = w.pagina;
     var orden = w.capa != null ? CAPAS.slice(w.capa).concat(CAPAS.slice(0, w.capa)) : CAPAS;
@@ -375,6 +376,8 @@
     function probar() {
       if (i >= orden.length) return Promise.reject(new Error("todas las capas fallaron"));
       var capa = orden[i++];
+      // 3 oct: sin gesto de una persona solo se lee la copia de GitHub (gratis); el NAS y los proxies esperan
+      if (!hayPersona && capa.nombre !== "github") { w.esperaPersona = true; return Promise.reject(new Error("espera persona")); }
       return capa.fn(w, url, pagina).then(function (r) { w.capa = CAPAS.indexOf(capa); w.capaNombre = capa.nombre; return r; }, probar);
     }
     probar().then(function (r) {
@@ -382,6 +385,8 @@
       if (w.productos.length && !w.copiaGuardada && (pagina >= 2 || !r.hayMas)) { guardarCopia(w); w.copiaGuardada = true; }
       if (r.hayMas) w.pagina++; else siguienteUrl(w);
     }, function () {
+      if (w.esperaPersona && !hayPersona) { botonVer(w); return; }
+      w.esperaPersona = false;
       if (pagina === 1 && !w.productos.length && w.idx === w.urls.length - 1) {
         var copia = leerCopia(w) || w.ghViejo || w.ghOtroIdioma;
         if (copia) { anadir(w, copia); w.deCopia = true; }
@@ -389,6 +394,7 @@
       siguienteUrl(w);
     }).then(function () {
       w.ocupado = false;
+      if (w.esperaPersona && !hayPersona) return;
       if (w.fin) {
         if (w.reloj) { clearInterval(w.reloj); w.reloj = null; }
         botonFinal(w);
@@ -404,6 +410,20 @@
     w.idx++; w.pagina = 1; w.capa = null;
     if (w.idx >= w.urls.length) w.fin = true;
   }
+  // 3 oct: aviso para el lector (sobre todo en el movil) cuando los productos dependen del NAS
+  function botonVer(w) {
+    if (w.grid.querySelector(".mp-ver")) return;
+    quitarAviso(w);
+    var caja = document.createElement("div");
+    caja.className = "mp-ver"; caja.style.cssText = "grid-column:1/-1;text-align:center;padding:10px 0";
+    caja.innerHTML = '<button type="button" style="background:#111;color:#fff;border:0;border-radius:8px;padding:14px 36px;font-size:15px;font-weight:500;letter-spacing:1px;cursor:pointer">Ver productos</button>' +
+      '<div style="color:#999;font-size:13px;margin-top:8px">Toca aquí o desliza la pantalla para cargarlos</div>';
+    caja.querySelector("button").addEventListener("click", function () { hayPersonaYa(); });
+    w.grid.insertBefore(caja, w.grid.firstChild);
+    estado(w, "");
+  }
+  function quitarBotonVer(w) { var b = w.grid.querySelector(".mp-ver"); if (b) b.parentNode.removeChild(b); }
+  var WIDGETS = [];
   function casiVisible(w) { var r = w.grid.getBoundingClientRect(); return r.bottom < (window.innerHeight || 800) + 600; }
 
   /* ---------- arranque ---------- */
@@ -431,6 +451,7 @@
     ponerEstilos();
     el.innerHTML = '<div class="mp-grid"><p class="mp-aviso" style="grid-column:1/-1;text-align:center;color:#999">Cargando productos...</p></div><div class="mp-estado"></div>';
     w.grid = el.querySelector(".mp-grid"); w.estado = el.querySelector(".mp-estado");
+    WIDGETS.push(w);
     // Si una foto falla, se reintenta a través de images.weserv.nl
     w.grid.addEventListener("error", function (e) {
       var t = e.target;
@@ -467,17 +488,23 @@
     try { if (navigator.webdriver) return true; } catch (e) {}
     return /bot|crawl|spider|slurp|headless|lighthouse|pagespeed|preview|facebookexternalhit|embedly|python|curl|wget|httpclient|java\/|go-http|okhttp|axios|node-fetch|phantom|puppeteer|playwright|selenium/i.test(navigator.userAgent || "");
   }
-  function iniciarTodos() { if (hayPersona) iniciarTodosYa(); }
+  var GESTOS = ["mousemove", "pointerdown", "touchstart", "scroll", "wheel", "keydown"];
+  function hayPersonaYa() {
+    if (hayPersona) return;
+    hayPersona = true;
+    for (var i = 0; i < GESTOS.length; i++) window.removeEventListener(GESTOS[i], hayPersonaYa, true);
+    iniciarTodosYa();
+    // los que esperaban (no tenian copia en GitHub) siguen ahora con el NAS y las demas capas
+    WIDGETS.forEach(function (w) {
+      if (w.esperaPersona) { w.esperaPersona = false; quitarBotonVer(w); estado(w, "Cargando productos..."); cargarSiguiente(w); }
+    });
+  }
+  // 3 oct: se arranca nada mas cargar, pero sin persona solo se usa la copia de GitHub
+  function iniciarTodos() { if (!esRobot()) iniciarTodosYa(); }
   function esperarPersona() {
     if (esRobot()) return;
-    var gestos = ["mousemove", "pointerdown", "touchstart", "scroll", "wheel", "keydown"];
-    function arrancar() {
-      if (hayPersona) return;
-      hayPersona = true;
-      for (var i = 0; i < gestos.length; i++) window.removeEventListener(gestos[i], arrancar, true);
-      iniciarTodosYa();
-    }
-    for (var i = 0; i < gestos.length; i++) window.addEventListener(gestos[i], arrancar, { passive: true, capture: true });
+    for (var i = 0; i < GESTOS.length; i++) window.addEventListener(GESTOS[i], hayPersonaYa, { passive: true, capture: true });
+    iniciarTodosYa();
   }
 
   window.MotorProductos = { version: VERSION, iniciarTodos: iniciarTodos, _md5: md5, _extraerDeHtml: extraerDeHtml, _extraerSitemap: extraerSitemap };
