@@ -1,6 +1,6 @@
 name: Inventario por orden (solo lectura)
 
-# Se lanza cuando Claude sube migracion/inventario_orden.txt (IDs de blogs separados por espacios).
+# Se lanza cuando Claude sube migracion/inventario_orden.txt (IDs o nombres de blogs, p. ej. calzadoaliazon, separados por espacios).
 # No cambia ningún post: cuenta los posts publicados que siguen llamando a un script de Google
 # (sin contar los contadores de clics) y guarda la lista en migracion/inventario_total.json.
 # El resumen sale como avisos del run.
@@ -34,7 +34,9 @@ jobs:
           REFRESH_TOKEN: ${{ secrets.BLOGGER_REFRESH_TOKEN }}
         run: |
           cp migracion/inventario_productos.json /tmp/inventario_anterior.json
-          node migracion/inventario_productos.js "$(tr '\n' ' ' < migracion/inventario_orden.txt)" > /tmp/inv.txt 2>&1 || true
+          node migracion/resolver_blogs.js migracion/inventario_orden.txt > /tmp/ids.txt 2> /tmp/resolver.txt || true
+          echo "::notice::BLOGS RESUELTOS: $(grep -v add-mask /tmp/resolver.txt | paste -sd'#' | sed 's/#/ ### /g' | cut -c1-3900)"
+          node migracion/inventario_productos.js "$(cat /tmp/ids.txt)" > /tmp/inv.txt 2>&1 || true
           mv migracion/inventario_productos.json migracion/inventario_total.json
           cp /tmp/inventario_anterior.json migracion/inventario_productos.json
           grep -E 'posts publicados|^TOTAL|ERROR' /tmp/inv.txt > /tmp/blogs.txt || true
