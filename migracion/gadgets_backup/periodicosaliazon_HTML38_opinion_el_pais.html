@@ -1,0 +1,23 @@
+<div id="seccion-opinion-elpais" style="min-height: 250px;">
+  <p style="text-align: center; color: #666; font-family: sans-serif;">Cargando actualidad...</p>
+</div>
+
+<script>
+  (function() {
+    // 1. TU MOTOR (Ya está puesto el tuyo)
+    const MI_MOTOR = "https://script.google.com/macros/s/AKfycbxTehoGzJL9MT1SvEnV7XNNbpIs0n3XEQd_yFl1aBQdC_ZBPLRhQ3m-wokLZKZtwrIT/exec"; 
+    
+    // 2. EL PERIÓDICO QUE QUIERAS (Cámbialo cuando quieras otra sección)
+    const RSS_URL = "https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/opinion"; 
+
+    // No tocar nada de aquí abajo
+    fetch(`${MI_MOTOR}?url=${encodeURIComponent(RSS_URL)}`)
+      .then(response => response.text())
+      .then(html => {
+        document.getElementById('seccion-opinion-elpais').innerHTML = html;
+      })
+      .catch(err => {
+        document.getElementById('seccion-opinion-elpais').innerHTML = "Error al cargar las noticias.";
+      });
+  })();
+</script>
