@@ -34,8 +34,16 @@ function contenidoWidget(html, id) {
   const res = [];
   for (const l of lineas) {
     const [nombre, url, ...ids] = l.split(/\s+/);
-    const r = await fetch(url, { headers: { 'User-Agent': UA, 'Accept-Language': 'es-ES,es;q=0.9' } });
-    const html = await r.text();
+    // Blogger a veces contesta 429 (demasiadas peticiones) a GitHub: se reintenta con espera
+    let r, html = '';
+    for (let intento = 0; intento < 6; intento++) {
+      const u = intento % 2 === 0 ? url : url + (url.includes('?') ? '&' : '?') + 'm=0';
+      r = await fetch(u, { headers: { 'User-Agent': UA, 'Accept-Language': 'es-ES,es;q=0.9' } });
+      html = await r.text();
+      if (r.ok) break;
+      console.log(`intento ${intento + 1}: ${r.status}, espero...`);
+      await new Promise((ok) => setTimeout(ok, 45000));
+    }
     if (!r.ok) { res.push(`${nombre}: portada ${r.status}`); continue; }
     for (const id of ids) {
       const c = contenidoWidget(html, id);
