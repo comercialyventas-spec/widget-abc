@@ -116,12 +116,18 @@ jobs:
           }
 
           async function parsearRss(xml) {
-            const itemsRaw = xml.match(/<item\b[\s\S]*?<\/item>/gi) || [];
+            let itemsRaw = xml.match(/<item\b[\s\S]*?<\/item>/gi) || [];
+            // 3 oct: feeds Atom (<entry>, enlace en <link href="...">), p. ej. blogs de Shopify.
+            // Solo se usa si el feed no trae ningun <item>, asi que los RSS no cambian.
+            const esAtom = itemsRaw.length === 0;
+            if (esAtom) itemsRaw = xml.match(/<entry\b[\s\S]*?<\/entry>/gi) || [];
             const noticias = [];
 
             for (const bloque of itemsRaw.slice(0, 6)) {
               const titulo = limpiar(extraerTag(bloque, "title"));
-              let link = decodeHtml(extraerTag(bloque, "link").trim()).split("#")[0].split("?")[0];
+              let linkTxt = extraerTag(bloque, "link").trim();
+              if (!linkTxt && esAtom) linkTxt = extraerAtributo(bloque, "link", "href");
+              let link = decodeHtml(linkTxt).split("#")[0].split("?")[0];
               if (!titulo || !link) continue;
 
               let imagen = "";
