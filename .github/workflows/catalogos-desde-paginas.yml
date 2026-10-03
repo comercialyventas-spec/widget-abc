@@ -1,10 +1,10 @@
 name: Catalogos desde paginas de producto
 
 # Para tiendas cuyo sitemap no trae fotos: visita las páginas de producto y genera el catálogo.
-# Se lanza los martes y viernes de madrugada, y cuando Claude cambia productos/catalogos_paginas.txt.
+# Se lanza cada día de madrugada (el motor da por antigua una copia de más de 72 h), y cuando Claude cambia productos/catalogos_paginas.txt.
 on:
   schedule:
-    - cron: '15 4 * * 2,5'
+    - cron: '15 4 * * *'
   push:
     branches: [main]
     paths: ['productos/catalogos_paginas.txt', 'productos/catalogo_desde_paginas.py']
