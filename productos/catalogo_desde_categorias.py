@@ -217,6 +217,8 @@ for linea in open(sys.argv[1], encoding='utf-8'):
         if n == 1 and not nuevos:
             tit = re.search(r'<title[^>]*>([\s\S]{0,120}?)</title>', p)
             print(f'  {clave}: página 1 sin productos reconocibles ({len(p)} caracteres, título: {limpio(tit.group(1)) if tit else "-"}, artículos: {len(re.findall(r"<article", p))})')
+            if len(p) < 6000:
+                print('  contenido: ' + re.sub(r'\s+', ' ', p)[:2800])
         pagina_nueva = 0
         for x in nuevos:
             if x['url'] in vistos:
