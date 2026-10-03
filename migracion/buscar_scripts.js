@@ -37,7 +37,9 @@ const encontrados = (texto, scripts) => {
 };
 
 async function main() {
-  const [l1, l2] = fs.readFileSync(process.argv[2], 'utf8').split('\n');
+  const [l1, l2, l3] = fs.readFileSync(process.argv[2], 'utf8').split('\n');
+  // línea 3 opcional: SOLO_PORTADAS = no mira las páginas, solo la portada (más despacio y con reintentos si Blogger da 429)
+  const SOLO_PORTADAS = /SOLO_PORTADAS/i.test(l3 || '');
   let blogs = l1.split(/\s+/).filter(Boolean), scripts = (l2 || '').split(/\s+/).filter(Boolean);
   const token = await tokenAcceso();
   if (blogs.some((b) => b.toUpperCase() === 'TODOS')) {
@@ -54,7 +56,7 @@ async function main() {
     try { const b = await api(token, `https://www.googleapis.com/blogger/v3/blogs/${id}?fields=name,url`); nombre = b.name; url = b.url; } catch (e) {}
     // páginas (publicadas y borradores)
     let nPag = 0;
-    for (const st of ['live', 'draft']) {
+    for (const st of (SOLO_PORTADAS ? [] : ['live', 'draft'])) {
       try {
         const j = await api(token, `https://www.googleapis.com/blogger/v3/blogs/${id}/pages?status=${st}&fetchBodies=true&fields=items(title,url,content)`);
         for (const p of j.items || []) { nPag++; encontrados(p.content || '', scripts).forEach((s) => uso[s].push(`${nombre} · página "${p.title}" (${st})`)); }
@@ -63,18 +65,24 @@ async function main() {
     // portada (gadgets)
     let estado = 'sin url';
     if (url) {
-      try {
-        const r = await fetch(url, { headers: { 'User-Agent': UA, 'Accept-Language': 'es-ES,es;q=0.9' } });
-        const h = await r.text();
-        estado = `${r.status} ${h.length}b`;
-        if (r.ok && h.length > 20000) encontrados(h, scripts).forEach((s) => uso[s].push(`${nombre} · portada/gadget`));
-        else sinPortada.push(`${nombre} ${url}`);
-      } catch (e) { estado = 'ERROR ' + e.message; sinPortada.push(`${nombre} ${url}`); }
+      let leida = false;
+      for (let intento = 0; intento < (SOLO_PORTADAS ? 4 : 1) && !leida; intento++) {
+        if (intento) await new Promise((s) => setTimeout(s, 30000 * intento));
+        const u = intento % 2 ? url + (url.includes('?') ? '&' : '?') + 'm=0' : url;
+        try {
+          const r = await fetch(u, { headers: { 'User-Agent': UA, 'Accept-Language': 'es-ES,es;q=0.9' } });
+          const h = await r.text();
+          estado = `${r.status} ${h.length}b` + (intento ? ` (intento ${intento + 1})` : '');
+          if (r.ok && h.length > 20000) { leida = true; encontrados(h, scripts).forEach((s) => uso[s].push(`${nombre} · portada/gadget`)); }
+        } catch (e) { estado = 'ERROR ' + e.message; }
+      }
+      if (!leida) sinPortada.push(`${nombre} ${url}`);
     }
-    lineas.push(`${nombre}: ${nPag} páginas, portada ${estado}`);
-    await new Promise((s) => setTimeout(s, 1500));
+    if (!SOLO_PORTADAS || !/^200 /.test(estado) || /intento/.test(estado)) lineas.push(`${nombre}: ${nPag} páginas, portada ${estado}`);
+    await new Promise((s) => setTimeout(s, SOLO_PORTADAS ? 4000 : 1500));
   }
   for (let i = 0; i < lineas.length; i += 15) console.log('::notice::BLOGS: ' + lineas.slice(i, i + 15).join(' ### '));
+  console.log('::notice::LEIDAS ' + (blogs.length - sinPortada.length) + ' de ' + blogs.length + ' portadas. NO LEÍDAS: ' + (sinPortada.join(' ### ') || 'ninguna'));
   const res = (MODO_CUALQUIERA ? usoClaves() : scripts).map((s) => `${s.slice(0, 16)}… → ${uso[s].length ? uso[s].join(' | ') : 'NO APARECE'}`);
   if (MODO_CUALQUIERA && !res.length) res.push('NINGUN SCRIPT DE GOOGLE (aparte de los contadores de clics) en paginas ni portadas');
   let trozo = '';
