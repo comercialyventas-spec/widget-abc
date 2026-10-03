@@ -1,0 +1,349 @@
+TELEVISIÓN DIARIO CRÍTICO
+
+<div id="dc-tv-widget">
+  <div id="dc-tv-destacada"></div>
+  <hr style="border: 0; border-top: 1px solid #ddd; margin: 30px 0;" />
+  <div id="dc-tv-lista">Cargando noticias de TV...</div>
+</div>
+
+<style>
+  #dc-tv-widget { font-family: 'Segoe UI', Roboto, Arial, sans-serif; max-width: 800px; margin: auto; color: #333; }
+  #dc-tv-widget .dc-featured { text-align: center; margin-bottom: 40px; }
+  #dc-tv-widget .dc-img-featured { width: 100%; max-height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 15px; }
+  #dc-tv-widget .dc-title-featured { font-size: 28px; font-weight: 800; color: #111; text-decoration: none; line-height: 1.2; display: block; margin-bottom: 15px; }
+  #dc-tv-widget .dc-title-featured:hover { color: #c0392b; }
+  #dc-tv-widget .dc-item { display: flex; flex-direction: column; margin-bottom: 25px; border-bottom: 1px solid #eee; padding-bottom: 20px; }
+  #dc-tv-widget .dc-img-container { width: 100%; height: 200px; overflow: hidden; border-radius: 6px; margin-bottom: 12px; }
+  #dc-tv-widget .dc-img-container img { width: 100%; height: 100%; object-fit: cover; }
+  #dc-tv-widget .dc-item-title { font-size: 19px; font-weight: 700; color: #1a1a1a; text-decoration: none; line-height: 1.3; display: block; margin-bottom: 8px; }
+  #dc-tv-widget .dc-item-title:hover { color: #c0392b; }
+  #dc-tv-widget .dc-meta { font-size: 11px; color: #aaa; text-transform: uppercase; margin-top: 5px; font-weight: bold; }
+  @media (min-width: 600px) {
+    #dc-tv-widget .dc-item { flex-direction: row; gap: 20px; align-items: flex-start; }
+    #dc-tv-widget .dc-img-container { width: 180px; height: 110px; flex-shrink: 0; margin-bottom: 0; }
+  }
+</style>
+
+<script>
+(function() {
+  function cargarDC() {
+    var rssUrl = "https://www.diariocritico.com/rss/seccion/48/";
+    var proxy = "https://script.google.com/macros/s/AKfycbzeMKVUzOXYNngx1d8OMhEF6ebsFmfXa8Iyd9ZOgpBoX4zqvs93rMJuortAtPxnu-2v/exec";
+    var url = proxy + "?url=" + encodeURIComponent(rssUrl);
+
+    fetch(url)
+      .then(function(res) { return res.text(); })
+      .then(function(text) {
+        var parser = new DOMParser();
+        var xmlDoc = parser.parseFromString(text, "text/xml");
+        var items = Array.from(xmlDoc.querySelectorAll("item"));
+        
+        if (items.length === 0) throw new Error("Sin resultados");
+        
+        var noticias = items.slice(0, 6).map(function(item) {
+          var title = item.querySelector("title")?.textContent?.trim() || "";
+          var link = item.querySelector("link")?.textContent?.trim() || "";
+          var pubDate = item.querySelector("pubDate")?.textContent || "";
+          var author = item.querySelector("author")?.textContent?.replace(/\(.*\)/, '').trim() || "Diariocrítico";
+          
+          // Imagen desde media:content
+          var img = "";
+          var mediaContent = item.querySelector("media\\:content") ||
+                            item.getElementsByTagNameNS("http://search.yahoo.com/mrss/", "content")[0];
+          if (mediaContent) {
+            img = mediaContent.getAttribute("url") || "";
+          }
+          
+          return { title: title, link: link, pubDate: pubDate, author: author, img: img };
+        }).filter(function(n) { return n.title; });
+
+        function renderizar() {
+          var destacadoHtml = "";
+          var listaHtml = "";
+
+          noticias.forEach(function(noticia, index) {
+            var fecha = new Date(noticia.pubDate).toLocaleDateString('es-ES',
+              { day: '2-digit', month: 'short', year: 'numeric' });
+
+            if (index === 0) {
+              destacadoHtml =
+                '<div class="dc-featured">' +
+                '<a href="' + noticia.link + '" target="_blank">' +
+                '<img src="' + noticia.img + '" class="dc-img-featured" alt="' + noticia.title + '">' +
+                '</a>' +
+                '<a class="dc-title-featured" href="' + noticia.link + '" target="_blank">' + noticia.title + '</a>' +
+                '<div class="dc-meta">DIARIOCRÍTICO TV &#183; ' + noticia.author + ' &#183; ' + fecha + '</div>' +
+                '</div>';
+            } else {
+              listaHtml +=
+                '<div class="dc-item">' +
+                '<div class="dc-img-container"><img src="' + noticia.img + '" alt="' + noticia.title + '"></div>' +
+                '<div>' +
+                '<a class="dc-item-title" href="' + noticia.link + '" target="_blank">' + noticia.title + '</a>' +
+                '<div class="dc-meta">' + noticia.author + ' &#183; ' + fecha + '</div>' +
+                '</div>' +
+                '</div>';
+            }
+          });
+
+          document.getElementById("dc-tv-destacada").innerHTML = destacadoHtml;
+          document.getElementById("dc-tv-lista").innerHTML = listaHtml;
+        }
+
+        renderizar();
+
+      })
+      .catch(function() {
+        document.getElementById("dc-tv-widget").innerHTML =
+          "<p style='color:red'>Error al cargar noticias de Diariocrítico.</p>";
+      });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", cargarDC);
+  } else {
+    cargarDC();
+  }
+})();
+</script>
+
+TELEVISIÓN EL PAÍS
+
+<div id="ep-tv-widget">
+  <div id="ep-tv-destacada"></div>
+  <hr style="border: 0; border-top: 1px solid #ddd; margin: 30px 0;" />
+  <div id="ep-tv-lista">Cargando noticias de TV...</div>
+</div>
+
+<style>
+  #ep-tv-widget { font-family: 'Segoe UI', Roboto, Arial, sans-serif; max-width: 800px; margin: auto; color: #333; }
+  #ep-tv-widget .ep-featured { text-align: center; margin-bottom: 40px; }
+  #ep-tv-widget .ep-img-featured { width: 100%; max-height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 15px; }
+  #ep-tv-widget .ep-title-featured { font-size: 28px; font-weight: 800; color: #111; text-decoration: none; line-height: 1.2; display: block; margin-bottom: 15px; }
+  #ep-tv-widget .ep-title-featured:hover { color: #c0392b; }
+  #ep-tv-widget .ep-item { display: flex; flex-direction: column; margin-bottom: 25px; border-bottom: 1px solid #eee; padding-bottom: 20px; }
+  #ep-tv-widget .ep-img-container { width: 100%; height: 200px; overflow: hidden; border-radius: 6px; margin-bottom: 12px; }
+  #ep-tv-widget .ep-img-container img { width: 100%; height: 100%; object-fit: cover; }
+  #ep-tv-widget .ep-item-title { font-size: 19px; font-weight: 700; color: #1a1a1a; text-decoration: none; line-height: 1.3; display: block; margin-bottom: 8px; }
+  #ep-tv-widget .ep-item-title:hover { color: #c0392b; }
+  #ep-tv-widget .ep-desc { font-size: 14px; color: #666; line-height: 1.5; margin-bottom: 5px; }
+  #ep-tv-widget .ep-meta { font-size: 11px; color: #aaa; text-transform: uppercase; margin-top: 5px; font-weight: bold; }
+  @media (min-width: 600px) {
+    #ep-tv-widget .ep-item { flex-direction: row; gap: 20px; align-items: flex-start; }
+    #ep-tv-widget .ep-img-container { width: 180px; height: 110px; flex-shrink: 0; margin-bottom: 0; }
+  }
+</style>
+
+<script>
+(function() {
+  function cargarEP() {
+    var rssUrl = "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/television/portada";
+    var proxy = "https://script.google.com/macros/s/AKfycbzeMKVUzOXYNngx1d8OMhEF6ebsFmfXa8Iyd9ZOgpBoX4zqvs93rMJuortAtPxnu-2v/exec";
+    var url = proxy + "?url=" + encodeURIComponent(rssUrl);
+
+    fetch(url)
+      .then(function(res) { return res.text(); })
+      .then(function(text) {
+        var parser = new DOMParser();
+        var xmlDoc = parser.parseFromString(text, "text/xml");
+        var items = Array.from(xmlDoc.querySelectorAll("item"));
+        
+        if (items.length === 0) throw new Error("Sin resultados");
+        
+        var noticias = items.slice(0, 6).map(function(item) {
+          var title = item.querySelector("title")?.textContent || "";
+          var link = item.querySelector("link")?.textContent || "";
+          var desc = item.querySelector("description")?.textContent || "";
+          var pubDate = item.querySelector("pubDate")?.textContent || "";
+          
+          var img = "";
+          var mediaContent = item.querySelector("media\\:content") || 
+                            item.getElementsByTagNameNS("http://search.yahoo.com/mrss/", "content")[0];
+          if (mediaContent) {
+            var thumbnail = mediaContent.querySelector("media\\:thumbnail") ||
+                           mediaContent.getElementsByTagNameNS("http://search.yahoo.com/mrss/", "thumbnail")[0];
+            if (thumbnail) img = thumbnail.getAttribute("url") || "";
+          }
+          
+          if (!img) {
+            var encoded = item.querySelector("content\\:encoded")?.textContent ||
+                         item.getElementsByTagNameNS("http://purl.org/rss/1.0/modules/content/", "encoded")[0]?.textContent || "";
+            var imgMatch = encoded.match(/<img[^>]+src="([^"]+)"/i);
+            if (imgMatch) img = imgMatch[1];
+          }
+          
+          return { title: title, link: link, desc: desc, pubDate: pubDate, img: img };
+        }).filter(function(n) { return n.title; });
+
+        function renderizar() {
+          var destacadoHtml = "";
+          var listaHtml = "";
+
+          noticias.forEach(function(noticia, index) {
+            var fecha = new Date(noticia.pubDate).toLocaleDateString('es-ES',
+              { day: '2-digit', month: 'short', year: 'numeric', hour: '2-digit', minute: '2-digit' });
+            var descLimpia = noticia.desc.replace(/<[^>]*>/g, '').substring(0, 150) + '...';
+
+            if (index === 0) {
+              destacadoHtml =
+                '<div class="ep-featured">' +
+                (noticia.img ? '<a href="' + noticia.link + '" target="_blank"><img src="' + noticia.img + '" class="ep-img-featured" alt="' + noticia.title + '"></a>' : '') +
+                '<a class="ep-title-featured" href="' + noticia.link + '" target="_blank">' + noticia.title + '</a>' +
+                '<div class="ep-desc">' + descLimpia + '</div>' +
+                '<div class="ep-meta">EL PAÍS TV &#183; ' + fecha + '</div>' +
+                '</div>';
+            } else {
+              listaHtml +=
+                '<div class="ep-item">' +
+                (noticia.img ? '<div class="ep-img-container"><img src="' + noticia.img + '" alt="' + noticia.title + '"></div>' : '') +
+                '<div>' +
+                '<a class="ep-item-title" href="' + noticia.link + '" target="_blank">' + noticia.title + '</a>' +
+                '<div class="ep-desc">' + descLimpia + '</div>' +
+                '<div class="ep-meta">EL PAÍS TV &#183; ' + fecha + '</div>' +
+                '</div>' +
+                '</div>';
+            }
+          });
+
+          document.getElementById("ep-tv-destacada").innerHTML = destacadoHtml;
+          document.getElementById("ep-tv-lista").innerHTML = listaHtml;
+        }
+
+        renderizar();
+
+        // PLAN C: visitar cada página solo para las que no tienen imagen
+        noticias.forEach(function(noticia) {
+          if (noticia.img) return;
+          
+          fetch(proxy + "?url=" + encodeURIComponent(noticia.link))
+            .then(function(r) { return r.text(); })
+            .then(function(html) {
+              var match = html.match(/<meta[^>]+property="og:image"[^>]+content="([^"]+)"/i);
+              if (match) {
+                noticia.img = match[1];
+                renderizar();
+              }
+            })
+            .catch(function() {});
+        });
+
+      })
+      .catch(function() {
+        document.getElementById("ep-tv-widget").innerHTML =
+          "<p style='color:red'>Error al cargar noticias de El País.</p>";
+      });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", cargarEP);
+  } else {
+    cargarEP();
+  }
+})();
+</script>
+
+TELEVISIÓN LA VANGUARDIA
+
+<div id="lv-tv-widget">
+  <div id="lv-tv-destacada"></div>
+  <hr style="border: 0; border-top: 1px solid #ddd; margin: 30px 0;" />
+  <div id="lv-tv-lista">Cargando noticias de TV...</div>
+</div>
+
+<style>
+  #lv-tv-widget { font-family: 'Segoe UI', Roboto, Arial, sans-serif; max-width: 800px; margin: auto; color: #333; }
+  #lv-tv-widget .lv-featured { text-align: center; margin-bottom: 40px; }
+  #lv-tv-widget .lv-img-featured { width: 100%; max-height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 15px; }
+  #lv-tv-widget .lv-title-featured { font-size: 28px; font-weight: 800; color: #111; text-decoration: none; line-height: 1.2; display: block; margin-bottom: 15px; }
+  #lv-tv-widget .lv-title-featured:hover { color: #c0392b; }
+  #lv-tv-widget .lv-item { display: flex; flex-direction: column; margin-bottom: 25px; border-bottom: 1px solid #eee; padding-bottom: 20px; }
+  #lv-tv-widget .lv-img-container { width: 100%; height: 200px; overflow: hidden; border-radius: 6px; margin-bottom: 12px; }
+  #lv-tv-widget .lv-img-container img { width: 100%; height: 100%; object-fit: cover; }
+  #lv-tv-widget .lv-item-title { font-size: 19px; font-weight: 700; color: #1a1a1a; text-decoration: none; line-height: 1.3; display: block; margin-bottom: 8px; }
+  #lv-tv-widget .lv-item-title:hover { color: #c0392b; }
+  #lv-tv-widget .lv-desc { font-size: 14px; color: #666; line-height: 1.5; margin-bottom: 5px; }
+  #lv-tv-widget .lv-meta { font-size: 11px; color: #aaa; text-transform: uppercase; margin-top: 5px; font-weight: bold; }
+  @media (min-width: 600px) {
+    #lv-tv-widget .lv-item { flex-direction: row; gap: 20px; align-items: flex-start; }
+    #lv-tv-widget .lv-img-container { width: 180px; height: 110px; flex-shrink: 0; margin-bottom: 0; }
+  }
+</style>
+
+<script>
+(function() {
+  function cargarLV() {
+    var rssUrl = "https://www.lavanguardia.com/rss/television.xml";
+    var proxy = "https://script.google.com/macros/s/AKfycbzeMKVUzOXYNngx1d8OMhEF6ebsFmfXa8Iyd9ZOgpBoX4zqvs93rMJuortAtPxnu-2v/exec";
+    var url = proxy + "?url=" + encodeURIComponent(rssUrl);
+
+    fetch(url)
+      .then(function(res) { return res.text(); })
+      .then(function(text) {
+        var parser = new DOMParser();
+        var xmlDoc = parser.parseFromString(text, "text/xml");
+        var items = Array.from(xmlDoc.querySelectorAll("item"));
+        
+        if (items.length === 0) throw new Error("Sin resultados");
+        
+        var noticias = items.slice(0, 6).map(function(item) {
+          var title = item.querySelector("title")?.textContent || "";
+          var link = item.querySelector("link")?.textContent || "";
+          var desc = item.querySelector("description")?.textContent || "";
+          var pubDate = item.querySelector("pubDate")?.textContent || "";
+          var creator = item.querySelector("dc\\:creator")?.textContent || 
+                        item.getElementsByTagName("dc:creator")[0]?.textContent || "La Vanguardia";
+          var img = item.querySelector("enclosure")?.getAttribute("url") || "";
+          return { title: title, link: link, desc: desc, pubDate: pubDate, creator: creator, img: img };
+        }).filter(function(n) { return n.title; });
+
+        function renderizar() {
+          var destacadoHtml = "";
+          var listaHtml = "";
+
+          noticias.forEach(function(noticia, index) {
+            var fecha = new Date(noticia.pubDate).toLocaleDateString('es-ES',
+              { day: '2-digit', month: 'short', year: 'numeric', hour: '2-digit', minute: '2-digit' });
+
+            if (index === 0) {
+              destacadoHtml =
+                '<div class="lv-featured">' +
+                '<a href="' + noticia.link + '" target="_blank">' +
+                (noticia.img ? '<img src="' + noticia.img + '" class="lv-img-featured" alt="' + noticia.title + '">' : '') +
+                '</a>' +
+                '<a class="lv-title-featured" href="' + noticia.link + '" target="_blank">' + noticia.title + '</a>' +
+                '<div class="lv-desc">' + noticia.desc + '</div>' +
+                '<div class="lv-meta">LA VANGUARDIA TV &#183; ' + noticia.creator + ' &#183; ' + fecha + '</div>' +
+                '</div>';
+            } else {
+              listaHtml +=
+                '<div class="lv-item">' +
+                (noticia.img ? '<div class="lv-img-container"><img src="' + noticia.img + '" alt="' + noticia.title + '"></div>' : '') +
+                '<div>' +
+                '<a class="lv-item-title" href="' + noticia.link + '" target="_blank">' + noticia.title + '</a>' +
+                '<div class="lv-desc">' + noticia.desc + '</div>' +
+                '<div class="lv-meta">' + noticia.creator + ' &#183; ' + fecha + '</div>' +
+                '</div>' +
+                '</div>';
+            }
+          });
+
+          document.getElementById("lv-tv-destacada").innerHTML = destacadoHtml;
+          document.getElementById("lv-tv-lista").innerHTML = listaHtml;
+        }
+
+        renderizar();
+
+      })
+      .catch(function() {
+        document.getElementById("lv-tv-widget").innerHTML =
+          "<p style='color:red'>Error al cargar noticias de La Vanguardia.</p>";
+      });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", cargarLV);
+  } else {
+    cargarLV();
+  }
+})();
+</script>

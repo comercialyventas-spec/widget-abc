@@ -1,0 +1,108 @@
+<div id="ec-blogs-widget">
+  <div id="ec-blogs-destacada"></div>
+  <hr style="border: 0; border-top: 1px solid #ddd; margin: 30px 0;" />
+  <div id="ec-blogs-lista">Cargando artículos de opinión...</div>
+</div>
+
+<style>
+  #ec-blogs-widget { font-family: 'Segoe UI', Roboto, Arial, sans-serif; max-width: 800px; margin: auto; color: #333; }
+  #ec-blogs-widget .ec-featured { text-align: center; margin-bottom: 40px; }
+  #ec-blogs-widget .ec-img-featured { width: 100%; max-height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 15px; }
+  #ec-blogs-widget .ec-title-featured { font-size: 28px; font-weight: 800; color: #111; text-decoration: none; line-height: 1.2; display: block; margin-bottom: 15px; }
+  #ec-blogs-widget .ec-title-featured:hover { color: #c0392b; }
+  #ec-blogs-widget .ec-item { display: flex; flex-direction: column; margin-bottom: 25px; border-bottom: 1px solid #eee; padding-bottom: 20px; }
+  #ec-blogs-widget .ec-img-container { width: 100%; height: 200px; overflow: hidden; border-radius: 6px; margin-bottom: 12px; }
+  #ec-blogs-widget .ec-img-container img { width: 100%; height: 100%; object-fit: cover; }
+  #ec-blogs-widget .ec-item-title { font-size: 19px; font-weight: 700; color: #1a1a1a; text-decoration: none; line-height: 1.3; display: block; margin-bottom: 8px; }
+  #ec-blogs-widget .ec-item-title:hover { color: #c0392b; }
+  #ec-blogs-widget .ec-author { font-size: 12px; color: #888; margin-bottom: 8px; }
+  #ec-blogs-widget .ec-meta { font-size: 11px; color: #aaa; text-transform: uppercase; margin-top: 5px; font-weight: bold; }
+  @media (min-width: 600px) {
+    #ec-blogs-widget .ec-item { flex-direction: row; gap: 20px; align-items: flex-start; }
+    #ec-blogs-widget .ec-img-container { width: 180px; height: 110px; flex-shrink: 0; margin-bottom: 0; }
+  }
+</style>
+
+<script>
+(function() {
+  function cargarEC() {
+    var rssUrl = "https://rss.blogs.elconfidencial.com/";
+    var proxy = "https://script.google.com/macros/s/AKfycbzeMKVUzOXYNngx1d8OMhEF6ebsFmfXa8Iyd9ZOgpBoX4zqvs93rMJuortAtPxnu-2v/exec";
+    var url = proxy + "?url=" + encodeURIComponent(rssUrl);
+
+    fetch(url)
+      .then(function(res) { return res.text(); })
+      .then(function(text) {
+        var parser = new DOMParser();
+        var xmlDoc = parser.parseFromString(text, "text/xml");
+        var entries = Array.from(xmlDoc.querySelectorAll("entry"));
+        
+        if (entries.length === 0) throw new Error("Sin resultados");
+        
+        var noticias = entries.slice(0, 6).map(function(entry) {
+          var title = entry.querySelector("title")?.textContent?.trim() || "";
+          var link = entry.querySelector("link[rel='alternate']")?.getAttribute("href") || "";
+          var published = entry.querySelector("published")?.textContent || "";
+          var author = entry.querySelector("author name")?.textContent?.trim() || "El Confidencial";
+          
+          var img = "";
+          var mediaContent = entry.querySelector("media\\:content") ||
+                            entry.getElementsByTagNameNS("https://search.yahoo.com/mrss/", "content")[0];
+          if (mediaContent) {
+            img = mediaContent.getAttribute("url") || "";
+          }
+          
+          return { title: title, link: link, published: published, author: author, img: img };
+        }).filter(function(n) { return n.title; });
+
+        function renderizar() {
+          var destacadoHtml = "";
+          var listaHtml = "";
+
+          noticias.forEach(function(noticia, index) {
+            var fecha = new Date(noticia.published).toLocaleDateString('es-ES',
+              { day: '2-digit', month: 'short', year: 'numeric' });
+
+            if (index === 0) {
+              destacadoHtml =
+                '<div class="ec-featured">' +
+                '<a href="' + noticia.link + '" target="_blank">' +
+                '<img src="' + noticia.img + '" class="ec-img-featured" alt="' + noticia.title + '">' +
+                '</a>' +
+                '<a class="ec-title-featured" href="' + noticia.link + '" target="_blank">' + noticia.title + '</a>' +
+                '<div class="ec-author">Por ' + noticia.author + '</div>' +
+                '<div class="ec-meta">EL CONFIDENCIAL &#183; ' + fecha + '</div>' +
+                '</div>';
+            } else {
+              listaHtml +=
+                '<div class="ec-item">' +
+                '<div class="ec-img-container"><img src="' + noticia.img + '" alt="' + noticia.title + '"></div>' +
+                '<div>' +
+                '<a class="ec-item-title" href="' + noticia.link + '" target="_blank">' + noticia.title + '</a>' +
+                '<div class="ec-author">Por ' + noticia.author + '</div>' +
+                '<div class="ec-meta">' + fecha + '</div>' +
+                '</div>' +
+                '</div>';
+            }
+          });
+
+          document.getElementById("ec-blogs-destacada").innerHTML = destacadoHtml;
+          document.getElementById("ec-blogs-lista").innerHTML = listaHtml;
+        }
+
+        renderizar();
+
+      })
+      .catch(function() {
+        document.getElementById("ec-blogs-widget").innerHTML =
+          "<p style='color:red'>Error al cargar artículos de El Confidencial.</p>";
+      });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", cargarEC);
+  } else {
+    cargarEC();
+  }
+})();
+</script>

@@ -1,0 +1,133 @@
+<div id="dc-nac-widget">
+  <div id="dc-nac-destacada"></div>
+  <hr style="border: 0; border-top: 1px solid #ddd; margin: 30px 0;" />
+  <div id="dc-nac-lista">Cargando noticias de Nacional...</div>
+</div>
+
+<style>
+  #dc-nac-widget { font-family: 'Segoe UI', Roboto, Arial, sans-serif; max-width: 800px; margin: auto; color: #333; }
+  #dc-nac-widget .dc-featured { text-align: center; margin-bottom: 40px; }
+  #dc-nac-widget .dc-img-featured { width: 100%; max-height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 15px; }
+  #dc-nac-widget .dc-title-featured { font-size: 28px; font-weight: 800; color: #111; text-decoration: none; line-height: 1.2; display: block; margin-bottom: 15px; }
+  #dc-nac-widget .dc-title-featured:hover { color: #c0392b; }
+  #dc-nac-widget .dc-item { display: flex; flex-direction: column; margin-bottom: 25px; border-bottom: 1px solid #eee; padding-bottom: 20px; }
+  #dc-nac-widget .dc-img-container { width: 100%; height: 200px; overflow: hidden; border-radius: 6px; margin-bottom: 12px; }
+  #dc-nac-widget .dc-img-container img { width: 100%; height: 100%; object-fit: cover; }
+  #dc-nac-widget .dc-item-title { font-size: 19px; font-weight: 700; color: #1a1a1a; text-decoration: none; line-height: 1.3; display: block; margin-bottom: 8px; }
+  #dc-nac-widget .dc-item-title:hover { color: #c0392b; }
+  #dc-nac-widget .dc-meta { font-size: 11px; color: #aaa; text-transform: uppercase; margin-top: 5px; font-weight: bold; }
+  @media (min-width: 600px) {
+    #dc-nac-widget .dc-item { flex-direction: row; gap: 20px; align-items: flex-start; }
+    #dc-nac-widget .dc-img-container { width: 180px; height: 110px; flex-shrink: 0; margin-bottom: 0; }
+  }
+</style>
+
+<script>
+(function() {
+  function cargarDC() {
+    var rssUrl = "https://www.diariocritico.com/rss/seccion/1/";
+    var proxy = "https://script.google.com/macros/s/AKfycbzeMKVUzOXYNngx1d8OMhEF6ebsFmfXa8Iyd9ZOgpBoX4zqvs93rMJuortAtPxnu-2v/exec";
+    var url = proxy + "?url=" + encodeURIComponent(rssUrl);
+
+    fetch(url)
+      .then(function(res) { return res.text(); })
+      .then(function(text) {
+        var parser = new DOMParser();
+        var xmlDoc = parser.parseFromString(text, "text/xml");
+        var items = Array.from(xmlDoc.querySelectorAll("item"));
+        
+        if (items.length === 0) throw new Error("Sin resultados");
+        
+        var noticias = items.slice(0, 6).map(function(item) {
+          var title = item.querySelector("title")?.textContent?.trim() || "";
+          var link = item.querySelector("link")?.textContent?.trim() || "";
+          var pubDate = item.querySelector("pubDate")?.textContent || "";
+          var author = item.querySelector("author")?.textContent?.replace(/\(.*\)/, '').trim() || "Diariocrítico";
+          
+          // Buscar imagen en TODOS los formatos posibles
+          var img = "";
+          
+          // Formato 1: media:content
+          var mediaContent = item.querySelector("media\\:content") ||
+                            item.getElementsByTagNameNS("http://search.yahoo.com/mrss/", "content")[0];
+          if (mediaContent) {
+            img = mediaContent.getAttribute("url") || "";
+          }
+          
+          // Formato 2: enclosure
+          if (!img) {
+            var enclosure = item.querySelector("enclosure");
+            if (enclosure) img = enclosure.getAttribute("url") || "";
+          }
+          
+          // Formato 3: image
+          if (!img) {
+            var image = item.querySelector("image");
+            if (image) img = image.textContent?.trim() || "";
+          }
+          
+          return { title: title, link: link, pubDate: pubDate, author: author, img: img };
+        }).filter(function(n) { return n.title; });
+
+        function renderizar() {
+          var destacadoHtml = "";
+          var listaHtml = "";
+
+          noticias.forEach(function(noticia, index) {
+            var fecha = new Date(noticia.pubDate).toLocaleDateString('es-ES',
+              { day: '2-digit', month: 'short', year: 'numeric' });
+
+            if (index === 0) {
+              destacadoHtml =
+                '<div class="dc-featured">' +
+                (noticia.img ? '<a href="' + noticia.link + '" target="_blank"><img src="' + noticia.img + '" class="dc-img-featured" alt="' + noticia.title + '"></a>' : '') +
+                '<a class="dc-title-featured" href="' + noticia.link + '" target="_blank">' + noticia.title + '</a>' +
+                '<div class="dc-meta">DIARIOCRÍTICO &#183; ' + noticia.author + ' &#183; ' + fecha + '</div>' +
+                '</div>';
+            } else {
+              listaHtml +=
+                '<div class="dc-item">' +
+                (noticia.img ? '<div class="dc-img-container"><img src="' + noticia.img + '" alt="' + noticia.title + '"></div>' : '') +
+                '<div>' +
+                '<a class="dc-item-title" href="' + noticia.link + '" target="_blank">' + noticia.title + '</a>' +
+                '<div class="dc-meta">' + noticia.author + ' &#183; ' + fecha + '</div>' +
+                '</div>' +
+                '</div>';
+            }
+          });
+
+          document.getElementById("dc-nac-destacada").innerHTML = destacadoHtml;
+          document.getElementById("dc-nac-lista").innerHTML = listaHtml;
+        }
+
+        renderizar();
+
+        // Plan B: visitar la página si no tiene imagen
+        noticias.forEach(function(noticia) {
+          if (noticia.img) return;
+          fetch(proxy + "?url=" + encodeURIComponent(noticia.link))
+            .then(function(r) { return r.text(); })
+            .then(function(html) {
+              var match = html.match(/<meta[^>]+property="og:image"[^>]+content="([^"]+)"/i);
+              if (match) {
+                noticia.img = match[1];
+                renderizar();
+              }
+            })
+            .catch(function() {});
+        });
+
+      })
+      .catch(function() {
+        document.getElementById("dc-nac-widget").innerHTML =
+          "<p style='color:red'>Error al cargar noticias de Diariocrítico.</p>";
+      });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", cargarDC);
+  } else {
+    cargarDC();
+  }
+})();
+</script>

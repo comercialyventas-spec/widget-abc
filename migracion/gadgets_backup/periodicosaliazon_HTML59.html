@@ -1,0 +1,149 @@
+<div id="dg-press-widget">
+  <div id="dg-press-destacada"></div>
+  <hr style="border: 0; border-top: 1px solid #ddd; margin: 30px 0;" />
+  <div id="dg-press-lista">Cargando noticias de Prensa...</div>
+</div>
+
+<style>
+  #dg-press-widget { font-family: 'Segoe UI', Roboto, Arial, sans-serif; max-width: 800px; margin: auto; color: #333; }
+  #dg-press-widget .dg-featured { text-align: center; margin-bottom: 40px; }
+  #dg-press-widget .dg-img-featured { width: 100%; max-height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 15px; }
+  #dg-press-widget .dg-title-featured { font-size: 28px; font-weight: 800; color: #111; text-decoration: none; line-height: 1.2; display: block; margin-bottom: 15px; }
+  #dg-press-widget .dg-title-featured:hover { color: #c0392b; }
+  #dg-press-widget .dg-item { display: flex; flex-direction: column; margin-bottom: 25px; border-bottom: 1px solid #eee; padding-bottom: 20px; }
+  #dg-press-widget .dg-img-container { width: 100%; height: 200px; overflow: hidden; border-radius: 6px; margin-bottom: 12px; }
+  #dg-press-widget .dg-img-container img { width: 100%; height: 100%; object-fit: cover; }
+  #dg-press-widget .dg-item-title { font-size: 19px; font-weight: 700; color: #1a1a1a; text-decoration: none; line-height: 1.3; display: block; margin-bottom: 8px; }
+  #dg-press-widget .dg-item-title:hover { color: #c0392b; }
+  #dg-press-widget .dg-meta { font-size: 11px; color: #aaa; text-transform: uppercase; margin-top: 5px; font-weight: bold; }
+  @media (min-width: 600px) {
+    #dg-press-widget .dg-item { flex-direction: row; gap: 20px; align-items: flex-start; }
+    #dg-press-widget .dg-img-container { width: 180px; height: 110px; flex-shrink: 0; margin-bottom: 0; }
+  }
+</style>
+
+<script>
+(function() {
+
+  async function traducir(texto) {
+    try {
+      var url = "https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=es&dt=t&q=" + encodeURIComponent(texto);
+      var res = await fetch(url);
+      var data = await res.json();
+      // La respuesta es un array anidado: [[["traducción","original",...],...],...]
+      return data[0].map(function(part) { return part[0]; }).join("");
+    } catch(e) {
+      return texto; // Si falla, devuelve el original
+    }
+  }
+
+  async function traducirTodos(noticias) {
+    var promesas = noticias.map(function(n) {
+      return traducir(n.title).then(function(t) { n.titleEs = t; });
+    });
+    await Promise.all(promesas);
+    return noticias;
+  }
+
+  function renderizar(noticias) {
+    var destacadoHtml = "";
+    var listaHtml = "";
+
+    noticias.forEach(function(noticia, index) {
+      var fecha = noticia.pubDate
+        ? new Date(noticia.pubDate).toLocaleDateString("es-ES",
+            { day: "2-digit", month: "short", year: "numeric" })
+        : "";
+      var titulo = noticia.titleEs || noticia.title;
+
+      if (index === 0) {
+        destacadoHtml =
+          '<div class="dg-featured">' +
+          (noticia.img ? '<a href="' + noticia.loc + '" target="_blank"><img src="' + noticia.img + '" class="dg-img-featured" alt="' + titulo + '"></a>' : '') +
+          '<a class="dg-title-featured" href="' + noticia.loc + '" target="_blank">' + titulo + '</a>' +
+          '<div class="dg-meta">DANIELLE GUIZIONY &#183; ' + fecha + '</div>' +
+          '</div>';
+      } else {
+        listaHtml +=
+          '<div class="dg-item">' +
+          (noticia.img ? '<div class="dg-img-container"><img src="' + noticia.img + '" alt="' + titulo + '"></div>' : '') +
+          '<div>' +
+          '<a class="dg-item-title" href="' + noticia.loc + '" target="_blank">' + titulo + '</a>' +
+          '<div class="dg-meta">DANIELLE GUIZIONY &#183; ' + fecha + '</div>' +
+          '</div>' +
+          '</div>';
+      }
+    });
+
+    document.getElementById("dg-press-destacada").innerHTML = destacadoHtml;
+    document.getElementById("dg-press-lista").innerHTML = listaHtml;
+  }
+
+  async function cargarPrensa() {
+    var feedUrl = "https://danielleguiziony.com/blogs/press.atom";
+    var proxy   = "https://script.google.com/macros/s/AKfycbzeMKVUzOXYNngx1d8OMhEF6ebsFmfXa8Iyd9ZOgpBoX4zqvs93rMJuortAtPxnu-2v/exec";
+
+    try {
+      var res  = await fetch(proxy + "?url=" + encodeURIComponent(feedUrl));
+      var text = await res.text();
+
+      var parser = new DOMParser();
+      var xmlDoc = parser.parseFromString(text, "application/xml");
+      var entries = Array.from(xmlDoc.querySelectorAll("entry"));
+
+      if (!entries.length) throw new Error("Sin resultados");
+
+      var noticias = entries.slice(0, 6).map(function(entry) {
+        var title  = entry.querySelector("title")?.textContent || "";
+        var linkEl = entry.querySelector("link[rel='alternate']") || entry.querySelector("link");
+        var loc    = linkEl ? (linkEl.getAttribute("href") || "") : "";
+        var pubRaw = entry.querySelector("published")?.textContent
+                  || entry.querySelector("updated")?.textContent || "";
+
+        var contentEl = entry.querySelector("content") || entry.querySelector("summary");
+        var rawHtml   = contentEl ? contentEl.textContent : "";
+        var imgMatch  = rawHtml.match(/<img[^>]+src=["']([^"']+)["']/i);
+        var img       = imgMatch ? imgMatch[1] : "";
+
+        return { title: title, loc: loc, pubDate: pubRaw, img: img };
+      }).filter(function(n) { return n.title; });
+
+      if (!noticias.length) {
+        document.getElementById("dg-press-widget").innerHTML =
+          "<p style='color:#666;text-align:center;padding:30px;'>No hay entradas de prensa ahora mismo.</p>";
+        return;
+      }
+
+      // Mostrar primero en inglés mientras se traduce
+      renderizar(noticias);
+
+      // Traducir y actualizar
+      await traducirTodos(noticias);
+      renderizar(noticias);
+
+      // Cargar imágenes og:image si faltan
+      noticias.forEach(function(noticia) {
+        if (noticia.img) return;
+        fetch(proxy + "?url=" + encodeURIComponent(noticia.loc))
+          .then(function(r) { return r.text(); })
+          .then(function(html) {
+            var match = html.match(/<meta[^>]+property="og:image"[^>]+content="([^"]+)"/i);
+            if (match) { noticia.img = match[1]; renderizar(noticias); }
+          })
+          .catch(function() {});
+      });
+
+    } catch(e) {
+      document.getElementById("dg-press-widget").innerHTML =
+        "<p style='color:red'>Error al cargar las entradas de prensa.</p>";
+    }
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", cargarPrensa);
+  } else {
+    cargarPrensa();
+  }
+
+})();
+</script>
