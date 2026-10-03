@@ -5,6 +5,7 @@
 #   tipo: con_imagen | sin_imagen | imagen_opcional | workday
 #   opciones (separadas por comas, opcional):
 #     og_imagen        -> si un elemento no trae imagen, se toma la og:image de su pagina (se guarda y no se vuelve a pedir)
+#     imagen_pagina    -> igual, pero toma la primera foto propia de la pagina (descarta las que se repiten en casi todas: logo, menu...)
 #     incluir=REGEX    -> solo se quedan las URL que cumplan la expresion
 # Si una fuente falla o sale vacia, NO se pisa el JSON anterior.
 import json, os, re, sys, time, urllib.request, urllib.parse
@@ -18,7 +19,7 @@ def bajar(url, datos=None, aceptar='application/xml,text/xml,*/*', intentos=3):
     ultimo = None
     for intento in range(intentos):
         try:
-            cab = {'User-Agent': UA, 'Accept': aceptar}
+            cab = {'User-Agent': UA, 'Accept': aceptar, 'Accept-Language': 'es-ES,es;q=0.9'}
             cuerpo = None
             if datos is not None:
                 cuerpo = json.dumps(datos).encode('utf-8')
@@ -101,6 +102,25 @@ def og_imagen(url):
          or re.search(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']', html))
     return m.group(1).replace('&amp;', '&') if m else ''
 
+RX_UPLOAD = re.compile(r'https?://[^"\'\s()<>]+?/wp-content/uploads/[^"\'\s()<>]+?\.(?:jpe?g|png)(?=["\'\s()<>]|$)', re.I)
+
+def fotos_pagina(url):
+    try:
+        html = bajar(url, aceptar='text/html,*/*', intentos=2)
+    except Exception:
+        return []
+    vistas, lista = set(), []
+    for f in RX_UPLOAD.findall(html):
+        f = f.replace('&amp;', '&')
+        if re.search(r'-\d{2,4}x\d{2,4}\.(?:jpe?g|png)$', f, re.I):   # miniaturas
+            continue
+        if re.search(r'logo|icon|favicon|recurso', f, re.I):
+            continue
+        if f not in vistas:
+            vistas.add(f)
+            lista.append(f)
+    return lista
+
 def main(lista):
     base = os.path.dirname(os.path.abspath(__file__))
     for linea in open(lista, encoding='utf-8'):
@@ -146,14 +166,54 @@ def main(lista):
                     if img:
                         i['img'] = img
                     time.sleep(0.5)
+        comunes_previas = []
+        if 'imagen_pagina' in opciones:
+            guardadas = {i['url']: i.get('img') for i in anterior if i.get('img')}
+            hecho_con_pagina = False
+            try:
+                previo = json.load(open(destino, encoding='utf-8'))
+                hecho_con_pagina = 'comunes' in previo
+                comunes_previas = previo.get('comunes') or []
+            except Exception:
+                comunes_previas = []
+            if not hecho_con_pagina:
+                guardadas = {}   # el JSON anterior no se hizo con imagen_pagina: se recalculan todas
+            candidatas = {}
+            pedidas = 0
+            for i in items:
+                if i.get('img'):
+                    continue
+                if i['url'] in guardadas:
+                    i['img'] = guardadas[i['url']]
+                elif pedidas < 150:
+                    pedidas += 1
+                    candidatas[i['url']] = fotos_pagina(i['url'])
+                    time.sleep(0.5)
+            if candidatas:
+                cuenta = {}
+                for fs in candidatas.values():
+                    for f in fs:
+                        cuenta[f] = cuenta.get(f, 0) + 1
+                limite = max(2, int(len(candidatas) * 0.3))
+                comunes = set(comunes_previas) | {f for f, n in cuenta.items() if n >= limite and len(candidatas) >= 5}
+                comunes_previas = sorted(comunes)
+                for i in items:
+                    fs = candidatas.get(i['url'])
+                    if fs:
+                        buenas = [f for f in fs if f not in comunes]
+                        if buenas:
+                            i['img'] = buenas[0]
         if not items:
             print(f'VACIO {salida}: no salieron elementos (se deja el JSON anterior)')
             continue
         if anterior == items:
             print(f'SIN CAMBIOS {salida}: {len(items)} elementos')
             continue
-        json.dump({'actualizado': datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
-                   'fuente': url, 'items': items},
+        salida_json = {'actualizado': datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
+                       'fuente': url, 'items': items}
+        if 'imagen_pagina' in opciones:
+            salida_json['comunes'] = comunes_previas
+        json.dump(salida_json,
                   open(destino, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
         con_img = sum(1 for i in items if i.get('img'))
         print(f'OK {salida}: {len(items)} elementos ({con_img} con imagen)')
