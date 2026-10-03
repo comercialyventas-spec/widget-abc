@@ -1,0 +1,211 @@
+<div id="noticias-2421-container" data-medio="diariocritico.com" data-seccion="cultura" data-blog="periódicosaliazon" data-tracker="https://script.google.com/macros/s/AKfycbw7seO_gWWhbVnYLVeWNuvrQ8SYvdv8QA7qLy9FQxoDEaDC9BuGh7nsRT5reNvwupiG/exec">
+  <div id="noticias-2421-destacada"></div>
+  <hr style="border: 0; border-top: 1px solid #ddd; margin: 30px 0;" />
+  <div id="noticias-2421-lista">🔄 Cargando noticias...</div>
+</div>
+
+<style>
+  #noticias-2421-container { font-family: 'Segoe UI', Roboto, Arial, sans-serif; max-width: 800px; margin: auto; color: #333; }
+  #noticias-2421-container .nw-featured { text-align: center; margin-bottom: 40px; }
+  #noticias-2421-container .nw-img-featured { width: 100%; max-height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 15px; }
+  #noticias-2421-container .nw-title-featured { font-size: 28px; font-weight: 800; color: #111; text-decoration: none; line-height: 1.2; display: block; margin-bottom: 15px; }
+  #noticias-2421-container .nw-title-featured:hover { color: #c0392b; }
+  #noticias-2421-container .nw-desc-featured { font-size: 15px; color: #555; line-height: 1.6; margin-bottom: 10px; }
+  #noticias-2421-container .nw-item { display: flex; flex-direction: column; margin-bottom: 25px; border-bottom: 1px solid #eee; padding-bottom: 20px; }
+  #noticias-2421-container .nw-img-container { width: 100%; height: 200px; overflow: hidden; border-radius: 6px; margin-bottom: 12px; }
+  #noticias-2421-container .nw-img-container img { width: 100%; height: 100%; object-fit: cover; }
+  #noticias-2421-container .nw-item-title { font-size: 19px; font-weight: 700; color: #1a1a1a; text-decoration: none; line-height: 1.3; display: block; margin-bottom: 8px; }
+  #noticias-2421-container .nw-item-title:hover { color: #c0392b; }
+  #noticias-2421-container .nw-meta { font-size: 11px; color: #aaa; text-transform: uppercase; margin-top: 5px; font-weight: bold; }
+  @media (min-width: 600px) {
+    #noticias-2421-container .nw-item { flex-direction: row; gap: 20px; align-items: flex-start; }
+    #noticias-2421-container .nw-img-container { width: 180px; height: 110px; flex-shrink: 0; margin-bottom: 0; }
+  }
+</style>
+
+<script>
+(function(){
+  var FEED = "https://www.diariocritico.com/rss/seccion/106/";
+  var TRACKER = "https://script.google.com/macros/s/AKfycbw7seO_gWWhbVnYLVeWNuvrQ8SYvdv8QA7qLy9FQxoDEaDC9BuGh7nsRT5reNvwupiG/exec";
+  var META_LABEL = "DIARIOCRITICO.COM · CULTURA";
+  var WID = "noticias-2421";
+  var MEDIO = "diariocritico.com";
+  var SECCION = "cultura";
+  var BLOG = "periódicosaliazon";
+  var LIMITE = 6;
+  var timestamp = new Date().getTime();
+  var synologyUrl = "https://noticias.carmenprofe.synology.me/proxy.php?v=" + timestamp + "&f=" + WID + ".json";
+  var githubUrl = "https://raw.githubusercontent.com/comercialyventas-spec/widget-abc/main/" + WID + ".json";
+
+  var MAX_ANTIGUEDAD_MS = 6 * 60 * 60 * 1000;
+  var copiaSynologyVieja = null;
+  function esReciente(data) {
+    if (!data || !data.actualizado) return true;
+    var t = Date.parse(data.actualizado);
+    if (isNaN(t)) return true;
+    return (Date.now() - t) < MAX_ANTIGUEDAD_MS;
+  }
+  function imagenReal(url) {
+    if (!url) return "";
+    var malas = ["imrworldwide", "/cgi-bin/", "doubleclick", "pixel", "1x1", "spacer", "blank.gif", "feedburner.com/~r"];
+    var u = String(url).toLowerCase();
+    for (var k = 0; k < malas.length; k++) { if (u.indexOf(malas[k]) !== -1) return ""; }
+    return url;
+  }
+  function jsonEsValido(data) {
+    if (!data || !data.noticias || !data.noticias.length) return false;
+    var ns = data.noticias.filter(function(n){ return n && n.titulo; });
+    if (!ns.length) return false;
+    var cuenta = {}, conLogo = 0, maxRepe = 0;
+    ns.forEach(function(n){
+      var i = imagenReal(n.imagen || "");
+      if (/logo/i.test(i)) conLogo++;
+      if (i) { cuenta[i] = (cuenta[i] || 0) + 1; if (cuenta[i] > maxRepe) maxRepe = cuenta[i]; }
+    });
+    if (conLogo * 2 >= ns.length) return false;
+    if (ns.length >= 3 && maxRepe * 2 > ns.length) return false;
+    return true;
+  }
+  function destacadaConImagen(lista, campoImg) {
+    var idx = -1;
+    for (var k = 0; k < lista.length && k < LIMITE; k++) { if (lista[k][campoImg]) { idx = k; break; } }
+    if (idx <= 0) return lista;
+    var copia = lista.slice();
+    var d = copia.splice(idx, 1)[0];
+    copia.unshift(d);
+    return copia;
+  }
+  function usarCopiaViejaOOcultar() {
+    if (copiaSynologyVieja) { try { renderizarDesdeJson(copiaSynologyVieja); return; } catch(e) {} }
+    ocultarWidget();
+  }
+
+  window.registrarClic = window.registrarClic || function(url, titulo) {
+    var ctx = (this && this.closest) ? this.closest("[data-medio]") : null;
+    var m = ctx ? ctx.getAttribute("data-medio") : MEDIO;
+    var s = ctx ? ctx.getAttribute("data-seccion") : SECCION;
+    var b = ctx ? ctx.getAttribute("data-blog") : BLOG;
+    var tk = ctx ? ctx.getAttribute("data-tracker") : TRACKER;
+    var t = tk + "?url=" + encodeURIComponent(url) + "&titulo=" + encodeURIComponent(titulo) + "&medio=" + encodeURIComponent(m) + "&seccion=" + encodeURIComponent(s) + "&blog=" + encodeURIComponent(b);
+    fetch(t, { mode: "no-cors" }).catch(function(){});
+  };
+
+  function construirUrlConUtm(url) {
+    var sep = url.indexOf("?") === -1 ? "?" : "&";
+    return url + sep + "utm_source=" + encodeURIComponent(BLOG) + "&utm_medium=widget&utm_campaign=" + encodeURIComponent(MEDIO + "_" + SECCION);
+  }
+
+  function limpiarHtml(htmlGrave) {
+    var div = document.createElement("div");
+    div.innerHTML = htmlGrave;
+    var textoLimpio = div.textContent || div.innerText || "";
+    return textoLimpio.replace(/Seguir leyendo\.{3}/gi, "").trim();
+  }
+
+  function renderizarDesdeJson(data) {
+    if (!data.noticias || data.noticias.length === 0) throw new Error("JSON vacío");
+    var destacadoHtml = "", listaHtml = "", count = 0;
+    var noticiasJson = data.noticias.filter(function(n){ return n && n.titulo; }).map(function(n){ var c = {}; for (var p in n) c[p] = n[p]; c.imagen = imagenReal(n.imagen); return c; });
+    destacadaConImagen(noticiasJson, "imagen").forEach(function(noticia) {
+      if (count >= LIMITE || !noticia.titulo) return;
+      var urlConUtm = construirUrlConUtm(noticia.link);
+      var tituloEsc = noticia.titulo.replace(/'/g, "&#39;");
+      var tituloLimpio = limpiarHtml(noticia.titulo);
+      if (count === 0) {
+        destacadoHtml = '<div class="nw-featured">' +
+          (noticia.imagen ? '<a href="' + urlConUtm + '" target="_blank" onclick="registrarClic(\'' + noticia.link + '\',\'' + tituloEsc + '\')"><img src="' + noticia.imagen + '" class="nw-img-featured" alt="' + tituloEsc + '"></a>' : '') +
+          '<a href="' + urlConUtm + '" class="nw-title-featured" target="_blank" onclick="registrarClic(\'' + noticia.link + '\',\'' + tituloEsc + '\')">' + tituloLimpio + '</a>' +
+          '<div class="nw-meta">' + META_LABEL + '</div></div>';
+      } else {
+        listaHtml += '<div class="nw-item">' +
+          (noticia.imagen ? '<div class="nw-img-container"><a href="' + urlConUtm + '" target="_blank" onclick="registrarClic(\'' + noticia.link + '\',\'' + tituloEsc + '\')"><img src="' + noticia.imagen + '" alt="' + tituloEsc + '"></a></div>' : '') +
+          '<div><a href="' + urlConUtm + '" class="nw-item-title" target="_blank" onclick="registrarClic(\'' + noticia.link + '\',\'' + tituloEsc + '\')">' + tituloLimpio + '</a>' +
+          '<div class="nw-meta">' + META_LABEL + '</div></div></div>';
+      }
+      count++;
+    });
+    inyectarAlContenedor(destacadoHtml, listaHtml);
+  }
+
+  function parsearYRenderizarXml(text) {
+    var parser = new DOMParser();
+    var xml = parser.parseFromString(text, "text/xml");
+    var items = Array.from(xml.querySelectorAll("item"));
+    if (!items.length) { usarCopiaViejaOOcultar(); return; }
+    var destacadoHtml = "", listaHtml = "";
+    var noticias = items.slice(0, LIMITE).map(function(item) {
+      var titleRaw = item.querySelector("title")?.textContent || "";
+      var title = limpiarHtml(titleRaw);
+      var linkEl = item.querySelector("link");
+      var loc = linkEl ? (linkEl.nextSibling?.nodeValue?.trim() || linkEl.textContent?.trim() || "") : "";
+      var pubDate = item.querySelector("pubDate")?.textContent || "";
+      var descRaw = item.querySelector("description")?.textContent || "";
+      var descTexto = limpiarHtml(descRaw).slice(0, 180) + "...";
+      var contentEl = item.getElementsByTagNameNS("http://purl.org/rss/1.0/modules/content/", "encoded")[0];
+      var rawContent = contentEl ? contentEl.textContent : descRaw;
+      var imgMatch = rawContent.match(/src="(https?:\/\/[^"]+\.(jpg|jpeg|png|webp))[^"]*"/i);
+      var img = imgMatch ? imgMatch[1] : "";
+      if (!img) { var enc = item.querySelector("enclosure"); if (enc && enc.getAttribute("url")) img = enc.getAttribute("url"); }
+      if (!img) { var media = item.getElementsByTagNameNS("http://search.yahoo.com/mrss/", "content")[0]; if (media && media.getAttribute("url")) img = media.getAttribute("url"); }
+      img = imagenReal(img);
+      return { loc: loc, title: title, pubDate: pubDate, desc: descTexto, img: img };
+    }).filter(function(n) { return n.title; });
+
+    destacadaConImagen(noticias, "img").forEach(function(noticia, index) {
+      var urlConUtm = construirUrlConUtm(noticia.loc);
+      var tituloEsc = noticia.title.replace(/'/g, "&#39;");
+      if (index === 0) {
+        destacadoHtml = '<div class="nw-featured">' +
+          (noticia.img ? '<a href="' + urlConUtm + '" target="_blank" onclick="registrarClic(\'' + noticia.loc + '\',\'' + tituloEsc + '\')"><img src="' + noticia.img + '" class="nw-img-featured" alt="' + tituloEsc + '"></a>' : '') +
+          '<a href="' + urlConUtm + '" class="nw-title-featured" target="_blank" onclick="registrarClic(\'' + noticia.loc + '\',\'' + tituloEsc + '\')">' + noticia.title + '</a>' +
+          '<div class="nw-meta">' + META_LABEL + '</div></div>';
+      } else {
+        listaHtml += '<div class="nw-item">' +
+          (noticia.img ? '<div class="nw-img-container"><a href="' + urlConUtm + '" target="_blank" onclick="registrarClic(\'' + noticia.loc + '\',\'' + tituloEsc + '\')"><img src="' + noticia.img + '" alt="' + tituloEsc + '"></a></div>' : '') +
+          '<div><a href="' + urlConUtm + '" class="nw-item-title" target="_blank" onclick="registrarClic(\'' + noticia.loc + '\',\'' + tituloEsc + '\')">' + noticia.title + '</a>' +
+          '<div class="nw-meta">' + META_LABEL + '</div></div></div>';
+      }
+    });
+    inyectarAlContenedor(destacadoHtml, listaHtml);
+  }
+
+  function inyectarAlContenedor(dest, list) {
+    document.getElementById(WID + "-destacada").innerHTML = dest;
+    document.getElementById(WID + "-lista").innerHTML = list;
+    var cab = document.getElementById(WID + "-cabecera"); if (cab) cab.style.display = "block";
+  }
+  function ocultarWidget() { var c = document.getElementById(WID + "-container"); if (c) c.style.display = "none"; }
+
+  console.log("["+WID+"] Cargando JSON prioritario desde Synology...");
+  var controllerSynology = new AbortController();
+  var timeoutSynology = setTimeout(function(){ controllerSynology.abort(); }, 5000);
+  fetch(synologyUrl, { signal: controllerSynology.signal })
+    .then(function(r){ clearTimeout(timeoutSynology); if(!r.ok) throw new Error(); return r.json(); })
+    .then(function(data){ if (!jsonEsValido(data)) throw new Error("JSON de Synology no valido"); if (!esReciente(data)) { copiaSynologyVieja = data; throw new Error("JSON de Synology desactualizado"); } renderizarDesdeJson(data); })
+    .catch(function(){
+       console.warn("["+WID+"] Synology falló. Probando GitHub...");
+       fetch(githubUrl, { cache: "no-store" })
+         .then(function(r){ if(!r.ok) throw new Error(); return r.json(); })
+         .then(function(data){ if (!jsonEsValido(data)) throw new Error("JSON de GitHub no valido"); renderizarDesdeJson(data); })
+         .catch(function(){
+            console.warn("["+WID+"] GitHub también falló. Probando RSS directo...");
+            fetch(FEED, { cache: "no-store" }).then(function(r){ if(!r.ok) throw new Error(); return r.text(); }).then(function(t){ if (t.indexOf("<item") === -1) throw new Error("RSS sin noticias"); parsearYRenderizarXml(t); }).catch(function(){
+            console.warn("["+WID+"] RSS directo falló. Cargando Fallback...");
+            if (typeof window.cargarWidgetNoticias === "function") {
+              window.cargarWidgetNoticias({ id: WID, feed: FEED, render: parsearYRenderizarXml });
+            } else {
+              fetch("https://api.allorigins.win/raw?url=" + encodeURIComponent(FEED))
+                .then(function(r){ if(!r.ok) throw new Error(); return r.text(); })
+                .then(parsearYRenderizarXml)
+                .catch(usarCopiaViejaOOcultar);
+            } });
+         });
+    });
+})();
+</script>
+
+<div style="text-align: center; margin-top: 30px;">
+  <a href="https://www.diariocritico.com?utm_source=peri%C3%B3dicosaliazon&utm_medium=widget&utm_campaign=diariocritico.com_cultura" target="_blank" onclick="registrarClic('https://www.diariocritico.com', 'Ver más noticias en diariocritico.com - cultura'); return true;" style="display: inline-block; background: #c0392b; color: white; padding: 10px 25px; text-decoration: none; border-radius: 30px; font-size: 14px; font-weight: bold;">
+    Ver m&aacute;s noticias en diariocritico.com &middot; cultura
+  </a>
+</div>
