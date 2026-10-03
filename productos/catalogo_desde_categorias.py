@@ -3,8 +3,9 @@
 # y saca nombre, foto, precio y enlace de cada producto. No visita las páginas de producto.
 # Escribe productos/producto-<md5(clave)[:16]>-pN.json, el mismo formato que usa el motor de productos.
 # Uso: python3 productos/catalogo_desde_categorias.py productos/catalogos_categorias.txt
-# cada línea: clave (= data-url del post) | página de categoría | tipo | máximo de páginas | máximo de productos
-# tipos: woocommerce | opencart | comprafruta
+# cada línea: clave (= data-url del post) | página de categoría | tipo | máximo de páginas | máximo de productos | moneda | opciones
+# tipos: woocommerce | opencart | prestashop | bitrix | comprafruta
+# opciones (separadas por comas): sin_agotados (no pone los productos agotados)
 import sys, re, json, time, hashlib, html, gzip, glob, os, urllib.request, urllib.parse
 
 UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36'
@@ -27,15 +28,23 @@ def absoluta(u, base):
     return urllib.parse.urljoin(base, html.unescape(u or '').strip())
 
 
+def foto(u, base):
+    # dirección de la foto lista para el navegador (espacios y letras no latinas codificados)
+    return urllib.parse.quote(absoluta(u, base), safe=":/?&=%#@+,;~")
+
+
 def precio_texto(t, moneda_por_defecto='€'):
     """'1,65€/unidad' -> '1,65 €/unidad'; '$25.99' -> '25,99 CAD' (se le pasa la moneda); '1,87 €' -> '1,87 €'"""
     t = limpio(t)
+    t = re.sub(r'(?<=\d)[\s\u00a0](?=\d{3}(?!\d))', '', t)   # 26 990 -> 26990
     m = re.search(r'(\d+(?:[.,]\d{3})*(?:[.,]\d{1,2})?)', t)
     if not m:
         return ''
     num = m.group(1)
     if re.search(r'\.\d{1,2}$', num) and ',' not in num:      # 25.99 -> 25,99
         num = num.replace('.', ',')
+    if re.fullmatch(r'\d{4,}', num):                             # 26990 -> 26.990
+        num = f'{int(num):,}'.replace(',', '.')
     resto = t[m.end():].strip()
     unidad = ''
     u = re.search(r'/\s*([a-zA-ZáéíóúñÑ]+)', resto)
@@ -51,12 +60,17 @@ def pagina_n(url, tipo, n):
         return url.rstrip('/') + f'/page/{n}/'
     if tipo == 'opencart':
         return url + ('&' if '?' in url else '?') + f'limit=100&page={n}'
+    if tipo == 'prestashop':
+        return url + ('&' if '?' in url else '?') + f'page={n}'
+    if tipo == 'bitrix':
+        return url + ('&' if '?' in url else '?') + f'PAGEN_1={n}'
     return None
 
 
-def extraer_woocommerce(p, base):
+def extraer_woocommerce(p, base, sin_agotados=False):
     out = []
     for b in re.findall(r'<li class="[^"]*\bproduct\b[^"]*type-product[\s\S]*?</li>', p):
+        agotado = bool(re.search(r'\boutofstock\b', b.split('>', 1)[0]))
         a = re.search(r'<a href="([^"]+)"[^>]*woocommerce-LoopProduct-link', b) or re.search(r'<a href="([^"]+)"', b)
         tit = re.search(r'woocommerce-loop-product__title">([\s\S]*?)</h2>', b)
         img = ''
@@ -75,7 +89,35 @@ def extraer_woocommerce(p, base):
             ins = re.search(r'<ins[\s\S]*?</ins>', bloque)   # en oferta: el precio rebajado
             pr = precio_texto(ins.group(0) if ins else bloque)
         if a and tit:
-            out.append({'titulo': limpio(tit.group(1)), 'url': absoluta(a.group(1), base), 'imagen': absoluta(img, base), 'precio': pr})
+            out.append({'titulo': limpio(tit.group(1)), 'url': absoluta(a.group(1), base), 'imagen': foto(img, base), 'precio': pr,
+                        'agotado': agotado and sin_agotados})
+    return out
+
+
+def extraer_prestashop(p, base, moneda):
+    out = []
+    for b in re.split(r'<article[^>]*product-miniature', p)[1:]:
+        b = b.split('</article>')[0]
+        img = re.search(r'data-full-size-image-url="([^"]+)"', b) or re.search(r'<img[^>]+src="([^"]+)"', b)
+        a = re.search(r'product-title[^>]*>\s*<a href="([^"]+)"[^>]*>([\s\S]*?)</a>', b)
+        precio = re.search(r'class="price"[^>]*>([^<]+)<', b)
+        if a and img:
+            out.append({'titulo': limpio(a.group(2)), 'url': absoluta(a.group(1).split('#')[0], base), 'imagen': foto(img.group(1), base),
+                        'precio': precio_texto(precio.group(1), moneda) if precio else ''})
+    return out
+
+
+def extraer_bitrix(p, base, moneda):
+    # tarjetas "product-card" de 1C-Bitrix; solo las de la propia categoría (no los bloques de ofertas)
+    out = []
+    ruta = urllib.parse.urlparse(base).path
+    for b in p.split('class="product-card"')[1:]:
+        img = re.search(r'product-card__image--main">\s*<img[^>]+src="([^"]+)"', b) or re.search(r'<img[^>]+src="(/upload/[^"]+)"', b)
+        a = re.search(r'product-card__name">\s*<a href="([^"]+)"[^>]*>([\s\S]*?)</a>', b)
+        precio = re.search(r'class="current"[^>]*>([\s\S]*?)</div>', b)
+        if a and img and a.group(1).startswith(ruta):
+            out.append({'titulo': limpio(a.group(2)), 'url': absoluta(a.group(1), base), 'imagen': foto(img.group(1), base),
+                        'precio': precio_texto(precio.group(1), moneda) if precio else ''})
     return out
 
 
@@ -91,7 +133,7 @@ def extraer_opencart(p, base, moneda):
             pr = precio_texto(nuevo.group(1) if nuevo else precio.group(1), moneda)
         if a and img and 'placeholder' not in img.group(1):   # sin foto real no se pone
             url = re.sub(r'([?&])limit=\d+&?', r'\1', html.unescape(a.group(1))).rstrip('?&')
-            out.append({'titulo': limpio(a.group(2)), 'url': absoluta(url, base), 'imagen': absoluta(img.group(1), base), 'precio': pr})
+            out.append({'titulo': limpio(a.group(2)), 'url': absoluta(url, base), 'imagen': foto(img.group(1), base), 'precio': pr})
     return out
 
 
@@ -105,7 +147,7 @@ def extraer_comprafruta(p, base):
         a = re.findall(r'<a href="([^"]+)"[^>]*>([^<]+)</a>', datos.group(1))
         sp = re.search(r'<span>([^<]+)</span>', datos.group(1))
         if a:
-            out.append({'titulo': limpio(a[-1][1]), 'url': absoluta(a[-1][0], base), 'imagen': absoluta(img.group(1), base),
+            out.append({'titulo': limpio(a[-1][1]), 'url': absoluta(a[-1][0], base), 'imagen': foto(img.group(1), base),
                         'precio': precio_texto(sp.group(1)) if sp else ''})
     return out
 
@@ -115,7 +157,8 @@ for linea in open(sys.argv[1], encoding='utf-8'):
         continue
     partes = [x.strip() for x in linea.split('|')]
     clave, url, tipo, max_pag, maximo = partes[:5]
-    moneda = partes[5] if len(partes) > 5 else '€'
+    moneda = (partes[5] if len(partes) > 5 else '') or '€'
+    opciones = [x.strip() for x in (partes[6] if len(partes) > 6 else '').split(',') if x.strip()]
     max_pag, maximo = int(max_pag), int(maximo)
     slug = hashlib.md5(clave.encode()).hexdigest()[:16]
     prods, vistos = [], set()
@@ -129,19 +172,25 @@ for linea in open(sys.argv[1], encoding='utf-8'):
             print(f'  {clave}: página {n} no disponible ({e})')
             break
         if tipo == 'woocommerce':
-            nuevos = extraer_woocommerce(p, u)
+            nuevos = extraer_woocommerce(p, u, 'sin_agotados' in opciones)
         elif tipo == 'opencart':
             nuevos = extraer_opencart(p, u, moneda)
+        elif tipo == 'prestashop':
+            nuevos = extraer_prestashop(p, u, moneda)
+        elif tipo == 'bitrix':
+            nuevos = extraer_bitrix(p, url, moneda)
         else:
             nuevos = extraer_comprafruta(p, u)
-        añadidos = 0
+        pagina_nueva = 0
         for x in nuevos:
-            if x['url'] in vistos or not x['imagen'] or not x['titulo']:
+            if x['url'] in vistos:
                 continue
             vistos.add(x['url'])
+            pagina_nueva += 1
+            if x.pop('agotado', False) or not x['imagen'] or not x['titulo']:
+                continue
             prods.append(x)
-            añadidos += 1
-        if añadidos == 0 or len(prods) >= maximo:
+        if pagina_nueva == 0 or len(prods) >= maximo:
             break
         time.sleep(2)
     prods = prods[:maximo]
