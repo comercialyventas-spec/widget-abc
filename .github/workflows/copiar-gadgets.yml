@@ -1,0 +1,41 @@
+name: Copiar gadgets (copia de seguridad)
+
+# Se lanza cuando Claude sube migracion/copiar_gadgets_orden.txt. Lee la portada del blog
+# y guarda el contenido de los gadgets indicados en migracion/gadgets_backup/ (no pisa copias).
+on:
+  push:
+    branches: [main]
+    paths: ['migracion/copiar_gadgets_orden.txt']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: widget-abc-git-write
+  cancel-in-progress: false
+
+jobs:
+  copiar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Copiar
+        run: node migracion/copiar_gadgets.js migracion/copiar_gadgets_orden.txt
+      - name: Guardar
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add migracion/gadgets_backup
+          if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
+          git commit -m "Copia de seguridad de gadgets"
+          for i in 1 2 3 4 5; do
+            git fetch origin main && git rebase origin/main && git push origin HEAD:main && exit 0
+            git rebase --abort 2>/dev/null || true
+            sleep 10
+          done
+          exit 1
