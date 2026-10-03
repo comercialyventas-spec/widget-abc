@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¿Quién es el nuevo líder que está transformando el ecosistema fintech en Venezuela?",
+      "link": "https://www.mediterraneodigital.com/negocios-y-finanzas/adrian-ruiz-empresario",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/10/ceo.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Qué es la minería de bitcoins? ¿Cómo acumular 2.000 euros en bitcoins al día sin necesidad de ningún equipo?",
       "link": "https://www.mediterraneodigital.com/negocios-y-finanzas/mineria-en-la-nube-de-bitcoins",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/bitcoins-mineria.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Cómo elegir la vivienda más adecuada",
       "link": "https://www.mediterraneodigital.com/negocios-y-finanzas/inmobiliaria-en-aravaca",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/edificio.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El contrato que no espera: por qué los negocios del Mediterráneo están adoptando la firma digital",
-      "link": "https://www.mediterraneodigital.com/negocios-y-finanzas/firmar-pdf",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/9/firmar-pdf.jpg",
       "tipo": "imagen"
     }
   ]

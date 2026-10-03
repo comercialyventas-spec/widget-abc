@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Protecció Civil pide restringir todas las actividades a partir de esta tarde en Catalunya ante el episodio \"excepcional\" de lluvias",
+      "titulo": "Las imágenes más impactantes del temporal que azota Catalunya",
+      "link": "<![CDATA[https://www.elperiodico.com/es/tiempo/20261003/temporal-cataluna-lluvias-imagenes-fotos-videos-dv-loc-134964368",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f383384e-1847-49cb-bf39-4caeaf6fd799_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Catalunya restringe la movilidad y suspende las actividades al aire libre en una veintena de comarcas",
       "link": "<![CDATA[https://www.elperiodico.com/es/tiempo/20261003/proteccio-civil-pide-restringir-actividades-tarde-catalunya-episodio-excepcional-lluvias-134957621",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/dce9a434-0a69-415b-a9b4-55c4f6b85ff5_media-libre-aspect-ratio_default_0.jpg",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/463ec32c-20c6-49dc-8118-bc38938e9950_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Radar meteorológico de Catalunya en directo: consulta cuándo y dónde va a llover hoy en tiempo real",
       "link": "<![CDATA[https://www.elperiodico.com/es/tiempo/20261002/radar-lluvia-barcelona-cataluna-tarragona-tiempo-real-dv-107738359",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/89dd688f-07d9-45a4-b08c-fbebea97a4ac_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tiempo en Catalunya hoy viernes: aviso rojo por lluvias torrenciales en Terres de l'Ebre y amarillo en el litoral a partir de la tarde",
-      "link": "<![CDATA[https://www.elperiodico.com/es/tiempo/20261001/tiempo-catalunya-hoy-viernes-aviso-rojo-lluvias-ebre-litoral-meteocat-dv-134890434",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/977e94f1-df3e-4614-a2cf-da39192ea37f_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

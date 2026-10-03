@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Analizamos los Huawei FreeBuds Neo, los auriculares más equilibrados que hemos probado",
+      "link": "https://www.abc.es/tecnologia/analizamos-huawei-freebuds-neo-auriculares-equilibrados-probado-20261003161846-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/03/auriculares1-RTrZ5ts71ZK5yGGaElmfYRP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los agentes de IA se cuelan en tus conversaciones: un usuario denuncia que Muse de Meta leyó sus mensajes privados sin permiso",
       "link": "https://www.abc.es/tecnologia/agentes-ia-cuelan-tus-conversaciones-usuario-denuncia-20261002174920-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/02/hombre-mac-RDLpIxfHKtOMNEFzk0O2ixN-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Una ciudad de ingenieros para crear relojes inteligentes más precisos",
       "link": "https://www.abc.es/tecnologia/ciudad-ingenieros-crear-relojes-inteligentes-precisos-20261002014641-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/02/huawei-golf-Rnp6hH9DgqVRcKtaC4HeTAI-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Multa por contaminación: un operador de centro de datos tendrá que pagar un millón de dólares por emitir gases tóxicos",
-      "link": "https://www.abc.es/tecnologia/multa-contaminacion-operador-centro-datos-pagar-millon-20261001173637-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/01/centro-de-datos-de-ia-RKsw6l38qa83fT01vOGXhCL-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

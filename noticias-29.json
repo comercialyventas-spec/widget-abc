@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "José Andrés y Jeff Bezos se suman al debate sobre la vivienda en España",
+      "link": "https://www.lavanguardia.com/politica/20261003/11650223/jose-andres-jeff-bezos-entran-debate-sobre-vivienda-espana.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/17/691b0c1d2f7b4.r_d.1689-955-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Manifestaciones por la vivienda, en directo: Última hora de las protestas en Madrid y en el resto de España ante la caída de los decretos gubernamentales",
+      "link": "https://www.lavanguardia.com/politica/20261003/11650103/decreto-vivienda-deshaucio-maricarmen-acampada-puerta-del-sol-madrid-barcelona-manifestaciones-crisis-vivienda-ultima-hora-hoy-en-directo.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/03/6ac104106475c.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La manifestación por la vivienda en Madrid llama a una huelga general",
+      "link": "https://www.lavanguardia.com/politica/20261003/11650199/sindicato-inquilinas-cifra-500-000-personas-manifestacion-madrid.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/03/6ac0f6d814e50.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Junts avisa al Gobierno de que está “a tiempo” de “rectificar” y negociar un nuevo decreto",
       "link": "https://www.lavanguardia.com/politica/20261003/11650194/junts-avisa-gobierno-esta-rectificar-negociar-nuevo-decreto.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/03/6ac0f1258893d.r_d.1700-2148-1282.jpeg",
@@ -9,31 +27,13 @@
     {
       "titulo": "Feijóo insta a Sánchez a convocar elecciones no por “revanchismo” sino porque “el país no aguanta más”",
       "link": "https://www.lavanguardia.com/politica/20261003/11650189/feijoo-insta-sanchez-convocar-elecciones-revanchismo-pais-aguanta-mas.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/03/6ac0ea4a98a33.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
       "tipo": "imagen"
     },
     {
       "titulo": "Las protestas por la crisis de la vivienda, en imágenes",
       "link": "https://www.lavanguardia.com/politica/20261003/11650178/manifestaciones-crisis-vivienda-imagenes.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/03/6ac0df7eb1854.r_d.3303-3355-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Junts regresa al sistema",
-      "link": "https://www.lavanguardia.com/politica/20261003/11649802/junts-regresa-sistema.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Manifestaciones por la vivienda, en directo: Miles de personas salen a las calles en Madrid y Valencia: “Hacia la huelga general”",
-      "link": "https://www.lavanguardia.com/politica/20261003/11650103/decreto-vivienda-deshaucio-maricarmen-acampada-puerta-del-sol-madrid-barcelona-manifestaciones-crisis-vivienda-ultima-hora-hoy-en-directo.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/03/6ac0e51d2520d.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Unas protestas descafeinadas gritan contra la “vergüenza” de la votación",
-      "link": "https://www.lavanguardia.com/politica/20261003/11649925/protestas-descafeinadas-gritan-vergueenza-votacion.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/02/6abfcf66ddc46.r_d.968-625-0.jpeg",
       "tipo": "imagen"
     }
   ]

@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Inteligencia artificial: ¿Qué tan real es la amenaza y qué podemos hacer?",
+      "link": "https://elpais.com/noticias/inteligencia-artificial/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/IEDWV6QK7RAX7KXJBBRP3XW57I.jpg?auth=b1dc341850915acf642fabf97aeff5648f241e4dec4551da88110d2514617c57&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Escrito en la cara",
       "link": "https://elpais.com/autor/antonio-munoz-molina/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/AGVPCWFTXNFCJFNY5BK6FGXHYU.jpg?auth=7a8dd7efd66d3f25c8825b915101e9fe2de22a0904484c9d2733b2eae1863f16&width=414&height=233&focal=1187%2C569",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/AGVPCWFTXNFCJFNY5BK6FGXHYU.jpg?auth=7a8dd7efd66d3f25c8825b915101e9fe2de22a0904484c9d2733b2eae1863f16&width=414&height=311&focal=1187%2C569",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "La ciencia también tiene que volver a casa",
       "link": "https://elpais.com/ciencia/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/3WE3CFCRPRERFC74XFW3CYE3QQ.jpg?auth=d7d35e5a5c429396f77cbb74d358e6be93d3861bb3158d07dffbf811ca88492f&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Victoria parcial o derrota total",
-      "link": "https://elpais.com/opinion/2026-10-02/victoria-parcial-o-derrota-total.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/GBNHXKXK2ZGBDPFZHPYYUKZKGA.jpg?auth=3f25769c12a7e4726121139df5f2524439d346069ff646965ca5a40315c522c7&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]
