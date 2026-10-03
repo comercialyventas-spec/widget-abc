@@ -1,0 +1,6 @@
+# Catálogos sacados leyendo las páginas de categoría (tiendas sin sitemap útil). Lo usa productos/catalogo_desde_categorias.py
+# clave (= data-url del post) | página de categoría | tipo (woocommerce|opencart|comprafruta) | máximo de páginas | máximo de productos | moneda (opcional, por defecto €)
+https://www.comprafrutaonline.com/catalogo/legumbres/#categoria | https://www.comprafrutaonline.com/catalogo/legumbres/ | comprafruta | 1 | 96
+https://www.comprafrutaonline.com/#categoria | https://www.comprafrutaonline.com/ | comprafruta | 1 | 96
+https://www.shahigrocery.com/cooking-oil-ghee#categoria | https://www.shahigrocery.com/cooking-oil-ghee | opencart | 3 | 96 | CAD
+https://www.mitiendavegana.com/categoria-producto/bebidas-vegetales/zumos/#categoria | https://www.mitiendavegana.com/categoria-producto/bebidas-vegetales/zumos/ | woocommerce | 4 | 96
