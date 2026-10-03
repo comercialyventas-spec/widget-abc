@@ -1,0 +1,154 @@
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVbJtrNwjpb9kGigw5B5ZvPA5WsyD62TtZfkYtoPwf4WYAsBOZF66QybohHTyhRX9ipoTY04ubsDkkRfiNnuWUaTQBiBatIasKHz_dosBsu0T8IeTlZI4BdJTyKnsWomgNY3uJ4XoodkdhJH297DFdgRmRakZkNao7FHDbLin4IlgrF8UdEnNbMzyfCM8/s1500/ChatGPT_Image_28_abr_2026_17_28_27_e04b6622-d7a2-4fe2-b98c-0df1953bd533.webp" style="display: block; padding: 1em 0px; text-align: center;"><img alt="" border="0" data-original-height="1000" data-original-width="1500" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVbJtrNwjpb9kGigw5B5ZvPA5WsyD62TtZfkYtoPwf4WYAsBOZF66QybohHTyhRX9ipoTY04ubsDkkRfiNnuWUaTQBiBatIasKHz_dosBsu0T8IeTlZI4BdJTyKnsWomgNY3uJ4XoodkdhJH297DFdgRmRakZkNao7FHDbLin4IlgrF8UdEnNbMzyfCM8/s320/ChatGPT_Image_28_abr_2026_17_28_27_e04b6622-d7a2-4fe2-b98c-0df1953bd533.webp" width="320" /></a></div><br /><div style="text-align: justify;"><div>Cerveza Mica es una marca de cerveza artesanal española originaria de la Ribera del Duero. Se caracteriza por una producción cuidada, uso de ingredientes naturales y cervezas de estilo equilibrado, con variedad de perfiles como lager, IPA o tostadas.</div></div><div id="tienda-catalogo"></div>
+
+<div id="sentinel" style="height: 1px;"></div>
+
+<div id="loader" style="display: none; padding: 15px; text-align: center;">
+  Cargando...
+</div>
+
+<style>
+#tienda-catalogo{
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(200px,1fr));
+  gap:20px;
+  font-family:Arial;
+}
+.producto-card{
+  border:1px solid #eaeaea;
+  padding:15px;
+  border-radius:10px;
+  text-align:center;
+  background:#fff;
+}
+.producto-card img{
+  width:100%;
+  height:200px;
+  object-fit:cover;
+  border-radius:8px;
+}
+.producto-title{
+  font-size:14px;
+  margin:10px 0;
+  font-weight:600;
+}
+.producto-precio{
+  font-size:16px;
+  font-weight:bold;
+  color:#111;
+  margin:8px 0;
+}
+.producto-link{
+  display:block;
+  background:#111;
+  color:#fff;
+  padding:10px;
+  text-decoration:none;
+  border-radius:6px;
+  font-size:12px;
+  font-weight:bold;
+}
+</style>
+
+<script>
+(function(){
+// Capa 1: la propia tienda (Shopify, /products.json): siempre al dia, con precios y solo en stock.
+// Capa 2: el Apps Script de siempre, solo si la tienda no responde.
+var TIENDA_URL = "https://cervezamica.es/";
+var APPS_SCRIPT = "https://script.google.com/macros/s/AKfycbwAz-q8cQuhZsdVzfl5bY9my_rzawc1B3lW4b8fAc1jtUgC9ZQcC-lg2iGHp5bq4KM6YQ/exec";
+var fuente = "tienda";
+var paginaActual = 1, cargando = false, hayMas = true, cola = false;
+
+function limpiarUrl(url){
+  return url ? String(url).replace(/&amp;/g,"&").replace(/&apos;/g,"'") : "";
+}
+function esc(t){ return String(t || "").replace(/&/g,"&amp;").replace(/"/g,"&quot;").replace(/</g,"&lt;"); }
+function euros(v){
+  var n = parseFloat(v);
+  return isNaN(n) || n <= 0 ? "" : n.toFixed(2).replace(".", ",") + " €";
+}
+
+window.registrarClicMica = function(el){
+  try {
+    fetch(APPS_SCRIPT, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ tienda: TIENDA_URL, titulo: el.getAttribute("data-titulo"), url: el.href }),
+      mode: "no-cors",
+      keepalive: true
+    });
+  } catch(e){}
+};
+window.ocultarTarjetaMica = function(img){
+  var c = img.closest(".producto-card"); if (c) c.style.display = "none";
+};
+
+function crearTarjeta(p){
+  if (!p.imagen) return "";
+  var h = '<div class="producto-card">'
+    + '<img src="' + esc(limpiarUrl(p.imagen)) + '" loading="lazy" referrerpolicy="no-referrer" alt="' + esc(p.titulo) + '" onerror="ocultarTarjetaMica(this)">'
+    + '<div class="producto-title">' + esc(p.titulo) + '</div>';
+  if (p.precio) h += '<div class="producto-precio">' + (p.precio_antes ? '<s style="color:#999;font-weight:normal;font-size:13px;margin-right:6px">' + p.precio_antes + '</s>' : '') + p.precio + '</div>';
+  h += '<a class="producto-link" href="' + esc(limpiarUrl(p.url)) + '" target="_blank" rel="nofollow" data-titulo="' + esc(p.titulo) + '" onclick="registrarClicMica(this)">Comprar</a>'
+    + '</div>';
+  return h;
+}
+
+function conTiempo(url, ms){
+  var ctrl = new AbortController();
+  var t = setTimeout(function(){ ctrl.abort(); }, ms);
+  return fetch(url, { signal: ctrl.signal }).then(function(r){ clearTimeout(t); if (!r.ok) throw new Error(r.status); return r.json(); });
+}
+
+function deTienda(n){
+  return conTiempo(TIENDA_URL + "products.json?limit=250&page=" + n, 15000).then(function(d){
+    var lista = [];
+    (d.products || []).forEach(function(p){
+      var vs = p.variants || [];
+      var v = vs.filter(function(x){ return x.available; })[0];
+      if (!v) return;                                   // agotado: no se muestra
+      var img = (p.images && p.images[0] && p.images[0].src) || "";
+      var antes = (v.compare_at_price && parseFloat(v.compare_at_price) > parseFloat(v.price)) ? euros(v.compare_at_price) : "";
+      lista.push({ titulo: p.title, url: TIENDA_URL + "products/" + p.handle, imagen: img, precio: euros(v.price), precio_antes: antes });
+    });
+    return { productos: lista, hayMas: (d.products || []).length === 250 };
+  });
+}
+function deProxy(n){
+  return conTiempo(APPS_SCRIPT + "?tienda=" + encodeURIComponent(TIENDA_URL) + "&pagina=" + n, 30000);
+}
+
+async function cargarProductos(){
+  if (cargando || !hayMas) return;
+  cargando = true;
+  document.getElementById("loader").style.display = "block";
+  try {
+    var data;
+    if (fuente === "tienda") {
+      try { data = await deTienda(paginaActual); }
+      catch(e) { data = null; }
+      if ((!data || !data.productos.length) && paginaActual === 1) { fuente = "proxy"; data = await deProxy(1); }
+    } else {
+      data = await deProxy(paginaActual);
+    }
+    var lista = (data && data.productos) || [];
+    document.getElementById("tienda-catalogo").insertAdjacentHTML("beforeend", lista.map(crearTarjeta).join(""));
+    hayMas = !!(data && data.hayMas) && lista.length > 0;
+    paginaActual++;
+  } catch(e){ console.log(e); hayMas = false; }
+  document.getElementById("loader").style.display = "none";
+  cargando = false;
+  if (cola){ cola = false; cargarProductos(); }
+}
+
+function arrancar(){
+  cargarProductos();
+  var sentinel = document.getElementById("sentinel");
+  if ("IntersectionObserver" in window) {
+    new IntersectionObserver(function(entries){
+      if (entries[0].isIntersecting){ if (cargando){ cola = true; return; } cargarProductos(); }
+    }, { rootMargin: "250px" }).observe(sentinel);
+  }
+}
+if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", arrancar); else arrancar();
+})();
+</script><div><br /></div><a href="https://cervezamica.es/" target="_blank"><b>IR A LA WEB OFICIAL&nbsp;</b></a><div><br /></div><div><span style="font-size: medium;"><span>SI NO ENVÍAN A TU DESTINO CONTÁCTANOS:</span><span>&nbsp;</span><a href="mailto:comercialyventas@gmail.com">comercialyventas@gmail.com</a></span></div>
