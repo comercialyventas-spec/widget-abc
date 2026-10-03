@@ -104,6 +104,16 @@ def extraer_prestashop(p, base, moneda):
         if a and img:
             out.append({'titulo': limpio(a.group(2)), 'url': absoluta(a.group(1).split('#')[0], base), 'imagen': foto(img.group(1), base),
                         'precio': precio_texto(precio.group(1), moneda) if precio else ''})
+    if not out:
+        # PrestaShop con plantilla Creative Elements (p. ej. botica3.es): <article ... data-id-product="..."> y "ce-product-name"
+        for b in re.split(r'<article[^>]*data-id-product=', p)[1:]:
+            b = b.split('</article>')[0]
+            img = re.search(r'<img[^>]+src="([^"]+)"', b)
+            a = re.search(r'ce-product-name[^>]*>\s*<a href="([^"]+)"[^>]*>([\s\S]*?)</a>', b)
+            precio = re.search(r'class="ce-product-price[^"]*"[^>]*>\s*<span>([^<]+)<', b)
+            if a and img:
+                out.append({'titulo': limpio(a.group(2)), 'url': absoluta(a.group(1).split('#')[0], base), 'imagen': foto(img.group(1), base),
+                            'precio': precio_texto(precio.group(1), moneda) if precio else ''})
     return out
 
 
