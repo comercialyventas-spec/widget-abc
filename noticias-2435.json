@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La lectura, un regalo de los dioses que nos hace humanos",
+      "link": "https://www.rtve.es/noticias/20261003/lectura-regalo-dioses-hace-humanos/17245542.shtml",
+      "imagen": "https://img.rtve.es/imagenes/lectura-regalo-dioses-hace-humanos/01790840591947.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El instituto que respira inteligencia artificial sin conectarse a internet",
+      "link": "https://www.rtve.es/noticias/20261003/centro-educativo-inteligencia-artificial-xativa-internet-conexion-instituto-lluis-simarro/17251309.shtml",
+      "imagen": "https://img.rtve.es/imagenes/centro-educativo-inteligencia-artificial-xativa-internet-conexion-instituto-lluis-simarro/01790964160654.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La \"superinteligencia\" de Trump dispara la cotización y los registros del dominio esloveno \".si\"",
       "link": "https://www.rtve.es/noticias/20261002/superinteligencia-trump-dispara-registros-dominio-esloveno-si/17251645.shtml",
       "imagen": "https://img.rtve.es/imagenes/superinteligencia-trump-dispara-registros-dominio-esloveno-si/01790736172749.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Don Quijote cabalga de nuevo a lomos de la inteligencia artificial",
       "link": "https://www.rtve.es/noticias/20260930/don-quijote-cabalga-lomos-inteligencia-artificial-magnific-contamination/17239356.shtml",
       "imagen": "https://img.rtve.es/imagenes/don-quijote-cabalga-lomos-inteligencia-artificial-magnific-contamination/01790270131007.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Trump ordena llamar \"superinteligencia\" a la IA y defiende su \"autorregulación\" junto a magnates tecnológicos",
-      "link": "https://www.rtve.es/noticias/20260930/trump-superinteligencia-ia-defiende-autorregulacion-magnates-tecnologicos/17246638.shtml",
-      "imagen": "https://img.rtve.es/imagenes/trump-superinteligencia-ia-defiende-autorregulacion-magnates-tecnologicos/01790732298567.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La nave Starship de Space X alcanza la órbita terrestre por primera vez pese a un fallo en los motores",
-      "link": "https://www.rtve.es/noticias/20260928/nave-starship-space-regresa-con-exito-a-tierra-tras-alcanzar-orbita-terrestre-por-primera-vez/17244606.shtml",
-      "imagen": "https://img.rtve.es/imagenes/nave-starship-space-regresa-con-exito-a-tierra-tras-alcanzar-orbita-terrestre-por-primera-vez/01790614672368.jpg",
       "tipo": "imagen"
     }
   ]
