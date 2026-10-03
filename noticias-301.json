@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Pasión de olvidar",
+      "link": "https://www.abc.es/deportes/real-madrid/pasion-olvidar-20261002011423-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/02/0132f9-RzPQL0RWxOtJTw4uixQiiDJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las disculpas de Cerezo a Florentino por Riquelme",
       "link": "https://www.abc.es/deportes/real-madrid/disculpas-cerezo-florentino-riquelme-20260922011805-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/22/cerezofloren-RGForgPZFVSwf73oIyoJ8UM-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La cruz",
       "link": "https://www.abc.es/deportes/real-madrid/juanma-rodriguez-cruz-20260924165600-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/24/mou-R4IajyCIOIbSaQlbxeJ4HLK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Konaté, primera víctima del parón de selecciones",
-      "link": "https://www.abc.es/deportes/real-madrid/konate-primera-victima-paron-selecciones-20260924102508-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/24/konate-RXiNlXPv7OpovpuB9gE305J-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

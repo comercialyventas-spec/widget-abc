@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Esta es la mayor galaxia del Universo conocido: mide 1,7 millones de años luz y continúa creciendo",
+      "link": "https://www.lavanguardia.com/ciencia/20261002/11649574/mayor-galaxia-universo-conocido-mide-1-7-millones-anos-luz-continua-creciendo.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/02/6abfa3848d167.r_d.640-640-3507.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Agencia Espacial Europea prueba en el desierto de Tabernas (Almería) el rover que preparará la búsqueda de vida en Marte",
+      "link": "https://www.lavanguardia.com/ciencia/universo/20261002/11648911/agencia-espacial-europea-prueba-desierto-tabernas-almeria-rover-preparara-busqueda-vida-marte.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "María J. Soler, nefróloga: “Comer carne cada día no es bueno para los riñones”",
+      "link": "https://www.lavanguardia.com/podcast/principio-activo/20261002/11632056/maria-j-soler-nefrologa-comer-carne-dia-bueno-rinones-smr.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El coro de la sabana: la IA revela el lenguaje secreto de las manadas de elefantes",
+      "link": "https://www.lavanguardia.com/ciencia/20261001/11647725/coro-sabana-ia-revela-lenguaje-secreto-manadas-elefantes.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/30/6abd15fa27f69.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Homenaje a Antoni Trilla en su despedida como decano de Medicina",
       "link": "https://www.lavanguardia.com/vida/20260930/11647976/homenaje-antoni-trilla-despedida-decano-medicina.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/30/6abd73f66631b.r_d.2581-1428-890.jpeg",
@@ -10,30 +34,6 @@
       "titulo": "Un pequeño dinosaurio con plumas hallado en China aporta nuevos datos sobre el origen de las aves",
       "link": "https://www.lavanguardia.com/ciencia/20260929/11646515/pequeno-dinosaurio-plumas-hallado-china-aporta-nuevos-datos-sobre-origen-aves.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/29/6abb7bed74a66.r_d.1570-1774-1470.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Hallado un talón de Aquiles de las metástasis que se podría atacar con fármacos",
-      "link": "https://www.lavanguardia.com/ciencia/20260928/11645662/hallado-talon-aquiles-metastasis-atacar-farmacos.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2022/11/08/636a819cd91e9.r_d.2800-1575-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "SpaceX pone en órbita terrestre por primera vez el Starship, en su decimocuarta prueba",
-      "link": "https://www.lavanguardia.com/ciencia/20260928/11645928/spacex-pone-orbita-terrestre-primera-vez-starship-decimocuarta-prueba.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tomar entre dos y cuatro tazas de café al día es bueno para el corazón",
-      "link": "https://www.lavanguardia.com/ciencia/20260928/11643648/tomar-dos-cuatro-tazas-cafe-dia-bueno-corazon.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2022/01/17/61e53f6fc75da.r_d.612-330-3741.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Enseñar a nuestras defensas a proteger el cerebro del párkinson?",
-      "link": "https://www.lavanguardia.com/ciencia/20260928/11643032/ensenar-defensas-proteger-cerebro-parkinson.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/04/02/69ce5218f2658.jpeg",
       "tipo": "imagen"
     }
   ]

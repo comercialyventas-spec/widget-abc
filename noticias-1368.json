@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Christina Koch, primera mujer en viajar hasta la Luna: “Veíamos destellos azules cuando cerrábamos los ojos”",
+      "link": "https://elpais.com/ciencia/2026-10-02/christina-koch-primera-mujer-en-viajar-hasta-la-luna-veiamos-destellos-azules-cuando-cerrabamos-los-ojos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/YA2ZNMRMWZDX7LHMTBSGJ7AYLI.jpg?auth=6931512ee673a6fdcb6ee26e409c1e14a8cf3c415d5dc4119f5602790c647186",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La ciencia confirma que la terapia más segura para tratar la menopausia es la que escasea en España",
+      "link": "https://elpais.com/ciencia/2026-10-02/la-ciencia-confirma-que-la-terapia-mas-segura-para-tratar-la-menopausia-es-la-que-escasea-en-espana.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/AGRF56UVMNBUTOYF6QO7CUXEKY.jpg?auth=20f085397a5a45d99d2ccc48a10dd6c9c8f418e77d8a2f99d6a055f509362c16",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Google lanza su primer satélite para llevarse los centros de datos al espacio",
       "link": "https://elpais.com/tecnologia/2026-10-01/google-lanza-su-primer-satelite-para-llevarse-los-centros-de-datos-al-espacio.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/RLKZF5Y2RVKJFNPGSTR4B5XA6Y.jpg?auth=2a7d73149d0db9f5c3fad308ef6addcf437594c0a5a1ac6119ca7217ec41db34",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Por qué las mujeres tienen más dolor: la ciencia empieza a destapar la “inexplorada caja negra” de este síntoma",
+      "link": "https://elpais.com/salud-y-bienestar/2026-10-01/por-que-las-mujeres-tienen-mas-dolor-la-ciencia-empieza-a-destapar-la-inexplorada-caja-negra-de-este-sintoma.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/LKJ6YG2LWBFITL7HUEOPJ4FRIY.jpg?auth=4101315c776700e2cb50a505a1ac739f0d6bf3973ba9c6d8e27d721ca79373fe",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "Claves de la crisis de los medicamentos para la menopausia: qué falta, cuándo vuelve y qué alternativas hay",
       "link": "https://elpais.com/sociedad/2026-10-01/claves-de-la-crisis-de-los-medicamentos-para-la-menopausia-que-falta-cuando-vuelve-y-que-alternativas-hay.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/DYAFOGRN6ZBNZKIZW4HBBTTXLY.jpg?auth=f6b606d7fb5878ad73534837b57cf7e61734bcd9a38921f6807dbd8a7db429a8",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El secreto de las alas de las mariposas: cuanto más llamativas, más difícil es cazarlas",
-      "link": "https://elpais.com/ciencia/2026-09-30/el-secreto-de-las-alas-de-las-mariposas-cuanto-mas-llamativas-mas-dificil-es-cazarlas.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260930/1220336_145114_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una expedición hispano-argentina viajará a los Andes para comprobar si es real un geoglifo localizado por Google Earth",
-      "link": "https://elpais.com/ciencia/2026-09-30/una-expedicion-hispano-argentina-viajara-a-los-andes-para-comprobar-si-es-real-un-geoglifo-localizado-por-google-earth.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/AYO2KL6OOFDXXGV4MTFJB525SU.png?auth=5d3bf1b90469ba164a4923cf1e256582df211411394b77e5fbfe62999c929676",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una nueva especie de dinosaurio plumífero sugiere que distintas especies conquistaron el vuelo por separado",
-      "link": "https://elpais.com/ciencia/2026-09-29/una-nueva-especie-de-dinosaurio-plumifero-sugiere-que-distintas-especies-conquistaron-el-vuelo-por-separado.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/YIHS54A6TRCRNHPZBIR2I2JY6M.jpg?auth=83efd8a3cc3e412842ba8d9322a3551efd936557f81f881e28673834014bc576",
       "tipo": "imagen"
     }
   ]

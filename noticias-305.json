@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Ferrari Hypersail establece su base en Livorno",
+      "link": "https://www.abc.es/deportes/vela/vela-oceanica/ferrari-hypersail-establece-base-livorno-20261002113417-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/02/Base%20Ferrari-RMK6WrUBML7eXez5YEJXZcM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Ibiza JoySail anuncia nuevas fechas para 2027",
+      "link": "https://www.abc.es/deportes/vela/vela-crucero/ibiza-joysail-anuncia-nuevas-fechas-2027-20261001171504-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/01/260918%20Ibiza%20JoySail-RKvWQuqmrhr0RTqytVuFklI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La vela y el piragüismo comparten protagonismo en Vigo y Castrelo",
       "link": "https://www.abc.es/deportes/vela/otros-derroteros/vela-piraguismo-comparten-protagonismo-vigo-castrelo-20261001123633-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/01/Presentacion%20Semana%20Abanca-RE5o9eE1mCJceDHGKGCzEbL-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Lamadrid-Sweeney. ¿Y tú, de quién eres?",
       "link": "https://www.abc.es/deportes/vela/opinion/marc-bernad-suelves-lamadridsweeney-20260928191905-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/28/Pilar%20Lamadrid-RBo4Sqj8cl5kl4a7BNhDN3I-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Palma se incorpora al nuevo circuito internacional de la clase ORC 0",
-      "link": "https://www.abc.es/deportes/vela/vela-crucero/palma-incorpora-nuevo-circuito-internacional-clase-orc-20260928123900-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/28/ORC%20Copa%20del%20Rey-R4zaJc9DqGE3WA1VMvPzWpM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Luna Rossa vuelve a mandar en Nápoles y La Roche-Posay resiste a dos vuelcos",
-      "link": "https://www.abc.es/deportes/vela/copa-america/luna-rossa-vuelve-mandar-napoles-rocheposay-resiste-20260927195311-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/27/Final%20Napoles%20preregata-RLvmWNBaVCMBIA0sbahWTNO-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

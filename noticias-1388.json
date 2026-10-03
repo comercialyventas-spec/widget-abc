@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Quatre llibres per conèixer el Brasil davant unes eleccions decisives",
+      "link": "https://elpais.com/quadern/literatura/2026-10-03/quatre-llibres-per-coneixer-el-brasil-davant-unes-eleccions-decisives.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QI3EYYKKJ5NLDJBYY6SFM4CHFM.jpg?auth=c2d2ea61dc1c0921b1aa18660ee9d16df1428a33f345f8d5dc8041a4ac2047d4",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La passió crítica de Dolors Oller",
+      "link": "https://elpais.com/quadern/2026-10-02/la-passio-critica-dolors-oller.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/I7N2TRIDZJCUPDE3PSLBW5G7NU.jpg?auth=fe3ab8316985cfef222640984274955a5c057630d0c35785be183c3be64cfd51",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La ucronia de la literatura",
+      "link": "https://elpais.com/quadern/literatura/2026-10-02/la-ucronia-de-la-literatura.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/MKXQ454GZNDY5LFQWEQNZJXP6Q.JPG?auth=ed4e8919f7f4b92b67be7d37e111f5512d915c29002344ec9678b1b6e9aa472b",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Sandra Bestraten: “Accedir a la Sagrada Família des de la Diagonal ajudaria a reduir l’impacte del turisme al barri”",
+      "link": "https://elpais.com/quadern/art-i-arquitectura/2026-10-02/sandra-bestraten-accedir-a-la-sagrada-familia-des-de-la-diagonal-ajudaria-a-reduir-limpacte-del-turisme-al-barri.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/P4LH7M3JMRCAPISB3OZHKLTGOI.JPG?auth=8aed9e30299011c3251f92a0cb4ac181a1859d813985e30ce400414a274d79e3",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Les veus “incòmodes” de la rereguarda republicana",
       "link": "https://elpais.com/quadern/2026-10-01/les-veus-incomodes-de-la-rereguarda-republicana.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/DCPXA7JY3BDHNHHM3NAVXYXDE4.JPG?auth=23f9bd1b62ef8a8ac6a8889fc8b806c3424184440b985e4ebd6a9c08a78ffe4c",
@@ -10,30 +34,6 @@
       "titulo": "La singular guia de viatges de Flavia Company",
       "link": "https://elpais.com/quadern/literatura/2026-10-01/la-singular-guia-de-viatges-de-flavia-company.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/HZ4BN62TTRHAVEPOTLZYED6LU4.jpg?auth=67a871a38a6e6965be42be2ed5f8d3cb519fdad5c07ebf0b4849ca079f7b9fea",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Els franctiradors de Barcelona",
-      "link": "https://elpais.com/quadern/literatura/2026-10-01/els-franctiradors-de-barcelona.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/T2657ZJHANGIVDJXOMANBDDSTE.JPG?auth=3fb20ffedee234a165b4d8e7993ab98a550498d7126c8a043427ddf5f7d1af43",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Què sabien els grecs sobre la península Ibèrica?",
-      "link": "https://elpais.com/quadern/literatura/2026-09-30/que-sabien-els-grecs-sobre-la-peninsula-iberica.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/V5UQ42IGUJGW3O25C363QBRLI4.JPG?auth=feaaa9322ea971a6c76384353439e0b1d1adb9700b5e86c89b98cb6a7bc0842d",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El conflicte endimoniat sobre la llengua",
-      "link": "https://elpais.com/quadern/literatura/2026-09-29/el-conflicte-endimoniat-sobre-la-llengua.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/GNPN4Q43WRFGJCWCFEUQVYFGKE.JPG?auth=b357db4d672ca2082f9a8166e78cde459552ae3b364f8b1fb6e6f09713bf2159",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Anna Netrebko travessa el purgatori escènic de Shirin Neshat i arriba al paradís al Liceu",
-      "link": "https://elpais.com/quadern/musica/2026-09-29/anna-netrebko-travessa-el-purgatori-escenic-de-shirin-neshat-i-arriba-al-paradis-al-liceu.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/5ZUKV7HSVJHDTJ64LTM3CZZY5I.JPEG?auth=5b8f6369e50b2c625e90ed9416941b05a91959f69cc364bb6a2b27fc21b991e6",
       "tipo": "imagen"
     }
   ]

@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "Ismael Galancho, nutricionista de Messi: «Es un error no introducir apenas proteína en el desayuno. También lo es meterla en cada comida»",
-      "link": "https://www.abc.es/bienestar/alimentacion/ismael-galancho-nutricionista-messi-error-introducir-apenas-20261001153217-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/10/01/newspaint-1790690370411-1200x840-RpGl7xM8rvdh2VajzqFvfAO-1200x840@diario_abc.jpg",
+      "titulo": "Sebastián La Rosa, médico especialista en longevidad: «Los carbohidratos son un error tras el ayuno intermitente»",
+      "link": "https://www.abc.es/bienestar/alimentacion/sebastian-rosa-medico-especialista-longevidad-carbohidratos-error-20261003100000-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/noticias/2025/09/28/sebastian-larosa-carbohidraos-k30-U301990017239RYD-1200x840@diario_abc.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Qué tendrá el boniato que se ha colado en nuestras cocinas?",
+      "link": "https://www.abc.es/bienestar/alimentacion/boniato-colado-cocinas-20261002011711-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/10/02/glen-hayoge-k0MigzUz-vI-unsplash-RvkVw3u6L0Alb0gokK1khMK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Alexandre Olmos, médico: «El brócoli es un superalimento que ayuda a nuestro cuerpo a defendernos de enfermedades tan importantes como el cáncer»",
+      "link": "https://www.abc.es/bienestar/alimentacion/alexandre-olmos-medico-brocoli-superalimento-ayuda-cuerpo-20261002170130-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/10/02/brocoli-medico-Ry8MCxoDo4t8PIrJTeCHkfL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Mario Sánchez, tecnólogo de alimentos: «Guardar arroz o pasta cocinados más de 24 horas puede aumentar el riesgo de intoxicación»",
+      "link": "https://www.abc.es/bienestar/alimentacion/mario-sanchez-tecnologo-alimentos-vez-cocinados-arroz-20261002110309-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/10/02/arroz-tecnologo-RTXUYhHejmPqMAa0Ro6YVWO-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -13,27 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "¿Qué es la lipoproteína (a) y por qué cada vez se pide más?",
-      "link": "https://www.abc.es/bienestar/alimentacion/lipoproteina-vez-pide-20260929010404-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/09/29/e1-RL3ods45OvrGNFuu24tEqMM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Blanca García-Orea, nutricionista: «Si no tienes ganas de comer salado en el desayuno y solo quieres dulce, no tienes hambre, tienes apetito»",
-      "link": "https://www.abc.es/bienestar/alimentacion/blanca-garciaorea-nutricionista-ganas-comer-salado-desayuno-20260929054500-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/09/29/orea-desayuno-kGHE-U301934263572hNE-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ángela Quintas, nutricionista de Mario Casas: «A la gente le encanta prohibir. Ahora todo es malo, como el azúcar. Si comes bien, puedes ponértelo en el café»",
-      "link": "https://www.abc.es/bienestar/alimentacion/angela-quintas-nutricionista-mario-casas-gente-encanta-20260928121947-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/09/28/angela-quintas-kLmB-U301929367215SiH-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Es bueno comerse la parte blanca del jamón serrano? Un experto gastronómico dicta sentencia",
-      "link": "https://www.abc.es/bienestar/alimentacion/bueno-comerse-parte-blanca-jamon-serrano-experto-20260926171919-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/diario_abc/2026/09/24/jamon-k8WF-U301883422738RjC-1200x840@abc.jpg",
+      "titulo": "Pablo Ojeda, nutricionista: «Las dietas antiinflamatorias no existen. El cuerpo se inflama porque es un proceso natural»",
+      "link": "https://www.abc.es/bienestar/alimentacion/pablo-ojeda-nutricionista-dietas-antiinflamatorias-existen-cuerpo-20261001170722-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/10/01/dieta-pablo-RKOMYjgtCSmhiJjfNYKloeJ-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

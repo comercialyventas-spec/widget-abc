@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Ceuta, Marlaska, Robles y Sánchez",
+      "link": "https://www.mediterraneodigital.com/opinion/columnistas-de-opinion/ramiro-grau/invasion-de-ceuta",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/10/marlaska-sanchez.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Liliput en Nueva York, creyéndose Gulliver",
       "link": "https://www.mediterraneodigital.com/opinion/columnistas-de-opinion/ramiro-grau/albares",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/albares.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Canarias, Ceuta y Melilla son España",
       "link": "https://www.mediterraneodigital.com/opinion/columnistas-de-opinion/sigfrid-soria/canarias-ceuta-y-melilla",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/banderas-espanolas.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ceuta, la farsa en el tablero",
-      "link": "https://www.mediterraneodigital.com/opinion/columnistas-de-opinion/jordi-garriga/ceuta",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/9/ceuta.jpg",
       "tipo": "imagen"
     }
   ]

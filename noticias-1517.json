@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "Ven gratis al preestreno de Moscas en Madrid",
-      "link": "https://eldiario.es/socios",
-      "imagen": "https://static.eldiario.es/clip/e4d71d9c-f44a-4fdc-95a7-10767849dc4e_16-9-discover-aspect-ratio_default_0.jpg",
+      "titulo": "Votar con V de vivienda",
+      "link": "https://eldiario.es/blog/el-boletin-del-director/",
+      "imagen": "https://static.eldiario.es/clip/f642543c-d046-4455-ab15-36705cbfea00_16-9-discover-aspect-ratio_default_0_x741y200.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Junts: De la investidura a la disolución",
+      "link": "https://eldiario.es/blog/mano-a-mano/",
+      "imagen": "https://static.eldiario.es/clip/b34db411-ec50-499c-8800-86f77909ce2d_16-9-discover-aspect-ratio_default_0_x378y381.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "No les llames fondos buitre",
+      "link": "https://eldiario.es/caballodenietzsche",
+      "imagen": "https://static.eldiario.es/clip/dadcac27-cb20-45e9-8b61-8ae92392a538_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -16,12 +28,6 @@
       "titulo": "La Constitución es más lista que el constituyente",
       "link": "https://eldiario.es/contracorriente",
       "imagen": "https://static.eldiario.es/clip/4a2c20e7-cdf5-485a-996b-9e68bee4d18b_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los pulpos ganan la batalla, pero no la guerra: por qué es importante prohibir su acuicultura antes de que se produzca",
-      "link": "https://eldiario.es/caballodenietzsche",
-      "imagen": "https://static.eldiario.es/clip/d35a21ce-0c57-4537-92da-ad5040a9575a_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
