@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Comprueba los premios del Sorteo de la Lotería Nacional",
+      "link": "https://www.abc.es/loterias/loteria-nacional/loteria-nacional-hoy-sabado-directo-comprobar-resultados-sorteo-20261003105239-di.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/loterias/2026/08/22/loteria-tres-kdR-U302007947857AMF-758x424@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Resultados de La Bonoloto Triplex y Cuponazo de la Once del lunes viernes, 2 de octubre de 2026",
       "link": "https://www.abc.es/loterias/resultados-sorteos-hoy-viernes-2-octubre-20261002060005-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/plantillas/loterias-diarias/cortadas/loterias-diarias-viernes-758x424@abc.jpg",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/plantillas/loterias-diarias/cortadas/loterias-diarias-viernes-562x315@abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Todos los resultados de las loterías que se celebran hoy martes, 29 de septiembre de 2026: Euromillones, Bonoloto, Triplex y Cuponazo de la Once",
       "link": "https://www.abc.es/loterias/resultados-sorteos-hoy-martes-29-septiembre-20260929060005-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/plantillas/loterias-diarias/cortadas/loterias-diarias-martes-562x315@abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Resultados de La Bonoloto, Triplex y Cuponazo de la Once del lunes lunes, 28 de septiembre de 2026",
-      "link": "https://www.abc.es/loterias/resultados-sorteos-hoy-lunes-28-septiembre-20260928060005-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/plantillas/loterias-diarias/cortadas/loterias-diarias-lunes-562x315@abc.jpg",
       "tipo": "imagen"
     }
   ]
