@@ -1,0 +1,10 @@
+{
+ "id": "4473892400036836697",
+ "blogId": "1272111941988362300",
+ "url": "https://prensainternacionalaliazon.blogspot.com/2026/04/mexico-el-pais.html",
+ "path": "/2026/04/mexico-el-pais.html",
+ "titulo": "MÉXICO EL PAÍS",
+ "fila": null,
+ "contenido": "<div id=\"seccion-mexico-propia\" style=\"min-height: 250px;\">\n  <p style=\"text-align: center; color: #666; font-family: sans-serif; padding: 20px;\">\n    Conectando con el Motor Privado (Sección México)...\n  </p>\n</div>\n\n<script>\n  (function() {\n    // 1. TU MOTOR (El infalible)\n    const MI_MOTOR = \"https://script.google.com/macros/s/AKfycbxTehoGzJL9MT1SvEnV7XNNbpIs0n3XEQd_yFl1aBQdC_ZBPLRhQ3m-wokLZKZtwrIT/exec\"; \n    \n    // 2. URL DEL RSS DE MÉXICO\n    const RSS_URL = \"https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/mexico/portada\"; \n\n    // Llamada al motor\n    fetch(`${MI_MOTOR}?url=${encodeURIComponent(RSS_URL)}`)\n      .then(response => response.text())\n      .then(html => {\n        // Inyectamos el contenido que procesa tu script de Google\n        document.getElementById('seccion-mexico-propia').innerHTML = html;\n      })\n      .catch(err => {\n        console.error(\"Error:\", err);\n        document.getElementById('seccion-mexico-propia').innerHTML = \n          \"<p style='text-align:center; font-family:sans-serif;'>Reintentando conexión con la edición de México...</p>\";\n      });\n  })();\n</script>",
+ "fecha_copia": "2026-10-03T15:43:30.314Z"
+}
