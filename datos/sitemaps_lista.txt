@@ -1,6 +1,6 @@
-# salida | url_del_sitemap | con_imagen|sin_imagen|imagen_opcional
+# salida | url | tipo (con_imagen|sin_imagen|imagen_opcional|workday) | opciones (og_imagen, incluir=REGEX)
 cashfresh-tiendas | https://www.cashfresh.es/portfolio-sitemap.xml | con_imagen
 cashfresh-categorias | https://www.cashfresh.es/category-sitemap.xml | sin_imagen
-alsa-empleo | https://alsa.wd3.myworkdayjobs.com/Alsa/siteMap.xml | imagen_opcional
-cookingsurface-empleo | https://www.cookingsurface.com/awsm_job_openings-sitemap.xml | imagen_opcional
-cookingsurface-cocinas | https://www.cookingsurface.com/tipo-cocina-sitemap.xml | imagen_opcional
+alsa-empleo | https://alsa.wd3.myworkdayjobs.com/Alsa | workday
+cookingsurface-empleo | https://www.cookingsurface.com/awsm_job_openings-sitemap.xml | imagen_opcional | incluir=^https://www\.cookingsurface\.com/empleos/[^/]+/$
+cookingsurface-cocinas | https://www.cookingsurface.com/tipo-cocina-sitemap.xml | imagen_opcional | og_imagen
