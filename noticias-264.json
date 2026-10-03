@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un terremoto de magnitud 3,1 se registra en el mar Mediterráneo entre Cataluña y Baleares",
+      "link": "https://www.abc.es/espana/cataluna/terremoto-magnitud-registra-mar-mediterraneo-cataluna-baleares-20261003204520-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/03/terremoto--RBhgcZeLdsBAdPapSRm3YFL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cataluña envía un es-alert para restringir la movilidad en 20 comarcas ante la amenaza de un «temporal excepcional»",
       "link": "https://www.abc.es/espana/cataluna/cataluna-restringe-movilidad-comarcas-ante-amenaza-temporal-20261003164008-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/03/lluvia-efe-RTm0iyNNkyb072daDSEGbGN-1200x840@diario_abc.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Loles León, sobre su infancia en Barcelona en los años 50: «Vivíamos como 12 personas en una casa de 30 metros cuadrados, había gente que dormía en el sótano»",
       "link": "https://www.abc.es/espana/cataluna/loles-leon-sobre-infancia-barcelona-anos-viviamos-20261003174635-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/30/loles-leon-juventud-R3kTGRFTpVV7nb3wLgktQaO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una legislatura en manos de Puigdemont desde el inicio",
-      "link": "https://www.abc.es/espana/cataluna/legislatura-manos-puigdemont-inicio-20261003012834-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/03/puigdemont09-ReESs54ahZp7j7HVFmkwIiK-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

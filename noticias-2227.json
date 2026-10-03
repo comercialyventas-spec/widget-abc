@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Restricciones de tráfico: avenida Betanzos. Afectada línea 83 de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261003-IC-Avenida-Betanzos.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Concentración en Sor Ángela de la Cruz. Afectadas 2 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261006-C-Sor-Angela-de-la-Cruz.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -27,12 +33,6 @@
     {
       "titulo": "Obras: Joaquín Lorenzo. Afectadas 4 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261005-O-Joaquin-Lorenzo.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Evento deportivo en varios distritos. Afectadas 23 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261004-CR-Corre-por-el-Niño.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

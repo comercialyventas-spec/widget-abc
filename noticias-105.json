@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "ESTAS SON LAS MEJORES AEROLÍNEAS DEL MUNDO DE 2026",
+      "titulo": "DUMBO, EL ÚLTIMO BARRIO DE MODA DE NUEVA YORK",
+      "link": "https://www.lavanguardia.com/magazine/viajes/20261002/11648417/dumbo-ultimo-barrio-moda-nueva-york.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/10/01/6abe37405a6f6.r_d.1063-586.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Estas son las mejores aerolíneas del mundo de 2026 según los viajeros",
       "link": "https://www.lavanguardia.com/magazine/viajes/20261001/11646884/mejores-aerolineas-mundo-2026-segun-viajeros.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2025/03/25/67e28a86e5232.r_d.4187-2417.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2025/03/25/67e28a86e5232.r_d.4187-2417.jpeg",
       "tipo": "imagen"
     },
     {
@@ -19,21 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Consejos imprescindibles para cumplir el sueño de alcanzar el Machu Picchu",
-      "link": "https://www.lavanguardia.com/magazine/viajes/20260929/11643694/consejos-imprescindibles-alcanzar-machu-picchu.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/09/25/6ab653f56f8ab.r_d.1814-990.jpeg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Hampi, la ciudad que deslumbró al mundo",
       "link": "https://www.lavanguardia.com/magazine/viajes/20260924/11641131/hampi-ciudad-india-deslumbro-mundo-raimon-portell.html",
       "imagen": "https://www.lavanguardia.com/files/image_290_300/uploads/2018/11/15/5fa448436f0dd.jpeg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Daroca, la ciudad aragonesa llamada de los 'siete sietes' por su riqueza patrimonial",
-      "link": "https://www.lavanguardia.com/magazine/viajes/20260928/11642240/daroca-aragon-ciudad-siete-sietes-riqueza-patrimonial.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/09/23/6ab3c7dd0ef85.r_d.1024-829.jpeg",
+      "titulo": "Consejos imprescindibles para cumplir el sueño de alcanzar el Machu Picchu",
+      "link": "https://www.lavanguardia.com/magazine/viajes/20260929/11643694/consejos-imprescindibles-alcanzar-machu-picchu.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/09/25/6ab653f56f8ab.r_d.1814-990.jpeg",
       "tipo": "imagen"
     }
   ]
