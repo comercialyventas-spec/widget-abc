@@ -1,0 +1,27 @@
+<div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0Q31aEBur_vsYu6Mi8AvjJn1ofXwQ10IpA0hjZFk2jK495ZaD9F0Oe5T-0LMs0Hv1xr8cdCFm2JP3N4B3PweVnX_zjI6hYWZ9OV1I5pV9dV2CA_eXk0zhvmHUD6NL-KgK_s-87zf4RtVv-EraKcEGAr4IvDmwBw5KYxvZBbgzpk9-Gtc1sZIwNnHW62c/s776/6022-negro_-detalle.webp" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" height="320" data-original-height="776" data-original-width="600" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0Q31aEBur_vsYu6Mi8AvjJn1ofXwQ10IpA0hjZFk2jK495ZaD9F0Oe5T-0LMs0Hv1xr8cdCFm2JP3N4B3PweVnX_zjI6hYWZ9OV1I5pV9dV2CA_eXk0zhvmHUD6NL-KgK_s-87zf4RtVv-EraKcEGAr4IvDmwBw5KYxvZBbgzpk9-Gtc1sZIwNnHW62c/s320/6022-negro_-detalle.webp"/></a></div>
+
+<div class="motor-productos"
+  data-url="https://www.anaisa.es/tienda/#categoria"
+  data-tienda="https://www.anaisa.es/"
+  data-boton="ANAISA.ES"
+  data-blog="ropaycomplementosaliazon"
+  data-campana="anaisa">
+  <p style="text-align:center;color:#999;">Cargando productos... <a href="https://www.anaisa.es/?utm_source=ropaycomplementosaliazon&amp;utm_medium=boton_oficial&amp;utm_campaign=catalogo_anaisa" rel="nofollow" target="_blank">Ver en ANAISA.ES</a></p>
+</div>
+
+<script>
+(function () {
+  if (window.MotorProductos) { window.MotorProductos.iniciarTodos(); return; }
+  if (window.__motorProductosCargando) return;
+  window.__motorProductosCargando = true;
+  var f = "motor/motor-productos-v1.js";
+  var s = document.createElement("script");
+  s.src = "https://cdn.jsdelivr.net/gh/comercialyventas-spec/widget-abc@main/" + f;
+  s.onerror = function () {
+    fetch("https://raw.githubusercontent.com/comercialyventas-spec/widget-abc/main/" + f)
+      .then(function (r) { return r.text(); })
+      .then(function (c) { var e = document.createElement("script"); e.text = c; document.head.appendChild(e); });
+  };
+  document.head.appendChild(s);
+})();
+</script>
