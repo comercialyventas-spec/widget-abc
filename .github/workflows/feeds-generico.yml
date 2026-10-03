@@ -125,7 +125,8 @@ jobs:
 
             for (const bloque of itemsRaw.slice(0, 6)) {
               const titulo = limpiar(extraerTag(bloque, "title"));
-              let linkTxt = extraerTag(bloque, "link").trim();
+              // 3 oct: algunos RSS (p. ej. diariocritico.com) envuelven el enlace en <![CDATA[...]]>
+              let linkTxt = extraerTag(bloque, "link").replace(/<!\[CDATA\[/g, "").replace(/\]\]>/g, "").trim();
               if (!linkTxt && esAtom) linkTxt = extraerAtributo(bloque, "link", "href");
               let link = decodeHtml(linkTxt).split("#")[0].split("?")[0];
               if (!titulo || !link) continue;
@@ -137,6 +138,11 @@ jobs:
               if (!imagen) imagen = extraerAtributo(bloque, "media:content", "url");
               if (!imagen) imagen = extraerAtributo(bloque, "media:thumbnail", "url");
               if (!imagen) imagen = extraerImagenInline(bloque);
+              if (!imagen && esAtom) {
+                const cont = decodeHtml(extraerTag(bloque, "content") || extraerTag(bloque, "summary"));
+                const mi = cont.match(/<img[^>]+\bsrc\s*=\s*["']([^"']+)["']/i);
+                if (mi) imagen = mi[1].startsWith("//") ? "https:" + mi[1] : mi[1];
+              }
               imagen = decodeHtml(imagen);
 
               noticias.push({ titulo, link, imagen });
