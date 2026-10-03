@@ -27,11 +27,11 @@ jobs:
           // archivo del workflow | nombre para el aviso | horas maximas sin un run correcto
           const VIGILAR = [
             ['feeds-generico.yml', 'Actualizar feeds genéricos (noticias)', 8],
-            ['rtve-api.yml', 'Noticias RTVE por API', 6],
-            ['sitemaps-a-json.yml', 'Sitemaps a JSON (Cash Fresh, empleo, cocinas, Mercedes, Castro-Vega)', 30],
-            ['catalogos-desde-categorias.yml', 'Catálogos desde páginas de categoría', 30],
-            ['catalogos-desde-paginas.yml', 'Catálogos desde páginas de producto', 30],
-            ['productos-generico.yml', 'productos-generico', 30],
+            ['rtve-api.yml', 'Noticias RTVE por API', 8],
+            ['sitemaps-a-json.yml', 'Sitemaps a JSON (Cash Fresh, empleo, cocinas, Mercedes, Castro-Vega)', 36],
+            ['catalogos-desde-categorias.yml', 'Catálogos desde páginas de categoría', 36],
+            ['catalogos-desde-paginas.yml', 'Catálogos desde páginas de producto', 36],
+            ['productos-generico.yml', 'productos-generico', 36],
           ];
           const api = (p) => fetch(`https://api.github.com/repos/${process.env.REPO}${p}`, {
             headers: { Authorization: 'Bearer ' + process.env.GH_TOKEN, Accept: 'application/vnd.github+json' },
