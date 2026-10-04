@@ -1,51 +1,95 @@
 name: Vigilar workflows (alarma)
 
 # Cada 3 horas mira el último resultado de los workflows que alimentan los blogs.
-# Si alguno ha fallado o lleva demasiado tiempo sin terminar bien, este run sale en ROJO
+# Si alguno lleva demasiado tiempo sin terminar bien, LO RELANZA SOLO (workflow_dispatch),
+# porque GitHub no siempre crea las ejecuciones programadas (cron) cuando va cargado.
+# Si aun así alguno ha fallado o pasa del máximo de horas, este run sale en ROJO
 # (GitHub manda el aviso de "workflow fallido") y explica cuál y por qué.
-# Solo lee; no cambia nada del repositorio.
+# No cambia ningún archivo del repositorio; solo puede lanzar workflows.
+#
+# Como el cron de este mismo vigilante también puede saltarse, se lanza además cada vez
+# que terminan dos workflows de noticias frecuentes (workflow_run). En esas pasadas
+# solo relanza lo atrasado y nunca sale en rojo, para no llenar el correo de avisos.
 on:
   schedule:
     - cron: '17 */3 * * *'
   workflow_dispatch:
+  workflow_run:
+    workflows: ['Actualizar feeds genéricos', 'Actualizar noticias-710']
+    types: [completed]
 
 permissions:
-  actions: read
+  actions: write
   contents: read
+
+concurrency:
+  group: vigilar-workflows
+  cancel-in-progress: false
 
 jobs:
   vigilar:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Comprobar
+      - name: Comprobar y relanzar lo atrasado
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPO: ${{ github.repository }}
+          EVENTO: ${{ github.event_name }}
+          RAMA: ${{ github.event.repository.default_branch }}
         run: |
           node <<'NODE'
-          // archivo del workflow | nombre para el aviso | horas maximas sin un run correcto
+          // archivo del workflow | nombre para el aviso | horas máximas sin un run correcto (alarma) | relanzar a partir de estas horas
           const VIGILAR = [
-            ['feeds-generico.yml', 'Actualizar feeds genéricos (noticias)', 8],
-            ['rtve-api.yml', 'Noticias RTVE por API', 8],
-            ['sitemaps-a-json.yml', 'Sitemaps a JSON (Cash Fresh, empleo, cocinas, Mercedes, Castro-Vega)', 36],
-            ['catalogos-desde-categorias.yml', 'Catálogos desde páginas de categoría', 36],
-            ['catalogos-desde-paginas.yml', 'Catálogos desde páginas de producto', 36],
-            ['productos-generico.yml', 'productos-generico', 36],
+            ['feeds-generico.yml', 'Actualizar feeds genéricos (noticias)', 8, 3],
+            ['rtve-api.yml', 'Noticias RTVE por API', 8, 3],
+            ['sitemaps-a-json.yml', 'Sitemaps a JSON (Cash Fresh, empleo, cocinas, Mercedes, Castro-Vega)', 36, 26],
+            ['catalogos-desde-categorias.yml', 'Catálogos desde páginas de categoría', 36, 26],
+            ['catalogos-desde-paginas.yml', 'Catálogos desde páginas de producto', 36, 26],
+            ['productos-generico.yml', 'productos-generico', 36, 26],
           ];
-          const api = (p) => fetch(`https://api.github.com/repos/${process.env.REPO}${p}`, {
-            headers: { Authorization: 'Bearer ' + process.env.GH_TOKEN, Accept: 'application/vnd.github+json' },
-          }).then((r) => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); });
+          const SOLO_RELANZAR = process.env.EVENTO === 'workflow_run';   // pasadas extra: sin alarma roja
+          const RAMA = process.env.RAMA || 'main';
+          const base = `https://api.github.com/repos/${process.env.REPO}`;
+          const cab = { Authorization: 'Bearer ' + process.env.GH_TOKEN, Accept: 'application/vnd.github+json' };
+          const api = (p) => fetch(base + p, { headers: cab })
+            .then((r) => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); });
+
+          // Relanza un workflow si no hay ya uno en marcha ni se lanzó otro hace menos de 60 min.
+          async function relanzar(archivo) {
+            const d = await api(`/actions/workflows/${archivo}/runs?per_page=5`);
+            const runs = d.workflow_runs || [];
+            if (runs.some((r) => r.status !== 'completed')) return 'ya hay un run en marcha o en cola';
+            if (runs[0] && Date.now() - new Date(runs[0].created_at).getTime() < 60 * 60000) return 'ya se lanzó uno hace menos de 60 min';
+            const r = await fetch(`${base}/actions/workflows/${archivo}/dispatches`, {
+              method: 'POST', headers: { ...cab, 'Content-Type': 'application/json' }, body: JSON.stringify({ ref: RAMA }),
+            });
+            if (r.status !== 204) throw new Error('no se pudo relanzar (HTTP ' + r.status + ')');
+            return 'RELANZADO';
+          }
+
           (async () => {
-            const problemas = [], bien = [];
-            for (const [archivo, nombre, horas] of VIGILAR) {
+            const problemas = [], bien = [], relanzados = [];
+            for (const [archivo, nombre, horas, horasRelanzar] of VIGILAR) {
               try {
                 const d = await api(`/actions/workflows/${archivo}/runs?per_page=10&status=completed`);
                 const runs = (d.workflow_runs || []).filter((r) => r.conclusion !== 'cancelled' && r.conclusion !== 'skipped');
-                if (!runs.length) { problemas.push(`${nombre}: no hay ningún run terminado`); continue; }
                 const ultimo = runs[0];
                 const ok = runs.find((r) => r.conclusion === 'success');
                 const horasOk = ok ? (Date.now() - new Date(ok.updated_at).getTime()) / 3600000 : Infinity;
+
+                // 1) Relanzar si lleva demasiado sin un run correcto (antes de que caduquen catálogos o noticias)
+                if (horasOk > horasRelanzar) {
+                  try {
+                    const res = await relanzar(archivo);
+                    relanzados.push(`${nombre}: ${horasOk === Infinity ? 'sin runs correctos' : horasOk.toFixed(1) + ' h sin run correcto'} → ${res}`);
+                  } catch (e) {
+                    problemas.push(`${nombre}: lleva ${horasOk.toFixed(1)} h sin run correcto y ${e.message}`);
+                  }
+                }
+
+                // 2) Alarma (igual que antes)
+                if (!ultimo) { problemas.push(`${nombre}: no hay ningún run terminado`); continue; }
                 if (ultimo.conclusion !== 'success') {
                   problemas.push(`${nombre}: el último run (${ultimo.updated_at}) terminó en "${ultimo.conclusion}". Mira ${ultimo.html_url}`);
                 } else if (horasOk > horas) {
@@ -57,9 +101,11 @@ jobs:
                 problemas.push(`${nombre}: no se pudo consultar (${e.message})`);
               }
             }
+            if (relanzados.length) console.log('::notice title=Relanzados por atraso::' + relanzados.join(' ### '));
             if (bien.length) console.log('::notice title=Funcionan bien::' + bien.join(' ### '));
-            for (const p of problemas) console.log('::error title=Workflow con problemas::' + p);
-            if (problemas.length) process.exit(1);
-            console.log('Todo bien.');
-          })().catch((e) => { console.log('::error::' + e.message); process.exit(1); });
+            const nivel = SOLO_RELANZAR ? 'warning' : 'error';
+            for (const p of problemas) console.log(`::${nivel} title=Workflow con problemas::` + p);
+            if (problemas.length && !SOLO_RELANZAR) process.exit(1);
+            console.log(problemas.length ? 'Hay problemas (pasada extra: solo aviso).' : 'Todo bien.');
+          })().catch((e) => { console.log('::error::' + e.message); process.exit(SOLO_RELANZAR ? 0 : 1); });
           NODE
