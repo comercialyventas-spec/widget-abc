@@ -1,0 +1,19 @@
+name: Diagnostico catalogos sin copia (temporal, solo lectura)
+
+# Temporal: solo se lanza en la rama de trabajo de Claude. No escribe nada en el repositorio.
+on:
+  push:
+    branches: ['claude/determined-meitner-p31ucd']
+    paths: ['.github/workflows/diagnostico-sin-copia.yml', 'migracion/diagnostico_sin_copia.sh']
+
+permissions:
+  contents: read
+
+jobs:
+  diagnostico:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Diagnostico
+        run: bash migracion/diagnostico_sin_copia.sh
