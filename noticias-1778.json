@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El último cajero",
+      "link": "https://www.elplural.com/autonomias/andalucia/ultimo-cajero_800513102",
+      "imagen": "https://www.elplural.com/uploads/s1/50/13/13/4/fachada-de-la-casa-consistorial-de-el-borge-wikipedia_7_480x270.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El temporal golpea con fuerza a Cataluña y mantiene a media España pendiente del cielo",
+      "link": "https://www.elplural.com/sociedad/temporal-golpea-fuerza-cataluna-mantiene-media-espana-pendiente-cielo_800512102",
+      "imagen": "https://www.elplural.com/uploads/s1/50/13/11/3/vecinos-limpian-el-barro-acumulado-en-las-calles-y-casas-a-causa-de-las-lluvias-torrenciales-en-montornes-del-valles-barcelona-europa-press_7_480x270.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Rafa Nadal inaugura el curso 2026-2027 en la Escuela Universitaria UAX",
       "link": "https://www.elplural.com/economia/empresas/rafa-nadal-inaugura-curso-2026-2027-escuela-universitaria-uax_800506102",
       "imagen": "https://www.elplural.com/uploads/s1/24/95/37/9/aspemir-el-holding-familiar-con-el-que-rafa-nadal-penetra-en-cada-vez-mas-negocios-ep_7_480x270.jpeg",
@@ -22,18 +34,6 @@
       "titulo": "Los Javis alzan la voz desde Hollywood por la vivienda: \"De ese lado siempre vamos a estar\"",
       "link": "https://www.elplural.com/extratele/javis-alzan-voz-hollywood-vivienda-ese-lado-siempre-vamos-estar_800498102",
       "imagen": "https://www.elplural.com/uploads/s1/50/12/86/1/los-directores-y-guionista-javier-ambrossi-y-javier-calvo-ep_7_480x270.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ernesto Ekaizer analiza el posible adelanto electoral: \"Hay una buena situación\"",
-      "link": "https://www.elplural.com/extratele/ernesto-ekaizer-analiza-posible-adelanto-electoral-hay-buena-situacion_800495102",
-      "imagen": "https://www.elplural.com/uploads/s1/50/12/84/0/el-periodista-ernesto-ekaizer-malas-lenguas_7_480x270.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Losada apunta a Ayuso y Almeida al reducir el debate de vivienda a cuchillos y hummus: \"No hay nada que contar\"",
-      "link": "https://www.elplural.com/extratele/losada-apunta-ayuso-almeida-reducir-debate-vivienda-cuchillos-hummus-no-hay-nada-contar_800492102",
-      "imagen": "https://www.elplural.com/uploads/s1/50/12/81/9/el-periodista-anton-losada-malas-lenguas_7_480x270.jpeg",
       "tipo": "imagen"
     }
   ]
