@@ -2,3 +2,6 @@
 https://www.adolfodominguez.com/es-es/sitemap_0.xml#paginas | https://www.adolfodominguez.com/es-es/sitemap_0.xml | /es-es/ | 96
 https://catchalot.es/index.php?fc=module&module=lgsitemaps&controller=sitemap&name=product_1_1#paginas | https://catchalot.es/index.php?fc=module&module=lgsitemaps&controller=sitemap&name=product_1_1 | /es/ | 96 | id_desc
 # relanzado a mano 2026-10-04T07:18Z (no se lanzaron los cron del 3 y 4 oct)
+# 4 oct: tiendas InSales (sin products.json ni sitemap con fotos); el generador del NAS no las saca en GitHub
+https://statevenice.com/ | https://statevenice.com/sitemap.xml | /product/ | 96
+https://chernimcherno.com/ | https://chernimcherno.com/sitemap.xml | /product/ | 96

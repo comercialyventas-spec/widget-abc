@@ -25,6 +25,16 @@ def precio_jsonld(p):
         if m: return m.group(1), (c.group(1) if c else '')
     return '', ''
 SIMB = {'EUR': '€', 'USD': 'USD', 'GBP': '£'}
+# Rublos por euro, para escribir los precios en ₽ como el NAS: "16.400 ₽ (≈ 175 €)". Se pide el cambio del día
+# una sola vez; si no se puede, se usa uno aproximado.
+RUB_POR_EUR = None
+def rub_por_eur():
+    global RUB_POR_EUR
+    if RUB_POR_EUR is None:
+        try: RUB_POR_EUR = float(json.loads(get('https://open.er-api.com/v6/latest/EUR'))['rates']['RUB'])
+        except Exception: RUB_POR_EUR = 94.0
+    return RUB_POR_EUR
+def miles(n): return '{:,.0f}'.format(n).replace(',', '.')
 for linea in open(sys.argv[1], encoding='utf-8'):
     if not linea.strip() or linea.startswith('#'): continue
     partes = [x.strip() for x in linea.split('|')]
@@ -59,7 +69,9 @@ for linea in open(sys.argv[1], encoding='utf-8'):
         precio = ''
         if pr:
             precio = pr.replace(',', '.') if re.match(r'^\d+([.,]\d+)?$', pr) else pr
-            try: precio = ('%.2f' % float(precio)).replace('.', ',') + ' ' + SIMB.get(mon or 'EUR', mon or '€')
+            try:
+                if mon == 'RUB': precio = '%s ₽ (≈ %s €)' % (miles(float(precio)), miles(float(precio) / rub_por_eur()))
+                else: precio = ('%.2f' % float(precio)).replace('.', ',') + ' ' + SIMB.get(mon or 'EUR', mon or '€')
             except Exception: pass
         prods.append({'titulo': tit, 'url': u, 'imagen': img, 'precio': precio})
         time.sleep(1.2)
