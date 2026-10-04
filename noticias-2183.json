@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Última hora de la alerta por lluvias en Catalunya, en directo Protección Civil envía un ES Alert ante el riesgo de que los ríos Daró y Ridaura se desborden",
+      "titulo": "Última hora de la alerta por lluvias en Catalunya, en directo Al menos siete centros educativos del Maresme y el Vallès no podrán abrir mañana",
       "link": "https://www.elperiodico.com/es/sociedad/20261004/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f0e569fa-703e-4986-92ff-e7a1be211dd0_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Efectos del cambio climático: así es cómo el calor acumulado en el Mediterráneo ha alimentado el violento temporal que ha sacudido Catalunya",
+      "link": "https://www.elperiodico.com/es/sociedad/20261004/cambio-climatico-calor-mediterraneo-impacto-temporal-cataluna-explicacion-134989885",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/12c98542-eb9f-455a-9778-19f5549ba5af_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Cómo dos sencillos inventos están reduciendo drásticamente la muerte de aves marinas por redes de pesca",
       "link": "https://www.elperiodico.com/es/medio-ambiente/20261003/sencillos-inventos-reduciendo-drasticamente-muerte-134951894",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/5f08b531-25ab-476e-bb45-7ab5dd2601c8_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Por qué no ha habido huracanes en el Atlántico (y no es una noticia tan buena)",
-      "link": "https://www.elperiodico.com/es/sociedad/20261003/sin-huracanes-fenomeno-insolito-motivos-mala-noticia-cambio-climatico-134942108",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f609b01a-2c26-4b7e-a192-bc9b30916b5a_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

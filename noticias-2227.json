@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Supresión de Parada: plaza de Cánovas del Castillo. Afectadas 18 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261004-IC-SP-78-Pza-Canovas-Castillo.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Restricciones de tráfico: avenida Betanzos. Afectada línea 83 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261003-IC-Avenida-Betanzos.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -27,12 +33,6 @@
     {
       "titulo": "Evento deportivo en Arturo Soria. Afectadas 16 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261004-CR-10KM-Ciudad-Lineal.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Obras: Joaquín Lorenzo. Afectadas 4 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261005-O-Joaquin-Lorenzo.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

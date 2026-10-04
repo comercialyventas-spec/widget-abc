@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Mueren dos jóvenes ahogados en una playa de Guardamar del Segura",
+      "link": "https://www.lavanguardia.com/sucesos/20261004/11650678/mueren-dos-jovenes-ahogados-playa-guardamar-segura.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/06/04/684068f8c31b8.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Detenido por atropellar mortalmente a una mujer y darse a la fuga en La Palma",
       "link": "https://www.lavanguardia.com/sucesos/20261004/11650659/detenido-atropello-mortal-mujer-la-palma.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/10/6911b0badc5b5.r_d.338-191-0.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Detenido el presunto autor del incendio de Tuéjar (Valencia) que quemó 850 hectáreas",
       "link": "https://www.lavanguardia.com/local/valencia/20261001/11648738/detenido-presunto-autor-incendio-tuejar-valencia-quemo-850-hectareas.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/19/6aaec8343f615.r_d.1720-1144-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Guardia Civil investiga el secuestro y la agresión a tres jóvenes argelinos en Mallorca",
-      "link": "https://www.lavanguardia.com/sucesos/20261001/11648568/guardia-civil-investiga-secuestro-agresion-tres-jovenes-argelinos-mallorca.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/10/08/68e63d886ea0f.r_d.570-407-0.jpeg",
       "tipo": "imagen"
     }
   ]

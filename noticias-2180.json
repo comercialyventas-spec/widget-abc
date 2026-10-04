@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Cruz Roja atiende a más de 2.000 personas que pasaron la noche en la estación de Sants",
+      "link": "https://www.elperiodico.com/es/tiempo/20261004/cruz-roja-atiende-2-000-personas-sants-134991582",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/197b0bf9-54eb-4fc0-94f9-9cd830489227_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las imágenes más impactantes del temporal en Catalunya: inundaciones y decenas de avisos en l’Hospitalet y área metropolitana",
       "link": "https://www.elperiodico.com/es/tiempo/20261003/temporal-cataluna-lluvias-imagenes-fotos-videos-dv-loc-134964368",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/3c2160d7-6ca6-452f-b701-58487ff413c9_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Los vecinos del Montsià sufren las nuevas inundaciones: \"No estamos preparados para todo esto\"",
       "link": "https://www.elperiodico.com/es/tiempo/20261002/jose-prades-vecino-santa-barbara-no-estamos-preparados-134939430",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/61686ee9-fff8-4fa3-b205-8ddd9fe5bd2f_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Radar meteorológico de Catalunya en directo: consulta cuándo y dónde va a llover hoy en tiempo real",
-      "link": "https://www.elperiodico.com/es/tiempo/20261002/radar-lluvia-barcelona-cataluna-tarragona-tiempo-real-dv-107738359",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/89dd688f-07d9-45a4-b08c-fbebea97a4ac_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

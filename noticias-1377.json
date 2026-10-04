@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La mejor tortilla de patata de España está en La Teulada (Elche)",
+      "link": "https://elpais.com/gastronomia/2026-10-04/la-mejor-tortilla-de-patata-de-espana-esta-en-la-teulada-elche.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NO2MNADSHFEDBBCNZVH6VLTSJA.jpg?auth=db1baac0a2f51767642b38eec490fcd0d6f287d9606a0cf3d4cfbe7f227fdb47",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Menú semanal de El Comidista (5 a 11 de octubre)",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-10-04/menu-semanal-de-el-comidista-5-a-11-de-octubre.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/K5EEEQ43LBFVDP53BPNMHTHROI.JPG?auth=0820c062c00073ab4a54efe2636527d19746625c3ad6631ffd34c03dd872add6",
@@ -28,12 +34,6 @@
       "titulo": "Receta de anchoas con pasta de limón, de Andoni Luis Aduriz",
       "link": "https://elpais.com/gastronomia/2026-10-03/receta-de-anchoas-con-pasta-de-limon-de-andoni-luis-aduriz.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/XBSQARDT4BBGTKICKO7N6BJ6CI.jpg?auth=b2ebdebe8d72e945c62bd73ab2d22391b86ae9f3b572d890aca6488fba7b124d",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Aló Comidista: “Mi mujer quiso hacer un pastel con forma de osito y salió esto. ¿Qué falló?”",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-02/alo-comidista-mi-mujer-quiso-hacer-un-pastel-con-forma-de-osito-y-salio-esto-que-fallo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/V34WVQSKMJGFJCIKRDNHVWBQTE.png?auth=20e6bfd31d55461b6934788ef42b72eec97ca91f8502e71992a76588ff8f1acd",
       "tipo": "imagen"
     }
   ]

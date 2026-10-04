@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "La Polícia Local de Santander identifica a más participantes en la acampada por la vivienda entre reproches ciudadanos",
+      "titulo": "Crisis de la vivienda",
       "link": "https://www.eldiario.es/cantabria/policia-local-santander-identifica-participantes-acampada-vivienda-reproches-ciudadanos_1_13560792.html",
-      "imagen": "https://static.eldiario.es/clip/4462909c-4a27-4637-aea2-827aa377baa5_facebook-aspect-ratio-1200-675_default_0_x1409y885.jpg",
+      "imagen": "https://static.eldiario.es/clip/b72c6181-bd4b-4ad8-84b4-6fbeca312c13_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El presidente del Colegio de Economistas de Cantabria cuestiona el beneficio de los cruceros en Santander",
+      "link": "https://www.eldiario.es/cantabria/presidente-colegio-economistas-cantabria-pone-cuestion-beneficio-cruceros-santander_1_13549660.html",
+      "imagen": "https://static.eldiario.es/clip/644e481b-54ce-459b-a378-6d9d31c6f4cf_facebook-aspect-ratio-1200-675_default_0_x1067y833.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Cantabristas convoca una manifestación en Villaverde de Pontones para frenar el macrocomplejo turístico de olas artificiales",
       "link": "https://www.eldiario.es/cantabria/cantabristas-convoca-manifestacion-villaverde-pontones-frenar-macrocomplejo-turistico-olas-artificiales_1_13558933.html",
       "imagen": "https://static.eldiario.es/clip/4118d355-2888-438d-8305-3a4fc5361942_16-9-discover-aspect-ratio_default_0_x1048y538.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un único acertante se lleva 28,8 millones de euros del sorteo de Euromillones con un boleto sellado en Cabezón de la Sal",
-      "link": "https://www.eldiario.es/cantabria/unico-acertante-lleva-28-8-millones-euros-sorteo-euromillones-boleto-sellado-cabezon-sal_1_13559757.html",
-      "imagen": "https://static.eldiario.es/clip/b513b034-78d1-4a98-a377-2638d6b40329_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

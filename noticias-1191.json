@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "¿Por qué son tan buenas las verduras?: la respuesta podría estar en una reacción oculta en el intestino",
-      "link": "https://okdiario.com/salud/que-son-tan-buenas-verduras-respuesta-podria-estar-reaccion-oculta-intestino-20391169",
-      "imagen": "https://okdiario.com/img/2026/09/25/dep-3-960x539.jpg",
+      "titulo": "Los latidos del corazón influyen en cómo el cerebro procesa la información",
+      "link": "https://okdiario.com/salud/latidos-del-corazon-influyen-como-cerebro-procesa-informacion-19045306",
+      "imagen": "https://okdiario.com/img/2026/07/02/corazonn-960x539.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El lado íntimo de la enfermedad de Crohn: \"Temes tener una fuga durante el sexo\"",
+      "link": "https://okdiario.com/salud/lado-intimo-enfermedad-crohn-temes-tener-fuga-durante-sexo-20461118",
+      "imagen": "https://okdiario.com/img/2026/10/02/de-3.jpg",
       "tipo": "imagen"
     },
     {
@@ -19,21 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Una herramienta de IA detecta el daño cardiovascular temprano a partir de imágenes de la retina",
-      "link": "https://okdiario.com/salud/herramienta-ia-detecta-dano-cardiovascular-temprano-partir-imagenes-retina-20453396",
-      "imagen": "https://okdiario.com/img/2026/10/01/imagen_recortada-4-3.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Dr. Bernardino Alcázar: Los tratamientos biológicos abren una nueva dimensión en la EPOC",
-      "link": "https://okdiario.com/salud/dr-bernardino-alcazar-tratamientos-biologicos-abren-nueva-dimension-epoc-20369471",
-      "imagen": "https://okdiario.com/img/2026/09/25/entrevista-salud-bernardino-desk.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Azúcar y antibióticos: una combinación que podría dañar más la salud intestinal",
       "link": "https://okdiario.com/salud/azucar-antibioticos-combinacion-que-podria-danar-mas-salud-intestinal-20449353",
       "imagen": "https://okdiario.com/img/2026/10/01/depo-7.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cáncer de mama: identifican 485 sustancias presentes en pesticidas que podrían elevar el riesgo",
+      "link": "https://okdiario.com/salud/cancer-mama-identifican-485-sustancias-presentes-pesticidas-que-podrian-elevar-riesgo-20436569",
+      "imagen": "https://okdiario.com/img/2026/09/21/cancer-mama-inspiracion-profunda-mantenida-1.jpg",
       "tipo": "imagen"
     }
   ]

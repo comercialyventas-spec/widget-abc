@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "Última hora de la alerta por lluvias en Catalunya, en directo Protección Civil envía un ES Alert ante el riesgo de que los ríos Daró y Ridaura se desborden",
+      "titulo": "Última hora de la alerta por lluvias en Catalunya, en directo Al menos siete centros educativos del Maresme y el Vallès no podrán abrir mañana",
       "link": "https://www.elperiodico.com/es/sociedad/20261004/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f0e569fa-703e-4986-92ff-e7a1be211dd0_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Dos detenidos por el linchamiento a un policía en las protestas estudiantiles en Francia",
+      "link": "https://www.elperiodico.com/es/sociedad/20261004/detenidos-linchamiento-policia-protestas-estudiantiles-134993519",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/c08bb419-821d-4f0e-b0be-f704ff2ed809_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Jenny, madre viuda: Te sientes soportando la bola del mundo con tus dos manos y que no se caiga",
+      "link": "https://www.elperiodico.com/es/sociedad/20261004/jenny-madre-viuda-sientes-soportando-134887208",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/984073cd-963b-48b2-8713-2b84021436d1_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Efectos del cambio climático: así es cómo el calor acumulado en el Mediterráneo ha alimentado el violento temporal que ha sacudido Catalunya",
+      "link": "https://www.elperiodico.com/es/sociedad/20261004/cambio-climatico-calor-mediterraneo-impacto-temporal-cataluna-explicacion-134989885",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/12c98542-eb9f-455a-9778-19f5549ba5af_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -13,28 +31,10 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Extremadura activa el plan de inundaciones y eleva a rojo la alerta por lluvias de hasta 120 litros en varias comarcas de Badajoz",
+      "titulo": "Decae la alerta roja en Extremadura y el INUNCAEX baja a situación operativa 0",
       "link": "https://www.elperiodico.com/es/sociedad/20261004/extremadura-activa-plan-inundaciones-eleva-rojo-alerta-badajoz-134984927",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/375df988-1d81-466b-a23f-da74ff4020bc_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El diálogo de padres e hijos, el mejor 'software' de control ante los peligros de internet",
-      "link": "https://www.elperiodico.com/es/sociedad/20261004/dialogo-padres-hijos-mejor-software-134982484",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/98055016-29cc-4d62-91db-4a2eb7def822_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El aguacero causa estragos en el Vallès Oriental y el Maresme, con la caída de muros y un talud de Rodalies en Granollers: \"Nunca habíamos visto nada igual\"",
-      "link": "https://www.elperiodico.com/es/sociedad/20261004/aguacero-causa-estragos-valles-oriental-maresme-lluvias-134980686",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/032ce62a-8dfb-4979-8027-7ad420965626_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una nueva IA detecta en la retina una enfermedad arterial silenciosa asociada a infartos e ictus",
-      "link": "https://www.elperiodico.com/es/sanidad/20261004/ia-detecta-retina-enfermedad-enfermedad-arterial-silenciosa-ictus-infartos-134878448",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/99b37090-90e9-41b8-a52f-7151ee2a86cc_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     }
   ]
 }

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Receta de judías verdes salteadas con tofu",
+      "link": "https://www.publico.es/culturas/recetas/receta-judias-verdes-salteadas-tofu.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/02/6abf8c15e6f12.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los Enemigos: \"El optimismo es un síntoma de enfermedad mental\"",
       "link": "https://www.publico.es/culturas/musica/enemigos-optimismo-sintoma-enfermedad-mental.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/02/6abff37b006db.jpeg",
@@ -19,21 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Sequillo Sonoro, el festival que quiere llenar de música los pueblos del Valle de Sajambre",
-      "link": "https://www.publico.es/culturas/musica/sequillo-sonoro-festival-quiere-llenar-musica-pueblos-valle-sajambre.html",
-      "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/24/6ab513985c853.r_d.795-1270-1800.jpeg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Eduardo Jordá, escritor: \"Bob Dylan ha influido a todos los premios Nobel\"",
       "link": "https://www.publico.es/culturas/eduardo-jorda-escritor-bob-dylan-influido-todos-premios-nobel.html",
       "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/10/02/6abff487dd17b.r_d.1798-712-1057.jpeg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Julio Llamazares, Premio Nacional de Narrativa 2026 por 'El viaje de mi padre'",
-      "link": "https://www.publico.es/culturas/libros/julio-llamazares-premio-nacional-narrativa-2026-viaje-padre.html",
-      "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/10/02/6abfab039a340.r_d.985-573-1406.jpeg",
+      "titulo": "Sequillo Sonoro, el festival que quiere llenar de música los pueblos del Valle de Sajambre",
+      "link": "https://www.publico.es/culturas/musica/sequillo-sonoro-festival-quiere-llenar-musica-pueblos-valle-sajambre.html",
+      "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/24/6ab513985c853.r_d.795-1270-1800.jpeg",
       "tipo": "imagen"
     }
   ]
