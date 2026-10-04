@@ -35,8 +35,11 @@ concurrency:
 jobs:
   vigilar:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 60
     steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: .github/workflows
       - name: Comprobar y relanzar lo atrasado
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -45,6 +48,8 @@ jobs:
           MODO: ${{ github.event.inputs.modo }}
           RAMA: ${{ github.event.repository.default_branch }}
         run: |
+          # Workflows que comparten el grupo de concurrencia widget-abc-git-write (solo cabe 1 en marcha + 1 en espera)
+          export GRUPO=$(grep -lE '^[[:space:]]+group:[[:space:]]+widget-abc-git-write[[:space:]]*$' .github/workflows/*.yml | xargs -n1 basename | paste -sd, -)
           node <<'NODE'
           // archivo del workflow | nombre para el aviso | horas máximas sin un run correcto (alarma) | relanzar a partir de estas horas
           const VIGILAR = [
@@ -73,16 +78,68 @@ jobs:
           const api = (p) => fetch(base + p, { headers: cab })
             .then((r) => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); });
 
+          // ---- Relanzar DE UNO EN UNO: en el grupo compartido solo cabe uno en espera y cada nuevo cancela al anterior.
+          const GRUPO = new Set((process.env.GRUPO || '').split(',').filter(Boolean));
+          const FIN = Date.now() + 50 * 60000;            // no empezar relanzamientos nuevos pasados 50 min
+          const dormir = (ms) => new Promise((r) => setTimeout(r, ms));
+          const EN_ESPERA = ['queued', 'pending', 'waiting', 'requested'];
+          const archivoDe = (run) => (run.path || '').split('/').pop().split('@')[0];
+
+          async function grupoConEspera() {
+            for (const st of EN_ESPERA) {
+              const d = await api(`/actions/runs?status=${st}&per_page=100`);
+              if ((d.workflow_runs || []).some((r) => GRUPO.has(archivoDe(r)))) return true;
+            }
+            return false;
+          }
+          async function esperarHueco() {          // hasta que nadie del grupo esté en espera
+            while (Date.now() < FIN) {
+              if (!(await grupoConEspera())) return true;
+              await dormir(15000);
+            }
+            return false;
+          }
+          async function esperarArranque(archivo, desde) {   // hasta que el run lanzado deje de estar en espera
+            const limite = Math.min(FIN + 10 * 60000, Date.now() + 15 * 60000);
+            while (Date.now() < limite) {
+              await dormir(10000);
+              const d = await api(`/actions/workflows/${archivo}/runs?event=workflow_dispatch&per_page=5`);
+              const run = (d.workflow_runs || []).find((r) => new Date(r.created_at).getTime() >= desde - 15000);
+              if (!run) continue;
+              if (!EN_ESPERA.includes(run.status)) return run;   // in_progress o completed
+            }
+            return null;
+          }
+          async function lanzar(archivo) {
+            const desde = Date.now();
+            const r = await fetch(`${base}/actions/workflows/${archivo}/dispatches`, {
+              method: 'POST', headers: { ...cab, 'Content-Type': 'application/json' }, body: JSON.stringify({ ref: RAMA }),
+            });
+            if (r.status !== 204) throw new Error('no se pudo relanzar (HTTP ' + r.status + ')');
+            return esperarArranque(archivo, desde);
+          }
+
           // Relanza un workflow si no hay ya uno en marcha ni se lanzó otro hace menos de 60 min.
           async function relanzar(archivo) {
             const d = await api(`/actions/workflows/${archivo}/runs?per_page=5`);
             const runs = d.workflow_runs || [];
             if (runs.some((r) => r.status !== 'completed')) return 'ya hay un run en marcha o en cola';
-            if (runs[0] && Date.now() - new Date(runs[0].created_at).getTime() < 60 * 60000) return 'ya se lanzó uno hace menos de 60 min';
+            const ultimoNoCancelado = runs.find((x) => x.conclusion !== 'cancelled');
+            if (ultimoNoCancelado && Date.now() - new Date(ultimoNoCancelado.created_at).getTime() < 60 * 60000) return 'ya se lanzó uno hace menos de 60 min';
             // Si los 3 últimos terminaron en fallo, el workflow está roto (no es que GitHub se saltara el cron):
             // relanzarlo solo repetiría el fallo y las peticiones a la tienda. No se relanza.
             const terminados = runs.filter((x) => x.conclusion !== 'cancelled' && x.conclusion !== 'skipped').slice(0, 3);
             if (terminados.length === 3 && terminados.every((x) => x.conclusion === 'failure')) return 'NO se relanza: sus 3 últimos runs fallaron (revisar el workflow)';
+            if (GRUPO.has(archivo)) {
+              for (let intento = 1; intento <= 2; intento++) {
+                if (!(await esperarHueco())) return 'aplazado a la próxima pasada (grupo ocupado)';
+                const run = await lanzar(archivo);
+                if (!run) return 'RELANZADO (sigue en espera al acabar esta pasada)';
+                if (run.conclusion === 'cancelled') continue;   // lo canceló otro: se intenta una vez más
+                return 'RELANZADO' + (intento > 1 ? ' (al 2º intento)' : '');
+              }
+              return 'cancelado dos veces por GitHub: se reintentará en la próxima pasada';
+            }
             const r = await fetch(`${base}/actions/workflows/${archivo}/dispatches`, {
               method: 'POST', headers: { ...cab, 'Content-Type': 'application/json' }, body: JSON.stringify({ ref: RAMA }),
             });
@@ -101,7 +158,9 @@ jobs:
                 const horasOk = ok ? (Date.now() - new Date(ok.updated_at).getTime()) / 3600000 : Infinity;
 
                 // 1) Relanzar si lleva demasiado sin un run correcto (antes de que caduquen catálogos o noticias)
-                if (horasOk > horasRelanzar) {
+                if (horasOk > horasRelanzar && Date.now() >= FIN) {
+                  relanzados.push(`${nombre}: aplazado a la próxima pasada (tiempo de esta pasada agotado)`);
+                } else if (horasOk > horasRelanzar) {
                   try {
                     const res = await relanzar(archivo);
                     relanzados.push(`${nombre}: ${horasOk === Infinity ? 'sin runs correctos' : horasOk.toFixed(1) + ' h sin run correcto'} → ${res}`);
