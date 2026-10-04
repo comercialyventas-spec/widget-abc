@@ -168,6 +168,46 @@ function revisarCatalogo(url) {
   }
   await Promise.all(Array.from({ length: 4 }, trabajador));
 
+  // ---- 5b. Widgets "en blanco" en GitHub: ¿el post los carga igual por su respaldo? ----
+  // Cada widget prueba antes el NAS y, si falla GitHub, lee el feed directamente desde el navegador
+  // (p. ej. Diario Crítico, que bloquea a GitHub pero no a los lectores). Se abre el post en Chromium
+  // y se cuentan las noticias del widget; si carga, cuenta como "OK por respaldo".
+  const blancos = ids.filter((id) => !id.startsWith('catalogo:') && res[id].sev === 3);
+  if (blancos.length) {
+    let chromium = null;
+    try { ({ chromium } = require('playwright')); } catch (e) { console.log('Sin Playwright: no se comprueban los respaldos en el navegador.'); }
+    if (chromium) {
+      const nav = await chromium.launch();
+      const ctx = await nav.newContext({ userAgent: UA, locale: 'es-ES', timezoneId: 'Europe/Madrid', viewport: { width: 1280, height: 900 } });
+      await ctx.addInitScript(() => { Object.defineProperty(navigator, 'webdriver', { get: () => false }); });
+      for (const id of blancos) {
+        let n = 0;
+        for (const u of usos[id].slice(0, 2)) {
+          const pag = await ctx.newPage();
+          try {
+            await pag.goto(u.post, { waitUntil: 'domcontentloaded', timeout: 60000 });
+            await pag.mouse.move(200, 300); await pag.mouse.move(400, 500);
+            for (let i = 0; i < 20 && !n; i++) {
+              n = await pag.evaluate((wid) => {
+                const c = document.getElementById(wid + '-container') || document.getElementById(wid + '-mini-container');
+                if (!c) return 0;
+                return c.querySelectorAll('.nw-featured, .nw-item, .nwm-item').length || Array.from(c.querySelectorAll('a[href]')).filter((a) => a.textContent.trim().length > 15).length;
+              }, id);
+              if (!n) await pag.waitForTimeout(1500);
+            }
+          } catch (e) { /* el post no abre: se queda como está */ }
+          await pag.close();
+          if (n) break;
+        }
+        if (n) {
+          res[id].sev = 0; res[id].respaldo = n;
+          res[id].problemas.unshift(`OK por respaldo: el post carga ${n} noticias en el navegador aunque no hay copia en GitHub`);
+        }
+      }
+      await nav.close();
+    }
+  }
+
   // ---- 6. Comparación con la semana anterior ----
   let antes = null;
   try { antes = JSON.parse(fs.readFileSync(ESTADO, 'utf8')); } catch (e) { antes = null; }
@@ -213,12 +253,15 @@ function revisarCatalogo(url) {
     '## Nuevos fallos', '', tabla(nuevos), '',
     '## Han empeorado', '', tabla(peores), '',
     '## Siguen mal', '', tabla(siguen), '',
-    '## Han mejorado', '', mejores.length ? mejores.map((id) => `- \`${nombre(id)}\` (antes: ${GRAVEDAD[prev[id].sev]}: ${(prev[id].problemas || []).join('; ')})`).join('\n') : '_Ninguno._', '',
-    '## Bien', '', bien.length ? bien.map((id) => '`' + nombre(id) + '`').join(' · ') : '_Ninguno._', '',
+    '## Han mejorado', '', mejores.length ? mejores.map((id) => `- \`${nombre(id)}\`: ${res[id].respaldo ? res[id].problemas[0] : 'bien'} (antes: ${GRAVEDAD[prev[id].sev]}: ${(prev[id].problemas || []).join('; ')})`).join('\n') : '_Ninguno._', '',
+    '## Bien', '',
+    ...(bien.some((id) => res[id].respaldo) ? ['**OK por respaldo** (sin copia en GitHub, pero el post carga las noticias leyendo el feed desde el navegador o el NAS):', '',
+      ...bien.filter((id) => res[id].respaldo).map((id) => `- \`${nombre(id)}\`: ${res[id].respaldo} noticias en ${postsDe(id)}`), '', 'Resto:', ''] : []),
+    bien.filter((id) => !res[id].respaldo).length ? bien.filter((id) => !res[id].respaldo).map((id) => '`' + nombre(id) + '`').join(' · ') : '_Ninguno._', '',
   ].join('\n');
   fs.mkdirSync('docs', { recursive: true });
   fs.writeFileSync(INFORME, md);
-  const items = {}; ids.forEach((id) => { items[id] = { sev: res[id].sev, problemas: res[id].problemas, posts: usos[id].map((u) => u.post) }; });
+  const items = {}; ids.forEach((id) => { items[id] = { sev: res[id].sev, problemas: res[id].problemas, posts: usos[id].map((u) => u.post) }; if (res[id].respaldo) items[id].respaldo = res[id].respaldo; });
   fs.writeFileSync(ESTADO, JSON.stringify({ fecha: new Date().toISOString(), items }, null, 1));
 
   // ---- 8. Avisos en el run ----
