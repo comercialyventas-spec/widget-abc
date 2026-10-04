@@ -126,7 +126,26 @@ jobs:
           git pull --no-edit origin main || true
 
       - name: Guardar cambios automaticamente
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Actualizar noticias de El Periodico"
-          file_pattern: noticias-1777.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add noticias-1777.json
+
+          if git diff --cached --quiet; then
+            echo "No hay cambios nuevos."
+          else
+            git commit -m "Actualizar noticias de El Periodico"
+            # Igual que feeds-generico.yml: si otro workflow ha escrito antes, traer sus cambios y reintentar
+            ok=0
+            for intento in 1 2 3 4; do
+              if git push; then ok=1; break; fi
+              echo "Push rechazado (intento $intento). Trayendo cambios recientes y reintentando..."
+              git pull --rebase -X theirs origin main || { git rebase --abort || true; }
+              sleep $((intento * 5))
+            done
+            if [ "$ok" != "1" ]; then
+              echo "::error title=No se pudo guardar noticias-1777::El push a GitHub fallo 4 veces seguidas."
+              exit 1
+            fi
+          fi

@@ -46,5 +46,15 @@ jobs:
           git add migracion/backups || true
           if git diff --cached --quiet; then echo "Sin copias nuevas"; exit 0; fi
           git commit -m "Copias de seguridad de posts antes de migrar"
-          git pull --no-edit origin main || true
-          git push
+          # Igual que feeds-generico.yml: si otro workflow ha escrito antes, traer sus cambios y reintentar
+          ok=0
+          for intento in 1 2 3 4; do
+            if git push; then ok=1; break; fi
+            echo "Push rechazado (intento $intento). Trayendo cambios recientes y reintentando..."
+            git pull --rebase -X theirs origin main || { git rebase --abort || true; }
+            sleep $((intento * 5))
+          done
+          if [ "$ok" != "1" ]; then
+            echo "::error title=No se pudo guardar copias de seguridad::El push a GitHub fallo 4 veces seguidas."
+            exit 1
+          fi
