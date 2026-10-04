@@ -307,6 +307,14 @@ function extraerDeColeccionShopify($url, $maxPaginas = 8) {
             if (count($cols) < 250) break;
         }
     }
+    $todos = extraerProductosColeccionShopify($origen, $handle, $maxPaginas);
+    // 4 oct (AÑADIDO): en algunas tiendas (p. ej. Brownie) el nombre original ("skirts") no da productos
+    // y el traducido de la URL ("faldas") sí. Solo se reintenta cuando no ha salido nada.
+    if (empty($todos) && $handle !== $m[3]) { $todos = extraerProductosColeccionShopify($origen, $m[3], $maxPaginas); }
+    return $todos;
+}
+
+function extraerProductosColeccionShopify($origen, $handle, $maxPaginas) {
     $todos = [];
     for ($p = 1; $p <= $maxPaginas; $p++) {
         $j = json_decode((string) descargarUrl($origen . '/collections/' . rawurlencode($handle) . '/products.json?limit=250&page=' . $p), true);
