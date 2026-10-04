@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Rivas instalará cámaras en el cementerio municipal tras un episodio de vandalismo en el mes de abril",
+      "link": "https://www.diarioderivas.es/camaras-videovigilancia-cementerio/",
+      "imagen": "https://www.diarioderivas.es/wp-content/uploads/2026/07/Cementerio-1080x675.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Detenido un individuo en Rivas tras quemar varios contenedores en el paseo de Capa Negra",
       "link": "https://www.diarioderivas.es/detenido-rivas-quemar-contenedores-capa-negra/",
       "imagen": "https://www.diarioderivas.es/wp-content/uploads/2026/09/quema-contenedores-capa-negra-1080x675.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Un detenido en Rivas en el marco de una operación contra el tráfico de cocaína",
       "link": "https://www.diarioderivas.es/detenido-rivas-operacion-trafico-cocaina/",
       "imagen": "https://www.diarioderivas.es/wp-content/uploads/2026/08/La-Policia-Nacional-desarticula-una-organizacion-criminal-1-1080x675.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Desarticulados dos grupos criminales dedicados al robo de viviendas en Rivas y otra docena de municipios",
-      "link": "https://www.diarioderivas.es/grupos-criminales-robo-de-viviendas/",
-      "imagen": "https://www.diarioderivas.es/wp-content/uploads/2026/08/Guardia-Civil-1080x675.jpg",
       "tipo": "imagen"
     }
   ]

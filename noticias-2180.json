@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El temporal deja dos muertos y graves daños en infraestructuras tras unas lluvias históricas en Catalunya",
+      "link": "https://www.elperiodico.com/es/tiempo/20261004/temporal-deja-muertos-graves-danos-lluvias-historicas-catalunya-134995071",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6646264c-2c10-453a-9ce9-b6ff8ff13a7e_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cruz Roja atiende a más de 2.000 personas que pasaron la noche en la estación de Sants",
       "link": "https://www.elperiodico.com/es/tiempo/20261004/cruz-roja-atiende-2-000-personas-sants-134991582",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/197b0bf9-54eb-4fc0-94f9-9cd830489227_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Tiempo en Catalunya hoy sábado: El Meteocat extiende los avisos por lluvias a todo el litoral",
       "link": "https://www.elperiodico.com/es/tiempo/20261002/tiempo-cataluna-hoy-sabado-3-de-octubre-lluvias-meteocat-temperaturas-dv-loc-134941193",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/e82519ef-022d-429b-91b4-f0a837850daf_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los vecinos del Montsià sufren las nuevas inundaciones: \"No estamos preparados para todo esto\"",
-      "link": "https://www.elperiodico.com/es/tiempo/20261002/jose-prades-vecino-santa-barbara-no-estamos-preparados-134939430",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/61686ee9-fff8-4fa3-b205-8ddd9fe5bd2f_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

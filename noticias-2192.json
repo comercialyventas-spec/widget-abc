@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Todas las victorias son de Claudia Pina",
+      "link": "https://www.elperiodico.com/es/deportes/20261004/victorias-son-claudia-pina-134998146",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ebe10de4-72bd-4d3f-a188-76c1e1b9bac7_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Barça estrena el casillero de victorias como visitante",
       "link": "https://www.elperiodico.com/es/deportes/20261002/barca-estrena-casillero-victorias-visitante-134940991",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/eddd3a41-ea9e-4277-8d82-085926100539_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Xavi Pascual sabe contener a un Barça todavía tierno",
       "link": "https://www.elperiodico.com/es/deportes/20260929/xavi-pascual-contener-barca-todavia-134810651",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/79ade6ac-3d48-43fc-a3b9-cb808f3e45d3_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Manel del Río deja de ser el director general del FC Barcelona",
-      "link": "https://www.elperiodico.com/es/deportes/20260929/manel-del-rio-director-general-fc-barcelona-dimision-134793981",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/bc98d058-1543-46a2-a248-e0f3e3daa9f4_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

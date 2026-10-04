@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La cara oculta del éxito de Starship: Musk deja fuera de juego a la NASA con su plan para dominar el cielo",
+      "link": "https://elpais.com/ciencia/2026-10-04/la-cara-oculta-del-exito-de-starship-musk-deja-fuera-de-juego-a-la-nasa-con-su-plan-para-dominar-el-cielo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/E6VW3QRS6RFAJIIIB7FZMF6S2Q.png?auth=c96fd2620c109c190d97b57e88d3cfaefa0c6cbc01593d11874d713c0b592691&width=1200",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Christina Koch, primera mujer en viajar hasta la Luna: “Veíamos destellos azules cuando cerrábamos los ojos”",
       "link": "https://elpais.com/ciencia/2026-10-02/christina-koch-primera-mujer-en-viajar-hasta-la-luna-veiamos-destellos-azules-cuando-cerrabamos-los-ojos.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/OBKZEAWUKBITXKF7ISL6C3RC7U.jpg?auth=0e0c966bb160b17e34d710413354f7707b8ca297f2fc19260e25c7899dbf1292&width=1200",
@@ -9,31 +15,25 @@
     {
       "titulo": "La ciencia confirma que la terapia más segura para tratar la menopausia es la que escasea en España",
       "link": "https://elpais.com/ciencia/2026-10-02/la-ciencia-confirma-que-la-terapia-mas-segura-para-tratar-la-menopausia-es-la-que-escasea-en-espana.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/AGRF56UVMNBUTOYF6QO7CUXEKY.jpg?auth=20f085397a5a45d99d2ccc48a10dd6c9c8f418e77d8a2f99d6a055f509362c16&width=1200",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/AGRF56UVMNBUTOYF6QO7CUXEKY.jpg?auth=20f085397a5a45d99d2ccc48a10dd6c9c8f418e77d8a2f99d6a055f509362c16&width=414&height=233&smart=true",
       "tipo": "imagen"
     },
     {
       "titulo": "Google lanza su primer satélite para llevarse los centros de datos al espacio",
       "link": "https://elpais.com/tecnologia/2026-10-01/google-lanza-su-primer-satelite-para-llevarse-los-centros-de-datos-al-espacio.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/RLKZF5Y2RVKJFNPGSTR4B5XA6Y.jpg?auth=2a7d73149d0db9f5c3fad308ef6addcf437594c0a5a1ac6119ca7217ec41db34&width=414&height=233&focal=2949%2C1637",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RLKZF5Y2RVKJFNPGSTR4B5XA6Y.jpg?auth=2a7d73149d0db9f5c3fad308ef6addcf437594c0a5a1ac6119ca7217ec41db34&width=1200",
       "tipo": "imagen"
     },
     {
       "titulo": "Por qué las mujeres tienen más dolor: la ciencia empieza a destapar la “inexplorada caja negra” de este síntoma",
       "link": "https://elpais.com/salud-y-bienestar/2026-10-01/por-que-las-mujeres-tienen-mas-dolor-la-ciencia-empieza-a-destapar-la-inexplorada-caja-negra-de-este-sintoma.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/LKJ6YG2LWBFITL7HUEOPJ4FRIY.jpg?auth=4101315c776700e2cb50a505a1ac739f0d6bf3973ba9c6d8e27d721ca79373fe&width=1200",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una fábrica de tejidos vivos: células impresas para crear desde médula ósea hasta carne",
-      "link": "https://elpais.com/tecnologia/2026-10-01/una-fabrica-de-tejidos-vivos-celulas-impresas-para-crear-desde-medula-osea-hasta-carne.html",
       "imagen": "",
       "tipo": ""
     },
     {
-      "titulo": "Claves de la crisis de los medicamentos para la menopausia: qué falta, cuándo vuelve y qué alternativas hay",
-      "link": "https://elpais.com/sociedad/2026-10-01/claves-de-la-crisis-de-los-medicamentos-para-la-menopausia-que-falta-cuando-vuelve-y-que-alternativas-hay.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/DYAFOGRN6ZBNZKIZW4HBBTTXLY.jpg?auth=f6b606d7fb5878ad73534837b57cf7e61734bcd9a38921f6807dbd8a7db429a8&width=414&height=311&smart=true",
+      "titulo": "Una fábrica de tejidos vivos: células impresas para crear desde médula ósea hasta carne",
+      "link": "https://elpais.com/tecnologia/2026-10-01/una-fabrica-de-tejidos-vivos-celulas-impresas-para-crear-desde-medula-osea-hasta-carne.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ZGHM4SSYOJBW3BLYNQSAYKOJ5A.jpg?auth=893770164abef59fb8780ed3b2dffce1f007d60578715c658b4e16b4eddf3ae8&width=414&height=311&focal=4570%2C2586",
       "tipo": "imagen"
     }
   ]

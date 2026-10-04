@@ -1,7 +1,13 @@
 {
   "noticias": [
     {
-      "titulo": "Última hora de la alerta por lluvias en Catalunya, en directo Al menos siete centros educativos del Maresme y el Vallès no podrán abrir mañana",
+      "titulo": "Los Castellers de Vilafranca vuelven a coronarse reyes de los castells en el mejor Concurs de la historia",
+      "link": "https://www.elperiodico.com/es/tarragona/20261004/castellers-vilafranca-reyes-mejor-concurs-castells-tarragona-historia-135000738",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8bb637a2-ffd8-4b96-b25e-c909da1c0c95_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Última hora de la alerta por lluvias en Catalunya, en directo Al menos ocho centros educativos del Maresme y el Vallès no podrán abrir mañana",
       "link": "https://www.elperiodico.com/es/sociedad/20261004/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f0e569fa-703e-4986-92ff-e7a1be211dd0_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
@@ -29,12 +35,6 @@
       "link": "https://www.elperiodico.com/es/sociedad/20261004/mar-sant-antoni-calonge-tine-negro-ceniza-incendio-gavarres-134989581",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f0e569fa-703e-4986-92ff-e7a1be211dd0_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
-    },
-    {
-      "titulo": "Decae la alerta roja en Extremadura y el INUNCAEX baja a situación operativa 0",
-      "link": "https://www.elperiodico.com/es/sociedad/20261004/extremadura-activa-plan-inundaciones-eleva-rojo-alerta-badajoz-134984927",
-      "imagen": "",
-      "tipo": ""
     }
   ]
 }

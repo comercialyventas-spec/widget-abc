@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "¿Aún es sexy Rod Stewart?",
+      "link": "https://www.lavanguardia.com/cultura/20261004/11650927/aun-sexy-rod-stewart.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Vengadores y hobbits se dan cita en el San Diego Comic-Con de Málaga",
       "link": "https://www.lavanguardia.com/cultura/20261004/11650745/vengadores-hobbits-dan-cita-san-diego-comic-malaga.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/04/6ac28c85c6851.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/04/6ac28c85c6851.r_d.1095-835-0.jpeg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "La fascinación de la diferencia",
       "link": "https://www.lavanguardia.com/cultura/20261004/11650267/fascinacion-diferencia.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/03/6ac1206ecebe2.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘Into the wild’",
-      "link": "https://www.lavanguardia.com/cultura/20261004/11650289/into-the-wild.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/03/6ac130c083113.jpeg",
       "tipo": "imagen"
     }
   ]
