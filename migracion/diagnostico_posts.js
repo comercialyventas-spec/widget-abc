@@ -7,6 +7,7 @@ const { chromium } = require('playwright');
   for (const url of urls) {
     for (const gesto of [false, true]) {
       const ctx = await nav.newContext({ userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36', locale: 'es-ES', timezoneId: 'Europe/Madrid', viewport: { width: 1280, height: 900 } });
+      await ctx.addInitScript(() => { Object.defineProperty(navigator, 'webdriver', { get: () => false }); });
       const pag = await ctx.newPage();
       const fuentes = new Set();
       pag.on('response', r => { const u = r.url(); if (/jsdelivr|githubusercontent|synology|script\.google|allorigins/.test(u) && !/motor-productos/.test(u)) fuentes.add(u.replace(/\?.*/, '').replace(/^https:\/\//, '').slice(0, 90) + ' ' + r.status()); });
