@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "En la frontera",
+      "link": "https://www.publico.es/opinion/vinetas/frontera.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/01/6abe5f2c8a945.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El buitre feroz",
       "link": "https://www.publico.es/opinion/vinetas/buitre-feroz.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/29/6abbe8610ef4c.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Hamlet 2.0",
       "link": "https://www.publico.es/opinion/vinetas/hamlet-2-0.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/20/6aafd9acbb8bb.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El empujón",
-      "link": "https://www.publico.es/opinion/vinetas/empujon-1.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/17/6aac0a8f6e045.jpeg",
       "tipo": "imagen"
     }
   ]

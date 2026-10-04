@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¿Por qué Shakira sigue aquí?",
+      "link": "https://elpais.com/podcasts/hoy-en-el-pais/2026-10-04/por-que-shakira-sigue-aqui.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/Y62WKJJTGJGS7J5XH43AJBBMBI.JPG?auth=7d2f2f189b927b37f2e3029701940c0b77b45f4994c9e140b537ddd0b19047cb",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La cultura es mejor cuando se comparte",
       "link": "https://elpais.com/podcasts/2026-10-02/la-cultura-es-mejor-cuando-se-comparte.html",
       "imagen": "https://img.asmedia.epimg.net/resizer/v2/5RFHVXBUK5BPRBKHV4KRQL74OU.png?auth=3e875ac22960247144fd1a930c123789563d74315612a6fd6ec0d3c7489d62e0",
@@ -28,12 +34,6 @@
       "titulo": "Ciro Gómez Leyva: “Es un gran momento para el periodismo mexicano”",
       "link": "https://elpais.com/mexico/2026-09-29/ciro-gomez-leyva-es-un-gran-momento-para-el-periodismo-mexicano.html",
       "imagen": "https://vdmedia.elpais.com/elpaistop/20269/29/1790645638_still.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Hasta dónde llegará el decreto de vivienda?",
-      "link": "https://elpais.com/podcasts/hoy-en-el-pais/2026-09-29/hasta-donde-llegara-el-decreto-maricarmen.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/6VV32M4W6NE4ZF5XUCY3Q26E7A.png?auth=3ec129113a313bda39d7abd02285e8887e30d92ce75dc359047e05ad95827f93",
       "tipo": "imagen"
     }
   ]

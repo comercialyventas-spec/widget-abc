@@ -1,13 +1,25 @@
 {
   "noticias": [
     {
+      "titulo": "Vuelos cancelados y retrasos de hasta cuatro horas en el aeropuerto de Barcelona por el temporal",
+      "link": "https://www.publico.es/sociedad/vuelos-cancelados-retrasos-cuatro-horas-aeropuerto-barcelona-temporal.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/03/6ac143773113f.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las azoteas de Barcelona como un \"bien de utilidad pública\": así podrían utilizarse para cubrir buena parte del consumo eléctrico doméstico de la ciudad",
+      "link": "https://www.publico.es/sociedad/m-ambiente/azoteas-barcelona-bien-utilidad-publica-asi-podrian-utilizarse-cubrir-buena-parte-consumo-electrico-domestico-ciudad.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2025/07/09/686e176dcff14.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Catalunya envía un Es-Alert para suspender la movilidad desde las 20.00 horas por tormentas",
       "link": "https://www.publico.es/sociedad/catalunya-envia-alert-suspender-movilidad-20-00-horas-tormentas.html",
       "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/10/03/6ac12049021d4.r_d.1494-882-900.jpeg",
       "tipo": "imagen"
     },
     {
-      "titulo": "La indignación por la crisis de la vivienda inunda las calles del país: \"No hay vuelta atrás\"",
+      "titulo": "La rebelión por la vivienda toma las calles y apunta a una huelga general: \"No hay vuelta atrás\"",
       "link": "https://www.publico.es/sociedad/indignacion-crisis-vivienda-inunda-calles-pais-hay-vuelta-atras.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/03/6ac10847680c1.jpeg",
       "tipo": "imagen"
@@ -19,21 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "La Policía disuelve con pelotas de goma a manifestantes por la vivienda en València",
+      "titulo": "La Policía carga contra manifestantes por la vivienda en València, que posteriormente han acampado ante el Ayuntamiento",
       "link": "https://www.publico.es/sociedad/policia-disuelve-pelotas-goma-manifestantes-vivienda-valencia.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/03/6ac0fabf9bcca.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Colau apuesta por una \"gran alianza\" por el derecho a la vivienda que combata a los \"especuladores\" en las urnas",
-      "link": "https://www.publico.es/sociedad/colau-apuesta-gran-alianza-derecho-vivienda-combata-especuladores-urnas.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/03/6ac0dfaa043e1.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Aviso rojo por fuertes lluvias este sábado en diecisiete comarcas catalanas",
-      "link": "https://www.publico.es/sociedad/m-ambiente/aviso-rojo-fuertes-lluvias-sabado-diecisiete-comarcas-catalanas.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/03/6ac0e7f0878b0.jpeg",
       "tipo": "imagen"
     }
   ]

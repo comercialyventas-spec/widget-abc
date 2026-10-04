@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Ascensión, la isla desértica que se hizo selva",
+      "link": "https://elpais.com/eps/2026-10-04/ascension-la-isla-desertica-que-se-hizo-selva.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SS2WAXEKUJG4JCV3K6KIGPSJKI.jpg?auth=835ec309d2c000e802c61c82ff0ec7895fbb86321f5ea714c7bf8b0571f0cf48",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La sal de la Tierra",
+      "link": "https://elpais.com/eps/2026-10-04/la-sal-de-la-tierra.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7URPEXVUDRBWZKVZKU2ZXFHJCI.jpg?auth=0b8c76b21e51ceeed37c94801ffee35f712ca86a750682a438ce62fbd465d109",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un lugar geográfico",
+      "link": "https://elpais.com/eps/2026-10-04/un-lugar-geografico.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/BTRY4ZBNKJEX5OKBTWIWYKWFF4.jpg?auth=a5a57db30740a44d65ccae3aa19e327a16f50bbf2a24ac064269dc86dc3cd4dc",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Carlo Buontempo, climatólogo: “Pase lo que pase, el nivel del mar va a seguir subiendo durante siglos”",
       "link": "https://elpais.com/eps/2026-10-03/carlo-buontempo-climatologo-pase-lo-que-pase-el-nivel-del-mar-va-a-seguir-subiendo-durante-siglos.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/4FW4EI2DEJABHH57RCULH6K7DU.jpg?auth=8adf7d2cba21d4388d0084d84684d43fdb89123f0c6b96cb1b7a9028720db7ab",
@@ -16,24 +34,6 @@
       "titulo": "Plataforma Catapulta, la armada invencible del nuevo arte español",
       "link": "https://elpais.com/eps/2026-10-03/plataforma-catapulta-la-armada-invencible-del-nuevo-arte-espanol.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/P443S545BBAA7MMLSL2AFYMAHQ.jpg?auth=91f898f9872917a39973220737dbf10330b34e974fbb3a95772fff9d1f9be7b9",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Bunbury: “La música en directo ha perdido la batalla con los móviles. A nadie se le ocurre en el cine grabar su escena favorita”",
-      "link": "https://elpais.com/eps/2026-10-02/bunbury-la-musica-en-directo-ha-perdido-la-batalla-con-los-moviles-a-nadie-se-le-ocurre-en-el-cine-grabar-su-escena-favorita.html",
-      "imagen": "https://www.youtube.com/watch?v=SM2OFTJ3XWY",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La literatura salvaje florece en medio de la crisis climática: 25 libros para enamorarse de la naturaleza",
-      "link": "https://elpais.com/eps/2026-10-02/la-literatura-salvaje-florece-en-medio-de-la-crisis-climatica-25-libros-para-enamorarse-de-la-naturaleza.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/TCNFGJ4UVVBVDJN3UAACSF5TVI.jpg?auth=39c99eebecba73aea8efa65ec588e54b0dc59db9807e45ef9f899ede327b4fd4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tazas de Café de Flore y vinilos de Le Verre Volé: una tienda en París reinventa los ‘souvenires’",
-      "link": "https://elpais.com/eps/2026-10-02/tazas-de-cafe-de-flore-y-vinilos-de-le-verre-vole-una-tienda-en-paris-reinventa-los-souvenires.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/CP7VJOQBPRFJPDT6MBQIYUPIHM.jpg?auth=e5fc4eb290a0ea4490a6ad7ce5c77266ee78b60f838f5eb3fe7b35dbf2105cec",
       "tipo": "imagen"
     }
   ]
