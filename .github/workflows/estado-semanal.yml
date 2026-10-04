@@ -1,0 +1,54 @@
+name: Estado semanal de noticias y catalogos (solo lectura)
+
+# Cada lunes de madrugada revisa los widgets de noticias (noticias-N) y los catálogos del motor de
+# productos que están en posts PUBLICADOS de todos los blogs, y escribe docs/ESTADO_SEMANAL.md
+# (y docs/estado_semanal.json para comparar con la semana siguiente).
+# No cambia ningún post, ni la hoja, ni los JSON de noticias o productos: solo escribe esos dos archivos.
+# Los fallos NUEVOS en posts publicados salen como avisos (annotations) en el run.
+on:
+  schedule:
+    - cron: '47 3 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: widget-abc-git-write
+  cancel-in-progress: false
+
+jobs:
+  revisar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # Historial sin el contenido de los archivos: basta para saber cuándo cambió cada noticias-N.json
+          fetch-depth: 0
+          filter: blob:none
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Revisar widgets y catalogos de posts publicados
+        env:
+          CLIENT_ID: ${{ secrets.BLOGGER_CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.BLOGGER_CLIENT_SECRET }}
+          REFRESH_TOKEN: ${{ secrets.BLOGGER_REFRESH_TOKEN }}
+          LISTAR_FEEDS_URL: "https://script.google.com/macros/s/AKfycbw3CPo21pjeJ6Iom59N0glwaJuxC75FknVtX7Et5PgHoplWz33GjcH4Jble_uh6Pw0/exec"
+          LISTAR_FEEDS_TOKEN: ${{ secrets.LISTAR_FEEDS_TOKEN }}
+        run: node migracion/estado_semanal.js
+      - name: Guardar el informe
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/ESTADO_SEMANAL.md docs/estado_semanal.json
+          if git diff --cached --quiet; then echo "Sin cambios."; exit 0; fi
+          git commit -m "Estado semanal de noticias y catalogos $(date -u +%Y-%m-%d)"
+          RAMA="${GITHUB_REF_NAME}"
+          for intento in 1 2 3 4; do
+            git pull --no-edit --rebase origin "$RAMA" && git push origin HEAD:"$RAMA" && exit 0
+            git rebase --abort 2>/dev/null || true
+            sleep $((intento*5))
+          done
+          exit 1
