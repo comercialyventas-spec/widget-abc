@@ -55,6 +55,9 @@ jobs:
             ['elpais.yml', 'Noticias El País (cada 30 min)', null, 1.5],
             ['noticias-1742.yml', 'noticias-1742 (cada 30 min)', null, 1.5],
             ['noticias-1778.yml', 'noticias-1778 (cada 30 min)', null, 1.5],
+            // Productos de lunes, miércoles y viernes: del viernes al lunes pasan 72 h, justo lo que admite el motor.
+            ['producto-agatha.yml', 'producto-agatha (L-X-V)', null, 60],
+            ['producto-basycojerez.yml', 'producto-basycojerez (L-X-V)', null, 60],
           ];
           const SOLO_RELANZAR = process.env.EVENTO === 'workflow_run';   // pasadas extra: sin alarma roja
           const RAMA = process.env.RAMA || 'main';
@@ -69,6 +72,10 @@ jobs:
             const runs = d.workflow_runs || [];
             if (runs.some((r) => r.status !== 'completed')) return 'ya hay un run en marcha o en cola';
             if (runs[0] && Date.now() - new Date(runs[0].created_at).getTime() < 60 * 60000) return 'ya se lanzó uno hace menos de 60 min';
+            // Si los 3 últimos terminaron en fallo, el workflow está roto (no es que GitHub se saltara el cron):
+            // relanzarlo solo repetiría el fallo y las peticiones a la tienda. No se relanza.
+            const terminados = runs.filter((x) => x.conclusion !== 'cancelled' && x.conclusion !== 'skipped').slice(0, 3);
+            if (terminados.length === 3 && terminados.every((x) => x.conclusion === 'failure')) return 'NO se relanza: sus 3 últimos runs fallaron (revisar el workflow)';
             const r = await fetch(`${base}/actions/workflows/${archivo}/dispatches`, {
               method: 'POST', headers: { ...cab, 'Content-Type': 'application/json' }, body: JSON.stringify({ ref: RAMA }),
             });
