@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "El 'minihuracán' deja una víctima mortal en Barcelona: Un hombre muere por la caída un muro en un camping de Tordera",
+      "titulo": "El 'minihuracán' deja dos víctimas mortales en Barcelona: un hombre muere por la caída un muro y otro atrapado en un aparcamiento",
       "link": "https://www.20minutos.es/cataluna/barcelona/minihuracan-deja-una-victima-mortal-barcelona-un-hombre-muere-por-caida-un-muro-un-camping-tordera_7044548_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/04/6ac20c3c4e6459-91481002.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Barcelona, afectada por el temporal: 17.000 clientes sin luz y 4.000 atendidos por Cruz Roja",
+      "link": "https://www.20minutos.es/cataluna/barcelona/barcelona-afectada-por-temporal-17-000-clientes-sin-luz-4-000-atendidos-por-cruz-roja_7044561_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/04/6ac214c7299d37-15257083.jpeg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Barcelona se blinda ante el \"excepcional\" temporal y posible mini huracán: sin trenes, restricciones en metro y vuelos...",
       "link": "https://www.20minutos.es/cataluna/barcelona/barcelona-se-blinda-ante-excepcional-temporal-posible-mini-huracan-sin-trenes-restricciones-metro-vuelos_7044514_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/03/6ac153f59e1693-39765454.webp",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Suspendida la manifestación de este sábado en Barcelona y L'Hospitalet ante la llegada del 'minihuracán mediterráneo'",
-      "link": "https://www.20minutos.es/cataluna/barcelona/crisis-vivienda-suspendida-manifestacion-sabado-tarde-barcelona-l-hospitalet-minihuracan-mediterraneo-lluvias_7044472_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/03/6ac0fe5bc85794-07273746.jpeg",
       "tipo": "imagen"
     }
   ]

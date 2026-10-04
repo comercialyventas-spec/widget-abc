@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "Última hora de la alerta por lluvias en Catalunya, en directo El temporal se retira, pero mantiene aún a ocho comarcas en alerta roja",
+      "titulo": "Última hora de la alerta por lluvias en Catalunya, en directo Protección Civil envía un ES Alert ante el riesgo de que los ríos Daró y Ridaura se desborden",
       "link": "https://www.elperiodico.com/es/sociedad/20261004/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/aa118d17-dae9-411d-95f7-0569ea0865a6_media-libre-aspect-ratio_default_0.jpg",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f0e569fa-703e-4986-92ff-e7a1be211dd0_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El mar en Sant Antoni de Calonge se tiñe de negro por las cenizas del incendio de las Gavarres del verano pasado",
+      "link": "https://www.elperiodico.com/es/sociedad/20261004/mar-sant-antoni-calonge-tine-negro-ceniza-incendio-gavarres-134989581",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f0e569fa-703e-4986-92ff-e7a1be211dd0_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Extremadura activa el plan de inundaciones y eleva a rojo la alerta por lluvias de hasta 120 litros en varias comarcas de Badajoz",
+      "link": "https://www.elperiodico.com/es/sociedad/20261004/extremadura-activa-plan-inundaciones-eleva-rojo-alerta-badajoz-134984927",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/375df988-1d81-466b-a23f-da74ff4020bc_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -15,25 +27,13 @@
     {
       "titulo": "El aguacero causa estragos en el Vallès Oriental y el Maresme, con la caída de muros y un talud de Rodalies en Granollers: \"Nunca habíamos visto nada igual\"",
       "link": "https://www.elperiodico.com/es/sociedad/20261004/aguacero-causa-estragos-valles-oriental-maresme-lluvias-134980686",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/17eeb7f0-93c5-4f82-8235-0b35ddfddc7f_media-libre-aspect-ratio_default_0.jpg",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/032ce62a-8dfb-4979-8027-7ad420965626_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
       "titulo": "Una nueva IA detecta en la retina una enfermedad arterial silenciosa asociada a infartos e ictus",
       "link": "https://www.elperiodico.com/es/sanidad/20261004/ia-detecta-retina-enfermedad-enfermedad-arterial-silenciosa-ictus-infartos-134878448",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/99b37090-90e9-41b8-a52f-7151ee2a86cc_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Blanes evacua a los pacientes de la planta baja del hospital comarcal por inundación",
-      "link": "https://www.elperiodico.com/es/sociedad/20261004/blanes-evacua-pacientes-planta-baja-hospital-inundacion-lluvias-134979459",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2364c10c-ebf5-4a13-b19c-1ad4a9aa0218_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Miquel Àngel Alegre, experto en política educativa: \"Hablar de competencias no significa dejar de hablar de conocimientos\"",
-      "link": "https://www.elperiodico.com/es/sociedad/20261004/miquel-angel-alegre-competencias-aprendizajes-politica-educativa-134753648",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7e11c664-9bcd-40a7-bddc-c0b94e72cf80_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

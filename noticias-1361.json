@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Las imágenes aéreas de la huella del temporal en Cataluña",
+      "link": "https://elpais.com/videos/2026-10-04/las-imagenes-aereas-de-la-huella-del-temporal-en-cataluna.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261004/1221638_104545_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Existen argumentos para no convocar elecciones?",
       "link": "https://elpais.com/videos/2026-10-03/existen-argumentos-para-no-convocar-elecciones.html",
       "imagen": "https://vdmedia.elpais.com/elpaistop/multimedia/202610/2/1221245.mp4",
@@ -28,12 +34,6 @@
       "titulo": "De “la historia les juzgará” de Pedro Sánchez al “hacer leyes que funcionen” de Junts: Cinco intervenciones del pleno que ha tumbado los decretos de vivienda",
       "link": "https://elpais.com/videos/2026-10-02/de-la-historia-les-juzgara-de-pedro-sanchez-al-hacer-leyes-que-funcionen-de-junts-cinco-intervenciones-del-pleno-que-ha-tumbado-los-decretos-de-vivienda.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261002/1221221_162025_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Todo está abierto, incluida la posibilidad de un adelanto electoral",
-      "link": "https://elpais.com/videos/2026-10-02/todo-esta-abierto-incluida-la-posibilidad-de-un-adelanto-electoral.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261002/1221240_170228_video_1800.mp4",
       "tipo": "imagen"
     }
   ]

@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Bonos rentables, refugio dudoso",
+      "link": "https://elpais.com/noticias/mercados-financieros/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/37WHCVQA4FBK3JNKLYXRW24XK4.jpg?auth=e2729e06b7712d53f5ea8eecfbf64e52eebfc81ffa861e3c7867d37f4584fa26&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El imparable éxito de las agendas japonesas de Hobonichi: se compran con meses de antelación y mueven millones de euros al año",
       "link": "https://elpais.com/noticias/estilo-vida/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/VJDLCRDWARBQZH3J7ERBBOUNVM.jpg?auth=d2a7cc7aaeb221b2ba72832c4af74a7c814083dec69491622f82e2b079a264ed&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VJDLCRDWARBQZH3J7ERBBOUNVM.jpg?auth=d2a7cc7aaeb221b2ba72832c4af74a7c814083dec69491622f82e2b079a264ed&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "El Gobierno aprueba una cuenta de ahorro con beneficios fiscales para fomentar la inversión en Bolsa europea",
       "link": "https://elpais.com/noticias/inversion/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/4VUPXC327RKLBDSZB3E6ACTLTA.jpg?auth=d8c4ec214a184ffbbd71080e9afad08a9f982fe70a51735c6fa11c224d3c74d1&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Carlos San Basilio (CNMV): “No puede ser que las redes sociales sean cómplices de los estafadores”",
-      "link": "https://elpais.com/economia/2026-09-29/carlos-san-basilio-cnmv-no-puede-ser-que-las-redes-sociales-sean-complices-de-los-estafadores.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ZBIVNDOJC5FIXOGJ52MBTKHWFA.jpg?auth=853b09fa70f6b76b8aacf78dc1af6e36662a98d1a09173e64056a83e6735de15&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

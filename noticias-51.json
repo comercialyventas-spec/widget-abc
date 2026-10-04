@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Las filias gastronómicas de Salvador Dalí",
+      "link": "https://www.lavanguardia.com/comer/al-dia/20261004/11645912/filias-gastronomicas-salvador-dali.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2016/10/24/5fa30080d9cb2.r_d.495-279-4535.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Grand Plaza Hotel & Wellness refuerza su apuesta gastronómica con Pep Moreno y Deliranto, distinguido con una estrella Michelin",
       "link": "https://www.lavanguardia.com/comer/20261004/11650111/grand-plaza-hotel-wellness-refuerza-apuesta-gastronomica-pep-moreno-deliranto-distinguido-estrella-michelin.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/05/14/6a05ddec2c826.r_d.640-427-3507.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "6 recetas otoñales para recibir al mes de octubre",
       "link": "https://www.lavanguardia.com/comer/recetas/20261004/11646457/6-recetas-otonales-recibir-mes-octubre.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/29/6abb717d10f1f.r_d.627-418-3580.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El vino de la semana: Mas La Plana 2020 de Familia Torres",
-      "link": "https://www.lavanguardia.com/comer/20261004/11632754/vino-semana-plana-2020-familia-torres.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/11/6aa3e698af114.r_d.2362-1181-1026.jpeg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Un hombre armado con un machete provoca momentos de tensión en Vigo",
+      "link": "https://www.20minutos.es/galicia/un-hombre-armado-con-un-machete-provoca-momentos-tension-vigo_7044601_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/04/30/69f374cedae174-06307147.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Muere un detenido en los calabozos de la Guardia Civil en A Coruña",
+      "link": "https://www.20minutos.es/galicia/coruna/muere-un-detenido-los-calabozos-guardia-civil-coruna_7044596_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/04/6ac23939c15d69-62446251.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Hallan a dos hermanos muertos con signos de violencia en Castroverde",
       "link": "https://www.20minutos.es/galicia/lugo/hallan-dos-hermanos-muertos-con-signos-violencia-castroverde_7044476_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2023/04/22/ambulancia-del-061-galicia.r_d.800-597.jpeg",
@@ -22,18 +34,6 @@
       "titulo": "La incidencia de la gripe y el covid en Galicia, muy al alza: las consultas suben un 25% y un 43% en una semana respectivamente",
       "link": "https://www.20minutos.es/galicia/coruna/incidencia-gripe-covid-galicia-muy-alza-las-consultas-suben-un-25-un-43-una-semana-respectivamente_7043774_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/01/6abe642ae91620-42174017.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ferrol convoca cinco plazas de auxiliar administrativo por oposición y turno libre: plazo y requisitos",
-      "link": "https://www.20minutos.es/galicia/coruna/ferrol-convoca-plazas-auxiliar-administrativo-oposicion-turno-libre-plazo-requisitos_7043626_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2022/10/03/administrativo.r_d.2706-1820.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Muere una mujer tras ser atropellada en Abegondo (A Coruña)",
-      "link": "https://www.20minutos.es/galicia/coruna/muere-mujer-atropellada-abegondo-coruna-galicia_7043592_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/24/6a632f7f5b7041-77734114.jpeg",
       "tipo": "imagen"
     }
   ]
