@@ -7,13 +7,19 @@ name: Vigilar workflows (alarma)
 # (GitHub manda el aviso de "workflow fallido") y explica cuál y por qué.
 # No cambia ningún archivo del repositorio; solo puede lanzar workflows.
 #
-# Como el cron de este mismo vigilante también puede saltarse, se lanza además cada vez
+# Además lo lanza cada hora una tarea programada del NAS (workflow_dispatch con modo=relanzar;
+# a las 08:00 y 20:00 con modo=alarma). Como el cron de GitHub se salta ejecuciones, se lanza también cada vez
 # que terminan dos workflows de noticias frecuentes (workflow_run). En esas pasadas
 # solo relanza lo atrasado y nunca sale en rojo, para no llenar el correo de avisos.
 on:
   schedule:
     - cron: '17 */3 * * *'
   workflow_dispatch:
+    inputs:
+      modo:
+        description: 'alarma = comprobar y avisar en rojo si hay problemas; relanzar = solo relanzar lo atrasado (lo usa el NAS cada hora)'
+        required: false
+        default: 'alarma'
   workflow_run:
     workflows: ['Actualizar feeds genéricos', 'Actualizar noticias-710']
     types: [completed]
@@ -36,6 +42,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPO: ${{ github.repository }}
           EVENTO: ${{ github.event_name }}
+          MODO: ${{ github.event.inputs.modo }}
           RAMA: ${{ github.event.repository.default_branch }}
         run: |
           node <<'NODE'
@@ -59,7 +66,7 @@ jobs:
             ['producto-agatha.yml', 'producto-agatha (L-X-V)', null, 60],
             ['producto-basycojerez.yml', 'producto-basycojerez (L-X-V)', null, 60],
           ];
-          const SOLO_RELANZAR = process.env.EVENTO === 'workflow_run';   // pasadas extra: sin alarma roja
+          const SOLO_RELANZAR = process.env.EVENTO === 'workflow_run' || process.env.MODO === 'relanzar';   // pasadas extra: sin alarma roja
           const RAMA = process.env.RAMA || 'main';
           const base = `https://api.github.com/repos/${process.env.REPO}`;
           const cab = { Authorization: 'Bearer ' + process.env.GH_TOKEN, Accept: 'application/vnd.github+json' };
