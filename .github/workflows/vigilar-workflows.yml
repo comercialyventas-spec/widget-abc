@@ -47,6 +47,14 @@ jobs:
             ['catalogos-desde-categorias.yml', 'Catálogos desde páginas de categoría', 36, 26],
             ['catalogos-desde-paginas.yml', 'Catálogos desde páginas de producto', 36, 26],
             ['productos-generico.yml', 'productos-generico', 36, 26],
+            // Noticias que solo se relanzan (null = sin alarma roja, para no llenar el correo si falla la fuente).
+            // Umbral = unas 3 veces su intervalo. 870.yml NO va aquí: está desactivado a propósito.
+            ['1777.yml', 'Noticias El Periódico (1777, cada hora)', null, 3],
+            ['710.yml', 'noticias-710 (cada hora)', null, 3],
+            ['main.yml', 'noticias-1022 (cada 30 min)', null, 1.5],
+            ['elpais.yml', 'Noticias El País (cada 30 min)', null, 1.5],
+            ['noticias-1742.yml', 'noticias-1742 (cada 30 min)', null, 1.5],
+            ['noticias-1778.yml', 'noticias-1778 (cada 30 min)', null, 1.5],
           ];
           const SOLO_RELANZAR = process.env.EVENTO === 'workflow_run';   // pasadas extra: sin alarma roja
           const RAMA = process.env.RAMA || 'main';
@@ -88,7 +96,11 @@ jobs:
                   }
                 }
 
-                // 2) Alarma (igual que antes)
+                // 2) Alarma (igual que antes; los que tienen horas = null solo se relanzan)
+                if (horas === null) {
+                  if (horasOk <= horasRelanzar) bien.push(`${nombre}: bien (hace ${horasOk.toFixed(1)} h)`);
+                  continue;
+                }
                 if (!ultimo) { problemas.push(`${nombre}: no hay ningún run terminado`); continue; }
                 if (ultimo.conclusion !== 'success') {
                   problemas.push(`${nombre}: el último run (${ultimo.updated_at}) terminó en "${ultimo.conclusion}". Mira ${ultimo.html_url}`);

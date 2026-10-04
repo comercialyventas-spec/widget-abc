@@ -3,7 +3,7 @@ name: Actualizar feeds genéricos
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "3,33 * * * *"
 
 concurrency:
   group: widget-abc-git-write

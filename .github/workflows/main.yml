@@ -2,7 +2,7 @@ name: Actualizar noticias-1022
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "9,39 * * * *"
 concurrency:
   group: widget-abc-git-write
   cancel-in-progress: false

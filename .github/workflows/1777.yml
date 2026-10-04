@@ -2,7 +2,7 @@ name: Actualizar Noticias El Periodico
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '43 * * * *'
   workflow_dispatch:
 
 concurrency:

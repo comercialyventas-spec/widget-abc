@@ -3,7 +3,7 @@ name: Actualizar producto-basycojerez (capa 2)
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 3 * * 1,3,5"
+    - cron: "13 3 * * 1,3,5"
 
 concurrency:
   group: widget-abc-git-write
