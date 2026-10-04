@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El temporal en Catalunya causa dos muertos y un desaparecido",
+      "link": "https://www.publico.es/sociedad/catalunya-envia-nuevos-alert-riesgo-desbordamiento-rio-besos-lluvias-torrenciales-barcelona.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/04/6ac205f8d32f8.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Policía inicia el desalojo del asentamiento de la playa del Trampolín en Ceuta",
+      "link": "https://www.publico.es/sociedad/migracion/policia-inicia-desalojo-asentamiento-playa-trampolin-ceuta.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/04/6ac20373e78a2.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Vuelos cancelados y retrasos de hasta cuatro horas en el aeropuerto de Barcelona por el temporal",
       "link": "https://www.publico.es/sociedad/vuelos-cancelados-retrasos-cuatro-horas-aeropuerto-barcelona-temporal.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/03/6ac143773113f.jpeg",
@@ -22,18 +34,6 @@
       "titulo": "La rebelión por la vivienda toma las calles y apunta a una huelga general: \"No hay vuelta atrás\"",
       "link": "https://www.publico.es/sociedad/indignacion-crisis-vivienda-inunda-calles-pais-hay-vuelta-atras.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/03/6ac10847680c1.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Catalunya se prepara para un posible huracán mediterráneo esta tarde que obliga a suspender la manifestación por la vivienda en Barcelona",
-      "link": "https://www.publico.es/sociedad/m-ambiente/catalunya-prepara-posible-huracan-mediterraneo-tarde-obliga-suspender-manifestacion-vivienda-barcelona.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/03/6ac0f6467cd61.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Policía carga contra manifestantes por la vivienda en València, que posteriormente han acampado ante el Ayuntamiento",
-      "link": "https://www.publico.es/sociedad/policia-disuelve-pelotas-goma-manifestantes-vivienda-valencia.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/03/6ac0fabf9bcca.jpeg",
       "tipo": "imagen"
     }
   ]

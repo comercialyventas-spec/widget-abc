@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Un glaciar de Groenlandia ha perdido 8,7 metros en solo 13 años",
+      "link": "https://www.lavanguardia.com/lugaresdeaventura/20261004/11648566/glaciar-groenlandia-perdido-8-7-metros-13-anos.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/10/01/6abe49fb84dac.r_d.356-213-6414.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Andorra impulsa un mirador en el Alt de la Capa para coronarse como referencia astronómica",
       "link": "https://www.lavanguardia.com/lugaresdeaventura/20261003/11647556/andorra-impulsa-mirador-alt-capa-coronarse-referencia-astronomica.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/09/30/6abce5f83bc5b.r_d.842-818-2923.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/09/30/6abce5f83bc5b.r_d.842-818-2923.jpeg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "El astuto truco de los osos en los bosques cantábricos",
       "link": "https://www.lavanguardia.com/lugaresdeaventura/20260929/11645639/astuto-truco-osos-bosques-cantabricos.html",
       "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2025/03/17/67d802a637ab2.r_d.397-315-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Pirineo francés reivindica el otoño con rutas ancestrales, trashumancia y alta montaña",
-      "link": "https://www.lavanguardia.com/lugaresdeaventura/20260928/11639987/pirineo-frances-reivindica-otono-rutas-ancestrales-trashumancia-alta-montana.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/09/21/6ab0d83fd9c01.r_d.1893-1588-877.jpeg",
       "tipo": "imagen"
     }
   ]

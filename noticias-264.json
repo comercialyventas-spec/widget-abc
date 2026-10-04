@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Las fuertes lluvias obligan a evacuar la planta baja del Hospital de Blanes",
+      "link": "https://www.abc.es/espana/cataluna/fuertes-lluvias-obligan-evacuar-planta-baja-hospital-20261004115311-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/04/hospital-blanes-RhHYJE7E1nJmn4hw7bUKtbI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Aliança Catalana se dispara a 30 escaños y empata con el PSC, según una encuesta",
+      "link": "https://www.abc.es/espana/cataluna/alianca-catalana-dispara-escanos-empata-psc-segun-20261004113055-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/04/orriols-parlament-ep_20261004112926-RUli0LKQHWxylysPBuRGaJL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Dos muertos y un desaparecido por el fuerte temporal en Cataluña",
+      "link": "https://www.abc.es/espana/cataluna/muerto-tordera-tras-caida-muro-temporal-azota-20261004094427-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/04/colpaso-bomberos-muros_20261004094155-RL9ljuqSItpkjMkVw9ikY9K-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Protección Civil pide «no bajar la guardia» tras una noche de incidencias por el temporal en Cataluña",
+      "link": "https://www.abc.es/espana/cataluna/proteccion-civil-pide-bajar-guardia-tras-noche-20261004081628-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/04/temporal-cat-RFxzN1KhlWXmGZmDKNpasaK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Puigdemont busca centrar a Junts antes de su regreso",
       "link": "https://www.abc.es/espana/cataluna/puigdemont-busca-centrar-junts-regreso-20261004012401-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/04/junts-RlC4goLcBp3xCaIti5blFFO-1200x840@diario_abc.jpg",
@@ -10,30 +34,6 @@
       "titulo": "El temporal en Cataluña inunda la estación de Sants y obliga a atender a decenas de viajeros: «Es terrible»",
       "link": "https://www.abc.es/espana/cataluna/temporal-cataluna-inunda-estacion-sants-obliga-atender-20261004004736-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/04/WhatsApp%20Image%202026-10-04%20at%2000.22.58-kCmB-U302041402857YMB-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un terremoto de magnitud 3,1 se registra en el mar Mediterráneo entre Cataluña y Baleares",
-      "link": "https://www.abc.es/espana/cataluna/terremoto-magnitud-registra-mar-mediterraneo-cataluna-baleares-20261003204520-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/03/terremoto--RBhgcZeLdsBAdPapSRm3YFL-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cataluña envía un es-alert para restringir la movilidad en 20 comarcas ante la amenaza de un «temporal excepcional»",
-      "link": "https://www.abc.es/espana/cataluna/cataluna-restringe-movilidad-comarcas-ante-amenaza-temporal-20261003164008-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/03/lluvia-efe-RTm0iyNNkyb072daDSEGbGN-1200x840@diario_abc.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Protección Civil pide restringir la movilidad por el «mini huracán mediterráneo» que azotará Cataluña entre hoy y mañana",
-      "link": "https://www.abc.es/espana/cataluna/proteccion-civil-pide-restringir-movilidad-mini-huracan-20261003142034-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/03/rdp-proteccion-civil-RjUJOOgnocln8sGChQQKDVK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Servicio Meteorológico de Cataluña eleva al máximo nivel de peligro el aviso por lluvia este sábado por la tarde",
-      "link": "https://www.abc.es/espana/cataluna/servicio-meteorologico-cataluna-eleva-maximo-nivel-peligro-20261003130208-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/03/lluvias-cat-Rs4IeUHEOC4fXxoTsJw5DAM-1200x840@diario_abc.jpeg",
       "tipo": "imagen"
     }
   ]

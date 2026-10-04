@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "La guerra por el enchufe que viene",
+      "link": "https://www.abc.es/economia/john-muller-guerra-enchufe-viene-20261004110508-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/04/centro-datos23-RY8RMHCqnJKSnskIDR2SnlJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La tecnología que ahonda en la eficiencia de las reparaciones marítimas",
+      "link": "https://www.abc.es/economia/tecnologia-ahonda-eficiencia-reparaciones-maritimas-20261004110448-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/04/Eonsea-RwjVZ3uKrq9Pmh4eSdVGsRK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La IA amenaza con agigantar la brecha entre países ricos y emergentes",
+      "link": "https://www.abc.es/economia/ia-amenaza-agigantar-brecha-paises-ricos-emergentes-20261004110427-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/04/ia-desigualdades-paises-Rxd8sRvfqbowULv7N1tGxYL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El intervencionismo del Gobierno atemoriza a los propietarios: «Tengo muchísima angustia de volver a alquilar»",
       "link": "https://www.abc.es/economia/intervencionismo-gobierno-atemoriza-propietarios-muchisima-angustia-volver-20261004012639-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/04/1518219207-RrdOvcCesO943lto7voYPWP-1200x840@diario_abc.jpg",
@@ -16,24 +34,6 @@
       "titulo": "¿Puedo cobrar el paro si he disfrutado de una excedencia por hijos? El SEPE lo aclara",
       "link": "https://www.abc.es/economia/cuentas-corrientes/puedo-cobrar-paro-disfrutado-excedencia-hijos-sepe-20261004010100-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/01/excedencia-hijo-paro-sepe-RexLWVrl6VSfXxEUdl15Y3N-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Alberto Nadal: «Es básico dar confianza a los propietarios para que pongan su vivienda en alquiler»",
-      "link": "https://www.abc.es/economia/alberto-nadal-basico-dar-confianza-propietarios-pongan-20261004012617-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/04/Alberto%20Nadal%20Tania%20Sieira-Re7S265GxQpmIUnY3HXG8TN-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Bola negra para el sanchismo económico",
-      "link": "https://www.abc.es/economia/maria-jesus-perez-bola-negra-sanchismo-economico-20261004012629-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/04/1518188183-RAYmakBp7O6XFP3A8dsXUEL-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El negocio soterrado de las telecos: 57 millones de líneas móviles para conectar máquinas a internet",
-      "link": "https://www.abc.es/economia/negocio-oculto-telecos-millones-lineas-moviles-conectar-20261004010122-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/04/maquinas-expendedoras-RxYiPLPGCDYbeeEGMMcXHsJ-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
