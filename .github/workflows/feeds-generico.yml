@@ -115,6 +115,24 @@ jobs:
             }
           }
 
+          // 4 oct: algunos feeds (p. ej. los RSS antiguos de El Mundo) vienen en ISO-8859-1 y
+          // .text() los leia siempre como UTF-8, rompiendo los acentos ("teor�a"). Ahora, solo si
+          // el feed declara una codificacion latina (cabecera Content-Type o <?xml encoding="...">),
+          // se lee con esa codificacion. Los feeds en UTF-8 o sin declaracion se leen igual que antes.
+          const CODIFICACIONES_LATINAS = /^(iso-8859-1|iso-8859-15|latin-?1|windows-1252|cp1252)$/i;
+          async function leerTextoFeed(respuesta) {
+            const bytes = Buffer.from(await respuesta.arrayBuffer());
+            const tipo = respuesta.headers.get("content-type") || "";
+            const mCabecera = tipo.match(/charset\s*=\s*["']?([\w.-]+)/i);
+            const mXml = bytes.subarray(0, 300).toString("latin1").match(/^\s*<\?xml[^>]*encoding\s*=\s*["']([\w.-]+)["']/i);
+            const declarada = mCabecera ? mCabecera[1] : (mXml ? mXml[1] : "");
+            if (CODIFICACIONES_LATINAS.test(declarada)) {
+              try { return new TextDecoder(declarada.toLowerCase()).decode(bytes); }
+              catch (e) { return new TextDecoder("windows-1252").decode(bytes); }
+            }
+            return new TextDecoder("utf-8").decode(bytes);
+          }
+
           async function parsearRss(xml) {
             let itemsRaw = xml.match(/<item\b[\s\S]*?<\/item>/gi) || [];
             // 3 oct: feeds Atom (<entry>, enlace en <link href="...">), p. ej. blogs de Shopify.
@@ -192,7 +210,7 @@ jobs:
 
                 if (!respuesta.ok) throw new Error("HTTP " + respuesta.status);
 
-                const texto = await respuesta.text();
+                const texto = await leerTextoFeed(respuesta);
                 const trimmed = texto.trim();
 
                 let resultado;
