@@ -162,6 +162,11 @@ jobs:
                 if (mi) imagen = mi[1].startsWith("//") ? "https:" + mi[1] : mi[1];
               }
               imagen = decodeHtml(imagen);
+              // 5 oct: algunos RSS (p. ej. El Debate) dan la foto con ruta relativa ("/files/...");
+              // en el blog saldria rota, asi que se completa con el dominio del enlace.
+              if (imagen && !/^https?:\/\//i.test(imagen)) {
+                try { imagen = new URL(imagen, link).href; } catch (e) { imagen = ""; }
+              }
 
               noticias.push({ titulo, link, imagen });
             }

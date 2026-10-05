@@ -92,7 +92,8 @@ async function main() {
     const ruta = esObjeto ? entrada.ruta : entrada[0];
     const fila = esObjeto ? null : entrada[1];
     const nombre = esObjeto ? entrada.nombre : entrada[2];
-    const blogId = (esObjeto && entrada.blogId) || blogPorDefecto;
+    // Entrada de noticias de otro blog: [ruta, fila, nombre, blogId]
+    const blogId = (esObjeto ? entrada.blogId : entrada[3]) || blogPorDefecto;
     try {
       const post = await blogger(token, 'GET',
         `${API}/blogs/${blogId}/posts/bypath?path=${encodeURIComponent(ruta)}&view=ADMIN`);
