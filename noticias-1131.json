@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Advertencias para Trump desde un lejano octubre chileno",
+      "link": "https://elpais.com/noticias/elecciones-eeuu/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/OHGWSKPCQFOLZGPRWRXR2Y5U2M.jpg?auth=289702eb224bdccdb3b10d366629ca5bfd5ee9caa1901ea91bb2f379dc848b46&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cambiar la conversación, aunque sea para hablar de pisos",
-      "link": "https://elpais.com/opinion/2026-10-06/cambiar-la-conversacion-aunque-sea-para-hablar-de-pisos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/LUK3HYL3EREBLPD6FSZ6XPOPNI.jpg?auth=d9440fd7cff19fc22f50c763895f18c4bd020934a6d7369245e395b9143828e7&width=414&height=233&smart=true",
+      "link": "https://elpais.com/espana/elecciones-generales/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/GLFFUEWQFJFN5DGAYUHUMXM2YM.jpg?auth=1303ef7a94456939593ab47157af805fa3f2d76d865b2117ab1f6f72bea4bbd8&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Inteligencia artificial: ¿Qué tan real es la amenaza y qué podemos hacer?",
       "link": "https://elpais.com/noticias/inteligencia-artificial/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/IEDWV6QK7RAX7KXJBBRP3XW57I.jpg?auth=b1dc341850915acf642fabf97aeff5648f241e4dec4551da88110d2514617c57&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Escrito en la cara",
-      "link": "https://elpais.com/autor/antonio-munoz-molina/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/AGVPCWFTXNFCJFNY5BK6FGXHYU.jpg?auth=7a8dd7efd66d3f25c8825b915101e9fe2de22a0904484c9d2733b2eae1863f16&width=414&height=311&focal=1187%2C569",
       "tipo": "imagen"
     }
   ]

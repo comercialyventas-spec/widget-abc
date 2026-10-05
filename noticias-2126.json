@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "EN DIRECTO",
+      "link": "https://www.infolibre.es/politica/pedro-sanchez-directo-ultima-hora-gobierno-elecciones-reacciones_6_2237373.html",
+      "imagen": "https://static.infolibre.es/clip/56441f9f-7541-4c65-afc3-3aeb6af0d3cb_source-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Almería, el último ejemplo de cómo el PP de Moreno multiplica la universidad privada en Andalucía",
       "link": "https://www.infolibre.es/politica/almeria-ultimo-ejemplo-pp-moreno-multiplica-universidad-privada-andalucia_1_2013196.html",
       "imagen": "https://static.infolibre.es/clip/b1304cc2-9a70-473e-8502-5549fcf99143_16-9-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "25 años de deterioro de la universidad privada: de cuatro centros de prestigio a decenas de 'chiringuitos'",
       "link": "https://www.infolibre.es/politica/25-anos-deterioro-universidad-privada-cuatro-centros-prestigio-decenas-chiringuitos_1_1972123.html",
       "imagen": "https://static.infolibre.es/clip/6f9e1433-5f6a-4f27-b863-5791e30d31c4_16-9-aspect-ratio_50p_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Diana Morant: \"Ha habido una intencionalidad ideológica en hacer de la universidad un negocio\"",
-      "link": "https://www.infolibre.es/politica/diana-morant-habido-intencionalidad-ideologica-universidad-negocio_1_1972765.html",
-      "imagen": "https://static.infolibre.es/clip/12f30e8e-e687-4322-93d3-a399bb2ccaab_16-9-aspect-ratio_50p_0.jpg",
       "tipo": "imagen"
     }
   ]

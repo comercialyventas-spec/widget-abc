@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "EN DIRECTO",
+      "link": "https://www.infolibre.es/politica/pedro-sanchez-directo-ultima-hora-gobierno-elecciones-reacciones_6_2237373.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "RESIDENCIAS: LA ZONA CERO DEL COVID",
       "link": "https://www.infolibre.es/politica/redactor-protocolos-verguenza-admite-discriminatorios_1_2111339.html",
       "imagen": "https://static.infolibre.es/infolibre/public/file/2025/0225/11/cinco-anos-despues-2.png",
@@ -28,12 +34,6 @@
       "titulo": "La jueza abre la puerta a imputar a Burgueño en el segundo caso que investiga la discriminación en residencias",
       "link": "https://www.infolibre.es/politica/jueza-abre-puerta-imputar-burgueno-segunda-causa-investiga-discriminacion-residencias_1_2006881.html",
       "imagen": "https://static.infolibre.es/clip/c3fcc88b-0d27-45f9-be13-cda7ea67af2a_16-9-aspect-ratio_50p_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Burgueño tendrá que aclarar ante la jueza por qué no se medicalizaron las residencias en pleno covid",
-      "link": "https://www.infolibre.es/politica/burgueno-tendra-aclarar-jueza-no-medicalizaron-residencias-pleno-covid_1_2006182.html",
-      "imagen": "https://static.infolibre.es/clip/ea2c7d5c-2042-4fa2-8e08-65144ce32719_16-9-aspect-ratio_50p_0.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Scott Eastwood, actor de 'Lucky Strike' e hijo de Clint Eastwood: \"Con mi padre no había nada regalado. Me decía que si quería trabajo, construyese mi propia carrera\"",
+      "link": "https://www.elconfidencial.com/cultura/cine/2026-10-05/scott-clint-eastwood-lucky-strike-nada-regalado-1qrt_4438377/",
+      "imagen": "https://images.ecestaticos.com/v84oT3o0uiXVAeP9Ln-mlDrNlR8=/0x0:905x661/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F75f%2F9c4%2F15b%2F75f9c415b617a37355ef6e87d840c170.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿'Digger', de Tom Cruise, es un bodrio o una obra maestra? Por ahora, un descalabro de 150 millones",
+      "link": "https://www.elconfidencial.com/cultura/2026-10-05/digger-es-un-bodrio-o-una-obra-maestra-por-ahora-un-descalabro-de-150-millones-para-warner_4438733/",
+      "imagen": "https://images.ecestaticos.com/FpGVPyHBwcYYjuzunIIvYgzht7U=/0x0:2272x1516/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F6bf%2F19e%2F4c7%2F6bf19e4c76ee3ac3cf2576cd169563e6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ganó la Palma de Oro en Cannes y dividió a la crítica: el filme que unió a Robert De Niro y Jeremy Irons (con banda sonora de Morricone) cumple los 40",
       "link": "https://www.elconfidencial.com/cultura/2026-10-05/gano-palma-oro-musica-morricone-robert-niro-jeremy-irons-40-anos-1qrt_4437309/",
       "imagen": "https://images.ecestaticos.com/31E0HK1o5EAAi3ahd20zvNNj7BQ=/0x0:1000x562/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F49e%2F081%2F8b6%2F49e0818b6981a112bf96c747bfbed210.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Netflix lo confirma: la secuela de 'Las guerreras k-pop' tendrá un estreno \"grande, amplio y global\" en cines en 2029",
       "link": "https://www.elconfidencial.com/cultura/cine/2026-10-03/netflix-guerreras-kpop-2-2029-cines-ted-sarandos-1qrt_4436981/",
       "imagen": "https://images.ecestaticos.com/0posHi9VUy_wKp7OGR0pp11wFOo=/0x0:2272x951/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F28a%2Febb%2F174%2F28aebb1749aaf22d6fe9d54161bea269.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "\"¿Alguien por aquí de Madrid?\": las frases más memorables de 'La bola negra' con las que el guion de los Javis pasará a la historia",
-      "link": "https://www.elconfidencial.com/cultura/cine/2026-10-03/la-bola-negra-frases-citas-memorables-guion-1qrt_4437021/",
-      "imagen": "https://images.ecestaticos.com/vqkd8Og3C1CIBoDWOPsEP4i7pS0=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F9e2%2F24f%2Fe2c%2F9e224fe2c59c7c6648718a6c0065409d.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La majestuosa universidad española que los Javis transformaron en un hospital de guerra en 'La bola negra': de estilo neogótico mudéjar y grandes jardines",
-      "link": "https://www.elconfidencial.com/viajes/2026-10-03/la-bola-negra-universidad-comillas-escenario-1qrt_4435274/",
-      "imagen": "https://images.ecestaticos.com/kf_hHfpdzTnvaQbZ9sVitubeIVE=/0x0:1024x768/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F82d%2F486%2F06a%2F82d48606abd9d3c13521462c422d0085.jpg",
       "tipo": "imagen"
     }
   ]

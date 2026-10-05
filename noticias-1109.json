@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Descubren un planeta devorado por su estrella, el origen de un mundo de segunda generación",
+      "link": "https://www.publico.es/ciencias/investigacion/descubren-planeta-devorado-estrella-origen-mundo-segunda-generacion.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/05/6ac3cd574e6f8.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Nobel de Medicina para Deisseroth, Hegemann y Nagel por sus descubrimientos en optogenética",
       "link": "https://www.publico.es/ciencias/investigacion/nobel-medicina-deisseroth-hegemann-nagel-descubrimientos-optogenetica.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/05/6ac377c8d26c2.webp",
@@ -28,12 +34,6 @@
       "titulo": "La IA de OpenAI intentó acceder sin autorización a webs oficiales del Gobierno de EEUU",
       "link": "https://www.publico.es/ciencias/tecnologia/ia-openai-intento-acceder-autorizacion-webs-oficiales-gobierno-eeuu.html",
       "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/07/22/6a60e36f1474a.r_d.961-574-1406.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Guterres llama a gobernar la IA: \"Debe ser moldeada por la humanidad y para la humanidad\"",
-      "link": "https://www.publico.es/ciencias/tecnologia/guterres-llama-gobernar-ia-debe-moldeada-humanidad-humanidad.html",
-      "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/22/6ab288ffbfb56.r_d.957-555-1406.jpeg",
       "tipo": "imagen"
     }
   ]
