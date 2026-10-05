@@ -1,7 +1,19 @@
 {
   "noticias": [
     {
-      "titulo": "Al menos 30 muertos en la República Democrática del Congo tras chocar dos barcos en el río Congo",
+      "titulo": "Un Brasil patas arriba",
+      "link": "https://www.lavanguardia.com/internacional/20261005/11651845/brasil-patas.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Palestina: ¿por qué no actúa la UE?",
+      "link": "https://www.lavanguardia.com/internacional/20261005/11651815/palestina-actua-ue.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/05/6ac414957f027.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Una veintena de muertos en la República Democrática del Congo tras chocar dos barcos en un río",
       "link": "https://www.lavanguardia.com/internacional/20261005/11651742/30-muertos-republica-democratica-congo-chocar-dos-barcos-rio-congo.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/05/6ac3dbf5794bb.jpeg",
       "tipo": "imagen"
@@ -22,18 +34,6 @@
       "titulo": "La nueva asistente de prensa de la Casa Blanca posó con un rifle y una camiseta contra Joe Biden",
       "link": "https://www.lavanguardia.com/internacional/20261005/11651574/nueva-asistenta-prensa-casa-blanca-poso-rifle-camiseta-joe-biden.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/05/6ac3b02e8a4a0.r_d.619-465-3618.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Meloni registra su 'marca de voz' en la UE para evitar 'deep fakes' y recreaciones con IA",
-      "link": "https://www.lavanguardia.com/internacional/20261005/11651508/meloni-registra-marca-voz-ue-evitar-deep-fakes-recreaciones-ia.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/05/6ac39984810d0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un menor pierde una mano y parte del antebrazo por una granada en las protestas educativas en Francia",
-      "link": "https://www.lavanguardia.com/internacional/20261005/11651305/protestas-profesores-previa-huelga-francia-afectan-mas-400-centros.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/05/6ac3855b6201a.jpeg",
       "tipo": "imagen"
     }
   ]

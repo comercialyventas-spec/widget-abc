@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "‘La Mesa de Hora 25’, programa en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-10-05/la-mesa-de-hora-25-programa-en-el-pais.html",
+      "imagen": "https://www.youtube.com/watch?v=2y7gE4ZmS9o",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Vídeos de ajedrez | Delicioso sacrificio de Velimírovic",
       "link": "https://elpais.com/ajedrez/videos/2026-10-05/videos-de-ajedrez-delicioso-sacrificio-de-velimirovic.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261005/1221994_145710_video_1800.mp4",
@@ -28,12 +34,6 @@
       "titulo": "La comparecencia íntegra de Feijóo tras la convocatoria de elecciones el 29 de noviembre",
       "link": "https://elpais.com/espana/2026-10-05/la-comparecencia-integra-de-feijoo-tras-la-convocatoria-de-elecciones-el-29-de-noviembre.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261005/1221820_082542_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La comparecencia íntegra de Pedro Sánchez para anunciar la convocatoria de elecciones el 29 de noviembre",
-      "link": "https://elpais.com/espana/2026-10-05/la-comparecencia-integra-de-pedro-sanchez-para-anunciar-la-convocatoria-de-elecciones-el-29-de-noviembre.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261005/1221798_072417_video_1800.mp4",
       "tipo": "imagen"
     }
   ]

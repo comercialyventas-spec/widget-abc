@@ -1,13 +1,19 @@
 {
   "noticias": [
     {
+      "titulo": "Barcelona reconoce la trayectoria del arquitecto Josep Antoni Acebillo",
+      "link": "https://www.elperiodico.com/es/barcelona/20261005/barcelona-josep-antoni-acebillo-arquitecto-trayectoria-urbanismo-135039969",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d1c0f8cc-be1f-4dfb-9d77-dda66d010258_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los alcaldes del entorno de la petroquímica de Tarragona reclaman conocer los riesgos químicos y del paso de mercancías",
       "link": "https://www.elperiodico.com/es/barcelona/20261005/alcaldes-entorno-petroquimica-tarragona-reclaman-135036572",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/5f2b543d-3d98-4f2b-a5dc-34672002730a_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Barcelona repartirá hasta tres Bonus Consum’ desde el 13 de octubre para descuentos en compras de 30 euros",
+      "titulo": "Barcelona repartirá hasta tres Bonus Consum’ por vecino desde el 13 de octubre para descuentos en compras de 30 euros",
       "link": "https://www.elperiodico.com/es/barcelona/20261005/barcelona-bonus-consum-descuentos-tiendas-135035937",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8c8e53d9-9984-4ca1-ae15-280d447ebe31_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Las lluvias dejan sin servicio un tramo de la L3 del metro de Barcelona siete horas después del primer corte",
       "link": "https://www.elperiodico.com/es/barcelona/20261005/lluvias-dejan-servicio-tramo-l3-siete-horas-despues-primer-corte-135028198",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9a958091-b994-423f-bf19-e1284f3ecbd2_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El episodio de lluvias \"más extraordinario en 60 años\" en Barcelona: 50 desprendimientos, dos escuelas cerradas y seis familias evacuadas",
-      "link": "https://www.elperiodico.com/es/barcelona/20261005/episodio-lluvias-extraordinario-50-desprendimientos-dos-escuelas-cerradas-seis-familias-evacuadas-barcelona-135017156",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a12f31b6-21ab-45fe-80c7-257ef7293abe_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

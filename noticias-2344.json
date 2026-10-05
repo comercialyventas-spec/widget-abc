@@ -1,7 +1,19 @@
 {
   "noticias": [
     {
-      "titulo": "Herido un varón de unos 60 años tras salirse de la vía con su camión en Zamora y quedar atrapado",
+      "titulo": "Un incendio en las inmediaciones de la estación de tren de Zamora obliga a movilizar a los servicios de emergencia",
+      "link": "https://www.zamora24horas.com/sucesos/incendio-inmediaciones-estacion-tren-zamora-obliga-movilizar-servicios-emergencia",
+      "imagen": "https://statics.zamora24horas.com/53b404e8-ac22-4b7b-95a4-8d2f219113af.webp?format=webp&width=320&quality=75",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Herida una mujer en un accidente en la A-66 en Zamora: el coche ha quedado en un desnivel",
+      "link": "https://www.zamora24horas.com/sucesos/herida-mujer-accidente-a-66-coche-ha-quedado-desnivel",
+      "imagen": "https://statics.zamora24horas.com/5815e05f-48d0-45fd-bf74-53c3b10d833f.webp?format=webp&width=320&quality=75",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Bomberos Trabajando En El Lugar",
       "link": "https://www.zamora24horas.com/sucesos/herido-varon-unos-50-anos-tras-salirse-via-camion-zamora-quedar-atrapado",
       "imagen": "https://statics.zamora24horas.com/f0e08f3f-b974-4700-9a1f-b847dfb724aa.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
@@ -13,21 +25,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Imagen de la Policía Local en Santa Clara atendiendo a la mujer",
+      "titulo": "Trasladada al hospital una mujer tras sufrir una aparatosa caída en el centro de Zamora",
       "link": "https://www.zamora24horas.com/sucesos/trasladada-hospital-mujer-tras-sufrir-aparatosa-caida-centro-zamora",
       "imagen": "https://statics.zamora24horas.com/49671804-cfc7-4480-99a6-0a50cdf1989b.webp?format=webp&width=320&quality=75",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Pillado tras cambiar la matrícula de su coche para poder participar en un encierro taurino en Villarrín",
-      "link": "https://www.zamora24horas.com/sucesos/pillado-tras-cambiar-matricula-coche-poder-participar-encierro-taurino-villarrin",
-      "imagen": "https://statics.zamora24horas.com/dfa4e95c-b3fc-4097-b34c-177a037325d1.webp?format=webp&width=320&quality=75",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Guardia Civil investiga los robos en varios institutos de la provincia",
-      "link": "https://www.zamora24horas.com/sucesos/guardia-civil-investiga-robos-varios-institutos-provincia",
-      "imagen": "https://statics.zamora24horas.com/b00bdd44-5f9f-42aa-bbd2-9e10b93c5ac0.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
     }
   ]
