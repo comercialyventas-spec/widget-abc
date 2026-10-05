@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Sánchez adelanto",
+      "link": "https://www.eldiario.es/politica/moncloa-prepara-adelanto-electoral-rescate-decretos-vivienda-tumbo-derecha_1_13561276.html",
+      "imagen": "https://static.eldiario.es/clip/143204df-d690-433e-b087-2fef01cce3d4_facebook-aspect-ratio-1200-675_default_0_x908y508.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Decretos vivienda",
       "link": "https://www.eldiario.es/economia/mitad-votantes-pp-vox-junts-apoyan-escudo-antidesahucios-veto-buitres_1_13556469.html",
       "imagen": "https://static.eldiario.es/clip/fbd55d00-6295-4629-be22-b7b35fd9618e_facebook-aspect-ratio-1200-675_default_0_x404y570.jpg",
@@ -15,8 +21,8 @@
     {
       "titulo": "Sumar Frente Amplio",
       "link": "https://www.eldiario.es/politica/partidos-sumar-anunciaran-candidato-17-octubre-confirman-nueva-marca-sera-frente-amplio_1_13560979.html",
-      "imagen": "https://static.eldiario.es/clip/83b4dc10-5576-49f6-9940-e4485253f01d_facebook-aspect-ratio-1200-675_default_0_x3078y2939.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Detenidos Núcleo Nacional",
@@ -27,12 +33,6 @@
     {
       "titulo": "Bombero desahucio",
       "link": "https://www.eldiario.es/galicia/roberto-rivas-bombero-nego-desahuciar-2013-burbuja-estallar-solucion-estara-calle_1_13544378.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Alicança Catalana",
-      "link": "https://www.eldiario.es/catalunya/alianca-pasaria-2-30-diputados-catalunya-disputaria-primer-puesto-psc-escanos_1_13560346.html",
       "imagen": "",
       "tipo": ""
     }

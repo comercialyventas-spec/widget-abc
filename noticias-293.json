@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Una plaza, un sueño",
+      "link": "https://www.abc.es/cultura/cultural/plaza-sueno-20261005011901-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/05/saint-sulpice-RRzmBLOzVbU82X9iNrxvPdN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Purgatorio no existe",
+      "link": "https://www.abc.es/cultura/cultural/purgatorio-existe-20261004011856-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/04/borgesok-RoNGjVoeyc2ek3nyxfm8DzI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Manuel Antonio Domínguez, ¡bien de Rosa!",
       "link": "https://www.abc.es/cultura/cultural/javier-diazguardiola-manuel-antonio-dominguez-bien-rosa-20261002234532-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/02/LBN_01_PAREJA_3x4_20260930182158-Raqy3FFHOE5GYyKTdnocJfI-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "'La tormenta de mierda'",
       "link": "https://www.abc.es/cultura/cultural/rodrigo-blanco-calderon-tormenta-mierda-20261002234509-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/28/netanyahu-R2CNQUVYzX1mC6281plzRTK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La ciudad invivible",
-      "link": "https://www.abc.es/cultura/cultural/elvira-navarro-ciudad-invivible-20261002234305-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/02/1403648480-R0ElAD0uRfdPd43UXCkI37O-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Prólogos con cacao",
-      "link": "https://www.abc.es/cultura/cultural/prologos-cacao-20261002234240-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/30/1468225855.jpg",
       "tipo": "imagen"
     }
   ]

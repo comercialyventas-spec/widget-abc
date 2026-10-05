@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Sánchez, la vivienda y las elecciones",
+      "link": "https://www.elmundo.es/podcasts/el-mundo-al-dia/2026/10/05/6abff281fdddff4a348b45d0.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/02/17909642619769.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Cuántos votos recupera Sánchez con Maricarmen?",
+      "link": "https://www.elmundo.es/espana/2026/10/05/6ac287acfdddffae7a8b45be.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/04/17911335576929.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El PP ve el órdago de Sánchez con el adelanto de las elecciones y no teme una campaña que pivote sobre vivienda",
+      "link": "https://www.elmundo.es/espana/2026/10/05/6ac11ec8fdddff4e1a8b45ae.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/03/17910261066156.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ni aunque me regalen un piso",
       "link": "https://www.elmundo.es/madrid/2026/10/04/6ac01f49e9cf4a07368b4595.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/02/17909756529354.jpg",
@@ -16,24 +34,6 @@
       "titulo": "La crisis del alquiler empuja a los jóvenes a vivir en hogares sin zonas comunes: \"Ninguno de los pisos que encontraba tenía salón\"",
       "link": "https://www.elmundo.es/economia/vivienda/2026/10/03/6abcef35e85ece900e8b457f.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/03/17910464955074.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Pedro Sánchez alcanza la cima del Monte Calvario",
-      "link": "https://www.elmundo.es/opinion/columnistas/2026/10/04/6ac0f95fe85ece1b0f8b4597.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/03/17910440699738.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Gobierno carga su discurso contra los grandes fondos, pero los decretos Maricarmen habrían arañado menos de 10 millones a las socimis",
-      "link": "https://www.elmundo.es/economia/vivienda/2026/10/03/6abfd695e9cf4a99108b4585.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/02/17909601664573.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tensión en Valencia: cinco detenidos y nueve policías heridos en el asalto al Palau de Les Arts, donde había un congreso inmobiliario",
-      "link": "https://www.elmundo.es/comunidad-valenciana/2026/10/03/6ac0eb8ae9cf4a466a8b45ba.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/03/17910281297418.jpg",
       "tipo": "imagen"
     }
   ]
