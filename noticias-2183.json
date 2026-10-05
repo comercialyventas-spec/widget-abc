@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "Última hora de la situación en Catalunya tras el histórico temporal de lluvia",
+      "titulo": "Lluvia en Catalunya, en directo: última hora del tiempo, ES-Alert en el Vallès Oriental y Maresme, Garraf y Barcelonès y pronóstico del Meteocat",
       "link": "https://www.elperiodico.com/es/sociedad/20261005/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f0e569fa-703e-4986-92ff-e7a1be211dd0_media-libre-aspect-ratio_default_0.jpg",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/45508a4a-ea54-4aa6-ba2e-13f72b8e90b1_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Dar sombra a los corales: ¿La solución contra su mortal blanqueamiento?",
+      "link": "https://www.elperiodico.com/es/medio-ambiente/20261005/dar-sombra-corales-solucion-mortal-135007280",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ca4a008e-3445-4178-8ff4-41207dd540f9_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El 25% de los participantes en un ensayo presentan niveles de químicos tóxicos’ o PFAS superiores a los recomendados",
+      "link": "https://www.elperiodico.com/es/medio-ambiente/20261005/25-participantes-ensayo-presentan-niveles-135003190",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/4f65d3f7-a435-457e-bf63-4ff7417a5d51_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -19,21 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "La aparición de tres aves insólitas cuestiona la temporada de caza en el delta del Ebro",
-      "link": "https://www.elperiodico.com/es/sociedad/20261004/aparicion-tres-aves-insolitas-caza-delta-ebro-focha-moruna-malvasia-cerceta-pardilla-134882078",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d4d670f6-e19c-4248-a84d-6f967fd54e7b_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Catalunya pierde la mitad de sus aves acuáticas invernantes en 15 años: \"Es un drama para la biodiversidad\"",
       "link": "https://www.elperiodico.com/es/sociedad/20261004/cataluna-pierde-mitad-aves-migratorias-mundo-declive-extincion-134927747",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/c360b4c0-6924-47a2-9cd1-c16b6970e0eb_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cómo dos sencillos inventos están reduciendo drásticamente la muerte de aves marinas por redes de pesca",
-      "link": "https://www.elperiodico.com/es/medio-ambiente/20261003/sencillos-inventos-reduciendo-drasticamente-muerte-134951894",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/5f08b531-25ab-476e-bb45-7ab5dd2601c8_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

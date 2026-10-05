@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La AEMET avisa de lluvias en la Comunidad Valenciana: chubascos fuertes acompañados de granizo",
+      "link": "https://okdiario.com/comunidad-valenciana/aemet-avisa-lluvias-comunidad-valenciana-chubascos-fuertes-acompanados-granizo-20480530",
+      "imagen": "https://okdiario.com/img/2026/10/04/imagen_recortada-3-1.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cecilia Correia gana el campeonato de la mejor tortilla de patatas de España en ‘Alicante Gastronómica’",
       "link": "https://okdiario.com/comunidad-valenciana/cecilia-correia-gana-campeonato-mejor-tortilla-patatas-espana-alicante-gastronomica-20479409",
       "imagen": "https://okdiario.com/img/2026/10/04/cecilia-clara-correia.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Pérez Llorca otorgará a Ceuta la Alta Distinción de la Generalitat frente al abandono de Sánchez",
       "link": "https://okdiario.com/comunidad-valenciana/perez-llorca-otorgara-ceuta-alta-distincion-generalitat-frente-abandono-sanchez-20469439",
       "imagen": "https://okdiario.com/img/2026/10/03/perez-llorca-y-vivas.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Así es ‘Kakaw’, elegida la mejor tarta de chocolate del mundo en ‘Alicante Gastronómica’",
-      "link": "https://okdiario.com/comunidad-valenciana/asi-kakaw-elegida-mejor-tarta-chocolate-del-mundo-alicante-gastronomica-20468979",
-      "imagen": "https://okdiario.com/img/2026/10/02/kakaw.jpg",
       "tipo": "imagen"
     }
   ]

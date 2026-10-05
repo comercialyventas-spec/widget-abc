@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Por una campaña constructiva",
+      "link": "https://www.lavanguardia.com/opinion/20261005/11651223/campana-constructiva.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Lluvia de sexta generación",
       "link": "https://www.lavanguardia.com/opinion/20261005/11650707/lluvia-sexta-generacion.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/04/6ac2778ff399c.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "El onomatetamantafulista",
       "link": "https://www.lavanguardia.com/opinion/20261005/11650729/onomatetamantafulista.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/09/25/68d5b344cf803.r_d.2915-2168-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ya os avisamos",
-      "link": "https://www.lavanguardia.com/opinion/20261005/11650715/avisamos.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/09/26/68d5ccf24c07a.jpeg",
       "tipo": "imagen"
     }
   ]

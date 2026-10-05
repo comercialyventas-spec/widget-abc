@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "La falsa prohibición",
+      "link": "https://www.abc.es/espana/cataluna/xavier-palau-altarriba-ppc-falsa-prohibicion-20261005123243-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/05/ida-R8tq6kEInhoHUdbbwpVkotM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Protección Civil envía una ES-Alert en siete comarcas de Barcelona y una de Gerona por las fuertes lluvias",
+      "link": "https://www.abc.es/espana/cataluna/proteccion-civil-envia-esalert-valles-oriental-maresme-20261005093436-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/05/besos-Rzugldsgaa7dTDmJEXidG6N-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Obediencia",
+      "link": "https://www.abc.es/espana/cataluna/obediencia-20261005112300-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/05/DAMBin-Rwd7bceZxa5K78sYnZxm0MP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sánchez y la ultraizquierda expropian la calle",
       "link": "https://www.abc.es/espana/cataluna/sanchez-ultraizquierda-echan-calle-20261002013137-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/02/DAMBin-RLvJPJrVcHQpAl819tDNaJK-1200x840@diario_abc.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Dos muertos y un desaparecido por el fuerte temporal en Cataluña",
       "link": "https://www.abc.es/espana/cataluna/muerto-tordera-tras-caida-muro-temporal-azota-20261004094427-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/04/colpaso-bomberos-muros_20261004094155-RL9ljuqSItpkjMkVw9ikY9K-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un escupitajo",
-      "link": "https://www.abc.es/espana/cataluna/escupitajo-20261004195052-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/04/turo-sagrada-familia-RXT7FBFKAI26BL1BVOpWpZN-1200x840@diario_abc.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Dos detenidos por matar a otro en Lérida tras una pelea",
-      "link": "https://www.abc.es/espana/cataluna/dos-detenidos-matar-lerida-tras-pelea-20261004162517-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/04/mossos-detenido-RQaLl4FkwfgnJ3J9cVsiBJK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las fuertes lluvias obligan a evacuar la planta baja del Hospital de Blanes",
-      "link": "https://www.abc.es/espana/cataluna/fuertes-lluvias-obligan-evacuar-planta-baja-hospital-20261004115311-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/04/hospital-blanes-RhHYJE7E1nJmn4hw7bUKtbI-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

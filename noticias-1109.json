@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Nobel de Medicina para Deisseroth, Hegemann y Nagel por sus descubrimientos en optogenética",
+      "link": "https://www.publico.es/ciencias/investigacion/nobel-medicina-deisseroth-hegemann-nagel-descubrimientos-optogenetica.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/05/6ac377c8d26c2.webp",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El hackeo a Renfe y el robo de 150 millones de datos revela las grietas de lo público ante la IA",
       "link": "https://www.publico.es/ciencias/tecnologia/hackeo-renfe-robo-150-millones-datos-revela-grietas-publico-ia.html",
       "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/29/6abc088fadef2.r_d.720-387-1862.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Guterres llama a gobernar la IA: \"Debe ser moldeada por la humanidad y para la humanidad\"",
       "link": "https://www.publico.es/ciencias/tecnologia/guterres-llama-gobernar-ia-debe-moldeada-humanidad-humanidad.html",
       "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/22/6ab288ffbfb56.r_d.957-555-1406.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los padres españoles son los que más sobreexponen a sus hijos en internet de toda la UE",
-      "link": "https://www.publico.es/ciencias/tecnologia/padres-espanoles-son-sobreexponen-hijos-internet-toda-ue.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/22/6ab254d694c68.jpeg",
       "tipo": "imagen"
     }
   ]

@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "Al menos dos muertos y una persona desaparecida en la provincia de Barcelona por el temporal de lluvias",
-      "link": "https://www.rtve.es/noticias/20261004/barcelona-temporal-lluvias-cataluna-desbordamiento-inundaciones/17252638.shtml",
-      "imagen": "https://img.rtve.es/v/17252862?w=1600",
+      "titulo": "Docentes, ante el reto de llamar la atención de los alumnos en un mundo tecnológico: \"Ya no les motivan las mismas cosas\"",
+      "link": "https://www.rtve.es/noticias/20261005/docentes-reto-atencion-alumnos-mundo-tecnologico/17251327.shtml",
+      "imagen": "https://img.rtve.es/n/17251327?w=1600",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Tribunal Superior de Justicia de Madrid rechaza desalojar la Puerta del Sol como pide el Gobierno de Ayuso",
+      "link": "https://www.rtve.es/noticias/20261005/tribunal-superior-justicia-madrid-ayuso-desalojo-sol/17253401.shtml",
+      "imagen": "https://img.rtve.es/n/17253401?h=200",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Policía termina la segunda fase del desalojo de los migrantes en la Playa de Trampolín, Ceuta",
+      "link": "https://www.rtve.es/noticias/20261005/policia-levantamiento-migrantes-playa-trampolin/17253139.shtml",
+      "imagen": "https://img.rtve.es/n/17253139?h=200",
       "tipo": "imagen"
     },
     {
@@ -19,21 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Maricarmen podrá volver a su casa, freno al cáncer cerebral y otras buenas noticias de la semana",
-      "link": "https://www.rtve.es/noticias/20261004/maricarmen-casa-freno-cancer-cerebral-buenas-noticias-semana/17250896.shtml",
-      "imagen": "https://img.rtve.es/n/17250896?h=200",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Closingap: medir los beneficios económicos de acabar con la desigualdad de género",
       "link": "https://www.rtve.es/noticias/20261004/closingap-beneficios-economicos-acabar-desigualdad-genero/17245358.shtml",
       "imagen": "https://img.rtve.es/n/17245358?h=200",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Decenas de miles de personas claman por la vivienda y llaman a la huelga en toda España: \"Ahora estamos unidos\"",
-      "link": "https://www.rtve.es/noticias/20261003/manifestaciones-vivienda-espana-cronica/17252068.shtml",
-      "imagen": "https://img.rtve.es/v/17252321?h=200",
       "tipo": "imagen"
     }
   ]
