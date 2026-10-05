@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Sánchez comparece desde la Moncloa para desvelar si adelanta las elecciones",
+      "titulo": "Sánchez convoca elecciones para el 29 de noviembre",
+      "link": "https://www.20minutos.es/nacional/sanchez-convoca-elecciones-generales-para-29-noviembre_7044734_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/05/6ac34edb0c4363-37532459.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Adelanto electoral de Sánchez, en directo | Feijóo hará una declaración institucional a las 10.00 horas tras el anuncio de adelanto electoral de Sánchez",
       "link": "https://www.20minutos.es/nacional/adelanto-electoral-sanchez-directo-sanchez-decide-si-convoca-elecciones-tras-un-fin-semana-reflexion-movilizaciones-las-calles_7044725_6.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/05/6ac3420f22ed58-83464277.jpeg",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/03/6ac0f6d33dd3b2-65483131.jpeg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "El rey Felipe VI, Leonor y Sofía acaparan todas las miradas en su llegada a la carrera de F1 en el Madring",
       "link": "https://www.20minutos.es/deportes/rey-felipe-acude-leonor-sofia-acaparan-todas-miradas-llegada-carrera-f1-madring_7036135_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/09/13/6aa68ece930b36-19301211.r_d.1641-528.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Madrid ruge 45 años después",
-      "link": "https://www.20minutos.es/deportes/opinion-fogonazo-jesus-morales-madrid-ruge-45-anos-despues_7036214_3.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/13/6aa6b577eb09b2-03754260.jpeg",
       "tipo": "imagen"
     }
   ]
