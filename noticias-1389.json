@@ -1,21 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Reacciones a los decretos de vivienda y las acampadas en directo | Máxima expectación ante la declaración institucional anunciada por Sánchez a las 9.00 en Moncloa",
+      "link": "https://elpais.com/espana/2026-10-05/reacciones-a-los-decretos-de-vivienda-y-las-acampadas-en-directo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XRTKHKAKIJDWXIDEV4FYMRQS4I.jpg?auth=9ef6ea21f8f5ed6248bbab6837db57473726fdee1764f7b96dfa3366030809f8",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Todo listo en el PSOE y el Gobierno para un adelanto electoral tras la derrota de los decretos en el Congreso",
+      "link": "https://elpais.com/espana/2026-10-04/todo-listo-en-el-psoe-y-el-gobierno-para-un-adelanto-electoral-tras-la-derrota-de-los-decretos-en-el-congreso.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/FETLTGFE2JERZBLWCADFVAFFS4.JPG?auth=0386d049f28cf082d112ae10e07f24a079e576c8354c848e98bd5a7d1e590581",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las Bolsas abren al alza con el euro en su nivel más bajo en 17 meses",
+      "link": "https://cincodias.elpais.com/mercados-financieros/2026-10-05/la-bolsa-y-el-ibex-35.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/6E4TQY3XNZGADNBZSLMCOMYTME.jpg?auth=33f8cfd5591ec0993b56ee188a895b2f73be0cd25d97224ef4f60f79d0e2f06c",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Seat frena el acuerdo con Indra para entrar en defensa por sus dudas sobre la viabilidad del proyecto",
       "link": "https://elpais.com/economia/2026-10-05/seat-frena-el-acuerdo-con-indra-para-entrar-en-defensa-por-sus-dudas-sobre-la-viabilidad-del-proyecto.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/ULSCGKKANJEFFHRM7ZHJBP6C54.jpg?auth=e7a6701416aa7e9a4f3b0731f8c6f60f8888c4616528ce460025fa8224f1c07c",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Santander, JP Morgan y Citi lideran la banca de inversión y disparan un 44% sus comisiones",
-      "link": "https://cincodias.elpais.com/mercados-financieros/2026-10-05/el-santander-jp-morgan-y-citi-lideran-la-banca-de-inversion-y-disparan-un-44-sus-comisiones.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/O5QCAXDJ7JHCNLZ3LLRQDNDM54.jpg?auth=bd2811021594c5e7228f2c6c471c39da560f2d9d1ccdaebaec3d9831cb1844ae",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Cómo se calcula mi sueldo? ¿Mi turno depende de algoritmos? La nueva información que puedes exigir desde hoy en tu contrato",
-      "link": "https://elpais.com/economia/2026-10-05/como-se-calcula-mi-sueldo-mi-turno-depende-de-algoritmos-la-nueva-informacion-que-puedes-exigir-desde-hoy-en-tu-contrato.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/7LQQLLWICJBURPKT6HEYKHP2RE.jpg?auth=7ed878df86554a0199609dde4d6769fdf8b5fb5a3a907ac6facd0834767e47a0",
       "tipo": "imagen"
     },
     {
@@ -25,15 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Las costuras de la supervisión cripto europea, expuestas por Tether",
-      "link": "https://cincodias.elpais.com/criptoactivos/2026-10-05/las-costuras-de-la-supervision-cripto-europea-expuestas-por-tether.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/2FNYJDUPNMVFBCIGKOEBGYTN4I.jpg?auth=027979a69194f43dcc69f097780578c3b73d14dc990f44fc2cf30b3a6a233eaa",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las Bolsas apuntan al alza con el euro en su nivel más bajo en 17 meses",
-      "link": "https://cincodias.elpais.com/mercados-financieros/2026-10-05/la-bolsa-y-el-ibex-35.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/6E4TQY3XNZGADNBZSLMCOMYTME.jpg?auth=33f8cfd5591ec0993b56ee188a895b2f73be0cd25d97224ef4f60f79d0e2f06c",
+      "titulo": "El Santander, JP Morgan y Citi lideran la banca de inversión y disparan un 44% sus comisiones",
+      "link": "https://cincodias.elpais.com/mercados-financieros/2026-10-05/el-santander-jp-morgan-y-citi-lideran-la-banca-de-inversion-y-disparan-un-44-sus-comisiones.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/O5QCAXDJ7JHCNLZ3LLRQDNDM54.jpg?auth=bd2811021594c5e7228f2c6c471c39da560f2d9d1ccdaebaec3d9831cb1844ae",
       "tipo": "imagen"
     }
   ]
