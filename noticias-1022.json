@@ -1,40 +1,34 @@
 {
   "noticias": [
     {
+      "titulo": "Sánchez quiere un plebiscito",
+      "link": "https://www.abc.es/opinion/pedro-garcia-cuartango-sanchez-quiere-plebiscito-20261005122141-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2026/10/05/1518314672-RyS7DrDHFn8vyJO2fMTYz6O-1200x840@diario_abc.JPG"
+    },
+    {
+      "titulo": "El precio del apalancamiento: Lula, medio siglo y dos generaciones como líder de la izquierda",
+      "link": "https://www.abc.es/internacional/precio-apalancamiento-lula-medio-siglo-dos-generaciones-20261005125128-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/05/1518312928-RtxxwVBWaLrGfc4bguXrFpK-1200x840@diario_abc.jpg"
+    },
+    {
+      "titulo": "La Justicia rechaza el desalojo de la acampada de Sol solicitado por Ayuso",
+      "link": "https://www.abc.es/espana/madrid/justicia-madrilena-rechaza-desalojo-acampada-sol-solicitado-20261005105355-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/05/1518315280-RtyC8LWe9RUuf76neCkcxrI-1200x840@diario_abc.jpg"
+    },
+    {
+      "titulo": "Premio Nobel Medicina 2026 a Karl Deisseroth, Peter Hegemann y Georg Nagel por sus descubrimientos de la optogenética",
+      "link": "https://www.abc.es/ciencia/premio-nobel-medicina-2026-karl-deisseroth-peter-20261005113243-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/10/05/medicina-kW2-U302060151819VzE-1200x840@diario_abc.png"
+    },
+    {
+      "titulo": "Ni la lluvia lo para: el JBL Flip 7 con IP68 y 16 horas de batería está rebajado un 29%",
+      "link": "https://www.abc.es/favorito/electronica/accesorios/ni-la-lluvia-lo-para-el-20261001094148-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/favorito/2026/10/01/portada-20261001100405-RzRn2EyL9p6DjfhplQV9ycN-1200x840@diario_abc.jpg"
+    },
+    {
       "titulo": "Milicias Hutíes, bloqueos y crisis humanitaria: te explicamos por qué te cuesta tanto la gasolina",
       "link": "https://www.abc.es/internacional/milicias-huties-bloqueos-crisis-humanitaria-explicamos-cuesta-20260923124506-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/23/1517499704%20%20in%20Sanaa%20on%20September%2018,%202026.%20Mohammed%20HUWAIS%20%20AFP-RmOU5yTsl7e5rOFKTbARvQK-1200x672@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "No es un Apple Watch, pero el Huawei GT 6 Pro está en oferta y lleva una batería insuperable",
-      "link": "https://www.abc.es/favorito/electronica/wearables/no-es-un-apple-watch-pero-20261001093759-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/favorito/2026/10/01/portada-20261001095104-RrHGjtRKxVWtRZxOxednCLN-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Abascal: «Serán malas noticias si Sánchez manipula el proceso electoral, y es capaz»",
-      "link": "https://www.abc.es/espana/comparecencia-pedro-sanchez-directo-posible-convocatoria-elecciones-20261005080806-di.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/05/pedrr-U20631907919iuH-U302059744511GbD-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Flávio Bolsonaro supera a Lula da Silva y conquista una holgada mayoría parlamentaria",
-      "link": "https://www.abc.es/internacional/flavio-bolsonaro-aventaja-lula-silva-elecciones-brasilenas-20261005003351-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/05/1518298067-koxD-U30205789193350-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Daniel Sancho pidió primero 100.000 euros a su padre, Rodolfo Sancho: esta fue su contundente respuesta",
-      "link": "https://www.abc.es/gente/daniel-sancho-pidio-primero-100000-euros-padre-20261005123509-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/10/05/daniel-rodolfo-RAgAZKMhbDUcxXanQf82YQL-1200x840@diario_abc.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ángel Arroyo, el corredor que devolvió la autoestima al ciclismo español",
-      "link": "https://www.abc.es/deportes/ciclismo/angel-arroyo-corredor-devolvio-autoestima-ciclismo-espanol-20261005121647-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/05/angel-arroyo-perfil-RWEFjRZl7vGPwzpHQLwrp2M-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/23/1517499704%20%20in%20Sanaa%20on%20September%2018,%202026.%20Mohammed%20HUWAIS%20%20AFP-RmOU5yTsl7e5rOFKTbARvQK-1200x672@diario_abc.jpg"
     }
   ]
 }
