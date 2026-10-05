@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Juan Carlos Monedero",
+      "link": "https://www.elconfidencialdigital.com/album/politica/juan-carlos-monedero/202610050500001490388.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/03/2026100301344656902.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Frente Amplio",
       "link": "https://www.elconfidencialdigital.com/album/politica/frente-amplio/202610041522021490555.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2024/09/08/2024090821221499363.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Mónica García",
       "link": "https://www.elconfidencialdigital.com/album/politica/monica-garcia/202609101246081040004.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/10/2026091012432270088.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El ministro de Cultura, Ernest Urtasun",
-      "link": "https://www.elconfidencialdigital.com/album/politica/ministro-cultura-ernest-urtasun/202609060500001038948.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/06/26/2026062615035277942.jpg",
       "tipo": "imagen"
     }
   ]

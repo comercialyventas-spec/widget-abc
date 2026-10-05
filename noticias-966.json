@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "El país con más premios del mundo",
+      "link": "https://elpais.com/television/2026-10-05/el-pais-con-mas-premios-del-mundo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/D4YQXTL7VVKQRBB32JJAEGIMXA.jpg?auth=19cb74e6263f7b561211c14b5b76f04cc4c8af68ac40c278e6e6b954b6d01e28",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las mejores series de los últimos meses",
+      "link": "https://elpais.com/television/series/2026-10-05/las-mejores-series-del-tercer-trimestre-de-2026.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/OR5I6U5TONA4VHQJQOJNKNFH2A.jpg?auth=743b190a61fe3408373a6ad55e834a631cd79317d12489cbb77a768ae3e6d40b",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Inspectora Marleau",
+      "link": "https://elpais.com/television/series/inspectora-marleau/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/YCU3G3S3ZBEH7AUJGVP77EOQME.jpg?auth=a803fecf95e798d3c0fb61025a9b828835aa32024c89460e4a495a2b0a1629e5",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Todos los fantasmas y alienígenas son de derechas",
       "link": "https://elpais.com/television/2026-10-04/todos-los-fantasmas-y-alienigenas-son-de-derechas.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/P2OS4O5PZVGHJP2ZPOIHJL22Q4.jpg?auth=03b515f8d264ccab7d8517d07f95ef88390feade2522da039b7a3e5580b9b478",
@@ -16,24 +34,6 @@
       "titulo": "Cristina Pardo: “Los políticos son mis empleados, por eso soy una jueza severa con todos”",
       "link": "https://elpais.com/television/2026-10-04/cristina-pardo-los-politicos-son-mis-empleados-por-eso-soy-una-jueza-severa-con-todos.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/RXDHCHTEJFEETHX5Y2R3QG63YY.jpg?auth=b30f90a46903821e3158ea9620f79e1058372ef75c0865eaa921ca62263d8d19",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Richard Dean Anderson, mítico MacGyver: “Era diferente, un héroe de televisión que no usaba armas. Pensaba, observaba y resolvía”",
-      "link": "https://elpais.com/television/series/2026-10-03/richard-dean-anderson-mitico-macgyver-era-diferente-un-heroe-de-television-que-no-usaba-armas-pensaba-observaba-y-resolvia.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/CQOXAPUXNJCJXOFE2YZP3YHNSI.jpg?auth=7e5cbd185b8f40c76aa33c471835175cfe897e3e274b1859972922506d13e796",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Comiéndome nuevas series con distinto esfuerzo",
-      "link": "https://elpais.com/television/series/2026-10-03/comiendome-nuevas-series-con-distinto-esfuerzo.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260429/1165481_134032_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Catherine Zeta-Jones tiene ganas de acción en el Bilbao de ‘Kill Jackie’: “Me buscaron la casa cerca del golf para tenerme feliz”",
-      "link": "https://elpais.com/television/series/2026-10-03/catherine-zeta-jones-tiene-ganas-de-accion-en-el-bilbao-de-kill-jackie-me-buscaron-la-casa-cerca-del-golf-para-tenerme-feliz.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/6HZOPASVUBCY3P7XII3HUXX3PY.jpg?auth=b5cb087b2a515b23943a43c060845ab39714ec6d2440d5fcc480bd283077fb21",
       "tipo": "imagen"
     }
   ]

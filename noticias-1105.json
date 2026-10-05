@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Exploran el océano Índico a 500 metros de profundidad y encuentran un tipo de tiburón desconocido para la ciencia",
+      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-05/oceano-indico-500-m-profundidad-nuevo-tipo-tiburon-1qrt_4437200/",
+      "imagen": "https://images.ecestaticos.com/c5-XV2SikIjGyWGoJ48mAPczwpc=/0x0:1242x940/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F26a%2F77c%2Fd5c%2F26a77cd5cfecd1ba5c44f498bf22d15a.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Dos coches autónomos se estrellan a 250 km/h y la industria del motor lo celebra por todo lo alto",
+      "link": "https://www.elconfidencial.com/tecnologia/2026-10-05/dos-coches-autonomos-se-estrellan-250-kmh-industria-motor-celebra-1qrt_4437036/",
+      "imagen": "https://images.ecestaticos.com/3fXV-TOIHf-xNcL6SnUYpcfXnug=/0x0:1904x1090/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff86%2Fb7b%2F9e7%2Ff86b7b9e731d615d095f7f2652ca9121.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Exploran la superficie de Groenlandia y descubren que el hielo se está volviendo negro",
       "link": "https://www.elconfidencial.com/tecnologia/2026-10-04/groenlandia-hielo-se-esta-volviendo-negro-1qrt_4436927/",
       "imagen": "https://images.ecestaticos.com/l4_duXPMrQeWP1H6jG4fXh-_Hdc=/0x0:2272x1416/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff68%2Fb0e%2F2a3%2Ff68b0e2a37669cdc75fe18fcce4c6649.jpg",
@@ -22,18 +34,6 @@
       "titulo": "ChatGPT descifra un mensaje de radio alemán de la 1ª Guerra Mundial: nadie lo había logrado desde su emisión en 1918",
       "link": "https://www.elconfidencial.com/tecnologia/2026-10-04/chatgpt-descifra-mensaje-radio-aleman-primera-guerra-mundial-1918-1qrt_4436156/",
       "imagen": "https://images.ecestaticos.com/Skmf2A5ToVU7vdjnwxHJHzlB85E=/0x0:1716x968/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd39%2Fd32%2Faa6%2Fd39d32aa63fe59d787371d3ace83e0ec.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ni un cerdo ni un jabalí: confirman la existencia de un animal \"infernal\" en España hace 30 millones de años",
-      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-04/confirman-existencia-animal-infernal-espana-1qrt_4436878/",
-      "imagen": "https://images.ecestaticos.com/MrajfDnFerXi1CwB-esQ6yiH-1Y=/0x0:1200x672/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc80%2F3d7%2F1bf%2Fc803d71bf7b191fcb624a0449aa3004f.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Construyen un nuevo reloj atómico tan preciso que abrirá una nueva era en la ciencia",
-      "link": "https://www.elconfidencial.com/tecnologia/novaceno/2026-10-04/nuevo-reloj-atomico-que-redefinira-la-medida-del-segundo_4437649/",
-      "imagen": "https://images.ecestaticos.com/E3xncNJFywJHdvmI0XiRSvYLwE4=/0x0:1200x800/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc17%2F495%2F35a%2Fc1749535ac41d9f7751fe7f83dc1f638.jpg",
       "tipo": "imagen"
     }
   ]

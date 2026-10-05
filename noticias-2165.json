@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "'La protesta y la queja'",
+      "link": "https://www.infolibre.es/cultura/libros/protesta-queja_1_2237243.html",
+      "imagen": "https://static.infolibre.es/clip/276bbfbe-9c6a-449f-b410-3fdeedbb0449_16-9-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "'La Transición para jóvenes'",
+      "link": "https://www.infolibre.es/cultura/libros/transicion-contada-jovenes_1_2237184.html",
+      "imagen": "https://static.infolibre.es/clip/fe59939a-f27e-4fb1-b0ee-bb365afbf1f0_16-9-aspect-ratio_50p_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "'Sombra nómada’, el regreso imposible de una saharaui deportada: \"Somos uno de los pueblos más olvidados\"",
       "link": "https://www.infolibre.es/cultura/cine/sombra-nomada-regreso-imposible-saharaui-deportada-pueblos-olvidados_1_2237202.html",
-      "imagen": "https://static.infolibre.es/clip/753901a2-a314-42ee-810f-0c5b70e05722_16-9-aspect-ratio_default_0.jpg",
+      "imagen": "https://static.infolibre.es/clip/753901a2-a314-42ee-810f-0c5b70e05722_16-9-aspect-ratio_50p_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Arde Bogotá: \"Que todo pueda medirse en cifras es parte de la deshumanización de la industria musical\"",
       "link": "https://www.infolibre.es/cultura/musica/arde-bogota-hay-gente-deprimida-gestionar-emociones-son-fruto-vivir-contrarreloj_1_2237129.html",
       "imagen": "https://static.infolibre.es/clip/12f9c4ad-f981-433c-8230-85dff88448eb_16-9-aspect-ratio_50p_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sin un poco de locura, no hay cordura",
-      "link": "https://www.infolibre.es/cultura/los-diablos-azules/locura-no-hay-cordura_1_2237133.html",
-      "imagen": "https://static.infolibre.es/clip/107acf53-5f07-45f2-b92a-a3ad55bc0675_16-9-aspect-ratio_50p_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cuando se despertó, ahí estaba el microrrelato",
-      "link": "https://www.infolibre.es/cultura/los-diablos-azules/desperto-microrrelato_1_2237089.html",
-      "imagen": "https://static.infolibre.es/clip/a03a07b3-b0ba-4b14-8842-44e5935b5cfe_16-9-discover-aspect-ratio_50p_0.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Ceuta | La lucha de los que no quieren volver",
+      "link": "https://elpais.com/videos/2026-10-05/ceuta-la-lucha-de-quienes-se-resisten-a-volver-a-marruecos.html",
+      "imagen": "https://www.youtube.com/watch?v=7LtnDqVJJrE",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Por qué hay cientos migrantes que han regresado a Marruecos “voluntariamente” tras el desalojo de El Trampolín?",
       "link": "https://elpais.com/videos/2026-10-04/por-que-hay-migrantes-que-han-abandonado-ceuta-hacia-marruecos-voluntariamente.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261004/1221700_182254_video_1800.mp4",
@@ -28,12 +34,6 @@
       "titulo": "De Nueva York a Madrid: las ciudades que cuentan las historias de Woody Allen",
       "link": "https://elpais.com/videos/2026-10-03/de-nueva-york-a-madrid-las-ciudades-que-cuentan-las-historias-de-woody-allen.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261002/1221218_160613_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘La Mesa de Hora 25’, programa en EL PAÍS",
-      "link": "https://elpais.com/videos/2026-10-02/la-mesa-de-hora-25-programa-en-el-pais.html",
-      "imagen": "https://www.youtube.com/watch?v=8DKMDXlg4bA",
       "tipo": "imagen"
     }
   ]
