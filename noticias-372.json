@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Noucor completa la adquisición de HELM Pharmaceuticals",
+      "link": "https://www.elconfidencial.com/empresas/2026-10-05/noucor-adquisicion-helm-pharmaceuticals-1hms-1svm_4438621/",
+      "imagen": "https://images.ecestaticos.com/j2PF0ZkPvaCJxr-Dv2wIdEef5h8=/0x0:2272x1704/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F6fe%2F815%2Fd88%2F6fe815d8886a8bccf2b2e2fb247c0462.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Open Cosmos anuncia 192 satélites para su constelación ConnectedCosmos",
+      "link": "https://www.elconfidencial.com/empresas/2026-10-05/connectedcosmos-red-conectividad-satelites-europeas-1hms-1svm_4438622/",
+      "imagen": "https://images.ecestaticos.com/s2Vb67J2wIjW59WlHIHk0t3yJLE=/0x0:1200x800/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fdb7%2F32b%2F9af%2Fdb732b9affbab9a98195cfb01d98956e.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ibai Llanos y Gerard Piqué entran en la startup de aperitivos saludables Plesh",
+      "link": "https://www.elconfidencial.com/empresas/2026-10-05/ibai-llanos-y-gerard-pique-entran-en-la-startup_4438550/",
+      "imagen": "https://images.ecestaticos.com/qPJPVClQYCcI-DMWCT5naydEdbQ=/0x0:1035x576/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F305%2F02c%2F8a3%2F30502c8a3aca89552a0d74ed21417ea5.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La EUIPO da otro golpe al imitador turco de Mercadona y frena su registro como supermercado en Europa",
       "link": "https://www.elconfidencial.com/empresas/2026-10-05/euipo-golpe-imitador-turco-mercadona-supermercados_4438489/",
-      "imagen": "https://images.ecestaticos.com/1Bc7_lIOEWqwObhCeF9aZDbGLsk=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F201%2Fd88%2F04f%2F201d8804faf2e3f521e1886e1a736d7d.jpg",
+      "imagen": "https://images.ecestaticos.com/N80IyELi-J3QJS86cc9llhy-OBA=/0x0:2272x1585/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F69f%2F271%2Ff14%2F69f271f14bc78248674e65744ea84129.jpg",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "Nokia releva a su responsable en España y nombra a Fernando Rionegro",
       "link": "https://www.elconfidencial.com/empresas/2026-10-05/nokia-responsable-fernando-rionegro-espana-1tps_4438294/",
       "imagen": "https://images.ecestaticos.com/oDhAQhV_yLZL3XA0TOtKOnSCW4s=/0x0:2272x1548/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff13%2Fe51%2F352%2Ff13e513525eb071ceff5f34332a915f1.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Salón Náutico de Barcelona reúne al sector: 300 marcas, 200 embarcaciones y 170 expositores",
-      "link": "https://www.elconfidencial.com/empresas/2026-10-05/salon-nautico-barcelona-edicion-2026-bra_4436090/",
-      "imagen": "https://images.ecestaticos.com/T_e3g-jiprIZj-gYux2nMgQER0g=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb99%2F3b5%2F78e%2Fb993b578e3125463c813bef8851d2e3c.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El informe de Urbas despeja el camino para condenar a la cúpula por la quiebra",
-      "link": "https://www.elconfidencial.com/empresas/2026-10-05/el-informe-de-urbas-despeja-el-camino-para-condenar-a-la-cupula-por-la-quiebra_4437179/",
-      "imagen": "https://images.ecestaticos.com/Y44muVh9dr1vXw0LMuB-No6gtx4=/0x0:2272x1704/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbec%2F26b%2F5e1%2Fbec26b5e1fd23460e914442843dc7218.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Foro 'España energética', en imágenes",
-      "link": "https://www.elconfidencial.com/empresas/2026-07-03/energia-resiliencia-sostenibilidad-bra_4382218/",
-      "imagen": "https://images.ecestaticos.com/w2r1xlnALHSV6xitnNSbYQGlUF0=/0x0:1920x1281/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa94%2F93c%2Fea7%2Fa9493cea774861ee611bf3b11650af5b.jpg",
       "tipo": "imagen"
     }
   ]

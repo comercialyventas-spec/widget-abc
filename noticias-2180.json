@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Las lluvias provocan afectaciones en varios centros sanitarios, sobre todo en Granollers, Barcelona y Girona",
+      "link": "https://www.elperiodico.com/es/sociedad/20261005/lluvias-centros-sanitarios-hospitales-goteras-135023254",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/847c2fc2-532a-4bfe-91e7-f7289accaa68_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El temporal deja dos muertos y graves daños en infraestructuras tras unas lluvias históricas en Catalunya",
       "link": "https://www.elperiodico.com/es/tiempo/20261004/temporal-deja-muertos-graves-danos-lluvias-historicas-catalunya-134995071",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6646264c-2c10-453a-9ce9-b6ff8ff13a7e_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Qué es un 'medicane', el huracán mediterráneo que se puede formar en Catalunya y que eleva el peligro de lluvias torrenciales",
       "link": "https://www.elperiodico.com/es/tiempo/20261003/que-es-medicane-huracan-mediterraneo-catalunya-peligro-lluvias-torrenciales-dv-134954323",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/5af2f8bb-86f8-46a4-b516-88e7b01af37f_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tiempo en Catalunya hoy sábado: El Meteocat extiende los avisos por lluvias a todo el litoral",
-      "link": "https://www.elperiodico.com/es/tiempo/20261002/tiempo-cataluna-hoy-sabado-3-de-octubre-lluvias-meteocat-temperaturas-dv-loc-134941193",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/e82519ef-022d-429b-91b4-f0a837850daf_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

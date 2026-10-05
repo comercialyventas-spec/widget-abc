@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "Una nueva IA detecta en la retina una enfermedad arterial silenciosa asociada a infartos e ictus",
-      "link": "https://www.elperiodico.com/es/sanidad/20261004/ia-detecta-retina-enfermedad-enfermedad-arterial-silenciosa-ictus-infartos-134878448",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/99b37090-90e9-41b8-a52f-7151ee2a86cc_media-libre-aspect-ratio_default_0.jpg",
+      "titulo": "Así es baloxavir marboxil, el primer antiviral para la gripe que aprueba Europa en los últimos 20 años",
+      "link": "https://www.elperiodico.com/es/sanidad/20261005/baloxavir-marboxil-primer-antiviral-gripe-aprueba-europa-ultimos-anos-135017158",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/51f51ee5-ddb9-481e-81b3-921bed48c937_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Nobel de Medicina premia a los padres de la optogenética, la técnica que usa la luz para conocer el cerebro",
+      "link": "https://www.elperiodico.com/es/sociedad/20261005/nobel-medicina-deisseroth-hegemann-nagel-135012030",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/64b1683e-7a76-4d2b-8bd4-e5e4d38e421e_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El 70% de los pacientes con cáncer tiene desnutrición relacionada con su enfermedad: los médicos piden cribados desde el diagnóstico",
+      "link": "https://www.elperiodico.com/es/sanidad/20261005/pacientes-cancer-desnutricion-relacionada-enfermedad-cribados-diagnostico-medicos-135010090",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/e0e0cf4b-cd45-4975-9d57-52e3f75ad291_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Qué pasa ahora con la huelga indefinida de médicos prevista desde el 28 de octubre? Los sindicatos valoran si desconvocan el paro",
+      "link": "https://www.elperiodico.com/es/sanidad/20261005/pasa-ahora-huelga-indefinida-medicos-135007083",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f3b160e0-eb63-439a-ab75-5e1ee88f6b90_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -13,27 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "María José Misa, psiquiatra perinatal: \"La mujer no siempre es consciente de que está viviendo una psicosis posparto\"",
-      "link": "https://www.elperiodico.com/es/sanidad/20261004/maria-jose-misa-psiquiatra-mujer-no-sabe-psicosis-posparto-madre-134856808",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/11064691-5b0e-45fc-9c6f-3728f803215f_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El desabastecimiento de Lenzetto, fármaco para la menopasia, se alargará hasta 2027",
-      "link": "https://www.elperiodico.com/es/sanidad/20261002/laboratorio-lenzetto-distribuira-nuevas-unidades-terapia-menopausia-noviembre-134936877",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0af30f8a-fc79-4aa7-8ac5-5d44c3dd4b2b_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La quimio-inmunoterapia con nivolumab mejora \"de forma significativa\" la supervivencia a 5 años de un tipo de cáncer de pulmón",
-      "link": "https://www.elperiodico.com/es/sanidad/20261002/quimio-inmunoterapia-nivolumab-mejora-forma-significativa-supervivencia-pacientes-cancer-pulmon-134927411",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/5b2dc7b7-3624-4a6c-ae40-01682a83cdd1_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un estudio analiza las variaciones genéticas de pacientes con cáncer de mama con más riesgo de desarrollar un grave efecto secundario por un fármaco",
-      "link": "https://www.elperiodico.com/es/sanidad/20261002/estudio-analiza-variantes-geneticas-pacientes-cancer-mama-riesgo-efecto-secundario-farmaco-134921990",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6d1522cb-911f-4913-9311-c25c3abdaf05_media-libre-aspect-ratio_default_0.jpg",
+      "titulo": "Una nueva IA detecta en la retina una enfermedad arterial silenciosa asociada a infartos e ictus",
+      "link": "https://www.elperiodico.com/es/sanidad/20261004/ia-detecta-retina-enfermedad-enfermedad-arterial-silenciosa-ictus-infartos-134878448",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/99b37090-90e9-41b8-a52f-7151ee2a86cc_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

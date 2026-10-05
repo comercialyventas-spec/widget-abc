@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El concierto de hoy de Oques Grasses se aplaza al jueves debido al temporal",
+      "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/concierto-hoy-oques-grasses-aplaza-jueves-temporal-lluvia-video/135022516.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d12aa5ff-d137-42a5-ae80-2fd6425b7431_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Se va a cancelar el concierto de Oques Grasses por la lluvia en Barcelona? Esto es lo que dice el Meteocat del tiempo para hoy",
+      "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/incognita-cancelar-concierto-oques-grasses-lluvia-barcelona-video/135021376.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d12aa5ff-d137-42a5-ae80-2fd6425b7431_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "TVyMAS Lunes 5 Octubre",
       "link": "https://www.elperiodico.com/es/videos/tele/tvymas-lunes-5-octubre/134991845.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/18615cfe-30c3-4df1-bc47-f984e080e1d8_media-libre-aspect-ratio_default_0.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Paloma Sánchez Garnica presenta 'Un hombre de honor', novela ambientada en Nueva York",
       "link": "https://www.elperiodico.com/es/videos/libros/paloma-sanchez-garnica-presenta-hombre/134939643.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/900b6216-f800-482c-85af-9312e0764ad8_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "TVyMAS Viernes 2",
-      "link": "https://www.elperiodico.com/es/videos/tele/tvymas-viernes-2/134893474.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d35c89d7-4fe6-4972-9e3c-7c0f81863499_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Andrea Ropero e Iñaki López estallan contra Iker Jiménez por cuestionar en 'Horizonte' el reportaje de laSexta sobre el desahucio de Maricarmen: \"Ven fantasmas donde no hay\"",
-      "link": "https://www.elperiodico.com/es/videos/tele/andrea-ropero-inaki-lopez-estallan/134891870.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/c316fcd9-f579-405e-8be7-29f3ed9e0420_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
