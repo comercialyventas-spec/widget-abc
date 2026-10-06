@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Observatorio de Innovación: Innovación centrada en la dignidad de la persona",
+      "link": "https://emprendedores.es/innovacion/observatorio-de-innovacion-centrada-en-la-dignidad-de-la-persona/",
+      "imagen": "https://emprendedores.es/wp-content/uploads/2026/09/Dignity-Driven-Innovation-Canvas-de-Carlos-Guardiola-1-1024x674.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "WaykUp Forum 2026: startups e inversores, frente a frente, sin intermediarios y con oportunidades reales de inversión",
       "link": "https://emprendedores.es/ayudas/directorio-quien-te-ayuda-a-emprender/waykup-forum-2026/",
       "imagen": "https://emprendedores.es/wp-content/uploads/2026/09/waykup-forum-networking-1024x683.jpg",
@@ -9,14 +15,14 @@
     {
       "titulo": "Branded entertainment: una oportunidad para las marcas… si se hace bien",
       "link": "https://emprendedores.es/marketing-y-ventas/branded-entertainment-oportunidad-marcas/",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://emprendedores.es/wp-content/uploads/2026/09/carrefour-1200x675.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "¿Qué pasará con las startups de IA después del ‘hype’ de esta tecnología?",
       "link": "https://emprendedores.es/inteligencia-artificial/startups-ia-tras-hype/",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://emprendedores.es/wp-content/uploads/2026/09/startup-ia-1200x675.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Cómo generar ingresos extra con los espacios y equipos infrautilizados",
@@ -27,13 +33,7 @@
     {
       "titulo": "Actium Consulting",
       "link": "https://emprendedores.es/gestion/finanzas-y-legal/actium-consulting/",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "WaykUp Forum 2026: startups e inversores, frente a frente, sin intermediarios y con oportunidades reales de inversión",
-      "link": "https://emprendedores.es/eventos-emprendedores/waykup-forum-2026-startups-e-inversores-frente-a-frente-sin-intermediarios-y-con-oportunidades-reales-de-inversion/",
-      "imagen": "https://emprendedores.es/wp-content/uploads/2026/09/WaykUp-Forum-Murcia1-1024x572.jpg",
+      "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/Miguel-Delgado-y-Macarena-Alonso-Actium-Consulting-1200x675.png",
       "tipo": "imagen"
     }
   ]
