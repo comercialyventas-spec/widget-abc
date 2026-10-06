@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "El valle abandonado de Jaén que reúne 6000 años de historia: pinturas rupestres, dólmenes, un castillo y una aldea fantasma",
+      "link": "https://www.abc.es/viajar/andalucia/valle-abandonado-jaen-reune-6000-anos-historia-20261002165735-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/viajar/2026/10/02/vista-general-castillo-Rq9gHknTkJRn8Lr1ZQYcyHN-1200x840@diario_abc.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Mercado cervantino de Alcalá de Henares: fechas y actividades para revivir el Siglo de Oro",
       "link": "https://www.abc.es/viajar/destinos/espana/mercado-cervantino-alcala-henares-fechas-actividades-revivir-20261006155252-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/viajar/2026/10/06/cervantino-1-RxGU7IBi0mgBPjNAQCafzQI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El antiguo molino de Huelva que utilizaba la fuerza de las mareas para triturar restos de pescado",
+      "link": "https://www.abc.es/viajar/andalucia/antiguo-molino-huelva-utilizaba-fuerza-mareas-triturar-20261006160613-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/viajar/2026/10/06/viajar-molino-mareal%202-Rxh7ShH533CSPkb9FY8HdNN-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Sevilla despega hacia otra forma de vivir: Tenerife",
       "link": "https://www.abc.es/contentfactory/post/2026/10/04/turismo-tenerife-abc-sevilla/",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/viajar/2026/10/05/Parque%20Rural%20de%20Anaga%20%20(2)-kHZC-U302066092303yOC-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La cueva de Málaga cuya entrada permaneció sellada durante 3.500 años hasta que un terremoto volvió a abrirla",
-      "link": "https://www.abc.es/viajar/andalucia/cueva-malaga-entrada-permanecio-sellada-3500-anos-20261004155829-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/viajar/2026/10/04/Cueva-de-Ardales-Malaga-RefAWF8JR5knw1dY5dtBLzK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tréveris: las siete maravillas de la 'segunda Roma' al norte de los Alpes",
-      "link": "https://www.abc.es/viajar/destinos/europa/treveris-siete-maravillas-segunda-roma-norte-alpes-20261004010539-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/viajar/2026/10/04/treveris_1-RkYQkZcP73aUkdk16xksDKK-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

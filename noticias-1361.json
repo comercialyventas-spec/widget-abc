@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La declaración integra de Carles Puigdemont desde Waterloo",
+      "link": "https://elpais.com/videos/2026-10-06/la-declaracion-integra-de-carles-puigdemont-desde-waterloo.html",
+      "imagen": "https://www.youtube.com/watch?v=qZIx510ytVM",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en directo, en EL PAÍS",
       "link": "https://elpais.com/videos/2026-10-06/el-pulso-de-hoy-por-hoy-en-el-pais.html",
       "imagen": "https://www.youtube.com/watch?v=pesaPgb6r-I",
@@ -28,12 +34,6 @@
       "titulo": "‘La Mesa de Hora 25’, programa en EL PAÍS",
       "link": "https://elpais.com/videos/2026-10-05/la-mesa-de-hora-25-programa-en-el-pais.html",
       "imagen": "https://www.youtube.com/watch?v=2y7gE4ZmS9o",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Vídeos de ajedrez | Delicioso sacrificio de Velimírovic",
-      "link": "https://elpais.com/ajedrez/videos/2026-10-05/videos-de-ajedrez-delicioso-sacrificio-de-velimirovic.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261005/1221994_145710_video_1800.mp4",
       "tipo": "imagen"
     }
   ]

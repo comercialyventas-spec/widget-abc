@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "El juez pide a Anticorrupción que se pronuncie sobre la petición del PP para imputar ya al PSOE",
-      "link": "https://www.abc.es/espana/juez-pide-anticorrupcion-pronuncie-sobre-peticion-pp-20261006145822-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/06/1518333309-ReqSEnPap0UGc2LzUfaoyLJ-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "Muere una joven tras electrocutarse con la alcachofa de la ducha en una vivienda de Antequera",
       "link": "https://www.abc.es/espana/andalucia/malaga/fallece-joven-tras-electrocutarse-alcachofa-ducha-antequera-20261006134746-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/06/policia-nacional-juancarlos-soler-R8857L8UVZV3koL8NgFVVRO-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/06/policia-nacional-juancarlos-soler-R8857L8UVZV3koL8NgFVVRO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Argentina se paraliza para despedir a su 'Messias'",
       "link": "https://www.abc.es/deportes/futbol/argentina-paraliza-despedir-messias-20261005010114-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/05/DAMBin-Rz7bal1CugGFVgmlt7fobqM-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/05/DAMBin-Rz7bal1CugGFVgmlt7fobqM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Bolsonaro y Lula comienzan la carrera para lograr alianzas y movilizar al electorado de cara a la segunda vuelta",
       "link": "https://www.abc.es/internacional/bolsonaro-lula-comienzan-carrera-lograr-alianzas-cara-20261006182703-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/06/lula-bolsonaro-RQA2s7HaEx892HLwoPkEBxO-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/06/lula-bolsonaro-RQA2s7HaEx892HLwoPkEBxO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Alemania detiene por presunto espionaje y traición al exjefe de los servicios secretos",
       "link": "https://www.abc.es/internacional/alemania-detiene-presunto-espionaje-traicion-exjefe-servicios-20261006105353-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/06/August-Hanning-kjTC-U302084887899spC-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/06/August-Hanning-kjTC-U302084887899spC-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Francia suspende las clases hasta final de semana ante las protestas estudiantiles masivas",
       "link": "https://www.abc.es/internacional/francia-suspende-clases-final-semana-ante-protestas-20261006173853-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/06/1518376680-k1LF-U302094247771nEC-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/06/1518376680-k1LF-U302094247771nEC-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Puigdemont celebra la derrota de los «poderes públicos españoles» y dice que lo volvería a hacer",
+      "link": "https://www.abc.es/espana/cataluna/puigdemont-amnistia-derrota-poderes-publicos-espanoles-20261006181215-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/06/puig98-RHgqOb4fCh5lZrz5PRmAQWP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }

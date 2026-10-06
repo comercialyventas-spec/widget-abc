@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El restaurante que celebra 30 años en Madrid haciendo alta cocina china",
+      "link": "https://www.abc.es/gastronomia/restaurante-celebra-anos-madrid-haciendo-alta-cocina-20261006183519-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/10/06/TSE%20YANG_%20SALA%20(2)-R5N3IHfDsGQ46yX4kpxnk6H-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El mejor paquito de España se hace en Mérida y es de cordero",
       "link": "https://www.abc.es/gastronomia/mejor-paquito-espana-merida-cordero-20261005190531-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/10/05/paquitoganador-R3YGY72bZ3FGGHk5K8ktRqL-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Emociones Edra y la variedad de uva inesperada",
       "link": "https://www.abc.es/gastronomia/vinos/emociones-edra-variedad-inesperada-20261001094134-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/10/01/edra-R12sJLwlpoX5LJVa4IeZDJK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La mejor hamburguesa de España se hace en Córdoba y lleva caviar, wagyu y oro comestible",
-      "link": "https://www.abc.es/gastronomia/mejor-hamburguesa-espana-cordoba-lleva-caviar-wagyu-20260928113243-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/09/28/TCB_UmamiRoyale_Godeo-Rh79wl02QQCDQBYiy9kql6N-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

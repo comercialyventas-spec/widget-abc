@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Descubren un planeta nacido de \"las cenizas\" de una estrella muerta",
+      "link": "https://www.elmundo.es/ciencia/2026/10/06/6ac4a7a6e9cf4a24128b45aa.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/06/17912726286369.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Mediterráneo ya sufre olas de calor de más de 30 días y hasta 4,6 ºC por encima de la media",
       "link": "https://www.elmundo.es/ciencia/2026/09/30/6abbc8e5fc6c83911c8b4596.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/29/17906920610412.jpg",
@@ -13,9 +19,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "La economía circular llega a los centros de trabajo: del reciclaje a los nuevos empleos verdes",
-      "link": "https://www.elmundo.es/ciencia/2026/09/30/6aba43ffe9cf4a3b4d8b4573.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/28/17905962789460.jpg",
+      "titulo": "Francis Halzen gana el Nobel de Física por idear cómo 'cazar' neutrinos de alta energía, 'las partículas fantasma' que llegan del espacio exterior",
+      "link": "https://www.elmundo.es/ciencia/2026/10/06/6ac4bb03e85ecec70e8b45b9.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/06/17912961739110.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Europa registra el verano con mayor estrés térmico y los ríos más secos desde 1992",
       "link": "https://www.elmundo.es/ciencia/2026/10/02/6abf3fe621efa04d7e8b45d4.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/02/17909188957594.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los dinosaurios comían mariscos que llegaban a las playas antiguas",
-      "link": "https://www.elmundo.es/ciencia/2026/09/30/6abcc88be4d4d859328b4573.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/30/17907565590133.jpg",
       "tipo": "imagen"
     }
   ]

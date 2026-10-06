@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Kenia confirma la primera muerte por ébola en el país",
+      "link": "https://elpais.com/planeta-futuro/2026-10-06/kenia-confirma-la-primera-muerte-por-ebola-en-el-pais.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XGXKMFZLSVCCFMIXZI2JAB57B4.JPG?auth=889709e042a54e72b46f0a10f75df959f2b44d73c48373c6df81519fa444c6e6",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Muere Cheikh Hamidou Kane, gran referente de la literatura en África",
       "link": "https://elpais.com/planeta-futuro/2026-10-06/muere-cheikh-hamidou-kane-gran-referente-de-la-literatura-en-africa.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/T22FA42RO5B7BOKKRFYLERZI5A.jpg?auth=82076216b56a55f22b06578c1fa02f1a1ebbf6152d4a95d7f18c90fb1b8b74f3",
@@ -28,12 +34,6 @@
       "titulo": "Ceuta | La lucha de los que no quieren volver",
       "link": "https://elpais.com/videos/2026-10-05/ceuta-la-lucha-de-quienes-se-resisten-a-volver-a-marruecos.html",
       "imagen": "https://www.youtube.com/watch?v=7LtnDqVJJrE",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El precio oculto de la comida que nos llega a la mesa: 416 millones de trabajadores explotados y una crisis climática que agudiza los abusos",
-      "link": "https://elpais.com/planeta-futuro/2026-10-05/el-precio-oculto-de-la-comida-que-nos-llega-a-la-mesa-416-millones-de-trabajadores-explotados-y-una-crisis-climatica-que-agudiza-los-abusos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/DCVWEKDVSBECXPVL35DCV6P354.jpg?auth=b40629cd2d331343c5db420b235514a4a1a238830f1e3ac212240c4a682538d8",
       "tipo": "imagen"
     }
   ]

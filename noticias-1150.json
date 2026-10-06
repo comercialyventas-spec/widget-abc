@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Europa intenta blindar frente a Estados Unidos las bases de datos esenciales para la investigación biomédica mundial",
+      "link": "https://elpais.com/ciencia/2026-10-06/europa-intenta-blindar-frente-a-estados-unidos-las-bases-de-datos-esenciales-para-la-investigacion-biomedica-mundial.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/WE7DZDCQRVHWBLMHZIWRMSOX2E.jpg?auth=f0c77751328a306c754938f3137c99ca75a30ce91ce91be16876c84a2c8275b3&width=1200",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Premio Nobel de Física para Francis Halzen por el experimento que atrapó neutrinos cósmicos",
+      "link": "https://elpais.com/ciencia/2026-10-06/premio-nobel-de-fisica.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ISOJ7SLA7JGXPIN5QLFDX76YSA.jpg?auth=c7dc67cd5ce03038490154560f5024c136fc61c8b966d18d8e5bdd756a48793a&width=1200",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Premio Nobel de Medicina para Karl Deisseroth, Peter Hegemann y Georg Nagel por la técnica que permite controlar el cerebro con luz",
+      "link": "https://elpais.com/ciencia/2026-10-05/premio-nobel-de-medicina.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ELQIRZVARNDSDOF7JADLTXCV3Y.jfif?auth=4c0894601e0f2f13d4b6bfbfd04204b5cfb8f0e3e2702d08162b9d379d53aced&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La cara oculta del éxito de Starship: Musk deja fuera de juego a la NASA con su plan para dominar el cielo",
       "link": "https://elpais.com/ciencia/2026-10-04/la-cara-oculta-del-exito-de-starship-musk-deja-fuera-de-juego-a-la-nasa-con-su-plan-para-dominar-el-cielo.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/E6VW3QRS6RFAJIIIB7FZMF6S2Q.png?auth=c96fd2620c109c190d97b57e88d3cfaefa0c6cbc01593d11874d713c0b592691&width=1200",
@@ -9,31 +27,13 @@
     {
       "titulo": "Christina Koch, primera mujer en viajar hasta la Luna: “Veíamos destellos azules cuando cerrábamos los ojos”",
       "link": "https://elpais.com/ciencia/2026-10-02/christina-koch-primera-mujer-en-viajar-hasta-la-luna-veiamos-destellos-azules-cuando-cerrabamos-los-ojos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/OBKZEAWUKBITXKF7ISL6C3RC7U.jpg?auth=0e0c966bb160b17e34d710413354f7707b8ca297f2fc19260e25c7899dbf1292&width=1200",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La ciencia confirma que la terapia más segura para tratar la menopausia es la que escasea en España",
-      "link": "https://elpais.com/ciencia/2026-10-02/la-ciencia-confirma-que-la-terapia-mas-segura-para-tratar-la-menopausia-es-la-que-escasea-en-espana.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/AGRF56UVMNBUTOYF6QO7CUXEKY.jpg?auth=20f085397a5a45d99d2ccc48a10dd6c9c8f418e77d8a2f99d6a055f509362c16&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Google lanza su primer satélite para llevarse los centros de datos al espacio",
-      "link": "https://elpais.com/tecnologia/2026-10-01/google-lanza-su-primer-satelite-para-llevarse-los-centros-de-datos-al-espacio.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/RLKZF5Y2RVKJFNPGSTR4B5XA6Y.jpg?auth=2a7d73149d0db9f5c3fad308ef6addcf437594c0a5a1ac6119ca7217ec41db34&width=1200",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Por qué las mujeres tienen más dolor: la ciencia empieza a destapar la “inexplorada caja negra” de este síntoma",
-      "link": "https://elpais.com/salud-y-bienestar/2026-10-01/por-que-las-mujeres-tienen-mas-dolor-la-ciencia-empieza-a-destapar-la-inexplorada-caja-negra-de-este-sintoma.html",
       "imagen": "",
       "tipo": ""
     },
     {
-      "titulo": "Una fábrica de tejidos vivos: células impresas para crear desde médula ósea hasta carne",
-      "link": "https://elpais.com/tecnologia/2026-10-01/una-fabrica-de-tejidos-vivos-celulas-impresas-para-crear-desde-medula-osea-hasta-carne.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ZGHM4SSYOJBW3BLYNQSAYKOJ5A.jpg?auth=893770164abef59fb8780ed3b2dffce1f007d60578715c658b4e16b4eddf3ae8&width=414&height=311&focal=4570%2C2586",
+      "titulo": "La ciencia confirma que la terapia más segura para tratar la menopausia es la que escasea en España",
+      "link": "https://elpais.com/ciencia/2026-10-02/la-ciencia-confirma-que-la-terapia-mas-segura-para-tratar-la-menopausia-es-la-que-escasea-en-espana.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/AGRF56UVMNBUTOYF6QO7CUXEKY.jpg?auth=20f085397a5a45d99d2ccc48a10dd6c9c8f418e77d8a2f99d6a055f509362c16&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]
