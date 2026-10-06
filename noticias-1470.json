@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¿Hay más partos con luna llena?",
+      "link": "https://www.eldiario.es/edcreativo/diario-salud/",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "¿Puede la radiación de mi móvil causarme cáncer?",
       "link": "https://www.eldiario.es/edcreativo/diario-salud/radiacion-movil-causarme-cancer_1_13543293.html",
       "imagen": "https://static.eldiario.es/clip/7ee8b1cb-3395-4bf6-9e7e-edb1735467b6_16-9-discover-aspect-ratio_default_0.jpg",
@@ -19,21 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "¿Está nuestro destino escrito en nuestros genes?",
-      "link": "https://www.eldiario.es/edcreativo/diario-salud/destino-escrito-genes_1_13437492.html",
-      "imagen": "https://static.eldiario.es/clip/775e6382-1eeb-40ee-8b35-acdaac7ae8b2_16-9-discover-aspect-ratio_default_0.jpg",
+      "titulo": "Más allá de la sandía y el pepino, los otros héroes de la hidratación para este verano",
+      "link": "https://www.eldiario.es/edcreativo/diario-salud/sandia-pepino-heroes-hidratacion-verano_1_13409281.html",
+      "imagen": "https://static.eldiario.es/clip/f828f086-aca5-44be-a832-5d2586bb775f_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
       "titulo": "¿Cómo prevenir las infecciones urinarias en verano? Los pequeños gestos que protegen",
       "link": "https://www.eldiario.es/edcreativo/diario-salud/prevenir-infecciones-urinarias-verano-pequenos-gestos-protegen_1_13358429.html",
       "imagen": "https://static.eldiario.es/clip/adeae45c-0dc9-4864-a9bb-53b3a4175fb0_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Cómo detectar un golpe de calor en niños? Estos son los síntomas de alarma",
-      "link": "https://www.eldiario.es/edcreativo/diario-salud/detectar-golpe-calor-ninos-son-sintomas-alarma_1_13312532.html",
-      "imagen": "https://static.eldiario.es/clip/d69b7283-d13b-44a1-b16a-0d1f5b788ee9_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

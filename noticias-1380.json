@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Ginebra recupera las grandes aventuras de Nicolas Bouvier",
+      "link": "https://elpais.com/eps/2026-10-06/ginebra-recupera-las-grandes-aventuras-de-nicolas-bouvier.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/PG5UHMK7PZFJZL3OQDHMCCJMEU.jpg?auth=2b1d4163c2dcf629ed4d31920c89a45962b4a50ed3c548d93420a544b635a9e2",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Vacas y máquinas anfibias al rescate del clima en los humedales",
+      "link": "https://elpais.com/eps/2026-10-06/vacas-y-maquinas-anfibias-al-rescate-del-clima-en-los-humedales.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4R4GZHNWD5G7LHYUBUHSDFIQJE.jpg?auth=f4065bb8d8a6bb87d4c8335d9dbad6c953b1200ec216707e04e20ed6d84d0e9e",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La circularidad toma impulso",
       "link": "https://elpais.com/eps/2026-10-05/la-circularidad-toma-impulso.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/MPZ6JSH7CBGH5OGCIBUDZQPHQQ.jpg?auth=e579cac48f658553c96c299b374fa2473b60936025cbe6aa4fd740275c04a604",
@@ -22,18 +34,6 @@
       "titulo": "La sal de la Tierra",
       "link": "https://elpais.com/eps/2026-10-04/la-sal-de-la-tierra.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/7URPEXVUDRBWZKVZKU2ZXFHJCI.jpg?auth=0b8c76b21e51ceeed37c94801ffee35f712ca86a750682a438ce62fbd465d109",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un lugar geográfico",
-      "link": "https://elpais.com/eps/2026-10-04/un-lugar-geografico.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/BTRY4ZBNKJEX5OKBTWIWYKWFF4.jpg?auth=a5a57db30740a44d65ccae3aa19e327a16f50bbf2a24ac064269dc86dc3cd4dc",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Carlo Buontempo, climatólogo: “Pase lo que pase, el nivel del mar va a seguir subiendo durante siglos”",
-      "link": "https://elpais.com/eps/2026-10-03/carlo-buontempo-climatologo-pase-lo-que-pase-el-nivel-del-mar-va-a-seguir-subiendo-durante-siglos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/4FW4EI2DEJABHH57RCULH6K7DU.jpg?auth=8adf7d2cba21d4388d0084d84684d43fdb89123f0c6b96cb1b7a9028720db7ab",
       "tipo": "imagen"
     }
   ]

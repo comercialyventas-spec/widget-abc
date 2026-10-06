@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "David Bisbal",
+      "link": "https://www.elconfidencialdigital.com/album/actualidad/david-bisbal/202610060825001490927.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/06/2026100608230147666.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Muere un detenido en los calabozos de Lonzas",
       "link": "https://www.elconfidencialdigital.com/album/guardia-civil/guardia-civil/202610060043511490894.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/09/2026090913512416258.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Ámbar concluye en Estonia su despliegue de defensa aérea del Báltico",
       "link": "https://www.elconfidencialdigital.com/album/defensa/ambar-concluye-estonia-despliegue-defensa-aerea-baltico/202610051621091490799.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/05/2026100516190913549.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Militares en Ceuta",
-      "link": "https://www.elconfidencialdigital.com/album/defensa/militares-en-ceuta/202610051407041490754.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/30/2026093012361519753.jpg",
       "tipo": "imagen"
     }
   ]

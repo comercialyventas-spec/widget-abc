@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Guerra civil en la televisión",
+      "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261006/guerra-civil-television-135025522",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d500a0c6-47c7-44e3-bd05-96be71f70780_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Muere el escritor superventas y político británico Jeffrey Archer",
       "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261005/muere-escritor-superventas-politico-britanico-135040383",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/584b6c31-c39b-4466-ab3b-3bbef85d245c_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Alfonso del Amo, Premio Nacional de Patrimonio Cinematográfico y Audiovisual 2026",
       "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261005/alfonso-amo-premio-nacional-patrimonio-135027997",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/5a666164-0ff5-4e60-a46d-045bc39e8525_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Penguin publicará el diario personal del papa Francisco",
-      "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261005/penguin-publicara-diario-personal-papa-135028506",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/cbbcd5e7-14de-42f9-9db1-1db188551322_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

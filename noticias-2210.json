@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Guerra civil en la televisión",
+      "link": "https://www.elperiodico.com/es/videos/tele/sergi-mas-guerra-civil-television-video/135026797.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d500a0c6-47c7-44e3-bd05-96be71f70780_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El concierto de hoy de Oques Grasses se aplaza al jueves debido al temporal",
       "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/concierto-hoy-oques-grasses-aplaza-jueves-temporal-lluvia-video/135022516.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d12aa5ff-d137-42a5-ae80-2fd6425b7431_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Aina Clotet (44 años), sobre su vida en Barcelona: \"El olor a orina es horroroso, me pone muy triste\"",
       "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/aina-clotet-44-anos-vida/134940263.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/3d9f0d45-5084-49d7-88e3-5564169e5f74_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Paloma Sánchez Garnica presenta 'Un hombre de honor', novela ambientada en Nueva York",
-      "link": "https://www.elperiodico.com/es/videos/libros/paloma-sanchez-garnica-presenta-hombre/134939643.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/900b6216-f800-482c-85af-9312e0764ad8_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

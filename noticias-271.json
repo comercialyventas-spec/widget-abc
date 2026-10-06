@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El precio del combustible amenaza nuestra cesta de la compra",
+      "link": "https://www.abc.es/espana/castilla-leon/precio-combustible-amenaza-cesta-compra-20261006082859-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/06/gasolinera-RUQnbEf70PGPLQruxdHb5SO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El 'chapapote' de los incendios amenaza el agua de Madrid y Toledo",
       "link": "https://www.abc.es/espana/castilla-leon/tras-incendios-avila-llega-chapapote-monte-20261005191904-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/05/rio-RISaVtDOqeZ4IT80REH6dlJ-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La Junta y las organizaciones agrarias reclaman al Ministerio «más flexibilidad» en la PAC",
       "link": "https://www.abc.es/espana/castilla-leon/junta-organizaciones-agrarias-reclaman-ministerio-flexibilidad-pac-20261005173515-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/05/_08MAX202610752118-Rvk7o6qsZPrDikWVdbeMejP-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Miles de leoneses acuden a La Virgen del Camino para festejar a san Froilán",
-      "link": "https://www.abc.es/espana/castilla-leon/miles-leoneses-acuden-virgen-camino-festejar-san-20261005164831-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/05/_03MAX202610752139-Raar9QzLMCr1GP8Yub3ewDI-1200x840@diario_abc.jpeg",
       "tipo": "imagen"
     }
   ]

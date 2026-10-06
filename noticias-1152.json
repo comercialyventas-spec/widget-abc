@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "WeatherNext 3, el modelo con IA que predice fenómenos atmosféricos con mucha más precisión",
+      "link": "https://elpais.com/tecnologia/2026-10-06/weathernext-3-el-modelo-con-ia-que-predice-fenomenos-atmosfericos-con-mucha-mas-precision.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TSND5MQKFJAUPINBRQZGVZOCJE.png?auth=ef5bf2c9fbfd40c0183966aeb30f6396523efdab3476ee32f84b1e986bb22401",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Irse de vacaciones y no subirlo a las redes: “El viaje vuelve a valer por sí mismo”",
       "link": "https://elpais.com/tecnologia/2026-10-03/irse-de-vacaciones-y-no-subirlo-a-las-redes-el-viaje-vuelve-a-valer-por-si-mismo.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/HNA7GNQPARAMJHZWAW2Y3PH5YY.JPG?auth=04debf827df282a602496f1a92c261450821e3b65bdac1a6b8a588fba0aabe31",
@@ -28,12 +34,6 @@
       "titulo": "Trump apuesta por que las empresas de IA se autorregulen para evitar el descontrol de la tecnología",
       "link": "https://elpais.com/us/2026-09-29/trump-apuesta-por-que-las-empresas-de-ia-se-autorregulen-para-evitar-el-descontrol-de-la-tecnologia.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260930/1220116_024020_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "OpenAI retrasa su nueva IA tras reconocer que no ha realizado los controles de calidad pertinentes",
-      "link": "https://elpais.com/tecnologia/2026-09-29/openai-retrasa-su-nueva-ia-por-problemas-de-seguridad-y-anthropic-alerta-de-riesgos-catastroficos-para-la-humanidad.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/FB2BRHQESBKEDOMNKM7GULXJDM.jpg?auth=c49efd6e6ad0d0a55d6d3a243527502636879a49566b57ceeab3c5553c6e6aa9",
       "tipo": "imagen"
     }
   ]
