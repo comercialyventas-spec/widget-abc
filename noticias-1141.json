@@ -1,21 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Ayesa Digital se refuerza en IA con la compra de la empresa Kuik",
+      "link": "https://elpais.com/hemeroteca/2026-10-06/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/IK42KBOB6ZC5VI4JGI7EYUZKLQ.png?auth=112441537d9dec67f7cc9f9fced813d6076459b6adbd16de14e93cec3115a7bb",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las fuertes lluvias inundan el centro de Bilbao y causan numerosas incidencias en Bizkaia",
       "link": "https://elpais.com/espana/2026-10-03/las-fuertes-lluvias-inundan-el-centro-de-bilbao-y-causan-numerosas-incidencias-en-bizkaia.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/AAU3QSJTJJAVFCOX2FK3X7VJBQ.jpg?auth=43016d9eecf71258a648806ddf9fe6331f818cf79a33fa427f8c3f9d010aa0a5&width=1200",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Illa, Rueda y Pradales se unen contra la amenaza centralista y reivindican la España “más allá de Madrid”",
       "link": "https://elpais.com/espana/2026-10-03/illa-rueda-y-pradales-se-unen-contra-la-amenaza-centralista-y-reivindican-la-espana-mas-alla-de-madrid.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/SJS3B57MQFFX7CLIDD7OOR4QYM.JPG?auth=bc5a700178feaecfc820840d7574a417a92bc3ea3753237cd9fd018ff9490516&width=1200",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SJS3B57MQFFX7CLIDD7OOR4QYM.JPG?auth=bc5a700178feaecfc820840d7574a417a92bc3ea3753237cd9fd018ff9490516&width=414&height=233&smart=true",
       "tipo": "imagen"
     },
     {
       "titulo": "La meditación y los ritos de ayahuasca en el bosque se multiplican en España",
       "link": "https://elpais.com/espana/2026-10-03/espana-lidera-en-europa-el-auge-de-los-centros-de-retiro-en-la-naturaleza.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/UFGUOEPMIZFZLFF6KHHRV445EE.jpg?auth=4882144dece6978c4abb18d779a89eefb7c75a8313329638d8acea323e1a0a4b&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/UFGUOEPMIZFZLFF6KHHRV445EE.jpg?auth=4882144dece6978c4abb18d779a89eefb7c75a8313329638d8acea323e1a0a4b&width=1200",
       "tipo": "imagen"
     },
     {
@@ -27,13 +33,7 @@
     {
       "titulo": "Bad Religion, Patti Smith y Wilco lideran el cartel del 25 aniversario del Azkena Rock",
       "link": "https://elpais.com/cultura/2026-09-30/bad-religion-patti-smith-y-wilco-lideran-el-cartel-del-25-aniversario-del-azkena-rock.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "De la Corrala Utopía a Maricarmen: la eterna discordia por la vivienda en la izquierda",
-      "link": "https://elpais.com/espana/2026-09-28/de-la-corrala-utopia-a-maricarmen-la-eterna-discordia-por-la-vivienda-en-la-izquierda.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/4D63HYNXAJH2DONIK3KSUY553U.jpg?auth=4b1228e464087950deb7ac0bedbb296ae9fddd37caea01cdb8c9c6e2b9030737&width=414&height=311&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/DMKHNA4T4HD7QBDOMLVXV3ZX5E.jpg?auth=da3091c503cbec55379cc4c51d17e218604d9687109d3d424f2884d34df1e126&width=414&height=311&focal=1904%2C764",
       "tipo": "imagen"
     }
   ]

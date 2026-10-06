@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "El Consejo Electoral de Haití aplaza sin nueva fecha la celebración de las elecciones",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261006-hait%C3%AD-aplaza-sin-nueva-fecha-las-elecciones-presidenciales-y-legislativas",
+      "imagen": "https://s.france24.com/media/display/e23d7b6a-a705-11f1-9869-005056a90284/w:1280/p:16x9/2-Mercado-de-Mare-Rouge.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Haití aplaza sin nueva fecha las elecciones presidenciales y legislativas",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261006-hait%C3%AD-aplaza-sin-nueva-fecha-las-elecciones-presidenciales-y-legislativas",
+      "imagen": "https://s.france24.com/media/display/e23d7b6a-a705-11f1-9869-005056a90284/w:1024/p:16x9/2-Mercado-de-Mare-Rouge.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Sánchez recupera los decretos de vivienda rechazados por el Congreso tras adelantar las elecciones",
+      "link": "https://www.france24.com/es/europa/20261006-s%C3%A1nchez-recupera-los-decretos-de-vivienda-rechazados-por-el-congreso-tras-adelantar-las-elecciones",
+      "imagen": "https://s.france24.com/media/display/d893afca-c17d-11f1-b681-73f176a2394c/w:1024/p:16x9/43ae9fbf7051ae5414b09cb315dad48550aabe4f.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Marine Le Pen promete ahorrar 140.000 millones de euros y pide una \"ruptura política\" en Francia",
+      "link": "https://www.france24.com/es/francia/20261006-marine-le-pen-promete-ahorrar-140-000-millones-de-euros-y-pide-una-ruptura-pol%C3%ADtica-en-francia",
+      "imagen": "https://s.france24.com/media/display/70e9f32a-c164-11f1-8354-ff8cff4603f0/w:1024/p:16x9/2026-10-06T081123Z-896518657-RC2KXNAC97D0-RTRMADP-3-FRANCE-POLITICS-LEPEN.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El belga Francis Halzen gana el Nobel de Física por detectar partículas subatómicas en el Polo Sur",
       "link": "https://www.france24.com/es/ciencia-y-tecnolog%C3%ADas/20261006-el-belga-francis-halzen-gana-el-nobel-de-f%C3%ADsica-por-detectar-part%C3%ADculas-subat%C3%B3micas-en-en-el-polo-sur",
       "imagen": "https://s.france24.com/media/display/dc628f80-c16f-11f1-a292-ff8cff4603f0/w:1280/p:16x9/2026-10-06T101124Z-952133372-RC2LXNAGL6DL-RTRMADP-3-NOBEL-PRIZE-PHYSICS.jpg",
@@ -10,30 +34,6 @@
       "titulo": "El belga Francis Halzen gana el Nobel de Física por detectar partículas subatómicas en el Polo Sur",
       "link": "https://www.france24.com/es/ciencia-y-tecnolog%C3%ADas/20261006-el-belga-francis-halzen-gana-el-nobel-de-f%C3%ADsica-por-detectar-part%C3%ADculas-subat%C3%B3micas-en-en-el-polo-sur",
       "imagen": "https://s.france24.com/media/display/dc628f80-c16f-11f1-a292-ff8cff4603f0/w:1024/p:16x9/2026-10-06T101124Z-952133372-RC2LXNAGL6DL-RTRMADP-3-NOBEL-PRIZE-PHYSICS.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Israel advierte que Gaza pagará un \"alto precio\" si sus tropas son atacadas el 7 de octubre",
-      "link": "https://www.france24.com/es/medio-oriente/20261006-israel-advierte-que-gaza-pagar%C3%A1-un-alto-precio-si-sus-tropas-son-atacadas-el-7-de-octubre",
-      "imagen": "https://s.france24.com/media/display/9fe623a8-c158-11f1-ab65-69fad0a7cb9f/w:1024/p:16x9/AP26278512155571.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Separatistas de Quebec prometen un referendo de independencia tras su victoria electoral",
-      "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261006-los-separatistas-de-quebec-prometen-un-referendo-de-independencia-tras-ganar-las-elecciones-provinciales",
-      "imagen": "https://s.france24.com/media/display/ee67e000-c12d-11f1-869f-1ff0321dbbd3/w:1024/p:16x9/6b830d89698e660c56483528be3b402dbf9d4724.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "En directo: unos 1.800 centros de secundaria están bloqueados en Francia, según el sindicato estudiantil",
-      "link": "https://www.france24.com/es/francia/20261006-en-directo-sindicatos-se-suman-a-protestas-estudiantiles-en-francia-convocan-a-agricultores",
-      "imagen": "https://s.france24.com/media/display/b0f7646c-c168-11f1-b850-13e372f41e70/w:1024/p:16x9/2026-10-06T092012Z-1488484626-RC2KXNAKPI81-RTRMADP-3-FRANCE-PROTEST.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Brote de sarampión en Nueva York: gobernadora declara estado de emergencia",
-      "link": "https://www.france24.com/es/video/20261006-brote-de-sarampi%C3%B3n-en-nueva-york-gobernadora-declara-estado-de-emergencia",
-      "imagen": "https://s.france24.com/media/display/702c83f6-c13e-11f1-bde5-13e372f41e70/w:1024/p:16x9/ES-20261005-203745-204220-CS.jpg",
       "tipo": "imagen"
     }
   ]

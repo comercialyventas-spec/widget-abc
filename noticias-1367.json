@@ -1,21 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Los nuevos decretos de vivienda recuperan el escudo antidesahucios y amplían las ayudas para la construcción",
+      "link": "https://elpais.com/economia/vivienda/2026-10-06/los-nuevos-decretos-de-vivienda-aprobados-por-el-gobierno-blindan-los-desahucios-y-amplian-las-ayudas-para-la-construccion.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261006/1222346_124440_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Claves sobre la huelga general por la vivienda: ¿qué argumentan los sindicatos? ¿qué opina CEOE? ¿cuándo fue la última?",
       "link": "https://elpais.com/economia/vivienda/2026-10-06/claves-sobre-la-huelga-general-por-la-vivienda-que-argumentan-los-sindicatos-que-opina-ceoe-cuando-fue-la-ultima.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/A6R2RJM3UVBL3BNVI7IYQPM43M.JPG?auth=28edf03b62f9d9bc573e233a603e76f60c49796e1b902d3780efd39a9f35a519",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Von der Leyen advierte contra los grandes recortes en el presupuesto europeo como exige Alemania",
-      "link": "https://elpais.com/economia/2026-10-06/von-der-leyen-advierte-contra-los-grandes-recortes-en-el-presupuesto-europeo-como-exige-alemania.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/JGFCNZSXZVIQJOTC6WLD645K34.jpg?auth=d07a959b075b307f3628cd3e30874b691e3e162306523952360baf0d49e36eb7",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Gobierno pretende aprobar la nueva regulación de los centros de datos antes de las elecciones",
-      "link": "https://elpais.com/economia/2026-10-06/el-gobierno-pretende-aprobar-las-nueva-regulacion-a-los-centros-de-datos-antes-de-las-elecciones.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/LIPKHHXLGNCK5IOSYUV5FQAB5A.jpg?auth=5773763f6a1a9a0e83b5a75ca49e92180a4f46f301bd5aa7875661af17d1a58e",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261006/1222350_125648_video_1800.mp4",
       "tipo": "imagen"
     },
     {
@@ -25,15 +19,21 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Indicaciones geográficas protegidas en el ámbito industrial: un reto al que España debe responder",
-      "link": "https://cincodias.elpais.com/opinion/2026-10-06/indicaciones-geograficas-protegidas-en-el-ambito-industrial-un-reto-al-que-espana-debe-responder.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/TPF3B54OP5AUDBXSGOOPOY6IJ4.jpg?auth=4676c95d2343e274d6a81f7a9977b3e15dc5134e94898cd39e9a124211be98eb",
+      "titulo": "Von der Leyen advierte contra los grandes recortes en el presupuesto europeo como exige Alemania",
+      "link": "https://elpais.com/economia/2026-10-06/von-der-leyen-advierte-contra-los-grandes-recortes-en-el-presupuesto-europeo-como-exige-alemania.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/JGFCNZSXZVIQJOTC6WLD645K34.jpg?auth=d07a959b075b307f3628cd3e30874b691e3e162306523952360baf0d49e36eb7",
       "tipo": "imagen"
     },
     {
-      "titulo": "Las claves: la fiscalidad no debe incentivar la sustitución de personas por máquinas",
-      "link": "https://cincodias.elpais.com/opinion/2026-10-06/las-claves-la-fiscalidad-no-debe-incentivar-la-sustitucion-de-personas-por-maquinas.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/EFMRJQSYFFH45J4BPLA732UJ2U.jpg?auth=fc5a3dd5f0479f512388f854b0a4b7fd3359dda79b0ea706b75d273308e692ff",
+      "titulo": "Unas elecciones para superar la parálisis",
+      "link": "https://cincodias.elpais.com/opinion/2026-10-06/unas-elecciones-para-superar-la-paralisis.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7ERKAILRLFIXPKBSUQEYOMSUWM.jpg?auth=06c6d28ae06b8fae6a0d95760b3e2e5411b7693349c457bd2abf27691c6417a7",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Indicaciones geográficas protegidas en el ámbito industrial: un reto al que España debe responder",
+      "link": "https://cincodias.elpais.com/opinion/2026-10-06/indicaciones-geograficas-protegidas-en-el-ambito-industrial-un-reto-al-que-espana-debe-responder.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TPF3B54OP5AUDBXSGOOPOY6IJ4.jpg?auth=4676c95d2343e274d6a81f7a9977b3e15dc5134e94898cd39e9a124211be98eb",
       "tipo": "imagen"
     }
   ]

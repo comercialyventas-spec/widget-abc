@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Obras: Calle Imagen. Afectadas 3 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261007-O-Calle-Imagen.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Traslado de Parada: Paseo de San Millán de la Cogolla. Afectada línea 175 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261013-TP-3772-Paseo-San-Millan-Cogolla.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -27,12 +33,6 @@
     {
       "titulo": "Evento sociocultural en zona plaza España. Afectadas 21 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261009-Concierto-Hispanidad-Pza-España.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Evento: Palacio de los Deportes. Afectadas 4 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261009-PD-Evento.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

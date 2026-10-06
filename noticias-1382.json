@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "El valle de M’zab, un tesoro por descubrir en Argelia",
-      "link": "https://elpais.com/elviajero/viajes/2026-10-06/el-valle-de-mzab-un-tesoro-por-descubrir-en-argelia.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/2XIAHK7FBRBTVGFXKPQI224LK4.jpg?auth=ded9221f702b399c55bf045863cc037dccf6d76c5bc3c3bb93a92c0143a5bd21",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Los secretos de Sanliurfa, la ancestral ciudad turca que destila autenticidad",
       "link": "https://elpais.com/elviajero/2026-10-06/los-secretos-de-sanliurfa-la-ancestral-ciudad-turca-que-destila-autenticidad.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/MZWJAW365REZXKCPQOGW32O6XQ.jpg?auth=2d8dddd16e1b75e49078dd3b377ad94611a456c85b273ecaf30792274ea8eedc",
@@ -34,6 +28,12 @@
       "titulo": "La Antártida, un viaje al fin del mundo",
       "link": "https://elpais.com/elviajero/viajes/2026-10-02/la-antartida-un-viaje-al-fin-del-mundo.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/KIKZNWJ3PNCT7EFLFSTMZPGRXQ.jpg?auth=063f37fadb30054be7d1c54a5005bf0e8f4b06e021670e16ccd57b8a68cc96f3",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Por el estuario del Tajo, el jardín secreto de Lisboa",
+      "link": "https://elpais.com/elviajero/escapadas/europa/2026-10-02/por-el-estuario-del-tajo-el-jardin-secreto-de-lisboa.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/5ME7NTUW35H7JGVUIR3VMAOCJE.jpg?auth=6b620c322963d723a354630868e96d183853cb19d2333fce19f9131b92cbd7da",
       "tipo": "imagen"
     }
   ]

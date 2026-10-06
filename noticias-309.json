@@ -1,13 +1,19 @@
 {
   "noticias": [
     {
+      "titulo": "Alcaraz está de vuelta",
+      "link": "https://www.abc.es/deportes/tenis/alcaraz-vuelta-20261006130059-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/06/alcaraz-titulo-tokio-Rw46Hrtk5w8WkZSUXHIM6OJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sinner anuncia que pone fin a la temporada para tratar su rodilla",
       "link": "https://www.abc.es/deportes/tenis/sinner-anuncia-pone-fin-temporada-tratar-rodilla-20261006105527-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/06/sinner-Rl1uR4BZzjH4plqtOAQlygI-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Alcaraz - Lehecka en directo | Final del ATP 500 de Tokio",
+      "titulo": "Alcaraz - Lehecka en directo: resultado, ganador y última hora de la final del ATP 500 de Tokio hoy",
       "link": "https://www.abc.es/deportes/tenis/alcaraz-lehecka-directo-final-atp-500-tokio-20261006105752-di.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/06/directo-final-alcaraz-RZdueOblrr0k1VyxJpZ1hzK-1200x840@diario_abc.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Medvedev, expulsado del torneo de Pekín por un pelotazo a un espectador",
       "link": "https://www.abc.es/deportes/tenis/medvedev-expulsado-torneo-pekin-pelotazo-espectador-20261005164154-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/05/medvedev-reuters-RhJ5sDIiq85zDULXl6g3XbM-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Alcaraz se suelta a tiempo ante un sobresaliente Munar y jugará la final en Tokio",
-      "link": "https://www.abc.es/deportes/tenis/alcaraz-suelta-tiempo-ante-sobresaliente-munar-jugara-20261005115906-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/05/alcaraz-afp-RmiasXF3jGOniF1UlzAwB8L-1200x840@diario_abc.JPG",
       "tipo": "imagen"
     }
   ]
