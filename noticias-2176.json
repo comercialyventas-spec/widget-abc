@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Kia cambia el XCeed para que todo siga igual",
+      "link": "https://www.elperiodico.com/es/motor/20261006/kia-cambia-xceed-todo-siga-igual-135034524",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9423ed0e-ad0f-4638-932a-d19f3683c0da_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Google Maps o Waze: qué navegador elegir para evitar atascos y planificar viajes",
       "link": "https://www.elperiodico.com/es/motor/20261006/google-maps-o-waze-que-navegador-elegir-134636209",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/4d4d08f4-6a0d-4cb4-9e4b-447904ce938c_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Zeekr 9X, la máxima expresión del lujo chino",
       "link": "https://www.elperiodico.com/es/motor/20261005/zeekr-9x-maxima-expresion-lujo-chino-135015877",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ebe468a6-ca85-40e7-afe4-368522e631fa_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El 83% de los españoles ya utiliza la IA antes de comprar un coche",
-      "link": "https://www.elperiodico.com/es/motor/20261005/83-espanoles-utiliza-ia-antes-comprar-coche-135014999",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/511181a5-79fc-4890-ad71-e68392551c38_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

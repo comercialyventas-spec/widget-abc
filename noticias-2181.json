@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El viaje del plasma: de una donación a un tratamiento esencial",
+      "link": "https://www.elperiodico.com/ideas/El-viaje-del-plasma/index.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ba3d41c3-4dcc-484f-b8b9-ddc923e308ab_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Más de 35.000 españoles sufren neuralgia del trigémino, \"uno de los dolores más intensos que puede experimentar un ser humano\"",
+      "link": "https://www.elperiodico.com/es/sanidad/20261006/espanoles-sufren-neuralgia-trigemino-dolor-intenso-experimentar-ser-humano-135045514",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/736a6690-b909-4a61-bcbb-179ce95a8fff_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cristina Saura, oncóloga: \"El cáncer de mama metastásico no es curable, pero hemos logrado prolongar muchísimo la supervivencia\"",
       "link": "https://www.elperiodico.com/es/sanidad/20261006/entrevista-cristina-saura-oncologa-cancer-mama-metastasico-supervivencia-oncologia-hospital-vall-hebron-barcelona-134645674",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/75efdaa2-951e-4f9a-ae4c-499107e9355f_media-libre-aspect-ratio_default_0.jpg",
@@ -22,18 +34,6 @@
       "titulo": "El Nobel de Medicina premia a los padres de la optogenética, la técnica que usa la luz para conocer el cerebro",
       "link": "https://www.elperiodico.com/es/sociedad/20261005/nobel-medicina-deisseroth-hegemann-nagel-135012030",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/64b1683e-7a76-4d2b-8bd4-e5e4d38e421e_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El 70% de los pacientes con cáncer tiene desnutrición relacionada con su enfermedad: los médicos piden cribados desde el diagnóstico",
-      "link": "https://www.elperiodico.com/es/sanidad/20261005/pacientes-cancer-desnutricion-relacionada-enfermedad-cribados-diagnostico-medicos-135010090",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/e0e0cf4b-cd45-4975-9d57-52e3f75ad291_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Qué pasa ahora con la huelga indefinida de médicos prevista desde el 28 de octubre? Los sindicatos valoran si desconvocan el paro",
-      "link": "https://www.elperiodico.com/es/sanidad/20261005/pasa-ahora-huelga-indefinida-medicos-135007083",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f3b160e0-eb63-439a-ab75-5e1ee88f6b90_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Alerta por lluvias en Catalunya, en directo: última hora del tiempo y el aviso de Aemet y Meteocat para este martes",
+      "titulo": "Alerta por lluvias en Catalunya, en directo: última hora del tiempo y el aviso naranja del Meteocat por fuerte temporal este martes",
       "link": "https://www.elperiodico.com/es/sociedad/20261006/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/45508a4a-ea54-4aa6-ba2e-13f72b8e90b1_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Perito Moreno retrocede casi un kilómetro en solo cien días por el cambio climático",
+      "link": "https://www.elperiodico.com/es/medio-ambiente/20261006/perito-moreno-retrocede-kilometro-cien-135048465",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2f3ceee7-2913-4cee-93ec-246e1c33506a_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Dar sombra a los corales: ¿La solución contra su mortal blanqueamiento?",
       "link": "https://www.elperiodico.com/es/medio-ambiente/20261005/dar-sombra-corales-solucion-mortal-135007280",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ca4a008e-3445-4178-8ff4-41207dd540f9_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El 25% de los participantes en un ensayo presentan niveles de químicos tóxicos’ o PFAS superiores a los recomendados",
-      "link": "https://www.elperiodico.com/es/medio-ambiente/20261005/25-participantes-ensayo-presentan-niveles-135003190",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/4f65d3f7-a435-457e-bf63-4ff7417a5d51_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

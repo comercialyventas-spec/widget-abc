@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "PISA 2025: en América Latina, la cuna todavía decide quién aprende",
+      "link": "https://elpais.com/educacion/2026-10-06/pisa-2025-en-america-latina-la-cuna-todavia-decide-quien-aprende.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/WQZX726HYJAS5B46KSKHJTZWKU.jpg?auth=668da48ffac218e1464223dedd51b303cdbc7b86b9cb688e6fb1312490206b1b&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La educación inclusiva como pacto esencial",
       "link": "https://elpais.com/educacion/2026-10-02/la-educacion-inclusiva-como-pacto-esencial.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/LZW3NM2NKMTHA5JRFNY5JWKPME.jpg?auth=76d416d374308cf73b1e57a4aa760d38d7752a0da083619227a24cd4b4aaa856&width=414&height=311&smart=true",
@@ -26,13 +32,7 @@
     },
     {
       "titulo": "Cataluña lidera la lucha normativa contra la proliferación descontrolada de centros privados de FP ‘online’",
-      "link": "https://elpais.com/educacion/2026-09-30/cataluna-lidera-la-lucha-normativa-contra-la-proliferacion-descontrolada-de-centros-privados-de-fp-online.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/O4G3OGCRNVBY3CG6VXICK4MMZY.webp?auth=62be37efb05b18f8b1e104276fdf6fb00bf53191c1abc27e9aabd4c0963ce49f&width=414&height=311&focal=393%2C124",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los profesores de primaria de España dan 186 horas más de clase al año que los de secundaria y encabezan la brecha de los países desarrollados",
-      "link": "https://elpais.com/noticias/profesorado/",
+      "link": "https://elpais.com/noticias/fp-formacion-profesional/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/SEJWTPYCSNDKVH3VOQNGOQGKKE.png?auth=b640870211b3a4af7ef9c423e5198d4a40e0b827510ab604d5a10c6ed173fac6",
       "tipo": "imagen"
     }

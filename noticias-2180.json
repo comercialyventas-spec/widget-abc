@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Radar de lluvia en Barcelona y resto de Catalunya, en directo: cuándo y dónde va a llover hoy en tiempo real",
+      "link": "https://www.elperiodico.com/es/tiempo/20261006/radar-lluvia-barcelona-cataluna-tarragona-tiempo-real-dv-107738359",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/78ee69f7-dffb-4742-a034-1e6813bbc0a0_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Consulta por horas el tiempo que va a hacer en Barcelona",
+      "link": "https://www.elperiodico.com/es/tiempo/20261006/tiempo-barcelona-consulta-horas-dv-loc-135045802",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7ff9d75a-14bf-4d2e-b231-163f435b5d74_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Tiempo en Catalunya hoy martes: Continúan los avisos por lluvias en todo el territorio",
       "link": "https://www.elperiodico.com/es/tiempo/20261005/tiempo-cataluna-hoy-martes-6-de-octubre-lluvias-temperaturas-dv-loc-135025930",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/fff8d334-b67f-49c9-8327-8ee72fe6922c_media-libre-aspect-ratio_default_0.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Cruz Roja atiende a más de 2.000 personas que pasaron la noche en la estación de Sants",
       "link": "https://www.elperiodico.com/es/tiempo/20261004/cruz-roja-atiende-2-000-personas-sants-134991582",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/197b0bf9-54eb-4fc0-94f9-9cd830489227_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las imágenes más impactantes del temporal en Catalunya: inundaciones y decenas de avisos en l’Hospitalet y área metropolitana",
-      "link": "https://www.elperiodico.com/es/tiempo/20261003/temporal-cataluna-lluvias-imagenes-fotos-videos-dv-loc-134964368",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/3c2160d7-6ca6-452f-b701-58487ff413c9_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un temporal sin precedentes barre Catalunya y paraliza una veintena de comarcas",
-      "link": "https://www.elperiodico.com/es/tiempo/20261003/proteccio-civil-pide-restringir-actividades-tarde-catalunya-episodio-excepcional-lluvias-134957621",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0c87d5a6-f4bc-4d2f-bcdf-1fd5454b2daa_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

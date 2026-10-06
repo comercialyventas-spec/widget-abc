@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Premio Nobel de Física para Francis Halzen por el hallazgo de neutrinos de alta energía de origen astrofísico",
+      "link": "https://www.publico.es/ciencias/investigacion/premio-nobel-fisica-francis-halzen-hallazgo-neutrinos-alta-energia-origen-astrofisico.html",
+      "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/10/06/6ac4c7718d8c2.r_d.1022-747-1350.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Descubren un planeta devorado por su estrella, el origen de un mundo de segunda generación",
       "link": "https://www.publico.es/ciencias/investigacion/descubren-planeta-devorado-estrella-origen-mundo-segunda-generacion.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/05/6ac3cd574e6f8.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "OpenAI cancela el lanzamiento de su nuevo modelo de IA por problemas de seguridad",
       "link": "https://www.publico.es/ciencias/tecnologia/openai-cancela-lanzamiento-nuevo-modelo-ia-problemas-seguridad.html",
       "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/09/29/6abb796f94418.r_d.964-525-1406.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La IA de OpenAI intentó acceder sin autorización a webs oficiales del Gobierno de EEUU",
-      "link": "https://www.publico.es/ciencias/tecnologia/ia-openai-intento-acceder-autorizacion-webs-oficiales-gobierno-eeuu.html",
-      "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/07/22/6a60e36f1474a.r_d.961-574-1406.jpeg",
       "tipo": "imagen"
     }
   ]
