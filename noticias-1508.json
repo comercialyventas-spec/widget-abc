@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El triunfo de la política",
+      "link": "https://www.eldiario.es/contracorriente/triunfo-politica_132_13566875.html",
+      "imagen": "https://static.eldiario.es/clip/44c09faa-8fc3-4c85-bf5b-b8ba4d91e142_16-9-discover-aspect-ratio_default_0_x797y481.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La urgencia de un pacto electoral para el Senado",
       "link": "https://www.eldiario.es/contracorriente/urgencia-pacto-electoral-senado_132_13563717.html",
       "imagen": "https://static.eldiario.es/clip/ff4353f6-dc77-45d9-ad67-a93639ea8e49_16-9-discover-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El auto de medidas cautelares del Supremo es un “contra-amparo”",
       "link": "https://www.eldiario.es/contracorriente/auto-medidas-cautelares-supremo-amparo_132_13515058.html",
       "imagen": "https://static.eldiario.es/clip/e98ac1cf-87d2-4b39-b9f3-c2165e67bb1e_16-9-discover-aspect-ratio_default_0_x698y241.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La democracia en la encrucijada",
-      "link": "https://www.eldiario.es/contracorriente/democracia-encrucijada_132_13504043.html",
-      "imagen": "https://static.eldiario.es/clip/47fd815e-8d70-4075-b537-2eefeb8650a5_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

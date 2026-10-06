@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Impuestos a la IA y salidas a bolsa",
+      "link": "https://www.elperiodico.com/es/opinion/20261006/impuestos-ia-salidas-bolsa-135076388",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/851207b3-da53-4b44-9541-61a6333addcd_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cuktech 10 Ultra: el cargador de 100 W que pone cifras a la carga",
+      "link": "https://www.elperiodico.com/es/tecnologia/20261006/cuktech-10-ultra-cargador-100-135075499",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d2b0b56b-8e73-4db8-a8e1-f599ece8afb1_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "2 TB, hasta 2.000 MB/s y protección IP65: así es el SSD portátil de SanDisk",
+      "link": "https://www.elperiodico.com/es/tecnologia/20261006/sandisk-disco-externo-precio-caracteristicas-135073509",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0f0f4a3e-4cfa-45df-9c44-ca47b418ed72_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Noruega prohibirá gafas inteligentes como las de Meta: estos países también lo estudian",
       "link": "https://www.elperiodico.com/es/internacional/20261006/noruega-prohibira-gafas-inteligentes-meta-camara-paises-veto-zuckerberg-privacidad-135068074",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b894851e-eb37-486a-9b43-ded3365de3cd_media-libre-aspect-ratio_default_0.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Huawei Watch 6, review: un reloj inteligente completo para salud, deporte y llamadas sin móvil",
       "link": "https://www.elperiodico.com/es/tecnologia/20261005/huawei-watch-6-review-precios-135025649",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f3edbf91-42d6-4b00-a595-700574ccbed0_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los fondos de inversión de Estados Unidos impulsan las start-ups militares de Europa",
-      "link": "https://www.elperiodico.com/es/tecnologia/20261005/impulsa-empresas-defensa-militar-europa-inversion-fondos-eeuu-guerra-rusia-135020625",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/1a3965cc-bfbd-4e15-839d-1d4a9c40b3eb_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sam Altman, creador de ChatGPT: \"El mundo debería aceptar que sucedan algunas cosas malas\" en aras de los beneficios de la IA",
-      "link": "https://www.elperiodico.com/es/tecnologia/20261005/sam-altman-chatgpt-openai-mundo-aceptar-cosas-malas-riesgos-ia-135011243",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6a81a755-fd05-460c-a67d-e5208a5ff89d_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las empresas de IA, criptomonedas y apuestas destinan 300 millones de dólares a influir en las elecciones de Estados Unidos",
-      "link": "https://www.elperiodico.com/es/internacional/20261004/industria-ia-criptomonedas-riegan-elecciones-trump-eeuu-midterms-chatgpt-134956103",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b63d2281-5c5b-4cd4-9026-9dd6a1e0821b_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

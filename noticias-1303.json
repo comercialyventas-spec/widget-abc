@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Votar por correo es peligroso",
+      "link": "https://www.mediterraneodigital.com/opinion/columnistas-de-opinion/ramiro-grau/voto-por-correo",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/10/votar-por-correo.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ceuta, Marlaska, Robles y Sánchez",
       "link": "https://www.mediterraneodigital.com/opinion/columnistas-de-opinion/ramiro-grau/invasion-de-ceuta",
       "imagen": "https://www.mediterraneodigital.com/images/2026/10/marlaska-sanchez.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Fiscales de antaño y de hogaño",
       "link": "https://www.mediterraneodigital.com/opinion/columnistas-de-opinion/ramiro-grau/fiscales",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/fiscalia.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Canarias, Ceuta y Melilla son España",
-      "link": "https://www.mediterraneodigital.com/opinion/columnistas-de-opinion/sigfrid-soria/canarias-ceuta-y-melilla",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/9/banderas-espanolas.jpg",
       "tipo": "imagen"
     }
   ]
