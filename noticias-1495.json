@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Somos Chamberí",
+      "link": "https://www.eldiario.es/madrid/somos/chamberi/",
+      "imagen": "https://static.eldiario.es/clip/f1b230ac-0a64-4636-b049-32e73f5cf9f9_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Comunidad de Madrid busca sitio en Carabanchel para el 'mini Palacio de los Deportes' que descartó en Chamberí",
+      "link": "https://www.eldiario.es/madrid/somos/comunidad-madrid-busca-sitio-carabanchel-mini-palacio-deportes-descarto-chamberi_1_13542639.html",
+      "imagen": "https://static.eldiario.es/clip/4ce42ba0-ddfb-4392-8c46-ea2a3a69f346_16-9-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El frontón Beti Jai acoge ocho partidos de pelota vasca con entradas gratuitas",
       "link": "https://www.eldiario.es/madrid/somos/chamberi/fronton-beti-jai-acoge-ocho-partidos-pelota-vasca-entradas-gratuitas_1_13526615.html",
-      "imagen": "https://static.eldiario.es/clip/ecc1cdd9-fcc0-41c9-b84a-4ca8bef56653_16-9-aspect-ratio_default_0_x744y308.jpg",
+      "imagen": "https://static.eldiario.es/clip/ecc1cdd9-fcc0-41c9-b84a-4ca8bef56653_16-9-discover-aspect-ratio_default_0_x744y308.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "El Ayuntamiento de Madrid planea una torre de 12 pisos con uso cultural en la esquina junto al Estadio Vallehermoso",
       "link": "https://www.eldiario.es/madrid/somos/chamberi/ayuntamiento-madrid-planea-torre-12-pisos-cultural-esquina-estadio-vallehermoso_1_13478523.html",
       "imagen": "https://static.eldiario.es/clip/1f73f1f4-021d-48dc-b8a0-885eb55de2db_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los versos de Federico García Lorca en el portal del edificio de Chamberí donde vivió",
-      "link": "https://www.eldiario.es/madrid/somos/chamberi/versos-federico-garcia-lorca-portal-chamberi-vivio_1_13455178.html",
-      "imagen": "https://static.eldiario.es/clip/8004b7d2-837d-40b1-8b70-706d17dae099_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una tragedia laboral o trabajo forzado: lo que la exposición del Canal de Isabel II omite y tejería una historia más honesta",
-      "link": "https://www.eldiario.es/madrid/somos/chamberi/tragedia-laboral-trabajo-forzado-exposicion-canal-isabel-ii-omite-tejeria-historia-honesta_1_13445987.html",
-      "imagen": "https://static.eldiario.es/clip/fa01e6c3-6b20-402c-97ac-155d48f8ccd1_16-9-discover-aspect-ratio_default_0_x427y527.jpg",
       "tipo": "imagen"
     }
   ]

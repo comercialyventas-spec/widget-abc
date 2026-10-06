@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Se tiró a la piscina. Lo mismo hay agua",
+      "link": "https://www.eldiario.es/blog/el-ojo-izquierdo/tiro-piscina-hay-agua_132_13564058.html",
+      "imagen": "https://static.eldiario.es/clip/894f9752-f9ea-438f-8e4e-79f2a9a358d7_16-9-discover-aspect-ratio_default_0_x887y328.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "No se juega con las cosas del vivir bajo techo. Ni de comer",
       "link": "https://www.eldiario.es/blog/el-ojo-izquierdo/no-juega-cosas-vivir-techo-comer_132_13544844.html",
       "imagen": "https://static.eldiario.es/clip/101e867e-d8d3-4f25-8177-96de1c614711_16-9-discover-aspect-ratio_default_0_x969y364.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Acaben de una vez con ese espectáculo lamentable",
       "link": "https://www.eldiario.es/blog/el-ojo-izquierdo/acaben-vez-espectaculo-lamentable_132_13477782.html",
       "imagen": "https://static.eldiario.es/clip/d582787d-31c3-4f05-b413-1dbce1623385_16-9-discover-aspect-ratio_default_0_x1081y422.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las llamas terribles y ese magma irresponsable de la derecha",
-      "link": "https://www.eldiario.es/blog/el-ojo-izquierdo/llamas-terribles-magma-irresponsable-derecha_132_13410152.html",
-      "imagen": "https://static.eldiario.es/clip/42d9e010-5f3a-41a5-89af-38044b9f8502_16-9-discover-aspect-ratio_default_0_x1014y356.jpg",
       "tipo": "imagen"
     }
   ]
