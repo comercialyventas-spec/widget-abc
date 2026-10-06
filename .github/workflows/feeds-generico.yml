@@ -341,6 +341,11 @@ jobs:
                 ruta = x.pathname.toLowerCase().replace(/\/+$/, "");
                 host = x.hostname.toLowerCase();
               } catch (e) { return false; }
+              // 6 oct: portada de El Confidencial (noticias-209). Su web bloquea bots y solo
+              // sirve este feed, que trae las ultimas horas de todas las secciones: se pide
+              // cada 30 min como las demas portadas aunque el host no empiece por www.
+              // Solo esa fila: noticias-232 y noticias-1000 usan la misma URL y siguen como estaban.
+              if (f.wid === "noticias-209" && host === "rss.elconfidencial.com" && ruta === "") return true;
               // portada del medio (no la de subdominios como tienda., club., hemeroteca.)
               if (ruta === "") return /^www\./.test(host) || host.split(".").length === 2;
               if (/^\/(index\.html?|home|portada|es|rss|feed|rss\.xml|feed\.xml|rss\/home(\.xml)?|rss\/portada(\.xml)?|rss\/ultima-hora(\.xml)?)$/.test(ruta)) return true;
