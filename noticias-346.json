@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Probamos el iPhone 18 Pro: un móvil todoterreno que apenas mejora a su hermano menor",
+      "link": "https://www.abc.es/tecnologia/probamos-iphone-pro-movil-todoterreno-apenas-mejora-20261007010120-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/07/IMG_8140-RjkjmTwAM1UYeS6JB7EpCuO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sam Altman, CEO de OpenAI, rechaza frenar el desarrollo de la IA: «El mundo debería aceptar que ocurran cosas malas por los beneficios de esta tecnología»",
       "link": "https://www.abc.es/tecnologia/sam-altman-ceo-openai-rechaza-frenar-desarrollo-20261006190341-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/06/sam-altman-RgNlbkSygEM25J7ulAszEiO-1200x840@diario_abc.JPG",
@@ -28,12 +34,6 @@
       "titulo": "Recorte en las funciones gratuitas de Gemini: estos son los cambios que Google añadirá a su IA este mes",
       "link": "https://www.abc.es/tecnologia/recorte-funciones-gratuitas-gemini-cambios-google-anadira-20261005184251-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/05/joven-ordenador-RnBFE1ZJcP9SkdeRYnkS8UP-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Analizamos los Huawei FreeBuds Neo, los auriculares más equilibrados que hemos probado",
-      "link": "https://www.abc.es/tecnologia/analizamos-huawei-freebuds-neo-auriculares-equilibrados-probado-20261003161846-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/03/auriculares1-RTrZ5ts71ZK5yGGaElmfYRP-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

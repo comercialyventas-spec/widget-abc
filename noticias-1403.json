@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Las 'startups' españolas ganan escala en 2026 con grandes rondas y la entrada de inversores estratégicos",
+      "link": "https://www.elconfidencial.com/empresas/2026-09-24/startups-espanolas-financiacion-crecimiento-1hms-1svm_4430766/",
+      "imagen": "https://images.ecestaticos.com/tfMwhEov81QqYw5dG4AlNU86giQ=/0x0:1200x852/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbe7%2F0ed%2Fe0d%2Fbe70ede0d699a9673528a3f4d7611e33.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "G-Accelerator Impact Call se consolida como aliado de jóvenes emprendedores",
+      "link": "https://www.elconfidencial.com/empresas/2026-08-12/emprendimiento-jovenes-startups-barcelona-impacto-1hms-1svm_4404982/",
+      "imagen": "https://images.ecestaticos.com/ZGkU1VN9Vjl1XxuWZK4-ZpZIAEs=/0x0:1024x768/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F5b9%2F52e%2F251%2F5b952e251f61a242485657ef73b0ec96.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Optiak capta 4 millones para crear una plataforma de gestión de IA para empresas",
+      "link": "https://www.elconfidencial.com/empresas/2026-06-16/optiak-financiacion-preseed-ia-empresas_4373207/",
+      "imagen": "https://images.ecestaticos.com/5xmUCs6I2GPjGu4biliLmRqild0=/0x0:2048x1365/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe51%2Fb9a%2Fc96%2Fe51b9ac962aca9761bd9ec9da755b931.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Tienes una 'startup' y buscas financiación? Ahora hay más opciones que nunca: las vías para conseguirla",
       "link": "https://www.elconfidencial.com/tecnologia/2026-06-05/startups-espana-financiacion-emprendedores-bra_4362463/",
       "imagen": "https://images.ecestaticos.com/XiB-7f5Z_nOl0AFMuHNb6xhQYyg=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7a6%2F603%2F7e8%2F7a66037e83dff41ae2e5ed0fbf8997e5.jpg",
@@ -13,27 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Cobardes y Gallinas: dos emprendedores venden huevos a los mejores chefs de España",
-      "link": "https://www.elconfidencial.com/gastronomia/2025-07-03/huevos-insolita-historia-cobardes-gallinas_4162600/",
-      "imagen": "https://images.ecestaticos.com/4x6M-EEqyWurF3s8lWJtLq9-HCw=/0x0:2272x2741/746x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F780%2F62e%2F56d%2F78062e56d8a1727f95d61164f24a15c1.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Foro \"Emprender: mujeres que marcan su rumbo\", en imágenes",
-      "link": "https://www.elconfidencial.com/empresas/2025-03-08/emprender-mujeres-negocio-emprendedoras-impulsa-bra_4079170/",
-      "imagen": "https://images.ecestaticos.com/uOI-skXepzjJAb_PCciYFmpOL9o=/0x0:1900x1069/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F070%2F934%2F77e%2F07093477e6df48969a7441c33ee9471c.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Foro 'Extremadura, destino inversor', en imágenes",
-      "link": "https://www.elconfidencial.com/espana/2024-12-13/extremadura-destino-invesor-imagenes-bra_4020574/",
-      "imagen": "https://images.ecestaticos.com/ZqRrWF-hpAzPp-hhepzTnfFehP4=/0x0:1900x1069/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe6e%2F594%2Fbf8%2Fe6e594bf86995109d6505dfb198a0af6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Foro Galicia, destino inversor, en imágenes",
-      "link": "https://www.elconfidencial.com/espana/galicia/2024-12-05/emprendedores-inversion-galicia-bra_4016865/",
-      "imagen": "https://images.ecestaticos.com/Xaw0-MsFxHcXccTjQujezQ5XpY0=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fedf%2F07e%2F3fe%2Fedf07e3fe90d7a61ecfeaeacf76c8969.jpg",
+      "titulo": "Dos sevillanos en la lista Forbes 'Under 30 Europe 2026': de la universidad a cerrar el año con su empresa con 17 millones de ingresos",
+      "link": "https://www.elconfidencial.com/economia/2026-04-17/sevillanos-lista-forbes-under-30-europe-2026-empresa-17-millones-qrt_4339593/",
+      "imagen": "https://images.ecestaticos.com/vAb60Kx1F_i8CFdVXx8vNThWG78=/0x0:1390x792/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F0e2%2F655%2Fc92%2F0e2655c92c4907292932bef3693373bb.jpg",
       "tipo": "imagen"
     }
   ]

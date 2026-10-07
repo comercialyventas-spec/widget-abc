@@ -1,7 +1,13 @@
 {
   "noticias": [
     {
-      "titulo": "Algeciras, este miércoles hay teatro de La Perseverancia en la ETSIA",
+      "titulo": "Algeciras reúne a mujeres emprendedoras para compartir experiencias",
+      "link": "https://www.algecirasalminuto.es/sociedad/algeciras-mujeres-emprendedoras/",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "Algeciras, mañana hay teatro de la ONCE en el escenario de la ETSIA",
       "link": "https://www.algecirasalminuto.es/cultura/algeciras-teatro-once-etsia/",
       "imagen": "https://www.algecirasalminuto.es/wp-content/uploads/2026/10/Que-viene-mi-marido-4.jpeg",
       "tipo": "imagen"
@@ -27,14 +33,8 @@
     {
       "titulo": "Algeciras, los mercados municipales cerrarán el próximo lunes 12",
       "link": "https://www.algecirasalminuto.es/municipal/algeciras-mercados-cierre-lunes/",
-      "imagen": "https://www.algecirasalminuto.es/wp-content/uploads/NP-08.06.2022-VOX-Algeciras-Mercados.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Algeciras, detenido por embarcar desde Ceuta con un inmigrante oculto",
-      "link": "https://www.algecirasalminuto.es/sociedad/algeciras-inmigrante-oculto/",
-      "imagen": "https://www.algecirasalminuto.es/wp-content/uploads/fotonoticia_20250411100317_1920.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     }
   ]
 }

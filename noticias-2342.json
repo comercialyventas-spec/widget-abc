@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Un incendio en las inmediaciones de la estación de tren de Zamora obliga a movilizar a los servicios de emergencia",
+      "link": "https://www.zamora24horas.com/sucesos/incendio-inmediaciones-estacion-tren-zamora-obliga-movilizar-servicios-emergencia",
+      "imagen": "https://statics.zamora24horas.com/53b404e8-ac22-4b7b-95a4-8d2f219113af.webp?format=webp&width=320&quality=75",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "GALERÍA | Revive en imágenes el duelo entre el Zamora CF y el CD Coria",
       "link": "https://www.zamora24horas.com/deportes/galeria-revive-imagenes-duelo-entre-zamora-cf-cd-coria",
       "imagen": "https://statics.zamora24horas.com/7d112aeb-c036-4f9f-9e36-8bed65016c32.webp?format=webp&width=320&quality=75",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "GALERÍA | La solidaridad de la XLI Marcha Asprosub, en imágenes",
+      "link": "https://www.zamora24horas.com/local/galeria-solidaridad-xli-marcha-asprosub-imagenes",
+      "imagen": "https://statics.zamora24horas.com/8c97b663-37dd-41d5-aa99-e4ce69dd207f.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
     },
     {
@@ -16,12 +28,6 @@
       "titulo": "GALERÍA | Revive en imágenes el duelo entre el CB Zamora y el Movistar Estudiantes",
       "link": "https://www.zamora24horas.com/deportes/galeria-revive-imagenes-duelo-entre-cb-zamora-movistar-estudiantes",
       "imagen": "https://statics.zamora24horas.com/ed8c5689-b604-41d3-ba90-d1408ba99ec7.webp?format=webp&width=320&quality=75",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "GALERÍA | Zamora se moviliza por la crisis de la vivienda: revívelo en imágenes",
-      "link": "https://www.zamora24horas.com/local/galeria-zamora-moviliza-crisis-vivienda-revivelo-imagenes",
-      "imagen": "https://statics.zamora24horas.com/99713dae-e72f-49ca-8c1b-b606c513c014.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
     }
   ]

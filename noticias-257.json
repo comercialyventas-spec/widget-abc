@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Amnistía: la gran traición a España",
+      "link": "https://www.abc.es/espana/amnistia-gran-traicion-espana-20261006205858-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/06/foto%20chapu_20261006201053-U47186642756FUX-562x393@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "«Los pisos son una inversión, pero tienen riesgos»",
       "link": "https://www.abc.es/economia/cuentas-corrientes/gente-quiere-pisos-inversion-tocas-riesgos-20261006010514-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/06/Captura%20de%20pantalla%202026-10-05%20093257-U04730403230yiJ-562x393@diario_abc.png",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/06/Captura%20de%20pantalla%202026-10-05%20093257-U26385840355sWe-562x315@diario_abc.png",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Cuando los conciertos son una fábrica de vídeos virales",
       "link": "https://www.abc.es/cultura/negocio-invitados-vip-conciertos-convierten-fabrica-videos-20260526014209-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/05/26/port%201920x1080-kYEE--562x315@diario_abc.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La burbuja de los festivales: de ser cultura a un lujo",
-      "link": "https://www.abc.es/cultura/burbuja-festivales-pasaron-cultura-lujo-20260623012521-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/06/23/PORT%201920x1080%20(1)-kFOD-U30444210581wO-562x315@diario_abc.png",
       "tipo": "imagen"
     }
   ]

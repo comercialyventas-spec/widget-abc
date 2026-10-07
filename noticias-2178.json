@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La portada de EL PERIÓDICO del 7 de octubre de 2026",
+      "link": "https://www.elperiodico.com/es/sociedad/20261007/portada-periodico-7-octubre-2026-135080078",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/694c2272-ccda-407f-9753-7313d08f1e30_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un centenar de pasajeros son evacuados tras el impacto de un talud contra un convoy en Catalunya",
+      "link": "https://www.elperiodico.com/es/sociedad/20261006/arbol-talud-tren-vilanova-cunit-rodalies-lluvias-135079653",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/62634b72-c365-46ee-af52-1c703bc13318_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El temporal coge fuerza y descarga más de 40.000 rayos entre la costa catalana y las aguas del Mediterráneo",
       "link": "https://www.elperiodico.com/es/sociedad/20261006/temporal-martes-rayos-costa-cataluna-135078477",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/49072aa0-64c7-40ce-b3fb-c02827aae46b_media-libre-aspect-ratio_default_0.jpg",
@@ -22,18 +34,6 @@
       "titulo": "El temporal explota y obliga a activar avisos rojos ante unas lluvias torrenciales que han vuelto a causar inundaciones en Catalunya",
       "link": "https://www.elperiodico.com/es/sociedad/20261006/temporal-explota-avisos-rojos-litoral-cataluna-martes-135074505",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/49072aa0-64c7-40ce-b3fb-c02827aae46b_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Siga en directo las movilizaciones ciudadanas en defensa de la vivienda",
-      "link": "https://www.elperiodico.com/es/politica/20261006/acampada-sol-desahucio-maricarmen-protestas-decreto-vivienda-ultima-hora-directo-barcelona-plaza-cataluna-134724337",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a89e41ac-b745-4ccd-ade0-0a649ced80c0_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los bomberos realizan 22 rescates de vehículos atrapados por la tormenta en Xerta, Vandellòs y Cambrils",
-      "link": "https://www.elperiodico.com/es/sucesos/20261006/bomberos-rescatan-ocupantes-vehiculos-atrapados-xerta-tormenta-135073468",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a09e0b61-b3f5-48ce-8637-f31d8bf36dbc_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

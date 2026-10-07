@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¿El discurso de la Justicia?",
+      "link": "https://www.eldiario.es/opinion/tribuna-abierta/discurso-justicia_129_13567108.html",
+      "imagen": "https://static.eldiario.es/clip/f07ff758-6260-449b-91a4-c97492fa2fd6_avatar-200-aspect-ratio_default_0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Se acabó el tiempo de los políticos. Que empiece el tiempo de la política",
       "link": "https://www.eldiario.es/opinion/tribuna-abierta/acabo-tiempo-politicos-empiece-tiempo-politica_129_13561224.html",
       "imagen": "https://static.eldiario.es/clip/4bb2d9d7-b04e-42f3-990d-c26b88c5f2db_avatar-200-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Del desahucio libre al principio de causalidad",
       "link": "https://www.eldiario.es/opinion/tribuna-abierta/desahucio-libre-principio-causalidad_129_13554873.html",
       "imagen": "https://static.eldiario.es/clip/4e7a0111-44c7-4729-a2fd-c27f57a910c9_avatar-200-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ganar tiempo mientras avanza el nuevo modelo residencial",
-      "link": "https://www.eldiario.es/opinion/tribuna-abierta/ganar-tiempo-avanza-nuevo-modelo-residencial_129_13555131.html",
-      "imagen": "https://static.eldiario.es/clip/73537595-e6f1-4d93-8580-4ddc0306df45_avatar-200-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

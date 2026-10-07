@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Solo ha habido y habrá un Chiquito",
+      "link": "https://www.abc.es/play/television/noticias/solo-chiquito-20261006010922-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/06/11366999-RLShuvvnhA2P59oABmBPOfN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Miguel Bernardeau denuncia los mensajes que recibe por ‘La bola negra’: «Arriba España, hijo de la gran puta»",
+      "link": "https://www.abc.es/play/television/noticias/molesta-poco-miguel-bernardeau-queja-comentario-recurrente-20261006004658-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/06/bernardeau-RuXQURZK7sSezXvjKAgaSzO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "José Mota carga contra la «crispación y el odio» y reivindica la comedia: «Es un arma de construcción masiva»",
       "link": "https://www.abc.es/play/television/noticias/jose-mota-carga-crispacion-odio-reivindica-comedia-20261006223902-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/06/hormiguero-R1W95k31PwWYF84cl9kPp3J-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Gabriel Rufián, sobre por qué es un error que Pedro Sánchez convoque elecciones generales: «No se tienen que dejar llevar por la euforia. Es una irresponsabilidad»",
       "link": "https://www.abc.es/play/television/noticias/gabriel-rufian-sobre-error-pedro-sanchez-convoque-20261006123005-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/04/rrr-knYD-U302086088757yKE-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Iñaki López, sobre la estrategia de Pedro Sánchez al convocar elecciones generales: «Quiere capitalizar su mayor fracaso porque sabe que puede ser su mejor baza»",
-      "link": "https://www.abc.es/play/television/noticias/inaki-lopez-sobre-estrategia-pedro-sanchez-convocar-20261006152017-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/06/inaki-lopez-sanchez-ktbF-U302083880329JRB-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Margallo anticipa el resultado de las elecciones generales en España: «Hay que ver cómo se dosifica eso y cuáles son las líneas rojas»",
-      "link": "https://www.abc.es/play/television/noticias/margallo-anticipa-resultado-elecciones-generales-espana-ver-20261006124112-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/06/partidos-elecciones-margallo-RzCKx7aF29sNV0HLflc0gHO-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

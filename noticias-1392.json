@@ -2,6 +2,18 @@
   "noticias": [
     {
       "titulo": "Noticias de Nuevo Sureste de Madrid",
+      "link": "https://nuevosureste.es/almeida-gran-via-sureste/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/Visita-de-Almeida-a-las-obras-de-la-Gran-Via-del-Sureste-en-Ensanche-de-Vallecas-foto_-Nuevo-Sureste.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Almeida entrega las 96 viviendas de alquiler asequible de la promoción Cañaveral 8",
+      "link": "https://nuevosureste.es/entrega-llaves-canaveral-8/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/OLE04027-2-2-1080x675.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Valdecarros recibe autorización para iniciar la construcción de sus primeras 13.371 viviendas",
       "link": "https://nuevosureste.es/autorizacion-simultaneidad-valdecarros/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2025/12/FOTOS-ETAPA-1-16-SEP5-1-1-1080x675.jpg",
       "tipo": "imagen"
@@ -22,18 +34,6 @@
       "titulo": "Inma Sanz, vicealcaldesa de Madrid: “El sureste de Madrid es el futuro de la ciudad”",
       "link": "https://nuevosureste.es/clausura-jornada-surestelab/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/SuresteLab-2026-044-1080x675.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Surestelab: El bloqueo eléctrico y la tramitación urbanística centran las preocupaciones para el desarrollo de vivienda en Madrid",
-      "link": "https://nuevosureste.es/surestelab-mesa-redodna/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/SuresteLab-2026-033-1080x675.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Luis Roca de Togores, presidente de la Junta de Compensación de Valdecarros: “Tendremos 13.500 viviendas en marcha en la primera mitad del año que viene”",
-      "link": "https://nuevosureste.es/luis-roca-de-togores-valdecarros-vvienda/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/SuresteLab-2026-023-1080x675.jpg",
       "tipo": "imagen"
     }
   ]
