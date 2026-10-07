@@ -1,0 +1,241 @@
+{
+ "fecha": "2026-10-07T06:06:16.366Z",
+ "modo": "anadir_etiquetas",
+ "lista": "migracion/etiquetas_prueba20.json",
+ "cuenta": {
+  "cambiados": 20,
+  "yaEstaban": 0,
+  "saltados": 0,
+  "errores": 0,
+  "restaurados": 0
+ },
+ "porGeneral": {
+  "TURISMO": 2,
+  "FEMINISMO": 1,
+  "IGUALDAD": 2,
+  "ARTÍCULOS": 1,
+  "GUERRAS": 2,
+  "POLÍTICA": 1,
+  "SOCIEDAD": 1,
+  "GENTE": 1,
+  "VIVIENDA": 1,
+  "DEPORTES": 1,
+  "SALUD": 2,
+  "ESPAÑA": 2,
+  "COMUNICADOS DE PRENSA": 1,
+  "CULTURA": 1,
+  "NEGOCIOS": 1,
+  "INTERNACIONAL": 1,
+  "MODA": 1,
+  "TELEVISIÓN": 2,
+  "PORTADAS": 1
+ },
+ "cortado": false,
+ "detalle": [
+  {
+   "id": "4100073588003088237",
+   "titulo": "VIAJES VÍDEOS EL CONFIDENCIAL DIGITAL",
+   "estado": "SCHEDULED",
+   "url": "https://periodicosaliazon.blogspot.com/2026/10/viajes-videos-el-confidencial-digital.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "TURISMO"
+   ]
+  },
+  {
+   "id": "1379256384431285062",
+   "titulo": "IGUALDAD INFOLIBRE",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/igualdad-infolibre_01333897843.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "FEMINISMO",
+    "IGUALDAD"
+   ]
+  },
+  {
+   "id": "1516546572669110551",
+   "titulo": "«Vencer en una guerra nuclear es imposible",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/06/vencer-en-una-guerra-nuclear-es.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "ARTÍCULOS",
+    "GUERRAS"
+   ]
+  },
+  {
+   "id": "13427981569031096",
+   "titulo": "NOTICIAS POLÍTICA ESTADOS UNIDOS POR ZOE RICHARDS",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2024/02/noticias-politica-estados-unidos-por.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "POLÍTICA"
+   ]
+  },
+  {
+   "id": "4248274072803112035",
+   "titulo": "GENTE VIP ABC",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/gente-vip-abc.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "SOCIEDAD",
+    "GENTE"
+   ]
+  },
+  {
+   "id": "6642076006314754314",
+   "titulo": "INMOBILIARIO VOZ POPULI",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/inmobiliario-voz-populi.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "VIVIENDA"
+   ]
+  },
+  {
+   "id": "2516506584229698360",
+   "titulo": "FEMINISMO NEWTRAL",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/feminismo-newtral_02109394168.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "IGUALDAD"
+   ]
+  },
+  {
+   "id": "771073934640018705",
+   "titulo": "MÁS DEPORTE EL MUNDO",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/mas-deporte-el-mundo.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "DEPORTES"
+   ]
+  },
+  {
+   "id": "4112949180875896122",
+   "titulo": "Un vistazo a la vida de Shaheed Ali Larijani",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/03/un-vistazo-la-vida-de-shaheed-ali.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "GUERRAS"
+   ]
+  },
+  {
+   "id": "114864860538584608",
+   "titulo": "NOTAS DE PRENSA DEL MINISTERIO DE SANIDAD DE ESPAÑA",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/06/notas-de-prensa-del-ministerio-de.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "SALUD",
+    "ESPAÑA",
+    "COMUNICADOS DE PRENSA"
+   ]
+  },
+  {
+   "id": "9031031170283417266",
+   "titulo": "VIAJES ESDIARIO",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/viajes-esdiario.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "TURISMO"
+   ]
+  },
+  {
+   "id": "8617581979995121119",
+   "titulo": "CINE EL PLURAL",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/cine-el-plural.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "CULTURA"
+   ]
+  },
+  {
+   "id": "2407127254262357870",
+   "titulo": "SANIDAD EL PERIÓDICO",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/10/sanidad-el-periodico.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "SALUD"
+   ]
+  },
+  {
+   "id": "5503728139551916334",
+   "titulo": "EMPRESAS VOZ POPULI",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/empresas-voz-populi.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "NEGOCIOS"
+   ]
+  },
+  {
+   "id": "7054289725166407595",
+   "titulo": "POLÍTICA gazeta shqiptare",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2023/12/politica-gazeta-shqiptare.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "INTERNACIONAL"
+   ]
+  },
+  {
+   "id": "6393869139387408456",
+   "titulo": "ESTILO ABC",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/estilo-abc.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "MODA"
+   ]
+  },
+  {
+   "id": "3663163744396086840",
+   "titulo": "SERIES ABC",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/series-abc.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "TELEVISIÓN"
+   ]
+  },
+  {
+   "id": "5431797886925686220",
+   "titulo": "SERIES EL CONFIDENCIAL DIGITAL",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/series-el-confidencial-digital.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "TELEVISIÓN"
+   ]
+  },
+  {
+   "id": "8226515088261091694",
+   "titulo": "NACIONAL ESDIARIO",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/nacional-esdiario_094121954.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "ESPAÑA"
+   ]
+  },
+  {
+   "id": "3011812707390259882",
+   "titulo": "PORTADA ABC",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/portada-abc.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "PORTADAS"
+   ]
+  }
+ ]
+}
