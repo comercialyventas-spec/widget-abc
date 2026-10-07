@@ -1,0 +1,8 @@
+{
+ "tipo": "etiquetas",
+ "descripcion": "PERIÓDICOS ALIAZON: prueba con 1 post del script corregido (posts.update con el post íntegro y comprobación del content).",
+ "blogId": "7463231340560247006",
+ "tabla": "migracion/etiquetas_equivalencias.json",
+ "pausa_ms": 5000,
+ "posts": ["8895828563521694257"]
+}

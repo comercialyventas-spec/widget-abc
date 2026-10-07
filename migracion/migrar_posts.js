@@ -11,10 +11,15 @@
 //
 // MODOS DE ETIQUETAS (lista con "tipo": "etiquetas", ver etiquetasMain más abajo):
 //   simular_etiquetas   -> solo lee y dice qué etiquetas generales añadiría a cada post.
-//   anadir_etiquetas    -> guarda copia de las etiquetas en migracion/backups/etiquetas/<postId>.json
-//                          y AÑADE las generales que faltan (posts.patch solo con "labels").
-//                          No quita ni cambia ninguna etiqueta, ni el contenido, título, fecha o estado.
-//   restaurar_etiquetas -> deja las etiquetas de cada post como estaban en su copia.
+//   anadir_etiquetas    -> lee el post COMPLETO (con su content), guarda una copia completa en
+//                          migracion/backups/etiquetas/<postId>.json y lo reenvía ÍNTEGRO con posts.update
+//                          cambiando solo "labels" (añade las generales que faltan; no quita ninguna).
+//                          Después vuelve a leerlo y comprueba que el content, el título, la fecha y el
+//                          estado son los mismos. Al primer fallo, PARA.
+//   restaurar_etiquetas -> DESACTIVADO (la versión del 7 oct usaba posts.patch con fetchBody=false y
+//                          vaciaba el content de los posts).
+//
+// 7 oct: NUNCA usar posts.patch con fetchBody=false: Blogger guardó los posts con el content vacío.
 
 const fs = require('fs');
 const path = require('path');
@@ -108,6 +113,9 @@ async function etiquetasMain(lista, modo, token) {
   const blogId = lista.blogId;
   const conf = JSON.parse(fs.readFileSync(path.join(__dirname, '..', lista.tabla), 'utf8'));
   const tabla = conf.equivalencias, reglas = conf.reglas || [];
+  // Excepciones por post: generales que NO se añaden a ese post, p. ej. {"6788054403342205516": ["SUPLEMENTOS"]}
+  const excepciones = conf.excepciones_por_post || {};
+  const faltan = (id, labels) => etiquetasQueFaltan(labels, tabla, reglas).filter((g) => !(excepciones[id] || []).includes(g));
   const pausa = lista.pausa_ms || 4000;
   fs.mkdirSync(DIR_BACKUP_ETQ, { recursive: true });
 
@@ -121,7 +129,7 @@ async function etiquetasMain(lista, modo, token) {
         const j = await bloggerEtq(token, 'GET', `${API}/blogs/${blogId}/posts?maxResults=500&status=${status}&view=ADMIN&fetchBodies=false&fields=nextPageToken,items(id,labels)` + (pt ? '&pageToken=' + pt : ''));
         for (const p of j.items || []) {
           const labels = p.labels || [];
-          if (modo === 'restaurar_etiquetas' ? fs.existsSync(path.join(DIR_BACKUP_ETQ, p.id + '.json')) : etiquetasQueFaltan(labels, tabla, reglas).length) ids.push(p.id);
+          if (faltan(p.id, labels).length) ids.push(p.id);
         }
         pt = j.nextPageToken || '';
       } while (pt);
@@ -132,26 +140,17 @@ async function etiquetasMain(lista, modo, token) {
   const cuenta = { cambiados: 0, yaEstaban: 0, saltados: 0, errores: 0, restaurados: 0 };
   const porGeneral = {};
   const detalle = [];
-  let cortado = false;
+  let cortado = false, fallo = false;
 
   for (const id of ids) {
     try {
-      const post = await bloggerEtq(token, 'GET', `${API}/blogs/${blogId}/posts/${id}?view=ADMIN&fetchBody=false&fields=id,title,url,status,published,labels`);
+      // Post COMPLETO, con su content (fetchBody por defecto = true)
+      const post = await bloggerEtq(token, 'GET', `${API}/blogs/${blogId}/posts/${id}?view=ADMIN&fetchBody=true`);
       const labels = post.labels || [];
       const archivo = path.join(DIR_BACKUP_ETQ, `${id}.json`);
 
-      if (modo === 'restaurar_etiquetas') {
-        if (!fs.existsSync(archivo)) { cuenta.saltados++; detalle.push({ id, resultado: 'SIN COPIA' }); continue; }
-        const copia = JSON.parse(fs.readFileSync(archivo, 'utf8'));
-        if (JSON.stringify(copia.labels) === JSON.stringify(labels)) { cuenta.yaEstaban++; detalle.push({ id, resultado: 'YA ESTABA' }); continue; }
-        await bloggerEtq(token, 'PATCH', `${API}/blogs/${blogId}/posts/${id}?fetchBody=false&fetchImages=false`, { labels: copia.labels });
-        cuenta.restaurados++; detalle.push({ id, resultado: 'RESTAURADO', etiquetas: copia.labels });
-        await esperar(pausa);
-        continue;
-      }
-
       if (post.status === 'DRAFT') { cuenta.saltados++; detalle.push({ id, resultado: 'SALTADO (borrador)' }); continue; }
-      const anadir = etiquetasQueFaltan(labels, tabla, reglas);
+      const anadir = faltan(id, labels);
       if (!anadir.length) { cuenta.yaEstaban++; detalle.push({ id, resultado: 'YA ESTABA' }); continue; }
       const nuevas = labels.concat(anadir);
       if (largoEtiquetas(nuevas) > LIMITE_ETIQUETAS) {
@@ -165,21 +164,44 @@ async function etiquetasMain(lista, modo, token) {
         continue;
       }
 
-      // anadir_etiquetas: primero la copia (la primera, la original, no se pisa), luego el cambio
-      if (!fs.existsSync(archivo)) {
-        fs.writeFileSync(archivo, JSON.stringify({ id, blogId, url: post.url, titulo: post.title, status: post.status,
-          published: post.published, labels, fecha_copia: new Date().toISOString() }, null, 1));
+      // anadir_etiquetas.
+      // Seguridad: el post tiene que venir con content, y si ya hay una copia de etiquetas SIN content
+      // (las de la prueba del 7 oct, restauradas a mano) no se toca.
+      const contenido = post.content;
+      if (typeof contenido !== 'string' || !contenido.length) {
+        cuenta.errores++; detalle.push({ id, url: post.url, resultado: 'ERROR el post llega sin content: no se toca y se PARA' });
+        fallo = true; break;
       }
-      const r = await bloggerEtq(token, 'PATCH', `${API}/blogs/${blogId}/posts/${id}?fetchBody=false&fetchImages=false`, { labels: nuevas });
-      // Comprobación: no se ha perdido ninguna etiqueta y no han cambiado ni la fecha ni el estado
+      if (fs.existsSync(archivo)) {
+        const previa = JSON.parse(fs.readFileSync(archivo, 'utf8'));
+        if (typeof previa.post !== 'object' || typeof (previa.post || {}).content !== 'string') {
+          cuenta.saltados++; detalle.push({ id, url: post.url, resultado: 'SALTADO (post de la prueba del 7 oct: no se toca)' });
+          continue;
+        }
+      } else {
+        // Copia COMPLETA del post tal como está ahora (content incluido), antes de tocarlo
+        fs.writeFileSync(archivo, JSON.stringify({ id, blogId, fecha_copia: new Date().toISOString(), post }, null, 1));
+      }
+      // Se reenvía el post íntegro tal como se ha leído; solo cambia "labels"
+      const cuerpo = Object.assign({}, post, { labels: nuevas });
+      await bloggerEtq(token, 'PUT', `${API}/blogs/${blogId}/posts/${id}`, cuerpo);
+      // Comprobación leyendo de nuevo el post completo
+      const r = await bloggerEtq(token, 'GET', `${API}/blogs/${blogId}/posts/${id}?view=ADMIN&fetchBody=true`);
       const rl = r.labels || [];
       const problemas = [];
+      if (typeof r.content !== 'string' || r.content.length !== contenido.length) problemas.push(`content distinto (${contenido.length} → ${typeof r.content === 'string' ? r.content.length : 'sin content'} caracteres)`);
+      if (r.title !== post.title) problemas.push('título cambiado');
       if (!labels.every((l) => rl.includes(l))) problemas.push('falta alguna etiqueta original');
       if (!anadir.every((l) => rl.includes(l))) problemas.push('no se ha añadido alguna general');
       if (r.published !== post.published) problemas.push(`fecha cambiada (${post.published} → ${r.published})`);
       if (r.status !== post.status) problemas.push(`estado cambiado (${post.status} → ${r.status})`);
-      if (problemas.length) { cuenta.errores++; detalle.push({ id, url: post.url, resultado: 'ERROR comprobación: ' + problemas.join('; '), anade: anadir }); }
-      else { cuenta.cambiados++; detalle.push({ id, titulo: post.title, estado: post.status, url: post.url, resultado: 'CAMBIADO', anade: anadir }); }
+      if (r.url !== post.url) problemas.push('dirección cambiada');
+      if (problemas.length) {
+        cuenta.errores++; fallo = true;
+        detalle.push({ id, url: post.url, resultado: 'ERROR comprobación: ' + problemas.join('; ') + '. Copia completa en ' + path.relative(path.join(__dirname, '..'), archivo) + '. SE PARA.', anade: anadir });
+        break;
+      }
+      cuenta.cambiados++; detalle.push({ id, titulo: post.title, estado: post.status, url: post.url, resultado: 'CAMBIADO', anade: anadir, content_caracteres: contenido.length });
       await esperar(pausa);
     } catch (e) {
       if (e instanceof CorteBlogger) {
@@ -187,7 +209,8 @@ async function etiquetasMain(lista, modo, token) {
         detalle.push({ id, resultado: 'PARADO: Blogger cortó (' + e.message.slice(0, 80) + '). Al relanzar sigue desde aquí.' });
         break;
       }
-      cuenta.errores++; detalle.push({ id, resultado: 'ERROR ' + e.message.slice(0, 200) });
+      cuenta.errores++; detalle.push({ id, resultado: 'ERROR ' + e.message.slice(0, 200) + (modo === 'anadir_etiquetas' ? '. SE PARA.' : '') });
+      if (modo === 'anadir_etiquetas') { fallo = true; break; }   // al aplicar, cualquier error para todo
     }
   }
 
@@ -202,12 +225,14 @@ async function etiquetasMain(lista, modo, token) {
   if (Object.keys(porGeneral).length) console.log('MODO etiquetas añadidas por general: ' + Object.entries(porGeneral).sort((a, b) => b[1] - a[1]).map(([g, n]) => `${g} +${n}`).join(', '));
   detalle.filter((d) => /^(ERROR|SALTADO|PARADO)/.test(d.resultado || '')).forEach((d) => console.log(`${d.resultado.startsWith('SALTADO') ? 'SALTADO' : d.resultado.startsWith('PARADO') ? 'ERROR PARADO' : 'ERROR'} [${d.id}] ${d.resultado}`));
   detalle.filter((d) => d.anade).forEach((d) => console.log(`  ${d.resultado || 'SIMULADO'} [${d.id}] ${d.estado || ''} + ${d.anade.join(', ')}  ${d.titulo || ''}`));
+  if (fallo) console.log('ERROR SE HA PARADO en el primer fallo de comprobación: no se ha seguido con más posts.');
   if (cuenta.errores || cortado) process.exitCode = 1;
 }
 
 async function main() {
   const [listaArchivo, modo] = process.argv.slice(2);
   const MODOS_ETQ = ['simular_etiquetas', 'anadir_etiquetas', 'restaurar_etiquetas'];
+  if (modo === 'restaurar_etiquetas') throw new Error('restaurar_etiquetas está DESACTIVADO (vaciaba el content). Restaurar desde la copia completa a mano.');
   if (MODOS_ETQ.includes(modo)) {
     const lista = JSON.parse(fs.readFileSync(listaArchivo, 'utf8'));
     if (lista.tipo !== 'etiquetas') throw new Error('Los modos de etiquetas necesitan una lista con "tipo": "etiquetas"');
