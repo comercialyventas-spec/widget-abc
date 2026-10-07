@@ -1,0 +1,8 @@
+{
+ "tipo": "etiquetas",
+ "descripcion": "PERIÓDICOS ALIAZON: tanda de los 141 posts restantes (aprobada el 7 oct tras la prueba de 1 post). Se saltan los 20 de la prueba anterior y los que pasarían de 200 caracteres.",
+ "blogId": "7463231340560247006",
+ "tabla": "migracion/etiquetas_equivalencias.json",
+ "pausa_ms": 4000,
+ "posts": "todos"
+}
