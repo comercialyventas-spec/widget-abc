@@ -1,0 +1,38 @@
+{
+ "id": "3090423924014609200",
+ "blogId": "7463231340560247006",
+ "fecha_copia": "2026-10-07T08:32:19.974Z",
+ "post": {
+  "kind": "blogger#post",
+  "id": "3090423924014609200",
+  "status": "LIVE",
+  "blog": {
+   "id": "7463231340560247006"
+  },
+  "published": "2026-07-03T08:00:00+02:00",
+  "updated": "2026-07-03T08:00:00+02:00",
+  "url": "https://periodicosaliazon.blogspot.com/2026/07/gente-el-pais.html",
+  "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7463231340560247006/posts/3090423924014609200",
+  "title": "GENTE EL PAÍS",
+  "content": "<div id=\"ep-gente-container\">\n  <div id=\"ep-gente-destacada\"></div>\n  \n  <hr style=\"border: 0; border-top: 1px solid #ddd; margin: 30px 0;\">\n  \n  <div id=\"ep-gente-rss\">Sincronizando noticias de sociedad y celebridades...</div>\n</div>\n\n<style>\n  #ep-gente-container { font-family: 'Segoe UI', Roboto, Arial, sans-serif; max-width: 800px; margin: auto; color: #333; }\n  \n  /* ESTILOS NOTICIA DESTACADA (GENTE EL PAÍS) */\n  .epg-featured { text-align: center; margin-bottom: 40px; }\n  .epg-img-featured { width: 100%; max-height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 15px; background-color: #f4f4f4; }\n  .epg-title-featured { font-size: 28px; font-weight: 800; color: #111; text-decoration: none; line-height: 1.2; display: block; margin-bottom: 15px; }\n  .epg-title-featured:hover { color: #e84393; }\n  .epg-desc-featured { font-size: 18px; color: #444; line-height: 1.5; margin-bottom: 10px; }\n\n  /* ESTILOS LISTA */\n  .epg-item { display: flex; flex-direction: column; margin-bottom: 25px; border-bottom: 1px solid #eee; padding-bottom: 20px; }\n  .epg-img-container { width: 100%; height: 200px; overflow: hidden; border-radius: 6px; margin-bottom: 12px; background-color: #f4f4f4; }\n  .epg-img-container img { width: 100%; height: 100%; object-fit: cover; }\n  .epg-title { font-size: 19px; font-weight: 700; color: #1a1a1a; text-decoration: none; line-height: 1.3; display: block; margin-bottom: 8px; }\n  .epg-title:hover { color: #e84393; }\n  .epg-desc { font-size: 14px; color: #666; line-height: 1.5; }\n  .epg-meta { font-size: 11px; color: #aaa; text-transform: uppercase; margin-top: 5px; font-weight: bold; }\n\n  @media (min-width: 600px) {\n    .epg-item { flex-direction: row; gap: 20px; align-items: flex-start; }\n    .epg-img-container { width: 180px; height: 110px; flex-shrink: 0; margin-bottom: 0; }\n  }\n</style>\n\n<script>\nasync function cargarGenteEP() {\n  const rssUrl = \"https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/gente/portada\";\n  const proxyUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rssUrl)}&t=${new Date().getTime()}`;\n\n  try {\n    const res = await fetch(proxyUrl);\n    const data = await res.json();\n    if (data.status !== 'ok') throw new Error();\n\n    let destacadoHtml = \"\";\n    let listaHtml = \"\";\n    \n    data.items.slice(0, 6).forEach((item, index) => {\n      let img = (item.enclosure && item.enclosure.link) ? item.enclosure.link : \n                (item.thumbnail ? item.thumbnail : \"\");\n      \n      let fecha = new Date(item.pubDate).toLocaleDateString('es-ES', { day: '2-digit', month: 'short', year: 'numeric' });\n      \n      // Filtro de texto: Limpiamos HTML y cortamos en el primer punto\n      let desc = (item.description || \"\").replace(/<[^>]*>?/gm, '').split('.')[0];\n\n      if (index === 0) {\n        destacadoHtml = `\n          <div class=\"epg-featured\">\n            <a href=\"${item.link}\" target=\"_blank\">\n              <img src=\"${img}\" class=\"epg-img-featured\" alt=\"${item.title}\">\n            </a>\n            <a class=\"epg-title-featured\" href=\"${item.link}\" target=\"_blank\">${item.title}</a>\n            <div class=\"epg-desc-featured\">${desc}...</div>\n            <div class=\"epg-meta\">GENTE | EL PAÍS | ${fecha}</div>\n          </div>\n        `;\n      } else {\n        listaHtml += `\n          <div class=\"epg-item\">\n            ${img ? `<div class=\"epg-img-container\"><img src=\"${img}\"></div>` : \"\"}\n            <div class=\"epg-content\">\n              <a class=\"epg-title\" href=\"${item.link}\" target=\"_blank\">${item.title}</a>\n              <div class=\"epg-desc\">${desc}...</div>\n              <div class=\"epg-meta\">${fecha}</div>\n            </div>\n          </div>\n        `;\n      }\n    });\n\n    document.getElementById(\"ep-gente-destacada\").innerHTML = destacadoHtml;\n    document.getElementById(\"ep-gente-rss\").innerHTML = listaHtml;\n\n  } catch (error) {\n    document.getElementById(\"ep-gente-container\").innerHTML = \"Error al conectar con la sección de Gente de EL PAÍS.\";\n  }\n}\n\ncargarGenteEP();\n</script>",
+  "author": {
+   "id": "09293789891197009774",
+   "displayName": "COMERCIAL",
+   "url": "https://www.blogger.com/profile/09293789891197009774",
+   "image": {
+    "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+   }
+  },
+  "replies": {
+   "totalItems": "0",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7463231340560247006/posts/3090423924014609200/comments"
+  },
+  "labels": [
+   "EL PAÍS",
+   "GENTE",
+   "GENTE EL PAÍS"
+  ],
+  "readerComments": "ALLOW",
+  "etag": "\"dGltZXN0YW1wOiAxNzgzMDU4NDAwMTIzCm9mZnNldDogNzIwMDAwMAo\""
+ }
+}

@@ -1,0 +1,1617 @@
+{
+ "fecha": "2026-10-07T08:36:09.033Z",
+ "modo": "anadir_etiquetas",
+ "lista": "migracion/etiquetas_tanda141.json",
+ "cuenta": {
+  "cambiados": 140,
+  "yaEstaban": 0,
+  "saltados": 3,
+  "errores": 0,
+  "restaurados": 0
+ },
+ "porGeneral": {
+  "GASTRONOMÍA": 5,
+  "EMPLEO": 2,
+  "SALUD": 9,
+  "MEDIO AMBIENTE": 3,
+  "DE COMPRAS": 3,
+  "INTERNACIONAL": 5,
+  "HEMEROTECAS": 3,
+  "ECONOMÍA": 6,
+  "MODA": 6,
+  "ESPAÑA": 5,
+  "TURISMO": 8,
+  "SUPLEMENTOS": 4,
+  "TELEVISIÓN": 5,
+  "SOCIEDAD": 9,
+  "PORTADAS": 6,
+  "NEGOCIOS": 8,
+  "REVISTAS": 1,
+  "GENTE": 1,
+  "CULTURA": 13,
+  "FEMINISMO": 1,
+  "IGUALDAD": 15,
+  "DEPORTES": 5,
+  "CIENCIA": 2,
+  "JUEGOS": 1,
+  "VIVIENDA": 1,
+  "ARTÍCULOS": 4,
+  "COMUNICADOS DE PRENSA": 2,
+  "GUERRAS": 12,
+  "OPINIÓN": 1
+ },
+ "cortado": false,
+ "detalle": [
+  {
+   "id": "5221479010919545067",
+   "titulo": "RECETAS ESDIARIO",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/10/recetas-esdiario.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "GASTRONOMÍA"
+   ],
+   "content_caracteres": 11176
+  },
+  {
+   "id": "4327067634928666077",
+   "titulo": "EMPLEO PÚBLICO MITECO",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/empleo-publico-miteco.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "EMPLEO"
+   ],
+   "content_caracteres": 10203
+  },
+  {
+   "id": "5178753558794941172",
+   "titulo": "FITNESS ABC",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/fitness-abc.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "SALUD"
+   ],
+   "content_caracteres": 9996
+  },
+  {
+   "id": "8153619486175821293",
+   "titulo": "PSICOLOGÍA SEXO ABC",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/psicologia-sexo-abc.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "SALUD"
+   ],
+   "content_caracteres": 10044
+  },
+  {
+   "id": "4987777047969566343",
+   "titulo": "ALIMENTACIÓN ABC",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/alimentacion-abc.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "SALUD"
+   ],
+   "content_caracteres": 10026
+  },
+  {
+   "id": "8578041262158738571",
+   "titulo": "BIENESTAR ABC",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/bienestar-abc_01401794932.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "SALUD"
+   ],
+   "content_caracteres": 9998
+  },
+  {
+   "id": "7689111069041981266",
+   "titulo": "MEDIOAMBIENTE INFOLIBRE",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/medioambiente-infolibre.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "MEDIO AMBIENTE"
+   ],
+   "content_caracteres": 10121
+  },
+  {
+   "id": "2643455556939256147",
+   "titulo": "COMPRAR COMPARATIVAS LA VANGUARDIA",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/comprar-comparativas-la-vanguardia.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "DE COMPRAS"
+   ],
+   "content_caracteres": 10701
+  },
+  {
+   "id": "7777485752014110056",
+   "titulo": "COMPRAR LA VANGUARDIA",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/comprar-la-vanguardia.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "DE COMPRAS"
+   ],
+   "content_caracteres": 10583
+  },
+  {
+   "id": "7529884508323273024",
+   "titulo": "MUNDO EL CONFIDENCIAL",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/mundo-el-confidencial.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "INTERNACIONAL"
+   ],
+   "content_caracteres": 9462
+  },
+  {
+   "id": "4717037663192743895",
+   "titulo": "HEMEROTECA ABC",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/hemeroteca-abc.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "HEMEROTECAS"
+   ],
+   "content_caracteres": 9386
+  },
+  {
+   "id": "8919637580214457311",
+   "titulo": "CUÍDATE EL CONFIDENCIAL DIGITAL",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/cuidate-el-confidencial-digital.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "SALUD"
+   ],
+   "content_caracteres": 13281
+  },
+  {
+   "id": "4004163660266656664",
+   "titulo": "DINERO VÍDEOS EL CONFIDENCIAL DIGITAL",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/dinero-videos-el-confidencial-digital.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "ECONOMÍA"
+   ],
+   "content_caracteres": 13273
+  },
+  {
+   "id": "2350958289700939233",
+   "titulo": "GOURMET EL CONFIDENCIAL DIGITAL",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/gourmet-el-confidencial-digital.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "GASTRONOMÍA"
+   ],
+   "content_caracteres": 13281
+  },
+  {
+   "id": "5035614121350534500",
+   "titulo": "ESTILO ESDIARIO",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/estilo-esdiario_0720372883.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "MODA"
+   ],
+   "content_caracteres": 11169
+  },
+  {
+   "id": "8110176686246448035",
+   "titulo": "NACIONAL ESDIARIO",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/nacional-esdiario.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "ESPAÑA"
+   ],
+   "content_caracteres": 11179
+  },
+  {
+   "id": "522547186824448083",
+   "titulo": "ESTILO ESDIARIO",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/estilo-esdiario.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "MODA"
+   ],
+   "content_caracteres": 11195
+  },
+  {
+   "id": "2639058194062277722",
+   "titulo": "RECETAS ESDIARIO",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/recetas-esdiario.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "GASTRONOMÍA"
+   ],
+   "content_caracteres": 11205
+  },
+  {
+   "id": "734135920706740579",
+   "titulo": "VIAJES 20 MINUTOS",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/viajes-20-minutos_01485840108.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "TURISMO"
+   ],
+   "content_caracteres": 10557
+  },
+  {
+   "id": "4030528549994163110",
+   "titulo": "MAGAZINE LA VANGUARDIA",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/magazine-la-vanguardia.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "SUPLEMENTOS"
+   ],
+   "content_caracteres": 10583
+  },
+  {
+   "id": "6721166633825908376",
+   "titulo": "SERIES LA VANGUARDIA",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/series-la-vanguardia.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "TELEVISIÓN"
+   ],
+   "content_caracteres": 10567
+  },
+  {
+   "id": "6276339132255844266",
+   "titulo": "GENTE LA VANGUARDIA",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/gente-la-vanguardia.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "SOCIEDAD"
+   ],
+   "content_caracteres": 10053
+  },
+  {
+   "id": "4192693094689387056",
+   "titulo": "PORTADA EL MUNDO",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/portada-el-mundo.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "PORTADAS"
+   ],
+   "content_caracteres": 10082
+  },
+  {
+   "id": "6920504704815640399",
+   "titulo": "BIENESTAR EL CONFIDENCIAL",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/bienestar-el-confidencial.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "SALUD"
+   ],
+   "content_caracteres": 10142
+  },
+  {
+   "id": "7902444593468250104",
+   "titulo": "EMPRENDEDORES EL CONFIDENCIAL",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/emprendedores-el-confidencial.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "NEGOCIOS"
+   ],
+   "content_caracteres": 10203
+  },
+  {
+   "id": "6984279282615755748",
+   "titulo": "PORTADA LO QUE SOMOS",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/portada-lo-que-somos.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "PORTADAS"
+   ],
+   "content_caracteres": 10049
+  },
+  {
+   "id": "9125138972205353275",
+   "titulo": "GENTE LA VANGUARDIA",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/gente-la-vanguardia.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "SOCIEDAD"
+   ],
+   "content_caracteres": 10064
+  },
+  {
+   "id": "3341599077895340033",
+   "titulo": "REVISTA BANDO EL PLURAL",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/08/revista-bando-el-plural.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "REVISTAS"
+   ],
+   "content_caracteres": 13234
+  },
+  {
+   "id": "232722480439851569",
+   "titulo": "FAMOSOS EL CONFIDENCIAL DIGITAL",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/famosos-el-confidencial-digital.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "SOCIEDAD",
+    "GENTE"
+   ],
+   "content_caracteres": 10163
+  },
+  {
+   "id": "733440063295380646",
+   "titulo": "MÚSICA LO QUE SOMOS",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/musica-lo-que-somos.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "CULTURA"
+   ],
+   "content_caracteres": 10139
+  },
+  {
+   "id": "2704905172364818416",
+   "titulo": "PORTADA EMPRENDEDORES",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/portada-emprendedores.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "NEGOCIOS",
+    "PORTADAS"
+   ],
+   "content_caracteres": 10085
+  },
+  {
+   "id": "6871379309127359209",
+   "titulo": "VIAJES 20 MINUTOS",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/viajes-20-minutos.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "TURISMO"
+   ],
+   "content_caracteres": 10036
+  },
+  {
+   "id": "141086690306630432",
+   "titulo": "MÚSICA 20 MINUTOS",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/musica-20-minutos.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "CULTURA"
+   ],
+   "content_caracteres": 10036
+  },
+  {
+   "id": "2547318290884974521",
+   "titulo": "IGUALDAD INFOLIBRE",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/igualdad-infolibre.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "FEMINISMO",
+    "IGUALDAD"
+   ],
+   "content_caracteres": 10076
+  },
+  {
+   "id": "4796310513693903004",
+   "titulo": "PORTADA EUROPAPRESS",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/portada-europapress.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "PORTADAS"
+   ],
+   "content_caracteres": 10068
+  },
+  {
+   "id": "2279727657844493540",
+   "titulo": "CINE ABC",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/cine-abc.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "CULTURA"
+   ],
+   "content_caracteres": 9973
+  },
+  {
+   "id": "2841596102095158459",
+   "titulo": "GENTE ABC",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/gente-abc.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "SOCIEDAD"
+   ],
+   "content_caracteres": 9974
+  },
+  {
+   "id": "1507296715899801942",
+   "titulo": "DECORACIÓN ABC",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/decoracion-abc.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "MODA"
+   ],
+   "content_caracteres": 11472
+  },
+  {
+   "id": "9024980809418095936",
+   "titulo": "GENTE EL PERIÓDICO",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/gente-el-periodico.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "SOCIEDAD"
+   ],
+   "content_caracteres": 10094
+  },
+  {
+   "id": "6144909629886370211",
+   "titulo": "CINE LO QUE SOMOS",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/cine-lo-que-somos.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "CULTURA"
+   ],
+   "content_caracteres": 10113
+  },
+  {
+   "id": "1382989998663137361",
+   "titulo": "BALONCESTO ABC",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/baloncesto-abc.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "DEPORTES"
+   ],
+   "content_caracteres": 10014
+  },
+  {
+   "id": "8174782226914604690",
+   "titulo": "CIENCIA EL PAÍS",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/ciencia-el-pais.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "CIENCIA"
+   ],
+   "content_caracteres": 10037
+  },
+  {
+   "id": "4501370392900191207",
+   "titulo": "HEMEROTECA HISPANIDAD",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/hemeroteca-hispanidad.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "HEMEROTECAS"
+   ],
+   "content_caracteres": 10111
+  },
+  {
+   "id": "4841688958010593116",
+   "titulo": "BIENESTAR ABC",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/bienestar-abc.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "SALUD"
+   ],
+   "content_caracteres": 9999
+  },
+  {
+   "id": "8358873183054907584",
+   "titulo": "JAZZ IS DEAD",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/jazz-is-dead.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "CULTURA"
+   ],
+   "content_caracteres": 1213
+  },
+  {
+   "id": "5048261549413190922",
+   "titulo": "PUBLICIDAD OSLO SKIN LAB",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/blog-post.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "MODA"
+   ],
+   "content_caracteres": 391
+  },
+  {
+   "id": "3746811120257789592",
+   "titulo": "RADAR FEMINISTA PÚBLICO",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/radar-feminista-publico.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "IGUALDAD"
+   ],
+   "content_caracteres": 87128
+  },
+  {
+   "id": "7897467197284375988",
+   "titulo": "VELA ABC",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/vela-abc.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "DEPORTES"
+   ],
+   "content_caracteres": 9977
+  },
+  {
+   "id": "2724279278256022490",
+   "titulo": "MÚSICA ABC",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/musica-abc.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "CULTURA"
+   ],
+   "content_caracteres": 9988
+  },
+  {
+   "id": "7394763351727612978",
+   "titulo": "MUNDO EFE",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/08/mundo-efe.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "INTERNACIONAL"
+   ],
+   "content_caracteres": 9980
+  },
+  {
+   "id": "1732074197581984278",
+   "titulo": "HEMEROTECA HISPANIDAD",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/08/hemeroteca-hispanidad.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "HEMEROTECAS"
+   ],
+   "content_caracteres": 10111
+  },
+  {
+   "id": "2733948051040783322",
+   "titulo": "VIAJES EL DIARIO.ES",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/08/viajes-el-diarioes.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "TURISMO"
+   ],
+   "content_caracteres": 10031
+  },
+  {
+   "id": "3744129907815258750",
+   "titulo": "PASATIEMPOS ABC",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/08/pasatiempos-abc.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "JUEGOS"
+   ],
+   "content_caracteres": 10031
+  },
+  {
+   "id": "7365929608208130172",
+   "titulo": "MUNDO EL ORDEN MUNDIAL",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/08/mundo-el-orden-mundial.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "INTERNACIONAL"
+   ],
+   "content_caracteres": 9477
+  },
+  {
+   "id": "8690175217961323357",
+   "titulo": "OCIO Y CULTURA LA VANGUARDIA",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/08/ocio-y-cultura-la-vanguardia.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "CULTURA"
+   ],
+   "content_caracteres": 9403
+  },
+  {
+   "id": "6253865653111569119",
+   "titulo": "MAGAZINE VIAJES LA VANGUARDIA",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/08/magazine-viajes-la-vanguardia.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "TURISMO",
+    "SUPLEMENTOS"
+   ],
+   "content_caracteres": 9478
+  },
+  {
+   "id": "1291200916148516491",
+   "titulo": "BIENESTAR EL CONFIDENCIAL",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/08/bienestar-el-confidencial.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "SALUD"
+   ],
+   "content_caracteres": 9512
+  },
+  {
+   "id": "5502559387822016230",
+   "titulo": "MAGAZINE LA VANGUARDIA",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/08/magazine-la-vanguardia.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "SUPLEMENTOS"
+   ],
+   "content_caracteres": 9457
+  },
+  {
+   "id": "2865335865743441273",
+   "titulo": "EMPRESAS DE VANGUARDIA LA VANGUARDIA",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/08/empresas-de-vanguardia-la-vanguardia.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "NEGOCIOS"
+   ],
+   "content_caracteres": 9565
+  },
+  {
+   "id": "6702131503981520830",
+   "titulo": "BABELIA EL PAÍS",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/babelia-el-pais.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "CULTURA"
+   ],
+   "content_caracteres": 9456
+  },
+  {
+   "id": "1275976869468734974",
+   "titulo": "FÚTBOL ABC",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/futbol-abc.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "DEPORTES"
+   ],
+   "content_caracteres": 9353
+  },
+  {
+   "id": "2305597602048271810",
+   "titulo": "DIRECTORIO EMPRESAS DE VANGUARDIA LA VANGUARDIA",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/directorio-empresas-de-vanguardia-la.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "NEGOCIOS"
+   ],
+   "content_caracteres": 9598
+  },
+  {
+   "id": "9182721960747859736",
+   "titulo": "INMOBILIARIO ABC",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/inmobiliario-abc.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "VIVIENDA"
+   ],
+   "content_caracteres": 9395
+  },
+  {
+   "id": "5250555024500664327",
+   "titulo": "GENTE EL PAÍS",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/gente-el-pais_0596579814.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "SOCIEDAD"
+   ],
+   "content_caracteres": 9392
+  },
+  {
+   "id": "3249079436835622609",
+   "titulo": "BELLEZA ABC",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/belleza-abc.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "MODA"
+   ],
+   "content_caracteres": 9343
+  },
+  {
+   "id": "1397602666413795711",
+   "titulo": "GASTRONOMÍA ABC",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/gastronomia-abc.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "GASTRONOMÍA"
+   ],
+   "content_caracteres": 9340
+  },
+  {
+   "id": "1336891787429386164",
+   "titulo": "CIENCIAS PUBLICO.ES",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/ciencias-publicoes.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "CIENCIA"
+   ],
+   "content_caracteres": 9421
+  },
+  {
+   "id": "4178223274276481353",
+   "titulo": "COMPRAR LA VANGUARDIA",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/comprar-la-vanguardia.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "DE COMPRAS"
+   ],
+   "content_caracteres": 9430
+  },
+  {
+   "id": "4699208739106385032",
+   "titulo": "MUNDO EL CONFIDENCIAL",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/mundo-el-confidencial_01682336309.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "INTERNACIONAL"
+   ],
+   "content_caracteres": 9467
+  },
+  {
+   "id": "6288962322497904548",
+   "titulo": "EMPRESAS EL CONFIDENCIAL",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/empresas-el-confidencial_0923548258.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "NEGOCIOS"
+   ],
+   "content_caracteres": 9494
+  },
+  {
+   "id": "3182964240575785014",
+   "titulo": "FINANZAS PERSONALES EL CONFIDENCIAL",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/finanzas-personales-el-confidencial_01535614634.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "ECONOMÍA"
+   ],
+   "content_caracteres": 9459
+  },
+  {
+   "id": "1327861664941779026",
+   "titulo": "FONDOS DE INVERSIÓN EL CONFIDENCIAL",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/fondos-de-inversion-abc.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "ECONOMÍA"
+   ],
+   "content_caracteres": 9459
+  },
+  {
+   "id": "7482395011557930404",
+   "titulo": "DINERO LA VANGUARDIA",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/dinero-la-vanguardia.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "ECONOMÍA"
+   ],
+   "content_caracteres": 9421
+  },
+  {
+   "id": "7246681081516807962",
+   "titulo": "LIBROS EL DEBATE",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/libros-el-debate.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "CULTURA"
+   ],
+   "content_caracteres": 9446
+  },
+  {
+   "id": "7341228413435931465",
+   "titulo": "GENTE EL DEBATE",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/gente-el-debate.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "SOCIEDAD"
+   ],
+   "content_caracteres": 9413
+  },
+  {
+   "id": "1785523989887973726",
+   "titulo": "FINANZAS PERSONALES EL CONFIDENCIAL",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/finanzas-personales-el-confidencial.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "ECONOMÍA"
+   ],
+   "content_caracteres": 9505
+  },
+  {
+   "id": "4755758052872179613",
+   "titulo": "EMPRESAS EL CONFIDENCIAL",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/empresas-el-confidencial.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "NEGOCIOS"
+   ],
+   "content_caracteres": 9476
+  },
+  {
+   "id": "3709945691261473253",
+   "titulo": "ARTE ABC",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/arte-abc.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "CULTURA"
+   ],
+   "content_caracteres": 9338
+  },
+  {
+   "id": "5551216972844987271",
+   "titulo": "SERIES LA VANGUARDIA",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/series-la-vanguardia_0449931441.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "TELEVISIÓN"
+   ],
+   "content_caracteres": 9439
+  },
+  {
+   "id": "5936354551759421040",
+   "titulo": "LIBROS, PELÍCULAS Y SERIES EL ORDEN MUNDIAL",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/libros-peliculas-y-series-el-orden.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "TELEVISIÓN"
+   ],
+   "content_caracteres": 9626
+  },
+  {
+   "id": "3658018699185025489",
+   "titulo": "VIAJES EL MUNDO",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/viajes-el-mundo.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "TURISMO"
+   ],
+   "content_caracteres": 9400
+  },
+  {
+   "id": "3726674824749890833",
+   "titulo": "ESTILO ABC",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/estilo-abc.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "MODA"
+   ],
+   "content_caracteres": 9345
+  },
+  {
+   "id": "225137365870373842",
+   "titulo": "CINE 20 MINUTOS",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/cine-20-minutos.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "CULTURA"
+   ],
+   "content_caracteres": 9385
+  },
+  {
+   "id": "6298234892206977425",
+   "titulo": "FEMINISMO NEWTRAL",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/feminismo-newtral.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "IGUALDAD"
+   ],
+   "content_caracteres": 9840
+  },
+  {
+   "id": "45726424855038221",
+   "titulo": "MAGAZINE LA VANGUARDIA",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/magazine-la-vanguardia.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "SUPLEMENTOS"
+   ],
+   "content_caracteres": 9429
+  },
+  {
+   "id": "5418777909681644885",
+   "titulo": "VIAJES LA VANGUARDIA",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/viajes-la-vanguardia.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "TURISMO"
+   ],
+   "content_caracteres": 9408
+  },
+  {
+   "id": "791007935365798364",
+   "titulo": "SERIES LA VANGUARDIA",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/series-la-vanguardia.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "TELEVISIÓN"
+   ],
+   "content_caracteres": 9415
+  },
+  {
+   "id": "1336493505405491616",
+   "titulo": "BIENESTAR EL CONFIDENCIAL",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/bienestar-el-confidencial.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "SALUD"
+   ],
+   "content_caracteres": 9494
+  },
+  {
+   "id": "4708323731607850203",
+   "titulo": "RECETAS EL CONFIDENCIAL",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/recetas-el-confidencial.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "GASTRONOMÍA"
+   ],
+   "content_caracteres": 9476
+  },
+  {
+   "id": "5076631681085103607",
+   "titulo": "MERCADOS EL CONFIDENCIAL",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/mercados-el-confidencial.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "ECONOMÍA"
+   ],
+   "content_caracteres": 9476
+  },
+  {
+   "id": "8109374152115937911",
+   "titulo": "MUNDO EL CONFIDENCIAL",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/mundo-el-confidencial.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "INTERNACIONAL"
+   ],
+   "content_caracteres": 9462
+  },
+  {
+   "id": "6049381109001833370",
+   "titulo": "PORTADA EL CONFIDENCIAL",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/portada-el-confidencial_01482304645.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "PORTADAS"
+   ],
+   "content_caracteres": 9431
+  },
+  {
+   "id": "3090423924014609200",
+   "titulo": "GENTE EL PAÍS",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/07/gente-el-pais.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "SOCIEDAD"
+   ],
+   "content_caracteres": 4041
+  },
+  {
+   "id": "7628809082258091274",
+   "titulo": "VIAJES EN LA VANGUARDIA",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/06/viajes-en-la-vanguardia.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "TURISMO"
+   ],
+   "content_caracteres": 4101
+  },
+  {
+   "id": "1689078416449319110",
+   "titulo": "Entre la alerta sanitaria y la agenda alimentaria: ¿Por qué los medios ponen la diana en la carne roja?",
+   "resultado": "SALTADO (pasaría de 200 caracteres: 212)",
+   "anadiria": [
+    "ARTÍCULOS"
+   ]
+  },
+  {
+   "id": "462942689300168985",
+   "titulo": "ARTÍCULOS VOGUE",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/04/articulos-vogue.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "ARTÍCULOS"
+   ],
+   "content_caracteres": 25077
+  },
+  {
+   "id": "9049582775926538176",
+   "titulo": "GENTE EN LA VANGUARDIA",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/04/gente-en-la-vanguardia.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "SOCIEDAD"
+   ],
+   "content_caracteres": 10064
+  },
+  {
+   "id": "2550136822937815149",
+   "titulo": "EL VIAJERO EL PAÍS",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/03/el-viajero-el-pais.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "TURISMO"
+   ],
+   "content_caracteres": 4198
+  },
+  {
+   "id": "6012021357808603661",
+   "titulo": "Nacional en El Debate",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/03/nacional-en-el-debate.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "ESPAÑA"
+   ],
+   "content_caracteres": 6040
+  },
+  {
+   "id": "1877831912773273899",
+   "titulo": "NACIONAL EN ABC",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/03/nacional-en-abc.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "ESPAÑA"
+   ],
+   "content_caracteres": 6465
+  },
+  {
+   "id": "6581056411114699359",
+   "titulo": "NACIONAL EN 20 MINUTOS",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/03/nacional-en-20-minutos.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "ESPAÑA"
+   ],
+   "content_caracteres": 5494
+  },
+  {
+   "id": "5426994177947694280",
+   "titulo": "La Gran Brecha Digital",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/12/la-gran-brecha-digital.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "TELEVISIÓN"
+   ],
+   "content_caracteres": 20082
+  },
+  {
+   "id": "1790123566115990799",
+   "titulo": "Nota de Prensa: Principales Temas en la Prensa Rusa de la Última Semana",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/11/nota-de-prensa-principales-temas-en-la.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "COMUNICADOS DE PRENSA"
+   ],
+   "content_caracteres": 13451
+  },
+  {
+   "id": "441357696026553492",
+   "titulo": "Nota de Prensa: Lo Más Relevante Hoy en la Prensa Española",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/11/nota-de-prensa-lo-mas-relevante-hoy-en.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "COMUNICADOS DE PRENSA"
+   ],
+   "content_caracteres": 10095
+  },
+  {
+   "id": "8272056548518282242",
+   "titulo": "El Factor ESG y la Bolsa: ¿El Informe de Sostenibilidad de una Empresa Puede Desplomar sus Acciones?",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/10/el-factor-esg-y-la-bolsa-el-informe-de.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "NEGOCIOS"
+   ],
+   "content_caracteres": 16467
+  },
+  {
+   "id": "2461202024428521651",
+   "titulo": "El Pentágono frena a Ucrania: Washington restringe el uso de misiles de largo alcance para evitar una escalada",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/08/el-pentagono-frena-ucrania-washington.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "GUERRAS"
+   ],
+   "content_caracteres": 9642
+  },
+  {
+   "id": "7120944171650732270",
+   "titulo": "¿La juventud europea en el frente? El dilema de la guerra en Ucrania y el futuro de la seguridad continental",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/08/la-juventud-europea-en-el-frente-el.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "GUERRAS"
+   ],
+   "content_caracteres": 10202
+  },
+  {
+   "id": "7578963696095061703",
+   "titulo": "Un ataque ucraniano provoca un incendio en la central nuclear de Kursk en Rusia",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/08/un-ataque-ucraniano-provoca-un-incendio.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "GUERRAS"
+   ],
+   "content_caracteres": 9157
+  },
+  {
+   "id": "2471732509273610971",
+   "titulo": "La amenaza de destrucción en Gaza: Un reflejo de la guerra sin límites",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/08/la-amenaza-de-destruccion-en-gaza-un.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "GUERRAS"
+   ],
+   "content_caracteres": 8497
+  },
+  {
+   "id": "5795350097770923215",
+   "titulo": "Aún no hemos cambiado nada, ¿por qué?",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/08/aun-no-hemos-cambiado-nada-por-que.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "IGUALDAD"
+   ],
+   "content_caracteres": 6005
+  },
+  {
+   "id": "4727970413060250447",
+   "titulo": "¿Se acerca la Tercera Guerra Mundial?",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/07/se-acerca-la-tercera-guerra-mundial.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "GUERRAS"
+   ],
+   "content_caracteres": 13431
+  },
+  {
+   "id": "3480777274633826444",
+   "titulo": "El sionismo y el adoctrinamiento social",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/07/el-sionismo-y-el-adoctrinamiento-social.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "ARTÍCULOS",
+    "OPINIÓN"
+   ],
+   "content_caracteres": 14164
+  },
+  {
+   "id": "3700996831912151947",
+   "titulo": "Medios israelíes: Israel considera una \"ocupación militar total\" de la Franja de Gaza.",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/07/medios-israelies-israel-considera-una.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "GUERRAS"
+   ],
+   "content_caracteres": 15680
+  },
+  {
+   "id": "4696751786804317717",
+   "titulo": "La importancia de la sororidad",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/07/la-importancia-de-la-sororidad.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "IGUALDAD"
+   ],
+   "content_caracteres": 14242
+  },
+  {
+   "id": "1613824307829706327",
+   "titulo": "LA ABOLICIÓN DEL TRABAJO",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/07/la-abolicion-del-trabajo.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "EMPLEO"
+   ],
+   "content_caracteres": 59522
+  },
+  {
+   "id": "2858429965486443827",
+   "titulo": "Pensar en la democracia: una entrevista con Fatmagül Berktay",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/07/pensar-en-la-democracia-una-entrevista.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "IGUALDAD"
+   ],
+   "content_caracteres": 69615
+  },
+  {
+   "id": "487004996417597518",
+   "titulo": "Se ha descubierto quién pudo haber influido en el repentino alto el fuego en Oriente Medio.",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/06/se-ha-descubierto-quien-pudo-haber.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "GUERRAS"
+   ],
+   "content_caracteres": 10464
+  },
+  {
+   "id": "3490613589480525174",
+   "titulo": "El jeque Qassem: La agresión estadounidense-israelí contra Irán no logró sus objetivos",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/06/el-jeque-qassem-la-agresion.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "GUERRAS"
+   ],
+   "content_caracteres": 8324
+  },
+  {
+   "id": "1828780071554180838",
+   "titulo": "La resolución demócrata para bloquear la acción militar en Irán no avanza en el Senado de EEUU",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/06/democratic-resolution-to-block-military.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "GUERRAS"
+   ],
+   "content_caracteres": 15281
+  },
+  {
+   "id": "1713891272548950809",
+   "titulo": "¿Qué tan cerca estuvo Irán de fabricar una bomba nuclear?",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/06/que-tan-cerca-estuvo-iran-de-fabricar.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "GUERRAS"
+   ],
+   "content_caracteres": 10019
+  },
+  {
+   "id": "5495012589182659250",
+   "titulo": "Representación de la mujer y matriarcado: ¿otra posibilidad social?",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/04/representacion-de-la-mujer-y.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "IGUALDAD"
+   ],
+   "content_caracteres": 19863
+  },
+  {
+   "id": "6540533909523979356",
+   "titulo": "Sobre “La mujer y el socialismo” de Bebel",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/04/sobre-la-mujer-y-el-socialismo-de-bebel.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "IGUALDAD"
+   ],
+   "content_caracteres": 111584
+  },
+  {
+   "id": "5859812802172400204",
+   "titulo": "MUJERES Y FUERZAS ARMADAS",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/04/mujeres-y-fuerzas-armadas.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "IGUALDAD"
+   ],
+   "content_caracteres": 11203
+  },
+  {
+   "id": "1253373141332414337",
+   "titulo": "Un ataque aéreo israelí mató al menos a 29 personas, incluidos niños, en una casa en Shejaia, en la ciudad de Gaza",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/04/un-ataque-aereo-israeli-mato-al-menos.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "GUERRAS"
+   ],
+   "content_caracteres": 45595
+  },
+  {
+   "id": "4887165952292960341",
+   "titulo": "FÚTBOL Y NEGOCIO ILEGAL DE APUESTAS",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/04/futbol-y-negocio-ilegal-de-apuestas.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "DEPORTES",
+    "NEGOCIOS"
+   ],
+   "content_caracteres": 35040
+  },
+  {
+   "id": "8777714870679566542",
+   "titulo": "¿QUÉ DEBE HACER UN \"MONO\" CUANDO LOS TIGRES PELEAN?",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/04/que-debe-hacer-un-mono-cuando-los.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "GUERRAS"
+   ],
+   "content_caracteres": 16196
+  },
+  {
+   "id": "8437359521190313410",
+   "titulo": "Del feminismo a un nuevo humanismo",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/04/del-feminismo-un-nuevo-humanismo.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "IGUALDAD"
+   ],
+   "content_caracteres": 93937
+  },
+  {
+   "id": "2768012929130890872",
+   "titulo": "POETAS Y ESCRITORAS COMPROMETIDAS",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/04/poetas-y-escritoras-comprometidas.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "IGUALDAD"
+   ],
+   "content_caracteres": 8209
+  },
+  {
+   "id": "6407160053042630374",
+   "titulo": "(RE) POSICIONANDO EL FEMINISMO ISLÁMICO",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/04/re-posicionando-el-feminismo-islamico.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "IGUALDAD"
+   ],
+   "content_caracteres": 6158
+  },
+  {
+   "id": "6602855665041380746",
+   "titulo": "FRANCMASONERÍA, REVOLUCIÓN FRANCESA Y APROPIACIONES IDEOLÓGICAS",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/03/francmasoneria-revolucion-francesa-y.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "CULTURA"
+   ],
+   "content_caracteres": 2857
+  },
+  {
+   "id": "726312834361014770",
+   "titulo": "VÍCTIMAS DE FEMINICIDIO EN MÉXICO",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/03/victimas-de-feminicidio-en-mexico.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "IGUALDAD"
+   ],
+   "content_caracteres": 110271
+  },
+  {
+   "id": "2773844802447367969",
+   "titulo": "Geopolítica del fútbol",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/03/geopolitica-del-futbol.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "DEPORTES"
+   ],
+   "content_caracteres": 112755
+  },
+  {
+   "id": "1180511661289851125",
+   "titulo": "CATALUÑA EN DIARIO CRÍTICO",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/03/cataluna-en-diario-critico.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "ESPAÑA"
+   ],
+   "content_caracteres": 6472
+  },
+  {
+   "id": "3151576215417938712",
+   "titulo": "SOBRE LAS ESTAFAS BANCARIAS EN LA INDIA REALIZADAS POR IMPORTANTE EMPRESARIOS",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/03/sobre-las-estafas-bancarias-en-la-india.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "ARTÍCULOS"
+   ],
+   "content_caracteres": 149253
+  },
+  {
+   "id": "5889252484843183052",
+   "titulo": "MUJER EN PERIÓDICO PÚBLICO",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/03/mujer-en-periodico-publico.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "IGUALDAD"
+   ],
+   "content_caracteres": 6258
+  },
+  {
+   "id": "6913934027885003305",
+   "titulo": "Cuanto más, más saludable: la diversidad de árboles reduce las plagas y los patógenos forestales",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/02/cuanto-mas-mas-saludable-la-diversidad.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "MEDIO AMBIENTE"
+   ],
+   "content_caracteres": 56875
+  },
+  {
+   "id": "8268132025567426500",
+   "titulo": "TURQUÍA: ZONGULDAK PRIMERA DIPUTADA NACIONAL ESTUDIOS PARLAMENTARIOS DE EDIBE SAYAR (1954-1957)",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/02/zonguldak-primera-diputada-nacional.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "IGUALDAD"
+   ],
+   "content_caracteres": 352476
+  },
+  {
+   "id": "253606339179185380",
+   "titulo": "LA INTELIGENCIA ARTIFICIAL GUIANDO AL PUEBLO",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/02/la-inteligencia-artificial-guiando-al.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "CULTURA"
+   ],
+   "content_caracteres": 136517
+  },
+  {
+   "id": "6586862041490276277",
+   "titulo": "PORTADA BBC",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/01/portada-bbc.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "PORTADAS"
+   ],
+   "content_caracteres": 12868
+  },
+  {
+   "id": "6179003535422019",
+   "titulo": "El tiempo es esencial: la importancia de considerar los ritmos biológicos en un mundo cada vez más contaminado",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2025/01/el-tiempo-es-esencial-la-importancia-de.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "MEDIO AMBIENTE"
+   ],
+   "content_caracteres": 421284
+  },
+  {
+   "id": "7678950838633507136",
+   "titulo": "Violencia contra las mujeres: una lacra social interminable",
+   "resultado": "SALTADO (pasaría de 200 caracteres: 204)",
+   "anadiria": [
+    "OPINIÓN",
+    "IGUALDAD"
+   ]
+  },
+  {
+   "id": "7251213462661851525",
+   "titulo": "ARTÍCULOS DE OPINIÓN CNN",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2024/03/articulos-de-opinion-cnn.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "ARTÍCULOS"
+   ],
+   "content_caracteres": 14483
+  },
+  {
+   "id": "2103793066582249948",
+   "titulo": "CULTURA GAZETA SHQIPTARE",
+   "resultado": "SALTADO (pasaría de 200 caracteres: 213)",
+   "anadiria": [
+    "INTERNACIONAL"
+   ]
+  }
+ ]
+}

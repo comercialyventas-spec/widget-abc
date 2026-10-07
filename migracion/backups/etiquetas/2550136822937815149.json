@@ -1,0 +1,39 @@
+{
+ "id": "2550136822937815149",
+ "blogId": "7463231340560247006",
+ "fecha_copia": "2026-10-07T08:32:38.841Z",
+ "post": {
+  "kind": "blogger#post",
+  "id": "2550136822937815149",
+  "status": "LIVE",
+  "blog": {
+   "id": "7463231340560247006"
+  },
+  "published": "2026-03-25T06:11:00+01:00",
+  "updated": "2026-03-25T06:11:45+01:00",
+  "url": "https://periodicosaliazon.blogspot.com/2026/03/el-viajero-el-pais.html",
+  "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7463231340560247006/posts/2550136822937815149",
+  "title": "EL VIAJERO EL PAÍS",
+  "content": "<div id=\"ep-viajero-container\">\n  <div id=\"ep-viajero-destacada\"></div>\n  \n  <hr style=\"border: 0; border-top: 1px solid #ddd; margin: 30px 0;\">\n  \n  <div id=\"ep-viajero-rss\">Cargando las crónicas de El Viajero (EL PAÍS)...</div>\n</div>\n\n<style>\n  #ep-viajero-container { font-family: 'Segoe UI', Roboto, Arial, sans-serif; max-width: 800px; margin: auto; color: #333; }\n  \n  /* ESTILOS NOTICIA DESTACADA (EL VIAJERO) */\n  .ep-via-featured { text-align: center; margin-bottom: 40px; }\n  .ep-img-via-featured { width: 100%; max-height: 400px; object-fit: cover; border-radius: 8px; margin-bottom: 15px; background-color: #f4f4f4; }\n  .ep-title-via-featured { font-size: 28px; font-weight: 800; color: #111; text-decoration: none; line-height: 1.2; display: block; margin-bottom: 15px; }\n  .ep-title-via-featured:hover { color: #053d4e; }\n  .ep-desc-via-featured { font-size: 18px; color: #444; line-height: 1.5; margin-bottom: 10px; }\n\n  /* ESTILOS LISTA */\n  .ep-via-item { display: flex; flex-direction: column; margin-bottom: 25px; border-bottom: 1px solid #eee; padding-bottom: 20px; }\n  .ep-via-img-container { width: 100%; height: 200px; overflow: hidden; border-radius: 6px; margin-bottom: 12px; background-color: #f4f4f4; }\n  .ep-via-img-container img { width: 100%; height: 100%; object-fit: cover; }\n  .ep-via-title { font-size: 19px; font-weight: 700; color: #1a1a1a; text-decoration: none; line-height: 1.3; display: block; margin-bottom: 8px; }\n  .ep-via-title:hover { color: #053d4e; }\n  .ep-via-desc { font-size: 14px; color: #666; line-height: 1.5; }\n  .ep-via-meta { font-size: 11px; color: #aaa; text-transform: uppercase; margin-top: 5px; font-weight: bold; }\n\n  @media (min-width: 600px) {\n    .ep-via-item { flex-direction: row; gap: 20px; align-items: flex-start; }\n    .ep-via-img-container { width: 180px; height: 110px; flex-shrink: 0; margin-bottom: 0; }\n  }\n</style>\n\n<script>\nasync function cargarViajeroEP() {\n  const rssUrl = \"https://feeds.elpais.com/mrss-s/list/ep/site/elpais.com/section/elviajero\";\n  const proxyUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rssUrl)}&t=${new Date().getTime()}`;\n\n  try {\n    const res = await fetch(proxyUrl);\n    const data = await res.json();\n    if (data.status !== 'ok') throw new Error();\n\n    let destacadoHtml = \"\";\n    let listaHtml = \"\";\n    \n    data.items.slice(0, 6).forEach((item, index) => {\n      // EL PAÍS a veces usa thumbnail o enclosure, aquí capturamos ambos\n      let img = (item.enclosure && item.enclosure.link) ? item.enclosure.link : \n                (item.thumbnail ? item.thumbnail : \"\");\n      \n      let fecha = new Date(item.pubDate).toLocaleDateString('es-ES', { day: '2-digit', month: 'short', year: 'numeric' });\n      \n      // Filtro de texto: Limpiamos HTML y nos quedamos con la primera frase\n      let desc = (item.description || \"\").replace(/<[^>]*>?/gm, '').split('.')[0];\n\n      if (index === 0) {\n        destacadoHtml = `\n          <div class=\"ep-via-featured\">\n            <a href=\"${item.link}\" target=\"_blank\">\n              <img src=\"${img}\" class=\"ep-img-via-featured\" alt=\"${item.title}\">\n            </a>\n            <a class=\"ep-title-via-featured\" href=\"${item.link}\" target=\"_blank\">${item.title}</a>\n            <div class=\"ep-desc-via-featured\">${desc}...</div>\n            <div class=\"ep-via-meta\">EL VIAJERO | EL PAÍS | ${fecha}</div>\n          </div>\n        `;\n      } else {\n        listaHtml += `\n          <div class=\"ep-via-item\">\n            ${img ? `<div class=\"ep-via-img-container\"><img src=\"${img}\"></div>` : \"\"}\n            <div class=\"ep-via-content\">\n              <a class=\"ep-via-title\" href=\"${item.link}\" target=\"_blank\">${item.title}</a>\n              <div class=\"ep-via-desc\">${desc}...</div>\n              <div class=\"ep-via-meta\">${fecha}</div>\n            </div>\n          </div>\n        `;\n      }\n    });\n\n    document.getElementById(\"ep-viajero-destacada\").innerHTML = destacadoHtml;\n    document.getElementById(\"ep-viajero-rss\").innerHTML = listaHtml;\n\n  } catch (error) {\n    document.getElementById(\"ep-viajero-container\").innerHTML = \"Error al conectar con El Viajero de EL PAÍS.\";\n  }\n}\n\ncargarViajeroEP();\n</script>",
+  "author": {
+   "id": "09293789891197009774",
+   "displayName": "COMERCIAL",
+   "url": "https://www.blogger.com/profile/09293789891197009774",
+   "image": {
+    "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+   }
+  },
+  "replies": {
+   "totalItems": "0",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/7463231340560247006/posts/2550136822937815149/comments"
+  },
+  "labels": [
+   "EL PAÍS",
+   "EL VIAJERO EL PAÍS",
+   "VIAJES",
+   "VIAJES EL PAÍS"
+  ],
+  "readerComments": "ALLOW",
+  "etag": "\"dGltZXN0YW1wOiAxNzc0NDE1NTA1Mjc1Cm9mZnNldDogMzYwMDAwMAo\""
+ }
+}
