@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Los lobos de la Cibona vuelven a salir de caza",
+      "link": "https://www.abc.es/deportes/baloncesto/lobos-cibona-vuelven-salir-caza-20261007192645-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/07/HT-K-qpW4AAAkUv-RmL4wcSeSpSWPmKSsqPP2uL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Euroliga rechaza la oferta de la NBA y prosigue con su plan de ampliación",
       "link": "https://www.abc.es/deportes/baloncesto/euroliga-rechaza-oferta-nba-prosigue-plan-ampliacion-20261006170648-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/06/1518372896-R2921lVjNPCf2EKy9gu8TNI-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Besiktas - Barcelona, en directo hoy, partido de la Euroliga",
       "link": "https://www.abc.es/deportes/baloncesto/besiktas-barcelona-directo-hoy-partido-euroliga-20261002182555-di.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/02/6098098-RfDJSqb9kCbdHujdy68GFMO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Madrid cae ante el Hapoel y firma el peor inicio de su historia en Euroliga",
-      "link": "https://www.abc.es/deportes/baloncesto/madrid-cae-ante-hapoel-firma-peor-inicio-20261001202230-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/01/HTj9_l_WQAAvAv3-RGG4VNUrYFkwZC45myPSjON-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

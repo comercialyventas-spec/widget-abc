@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El adelanto electoral obliga a cancelar la visita a Barcelona de Jensen Huang, director ejecutivo de Nvidia",
+      "link": "https://www.elperiodico.com/es/tecnologia/20261007/jensen-huang-ia-barcelona-nvidia-bsc-adelanto-elecciones-espana-135069710",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0e75b427-1aae-4d81-8fb6-8b911b0f78a2_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Dungeons & Dragons recibe a World of Warcraft con su propia adaptación de Azeroth",
       "link": "https://www.elperiodico.com/es/tecnologia/20261007/dungeons-dragons-recibe-world-of-135072497",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/cb02fb56-c4d8-4fef-b86d-36ee73e3d719_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Dyson Airsmooth: el cepillo secador que convierte el peinado diario en una rutina más sencilla",
       "link": "https://www.elperiodico.com/es/tecnologia/20261007/dyson-airsmooth-cepillo-secador-precio-135086186",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d877ad65-0532-4a0f-830c-fe61cdb4f64f_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Impuestos a la IA y salidas a bolsa",
-      "link": "https://www.elperiodico.com/es/opinion/20261006/impuestos-ia-salidas-bolsa-135076388",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/851207b3-da53-4b44-9541-61a6333addcd_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

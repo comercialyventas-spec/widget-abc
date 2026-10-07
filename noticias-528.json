@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Policía Nacional",
+      "link": "https://www.elconfidencialdigital.com/album/seguridad/policia-nacional/202610072233121491596.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/07/2026100722292470666.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Grupo Especial de Operaciones (GEO) de la Policía Nacional",
       "link": "https://www.elconfidencialdigital.com/album/seguridad/grupo-especial-operaciones-geo-policia-nacional/202609301334351489440.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/30/2026093013333390179.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Ceuta",
       "link": "https://www.elconfidencialdigital.com/album/seguridad/ceuta/202609241101021487856.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/24/2026092410520522004.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tráfico",
-      "link": "https://www.elconfidencialdigital.com/album/seguridad/trafico/202609221807031487412.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/22/2026092218035668878.jpg",
       "tipo": "imagen"
     }
   ]

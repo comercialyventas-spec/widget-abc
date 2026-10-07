@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Las 45 mejores ofertas de la Fiesta de Ofertas Prime de Amazon",
+      "titulo": "Las 50 mejores ofertas de la Fiesta de Ofertas Prime de Amazon",
       "link": "https://elpais.com/escaparate/ofertas-y-descuentos/fiesta-de-ofertas-prime-2026-mejores-descuentos.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/R5TTT4I36NAWBCV77LS3VQEYNQ.png?auth=dad7bdc8326b07fc9b342a7eed4798b8d15ddc8cf833dc3435a04ac3b49f1dc7",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Levi’s, Tommy Hilfiger y más: hasta un 63% de descuento en ropa y zapatillas por la Fiesta de Ofertas Prime de Amazon",
+      "link": "https://elpais.com/escaparate/ofertas-y-descuentos/fiesta-de-ofertas-prime-2026-moda-y-calzado.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/R55KXJXRM5BXJK3BPBU3RVLUGY.png?auth=7c3cdc4709bbfa9f8d01680ac40f27b3b69fb3c18b3a33b35df7196b06693ac2",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Lo más vendido del primer día de la Fiesta de Ofertas Prime sigue rebajado: las ofertas que aún merece la pena comprar",
       "link": "https://elpais.com/escaparate/ofertas-y-descuentos/fiesta-de-ofertas-prime-2026-lo-mas-vendido.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/NT7APWFDOJFCJJ7RFULQMKEEC4.png?auth=5a4e49aa4c9095c1fcc6821b5dff83e1c18eb68a9c879e0a9a16986919cb97f4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Levi’s, Tommy Hilfiger y más: hasta un 63% de descuento en ropa y zapatillas por la Fiesta de Ofertas Prime de Amazon",
-      "link": "https://elpais.com/escaparate/ofertas-y-descuentos/fiesta-de-ofertas-prime-2026-moda-y-calzado.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/R55KXJXRM5BXJK3BPBU3RVLUGY.png?auth=7c3cdc4709bbfa9f8d01680ac40f27b3b69fb3c18b3a33b35df7196b06693ac2",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Tres muertos por el temporal en Cataluña: hallan un cadáver en un túnel inundado de Barcelona",
+      "link": "https://okdiario.com/cataluna/tres-muertos-temporal-cataluna-hallan-cadaver-tunel-inundado-barcelona-20506016",
+      "imagen": "https://okdiario.com/img/2026/10/07/imagen_recortada-43.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un estadounidense que vive en Barcelona, atónito por cómo se tratan a los niños en España: «No se habla lo suficiente de ello»",
       "link": "https://okdiario.com/espana/estadounidense-que-vive-barcelona-atonito-como-tratan-ninos-espana-no-habla-lo-suficiente-ello-20496065",
       "imagen": "https://okdiario.com/img/2026/10/07/diseno-sin-titulo-94.jpg",
@@ -28,12 +34,6 @@
       "titulo": "AEMET advierte: Barcelona bajo cielo nuboso con chubascos y tormentas intensas hoy",
       "link": "https://okdiario.com/cataluna/aemet-advierte-barcelona-bajo-cielo-nuboso-con-chubascos-y-tormentas-intensas-hoy-20492166",
       "imagen": "https://okdiario.com/img/2026/01/12/lluvias-barcelona-interior.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El BOE lo confirma: ¿qué va a pasar con el festivo del día 12 de octubre en Cataluña?",
-      "link": "https://okdiario.com/cataluna/boe-lo-confirma-que-va-pasar-festivo-del-dia-12-octubre-cataluna-20472295",
-      "imagen": "https://okdiario.com/img/2026/10/03/el-boe-lo-confirma-que-va-a-pasar-con-el-festivo-del-dia-12-de-octubre-en-cataluna.jpg",
       "tipo": "imagen"
     }
   ]

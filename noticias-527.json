@@ -1,7 +1,13 @@
 {
   "noticias": [
     {
-      "titulo": "Telefónica e Indra",
+      "titulo": "Palacio de la Moncloa",
+      "link": "https://www.elconfidencialdigital.com/album/politica/palacio-moncloa/202610071806531491520.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/17/2026091722264330339.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Telefónica",
       "link": "https://www.elconfidencialdigital.com/album/politica/telefonica-e-indra/202610070500001491100.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/07/01/2026070119470170837.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Acampada de Sol",
       "link": "https://www.elconfidencialdigital.com/album/politica/acampada-de-sol/202610032348261490514.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/03/2026100323464321503.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Acampada en la Puerta del Sol, de Madrid",
-      "link": "https://www.elconfidencialdigital.com/album/politica/acampada-puerta-sol-madrid/202610030021311490379.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/04/2026100421594232870.jpg",
       "tipo": "imagen"
     }
   ]

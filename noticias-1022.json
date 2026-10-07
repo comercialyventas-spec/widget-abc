@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Trump cree que Rusia no cuenta con la peste neumónica entre su arsenal de armas biológicas",
-      "link": "https://www.abc.es/sociedad/trump-cree-rusia-cuenta-peste-neumonica-arsenal-20261008211550-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/10/08/1518431718-R9oITvFuyI1AVZUlcxrSNiL-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "Christa Pike, la mujer que sobrevivió a su ejecución, se encuentra «despierta y enfadada» en el hospital",
       "link": "https://www.abc.es/internacional/christa-pike-mujer-sobrevivio-ejecucion-encuentra-despierta-20261007214818-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/07/1518387990-ksXH-U3021206360116t-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/07/1518387990-ksXH-U3021206360116t-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "La UCO confirma que la cloaca del PSOE contactó con los narcos para «eliminar» a la juez del caso del hermano de Sánchez",
-      "link": "https://www.abc.es/espana/uco-confirma-contactos-cloacas-psoe-narcos-juez-20261007154617-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/07/1497631850-kbtD-U302113040815Dm-1200x840@diario_abc.jpg"
+      "titulo": "Trump cree que Rusia no cuenta con la peste neumónica entre su arsenal de armas biológicas",
+      "link": "https://www.abc.es/sociedad/trump-cree-rusia-cuenta-peste-neumonica-arsenal-20261008211550-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/10/08/1518431718-R9oITvFuyI1AVZUlcxrSNiL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Muere Maricarmen, la anciana de 87 años desahuciada en Madrid",
       "link": "https://www.abc.es/espana/muere-maricarmen-anciana-anos-desahuciada-casa-madrid-20261007202828-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/07/1517828421%20(1)-koMI-U302119674454tkG-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/07/1517828421%20(1)-koMI-U302119674454tkG-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La UCO confirma que la cloaca del PSOE contactó con los narcos para «eliminar» a la juez del caso del hermano de Sánchez",
+      "link": "https://www.abc.es/espana/uco-confirma-contactos-cloacas-psoe-narcos-juez-20261007154617-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/07/1497631850-kbtD-U302113040815Dm-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "El Rey, en el corazón de la disuasión finlandesa frente a Rusia",
       "link": "https://www.abc.es/espana/casa-real/rey-corazon-disuasion-finlandesa-frente-rusia-20261007171518-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/07/1518424726-RCKY3FoP8LDVfkpQ3mBmu2J-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/07/1518424726-RCKY3FoP8LDVfkpQ3mBmu2J-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "«Sánchez convierte sus fracasos en campaña electoral»",
       "link": "https://www.abc.es/espana/sanchez-convierte-fracasos-campana-electoral-20261007194642-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/07/1518416323-kwWC-U302118942105RpC-1200x672@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/07/1518416323-kwWC-U302118942105RpC-1200x672@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }
