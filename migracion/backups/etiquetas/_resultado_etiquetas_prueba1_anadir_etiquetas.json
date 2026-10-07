@@ -1,0 +1,29 @@
+{
+ "fecha": "2026-10-07T08:11:59.097Z",
+ "modo": "anadir_etiquetas",
+ "lista": "migracion/etiquetas_prueba1.json",
+ "cuenta": {
+  "cambiados": 1,
+  "yaEstaban": 0,
+  "saltados": 0,
+  "errores": 0,
+  "restaurados": 0
+ },
+ "porGeneral": {
+  "GASTRONOMÍA": 1
+ },
+ "cortado": false,
+ "detalle": [
+  {
+   "id": "8895828563521694257",
+   "titulo": "GASTRONOMÍA GOURMET ABC",
+   "estado": "LIVE",
+   "url": "https://periodicosaliazon.blogspot.com/2026/09/gastronomia-gourmet-abc.html",
+   "resultado": "CAMBIADO",
+   "anade": [
+    "GASTRONOMÍA"
+   ],
+   "content_caracteres": 10065
+  }
+ ]
+}
