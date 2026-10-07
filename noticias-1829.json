@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "España, bola blanca o bola negra",
+      "link": "https://www.20minutos.es/andalucia/granada/espana-bola-blanca-bola-negra_7045413_3.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/01/6abe1293ed7fc0-45229362.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La candidata del PSOE a la Alcaldía de Granada declara poseer 18 bienes inmuebles",
       "link": "https://www.20minutos.es/andalucia/granada/candidata-psoe-alcaldia-granada-declara-poseer-18-bienes-inmuebles_7045756_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2021/04/09/la-viceportavoz-del-grupo-socialista-en-el-ayuntamiento-de-granada-raquel-ruz.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Monachil, candidato a ser elegido como el 'Mejor Pueblo de Película de España'",
       "link": "https://www.20minutos.es/andalucia/granada/monachil-candidato-ser-elegido-como-mejor-pueblo-pelicula-espana_7043907_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/01/6abe9a25bcd088-70372482.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los terremotos de Granada dejan ya más de 63.000 solicitudes de indemnización y daños estimados en 174 millones de euros",
-      "link": "https://www.20minutos.es/andalucia/granada/los-terremotos-granada-dejan-ya-mas-63-000-solicitudes-indemnizacion-danos-estimados-174-millones-euros_7043772_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/01/6abe6489d02024-43264474.jpeg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El kéfir está de moda. Pero ¿sabemos qué estamos comprando?",
+      "link": "https://www.elperiodico.com/es/salud/20261007/kefir-moda-comprando-135082633",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/4497ad4c-6331-49a0-9545-f9d637b2042f_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El área de neonatos de Vall d'Hebron ya funciona al 80%, pero cuatro quirófanos siguen cerrados por los efectos de las lluvias torrenciales",
       "link": "https://www.elperiodico.com/es/sanidad/20261006/neonatos-vall-dhebron-funcionan-80-cuatro-quirofanos-parados-cataluna-135067914",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/40d6740d-9851-4571-8fef-4caa4436d512_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El viaje del plasma: de una donación a un tratamiento esencial",
       "link": "https://www.elperiodico.com/ideas/El-viaje-del-plasma/index.html",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ba3d41c3-4dcc-484f-b8b9-ddc923e308ab_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Más de 35.000 españoles sufren neuralgia del trigémino, \"uno de los dolores más intensos que puede experimentar un ser humano\"",
-      "link": "https://www.elperiodico.com/es/sanidad/20261006/espanoles-sufren-neuralgia-trigemino-dolor-intenso-experimentar-ser-humano-135045514",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/736a6690-b909-4a61-bcbb-179ce95a8fff_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

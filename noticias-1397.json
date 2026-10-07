@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de Valdecarros",
+      "link": "https://nuevosureste.es/almeida-gran-via-sureste/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/Visita-de-Almeida-a-las-obras-de-la-Gran-Via-del-Sureste-en-Ensanche-de-Vallecas-foto_-Nuevo-Sureste-400x250.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Valdecarros recibe autorización para iniciar la construcción de sus primeras 13.371 viviendas",
       "link": "https://nuevosureste.es/autorizacion-simultaneidad-valdecarros/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2025/12/FOTOS-ETAPA-1-16-SEP5-1-1-400x250.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "El viceconsejero de Vivienda inaugura la jornada ‘SuresteLAB. La ciudad antes de la ciudad’: “El urbanismo se demuestra andando”",
       "link": "https://nuevosureste.es/inauguracion-jornada-surestelab/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/SuresteLab-2026-012-400x250.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El calendario del Sureste: estas son las viviendas que entrarán en carga en los siguientes años",
-      "link": "https://nuevosureste.es/cambios-fechas-suelo-previsto-en-carga-nuevos-desarrollos-sureste/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/IMG_9320-400x250.jpg",
       "tipo": "imagen"
     }
   ]

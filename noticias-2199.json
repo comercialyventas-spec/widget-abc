@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "En confianza con Josep González, de PIMEC",
+      "link": "https://www.elperiodico.com/es/videos/sociedad/confianza-josep-gonzalez-pimec-video/135025385.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/af798422-96a3-49cd-afe8-e10655e08d2e_1-1-large-aspect-ratio_default_0_x1000y444.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La tormenta de esta tarde en el centro de Barcelona.",
       "link": "https://www.elperiodico.com/es/videos/sociedad/tormenta-tarde-centro-barcelona/135078251.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/cce1fb90-e619-4341-aae9-ef2de8385684_1-1-large-aspect-ratio_default_0_x960y360.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Andrés Naya en la presentación de sus dos libros, entre los \"cabezudos\" del barrio",
       "link": "https://www.elperiodico.com/es/videos/barcelona/andres-naya-presentacion-libros-cabezudos/135077250.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/25a737fa-92cb-42be-8331-f33681a61bcf_1-1-large-aspect-ratio_default_0_x960y360.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El paseo marítimo de la playa de San Sebastián de Sitges inundado",
-      "link": "https://www.elperiodico.com/es/videos/sociedad/paseo-maritimo-playa-san-sebastian/135077299.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/4d9951bf-e7cb-4000-848f-7b789d53e353_1-1-large-aspect-ratio_default_0_x960y360.jpg",
       "tipo": "imagen"
     }
   ]

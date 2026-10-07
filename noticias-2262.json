@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Frente a la especulación más vivienda pública",
+      "link": "https://www.diarioderivas.es/frente-a-la-especulacion-mas-vivienda-publica/",
+      "imagen": "https://www.diarioderivas.es/wp-content/uploads/2017/10/Logojpg.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El «Gobierno buitre» de Rivas impone un nuevo cerrojazo a la vivienda",
       "link": "https://www.diarioderivas.es/el-gobierno-buitre-de-rivas-impone-un-nuevo-cerrojazo-a-la-vivienda/",
       "imagen": "https://www.diarioderivas.es/wp-content/uploads/2019/05/Janette-Novo.jpg",
@@ -15,8 +21,8 @@
     {
       "titulo": "La vuelta al cole que Castillejo no cuenta",
       "link": "https://www.diarioderivas.es/la-vuelta-al-cole-que-castillejo-no-cuenta/",
-      "imagen": "https://www.diarioderivas.es/wp-content/uploads/2026/09/Fotos-opinion-3.png",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Cubrimiento del Metro: un proyecto que transforma Rivas",
@@ -27,12 +33,6 @@
     {
       "titulo": "Rivas se moviliza por la integridad nacional: Ceuta somos todos",
       "link": "https://www.diarioderivas.es/rivas-se-moviliza-por-la-integridad-nacional/",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Ayuso nos sube los impuestos",
-      "link": "https://www.diarioderivas.es/ayuso-nos-sube-los-impuestos/",
       "imagen": "",
       "tipo": ""
     }

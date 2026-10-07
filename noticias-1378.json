@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Ensalada otoñal de lentejas",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-07/ensalada-otonal-de-lentejas.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/AQPFOAJHVJEZXAKVWSBPHVX4AI.jpg?auth=fd70e2add9b1d431abc953e39ea23324f2efaac230ab2bba2bd1b99d8730a17b",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Dónde comer buenas pizzas al estilo de Nueva York en España",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-07/donde-comer-buenas-pizzas-al-estilo-de-nueva-york-en-espana.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NSYGOKXADRGCZD65XTNXOJ6ZK4.jpg?auth=c66171a60dc0cae8c927a6993e9fb5cccd04490adb4b3c6bfc18d9a285102ede",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los ingredientes más odiados y por qué generan rechazo: de las coles al cilantro",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-10-06/los-ingredientes-mas-odiados-y-por-que-generan-rechazo-de-las-coles-al-cilantro.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20260917/1215453_190556_video_1800.mp4",
@@ -22,18 +34,6 @@
       "titulo": "‘Key lime pie’, una tarta de lima con receta fácil y pocos ingredientes",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-10-03/key-lime-pie-una-tarta-de-lima-con-receta-facil-y-pocos-ingredientes.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/YPM4KRTPCND7NDW7V6LHHOLCIA.jpg?auth=1b64c3acc26770a871c063c947b17a7e4d03559ac3ee2cc066631bda968aeec1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Aló Comidista: “Mi mujer quiso hacer un pastel con forma de osito y salió esto. ¿Qué falló?”",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-02/alo-comidista-mi-mujer-quiso-hacer-un-pastel-con-forma-de-osito-y-salio-esto-que-fallo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/V34WVQSKMJGFJCIKRDNHVWBQTE.png?auth=20e6bfd31d55461b6934788ef42b72eec97ca91f8502e71992a76588ff8f1acd",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Cuál es la mejor gilda de supermercado?",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-01/cual-es-la-mejor-gilda-de-supermercado.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20260915/1214464_123102_video_1800.mp4",
       "tipo": "imagen"
     }
   ]

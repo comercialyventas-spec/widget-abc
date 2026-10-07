@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El recurso habitacional",
+      "link": "https://elpais.com/babelia/2026-10-07/el-recurso-habitacional.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/UUX6YAL465GVNIJ5KNA4GURWWA.jpg?auth=ad6df95f63915176d606186f5d864e9b8742a75c255516bc0ecd0b6225002530",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "‘Contenta’, de Santiago Lorenzo: aventuras de una donnadie en tierras de donde nadie",
+      "link": "https://elpais.com/babelia/2026-10-07/contenta-de-santiago-lorenzo-aventuras-de-una-donnadie-en-tierras-de-donde-nadie.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/FWVME5GZZZDATAXLU6HN32ASDY.jpg?auth=10766e99a1591defb60f602c4a5a204ea290eb96cca0efda694f0b6f471c2baa",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "‘Cartas a Philip W. Silver’, de Claudio Rodríguez: la contemplación viva",
       "link": "https://elpais.com/babelia/2026-10-06/cartas-a-philip-w-silver-de-claudio-rodriguez-la-contemplacion-viva.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/BXCNYQCIMVBVTIAQMQK3F4HW4U.jpg?auth=cea2a61f06df5c0eb7b3da1796219cdef97a35d458383fe1b6181e2623e89368",
@@ -22,18 +34,6 @@
       "titulo": "‘Silent Hill: Townfall’ y el terror de los puzles demasiado difíciles",
       "link": "https://elpais.com/babelia/2026-10-05/silent-hill-townfall-y-el-terror-de-los-puzles-demasiado-dificiles.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/3O4ZMZVDQBHNLLGRN75GBDDWNQ.jpg?auth=3a22e45e49f91445b943658cfd4bb5d7dd5b4525aaeaf0d78cf1bea2a514da22",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Trampantojo: Concurso televisivo",
-      "link": "https://elpais.com/babelia/2026-10-03/trampantojo-concurso-televisivo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/5WAGG6I2JNAW3LOZFWYB6RUU3I.jpg?auth=876b281b24a05a04c86679075ac6d67d86032e8bafb66bfd1db84e0db442d8f0",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘Hijos de la radiación’: mi bisabuelo y las armas químicas",
-      "link": "https://elpais.com/babelia/2026-10-03/hijos-de-la-radiacion-mi-bisabuelo-y-las-armas-quimicas.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/OB7C75WNZBDDXELXYRXTP2PMCY.jpg?auth=ff14bd2c3a088729c4df3ce0625b4a95eda973818e4b54bf8d3fc49b5b0d62de",
       "tipo": "imagen"
     }
   ]
