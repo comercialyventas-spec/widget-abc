@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Los funcionarios, USO y Fetico se desligan de la huelga general: «Tiene connotaciones políticas»",
-      "link": "https://www.abc.es/economia/funcionarios-uso-fetico-desligan-huelga-connotaciones-politicas-20261007085728-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/07/1495881959-RzQFisW2ooFFY6ZmO7RrmQK-1200x840@diario_abc.JPG"
-    },
-    {
-      "titulo": "Con más ambición y sin complacencia: la defensa de la segunda estrella de España",
-      "link": "https://www.abc.es/deportes/futbol/ambicion-complacencia-defensa-segunda-estrella-espana-20261007175111-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/07/equip-RqTmBih553cm4T6zRQBrUnJ-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "La Biblioteca Nacional adquiere el legado de Javier Marías",
       "link": "https://www.abc.es/cultura/biblioteca-nacional-adquiere-legado-javier-marias-20261007170256-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/07/jmarias-igil-RPSydkAa19DTIxkVKoUbH7M-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/07/jmarias-igil-RPSydkAa19DTIxkVKoUbH7M-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ayuso publicará su biografía más íntima tras el 29N: «La mudanza me ha ayudado»",
+      "link": "https://www.abc.es/espana/madrid/ayuso-publicara-biografia-intima-tras-29n-mudanza-20261007115210-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/07/1517099385%20(2)-U20609936686KsE-RVeqK9SAZ55jub1vQ6ALAnN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "El Rey, en el corazón de la disuasión finlandesa frente a Rusia",
       "link": "https://www.abc.es/espana/casa-real/rey-corazon-disuasion-finlandesa-frente-rusia-20261007171518-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/07/1518424726-RCKY3FoP8LDVfkpQ3mBmu2J-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/07/1518424726-RCKY3FoP8LDVfkpQ3mBmu2J-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los funcionarios, USO y Fetico se desligan de la huelga general: «Tiene connotaciones políticas»",
+      "link": "https://www.abc.es/economia/funcionarios-uso-fetico-desligan-huelga-connotaciones-politicas-20261007085728-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/07/1495881959-RzQFisW2ooFFY6ZmO7RrmQK-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Con más ambición y sin complacencia: la defensa de la segunda estrella de España",
+      "link": "https://www.abc.es/deportes/futbol/ambicion-complacencia-defensa-segunda-estrella-espana-20261007175111-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/07/equip-RqTmBih553cm4T6zRQBrUnJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "El «riesgo» asumido por Rosalía en 'Lux', premio Nacional de las Músicas Actuales",
       "link": "https://www.abc.es/cultura/musica/rosalia-premio-nacional-musicas-actuales-2026-20261007141648-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/07/Rosalia-RbG8j3D34ETjNrL4eFs4SdN-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Mónica García renuncia a liderar el Frente Amplio en favor de Ada Colau",
-      "link": "https://www.abc.es/espana/madrid-propone-ada-colau-lider-frente-amplio-20261007161448-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/07/colau-garcia-ep-RdjGGiFQvVoaWsis8RQUaNP-1200x840@diario_abc.PNG"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/07/Rosalia-RbG8j3D34ETjNrL4eFs4SdN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }
