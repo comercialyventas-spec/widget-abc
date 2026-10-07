@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "El último “escándalo” del pazo de Meirás: los Franco subastan 700 lotes en Madrid con la bendición de Estado y Xunta",
+      "link": "https://elpais.com/espana/galicia/2026-10-07/el-ultimo-escandalo-del-pazo-de-meiras-los-franco-subastan-700-lotes-en-madrid-con-la-bendicion-de-estado-y-xunta.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/3JPSHOAOSRE33P6GV7MRJEBIWQ.jpg?auth=426476a62823a048df14fa26e721c6386e7300b5ad0f145ea6d7d01248232931&width=1200",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El otro robo del siglo en la Catedral de Santiago: la pista de la Cruz de Alfonso III se pierde en Argentina",
+      "link": "https://elpais.com/espana/2026-10-07/el-otro-robo-del-siglo-en-la-catedral-de-santiago-la-pista-de-la-cruz-de-alfonso-iii-se-pierde-en-argentina.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7M44QLJZXJCUHAVCNDYWGF5STA.jpg?auth=5fbc519a3aa2dd8bb4af378a6ddf2fada966e746c7b7540f73abec590187a379&width=1200",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Feijóo a Sánchez: “No amague más, que los ciudadanos tomen la palabra cuanto antes”",
       "link": "https://elpais.com/espana/2026-10-03/feijoo-a-sanchez-no-amague-mas-que-los-ciudadanos-tomen-la-palabra-cuanto-antes.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/26DNJJ42ZZHVBOWEG2YF6P3WME.jpg?auth=d21b3d37fbab97c1e7f5528705690f5fc103c5dcc092bfc56d7aff39e9ef04fa&width=1200",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/BOKZON2DSFEUDPMRLTVBRNYLDQ.jpg?auth=cc42379f300e381fc9ab20ca4e05f52fb8f0f2625cf63c9b32ca8e7a26a6d5ed&width=414&height=233&smart=true",
       "tipo": "imagen"
     },
     {
@@ -15,25 +27,13 @@
     {
       "titulo": "La Casa Real subraya con la visita a Ceuta y Melilla que España es la “puerta de entrada” de Marruecos en Europa",
       "link": "https://elpais.com/espana/2026-10-01/la-casa-real-subraya-con-la-visita-a-ceuta-y-melilla-que-espana-es-la-puerta-de-entrada-de-marruecos-en-europa.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/YFFCKK7TEVCONG3ULBQSNZ5FBU.jpg?auth=310326c2f84fd0d257d24de65a22d1ce2c890a1acd3c2441e24cb9750f55aeb8&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Otras dos mujeres relatan a la jueza comportamientos machistas del expresidente de la Diputación de Lugo",
-      "link": "https://elpais.com/espana/galicia/2026-09-29/otras-dos-mujeres-relatan-a-la-jueza-tocamientos-y-proposiciones-obscenas-del-expresidente-de-la-diputacion-de-lugo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/N76TIJX7JRCY7G4D5MVKDHFCNA.JPG?auth=f0d7ae5a5e7782a6807f73be11e34b3202c4d09642d87a444edefd56767191c0&width=1200",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Galicia: Industria & Tech 4.0",
-      "link": "https://elpais.com/economia/negocios/2026-09-29/galicia-industria-tech-40.html",
       "imagen": "",
       "tipo": ""
     },
     {
-      "titulo": "El plan de Vigo contra la prostitución: cerco a proxenetas y puteros y concienciación hasta en los coles",
-      "link": "https://elpais.com/espana/galicia/2026-09-29/el-plan-de-vigo-contra-la-prostitucion-cerco-a-proxenetas-y-puteros-y-concienciacion-hasta-en-los-coles.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/6BBU6DE33BBWLI4BZR3ZW3A3NM.jpg?auth=466c98587ea351791373d41dd2f6441bdb01179f8ddc3e5e99fb5391b874c775&width=414&height=311&focal=1793%2C966",
+      "titulo": "Otras dos mujeres relatan a la jueza comportamientos machistas del expresidente de la Diputación de Lugo",
+      "link": "https://elpais.com/espana/galicia/2026-09-29/otras-dos-mujeres-relatan-a-la-jueza-tocamientos-y-proposiciones-obscenas-del-expresidente-de-la-diputacion-de-lugo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/N76TIJX7JRCY7G4D5MVKDHFCNA.JPG?auth=f0d7ae5a5e7782a6807f73be11e34b3202c4d09642d87a444edefd56767191c0&width=414&height=311&focal=1116%2C353",
       "tipo": "imagen"
     }
   ]

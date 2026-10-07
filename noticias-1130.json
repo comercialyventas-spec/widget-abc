@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "La campaña que merecemos",
+      "link": "https://elpais.com/opinion/2026-10-07/la-campana-que-merecemos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/JR6KUBCOVNA4FBMDRHUILTXCKY.jpg?auth=8194380fd3c84158b33aba241455f5c6966640f278f6d089a648484cf00bf862&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ciudadano Puigdemont",
+      "link": "https://elpais.com/opinion/2026-10-07/ciudadano-puigdemont.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/CH63YSKIBJGSTLIISFJ2Y7MSLM.jpg?auth=387010945eded71003dce8c946b0d9d4b34389889150ae0850b900ca10091900&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Brasil ante el riesgo de Bolsonaro",
       "link": "https://elpais.com/opinion/editoriales/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/YF5MY2RPEJELDMYEISTXQPA6IY.jpg?auth=189e0924b6430228cfa894f263f27808dcdc9ba61e7d9a41812943792954822a&width=414&height=233&focal=2405%2C1015",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/YF5MY2RPEJELDMYEISTXQPA6IY.jpg?auth=189e0924b6430228cfa894f263f27808dcdc9ba61e7d9a41812943792954822a&width=414&height=311&focal=2405%2C1015",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "La inflación, problema político",
       "link": "https://elpais.com/opinion/2026-10-01/la-inflacion-problema-politico.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/LG2X26HLYNH3RAIXGYRJE23JOQ.JPG?auth=ca9bedafb25b491710c22d9cf4ee17492bea1c30280f86434aacfd9ed3ada137&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Brasil, peligro de involución",
-      "link": "https://elpais.com/opinion/2026-10-01/brasil-peligro-de-involucion.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ATRZ5YX7FVFEPDWOKVIEWEC3U4.JPG?auth=cf73b7dd4efd4fdbae99103d505052d19fd35a10091859920160048a9884700b&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Esperpento en el Congreso",
-      "link": "https://elpais.com/opinion/2026-09-24/esperpento-en-el-congreso.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/G4LVPTRLGRGVXKAXXJTR7PZNQE.jpg?auth=b87e87b9ff38eccc74d4717cfbcbd2c0c01b36ec1b9e417acc4f5664a75c0708&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

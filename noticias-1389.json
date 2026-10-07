@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Trabajo da el primer paso para subir el salario mínimo antes de las elecciones generales",
+      "link": "https://elpais.com/economia/2026-10-07/trabajo-da-el-primer-paso-para-subir-el-salario-minimo-antes-de-las-elecciones-generales.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/5KKFDL4ICZKCNH5EBYFFNOUA7I.jpg?auth=26a9b2672fef396121119a465c748ee52f388c0c5669d2ff9efcd703cc71da3a",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La huelga general por la vivienda se celebrará el 11 de noviembre",
       "link": "https://elpais.com/economia/2026-10-07/la-huelga-general-por-la-vivienda-se-celebrara-el-11-de-noviembre.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/QLWUMWUDYVBIJIIFYF2HL3OJCM.jpg?auth=fff39ffdbac43c32fc48d1647c72cfde90e45a7a53e7d1e8cac12a09cb2f82da",
@@ -9,7 +15,19 @@
     {
       "titulo": "El nuevo decreto de vivienda obliga a las administraciones a asumir la deuda de inquilinos vulnerables para frenar desahucios",
       "link": "https://elpais.com/economia/vivienda/2026-10-07/el-nuevo-decreto-de-vivienda-obliga-a-las-administraciones-a-asumir-la-deuda-de-inquilinos-vulnerables-para-frenar-desahucios.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/KZFWUR66YFOUNHRJTFUTEDPTAM.jpg?auth=7c47590e7206ef688eefc7b9beecdc81f3f6082d6cc49236c6c2930bf70609a0",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/45LTQTBJRNAVLPA5F3AC47AGAY.jpg?auth=d97df7d9e47e32647d231d811f2be4de2ad6354fb3fb9fe9d071ab6c3cb1ddd8",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las Bolsas se tiñen de rojo y el Ibex cae un 1,8% con el petróleo y la deuda al alza",
+      "link": "https://cincodias.elpais.com/mercados-financieros/2026-10-07/la-bolsa-y-el-ibex-35.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/P4I2H4BCWRKRBBLXCIQZKQG6YY.jpg?auth=f52febc812acca27e7c259cda213e0d8a4ea2ad24d81f99f55f86c5ee39181be",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "BBVA Research alerta de que la crisis energética por la guerra en Oriente Próximo enquistará la inflación hasta 2027",
+      "link": "https://elpais.com/economia/2026-10-07/bbva-research-alerta-de-que-el-shock-energetico-por-la-guerra-en-oriente-proximo-enquistara-la-inflacion-hasta-2027.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/LHIN5DYKSRK4FO3ZLGKUG6FPOQ.jpg?auth=0d1cf74e129a2f4893396be989ec0731052489903342ca73e2e97b944681a494",
       "tipo": "imagen"
     },
     {
@@ -17,24 +35,6 @@
       "link": "https://elpais.com/economia/vivienda/2026-10-07/personas-empresas-o-grandes-tenedores-de-quienes-son-las-viviendas-en-espana.html",
       "imagen": "",
       "tipo": ""
-    },
-    {
-      "titulo": "La patronal inmobiliaria carga contra la “vorágine legislativa” del Gobierno",
-      "link": "https://elpais.com/economia/vivienda/2026-10-07/la-patronal-inmobiliaria-carga-contra-la-voragine-legislativa-del-gobierno.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/R3NHN3675BNWTG25T3XVBCLKTA.jpg?auth=c62537dab27849a553c5482d1bfdd01e734ad5237248ec9f1b543b69747b6ff9",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las Bolsas europeas se tiñen de rojo y el Ibex cae un 2% con el petróleo y la deuda al alza",
-      "link": "https://cincodias.elpais.com/mercados-financieros/2026-10-07/la-bolsa-y-el-ibex-35.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/P4I2H4BCWRKRBBLXCIQZKQG6YY.jpg?auth=f52febc812acca27e7c259cda213e0d8a4ea2ad24d81f99f55f86c5ee39181be",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Blackstone aplaza el estreno en Bolsa de su inmobiliaria hotelera HIP por la inestabilidad del mercado",
-      "link": "https://cincodias.elpais.com/companias/2026-10-07/blackstone-aplaza-el-estreno-en-bolsa-de-su-inmobiliaria-hotelera-hip-por-la-inestabilidad-del-mercado.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/JKDBTERTUVBYFJUFDZGITTDV64.jpg?auth=eb7c76ea7c7299712c5c056f171d806309d620ab43d6e1ebc2683db8f682b7d7",
-      "tipo": "imagen"
     }
   ]
 }

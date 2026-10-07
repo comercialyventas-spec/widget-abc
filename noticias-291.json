@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "El reloj atómico ha muerto: ¡larga vida al reloj nuclear!",
+      "link": "https://www.abc.es/ciencia/reloj-atomico-muerto-larga-vida-reloj-nuclear-20261007170000-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/10/07/Atomkernuhr%20dunkles%20Labor%20c_Matthias%20Heisler%20TU%20Wien-R6iZK5PmAWYkweM9Sofb7AN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Nobel de Química para Henri Kagan y Kenso Soai por imitar la asimetría de la vida",
       "link": "https://www.abc.es/ciencia/premio-nobel-quimica-2026-henri-kagan-kenso-20261007114855-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/10/07/nobel-quimica-26-kk0E-U302104552444GjD-1200x840@diario_abc.jpg",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/10/07/kagan-soai--758x531.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Planeta Fénix: el mundo que resucitó de las cenizas de su estrella muerta",
       "link": "https://www.abc.es/ciencia/planeta-fenix-mundo-resucito-cenizas-estrella-muerta-20261004174220-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/10/04/Second%20Generation%20Planet%20Artwork.%20Credit.%20Dr%20Snehalata%20Sahu_University%20of%20Warwick-Rnza2wV9BNFQQqdPNpNxFKJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un nuevo método de buscar vida extraterrestre",
-      "link": "https://www.abc.es/ciencia/nuevo-metodo-buscar-vida-extraterrestre-20261005110905-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/10/05/Fig.%201_Taniguchi-RJxJe1tCQPzBA4ivtrPfeDL-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
