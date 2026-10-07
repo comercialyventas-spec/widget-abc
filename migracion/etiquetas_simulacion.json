@@ -1,0 +1,8 @@
+{
+ "tipo": "etiquetas",
+ "descripcion": "PERIÓDICOS ALIAZON: añadir etiquetas generales según la tabla aprobada. Todos los posts publicados y programados que lo necesiten.",
+ "blogId": "7463231340560247006",
+ "tabla": "migracion/etiquetas_equivalencias.json",
+ "pausa_ms": 4000,
+ "posts": "todos"
+}

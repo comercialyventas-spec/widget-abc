@@ -8,6 +8,13 @@
 //   modo = restaurar -> vuelve a poner en cada post el HTML guardado en migracion/backups/.
 //
 // Título, etiquetas, fecha y dirección del post NO se tocan (solo "content").
+//
+// MODOS DE ETIQUETAS (lista con "tipo": "etiquetas", ver etiquetasMain más abajo):
+//   simular_etiquetas   -> solo lee y dice qué etiquetas generales añadiría a cada post.
+//   anadir_etiquetas    -> guarda copia de las etiquetas en migracion/backups/etiquetas/<postId>.json
+//                          y AÑADE las generales que faltan (posts.patch solo con "labels").
+//                          No quita ni cambia ninguna etiqueta, ni el contenido, título, fecha o estado.
+//   restaurar_etiquetas -> deja las etiquetas de cada post como estaban en su copia.
 
 const fs = require('fs');
 const path = require('path');
@@ -74,8 +81,139 @@ async function widgetDeFila(token, fila) {
   return String((j.values && j.values[0] && j.values[0][0]) || '');
 }
 
+// ======================= ETIQUETAS =======================
+const DIR_BACKUP_ETQ = path.join(DIR_BACKUP, 'etiquetas');
+const LIMITE_ETIQUETAS = 200;               // Blogger: 200 caracteres en total para las etiquetas de un post
+const largoEtiquetas = (ls) => ls.join(', ').length;
+class CorteBlogger extends Error {}
+
+// Etiquetas generales que faltan en un post según la tabla aprobada (solo añade, nunca quita)
+function etiquetasQueFaltan(labels, tabla, reglas) {
+  const tiene = new Set(labels);
+  const anadir = [];
+  for (const l of labels) for (const g of (tabla[l] || [])) if (!tiene.has(g) && !anadir.includes(g)) anadir.push(g);
+  for (const r of reglas || []) {   // p. ej. {si: "FEMINISMO", anadir: "IGUALDAD"}
+    if ((tiene.has(r.si) || anadir.includes(r.si)) && !tiene.has(r.anadir) && !anadir.includes(r.anadir)) anadir.push(r.anadir);
+  }
+  return anadir;
+}
+
+// Llamada a Blogger que, si corta (429/5xx) tras los reintentos, para todo para seguir en el siguiente lanzamiento
+async function bloggerEtq(token, metodo, url, cuerpo) {
+  try { return await blogger(token, metodo, url, cuerpo); }
+  catch (e) { if (/ (429|5\d\d):/.test(e.message)) throw new CorteBlogger(e.message); throw e; }
+}
+
+async function etiquetasMain(lista, modo, token) {
+  const blogId = lista.blogId;
+  const conf = JSON.parse(fs.readFileSync(path.join(__dirname, '..', lista.tabla), 'utf8'));
+  const tabla = conf.equivalencias, reglas = conf.reglas || [];
+  const pausa = lista.pausa_ms || 4000;
+  fs.mkdirSync(DIR_BACKUP_ETQ, { recursive: true });
+
+  // Posts a revisar: una lista de postId, o "todos" (publicados y programados; nunca borradores)
+  let ids;
+  if (lista.posts === 'todos') {
+    ids = [];
+    for (const status of ['live', 'scheduled']) {
+      let pt = '';
+      do {
+        const j = await bloggerEtq(token, 'GET', `${API}/blogs/${blogId}/posts?maxResults=500&status=${status}&view=ADMIN&fetchBodies=false&fields=nextPageToken,items(id,labels)` + (pt ? '&pageToken=' + pt : ''));
+        for (const p of j.items || []) {
+          const labels = p.labels || [];
+          if (modo === 'restaurar_etiquetas' ? fs.existsSync(path.join(DIR_BACKUP_ETQ, p.id + '.json')) : etiquetasQueFaltan(labels, tabla, reglas).length) ids.push(p.id);
+        }
+        pt = j.nextPageToken || '';
+      } while (pt);
+    }
+  } else ids = lista.posts.map(String);
+
+  console.log(`MODO: ${modo.toUpperCase()}  —  ${ids.length} posts candidatos (blog ${blogId})\n`);
+  const cuenta = { cambiados: 0, yaEstaban: 0, saltados: 0, errores: 0, restaurados: 0 };
+  const porGeneral = {};
+  const detalle = [];
+  let cortado = false;
+
+  for (const id of ids) {
+    try {
+      const post = await bloggerEtq(token, 'GET', `${API}/blogs/${blogId}/posts/${id}?view=ADMIN&fetchBody=false&fields=id,title,url,status,published,labels`);
+      const labels = post.labels || [];
+      const archivo = path.join(DIR_BACKUP_ETQ, `${id}.json`);
+
+      if (modo === 'restaurar_etiquetas') {
+        if (!fs.existsSync(archivo)) { cuenta.saltados++; detalle.push({ id, resultado: 'SIN COPIA' }); continue; }
+        const copia = JSON.parse(fs.readFileSync(archivo, 'utf8'));
+        if (JSON.stringify(copia.labels) === JSON.stringify(labels)) { cuenta.yaEstaban++; detalle.push({ id, resultado: 'YA ESTABA' }); continue; }
+        await bloggerEtq(token, 'PATCH', `${API}/blogs/${blogId}/posts/${id}?fetchBody=false&fetchImages=false`, { labels: copia.labels });
+        cuenta.restaurados++; detalle.push({ id, resultado: 'RESTAURADO', etiquetas: copia.labels });
+        await esperar(pausa);
+        continue;
+      }
+
+      if (post.status === 'DRAFT') { cuenta.saltados++; detalle.push({ id, resultado: 'SALTADO (borrador)' }); continue; }
+      const anadir = etiquetasQueFaltan(labels, tabla, reglas);
+      if (!anadir.length) { cuenta.yaEstaban++; detalle.push({ id, resultado: 'YA ESTABA' }); continue; }
+      const nuevas = labels.concat(anadir);
+      if (largoEtiquetas(nuevas) > LIMITE_ETIQUETAS) {
+        cuenta.saltados++; detalle.push({ id, titulo: post.title, resultado: `SALTADO (pasaría de ${LIMITE_ETIQUETAS} caracteres: ${largoEtiquetas(nuevas)})`, anadiria: anadir });
+        continue;
+      }
+      anadir.forEach((g) => { porGeneral[g] = (porGeneral[g] || 0) + 1; });
+
+      if (modo === 'simular_etiquetas') {
+        cuenta.cambiados++; detalle.push({ id, titulo: post.title, estado: post.status, url: post.url, anade: anadir });
+        continue;
+      }
+
+      // anadir_etiquetas: primero la copia (la primera, la original, no se pisa), luego el cambio
+      if (!fs.existsSync(archivo)) {
+        fs.writeFileSync(archivo, JSON.stringify({ id, blogId, url: post.url, titulo: post.title, status: post.status,
+          published: post.published, labels, fecha_copia: new Date().toISOString() }, null, 1));
+      }
+      const r = await bloggerEtq(token, 'PATCH', `${API}/blogs/${blogId}/posts/${id}?fetchBody=false&fetchImages=false`, { labels: nuevas });
+      // Comprobación: no se ha perdido ninguna etiqueta y no han cambiado ni la fecha ni el estado
+      const rl = r.labels || [];
+      const problemas = [];
+      if (!labels.every((l) => rl.includes(l))) problemas.push('falta alguna etiqueta original');
+      if (!anadir.every((l) => rl.includes(l))) problemas.push('no se ha añadido alguna general');
+      if (r.published !== post.published) problemas.push(`fecha cambiada (${post.published} → ${r.published})`);
+      if (r.status !== post.status) problemas.push(`estado cambiado (${post.status} → ${r.status})`);
+      if (problemas.length) { cuenta.errores++; detalle.push({ id, url: post.url, resultado: 'ERROR comprobación: ' + problemas.join('; '), anade: anadir }); }
+      else { cuenta.cambiados++; detalle.push({ id, titulo: post.title, estado: post.status, url: post.url, resultado: 'CAMBIADO', anade: anadir }); }
+      await esperar(pausa);
+    } catch (e) {
+      if (e instanceof CorteBlogger) {
+        cortado = true;
+        detalle.push({ id, resultado: 'PARADO: Blogger cortó (' + e.message.slice(0, 80) + '). Al relanzar sigue desde aquí.' });
+        break;
+      }
+      cuenta.errores++; detalle.push({ id, resultado: 'ERROR ' + e.message.slice(0, 200) });
+    }
+  }
+
+  // Detalle completo junto a las copias (el workflow lo guarda en el repositorio)
+  const nombreLista = path.basename(lista._archivo || 'lista', '.json');
+  fs.writeFileSync(path.join(DIR_BACKUP_ETQ, `_resultado_${nombreLista}_${modo}.json`),
+    JSON.stringify({ fecha: new Date().toISOString(), modo, lista: lista._archivo, cuenta, porGeneral, cortado, detalle }, null, 1));
+
+  const verbo = modo === 'simular_etiquetas' ? 'SE CAMBIARÍAN' : modo === 'restaurar_etiquetas' ? 'RESTAURADOS' : 'CAMBIADOS';
+  console.log('\n===== RESUMEN =====');
+  console.log(`MODO ${modo}: ${verbo} ${modo === 'restaurar_etiquetas' ? cuenta.restaurados : cuenta.cambiados} | YA ESTABAN ${cuenta.yaEstaban} | SALTADOS ${cuenta.saltados} | ERRORES ${cuenta.errores}${cortado ? ' | PARADO por Blogger (relanzar para seguir)' : ''}`);
+  if (Object.keys(porGeneral).length) console.log('MODO etiquetas añadidas por general: ' + Object.entries(porGeneral).sort((a, b) => b[1] - a[1]).map(([g, n]) => `${g} +${n}`).join(', '));
+  detalle.filter((d) => /^(ERROR|SALTADO|PARADO)/.test(d.resultado || '')).forEach((d) => console.log(`${d.resultado.startsWith('SALTADO') ? 'SALTADO' : d.resultado.startsWith('PARADO') ? 'ERROR PARADO' : 'ERROR'} [${d.id}] ${d.resultado}`));
+  detalle.filter((d) => d.anade).forEach((d) => console.log(`  ${d.resultado || 'SIMULADO'} [${d.id}] ${d.estado || ''} + ${d.anade.join(', ')}  ${d.titulo || ''}`));
+  if (cuenta.errores || cortado) process.exitCode = 1;
+}
+
 async function main() {
   const [listaArchivo, modo] = process.argv.slice(2);
+  const MODOS_ETQ = ['simular_etiquetas', 'anadir_etiquetas', 'restaurar_etiquetas'];
+  if (MODOS_ETQ.includes(modo)) {
+    const lista = JSON.parse(fs.readFileSync(listaArchivo, 'utf8'));
+    if (lista.tipo !== 'etiquetas') throw new Error('Los modos de etiquetas necesitan una lista con "tipo": "etiquetas"');
+    lista._archivo = listaArchivo;
+    return etiquetasMain(lista, modo, await tokenAcceso());
+  }
   if (!['simular', 'aplicar', 'restaurar'].includes(modo)) throw new Error('Modo no válido: ' + modo);
   const lista = JSON.parse(fs.readFileSync(listaArchivo, 'utf8'));
   const blogPorDefecto = lista.blogId;
