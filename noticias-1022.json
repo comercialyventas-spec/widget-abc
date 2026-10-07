@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
+      "titulo": "La explosión en una vivienda en Valdemoro obliga a realojar a cinco familias",
+      "link": "https://www.abc.es/espana/madrid/explosion-provoca-incendio-vivienda-valdemoro-deja-varios-20261007094856-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/07/WhatsApp%20Image%202026-10-07%20at%2012.13.53-RfYqEl78DrYFbyrMbLonLFK-1200x840@diario_abc.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Juan del Val: «Pedro Sánchez mantenía que la amnistía era inconstitucional. Lo cambió por siete votos para ser presidente»",
+      "link": "https://www.abc.es/play/television/noticias/juan-val-sobre-amnistia-puigdemont-pedro-sanchez-20261007111009-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/07/puigdemont-pedro-sanchez-juandelval-kmuE-U302103303891oj-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Gobierno publica en el BOE el segundo decreto con los contratos indefinidos y fija el 15 de noviembre como fecha de entrada",
       "link": "https://www.abc.es/economia/gobierno-publica-boe-segundo-decreto-contratos-indefinidos-20261007075700-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/07/1518184479-RlBj6VI2XfsuFMfnrkaIpDN-1200x840@diario_abc.JPG"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/07/1518184479-RlBj6VI2XfsuFMfnrkaIpDN-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
     },
     {
-      "titulo": "La Reina Letizia recicla un vestido de Varela y luce joyas históricas en la cena de gala de Finlandia",
-      "link": "https://www.abc.es/estilo/moda/reina-letizia-recicla-vestido-varela-luce-joyas-20261006185437-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/estilo/2026/10/06/reina-letizia-vestido-RwmiFULIRS3IQIV5ow6qlXP-1200x840@diario_abc.JPG"
+      "titulo": "Ferreras, contundente sobre el resultado de Pedro Sánchez en las elecciones: «Se ha comido a su izquierda, a Sumar y a Podemos»",
+      "link": "https://www.abc.es/play/television/noticias/ferreras-contundente-sobre-resultado-pedro-sanchez-elecciones-20261007111301-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/07/ferreras-kp8H-U302104407306TvB-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "Hecher Sosa peleará contra Abdul Hussein el 28 de noviembre en el UFC Arabia Saudí",
-      "link": "https://www.abc.es/deportes/mma/hecher-sosa-peleara-abdul-hussein-noviembre-ufc-20261008093743-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/08/hecher-sosa-hussein-RGCAQD239IQDGConnbnv4YK-1200x840@diario_abc.jpg"
+      "titulo": "UGT y CC.OO, convocarán huelga general por la vivienda el 11 de noviembre",
+      "link": "https://www.abc.es/economia/sindicato-inquilinas-propone-noviembre-convocar-huelga-general-20261007121403-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/07/1518406851-kDzG-U302107034433QeG-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "Jon Kortajarena: «Crecí en una peluquería y mi pelo forma parte de mi éxito»",
-      "link": "https://www.abc.es/summum/estilo/belleza/jon-kortajarena-presenta-proyecto-personal-creci-peluqueria-20261006164327-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/summum/2026/10/06/jonKortajarena-RZ9UxnCoxPmtwtSvlu3Wd6O-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "El número tres de Vivienda se gastó otros 100.000 euros en viajes desde el año 2024",
-      "link": "https://www.abc.es/espana/numero-tres-vivienda-gasto-100000-euros-viajes-20261007214114-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/07/ilustracion_1200x840-R7HYRc6XwHeraFnBij6IDZP-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Carnicero se encontraba en Argentina mientras se disolvían las Cortes",
-      "link": "https://www.abc.es/espana/carnicero-encontraba-argentina-disolvian-cortes-rechazo-decretos-20261007012251-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/07/WhatsApp%20Image%202026-10-06%20at%2018.42.09-RzR3iyUqOALewFWE6CXf9MJ-1200x840@diario_abc.jpg"
+      "titulo": "El ego de Cristiano, fuera de control: se pone al nivel de Pelé y Maradona",
+      "link": "https://www.abc.es/deportes/futbol/ego-cristiano-control-pone-nivel-pele-maradona-20261007093907-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/07/cristiano-R9qWf5qzOeJICsMKmBF16ZJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }

@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "El kéfir está de moda. Pero ¿sabemos qué estamos comprando?",
-      "link": "https://www.elperiodico.com/es/salud/20261007/kefir-moda-comprando-135082633",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/4497ad4c-6331-49a0-9545-f9d637b2042f_media-libre-aspect-ratio_default_0.jpg",
+      "titulo": "Metges de Catalunya mantiene la huelga indefinida a partir del 28 de octubre y se desmarca de la desconvocatoria en el resto de España",
+      "link": "https://www.elperiodico.com/es/sanidad/20261007/metges-catalunya-mantiene-huelga-indefinida-cataluna-medicos-135090523",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b71d3f8e-0f1e-4a52-95be-34fb2617b725_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Una tecnología basada en grafeno monitoriza el cerebro para entender qué sucede tras un ictus y mejorar el tratamiento",
+      "link": "https://www.elperiodico.com/es/sanidad/20261007/tecnologia-basada-grafeno-monitoriza-cerebro-entender-sucede-ictus-mejorar-tratamiento-135088125",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8e9254e7-7ffb-4d9c-a3d3-9001d0a524e1_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los médicos aplazan la huelga indefinida prevista para finales de octubre tras la convocatoria electoral",
+      "link": "https://www.elperiodico.com/es/sanidad/20261007/medicos-aplazan-huelga-indefinida-prevista-octubre-adelanto-electoral-135026323",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ac1e7e40-f04d-4841-aff4-a01a082ba5be_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Un 30% de los sanitarios europeos tiene síntomas depresivos y el 13% admite pensamientos suicidas",
       "link": "https://www.elperiodico.com/es/sanidad/20261006/sanitarios-europeos-sintomas-depresivos-pensamientos-suicidas-135059284",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0bd0adf3-27b4-42b3-8217-e9a4bab6ea6d_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los seguros de salud crecen un 81% desde 2014: \"Cada vez más gente paga de su bolsillo una atención que no encuentra a tiempo en la pública\"",
-      "link": "https://www.elperiodico.com/es/sanidad/20261006/seguros-salud-crecen-gente-paga-bolsillo-atencion-sanidad-publica-135048242",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f8e4b40a-94a5-496f-8d99-8a0eec1c3f54_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El viaje del plasma: de una donación a un tratamiento esencial",
-      "link": "https://www.elperiodico.com/ideas/El-viaje-del-plasma/index.html",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ba3d41c3-4dcc-484f-b8b9-ddc923e308ab_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Jon Kortajarena presenta su proyecto más personal: «Crecí en una peluquería y mi pelo forma parte de mi éxito»",
+      "titulo": "Jon Kortajarena: «Crecí en una peluquería y mi pelo forma parte de mi éxito»",
       "link": "https://www.abc.es/summum/estilo/belleza/jon-kortajarena-presenta-proyecto-personal-creci-peluqueria-20261006164327-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/summum/2026/10/06/jonKortajarena-RZ9UxnCoxPmtwtSvlu3Wd6O-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Así es el avión privado en el que viajan Brad Pitt y su novia Inés de Ramón: 9.000 euros la hora",
+      "link": "https://www.abc.es/summum/motor/avion-privado-viajan-brad-pitt-novia-ines-20261007090807-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/summum/2026/10/07/brad-1-RG4avTIasCENEoCqUxcQVNN-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "El espectacular Mercedes cubierto con polvo de diamante cuyo valor es de 3 millones",
       "link": "https://www.abc.es/summum/motor/espectacular-mercedes-cubierto-polvo-diamante-carles-design-20261004010416-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/summum/2026/10/02/satallion-1-RPmtGcnBO624ug5MWiEaUrM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Así es Argyronisos, la paradisiaca isla griega privada que está a la venta",
-      "link": "https://www.abc.es/summum/living/casas/argyronisos-paradisiaca-isla-griega-privada-venta-20261002162700-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/summum/2026/10/02/isla1-RJvuUPd5i3aV2kSGKHEepbJ-1200x840@diario_abc.jpeg",
       "tipo": "imagen"
     }
   ]

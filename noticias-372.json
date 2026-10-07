@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Condenan a RTVE a pagar 500.000 euros por la muerte de un trabajador expuesto al amianto",
+      "link": "https://www.elconfidencial.com/empresas/2026-10-07/condenan-a-rtve-a-pagar-500-000-euros-por-la-muerte_4440105/",
+      "imagen": "https://images.ecestaticos.com/T1mvDujmWusk7yEujn-Oa1sQpMQ=/0x0:1600x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe7f%2F9e3%2Fe66%2Fe7f9e3e66edee93797ab1c064619980d.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Mutua Madrileña compra un 10% de Alter5, una plataforma de IA aplicada a los mercados",
+      "link": "https://www.elconfidencial.com/empresas/2026-10-07/mutua-madrilena-invierte-alter5-ia-mercados-capitales-1hms_4440093/",
+      "imagen": "https://images.ecestaticos.com/bvKwL-od0hSn4udAoyt3ELhhsQE=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2f9%2F962%2F4ec%2F2f99624ec3f1a5e4207f8b4efe8a1b3b.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Pódcast | Autopistas de energía para evitar el atasco eléctrico",
       "link": "https://www.elconfidencial.com/empresas/2026-10-07/podcast-sociedad-positiva-lineas-transmision-acciona-bra_4430970/",
       "imagen": "https://images.ecestaticos.com/22HLd_Sx3_ofKlqzpb_V_H2J9Uw=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F199%2F815%2F85b%2F19981585ba76d35a5ebb213342b652b8.jpg",
@@ -22,18 +34,6 @@
       "titulo": "GBSB Global refuerza su posición en el sector de la educación empresarial en España con su presencia en destacados rankings de 2026",
       "link": "https://www.elconfidencial.com/empresas/2026-10-06/gbsb-global-business-school-rankings-1hms-1svm_4439516/",
       "imagen": "https://images.ecestaticos.com/cXFHKSHUiSwk2Jpsa5g1ZQZ9kfE=/0x0:1200x799/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff3b%2F163%2F874%2Ff3b163874af47434b0e723531e79fa36.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Paramount culmina la compra de Warner Bros por 110.000 millones de dólares",
-      "link": "https://www.elconfidencial.com/empresas/2026-10-06/paramount-culmina-la-compra-de-warner-bros_4439529/",
-      "imagen": "https://images.ecestaticos.com/NzM4txDMSvwexESt6p2GAnn53ig=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F8ae%2Fe26%2Ff5e%2F8aee26f5eaf85cc5dfef7635a87ca3b2.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ferrovial gana a Hacienda en la AN y recuperará 37 millones por la compra de Amey y Swissport",
-      "link": "https://www.elconfidencial.com/empresas/2026-10-06/ferrovial-gana-a-hacienda-en-la-an-y-recuperara-37-millones_4439330/",
-      "imagen": "https://images.ecestaticos.com/gupWUoUh-9-h3DEcA-a41VtnHOw=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F445%2F50c%2Fa10%2F44550ca1054ab17923c69cafce96bbab.jpg",
       "tipo": "imagen"
     }
   ]

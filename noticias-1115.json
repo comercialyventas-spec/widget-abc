@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Nubosidad y chubascos en Zaragoza: AEMET prevé cambios atmosféricos hoy",
+      "link": "https://okdiario.com/aragon/nubosidad-y-chubascos-en-zaragoza-aemet-preve-cambios-atmosfericos-hoy-20501294",
+      "imagen": "https://okdiario.com/img/2026/10/07/lluvia-en-zaragoza.-europa-press.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "AEMET: Tormentas y granizo se aproximan a Zaragoza, con nubes y viento cambiante hoy",
       "link": "https://okdiario.com/aragon/aemet-tormentas-y-granizo-se-aproximan-a-zaragoza-con-nubes-y-viento-cambiante-hoy-20492336",
       "imagen": "https://okdiario.com/img/2026/01/12/lluvias-zaragoza-interior-2.jpg",
@@ -28,12 +34,6 @@
       "titulo": "AEMET prevé cielo nublado y chubascos en Zaragoza, con viento moderado en el valle del Ebro",
       "link": "https://okdiario.com/aragon/aemet-preve-cielo-nublado-y-chubascos-en-zaragoza-con-viento-moderado-en-el-valle-del-ebro-20476955",
       "imagen": "https://okdiario.com/img/2026/01/12/lluvias-zaragoza-interior-2.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Zaragoza: AEMET prevé cielos nublados y lluvias fuertes con cambio de temperaturas hoy",
-      "link": "https://okdiario.com/aragon/zaragoza-aemet-preve-cielos-nublados-y-lluvias-fuertes-con-cambio-de-temperaturas-hoy-20460205",
-      "imagen": "https://okdiario.com/img/2026/01/12/nevadas-zaragoza-interior.jpg",
       "tipo": "imagen"
     }
   ]
