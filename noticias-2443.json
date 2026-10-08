@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Más controles para los aparcamientos de residentes en Madrid con lectura de matrículas",
+      "link": "https://www.diariocritico.com/madrid/mas-controles-para-los-aparcamientos-de-residentes",
+      "imagen": "https://www.diariocritico.com/fotos/1/aparcamientos-de-residentes.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Almeida entrega las nuevas viviendas de alquiler asequible en Madrid",
       "link": "https://www.diariocritico.com/madrid/almeida-nuevas-viviendas-regimen-alquiler-asequible",
       "imagen": "https://www.diariocritico.com/fotos/1/madrid-almeida-vivienda.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Un accidente pirotécnico en las fiestas de Fuenlabrada deja varios heridos en el hospital",
       "link": "https://www.diariocritico.com/sucesos/accidente-pirotecnia-fuenlabrada-heridos-hospital",
       "imagen": "https://www.diariocritico.com/fotos/1/385273_sede-del-ayuntamiento-de-fuenlabrada.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Metro de Madrid: avería en la línea 9 que durará varias horas",
-      "link": "https://www.diariocritico.com/madrid/metro-averia-en-la-linea-9-que-durara-varias-horas",
-      "imagen": "https://www.diariocritico.com/fotos/1/385258_metro-madrid.jpg",
       "tipo": "imagen"
     }
   ]

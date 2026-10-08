@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Muere Margaret Hamilton, la mujer que enseñó al ordenador del Apolo a no perder los nervios sobre la Luna",
+      "link": "https://elpais.com/ciencia/2026-10-08/muere-margaret-hamilton-la-pionera-de-la-informatica-que-hizo-posible-la-llegada-a-la-luna.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KK4VFO7X2BFBZBDD35J3V24BQI.jpg?auth=af5f46360fe035550dedff0e9ae5e8df80235c4d5e782454869cf979df4e540c",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Alquila a un humano: el futuro en el que las IA contratan personas para hacer trabajos físicos ya está aquí",
+      "link": "https://elpais.com/tecnologia/2026-10-08/alquila-a-un-humano-el-futuro-en-el-que-las-ia-contratan-personas-para-hacer-trabajos-fisicos-ya-esta-aqui.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VPZYOHKNX5HL7PGBS6OBTTMBYY.jpeg?auth=68c7dda41efb2d39c331f2e9bea5b701f40addc01e0eff111ac5c033b42f2bd7",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "De Sheinbaum a Meloni: las líderes mundiales impulsan medidas para protegerse de los ‘deepfakes’ con IA",
       "link": "https://elpais.com/tecnologia/2026-10-07/de-sheinbaum-a-meloni-las-lideres-mundiales-impulsan-medidas-para-protegerse-de-los-deepfakes-con-ia.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/KOP6O74SK5C6JBHVRXWWDZJORE.jpg?auth=7cf0c39c711ac098b94c0e524f88fc64fba985bc2d7e7c243d6b2f833b265cc5",
@@ -22,18 +34,6 @@
       "titulo": "Irse de vacaciones y no subirlo a las redes: “El viaje vuelve a valer por sí mismo”",
       "link": "https://elpais.com/tecnologia/2026-10-03/irse-de-vacaciones-y-no-subirlo-a-las-redes-el-viaje-vuelve-a-valer-por-si-mismo.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/HNA7GNQPARAMJHZWAW2Y3PH5YY.JPG?auth=04debf827df282a602496f1a92c261450821e3b65bdac1a6b8a588fba0aabe31",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los grandes líderes de la IA, como niños temerosos ante un matón",
-      "link": "https://elpais.com/tecnologia/2026-10-02/los-grandes-lideres-de-la-ia-como-ninos-temerosos-ante-un-maton.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/XFZAD6Q3IFFOXFDRDOBFFTYYHA.jpg?auth=67848226824466ca6ea7320cada8e99deaddef6090144e23bc0b508ec328855c",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cómo usar tu móvil como una cámara profesional sin gastar más",
-      "link": "https://elpais.com/tecnologia/tu-tecnologia/2026-10-02/como-usar-tu-movil-como-una-camara-profesional-sin-gastar-mas.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/34JUU66KHREHNOF4K7DXKDIEMA.jpg?auth=05d6584d76a30c542c63cc1aca30f275da8a5f8d65212f80c8cbea0bf4c665aa",
       "tipo": "imagen"
     }
   ]

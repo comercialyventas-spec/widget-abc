@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Regreso al XVIII",
+      "link": "https://www.lavanguardia.com/opinion/20261008/11654102/regreso-xviii.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/08/6ac74fe0e6625.r_d.1554-1279-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La primera llamada (que no fue tal)",
+      "link": "https://www.lavanguardia.com/opinion/20261008/6264618/telefono-inventos-primera-llamada-bell-watson-meucci.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2021/03/06/6042cbc196cad.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Sheinbaum se queda sola",
+      "link": "https://www.lavanguardia.com/opinion/20261008/11653734/sheinbaum-queda-sola.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/07/6ac62cf6dbfd2.r_d.2100-1358-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las pijas del Sindicat",
       "link": "https://www.lavanguardia.com/opinion/20261008/11653627/pijas-sindicat.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/02/07/67a5cbbf584dd.jpeg",
@@ -16,24 +34,6 @@
       "titulo": "Así ha maniobrado Colau para liderar Frente Amplio",
       "link": "https://www.lavanguardia.com/opinion/20261008/11653417/asi-maniobra-colau-liderar-frente-amplio.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/07/6ac616d7dffba.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "No vale todo en campaña",
-      "link": "https://www.lavanguardia.com/opinion/20261008/11653333/vale-campana.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/07/06/686a8f91617b2.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Santo, poeta e imposible",
-      "link": "https://www.lavanguardia.com/opinion/20261008/11653326/santo-poeta-e-imposible.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/07/6ac62a3b23847.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El cuádriceps entra en campaña",
-      "link": "https://www.lavanguardia.com/opinion/20261008/11653321/cuadriceps-entra-campana.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/05/6ac3899ac5f40.jpeg",
       "tipo": "imagen"
     }
   ]

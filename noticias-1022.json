@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Yolanda Díaz dirige la subida del SMI: pide a los expertos que valoren el IPC y los márgenes de las empresas",
+      "titulo": "Yolanda Díaz acorta al mínimo el plazo a sus expertos para subir el SMI antes de las elecciones",
       "link": "https://www.abc.es/economia/yolanda-diaz-dirige-subida-smi-pide-expertos-20261008143350-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/08/PRJ_1050-kxSC-U302130185976dAI-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/08/PRJ_1050-kxSC-U302130185976dAI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "La canadiense Anne Carson, premio Nobel de Literatura",
-      "link": "https://www.abc.es/cultura/sigue-directo-anuncio-premio-nobel-literatura-2026-20261008113210-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/08/1425523010-U20609936686NeE-RDxISKaNRGfjl5i7myNBqwM-1200x840@diario_abc.jpg"
+      "titulo": "Juan Carlos Ferrero: «Alcaraz me ha enseñado que se puede ser un poquito más flexible»",
+      "link": "https://www.abc.es/deportes/tenis/juan-carlos-ferrero-alcaraz-enseno-puede-poquito-20261007011548-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/07/ferrerito-RCwD6r1Ug8edYphWJYXcMpJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "Un ataque ruso a dos autobuses en Ucrania deja al menos 30 muertos",
-      "link": "https://www.abc.es/internacional/ataque-ruso-dos-autobuses-ucrania-deja-muertos-20261008121801-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/08/1518455846-RhC5kEFyBhij0GOhxcT4xkL-1200x840@diario_abc.jpg"
+      "titulo": "El cuadro más bello del mundo llega a Madrid",
+      "link": "https://www.abc.es/cultura/cuadro-bello-mundo-llega-madrid-20261008125134-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/08/delft_20261008155252-R0urW9GVQZH58T9y0bZmiVJ-1200x980@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "Tres hermanas se suicidan en Reino Unido tras visitar el lago donde su madre también lo hizo años antes",
-      "link": "https://www.abc.es/internacional/tres-hermanas-suicidan-reino-unido-tras-visitar-20261008131909-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/08/sussex-U20609936686K4D-RnI6JBzfT7cW1nodk1AmHjP-1200x840@diario_abc.jpg"
+      "titulo": "El Nobel de Literatura premia a Anne Carson, la poeta del riesgo insobornable",
+      "link": "https://www.abc.es/cultura/nobel-literatura-premia-anne-carson-poeta-riesgo-20261008161816-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/08/1410416222-RHQxGhcHj6iGIdP3IuujqiM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "Anticorrupción aprecia indicios contra el PSOE pero cree que es pronto para pedir su imputación",
-      "link": "https://www.abc.es/espana/anticorrupcion-informa-juez-existen-indicios-psoe-leire-20261008110744-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/08/1518332878-R0NzpWQewmAyNu1BzljWViO-1200x840@diario_abc.jpg"
+      "titulo": "Tartu: la capital cultural de Estonia en siete paradas imprescindibles",
+      "link": "https://www.abc.es/viajar/destinos/europa/tartu-capital-cultural-estonia-siete-paradas-imprescindibles-20261008161739-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/viajar/2026/10/08/IMG_1971-RhdGouS6jD6VVsRZVuXQsMI-1200x840@diario_abc.jpeg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "El Tribunal Supremo tumba el decreto de universidades del Gobierno contra la privada",
-      "link": "https://www.abc.es/sociedad/tribunal-supremo-tumba-decreto-universidades-gobierno-privada-20261008124409-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/10/08/1498437680-RnTRkCPBudcZZqXpF38qlUM-1200x840@diario_abc.jpg"
+      "titulo": "La Policía admite que las órdenes para registrar las casas del expríncipe Andrés fueron ilegales",
+      "link": "https://www.abc.es/internacional/policia-admite-ordenes-registrar-casas-exprincipe-andres-20261008154523-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/08/1507323630-kEwH-U302134990781YUC-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }

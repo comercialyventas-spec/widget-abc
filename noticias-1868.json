@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "OpenAI vuelve a sacudir las matemáticas: enfrenta su IA a 4.000 problemas y publica cientos de nuevos resultados",
-      "link": "https://www.20minutos.es/tecnologia/inteligencia-artificial/openai-ia-resuelve-problemas-matematicos-publica-resultados_7045821_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/07/6ac5f5bda751b6-29682067.jpeg",
+      "titulo": "ASOS confirma un ciberataque: hackers acceden a datos de clientes y usan su propia app para lanzar una amenaza",
+      "link": "https://www.20minutos.es/tecnologia/ciberseguridad/asos-ciberataque-hackers-datos-clientes-app-amenaza_7045684_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/06/6ac527757e5244-12401021.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Muere Margaret Hamilton, la mujer que creó el software que permitió al ser humano llegar a la Luna",
+      "link": "https://www.20minutos.es/tecnologia/actualidad/muere-margaret-hamilton-creadora-software-nasa-llegada-luna_7046483_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/08/6ac76785c89501-42039575.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cinco impactos y colores que sorprenden a los científicos: la NASA revela los primeros hallazgos de Artemis II",
+      "link": "https://www.20minutos.es/tecnologia/actualidad/cinco-impactos-colores-sorprenden-cientificos-nasa-revela-primeros-hallazgos-artemis-ii_7046373_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/08/6ac74b0f4c10e3-89692282.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El MIT desarrolla una tecnología clave para que los primeros astronautas que lleguen a Marte puedan volver a casa",
+      "link": "https://www.20minutos.es/tecnologia/actualidad/mit-desarrolla-tecnologia-clave-primeros-astronautas-lleguen-marte-puedan-volver-casa_7045986_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2023/11/17/marte.jpeg",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "Si se te rompe la lavadora, el móvil o la televisión, tienes nuevos derechos: esto es lo que puedes exigir al fabricante",
       "link": "https://www.20minutos.es/tecnologia/actualidad/si-se-te-rompe-lavadora-movil-television-tienes-nuevos-derechos-esto-es-que-puedes-exigir-fabricante_7045662_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/10/06/6ac5182c22b7d9-00931321.r_d.719-628.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Estamos un paso más cerca del 'sol artificial' en la Tierra: China ya construye el reactor para lograrlo",
-      "link": "https://www.20minutos.es/tecnologia/actualidad/sol-artificial-china-reactor-fusion-nuclear-best_7045530_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/04/02/69cebfd9628e59-46743744.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Robots humanoides se lanzan al acero fundido junto a Schwarzenegger para recrear el final de 'Terminator 2'",
-      "link": "https://www.20minutos.es/tecnologia/actualidad/robots-humanoides-lanzan-acero-fundido-schwarzenegger-recrear-final-terminator-2_7045037_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/05/6ac3aad07bb498-38390681.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Quince años sin Steve Jobs: cuánto queda de su Apple en la era de la inteligencia artificial",
-      "link": "https://www.20minutos.es/tecnologia/actualidad/quince-anos-sin-steve-jobs-legado-apple_7044971_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2023/10/03/steve-jobs.jpeg",
       "tipo": "imagen"
     }
   ]

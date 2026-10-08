@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Amazon jubila la marca Fire y abre sus tabletas a Google Play",
+      "link": "https://www.elmundo.es/tecnologia/2026/10/08/6ac7a28ce85ece13048b45b4.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/08/17914681976302.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "OpenAI crea una marca de agua invisible para detectar los textos escritos por ChatGPT",
+      "link": "https://www.elmundo.es/tecnologia/2026/10/08/6ac75b61fdddff08248b45a7.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/08/17914509989891.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Surface Laptop Ultra llega con un chip de Nvidia y precio de MacBook Pro",
+      "link": "https://www.elmundo.es/tecnologia/creadores/2026/10/07/6ac6a5abe85ecec8188b45a0.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/07/17914034162785.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Europa ya presume de IA: Mistral lanza un modelo de pesos abiertos de un billón de parámetros",
+      "link": "https://www.elmundo.es/tecnologia/2026/10/07/6ac57d7ee9cf4a5e0b8b4581.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/07/17913275720425.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Noruega se plantea prohibir gafas inteligentes con cámara en parques y colegios",
       "link": "https://www.elmundo.es/tecnologia/2026/10/05/6ac3f28cfdddff80268b4597.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/05/17912263776061.jpg",
@@ -10,30 +34,6 @@
       "titulo": "Fiesta de Ofertas Prime 2026 en Amazon: móviles, portátiles, smartwatches, 'gadgets' y otros descuentos en tecnología",
       "link": "https://www.elmundo.es/tecnologia/2026/10/06/6ac37770e85ececa2f8b4597.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/02/17909394840855.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "EEUU y China abrirán un \"canal de comunicación\" para incidentes relacionados con la IA",
-      "link": "https://www.elmundo.es/tecnologia/2026/09/26/6ab7532521efa0485e8b45a7.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/26/17904023457856.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Qualcomm divide la gama alta de Android en dos con los Snapdragon 8 Elite Gen 6 y 8 Elite Extreme Gen 6",
-      "link": "https://www.elmundo.es/tecnologia/2026/09/22/6ab2f8b921efa02b0c8b45ac.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/22/17901139363604.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Google lanzará los Googlebook en octubre con procesadores de Qualcomm e Intel",
-      "link": "https://www.elmundo.es/tecnologia/creadores/2026/09/21/6ab17b15e4d4d83a2c8b4595.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/21/17900162576127.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Europa ya presume de IA: Mistral lanza un modelo de pesos abiertos de un billón de parámetros",
-      "link": "https://www.elmundo.es/tecnologia/2026/10/07/6ac57d7ee9cf4a5e0b8b4581.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/07/17913275720425.jpg",
       "tipo": "imagen"
     }
   ]

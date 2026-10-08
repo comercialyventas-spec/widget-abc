@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Ibai Llanos",
+      "link": "https://www.elconfidencialdigital.com/album/medios/ibai-llanos/202610080702001491606.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/06/11/2026061119270981744.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sofía Suescun en el concurso de Plex",
       "link": "https://www.elconfidencialdigital.com/album/medios/plex/202609281900001488818.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/02/2026100208294529156.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Cuéntame",
       "link": "https://www.elconfidencialdigital.com/album/medios/cuentame/202609230500001487349.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/22/2026092216170822398.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Televisión",
-      "link": "https://www.elconfidencialdigital.com/album/medios/television/202609220500001428682.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2025/04/07/2025040712271517377.jpg",
       "tipo": "imagen"
     }
   ]

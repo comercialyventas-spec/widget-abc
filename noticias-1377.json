@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Bernal a Costa, el restaurante de Valencia donde una millenial y una GenZ quieren darte de comer como lo haría tu abuela",
+      "link": "https://elpais.com/gastronomia/2026-10-08/bernal-a-costa-el-restaurante-de-valencia-donde-una-millenial-y-una-genz-quieren-darte-de-comer-como-lo-haria-tu-abuela.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/F3HHW7GO2BHZRALO5335CJV4LA.jpg?auth=fd019362a0464dcab77691d0d7918185a007d9d97f09eee52980c7e72cf0b173",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Banana bread, la receta de bizcocho de plátano que no empalaga",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-08/banana-bread-la-receta-de-bizcocho-de-platano-que-no-empalaga.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20261004/1221730_230628_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ensalada templada de calabaza, mango y rúcula",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-08/ensalada-templada-de-calabaza-mango-y-rucula.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/E6QETPQR4VA7HMLOXX42YOSPQI.jpg?auth=314d3a13651ec4637f11b01a6b866c31169f835eaf8b9e9097ba01455becb954",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Seis bares españoles entre los mejores del mundo",
       "link": "https://elpais.com/gastronomia/2026-10-07/seis-bares-espanoles-entre-los-mejores-del-mundo.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/SI223G23V5G3BE3ERLVEOSUQFE.jpg?auth=2fa8875f72e14f3b411d9e6562e15c90b9673027c302db2ab8705931bbfcaec6",
@@ -16,24 +34,6 @@
       "titulo": "La bronca de la tortilla de patatas ya no está en la cebolla: ahora está en el punto de cuajado",
       "link": "https://elpais.com/gastronomia/2026-10-07/la-bronca-de-la-tortilla-de-patatas-ya-no-esta-en-la-cebolla-ahora-esta-en-el-punto-de-cuajado.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/HKVSXMKOEROG5JMVJ5YN2LV6VM.jpg?auth=0cc69ccd3234fb4684f82972dd358148314eb9848b1993b4ade9f8ab4da2478b",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ensalada otoñal de lentejas",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-07/ensalada-otonal-de-lentejas.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/AQPFOAJHVJEZXAKVWSBPHVX4AI.jpg?auth=fd70e2add9b1d431abc953e39ea23324f2efaac230ab2bba2bd1b99d8730a17b",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Dónde comer buenas pizzas al estilo de Nueva York en España",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-07/donde-comer-buenas-pizzas-al-estilo-de-nueva-york-en-espana.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/NSYGOKXADRGCZD65XTNXOJ6ZK4.jpg?auth=c66171a60dc0cae8c927a6993e9fb5cccd04490adb4b3c6bfc18d9a285102ede",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los ingredientes más odiados y por qué generan rechazo: de las coles al cilantro",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-06/los-ingredientes-mas-odiados-y-por-que-generan-rechazo-de-las-coles-al-cilantro.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20260917/1215453_190556_video_1800.mp4",
       "tipo": "imagen"
     }
   ]

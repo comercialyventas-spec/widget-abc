@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "China quiere meterse en tu mente",
+      "link": "https://www.lavanguardia.com/tecnologia/20261008/11653277/bci-interface-cerebro-ordenador.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/07/6ac62c584a6aa.r_d.5545-2497-640.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "No estás enviando un correo electrónico, estás entrenando una IA",
       "link": "https://www.lavanguardia.com/tecnologia/20261007/11652316/ia-inteligencia-artificial-datos-big-data-email.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/06/6ac505962bf9c.r_d.6695-2433-564.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "'Castlevania', 40 años cazando vampiros y una prometedora nueva entrega",
       "link": "https://www.lavanguardia.com/neo/20260929/11646903/castlevania-40-aniversario-belmonts-curse-avance-pc-ps5-xbox-switch.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/29/6abbcf52bf2cf.r_d.2200-780-1772.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La guerra obliga a buscar alternativas al GPS",
-      "link": "https://www.lavanguardia.com/tecnologia/20260929/11645630/gps-sistemas-de-localizacion-mapas.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/28/6aba50361f3ef.r_d.3833-1591-917.jpeg",
       "tipo": "imagen"
     }
   ]

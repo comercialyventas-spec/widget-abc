@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Goya estrena casa en Zaragoza",
+      "link": "https://www.abc.es/cultura/arte/goya-estrena-casa-zaragoza-20261008122541-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/08/goya6-RhcTduc1l9t4SXkVwKCEmPO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Prado rinde homenaje a la Reina Cristina de Suecia, 'la Minerva del Norte'",
       "link": "https://www.abc.es/cultura/arte/prado-rinde-homenaje-reina-cristina-suecia-minerva-20261006135504-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/06/sala-RN0l6OltK6m0crozgTeXm6H-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Norman Foster añade una tercera piel al Museo de Bellas Artes de Bilbao",
       "link": "https://www.abc.es/cultura/arte/norman-foster-anade-tercera-piel-museo-bellas-20261002164202-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/02/bilbao1-RXQmgZQvhCnJmLjdhkGXuiN-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Reabren los museos de pintura y arquitectura de El Escorial, cerrados hace una década",
-      "link": "https://www.abc.es/cultura/arte/reabren-museos-pintura-arquitectura-escorial-cerrados-decada-20261002152054-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/02/Inauguracion%20museos%202-RY1RSrYOXCsH5KAnpV6hSyL-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

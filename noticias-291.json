@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Muere Margaret Hamilton, pionera cuyo software impulsó el alunizaje del Apolo 11",
+      "link": "https://www.abc.es/ciencia/muere-margaret-hamilton-pionera-software-impulso-alunizaje-20261008091112-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/10/08/margaret-RhX0opvuGh2bIzpqg0deczK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "OpenAI dice que su modelo avanzado ha resuelto ya cientos de problemas matemáticos y publica sus hallazgos",
       "link": "https://www.abc.es/ciencia/openai-dice-modelo-secreto-resuelto-cientos-problemas-20261007175848-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/10/07/open-AI-RgnlpSDObVQIchAviODtOnK-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Nobel de Física 2026 para Francis Halzen por su 'trampa de hielo' para las partículas más esquivas del universo",
       "link": "https://www.abc.es/ciencia/premio-nobel-fisica-2026-francis-halzenel-descubrimiento-20261006114859-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/10/06/Francis-Halzen-U302083949644YBH-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un alga unicelular, un rayo de luz y una cura para la ceguera: por qué la optogenética se merecía el Nobel de Medicina 2026",
-      "link": "https://www.abc.es/ciencia/premio-nobel-medicina-2026-karl-deisseroth-peter-20261005113243-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/10/05/1518319371-U302060151819VzE-1200x840@diario_abc.JPG",
       "tipo": "imagen"
     }
   ]

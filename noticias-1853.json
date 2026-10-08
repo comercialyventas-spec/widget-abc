@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Un paciente oncológico muere por viruela del mono en San Sebastián",
+      "link": "https://www.20minutos.es/pais-vasco/muere-un-hombre-por-viruela-mono-hospital-donostia_7046512_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/08/08/virus-del-mpox-antigua-viruela-del-mono.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Condenado a 20 años de prisión un hombre por asesinar a tiros a su expareja en Pasaia (Guipúzcoa)",
+      "link": "https://www.20minutos.es/pais-vasco/guipuzcoa/condenado-20-anos-prision-un-hombre-por-asesinar-tiros-su-expareja-pasaia-guipuzcoa_7046464_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/08/6ac7679c9746a1-22614595.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sanción disciplinaria a una auxiliar de enfermería de Euskadi que accedió 191 veces al historial de su hijo sin motivo",
       "link": "https://www.20minutos.es/pais-vasco/vizcaya/sancion-disciplinaria-auxiliar-enfermeria-accedio-191-veces-historial-su-hijo-sin-motivo_7045945_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/07/6ac61f362ac820-83830903.jpeg",
@@ -22,18 +34,6 @@
       "titulo": "Desahuciada una familia con dos menores a su cargo en Vitoria: se trata del tercer caso en apenas diez días",
       "link": "https://www.20minutos.es/pais-vasco/desahuciada-una-familia-con-dos-menores-su-cargo-vitoria-se-trata-tercer-caso-apenas-diez-dias_7045099_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/05/6ac3c321d0c3a8-92802144.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Desahucian a una familia con dos menores en Vitoria mientras se debatían los decretos de vivienda en el Congreso",
-      "link": "https://www.20minutos.es/pais-vasco/desahucian-una-familia-con-dos-menores-vitoria-mientras-se-debatian-los-decretos-vivienda-congreso_7044323_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/02/6abfcc91178f90-45708485.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El hombre muerto en Hondarribia se abalanzó sobre una ertzaina con un cuchillo y no la alcanzó por \"escasos centímetros\"",
-      "link": "https://www.20minutos.es/pais-vasco/hombre-muerto-hondarribia-se-abalanzo-sobre-una-ertzaina-con-un-cuchillo-no-alcanzo-por-escasos-centimetros_7044279_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/10/02/6abfb3fb992131-08726820.r_d.915-40.jpeg",
       "tipo": "imagen"
     }
   ]

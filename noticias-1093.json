@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Fed-Realismo",
+      "link": "https://www.elconfidencial.com/espana/tribuna/2026-10-08/federalismo-reforma-estado-espana-consenso-1hms_4440532/",
+      "imagen": "https://images.ecestaticos.com/uDRjl5aZkNDTJ5sFXjobz6B4Q_Q=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd7e%2F892%2Fdbd%2Fd7e892dbd062164bd2579ba91985bdf4.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sánchez convoca (muy) mal las elecciones",
       "link": "https://www.elconfidencial.com/espana/tribuna/2026-10-06/sanchez-convoca-mal-elecciones-29n_4438822/",
       "imagen": "https://images.ecestaticos.com/LJtQ6lLNBWJaWn-XIB26_cpn6RI=/0x0:2272x1518/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F518%2F376%2Fb90%2F518376b901cf86527d06871d38da6c40.jpg",
@@ -13,15 +19,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Histórica visita de Macron a España: del desdén francés al desmarque español",
-      "link": "https://www.elconfidencial.com/espana/tribuna/2026-09-28/visita-estado-francia-espana-1hms_4433080/",
-      "imagen": "https://images.ecestaticos.com/QkjdBYKY1kg_qQmYZTnCkVjVUlc=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ffd7%2Fd6f%2F98d%2Ffd7d6f98de1dae117357494435978f1c.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "La sombra de Battaner sobrevuela la fusión entre Caja Duero y Caja España",
       "link": "https://blogs.elconfidencial.com/espana/el-confidente/2026-09-05/la-sombra-de-battaner-sobrevuela-la-fusion-entre-caja-duero-y-caja-espana_441583/",
-      "imagen": "https://sb.scorecardresearch.com/b?c1=2&c2=7215267&ns__t=1791420048&ns_c=UTF-8&c8=BLOGS&c7=https%3A%2F%2Frss.blogs.elconfidencial.com%2F&c9=https%3A%2F%2Fwww.elconfidencial.com%2F",
+      "imagen": "https://sb.scorecardresearch.com/b?c1=2&c2=7215267&ns__t=1791470941&ns_c=UTF-8&c8=BLOGS&c7=https%3A%2F%2Frss.blogs.elconfidencial.com%2F&c9=https%3A%2F%2Fwww.elconfidencial.com%2F",
       "tipo": "imagen"
     },
     {

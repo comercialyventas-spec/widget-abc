@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Muere un policía nacional tras ser arrollado por su coche patrulla en Alicante",
+      "link": "https://www.lavanguardia.com/local/valencia/20261008/11654104/muere-policia-nacional-arrollado-coche-patrulla-alicante.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/11/696393677d07b.r_d.740-630-2806.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Investigan el hallazgo de un cadáver en un vehículo en una riera de El Vendrell",
       "link": "https://www.lavanguardia.com/sucesos/20261007/11653693/investigan-hallazgo-cadaver-vehiculo-riera-vendrell.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/07/22/687f6ef5c7a19.r_d.796-454-0.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Absuelto el acusado de la muerte de Ana Buza tras ser declarado no culpable de atropello intencionado",
       "link": "https://www.lavanguardia.com/local/andalucia/20261006/11652567/absuelto-acusado-muerte-ana-buza-declarado-culpable-atropello-intencionado.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/18/6aad1b5a83361.r_d.478-324-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Muere una joven electrocutada al tocar la alcachofa de una ducha en Antequera",
-      "link": "https://www.lavanguardia.com/local/andalucia/20261006/11652547/muere-joven-electrocutada-tocar-alcachofa-ducha-antequera.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/20/691f69034bffc.r_d.438-305-0.jpeg",
       "tipo": "imagen"
     }
   ]

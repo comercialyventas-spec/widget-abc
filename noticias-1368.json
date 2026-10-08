@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Muere Margaret Hamilton, la mujer que enseñó al ordenador del Apolo a no perder los nervios sobre la Luna",
+      "link": "https://elpais.com/ciencia/2026-10-08/muere-margaret-hamilton-la-pionera-de-la-informatica-que-hizo-posible-la-llegada-a-la-luna.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KK4VFO7X2BFBZBDD35J3V24BQI.jpg?auth=af5f46360fe035550dedff0e9ae5e8df80235c4d5e782454869cf979df4e540c",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Carlos Briones, divulgador: “No podemos dejar un móvil a un chaval para que no moleste y luego reprocharle que le dedique horas”",
+      "link": "https://elpais.com/ciencia/2026-10-08/carlos-briones-divulgador-no-podemos-dejar-un-movil-a-un-chaval-para-que-no-moleste-y-luego-reprocharle-que-le-dedique-horas.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QCLUVYD3TNF2LMR3FK2QHDYJT4.jpg?auth=e34dae4f924eb3f5e772a5f1ba6845c4dd807c3e4b89d7444e5e9c470b81e8f4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La tortuga ‘Jonathan’ tiene 194 años y en sus genes se esconden los secretos de la longevidad",
       "link": "https://elpais.com/ciencia/2026-10-07/la-tortuga-jonathan-tiene-194-anos-y-en-sus-genes-se-esconden-los-secretos-de-la-longevidad.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/BMOK7O6A75D53DFQUDMDURWRK4.jpeg?auth=47040b503734abd1994e8763f6cffdc301e8c912e8e18ef453d491a99c788640",
@@ -22,18 +34,6 @@
       "titulo": "Rosalind Franklin sí había visto la hélice: una foto olvidada cambia la historia de la estructura del ADN",
       "link": "https://elpais.com/ciencia/2026-10-07/rosalind-franklin-si-habia-visto-la-helice-una-foto-olvidada-cambia-la-historia-de-la-estructura-del-adn.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/KJZJLLE6A5AVHKMKOU4VYY3P6I.jpg?auth=a5e7ef8db51e906ce13be376df673425a1ae73a3fdcc7dbef262efd52d66d478",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Europa intenta blindar frente a Estados Unidos las bases de datos esenciales para la investigación biomédica mundial",
-      "link": "https://elpais.com/ciencia/2026-10-06/europa-intenta-blindar-frente-a-estados-unidos-las-bases-de-datos-esenciales-para-la-investigacion-biomedica-mundial.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/WE7DZDCQRVHWBLMHZIWRMSOX2E.jpg?auth=f0c77751328a306c754938f3137c99ca75a30ce91ce91be16876c84a2c8275b3",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Premio Nobel de Física para Francis Halzen por el experimento que atrapó neutrinos cósmicos",
-      "link": "https://elpais.com/ciencia/2026-10-06/premio-nobel-de-fisica.html",
-      "imagen": "https://www.youtube.com/watch?v=HTi0PU_yPvU",
       "tipo": "imagen"
     }
   ]

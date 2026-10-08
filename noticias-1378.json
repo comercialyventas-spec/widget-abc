@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Banana bread, la receta de bizcocho de plátano que no empalaga",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-08/banana-bread-la-receta-de-bizcocho-de-platano-que-no-empalaga.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20261004/1221730_230628_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ensalada templada de calabaza, mango y rúcula",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-08/ensalada-templada-de-calabaza-mango-y-rucula.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/E6QETPQR4VA7HMLOXX42YOSPQI.jpg?auth=314d3a13651ec4637f11b01a6b866c31169f835eaf8b9e9097ba01455becb954",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ensalada otoñal de lentejas",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-10-07/ensalada-otonal-de-lentejas.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/AQPFOAJHVJEZXAKVWSBPHVX4AI.jpg?auth=fd70e2add9b1d431abc953e39ea23324f2efaac230ab2bba2bd1b99d8730a17b",
@@ -22,18 +34,6 @@
       "titulo": "Cinco recetas fáciles con pollo y pavo para cocinar una vez y comer tres",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-10-05/cinco-recetas-faciles-con-pollo-y-pavo-para-cocinar-una-vez-y-comer-tres.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/YMCJGIC2PJGIRP2J4KVAW37F7U.JPG?auth=6ba7bf61d9bea9f8c6a9e87e5f77f7f5ef81b4cf137d69a6c9cd1f066aff4fc9",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Menú semanal de El Comidista (5 a 11 de octubre)",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-04/menu-semanal-de-el-comidista-5-a-11-de-octubre.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/K5EEEQ43LBFVDP53BPNMHTHROI.JPG?auth=0820c062c00073ab4a54efe2636527d19746625c3ad6631ffd34c03dd872add6",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘Key lime pie’, una tarta de lima con receta fácil y pocos ingredientes",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-03/key-lime-pie-una-tarta-de-lima-con-receta-facil-y-pocos-ingredientes.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/YPM4KRTPCND7NDW7V6LHHOLCIA.jpg?auth=1b64c3acc26770a871c063c947b17a7e4d03559ac3ee2cc066631bda968aeec1",
       "tipo": "imagen"
     }
   ]
