@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Seis bares españoles entre los mejores del mundo",
+      "link": "https://elpais.com/gastronomia/2026-10-07/seis-bares-espanoles-entre-los-mejores-del-mundo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SI223G23V5G3BE3ERLVEOSUQFE.jpg?auth=2fa8875f72e14f3b411d9e6562e15c90b9673027c302db2ab8705931bbfcaec6",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El mercado que une culturas",
       "link": "https://elpais.com/gastronomia/2026-10-07/el-mercado-que-une-culturas.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/5AAQPF4QPJFKRDZLUKBXFHJEFQ.JPG?auth=e4c6b966ce3d54b0fe5bf174b7020e8003dfd431e18c970b10b7e0f1d85c0ba5",
@@ -28,12 +34,6 @@
       "titulo": "Los ingredientes más odiados y por qué generan rechazo: de las coles al cilantro",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-10-06/los-ingredientes-mas-odiados-y-por-que-generan-rechazo-de-las-coles-al-cilantro.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20260917/1215453_190556_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Qué puede hacer un colegio para enseñar a comer? Cuatro iniciativas que ayudan a los niños a conocer mejor los alimentos",
-      "link": "https://elpais.com/gastronomia/2026-10-06/que-puede-hacer-un-colegio-para-ensenar-a-comer-cuatro-iniciativas-que-ayudan-a-los-ninos-a-conocer-mejor-los-alimentos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/NQQICRLELRH73ANWZDD5PCBBKU.jpeg?auth=e377f994d2668430d2d8700d3fc43fe93fa0124b65474c2e13096f844bb5a590",
       "tipo": "imagen"
     }
   ]

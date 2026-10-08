@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Amnistía: última hora",
+      "link": "https://www.eldiario.es/opinion/tribuna-abierta/amnistia-ultima-hora_129_13570209.html",
+      "imagen": "https://static.eldiario.es/clip/f07ff758-6260-449b-91a4-c97492fa2fd6_avatar-200-aspect-ratio_default_0.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Sobran las razones",
+      "link": "https://www.eldiario.es/opinion/tribuna-abierta/sobran-razones_129_13570416.html",
+      "imagen": "https://static.eldiario.es/clip/fd5e37cd-1eb2-4208-bc5d-334e89d20808_avatar-200-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿El discurso de la Justicia?",
       "link": "https://www.eldiario.es/opinion/tribuna-abierta/discurso-justicia_129_13567108.html",
       "imagen": "https://static.eldiario.es/clip/f07ff758-6260-449b-91a4-c97492fa2fd6_avatar-200-aspect-ratio_default_0.jpeg",
@@ -22,18 +34,6 @@
       "titulo": "Mi voto: vivienda digna, asequible y pública",
       "link": "https://www.eldiario.es/opinion/tribuna-abierta/vivienda-digna-asequible-publica_129_13559162.html",
       "imagen": "https://static.eldiario.es/clip/a96a6f38-a51a-4c89-b6dd-cfe02d0a2f77_avatar-200-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ni fallo sistémico ni política desaparecida",
-      "link": "https://www.eldiario.es/opinion/tribuna-abierta/fallo-sistemico-politica-desaparecida_129_13556972.html",
-      "imagen": "https://static.eldiario.es/eldiario/public/file/2020/0701/19/thumb-10409-273cac2.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Del desahucio libre al principio de causalidad",
-      "link": "https://www.eldiario.es/opinion/tribuna-abierta/desahucio-libre-principio-causalidad_129_13554873.html",
-      "imagen": "https://static.eldiario.es/clip/4e7a0111-44c7-4729-a2fd-c27f57a910c9_avatar-200-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

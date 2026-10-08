@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Del gran velero al barco eléctrico, presente y futuro del mar en Barcelona",
+      "link": "https://www.eldiario.es/edcreativo/gran-velero-barco-electrico-presente-futuro-mar-barcelona_1_13566833.html",
+      "imagen": "https://static.eldiario.es/clip/76e32a95-c13d-441b-91a7-7028ed93f8d1_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El reciclaje también pasa por los comités de empresas",
       "link": "https://www.eldiario.es/edcreativo/reciclandoadiario/reciclaje-pasa-comites-empresas_1_13549237.html",
       "imagen": "https://static.eldiario.es/clip/2bcb82c7-5f46-4f41-abee-c22ef2210d2b_16-9-discover-aspect-ratio_default_0_x618y69.jpg",
@@ -28,12 +34,6 @@
       "titulo": "¿Puede la radiación de mi móvil causarme cáncer?",
       "link": "https://www.eldiario.es/edcreativo/diario-salud/radiacion-movil-causarme-cancer_1_13543293.html",
       "imagen": "https://static.eldiario.es/clip/7ee8b1cb-3395-4bf6-9e7e-edb1735467b6_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "De fabricar cerveza a crear un negocio de mil millones en salud; el poder de la fermentación",
-      "link": "https://www.eldiario.es/edcreativo/fabricar-cerveza-crear-negocio-mil-millones-salud-fermentacion_1_13542855.html",
-      "imagen": "https://static.eldiario.es/clip/e9e74849-4369-4920-86fb-06c43db54c4e_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

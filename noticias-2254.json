@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La renta crece en Rivas hasta una media de 41.885 euros brutos anuales",
+      "link": "https://www.diarioderivas.es/hacienda-renta-media-rivas/",
+      "imagen": "https://www.diarioderivas.es/wp-content/uploads/2021/11/0801-2017.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Feria del Vehículo Sostenible de Rivas estrena un espacio dedicado a autocaravanas y furgonetas cámper",
       "link": "https://www.diarioderivas.es/feria-vehiculo-sostenible-caravaning/",
       "imagen": "https://www.diarioderivas.es/wp-content/uploads/2025/10/Momentum-1-1080x675.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Jarama critica que Rivas limite la posibilidad de aumentar la edificabilidad de vivienda protegida a parcelas de titularidad pública",
       "link": "https://www.diarioderivas.es/jarama-critica-decision-vivienda-publica/",
       "imagen": "https://www.diarioderivas.es/wp-content/uploads/2025/10/83-Viviendas-EMV-3-1080x675.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Rivas, el municipio con más puntos en la nueva Red de Observatorios de Fauna de la Comunidad de Madrid",
-      "link": "https://www.diarioderivas.es/red-de-observatorios-de-fauna/",
-      "imagen": "https://www.diarioderivas.es/wp-content/uploads/2026/10/cma-ma-somormujo-lavanco_jesus-a-cuevas-1-1080x675.jpg",
       "tipo": "imagen"
     }
   ]

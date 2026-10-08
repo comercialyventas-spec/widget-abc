@@ -2,6 +2,18 @@
   "noticias": [
     {
       "titulo": "Noticias de Los Cerros",
+      "link": "https://nuevosureste.es/entrevista-javier-de-la-iglesia-los-cerros/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/JavierdeLaIglesia2026-09-400x250.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Almeida: «La Gran Vía del Sureste permitirá multiplicar las opciones de transporte público de los nuevos desarrollos»",
+      "link": "https://nuevosureste.es/almeida-gran-via-sureste/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/Visita-de-Almeida-a-las-obras-de-la-Gran-Via-del-Sureste-en-Ensanche-de-Vallecas-foto_-Nuevo-Sureste-400x250.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La conexión de Los Cerros con la M-45 se ejecutará dentro de las obras de urbanización de la etapa 1",
       "link": "https://nuevosureste.es/conexion-los-cerros-m-45-etapa-1/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2025/12/puente-los-cerros-m45-1-400x250.jpg",
       "tipo": "imagen"
@@ -22,18 +34,6 @@
       "titulo": "El viceconsejero de Vivienda inaugura la jornada ‘SuresteLAB. La ciudad antes de la ciudad’: “El urbanismo se demuestra andando”",
       "link": "https://nuevosureste.es/inauguracion-jornada-surestelab/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/SuresteLab-2026-012-400x250.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El calendario del Sureste: estas son las viviendas que entrarán en carga en los siguientes años",
-      "link": "https://nuevosureste.es/cambios-fechas-suelo-previsto-en-carga-nuevos-desarrollos-sureste/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/IMG_9320-400x250.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los Cerros conoce 26 nombres para sus futuras calles",
-      "link": "https://nuevosureste.es/denominaciones-viales-los-cerros/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/07/Obras-de-urbanizacion-Los-Cerros-julio-2026-400x250.jpeg",
       "tipo": "imagen"
     }
   ]

@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "VIAJAR FUERA DE TEMPORADA: CONSEJOS PARA ELEGIR EL MOMENTO",
+      "titulo": "LAGO SAIMAA, EL ARTE FINLANDÉS DE ESTAR SOLOS",
+      "link": "https://www.lavanguardia.com/magazine/viajes/20261007/11649470/lago-saimaa-finlandia-naturaleza.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/10/02/6abf9dcb9274c.r_d.2027-1047.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Turismo literario: viajar como quien lee un libro",
+      "link": "https://www.lavanguardia.com/magazine/viajes/20261007/11649710/turismo-literario-viajar-leer-libro.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/10/02/6abfd0373fb46.r_d.1817-1320.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Viajar fuera de temporada: ventajas y consejos para elegir el mejor momento",
       "link": "https://www.lavanguardia.com/magazine/viajes/20261006/11649573/viajar-fuera-temporada-ventajas-consejos-elegir-mejor-momento.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/10/05/6ac37cb02a3ed.r_d.1166-322.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/10/05/6ac37cb02a3ed.r_d.1166-322.jpeg",
       "tipo": "imagen"
     },
     {
@@ -13,27 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Kaliningrado, la ciudad rusa donde resolver un histórico problema matemático",
-      "link": "https://www.lavanguardia.com/magazine/viajes/20261005/11648734/kaliningrado-ciudad-rusa-resolver-historico-problema-matematico.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/10/02/6abf87b74726f.r_d.1903-1690.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "'Spain is different': los carteles de 100 años de boom turístico",
-      "link": "https://www.lavanguardia.com/magazine/viajes/20261004/11643894/visit-spain-cien-anos-carteles-turisticos.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/uploads/2026/10/02/6abf7b1d8a93b.jpeg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Hampi, la ciudad que deslumbró al mundo",
       "link": "https://www.lavanguardia.com/magazine/viajes/20260924/11641131/hampi-ciudad-india-deslumbro-mundo-raimon-portell.html",
       "imagen": "https://www.lavanguardia.com/files/image_290_300/uploads/2018/11/15/5fa448436f0dd.jpeg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Paseos en bicicleta, corales y aguas turquesa en Maldivas",
-      "link": "https://www.lavanguardia.com/magazine/viajes/20261004/11647537/paseos-bicicleta-corales-aguas-turquesa-maldivas.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/09/30/6abce2549af6d.r_d.2912-3818.jpeg",
+      "titulo": "'Spain is different': los carteles de 100 años de boom turístico",
+      "link": "https://www.lavanguardia.com/magazine/viajes/20261004/11643894/visit-spain-cien-anos-carteles-turisticos.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/10/02/6abf7b1d8a93b.r_d.1656-587-8254.jpeg",
       "tipo": "imagen"
     }
   ]

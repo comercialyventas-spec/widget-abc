@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de El Cañaveral",
+      "link": "https://nuevosureste.es/recinto-ferial-parking-el-canaveral/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/IMG_9491-400x250.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Almeida: «La Gran Vía del Sureste permitirá multiplicar las opciones de transporte público de los nuevos desarrollos»",
       "link": "https://nuevosureste.es/almeida-gran-via-sureste/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/Visita-de-Almeida-a-las-obras-de-la-Gran-Via-del-Sureste-en-Ensanche-de-Vallecas-foto_-Nuevo-Sureste-400x250.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "El viceconsejero de Vivienda inaugura la jornada ‘SuresteLAB. La ciudad antes de la ciudad’: “El urbanismo se demuestra andando”",
       "link": "https://nuevosureste.es/inauguracion-jornada-surestelab/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/SuresteLab-2026-012-400x250.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Instalación Deportiva Básica Cañaveral I incluye un nuevo circuito de educación vial",
-      "link": "https://nuevosureste.es/la-instalacion-deportiva-basica-canaveral-i-incluye-un-nuevo-circuito-de-educacion-vial/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/IMG_9341-2-400x250.jpg",
       "tipo": "imagen"
     }
   ]

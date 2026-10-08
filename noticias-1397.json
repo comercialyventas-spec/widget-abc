@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de Valdecarros",
+      "link": "https://nuevosureste.es/visita-ayuso-valdecarros-vivienda/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/IMG_9520-2-400x250.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Almeida: «La Gran Vía del Sureste permitirá multiplicar las opciones de transporte público de los nuevos desarrollos»",
       "link": "https://nuevosureste.es/almeida-gran-via-sureste/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/Visita-de-Almeida-a-las-obras-de-la-Gran-Via-del-Sureste-en-Ensanche-de-Vallecas-foto_-Nuevo-Sureste-400x250.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Luis Roca de Togores, presidente de la Junta de Compensación de Valdecarros: “Tendremos 13.500 viviendas en marcha en la primera mitad del año que viene”",
       "link": "https://nuevosureste.es/luis-roca-de-togores-valdecarros-vvienda/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/SuresteLab-2026-023-400x250.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El viceconsejero de Vivienda inaugura la jornada ‘SuresteLAB. La ciudad antes de la ciudad’: “El urbanismo se demuestra andando”",
-      "link": "https://nuevosureste.es/inauguracion-jornada-surestelab/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/SuresteLab-2026-012-400x250.jpg",
       "tipo": "imagen"
     }
   ]

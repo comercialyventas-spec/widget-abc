@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El cine aproximativo",
+      "link": "https://www.lavanguardia.com/cultura/20261008/11653854/cine-aproximativo.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las Oques Grasses vuelan sobre el Olímpic",
+      "link": "https://www.lavanguardia.com/cultura/musica/20261007/11653728/oques-grasses-vuelan-sobre-olimpic.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/07/6ac6b21b439e9.r_d.2991-2117-748.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Restos de madera de hace más de 40.000 años hallados en Barcelona revelan que los neandertales fueron expertos carpinteros",
       "link": "https://www.lavanguardia.com/ciencia/20261007/11653225/restos-madera-mas-40000-anos-hallados-barcelona-revelan-neandertales-expertos-carpinteros.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/07/6ac621b103560.jpeg",
@@ -22,18 +34,6 @@
       "titulo": "El Ministerio de Cultura concede a Rosalía el Premio Nacional de las Músicas Actuales 2026",
       "link": "https://www.lavanguardia.com/cultura/20261007/11653396/ministerio-cultura-concede-rosalia-premio-nacional-musicas-actuales-2026.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/03/69305f89c6a73.r_d.1470-843-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Maria del Mar Bonet volverá a L’Olympia 50 años después de su histórico concierto en París",
-      "link": "https://www.lavanguardia.com/cultura/20261007/11653377/maria-mar-bonet-volvera-olympia-50-anos-historico-concierto-paris.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/07/6ac6342997d9a.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los legados de Blai Bonet y Clementia Arderiu marcan el 26.º Festival Nacional de Poesia de Sant Cugat",
-      "link": "https://www.lavanguardia.com/cultura/20261007/11653314/legados-blai-bonet-clementia-arderiu-marcan-26-festival-nacional-poesia-sant-cugat.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/07/6ac62829a2f6e.jpeg",
       "tipo": "imagen"
     }
   ]

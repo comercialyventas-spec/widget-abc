@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Maricarmen cambió España",
+      "link": "https://elpais.com/opinion/2026-10-07/maricarmen-cambio-espana.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XCIK4JCW7BEFFNF2VZJNND4ZTI.jpg?auth=127a3c2d6acd581f3709e4cf51f5098e6821388f0089740a49e289c62e4ad88a",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Maricarmen; su muerte no será en vano",
       "link": "https://elpais.com/opinion/2026-10-07/maricarmen-su-muerte-no-sera-en-vano.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/GFXJEBYNE5G73H7T3R67HSHA2U.JPG?auth=d3dc00fc4a63a1500c1e7c63c1c8f36fb1f249e74d253b0936e5bfdcc8098c27",
@@ -28,12 +34,6 @@
       "titulo": "Cuidado con lo que deseas porque puede hacerse realidad",
       "link": "https://elpais.com/opinion/2026-10-07/cuidado-con-lo-que-deseas-porque-puede-hacerse-realidad.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261005/1222112_193249_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las elecciones en Brasil, una derrota para la Humanidad",
-      "link": "https://elpais.com/opinion/2026-10-07/las-elecciones-en-brasil-una-derrota-para-la-humanidad.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/UCUUSUV7HJISZFWSRCDLYT7I3M.jpg?auth=87d3654d7cdc6b50eccb162c3687e8188eb9b6d3984d14c5d028a76794e7fe6a",
       "tipo": "imagen"
     }
   ]
