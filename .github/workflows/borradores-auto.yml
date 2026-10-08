@@ -42,4 +42,3 @@ jobs:
           CLIENT_SECRET: ${{ secrets.BLOGGER_CLIENT_SECRET }}
           REFRESH_TOKEN: ${{ secrets.BLOGGER_REFRESH_TOKEN }}
         run: node migracion/borradores_auto.js "${{ inputs.modo || 'aplicar' }}" "${{ inputs.maximo || '10' }}"
-á
