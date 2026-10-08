@@ -1,0 +1,49 @@
+name: Pasar a borrador entradas sin etiqueta
+
+# Solo se lanza a mano. Pasa a BORRADOR (nunca borra) las entradas publicadas sin etiquetas
+# y sin widget. Modo "simular" no cambia nada. La lista queda como artefacto descargable.
+on:
+  workflow_dispatch:
+    inputs:
+      blogId:
+        description: 'ID del blog'
+        default: '1272111941988362300'
+        required: true
+      modo:
+        description: 'simular (no cambia nada) / aplicar'
+        type: choice
+        options: [simular, aplicar]
+        default: simular
+      maximo:
+        description: 'Máximo de entradas por pasada'
+        default: '5000'
+        required: true
+
+permissions:
+  contents: read
+
+jobs:
+  pasar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Pasar a borrador
+        env:
+          CLIENT_ID: ${{ secrets.BLOGGER_CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.BLOGGER_CLIENT_SECRET }}
+          REFRESH_TOKEN: ${{ secrets.BLOGGER_REFRESH_TOKEN }}
+        run: node migracion/pasar_a_borrador.js "${{ inputs.blogId }}" "${{ inputs.modo }}" "${{ inputs.maximo }}"
+
+      - name: Guardar lista
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pasar-a-borrador-${{ inputs.modo }}
+          path: pasar_a_borrador_lista.json
+          if-no-files-found: ignore
