@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "Maricarmen muere dos semanas después de su desahucio, última hora y reacciones en directo",
+      "titulo": "Los perros grandes envejecen más rápido que los pequeños",
+      "link": "https://www.lavanguardia.com/ciencia/20261008/11654288/perros-grandes-envejecen-mas-rapido-pequenos.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2022/03/04/6221ab5f22102.r_d.2128-1416-1054.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El servicio de apoyo emocional de Cruz Roja recibe por primera vez más peticiones de hombres que de mujeres",
+      "link": "https://www.lavanguardia.com/vida/20261008/11654505/servicio-apoyo-emocional-cruz-roja-recibe-primera-vez-mas-peticiones-hombres-mujeres.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/05/22/6a105eee1586f.r_d.685-452-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Última hora de la muerte de Maricarmen Abascal a los 87 años: reacciones tras su desahucio en Madrid",
       "link": "https://www.lavanguardia.com/vida/20261008/11653735/muere-maricarmen-desahuciada-vivienda-ultima-hora-reacciones-en-directo.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/08/6ac6c14281ceb.r_d.2288-1525-0.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/08/6ac74bae86a5e.r_d.2032-1021-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Hijos de padres millonarios reconocidos en los juzgados se unen para cobrar sus herencias",
+      "link": "https://www.lavanguardia.com/vida/20261008/11654440/hijos-padres-millonarios-reconocidos-juzgados-unen-cobrar-herencias.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/02/05/67a3680c7f0af.jpeg",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "Tres condenados en Sevilla por desnudar a excompañeras de clase con IA y mandar fotos",
       "link": "https://www.lavanguardia.com/vida/20261008/11654308/tres-condenados-sevilla-desnudar-excompaneras-clase-ia-mandar-fotos.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/07/6ac66f44de765.r_d.4140-3746-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Rusia desmiente noticias de un segundo caso de peste en Siberia",
-      "link": "https://www.lavanguardia.com/vida/20261008/11654246/rusia-desmiente-noticias-de-un-segundo-caso-de-peste-en-siberia.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/06/6ac5091cadf65.r_d.1750-810-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Críticas al Ejército en Italia por enseñar a menores a usar armas de fuego",
-      "link": "https://www.lavanguardia.com/vida/20261008/11654245/criticas-ejercito-italia-ensenar-menores-armas-fuego.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/08/6ac77e9a745a8.r_d.453-206-5143.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Peste en Siberia, ¿tenemos que preocuparnos?",
-      "link": "https://www.lavanguardia.com/ciencia/20261008/11654221/peste-siberia-preocuparnos.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/07/6ac625ac6aab1.r_d.1016-593-2245.jpeg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Catalunya registró este verano los niveles más altos de ozono desde 2019",
+      "link": "https://www.elperiodico.com/es/tiempo/20261008/cataluna-registra-niveles-muy-altos-ozono-catalunya-135145909",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/fc8dd2b1-936f-46b7-8853-d12ac3672490_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Tiempo en Catalunya mañana viernes: jornada soleada para dejar atrás el temporal aunque con avisos por viento y mala mar",
+      "link": "https://www.elperiodico.com/es/tiempo/20261008/tiempo-catalunya-hoy-viernes-lluvia-meteocat-dv-135144187",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a0c892bc-97de-4446-a1a2-04c2681a3100_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Tiempo en Catalunya hoy jueves: Más avisos por intensidad de lluvias y viento en Barcelona, Girona y Tarragona",
       "link": "https://www.elperiodico.com/es/tiempo/20261007/tiempo-catalunya-hoy-jueves-lluvias-barcelona-girona-tarragona-dv-135101507",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/47f4b202-1e1e-4eaa-a661-14f0b9038545_media-libre-aspect-ratio_default_0.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Las lluvias torrenciales barren el Ebro y el Camp de Tarragona y obligan a realizar 21 rescates de emergencia",
       "link": "https://www.elperiodico.com/es/tarragona/20261006/proteccio-civil-envia-alert-cuatro-comarcas-tarragona-ebro-135070609",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/1df44bbd-deb1-4183-83f8-cbff8a310666_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tiempo en Catalunya hoy miércoles: Siguen las lluvias y los avisos en Barcelona, Girona y Tarragona",
-      "link": "https://www.elperiodico.com/es/tiempo/20261006/tiempo-cataluna-hoy-miercoles-7-de-septiembre-lluvia-temperaturas-dv-loc-135067512",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/23d69da2-7b7f-4ec0-b0f4-cc136ebdeac5_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una bolsa de aire frío provocará más lluvias torrenciales en Catalunya: estos son los días clave",
-      "link": "https://www.elperiodico.com/es/tiempo/20261006/tiempo-barcelona-cataluna-bolsa-aire-frio-lluvias-temperaturas-dv-loc-135056264",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ed080573-2966-4c33-bed7-907cb04cd418_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

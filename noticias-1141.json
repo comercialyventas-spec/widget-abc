@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Muere un hombre tras contagiarse de mpox en el Hospital Donostia",
+      "link": "https://elpais.com/sociedad/2026-10-08/muere-un-hombre-por-mpox-o-viruela-del-mono-en-el-hospital-donostia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/BZOENGO2GZFS3GGTGXAAOEPECY.jpeg?auth=d9dead14f9cd833fa808e169179111ad26c992b882a22e279b3be2de037c3067&width=1200",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Polémica por un vídeo que obliga a revisar la actuación policial con una pistola táser dos días antes de la muerte de un joven en Santurtzi",
+      "link": "https://elpais.com/espana/pais-vasco/2026-10-08/polemica-por-un-video-que-obliga-a-revisar-la-actuacion-policial-con-una-pistola-taser-dos-dias-antes-de-la-muerte-de-un-joven-en-santurtzi.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QB6FWACI6BCS3PNBVOHXKTDBBY.jpg?auth=3db11fdcf2aac476b97794341dfdf85be4c785374c201201a9fadbc6e3f488f6&width=1200",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "‘Kill Jackie’, ‘Turn up Charlie’ y Jaime Gil de Biedma",
+      "link": "https://elpais.com/television/series/2026-10-07/kill-jackie-turn-up-charlie-y-jaime-gil-de-biedma.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/M3W4AROGWRDYNM7ZWOTATG52DA.jpg?auth=558797f7879ad3ebaa3fdc9c84fcce719574a72cc370df67bcae50f084f5fc70&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ayesa Digital se refuerza en IA con la compra de la empresa Kuik",
       "link": "https://elpais.com/hemeroteca/2026-10-06/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/IK42KBOB6ZC5VI4JGI7EYUZKLQ.png?auth=112441537d9dec67f7cc9f9fced813d6076459b6adbd16de14e93cec3115a7bb",
@@ -15,25 +33,7 @@
     {
       "titulo": "Illa, Rueda y Pradales se unen contra la amenaza centralista y reivindican la España “más allá de Madrid”",
       "link": "https://elpais.com/espana/2026-10-03/illa-rueda-y-pradales-se-unen-contra-la-amenaza-centralista-y-reivindican-la-espana-mas-alla-de-madrid.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/SJS3B57MQFFX7CLIDD7OOR4QYM.JPG?auth=bc5a700178feaecfc820840d7574a417a92bc3ea3753237cd9fd018ff9490516&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La meditación y los ritos de ayahuasca en el bosque se multiplican en España",
-      "link": "https://elpais.com/espana/2026-10-03/espana-lidera-en-europa-el-auge-de-los-centros-de-retiro-en-la-naturaleza.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/UFGUOEPMIZFZLFF6KHHRV445EE.jpg?auth=4882144dece6978c4abb18d779a89eefb7c75a8313329638d8acea323e1a0a4b&width=1200",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Varias ciudades salen a las calles para defender la vivienda: “Ha votado en contra de que podamos hacer un proyecto de vida”",
-      "link": "https://elpais.com/espana/2026-10-02/varias-ciudades-salen-a-las-calles-para-defender-la-vivienda-ha-votado-en-contra-de-que-podamos-hacer-un-proyecto-de-vida.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Bad Religion, Patti Smith y Wilco lideran el cartel del 25 aniversario del Azkena Rock",
-      "link": "https://elpais.com/cultura/2026-09-30/bad-religion-patti-smith-y-wilco-lideran-el-cartel-del-25-aniversario-del-azkena-rock.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/DMKHNA4T4HD7QBDOMLVXV3ZX5E.jpg?auth=da3091c503cbec55379cc4c51d17e218604d9687109d3d424f2884d34df1e126&width=414&height=311&focal=1904%2C764",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SJS3B57MQFFX7CLIDD7OOR4QYM.JPG?auth=bc5a700178feaecfc820840d7574a417a92bc3ea3753237cd9fd018ff9490516&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

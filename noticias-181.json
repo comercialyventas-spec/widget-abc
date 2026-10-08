@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Beiras",
+      "link": "https://www.lavozdegalicia.es/noticia/deza/a-estrada/2026/10/08/beiras/00031791473166808377934.htm",
+      "imagen": "https://www.lavozdegalicia.es/assets/themes/lvdg/img/og_image_default.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El bipartito cierra filas y pone en valor la labor de Begoña Vázquez",
       "link": "https://www.lavozdegalicia.es/noticia/deza/rodeiro/2026/10/08/bipartito-cierra-filas-pone-valor-labor-begona-vazquez/0003_202610D8C19915.htm",
       "imagen": "https://cflvdg.avoz.es/sc/CcVgmBl9s8Pa4W78C9B_pdpRiqg=/768x/2026/10/07/00121791396002734188507/Foto/DO8C1F1_195858.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La restitución de docentes de Audición en el CEIP de Silleda, al Parlamento",
       "link": "https://www.lavozdegalicia.es/noticia/deza/silleda/2026/10/08/restitucion-docentes-audicion-ceip-silleda-parlamento/0003_202610D8C2993.htm",
       "imagen": "https://www.lavozdegalicia.es/assets/themes/lvdg/img/og_image_default.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una ganadería de Lalín analiza las emisiones de metano para mejorar su sustentabilidad",
-      "link": "https://www.lavozdegalicia.es/noticia/somosagro/ganaderia/2026/10/08/ganaderia-lalin-analiza-emisiones-metano-mejorar-sustentabilidad/0003_202610D8C3993.htm",
-      "imagen": "https://cflvdg.avoz.es/sc/lKTcrxS21B9pFzjy8RwL0QYjPms=/768x/2026/10/07/00121791389883598281419/Foto/DO8C3F1_18174.jpg",
       "tipo": "imagen"
     }
   ]

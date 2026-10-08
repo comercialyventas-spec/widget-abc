@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Los perros grandes envejecen más rápido que los pequeños",
+      "link": "https://www.lavanguardia.com/ciencia/20261008/11654288/perros-grandes-envejecen-mas-rapido-pequenos.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2022/03/04/6221ab5f22102.r_d.2128-1416-1054.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Peste en Siberia, ¿tenemos que preocuparnos?",
       "link": "https://www.lavanguardia.com/ciencia/20261008/11654221/peste-siberia-preocuparnos.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/07/6ac625ac6aab1.r_d.1016-593-2245.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Una expedición española cruzará toda la Antártida con un vehículo de propulsión eólica",
       "link": "https://www.lavanguardia.com/natural/20261007/11653061/expedicion-espanola-cruzara-toda-antartida-vehiculo-propulsion-eolica.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/07/6ac615c549b1c.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La asimetría de las moléculas orgánicas, útil para producir fármacos, gana el Nobel de Química",
-      "link": "https://www.lavanguardia.com/ciencia/20261007/11648671/gana-nobel-quimica.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/07/6ac615a128bdd.r_d.835-611-2754.jpeg",
       "tipo": "imagen"
     }
   ]

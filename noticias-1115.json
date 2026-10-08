@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "AEMET prevé nublados y viento fresco en Zaragoza, con claros a lo largo del día",
+      "link": "https://okdiario.com/aragon/aemet-preve-nublados-y-viento-fresco-en-zaragoza-con-claros-a-lo-largo-del-dia-20509205",
+      "imagen": "https://okdiario.com/img/2026/01/12/viento-zaragoza-interior.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Nubosidad y chubascos en Zaragoza: AEMET prevé cambios atmosféricos hoy",
       "link": "https://okdiario.com/aragon/nubosidad-y-chubascos-en-zaragoza-aemet-preve-cambios-atmosfericos-hoy-20501294",
       "imagen": "https://okdiario.com/img/2026/10/07/lluvia-en-zaragoza.-europa-press.jpg",
@@ -28,12 +34,6 @@
       "titulo": "AEMET prevé chubascos y nubes en Zaragoza, con viento flojo y ambiente inestable hoy",
       "link": "https://okdiario.com/aragon/aemet-preve-chubascos-y-nubes-en-zaragoza-con-viento-flojo-y-ambiente-inestable-hoy-20477035",
       "imagen": "https://okdiario.com/img/2026/10/04/lluvia-en-zaragoza.-europa-press.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "AEMET prevé cielo nublado y chubascos en Zaragoza, con viento moderado en el valle del Ebro",
-      "link": "https://okdiario.com/aragon/aemet-preve-cielo-nublado-y-chubascos-en-zaragoza-con-viento-moderado-en-el-valle-del-ebro-20476955",
-      "imagen": "https://okdiario.com/img/2026/01/12/lluvias-zaragoza-interior-2.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,8 +1,26 @@
 {
   "noticias": [
     {
-      "titulo": "Héctor Álvarez se proclama campeón de Europa sub-23 de ciclismo",
+      "titulo": "Chava Jiménez y Ángel Arroyo: dos ciclistas barrocos comparten eternidad en la Castilla dura y austera",
       "link": "https://elpais.com/noticias/ciclismo/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/YMTQL3DZHFPINDFC4ASLOVINIA.jpg?auth=1f588e98cf4cf8b012b999005f5b26630a1a4822c8ff895344646084b0ca65a9&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cosecha de oro del ciclismo joven español en los Europeos contrarreloj",
+      "link": "https://elpais.com/deportes/ciclismo/2026-10-07/cosecha-de-oro-del-ciclismo-joven-espanol-en-los-europeos-contrarreloj.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/D35VMO353JFCNIG3Q55L7DCORA.JPG?auth=00cbb66e136e68b51338af13ef1580b82878c46c830c547de4435470fa007a74&width=1200",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Muere a los 70 años Ángel Arroyo, el ciclista de El Barraco que fue segundo en el Tour de 1983",
+      "link": "https://elpais.com/deportes/ciclismo/2026-10-05/muere-a-los-70-anos-angel-arroyo-segundo-en-el-tour-de-1983.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KFS5YLYGBND4HGCOCOXPTNPSHU.jpg?auth=5510a77f73a888e3c3c2a48136657f6026bdd7369ebadc95130cbe0e9d0eeee3&width=1200",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Héctor Álvarez se proclama campeón de Europa sub-23 de ciclismo",
+      "link": "https://elpais.com/deportes/ciclismo/2026-10-02/hector-alvarez-se-proclama-campeon-de-europa-sub-23-de-ciclismo.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/VKY5GU4LSJFZPOBDKYFSUC2LFU.jpeg?auth=30ea158243753e5c839d70136b6a30d1683454c8100a37e4ece70779e50b3667&width=414&height=233&smart=true",
       "tipo": "imagen"
     },
@@ -14,26 +32,8 @@
     },
     {
       "titulo": "Pogacar presiona al UAE para que le deje disputar el domingo el campeonato de Europa tras la fractura de clavícula en la Vuelta",
-      "link": "https://elpais.com/deportes/ciclismo/2026-09-28/pogacar-presiona-al-uae-para-que-le-deje-disputar-el-domingo-el-campeonato-de-europa-tras-la-fractura-de-clavicula-en-la-vuelta.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/CNODHS6P2NHH5B7KIS2H35VWS4.jpg?auth=c48b1b0905c78eb5e70e473aeb3e1c867c8087645c31c4ead407144d9198aff3&width=1200",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El sueño americano del trabajador Brandon McNulty, que gana el Mundial en Montreal",
-      "link": "https://elpais.com/deportes/ciclismo/2026-09-27/el-sueno-americano-del-trabajador-brandon-mcnulty-que-gana-el-mundial-en-montreal.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/S7T4T2GZZBGL7LJLXKS7FZOYDM.jpg?auth=66a4dcbf6f8a3015711782dbe286d27fdf01a65be933137b7251c1eabf11297a&width=414&height=233&focal=1232%2C752",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Benjamín Noval lidera el ‘boom’ del joven ciclismo español en los Mundiales de Montreal",
-      "link": "https://elpais.com/deportes/ciclismo/2026-09-27/benjamin-noval-lidera-el-boom-del-joven-ciclismo-espanol-en-los-mundiales-de-montreal.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/V2KIFTMPQRIUZN6TNWRDLCKMQY.jpg?auth=cd80917a2f21d6acb2406c9f76f2e36a291b66cd47802a0ab6708fd75558f5b7&width=1200",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Demi Vollering alcanza en Montreal el arcoíris que corona una gran carrera",
-      "link": "https://elpais.com/noticias/mundial-ciclismo/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/Q3V6FKWFFRF67FA4FLOLLODTNA.jpg?auth=8dcd5d20dcbeccc841b7de4b5d994e97403e13ca1821211f7363e04fa9e40d15&width=414&height=233&focal=1331%2C943",
+      "link": "https://elpais.com/noticias/ciclistas/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/CNODHS6P2NHH5B7KIS2H35VWS4.jpg?auth=c48b1b0905c78eb5e70e473aeb3e1c867c8087645c31c4ead407144d9198aff3&width=414&height=233&focal=723%2C198",
       "tipo": "imagen"
     }
   ]

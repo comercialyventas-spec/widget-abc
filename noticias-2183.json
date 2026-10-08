@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El radar de Meteocat suma 6,5 millones de consultas en una semana marcada por las lluvias torrenciales en Catalunya",
+      "link": "https://www.elperiodico.com/es/sociedad/20261008/radar-meteocat-visitas-semana-lluvias-temporal-135143784",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/e490716b-b2b3-4f1b-92b6-05a4aab58f37_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Fuerte caída de las adopciones de perros y gatos: solo se acoge el 42% de los que tienen los centros",
       "link": "https://www.elperiodico.com/es/medio-ambiente/20261008/fuerte-caida-adopciones-perros-gatos-135126284",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2bbe3fbd-246c-4454-80dd-12ef00f37bd4_media-libre-aspect-ratio_default_0.jpg",
@@ -9,11 +15,11 @@
     {
       "titulo": "Aparece en el Mediterráneo español un extraño sistema similar a un ciclón tropical: \"No, no son minihuracanes ni medicanes. Entramos en territorio desconocido\"",
       "link": "https://www.elperiodico.com/es/medio-ambiente/20261008/aparece-mediterraneo-espanol-extrano-sistema-135121377",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/38ba1a5e-70c7-42f4-adf7-7faf1ecb8e15_media-libre-aspect-ratio_default_0.jpg",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/528b0ca8-28ac-4d44-9b5b-8ba71f61a72a_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Alerta por lluvia en Catalunya, en directo: última hora del tiempo y el aviso naranja del Meteocat por precipitaciones intensas este jueves",
+      "titulo": "Alerta por lluvia en Catalunya, en directo: última hora del tiempo, el aviso del Meteocat por lluvias y el Plan Ventcat",
       "link": "https://www.elperiodico.com/es/sociedad/20261008/alerta-lluvias-tiempo-catalunya-barcelona-ultima-hora-directo-134748025",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/45508a4a-ea54-4aa6-ba2e-13f72b8e90b1_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "¿Por qué España es uno de los países europeos más afectados por el ozono malo’?",
       "link": "https://www.elperiodico.com/es/medio-ambiente/20261007/espana-paises-europeos-afectados-ozono-135083866",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/981c2bf9-e934-40e8-bdf2-2fe4f6119731_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Perito Moreno retrocede casi un kilómetro en solo cien días por el cambio climático",
-      "link": "https://www.elperiodico.com/es/medio-ambiente/20261006/perito-moreno-retrocede-kilometro-cien-135048465",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2f3ceee7-2913-4cee-93ec-246e1c33506a_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

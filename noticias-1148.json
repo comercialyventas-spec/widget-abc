@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El Supremo tumba el decreto del Gobierno para frenar las universidades ‘chiringuito’",
+      "link": "https://elpais.com/educacion/2026-10-08/el-supremo-tumba-el-decreto-para-frenar-las-universidades-chiringuito.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/6TXCE3JZVRKOZMVODHARWNGX7I.jpg?auth=43ec79b12fa2fa05c94823cdfb02e0a54271add1b90b0c3d715d8cd22eec6966&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La cólera de los estudiantes toma las calles de Francia",
+      "link": "https://elpais.com/internacional/2026-10-06/la-colera-de-los-estudiantes-toma-las-calles-de-francia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/LSITITSNWVK43LLF6Z2VVKBTW4.jpg?auth=6d6897e84da39bbbdbb0f93706f0adc0b064b4b229670aa2dde9b9feacb6566d&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "PISA 2025: en América Latina, la cuna todavía decide quién aprende",
       "link": "https://elpais.com/educacion/2026-10-06/pisa-2025-en-america-latina-la-cuna-todavia-decide-quien-aprende.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/WQZX726HYJAS5B46KSKHJTZWKU.jpg?auth=668da48ffac218e1464223dedd51b303cdbc7b86b9cb688e6fb1312490206b1b&width=414&height=311&smart=true",
@@ -20,19 +32,7 @@
     },
     {
       "titulo": "Aulas más atentas, multas y otras fórmulas para evitar que los alumnos falten al cole",
-      "link": "https://elpais.com/educacion/2026-10-01/aulas-mas-atentas-multas-y-otras-formulas-para-evitar-que-los-alumnos-falten-al-cole.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/NJIPL63JRJBGTKO3X3JUSYVG2U.jpg?auth=00004ee76d6b8e558d93b2ce3d076b42ccf54069c59dfef498ab12c89eb0cd5b&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Qué les pasa a los niños y niñas de primaria?",
-      "link": "https://elpais.com/educacion/2026-10-01/que-les-pasa-a-los-ninos-y-ninas-de-primaria.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/HAJCR6LHAWBHNJDKLF3NMW67PE.jpg?auth=6cda218980a0de3c82adf853a01a456cd6790c7d2112240032c9161ef47cccf7&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cataluña lidera la lucha normativa contra la proliferación descontrolada de centros privados de FP ‘online’",
-      "link": "https://elpais.com/noticias/fp-formacion-profesional/",
+      "link": "https://elpais.com/noticias/absentismo-escolar/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/SEJWTPYCSNDKVH3VOQNGOQGKKE.png?auth=b640870211b3a4af7ef9c423e5198d4a40e0b827510ab604d5a10c6ed173fac6",
       "tipo": "imagen"
     }

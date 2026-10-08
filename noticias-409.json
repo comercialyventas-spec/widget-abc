@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Luto en Brunéi: muere la princesa Zariah, hermana de la reina Saleha, doble cuñada del sultán Hassanal Bolkiah y prima de su marido",
+      "link": "https://www.vanitatis.elconfidencial.com/casas-reales/2026-10-08/luto-brunei-muere-princesa-zariah-hermana-reina-doble-cunada-sultan_4441449/",
+      "imagen": "https://images.ecestaticos.com/oJPBUM9lXWZiNzLSk1EPtrl5zaA=/0x0:2272x1278/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff4e%2Fd37%2F5dd%2Ff4ed375ddd094682e3e2501edc72bc32.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Victoria de Suecia, a punto de coincidir con un tiroteo en el Palacio Real de Estocolmo: el incidente que disparó todas las alarmas de seguridad",
+      "link": "https://www.vanitatis.elconfidencial.com/casas-reales/2026-10-08/victoria-suecia-tiroteo-palacio-real-estocolmo-alarmas-seguridad-disparos_4441284/",
+      "imagen": "https://images.ecestaticos.com/uZoY57KHwzG_m5nbHX5iPiZ8tXE=/0x91:1920x1171/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F735%2F48e%2F812%2F73548e8125fe68fb924eb9a31b9e5c39.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Máxima de Holanda y su traje con truco con el que cumple el patrón de una de sus citas favoritas",
+      "link": "https://www.vanitatis.elconfidencial.com/casas-reales/2026-10-08/maxima-holanda-traje-con-truco-patron-citas-favoritas-rojo-appeltjes-oranje_4441263/",
+      "imagen": "https://images.ecestaticos.com/JaRLxjJzoZiKxrFTmcdNBEagKfM=/0x200:1920x1280/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F778%2Fd0c%2Ff82%2F778d0cf825b9fb5918193bf8cd64bf7e.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El expríncipe Andrés logra que la Policía reconozca la ilegalidad de las órdenes que permitieron registrar dos de sus propiedades",
       "link": "https://www.vanitatis.elconfidencial.com/casas-reales/2026-10-08/giro-inesperado-caso-exprincipe-andres-policia-registro-ilegal-residencias_4441218/",
       "imagen": "https://images.ecestaticos.com/UCwow21s5MyAaZI3vJG-vM4KoaY=/0x0:1920x1080/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F1d5%2F160%2F96f%2F1d516096fbdbbae09ceddad3e80a33a1.jpg",
@@ -16,24 +34,6 @@
       "titulo": "\"Nada ha cambiado\": el reencuentro de Felipe VI con un antiguo compañero de regatas durante un acto en Helsinki",
       "link": "https://www.vanitatis.elconfidencial.com/casas-reales/2026-10-08/felipe-reencuentro-companero-regatas-vela-helsinki-thelen_4440994/",
       "imagen": "https://images.ecestaticos.com/CyzolTX-O27svXHvw_nRJVauqq8=/0x0:1264x1034/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7a1%2F3a7%2Fdf2%2F7a13a7df283c28c079570b78e7cd6f89.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mary de Dinamarca rescata su falda plisada más sofisticada y la transforma con el accesorio de leopardo de Prada",
-      "link": "https://www.vanitatis.elconfidencial.com/casas-reales/2026-10-08/reina-mary-falda-plisada-accesorio-leopardo-prada-fredensborg_4440922/",
-      "imagen": "https://images.ecestaticos.com/oEgsYl0KvKhmXiuA-bPRYbNaF2k=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F983%2Fd62%2F2e5%2F983d622e5edb7b2adab96f91909100a3.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Doña Letizia \"exporta\" la moda de La Rioja a Finlandia: el cuello mohair con el que apoya a una firma que busca conquistar el mercado internacional",
-      "link": "https://www.vanitatis.elconfidencial.com/casas-reales/2026-10-08/letizia-moda-rioja-finlandia-cuello-mohair-mantas-ezcaray_4440074/",
-      "imagen": "https://images.ecestaticos.com/KHDVSoFiK_d3FRoNhbDzP2aQ6B0=/0x0:2272x1512/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4ca%2F74e%2F2b6%2F4ca74e2b650c694e5615c5e45f9c7e85.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Muere el mir George Ali Murad Khan II, el último monarca vivo de la dinastía de Khairpur que ascendió al trono con 14 años",
-      "link": "https://www.vanitatis.elconfidencial.com/casas-reales/2026-10-07/muere-mir-george-ali-murad-khan-ii-ultimo-disnatia-khairpur-14-anos_4440613/",
-      "imagen": "https://images.ecestaticos.com/UjYULnOKtJlB3KX296oYssqMgyU=/0x0:1300x731/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc05%2Fd14%2F709%2Fc05d147096e7a34475b6ac668a83a433.jpg",
       "tipo": "imagen"
     }
   ]
