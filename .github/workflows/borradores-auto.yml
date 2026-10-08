@@ -1,0 +1,45 @@
+name: Borradores automáticos Blogger
+
+# Crea BORRADORES (nunca publica) de las filas de GENERADOR_NOTICIAS que tienen en la
+# columna F un blog configurado en migracion/borradores_auto.js y la columna REGIÓN rellena.
+# Pasada automática cada 6 horas en modo aplicar; a mano se puede lanzar en simular.
+on:
+  schedule:
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      modo:
+        description: 'simular (no cambia nada) / aplicar'
+        type: choice
+        options: [simular, aplicar]
+        default: simular
+      maximo:
+        description: 'Máximo de borradores por pasada'
+        default: '10'
+        required: true
+
+permissions:
+  contents: read
+
+concurrency:
+  group: borradores-auto
+  cancel-in-progress: false
+
+jobs:
+  crear:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Crear borradores
+        env:
+          CLIENT_ID: ${{ secrets.BLOGGER_CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.BLOGGER_CLIENT_SECRET }}
+          REFRESH_TOKEN: ${{ secrets.BLOGGER_REFRESH_TOKEN }}
+        run: node migracion/borradores_auto.js "${{ inputs.modo || 'aplicar' }}" "${{ inputs.maximo || '10' }}"
+á
