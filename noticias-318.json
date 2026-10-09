@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Carrie",
+      "link": "https://www.abc.es/play/series/daniel-mugica-carrie-20261009081210-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/09/carrie-R5qWMh1DliIDPOafG33KylJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Llega hoy a Netflix la serie basada en la vida de Raphael: tiene ocho episodios y está protagonizada por Carlos Santos",
+      "link": "https://www.abc.es/play/series/noticias/llega-hoy-netflix-serie-basada-vida-raphael-20261009200611-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/09/newspaint-1791372736222-1200x840-kOGD-R5PHwTVo0Wdo6SzFPQChIdO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Mala madre, peor padre",
       "link": "https://www.abc.es/play/series/criticas/lucia-cabanelas-mala-madre-peor-padre-20261009012504-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/09/este-eden-krm-U3021314079860CC-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "'Bajo la superficie', la sombra de 'Tiburón' acecha Terranova",
       "link": "https://www.abc.es/play/series/noticias/bajo-superficie-sombra-tiburon-acecha-terranova-20261007011003-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/07/Below-kvsB-U30211065584094D-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "'Blanco', la película sobre el secuestro de Miguel Ángel Blanco, comenzará su rodaje el 19 de octubre",
-      "link": "https://www.abc.es/play/series/noticias/blanco-pelicula-sobre-secuestro-miguel-angel-blanco-20261007142034-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/07/1203174307-RNdvJGtLZyp1tcB1cR94EPO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La nueva 'Carrie' o cómo el rey del terror resucita otro clásico sin repetirlo",
-      "link": "https://www.abc.es/play/series/noticias/nueva-carrie-reto-resucitar-clasico-repetirlo-20261005010900-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/05/First_Look_1_3000-RFlHOHbjTA5kYHtfOx48ImN-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

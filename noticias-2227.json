@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Evento sociocultural en Carretera de Villaverde a Vallecas. Afectadas 3 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261011-Pasacalles-Dia-Hispanidad-Villaverde.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Evento sociocultural en zona Cibeles. Afectadas 25 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261012-Piromusical-Plaza-Cibeles.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -27,12 +33,6 @@
     {
       "titulo": "Obras: Cedaceros. Afectadas 2 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261010-O-Cedaceros.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Evento sociocultural en zona Palacio. Afectadas 3 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261011-PC-Musica-Militar-Centro.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

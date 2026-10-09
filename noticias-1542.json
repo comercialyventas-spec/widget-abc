@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Decreto vivienda",
-      "link": "https://www.eldiario.es/economia/prorrogas-precios-congelados-cambia-inquilinos-caseros-entrada-vigor-decreto-vivienda_1_13571231.html",
-      "imagen": "https://static.eldiario.es/clip/41a798dc-69d5-4de1-96df-f5ef134877ea_facebook-aspect-ratio-1200-675_default_0_x506y615.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Fichajes La Séptima",
       "link": "https://www.eldiario.es/vertele/noticias/la-septima-anuncia-16-nuevos-reporteros-incorporaciones-mananeros-360-telecinco_1_13573516.html",
       "imagen": "https://static.eldiario.es/clip/779a09af-1754-4365-8596-5c8a301fc89c_facebook-vertele-watermarked-aspect-ratio-1200-675_default_0.jpg",
@@ -14,15 +8,15 @@
     },
     {
       "titulo": "Xose Manuel Beiras",
-      "link": "https://www.eldiario.es/galicia/muere-90-anos-xose-manuel-beiras-intelectual-dirigente-nacionalismo-gallego-importante-castelao_1_13565454.html",
-      "imagen": "https://static.eldiario.es/clip/081f4d51-5ae7-4a67-a9c3-d2139cae15be_facebook-aspect-ratio-1200-675_default_0_x1336y208.jpg",
+      "link": "https://www.eldiario.es/galicia/xunta-niega-declarar-luto-oficial-muerte-xose-manuel-beiras_1_13572903.html",
+      "imagen": "https://static.eldiario.es/clip/63439b98-c4b0-498a-85dd-94fc6365daa7_facebook-aspect-ratio-1200-675_default_0_x1397y606.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Oposiciones RTVE",
-      "link": "https://www.eldiario.es/vertele/noticias/rtve-acusados-filtrar-examen-acceso-oposiciones-enfrentan-peticiones-seis-anos-carcel_1_13568754.html",
-      "imagen": "",
-      "tipo": ""
+      "titulo": "Supervivientes All Stars",
+      "link": "https://www.eldiario.es/vertele/noticias/supervivientes-all-stars-3-sorprende-expulsion-interruptus-abandono-prescripcion-medica_1_13573894.html",
+      "imagen": "https://static.eldiario.es/clip/e393cb07-8edf-4e62-ab9b-40d89cb65e4a_facebook-vertele-watermarked-aspect-ratio-1200-675_default_0.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Festivo 9 octubre",
@@ -33,6 +27,12 @@
     {
       "titulo": "Semana Santa 2027",
       "link": "https://www.eldiario.es/sociedad/semana-santa-2027-fechas-caen-festivos-comunidad_1_13561847.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "Trivial actualidad",
+      "link": "https://www.eldiario.es/juegos/game/trivial-de-actualidad/",
       "imagen": "",
       "tipo": ""
     }

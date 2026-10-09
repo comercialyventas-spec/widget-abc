@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en directo, en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-10-09/el-pulso-de-hoy-por-hoy-en-el-pais.html",
+      "imagen": "https://www.youtube.com/watch?v=xjjvVz8kIl0",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La seguridad del voto por correo: trazabilidad, bandejas precintadas y videovigilancia",
+      "link": "https://elpais.com/videos/2026-10-09/la-seguridad-del-voto-por-correo-trazabilidad-bandejas-precintadas-y-videovigilancia.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261008/1223374_174319_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Así se refugian los migrantes en el barrio de El Príncipe y en los bosques de Ceuta",
+      "link": "https://elpais.com/videos/2026-10-09/asi-se-refugian-los-migrantes-en-el-barrio-de-el-principe-y-en-los-bosques-de-ceuta.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261008/1223423_200150_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "De la Puerta del Sol a la casa de Maricarmen: así ha sido el recorrido de la marcha",
       "link": "https://elpais.com/videos/2026-10-08/de-la-puerta-del-sol-a-la-casa-de-maricarmen-asi-ha-sido-el-recorrido-de-la-marcha.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261008/1223422_195616_video_1800.mp4",
@@ -16,24 +34,6 @@
       "titulo": "Los vecinos de Maricarmen la despiden entre altares improvisados: “Era tremendamente luchadora”",
       "link": "https://elpais.com/videos/2026-10-08/los-vecinos-de-maricarmen-la-despiden-entre-altares-improvisados-era-tremendamente-luchadora.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261008/1223290_151621_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los poemas de Anne Carson recitados en castellano por autores españoles",
-      "link": "https://elpais.com/videos/2026-10-08/los-poemas-de-anne-carson-recitados-en-castellano-por-autores-espanoles.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261008/1223208_113705_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una persona que acompañó a Maricarmen, el día de su desahucio: “Hace seis meses andaba por este bulevar”",
-      "link": "https://elpais.com/espana/2026-10-08/una-persona-que-acompano-a-maricarmen-el-dia-de-su-desahucio-hace-seis-meses-andaba-por-este-bulevar.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261008/1223190_110509_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Maricarmen, un símbolo que protagonizará muchas mañanas y tardes de esta campaña electoral",
-      "link": "https://elpais.com/videos/2026-10-08/maricarmen-un-simbolo-que-protagonizara-muchas-mananas-y-tardes-de-esta-campana-electoral.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261008/1223152_090248_video_1800.mp4",
       "tipo": "imagen"
     }
   ]

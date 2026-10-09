@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La AEMET confirma un gran descenso de las temperaturas en el día de la Comunidad Valenciana",
+      "link": "https://okdiario.com/comunidad-valenciana/aemet-confirma-gran-descenso-temperaturas-dia-comunidad-valenciana-20513384",
+      "imagen": "https://okdiario.com/img/2026/10/08/imagen_recortada-9.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Ayuntamiento de Valencia suspende la mascletá del ‘9 d’octubre’ y señala a la delegada del Gobierno",
       "link": "https://okdiario.com/comunidad-valenciana/ayuntamiento-valencia-suspende-mascleta-del-9-doctubre-senala-delegada-del-gobierno-20513865",
       "imagen": "https://okdiario.com/img/2026/10/08/acampada-valencia.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Pérez Llorca al PSOE: «Sólo les falta pedir a un sicario que vaya a buscarme como han hecho con la juez de Extremadura»",
       "link": "https://okdiario.com/comunidad-valenciana/perez-llorca-psoe-solo-les-falta-pedir-sicario-que-vaya-buscarme-como-hicieron-juez-extremadura-20510429",
       "imagen": "https://okdiario.com/img/2026/10/08/juanfran-perez-llorca.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Vox no participa en el minuto de silencio en las Cortes promovido por el PSOE porque «sus políticas han matado a Maricarmen»",
-      "link": "https://okdiario.com/comunidad-valenciana/vox-no-participa-minuto-silencio-cortes-promovido-psoe-porque-sus-politicas-han-matado-maricarmen-20507198",
-      "imagen": "https://okdiario.com/img/2026/10/08/cortes-valencianas-maricarmen.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Calamares de campo, la receta de posguerra que sigue estando buenísima",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-09/calamares-de-campo-la-receta-de-posguerra-que-sigue-estando-buenisima.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/LF77OE6BCNFIHBHE2WXXGD7AUU.jpg?auth=19b00e6cf21fa66227c8fc4ba1d912daecdf3348f3f4aa9d3ccd7daea38716f7",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Tanto discutir si las casas del futuro van a tener cocina cuando lo que no va a tener la gente es casa",
+      "link": "https://elpais.com/gastronomia/2026-10-09/tanto-discutir-si-las-casas-del-futuro-van-a-tener-cocina-cuando-lo-que-no-va-a-tener-la-gente-es-casa.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/H6JWWAOP7RD6PDFH2GC7B3OGIU.jpg?auth=101316c6fc58ee93f9a752e862ac08d35c1108c71d018c12397caa3081c334e1",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La mocadorà: las frutas y verduras de mazapán con las que los valencianos se declaran su amor cada 9 de octubre",
+      "link": "https://elpais.com/gastronomia/2026-10-09/la-mocadora-las-frutas-y-verduras-de-mazapan-con-las-que-los-valencianos-se-declaran-su-amor-cada-9-de-octubre.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/BP46IXT6F5AR7EQ3OAZSECLLEI.TIF?auth=d532ac6204eb12721dc103d5aa93cd82e633dbe1e7e1c1b8eae064df0ff654d7",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Bernal a Costa, el restaurante de Valencia donde una millenial y una GenZ quieren darte de comer como lo haría tu abuela",
       "link": "https://elpais.com/gastronomia/2026-10-08/bernal-a-costa-el-restaurante-de-valencia-donde-una-millenial-y-una-genz-quieren-darte-de-comer-como-lo-haria-tu-abuela.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/F3HHW7GO2BHZRALO5335CJV4LA.jpg?auth=fd019362a0464dcab77691d0d7918185a007d9d97f09eee52980c7e72cf0b173",
@@ -16,24 +34,6 @@
       "titulo": "Ensalada templada de calabaza, mango y rúcula",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-10-08/ensalada-templada-de-calabaza-mango-y-rucula.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/E6QETPQR4VA7HMLOXX42YOSPQI.jpg?auth=314d3a13651ec4637f11b01a6b866c31169f835eaf8b9e9097ba01455becb954",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Seis bares españoles entre los mejores del mundo",
-      "link": "https://elpais.com/gastronomia/2026-10-07/seis-bares-espanoles-entre-los-mejores-del-mundo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/SI223G23V5G3BE3ERLVEOSUQFE.jpg?auth=2fa8875f72e14f3b411d9e6562e15c90b9673027c302db2ab8705931bbfcaec6",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El mercado que une culturas",
-      "link": "https://elpais.com/gastronomia/2026-10-07/el-mercado-que-une-culturas.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/5AAQPF4QPJFKRDZLUKBXFHJEFQ.JPG?auth=e4c6b966ce3d54b0fe5bf174b7020e8003dfd431e18c970b10b7e0f1d85c0ba5",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La bronca de la tortilla de patatas ya no está en la cebolla: ahora está en el punto de cuajado",
-      "link": "https://elpais.com/gastronomia/2026-10-07/la-bronca-de-la-tortilla-de-patatas-ya-no-esta-en-la-cebolla-ahora-esta-en-el-punto-de-cuajado.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/HKVSXMKOEROG5JMVJ5YN2LV6VM.jpg?auth=0cc69ccd3234fb4684f82972dd358148314eb9848b1993b4ade9f8ab4da2478b",
       "tipo": "imagen"
     }
   ]

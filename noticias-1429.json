@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Esta película podría eclipsar la carrera al Oscar de los Javis: \"Cuando termina, te hace sentir diferente\"",
+      "link": "https://www.elconfidencial.com/cultura/cine/2026-10-09/pelicula-eclipsa-carrea-oscar-la-bola-negra-javis-1qrt_4440930/",
+      "imagen": "https://images.ecestaticos.com/GrA0MY9RWyhgXn5iB6t9KCslbsk=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F6e4%2Fd15%2F474%2F6e4d1547408350a20d8d3a6ebd5d9252.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Por qué Mark Zuckerberg no quiere que veas esta nueva película sobre Facebook",
+      "link": "https://www.elconfidencial.com/cultura/2026-10-09/mark-zuckerberg-no-quiere-que-veas-esta-nueva-pelicula_4440315/",
+      "imagen": "https://images.ecestaticos.com/_XKTJ_1Fn4syTOeatM4tKd4ZzN0=/0x0:800x401/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F70e%2F43f%2F8ca%2F70e43f8ca611d17b21028761e416abd3.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "'NAZA': espionaje y exterminio en boca de los perpetradores",
+      "link": "https://www.elconfidencial.com/cultura/2026-10-09/naza-documental-venecia-gaza_4440742/",
+      "imagen": "https://images.ecestaticos.com/ACGJxVLLLsFRuxLfXywMvvDPZsc=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe97%2Fb96%2Fd38%2Fe97b96d38a4091caa75bee30aca51e2f.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "\"Tienes que matar a tu cita de Tinder\": la película más extrema y divertida para ver en Halloween acaba de llegar a Movistar Plus+",
       "link": "https://www.elconfidencial.com/cultura/cine/2026-10-08/pelicula-halloween-cita-tinder-movistarplus-1qrt_4440988/",
       "imagen": "https://images.ecestaticos.com/ebk98J6Z1EZhkX5gjn00w0kA_Ng=/0x0:1269x760/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F8b0%2F79b%2Fbbf%2F8b079bbbfd1dbb3a64911250c0ffe2e2.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Eva Marie Saint, y su trabajo en 'Con la muerte en los talones': \"Hitchcock me veía como una espía sexy. Quería una rubia fría\"",
       "link": "https://www.elconfidencial.com/cultura/cine/2026-10-08/eva-marie-saint-hitchcock-rubia-espia-sexy-1qrt_4440213/",
       "imagen": "https://images.ecestaticos.com/O7wggDcI7nROyKqe4mPP3cWlsas=/0x0:1115x747/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F750%2Fea8%2Fe94%2F750ea8e9410544373596bf81301a8b0c.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Pedro Ruiz, presentador, 79 años, después de ver 'La bola negra': \"Es una peliculaza. Denuncia con todo derecho a los machirulos y a los carcas\"",
-      "link": "https://www.elconfidencial.com/television/2026-10-08/la-bola-negra-opinion-pedro-ruiz-machirulos-carcas-1qrt_4440253/",
-      "imagen": "https://images.ecestaticos.com/IPaLPmSICepc-eQBXTcVuEawsqU=/0x0:508x390/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F433%2Ff89%2F9e9%2F433f899e9014916c30668578b114c2c1.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los Javis, directores de 'La bola negra': \"Enviamos un documento a todo nuestro equipo de pelis que hay que ver y lecturas que hay que hacer\"",
-      "link": "https://www.elconfidencial.com/cultura/cine/2026-10-07/la-bola-negra-javier-calvo-ambrossi-documento-referentes-1qrt_4439509/",
-      "imagen": "https://images.ecestaticos.com/Bb8lsquU4_8N5nI4vuDarrJiRas=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F463%2F973%2F4b8%2F4639734b868fd8f95b625a41c75f5c44.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "30 años de 'Matilda': Danny DeVito agota las entradas de la película en el Festival de Sitges",
-      "link": "https://www.elconfidencial.com/cultura/cine/2026-10-07/festival-de-sitges-danny-devito-matilda-30-aniversario-1qrt_4439606/",
-      "imagen": "https://images.ecestaticos.com/dxIEC0w2Lr04SDoUo_D7n4U-6lc=/0x0:1121x672/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4e6%2F7e0%2Fc2f%2F4e67e0c2f123d6f1916783e55518ff1b.jpg",
       "tipo": "imagen"
     }
   ]

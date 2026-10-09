@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Cielo despejado y temperaturas en descenso en Barcelona, según AEMET",
+      "link": "https://okdiario.com/cataluna/cielo-despejado-y-temperaturas-en-descenso-en-barcelona-segun-aemet-20517136",
+      "imagen": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El pueblo catalán que inspiró una de las canciones más famosas de Serrat y que se ha convertido en el refugio del chef Jordi Cruz",
       "link": "https://okdiario.com/cataluna/pueblo-catalan-que-inspiro-canciones-mas-famosas-serrat-que-convertido-refugio-del-chef-jordi-cruz-20511794",
       "imagen": "https://okdiario.com/img/2026/10/08/calella-de-palafrugell3.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Una andaluza relata cuál es su problema con el catalán: «Si tuviera que odiar a alguien sería al que puso…»",
       "link": "https://okdiario.com/cataluna/andaluza-relata-cual-problema-catalan-si-tuviera-que-odiar-alguien-seria-que-puso-20487170",
       "imagen": "https://okdiario.com/img/2026/10/05/una-andaluza-relata-cual-es-su-problema-con-el-catalan-si-tuviera-que-odiar-a-alguien-seria-al-que-puso....jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Previsión AEMET en Barcelona: cielo nublado, chubascos intensos y vientos moderados del suroeste",
-      "link": "https://okdiario.com/cataluna/prevision-aemet-en-barcelona-cielo-nublado-chubascos-intensos-y-vientos-moderados-del-suroeste-20501166",
-      "imagen": "https://okdiario.com/img/2026/01/12/lluvias-barcelona-interior.jpg",
       "tipo": "imagen"
     }
   ]

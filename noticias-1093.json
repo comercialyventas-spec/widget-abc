@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "29-N: el Chernóbil de Sánchez",
+      "link": "https://www.elconfidencial.com/espana/tribuna/2026-10-09/sanchez-elecciones-realidad-chernobil-1hms_4440552/",
+      "imagen": "https://images.ecestaticos.com/u4KTh24oIABTdF_HIW0Lu-s8cPg=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2ec%2F77d%2Ff7c%2F2ec77df7c39dadc087722a43e84a429d.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Fed-Realismo",
       "link": "https://www.elconfidencial.com/espana/tribuna/2026-10-08/federalismo-reforma-estado-espana-consenso-1hms_4440532/",
       "imagen": "https://images.ecestaticos.com/uDRjl5aZkNDTJ5sFXjobz6B4Q_Q=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd7e%2F892%2Fdbd%2Fd7e892dbd062164bd2579ba91985bdf4.jpg",
@@ -13,15 +19,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "El estado de la Unión: gato encerrado. Dispersión, conmoción, mutis",
-      "link": "https://www.elconfidencial.com/espana/tribuna/2026-10-02/union-europea-integracion-reforma-1hms_4436310/",
-      "imagen": "https://images.ecestaticos.com/Lys9Xx088y6kE3xNWUwo-Be7Afs=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F15b%2F470%2Fe0d%2F15b470e0d249814b9997944e8fd462f2.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "La sombra de Battaner sobrevuela la fusión entre Caja Duero y Caja España",
       "link": "https://blogs.elconfidencial.com/espana/el-confidente/2026-09-05/la-sombra-de-battaner-sobrevuela-la-fusion-entre-caja-duero-y-caja-espana_441583/",
-      "imagen": "https://sb.scorecardresearch.com/b?c1=2&c2=7215267&ns__t=1791507913&ns_c=UTF-8&c8=BLOGS&c7=https%3A%2F%2Frss.blogs.elconfidencial.com%2F&c9=https%3A%2F%2Fwww.elconfidencial.com%2F",
+      "imagen": "https://sb.scorecardresearch.com/b?c1=2&c2=7215267&ns__t=1791532426&ns_c=UTF-8&c8=BLOGS&c7=https%3A%2F%2Frss.blogs.elconfidencial.com%2F&c9=https%3A%2F%2Fwww.elconfidencial.com%2F",
       "tipo": "imagen"
     },
     {

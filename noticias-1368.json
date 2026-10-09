@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El microbioma intestinal influye en efectos adversos de la vacunación como la fiebre",
+      "link": "https://elpais.com/salud-y-bienestar/2026-10-08/el-microbioma-intestinal-influye-en-efectos-adversos-de-la-vacunacion-como-la-fiebre.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/LFN6WYODAVP2PAFZSYR5T7ZIH4.jpg?auth=34d60d7786ccd6bfb2d21214319b6eb8a60537cbbe8b1dcaf61a14098675ca18",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Muere Margaret Hamilton, la mujer que enseñó al ordenador del Apolo a no perder los nervios sobre la Luna",
       "link": "https://elpais.com/ciencia/2026-10-08/muere-margaret-hamilton-la-pionera-de-la-informatica-que-hizo-posible-la-llegada-a-la-luna.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/KK4VFO7X2BFBZBDD35J3V24BQI.jpg?auth=af5f46360fe035550dedff0e9ae5e8df80235c4d5e782454869cf979df4e540c",
@@ -28,12 +34,6 @@
       "titulo": "Premio Nobel de Química para Henri Kagan y Kenso Soai por arrojar luz en el misterio de las asimetrías de la naturaleza",
       "link": "https://elpais.com/ciencia/2026-10-07/premio-nobel-de-quimica.html",
       "imagen": "https://www.youtube.com/watch?v=a9Bhx9wEt8U",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Rosalind Franklin sí había visto la hélice: una foto olvidada cambia la historia de la estructura del ADN",
-      "link": "https://elpais.com/ciencia/2026-10-07/rosalind-franklin-si-habia-visto-la-helice-una-foto-olvidada-cambia-la-historia-de-la-estructura-del-adn.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/KJZJLLE6A5AVHKMKOU4VYY3P6I.jpg?auth=a5e7ef8db51e906ce13be376df673425a1ae73a3fdcc7dbef262efd52d66d478",
       "tipo": "imagen"
     }
   ]
