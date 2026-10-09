@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un terremoto de 3,6 grados afecta a la Comarca de Pamplona y es sentido por la población",
+      "link": "https://www.abc.es/espana/navarra/terremoto-grados-afecta-comarca-pamplona-sentido-poblacion-20261009112839-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/09/1518463288-kx1G-U3021543230563JH-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un «entramado» proetarra planeó la agresión a militares en Navarra en la final del Mundial",
       "link": "https://www.abc.es/espana/navarra/agresion-militares-bar-berriozar-final-mundial-ejecuto-20260930121108-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/30/IMG-20260930-WA0000.jpg-U301969198004ca-1200x840@diario_abc.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "El Tribunal Superior de Navarra confirma el despido de un carpintero que se cogió 17 días más de vacaciones",
       "link": "https://www.abc.es/espana/navarra/tribunal-superior-navarra-confirma-despido-carpintero-cogio-20260916150351-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/16/OFICINA-EMPLEO-NAVARRA-kwBI-U301748207574STD-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Al menos 47 heridos, tres de ellos graves, tras explotar varios cohetes en el chupinazo de Noáin (Navarra)",
-      "link": "https://www.abc.es/espana/navarra/heridos-tres-graves-tras-explotar-varios-cohetes-20260826144400-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/26/image%20(6)-U20609936686mCC-U3014387675982yH-1200x840@diario_abc.png",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un tornado azota localidades del oeste de Sicilia",
+      "link": "https://www.lavanguardia.com/sucesos/20261009/11655322/tornado-azota-localidades-oeste-sicilia-causando-danos.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Hallan los cuerpos de una pareja con indicios de muerte violenta en Valverde del Júcar",
       "link": "https://www.lavanguardia.com/local/castilla-la-mancha/20261008/11654599/hallan-cuerpos-hombre-mujer-indicios-muerte-violenta-valverde-jucar.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/04/24/69ea9b42e1936.r_d.691-766-0.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Investigan el hallazgo de un cadáver en un vehículo en una riera de El Vendrell",
       "link": "https://www.lavanguardia.com/sucesos/20261007/11653693/investigan-hallazgo-cadaver-vehiculo-riera-vendrell.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/07/22/687f6ef5c7a19.r_d.796-454-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Muere un cirujano al recibir varios disparos en la cabeza en su clínica de Marbella",
-      "link": "https://www.lavanguardia.com/local/andalucia/20261007/11653637/muere-hombre-57-anos-recibir-disparos-cabeza-marbella.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/08/690f416ebc87d.r_d.1030-658-0.jpeg",
       "tipo": "imagen"
     }
   ]

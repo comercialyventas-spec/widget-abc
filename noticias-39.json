@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "¿Qué tiempo hará en el puente del Pilar? Las lluvias darán una tregua",
+      "link": "https://www.lavanguardia.com/natural/20261009/11655287/puente-pilar-vendra-acompanado-temperaturas-alza-lluvias-puntuales.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2023/10/01/6519850ee5878.r_d.2209-1651-1055.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las aguas del Pacífico de las que se nutre 'El Niño' presentan las temperaturas más altas jamás registradas",
+      "link": "https://www.lavanguardia.com/natural/20261009/11655044/aguas-pacifico-nutre-nino-presentan-temperaturas-mas-altas-registradas.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/09/6ac8b0d83da11.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Rescatan en Florida a una aguililla de cola roja atrapada en un desagüe",
       "link": "https://www.lavanguardia.com/natural/20261008/11654178/rescatan-florida-aguililla-cola-roja-atrapada-desaguee.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/08/6ac775f37c3b3.r_d.327-388-0.jpeg",
@@ -22,18 +34,6 @@
       "titulo": "Cantabria confirma el primer caso de virus de Shamonda en ganado vacuno",
       "link": "https://www.lavanguardia.com/vida/20261007/11653418/cantabria-confirma-primer-caso-virus-shamonda-ganado-vacuno.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/04/29/644d6d5a384d0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una expedición española cruzará toda la Antártida con un vehículo de propulsión eólica",
-      "link": "https://www.lavanguardia.com/natural/20261007/11653061/expedicion-espanola-cruzara-toda-antartida-vehiculo-propulsion-eolica.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/07/6ac615c549b1c.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Hasta cuándo va a llover en Catalunya?",
-      "link": "https://www.lavanguardia.com/local/catalunya/20261007/11653057/cuando-llover-catalunya.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/05/6ac415dfd9ca8.r_d.3948-2633-0.jpeg",
       "tipo": "imagen"
     }
   ]

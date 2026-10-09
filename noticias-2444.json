@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El caso Daniel Sancho se convierte en miniserie en Netflix",
+      "link": "https://www.diariocritico.com/television/caso-daniel-sancho-se-convierte-miniserie-netflix",
+      "imagen": "https://www.diariocritico.com/fotos/1/sancho-1.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Broncano y 'La Revuelta' visitan el Macondo Park para entrevistar a Shakira",
       "link": "https://www.diariocritico.com/television/broncano-revuelta-visitan-macondo-park-para-entrevistar-shakira",
       "imagen": "https://www.diariocritico.com/fotos/1/shakira_1-aef3a164f4aa.jpg",
@@ -28,12 +34,6 @@
       "titulo": "España aboga por seguir fuera de Eurovisión en 2027 y mantener el veto a Israel",
       "link": "https://www.diariocritico.com/television/rtve-propone-espana-siga-sin-participar-eurovision-2027",
       "imagen": "https://www.diariocritico.com/fotos/1/eurovision-fb09e8f0aa3b.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El programa de Jesús Vázquez, fuera: RTVE acelera el fin de 'El túnel'",
-      "link": "https://www.diariocritico.com/television/tve-acelera-fin-programa-jesus-vazquez-baja-audiencia",
-      "imagen": "https://www.diariocritico.com/fotos/1/tunel-jesus-vazquez.jpg",
       "tipo": "imagen"
     }
   ]

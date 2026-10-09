@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Barcelona pierde ante Ginebra la sede del congreso mundial aeroespacial en 2029",
+      "link": "https://www.lavanguardia.com/local/barcelona/20261009/11655098/barcelona-pierde-ginebra-sede-congreso-mundial-aeroespacial-2029.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/04/05/69d250dc517e2.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los perros grandes envejecen más rápido que los pequeños",
       "link": "https://www.lavanguardia.com/ciencia/20261008/11654288/perros-grandes-envejecen-mas-rapido-pequenos.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2022/03/04/6221ab5f22102.r_d.2128-1416-1054.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Restos de madera de hace más de 40.000 años hallados en Barcelona revelan que los neandertales fueron expertos carpinteros",
       "link": "https://www.lavanguardia.com/ciencia/20261007/11653225/restos-madera-mas-40000-anos-hallados-barcelona-revelan-neandertales-expertos-carpinteros.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/07/6ac621b103560.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una expedición española cruzará toda la Antártida con un vehículo de propulsión eólica",
-      "link": "https://www.lavanguardia.com/natural/20261007/11653061/expedicion-espanola-cruzara-toda-antartida-vehiculo-propulsion-eolica.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/07/6ac615c549b1c.jpeg",
       "tipo": "imagen"
     }
   ]

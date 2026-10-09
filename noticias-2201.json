@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Agentes del ICE en Nueva York disparan a un hombre delante de su hijo de cinco años",
+      "link": "https://www.elperiodico.com/es/videos/internacional/agentes-ice-nueva-york-disparan/135165623.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/e88d624a-13e7-4ca5-b757-aeca51af5da5_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Estudiantes franceses protestan en la Plaza de la Bastilla de París",
       "link": "https://www.elperiodico.com/es/videos/internacional/estudiantes-franceses-protestan-plaza-bastilla/135148563.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/81a1d34e-26fc-45a7-ab64-2e2fc8228dc7_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Francia hace desde un submarino el primer lanzamiento de prueba de un misil nuclear M51",
       "link": "https://www.elperiodico.com/es/videos/internacional/francia-submarino-primer-lanzamiento-prueba/135063248.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b4ce5efc-4d49-4c37-a92e-84ad5b928701_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Así derriba Rusia 868 drones ucranianos",
-      "link": "https://www.elperiodico.com/es/videos/internacional/derriba-rusia-868-drones-ucranianos/135052939.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8e530ac7-8170-433e-bb05-b6d180339084_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

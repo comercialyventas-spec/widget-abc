@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Berkeley vuela un 60% en bolsa en solo seis días (y es por el anuncio de elecciones)",
+      "link": "https://www.elconfidencial.com/mercados/2026-10-09/berkeley-vuela-un-60-en-bolsa_4441746/",
+      "imagen": "https://images.ecestaticos.com/ZoG35eGaDHA74YJf4X1oHO3DmY0=/0x0:2272x1387/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F625%2F583%2F8ed%2F6255838ede29c6cc99db87f916edb666.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "MyInvestor eleva hasta el 3% TAE la rentabilidad de su depósito a seis meses",
+      "link": "https://www.elconfidencial.com/mercados/2026-10-09/myinvestor-mejora-remuneracion-depositos-1hms_4441697/",
+      "imagen": "https://images.ecestaticos.com/T649bQm1ltgTyxFS-_uL3wT_H5E=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F0be%2F5d1%2F352%2F0be5d1352e67a18e1d002742405f4974.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Self Bank sube la rentabilidad de sus depósitos a tres y seis meses al 2,55% TAE",
+      "link": "https://www.elconfidencial.com/mercados/2026-10-09/self-bank-mejora-rentabilidad-depositos-1hms_4441641/",
+      "imagen": "https://images.ecestaticos.com/u6_cOGiyGdChOf9OhShFjIVXn2M=/0x0:2272x1299/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F057%2F31d%2F879%2F05731d8795e19b9ca06cadb62a85eec9.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Openbank rompe el mercado de las cuentas remuneradas y depósitos para competir con los neobancos",
       "link": "https://www.elconfidencial.com/mercados/2026-10-08/openbank-cuenta-remunerada-deposito-tipos-de-interes_4440467/",
       "imagen": "https://images.ecestaticos.com/NMhnvqk1FSxbcECLfZiZu-3T14M=/0x0:2000x1333/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F24a%2F86a%2F4ad%2F24a86a4adcb722da0c6259b6e5c961bf.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Airtificial sube un 4% tras lograr un contrato de 5,7 millones para fabricar coches eléctricos en EEUU",
       "link": "https://www.elconfidencial.com/mercados/2026-10-07/airtificial-contrato-linea-vehiculos-electricos-1tps_4440713/",
       "imagen": "https://www.ecestaticos.com/imagestatic/clipping/57e/d61/57ed61d243b88d56e30ad1ab58875bd1/como-europa-puede-convertirse-en-una-superpotencia-en-robots-humanoides-que-plante-cara-a-eeuu-y-china.jpg?mtime=1788611726",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Fed no descarta otra subida de tipos para fin de año, según actas de reunión de septiembre",
-      "link": "https://www.elconfidencial.com/mercados/2026-10-07/fed-nueva-subida-tipos-inflacion-1tps_4440710/",
-      "imagen": "https://www.ecestaticos.com/imagestatic/clipping/d5d/a3c/d5da3c1337164688bee719e9b4a52425/la-reserva-federal-sube-tipos-por-primera-vez-en-tres-anos-y-desafia-a-trump.jpg?mtime=1789568780",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Wall Street cierra en rojo tras alcanzar el rendimiento de los bonos su récord desde 2002",
-      "link": "https://www.elconfidencial.com/mercados/2026-10-07/wall-street-cierra-baja-bonos-1tps_4440709/",
-      "imagen": "https://sb.scorecardresearch.com/b?c1=2&c2=7215267&ns__t=1791532263&ns_c=UTF-8&c8=Mercados&c7=https%3A%2F%2Frss.elconfidencial.com%2Fmercados%2F&c9=https%3A%2F%2Fwww.elconfidencial.com%2F",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La banca española cae un 2,85 % en bolsa ante el aumento de la rentabilidad de los bonos",
-      "link": "https://www.elconfidencial.com/mercados/2026-10-07/caida-banca-espanola-deuda-soberana-1tps_4440712/",
-      "imagen": "https://www.ecestaticos.com/imagestatic/clipping/6ab/46d/6ab46d5de7a8662245993b64fbaec867/el-bono-a-10-anos-supera-el-4-y-amenaza-con-disparar-los-intereses-de-la-deuda.jpg?mtime=1790360930",
       "tipo": "imagen"
     }
   ]

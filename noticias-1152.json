@@ -1,7 +1,13 @@
 {
   "noticias": [
     {
-      "titulo": "Un ‘youtuber’ español residente en Andorra, multado con 750.000 euros por la rifa de un coche de lujo",
+      "titulo": "¿Se puede ser cruel con una IA? Anthropic prohíbe insultar “de manera sostenida” a su ‘chatbot’ Claude",
+      "link": "https://elpais.com/tecnologia/2026-10-09/se-puede-ser-cruel-con-una-ia-anthropic-prohibe-insultar-de-manera-sostenida-a-su-chatbot-claude.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ARNK3UCLORKWVCGD34QE67TQHI.jpg?auth=90d236167853dd8631795f44358753fb541e53b5e296cac5b9c6b09d7486def4",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Multa récord de 750.000 euros por la rifa que realizó TheGrefg de su coche de lujo sin tener los permisos necesarios",
       "link": "https://elpais.com/sociedad/2026-10-09/un-youtuber-espanol-residente-en-andorra-multado-con-750000-euros-por-la-rifa-de-un-coche-de-lujo.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/IQAISNLNN5HYPDMTDVVGZG2BTM.jpeg?auth=0c7ad85bfa1aaf7fcbccc28dafc9c7622e822f751ff0639ea0bfbf07a8219114",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Alquila a un humano: el futuro en el que las IA contratan personas para hacer trabajos físicos ya está aquí",
       "link": "https://elpais.com/tecnologia/2026-10-08/alquila-a-un-humano-el-futuro-en-el-que-las-ia-contratan-personas-para-hacer-trabajos-fisicos-ya-esta-aqui.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/VPZYOHKNX5HL7PGBS6OBTTMBYY.jpeg?auth=68c7dda41efb2d39c331f2e9bea5b701f40addc01e0eff111ac5c033b42f2bd7",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "De Sheinbaum a Meloni: las líderes mundiales impulsan medidas para protegerse de los ‘deepfakes’ con IA",
-      "link": "https://elpais.com/tecnologia/2026-10-07/de-sheinbaum-a-meloni-las-lideres-mundiales-impulsan-medidas-para-protegerse-de-los-deepfakes-con-ia.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/KOP6O74SK5C6JBHVRXWWDZJORE.jpg?auth=7cf0c39c711ac098b94c0e524f88fc64fba985bc2d7e7c243d6b2f833b265cc5",
       "tipo": "imagen"
     }
   ]

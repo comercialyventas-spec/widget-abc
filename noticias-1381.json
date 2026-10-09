@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Los estrenos de teatro de la semana",
+      "link": "https://elpais.com/babelia/2026-10-09/los-estrenos-de-teatro-de-la-semana.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/UVTB557IVJHW3HQZCOCNHIYKXQ.jpg?auth=4e7cacfc6d5ac3b8d674a29b837480d9215a187ff0f9378b454bcf7d869dfc3e",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "‘Verborrea’: un pellizco emocional y cuatro actores sobresalientes",
+      "link": "https://elpais.com/babelia/2026-10-09/verborrea-un-pellizco-emocional-y-cuatro-actores-sobresalientes.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NCWFNROQ5JBRBNGVHBJT2SZWMU.jpg?auth=87c4fba0c28c28703b6299a95624994153a2a505f43ae6d4198f1e7d6a90a4ab",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "‘Baco polaco’, Eurípides en la madre Pampa",
+      "link": "https://elpais.com/babelia/2026-10-09/baco-polaco-euripides-en-la-madre-pampa.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ISLMJKOTK5GPVGFZRRZJKTJNSY.jpg?auth=08c87ef51d8f2532391e90f62103c3a24d69a310848616d4819a83a4489978a6",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "‘El Cadell’, homenaje a las ‘tietas’ de Cataluña",
+      "link": "https://elpais.com/babelia/2026-10-09/el-cadell-homenaje-a-las-tietas-de-cataluna.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SVH6VWG4YFFG3NWP65JJYPXIIQ.jpg?auth=3094edc595206d686a3da89b50473dc5ddfa87f5e333e526ce60704979ca6a4c",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "‘Europeana’: lo sublime y, sobre todo, lo grotesco del siglo XX europeo",
       "link": "https://elpais.com/babelia/2026-10-09/europeana-lo-sublime-y-sobre-todo-lo-grotesco-del-siglo-xx-europeo.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/DITLTL73RVDTFKUNG3RSK6UW5M.jpg?auth=beb6925e035d06ad40e190126a62163cfafe08ab575cc1a34538ef6e69d7f84e",
@@ -10,30 +34,6 @@
       "titulo": "‘Las leopardas’, de Marta Borraz: fatalidad y resistencia de las mujeres ante el sida",
       "link": "https://elpais.com/babelia/2026-10-09/las-leopardas-de-marta-borraz-fatalidad-y-resistencia-de-las-mujeres-ante-el-sida.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/3WSWFS34FVGIVAFOEXHQ6O3LMY.jpg?auth=4db27481053ec9cd0af0ce14dea3dbbd7e269111aa983e5634a2b33b191122ad",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Lo que no se ve en la geografía de Granada",
-      "link": "https://elpais.com/babelia/2026-10-08/pablo-castilla-donde-termina-lo-visible.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/KARYTPVZPBGYVB7BQZ6LED42XM.jpg?auth=547f2b50189120f826506f962037bc62af1cea25a26fd7d420b3330c448bdcd8",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Edad de Plata de la música española más allá de Lorca y Falla: rescate de un patrimonio cultural olvidado",
-      "link": "https://elpais.com/babelia/2026-10-08/la-edad-de-plata-de-la-musica-espanola-mas-alla-de-lorca-y-falla-rescate-de-un-patrimonio-cultural-olvidado.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/G3LIMOCGENG3ZEJINOWXLTGWRI.jpg?auth=81b10d1afc561ff20d7713537e32c75a31cf6b2e831ca44f65d583887b305f30",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El recurso habitacional",
-      "link": "https://elpais.com/babelia/2026-10-07/el-recurso-habitacional.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/UUX6YAL465GVNIJ5KNA4GURWWA.jpg?auth=ad6df95f63915176d606186f5d864e9b8742a75c255516bc0ecd0b6225002530",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘Contenta’, de Santiago Lorenzo: aventuras de una donnadie en tierras de donde nadie",
-      "link": "https://elpais.com/babelia/2026-10-07/contenta-de-santiago-lorenzo-aventuras-de-una-donnadie-en-tierras-de-donde-nadie.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/FWVME5GZZZDATAXLU6HN32ASDY.jpg?auth=10766e99a1591defb60f602c4a5a204ea290eb96cca0efda694f0b6f471c2baa",
       "tipo": "imagen"
     }
   ]

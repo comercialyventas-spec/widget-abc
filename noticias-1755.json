@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Las casas de Maricarmen",
+      "link": "https://www.publico.es/opinion/vinetas/casas-maricarmen.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/08/6ac79e5af27b5.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "29N. Derecho a techo",
       "link": "https://www.publico.es/opinion/vinetas/29n-derecho-techo.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/06/6ac5097aa01da.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Don Buitre",
       "link": "https://www.publico.es/opinion/vinetas/don-buitre.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/24/6ab532860cd01.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cuatro veces Trump",
-      "link": "https://www.publico.es/opinion/vinetas/cuatro-veces-trump.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/22/6ab2a370dfe26.jpeg",
       "tipo": "imagen"
     }
   ]

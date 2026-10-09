@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Esta es la ciudad más peligrosa de España y hasta sus propios habitantes están de acuerdo",
+      "link": "https://okdiario.com/cataluna/esta-ciudad-mas-peligrosa-espana-hasta-sus-propios-habitantes-estan-acuerdo-20520698",
+      "imagen": "https://okdiario.com/img/2026/10/09/barcelona-eixample.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cielo despejado y temperaturas en descenso en Barcelona, según AEMET",
       "link": "https://okdiario.com/cataluna/cielo-despejado-y-temperaturas-en-descenso-en-barcelona-segun-aemet-20517136",
       "imagen": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Un estadounidense que vive en Barcelona, atónito por cómo se tratan a los niños en España: «No se habla lo suficiente de ello»",
       "link": "https://okdiario.com/espana/estadounidense-que-vive-barcelona-atonito-como-tratan-ninos-espana-no-habla-lo-suficiente-ello-20496065",
       "imagen": "https://okdiario.com/img/2026/10/07/diseno-sin-titulo-94.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una andaluza relata cuál es su problema con el catalán: «Si tuviera que odiar a alguien sería al que puso…»",
-      "link": "https://okdiario.com/cataluna/andaluza-relata-cual-problema-catalan-si-tuviera-que-odiar-alguien-seria-que-puso-20487170",
-      "imagen": "https://okdiario.com/img/2026/10/05/una-andaluza-relata-cual-es-su-problema-con-el-catalan-si-tuviera-que-odiar-a-alguien-seria-al-que-puso....jpg",
       "tipo": "imagen"
     }
   ]
