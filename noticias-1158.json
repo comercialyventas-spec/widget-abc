@@ -1,15 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Pippa York: “Las trans no somos el problema en el mundo femenino: nosotras no agredimos a otras mujeres”",
+      "link": "https://elpais.com/noticias/deportistas/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/MMB2TBIZWREYXBCZ7URQM4I3VA.JPG?auth=9dc94d765961f1cd2d232a50ab35e08168f3a74a704a25f6647f6f82f69832bc&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Pippa York, del barrio más duro de Glasgow a pedalear por los Pirineos",
+      "link": "https://elpais.com/deportes/ciclismo/2026-10-09/pippa-york-del-barrio-mas-duro-de-glasgow-a-pedalear-por-los-pirineos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/YHBXHBGPMJECPHFMBVFAB7E4AQ.jpg?auth=5916cc105c939a85e166014910e9d2d7959b84ea7375ad50268a9423b5e4be83&width=1200",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Chava Jiménez y Ángel Arroyo: dos ciclistas barrocos comparten eternidad en la Castilla dura y austera",
-      "link": "https://elpais.com/noticias/ciclismo/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/YMTQL3DZHFPINDFC4ASLOVINIA.jpg?auth=1f588e98cf4cf8b012b999005f5b26630a1a4822c8ff895344646084b0ca65a9&width=414&height=233&smart=true",
+      "link": "https://elpais.com/deportes/ciclismo/2026-10-07/chava-jimenez-y-angel-arroyo-dos-ciclistas-barrocos-comparten-eternidad-en-la-castilla-dura-y-austera.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/YMTQL3DZHFPINDFC4ASLOVINIA.jpg?auth=1f588e98cf4cf8b012b999005f5b26630a1a4822c8ff895344646084b0ca65a9&width=1200",
       "tipo": "imagen"
     },
     {
       "titulo": "Cosecha de oro del ciclismo joven español en los Europeos contrarreloj",
       "link": "https://elpais.com/deportes/ciclismo/2026-10-07/cosecha-de-oro-del-ciclismo-joven-espanol-en-los-europeos-contrarreloj.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/D35VMO353JFCNIG3Q55L7DCORA.JPG?auth=00cbb66e136e68b51338af13ef1580b82878c46c830c547de4435470fa007a74&width=1200",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/D35VMO353JFCNIG3Q55L7DCORA.JPG?auth=00cbb66e136e68b51338af13ef1580b82878c46c830c547de4435470fa007a74&width=414&height=233&smart=true",
       "tipo": "imagen"
     },
     {
@@ -20,20 +32,8 @@
     },
     {
       "titulo": "Héctor Álvarez se proclama campeón de Europa sub-23 de ciclismo",
-      "link": "https://elpais.com/deportes/ciclismo/2026-10-02/hector-alvarez-se-proclama-campeon-de-europa-sub-23-de-ciclismo.html",
+      "link": "https://elpais.com/noticias/ciclismo/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/VKY5GU4LSJFZPOBDKYFSUC2LFU.jpeg?auth=30ea158243753e5c839d70136b6a30d1683454c8100a37e4ece70779e50b3667&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El UAE se mantiene firme: Tadej Pogacar no disputará el campeonato de Europa",
-      "link": "https://elpais.com/deportes/ciclismo/2026-09-30/el-uae-se-mantiene-firme-tadej-pogacar-no-disputara-el-campeonato-de-europa.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/6KO2PW6QI5HEXAI4EZRPTMYM6M.jpg?auth=92b4c0f5f9fbe914518724eebf09f87862f2c9107132b1175cdb37f3c2f3aff0&width=1200",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Pogacar presiona al UAE para que le deje disputar el domingo el campeonato de Europa tras la fractura de clavícula en la Vuelta",
-      "link": "https://elpais.com/noticias/ciclistas/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/CNODHS6P2NHH5B7KIS2H35VWS4.jpg?auth=c48b1b0905c78eb5e70e473aeb3e1c867c8087645c31c4ead407144d9198aff3&width=414&height=233&focal=723%2C198",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Google da el siguiente paso con Gemini: su IA ya puede trabajar como un empleado más",
+      "link": "https://www.abc.es/tecnologia/google-siguiente-paso-gemini-ia-puede-trabajar-20261009184334-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/09/mujer-trabajadora-oficina-RemMreBQmZN5auudKCPc8RM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Anthropic pide que trates bien a Claude: su nueva política prohíbe ser «innecesariamente cruel» con la inteligencia artificial",
+      "link": "https://www.abc.es/tecnologia/anthropic-pide-trates-bien-claude-nueva-politica-20261009175025-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/09/claude-anthropic-RejlzeSdW3TAHXe0XGAn1SN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Acusan a TikTok de poner en peligro a los niños con pruebas secretas que afectan a su seguridad",
       "link": "https://www.abc.es/tecnologia/acusan-tiktok-poner-peligro-ninos-pruebas-secretas-20261009134325-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/09/1518332125-Rd2Frzf2MrIst3ebBQQlUdN-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Ponen a una IA pensada para escribir al volante de un coche para pedir comida rápida y el resultado es desconcertante",
       "link": "https://www.abc.es/tecnologia/ponen-ia-pensada-escribir-volante-coche-pedir-20261008181349-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/08/coche-autonomo-RObKhYmnCPzLVKtiPBCnfFM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La familia de una exmoderadora de Meta en Barcelona demandará por su suicidio a la tecnológica",
-      "link": "https://www.abc.es/tecnologia/familia-exmoderadora-meta-barcelona-demandara-tecnologica-suicido-20261008172518-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/08/6594951-RZUdYQVKhpAyMhydyqkNe8H-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "OPPO echa el resto con el Find X10 Pro Max: el primer 'smartphone' con tres cámaras de 200 MP",
-      "link": "https://www.abc.es/tecnologia/oppo-echa-resto-find-x10-pro-max-20261008111254-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/08/OPPO%20FIND%20X%2010%20Series-RnkT0YNo2H59bXEVrAPIvRL-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

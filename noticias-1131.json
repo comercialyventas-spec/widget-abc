@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Bombardeos al barco insignia de la paz: la JEP",
+      "link": "https://elpais.com/noticias/jep-jurisdiccion-especial-para-la-paz/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TVQKIGZKURD33KDJJREKRHUSDY.JPG?auth=8a722a02ab3ac0c111b78eb28154871af86b0fb5742ea3337b092486f409d9af&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "40 años más, ¿para qué?",
+      "link": "https://elpais.com/noticias/envejecimiento-poblacion/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/YQBTPOJIJJFE5CTGDBQTRVKQSM.jpg?auth=00033f03e961cecba073569523e936ff6295958d8423cf42bc53991d653656d3&width=414&height=311&focal=1784%2C2232",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Todo lo que llena un cuenco: qué perdemos cuando reducimos la comida a una mercancía",
       "link": "https://elpais.com/clima-y-medio-ambiente/2026-10-09/todo-lo-que-llena-un-cuenco-que-perdemos-cuando-reducimos-la-comida-a-una-mercancia.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/TS5JDISGPJB7FJU6FZ6WBOZSEA.jpg?auth=9dcb49bf6ea19cbbd6e0a2926d0b0c90b8443f07a4164fa80648c5a5838e1824&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TS5JDISGPJB7FJU6FZ6WBOZSEA.jpg?auth=9dcb49bf6ea19cbbd6e0a2926d0b0c90b8443f07a4164fa80648c5a5838e1824&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
@@ -21,19 +33,7 @@
     {
       "titulo": "Aliança Catalana revienta el tablero en España",
       "link": "https://elpais.com/opinion/2026-10-09/alianca-catalana-revienta-el-tablero-en-espana.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/DT7LHZCL5VCNVC3AOGSOO6FE7M.jpg?auth=55b57714402b193667a599cadb1cab4ab8e300479560691eecf4b3027f977945&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La derecha amarrada",
-      "link": "https://elpais.com/noticias/jose-antonio-kast-rist/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/MUQUBRWF2FBYPMDOJ2T4ZDNCXI.jpg?auth=b10772ee8e8b5f8a688d9245523e3aff28a1f044c8f2b31338d9d4bfa7eb5488&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Shakira después de los aplausos",
-      "link": "https://elpais.com/noticias/shakira/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/35WXXVIZKZOJTE5WPH7X4KLOC4.jpg?auth=8d3f4712fcf9bdbe0ed6963f05310c4e729dacb788ba3c25449df734ba2f677a&width=414&height=311&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/DT7LHZCL5VCNVC3AOGSOO6FE7M.jpg?auth=55b57714402b193667a599cadb1cab4ab8e300479560691eecf4b3027f977945&width=414&height=311&focal=2669%2C894",
       "tipo": "imagen"
     }
   ]

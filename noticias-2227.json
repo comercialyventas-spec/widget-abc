@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Evento deportivo en varios distritos. Afectadas 26 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261011-Madrid-Corre-En-Español.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Acto oficial en paseo del Prado y paseo de Recoletos. Afectadas 48 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261012-Desfile-Fuerzas-Armadas.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -27,12 +33,6 @@
     {
       "titulo": "Evento sociocultural en distrito Villaverde. Afectada línea 79 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261012-Shakira-Residencia-Europea-L79.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Evento: Palacio de los Deportes. Afectadas 4 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261012-PD-Evento.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

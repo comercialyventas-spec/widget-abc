@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Penélope Cruz habla sobre las protestas por la vivienda en España",
+      "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/penelope-cruz-habla-protestas-vivienda/135190737.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/018b19b4-9fed-4afe-a96a-e1fe15d430ac_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Quién es Navi Pillay el Nobel de la Paz 2026",
       "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/navi-pillay-nobel-paz-2026/135177007.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/036d7879-fa4e-4f19-bdbd-ac438eb92cf2_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Es el reto viral del Ichiban Ramen de Terrassa",
       "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/reto-viral-ichiban-ramen-terrassa/135157252.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7e3a94f6-17d2-4807-b3da-851000577aac_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La 59 edición del Festival Fantástico de Sitges",
-      "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/59a-edicion-festival-fantastico-sitges/135155923.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d736c845-a0b2-4577-9563-0407164bff5e_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

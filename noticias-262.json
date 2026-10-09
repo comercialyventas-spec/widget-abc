@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Muere un piloto al despeñarse por un barranco durante un rally en Mallorca",
+      "link": "https://www.abc.es/espana/baleares/muere-piloto-despenarse-barranco-rally-mallorca-20261009171615-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/09/rally%20-Rvj575TN60c8tUXU8Ot4wZO-1200x840@diario_abc.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cae en Palma un clan del narcotráfico con 48 inmuebles y una fortuna de 20 millones",
       "link": "https://www.abc.es/espana/baleares/cae-palma-clan-narcotrafico-inmuebles-fortuna-millones-20261009132821-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/09/Prensa2-RREY9TILywpfWMBow480UZO-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Dimite una concejala del PP de Ibiza tras la detención por narcotráfico de su marido",
       "link": "https://www.abc.es/espana/baleares/dimite-concejala-pp-ibiza-tras-detencion-narcotrafico-20261005121929-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/05/ana-ferrer-k75E-U302065517599ICD-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Armengol asiste en Palma a la manifestación por la vivienda tras el revés de los decretos",
-      "link": "https://www.abc.es/espana/baleares/armengol-asiste-palma-manifestacion-vivienda-tras-reves-20261003144935-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/03/manifa%20vivienda%20palma-RurvWMOeW3xHgOUNbfxmwJI-1200x840@diario_abc.png",
       "tipo": "imagen"
     }
   ]

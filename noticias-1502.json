@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La comarca de Pamplona sufre un terremoto de magnitud 3,6 que es sentido por la población",
+      "link": "https://www.eldiario.es/navarra/comarca-pamplona-sufre-terremoto-magnitud-3-6-sentido-poblacion_1_13574703.html",
+      "imagen": "https://static.eldiario.es/clip/df028c2c-520b-434b-a1b7-0fc01f6464b2_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Chivite incluye partidas propuestas por EH Bildu en el proyecto de presupuestos de Navarra para certificar su apoyo",
+      "link": "https://www.eldiario.es/navarra/chivite-incluye-partidas-propuestas-eh-bildu-proyecto-presupuestos-navarra-certificar-apoyo_1_13575079.html",
+      "imagen": "https://static.eldiario.es/clip/dac418ef-f5d4-478c-89a3-383ad57db26e_16-9-discover-aspect-ratio_default_0_x789y600.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El PNV incluye al dirigente, alcalde y parlamentario Javi Ollo en su propuesta de nombres para el Congreso en Navarra",
       "link": "https://www.eldiario.es/euskadi/pnv-incluye-dirigente-alcalde-parlamentario-javi-ollo-propuesta-nombres-congreso-navarra_1_13572986.html",
       "imagen": "https://static.eldiario.es/clip/281f7f96-1d6c-4d19-a61b-ee3b90ed4af6_facebook-aspect-ratio-1200-675_default_0_x843y801.jpg",
@@ -15,24 +27,12 @@
     {
       "titulo": "El alcalde de Tudela, de UPN, pide prohibir una manifestación de las juventudes de la izquierda abertzale",
       "link": "https://www.eldiario.es/navarra/alcalde-tudela-upn-pide-prohibir-manifestacion-juventudes-sortu_1_13571873.html",
-      "imagen": "https://static.eldiario.es/clip/9c0835cf-1291-476b-a368-597edb857159_16-9-discover-aspect-ratio_default_0_x525y311.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Navarra “intensificará” las negociaciones con el Gobierno central para cerrar acuerdos pendientes antes del 29N",
-      "link": "https://www.eldiario.es/navarra/navarra-intensificara-negociaciones-gobierno-central-cerrar-acuerdos-pendientes-29n_1_13568845.html",
-      "imagen": "https://static.eldiario.es/clip/734ae68c-6622-4a01-991d-b6a490350a86_facebook-aspect-ratio-1200-675_default_0_x982y535.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El PP recurre ante el Constitucional la ley navarra que blinda de forma permanente la calificación de las VPO de alquiler",
-      "link": "https://www.eldiario.es/navarra/pp-recurre-constitucional-ley-navarra-blinda-forma-permanente-calificacion-vpo-alquiler_1_13566725.html",
       "imagen": "",
       "tipo": ""
     },
     {
-      "titulo": "UPN celebra el adelanto electoral, pero afronta el 29N con la incógnita de su futuro con el PP",
-      "link": "https://www.eldiario.es/navarra/upn-celebra-adelanto-electoral-afronta-29n-incognita-futuro-pp_1_13562613.html",
+      "titulo": "Navarra “intensificará” las negociaciones con el Gobierno central para cerrar acuerdos pendientes antes del 29N",
+      "link": "https://www.eldiario.es/navarra/navarra-intensificara-negociaciones-gobierno-central-cerrar-acuerdos-pendientes-29n_1_13568845.html",
       "imagen": "",
       "tipo": ""
     }

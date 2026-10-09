@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Solange Pessoa, un shock de pelo, caballos y barroco en Santander",
+      "link": "https://www.elmundo.es/cultura/2026/10/09/6ac8cc5dfc6c83be0d8b45c5.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/09/17915582040301.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Santiago Muñoz Machado anuncia su voluntad de continuar como director de la RAE un tercer mandato: \"Si el pleno resuelve que debo continuar al frente, seguiré\"",
       "link": "https://www.elmundo.es/papel/historias/2026/10/08/6ac7d18ee85ecea57c8b45a3.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/08/17914824115370.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La ciudad no es para mí",
+      "link": "https://www.elmundo.es/cultura/2026/10/09/6ac91e1ae4d4d8a00f8b4594.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/09/17915660893427.jpg",
       "tipo": "imagen"
     },
     {
@@ -19,21 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Los libros que leímos, los miserables que somos",
-      "link": "https://www.elmundo.es/cultura/2026/10/09/6ac77462e4d4d82c0c8b45ad.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/08/17914569958112.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Las ciegas hormigas: Lo oscuro, lo triste, lo húmedo (***)",
       "link": "https://www.elmundo.es/cultura/cine/2026/10/08/6ac73d97fdddffc67f8b45b3.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/08/17914430291354.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ceniza en la boca: La inmigración desde la cicatriz de dentro (***)",
-      "link": "https://www.elmundo.es/cultura/cine/2026/10/08/6ac78140e4d4d831108b45a8.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/08/17914596823101.jpg",
       "tipo": "imagen"
     }
   ]

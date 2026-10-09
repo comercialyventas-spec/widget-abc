@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Una nueva pelea en el Centro Penitenciario El Castillo de Mazatlán deja otros dos presos fallecidos",
+      "link": "https://elpais.com/mexico/2026-10-09/una-nueva-pelea-en-el-centro-penitenciario-el-castillo-de-mazatlan-deja-otros-dos-presos-fallecidos.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261009/1223850_172703_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La huella de Los Mayos y el Cartel Jalisco en el negocio de los conciertos musicales en México",
+      "link": "https://elpais.com/us/2026-10-09/la-huella-de-los-mayos-y-el-cartel-jalisco-en-el-negocio-de-los-conciertos-musicales-en-mexico.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QWJCXTUREJDVBJEHZLNSXHPQ6E.jpg?auth=8c0b0bcaf2321095cb467eb26dc1f3ed9ae31458bc0463ba6c70d4e140b5f7fe",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La familia que suplantaba la voz de ministros y gobernadores para extorsionar a funcionarios públicos",
+      "link": "https://elpais.com/mexico/2026-10-09/la-familia-que-suplantaba-la-voz-de-ministros-y-gobernadores-para-extorsionar-a-funcionarios-publicos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/DRQXP2HHERBLZMYGEFYDE7L4SU.jpeg?auth=746bcc2fb9ece489a04177ba10a51315e438fde5c3cb76f416d3da28f541af6d",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La terminal privada de gas de Estados Unidos ‘Amigo LNG’ acumula 90 hectáreas de terrenos en Sonora",
       "link": "https://elpais.com/mexico/2026-10-09/la-terminal-privada-de-gas-de-estados-unidos-amigo-lng-acumula-90-hectareas-de-terrenos-en-sonora.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/VC23JAN37VGWDFDYPDLFEZRCKY.jpg?auth=bf4ba1d9e4361dc50456d8633ce3bceae777be563b8b53ee4fe2782edd411266",
@@ -13,27 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "La huella de Los Mayos y el Cartel Jalisco en el negocio de los conciertos musicales en México",
-      "link": "https://elpais.com/us/2026-10-09/la-huella-de-los-mayos-y-el-cartel-jalisco-en-el-negocio-de-los-conciertos-musicales-en-mexico.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/QWJCXTUREJDVBJEHZLNSXHPQ6E.jpg?auth=8c0b0bcaf2321095cb467eb26dc1f3ed9ae31458bc0463ba6c70d4e140b5f7fe",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Al menos 10 muertos en una riña en un centro penitenciario de Mazatlán",
-      "link": "https://elpais.com/mexico/2026-10-08/muertos-y-heridos-en-un-presunto-motin-en-un-centro-penitenciario-de-mazatlan.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/SFNDB26RZFAYDHKNAIHRMFMXCQ.jpeg?auth=6bc88744f684b7a9007dacb721838cfeca9730eecb17effc6f40ccfdb99a0704",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La familia que suplantaba la voz de ministros y gobernadores para extorsionar a funcionarios públicos",
-      "link": "https://elpais.com/mexico/2026-10-09/la-familia-que-suplantaba-la-voz-de-ministros-y-gobernadores-para-extorsionar-a-funcionarios-publicos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/DRQXP2HHERBLZMYGEFYDE7L4SU.jpeg?auth=746bcc2fb9ece489a04177ba10a51315e438fde5c3cb76f416d3da28f541af6d",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El huracán ‘Simón’ llegará a las costas del Pacífico en categoría 3 o 4",
-      "link": "https://elpais.com/mexico/2026-10-09/el-huracan-simon-llegara-a-las-costas-del-pacifico-en-categoria-3-o-4.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/KABX46TVXZN5BCDNS4IBCEBNT4.jpg?auth=5e64d641bba43811007b0a235205608af716e72999aaa9806bbc09579464a67f",
+      "titulo": "¿Qué comida a domicilio prefieren los mexicanos? Un adelanto: no son los tacos",
+      "link": "https://elpais.com/mexico/economia/2026-10-09/que-comida-a-domicilio-prefieren-los-mexicanos-un-adelanto-no-son-los-tacos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/MBBRYNUPEVFO3E5JWSOWPVOIFY.jpg?auth=5b5d916c07cea9a6dd22d3964b5eec806f78f8b905c587e1bb07dd1e873d8111",
       "tipo": "imagen"
     }
   ]

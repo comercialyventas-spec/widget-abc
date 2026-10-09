@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "‘La Mesa de Hora 25’, programa en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-10-09/la-mesa-de-hora-25-programa-en-el-pais.html",
+      "imagen": "https://www.youtube.com/watch?v=NMOiXPdkdKw",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Rosa Montero: “Se puede intentar salvar el mundo siendo buena persona”",
       "link": "https://elpais.com/eps/2026-10-09/rosa-montero-se-puede-intentar-salvar-el-mundo-siendo-buena-persona.html",
       "imagen": "https://www.youtube.com/watch?v=1jkpMUo19bQ",
@@ -28,12 +34,6 @@
       "titulo": "Así se refugian los migrantes en el barrio de El Príncipe y en los bosques de Ceuta",
       "link": "https://elpais.com/videos/2026-10-09/asi-se-refugian-los-migrantes-en-el-barrio-de-el-principe-y-en-los-bosques-de-ceuta.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261008/1223423_200150_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "De la Puerta del Sol a la casa de Maricarmen: así ha sido el recorrido de la marcha",
-      "link": "https://elpais.com/videos/2026-10-08/de-la-puerta-del-sol-a-la-casa-de-maricarmen-asi-ha-sido-el-recorrido-de-la-marcha.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261008/1223422_195616_video_1800.mp4",
       "tipo": "imagen"
     }
   ]

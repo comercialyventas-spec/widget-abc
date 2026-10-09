@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un tornado azota localidades del oeste de Sicilia",
+      "link": "https://www.lavanguardia.com/sucesos/20261009/11655322/tornado-azota-localidades-oeste-sicilia-causando-danos.html",
+      "imagen": "https://www.lavanguardia.com/files/listing_main/uploads/2026/10/09/6ac8e41ded4fa.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Investigan el hallazgo de un cadáver en un vehículo en una riera de El Vendrell",
       "link": "https://www.lavanguardia.com/sucesos/20261007/11653693/investigan-hallazgo-cadaver-vehiculo-riera-vendrell.html",
       "imagen": "https://www.lavanguardia.com/files/listing_main/files/fp/uploads/2025/07/22/687f6ef5c7a19.r_d.796-454-0.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Se entrega el conductor huido del accidente en la N-330 en Teruel, donde han muerto dos mujeres",
       "link": "https://www.lavanguardia.com/sucesos/20261004/11650766/entrega-conductor-huido-accidente-n-330-teruel-han-muerto-dos-mujeres.html",
       "imagen": "https://www.lavanguardia.com/files/listing_main/uploads/2026/10/04/6ac293e4eab1b.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mueren dos jóvenes ahogados en una playa de Guardamar del Segura",
-      "link": "https://www.lavanguardia.com/sucesos/20261004/11650678/mueren-dos-jovenes-ahogados-playa-guardamar-segura.html",
-      "imagen": "https://www.lavanguardia.com/files/listing_main/uploads/2025/06/04/684068f8c31b8.jpeg",
       "tipo": "imagen"
     }
   ]
