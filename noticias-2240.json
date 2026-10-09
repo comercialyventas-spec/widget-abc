@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El tiempo en España",
+      "link": "https://efe.com/espana/2025-11-26/tiempo-espana-hoy-prediccion-meteorologia-aemet/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/el-tiempo-en-espana.webp?w=600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Hallados muertos un hombre y una mujer en una casa en Valverde de Júcar (Cuenca)",
       "link": "https://efe.com/espana/2026-10-08/hallados-muertos-hombre-mujer-valverde-de-jucar-cuenca/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/mujer-hombre-muertos-cuenca.webp?w=600&ssl=1",
@@ -28,12 +34,6 @@
       "titulo": "El Senado y la Asamblea y el Ayuntamiento de Madrid rechazan homenajear a Maricarmen",
       "link": "https://efe.com/espana/2026-10-08/maricarmen-homenajes-senado-asamblea-ayuntamiento/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/asamblea-maricarmen.webp?w=600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Podemos no se pronuncia sobre Ada Colau y condiciona un acuerdo con Frente Amplio a unas primarias",
-      "link": "https://efe.com/espana/2026-10-08/podemos-montero-colau-frente-amplio-primarias/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/podemos-colau.webp?w=600&ssl=1",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un evento con los valores del equipo: así adapta Viviendo del Cuento sus experiencias a cada empresa",
+      "link": "https://www.mediterraneodigital.com/sociedad-y-tiempo-libre/viviendo-del-cuento",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/10/vivir-del-cuento.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Amazon Prime Day: Lefant rebaja sus robots aspiradores hasta un 77 % durante solo 48 horas",
       "link": "https://www.mediterraneodigital.com/sociedad-y-tiempo-libre/ofertas-lefant-amazon-prime-day-robots-aspiradores",
       "imagen": "https://www.mediterraneodigital.com/images/2026/10/amazon-prime-day.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Lipedema y autoestima: el impacto invisible de una enfermedad que aún cuesta diagnosticar",
       "link": "https://www.mediterraneodigital.com/sociedad-y-tiempo-libre/clinicas-simarro",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/estetica.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Comprar motos de carretera: seis claves para decidir bien",
-      "link": "https://www.mediterraneodigital.com/sociedad-y-tiempo-libre/comprar-motos-de-carretera",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/9/motocicleta.jpg",
       "tipo": "imagen"
     }
   ]

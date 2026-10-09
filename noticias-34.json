@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Pluviometríabásica",
+      "link": "https://www.lavanguardia.com/cultura/20261008/11654767/pluviometriabasica.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Josep Maria Rius Ortigosa (JOMA) y Manuel Barrios, premios Maria Rius 2026",
       "link": "https://www.lavanguardia.com/cultura/20261008/11654567/josep-maria-rius-ortigosa-joma-manuel-barrios-premios-maria-rius-2026.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/08/6ac7dcd656352.r_d.767-414-2896.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "¿Quién no es un monstruo enamorado?",
       "link": "https://www.lavanguardia.com/cultura/20261008/11654509/anne-carson-premio-nobel-monstruo-enamorado.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/08/6ac7b2167ff0a.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las artes arraigadas protagonizan la 29.ª Fira Mediterrània",
-      "link": "https://www.lavanguardia.com/cultura/20261008/11654499/artes-arraigadas-protagonizan-29-fira-mediterrania.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/08/6ac7c03305dfd.r_d.2264-1980-865.jpeg",
       "tipo": "imagen"
     }
   ]

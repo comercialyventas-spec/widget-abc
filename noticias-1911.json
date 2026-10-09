@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Hacer política",
+      "link": "https://www.eldiario.es/opinion/politica_131_13573730.html",
+      "imagen": "https://static.eldiario.es/clip/45a5d613-23f4-4380-b248-208a71cc96e9_16-9-discover-aspect-ratio_default_0_x523y163.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Puigdemont ya puede volver",
       "link": "https://www.eldiario.es/opinion/puigdemont-volver_131_13567667.html",
       "imagen": "https://static.eldiario.es/clip/7d111344-6f85-46f5-94ed-95b27d3504cd_16-9-discover-aspect-ratio_default_0_x479y357.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Retratarse",
       "link": "https://www.eldiario.es/opinion/retratarse_131_13548662.html",
       "imagen": "https://static.eldiario.es/clip/344be004-e006-439e-b748-d93f11f06fe7_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El decreto",
-      "link": "https://www.eldiario.es/opinion/decreto_131_13542464.html",
-      "imagen": "https://static.eldiario.es/clip/0f91c3a7-901e-4d5c-86e1-89d45f998ec8_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

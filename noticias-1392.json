@@ -2,6 +2,18 @@
   "noticias": [
     {
       "titulo": "Noticias de Nuevo Sureste de Madrid",
+      "link": "https://nuevosureste.es/colegio-el-valle-elegir-colegio/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/Octubre-1.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Ensanche de Vallecas arrancó 2026 con 6.971 personas viviendo solas",
+      "link": "https://nuevosureste.es/ensanche-vallecas-tamano-hogares-personas-viven-solas-edad/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2025/09/Ensanche-2025-115-1080x675.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Feria del Vehículo Sostenible de Rivas reunirá cerca de 400 coches y estrenará un espacio de caravaning",
       "link": "https://nuevosureste.es/feria-vehiculo-sostenible-rivas/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/Panoramica-Feria-Vehiculo-Rivas-1.jpg",
       "tipo": "imagen"
@@ -22,18 +34,6 @@
       "titulo": "Javier de la Iglesia, gerente de la Junta de Compensación de Los Cerros: “Las primeras viviendas se entregarán en el primer trimestre de 2028”",
       "link": "https://nuevosureste.es/entrevista-javier-de-la-iglesia-los-cerros/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/JavierdeLaIglesia2026-09-1080x675.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Almeida: «La Gran Vía del Sureste permitirá multiplicar las opciones de transporte público de los nuevos desarrollos»",
-      "link": "https://nuevosureste.es/almeida-gran-via-sureste/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/Visita-de-Almeida-a-las-obras-de-la-Gran-Via-del-Sureste-en-Ensanche-de-Vallecas-foto_-Nuevo-Sureste.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Almeida entrega las 96 viviendas de alquiler asequible de la promoción Cañaveral 8",
-      "link": "https://nuevosureste.es/entrega-llaves-canaveral-8/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/OLE04027-2-2-1080x675.jpeg",
       "tipo": "imagen"
     }
   ]

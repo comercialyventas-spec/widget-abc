@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La hostelería toma asiento en Guext con sus innovaciones",
+      "link": "https://www.elmundo.es/extras/ifema/2026/10/08/6abe7227e4d4d8bf498b45a1.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/01/17908659998873.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La gran feria hortofrutícola española, Fruit Attraction, alcanza la mayoría de edad",
       "link": "https://www.elmundo.es/extras/ifema.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/18/17897526757335.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El 70% de los estudiantes españoles estudia la carrera deseada",
       "link": "https://www.elmundo.es/t/fo/formacion-online.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/06/08/17809302934572.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La irrupción de la inteligencia artificial en las aulas monopoliza el 'Gran Debate sobre la Educación en España'",
-      "link": "https://www.elmundo.es/espana/2026/03/20/69bc2b2cfdddff1b7f8b457a.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/19/17739455050847.jpg",
       "tipo": "imagen"
     }
   ]
