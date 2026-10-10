@@ -1,40 +1,34 @@
 {
   "noticias": [
     {
+      "titulo": "Un terremoto de magnitud 7,6 sacude el centro y el sur de Panamá",
+      "link": "https://www.abc.es/internacional/terremoto-magnitud-sacude-panama-20261009203248-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/09/Panama-kSW-U302165936905dGD-1200x840@diario_abc.JPG"
+    },
+    {
+      "titulo": "Morant trabaja en un decreto contra la privada para restituir el que tumbó el Supremo",
+      "link": "https://www.abc.es/sociedad/diana-morant-trabaja-extremis-decreto-privada-restituir-20261010012959-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/10/10/1518180536-Rs2GlPIc3V8qpEn1wNlE9kM-1200x840@diario_abc.jpg"
+    },
+    {
       "titulo": "El Tribunal Penal Internacional, un organismo que enfrenta a EE.UU. y a la UE",
       "link": "https://www.abc.es/internacional/futuro-tribunal-penal-internacional-enfrenta-eeuu-ue-20260825012448-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/25/tpi-R1yHidiZ2YuwmPOGgVJ2qrO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/25/tpi-R1yHidiZ2YuwmPOGgVJ2qrO-1200x840@diario_abc.jpg"
     },
     {
       "titulo": "«Lobezno es muy diferente de Spiderman. Queríamos crear un videojuego en el que el jugador sienta que es el personaje»",
       "link": "https://www.abc.es/tecnologia/lobezno-diferente-spiderman-queriamos-crear-20261007005658-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/07/lobezno-3-RxydNKXrKbNaNzUAYstIZhI-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/07/lobezno-3-RxydNKXrKbNaNzUAYstIZhI-1200x840@diario_abc.jpg"
     },
     {
       "titulo": "Anthropic pide que trates bien a Claude: su nueva política prohíbe ser «innecesariamente cruel» con la IA",
       "link": "https://www.abc.es/tecnologia/anthropic-pide-trates-bien-claude-nueva-politica-20261009175025-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/09/claude-anthropic-RejlzeSdW3TAHXe0XGAn1SN-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/09/claude-anthropic-RejlzeSdW3TAHXe0XGAn1SN-1200x840@diario_abc.jpg"
     },
     {
       "titulo": "Naoki Hamaguchi lleva doce años pensando en 'Final Fantasy VII', también cuando intenta relajarse en un balneario japonés",
       "link": "https://www.abc.es/cultura/naoki-hamaguchi-lleva-doce-anos-pensando-final-20261002005824-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/02/Alex%20Zea-Final%20Fantasy-Comic-Con-00266-RfKQzpKhXjeHqKs4aRaDrmM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tena y los secretos del Villarreal: «Aquí los futbolistas sienten que el entrenador es la autoridad más fuerte del vestuario»",
-      "link": "https://www.abc.es/deportes/futbol/tena-futbolistas-sentir-entrenador-autoridad-fuerte-vestuario-20261010011716-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/10/Tena-Rr4guwSaWyhOwioJ7ekxfqN-1200x840@diario_abc.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Hispanidad en la era global, un pasado que quema",
-      "link": "https://www.abc.es/cultura/cultural/hispanidad-era-global-pasado-quema-20261009113525-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/08/La-Chola-Poblete-Rfq26NEHj2z3lr429MMNEmM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/02/Alex%20Zea-Final%20Fantasy-Comic-Con-00266-RfKQzpKhXjeHqKs4aRaDrmM-1200x840@diario_abc.jpg"
     }
   ]
 }
