@@ -1,15 +1,9 @@
 {
   "noticias": [
     {
-      "titulo": "El Banco de España avisa: la construcción de vivienda no despega por la burocracia y la falta de mano de obra y suelo",
-      "link": "https://www.rtve.es/noticias/20261009/banco-espana-construccion-vivienda-crecimiento-inflacion-luz-gas/17260130.shtml",
-      "imagen": "https://img.rtve.es/v/17260790?w=1600",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Trump anuncia un acuerdo con Putin para que Rusia suministre 300.000 toneladas de combustible al mercado mundial",
+      "titulo": "Trump acuerda con Putin que Rusia suministre 300.000 toneladas de combustible al mercado mundial",
       "link": "https://www.rtve.es/noticias/20261009/trump-acuerdo-putin-rusia-suministre-300-combustible-mercado/17261507.shtml",
-      "imagen": "https://img.rtve.es/n/17261507?h=200",
+      "imagen": "https://img.rtve.es/n/17261507?w=1600",
       "tipo": "imagen"
     },
     {
@@ -31,9 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "La playa, destino más buscado en el puente del Pilar: las estancias se alargan y aumentan las reservas",
-      "link": "https://www.rtve.es/noticias/20261009/playa-destino-mas-buscado-puente-pilar-estancias-se-alargan-aumentan-reservas/17260205.shtml",
-      "imagen": "https://img.rtve.es/n/17260205?h=200",
+      "titulo": "Operacion salida \"puente del Pilar\": 5,7 millones de desplazamientos por carretera y carburantes algo más baratos",
+      "link": "https://www.rtve.es/noticias/20261009/operacion-salida-puente-del-pilar-dgt-preve-casi-6-millones-desplazamientos-carretera-gasolinas-mas-baratas/17260114.shtml",
+      "imagen": "https://img.rtve.es/n/17260114?h=200",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Banco de España avisa: la construcción de vivienda no despega por la burocracia y la falta de mano de obra y suelo",
+      "link": "https://www.rtve.es/noticias/20261009/banco-espana-construccion-vivienda-crecimiento-inflacion-luz-gas/17260130.shtml",
+      "imagen": "https://img.rtve.es/v/17260790?h=200",
       "tipo": "imagen"
     }
   ]

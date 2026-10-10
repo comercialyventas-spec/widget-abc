@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Yo no soy Maricarmen",
+      "link": "https://www.mediterraneodigital.com/opinion/columnistas-de-opinion/nacho-toledano/maricarmen",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/10/mari-carmen.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Votar por correo es peligroso",
       "link": "https://www.mediterraneodigital.com/opinion/columnistas-de-opinion/ramiro-grau/voto-por-correo",
       "imagen": "https://www.mediterraneodigital.com/images/2026/10/votar-por-correo.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El Gobierno indulta a corruptos y prevaricadores",
       "link": "https://www.mediterraneodigital.com/opinion/columnistas-de-opinion/ramiro-grau/indultos",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/sanchez-indultos.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Fiscales de antaño y de hogaño",
-      "link": "https://www.mediterraneodigital.com/opinion/columnistas-de-opinion/ramiro-grau/fiscales",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/9/fiscalia.jpg",
       "tipo": "imagen"
     }
   ]

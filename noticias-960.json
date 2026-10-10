@@ -1,14 +1,8 @@
 {
   "noticias": [
     {
-      "titulo": "Andalucía Sevilla Málaga Elecciones Andalucía",
+      "titulo": "Andalucía Sevilla Málaga",
       "link": "https://www.elmundo.es/andalucia.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Elecciones Andalucía",
-      "link": "https://www.elmundo.es/elecciones/elecciones-andalucia.html",
       "imagen": "",
       "tipo": ""
     },
@@ -21,8 +15,8 @@
     {
       "titulo": "Castellón al día",
       "link": "https://castellonaldia.elmundo.es/",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://castellonaldia.elmundo.es/news-portlet/getogimage/d0b88642-3ff5-4745-9076-cc842ec05f06.social.png",
+      "tipo": "imagen"
     },
     {
       "titulo": "El panel EM/Sigmados",
@@ -33,6 +27,12 @@
     {
       "titulo": "Cartas al director",
       "link": "https://www.elmundo.es/opinion/cartas-director.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "Actualidad Económica",
+      "link": "https://www.elmundo.es/economia.html",
       "imagen": "",
       "tipo": ""
     }

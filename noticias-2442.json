@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El Besiktas amarga el partido 700 del Baskonia en la Euroliga",
+      "link": "https://www.marca.com/baloncesto/euroliga/2026/10/09/besiktas-amarga-partido-700-baskonia-euroliga.html",
+      "imagen": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/09/6ac94c4585391.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Barça se deshace en cinco minutos ante el Zalgiris",
+      "link": "https://www.marca.com/baloncesto/euroliga/2026/10/09/barca-deshace-cinco-minutos-zalgiris.html",
+      "imagen": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/09/6ac95245401cf.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El joven coloso azulgrana Dabone da el primer recital y el Real Madrid se lleva un revolcón",
       "link": "https://www.marca.com/baloncesto/basketfeb/2026/10/09/joven-coloso-azulgrana-dabone-da-primer-recital-real-madrid-lleva-revolcon.html",
       "imagen": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/09/fiFeE1goK20kzwWpT.jpeg",
@@ -9,8 +21,8 @@
     {
       "titulo": "Baskonia - Besiktas Estambul en directo | Última hora de Euroliga en vivo hoy",
       "link": "https://www.marca.com/baloncesto/euroliga/2026/10/09/02-0203-20261009-6205-7924.html",
-      "imagen": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/09/6ac9362a88a9d.jpeg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "El comisionado NBA, optimista sobre el desembarco en Europa: \"Vamos a llegar a un acuerdo con la Euroliga\"",
@@ -21,20 +33,8 @@
     {
       "titulo": "Barcelona - Zalgiris Kaunas en directo | Última hora de Euroliga en vivo hoy",
       "link": "https://www.marca.com/baloncesto/euroliga/2026/10/09/02-0203-20261009-6216-6397.html",
-      "imagen": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/09/6ac9360c0e67b.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ilusionante estreno de De Larrea en los Mavericks con Durant enfrente",
-      "link": "https://www.marca.com/baloncesto/nba/2026/10/09/ilusionante-estreno-larrea-mavericks-durant-enfrente.html",
-      "imagen": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/09/fhpjk1goJIhorM0yQ.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Valencia Basket sigue en la cumbre: una reconstrucción obligada para que nada cambie",
-      "link": "https://www.marca.com/baloncesto/euroliga/2026/10/09/valencia-basket-sigue-cumbre-reconstruccion-obligada-cambie.html",
-      "imagen": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/09/6ac8eb7f1d2a9.jpeg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     }
   ]
 }

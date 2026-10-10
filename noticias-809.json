@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un viernes plenamente otoñal con temperaturas máximas por debajo de los 20 grados",
+      "link": "https://www.eldiario.es/sociedad/el-tiempo/viernes-plenamente-otonal-maximas-debajo-20-grados-pm_1_13572545.html",
+      "imagen": "https://static.eldiario.es/clip/946d20fa-bc9e-4e7f-9927-212400dc548c_16-9-discover-aspect-ratio_default_1152963.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El frío toma el relevo de las lluvias: bajón de las temperaturas a partir de este jueves y hasta el fin de semana",
       "link": "https://www.eldiario.es/sociedad/el-tiempo/frio-toma-relevo-lluvias-bajon-temperaturas-partir-jueves-semana-pm_1_13569463.html",
       "imagen": "https://static.eldiario.es/clip/0911cfee-d38b-48cc-b1a5-83c8d1656235_16-9-discover-aspect-ratio_default_1152869.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Fin de semana pasado por agua: lluvias “muy intensas” en el mediterráneo y descenso general de temperaturas",
       "link": "https://www.eldiario.es/sociedad/el-tiempo/semana-pasado-agua-lluvias-intensas-mediterraneo-descenso-general-temperaturas-pm_1_13558390.html",
       "imagen": "https://static.eldiario.es/clip/cce3e884-e7fb-4ec7-8a4f-946e3977541b_16-9-discover-aspect-ratio_default_0_x1080y312.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Lluvias torrenciales este viernes con avisos de la Aemet en diez comunidades",
-      "link": "https://www.eldiario.es/sociedad/el-tiempo/lluvias-torrenciales-siguen-viernes-aemet-activa-avisos-diez-comunidades-pm_1_13553907.html",
-      "imagen": "https://static.eldiario.es/clip/f0e7b58f-e02a-495f-912a-2a6d0e331480_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Roban 30.000 botellas de vino en la Toscana con un valor de más de 5 millones de euros",
+      "link": "https://www.lavanguardia.com/comer/20261009/11655611/roban-30-000-botellas-vino-toscana-valor-mas-5-millones-euros.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/09/6ac958a6ec0e4.r_d.3313-1437-855.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Trump elige a la comentarista MAGA Katie Zacharia como nueva portavoz de la Casa Blanca",
+      "link": "https://www.lavanguardia.com/internacional/20261009/11655559/trump-elige-comentarista-maga-katie-zacharia-nueva-portavoz-casa-blanca.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/09/6ac94c62b4dce.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Trump acuerda con Putin el suministro de millones de toneladas de diésel ruso a los mercados mundiales",
       "link": "https://www.lavanguardia.com/internacional/20261009/11655554/trump-acuerda-putin-suministro-millones-toneladas-diesel-ruso-mercados-mundiales.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/08/6aa0279ba7799.r_d.2709-1995-0.jpeg",
@@ -15,25 +27,13 @@
     {
       "titulo": "Un terremoto de magnitud 7,7 sacude el sur de Panamá",
       "link": "https://www.lavanguardia.com/internacional/20261009/11655537/terremoto-magnitud-7-6-sacude-panama.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/09/6ac93b099819a.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/10/6ac968cfeab91.jpeg",
       "tipo": "imagen"
     },
     {
       "titulo": "Las 'Cucarachas' de la India vuelven a las calles bajo el cierre casi total de Nueva Delhi",
       "link": "https://www.lavanguardia.com/internacional/20261009/11655477/cucarachas-india-vuelven-calles-cierre-total-nueva-delhi.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/09/6ac9189bc5ae3.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Treinta desplazados mueren por un ataque con dron en el sureste de Sudán",
-      "link": "https://www.lavanguardia.com/internacional/20261009/11655461/treinta-desplazados-mueren-ataque-dron-sureste-sudan.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/06/12/666991bc74df0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Recuperados dos cuadros de Renoir robados de un museo de la Costa Azul",
-      "link": "https://www.lavanguardia.com/cultura/arte/20261009/11655395/recuperados-dos-cuadros-renoir-robados-museo-costa-azul.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/08/6a9fc5056e40f.r_d.2991-2151-0.jpeg",
       "tipo": "imagen"
     }
   ]

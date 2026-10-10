@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Yo no soy Maricarmen",
+      "link": "https://www.mediterraneodigital.com/opinion/columnistas-de-opinion/nacho-toledano/maricarmen",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/10/mari-carmen.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Navidad de los que continúan erguidos pese a todo",
       "link": "https://www.mediterraneodigital.com/opinion/columnistas-de-opinion/nacho-toledano/navidad-2025",
       "imagen": "https://www.mediterraneodigital.com/images/2025/12/portal.jpg",
@@ -28,12 +34,6 @@
       "titulo": "En la muerte de Luis López Novelle",
       "link": "https://www.mediterraneodigital.com/opinion/columnistas-de-opinion/nacho-toledano/luis-lopez-novelle",
       "imagen": "https://www.mediterraneodigital.com/images/2024/12/luis-lopez-novelle-nacho-toledano.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un 20 de noviembre con pena y sin gloria",
-      "link": "https://www.mediterraneodigital.com/opinion/columnistas-de-opinion/nacho-toledano/20n",
-      "imagen": "https://www.mediterraneodigital.com/images/2024/12/falangistas.jpg",
       "tipo": "imagen"
     }
   ]

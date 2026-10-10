@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La comunidad marroquí en España pide votar a Pedro Sánchez en las elecciones generales",
+      "link": "https://www.mediterraneodigital.com/espana/mundo/marroquies-psoe-espana",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/10/marroquies.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Gobierno destina 340 millones a obras hidráulicas en Marruecos mientras reduce el trasvase Tajo-Segura",
       "link": "https://www.mediterraneodigital.com/espana/mundo/gobierno-financia-obras-hidraulicas-marruecos",
       "imagen": "https://www.mediterraneodigital.com/images/2023/1/pedro-sanchez-marruecos.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Mafias argelinas ofrecen un pack 'todo incluido' para regularizarte en España por 10.000 euros",
       "link": "https://www.mediterraneodigital.com/espana/mundo/pateras-argelia-espana-paquetes",
       "imagen": "https://www.mediterraneodigital.com/images/2025/8/patera-marroquies.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los pepinos marroquíes se multiplican y ya dominan el mercado español",
-      "link": "https://www.mediterraneodigital.com/espana/mundo/pepino-marruecos-importaciones-espana",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/4/inmigrantes-marroquies.jpg",
       "tipo": "imagen"
     }
   ]

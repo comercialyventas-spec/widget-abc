@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Silvio, la belleza",
+      "link": "https://loquesomos.es/silvio-la-belleza/",
+      "imagen": "https://loquesomos.es/wp-content/uploads/2026/10/silvio-rodriguez-en-madrid-octubre-26-lqsomos-655x450.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Filmoteca abierta: «Lenin en octubre»",
       "link": "https://loquesomos.es/filmoteca-abierta-lenin-en-octubre/",
       "imagen": "https://loquesomos.es/wp-content/uploads/2026/08/pelicula-lenin-en-octubre-lqsomos-cartel-370x450.png",
@@ -28,12 +34,6 @@
       "titulo": "Filmoteca abierta: «Luna de lobos»",
       "link": "https://loquesomos.es/filmoteca-abierta-luna-de-lobos/",
       "imagen": "https://loquesomos.es/wp-content/uploads/2026/08/luna_de_lobos-cine-cartel-lqsomos-536x450.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Soul Underground – Tommy Cogbill",
-      "link": "https://loquesomos.es/soul-underground-tommy-cogbill/",
-      "imagen": "https://loquesomos.es/wp-content/uploads/2026/08/Soul-Underground-Tommy-Cogbill-blues-music-lqsomos-777x450.png",
       "tipo": "imagen"
     }
   ]
