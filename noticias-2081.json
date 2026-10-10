@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Explotación y precariedad en el sector de la IA",
+      "link": "https://loquesomos.es/explotacion-y-precariedad-en-el-sector-de-la-ia/",
+      "imagen": "https://loquesomos.es/wp-content/uploads/2026/09/Moderadores_kenia.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Tres formas de resistir al extractivismo de datos",
       "link": "https://loquesomos.es/tres-formas-de-resistir-al-extractivismo-de-datos/",
       "imagen": "https://loquesomos.es/wp-content/uploads/2026/09/hero_cover-777x450.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La IA en la universidad: ¿herramienta o amenaza?",
       "link": "https://loquesomos.es/la-ia-en-la-universidad-herramienta-o-amenaza/",
       "imagen": "https://loquesomos.es/wp-content/uploads/2026/08/DeepSeek_modelo-de-IA-800x450.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Inteligencia Artificial y nosotras",
-      "link": "https://loquesomos.es/la-inteligencia-artificial-y-nosotras/",
-      "imagen": "https://loquesomos.es/wp-content/uploads/2026/08/Portada-800x450.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Elisenda y Xavi una vida entre la música y el Orfeó Català",
+      "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/elisenda-xavi-vida-musica-orfeo/135189399.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b951e065-5ef7-458b-bf9d-d021906b5cf5_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Penélope Cruz habla sobre las protestas por la vivienda en España",
       "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/penelope-cruz-habla-protestas-vivienda/135190737.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/018b19b4-9fed-4afe-a96a-e1fe15d430ac_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "TVyMAS Viernes 9",
       "link": "https://www.elperiodico.com/es/videos/tele/tvymas-viernes-9/135146146.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/1da98740-175d-421d-a44b-ff7a7c82f79f_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Es el reto viral del Ichiban Ramen de Terrassa",
-      "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/reto-viral-ichiban-ramen-terrassa/135157252.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7e3a94f6-17d2-4807-b3da-851000577aac_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

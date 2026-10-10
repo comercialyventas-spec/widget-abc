@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "¿Una copita al día es demasiado? El experimento belga con el alcohol que inquieta a la industria",
+      "link": "https://www.elconfidencial.com/salud/2026-10-10/alcohol-experimento-belgica-medicos-bodegas_4441346/",
+      "imagen": "https://images.ecestaticos.com/WOgC_ksLmmD_B0gkHhJ9m7PuQ9A=/0x0:2272x1278/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe64%2F1c5%2F9d9%2Fe641c59d941dbd9f87b19a325754be91.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Extirpar menos para curar más: el papel de la cirugía de Mohs en el cáncer de piel",
+      "link": "https://www.elconfidencial.com/salud/2026-10-10/cirugia-mohs-cancer-de-piel_4440207/",
+      "imagen": "https://images.ecestaticos.com/SnCHGdLaU6iF3LJYEWmSkEUgifc=/0x0:3000x1688/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F1ba%2Fe53%2F352%2F1bae533520930d9c5304248f8f779d11.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Puede un órgano donado de forma altruista acabar convertido en un producto comercial?",
+      "link": "https://www.elconfidencial.com/salud/2026-10-10/organo-donado-altruista-producto-comercial_4439401/",
+      "imagen": "https://images.ecestaticos.com/nrSXPW7fHDX2aVE1MvgjRAZF2J4=/0x237:2272x1515/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F0cb%2Fc0f%2Fdc1%2F0cbc0fdc1c5291614340e02d8f812292.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "María Casas, farmacéutica y dietista: \"Desayunar avena es excelente por tres motivos: regula tu apetito, equilibra la microbiota y reduce el colesterol\"",
       "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-09/maria-casas-farmaceutica-y-dietista_4441069/",
       "imagen": "https://images.ecestaticos.com/XzJVOutZHNyCaUL0d7yf_QjCFy8=/0x0:472x335/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F06b%2F15b%2F5a6%2F06b15b5a671bac3c8723b092b2b8abf2.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Críticas a Sánchez por firmar una tribuna científica: \"Debería reflejar contribución, no protagonismo\"",
       "link": "https://www.elconfidencial.com/salud/2026-10-09/pedro-sanchez-firma-articulo-revista-medica_4441789/",
       "imagen": "https://images.ecestaticos.com/Zzk8w13HDr7CeRBocnTa7AtAlOQ=/0x232:2272x1510/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F076%2F699%2F591%2F076699591d5173712aa97820fce15d26.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Fernando Mora, psiquiatra: \"Cinco alimentos que afectan negativamente al cerebro\"",
-      "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-09/fernando-mora-psiquiatra-cinco-alimentos-negativos-cerebro-1qrt_4429698/",
-      "imagen": "https://images.ecestaticos.com/5wiDa3UVlqZMGIBg8wfFNUgc9Ec=/0x0:743x418/0x900/filters:format(png)/f.elconfidencial.com%2Foriginal%2F8d9%2F9cb%2F8d1%2F8d99cb8d1debcc086a6451aeedc49f01.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "De la ley antitabaco a las listas de espera: las reformas sanitarias en el limbo que calientan la carrera electoral",
-      "link": "https://www.elconfidencial.com/salud/2026-10-09/ley-antitabaco-reformas-sanitarias-colgadas_4440507/",
-      "imagen": "https://images.ecestaticos.com/EWKMN7RGHVkLetexLH7OA_phu94=/0x0:2272x1278/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc9c%2F376%2F763%2Fc9c37676331a8256379f0045a6913853.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Jorge Ángel, enfermero: “Al aplastar una cucaracha, aumenta el riesgo de transmisión de las bacterias que albergan”",
-      "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-09/enfermero-aplastar-cucaracha-aumenta-riesgo-transmision-bacterias_4440477/",
-      "imagen": "https://images.ecestaticos.com/QGxKz1eOVT98L01sUdJCy5YSZ6k=/0x0:566x549/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F9f2%2F58c%2F553%2F9f258c553ff08075bd99a27daab9dd9e.jpg",
       "tipo": "imagen"
     }
   ]

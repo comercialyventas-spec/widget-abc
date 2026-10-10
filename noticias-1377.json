@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Torta de pimiento molido, una receta fácil de pan plano y crujiente",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-10/torta-de-pimiento-molido-una-receta-facil-de-pan-plano-y-crujiente.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/FS2K3J5SFFAAVCLF7MGFY7JXDE.jpg?auth=a6058e691d73437faf49a84694d41f3316fe4862c4d9f8f8a7b230431b123359",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las claves para hacer rentable un negocio de restauración: “Abrimos hace nueve meses y facturamos el doble de lo previsto”",
+      "link": "https://elpais.com/gastronomia/2026-10-10/las-claves-para-hacer-rentable-un-negocio-de-restauracion-abrimos-hace-nueve-meses-y-facturamos-el-doble-de-lo-previsto.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/6GETLIW5XJETVKWHOFUPBA362Q.jpg?auth=ede5a9e247ad95b3f2c1277a3968aa9042c324457f684f4eb6125d4516dacf9b",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Cabra, la cafetería de especialidad más copiada del mundo, aterriza en España",
+      "link": "https://elpais.com/gastronomia/2026-10-10/la-cabra-la-cafeteria-de-especialidad-mas-copiada-del-mundo-aterriza-en-espana.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/WPN7FWNPRRDLHNOQYOEAA7BASU.jpg?auth=7be58890e0d7a84b4e979339c5c47fc0eded5203a79f9f3628b4af0816f8d463",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Calamares de campo, la receta de posguerra que sigue estando buenísima",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-10-09/calamares-de-campo-la-receta-de-posguerra-que-sigue-estando-buenisima.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/LF77OE6BCNFIHBHE2WXXGD7AUU.jpg?auth=19b00e6cf21fa66227c8fc4ba1d912daecdf3348f3f4aa9d3ccd7daea38716f7",
@@ -16,24 +34,6 @@
       "titulo": "La mocadorà: las frutas y verduras de mazapán con las que los valencianos se declaran su amor cada 9 de octubre",
       "link": "https://elpais.com/gastronomia/2026-10-09/la-mocadora-las-frutas-y-verduras-de-mazapan-con-las-que-los-valencianos-se-declaran-su-amor-cada-9-de-octubre.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/BP46IXT6F5AR7EQ3OAZSECLLEI.TIF?auth=d532ac6204eb12721dc103d5aa93cd82e633dbe1e7e1c1b8eae064df0ff654d7",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Bernal a Costa, el restaurante de Valencia donde una millenial y una GenZ quieren darte de comer como lo haría tu abuela",
-      "link": "https://elpais.com/gastronomia/2026-10-08/bernal-a-costa-el-restaurante-de-valencia-donde-una-millenial-y-una-genz-quieren-darte-de-comer-como-lo-haria-tu-abuela.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/F3HHW7GO2BHZRALO5335CJV4LA.jpg?auth=fd019362a0464dcab77691d0d7918185a007d9d97f09eee52980c7e72cf0b173",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Banana bread, la receta de bizcocho de plátano que no empalaga",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-08/banana-bread-la-receta-de-bizcocho-de-platano-que-no-empalaga.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20261004/1221730_230628_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ensalada templada de calabaza, mango y rúcula",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-08/ensalada-templada-de-calabaza-mango-y-rucula.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/E6QETPQR4VA7HMLOXX42YOSPQI.jpg?auth=314d3a13651ec4637f11b01a6b866c31169f835eaf8b9e9097ba01455becb954",
       "tipo": "imagen"
     }
   ]

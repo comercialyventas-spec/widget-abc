@@ -1,15 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "El Tribunal Penal Internacional, un organismo que enfrenta a EE.UU. y a la UE",
-      "link": "https://www.abc.es/internacional/futuro-tribunal-penal-internacional-enfrenta-eeuu-ue-20260825012448-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/25/tpi-R1yHidiZ2YuwmPOGgVJ2qrO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Acosado por las encuestas, Trump anuncia un acuerdo con Putin para que EE.UU. reciba diésel de Rusia",
       "link": "https://www.abc.es/internacional/trump-acuerda-putin-rusia-suministrara-cinco-millones-20261009210508-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/09/1499793610--758x531.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un terremoto de magnitud 7,6 sacude el centro y el sur de Panamá",
+      "link": "https://www.abc.es/internacional/terremoto-magnitud-sacude-panama-20261009203248-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/09/Panama-kSW-U302165936905dGD-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Tribunal Penal Internacional, un organismo que enfrenta a EE.UU. y a la UE",
+      "link": "https://www.abc.es/internacional/futuro-tribunal-penal-internacional-enfrenta-eeuu-ue-20260825012448-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/25/tpi-R1yHidiZ2YuwmPOGgVJ2qrO-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "¿Quién es Nidal Hasan y por qué será fusilado en directo el próximo 3 de diciembre?",
       "link": "https://www.abc.es/internacional/nidal-hasan-fusilado-proximo-diciembre-20261009172542-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/09/4883528-RAUkKJWiq1EU8ff4SqB0VLP-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Zelenski ve un «regalo» a Putin el pacto con Trump para suministrar millones de toneladas de diésel ruso",
-      "link": "https://www.abc.es/internacional/zelenski-regalo-putin-pacto-trump-suministrar-millones-20261009224507-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/09/zelenski-trump-k4pE-U30216714120745B-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

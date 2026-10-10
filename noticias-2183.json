@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Tormentas después del verano más cálido: ¿dónde va toda esta agua?",
+      "link": "https://www.elperiodico.com/es/sociedad/20261010/tormentas-despues-verano-calido-lluvias-135144606",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/dc7802a7-504b-4d1a-928c-658be58cfac7_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Científicos españoles desarrollan un sistema más rápido y eficaz para replantar posidonia en el Mediterráneo",
+      "link": "https://www.elperiodico.com/es/medio-ambiente/20261010/cientificos-espanoles-desarrollan-sistema-rapido-135197452",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2b181d4c-170f-4a53-bfc3-9d01deee3e52_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Informe Planeta Vivo 2026: la fauna salvaje sigue desapareciendo, pero la recuperación de tigres, tortugas o elefantes ofrece esperanza",
       "link": "https://www.elperiodico.com/es/medio-ambiente/20261009/informe-planeta-vivo-2026-fauna-135174757",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f119f55b-2fd3-4555-bae5-0fb0edcb8e7c_media-libre-aspect-ratio_default_0.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Estas son las dos ciudades más verdes de Europa y ambas son españolas",
       "link": "https://www.elperiodico.com/es/medio-ambiente/20261008/son-ciudades-verdes-europa-ambas-135157203",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ebc15c52-847c-40cd-83f4-9ed50c39d1a9_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El radar de Meteocat suma 6,5 millones de consultas en una semana marcada por las lluvias torrenciales en Catalunya",
-      "link": "https://www.elperiodico.com/es/sociedad/20261008/radar-meteocat-visitas-semana-lluvias-temporal-135143784",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/e490716b-b2b3-4f1b-92b6-05a4aab58f37_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Fuerte caída de las adopciones de perros y gatos: solo se acoge el 42% de los que tienen los centros",
-      "link": "https://www.elperiodico.com/es/medio-ambiente/20261008/fuerte-caida-adopciones-perros-gatos-135126284",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2bbe3fbd-246c-4454-80dd-12ef00f37bd4_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

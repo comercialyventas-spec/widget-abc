@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Un fuerte terremoto de magnitud 7,7 sacude Panamá",
+      "titulo": "Un fuerte terremoto de magnitud 7,7 sacude Panamá: el presidente Mulino afirma que el desastre que enfrenta su país \"es grande\"",
       "link": "https://www.bbc.com/mundo/articles/cwg5jyqdlj6mo",
       "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2df4/live/4917a440-c42b-11f1-8a64-853952fd7e59.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Documental BBC: cómo sobreviven los niños en una Gaza devastada",
+      "link": "https://www.bbc.com/mundo/articles/cme3xlvdjxdxo",
+      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f5a8/live/38c31cd0-c41e-11f1-9a39-31b474234113.jpg",
       "tipo": "imagen"
     },
     {
@@ -25,15 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Simon se fortalece en el Pacífico y se prevé que toque tierra en las costas de México como potente huracán durante el fin de semana",
-      "link": "https://www.bbc.com/mundo/articles/c6vg0ep71pxmo",
-      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1623/live/9bd98470-c41f-11f1-9462-0fb8e72a616b.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Trump anuncia un acuerdo con Putin para que Rusia libere miles de toneladas de diésel al mercado mundial",
-      "link": "https://www.bbc.com/mundo/articles/cr78pw790zn8o",
-      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a1ce/live/83fa56f0-c42d-11f1-9d55-e93e64baf5ad.jpg",
+      "titulo": "Isaías toca tierra en las costas de Florida como huracán de categoría 2 con ráfagas extremadamente peligrosas",
+      "link": "https://www.bbc.com/mundo/articles/c3x2wy1zw515o",
+      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8663/live/88322030-c35c-11f1-8787-a95282cfe51d.jpg",
       "tipo": "imagen"
     }
   ]

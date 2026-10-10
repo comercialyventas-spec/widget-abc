@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Las sillas en el paraíso",
+      "link": "https://www.abc.es/cultura/cultural/sillas-paraiso-20261012023204-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/12/jardines-luxemburgo-RdNWDYJ2e2qRiLy3McB5TWJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Hispanidad en la era global, un pasado que quema",
       "link": "https://www.abc.es/cultura/cultural/hispanidad-era-global-pasado-quema-20261009113525-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/08/La-Chola-Poblete-Rfq26NEHj2z3lr429MMNEmM-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Ecos del 98 y más de cien años de soledad de la Hispanidad en Occidente",
       "link": "https://www.abc.es/cultura/cultural/ecos-cien-anos-soledad-hispanidad-occidente-20261009113350-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/09/7466428-RsIN95WAXwPtv9xyn6DcjPJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Todo sobre la Hispanidad en la era global. Una nueva piel para el Museo de Bellas Artes de Bilbao",
-      "link": "https://www.abc.es/cultura/cultural/sobre-hispanidad-era-global-nueva-piel-museo-20261009115336-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/09/portadas-SUPLE-2026-RN4rLpmk2CBNOqEF6fveAUO-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
