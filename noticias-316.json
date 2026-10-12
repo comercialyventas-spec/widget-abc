@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "La caza del Nobel",
+      "link": "https://www.abc.es/play/television/criticas/caza-nobel-20261012183209-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/12/anne-carson-Rix34Tzu4f7z2I2nZtg8AAM-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El 'batch cooking' del 'streaming': así reinventaron las plataformas la tele de siempre",
+      "link": "https://www.abc.es/play/series/noticias/batch-cooking-streaming-reinventaron-plataformas-tele-siempre-20261011013058-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/11/swat-exiles-axn-kxp-U302152623934g2D-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Susana Díaz: «Pedro Sánchez es el mejor candidato del PSOE para las próximas elecciones generales. Ha optado por una campaña que va a polarizar»",
+      "link": "https://www.abc.es/play/television/noticias/susana-diaz-pedro-sanchez-mejor-candidato-psoe-20261012113000-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/05/susana-diaz-sanchez-kdI-U302064984579oiD-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Juan del Val: «Lo peor de esta legislatura de Pedro Sánchez tiene que ver con el muro, habernos enfrentado a unos con otros. Eso al final puede ser su salvación»",
       "link": "https://www.abc.es/play/television/noticias/juan-val-peor-legislatura-pedro-sanchez-ver-20261012083000-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/08/newspaint-1791451657562-1200x840-kj2B-U302125688649sPC-1200x840@diario_abc.jpg",
@@ -16,24 +34,6 @@
       "titulo": "El reto de encarnar a Raphael: «Es lo más intenso que he rodado jamás»",
       "link": "https://www.abc.es/play/series/noticias/hombres-aterrizan-mito-raphael-20261011013831-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/11/1518469893-kdsB-U302155462076M0H-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El 'batch cooking' del 'streaming': así reinventaron las plataformas la tele de siempre",
-      "link": "https://www.abc.es/play/series/noticias/batch-cooking-streaming-reinventaron-plataformas-tele-siempre-20261011013058-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/11/swat-exiles-axn-kxp-U302152623934g2D-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El nuevo thriller español que acaba de llegar a Movistar Plus y es ya un éxito: una serie sobre la mafia proxeneta protagonizada por Raúl Arévalo",
-      "link": "https://www.abc.es/play/series/noticias/nuevo-thriller-espanol-acaba-llegar-movistar-plus-20261011150000-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/11/arevalo-kWUH-R5Ow1HQ9E97D3UpmSrco4oK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Vicente Vallés: «El Gobierno de Pedro Sánchez muestra una enorme determinación para convencer de que la culpa de la vivienda es del presidente que dejó de serlo en 2018»",
-      "link": "https://www.abc.es/play/television/noticias/vicente-valles-gobierno-pedro-sanchez-muestra-enorme-20261011163540-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/11/sanchez-isabel-valles-RYyRGwkaaRb4jSsQ8hz5lFP-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

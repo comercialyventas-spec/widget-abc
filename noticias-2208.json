@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "'Els Llums de Sant Pau' trae el mundo de 'El Principito' a Barcelona",
+      "link": "https://www.elperiodico.com/es/videos/barcelona/els-llums-sant-pau-trae-principito/135245043.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/eb014808-3482-476d-8c10-1a14642ca2b8_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Jordi Martí, alcaldable de Junts en Barcelona, sobre Aliança Catalana",
       "link": "https://www.elperiodico.com/es/videos/barcelona/jordi-marti-alcaldable-junts-barcelona-video/135184847.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d75d4851-9c88-4507-ae67-72165448184f_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Dónde comer ostras premiadas a 1 euro en Barcelona",
       "link": "https://www.elperiodico.com/es/videos/barcelona/comer-ostras-premiadas-1-euro/135107170.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/537488c5-527d-4786-aa1f-114157c14f6e_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Andrés Naya en la presentación de sus dos libros, entre los \"cabezudos\" del barrio",
-      "link": "https://www.elperiodico.com/es/videos/barcelona/andres-naya-presentacion-libros-cabezudos/135077250.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/25a737fa-92cb-42be-8331-f33681a61bcf_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

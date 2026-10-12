@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Ahora sí, ha vuelto Mou",
+      "link": "https://www.abc.es/deportes/real-madrid/juanma-castano-vuelto-mou-20261012164559-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/12/mourin-RXh4emXyT10Rm8qMM8HfwyI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Real Madrid apunta a Javier Tebas como el nuevo Negreira",
       "link": "https://www.abc.es/deportes/real-madrid/madrid-senala-tebas-nuevo-negreira-20261011014334-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/11/viniok-RGlu9XPs8vxhDMZiSkCVEnN-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Real Madrid - Villarreal en directo: resultado, ganador y goles del partido de la Liga hoy, en vivo",
       "link": "https://www.abc.es/deportes/real-madrid/real-madrid-villarreal-directo-resultado-ganador-goles-20261010203210-di.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/10/liga-j8-rmadrid-villarreal_20261005105043-RbKcMwVhrkPbsQ34HbSLNdO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Estadísticas del Real Madrid - Villarreal de la jornada 8 de la Liga",
-      "link": "https://www.abc.es/deportes/real-madrid/estadisticas-real-madrid-villarreal-jornada-liga-20261010202948-di.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/10/liga-j8-rmadrid-villarreal-R2nVv8vglyBmibdWSDGRneJ-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

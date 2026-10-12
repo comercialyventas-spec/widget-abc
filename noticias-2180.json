@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Tiempo en Catalunya mañana martes: las temperaturas continúan en ascenso en todo el territorio",
+      "link": "https://www.elperiodico.com/es/tiempo/20261012/tiempo-cataluna-hoy-martes-13-de-octubre-lluvia-temperatura-dv-loc-135254467",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/118d658d-03d8-4314-a1cf-2893e3fbda64_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Tiempo en Catalunya hoy lunes: jornada de nubes que cubrirán el cielo antes de la llegada de un nuevo frente",
       "link": "https://www.elperiodico.com/es/tiempo/20261011/tiempo-cataluna-hoy-lunes-12-de-octubre-temperaturas-lluvia-dv-loc-135226905",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/57b38190-5c39-47b8-a933-339ff8664aa1_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Tiempo en Catalunya hoy sábado: las temperaturas repuntan y desaparecen las lluvias",
       "link": "https://www.elperiodico.com/es/tiempo/20261009/tiempo-cataluna-hoy-sabado-10-de-octubre-temperaturas-dv-loc-135185445",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9b3ee3cc-c5d6-4037-b114-d3a05fc5aa1d_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Catalunya registró este verano los niveles más altos de ozono desde 2019",
-      "link": "https://www.elperiodico.com/es/tiempo/20261008/cataluna-registra-niveles-muy-altos-ozono-catalunya-135145909",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/fc8dd2b1-936f-46b7-8853-d12ac3672490_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

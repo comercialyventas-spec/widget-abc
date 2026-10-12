@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Evento: Palacio de los Deportes. Afectadas 4 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261015-PD-Baloncesto.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Supresión de Parada: Goya. Afectada línea 30 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261014-SP-1255-Goya.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -27,12 +33,6 @@
     {
       "titulo": "Traslado de Parada: General Ricardos. Afectadas 5 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261013-TP-5560-General-Ricardos.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Servicio Especial: SE [Canillejas – Estadio Metropolitano].",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261013-Metropolitano.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

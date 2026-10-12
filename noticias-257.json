@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Tres escenarios y una pregunta: ¿quién controla las fronteras, la tecnología y el dinero?",
+      "link": "https://www.abc.es/internacional/nuevas-fronteras-20261008014128-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/08/HORIZONTAL.00_08_43_22.Imagen%20fija007-U47431782523eIo-562x393@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Pista a pista, con Guille Galván: «Es la primera vez que escribo una canción a mis hijos»",
+      "link": "https://www.abc.es/cultura/musica/pista-pista-guille-galvan-primera-vez-escribo-20261010174958-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/10/DSC07742-U41843543461hXx-562x315@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La infancia de terror de Stallone: «Te dices: 'no le temo a nada', pero hay cosas que no se superan»",
       "link": "https://www.abc.es/xlsemanal/stallone-infancia-terror-autobiografia-80-anos-cine-20261005132722-ntrc.html",
-      "imagen": "https://static.vocento.com/xlsemanal/2026/10/05/xlsemanal-sylvester-stallone-inancia-de-terror-krTB--562x393@RC.jpg",
+      "imagen": "https://static.vocento.com/xlsemanal/2026/10/05/xlsemanal-sylvester-stallone-inancia-de-terror-krTB--562x315@RC.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Tener una buena salud mental no significa siempre estar bien: así debes acompañar tu emociones",
+      "link": "https://www.abc.es/bienestar/tener-buena-salud-mental-significa-siempre-estar-20261009011627-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/10/09/belen1-U32517770825JQl-562x315@diario_abc.JPG",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "¿A quién le teme Delcy en Caracas?",
       "link": "https://www.abc.es/internacional/teme-delcy-caracas-20261006021031-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/06/1511461180-U20673829497T3D-U87560151208dPV-562x315@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "«En las fiestas de Iñaqui»",
-      "link": "https://www.abc.es/espana/fiestas-inaqui-20261008211324-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/08/MONTAJE%20HOR.00_05_43_18.Imagen%20fija006-U13423741248MjZ-562x315@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cómo la IA ha hecho que buscar trabajo se vuelva kafkiano... y cómo escapar a la trampa",
-      "link": "https://www.abc.es/xlsemanal/distopia-laboral-trabajo-ia-paro-empresas-20261005173102-ntrc.html",
-      "imagen": "https://static.vocento.com/xlsemanal/2026/10/05/xlsemanal-mercado-laboral-ia-encontrar-trabajo-se-vuelve-kafkiano-severance-cover-kVPD--562x315@RC.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Poseída, loca o epiléptica?",
-      "link": "https://www.abc.es/cultura/poseida-loca-epileptica-20261007063330-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/07/_NK26272_20261007143107-U18384014038EwD-562x315@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

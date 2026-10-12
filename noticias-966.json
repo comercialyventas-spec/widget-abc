@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Sheriff Country",
+      "link": "https://elpais.com/television/series/sheriff-country/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/LINAQGKJ7VDYDCWZO2A6N2VQK4.WEB?auth=179e6f1c6f40ab8104d4dea6409b69456589bdfd4a18311fa8e7e46cf886e1e9",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Bárbara sin Rey",
       "link": "https://elpais.com/television/2026-10-12/barbara-sin-rey.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/I43G6L37DJJXHPI7Z2NXAVN3RI.jpg?auth=929b422922b06f0f4a7293fdb9033aa96db8931e557f5a9d334d0bede608de26",
@@ -28,12 +34,6 @@
       "titulo": "La guerra entre ‘La revuelta’, ‘Cara al show’, ‘El hormiguero’, ‘El perro andaluz’… por dar con el invitado perfecto",
       "link": "https://elpais.com/television/2026-10-11/la-guerra-entre-la-revuelta-cara-al-show-el-hormiguero-el-perro-andaluz-por-dar-con-el-invitado-perfecto.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/G5C2K5JHKRCJJFY5UMSKRAMCWY.png?auth=96ab9a86c3f31944644f5b276dd3f2906d516415e72bb0f5e04dbf6002469ca7",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El capitán Kirk no descarta un último viaje",
-      "link": "https://elpais.com/television/2026-10-11/el-capitan-kirk-no-descarta-un-ultimo-viaje.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/BAXXSJ76MVKXPDO7WBCGB332QY.jpg?auth=5762eba85defa687e705e88f52946c6e54a0d00d5b16b79d2b7c1b7fbcbbcc6b",
       "tipo": "imagen"
     }
   ]

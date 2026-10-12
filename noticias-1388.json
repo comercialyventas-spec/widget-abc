@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "‘El Cadell’: Homenatge a les tietes de Catalunya",
+      "link": "https://elpais.com/quadern/2026-10-12/el-cadell-homenatge-a-les-tietes-de-catalunya.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SVH6VWG4YFFG3NWP65JJYPXIIQ.jpg?auth=3094edc595206d686a3da89b50473dc5ddfa87f5e333e526ce60704979ca6a4c",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El cotxe de l’Artur Blasco",
       "link": "https://elpais.com/quadern/musica/2026-10-12/el-cotxe-de-lartur-blasco.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/3YQRSQGKFZCCDOYJXENQIW6XGY.JPG?auth=e754e3e2b45e8a9285eee127881c5a14e8773544abf838ba9eee3a51e237edc2",
@@ -28,12 +34,6 @@
       "titulo": "Leopardi: poesia i pensament a partir de les ‘Obretes morals’",
       "link": "https://elpais.com/quadern/literatura/2026-10-10/leopardi-poesia-i-pensament-a-partir-de-les-obretes-morals.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/SLTNSRDHJZB6HN6C2SAR7V6TUE.JPG?auth=5317545c1861c14919437784d0f561cf19cabc11016ade3b3c5590f782470348",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Carrie White no crema a l’infern: segueix viva al Festival de Sitges",
-      "link": "https://elpais.com/quadern/literatura/2026-10-09/carrie-white-no-crema-a-linfern-segueix-viva-al-festival-de-sitges.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/T4HHQMQJGVHXBG46A7MPTUK4BQ.JPG?auth=590244cc17413c71d0b071eb104af6f9ada7dfecf85c140bd48f36bff2e2e567",
       "tipo": "imagen"
     }
   ]

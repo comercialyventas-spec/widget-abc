@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La caza del Nobel",
+      "link": "https://www.abc.es/play/television/criticas/caza-nobel-20261012183209-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/12/anne-carson-Rix34Tzu4f7z2I2nZtg8AAM-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Susana Díaz: «Pedro Sánchez es el mejor candidato del PSOE para las próximas elecciones generales. Ha optado por una campaña que va a polarizar»",
+      "link": "https://www.abc.es/play/television/noticias/susana-diaz-pedro-sanchez-mejor-candidato-psoe-20261012113000-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/05/susana-diaz-sanchez-kdI-U302064984579oiD-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Juan del Val: «Lo peor de esta legislatura de Pedro Sánchez tiene que ver con el muro, habernos enfrentado a unos con otros. Eso al final puede ser su salvación»",
       "link": "https://www.abc.es/play/television/noticias/juan-val-peor-legislatura-pedro-sanchez-ver-20261012083000-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/08/newspaint-1791451657562-1200x840-kj2B-U302125688649sPC-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Juan Lobato, sobre la participación de Zapatero en las elecciones generales: «Esta no es su campaña. Es incompatible ir a un mitin mientras te defiendes en un proceso penal»",
       "link": "https://www.abc.es/play/television/noticias/juan-lobato-sobre-participacion-zapatero-elecciones-generales-20261010191114-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/08/newspaint-1791392888239-1200x840-RKlcXUIFxBaw2CG1vEYQWeO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Rubén, propietario de 150 viviendas: «Soy apolítico, me da igual que gobierne un partido u otro, pero me gustaría tener seguridad jurídica y alquilar residencialmente»",
-      "link": "https://www.abc.es/play/television/noticias/ruben-propietario-viviendas-apolitico-igual-gobierne-partido-seguridad-20261010180000-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/10/ruben-propietaria-viviendas-kfgD-U302161401894rVG-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Es la película más vista de Netflix a nivel mundial: un thriller inspirado en hechos reales y con un ganador de Oscar",
-      "link": "https://www.abc.es/play/television/noticias/pelicula-vista-netflix-nivel-mundial-thriller-inspirado-20261010144539-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/10/newspaint-1791631814953-1200x840-kApD-U302171240756cYC-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

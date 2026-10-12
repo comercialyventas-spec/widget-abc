@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Cuando la conexión funciona",
+      "link": "https://www.abc.es/xlsemanal/next-spain-badajoz-territorio-conectado-20261012122756-ntrc.html",
+      "imagen": "https://static.vocento.com/xlsemanal/2026/10/12/xlsemanal-next-spain-badajoz-territorio-conectado-kzqD-U302107304098MNI-1200x672@RC.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Qué es la belleza? Todo lo que perdemos si erradicamos la fealdad",
+      "link": "https://www.abc.es/xlsemanal/belleza-fealdad-mujeres-arte-estetica-20261012130844-ntrc.html",
+      "imagen": "https://static.vocento.com/xlsemanal/2026/10/12/xlsemanal-2034-belleza-lo-que-perdemos-si-erradicamos-la-fealdad-juno-calypso-kaJH-U302191896200XgD-1200x672@RC.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cómo Stallone sobrevivió a una infancia de terror: «Hay cosas que no se superan»",
       "link": "https://www.abc.es/xlsemanal/stallone-infancia-terror-autobiografia-80-anos-cine-20261005132722-ntrc.html",
       "imagen": "https://static.vocento.com/xlsemanal/2026/10/05/xlsemanal-sylvester-stallone-inancia-de-terror-krTB-U302129475912Y0E-1200x1200@RC.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Tarta de peras y franchipán de mandarina",
       "link": "https://www.abc.es/xlsemanal/martin-berasategui-tarta-peras-franchipan-mandarina-20261005155046-ntrc.html",
       "imagen": "https://static.vocento.com/xlsemanal/2026/10/05/xlsemanal-tarta-hojaldre-franchipan-mandarina--758x531.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una tapa popular",
-      "link": "https://www.abc.es/xlsemanal/firmas/carlos-maribona/una-tapa-popular-20261005150546-ntrc.html",
-      "imagen": "https://s1.abcstatics.com/narwhal/1.3.71/assets/images/abc-noticias.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sexo y propiedad",
-      "link": "https://www.abc.es/xlsemanal/firmas/juan-manuel-de-prada/sexo-y-propiedad-20261005145931-ntrc.html",
-      "imagen": "https://s1.abcstatics.com/narwhal/1.3.71/assets/images/abc-noticias.jpg",
       "tipo": "imagen"
     }
   ]

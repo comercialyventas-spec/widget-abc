@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Desfile 12 Octubre",
+      "titulo": "Directo 12 Octubre",
       "link": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13579188.html",
       "imagen": "https://static.eldiario.es/clip/a47d2288-4737-485a-a3bf-82c832eb90d4_facebook-aspect-ratio-1200-675_default_0_x990y273.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "AVE Madrid Barcelona",
+      "link": "https://www.eldiario.es/aragon/sociedad/ave-madrid-zaragoza-averia-obliga-cortar-linea-sentidos-pasajeros-proceso-desalojo_1_13580111.html",
+      "imagen": "https://static.eldiario.es/clip/0f45c093-b163-4fb1-82ea-1e8b0326babc_facebook-aspect-ratio-1200-675_default_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -15,8 +21,8 @@
     {
       "titulo": "Miguel Ángel Rodriguez",
       "link": "https://www.eldiario.es/politica/agentes-uco-moviles-incautados-revelacion-secretos-pp-no-investiga-exfiscal-general_1_13574778.html",
-      "imagen": "https://static.eldiario.es/clip/c60c1a67-f77a-40b7-be01-6e69c2e0997f_facebook-aspect-ratio-1200-675_default_0_x1019y372.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Semana Santa 2027",
@@ -27,12 +33,6 @@
     {
       "titulo": "Trivial actualidad",
       "link": "https://www.eldiario.es/juegos/game/trivial-de-actualidad/",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Seguir elDiario.es en Google",
-      "link": "https://www.eldiario.es/redaccion/anade-eldiario-fuente-preferida-google-seguir-actualidad-ver-noticias_132_13200417.html",
       "imagen": "",
       "tipo": ""
     }
