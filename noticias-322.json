@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Hay un bosque en Huelva que en otoño parece sacado de un cuento: castaños centenarios, senderos y pequeños pueblos blancos",
+      "link": "https://www.abc.es/viajar/andalucia/bosque-huelva-otono-parece-sacado-cuento-castanos-20261011171309-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/viajar/2026/10/11/76CD27FB2A80FAE41CCF2F36A4EE0B6093A9BDE2-RkGvZEBQQND658nG0UWqtDO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El pueblo de Sevilla que estuvo bajo el mar hace 550 millones de años y todavía conserva sus medusas",
       "link": "https://www.abc.es/viajar/andalucia/pueblo-sevilla-bajo-mar-550-millones-anos-20261009161419-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/viajar/2026/10/09/viajar-constantina-portada-R4cp6C1LXFZxjfOaWy6oTrJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El cañón de más de 100 metros escondido entre tres pequeños pueblos de Málaga",
+      "link": "https://www.abc.es/viajar/andalucia/canon-100-metros-escondido-tres-pequenos-pueblos-20261010103751-nts.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/09/El_Rio_Guadiaro_02-RGZYRzKQeIRqaTfmEpkg9mO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El hotel más antiguo de Canarias sigue siendo un siglo después el centro social y cultural de Gran Canaria",
+      "link": "https://www.abc.es/viajar/alojamientos/hotel-antiguo-canarias-sigue-siglo-despues-centro-20261011011905-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/viajar/2026/10/11/Santa-Catalina_hotel-RZj6KCP3RlMLALZaw4CYZOL-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "El 'Beverly Hills' de Matalascañas: un motel completamente rosa a orillas del Atlántico",
       "link": "https://www.abc.es/viajar/andalucia/beverly-hills-matalascanas-motel-completamente-rosa-orillas-20261009130605-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/09/hotel-rosa-k1SH-U302155468878SuD-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La extraña iglesia visigoda que fue excavada directamente dentro de una pared de roca",
-      "link": "https://www.abc.es/viajar/andalucia/extrana-iglesia-visigoda-excavada-directamente-dentro-pared-20261008162904-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/viajar/2026/10/08/oratorio-rupestre-valdecanales-RW2Tk29iYgjvr0FWNkPhnzH-1200x840@diario_abc.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tartu: la capital cultural de Estonia en siete paradas imprescindibles",
-      "link": "https://www.abc.es/viajar/destinos/europa/tartu-capital-cultural-estonia-siete-paradas-imprescindibles-20261008161739-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/viajar/2026/10/08/IMG_1971-RhdGouS6jD6VVsRZVuXQsMI-1200x840@diario_abc.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La montaña de arcilla de Granada que el agua convirtió en un paisaje imposible y que el ser humano llenó de cuevas",
-      "link": "https://www.abc.es/viajar/andalucia/montana-arcilla-granada-agua-convirtio-paisaje-imposible-20261007161111-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/viajar/2026/10/07/marchal%203-RvHBFjGW6HTyURQ3GWFvRIP-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

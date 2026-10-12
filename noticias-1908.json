@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Malas víctimas, malas desahuciadas, malos españoles",
+      "link": "https://www.eldiario.es/opinion/zona-critica/malas-victimas-malas-desahuciadas-malos-espanoles_129_13578788.html",
+      "imagen": "https://static.eldiario.es/clip/7cb8188a-3e21-48a2-a4ea-8469092b8fb7_16-9-discover-aspect-ratio_default_0_x825y781.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Maricarmen (no) se iba a morir igual",
       "link": "https://www.eldiario.es/opinion/zona-critica/maricarmen-no-iba-morir-igual_129_13570764.html",
       "imagen": "https://static.eldiario.es/clip/af3e62b1-9437-4e46-9444-6e94a2c57566_16-9-discover-aspect-ratio_default_0_x1175y215.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Hecha la ley (de vivienda), hecha la trampa",
       "link": "https://www.eldiario.es/opinion/zona-critica/hecha-ley-vivienda-hecha-trampa_129_13548496.html",
       "imagen": "https://static.eldiario.es/clip/ef99f915-421a-4991-8e7b-baf5e4baa973_16-9-discover-aspect-ratio_default_0_x924y423.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "A mí no me van a desahuciar",
-      "link": "https://www.eldiario.es/opinion/zona-critica/no-desahuciar_129_13542264.html",
-      "imagen": "https://static.eldiario.es/clip/bce322a8-2c61-4799-9d42-465187c75119_16-9-discover-aspect-ratio_default_0_x895y833.jpg",
       "tipo": "imagen"
     }
   ]

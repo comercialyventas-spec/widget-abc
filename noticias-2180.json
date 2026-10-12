@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Tiempo en Catalunya hoy lunes: jornada de nubes que cubrirán el cielo antes de la llegada de un nuevo frente",
+      "link": "https://www.elperiodico.com/es/tiempo/20261011/tiempo-cataluna-hoy-lunes-12-de-octubre-temperaturas-lluvia-dv-loc-135226905",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/57b38190-5c39-47b8-a933-339ff8664aa1_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Tiempo en Catalunya hoy domingo: Temperaturas en aumento y vuelve la nubosidad a Barcelona",
+      "link": "https://www.elperiodico.com/es/tiempo/20261010/tiempo-cataluna-hoy-domingo-temperaturas-lluvias-dv-loc-135206396",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9cc61814-9b98-4507-b5ca-62ccf97a2d3a_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Una cuarta parte de las estaciones del Meteocat ya han superado la media anual de precipitaciones este año",
+      "link": "https://www.elperiodico.com/es/tiempo/20261010/estaciones-meteocat-lluvias-cataluna-barcelona-granollers-dv-135197943",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/048ca203-3c01-4766-94e5-f95b87879b54_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El huracán Simón gana fuerza y se convierte en categoría 3 en su avance al oeste de México",
+      "link": "https://www.elperiodico.com/es/internacional/20261010/huracan-simon-mexico-viento-categoria-3-135197794",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a8559401-ef1b-41c9-8b4f-6fc7756ebc93_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Tiempo en Catalunya hoy sábado: las temperaturas repuntan y desaparecen las lluvias",
       "link": "https://www.elperiodico.com/es/tiempo/20261009/tiempo-cataluna-hoy-sabado-10-de-octubre-temperaturas-dv-loc-135185445",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9b3ee3cc-c5d6-4037-b114-d3a05fc5aa1d_media-libre-aspect-ratio_default_0.jpg",
@@ -10,30 +34,6 @@
       "titulo": "Catalunya registró este verano los niveles más altos de ozono desde 2019",
       "link": "https://www.elperiodico.com/es/tiempo/20261008/cataluna-registra-niveles-muy-altos-ozono-catalunya-135145909",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/fc8dd2b1-936f-46b7-8853-d12ac3672490_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tiempo en Catalunya hoy viernes: jornada soleada para dejar atrás el temporal aunque con avisos por viento y mala mar",
-      "link": "https://www.elperiodico.com/es/tiempo/20261008/tiempo-catalunya-hoy-viernes-lluvia-meteocat-dv-135144187",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a0c892bc-97de-4446-a1a2-04c2681a3100_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tiempo en Catalunya hoy jueves: Más avisos por intensidad de lluvias y viento en Barcelona, Girona y Tarragona",
-      "link": "https://www.elperiodico.com/es/tiempo/20261007/tiempo-catalunya-hoy-jueves-lluvias-barcelona-girona-tarragona-dv-135101507",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/47f4b202-1e1e-4eaa-a661-14f0b9038545_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las lluvias dejan más de 300 litros por metro cuadrado en el Vallès Oriental, el Maresme y las Terres de l’Ebre entre el viernes y el martes",
-      "link": "https://www.elperiodico.com/es/tiempo/20261007/lluvias-300-litros-valles-oriental-maresme-terres-de-lebre-entre-viernes-y-martes-135102258",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a4fea62d-d7cd-40e6-a08c-ebd28fc2ee27_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "'Medicane': así es el violento fenómeno meteorológico que eleva el riesgo de lluvias torrenciales en Catalunya",
-      "link": "https://www.elperiodico.com/es/tiempo/20261007/que-es-medicane-huracan-mediterraneo-catalunya-peligro-lluvias-torrenciales-dv-134954323",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/5af2f8bb-86f8-46a4-b516-88e7b01af37f_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

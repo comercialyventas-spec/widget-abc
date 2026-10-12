@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Tres homenajes",
+      "link": "https://www.abc.es/gastronomia/tres-homenajes-20261010011804-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/10/10/nuevacocinavasca_ssg26-RqLzrRD9lJCLCzOt4xnA8ZN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El mejor parrillero de España llegó en patera y trabaja en un restaurante familiar de Murcia",
+      "link": "https://www.abc.es/gastronomia/ocho-minutos-decisivos-coronan-rey-espana-carne-20261010193747-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/10/10/ganadores-RbEpS0Cf4epkQ06QpwD5A7L-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Alenda, la huerta y el mar",
       "link": "https://www.abc.es/gastronomia/alenda-huerta-mar-20261009125127-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/10/09/alenda_ap-Run9uTqbOCvkqQjvXRlBqxM-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "La mejor parrilla de España es un restaurante familiar casi centenario de Murcia",
       "link": "https://www.abc.es/gastronomia/mejor-parrilla-espana-restaurante-familiar-centenario-murcia-20261007161444-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/10/07/parrilla-RR6bOEUQ9CfJKyL2mvvM5MM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La indiscutible mejor ensaladilla de España se hace en Ronda y lleva judía y piparra",
-      "link": "https://www.abc.es/gastronomia/indiscutible-mejor-ensaladilla-espana-ronda-lleva-judia-20261006190914-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/10/06/ENSALADILLAGANADORA-RnqpxTGwoQ9jGzAkPTC0jVJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El restaurante que celebra 30 años en Madrid haciendo alta cocina china",
-      "link": "https://www.abc.es/gastronomia/restaurante-celebra-anos-madrid-haciendo-alta-cocina-20261006183519-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/10/06/TSE%20YANG_%20SALA%20(2)-R5N3IHfDsGQ46yX4kpxnk6H-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

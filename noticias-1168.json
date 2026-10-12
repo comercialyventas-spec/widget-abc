@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Huracán ‘Simón’ amenaza el Pacífico mexicano, en imágenes",
+      "link": "https://elpais.com/mexico/2026-10-11/huracan-simon-amenaza-el-pacifico-mexicano-en-imagenes.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/PIOCS22EIFOJPKZUFITXMI4YA4.jpg?auth=45c306e1aa35c7fcf615e60746e348abd8dbf22d2bb1de836d474ed40c9fcfff&width=414",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "De ‘MadridCarmen’ al Cielo",
+      "link": "https://elpais.com/espana/2026-10-11/de-madridcarmen-al-cielo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/DAJRGIH5I5AHBGZH6OTVLJD6PQ.jpeg?auth=87f7c291a10c48969857a7f821a8e69fdd6c2fd64cc71ac617f2012cc85f364e&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un aluvión deja inundaciones y heridos en Las Condes al oriente de Santiago, en imágenes",
       "link": "https://elpais.com/chile/2026-10-09/un-aluvion-deja-inundaciones-y-heridos-en-las-condes-al-oriente-de-santiago-en-imagenes.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/M6PUJ2R5CRPU5DCWIE2PQQA5WA.jpg?auth=6a1ec8bf8f26afb43d4a4480277531f5e9423fe41597127c3f6de82cec77342a&width=414",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/M6PUJ2R5CRPU5DCWIE2PQQA5WA.jpg?auth=6a1ec8bf8f26afb43d4a4480277531f5e9423fe41597127c3f6de82cec77342a&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
@@ -19,21 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "La lucha de Maricarmen, en imágenes",
-      "link": "https://elpais.com/espana/2026-10-07/la-lucha-de-maricarmen-en-imagenes.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/O34BVFCS5BAZPMMUXTHZUIPOZ4.jpg?auth=1be6fc1c16dc6482d813bfa596a13a12a417f33895b4fb9add1a9cf66da4ba7a&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La guerra con Irán rescata del olvido a Eritrea, el país más hermético del Cuerno de África",
-      "link": "https://elpais.com/planeta-futuro/2026-10-07/la-guerra-con-iran-rescata-del-olvido-a-eritrea-el-pais-mas-hermetico-del-cuerno-de-africa.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/3ZJVYASAWRIPLG6AWWWPKDPIZY.jpg?auth=e46875d0d85f254b0b9ab89fad445ea5832c894b1d75933c59e72d84627b4868&width=414&height=311&focal=3237%2C2054",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘Nueva York, sueño urbano’",
-      "link": "https://elpais.com/opinion/2026-10-05/nueva-york-sueno-urbano.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/OIPXMSSP2FDO3DWMPFXVLXNE7I.jpg?auth=c69251d0cf12eaf669276c4f148b8dbeb55aad62ea1997b5212a5302fd3d3e6b&width=414&height=311&smart=true",
+      "titulo": "‘The Royal House’",
+      "link": "https://elpais.com/opinion/2026-10-12/the-royal-house.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/2D6ZM3Y4CBDK7MNZKYQZHIG6JQ.JPG?auth=2076e79ef3a19ebf17376f15343334499b1a2f46a0a9bdd3168b888e005586f8&width=414&height=311&focal=2279%2C1209",
       "tipo": "imagen"
     }
   ]

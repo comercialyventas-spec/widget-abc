@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Isabel Díaz Ayuso y las palabras comadreja",
+      "link": "https://elpais.com/educacion/2026-10-12/isabel-diaz-ayuso-y-las-palabras-comadreja.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/X6BTHHATMBPK7LGN3P7W6B2JRE.jpg?auth=40b42197da8026a282ef237cfb76a93df210d1759be39d1279f7e043e7da991c&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El juez investiga a tres maestras de un colegio concertado de Madrid por maltratar a bebés: “Les tapaba la nariz para tragar”",
+      "link": "https://elpais.com/educacion/2026-10-09/el-juez-investiga-a-tres-maestras-de-un-colegio-concertado-de-madrid-por-maltratar-a-bebes-les-tapaba-la-nariz-para-tragar.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/FJ6LMKY3RRFTZOI7ISSSZQ4OAA.jpg?auth=4a9e98a20d1d879c4e6c5576536ea98fb0c6499ce31dc700b23626463effad9f&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Supremo tumba el decreto del Gobierno para frenar las universidades ‘chiringuito’",
       "link": "https://elpais.com/educacion/2026-10-08/el-supremo-tumba-el-decreto-para-frenar-las-universidades-chiringuito.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/6TXCE3JZVRKOZMVODHARWNGX7I.jpg?auth=43ec79b12fa2fa05c94823cdfb02e0a54271add1b90b0c3d715d8cd22eec6966&width=414&height=311&smart=true",
@@ -20,19 +32,7 @@
     },
     {
       "titulo": "La educación inclusiva como pacto esencial",
-      "link": "https://elpais.com/educacion/2026-10-02/la-educacion-inclusiva-como-pacto-esencial.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/LZW3NM2NKMTHA5JRFNY5JWKPME.jpg?auth=76d416d374308cf73b1e57a4aa760d38d7752a0da083619227a24cd4b4aaa856&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Si la IA hace la tarea, ¿qué aprende el alumno?",
-      "link": "https://elpais.com/economia/formacion/2026-10-02/cuando-la-ia-hace-el-trabajo-que-queda-por-aprender.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/SDEU7SJK7BB2VFTCIHI4NNI6VQ.jpg?auth=cfea5f79afc9e3a1366879af86e11c6935d8973acaac5704b6f470718657e1c9&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Aulas más atentas, multas y otras fórmulas para evitar que los alumnos falten al cole",
-      "link": "https://elpais.com/noticias/absentismo-escolar/",
+      "link": "https://elpais.com/noticias/politica-educativa/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/SEJWTPYCSNDKVH3VOQNGOQGKKE.png?auth=b640870211b3a4af7ef9c423e5198d4a40e0b827510ab604d5a10c6ed173fac6",
       "tipo": "imagen"
     }

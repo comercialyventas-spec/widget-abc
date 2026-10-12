@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "El cotxe de l’Artur Blasco",
+      "link": "https://elpais.com/quadern/musica/2026-10-12/el-cotxe-de-lartur-blasco.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/3YQRSQGKFZCCDOYJXENQIW6XGY.JPG?auth=e754e3e2b45e8a9285eee127881c5a14e8773544abf838ba9eee3a51e237edc2",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Josep Maria Castellet rellegeix ‘El quadern gris’ a Viladrau",
+      "link": "https://elpais.com/quadern/literatura/2026-10-11/josep-m-castellet-rellegeix-el-quadern-gris-a-viladrau.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4YJUYPBODCEOHPEFPPVCN3KHR4.jpg?auth=db0bb007c52bb3e78be6ba7cfe0c21b26503e4bedb25e28e31fdc7155ba25a9e",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Josep Maria Castellet, mestre d’un temps, d’un país",
+      "link": "https://elpais.com/quadern/2026-10-11/josep-maria-castellet-mestre-dun-temps-dun-pais.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/HRKL7Y3PJFAY5EPW53JR7N64KM.JPG?auth=29ea41f1b9e30286677ba05050430f373a78a75544c24527a843bb3a24826ca6",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "L’escriptor Fausto Puerto excel·leix sense seguir convencions",
+      "link": "https://elpais.com/quadern/literatura/2026-10-10/lescriptor-fausto-puerto-excelleix-sense-seguir-convencions.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/X3NM7BP6RNEJNK7Z4QWBZ76ETM.JPG?auth=29b8cf81dc8cd5d97b6fbb4a98a9b662d2c94b09e1797f9723388f4fb5f55b34",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Leopardi: poesia i pensament a partir de les ‘Obretes morals’",
       "link": "https://elpais.com/quadern/literatura/2026-10-10/leopardi-poesia-i-pensament-a-partir-de-les-obretes-morals.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/SLTNSRDHJZB6HN6C2SAR7V6TUE.JPG?auth=5317545c1861c14919437784d0f561cf19cabc11016ade3b3c5590f782470348",
@@ -10,30 +34,6 @@
       "titulo": "Carrie White no crema a l’infern: segueix viva al Festival de Sitges",
       "link": "https://elpais.com/quadern/literatura/2026-10-09/carrie-white-no-crema-a-linfern-segueix-viva-al-festival-de-sitges.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/T4HHQMQJGVHXBG46A7MPTUK4BQ.JPG?auth=590244cc17413c71d0b071eb104af6f9ada7dfecf85c140bd48f36bff2e2e567",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Marina Herlop: “La indústria del pop ha subordinat la música al suport visual”",
-      "link": "https://elpais.com/quadern/musica/2026-10-09/marina-herlop-la-industria-del-pop-ha-subordinat-la-musica-al-suport-visual.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/XPGNEFKNFZGTVJPA6PCLJCN4TY.JPG?auth=40c2d3203bbd6fb4884e84cdf6dc6f5be634965783c2a974f2cf57835485fd3a",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Traduir Anne Carson al català: la quimera de desplaçar el jo",
-      "link": "https://elpais.com/quadern/2026-10-08/traduir-anne-carson-al-catala-la-quimera-de-desplacar-el-jo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/RGZCDR3KSZPMHMOFACU7E3YCQE.jpg?auth=3b55f1f29f4dfc1591a308e8feb9dbff7d243849ab0319d748b1ea70b520f16b",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘Albió’ i ‘Lázár’: un nou corrent mercantil en la literatura",
-      "link": "https://elpais.com/quadern/literatura/2026-10-08/albio-i-lazar-un-nou-corrent-mercantil-en-la-literatura.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/JBSGY5VGTNDE5BHSFHWQM7H4II.JPG?auth=297f3a1c1f95ea4e1d8c55826bd6ed8edc93aedd41cafa1c813fd0a852e50250",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Txékhov i Tolstoi: dues vides russes",
-      "link": "https://elpais.com/quadern/literatura/2026-10-08/txekhov-i-tolstoi-dues-vides-russes.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/3VHYVO3B3RBBBE6HJAKPJRLRFQ.JPG?auth=c610015bba3cfbc94fc838a4c01ef452c138f55b9785b0c6731c316cf03718f4",
       "tipo": "imagen"
     }
   ]

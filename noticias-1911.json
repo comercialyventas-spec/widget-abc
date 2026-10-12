@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Sorprendidos",
+      "link": "https://www.eldiario.es/opinion/sorprendidos_131_13579074.html",
+      "imagen": "https://static.eldiario.es/clip/ecd46b9c-33f9-4774-b9aa-bebb87d6caa0_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Pucherazo",
+      "link": "https://www.eldiario.es/opinion/pucherazo_131_13577947.html",
+      "imagen": "https://static.eldiario.es/clip/24f0c99c-e506-49f3-8acc-494f3224276f_16-9-discover-aspect-ratio_default_1153091.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Hacer política",
       "link": "https://www.eldiario.es/opinion/politica_131_13573730.html",
       "imagen": "https://static.eldiario.es/clip/45a5d613-23f4-4380-b248-208a71cc96e9_16-9-discover-aspect-ratio_default_0_x523y163.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Los aplausos",
       "link": "https://www.eldiario.es/opinion/aplausos_131_13560120.html",
       "imagen": "https://static.eldiario.es/clip/7b93b35b-9eb3-4ae1-a328-5f4f3943d320_16-9-discover-aspect-ratio_default_0_x262y177.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Más armas",
-      "link": "https://www.eldiario.es/opinion/armas_131_13555382.html",
-      "imagen": "https://static.eldiario.es/clip/2d29d5cd-fa13-4259-b451-08fe3cdc092b_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Retratarse",
-      "link": "https://www.eldiario.es/opinion/retratarse_131_13548662.html",
-      "imagen": "https://static.eldiario.es/clip/344be004-e006-439e-b748-d93f11f06fe7_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

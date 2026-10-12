@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La Comunidad Valenciana celebra el Día de la Hispanidad con temperaturas de 30 grados",
+      "link": "https://okdiario.com/comunidad-valenciana/comunidad-valenciana-celebra-dia-hispanidad-temperaturas-30-grados-20529881",
+      "imagen": "https://okdiario.com/img/2026/10/11/imagen_recortada-3-3.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La AEMET confirma un gran descenso de las temperaturas en el día de la Comunidad Valenciana",
       "link": "https://okdiario.com/comunidad-valenciana/aemet-confirma-gran-descenso-temperaturas-dia-comunidad-valenciana-20513384",
       "imagen": "https://okdiario.com/img/2026/10/08/imagen_recortada-9.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Compromís copia a Esquerra: renombra el ‘Día de la Comunidad Valenciana’ como ‘Día Nacional del País Valenciano’",
       "link": "https://okdiario.com/comunidad-valenciana/compromis-copia-esquerra-renombra-dia-comunidad-valenciana-como-dia-nacional-del-pais-valenciano-20511354",
       "imagen": "https://okdiario.com/img/2026/10/08/compromis-copia-a-esquerra-interior.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Pérez Llorca al PSOE: «Sólo les falta pedir a un sicario que vaya a buscarme como han hecho con la juez de Extremadura»",
-      "link": "https://okdiario.com/comunidad-valenciana/perez-llorca-psoe-solo-les-falta-pedir-sicario-que-vaya-buscarme-como-hicieron-juez-extremadura-20510429",
-      "imagen": "https://okdiario.com/img/2026/10/08/juanfran-perez-llorca.jpg",
       "tipo": "imagen"
     }
   ]

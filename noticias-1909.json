@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Angustia de izquierdas",
+      "link": "https://www.eldiario.es/opinion/zona-critica/angustia-izquierdas_129_13579058.html",
+      "imagen": "https://static.eldiario.es/clip/eebe7745-1952-4c60-a116-cd3410ba2d69_16-9-discover-aspect-ratio_default_0_x1224y820.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Que ser de izquierdas vuelva a ser sexy",
       "link": "https://www.eldiario.es/opinion/zona-critica/izquierdas-vuelva-sexy_129_13561216.html",
       "imagen": "https://static.eldiario.es/clip/9339b298-fa75-4782-be19-b1e64a43f1b4_16-9-discover-aspect-ratio_default_0_x1059y677.jpg",
@@ -28,12 +34,6 @@
       "titulo": "'Farmear aura' y el fin de lo humano",
       "link": "https://www.eldiario.es/opinion/zona-critica/farmear-aura-humano_129_13491130.html",
       "imagen": "https://static.eldiario.es/clip/bad142de-237d-4822-86bf-5dce5c7d3834_16-9-discover-aspect-ratio_default_1150567.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Caras en la multitud",
-      "link": "https://www.eldiario.es/opinion/zona-critica/caras-multitud_129_13475633.html",
-      "imagen": "https://static.eldiario.es/clip/17d32ebd-b31f-48ac-b0bd-c60136e3dee1_16-9-discover-aspect-ratio_default_0_x1209y873.jpg",
       "tipo": "imagen"
     }
   ]

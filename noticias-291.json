@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Un científico español explica la 'nube imposible' de 1.800 kilómetros de Marte",
+      "link": "https://www.abc.es/ciencia/cientifico-espanol-explica-nube-imposible-1800-kilometros-20261011013507-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/10/11/AMEC.ESA_DLR_FU%20Berlin_20261011171856-RQSlNQPpMipLcuTUKX2t1rM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El pequeño escudo de los dedos: la fascinante historia de la invención del dedal",
       "link": "https://www.abc.es/ciencia/pequeno-escudo-dedos-fascinante-historia-invencion-dedal-20261009011642-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/10/09/AdobeStock_8133435-R9JFM0hnyvXnGxK1h65SpeM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Qué hace que un problema matemático merezca años de esfuerzo",
+      "link": "https://www.abc.es/ciencia/problema-matematico-merezca-anos-esfuerzo-20261011013841-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/10/11/atiyah1-R0TggDlufnoUvu5LXZSgV5J-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "La señal de radio que viajó 10.000 millones de años para llegar a la Tierra",
       "link": "https://www.abc.es/ciencia/senal-radio-viajo-10000-millones-anos-llegar-20261008195118-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/10/08/senal-RR0UcgRp9XWSOn37MO8HX8M-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una IA de Google investiga de forma autónoma y resuelve nueve problemas matemáticos de hace décadas",
-      "link": "https://www.abc.es/ciencia/ia-google-investiga-forma-autonoma-resuelve-nueve-20261008200000-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/10/08/nexus-Ra9gFUQnfypkpaCs4JS5K0H-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Muere Margaret Hamilton, pionera cuyo software impulsó el alunizaje del Apolo 11",
-      "link": "https://www.abc.es/ciencia/muere-margaret-hamilton-pionera-software-impulso-alunizaje-20261008091112-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/10/08/margaret-RhX0opvuGh2bIzpqg0deczK-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

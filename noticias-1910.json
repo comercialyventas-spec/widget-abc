@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Feijóo, un hombre sin puntería",
+      "link": "https://www.eldiario.es/andalucia/desdeelsur/feijoo-hombre-punteria_132_13578695.html",
+      "imagen": "https://static.eldiario.es/clip/c34782ab-9e3d-4c2d-8579-cc4f8d40594d_16-9-discover-aspect-ratio_default_0_x1222y531.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Levántate y anda",
       "link": "https://www.eldiario.es/andalucia/desdeelsur/levantate-anda_132_13561086.html",
       "imagen": "https://static.eldiario.es/clip/bd9bc8fa-edc2-468a-be35-585e68a6cdf9_16-9-discover-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Operación Mulhacén",
       "link": "https://www.eldiario.es/andalucia/desdeelsur/operacion-mulhacen_132_13490680.html",
       "imagen": "https://static.eldiario.es/clip/b8a07ff1-a99c-4ccc-8485-9d5c5b38165b_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Semper fidelis",
-      "link": "https://www.eldiario.es/andalucia/desdeelsur/semper-fidelis_132_13475429.html",
-      "imagen": "https://static.eldiario.es/clip/70e32f8b-7eba-4b2b-a952-e65793e539e0_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
