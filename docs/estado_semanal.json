@@ -1,9 +1,11 @@
 {
- "fecha": "2026-10-05T11:08:54.062Z",
+ "fecha": "2026-10-12T11:37:22.606Z",
  "items": {
   "catalogo:https://0not1.ru/catalog/kurtki/#categoria": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "copia de GitHub antigua (141 h; el motor la da por caducada a las 72 h)"
+   ],
    "posts": [
     "https://ropaycomplementosaliazon.blogspot.com/2026/05/chaquetas-0not1-chaquetas-y-abrigos-de.html"
    ]
@@ -208,8 +210,10 @@
    ]
   },
   "catalogo:https://botica3.es/1262-labial#categoria": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "copia de GitHub antigua (141 h; el motor la da por caducada a las 72 h)"
+   ],
    "posts": [
     "https://farmaciasaliazon.blogspot.com/2026/07/proteccion-solar-labial.html"
    ]
@@ -254,7 +258,7 @@
   "catalogo:https://danielleguiziony.com/collections/guizio-x-puma/": {
    "sev": 1,
    "problemas": [
-    "solo 5 productos"
+    "solo 3 productos"
    ],
    "posts": [
     "https://calzadoaliazon.blogspot.com/2026/06/zapatillas-guizio.html"
@@ -447,8 +451,10 @@
    ]
   },
   "catalogo:https://www.anaisa.es/tienda/#categoria": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "copia de GitHub antigua (141 h; el motor la da por caducada a las 72 h)"
+   ],
    "posts": [
     "https://ropaycomplementosaliazon.blogspot.com/2026/04/ultimas-unidades-annaisa.html"
    ]
@@ -476,8 +482,10 @@
    ]
   },
   "catalogo:https://www.azzhoteles.com/es/azz-guadacorte/habitaciones/#categoria": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "copia de GitHub antigua (141 h; el motor la da por caducada a las 72 h)"
+   ],
    "posts": [
     "https://reservadehoteles.blogspot.com/2026/05/cargando-hoteles-azz_02016028414.html"
    ]
@@ -511,8 +519,10 @@
    ]
   },
   "catalogo:https://www.catherineandre.com/en/249-collection#categoria": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "copia de GitHub antigua (141 h; el motor la da por caducada a las 72 h)"
+   ],
    "posts": [
     "https://ropaycomplementosaliazon.blogspot.com/2026/05/catherine-andre.html"
    ]
@@ -525,15 +535,19 @@
    ]
   },
   "catalogo:https://www.comprafrutaonline.com/#categoria": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "copia de GitHub antigua (141 h; el motor la da por caducada a las 72 h)"
+   ],
    "posts": [
     "https://supermercadoaliazon.blogspot.com/2026/05/compra-fruta-online.html"
    ]
   },
   "catalogo:https://www.comprafrutaonline.com/catalogo/legumbres/#categoria": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "copia de GitHub antigua (141 h; el motor la da por caducada a las 72 h)"
+   ],
    "posts": [
     "https://supermercadoaliazon.blogspot.com/2026/05/legumbres-en-comprafrutaonline.html"
    ]
@@ -579,8 +593,10 @@
    ]
   },
   "catalogo:https://www.mitiendavegana.com/categoria-producto/bebidas-vegetales/zumos/#categoria": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "copia de GitHub antigua (141 h; el motor la da por caducada a las 72 h)"
+   ],
    "posts": [
     "https://supermercadoaliazon.blogspot.com/2026/05/cargando-zumos-y-bebidas-veganas.html"
    ]
@@ -629,8 +645,10 @@
    ]
   },
   "catalogo:https://www.shahigrocery.com/cooking-oil-ghee#categoria": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "copia de GitHub antigua (141 h; el motor la da por caducada a las 72 h)"
+   ],
    "posts": [
     "https://supermercadoaliazon.blogspot.com/2026/06/la-seccion-de-aceites-y-ghee-de-shahi.html"
    ]
@@ -709,11 +727,10 @@
   "noticias-10": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.8 días"
+    "sin cambios en más de 15 días"
    ],
    "posts": [
-    "https://prensainternacionalaliazon.blogspot.com/2026/07/argentina-newtral.html",
-    "https://prensainternacionalaliazon.blogspot.com/2026/06/argentina-newtral.html"
+    "https://prensainternacionalaliazon.blogspot.com/2026/07/argentina-newtral.html"
    ]
   },
   "noticias-100": {
@@ -724,17 +741,15 @@
    ]
   },
   "noticias-1002": {
-   "sev": 0,
+   "sev": 3,
    "problemas": [
-    "OK por respaldo: el post carga 6 noticias en el navegador aunque no hay copia en GitHub",
     "no existe noticias-1002.json (el widget sale en blanco)",
     "feed: HTTP 404"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/portada-publicoes.html",
     "https://periodicosaliazon.blogspot.com/2026/07/publicoes.html"
-   ],
-   "respaldo": 6
+   ]
   },
   "noticias-101": {
    "sev": 0,
@@ -744,8 +759,10 @@
    ]
   },
   "noticias-102": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 3.1 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/08/lugares-de-aventura-la-vanguardia.html"
    ]
@@ -800,8 +817,10 @@
    ]
   },
   "noticias-104": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 6.7 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/08/magazine-moda-la-vanguardia.html"
    ]
@@ -814,8 +833,10 @@
    ]
   },
   "noticias-1042": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 3.1 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/salud-y-bienestar-el-debate.html"
    ]
@@ -843,8 +864,10 @@
    ]
   },
   "noticias-1049": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 3.6 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/deportes-el-debate.html"
    ]
@@ -889,7 +912,7 @@
   "noticias-106": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 5.4 días"
+    "sin cambios desde hace 4.8 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/mascotas-la-vanguardia_01064471051.html"
@@ -915,7 +938,7 @@
   "noticias-1066": {
    "sev": 2,
    "problemas": [
-    "sin cambios en más de 15 días"
+    "sin cambios desde hace 6.0 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/podcast-el-debate.html"
@@ -952,10 +975,8 @@
    ]
   },
   "noticias-1070": {
-   "sev": 2,
-   "problemas": [
-    "sin cambios desde hace 4.2 días"
-   ],
+   "sev": 0,
+   "problemas": [],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/obituarios-el-debate.html"
    ]
@@ -1015,7 +1036,7 @@
   "noticias-1084": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.9 días"
+    "sin cambios en más de 15 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/el-tiempo-abc.html"
@@ -1024,7 +1045,7 @@
   "noticias-1086": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.9 días"
+    "sin cambios en más de 15 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/08/hemeroteca-abc.html"
@@ -1045,8 +1066,10 @@
    ]
   },
   "noticias-109": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 8.2 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/08/narrativas-visuales-la-vanguardia.html"
    ]
@@ -1097,7 +1120,7 @@
   "noticias-110": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 5.4 días"
+    "sin cambios desde hace 4.4 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/natural-la-vanguardia_0701247390.html"
@@ -1118,15 +1141,19 @@
    ]
   },
   "noticias-1102": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 8.8 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/finanzas-personales-el-confidencial_01535614634.html"
    ]
   },
   "noticias-1104": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 8.8 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/fondos-de-inversion-abc.html"
    ]
@@ -1141,7 +1168,7 @@
   "noticias-1109": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 5.4 días"
+    "sin cambios desde hace 3.4 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/ciencias-publicoes.html"
@@ -1190,8 +1217,10 @@
    ]
   },
   "noticias-1128": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 5.8 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/internacional-el-pais.html"
    ]
@@ -1199,15 +1228,17 @@
   "noticias-113": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 4.2 días"
+    "sin cambios desde hace 11.2 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/participacion-la-vanguardia_0714106325.html"
    ]
   },
   "noticias-1136": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 3.4 días"
+   ],
    "posts": [
     "https://noticiasautonomicas.blogspot.com/2026/09/andalucia-el-pais.html"
    ]
@@ -1220,29 +1251,37 @@
    ]
   },
   "noticias-115": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 4.8 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/podcast-la-vanguardia.html"
    ]
   },
   "noticias-1150": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 5.8 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/ciencia-el-pais.html"
    ]
   },
   "noticias-1153": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 4.8 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/cultura-el-pais.html"
    ]
   },
   "noticias-1154": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 3.6 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/deportes-el-pais.html"
    ]
@@ -1255,24 +1294,26 @@
    ]
   },
   "noticias-1156": {
-   "sev": 2,
-   "problemas": [
-    "sin cambios desde hace 7.9 días"
-   ],
+   "sev": 0,
+   "problemas": [],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/baloncesto-el-pais.html"
    ]
   },
   "noticias-1165": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 5.9 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/gente-el-pais_0596579814.html"
    ]
   },
   "noticias-117": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 3.4 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/pop-la-vanguardia.html"
    ]
@@ -1329,7 +1370,7 @@
   "noticias-1211": {
    "sev": 2,
    "problemas": [
-    "sin cambios en más de 15 días"
+    "sin cambios desde hace 3.6 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/loteria-ok-diario.html"
@@ -1340,6 +1381,15 @@
    "problemas": [],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/politica-infolibre.html"
+   ]
+  },
+  "noticias-1216": {
+   "sev": 2,
+   "problemas": [
+    "sin cambios en más de 15 días"
+   ],
+   "posts": [
+    "https://periodicosaliazon.blogspot.com/2026/07/feminismo-newtral_02109394168.html"
    ]
   },
   "noticias-1217": {
@@ -1359,7 +1409,7 @@
   "noticias-1220": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.5 días"
+    "sin cambios en más de 15 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/08/mundo-efe.html"
@@ -1368,7 +1418,7 @@
   "noticias-1221": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.5 días"
+    "sin cambios en más de 15 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/economia-efe.html"
@@ -1377,7 +1427,7 @@
   "noticias-1223": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 7.7 días"
+    "sin cambios desde hace 14.7 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/cultura-efe.html"
@@ -1408,15 +1458,19 @@
    ]
   },
   "noticias-1238": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 3.1 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/politica-voz-populi.html"
    ]
   },
   "noticias-1239": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 6.2 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/defensa-voz-populi.html"
    ]
@@ -1436,15 +1490,19 @@
    ]
   },
   "noticias-1241": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 3.4 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/sucesos-voz-populi.html"
    ]
   },
   "noticias-1242": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 7.7 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/casa-real-voz-populi.html"
    ]
@@ -1478,10 +1536,8 @@
    ]
   },
   "noticias-1257": {
-   "sev": 2,
-   "problemas": [
-    "sin cambios desde hace 4.4 días"
-   ],
+   "sev": 0,
+   "problemas": [],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/distribucion-voz-populi.html"
    ]
@@ -1504,9 +1560,8 @@
    ]
   },
   "noticias-126": {
-   "sev": 2,
+   "sev": 1,
    "problemas": [
-    "sin cambios desde hace 8.5 días",
     "sin fotos"
    ],
    "posts": [
@@ -1514,8 +1569,10 @@
    ]
   },
   "noticias-1260": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 4.6 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/inmobiliario-voz-populi.html"
    ]
@@ -1523,7 +1580,7 @@
   "noticias-1261": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.5 días"
+    "sin cambios desde hace 3.4 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/transporte-voz-populi.html"
@@ -1559,17 +1616,17 @@
    ]
   },
   "noticias-127": {
-   "sev": 2,
-   "problemas": [
-    "sin cambios desde hace 5.0 días"
-   ],
+   "sev": 0,
+   "problemas": [],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/08/eventos-la-vanguardia.html"
    ]
   },
   "noticias-1272": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 9.1 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/08/ciencia-voz-populi.html"
    ]
@@ -1595,24 +1652,24 @@
   "noticias-13": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 5.8 días"
+    "sin cambios desde hace 12.8 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/08/turismo-el-plural.html"
    ]
   },
   "noticias-130": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 3.4 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/dossier-la-vanguardia.html"
    ]
   },
   "noticias-1300": {
-   "sev": 2,
-   "problemas": [
-    "sin cambios en más de 15 días"
-   ],
+   "sev": 0,
+   "problemas": [],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/casinos-mediterraneo-digital.html"
    ]
@@ -1620,15 +1677,17 @@
   "noticias-1301": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 4.4 días"
+    "sin cambios desde hace 11.4 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/sexo-mediterraneo-digital.html"
    ]
   },
   "noticias-1302": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 5.9 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/opinion-mediterraneo-digital.html"
    ]
@@ -1636,7 +1695,7 @@
   "noticias-132": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.5 días",
+    "sin cambios en más de 15 días",
     "enlaces de otras webs (junior-report.cat)"
    ],
    "posts": [
@@ -1644,15 +1703,19 @@
    ]
   },
   "noticias-1329": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 9.1 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/politica-mediterraneo-digital.html"
    ]
   },
   "noticias-133": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 8.2 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/salud-la-vanguardia_01142745563.html"
    ]
@@ -1707,7 +1770,7 @@
   "noticias-137": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 13.6 días"
+    "sin cambios desde hace 6.7 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/cultura-y-deportes-el-orden-mundial.html"
@@ -1775,7 +1838,7 @@
   "noticias-140": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.8 días"
+    "sin cambios en más de 15 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/en-profundidad-el-orden-mundial.html"
@@ -1791,7 +1854,7 @@
   "noticias-141": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 6.5 días"
+    "sin cambios desde hace 13.5 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/entrevistas-el-orden-mundial.html"
@@ -1807,22 +1870,26 @@
   "noticias-142": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 5.2 días"
+    "sin cambios desde hace 12.2 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/relaciones-internacionales-el-orden.html"
    ]
   },
   "noticias-143": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 6.5 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/geopolitica-el-orden-mundial.html"
    ]
   },
   "noticias-144": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 3.1 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/08/hoy-en-la-historia-el-orden-mundial.html"
    ]
@@ -1835,8 +1902,10 @@
    ]
   },
   "noticias-1446": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 1,
+   "problemas": [
+    "solo 2 noticias"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/08/politica-el-diarioes.html"
    ]
@@ -1849,8 +1918,10 @@
    ]
   },
   "noticias-1448": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 4.4 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/08/economia-el-diarioes.html"
    ]
@@ -1881,7 +1952,7 @@
   "noticias-146": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 7.7 días"
+    "sin cambios desde hace 14.7 días"
    ],
    "posts": [
     "https://prensainternacionalaliazon.blogspot.com/2026/07/china-el-orden-mundial.html"
@@ -1890,15 +1961,17 @@
   "noticias-147": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 4.4 días"
+    "sin cambios desde hace 6.3 días"
    ],
    "posts": [
     "https://prensainternacionalaliazon.blogspot.com/2026/08/estados-unidos-el-orden-mundial.html"
    ]
   },
   "noticias-148": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 7.7 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/08/mapas-y-graficos-el-orden-mundial.html"
    ]
@@ -1952,7 +2025,7 @@
   "noticias-154": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.0 días",
+    "sin cambios en más de 15 días",
     "solo 1 noticias"
    ],
    "posts": [
@@ -1967,8 +2040,10 @@
    ]
   },
   "noticias-155": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 3.4 días"
+   ],
    "posts": [
     "https://prensainternacionalaliazon.blogspot.com/2026/08/africa-el-orden-mundial.html"
    ]
@@ -1983,7 +2058,7 @@
   "noticias-156": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 6.5 días"
+    "sin cambios desde hace 13.5 días"
    ],
    "posts": [
     "https://prensainternacionalaliazon.blogspot.com/2026/08/america-latina-caribe-el-orden-mundial.html"
@@ -2001,23 +2076,27 @@
   "noticias-158": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 4.4 días"
+    "sin cambios desde hace 3.1 días"
    ],
    "posts": [
     "https://prensainternacionalaliazon.blogspot.com/2026/07/europa-el-orden-mundial.html"
    ]
   },
   "noticias-159": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 7.0 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/08/mundo-el-orden-mundial.html",
     "https://prensainternacionalaliazon.blogspot.com/2026/08/mundo-el-orden-mundial.html"
    ]
   },
   "noticias-160": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 8.8 días"
+   ],
    "posts": [
     "https://prensainternacionalaliazon.blogspot.com/2026/08/oriente-proximo-magreg-el-orden-mundial.html"
    ]
@@ -2025,7 +2104,7 @@
   "noticias-161": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 5.4 días"
+    "sin cambios desde hace 12.5 días"
    ],
    "posts": [
     "https://prensainternacionalaliazon.blogspot.com/2026/08/rusia-y-espacio-postsovietico-el-orden.html"
@@ -2115,7 +2194,7 @@
   "noticias-1701": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 12.0 días"
+    "sin cambios en más de 15 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/08/internacional-zamora-news.html"
@@ -2166,8 +2245,10 @@
    ]
   },
   "noticias-1725": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 8.2 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/hemeroteca-hispanidad.html",
     "https://periodicosaliazon.blogspot.com/2026/08/hemeroteca-hispanidad.html"
@@ -2205,7 +2286,7 @@
   "noticias-1734": {
    "sev": 2,
    "problemas": [
-    "sin cambios en más de 15 días"
+    "sin cambios desde hace 6.7 días"
    ],
    "posts": [
     "https://supermercadoaliazon.blogspot.com/2026/08/las-ultimas-noticias-de-riojavina.html"
@@ -2242,8 +2323,10 @@
    ]
   },
   "noticias-1747": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 3.1 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/opinion-abc.html"
    ]
@@ -2351,7 +2434,8 @@
   "noticias-19": {
    "sev": 1,
    "problemas": [
-    "solo 1 noticias"
+    "solo 1 noticias",
+    "el feed responde sin noticias"
    ],
    "posts": [
     "https://noticiasautonomicas.blogspot.com/2026/09/andalucia-el-plural.html",
@@ -2366,8 +2450,10 @@
    ]
   },
   "noticias-1903": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 4.6 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/cultura-20-minutos.html"
    ]
@@ -2441,8 +2527,10 @@
    ]
   },
   "noticias-195": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 7.3 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/motor-la-voz-de-galicia.html"
    ]
@@ -2455,8 +2543,10 @@
    ]
   },
   "noticias-198": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 3.1 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/reto-digital-la-voz-de-galicia.html"
    ]
@@ -2494,10 +2584,8 @@
    ]
   },
   "noticias-2": {
-   "sev": 2,
-   "problemas": [
-    "sin cambios desde hace 5.0 días"
-   ],
+   "sev": 0,
+   "problemas": [],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/06/economia-el-orden-mundial_0630142511.html",
     "https://periodicosaliazon.blogspot.com/2026/07/economia-el-orden-mundial.html"
@@ -2585,17 +2673,15 @@
   "noticias-2017": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 7.9 días"
+    "sin cambios desde hace 14.9 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/internacional-esdiario_0392050536.html"
    ]
   },
   "noticias-2018": {
-   "sev": 2,
-   "problemas": [
-    "sin cambios desde hace 4.5 días"
-   ],
+   "sev": 0,
+   "problemas": [],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/10/recetas-esdiario.html"
    ]
@@ -2610,7 +2696,7 @@
   "noticias-2020": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 4.2 días"
+    "sin cambios desde hace 4.8 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/viajes-esdiario.html"
@@ -2618,9 +2704,7 @@
   },
   "noticias-2021": {
    "sev": 0,
-   "problemas": [
-    "el NAS sirve una copia vieja (la web no le da noticias)"
-   ],
+   "problemas": [],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/las-ultimas-noticias-esdiario.html"
    ]
@@ -2633,8 +2717,10 @@
    ]
   },
   "noticias-2023": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 3.6 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/economia-esdiario_0408291267.html"
    ]
@@ -2642,7 +2728,7 @@
   "noticias-2024": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 6.5 días"
+    "sin cambios desde hace 13.5 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/internacional-esdiario.html"
@@ -2651,7 +2737,7 @@
   "noticias-2025": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 4.4 días"
+    "sin cambios desde hace 3.4 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/sucesos-esdiario_0997815128.html"
@@ -2695,38 +2781,35 @@
    ]
   },
   "noticias-2031": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 9.1 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/recetas-esdiario.html"
    ]
   },
   "noticias-2038": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 3.6 días"
+   ],
    "posts": [
     "https://noticiasautonomicas.blogspot.com/2026/09/castilla-la-mancha-esdiario.html"
    ]
   },
-  "noticias-204": {
-   "sev": 0,
-   "problemas": [],
-   "posts": [
-    "https://periodicosaliazon.blogspot.com/2026/09/portada-abc.html"
-   ]
-  },
   "noticias-2041": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 4.8 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/motor-es-diario.html"
    ]
   },
   "noticias-2050": {
-   "sev": 2,
-   "problemas": [
-    "sin cambios desde hace 7.9 días"
-   ],
+   "sev": 0,
+   "problemas": [],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/cine-lo-que-somos.html"
    ]
@@ -2743,17 +2826,15 @@
   "noticias-2069": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 5.4 días"
+    "sin cambios desde hace 12.5 días"
    ],
    "posts": [
     "https://noticiasautonomicas.blogspot.com/2026/09/galicia-lo-que-somos.html"
    ]
   },
   "noticias-2070": {
-   "sev": 2,
-   "problemas": [
-    "sin cambios desde hace 4.4 días"
-   ],
+   "sev": 0,
+   "problemas": [],
    "posts": [
     "https://noticiasautonomicas.blogspot.com/2026/09/andalucia-lo-que-somos.html"
    ]
@@ -2761,18 +2842,15 @@
   "noticias-2071": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.5 días"
+    "sin cambios en más de 15 días"
    ],
    "posts": [
     "https://noticiasautonomicas.blogspot.com/2026/09/cantabria-lo-que-somos.html"
    ]
   },
   "noticias-209": {
-   "sev": 3,
-   "problemas": [
-    "no existe noticias-209.json (el widget sale en blanco)",
-    "el feed responde sin noticias"
-   ],
+   "sev": 0,
+   "problemas": [],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/portada-el-confidencial_01482304645.html",
     "https://periodicosaliazon.blogspot.com/2026/07/portada-el-confidencial.html"
@@ -2804,15 +2882,19 @@
    ]
   },
   "noticias-2104": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 3.6 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/economia-infolibre_02016649641.html"
    ]
   },
   "noticias-2105": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 3.4 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/internacional-infolibre_0922353432.html"
    ]
@@ -2825,8 +2907,10 @@
    ]
   },
   "noticias-2107": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 3.6 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/cultura-infolibre_090346359.html"
    ]
@@ -2839,8 +2923,10 @@
    ]
   },
   "noticias-2109": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 4.6 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/medioambiente-infolibre.html"
    ]
@@ -2869,8 +2955,10 @@
    ]
   },
   "noticias-2113": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 8.6 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/como-lo-ve-infolibre.html"
    ]
@@ -2901,7 +2989,8 @@
   "noticias-215": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días"
+    "sin cambios desde hace 4.8 días",
+    "feed: HTTP 406"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/ultimas-noticias-euro-news.html"
@@ -2922,8 +3011,10 @@
    ]
   },
   "noticias-2170": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 3.6 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/club-infolibre.html"
    ]
@@ -2964,9 +3055,18 @@
     "https://periodicosaliazon.blogspot.com/2026/09/tiempo-el-periodico.html"
    ]
   },
-  "noticias-2182": {
+  "noticias-2181": {
    "sev": 0,
    "problemas": [],
+   "posts": [
+    "https://periodicosaliazon.blogspot.com/2026/10/sanidad-el-periodico.html"
+   ]
+  },
+  "noticias-2182": {
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 5.9 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/ciencia-el-periodico.html"
    ]
@@ -3014,22 +3114,28 @@
    ]
   },
   "noticias-2203": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 3.6 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/economia-infolibre.html"
    ]
   },
   "noticias-2204": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 8.6 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/tecnologia-infolibre.html"
    ]
   },
   "noticias-2206": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 8.6 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/ciencia-infolibre.html"
    ]
@@ -3042,8 +3148,10 @@
    ]
   },
   "noticias-2219": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 3.4 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/noticias-programa-mundial-de-alimentos.html"
    ]
@@ -3051,7 +3159,7 @@
   "noticias-2222": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 13.9 días"
+    "sin cambios desde hace 3.6 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/vuelta-ciclista-espana-la-vuelta.html"
@@ -3108,7 +3216,7 @@
   "noticias-2335": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 3.9 días"
+    "sin cambios desde hace 5.0 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/maneras-de-vivir-lo-que-somos.html"
@@ -3117,21 +3225,23 @@
   "noticias-2336": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 5.2 días"
+    "sin cambios desde hace 4.6 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/portada-lo-que-somos.html"
    ]
   },
   "noticias-2419": {
-   "sev": 3,
+   "sev": 0,
    "problemas": [
+    "OK por respaldo: el post carga 6 noticias en el navegador aunque no hay copia en GitHub",
     "no existe noticias-2419.json (el widget sale en blanco)",
     "feed: HTTP 403"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/05/videojuegos-diario-critico.html"
-   ]
+   ],
+   "respaldo": 6
   },
   "noticias-2420": {
    "sev": 3,
@@ -3144,18 +3254,22 @@
    ]
   },
   "noticias-2421": {
-   "sev": 3,
+   "sev": 0,
    "problemas": [
+    "OK por respaldo: el post carga 6 noticias en el navegador aunque no hay copia en GitHub",
     "no existe noticias-2421.json (el widget sale en blanco)",
     "feed: HTTP 403"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/05/arte-y-cultura-diario-critico.html"
-   ]
+   ],
+   "respaldo": 6
   },
   "noticias-2422": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 4.6 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/05/cargando-ultimas-noticias.html"
    ]
@@ -3168,8 +3282,10 @@
    ]
   },
   "noticias-2424": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 4.6 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/05/cargando-actualidad-de-cash-fresh.html"
    ]
@@ -3196,8 +3312,10 @@
    ]
   },
   "noticias-2428": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 3.4 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/juegos-el-plural.html"
    ]
@@ -3274,8 +3392,10 @@
    ]
   },
   "noticias-2439": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 9.1 días"
+   ],
    "posts": [
     "https://supermercadoaliazon.blogspot.com/2026/05/recetas-cash-fresh.html"
    ]
@@ -3296,11 +3416,8 @@
    ]
   },
   "noticias-250": {
-   "sev": 3,
-   "problemas": [
-    "no existe noticias-250.json (el widget sale en blanco)",
-    "feed: HTTP 403"
-   ],
+   "sev": 0,
+   "problemas": [],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2025/06/el-debate.html"
    ]
@@ -3345,11 +3462,8 @@
    ]
   },
   "noticias-257": {
-   "sev": 3,
-   "problemas": [
-    "no existe noticias-257.json (el widget sale en blanco)",
-    "el feed responde sin noticias"
-   ],
+   "sev": 0,
+   "problemas": [],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/enfoque-abc.html"
    ]
@@ -3379,8 +3493,10 @@
    ]
   },
   "noticias-260": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 4.6 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/08/casa-real-abc.html",
     "https://periodicosaliazon.blogspot.com/2026/07/casa-real-abc.html"
@@ -3389,7 +3505,7 @@
   "noticias-261": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 7.0 días"
+    "sin cambios desde hace 14.1 días"
    ],
    "posts": [
     "https://noticiasautonomicas.blogspot.com/2026/07/asturias-abc.html"
@@ -3403,8 +3519,10 @@
    ]
   },
   "noticias-263": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 7.0 días"
+   ],
    "posts": [
     "https://noticiasautonomicas.blogspot.com/2026/07/cantabria-abc.html"
    ]
@@ -3497,10 +3615,8 @@
    ]
   },
   "noticias-274": {
-   "sev": 2,
-   "problemas": [
-    "sin cambios desde hace 3.9 días"
-   ],
+   "sev": 0,
+   "problemas": [],
    "posts": [
     "https://noticiasautonomicas.blogspot.com/2026/07/navarra-abc.html"
    ]
@@ -3556,7 +3672,7 @@
   "noticias-285": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 7.3 días"
+    "sin cambios desde hace 14.3 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/formacion-abc.html"
@@ -3588,7 +3704,7 @@
   "noticias-290": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 5.4 días"
+    "sin cambios desde hace 6.7 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/natural-abc.html"
@@ -3653,8 +3769,10 @@
    ]
   },
   "noticias-3": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 5.4 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/ciencia-newtral.html"
    ]
@@ -3706,17 +3824,17 @@
    ]
   },
   "noticias-306": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 3.8 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/caza-abc.html"
    ]
   },
   "noticias-307": {
-   "sev": 2,
-   "problemas": [
-    "sin cambios desde hace 13.5 días"
-   ],
+   "sev": 0,
+   "problemas": [],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/atletico-madrid-abc.html"
    ]
@@ -3797,7 +3915,7 @@
   "noticias-32": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 6.5 días"
+    "sin cambios desde hace 4.6 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/vivo-la-vanguardia.html"
@@ -3848,8 +3966,10 @@
    ]
   },
   "noticias-326": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 6.0 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/belleza-abc.html"
    ]
@@ -3884,8 +4004,10 @@
    ]
   },
   "noticias-337": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 3.6 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/fitness-abc.html"
    ]
@@ -3898,10 +4020,8 @@
    ]
   },
   "noticias-339": {
-   "sev": 2,
-   "problemas": [
-    "sin cambios desde hace 10.0 días"
-   ],
+   "sev": 0,
+   "problemas": [],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/estilo-abc.html"
    ]
@@ -3916,15 +4036,17 @@
   "noticias-340": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 3.9 días"
+    "sin cambios desde hace 3.8 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/gente-vip-abc.html"
    ]
   },
   "noticias-341": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 3.1 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/motor-abc_01547557878.html"
    ]
@@ -4011,7 +4133,7 @@
   "noticias-355": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.9 días"
+    "sin cambios en más de 15 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/eltiempo-abc.html"
@@ -4020,7 +4142,7 @@
   "noticias-356": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.9 días"
+    "sin cambios en más de 15 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/esquelas-abc.html"
@@ -4029,7 +4151,7 @@
   "noticias-357": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.9 días"
+    "sin cambios en más de 15 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/hemeroteca-abc.html"
@@ -4126,22 +4248,28 @@
    ]
   },
   "noticias-373": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 8.8 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/finanzas-personales-el-confidencial.html"
    ]
   },
   "noticias-374": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 3.8 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/vivienda-el-confidencial.html"
    ]
   },
   "noticias-375": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 8.8 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/08/fondos-de-inversion-el-confidencial.html"
    ]
@@ -4216,7 +4344,6 @@
     "sin cambios en más de 15 días"
    ],
    "posts": [
-    "https://periodicosaliazon.blogspot.com/2026/07/feminismo-newtral_02109394168.html",
     "https://periodicosaliazon.blogspot.com/2026/07/feminismo-newtral.html"
    ]
   },
@@ -4257,15 +4384,19 @@
    ]
   },
   "noticias-412": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 8.8 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/nutricion-el-confidencial.html"
    ]
   },
   "noticias-413": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 8.8 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/consumo-el-confidencial.html"
    ]
@@ -4279,8 +4410,10 @@
    ]
   },
   "noticias-416": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 8.8 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/recetas-el-confidencial.html",
     "https://supermercadoaliazon.blogspot.com/2026/07/recetas-el-confidencial.html"
@@ -4294,8 +4427,10 @@
    ]
   },
   "noticias-42": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 3.8 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/tecnologia-la-vanguardia.html",
     "https://periodicosaliazon.blogspot.com/2026/07/tecnologia-en-la-vanguardia.html"
@@ -4304,7 +4439,7 @@
   "noticias-429": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 4.5 días"
+    "sin cambios desde hace 11.6 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/negocios-el-confidencial-digital.html"
@@ -4343,7 +4478,7 @@
   "noticias-449": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.8 días"
+    "sin cambios en más de 15 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/08/la-voz-del-lector-el-confidencial.html"
@@ -4370,7 +4505,7 @@
   "noticias-467": {
    "sev": 2,
    "problemas": [
-    "sin cambios en más de 15 días"
+    "sin cambios desde hace 6.2 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/actualidad-el-confidencial.html"
@@ -4411,8 +4546,7 @@
   "noticias-492": {
    "sev": 2,
    "problemas": [
-    "sin cambios en más de 15 días",
-    "feed: HTTP 404"
+    "sin cambios desde hace 3.8 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/cultura-el-confidencial.html",
@@ -4456,7 +4590,7 @@
   "noticias-5": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 3.9 días"
+    "sin cambios desde hace 10.9 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/inflacion-newtral.html",
@@ -4484,7 +4618,7 @@
   "noticias-502": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.2 días",
+    "sin cambios en más de 15 días",
     "solo 2 noticias"
    ],
    "posts": [
@@ -4534,6 +4668,73 @@
    "problemas": [],
    "posts": [
     "https://cocinayrestauracionaliazon.blogspot.com/2026/07/comer-la-vanguardia.html"
+   ]
+  },
+  "noticias-511": {
+   "sev": 2,
+   "problemas": [
+    "sin cambios en más de 15 días"
+   ],
+   "posts": [
+    "https://periodicosaliazon.blogspot.com/2026/10/videos-el-confidencial-digital.html"
+   ]
+  },
+  "noticias-512": {
+   "sev": 2,
+   "problemas": [
+    "sin cambios en más de 15 días",
+    "solo 1 noticias"
+   ],
+   "posts": [
+    "https://periodicosaliazon.blogspot.com/2026/10/el-chivato-videos-el-confidencial.html"
+   ]
+  },
+  "noticias-513": {
+   "sev": 2,
+   "problemas": [
+    "sin cambios en más de 15 días",
+    "solo 1 noticias"
+   ],
+   "posts": [
+    "https://periodicosaliazon.blogspot.com/2026/10/actualidad-el-confidencial-digital.html"
+   ]
+  },
+  "noticias-514": {
+   "sev": 2,
+   "problemas": [
+    "sin cambios en más de 15 días"
+   ],
+   "posts": [
+    "https://periodicosaliazon.blogspot.com/2026/10/videos-copa-mundial-fifa-catar-2022-el.html"
+   ]
+  },
+  "noticias-515": {
+   "sev": 2,
+   "problemas": [
+    "sin cambios en más de 15 días",
+    "solo 2 noticias"
+   ],
+   "posts": [
+    "https://periodicosaliazon.blogspot.com/2026/10/viajes-videos-el-confidencial-digital.html"
+   ]
+  },
+  "noticias-516": {
+   "sev": 2,
+   "problemas": [
+    "sin cambios en más de 15 días",
+    "solo 1 noticias"
+   ],
+   "posts": [
+    "https://periodicosaliazon.blogspot.com/2026/10/videonoticias-ecd-albumes-el.html"
+   ]
+  },
+  "noticias-517": {
+   "sev": 2,
+   "problemas": [
+    "sin cambios en más de 15 días"
+   ],
+   "posts": [
+    "https://periodicosaliazon.blogspot.com/2026/10/deportes-albumes-el-confidencial-digital.html"
    ]
   },
   "noticias-518": {
@@ -4615,8 +4816,10 @@
    ]
   },
   "noticias-59": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 3.8 días"
+   ],
    "posts": [
     "https://noticiasautonomicas.blogspot.com/2026/07/pais-vasco-la-vanguardia.html"
    ]
@@ -4643,8 +4846,10 @@
    ]
   },
   "noticias-613": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 5.0 días"
+   ],
    "posts": [
     "https://abelardolinares.blogspot.com/2026/07/albacete-20-minutos.html",
     "https://osyrisalba.blogspot.com/2026/07/albacete-20-minutos.html"
@@ -4658,20 +4863,13 @@
    ]
   },
   "noticias-62": {
-   "sev": 0,
-   "problemas": [],
-   "posts": [
-    "https://periodicosaliazon.blogspot.com/2026/07/epaper-la-vanguardia.html"
-   ]
-  },
-  "noticias-63": {
-   "sev": 3,
+   "sev": 2,
    "problemas": [
-    "no existe noticias-63.json (el widget sale en blanco)",
-    "el feed responde sin noticias"
+    "sin cambios desde hace 6.5 días",
+    "el NAS sirve una copia vieja (la web no le da noticias)"
    ],
    "posts": [
-    "https://periodicosaliazon.blogspot.com/2026/07/clasificados-la-vanguardia_02096189302.html"
+    "https://periodicosaliazon.blogspot.com/2026/07/epaper-la-vanguardia.html"
    ]
   },
   "noticias-639": {
@@ -4682,8 +4880,10 @@
    ]
   },
   "noticias-64": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 7.7 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/club-la-vanguardia-la-vanguardia.html"
    ]
@@ -4710,8 +4910,9 @@
    ]
   },
   "noticias-66": {
-   "sev": 1,
+   "sev": 2,
    "problemas": [
+    "sin cambios desde hace 7.0 días",
     "solo 2 noticias"
    ],
    "posts": [
@@ -4726,8 +4927,9 @@
    ]
   },
   "noticias-67": {
-   "sev": 1,
+   "sev": 2,
    "problemas": [
+    "sin cambios desde hace 7.7 días",
     "enlaces de otras webs (lix.li)"
    ],
    "posts": [
@@ -4735,18 +4937,17 @@
    ]
   },
   "noticias-676": {
-   "sev": 3,
-   "problemas": [
-    "no existe noticias-676.json (el widget sale en blanco)",
-    "feed: HTTP 404"
-   ],
+   "sev": 0,
+   "problemas": [],
    "posts": [
     "https://noticiasautonomicas.blogspot.com/2026/07/murcia-20-minutos.html"
    ]
   },
   "noticias-68": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 6.0 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/a-fondo-la-vanguardia.html"
    ]
@@ -4781,9 +4982,8 @@
    ]
   },
   "noticias-70": {
-   "sev": 2,
+   "sev": 1,
    "problemas": [
-    "sin cambios en más de 15 días",
     "solo 1 noticias"
    ],
    "posts": [
@@ -4791,8 +4991,10 @@
    ]
   },
   "noticias-704": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 1,
+   "problemas": [
+    "solo 2 noticias"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/politica-el-diarioes.html"
    ]
@@ -4805,8 +5007,10 @@
    ]
   },
   "noticias-706": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 4.4 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/economia-el-diarioes.html"
    ]
@@ -4844,7 +5048,7 @@
   "noticias-719": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 6.5 días"
+    "sin cambios desde hace 6.9 días"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/08/viajes-el-diarioes.html"
@@ -4899,15 +5103,19 @@
    ]
   },
   "noticias-788": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 3.4 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/vivienda-el-diarioes.html"
    ]
   },
   "noticias-79": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 3.6 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/dinero-la-vanguardia.html"
    ]
@@ -4936,8 +5144,9 @@
    ]
   },
   "noticias-815": {
-   "sev": 1,
+   "sev": 2,
    "problemas": [
+    "sin cambios desde hace 7.4 días",
     "solo 1 noticias",
     "sin fotos"
    ],
@@ -5143,8 +5352,10 @@
    ]
   },
   "noticias-910": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 4.4 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/08/opinion-el-mundo.html"
    ]
@@ -5157,8 +5368,10 @@
    ]
   },
   "noticias-914": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 5.4 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/08/cultura-el-mundo.html"
    ]
@@ -5178,22 +5391,27 @@
    ]
   },
   "noticias-927": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 5.0 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/viajes-el-mundo.html"
    ]
   },
   "noticias-93": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 5.8 días"
+   ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/la-uni-la-vanguardia.html"
    ]
   },
   "noticias-939": {
-   "sev": 1,
+   "sev": 2,
    "problemas": [
+    "sin cambios desde hace 3.4 días",
     "sin fotos"
    ],
    "posts": [
@@ -5251,10 +5469,17 @@
     "https://periodicosaliazon.blogspot.com/2026/07/aaron-peirsol-autores-el-pais.html"
    ]
   },
+  "noticias-972": {
+   "sev": 0,
+   "problemas": [],
+   "posts": [
+    "https://periodicosaliazon.blogspot.com/2026/09/portada-abc.html"
+   ]
+  },
   "noticias-98": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 4.7 días"
+    "sin cambios desde hace 6.9 días"
    ],
    "posts": [
     "https://osyrisalba.blogspot.com/2026/07/madrid-la-vanguardia_0182200744.html"
