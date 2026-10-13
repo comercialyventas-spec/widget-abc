@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Sorteo de la BonoLoto y Primitiva del lunes 12 de octubre",
+      "link": "https://www.rtve.es/rtve/20261013/sorteo-bonoloto-primitiva-del-lunes-12-octubre/17263716.shtml",
+      "imagen": "https://img.rtve.es/imagenes/sorteo-bonoloto-primitiva-del-lunes-12-octubre/1791834540846.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sorteo de la BonoLoto, Primitiva y Lotería Nacional del jueves 8 de octubre",
       "link": "https://www.rtve.es/rtve/20261009/sorteo-bonoloto-primitiva-loteria-nacional-del-jueves-8-octubre/17256487.shtml",
       "imagen": "https://img.rtve.es/imagenes/sorteo-bonoloto-primitiva-loteria-nacional-del-jueves-8-octubre/1791490130911.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Sorteo de Lototurf y Quíntuple Plus del domingo 4 de octubre",
       "link": "https://www.rtve.es/rtve/20261005/sorteo-lototurf-quintuple-plus-del-domingo-4-octubre/17253251.shtml",
       "imagen": "https://img.rtve.es/imagenes/sorteo-lototurf-quintuple-plus-del-domingo-4-octubre/1791141548981.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sorteo de El Gordo de la Primitiva del domingo 4 de octubre",
-      "link": "https://www.rtve.es/rtve/20261005/sorteo-gordo-primitiva-del-domingo-4-octubre/17253192.shtml",
-      "imagen": "https://img.rtve.es/imagenes/sorteo-gordo-primitiva-del-domingo-4-octubre/01791147630670.jpg",
       "tipo": "imagen"
     }
   ]
