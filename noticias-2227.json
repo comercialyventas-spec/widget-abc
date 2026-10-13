@@ -2,6 +2,18 @@
   "noticias": [
     {
       "titulo": "Evento: Palacio de los Deportes. Afectadas 4 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261016-PD-Evento.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Traslado de Parada: Francos Rodríguez. Afectada línea 64 de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261013-TP-1580-Francos-Rodriguez.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Evento: Palacio de los Deportes. Afectadas 4 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261015-PD-Baloncesto.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
@@ -21,18 +33,6 @@
     {
       "titulo": "Supresión de Parada: Goya. Afectada línea 30 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261014-SP-255-Goya.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Evento: Palacio de los Deportes. Afectadas 4 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261021-PD-Evento.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Traslado de Parada: General Ricardos. Afectadas 5 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261013-TP-5560-General-Ricardos.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

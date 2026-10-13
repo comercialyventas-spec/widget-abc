@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Un otoño con temperaturas hasta 10° por encima de lo normal: 34° en Sevilla, 28° en Madrid y 25° en Bilbao",
+      "link": "https://elpais.com/el-tiempo/2026-10-13/un-otono-con-temperaturas-hasta-10-por-encima-de-lo-normal-34-en-sevilla-28-en-madrid-y-25-en-bilbao.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/OUCILSG46VLNNI373OCGPP5GDA.jpg?auth=f590d1296c8d77c710020ec45de8a044494a08725ed4310007e9f777846200d6",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Mar Menor está ya personado como víctima en 14 procesos judiciales contra agricultores, campos de golf y complejos turísticos",
+      "link": "https://elpais.com/clima-y-medio-ambiente/2026-10-13/el-mar-menor-esta-ya-personado-como-victima-en-14-procesos-judiciales-contra-agricultores-campos-de-golf-y-complejos-turisticos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/2HZ3ABJ26NAYNGHQPC5JSLH2NY.jpg?auth=b2132961573514313cb80c12a085aa9540ad560cc5a13b5a803e9550cd49e3b3",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Cuál es el coste ambiental de las residencias como las de Shakira o Bad Bunny? En vez de mover a un artista, que viajen 700.000 personas",
       "link": "https://elpais.com/clima-y-medio-ambiente/2026-10-12/cual-es-el-coste-ambiental-de-las-residencias-como-las-de-shakira-o-bad-bunny-en-vez-de-mover-a-un-artista-que-viajen-700000-personas.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/PNIJY5EJVFDN7AXQGVRRB26UYM.JPG?auth=b81dfb266ee043e0765bd76d42b422090a49be85ff523a2a339f2ce23f0b2565",
@@ -22,18 +34,6 @@
       "titulo": "El Tribunal de Estrasburgo rechaza la demanda del Mar Menor contra España, pero reconoce su “personalidad jurídica ecológica”",
       "link": "https://elpais.com/sociedad/2026-10-09/el-tribunal-europeo-de-derechos-humanos-declara-inadmisible-la-demanda-del-mar-menor-contra-espana.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/YC26L4XMRBF7ZAO443N6BJCAYE.jpg?auth=465f283895b619c3333e9e7df5de849613c7d3a601fd0b1fd12991f09261cbfb",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Todo lo que llena un cuenco: qué perdemos cuando reducimos la comida a una mercancía",
-      "link": "https://elpais.com/clima-y-medio-ambiente/2026-10-09/todo-lo-que-llena-un-cuenco-que-perdemos-cuando-reducimos-la-comida-a-una-mercancia.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/TS5JDISGPJB7FJU6FZ6WBOZSEA.jpg?auth=9dcb49bf6ea19cbbd6e0a2926d0b0c90b8443f07a4164fa80648c5a5838e1824",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Junta y la Confederación Hidrográfica del Guadalquivir se desentienden de limpiar los tóxicos de las aguas de Coria del Río",
-      "link": "https://elpais.com/espana/andalucia/2026-10-09/la-junta-y-la-confederacion-hidrografica-del-guadalquivir-se-desentienden-de-limpiar-los-toxicos-de-las-aguas-de-coria-del-rio.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/UJ32G4SVGBBPPMQ7G7EXC6QL5U.jpg?auth=ae49b97bd41d2205456074b39d1170cf3ef6ea9165f4ccc90749cb0b2786d837",
       "tipo": "imagen"
     }
   ]

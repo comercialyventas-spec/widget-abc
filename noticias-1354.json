@@ -1,15 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "El huracán ‘Simon’ y los estragos de ‘Rachel’, en vivo | Rescatadas 32 personas y tres perros de un área en riesgo en Baja California por los efectos de ‘Rachel’",
-      "link": "https://elpais.com/mexico/2026-10-12/el-huracan-simon-y-los-estragos-de-rachel-en-vivo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/6LBS4WPNXZJDLFGT263T3QE6DA.jpg?auth=3894e061b907dc1cc9e8671f57c99b21b8d5f64df136bfd105e806a1eeb6043e",
+      "titulo": "El FMI prevé que el PIB de México crezca 1,5% en 2026",
+      "link": "https://elpais.com/mexico/economia/2026-10-13/el-fmi-preve-que-el-pib-de-mexico-crezca-15-en-2026.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/YKRTS65V2JJVBHSSY7OHFQNP6Y.jpg?auth=2341e2aad3e7bc853759ad91ba5245ab54e08be608897619fc1c6505b4de1c5f",
       "tipo": "imagen"
     },
     {
       "titulo": "Los subsidios al diésel y a las gasolinas recortan el margen de maniobra de Hacienda",
       "link": "https://elpais.com/mexico/economia/2026-10-13/los-subsidios-al-diesel-y-a-las-gasolinas-recortan-el-margen-de-maniobra-de-hacienda.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/YCZ7TKCXYZD5ZJ67KDQLUE2TBY.jpg?auth=ac6c928c376ff216011fc40411b87510533e399dfd0a4c24ba64f1cd76ce7bf9",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El huracán ‘Simon’ y los estragos de ‘Rachel’, en vivo | Rescatadas 32 personas y tres perros de un área en riesgo en Baja California por los efectos de ‘Rachel’",
+      "link": "https://elpais.com/mexico/2026-10-12/el-huracan-simon-y-los-estragos-de-rachel-en-vivo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/6LBS4WPNXZJDLFGT263T3QE6DA.jpg?auth=3894e061b907dc1cc9e8671f57c99b21b8d5f64df136bfd105e806a1eeb6043e",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "México expone el supuesto plan electoral del ultraderechista Fernando Cerimedo para “reventar” a la presidenta Sheinbaum",
+      "link": "https://elpais.com/mexico/2026-10-12/mexico-expone-el-supuesto-plan-electoral-del-ultraderechista-fernando-cerimedo-para-reventar-a-la-presidenta-sheinbaum.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7PXRDKWSPBLFLJNRWTD5PWNQSY.jpg?auth=68f1abdc4975c3def7316780291f819f2540547137fa77591c05672a8340a553",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Sheinbaum pide explicaciones al Gobierno de Lemus por la violencia en Guadalajara: “Una cosa es contener y otra reprimir”",
       "link": "https://elpais.com/mexico/2026-10-12/sheinbaum-pide-explicaciones-al-gobierno-de-lemus-por-la-violencia-en-guadalajara-una-cosa-es-contener-y-otra-reprimir.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261012/1224534_164615_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "México expone el supuesto plan electoral del ultraderechista Fernando Cerimedo para “reventar” a la presidenta Sheinbaum",
-      "link": "https://elpais.com/mexico/2026-10-12/mexico-expone-el-supuesto-plan-electoral-del-ultraderechista-fernando-cerimedo-para-reventar-a-la-presidenta-sheinbaum.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/7PXRDKWSPBLFLJNRWTD5PWNQSY.jpg?auth=68f1abdc4975c3def7316780291f819f2540547137fa77591c05672a8340a553",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Ejército mexicano incauta 48 drones al crimen organizado en Sinaloa",
-      "link": "https://elpais.com/mexico/2026-10-13/el-ejercito-mexicano-incauta-48-drones-al-crimen-organizado-en-sinaloa.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/NSETCOBGNVAVHJC3SD3NFCUPE4.jpeg?auth=7c4dc600952851b556e85ab9181dc206475689e377ff5cd382abc564a942edb2",
       "tipo": "imagen"
     }
   ]

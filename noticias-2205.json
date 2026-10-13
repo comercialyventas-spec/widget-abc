@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El pantano de la Torrassa, teñido de verde fluorescente por cianobacterias.",
+      "link": "https://www.elperiodico.com/es/videos/sociedad/pantano-torrassa-tenido-verde-fluorescente/135268412.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8b574e38-ab54-4264-9ada-2e8576571592_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un robot, acusado de acosar sexualmente a una chica de 16 años",
+      "link": "https://www.elperiodico.com/es/videos/sociedad/robot-acusado-acosar-sexualmente-chica-16-anos-video/135266760.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/788ddc95-eae0-4ce8-9004-66f30a90812c_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "A PIE DE CALLE El incendio de un AVE corta la alta velocidad entre BCN-Madrid",
       "link": "https://www.elperiodico.com/es/videos/sucesos/pie-calle-incendio-ave-corta/135262705.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f05ddf32-29ca-4b9a-83bf-cc40c093e7ef_media-libre-aspect-ratio_default_0.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Un incendio en un AVE en Zaragoza obliga a cortar la alta velocidad entre Madrid y Barcelona",
       "link": "https://www.elperiodico.com/es/videos/sociedad/incendio-ave-zaragoza-obliga-cortar/135258297.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a01dff6d-0885-4370-9a4d-a744821b23da_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La suspensión del AVE Barcelona - Madrid provoca colas en el acceso a las vías de Alta Velocidad de Sants",
-      "link": "https://www.elperiodico.com/es/videos/sucesos/suspension-ave-barcelona-madrid-provoca/135257566.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/11ff3925-09cb-4448-8b76-2e340bbb73aa_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cientos de personas celebran el 12-O en Barcelona con una manifestación en apoyo a Ceuta",
-      "link": "https://www.elperiodico.com/es/videos/sociedad/cientos-personas-celebran-12-o/135254973.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b44aea82-3c2d-4a6d-b077-28e3287e84bf_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

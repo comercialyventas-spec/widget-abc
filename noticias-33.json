@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "De Viena a Maricarmen",
+      "link": "https://www.lavanguardia.com/local/barcelona/20261013/11657155/viena-maricarmen.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La descendencia",
       "link": "https://www.lavanguardia.com/opinion/20261013/11657242/descendencia.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/10/05/68e27b26ca359.r_d.2103-1530-0.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "La crisis de la vivienda",
       "link": "https://www.lavanguardia.com/opinion/20261013/11657214/crisis-vivienda.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/12/6acd050d160fd.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "PSOE y PP pelean en el barro",
-      "link": "https://www.lavanguardia.com/opinion/20261013/11656996/psoe-pp-barro-digital.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/12/6accc5d9889bd.r_d.548-346-5930.jpeg",
       "tipo": "imagen"
     }
   ]

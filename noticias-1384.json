@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Raquel Barbosa, curadora gastronómica: “¿Por qué comer una hamburguesa con las manos es algo aceptado, pero comer un arroz con las manos está tan estigmatizado?\"",
+      "link": "https://elpais.com/gastronomia/2026-10-13/raquel-barbosa-curadora-gastronomica-por-que-comer-una-hamburguesa-con-las-manos-es-algo-aceptado-pero-comer-un-arroz-con-las-manos-esta-tan-estigmatizado.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/YCAWLJLJV5ERZPZPR55234PRZQ.jpg?auth=65a07234d0ee795d019d87eb83408e38adb89839a9d4b4f3b8198d7233fae0f0",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Se busca director para la nueva OMS: sin financiación de EE UU y con la confianza en la ciencia en horas bajas",
+      "link": "https://elpais.com/planeta-futuro/2026-10-13/se-busca-director-para-la-nueva-oms-sin-financiacion-de-ee-uu-y-con-la-confianza-en-la-ciencia-en-horas-bajas.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/BDDZKH2IQZHGVGW5CU7KTMKYN4.JPG?auth=4a397039dab811aae7653530e3c2bb019584e744c4190415a6f29cf6e780761e",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El exilio de la etnia uigur: la vida en suspenso entre China y Turquía",
       "link": "https://elpais.com/planeta-futuro/2026-10-12/el-exilio-de-la-etnia-uigur-la-vida-en-suspenso-entre-china-y-turquia.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/NU3M53CGORGEXO3TPFFFZX2HNI.jpg?auth=e881b84515746440dddebe0a809c4243715142e1c8014aa1cdcbf1a8cb9e4147",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las venezolanas siguen abortando a escondidas mientras Colombia amenaza con cerrarles la puerta",
+      "link": "https://elpais.com/america/2026-10-12/las-venezolanas-siguen-abortando-a-escondidas-mientras-colombia-amenaza-con-cerrarles-la-puerta.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/I5P5YJRZUJERROH6TXW2Q3A2HI.jpg?auth=d4827d19efc22bebb9c6b4b9e1369d0012927349649e3f60c0db0358f47c5ac6",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "“Que nos dejen, que se vayan”: líderes indígenas claman contra proyectos de conservación de la naturaleza que les expulsan de sus tierras",
       "link": "https://elpais.com/planeta-futuro/2026-10-11/que-nos-dejen-que-se-vayan-lideres-indigenas-claman-contra-proyectos-de-conservacion-de-la-naturaleza-que-les-expulsan-de-sus-tierras.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/POAP7UYZY5AAFE7HO7NQKTJTOA.jpg?auth=0f8a59730e005bebd86fb901f3076d0ca7855d4afb1a7ed56aa965225e758ea8",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Alexander de Croo, jefe del PNUD: “Nadie en este mundo puede cerrar los ojos ante el sufrimiento en Gaza”",
-      "link": "https://elpais.com/planeta-futuro/2026-10-10/alexander-de-croo-jefe-del-pnud-nadie-en-este-mundo-puede-cerrar-los-ojos-ante-el-sufrimiento-en-gaza.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/6H5HJELFCZDZNABDSXS4KKRTEM.jpg?auth=c134b592bcbb53b6b5dc5454d9563732048ab3c22828ca287430b36a70176633",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "How USAID cuts left Nepal’s children exposed to deadly floods",
-      "link": "https://english.elpais.com/international/2026-10-09/how-usaid-cuts-left-nepals-children-exposed-to-deadly-floods.html",
-      "imagen": "https://images.english.elpais.com/resizer/v2/SAXF6H43UJHGVPHYUB34LVHZ2Y.JPG?auth=dd4cd83c65aa8bf4d506b27ba5ad29c31d2faf93211a327af743ef1e09a285e7",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cómo los recortes de financiación al desarrollo de EE UU dejaron a los niños de Nepal expuestos a riadas mortales",
-      "link": "https://elpais.com/planeta-futuro/2026-10-09/como-los-recortes-de-financiacion-al-desarrollo-de-ee-uu-dejaron-a-los-ninos-de-nepal-expuestos-a-riadas-mortales.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/SAXF6H43UJHGVPHYUB34LVHZ2Y.JPG?auth=dd4cd83c65aa8bf4d506b27ba5ad29c31d2faf93211a327af743ef1e09a285e7",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "La lesión pulmonar por la que operan al Papa: qué es un nódulo y cómo se detecta",
+      "link": "https://www.elconfidencial.com/mundo/2026-10-13/que-es-un-nodulo-y-como-se-detecta_4443601/",
+      "imagen": "https://images.ecestaticos.com/dEuINHd1YUyDFSlQ7-7XAtz9EY4=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F650%2F8ba%2F1c9%2F6508ba1c939ffa5deab5e287270d796a.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El ventolin y otros medicamentos contra el asma cambian su fórmula para ser más sostenibles",
+      "link": "https://www.elconfidencial.com/bienestar/2026-10-13/descarbonizacion-inhaladores-asma_4430695/",
+      "imagen": "https://images.ecestaticos.com/Vz6TFZoLonhGRCYHBeWxNyiYw0k=/0x129:1199x804/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb4f%2F5bb%2F1b5%2Fb4f5bb1b59d918ea60231d8deda7a780.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Puedes recuperar sueño el sábado si no duermes lo suficiente entre semana?",
+      "link": "https://www.elconfidencial.com/salud/2026-10-13/recuperar-horas-de-sueno_4365807/",
+      "imagen": "https://images.ecestaticos.com/P2mNBzA3eEyDzlkMGAaE__8eFwQ=/0x0:1500x1000/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F677%2Fa46%2F20c%2F677a4620cabf1336e74bf327a9aad2d9.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Carmen Lanchares, experta en longevidad, advierte a quienes solo salen a caminar: \"Para frenar la fragilidad, hay que hacer entrenamiento de fuerza\"",
       "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-12/carmen-lanchares-fuerza-muscular-buena-salud_4441055/",
       "imagen": "https://images.ecestaticos.com/mwLpK29GAliYLUDGGeWbw_PMgEg=/0x0:2272x1506/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F103%2Ff29%2Fac9%2F103f29ac9b949a17e438a55bb6da8882.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Manuel Sans Segarra, médico y cirujano: \"Lo peor que puede hacer un ser humano es sentarse delante de la televisión\"",
       "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-12/manuel-sans-segarra-cirujano-peor-humano-sentarse-delante-television-1qrt_4216305/",
       "imagen": "https://images.ecestaticos.com/FQ5ce3i5lu0q7IZ_ZqA-eeNwXao=/0x0:1000x562/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fad7%2Fb67%2F879%2Fad7b67879af5eaec47fca5f178660fff.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sobrevivir al cáncer entre bombardeos: la guerra también se libra en los hospitales de Ucrania",
-      "link": "https://www.elconfidencial.com/salud/2026-10-12/bombardeos-quimioterapia-cancer-guerra-ucrania_4436482/",
-      "imagen": "https://images.ecestaticos.com/nDChpfzZep3TWvBWk9sulepoKj0=/0x109:2272x1387/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F752%2Fae3%2F7bd%2F752ae37bde0aa716d96a71e08172c161.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Aurelio Rojas, cardiólogo: “Tenemos que movernos y hacer que nuestro corazón lata más rápido. Solo con 1.000 pasos al día ya hay un 10 % de reducción de sufrir un evento cardiovascular y es algo sumatorio”",
-      "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-12/aurelio-rojas-cardiologo_4437598/",
-      "imagen": "https://images.ecestaticos.com/pZAIAaORUdyZAi89lCY8BHwJDtg=/0x0:678x484/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F0d0%2F9f0%2Fefb%2F0d09f0efb0a89f357c4fd42571347e0a.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Colin Courtney, doctora: \"Probablemente una de cada tres personas pasados los 45 años va a experimentar dolor en los pies. Una cifra que sólo es comparable al dolor lumbar\"",
-      "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-11/colin-courtney-doctora_4437611/",
-      "imagen": "https://images.ecestaticos.com/7nPfHFf5VxgHfKMfzcczYOr19Sk=/0x0:724x483/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F8e4%2F9fa%2Fbe6%2F8e49fabe650732e1becba607fa9733a8.jpg",
       "tipo": "imagen"
     }
   ]
