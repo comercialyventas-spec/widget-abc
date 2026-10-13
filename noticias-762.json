@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Todo muy normal en Ceuta",
+      "link": "https://www.eldiario.es/opinion/zona-critica/normal-ceuta_129_13582755.html",
+      "imagen": "https://static.eldiario.es/clip/60f63a2a-3507-4eb6-a28c-7949f7a45178_avatar-200-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "PP y la devastación de la democracia",
+      "link": "https://www.eldiario.es/opinion/zona-critica/pp-devastacion-democracia_129_13582445.html",
+      "imagen": "https://static.eldiario.es/clip/a05ebcd3-5357-4d97-9982-d4957670579b_avatar-200-aspect-ratio_default_0.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El patriota Abascal",
+      "link": "https://www.eldiario.es/opinion/zona-critica/patriota-abascal_129_13582412.html",
+      "imagen": "https://static.eldiario.es/clip/e94f1310-cf2f-4e60-ad40-c9a15bd68921_avatar-200-aspect-ratio_default_0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las tres encrucijadas del 29-N",
       "link": "https://www.eldiario.es/opinion/zona-critica/tres-encrucijadas-29-n_129_13580027.html",
       "imagen": "https://static.eldiario.es/clip/2ad8fa2c-6c10-4efe-8e60-ff4e7e23607c_avatar-200-aspect-ratio_default_0.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Ya nos sacrificaron una vez",
       "link": "https://www.eldiario.es/opinion/zona-critica/sacrificaron-vez_129_13580035.html",
       "imagen": "https://static.eldiario.es/clip/2bb1a67a-b2be-495b-91d5-141d0fd24b51_avatar-200-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mucho frente y poco amplio",
-      "link": "https://www.eldiario.es/opinion/zona-critica/frente-amplio_129_13579874.html",
-      "imagen": "https://static.eldiario.es/clip/056e97ad-7b6f-4f40-bf6d-a5190675b9b5_avatar-200-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Supremo, juez y parte, entra en la campaña electoral",
-      "link": "https://www.eldiario.es/opinion/zona-critica/supremo-juez-parte-entra-campana-electoral_129_13580261.html",
-      "imagen": "https://static.eldiario.es/clip/e94f1310-cf2f-4e60-ad40-c9a15bd68921_avatar-200-aspect-ratio_default_0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Angustia de izquierdas",
-      "link": "https://www.eldiario.es/opinion/zona-critica/angustia-izquierdas_129_13579058.html",
-      "imagen": "https://static.eldiario.es/clip/2685db0b-42f3-4101-a430-0a6e69bc82a4_avatar-200-aspect-ratio_default_0.jpeg",
       "tipo": "imagen"
     }
   ]

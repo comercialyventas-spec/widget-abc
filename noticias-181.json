@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Enemigo mío",
+      "link": "https://www.lavozdegalicia.es/noticia/deza/a-estrada/2026/10/14/enemigo/0003_202610D14C4997.htm",
+      "imagen": "https://www.lavozdegalicia.es/assets/themes/lvdg/img/og_image_default.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La renta bruta media de la zona rozó los 24.000 euros en el 2024",
       "link": "https://www.lavozdegalicia.es/noticia/deza/lalin/2026/10/13/renta-bruta-media-zona-rozo-24000-euros-2024/0003_202610D13C19916.htm",
       "imagen": "https://cflvdg.avoz.es/sc/q79-u7wDT0wIUGeN8KMiJ77RSQE=/768x/2026/10/12/00121791805742638217140/Foto/DO13C1F1_13375.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La Guardia Civil honró a la Virgen del Pilar",
       "link": "https://www.lavozdegalicia.es/noticia/deza/2026/10/13/guardia-civil-honro-virgen-pilar/0003_202610D13C3991.htm",
       "imagen": "https://cflvdg.avoz.es/sc/VDacGYfFvcDo4dHqvyXWl94xYJs=/768x/2026/10/12/00121791823862517268521/Foto/DO13C3F1_184959.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tawi construirá las dos nuevas aldeas del parque navideño",
-      "link": "https://www.lavozdegalicia.es/noticia/deza/lalin/2026/10/13/tawi-construira-dos-nuevas-aldeas-parque-navideno/0003_202610D13C2997.htm",
-      "imagen": "https://www.lavozdegalicia.es/assets/themes/lvdg/img/og_image_default.png",
       "tipo": "imagen"
     }
   ]

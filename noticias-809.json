@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El calor sigue en otoño: temperaturas por encima de los 30 grados y sin lluvias hasta el viernes",
+      "link": "https://www.eldiario.es/sociedad/el-tiempo/calor-sigue-otono-temperaturas-30-grados-lluvias-viernes-pm_1_13580670.html",
+      "imagen": "https://static.eldiario.es/clip/b380c4b2-49ff-4ba5-a5af-5aa0c2db21aa_16-9-discover-aspect-ratio_default_1153158.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El puente del Pilar cambia el tiempo en España con más de 25ºC y una próxima semana todavía más cálida",
       "link": "https://www.eldiario.es/sociedad/el-tiempo/puente-pilar-cambia-tiempo-espana-25oc-proxima-semana-todavia-calida-pm_1_13576205.html",
       "imagen": "https://static.eldiario.es/clip/dd79ae78-e183-4d7a-801f-7c92e474c513_16-9-discover-aspect-ratio_default_0_x683y377.jpg",
@@ -28,12 +34,6 @@
       "titulo": "España encara otro día de lluvias con nueve comunidades con avisos activos",
       "link": "https://www.eldiario.es/sociedad/el-tiempo/espana-encara-dia-lluvias-nueve-comunidades-avisos-activos-pm_1_13563099.html",
       "imagen": "https://static.eldiario.es/clip/3b0b7088-6bd7-4df2-95fa-3b0142087b40_16-9-discover-aspect-ratio_default_1152727.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Aemet anticipa otra semana lluviosa y activa avisos este lunes en nueve comunidades",
-      "link": "https://www.eldiario.es/sociedad/el-tiempo/aemet-anticipa-semana-lluviosa-activa-aviso-lunes-nueve-comunidades-pm_1_13561606.html",
-      "imagen": "https://static.eldiario.es/clip/39b8653d-a4f0-4024-8a3e-499562c681c8_16-9-discover-aspect-ratio_default_0_x877y335.jpg",
       "tipo": "imagen"
     }
   ]

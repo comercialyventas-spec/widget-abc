@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Vari Caramés, el fotógrafo gallego de la mirada borrosa, Premio Nacional",
+      "link": "https://www.eldiario.es/galicia/vari-carames-fotografo-gallego-mirada-borrosa-premio-nacional_1_13582820.html",
+      "imagen": "https://static.eldiario.es/clip/59636727-1a8b-4e4b-acd3-7f4d3312a0d2_16-9-discover-aspect-ratio_default_0_x1257y253.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Estopa anuncia nuevo disco y una gira con cuatro únicas fechas en España",
+      "link": "https://www.eldiario.es/cultura/musica/estopa-anuncia-nuevo-disco-gira-cuatro-unicas-fechas-espana_1_13581266.html",
+      "imagen": "https://static.eldiario.es/clip/ef77e57a-27d6-4cf5-a436-6868d376f935_16-9-discover-aspect-ratio_default_0_x895y332.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Si te compras un videojuego, es tuyo de verdad? El fin del formato físico quita la venda de los ojos a millones de usuarios",
       "link": "https://www.eldiario.es/cultura/videojuegos/si-compras-videojuego-formato-fisico-quita-venda-ojos-millones-usuarios_1_13574759.html",
       "imagen": "https://static.eldiario.es/clip/62107a79-2271-492e-b83e-1a4e14b8095a_16-9-discover-aspect-ratio_default_0_x1047y356.jpg",
@@ -19,21 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Kevin Bacon pone a su propia familia a hacer cine dentro del cine: “Nadie en todo Hollywood quería financiar esta película”",
-      "link": "https://www.eldiario.es/cultura/cine/kevin-bacon-pone-propia-familia-cine-cine-nadie-hollywood-queria-financiar-pelicula_1_13578475.html",
-      "imagen": "https://static.eldiario.es/clip/5f4e012f-2568-4fca-bdd1-3738e08226d8_16-9-discover-aspect-ratio_default_0_x1711y1238.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Por qué bañarse en el mar en invierno fascina cada vez más: “El frío te conecta con el aquí y el ahora”",
-      "link": "https://www.eldiario.es/catalunya/banarse-mar-invierno-fascina-vez-frio-conecta-ahora_1_13573542.html",
-      "imagen": "https://static.eldiario.es/clip/af5ff35a-c7ee-4cb8-ab8f-97cf681463dd_16-9-discover-aspect-ratio_default_1153033.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cómo (no) pronunciarse sobre Palestina: 10 consejos para estrellas de la música",
-      "link": "https://www.eldiario.es/cultura/musica/no-pronunciarse-palestina-10-consejos-estrellas-musica_129_13574613.html",
-      "imagen": "https://static.eldiario.es/clip/69a14279-7d8d-4c5e-9619-0a570190a1ff_16-9-discover-aspect-ratio_default_0_x628y460.jpg",
+      "titulo": "Cartas, fotos y primeras ediciones: el Parlamento de Cantabria acoge una exposición por el 120 aniversario de la muerte de Pereda",
+      "link": "https://www.eldiario.es/cantabria/cartas-fotos-primeras-ediciones-parlamento-cantabria-acoge-exposicion-120-aniversario-muerte-pereda_1_13579479.html",
+      "imagen": "https://static.eldiario.es/clip/d3fdfaf1-46b1-45c5-a773-e0db8677a19d_16-9-discover-aspect-ratio_default_0_x696y223.jpg",
       "tipo": "imagen"
     }
   ]

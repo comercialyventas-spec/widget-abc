@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Todo muy normal en Ceuta",
+      "link": "https://www.eldiario.es/opinion/zona-critica/normal-ceuta_129_13582755.html",
+      "imagen": "https://static.eldiario.es/clip/175f7c82-9a30-4699-b784-4ef9d2b9b25c_16-9-discover-aspect-ratio_default_0_x1009y519.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Malas víctimas, malas desahuciadas, malos españoles",
       "link": "https://www.eldiario.es/opinion/zona-critica/malas-victimas-malas-desahuciadas-malos-espanoles_129_13578788.html",
       "imagen": "https://static.eldiario.es/clip/7cb8188a-3e21-48a2-a4ea-8469092b8fb7_16-9-discover-aspect-ratio_default_0_x825y781.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Vamos a reírnos un rato de los perroflautas",
       "link": "https://www.eldiario.es/opinion/zona-critica/reirnos-rato-perroflautas_129_13554740.html",
       "imagen": "https://static.eldiario.es/clip/aff233d3-66ee-41b8-aec0-97dfd3b17d4b_16-9-discover-aspect-ratio_default_0_x1375y795.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Hecha la ley (de vivienda), hecha la trampa",
-      "link": "https://www.eldiario.es/opinion/zona-critica/hecha-ley-vivienda-hecha-trampa_129_13548496.html",
-      "imagen": "https://static.eldiario.es/clip/ef99f915-421a-4991-8e7b-baf5e4baa973_16-9-discover-aspect-ratio_default_0_x924y423.jpg",
       "tipo": "imagen"
     }
   ]

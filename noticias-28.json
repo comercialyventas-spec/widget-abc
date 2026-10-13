@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Protesta estudiantil en Francia",
+      "link": "https://www.lavanguardia.com/internacional/20261013/11658138/protesta-estudiantil-francia.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Arabia Saudí rechaza la ayuda de Netanyahu para combatir a los hutíes de Yemen",
+      "link": "https://www.lavanguardia.com/internacional/20261013/11658054/arabia-saudi-rechaza-ayuda-netanyahu-combatir-huties-yemen.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/13/6ace4e506c9af.r_d.2647-1886-866.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los talibán suspenden las emisiones de FM de la BBC, la última emisora internacional que quedaba en el país",
       "link": "https://www.lavanguardia.com/internacional/20261013/11658032/taliban-suspenden-emisiones-fm-bbc-ultima-emisora-internacional-quedaba-pais.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/13/6ace4a029dac6.jpeg",
@@ -22,18 +34,6 @@
       "titulo": "Francia investiga una posible motivación terrorista en el tiroteo del colegio cerca de Marsella",
       "link": "https://www.lavanguardia.com/internacional/20261013/11657976/francia-investiga-posible-motivacion-terrorista-tiroteo-colegio-cerca-marsella.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/12/6accea30b7e8b.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las llamadas de emergencia revelan la confusión que siguió a la fallida muerte de Christa Pike",
-      "link": "https://www.lavanguardia.com/internacional/20261013/11657947/llamadas-emergencia-revelan-confusion-siguio-fallida-muerte-christa-pike.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/02/6abedb6584022.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Muere un hombre tras caer de una montaña rusa en un parque de atracciones en Estados Unidos",
-      "link": "https://www.lavanguardia.com/internacional/20261013/11657770/muere-hombre-caer-montana-rusa-parque-atracciones-estados-unidos.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/13/6ace0f16a7f02.r_d.2046-977-1113.jpeg",
       "tipo": "imagen"
     }
   ]

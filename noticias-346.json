@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Epic Games quiere desarrollar su próximo videojuego de Marvel y Star Wars con IA: «No más código escrito a mano»",
+      "link": "https://www.abc.es/tecnologia/videojuegos/epic-games-quiere-desarrollar-proximo-videojuego-marvel-20261013213614-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/13/fortnite-star-wars-disney-RuyxXOMqI2wFs3CzRVivA7L-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Satya Nadella pide un «botón de emergencia» para la IA: cualquier persona debería poder detenerlas mientras trabajan",
+      "link": "https://www.abc.es/tecnologia/satya-nadella-pide-boton-emergencia-ia-persona-20261013202512-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/13/satya-nadella-microsoft-RQW4ShBcY1tg43cvcfwUJeN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Anthropic desconecta sus modelos de internet después de que un agente de IA enviase una falsa denuncia de asesinato",
+      "link": "https://www.abc.es/tecnologia/anthropic-desconecta-modelos-internet-despues-agente-ia-20261013185828-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/13/anthropic-RpYVWzVKWfM0NgjivmLvEwI-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Apple anuncia el Home View, su primer altavoz inteligente con pantalla",
       "link": "https://www.abc.es/tecnologia/apple-anuncia-home-view-primer-altavoz-inteligente-20261013161719-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/13/homeview-RWdYZ9Oblqyq1ws6xKfw5GN-1200x840@diario_abc.jpg",
@@ -16,24 +34,6 @@
       "titulo": "El rabino que aconseja a Anthropic se rebela contra la humanización de la IA: «Es como crear un esclavo»",
       "link": "https://www.abc.es/tecnologia/rabino-aconseja-anthropic-rebela-humanizacion-ia-crear-20261011013820-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/11/mois-navon-R5BFLqKn3d0JrJplWphbthP-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "«Lobezno es muy diferente de Spiderman. Queríamos crear un videojuego en el que el jugador sienta que es el personaje»",
-      "link": "https://www.abc.es/tecnologia/lobezno-diferente-spiderman-queriamos-crear-20261007005658-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/07/lobezno-3-RxydNKXrKbNaNzUAYstIZhI-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Anthropic pide que trates bien a Claude: su nueva política prohíbe ser «innecesariamente cruel» con la inteligencia artificial",
-      "link": "https://www.abc.es/tecnologia/anthropic-pide-trates-bien-claude-nueva-politica-20261009175025-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/09/claude-anthropic-RejlzeSdW3TAHXe0XGAn1SN-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Google da el siguiente paso con Gemini: su IA ya puede trabajar como un empleado más",
-      "link": "https://www.abc.es/tecnologia/google-siguiente-paso-gemini-ia-puede-trabajar-20261009184334-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/09/mujer-trabajadora-oficina-RemMreBQmZN5auudKCPc8RM-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

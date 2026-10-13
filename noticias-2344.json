@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El múltiple accidente en la A-6 en Zamora deja un fallecido y dos heridos",
+      "link": "https://www.zamora24horas.com/sucesos/actualizacion-accidente-a-6",
+      "imagen": "https://statics.zamora24horas.com/4d4fec94-aa12-4385-b3a0-3d13ffe8fa80.webp?format=webp&width=320&quality=75",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Grave accidente múltiple con tres tráilers implicados en la A-6 en Zamora: un hombre atrapado y herido",
+      "link": "https://www.zamora24horas.com/sucesos/grave-accidente-multiple-tres-trailers-implicados-a-6-zamora-hombre-atrapado-herido",
+      "imagen": "https://statics.zamora24horas.com/b771c5ff-e2e8-49ac-b376-be6ae4048d69.webp?format=webp&width=320&quality=75",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Dos mujeres heridas tras ser arrolladas por un coche en Zamora capital",
       "link": "https://www.zamora24horas.com/sucesos/dos-mujeres-heridas-tras-ser-arrolladas-coche-zamora-capital",
       "imagen": "https://statics.zamora24horas.com/5d6913eb-1579-4a57-9712-09233af538ce.webp?format=webp&width=320&quality=75",
@@ -13,21 +25,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Miriam Chacón - Accidente en la A-62 en sentido Salamanca, a la altura de la localidad vallisoletana de Tordesillas",
+      "titulo": "Muere una segunda víctima del accidente de la A-62 en el que falleció el profesor del Alfonso IX",
       "link": "https://www.zamora24horas.com/sucesos/muere-segunda-victima-accidente-a-62-fallecio-profesor-alfonso-ix",
       "imagen": "https://statics.zamora24horas.com/0d10281d-1555-44bd-80a8-8716e08925a8.webp?format=webp&width=320&quality=75",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Amplio despliegue en Carbajosa de Alba por un incendio en una vivienda que pudo acabar en tragedia",
-      "link": "https://www.zamora24horas.com/sucesos/amplio-despliegue-carbajosa-alba-incendio-vivienda-puedo-acabar-tragedia",
-      "imagen": "https://statics.zamora24horas.com/f22fe1fb-cdff-42ba-aafb-1568eea75ff9.webp?format=webp&width=320&quality=75",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Atropello en Zamora capital: un hombre herido y otro trasladado al hospital",
-      "link": "https://www.zamora24horas.com/sucesos/atropello-zamora-capital-hombre-herido-trasladado-hospital",
-      "imagen": "https://statics.zamora24horas.com/9bd7240f-1535-4c7e-b085-d2a75460ca20.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
     }
   ]
