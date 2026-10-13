@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Contrato de alquiler",
+      "link": "https://www.publico.es/opinion/vinetas/contrato-alquiler.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/11/6acb94b3447fb.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las casas de Maricarmen",
       "link": "https://www.publico.es/opinion/vinetas/casas-maricarmen.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/08/6ac79e5af27b5.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Intemperie",
       "link": "https://www.publico.es/opinion/vinetas/intemperie.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/27/6ab8d4b91f3fd.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Don Buitre",
-      "link": "https://www.publico.es/opinion/vinetas/don-buitre.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/24/6ab532860cd01.jpeg",
       "tipo": "imagen"
     }
   ]

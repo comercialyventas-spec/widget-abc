@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "A PIE DE CALLE El incendio de un AVE corta la alta velocidad entre BCN-Madrid",
+      "link": "https://www.elperiodico.com/es/videos/sucesos/pie-calle-incendio-ave-corta/135262705.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f05ddf32-29ca-4b9a-83bf-cc40c093e7ef_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La suspensión del AVE Madrid - Barcelona provoca colas en el acceso a las vías de Alta Velocidad de Atocha",
       "link": "https://www.elperiodico.com/es/videos/sucesos/suspension-ave-madrid-barcelona-provoca/135260919.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/61fd7771-fa8f-48d9-a01c-e4a42bdbfd31_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Cientos de personas celebran el 12-O en Barcelona con una manifestación en apoyo a Ceuta",
       "link": "https://www.elperiodico.com/es/videos/sociedad/cientos-personas-celebran-12-o/135254973.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b44aea82-3c2d-4a6d-b077-28e3287e84bf_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tensión en la Puerta del Sol entre acampados y manifestantes con banderas de España",
-      "link": "https://www.elperiodico.com/es/videos/sociedad/tension-puerta-sol-acampados-manifestantes/135252139.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/4de71067-8b1d-4cc1-b19a-5cdbb63c3ade_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

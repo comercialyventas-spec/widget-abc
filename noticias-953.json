@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Para Walmart, sustituir a humanos por robots es una batalla multimillonaria",
+      "link": "https://www.elmundo.es/economia/2026/10/10/6ac8f367fc6c83ce0b8b45a8.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/09/17915583685894.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La guerra de precios de la IA se intensifica y OpenAI le está ganando terreno a Anthropic",
       "link": "https://www.elmundo.es/economia/2026/10/09/6ac77c57fc6c836c5f8b4577.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/08/17914788539590.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La inteligencia artificial sume al sector editorial en un caos absoluto",
       "link": "https://www.elmundo.es/la-lectura/2026/09/27/6aabc475e9cf4afd068b4576.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/21/17900041962913.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Traficantes de cocaína eluden a las fuerzas de seguridad europeas con narcolanchas y tecnología",
-      "link": "https://www.elmundo.es/espana/2026/09/24/6ab50e62e4d4d8aa168b45b0.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/24/17902546429109.jpg",
       "tipo": "imagen"
     }
   ]

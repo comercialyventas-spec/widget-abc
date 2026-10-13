@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Cómo se consultan los metadatos de una imagen y por qué no son suficientes para detectar desinformación",
+      "link": "https://www.newtral.es/metadatos-imagen-desinformacion/20261011/",
+      "imagen": "https://www.newtral.es/wp-content/uploads/2026/10/portada_metadatos-hoy-1024x683.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Qué efectos puede tener la desinformación en la salud mental",
+      "link": "https://www.newtral.es/salud-mental-desinformacion/20261010/",
+      "imagen": "https://www.newtral.es/wp-content/uploads/2026/10/bjnk-1024x683.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los mensajes sobre el fraude aumentan la jornada de votación y la semana posterior, según un análisis de 18.000 cuentas de Telegram",
       "link": "https://www.newtral.es/fraude-electoral-telegram/20261008/",
       "imagen": "https://www.newtral.es/wp-content/uploads/2026/10/fraude-electoral-Telegram-Madrigal-1024x576.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Qué son las granjas de trols y cómo identificarlas",
       "link": "https://www.newtral.es/granja-de-trol/20260927/",
       "imagen": "https://www.newtral.es/wp-content/uploads/2026/09/trols-1024x568.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "“No intentes ganar”: cómo hablar con amigos y familiares que comparten desinformación",
-      "link": "https://www.newtral.es/guia-desinformacion-amigos/20260926/",
-      "imagen": "https://www.newtral.es/wp-content/uploads/2026/09/nueva-1024x649.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Suecia afronta sus elecciones con la mirada puesta en la desinformación y posibles intentos de injerencia",
-      "link": "https://www.newtral.es/elecciones-desinformacion-suecia/20260912/",
-      "imagen": "https://www.newtral.es/wp-content/uploads/2026/09/photo-1579359565489-8e65439e6d1c-1024x683.avif",
       "tipo": "imagen"
     }
   ]

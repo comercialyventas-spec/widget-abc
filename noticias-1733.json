@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Vendido en Granada el Segundo Premio de la Lotería Nacional",
+      "link": "https://www.ahoragranada.com/noticias/vendido-granada-el-segundo-premio-de-la-loteria-nacional/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/10/Estanco-Loteria-Avenida-Juan-Pablo-II.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Albolote forma a 15 personas como auxiliares de ayuda a domicilio a través de un taller de empleo",
       "link": "https://www.ahoragranada.com/noticias/albolote-forma-a-15-personas-como-auxiliares-de-ayuda-a-domicilio-a-traves-de-un-taller-de-empleo/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/10/Talle-Empleo-Albolote.jpg",
@@ -29,12 +35,6 @@
       "link": "https://www.ahoragranada.com/noticias/ligero-ascenso-de-temperaturas-este-martes-en-granada/",
       "imagen": "",
       "tipo": ""
-    },
-    {
-      "titulo": "El folclore latinoamericano llena de color las calles de Granada",
-      "link": "https://www.ahoragranada.com/noticias/el-folclore-latinoamericano-llena-de-color-las-calles-de-granada/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/10/DESFILE-MESTIZAJE-2026-CH-46.jpg",
-      "tipo": "imagen"
     }
   ]
 }

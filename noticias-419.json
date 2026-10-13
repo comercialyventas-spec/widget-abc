@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La universidad sospechosa",
+      "link": "https://www.elconfidencialdigital.com/opinion/carola-minguet-civera/universidad-sospechosa/202610130020111493022.html",
+      "imagen": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2022/02/02/2022020215410298680.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Una Iglesia que necesita recuperar la alegría",
+      "link": "https://www.elconfidencialdigital.com/opinion/sancho-michell/iglesia-que-necesita-recuperar-alegria/202610130010011493020.html",
+      "imagen": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/10/12/2026101223593619209.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El PSOE al banquillo... en vísperas electorales",
       "link": "https://www.elconfidencialdigital.com/blog/jose-apezarena/psoe-banquillo-visperas-electorales/202610120913201492809.html",
       "imagen": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2018/09/05/2018090513442128715.jpg",
@@ -8,8 +20,8 @@
     },
     {
       "titulo": "El matrimonio en vías extinción",
-      "link": "https://www.elconfidencialdigital.com/opinion/jose-francisco-serrano/matrimonio-vias-extincion/202610120500311492858.html",
-      "imagen": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/10/24/2025102400312719046.jpg",
+      "link": "https://www.elconfidencialdigital.com/opinion/jose-francisco-serrano-oceja/matrimonio-vias-extincion/202610120500311492858.html",
+      "imagen": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2018/07/17/2018071717234991114.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "La edad como defecto",
       "link": "https://www.elconfidencialdigital.com/opinion/patricia-sanchez-socias/edad-como-defecto/202610110500001492546.html",
       "imagen": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2026/06/25/2026062512544980961.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "León XIV despierta a Francia",
-      "link": "https://www.elconfidencialdigital.com/opinion/jose-maria-alsina-casanova/leon-xiv-despierta-francia/202610100620241492461.html",
-      "imagen": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/05/15/2025051521301831368.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "12,6 millones de razones: la pobreza que no aparece en el PIB",
-      "link": "https://www.elconfidencialdigital.com/opinion/jorge-diaz-cardiel/126-millones-razones-pobreza-que-aparece-pib/202610081745251492083.html",
-      "imagen": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2018/07/16/2018071618235559791.jpg",
       "tipo": "imagen"
     }
   ]

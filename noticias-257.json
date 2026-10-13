@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Sobrevolando el desfile del 12 de octubre",
+      "link": "https://www.abc.es/espana/sobrevolando-desfile-octubre-20261012180403-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/12/Montaje.00_02_36_03.Imagen%20fija006-U44561542328QRc-562x393@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Tres escenarios y una pregunta: ¿quién controla las fronteras, la tecnología y el dinero?",
       "link": "https://www.abc.es/internacional/nuevas-fronteras-20261008014128-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/08/HORIZONTAL.00_08_43_22.Imagen%20fija007-U47431782523eIo-562x393@diario_abc.jpg",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/08/HORIZONTAL.00_08_43_22.Imagen%20fija007-U70067276402dCN-562x315@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Conversación con Antonio Asensio, el hombre que cuenta un libro en una hora",
       "link": "https://www.abc.es/cultura/libros/antonio-martinez-asensio-hombre-cuenta-novela-sesenta-20261008135519-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/08/1518069959_20261008110952-U37318878554zeD-562x315@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿A quién le teme Delcy en Caracas?",
-      "link": "https://www.abc.es/internacional/teme-delcy-caracas-20261006021031-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/06/1511461180-U20673829497T3D-U87560151208dPV-562x315@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

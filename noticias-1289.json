@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El Ejército de Marruecos invadió territorio español los días 30 y 31 de julio",
+      "link": "https://www.mediterraneodigital.com/espana/buques-guerra-marruecos-ceuta",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/10/buques-guerra-marruecos.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Sindicato de Inquilinas presentará una querella por homicidio por la muerte de Maricarmen",
       "link": "https://www.mediterraneodigital.com/espana/maricarmen-urbagestion",
       "imagen": "https://www.mediterraneodigital.com/images/2026/10/mani-maricarmen.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Informe de la UCO: la cloaca de la UCO pidió «eliminar» a la jueza del caso David Sánchez",
       "link": "https://www.mediterraneodigital.com/espana/psoe-jueza-beatriz-biedma",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/mafia-psoe.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Gobierno de Sánchez aumentó un 260% las subvenciones públicas a los sindicatos",
-      "link": "https://www.mediterraneodigital.com/espana/sindicatos-ccoo-ugt-subvenciones",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/10/ccoo-ugt-yolanda-diaz.jpg",
       "tipo": "imagen"
     }
   ]
