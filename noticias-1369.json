@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Los datos de casi nueve millones de daneses, ¿expuestos por usar la contraseña 123456?",
+      "link": "https://elpais.com/tecnologia/2026-10-13/los-datos-de-casi-nueve-millones-de-daneses-expuestos-por-usar-la-contrasena-123456.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4TVTEAY77JLF5G42NUTTIAZFCA.jpg?auth=8ab02dc367f46cf9f4314c62b58565e6f2f07f36ff1f2e6b05b54d9c8fa200f1",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Así es HomeView, la última pantalla inteligente de Apple para controlar los hogares con su nueva IA",
+      "link": "https://elpais.com/tecnologia/2026-10-13/asi-es-homeview-la-ultima-pantalla-inteligente-de-apple-para-controlar-los-hogares-con-su-nueva-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7KRCO7VN2BEPFLNLSG5NP4CHJM.jpg?auth=6f7faff1b834686edefc751b9b9a126550effdddf88adc90e9f6969e0d8fb412",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Cuánta IA hay en los libros más vendidos? Mucha en novelas románticas de Amazon y en el superventas de Alvise Pérez",
       "link": "https://elpais.com/tecnologia/2026-10-13/alvise-perez-y-novelas-romanticas-autoeditadas-cuanta-ia-hay-en-los-libros-mas-vendidos-de-espana.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/P6FTECJOV5B53OPYTDOLIVWGVM.gif?auth=01a82288a7dc8ef33bf496ddee1471763e5ec36e6cf7fe639b8fec851ad9d1bb",
@@ -22,18 +34,6 @@
       "titulo": "Anthropic revela un aviso falso a la policía entre los nuevos incidentes de una IA descontrolada",
       "link": "https://elpais.com/tecnologia/2026-10-10/anthropic-revela-un-aviso-falso-a-la-policia-entre-los-nuevos-incidentes-de-una-ia-descontrolada.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/TOX3CDT3Y5LKVCYOMR4JAKE4SI.jpg?auth=75cfc6433879b0f5d705587834a650371d6e694777c355653a00207be2172404",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La política se contagia de las redes sociales: más conflicto y teatralización en el Congreso",
-      "link": "https://elpais.com/tecnologia/2026-10-10/la-politica-se-contagia-de-las-redes-sociales-mas-conflicto-y-teatralizacion-en-el-congreso.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/6LWW22BRWREGZITF6RRJJCP63M.jpg?auth=01f87c38c58c0104d89377f73d2c7cf3a2cbe20c5a3f3c5aa261f0929177e6dc",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Se puede ser cruel con una IA? Anthropic prohíbe insultar “de manera sostenida” a su ‘chatbot’ Claude",
-      "link": "https://elpais.com/tecnologia/2026-10-09/se-puede-ser-cruel-con-una-ia-anthropic-prohibe-insultar-de-manera-sostenida-a-su-chatbot-claude.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ARNK3UCLORKWVCGD34QE67TQHI.jpg?auth=90d236167853dd8631795f44358753fb541e53b5e296cac5b9c6b09d7486def4",
       "tipo": "imagen"
     }
   ]

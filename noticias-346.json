@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Apple anuncia el Home View, su primer altavoz inteligente con pantalla",
+      "link": "https://www.abc.es/tecnologia/apple-anuncia-home-view-primer-altavoz-inteligente-20261013161719-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/13/homeview-RWdYZ9Oblqyq1ws6xKfw5GN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Anthropic alerta de que la IA podrá autorreplicarse dentro de poco",
+      "link": "https://www.abc.es/tecnologia/anthropic-alerta-ia-podra-autorreplicarse-dentro-poco-20261013123800-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/13/1518383283-RUWlImMPyXk3s6TPHozZwsO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El rabino que aconseja a Anthropic se rebela contra la humanización de la IA: «Es como crear un esclavo»",
       "link": "https://www.abc.es/tecnologia/rabino-aconseja-anthropic-rebela-humanizacion-ia-crear-20261011013820-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/11/mois-navon-R5BFLqKn3d0JrJplWphbthP-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Google da el siguiente paso con Gemini: su IA ya puede trabajar como un empleado más",
       "link": "https://www.abc.es/tecnologia/google-siguiente-paso-gemini-ia-puede-trabajar-20261009184334-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/09/mujer-trabajadora-oficina-RemMreBQmZN5auudKCPc8RM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Acusan a TikTok de poner en peligro a los niños con pruebas secretas que afectan a su seguridad",
-      "link": "https://www.abc.es/tecnologia/acusan-tiktok-poner-peligro-ninos-pruebas-secretas-20261009134325-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/09/1518332125-Rd2Frzf2MrIst3ebBQQlUdN-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Trump afirma que cualquiera no llame «superinteligencia» a la IA es «el enemigo»",
-      "link": "https://www.abc.es/tecnologia/trump-afirma-llame-superinteligencia-ia-enemigo-20261008195828-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/08/1518439115-kSWC-U302141821879xAE-1200x840@diario_abc.JPG",
       "tipo": "imagen"
     }
   ]

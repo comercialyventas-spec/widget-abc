@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "El Roto: combatir los bulos",
+      "link": "https://elpais.com/opinion/2026-10-13/el-roto-combatir-los-bulos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/DI4MY4UUTZHZ5IWID4UJDAB73U.jpg?auth=96dd343caa4ef614ad33dc931d3349c7fe763a9b90802949d952308dfb5490d6&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Flavita Banana: astas",
+      "link": "https://elpais.com/opinion/2026-10-13/flavita-banana-astas.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XWWPSTXNYBAZVHP6UKQC5V4AJY.jpg?auth=912d56da8c82f516ff9bc0c4de9b3babaa27610c81be5abda908ded5f20462b8&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Peridis: ¿Abuelo o nieto?",
+      "link": "https://elpais.com/opinion/2026-10-13/peridis-abuelo-o-nieto.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/BZJJJ3TYZJDINIATQ7MY4HFLMI.jpg?auth=96e2323be5b0cb11aa65e36e67e0bf12120d233218824a32b39a344d860d64a2&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Roto: la bandera",
       "link": "https://elpais.com/opinion/2026-10-12/el-roto-la-bandera.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/OFWOGORQQZAQRHES3RCNWLBT4Y.jpg?auth=39648ca728074fcfbdef73b34fdb6601f0f8e2caff6299e75cacb365dfde61cc&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/OFWOGORQQZAQRHES3RCNWLBT4Y.jpg?auth=39648ca728074fcfbdef73b34fdb6601f0f8e2caff6299e75cacb365dfde61cc&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "Riki Blanco: autorretratos",
       "link": "https://elpais.com/opinion/2026-10-12/riki-blanco-autorretratos.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/EOKRYD3AFRCFTJ3VEDYQMIJDOE.jpg?auth=477f1354b8e8a70a80e3691182d683922ec844f3d02ca1c5c7fd0ca5a5f3ff5d&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Navi Pillay, por Sciammarella",
-      "link": "https://elpais.com/opinion/2026-10-12/navi-pillay-por-sciammarella.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ZUB5JG2RARDEHMNQREWA466PWQ.jpg?auth=95fe2f71998c088b71f5f05b25007912c491ea623c3d04a3541f9b20a48dabb9&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Roto: no se puede hablar",
-      "link": "https://elpais.com/opinion/2026-10-11/el-roto-no-se-puede-hablar.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/R6ZHUD4OVBABJFZEQK6CZLBIQM.jpg?auth=4e7d2ba70012c7a4ffc90ea18d5d0765a0e13ec5bf722c465c165fc9c2efb6fd&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Peridis: por fin",
-      "link": "https://elpais.com/opinion/2026-10-11/peridis-por-fin.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/PM5JHT7UNJDEZJL2VM7GWQMQNY.jpg?auth=41d773308bfa0f23185c8953da803a42e0c9c179145ac3c3b28f38ecb9919ad3&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Especial BBC: el desértico campo de batalla donde se libra una guerra con consecuencias globales",
-      "link": "https://www.bbc.com/mundo/articles/cmg471q9wrd4o",
-      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a93f/live/b2d62fe0-c62f-11f1-a64c-550be9e3c66b.jpg",
+      "titulo": "\"Niñas de 3 años contagiadas de VIH\": la indignación en Perú por las más de 1.000 víctimas de abuso sexual infantil que no han sido atendidas por la justicia",
+      "link": "https://www.bbc.com/mundo/articles/cmp3g15gggjeo",
+      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4ccf/live/4ce89810-c70d-11f1-9783-ed95709f9dec.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "\"No podemos seguir diciendo que no existe un sesgo de género en los premios Nobel, porque estadísticamente sí existe\"",
+      "link": "https://www.bbc.com/mundo/articles/cr1exnelj2vxo",
+      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7c54/live/8283b8b0-c6ef-11f1-bc1b-8dfa7c975faa.jpg",
       "tipo": "imagen"
     },
     {
@@ -13,27 +19,21 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Un ciberataque contra neveras y congeladores de cientos de supermercados de Francia provoca pérdidas millonarias",
-      "link": "https://www.bbc.com/mundo/articles/c6wydn1pvznqo",
-      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e93f/live/87a53450-c68f-11f1-9d07-7b9f572bd1c7.jpg",
+      "titulo": "\"Te extrañaré, hijo\": la emotiva despedida de Bryan Cranston tras la muerte de RJ Mitte, su compañero en \"Breaking Bad\"",
+      "link": "https://www.bbc.com/mundo/articles/ck0j0z4jp0n7o",
+      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9d0b/live/7a961ad0-c6f9-11f1-b4dd-e786ec6f11b1.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Muere a los 34 años RJ Mitte, el actor que daba vida al hijo de Walter White en la mítica serie \"Breaking Bad\"",
-      "link": "https://www.bbc.com/mundo/articles/cm4g1r51eex1o",
-      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/170f/live/485e1710-c682-11f1-841c-2105a54cdb08.jpg",
+      "titulo": "Cómo \"Breaking Bad\" y RJ Mitte cambiaron la percepción sobre la parálisis cerebral",
+      "link": "https://www.bbc.com/mundo/articles/c6lye2xke7ndo",
+      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0dfc/live/ec4d59b0-c6f7-11f1-b4dd-e786ec6f11b1.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Digger: la nueva película de Tom Cruise se proyecta como uno de los mayores fracasos en la historia de Hollywood",
-      "link": "https://www.bbc.com/mundo/articles/cm2l4j5p7dx9o",
-      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e226/live/539ab580-c64f-11f1-b47f-e3f9cf703bc3.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un muerto y varios heridos tras un accidente en una montaña rusa de un parque Six Flags en EE.UU.",
-      "link": "https://www.bbc.com/mundo/articles/crly0134j51xo",
-      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eb02/live/12f052c0-c6c6-11f1-a64c-550be9e3c66b.jpg",
+      "titulo": "En video | \"¿Es una broma?”: las llamadas de emergencia durante la fallida ejecución de Christa Pike en EE.UU.",
+      "link": "https://www.bbc.com/mundo/articles/cjqln692r767o",
+      "imagen": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/04dc/live/aaf3dec0-c70c-11f1-a64c-550be9e3c66b.jpg",
       "tipo": "imagen"
     }
   ]

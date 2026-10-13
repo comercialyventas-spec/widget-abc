@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La Bluewave Alliance y Studio 46 presentan la exposición 'El mar recuerda', que reivindica el Mediterráneo como un archivo vivo",
+      "link": "https://www.elconfidencial.com/cultura/2026-10-13/mar-recuerda-exposicion-mediterraneo-1hms-1svm_4443976/",
+      "imagen": "https://images.ecestaticos.com/xrB7xrT-VVA1Ii0925xZNmR68ds=/0x0:1200x800/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc32%2F4ad%2Fdc6%2Fc324addc6b058555a5bc476a5440835a.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "De un beso en París a las cicatrices de Warhol: 200 años de historia de la fotografía en 700 imágenes",
+      "link": "https://www.elconfidencial.com/cultura/2026-10-13/coleccion-pinault-200-anos-fotografia-700-obras-bourse-de-commerce_4441943/",
+      "imagen": "https://images.ecestaticos.com/6o7-ika2RvKGOXJYh0uqE9jHXZM=/0x0:720x361/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe36%2Fa14%2F121%2Fe36a141212465af86161878ac138a46b.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Esta cronología histórica afirma que el arte generativo comenzó en una cueva hace 73.000 años",
       "link": "https://www.elconfidencial.com/tecnologia/novaceno/2026-10-13/l-arte-generativo-comenzo-en-una-cueva-hace-73-000-anos_4442057/",
       "imagen": "https://images.ecestaticos.com/HAk3IktnAnJty_zGpDO7uORy6ao=/0x0:1800x1350/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4f1%2F73e%2F848%2F4f173e848d7ebc7879c3617d42721d54.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Encuentran los dos cuadros de Renoir robados de su museo en Cagnes-sur-Mer (Francia)",
       "link": "https://www.elconfidencial.com/cultura/2026-10-09/cuadros-renoir-recuperados-robo-museo-1tps_4441926/",
       "imagen": "https://images.ecestaticos.com/UuZd_uAFegQVWdHpfuHpHV5rc-A=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3b5%2Fb8b%2F4b3%2F3b5b8b4b375f2ca64b495a2289bb3faf.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Faro Santander desvela un Goya inédito en la apertura de su cuarta planta",
-      "link": "https://www.elconfidencial.com/cultura/2026-10-08/goya-inedito-faro-santander-bra_4436951/",
-      "imagen": "https://images.ecestaticos.com/H0xAklRMUp63nqd6PHwQ1ivpeA8=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7cd%2Fbf9%2Fac0%2F7cdbf9ac0f3eca985353b45fe630bee5.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Injuve reúne en Madrid a dos generaciones de la escena contemporánea en las jornadas 'Ópera Prima'",
-      "link": "https://www.elconfidencial.com/cultura/2026-10-06/injuve-jornadas-escenicas-opera-prima_4439377/",
-      "imagen": "https://images.ecestaticos.com/ZPUdp7vsfF-cPalwZkSzJpcNjy8=/0x0:1080x1303/746x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd6b%2Fc32%2Fd26%2Fd6bc32d26de4574f4bb156888da24293.jpg",
       "tipo": "imagen"
     }
   ]

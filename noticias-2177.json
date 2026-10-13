@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Apple presenta el HomePod mini 2: más colores, audio envolvente y control del hogar por voz",
+      "link": "https://www.elperiodico.com/es/tecnologia/20261013/apple-presenta-homepod-mini-2-135290442",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/86281041-b375-494e-9b81-fc623cad6441_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Whatsapp permitirá programar mensajes, fotos y vídeos",
+      "link": "https://www.elperiodico.com/es/tecnologia/20261013/whatsapp-permitira-programar-mensajes-fotos-videos-dv-135280168",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d2e4b7ad-75af-48a1-b717-bc22e813202d_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El magnate que asesora a Trump sobre IA y guerra pide realizar ejecuciones públicas: \"Tienen que ser brutales\"",
       "link": "https://www.elperiodico.com/es/internacional/20261012/brutales-magnate-asesora-trump-ia-guerra-ejecucion-eeuu-palmer-luckey-anduril-pentagono-musk-135253638",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/1ad5ba3d-91b6-407b-91d1-05889b2c2442_media-libre-aspect-ratio_default_0.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Anker MagGo 2 Pro: la batería externa magnética que carga el iPhone rápido sin calentarse",
       "link": "https://www.elperiodico.com/es/tecnologia/20261010/anker-maggo-2-pro-bateria-135204257",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/3c3db61a-a13d-436c-9e36-1a57f18e121f_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Apple Watch Series 12: el reloj que convierte la salud en una conversación diaria",
-      "link": "https://www.elperiodico.com/es/tecnologia/20261010/apple-watch-series-12-precio-caracteristicas-135200906",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2951cfa0-ef96-46a1-b932-462fc76ee196_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "\"Es vergonzoso\": el adelanto electoral debilita (aún más) la ciberseguridad de España",
-      "link": "https://www.elperiodico.com/es/politica/20261008/vergonzoso-adelanto-electoral-debilita-ciberseguridad-espana-ciberataques-ley-ue-135087190",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/5ff8f49c-ee1c-4632-9e89-339646cf4440_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

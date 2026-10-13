@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "El petróleo de Texas baja un 1,24 %, hasta los 92,58 dólares el barril",
+      "link": "https://www.elconfidencial.com/mercados/2026-10-13/petroleo-wti-ataques-arabia-saudi-1tps_4444000/",
+      "imagen": "https://images.ecestaticos.com/K6lSrgdsU2bd8WBQpXemYKqBwMk=/0x0:2272x1734/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F9eb%2F275%2F599%2F9eb275599f571af1e35c800816aca983.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Berkeley corta su remontada (-3,87%) pero suma aún un 90% en octubre",
+      "link": "https://www.elconfidencial.com/mercados/2026-10-13/se-dispara-un-120-berkeley-mineria_4443996/",
+      "imagen": "https://images.ecestaticos.com/hAVOYvj6bddtwgjhBWqFO-mjeCM=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F412%2Fcaf%2Fc86%2F412cafc8610717768cde5adcd98ca445.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La rentabilidad bruta de comprar vivienda para alquilar cae al 6,2% en el tercer trimestre, según Idealista",
+      "link": "https://www.elconfidencial.com/mercados/2026-10-13/rentabilidad-inmobiliaria-alquiler-vivienda-1tps_4443865/",
+      "imagen": "https://images.ecestaticos.com/EakB7TE8P8NC3oXGHXG4-posKJw=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc78%2F4ce%2F54d%2Fc784ce54d6dc612ac19a7ffe769c7b55.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Berkeley vuela un 60% en bolsa en solo seis días (y es por el anuncio de elecciones)",
       "link": "https://www.elconfidencial.com/mercados/2026-10-09/berkeley-vuela-un-60-en-bolsa_4441746/",
       "imagen": "https://images.ecestaticos.com/ZoG35eGaDHA74YJf4X1oHO3DmY0=/0x0:2272x1387/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F625%2F583%2F8ed%2F6255838ede29c6cc99db87f916edb666.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Self Bank sube la rentabilidad de sus depósitos a tres y seis meses al 2,55% TAE",
       "link": "https://www.elconfidencial.com/mercados/2026-10-09/self-bank-mejora-rentabilidad-depositos-1hms_4441641/",
       "imagen": "https://images.ecestaticos.com/u6_cOGiyGdChOf9OhShFjIVXn2M=/0x0:2272x1299/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F057%2F31d%2F879%2F05731d8795e19b9ca06cadb62a85eec9.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Openbank rompe el mercado de las cuentas remuneradas y depósitos para competir con los neobancos",
-      "link": "https://www.elconfidencial.com/mercados/2026-10-08/openbank-cuenta-remunerada-deposito-tipos-de-interes_4440467/",
-      "imagen": "https://images.ecestaticos.com/NMhnvqk1FSxbcECLfZiZu-3T14M=/0x0:2000x1333/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F24a%2F86a%2F4ad%2F24a86a4adcb722da0c6259b6e5c961bf.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La minera española Abenójar Tungsten anuncia sus planes de salir a bolsa en Londres",
-      "link": "https://www.elconfidencial.com/mercados/2026-10-07/minera-espanola-abenojar-tungsten-londres_4440179/",
-      "imagen": "https://images.ecestaticos.com/SJeBLhlvvHyP82QIuqdxvC48LDs=/0x0:2272x1374/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F476%2F2bb%2Fb3e%2F4762bbb3e3df8d0e1cda8332d4c1b733.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Kutxabank eleva al 3,1% la rentabilidad de su cuenta de ahorro el primer año y al 0,75% el segundo",
-      "link": "https://www.elconfidencial.com/mercados/2026-10-07/kutxabank-rentabilidad-mejora-cuenta-remunerada-ahorro-rentable-1hms_4439935/",
-      "imagen": "https://images.ecestaticos.com/TZOXFMrBGHz446FQ_146v-0AYuA=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ffcd%2F089%2Fdae%2Ffcd089dae5fd2893560c3eecd7fe4a05.jpg",
       "tipo": "imagen"
     }
   ]

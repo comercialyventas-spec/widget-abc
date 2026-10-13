@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de El Cañaveral",
+      "link": "https://nuevosureste.es/curiosidades-callejero-el-canaveral/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/07/Canaveral-callejero-400x250.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Qué buscan hoy las familias cuando eligen colegio? Claves para decidir el futuro de sus hijos",
       "link": "https://nuevosureste.es/colegio-el-valle-elegir-colegio/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/Octubre-1-400x250.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Inma Sanz, vicealcaldesa de Madrid: “El sureste de Madrid es el futuro de la ciudad”",
       "link": "https://nuevosureste.es/clausura-jornada-surestelab/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/SuresteLab-2026-044-400x250.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Surestelab: El bloqueo eléctrico y la tramitación urbanística centran las preocupaciones para el desarrollo de vivienda en Madrid",
-      "link": "https://nuevosureste.es/surestelab-mesa-redodna/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/SuresteLab-2026-033-400x250.jpg",
       "tipo": "imagen"
     }
   ]

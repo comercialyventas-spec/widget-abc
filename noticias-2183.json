@@ -1,7 +1,25 @@
 {
   "noticias": [
     {
-      "titulo": "El agua del pantano de la Torrassa se tiñe de verde fluorescente por unas algas potencialmente tóxicas",
+      "titulo": "Durmiendo con lobos’, un documental para entender mejor la especie tras su desprotección",
+      "link": "https://www.elperiodico.com/es/medio-ambiente/20261013/durmiendo-lobos-documental-entender-especie-desproteccion-135282955",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/4a40b3f7-768e-4110-b5f4-1b073d304e6b_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Antonio Turiel: Vamos a tener menos energía y habrá un declive industrial: no podemos hacer nada para evitarlo",
+      "link": "https://www.elperiodico.com/es/medio-ambiente/20261013/antonio-turiel-energia-declive-industrial-135282664",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/c146131e-4025-41b2-a39e-76651f5d335d_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La idea de reintroducir el lince boreal en los Pirineos suma apoyos",
+      "link": "https://www.elperiodico.com/es/sociedad/20261013/reintroducir-lince-boreal-pirineos-cataluna-135276501",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7aceb5b8-3420-4f33-aa99-bec23337f592_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El agua del pantano de la Torrassa se tiñe de verde fluorescente por la presencia de cianobacterias",
       "link": "https://www.elperiodico.com/es/sociedad/20261013/agua-pantano-torrassa-verde-cianobacterias-algas-toxicas-135268189",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8b574e38-ab54-4264-9ada-2e8576571592_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
@@ -16,24 +34,6 @@
       "titulo": "TMB planea adaptar la red del metro de Barcelona ante los futuros episodios de lluvias torrenciales",
       "link": "https://www.elperiodico.com/es/barcelona/20261012/metro-barcelona-adaptacion-red-episodios-lluvias-torrenciales-135182367",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8f98d6bd-0b98-4a40-b6a0-696fe170a97a_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los gobiernos tienen ya identificados los riesgos climáticos pero la ejecución de las medidas avanza al ralentí",
-      "link": "https://www.elperiodico.com/es/sociedad/20261012/fenomenos-extremos-lluvias-torrenciales-cambio-climatico-planes-adaptacion-ciudades-espana-135168096",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/da12e542-ccdb-46d4-b15b-33119d9ddbc7_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Estos son los dos mosquitos más peligrosos que pueden picarnos en España",
-      "link": "https://www.elperiodico.com/es/medio-ambiente/20261011/son-mosquitos-peligrosos-picarnos-espana-118904268",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/e20f42ef-d306-46ad-a6b6-1d4d9f2d02b3_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Catalunya ya ha derribado 30 pequeñas presas para reconectar ríos: \"Se reduce la fuerza de las riadas\"",
-      "link": "https://www.elperiodico.com/es/sociedad/20261011/cataluna-derriba-presas-reconectar-rios-135096383",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2e05aa4d-e87c-423a-ab1c-8f8500ee42ed_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

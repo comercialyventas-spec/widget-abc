@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "Miami celebra el Dia de la Hispanidad con mucho arte digital en la calle",
-      "link": "https://www.rtve.es/noticias/20261012/miami-dia-hispanidad-arte-digital-calle/17263016.shtml",
-      "imagen": "https://img.rtve.es/n/17263016?w=1600",
+      "titulo": "Ricardo de Madrazo se reivindica con sus acuarelas y dibujos en el Museo del Prado",
+      "link": "https://www.rtve.es/noticias/20261013/ricardo-madrazo-reivindica-acuarelas-dibujos-museo-prado/17264366.shtml",
+      "imagen": "https://img.rtve.es/n/17264366?w=1600",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Paul Bettany estrena 'VisionQuest': \"Intentar detener la IA es como intentar frenar la revolución industrial\"",
+      "link": "https://www.rtve.es/noticias/20261013/paul-bettany-estrena-visionquest-intentar-detener-ia-como-intentar-frenar-revolucion-industrial/17255129.shtml",
+      "imagen": "https://img.rtve.es/n/17255129?h=400",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Vari Caramés, Premio Nacional de Fotografía 2026",
+      "link": "https://www.rtve.es/noticias/20261013/vari-carames-premio-nacional-fotografia-2026/17264557.shtml",
+      "imagen": "https://img.rtve.es/n/17264557?h=400",
       "tipo": "imagen"
     },
     {
@@ -13,27 +25,15 @@
       "tipo": "imagen"
     },
     {
+      "titulo": "Miami celebra el Día de la Hispanidad con mucho arte digital en la calle",
+      "link": "https://www.rtve.es/noticias/20261012/miami-dia-hispanidad-arte-digital-calle/17263016.shtml",
+      "imagen": "https://img.rtve.es/n/17263016?w=300",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cervera de Pisuerga, en el corazón de la fotografía: tercer episodio de 'Las islas de Piedad'",
       "link": "https://www.rtve.es/play/noticias/20261012/cervera-pisuerga-corazon-fotografia-islas-piedad/17262405.shtml",
       "imagen": "https://img.rtve.es/a/17260541?w=300",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Peter Jackson, gran premio honorífico en Sitges: \"Este es mi festival de cine preferido\"",
-      "link": "https://www.rtve.es/noticias/20261011/peter-jackson-gran-premio-honorifico-sitges-este-festival-cine-preferido/17262274.shtml",
-      "imagen": "https://img.rtve.es/v/17262691?w=300",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Yuval Abraham, director de 'NAZA': \"La mayor parte de Israel está ignorando o justificando algo inhumano\"",
-      "link": "https://www.rtve.es/noticias/20261009/yuval-abraham-director-naza-mayor-parte-israel-esta-ignorando-justificando-algo-inhumano/17260846.shtml",
-      "imagen": "https://img.rtve.es/n/17260846?w=300",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "RTVE.es estrena el tráiler de '200 Vidas. Paco Rabal', un documental que celebra el centenario del actor",
-      "link": "https://www.rtve.es/noticias/20261009/rtvees-estrena-trailer-200-vidas-paco-rabal-documental-celebra-centenario-del-actor/17260421.shtml",
-      "imagen": "https://img.rtve.es/v/17260431?w=300",
       "tipo": "imagen"
     }
   ]

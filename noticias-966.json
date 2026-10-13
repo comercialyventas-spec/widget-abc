@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "La trampa",
+      "link": "https://elpais.com/television/series/la-trampa/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4MB4GM2W2VB2HF74J7F6LKRTPU.png?auth=6a68c7095cd91f48c6e5596b2ad42b19dfa5ffd13d662ef28eacdb86c07c660c",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Netflix adquiere los derechos exclusivos para España del Mundial de fútbol 2030",
+      "link": "https://elpais.com/television/2026-10-13/netflix-adquiere-los-derechos-exclusivos-para-espana-y-andorra-del-mundial-de-futbol-2030.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SEQHPI4NDZB5PDJWIYPOVYS3A4.jpg?auth=f7613bb10799f2f3c6581f2647519ff099d238821603dcb5d0d14dfe0584b136",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "‘El Rosco’ en inglés y en español con Christian Gálvez: el concurso busca casa internacional",
+      "link": "https://elpais.com/television/2026-10-13/el-rosco-en-ingles-y-en-espanol-con-christian-galvez-el-concurso-busca-casa-internacional.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/UPONSB7MD5FNXEHIB4PS7ARJQQ.jpg?auth=4463d1852f8446f3640b665c27f243f8ee2a2ac91d52f578ce219520a22b4f99",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Siempre han vivido en ‘El castillo’, la serie del año",
       "link": "https://elpais.com/television/series/2026-10-13/siempre-han-vivido-en-el-castillo.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260924/1218162_161205_video_1800.mp4",
@@ -16,24 +34,6 @@
       "titulo": "Muere RJ Mitte, el actor que era el hijo de Walter White en ‘Breaking Bad’, a los 34 años",
       "link": "https://elpais.com/us/entretenimiento/2026-10-12/muere-rj-mitte-el-actor-que-era-el-hijo-de-walter-white-en-breaking-bad-a-los-34-anos.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261012/1224614_224734_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sheriff Country",
-      "link": "https://elpais.com/television/series/sheriff-country/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/LINAQGKJ7VDYDCWZO2A6N2VQK4.WEB?auth=179e6f1c6f40ab8104d4dea6409b69456589bdfd4a18311fa8e7e46cf886e1e9",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Bárbara sin Rey",
-      "link": "https://elpais.com/television/2026-10-12/barbara-sin-rey.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/I43G6L37DJJXHPI7Z2NXAVN3RI.jpg?auth=929b422922b06f0f4a7293fdb9033aa96db8931e557f5a9d334d0bede608de26",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Carlos García Miranda revive clásicos juveniles como ‘Física o química’: “Los adolescentes tienen un móvil para todas sus preguntas, pero no siempre da la mejor respuesta”",
-      "link": "https://elpais.com/television/2026-10-12/carlos-garcia-miranda-el-guionista-que-revive-clasicos-juveniles-como-fisica-o-quimica-los-adolescentes-tienen-un-movil-para-todas-sus-preguntas-pero-no-siempre-da-la-mejor-respuesta.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/S34UOMCU3JB4VAI42FH6WDN3FU.jpg?auth=7c5f493c4ba4439916abe8185bd3795ce8c274c289eccdfcea189c22c4470064",
       "tipo": "imagen"
     }
   ]
