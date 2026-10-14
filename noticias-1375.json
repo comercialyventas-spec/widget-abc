@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "Cambio brusco de tiempo: bajón térmico y lluvias muy fuertes en la fachada mediterránea peninsular y Baleares",
+      "titulo": "El Tribunal de Estrasburgo aclara que no ha avalado la “personalidad jurídica ecológica” del Mar Menor",
+      "link": "https://elpais.com/clima-y-medio-ambiente/2026-10-14/el-tribunal-de-estrasburgo-aclara-que-no-ha-avalado-la-personalidad-juridica-ecologica-del-mar-menor.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/MAEGPXNG65EONEFYCCNUWFS2VM.jpg?auth=85ca95f242365031235d752c7137f5075dd2d1f5c31874476dc4238d38d0a8b0",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El calentamiento se acelera: “Estamos generando un sistema que no vamos a poder controlar, como con la IA”",
+      "link": "https://elpais.com/clima-y-medio-ambiente/2026-10-14/el-calentamiento-se-acelera-estamos-generando-un-sistema-que-no-vamos-a-poder-controlar-como-con-la-ia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/35NC6CK7AFI47CPVVHCRPH5UZQ.jpg?auth=f4906d12024e996c15b8c877d228769edf86f501ed7d7965ba1654e0bfc4720d",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cambio brusco de tiempo: bajón térmico y lluvias muy fuertes en el Mediterráneo peninsular y Baleares",
       "link": "https://elpais.com/el-tiempo/2026-10-14/cambio-brusco-de-tiempo-bajon-termico-y-lluvias-muy-fuertes-en-la-fachada-mediterranea-peninsular-y-baleares.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/PDJE6YIHCVBQZFZWQPPCLVKLCA.jpg?auth=8d7d0be9c95ac37d8987c212a2953d847c3b226205f0702b368ca5563bd4acd1",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Doñana recibirá por fin las ayudas para eliminar cultivos ilegales y regenerar el acuífero",
+      "link": "https://elpais.com/clima-y-medio-ambiente/2026-10-14/donana-recibira-por-fin-las-ayudas-para-eliminar-cultivos-ilegales-y-regenerar-el-acuifero.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/77X6I3TAIVA7XJ4MD252374IPQ.jpg?auth=b34fa40ca0835b372199d2afb478a57f498870dacabc99609241b90b238cd4d4",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "Los coches eléctricos ahorran 20.000 millones a los países importadores de petróleo desde el inicio de la crisis de Ormuz",
       "link": "https://elpais.com/clima-y-medio-ambiente/2026-10-13/los-coches-electricos-ahorran-20000-millones-a-los-paises-importadores-de-petroleo-desde-el-inicio-de-la-crisis-de-ormuz.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/RW6LLEIVPBH6PKPXRLT3FVUHQE.JPG?auth=222d6c6e296a45e7772cb1f2931cb432fd0c32d7a136f0061f59d322c03ecaed",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un otoño con temperaturas hasta 10° por encima de lo normal: 34° en Sevilla, 28° en Madrid y 25° en Bilbao",
-      "link": "https://elpais.com/el-tiempo/2026-10-13/un-otono-con-temperaturas-hasta-10-por-encima-de-lo-normal-34-en-sevilla-28-en-madrid-y-25-en-bilbao.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/OUCILSG46VLNNI373OCGPP5GDA.jpg?auth=f590d1296c8d77c710020ec45de8a044494a08725ed4310007e9f777846200d6",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Mar Menor está ya personado como víctima en 14 procesos judiciales contra agricultores, campos de golf y complejos turísticos",
-      "link": "https://elpais.com/clima-y-medio-ambiente/2026-10-13/el-mar-menor-esta-ya-personado-como-victima-en-14-procesos-judiciales-contra-agricultores-campos-de-golf-y-complejos-turisticos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/2HZ3ABJ26NAYNGHQPC5JSLH2NY.jpg?auth=b2132961573514313cb80c12a085aa9540ad560cc5a13b5a803e9550cd49e3b3",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Cuál es el coste ambiental de las residencias como las de Shakira o Bad Bunny? En vez de mover a un artista, que viajen 700.000 personas",
-      "link": "https://elpais.com/clima-y-medio-ambiente/2026-10-12/cual-es-el-coste-ambiental-de-las-residencias-como-las-de-shakira-o-bad-bunny-en-vez-de-mover-a-un-artista-que-viajen-700000-personas.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/PNIJY5EJVFDN7AXQGVRRB26UYM.JPG?auth=b81dfb266ee043e0765bd76d42b422090a49be85ff523a2a339f2ce23f0b2565",
       "tipo": "imagen"
     }
   ]

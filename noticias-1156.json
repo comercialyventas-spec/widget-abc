@@ -1,8 +1,26 @@
 {
   "noticias": [
     {
+      "titulo": "El Baskonia destituye a Paolo Galbiati en el inicio de campaña",
+      "link": "https://elpais.com/noticias/liga-acb/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QLPZ7EXCNBMI5FP2ZR4PMEA2QU.jpg?auth=0da962eb46eb0d723b94cc00b9c3775b635fc43b32a51f1bee9e6f6e5bcda39b&width=414&height=233&focal=2895%2C1209",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "NBA, Roland Garros y, ahora, el Mundial de fútbol: el deporte en directo se convierte en la gran apuesta de las plataformas de ‘streaming’ en España",
+      "link": "https://elpais.com/television/2026-10-14/juegos-olimpicos-nba-roland-garros-y-ahora-el-mundial-de-futbol-el-deporte-en-directo-se-convierte-en-la-gran-apuesta-de-las-plataformas-de-streaming-en-espana.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/CCBUZ2BSNJJWBMYHBHFJZSNFZI.jpg?auth=692d8242a0f28a319a2181228a2eb8da7bc930dba86c2cf04fe7f540d3abf3f1&width=1200",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Jean Montero congela el Roig Arena en la victoria de Olympiacos contra el Valencia (97-102)",
+      "link": "https://elpais.com/deportes/baloncesto/2026-10-13/jean-montero-congela-el-roig-arena-en-la-victoria-de-olympiacos-contra-el-valencia-97-102.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/C7KJPW4A7RNRPESGZAYEUBP764.jpg?auth=6e0d6cde587a62f40752dbfcf7921ed473a5b012636f76a931848fa895a96728&width=1200",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Jornada 5 de la Euroliga: horarios, resultados de los partidos y resumen",
-      "link": "https://elpais.com/noticias/euroliga/",
+      "link": "https://elpais.com/deportes/baloncesto/2026-10-13/jornada-5-de-la-euroliga-horarios-resultados-de-los-partidos-y-resumen.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/W2VPA6BXJNPPNJ2JQ6TRC5JQZ4.jpg?auth=5ee9bd8018423c58b4c8e839afca7b1d1176bcb5911dcf772cddb2dd2bc8765c&width=414&height=233&focal=2538%2C1506",
       "tipo": "imagen"
     },
@@ -14,26 +32,8 @@
     },
     {
       "titulo": "El Barcelona tira por la borda una victoria contra Zalgiris en el último cuarto",
-      "link": "https://elpais.com/deportes/baloncesto/2026-10-09/el-barcelona-tira-por-la-borda-una-victoria-contra-zalgiris-en-el-ultimo-cuarto.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/HRYGNBWO7RO5PMTH44TMFLLALU.jpg?auth=3b55cbebfeeaa7b94ba0869efefa20b1ef5cc1485a70b0c9661e9924fef3d763&width=1200",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Jornada 4 de la Euroliga: horarios, resultados de los partidos y resumen",
-      "link": "https://elpais.com/deportes/baloncesto/2026-10-07/jornada-4-de-la-euroliga-horarios-resultados-de-los-partidos-y-resumen.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/EQ743R7ZTRNUXFEO6EV76APDDY.jpg?auth=bb38bb15667bf54da216641c644f5a17ca9b73264695bdbcfd37ea2b82035e16&width=414&height=233&focal=1861%2C840",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Real Madrid respira en la Euroliga tras vencer en casa al Partizan",
-      "link": "https://elpais.com/deportes/baloncesto/2026-10-08/el-real-madrid-respira-en-la-euroliga-tras-vencer-en-casa-al-partizan.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ZC6XFZSB2FJQFPZEFSDV62TSRE.jpg?auth=0e88f169f11404d045f5e25a0ccf77bf72ee97939008f24efa43110394097d6d&width=1200",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La estrella de la NBA Shai Gilgeous-Alexander entra como accionista del Atlético de Madrid: “Estoy emocionado, agradezco la oportunidad”",
-      "link": "https://elpais.com/noticias/baloncesto/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/4TBK3HPM6JLHVD5OI3TFFUTNUA.jpg?auth=4a1b6d54ef4ed5c4a964b2d845c0f959ba86f8aa7ba28ea077d365a1ea766ae0&width=414&height=233&smart=true",
+      "link": "https://elpais.com/noticias/euroliga/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/HRYGNBWO7RO5PMTH44TMFLLALU.jpg?auth=3b55cbebfeeaa7b94ba0869efefa20b1ef5cc1485a70b0c9661e9924fef3d763&width=414&height=233&focal=2958%2C1981",
       "tipo": "imagen"
     }
   ]

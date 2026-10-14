@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El caballo que levita sobre Madrid: la estatua sin jinete que habla de la incertidumbre del porvenir",
+      "link": "https://www.eldiario.es/madrid/somos/caballo-levita-madrid-estatua-ecuestre-jinete-habla-incertidumbre-porvenir_1_13583960.html",
+      "imagen": "https://static.eldiario.es/clip/072bbaa5-b19b-49b5-b5b5-d3e617cea8f4_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Museo Sorolla inaugura su ampliación en un antiguo taller, mientras la casa seguirá en obras de forma indefinida",
+      "link": "https://www.eldiario.es/cultura/arte/museo-sorolla-inaugura-ampliacion-antiguo-taller-casa-seguira-obras-forma-indefinida_1_13584730.html",
+      "imagen": "https://static.eldiario.es/clip/2dc48c52-6219-4f79-9200-3eba7a2a5b90_16-9-discover-aspect-ratio_default_1153286.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Halloween 2026 en Chamberí: ruta de truco o trato, mapa y formulario de inscripción para comercios",
       "link": "https://www.eldiario.es/madrid/somos/chamberi/halloween-2026-chamberi-ruta-truco-trato-mapa-formulario-inscripcion-comercios_1_13582880.html",
       "imagen": "https://static.eldiario.es/clip/5fc07669-b728-43a6-b92e-ba6bee70def2_16-9-discover-aspect-ratio_default_0.jpg",
@@ -13,27 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Canciones para el déficit de empatía",
-      "link": "https://www.eldiario.es/madrid/somos/rivas/canciones-deficit-empatia_1_13579136.html",
-      "imagen": "https://static.eldiario.es/clip/3e98d53f-0523-473c-a37b-f0348226123f_16-9-discover-aspect-ratio_default_0_x1072y400.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Siete siglos en el infierno de Dante: Fundación Canal reúne las obras de Doré y Rauschenberg en una exposición gratis",
-      "link": "https://www.eldiario.es/madrid/somos/agenda/siete-siglos-infierno-dante-fundacion-canal-reune-obras-dore-rauschenberg-exposicion-gratis_1_13571245.html",
-      "imagen": "https://static.eldiario.es/clip/d891b5dc-2ae9-4b29-848b-b3c79264b78b_16-9-discover-aspect-ratio_default_1153017.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Qué hacer en Madrid este fin de semana",
       "link": "https://www.eldiario.es/guia-ocio/que-hacer-fin-semana-madrid_1_9005597.html",
       "imagen": "https://static.eldiario.es/clip/71831d95-f3d1-469d-ad4b-216f2a3354fa_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Cruz Novillo, la exposición del hombre que diseñó España: de la síntesis a la obra de arte más larga del mundo",
-      "link": "https://www.eldiario.es/madrid/somos/agenda/cruz-novillo-exposicion-hombre-diseno-espana-sintesis-obra-arte-larga-mundo_1_13572786.html",
-      "imagen": "https://static.eldiario.es/clip/71c1a81b-05d2-4cd2-9752-9ee263b46283_16-9-discover-aspect-ratio_default_0.jpg",
+      "titulo": "Canciones para el déficit de empatía",
+      "link": "https://www.eldiario.es/madrid/somos/rivas/canciones-deficit-empatia_1_13579136.html",
+      "imagen": "https://static.eldiario.es/clip/3e98d53f-0523-473c-a37b-f0348226123f_16-9-discover-aspect-ratio_default_0_x1072y400.jpg",
       "tipo": "imagen"
     }
   ]

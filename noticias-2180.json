@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Tiempo en Catalunya mañana jueves: calma a la espera de una posible dana",
+      "link": "https://www.elperiodico.com/es/tiempo/20261014/tiempo-catalunya-hoy-jueves-posible-dana-meteocat-lluvias-dv-135329119",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6f08ee3c-3e0a-49b3-811b-184a56cc3483_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las muertes por calor en España alcanzó máximos este verano con 5.807 fallecimientos",
       "link": "https://www.elperiodico.com/es/tiempo/20261013/muertes-calor-espana-alcanzan-maximos-5807-fallecimientos-135292491",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8aba3f84-e671-453b-9061-82224381125b_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Tiempo en Catalunya hoy martes: las temperaturas continúan en ascenso en todo el territorio",
       "link": "https://www.elperiodico.com/es/tiempo/20261012/tiempo-cataluna-hoy-martes-13-de-octubre-lluvia-temperatura-dv-loc-135254467",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/118d658d-03d8-4314-a1cf-2893e3fbda64_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tiempo en Catalunya hoy lunes: jornada de nubes que cubrirán el cielo antes de la llegada de un nuevo frente",
-      "link": "https://www.elperiodico.com/es/tiempo/20261011/tiempo-cataluna-hoy-lunes-12-de-octubre-temperaturas-lluvia-dv-loc-135226905",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/57b38190-5c39-47b8-a933-339ff8664aa1_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

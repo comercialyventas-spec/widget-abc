@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La autonomía también se mide",
+      "link": "https://www.eldiario.es/retrones/autonomia-mide_132_13582842.html",
+      "imagen": "https://static.eldiario.es/clip/46110e25-dfa8-401f-8a9a-786d6a55f2a9_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Historias de un niño con autismo",
       "link": "https://www.eldiario.es/retrones/historias-nino-autismo_132_13341766.html",
       "imagen": "https://static.eldiario.es/clip/2597ceac-6ec3-426e-8faf-aa3161a1d9f1_16-9-discover-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Cómo hablamos de la discapacidad",
       "link": "https://www.eldiario.es/retrones/hablamos-discapacidad_132_12891545.html",
       "imagen": "https://static.eldiario.es/clip/9ebac643-f19f-4679-af89-561750584c24_16-9-discover-aspect-ratio_default_1133837.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Neuroinclusión: accesibilidad más allá de lo físico",
-      "link": "https://www.eldiario.es/retrones/neuroinclusion-accesibilidad-fisico_132_12855934.html",
-      "imagen": "https://static.eldiario.es/clip/4faf85e9-482f-4844-b5fb-28c11acfecb6_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

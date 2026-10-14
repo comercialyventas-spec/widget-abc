@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Grupo Planeta alcanza una \"facturación récord\" de 2.200 millones, un 5,3% más",
+      "link": "https://www.elconfidencial.com/empresas/2026-10-14/grupo-planeta-resultados-facturacion-record_4444943/",
+      "imagen": "https://images.ecestaticos.com/rZjydCFUPJi234dRT2MU-j_aV4w=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff59%2Fee6%2F4e9%2Ff59ee64e9af7be88050327071661fb66.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Netflix despedirá a unos 1.000 empleados, el 6 % de su plantilla",
+      "link": "https://www.elconfidencial.com/empresas/2026-10-14/netflix-despidos-plantilla-recortes-1tps_4444917/",
+      "imagen": "https://images.ecestaticos.com/MyT31hb_LWQkocr0IO6PFdAgo4o=/0x0:2272x1611/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe57%2F42c%2F6c5%2Fe5742c6c5fc4c3bbf263077f05577273.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Gobierno portugués elige a Lufthansa para comprar hasta el 49,9% de TAP por 1.201 M",
+      "link": "https://www.elconfidencial.com/empresas/2026-10-14/lufthansa-adquiere-tap-portugal-1hms_4444832/",
+      "imagen": "https://images.ecestaticos.com/678fxTqHJlEhhyNsakLoEThDEjA=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F816%2F0ae%2F04a%2F8160ae04ad2b1ffb65223bb18c94389d.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Avatel anuncia a los sindicatos un ERE para 444 empleados, un tercio de la plantilla",
+      "link": "https://www.elconfidencial.com/empresas/2026-10-14/avatel-telecom-despido-colectivo-1hms_4444823/",
+      "imagen": "https://images.ecestaticos.com/CzUV1_gydW4rMdfZQhdfU-LdhiE=/0x0:1600x1049/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F75e%2Fe98%2F12e%2F75ee9812e376fbdd9adf5e70e1843d92.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los gestores administrativos piden un pacto sobre vivienda porque el problema ya “no admite respuestas parciales”",
       "link": "https://www.elconfidencial.com/empresas/2026-10-14/politica-integral-vivienda-espana-1hms-1svm_4444740/",
       "imagen": "https://images.ecestaticos.com/uYSVgCY-PnKlS5Zpr0f-ubdCWrM=/0x0:2272x1357/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F6cc%2F117%2F87d%2F6cc11787d407deed58dd6b6e58b6f88b.jpg",
@@ -10,30 +34,6 @@
       "titulo": "Las fundaciones corporativas reivindican las alianzas para impulsar la transformación social",
       "link": "https://www.elconfidencial.com/empresas/2026-10-14/fundaciones-corporativas-educacion-empleo-inclusion-1hms-1svm_4444739/",
       "imagen": "https://images.ecestaticos.com/qFOok4dSHrxYoYU0H53t6fA5guA=/0x0:1200x766/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F491%2Fd8a%2F43a%2F491d8a43a209d470867fe6b7cd94a4cc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Instituto Coordenadas identifica una oportunidad estratégica para el liderazgo empresarial español en la próxima década",
-      "link": "https://www.elconfidencial.com/empresas/2026-10-14/liderazgo-empresarial-espanol-internacional-1hms-1svm_4444738/",
-      "imagen": "https://images.ecestaticos.com/kvCoj33xSeAo2xQoeG6F-p59U7U=/0x0:1200x675/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd64%2Fc49%2F57c%2Fd64c4957c4545e01b0270bb5de36b2c3.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Prosegur Cybersecurity detecta en 2025 un aumento del 22,5% de las brechas de seguridad en España",
-      "link": "https://www.elconfidencial.com/empresas/2026-10-14/ataques-cadena-suministro-ciberseguridad-1hms-1svm_4444736/",
-      "imagen": "https://images.ecestaticos.com/G4mnfOSl-omgrf6s2VHijFZFg2E=/0x0:1200x798/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F895%2F4c6%2F96e%2F8954c696ec487b7de7d57d0f1cb92f0e.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La industria de defensa acelera la búsqueda de talento ante el crecimiento de la actividad",
-      "link": "https://www.elconfidencial.com/empresas/2026-10-14/industria-defensa-captacion-talento-profesional-1hms-1svm_4444734/",
-      "imagen": "https://images.ecestaticos.com/lbUuDjGieZnCbkQ-oGYtEZzYorM=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F33e%2Fdc3%2Fd69%2F33edc3d6923ba0eec5ddc79aca639a62.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Panza Capital apuesta por la construcción, con 50% de su cartera invertida en el sector",
-      "link": "https://www.elconfidencial.com/empresas/2026-10-14/panza-capital-apuesta-construccion-1hms_4444745/",
-      "imagen": "https://images.ecestaticos.com/dugKVFqPrDlB-NKsXo5joFWKHhk=/0x0:1253x836/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4d5%2F6fe%2F889%2F4d56fe889570ca00563d1bd3d47971f8.jpg",
       "tipo": "imagen"
     }
   ]

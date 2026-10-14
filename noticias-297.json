@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El Museo Sorolla crece... en un antiguo taller de coches",
+      "link": "https://www.abc.es/cultura/arte/museo-sorolla-crece-antiguo-taller-coches-20261014164648-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/14/sorolla1-RiPbEq1kEgDaS7dg9hVieAP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El gallego Vari Caramés obtiene el premio nacional de Fotografía",
       "link": "https://www.abc.es/cultura/arte/gallego-vari-carames-obtiene-premio-nacional-fotografia-20261013153940-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/13/carames-R8eTLzVh37TKMkL7MOkRCUN-1200x840@diario_abc.JPG",
@@ -28,12 +34,6 @@
       "titulo": "Goya estrena casa en Zaragoza",
       "link": "https://www.abc.es/cultura/arte/goya-estrena-casa-zaragoza-20261008122541-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/08/goya6-RhcTduc1l9t4SXkVwKCEmPO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Prado rinde homenaje a la Reina Cristina de Suecia, 'la Minerva del Norte'",
-      "link": "https://www.abc.es/cultura/arte/prado-rinde-homenaje-reina-cristina-suecia-minerva-20261006135504-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/06/sala-RN0l6OltK6m0crozgTeXm6H-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Recuperación de Parada: carretera de Vicálvaro a la Estación de O´Donnell. Afectada línea 106 de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261015-RP-5445-Ctra-Vicalvaro.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Obras: Avenida de Betanzos. Afectada línea 83 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261015-O-Av-Betanzos.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -27,12 +33,6 @@
     {
       "titulo": "Concentración en calle Ocaña. Afectadas 9 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261015-C-Ocaña.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Concentración en Martínez de la Riva 57. Afectadas 3 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261015-C-Martinez-De-La-Riva.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }
