@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Kenia confirma el segundo caso de ébola tras dar positivo un familiar del primer contagio",
+      "link": "https://efe.com/salud/2026-10-14/kenia-confirma-segundo-caso-ebola/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/XDI01-KENYA-EBOLA-VIRUS.webp?fit=900%2C600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Sanidad alerta del riesgo de apertura del soporte lateral en las camillas de ducha Carevo",
+      "link": "https://efe.com/salud/2026-10-14/sanidad-alerta-riesgo-apertura-camillas-ducha-carevo/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/alerta-sanidad-camillas-ducha.webp?fit=900%2C598&ssl=1",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los médicos madrileños irán a la huelga entre octubre y diciembre",
+      "link": "https://efe.com/salud/2026-10-14/medicos-madrilenos-huelga-entre-octubre-diciembre/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/huelga-medicos-madrid-1.webp?fit=900%2C600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las muertes por calor en España alcanzan máximos este verano con 5.807 fallecimientos",
       "link": "https://efe.com/salud/2026-10-13/muertes-calor-espana-verano-2026/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/09/calor.webp?fit=900%2C567&ssl=1",
@@ -16,24 +34,6 @@
       "titulo": "Kenia impondrá sanciones por incumplir las medidas para evitar la propagación del ébola",
       "link": "https://efe.com/salud/2026-10-13/kenia-sancionara-incumplimiento-nuevas-normals-evitar-propagacion-ebola/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/kenia-ebola.webp?fit=900%2C600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una intervención temprana en salud mental reduce la cronificación y el abuso de fármacos",
-      "link": "https://efe.com/la-rioja/2026-10-11/una-intervencion-temprana-en-salud-mental-reduce-la-cronificacion-y-el-abuso-de-farmacos/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/GRAF3571-ESPANA-SALUD-MENTAL.webp?fit=1024%2C683&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cuidar la salud mental en edades tempranas reduce a la mitad trastornos en la adolescencia",
-      "link": "https://efe.com/salud/2026-10-11/cuidar-salud-mental-menores-reduce-trastornos-adolescencia/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/salud-mental-menores-1.webp?fit=900%2C600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El brote de ébola en RDC supera los 4.200 muertos y va camino de rebasar los 9.000 casos",
-      "link": "https://efe.com/salud/2026-10-10/brote-ebola-congo-muertos-casos/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/ebola-congo.webp?fit=900%2C599&ssl=1",
       "tipo": "imagen"
     }
   ]

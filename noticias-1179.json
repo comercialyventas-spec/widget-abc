@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Ni salmón ni atún: el pescado azul que recomienda comer un médico por su aporte de proteínas, calcio y omega-3",
+      "link": "https://okdiario.com/metabolic/dietetica/ni-salmon-ni-atun-el-pescado-azul-que-recomienda-comer-un-medico-por-su-aporte-de-proteinas-calcio-y-omega-3-12786726/",
+      "imagen": "https://okdiario.com/metabolic/wp-content/uploads/2024/04/sardinas2.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cómo adelgazar sin sacrificar masa muscular: el entrenamiento combinado de fuerza y resistencia que recomiendan los expertos",
+      "link": "https://okdiario.com/metabolic/deporte/como-adelgazar-sin-sacrificar-masa-muscular-el-entrenamiento-combinado-de-fuerza-y-resistencia-que-recomiendan-los-expertos-12786722/",
+      "imagen": "https://okdiario.com/metabolic/wp-content/uploads/2026/10/ejercicios-fuerza.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Lucía Aguado, especialista en Ciencias del Deporte: «Aguantar minutos en plancha es como intentar ganar músculo en las piernas solo caminando. Es saludable, pero falta intensidad»",
       "link": "https://okdiario.com/metabolic/deporte/lucia-aguado-especialista-en-ciencias-del-deporte-aguantar-minutos-en-plancha-es-como-intentar-ganar-musculo-en-las-piernas-solo-caminando-es-saludable-pero-falta-intensidad-12786716/",
       "imagen": "https://okdiario.com/metabolic/wp-content/uploads/2026/10/plancha.jpg",
@@ -9,31 +21,19 @@
     {
       "titulo": "¿Cuántos segundos debe durar la plancha para fortalecer el tronco, los glúteos y los hombros?",
       "link": "https://okdiario.com/metabolic/deporte/cuantos-segundos-debe-durar-la-plancha-para-fortalecer-el-tronco-los-gluteos-y-los-hombros-12786702/",
-      "imagen": "https://okdiario.com/metabolic/wp-content/uploads/2026/10/plancha3.jpg",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "Cómo mantiene Kate Middleton la forma: el ejercicio al aire libre que quema entre 300 y 500 calorías por hora",
+      "link": "https://okdiario.com/metabolic/deporte/como-mantiene-kate-middleton-la-forma-el-ejercicio-al-aire-libre-que-quema-entre-300-y-500-calorias-por-hora-12786737/",
+      "imagen": "https://okdiario.com/metabolic/wp-content/uploads/2026/10/kate-middleton2.jpg",
       "tipo": "imagen"
     },
     {
       "titulo": "Lavarse los pies con sal y vinagre: para qué sirve y por qué lo recomiendan los expertos",
       "link": "https://okdiario.com/metabolic/salud/lavarse-los-pies-con-sal-y-vinagre-para-que-sirve-y-por-que-lo-recomiendan-los-expertos-12786690/",
-      "imagen": "https://okdiario.com/metabolic/wp-content/uploads/2026/10/banos-pies.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Anna Serra, nutricionista: «A los 60 años, un plato de lentejas, verduras y aceite de oliva puede ser nutricionalmente más interesante que muchos superalimentos»",
-      "link": "https://okdiario.com/metabolic/dietetica/anna-serra-nutricionista-a-los-60-anos-un-plato-de-lentejas-verduras-y-aceite-de-oliva-puede-ser-nutricionalmente-mas-interesante-que-muchos-superalimentos-12786683/",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Cómo adelgazar sin sacrificar masa muscular: el entrenamiento combinado de fuerza y resistencia que recomiendan los expertos",
-      "link": "https://okdiario.com/metabolic/deporte/como-adelgazar-sin-sacrificar-masa-muscular-el-entrenamiento-combinado-de-fuerza-y-resistencia-que-recomiendan-los-expertos-12786722/",
-      "imagen": "https://okdiario.com/metabolic/wp-content/uploads/2026/10/ejercicios-fuerza-1800x1200.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Lucía Aguado, experta en Ciencias del Deporte, revela el error al hacer planchas para ganar músculo: «Aguantar minutos no es suficiente»",
-      "link": "https://okdiario.com/metabolic/deporte/lucia-aguado-experta-en-ciencias-del-deporte-revela-el-error-al-hacer-planchas-para-ganar-musculo-aguantar-minutos-no-es-suficiente-12786680/",
-      "imagen": "https://okdiario.com/metabolic/wp-content/uploads/2026/10/plancha2-1800x1200.jpg",
+      "imagen": "https://okdiario.com/metabolic/wp-content/uploads/2026/10/banos-pies-1800x1201.jpg",
       "tipo": "imagen"
     }
   ]

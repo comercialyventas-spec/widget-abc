@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Finanzas para propietarios",
+      "link": "https://www.eldiario.es/opinion/zona-critica/finanzas-propietarios_129_13586308.html",
+      "imagen": "https://static.eldiario.es/clip/18437894-8c2c-46a3-a2f4-95079652d9d9_16-9-discover-aspect-ratio_default_0_x690y164.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La encrucijada",
       "link": "https://www.eldiario.es/opinion/zona-critica/encrucijada_129_13570261.html",
       "imagen": "https://static.eldiario.es/clip/fdfc9377-6ef5-46c0-86f1-d058086e7d95_16-9-discover-aspect-ratio_default_0_x1047y242.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Vivir en el campo, pagar en Madrid",
       "link": "https://www.eldiario.es/opinion/zona-critica/vivir-campo-pagar-madrid_129_13515830.html",
       "imagen": "https://static.eldiario.es/clip/69c8e3e1-45d9-4734-bd66-fb58f4d29c88_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los niños que no querían aprender",
-      "link": "https://www.eldiario.es/opinion/zona-critica/ninos-no-querian-aprender_129_13498720.html",
-      "imagen": "https://static.eldiario.es/clip/15985808-59a0-47d5-bc41-58269127569c_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

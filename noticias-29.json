@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "El gallego nace y se hace",
+      "link": "https://www.lavanguardia.com/politica/20261014/11659145/gallego-nace.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/14/6acfe987a4571.r_d.4643-2474-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Mireia Ingla, Jordi Albert y Laura Pelay serán los números 2, 3 y 4 de la lista de ERC al Congreso",
+      "link": "https://www.lavanguardia.com/politica/20261014/11659113/mireia-ingla-jordi-albert-laura-pelay-seran-numeros-2-3-4-lista-erc-congreso.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2022/07/27/62e13378bf4ed.r_d.592-304-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Conde-Pumpido: “Solo queda que el Supremo aplique la amnistía y cierre la causa del 'procés'”",
+      "link": "https://www.lavanguardia.com/politica/20261014/11659047/conde-pumpido-ley-amnistia-derogar-tendra-efectos-retroactivos.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/14/6acfc39041210.r_d.1656-2383-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "EE.UU. plantea sanciones de 200.000 dólares a cada barco español que atraque en sus puertos",
       "link": "https://www.lavanguardia.com/politica/20261014/11659083/ee-uu-plantea-sanciones-200-000-dolares-barco-espanol-atraque-puertos.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/05/15/6a074c152151d.jpeg",
@@ -16,24 +34,6 @@
       "titulo": "De Puigdemont a los delegados de la Generalitat: los 35 amnistiados por el Tribunal de Cuentas",
       "link": "https://www.lavanguardia.com/politica/20261014/11658877/puigdemont-delegados-generalitat-35-amnistiados-tribunal-cuentas.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/04/15/661e9e2b3340e.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Segunda denuncia de Junts ante la Junta Electoral por actos del gobierno Collboni",
-      "link": "https://www.lavanguardia.com/local/barcelona/20261014/11659015/segunda-denuncia-junts-junta-electoral-actos-gobierno-collboni.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/19/6aae720fcc0c1.r_d.3322-2422-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El presidente del Tribunal Constitucional, protagonista de Foros de Vanguardia",
-      "link": "https://www.lavanguardia.com/politica/20261014/11658978/presidente-tribunal-constitucional-protagonista-foros-vanguardia.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El PP denuncia la “incoherencia” de la portavoz del PSOE por los pisos de su pareja y la reta a un debate de vivienda",
-      "link": "https://www.lavanguardia.com/politica/20261014/11658965/pp-denuncia-incoherencia-portavoz-psoe-pisos-pareja-reta-debate-vivienda.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/27/6a67502d6d1b0.jpeg",
       "tipo": "imagen"
     }
   ]

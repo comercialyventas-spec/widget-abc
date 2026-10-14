@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "‘La Mesa de Hora 25’, en directo en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-10-14/la-mesa-de-hora-25-programa-en-el-pais.html",
+      "imagen": "https://www.youtube.com/watch?v=jOBlHGfQDFA",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Audio | La declaración de la jueza Biedma en la Audiencia Nacional: “Allí, hacerme algo es muy fácil”",
       "link": "https://elpais.com/videos/2026-10-14/audio-la-declaracion-de-la-jueza-biedma-en-la-audiencia-nacional-alli-hacerme-algo-es-muy-facil.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261014/1225332_133328_video_1800.mp4",
@@ -28,12 +34,6 @@
       "titulo": "‘La Mesa de Hora 25’ |Programa del 13 de octubre de 2026",
       "link": "https://elpais.com/videos/2026-10-13/la-mesa-de-hora-25-programa-en-el-pais.html",
       "imagen": "https://www.youtube.com/watch?v=53W-XQl_KX4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El discurso del rey Felipe VI en Ceuta, en vídeo",
-      "link": "https://elpais.com/videos/2026-10-13/el-discurso-del-rey-felipe-vi-en-ceuta-en-video.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261013/1224943_175321_video_1800.mp4",
       "tipo": "imagen"
     }
   ]

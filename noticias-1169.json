@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "‘La Mesa de Hora 25’, en directo en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-10-14/la-mesa-de-hora-25-programa-en-el-pais.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/YKHFG7ROPNE53ABROMEESEVREM.jpeg?auth=67874048eec76926e82ed985f04966501454df3b10011c1baa5164e81b24f208&width=414&height=233&focal=354%2C362",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Audio | La declaración de la jueza Biedma en la Audiencia Nacional: “Allí, hacerme algo es muy fácil”",
+      "link": "https://elpais.com/videos/2026-10-14/audio-la-declaracion-de-la-jueza-biedma-en-la-audiencia-nacional-alli-hacerme-algo-es-muy-facil.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/JESUZO45HBEI5EKK2WUEBTWHII.jpg?auth=19a95e8f2d75ecc309cc075bace3b095aac402ad19b29fe74f4d1bfdc77cce8a&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en directo, en EL PAÍS",
       "link": "https://elpais.com/videos/2026-10-14/el-pulso-de-hoy-por-hoy-en-el-pais.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/W33TL5GQBBHPPKZ2CBK6PCULCY.png?auth=31d69aadfdcdc576317e80f0f9b468205ca1109494b0cb67b67bfad3ad681896&width=414&height=233&smart=true",
@@ -19,21 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "‘La Mesa de Hora 25’, en directo en EL PAÍS",
-      "link": "https://elpais.com/videos/2026-10-13/la-mesa-de-hora-25-programa-en-el-pais.html",
+      "titulo": "‘La Mesa de Hora 25’ |Programa del 13 de octubre de 2026",
+      "link": "https://elpais.com/autor/cadena-ser/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/EN5LLQLJYFGLLCN2VMAUUKPCKI.jpeg?auth=48bafe1909a3cef045d7bb5b91df9bd5e39d64eb7b7b4895b7b86f0f5813fdc4&width=414&height=233&focal=354%2C362",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El discurso del rey Felipe VI en Ceuta, en vídeo",
-      "link": "https://elpais.com/videos/2026-10-13/el-discurso-del-rey-felipe-vi-en-ceuta-en-video.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/P662MNQPZVHBHLFTV2ID3W5UDA.jpg?auth=755838bfcec39b26ecbb81f2c1d0901065d6f29dcf1094cb850a87fcc35069f4&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘El Pulso’ de ‘Hoy por Hoy’| Programa del 13 de octubre de 2026",
-      "link": "https://elpais.com/noticias/cadena-ser/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/W33TL5GQBBHPPKZ2CBK6PCULCY.png?auth=31d69aadfdcdc576317e80f0f9b468205ca1109494b0cb67b67bfad3ad681896&width=414&height=233&smart=true",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Pedro Sánchez inicia la precampaña en Zaragoza",
+      "link": "https://www.elperiodico.com/es/videos/politica/pedro-sanchez-inicia-precampana-zaragoza/135346887.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/4048b1e2-c1db-4efc-9213-7d40191bcf3e_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Felipe VI exige a Marruecos una relación basada en la confianza y en la buena fe",
       "link": "https://www.elperiodico.com/es/videos/politica/rey-felipe-exige-marruecos-relacion-confianza-buena-fe/135341911.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/989232d3-73ad-425a-a2a8-83265a5f0876_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Así ha sido la visita de los reyes Felipe VI y Letizia a Melilla",
       "link": "https://www.elperiodico.com/es/videos/politica/visita-reyes-felipe-letizia-melilla/135333454.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b271ce38-7580-47c7-b627-59c0e7d734c2_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Feijóo exige que Sánchez comparezca en el Congreso por los buques marroquíes en Ceuta",
-      "link": "https://www.elperiodico.com/es/videos/politica/feijoo-exige-sanchez-comparezca-buques-marruecos-ceuta/135330525.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/44c0bbc9-98e0-427e-ba7c-17213886ba6d_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
