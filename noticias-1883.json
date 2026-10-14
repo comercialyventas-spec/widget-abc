@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La máquina de vapor",
+      "link": "https://www.20minutos.es/aragon/zaragoza/maquina-vapor_7048123_3.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/10/13/6acdc4ad5dca24-19459681.r_d.955-495.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Más de 410.000 personas pasan por la plaza del Pilar en una Ofrenda de Flores concluida casi a medianoche",
       "link": "https://www.20minutos.es/aragon/zaragoza/ofrenda-flores-virgen-pilar-reune-mas-100-000-personas-zaragoza_7047776_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/12/6accbd425785b9-62551275.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "La Agencia Tributaria subasta un piso en Zaragoza por 12.000 euros: estas son las condiciones y plazos para pujar",
       "link": "https://www.20minutos.es/aragon/zaragoza/agencia-tributaria-subasta-piso-zaragoza-condiciones-plazos_7044181_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/02/6abf8d987203c5-34109108.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Muere un voluntario de un Banco de Alimentos tras un accidente ocurrido en el almacén",
-      "link": "https://www.20minutos.es/aragon/zaragoza/muere-un-voluntario-un-banco-alimentos-tras-un-accidente-ocurrido-almacen_7043390_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/30/6abd46134ca9d6-15827803.jpeg",
       "tipo": "imagen"
     }
   ]

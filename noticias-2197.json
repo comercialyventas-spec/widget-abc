@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Pepe y Javier, dos ilustres",
+      "link": "https://www.elperiodico.com/es/tele/20261014/pepe-javier-ilustres-135293748",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/24522551-daf2-4984-8537-a791ef888a54_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "'VisionQuest' (Disney+):aventuras de un androide en busca de sí mismo",
       "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261013/visionquest-disney-entrevista-showrunner-135292178",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ffd1e53e-28f4-4656-a1f5-3f7c0728fce6_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "María León: \"Estar todo el tiempo teniendo que ser correcta es algo que a nosotras se nos impone mucho\"",
       "link": "https://www.elperiodico.com/es/tele/20261013/furia-serie-hbo-maria-leon-ana-mena-135178638",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/629d691c-6437-4712-823a-d93e906c68a4_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "De Mari Carmen a Mari Carmen",
-      "link": "https://www.elperiodico.com/es/tele/20261013/sergi-mas-television-y-mas-mari-carmen-135255996",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/40ad46ca-cbf9-45de-94ed-61c0d7a90244_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

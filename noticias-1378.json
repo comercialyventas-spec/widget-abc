@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Causa peruana de judías verdes",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-14/causa-peruana-de-judias-verdes.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QUIZTMRUUZBWJNHDWE47HCY7EE.jpg?auth=36e32b24b80d88910503be5e24d22176907d69df61999cda385196d89c81606b",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "‘Gastrificación’, la invasión de las mismas comidas y restaurantes en todas partes",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-14/gastrificacion-la-invasion-de-las-mismas-comidas-y-restaurantes-en-todas-partes.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/HDD6TH465NCCHBJFYRKTWKTIBM.jpg?auth=d40dd9098bddf4ef7f8c35e72004007bc8d95795d23738a7f10f003a1d6e9e7a",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Panceta al estilo chino: la receta de María Lo para comer con arroz o en un bao",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-10-13/panceta-al-estilo-chino-la-receta-de-maria-lo-para-comer-con-arroz-o-en-un-bao.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20261007/1222789_112241_video_1800.mp4",
@@ -22,18 +34,6 @@
       "titulo": "Torta de pimiento molido, una receta fácil de pan plano y crujiente",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-10-10/torta-de-pimiento-molido-una-receta-facil-de-pan-plano-y-crujiente.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/FS2K3J5SFFAAVCLF7MGFY7JXDE.jpg?auth=a6058e691d73437faf49a84694d41f3316fe4862c4d9f8f8a7b230431b123359",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Calamares de campo, la receta de posguerra que sigue estando buenísima",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-09/calamares-de-campo-la-receta-de-posguerra-que-sigue-estando-buenisima.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/LF77OE6BCNFIHBHE2WXXGD7AUU.jpg?auth=19b00e6cf21fa66227c8fc4ba1d912daecdf3348f3f4aa9d3ccd7daea38716f7",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Banana bread, la receta de bizcocho de plátano que no empalaga",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-08/banana-bread-la-receta-de-bizcocho-de-platano-que-no-empalaga.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20261004/1221730_230628_video_1800.mp4",
       "tipo": "imagen"
     }
   ]

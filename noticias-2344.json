@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un acto vandálico obliga a cerrar un parque infantil en un municipio de Zamora",
+      "link": "https://www.zamora24horas.com/sucesos/acto-vandalico-obliga-cerrar-parque-infantil-municipio-zamora",
+      "imagen": "https://statics.zamora24horas.com/5e35cddc-ab22-484a-9de0-aee8e4fec137.webp?format=webp&width=320&quality=75",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El múltiple accidente en la A-6 en Zamora deja un fallecido y dos heridos",
       "link": "https://www.zamora24horas.com/sucesos/actualizacion-accidente-a-6",
       "imagen": "https://statics.zamora24horas.com/4d4fec94-aa12-4385-b3a0-3d13ffe8fa80.webp?format=webp&width=320&quality=75",
@@ -22,12 +28,6 @@
       "titulo": "Un hombre herido en un accidente entre un coche y una moto en Zamora capital",
       "link": "https://www.zamora24horas.com/sucesos/hombre-herido-accidente-entre-coche-moto-zamora-capital",
       "imagen": "https://statics.zamora24horas.com/f24f5ba9-3ed3-4345-b00a-00bc3ba5e708.webp?format=webp&width=320&quality=75",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Muere una segunda víctima del accidente de la A-62 en el que falleció el profesor del Alfonso IX",
-      "link": "https://www.zamora24horas.com/sucesos/muere-segunda-victima-accidente-a-62-fallecio-profesor-alfonso-ix",
-      "imagen": "https://statics.zamora24horas.com/0d10281d-1555-44bd-80a8-8716e08925a8.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
     }
   ]

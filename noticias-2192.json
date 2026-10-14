@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Esto es fútbol, papá: del 2-0 al 1-4",
+      "link": "https://www.elperiodico.com/es/deportes/20261014/futbol-papa-2-0-1-135306978",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/735d2b07-afab-45d4-9c01-65e8cfd2c35a_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Flick, orgulloso de ver una \"actuación top\" del Barça en la Champions",
       "link": "https://www.elperiodico.com/es/deportes/20261014/flick-orgulloso-ver-actuacion-top-135306720",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0532b55f-46ce-4035-b425-ef664eee6200_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El Barça cambia su destino frente al Valencia",
       "link": "https://www.elperiodico.com/es/deportes/20261011/barca-cambia-destino-frente-valencia-135230069",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/01d11f69-36fc-48b4-b360-7834eba10f44_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Flick administra su Excel y el Barça bate récords goleadores, con y sin Raphinha",
-      "link": "https://www.elperiodico.com/es/deportes/20261011/flick-administra-excel-barca-bate-135216689",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b6119610-d38f-4c1c-badc-29210706dff4_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

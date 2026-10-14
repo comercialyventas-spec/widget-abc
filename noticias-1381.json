@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Un ensayo conmovedor sobre un paciente que sufría envejecimiento acelerado",
+      "link": "https://elpais.com/babelia/2026-10-14/un-ensayo-conmovedor-sobre-un-paciente-que-sufria-envejecimiento-acelerado.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RQFKIOOGVJEOLOCO72AG4NBMCU.jpg?auth=75e9dd6debb303e99ca2b83eef0f1164a3ce2df4d30bba0d295e1ba959c582cc",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los buitres son buenas personas",
+      "link": "https://elpais.com/babelia/2026-10-14/los-buitres-son-buenas-personas.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/BDIFT3QS6BCX7IWLTBRJI2MFOE.jpg?auth=1bf7ca73b4d8c8abe58f30f62e776c9d89e0957b4e6db2219dc501974e8ff81e",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Evocaciones del Homero del rock",
       "link": "https://elpais.com/babelia/2026-10-13/evocaciones-del-homero-del-rock.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/5THEF3KGSJENFLMEXUNFUWRHTM.jpg?auth=cb658f50123b1ecd75f20fb2fcb07c6443674e7c7bd711d8f2b85738eea14064",
@@ -22,18 +34,6 @@
       "titulo": "‘Cuando seas feliz, golpea tú primero’, de Tatiana Țîbuleac: qué hacer con las heridas que nos construyen",
       "link": "https://elpais.com/babelia/2026-10-12/cuando-seas-feliz-golpea-tu-primero-de-tatiana-tibuleac-que-hacer-con-las-heridas-que-nos-construyen.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/FCMXKHZEEBA7JJU3KC5ZFQ5LCM.jpg?auth=6cf88dfe9f3044335b6b268c6e4b62a8dde08727cff4c2b82924464ab53790d1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘Lar’, de Bibiana Candia: un motín del siglo XIX para iluminar el XXI",
-      "link": "https://elpais.com/babelia/2026-10-12/lar-de-bibiana-candia-un-motin-del-siglo-xix-para-iluminar-el-xxi.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/XMIRDPJXNFBZPMRPB3QA4DNS6M.jpg?auth=72664667fee24eb10aaf31df02911aec69426208af0bcb523ce4fc636a8420db",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Johann Choron: “En una película la IA puede generar píxeles, pero no puede generar intención ni oficio”",
-      "link": "https://elpais.com/babelia/2026-10-12/johann-choron-en-una-pelicula-la-ia-puede-generar-pixeles-pero-no-puede-generar-intencion-ni-oficio.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/SHYWUFH64RF5LBOMGPRSQMSUXA.jpg?auth=c9ed5a4bb3f488c03c06ff3051988095520a35645d0bb9966f7490c5d8cc7084",
       "tipo": "imagen"
     }
   ]
