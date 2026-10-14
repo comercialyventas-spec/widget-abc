@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Alto seguimiento, cánticos contra Ayuso y cargas en la primera jornada de huelga del profesorado en Madrid",
+      "link": "https://elpais.com/educacion/2026-10-14/la-huelga-indefinida-del-profesorado-en-madrid-comienza-con-el-corte-de-la-castellana-y-piquetes-en-la-puerta-de-los-centros.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261014/1225243_101357_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cinco detenidos y siete heridos en una carga policial en la Complutense por la huelga educativa",
+      "link": "https://elpais.com/educacion/2026-10-14/cinco-detenidos-y-seis-heridos-en-una-carga-policial-en-la-complutense-por-la-huelga-educativa.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261014/1225241_101306_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los profesores de Madrid anuncian una dura huelga indefinida: “Los centros educativos van a parar por completo”",
       "link": "https://elpais.com/educacion/2026-10-13/los-profesores-de-madrid-anuncian-una-dura-huelga-indefinida-los-centros-educativos-van-a-parar-por-completo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/IBN4OXJMVFDETBNDCXZRZL5J4U.JPG?auth=8c017e4297bef4607c3158ecb99a8b0f44724b0cdc12a14846c3040c145c03fe",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/HZQU2VQPRNDQ7J6O2FZMO2NE2Y.jpg?auth=6865a5f91eaadad7191ada1a7302809c6c81c5fcb525c6552c4f81a37b264cf9",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "El juez investiga a tres maestras de un colegio concertado de Madrid por maltratar a bebés: “Les tapaba la nariz para tragar”",
       "link": "https://elpais.com/educacion/2026-10-09/el-juez-investiga-a-tres-maestras-de-un-colegio-concertado-de-madrid-por-maltratar-a-bebes-les-tapaba-la-nariz-para-tragar.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/FJ6LMKY3RRFTZOI7ISSSZQ4OAA.jpg?auth=4a9e98a20d1d879c4e6c5576536ea98fb0c6499ce31dc700b23626463effad9f",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Supremo tumba el decreto del Gobierno para frenar las universidades ‘chiringuito’",
-      "link": "https://elpais.com/educacion/2026-10-08/el-supremo-tumba-el-decreto-para-frenar-las-universidades-chiringuito.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/6TXCE3JZVRKOZMVODHARWNGX7I.jpg?auth=43ec79b12fa2fa05c94823cdfb02e0a54271add1b90b0c3d715d8cd22eec6966",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "PISA 2025: en América Latina, la cuna todavía decide quién aprende",
-      "link": "https://elpais.com/educacion/2026-10-06/pisa-2025-en-america-latina-la-cuna-todavia-decide-quien-aprende.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/WQZX726HYJAS5B46KSKHJTZWKU.jpg?auth=668da48ffac218e1464223dedd51b303cdbc7b86b9cb688e6fb1312490206b1b",
       "tipo": "imagen"
     }
   ]

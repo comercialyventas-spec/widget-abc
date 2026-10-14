@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Detienen a un empleado de OpenAI por espiar a la empresa con una grabadora oculta",
+      "link": "https://www.abc.es/tecnologia/fbi-detiene-empleado-openai-colocar-grabadora-escucha-20261014100107-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/14/openai-k07-U302224456327EZH-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Epic Games quiere desarrollar su próximo videojuego de Marvel y Star Wars con IA: «No más código escrito a mano»",
       "link": "https://www.abc.es/tecnologia/videojuegos/epic-games-quiere-desarrollar-proximo-videojuego-marvel-20261013213614-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/13/fortnite-star-wars-disney-RuyxXOMqI2wFs3CzRVivA7L-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Anthropic alerta de que la IA podrá autorreplicarse dentro de poco",
       "link": "https://www.abc.es/tecnologia/anthropic-alerta-ia-podra-autorreplicarse-dentro-poco-20261013123800-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/13/1518383283-RUWlImMPyXk3s6TPHozZwsO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El rabino que aconseja a Anthropic se rebela contra la humanización de la IA: «Es como crear un esclavo»",
-      "link": "https://www.abc.es/tecnologia/rabino-aconseja-anthropic-rebela-humanizacion-ia-crear-20261011013820-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/11/mois-navon-R5BFLqKn3d0JrJplWphbthP-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

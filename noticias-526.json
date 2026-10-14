@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Viajes Navidad",
+      "link": "https://www.elconfidencialdigital.com/album/vivir/viajes-navidad/202610141152551493464.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/14/2026101411473226899.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Supermercados",
       "link": "https://www.elconfidencialdigital.com/album/vivir/supermercados/202610131330081493199.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/10/2026091011301786085.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Idealista",
       "link": "https://www.elconfidencialdigital.com/album/vivir/idealista/202610011143261489799.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/01/2026100111460489919.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Test de covid",
-      "link": "https://www.elconfidencialdigital.com/album/vivir/test-de-covid/202610011131311489787.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/01/2026100111271935701.jpg",
       "tipo": "imagen"
     }
   ]
