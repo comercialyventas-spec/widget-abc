@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Los coches eléctricos ahorran 20.000 millones a los países importadores de petróleo desde el inicio de la crisis de Ormuz",
+      "link": "https://elpais.com/clima-y-medio-ambiente/2026-10-13/los-coches-electricos-ahorran-20000-millones-a-los-paises-importadores-de-petroleo-desde-el-inicio-de-la-crisis-de-ormuz.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RW6LLEIVPBH6PKPXRLT3FVUHQE.JPG?auth=222d6c6e296a45e7772cb1f2931cb432fd0c32d7a136f0061f59d322c03ecaed",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un otoño con temperaturas hasta 10° por encima de lo normal: 34° en Sevilla, 28° en Madrid y 25° en Bilbao",
       "link": "https://elpais.com/el-tiempo/2026-10-13/un-otono-con-temperaturas-hasta-10-por-encima-de-lo-normal-34-en-sevilla-28-en-madrid-y-25-en-bilbao.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/OUCILSG46VLNNI373OCGPP5GDA.jpg?auth=f590d1296c8d77c710020ec45de8a044494a08725ed4310007e9f777846200d6",
@@ -28,12 +34,6 @@
       "titulo": "El tiempo del puente del Pilar: estable pero con chubascos en el extremo sur, Ceuta y Canarias",
       "link": "https://elpais.com/el-tiempo/2026-10-09/el-tiempo-del-puente-del-pilar-estable-pero-con-chubascos-en-extremo-sur-ceuta-y-canarias.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/PDSFOPDGR5ICVLRNMZHPSSEV34.jpg?auth=991f82ad260519d7e9c29008b864ca129d504e75b00abff843e37f4e96293e4c",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Tribunal de Estrasburgo rechaza la demanda del Mar Menor contra España",
-      "link": "https://elpais.com/sociedad/2026-10-09/el-tribunal-europeo-de-derechos-humanos-declara-inadmisible-la-demanda-del-mar-menor-contra-espana.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/YC26L4XMRBF7ZAO443N6BJCAYE.jpg?auth=465f283895b619c3333e9e7df5de849613c7d3a601fd0b1fd12991f09261cbfb",
       "tipo": "imagen"
     }
   ]

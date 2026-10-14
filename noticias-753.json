@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Somos Chamberí",
+      "link": "https://www.eldiario.es/madrid/somos/chamberi/",
+      "imagen": "https://static.eldiario.es/clip/faab70b8-199e-4149-af32-3c60e3efe1b8_16-9-discover-aspect-ratio_default_0_x1055y842.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ignacio González se sienta en el banquillo por el amaño del campo de golf que el PP construyó en el centro de Madrid",
+      "link": "https://www.eldiario.es/politica/ignacio-gonzalez-sienta-banquillo-amano-campo-golf-pp-construyo-centro-madrid_1_13575747.html",
+      "imagen": "https://static.eldiario.es/clip/a08d49f8-62ac-483e-8f3a-90cddffb90a4_16-9-discover-aspect-ratio_default_0_x1224y770.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La minúscula rotonda de Chamberí que será ampliada para formar un gran vergel peatonal",
       "link": "https://www.eldiario.es/madrid/somos/chamberi/minuscula-rotonda-chamberi-sera-ampliada-formar-gran-vergel-peatonal_1_13561849.html",
-      "imagen": "https://static.eldiario.es/clip/f1b230ac-0a64-4636-b049-32e73f5cf9f9_16-9-aspect-ratio_default_0.jpg",
+      "imagen": "https://static.eldiario.es/clip/f1b230ac-0a64-4636-b049-32e73f5cf9f9_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Nuevo corte en la línea 6 de Metro de Madrid los dos próximos fines de semana, ahora entre Cuatro Caminos y Lucero",
       "link": "https://www.eldiario.es/madrid/somos/nuevo-corte-linea-6-metro-madrid-proximos-fines-semana-ahora-cuatro-caminos-lucero_1_13525658.html",
       "imagen": "https://static.eldiario.es/clip/b47d3b5f-4cc7-4e42-a563-dad6a58d0072_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Chamberí Sound: festival ecléctico y gratuito que mezcla indie con Pitingo, pop cayetano y los DJ preferidos de Almeida",
-      "link": "https://www.eldiario.es/madrid/somos/chamberi/chamberi-sound-festival-eclectico-gratuito-mezcla-indie-pitingo-pop-cayetano-dj-preferidos-almeida_1_13502663.html",
-      "imagen": "https://static.eldiario.es/clip/b8b24258-1ade-4158-b444-acb2018b044c_16-9-discover-aspect-ratio_default_0_x763y561.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Ayuntamiento de Madrid planea una torre de 12 pisos con uso cultural en la esquina junto al Estadio Vallehermoso",
-      "link": "https://www.eldiario.es/madrid/somos/chamberi/ayuntamiento-madrid-planea-torre-12-pisos-cultural-esquina-estadio-vallehermoso_1_13478523.html",
-      "imagen": "https://static.eldiario.es/clip/1f73f1f4-021d-48dc-b8a0-885eb55de2db_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

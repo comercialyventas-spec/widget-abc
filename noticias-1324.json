@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Fiesta Nacional en Ceuta, y Día de la Hispanidad",
+      "link": "https://www.mediterraneodigital.com/opinion/columnistas-de-opinion/ramiro-grau/ceuta-dia-de-la-hispanidad",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/10/ceuta-12-octubre.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Votar por correo es peligroso",
       "link": "https://www.mediterraneodigital.com/opinion/columnistas-de-opinion/ramiro-grau/voto-por-correo",
       "imagen": "https://www.mediterraneodigital.com/images/2026/10/votar-por-correo.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Fiscales de antaño y de hogaño",
       "link": "https://www.mediterraneodigital.com/opinion/columnistas-de-opinion/ramiro-grau/fiscales",
       "imagen": "https://www.mediterraneodigital.com/images/2026/9/fiscalia.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ceuta, soldados desarmados",
-      "link": "https://www.mediterraneodigital.com/opinion/columnistas-de-opinion/ramiro-grau/ceuta-militares",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/8/militares-ceuta.jpg",
       "tipo": "imagen"
     }
   ]

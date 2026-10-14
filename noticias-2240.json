@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El tiempo en España",
+      "link": "https://efe.com/espana/2025-11-26/tiempo-espana-hoy-prediccion-meteorologia-aemet/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/el-tiempo-en-espana-3.webp?w=600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Frente Amplio acuerda que Emilio Delgado sea cabeza de lista por Madrid",
       "link": "https://efe.com/espana/2026-10-13/frente-amplio-emilio-delgado-madrid/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/emilio-delgado-cabeza-lista-madrid-frente-amplio.webp?w=600&ssl=1",
@@ -28,12 +34,6 @@
       "titulo": "Landaluce se resiste a dimitir tras ser denunciado por agresiones sexuales y 12 de sus concejales dejan el Gobierno local de Algeciras",
       "link": "https://efe.com/andalucia/2026-10-13/landaluce-no-aclara-si-dimitira-como-pide-el-pp-tras-las-denuncias-por-agresion-sexual/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/GRAF2465-ESPANA-ACOSO-SEXUAL.webp?w=600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Miguel Ángel Gallardo recurre su condena por el contrato a David Sánchez alegando que no hubo un plan preconcebido",
-      "link": "https://efe.com/espana/2026-10-13/gallardo-diputacion-badajoz-recurso/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/gallardo-recurso.webp?w=600&ssl=1",
       "tipo": "imagen"
     }
   ]

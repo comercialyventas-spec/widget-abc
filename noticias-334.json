@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¿Por qué hacemos ejercicio si ya no lo necesitamos para sobrevivir?",
+      "link": "https://www.abc.es/bienestar/empezar-ejercicio-depende-solo-fuerza-voluntad-20261013015635-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/10/13/gym-RukYKOYZKzsQtUi1VMdiaNN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Aurelio Rojas, cardiólogo: «Si tomas cúrcuma pensando que te desinflama, puede que te estés equivocando. Nuestro cuerpo la absorbe muy mal y se metaboliza rápido»",
       "link": "https://www.abc.es/bienestar/alimentacion/aurelio-rojas-cardiologo-tomas-curcuma-pensando-desinflama-20261013170057-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/10/13/newspaint-1791889898204-1200x840-RTXDQV1FtiXXH1wzf4jE0TN-1200x840@diario_abc.jpg",
@@ -13,27 +19,21 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Alicia Cooper, runner aficionada, y el error común al empezar a correr: «Si el primer día hubiera intentado hacer un kilómetro seguido, al día siguiente no hubiera salido»",
-      "link": "https://www.abc.es/bienestar/alicia-cooper-creadora-contenido-runner-aficionada-error-20261013154918-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/10/13/alicia-fernandez-anton-knpG-U302206231989tII-1200x840@diario_abc.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Alexandre Olmos, médico: «No todas las personas necesitan la misma dosis de magnesio y muchas sufren deficiencias sin saberlo porque en una analítica no siempre aparece»",
-      "link": "https://www.abc.es/bienestar/alexandre-olmos-medico-personas-necesitan-dosis-magnesio-20261013061500-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2025/10/06/medico-kQaB-U302155766490bcG-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sebastián La Rosa, médico especialista en longevidad: «La soledad puede acelerar el deterioro tanto como una mala alimentación o la falta de ejercicio»",
-      "link": "https://www.abc.es/bienestar/sebastian-rosa-medico-especialista-longevidad-soledad-puede-20261013070000-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/noticias/2025/10/11/sebastian-rosa-k9nD-U302155308530pK-1200x840@diario_abc.jpg",
+      "titulo": "A la rica crema de calabaza: cómo aprovechar al máximo sus betacarotenos",
+      "link": "https://www.abc.es/bienestar/alimentacion/rica-crema-calabaza-betacarotenos-20261012013041-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/10/12/cala1-RzUl7YCMQbu08KkhK01zGJP-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
       "titulo": "'Head spa': el cuero cabelludo, el gran olvidado de los masajes, se convierte en protagonista",
       "link": "https://www.abc.es/bienestar/head-spa-cuero-cabelludo-gran-olvidado-masajes-20260925011758-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/09/25/masajecabeza1-Ry086mP4QtPJnGagsA4ipmN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Alicia Cooper, runner aficionada, y el error común al empezar a correr: «Si el primer día hubiera intentado hacer un kilómetro seguido, al día siguiente no hubiera salido»",
+      "link": "https://www.abc.es/bienestar/alicia-cooper-creadora-contenido-runner-aficionada-error-20261013154918-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/10/13/alicia-fernandez-anton-knpG-U302206231989tII-1200x840@diario_abc.png",
       "tipo": "imagen"
     }
   ]

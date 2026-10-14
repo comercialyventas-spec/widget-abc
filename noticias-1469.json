@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "No, el mal aliento no viene del estómago",
+      "link": "https://www.eldiario.es/edcreativo/diario-salud/no-mal-aliento-no-viene-estomago_1_13575013.html",
+      "imagen": "https://static.eldiario.es/clip/0a963d81-8ba4-45ac-bf80-681e79982458_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El SUV eléctrico que une la elegancia japonesa con el placer de conducción europeo",
       "link": "https://www.eldiario.es/motor/suv-electrico-une-elegancia-japonesa-placer-conduccion-europeo_1_13574258.html",
       "imagen": "https://static.eldiario.es/clip/2322166d-fc30-42cf-941f-4b416600b1c1_16-9-discover-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Pagar en la tienda evoluciona: la inmediatez de las transferencias instantáneas, con la comodidad del pago sin contacto",
       "link": "https://www.eldiario.es/edcreativo/pagar-tienda-evoluciona-inmediatez-transferencias-instantaneas-comodidad-pago-contacto_1_13537691.html",
       "imagen": "https://static.eldiario.es/clip/ab7082bb-2823-401f-9365-16ea06d4e81f_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Lluc Bestard, la regatista de 15 años que hace de la constancia su mejor viento",
-      "link": "https://www.eldiario.es/illes-balears/dones-mar-apb/lluc-bestard-regatista-15-anos-constancia-mejor-viento_1_13537584.html",
-      "imagen": "https://static.eldiario.es/clip/2881e5bd-f431-4d2b-87d3-531812b167f1_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

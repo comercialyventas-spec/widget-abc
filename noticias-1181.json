@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Un chico de 16 años construyó una máquina que convierte los residuos de impresión 3D en filamento nuevo y en 2025 ganó 75.000 dólares en la mayor feria científica preuniversitaria del mundo",
+      "link": "https://okdiario.com/techy/residuos-impresion-3d-estudiante-maquina-filamento-75000-20537259",
+      "imagen": "https://okdiario.com/img/2026/10/13/benjamin-davis-maquina-filamento-isef.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El truco de Singapur para reciclar baterías de litio con cáscaras de naranja, limón y piña: en 2023 lo llevó a una planta piloto tras recuperar en laboratorio cerca del 90 % de los metales",
+      "link": "https://okdiario.com/techy/reciclar-baterias-litio-cascaras-naranja-singapur-ntu-20537245",
+      "imagen": "https://okdiario.com/img/2026/10/13/ntu-metales-baterias-cascaras-fruta.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Confirmado: el barco volador eléctrico de REGENT vuela por primera vez con dos capitanes a bordo y recorre 596 metros a 10 metros sobre el agua",
+      "link": "https://okdiario.com/techy/barco-volador-electrico-viceroy-regent-vuelo-tripulado-20537233",
+      "imagen": "https://okdiario.com/img/2026/10/13/regent-viceroy-seaglider-hydrofoils.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Corea del Sur está preparando sus submarinos nucleares con 100.000 millones de wones y la Marina de EEUU le pide una razón «válida»: los expertos apuntan al Indo-Pacífico",
       "link": "https://okdiario.com/techy/submarinos-nucleares-corea-sur-indo-pacifico-marina-eeuu-20521875",
       "imagen": "https://okdiario.com/img/2026/10/09/submarino-dosan-ahn-changho-pearl-harbor.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Adiós al telescopio solar Dunn: Estados Unidos demolerá el gigante de 227 toneladas que giraba sobre mercurio desde 1969 tras una fuga en su cojinete",
       "link": "https://okdiario.com/techy/telescopio-solar-dunn-demolicion-mercurio-nuevo-mexico-20521846",
       "imagen": "https://okdiario.com/img/2026/10/09/torre-telescopio-dunn-sacramento-peak.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Adiós al ordenador cuántico de NEC: la empresa que creó el primer cúbit superconductor en 1999 abandona su máquina 27 años después y con solo 8 cúbits",
-      "link": "https://okdiario.com/techy/ordenador-cuantico-nec-abandona-hardware-primer-cubit-1999-20521826",
-      "imagen": "https://okdiario.com/img/2026/10/09/nec-maquina-cuantica-8-cubits.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Confirmado: EEUU planea mover en 2027 combustible nuclear gastado en un vagón de 12 ejes capaz de cargar 218 toneladas a lo largo de más de 4.000 kilómetros",
-      "link": "https://okdiario.com/techy/vagon-atlas-combustible-nuclear-gastado-eeuu-12-ejes-idaho-20521816",
-      "imagen": "https://okdiario.com/img/2026/10/09/vagon-atlas-doe-prueba.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "China encuentra bajo el Pacífico un yacimiento submarino de oro y plata con muestras de hasta 15,4 gramos de oro y más de 1 kilo de plata por tonelada",
-      "link": "https://okdiario.com/techy/china-yacimiento-submarino-oro-plata-pacifico-20521800",
-      "imagen": "https://okdiario.com/img/2026/10/09/xiangyanghong-10-muestreador.jpg",
       "tipo": "imagen"
     }
   ]
