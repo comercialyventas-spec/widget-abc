@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Las lecciones que el dron de carreras autónomo más rápido del mundo puede enseñar a los ejércitos",
+      "link": "https://www.elconfidencial.com/tecnologia/novaceno/2026-10-15/monorace-delfi-universidad-drones-autonomes-velocidad_4445728/",
+      "imagen": "https://images.ecestaticos.com/5cuPOiPYcNFwmzcfa9EgDXvwTuw=/0x0:1200x675/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa52%2F813%2Fb00%2Fa52813b0095443f59ab1d01694657b6a.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ni bajo el mar están a salvo: un misterioso ciberataque paraliza las obras del túnel de 18 kilómetros entre Alemania y Dinamarca",
+      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-15/ciberataque-tunel-submarino-alemania-dinamarca_4445665/",
+      "imagen": "https://images.ecestaticos.com/asZTuvxlmvuFodE9iLt7pGGgRJ0=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff91%2F458%2Fad6%2Ff91458ad67fbc9a5d6b68d6a991030cb.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La riada de Nepal fue tan destructiva que se sintió hasta en España. Es una señal de que la vigilancia se queda corta",
+      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-15/riada-nepal-destructiva-inundacion-registro-ondas-espana-sacudio-planeta_4445631/",
+      "imagen": "https://images.ecestaticos.com/b1XfCVtCpwyypqxZUN3dcISyi5M=/0x242:2272x1520/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff00%2F6ef%2F965%2Ff006ef96583a3562420e416b346ec190.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Bill Gates, 70 años, cofundador de Microsoft: \"Si bien la IA propiciará avances que salvarán vidas en medicamentos y vacunas, también facilitará el diseño de nuevas enfermedades mortales\"",
       "link": "https://www.elconfidencial.com/tecnologia/2026-10-15/bill-gates-ia-nuevas-enfermedades-mortales-1qrt_4445384/",
       "imagen": "https://images.ecestaticos.com/gULBv3NYWe1W3uMZ1dCpJjKsD4s=/0x0:1986x1282/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F629%2Fd46%2F577%2F629d46577ba95cfacaff54a7d294d33f.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Las orquídeas más raras del mundo son tan extrañas que ahora la ciencia cree que pueden morir de amor",
       "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-15/orquidea-dracula-puede-morir-amor-1qrt_4402896/",
       "imagen": "https://images.ecestaticos.com/fUI7Kolj7tKXuhmI_S5bu6-zOKc=/0x0:1272x878/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F600%2Fcea%2F73b%2F600cea73b58421e37e7d133d7f7002fe.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Algo extraño ocurre con el hielo de la Antártida: los científicos detectan su tercer máximo invernal más bajo en casi 50 años",
-      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-15/antartida-deficit-hielo-alarmante-1qrt_4444479/",
-      "imagen": "https://images.ecestaticos.com/UJuhEvmwvtoiPRsxaaT5J8LRbEw=/0x0:1024x512/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F8a7%2F0e2%2Fd8e%2F8a70e2d8e6a707771fc0d2869a219903.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Llevamos el Big Bang puesto: los materiales que tejen nuestro organismo son tan viejos como el universo",
-      "link": "https://www.elconfidencial.com/tecnologia/novaceno/2026-10-15/universo-investigacion-espacio-inteligencias-interestelares_4445146/",
-      "imagen": "https://images.ecestaticos.com/jkU9qqiqA-7UMRn47au6DrC1rPY=/0x0:1400x1050/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F89b%2F383%2F1b8%2F89b3831b8bfe6e41f75bc65456c73d06.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "EEUU perfora las profundidades de un lago y encuentra seres vivos capaces de comer piedras",
-      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-14/eeuu-perfora-lago-seres-vivos-comen-piedras-1qrt_4402891/",
-      "imagen": "https://images.ecestaticos.com/OqBztoKStUt3rDIhUgXIfol-5X0=/0x0:1272x712/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa4c%2F896%2F5a5%2Fa4c8965a5a905d42588e21128cea8d7a.jpg",
       "tipo": "imagen"
     }
   ]

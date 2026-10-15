@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "ABC invita a sus suscriptores al estreno de 'Arriba Tutto' de José Mota",
+      "link": "https://www.abc.es/play/cine/abc-invita-suscriptores-estreno-arriba-tutto-jose-20261015124511-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/15/Acontracorriente-RxCz2Z6eC74yCdelkoBEd6I-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Octubre se pliega al Oeste patrio",
       "link": "https://www.abc.es/play/cine/noticias/octubre-pliega-oeste-patrio-20261012012604-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/12/ReverendoColt-k08H-U302157294661UL-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Pedro Ruiz va al cine a ver 'Digger' y opina sin filtros sobre la nueva película de Tom Cruise: «En la sala estaba yo solo»",
       "link": "https://www.abc.es/play/cine/noticias/pedro-ruiz-cine-ver-digger-opina-filtros-20261010133753-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/06/tom-cruise-k6qF-U302071204666IyE-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Gana dos entradas para ver 'Sentido y sensibilidad'",
-      "link": "https://www.abc.es/play/cine/gana-dos-entradas-ver-sentido-sensibilidad-20261009125348-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/09/SENTIDO-%26-SENSIBILIDAD-PIEZAS-ONLINE-QUAD-DIGITAL-2880x2160-OT-15296202_V1-RPV1pWOD32aFXtgP8IzeykL-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

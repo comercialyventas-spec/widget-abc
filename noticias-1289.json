@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "VOX estalla contra el PSOE: «Las rayas que os metíais en paradores y las putas que contratabais»",
+      "link": "https://www.mediterraneodigital.com/espana/politica/vox-psoe-recortes-rayas-paradores-prostitutas",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/10/vox-psoe.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Frente Amplio proclama a Ada Colau candidata a las elecciones generales",
       "link": "https://www.mediterraneodigital.com/espana/politica/frente-amplio-ada-colau",
       "imagen": "https://www.mediterraneodigital.com/images/2026/10/ada-colau.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La comunidad marroquí en España pide votar a Pedro Sánchez en las elecciones generales",
       "link": "https://www.mediterraneodigital.com/espana/mundo/marroquies-psoe-espana",
       "imagen": "https://www.mediterraneodigital.com/images/2026/10/marroquies.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sánchez estudia incluir a Begoña Gómez en las listas del PSOE para aforarla antes de su juicio",
-      "link": "https://www.mediterraneodigital.com/espana/begona-gomez-psoe-elecciones",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/10/sanchez-gomez.jpg",
       "tipo": "imagen"
     }
   ]

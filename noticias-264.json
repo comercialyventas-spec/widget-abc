@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Conocerás a Manuel Puig",
+      "link": "https://www.abc.es/espana/cataluna/conoceras-manuel-puig-20261015125336-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/15/image_20261015125058-R75pYXOvImeWjYwcRLslx8M-1200x840@diario_abc.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cuatro detenidos por el secuestro exprés de un hombre al que liberaron herido de bala en Sabadell",
       "link": "https://www.abc.es/espana/cataluna/cuatro-detenidos-secuestro-expres-hombre-liberaron-herido-20261015101046-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/15/mossos-esposas-detenidos-RB2gqZjCUT4SbgEZjkViQYP-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El Tribunal de Cuentas amnistía a Puigdemont y una treintena de ex altos cargos del Govern por los gastos del 'procés'",
       "link": "https://www.abc.es/espana/cataluna/tribunal-cuentas-amnistia-puigdemont-treintena-altos-cargos-20261014111538-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/14/puigdemont-efe-RrJqKNt2lmyA0NFaywC5jCM-1200x840@diario_abc.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "NU BCN: una carta para saber cuándo sentarse, pero no cuándo terminar la noche",
-      "link": "https://www.abc.es/espana/cataluna/bcn-carta-saber-sentarse-terminar-noche-20261014174801-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/14/NUBCN%20sala-RWZRHru9DVuPK4BQGKF0tDK-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

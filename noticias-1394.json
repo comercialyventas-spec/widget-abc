@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de Los Cerros",
+      "link": "https://nuevosureste.es/licencias-berrocales-madriddbp/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/06/Los-Berrocales-foto-Nuevo-Sureste-1-400x250.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El proyecto de reparcelación de Los Cerros protege completamente la mina de sílex de Casa Montero, el tesoro arqueológico de los nuevos desarrollos del Sureste",
       "link": "https://nuevosureste.es/los-cerros-protege-mina-silex-casa-montero-tesoro-arqueologico/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/mina_silex_casa_montero-2-400x250.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Inma Sanz, vicealcaldesa de Madrid: “El sureste de Madrid es el futuro de la ciudad”",
       "link": "https://nuevosureste.es/clausura-jornada-surestelab/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/SuresteLab-2026-044-400x250.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Surestelab: El bloqueo eléctrico y la tramitación urbanística centran las preocupaciones para el desarrollo de vivienda en Madrid",
-      "link": "https://nuevosureste.es/surestelab-mesa-redodna/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/SuresteLab-2026-033-400x250.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Mueren dos ancianos al desplomarse el ascensor de una residencia en Vélez-Málaga",
+      "titulo": "Dos ancianos muertos y cuatro trasladados a la UCI tras desplomarse un ascensor en una residencia de Vélez-Málaga",
       "link": "https://www.20minutos.es/andalucia/malaga/muere-una-mujer-82-anos-desplomarse-ascensor-una-residencia-velez-malaga_7048924_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/15/6ad085327659e6-33585479.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Detienen a un hombre por apuñalar con unas tijeras a un menor de 16 años tras una discusión en Málaga",
+      "link": "https://www.20minutos.es/andalucia/malaga/detienen-un-hombre-por-apunalar-con-unas-tijeras-un-menor-16-anos-tras-una-discusion-malaga_7049066_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2021/05/13/tijeras.jpeg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Envían a prisión al presunto sicario de 18 años acusado del asesinato del famoso cirujano plástico de Marbella",
       "link": "https://www.20minutos.es/andalucia/malaga/envian-prision-presunto-sicario-18-anos-acusado-asesinato-famoso-cirujano-plastico-marbella_7047626_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/11/6acb7a1bcd0955-37622353.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Condenados a 14 años de prisión unos padres en Málaga por abandonar de madrugada a su hija recién nacida en un descampado",
-      "link": "https://www.20minutos.es/andalucia/malaga/condenados-14-anos-prision-unos-padres-malaga-por-abandonar-madrugada-su-hija-recien-nacida-un-descampado_7047614_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/02/02/ciudad-de-la-justicia-de-malaga.jpeg",
       "tipo": "imagen"
     }
   ]

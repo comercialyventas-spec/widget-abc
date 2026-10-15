@@ -25,15 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Real Betis vs FC Portoself.__wrap_n=self.__wrap_n||(self.CSS&&CSS.supports(\"text-wrap\",\"balance\")?1:2);self.__wrap_b=(a,b,c)=>{let d=null==(c=c||document.querySelector(`[data-br=\"${a}\"]`))?void 0:c.parentElement;if(!d)return;let e=a=>c.style.maxWidth=a+\"px\";c.style.maxWidth=\"\";let f=d.clientWidth,g=d.clientHeight,h=f/2-.25,i=f+.5,j;if(f){for(e(h),h=Math.max(c.scrollWidth,h);h+1<i;)e(j=Math.round((h+i)/2)),d.clientHeight===g?i=j:h=j;e(i*b+f*(1-b))}c.__wrap_o||\"u\">typeof ResizeObserver&&(c.__wrap_o=new ResizeObserver(()=>{self.__wrap_b(0,+c.dataset.brr,c)})).observe(d)};self.__wrap_n!=1&&self.__wrap_b(\"_R_68mav5tebsqkqivb_\",1)",
-      "link": "https://entradas.elmundo.es/es/sport-tickets/football/champions-league-tickets/show-268788",
-      "imagen": "https://entradas.elmundo.es/_next/image?url=https%3A%2F%2Fgigsberg.com%2Ffiles%2Fimages%2Fperformers%2Freal_betis_1766734156.webp&w=1920&q=75",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Eric Clapton",
       "link": "https://entradas.elmundo.es/es/concert-tickets/rock/eric-clapton-tickets/show-284559",
       "imagen": "https://entradas.elmundo.es/temp/433e55a71145acd0.avif",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "SL Benfica",
+      "link": "https://entradas.elmundo.es/es/sport-tickets/football/europa-league-tickets/show-269129",
+      "imagen": "https://entradas.elmundo.es/temp/64a8aedf8579c079.avif",
       "tipo": "imagen"
     }
   ]

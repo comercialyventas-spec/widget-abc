@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "La Fiscalía acusa a dos de las tres menores investigadas por supuesto acoso a Sandra Peña",
+      "titulo": "La Fiscalía acusa de dos delitos a dos de las tres menores investigadas por supuesto acoso escolar a Sandra Peña",
       "link": "https://www.20minutos.es/andalucia/sevilla/fiscalia-acusa-dos-las-tres-menores-investigadas-por-supuesto-acoso-sandra-pena_7049014_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/11/6acb6902b7c3e4-19202667.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Ayuntamiento destinará más de 2,6 millones de euros en ayudas al deporte en 2027",
+      "link": "https://www.20minutos.es/andalucia/sevilla/ayuntamiento-destinara-mas-2-6-millones-euros-ayudas-deporte-2027_7049168_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/15/6ad0b6f2bde435-04495339.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Andalucía reduce cerca de seis puntos el abandono escolar temprano con proyectos de voluntariado como las ‘hadas madrinas’",
+      "link": "https://www.20minutos.es/andalucia/sevilla/andalucia-reduce-cerca-seis-puntos-abandono-escolar-temprano-con-proyectos-voluntariado-como-las-hadas-madrinas_7047054_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/09/6ac8c8ec85c4f2-19482027.jpeg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Las calles Río de la Plata y Santa Rosa permanecerán cortadas al tráfico del 15 al 29 de octubre por obras de reasfaltado",
       "link": "https://www.20minutos.es/andalucia/sevilla/las-calles-rio-plata-santa-rosa-permaneceran-cortadas-trafico-15-29-octubre-por-obras-reasfaltado_7048702_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/14/6acf79815b2297-25423964.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Muere una persona y otra resulta herida al chocar dos coches en Mairena del Alcor",
-      "link": "https://www.20minutos.es/andalucia/sevilla/muere-una-persona-otra-resulta-herida-chocar-dos-coches-mairena-alcor_7048683_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/14/6acf6d69b541b2-24523461.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El equipo de Fútbol Sala del Colegio San Agustín de Sevilla celebra su victoria en los Juegos internacionales Fisec-Ficep",
-      "link": "https://www.20minutos.es/andalucia/sevilla/equipo-futbol-sala-colegio-san-agustin-celebra-su-victoria-los-juegos-internacionales-fisec-ficep_7048407_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/13/6ace96601cb549-43249850.jpeg",
       "tipo": "imagen"
     }
   ]

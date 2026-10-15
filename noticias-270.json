@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "Salvamento traslada a Arguineguín a los ocupantes de un cayuco localizado a 163 kilómetros de Gran Canaria",
+      "titulo": "La Palma inaugura los Large-Sized Telescopes (LST) y abre una nueva era en la exploración del universo extremo",
+      "link": "https://www.abc.es/espana/canarias/palma-inaugura-largesized-telescopes-lst-abre-nueva-20261015155543-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/15/iac1-RCUQqRfqKqpxBY1lWWdHYzN-1200x840@diario_abc.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Salvamento traslada a Arguineguín a los ocupantes de un cayuco localizado a unos 160 kilómetros de Gran Canaria",
       "link": "https://www.abc.es/espana/canarias/salvamento-traslada-arguineguin-ocupantes-cayuco-localizado-163-20261015112827-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/15/efe-RS8JGRBdJse4za3Cqkpr9eN-1200x840@diario_abc.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Denuncian que el ayuntamiento de Puerto del Rosario podría vulnerar la ley electoral",
+      "link": "https://www.abc.es/espana/canarias/denuncian-ayuntamiento-puerto-rosario-vulnerar-ley-electoral-20261015135929-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/15/vera-RwIFvctfmgUrgu4ACIE8P7I-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Detenido por amenazar con una sierra de podar a un equipo de Televisión Canaria en pleno directo",
       "link": "https://www.abc.es/espana/canarias/detenido-amenazar-sierra-podar-equipo-television-canaria-20261014203735-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/14/sierra2-R0paH45r6B1iHfC9t8pBWlK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Cabildo de Tenerife prevé la construcción del Circuito del Motor, a pesar de la sentencia del TSJC",
-      "link": "https://www.abc.es/espana/canarias/cabildo-tenerife-preve-construccion-circuito-motor-pesar-20261014125715-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/14/motor-U45173143545sMm-1200x630@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Condenan al Servicio Canario de Salud por enviar a casa sin hacer pruebas a una mujer que murió horas después por un ictus",
-      "link": "https://www.abc.es/espana/canarias/condenan-servicio-canario-salud-enviar-casa-pruebas-20261014100740-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/14/hospi-RRCrYzTDko0V9SY50FcURcN-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
