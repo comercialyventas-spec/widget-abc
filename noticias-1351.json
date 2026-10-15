@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Podemos y los partidos del Frente Amplio ultiman los acuerdos territoriales para el 29-N fuera de Madrid y Barcelona",
+      "titulo": "Cuerpo apunta a una subida de las pensiones después de las elecciones",
+      "link": "https://elpais.com/espana/elecciones-generales/2026-10-15/cuerpo-asegura-que-el-gobierno-quiere-subir-las-pensiones-despues-de-las-elecciones.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/36RJDMW76ZE4LEFWGK2K47DSJY.jpg?auth=c9f3aaaba0599bda714e9a87ce6addb21264827d12356486d3b15720891e5131",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Podemos y los partidos del Frente Amplio ultiman acuerdos territoriales para el 29-N fuera de Madrid y Barcelona",
       "link": "https://elpais.com/espana/elecciones-generales/2026-10-15/podemos-y-los-partidos-del-frente-amplio-avanzan-en-los-acuerdos-territoriales-para-el-29-n.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/46FAD3MZMNAVRFBNLHJEOGAOAA.jpg?auth=ef934a71c826304be56983285cdc229e2df1c3b3eeba2a4c7b11a566d427e620"
+      "imagen": "https://imagenes.elpais.com/resizer/v2/46FAD3MZMNAVRFBNLHJEOGAOAA.jpg?auth=ef934a71c826304be56983285cdc229e2df1c3b3eeba2a4c7b11a566d427e620",
+      "tipo": "imagen"
     },
     {
-      "titulo": "El PSOE y el PP encienden la batalla por el futuro de las pensiones",
-      "link": "https://elpais.com/economia/2026-10-15/el-psoe-y-el-pp-encienden-la-batalla-por-el-futuro-de-las-pensiones.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/UTT5PBARRZAR5JBXA52PUG5K5M.jpg?auth=03c65e106d6adf76c3ed3ede86575b72865c313752a904cbf8828ce8bb29032f"
-    },
-    {
-      "titulo": "Por qué tantos sociólogos no se creen la encuesta del CIS: el sesgo en la muestra contamina las encuestas",
-      "link": "https://elpais.com/espana/2026-10-15/por-que-tantos-sociologos-no-se-creen-la-encuesta-del-cis-el-sesgo-en-la-muestra-contamina-las-encuestas.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/OEQOOHBQZNFBBJRLV7JGZCKFO4.jpg?auth=14067dcccec9e678fed24defc650a9c30fd7e8bc0a9d77358a5265000d4c0c1e"
+      "titulo": "Ayuso ataca las movilizaciones en su contra: “La izquierda, cuando va a perder las elecciones, se vuelve violenta”",
+      "link": "https://elpais.com/espana/madrid/2026-10-15/ayuso-vuelve-a-la-asamblea-con-la-estela-de-la-huelga-en-educacion-y-su-oposicion-frontal-a-sol.html",
+      "imagen": "https://www.youtube.com/watch?v=6AMzedLNiow",
+      "tipo": "imagen"
     },
     {
       "titulo": "Las voces de la huelga educativa: “Nuestro trabajo se ha convertido en un carrusel de bajas por ansiedad”",
       "link": "https://elpais.com/educacion/2026-10-15/las-voces-de-la-huelga-educativa-nuestro-trabajo-se-ha-convertido-en-un-carrusel-de-bajas-por-ansiedad.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/VXPGSUMZMRFT3FTHJ2A4KUKZMI.jpg?auth=f00df7bc6d542b4c35782d80307b266fa7d6234dcca8b5344e5b38e78040cc02"
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VXPGSUMZMRFT3FTHJ2A4KUKZMI.jpg?auth=f00df7bc6d542b4c35782d80307b266fa7d6234dcca8b5344e5b38e78040cc02",
+      "tipo": "imagen"
     },
     {
-      "titulo": "Qué quieren los profesores de Madrid: claves de la huelga educativa indefinida",
-      "link": "https://elpais.com/educacion/2026-10-15/que-quieren-los-profesores-de-madrid-claves-de-la-huelga-educativa-indefinida.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261014/1225480_184835_video_1800.mp4"
+      "titulo": "Por qué tantos sociólogos no se creen la encuesta del CIS: el sesgo en la muestra contamina las encuestas",
+      "link": "https://elpais.com/espana/2026-10-15/por-que-tantos-sociologos-no-se-creen-la-encuesta-del-cis-el-sesgo-en-la-muestra-contamina-las-encuestas.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/OEQOOHBQZNFBBJRLV7JGZCKFO4.jpg?auth=14067dcccec9e678fed24defc650a9c30fd7e8bc0a9d77358a5265000d4c0c1e",
+      "tipo": "imagen"
     },
     {
-      "titulo": "Escuchar a los profesores",
-      "link": "https://elpais.com/opinion/2026-10-15/escuchar-a-los-profesores.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/EL4B6FXBIJEPHNFNZJAUR2U7HU.JPG?auth=ceeb98f26ce14849679d2e08aea0c700c97585d1e881da46865a6fcd032caf71"
+      "titulo": "El “desastroso” estreno de la portavoz de la Casa Blanca provoca apuestas sobre su permanencia",
+      "link": "https://elpais.com/us/2026-10-14/el-desastroso-estreno-de-la-portavoz-de-la-casa-blanca-provoca-apuestas-sobre-su-permanencia.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261013/1224953_182510_video_1800.mp4",
+      "tipo": "imagen"
     }
   ]
 }

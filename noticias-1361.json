@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en directo, en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-10-15/el-pulso-de-hoy-por-hoy-en-el-pais.html",
+      "imagen": "https://www.youtube.com/watch?v=YSe7xgLyVk0",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Así es el cementerio musulmán de Ceuta donde están enterrados cerca de un centenar de migrantes de la entrada masiva",
       "link": "https://elpais.com/videos/2026-10-15/asi-es-el-unico-cementerio-musulman-de-ceuta.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261014/1225478_184805_video_1800.mp4",
@@ -28,12 +34,6 @@
       "titulo": "Audio | La declaración de la jueza Biedma en la Audiencia Nacional: “Allí, hacerme algo es muy fácil”",
       "link": "https://elpais.com/videos/2026-10-14/audio-la-declaracion-de-la-jueza-biedma-en-la-audiencia-nacional-alli-hacerme-algo-es-muy-facil.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261014/1225332_133328_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en directo, en EL PAÍS",
-      "link": "https://elpais.com/videos/2026-10-14/el-pulso-de-hoy-por-hoy-en-el-pais.html",
-      "imagen": "https://www.youtube.com/watch?v=KAWL1nrGGcA",
       "tipo": "imagen"
     }
   ]

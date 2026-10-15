@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Netflix se queda con los derechos de emisión de los partidos del Mundial 2030",
-      "link": "https://www.diariocritico.com/television/netflix-se-queda-derechos-emision-mundial-2030-espana",
-      "imagen": "https://www.diariocritico.com/fotos/1/image-da2209be6c10.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "El caso Daniel Sancho se convierte en miniserie en Netflix",
       "link": "https://www.diariocritico.com/television/caso-daniel-sancho-se-convierte-miniserie-netflix",
       "imagen": "https://www.diariocritico.com/fotos/1/sancho-1.jpg",
@@ -34,6 +28,12 @@
       "titulo": "El final explicado de la serie 'Mr. Robot': la gran revelación",
       "link": "https://www.diariocritico.com/television/final-explicado-de-la-serie-mr-robot",
       "imagen": "https://www.diariocritico.com/fotos/1/mr-robot-1.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "España aboga por seguir fuera de Eurovisión en 2027 y mantener el veto a Israel",
+      "link": "https://www.diariocritico.com/television/rtve-propone-espana-siga-sin-participar-eurovision-2027",
+      "imagen": "https://www.diariocritico.com/fotos/1/eurovision-fb09e8f0aa3b.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El castillo",
+      "link": "https://www.abc.es/play/series/criticas/castillo-20261015115659-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/15/castillo-kJVE-U302247280513XhE-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Vuelve 'Girls', la serie de Lena Dunham que definió a una generación: «Sus personajes empezaron a hablarme en la ducha»",
       "link": "https://www.abc.es/play/series/noticias/vuelve-girls-serie-lena-dunham-definio-generacion-20261014122251-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/14/26841795-kLC-U3022274425265NB-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Llega a Netflix la nueva temporada de 'Lupin': un robo simultáneo y una huida de prisión que te mantendrán enganchado",
       "link": "https://www.abc.es/play/series/noticias/llega-netflix-nueva-temporada-lupin-robo-simultaneo-20261012230433-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/12/lupin-ktvB-RUspBlpdaEmqxDofIUVKhPP-1200x840@diario_abc.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El reto de encarnar a Raphael: «Es lo más intenso que he rodado jamás»",
-      "link": "https://www.abc.es/play/series/noticias/hombres-aterrizan-mito-raphael-20261011013831-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/11/1518469893-kdsB-U302155462076M0H-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

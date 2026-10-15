@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un portacontenedores se hunde en el estrecho de Ormuz en plena escalada de ataques a buques de carga",
+      "link": "https://www.elperiodico.com/es/videos/internacional/portacontenedores-hunde-estrecho-ormuz-plena/135358867.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/3daed15a-6179-49fc-aaf7-369df4128e83_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las cataratas del Iguazú registran una espectacular crecida tras las intensas lluvias",
       "link": "https://www.elperiodico.com/es/videos/internacional/cataratas-iguazu-registran-espectacular-crecida/135312514.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/582c7a90-a799-4589-9298-92386d11303f_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Rusia ataca con drones una zona residencial de Kiev",
       "link": "https://www.elperiodico.com/es/videos/internacional/rusia-ataca-drones-zona-kiev/135270609.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7de0a559-1578-4c43-bc09-32d9674cecc5_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Trump sobre la tregua entre Kiev y Moscú: \"hay acuerdo porque yo he dicho que hay acuerdo\"",
-      "link": "https://www.elperiodico.com/es/videos/internacional/trump-tregua-kiev-moscu-hay/135269714.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/abe41d17-2390-41fe-b5a6-fe221d3b4cc6_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

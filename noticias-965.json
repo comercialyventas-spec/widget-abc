@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "A porrazos con la educación pública",
+      "link": "https://elpais.com/sociedad/2026-10-15/a-porrazos-con-la-educacion-publica.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261014/1225379_153538_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Qué quieren los profesores de Madrid: claves de la huelga educativa indefinida",
       "link": "https://elpais.com/educacion/2026-10-15/que-quieren-los-profesores-de-madrid-claves-de-la-huelga-educativa-indefinida.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/66HFFA7ZAZORZMQCE6QRQGWP2Y.jpg?auth=be3c7a14d21fb7f28bd408eeb309c44d2ed7f0281126df418938132496590bd9",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261014/1225480_184835_video_1800.mp4",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Cinco detenidos y ocho heridos en una carga policial en la Complutense por la huelga educativa",
       "link": "https://elpais.com/educacion/2026-10-14/cinco-detenidos-y-seis-heridos-en-una-carga-policial-en-la-complutense-por-la-huelga-educativa.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261014/1225241_101306_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los profesores de Madrid anuncian una dura huelga indefinida: “Los centros educativos van a parar por completo”",
-      "link": "https://elpais.com/educacion/2026-10-13/los-profesores-de-madrid-anuncian-una-dura-huelga-indefinida-los-centros-educativos-van-a-parar-por-completo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/HZQU2VQPRNDQ7J6O2FZMO2NE2Y.jpg?auth=6865a5f91eaadad7191ada1a7302809c6c81c5fcb525c6552c4f81a37b264cf9",
       "tipo": "imagen"
     }
   ]
