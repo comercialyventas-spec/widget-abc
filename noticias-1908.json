@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¡A por los rojos! ¡A por los moros!",
+      "link": "https://www.eldiario.es/opinion/zona-critica/rojos-moros_129_13588518.html",
+      "imagen": "https://static.eldiario.es/clip/4fca7374-d4e3-4281-878e-832751a508a4_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Todo muy normal en Ceuta",
       "link": "https://www.eldiario.es/opinion/zona-critica/normal-ceuta_129_13582755.html",
       "imagen": "https://static.eldiario.es/clip/175f7c82-9a30-4699-b784-4ef9d2b9b25c_16-9-discover-aspect-ratio_default_0_x1009y519.jpg",
@@ -28,12 +34,6 @@
       "titulo": "\"El desahucio del okupa de Moncloa\", o la miseria del lenguaje político",
       "link": "https://www.eldiario.es/opinion/zona-critica/desahucio-okupa-moncloa-miseria-lenguaje-politico_129_13561263.html",
       "imagen": "https://static.eldiario.es/clip/fbee0ed1-396b-49f5-ad0f-dba32b0a31df_16-9-discover-aspect-ratio_default_0_x554y384.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Vamos a reírnos un rato de los perroflautas",
-      "link": "https://www.eldiario.es/opinion/zona-critica/reirnos-rato-perroflautas_129_13554740.html",
-      "imagen": "https://static.eldiario.es/clip/aff233d3-66ee-41b8-aec0-97dfd3b17d4b_16-9-discover-aspect-ratio_default_0_x1375y795.jpg",
       "tipo": "imagen"
     }
   ]

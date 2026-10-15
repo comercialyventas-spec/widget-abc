@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "El tiempo en España",
+      "link": "https://efe.com/espana/2025-11-26/tiempo-espana-hoy-prediccion-meteorologia-aemet/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/el-tiempo-en-espana-5.webp?w=600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Elma Saiz liderará la lista de los socialistas navarros al Congreso de los Diputados",
+      "link": "https://efe.com/navarra/2026-10-15/elma-saiz-lista-socialistas-navarros-congreso-diputados/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/ELECCIONES-PSOE.webp?w=600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los acampados en la Puerta del Sol deciden en asamblea el futuro de la movilización",
+      "link": "https://efe.com/espana/2026-10-15/acampados-puerta-sol-movilizacion/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/GRAF7544-ESPANA-CRISIS-VIVIENDA.webp?w=600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La investigación por el accidente de Adamuz se prolongará más del año previsto",
       "link": "https://efe.com/espana/2026-10-15/investigacion-accidente-adamuz/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/02/rss-efe748acf1118921ea88b31b1ed71ab887b8d78968aw.webp?w=600&ssl=1",
@@ -16,24 +34,6 @@
       "titulo": "Feijóo justifica que Italia mantenga los controles Schengen porque España «no es fiable»",
       "link": "https://efe.com/espana/2026-10-15/feijoo-justifica-italia-mantenga-controles-schengen/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/Feijoo-justifica-que-Italia-mantenga-los-controles-Schengen.webp?w=600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Manifestaciones de protesta e incidentes en Pamplona ante una convocatoria de Vito Quiles",
-      "link": "https://efe.com/navarra/2026-10-15/convocatoria-vito-quiles-pamplona/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/GRAF7458-ESPANA-VITO-QUILES.webp?w=600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Podemos y Sumar cierran con Nueva Canarias e IU su primer acuerdo territorial para el 29N",
-      "link": "https://efe.com/espana/2026-10-15/podemos-sumar-acuerdo-territorial-nueva-canarias-iu/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/GRAF8090-ESPANA-ELECCIONES-GENERALES.webp?w=600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La JEC acuerda enviar documentación electoral a todo el CERA, aunque no todos puedan votar",
-      "link": "https://efe.com/espana/2026-10-15/jec-envio-documentacion-electora-cera/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/LEY-NIETOS.webp?w=600&ssl=1",
       "tipo": "imagen"
     }
   ]

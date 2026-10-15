@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Los relojes atómicos dejarán de añadir segundos para ajustarse a la rotación de la Tierra",
+      "link": "https://www.publico.es/ciencias/relojes-atomicos-dejaran-anadir-segundos-ajustarse-rotacion-tierra.html",
+      "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/10/15/6ad0e8eb4300b.r_d.484-327-2699.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La IA de Anthropic envió una pista falsa sobre un homicidio a la Policía de Filadelfia",
       "link": "https://www.publico.es/ciencias/tecnologia/ia-anthropic-envio-pista-falsa-sobre-homicidio-policia-filadelfia.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/06/13/6a2d1abe9e75b.webp",
@@ -28,12 +34,6 @@
       "titulo": "Henri B. Kagan y Kenso Soai, Nobel de Química por las reacciones que conducen a la homoquiralidad",
       "link": "https://www.publico.es/ciencias/henri-b-kagan-kenso-soai-nobel-quimica-reacciones-conducen-homoquiralidad.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/07/6ac6202eb3975.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Premio Nobel de Física para Francis Halzen por el hallazgo de neutrinos de alta energía de origen astrofísico",
-      "link": "https://www.publico.es/ciencias/investigacion/premio-nobel-fisica-francis-halzen-hallazgo-neutrinos-alta-energia-origen-astrofisico.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/06/6ac4d591696ab.png",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Mientras, en Ceuta...",
+      "link": "https://www.eldiario.es/opinion/ceuta_131_13589692.html",
+      "imagen": "https://static.eldiario.es/clip/d9a7299c-1c62-4cd4-a1c3-b01a7565c716_16-9-discover-aspect-ratio_default_0_x360y141.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sorprendidos",
       "link": "https://www.eldiario.es/opinion/sorprendidos_131_13579074.html",
       "imagen": "https://static.eldiario.es/clip/ecd46b9c-33f9-4774-b9aa-bebb87d6caa0_16-9-discover-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La diferencia",
       "link": "https://www.eldiario.es/opinion/diferencia_131_13561410.html",
       "imagen": "https://static.eldiario.es/clip/718d4753-9c56-4b7d-8819-29787c418c2a_16-9-discover-aspect-ratio_default_0_x440y102.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los aplausos",
-      "link": "https://www.eldiario.es/opinion/aplausos_131_13560120.html",
-      "imagen": "https://static.eldiario.es/clip/7b93b35b-9eb3-4ae1-a328-5f4f3943d320_16-9-discover-aspect-ratio_default_0_x262y177.jpg",
       "tipo": "imagen"
     }
   ]
