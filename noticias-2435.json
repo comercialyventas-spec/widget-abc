@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Lavarse las manos, una de las medidas más sencillas y efectivas para evitar infecciones",
+      "link": "https://www.rtve.es/noticias/20261015/lavarse-manos-medidas-mas-sencillas-efectivas-para-evitar-infecciones/17267693.shtml",
+      "imagen": "https://img.rtve.es/imagenes/lavarse-manos-medidas-mas-sencillas-efectivas-para-evitar-infecciones/01792056134389.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Horario de invierno: ¿cuándo es el cambio de hora en octubre de 2026?",
       "link": "https://www.rtve.es/noticias/20261015/cuando-cambio-hora-invierno-octubre-2026/17267391.shtml",
       "imagen": "https://img.rtve.es/imagenes/cuando-cambio-hora-invierno-octubre-2026/01792034742947.jpg",
@@ -28,12 +34,6 @@
       "titulo": "NitiBraid, el invento puntero que diseña implantes a medida con impresión 3D",
       "link": "https://www.rtve.es/noticias/20261012/nitibraid-invento-ingeniero-biomecanico-disenar-implantes-medida-james-dyson-award/17261222.shtml",
       "imagen": "https://img.rtve.es/imagenes/nitibraid-invento-ingeniero-biomecanico-disenar-implantes-medida-james-dyson-award/01791559984470.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una onda oceánica impulsada por El Niño elevará hasta 30 centímetros el mar en California",
-      "link": "https://www.rtve.es/noticias/20261012/onda-oceanica-impulsada-por-nino-elevara-hasta-30-centimetros-mar-california/17256652.shtml",
-      "imagen": "https://img.rtve.es/imagenes/onda-oceanica-impulsada-por-nino-elevara-hasta-30-centimetros-mar-california/01791362617963.jpg",
       "tipo": "imagen"
     }
   ]
