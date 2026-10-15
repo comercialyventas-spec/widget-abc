@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La inundación de una residencia de Sant Adrià de Besòs",
+      "link": "https://www.elperiodico.com/es/videos/barcelona/inundacion-residencia-sant-adria-besos-video/135383919.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b747a582-faa3-44c2-af49-e0ad4d53dc5f_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Vídeo Muere un hombre en el incendio de una vivienda en Sants",
       "link": "https://www.elperiodico.com/es/videos/barcelona/video-muere-hombre-incendio-vivienda/135300060.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ed928268-656a-4c0a-9422-5d184da7e4ab_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "'Els Llums de Sant Pau' trae el mundo de 'El Principito' a Barcelona",
       "link": "https://www.elperiodico.com/es/videos/barcelona/els-llums-sant-pau-trae-principito/135245043.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/eb014808-3482-476d-8c10-1a14642ca2b8_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Jordi Martí, alcaldable de Junts en Barcelona, sobre Aliança Catalana",
-      "link": "https://www.elperiodico.com/es/videos/barcelona/jordi-marti-alcaldable-junts-barcelona-video/135184847.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d75d4851-9c88-4507-ae67-72165448184f_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

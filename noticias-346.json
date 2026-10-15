@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Golpe al cibercrimen: Microsoft y la policía de Japón desmantelan una red de 'phishing' que envió más de 1.000 millones de mensajes fraudulentos",
+      "link": "https://www.abc.es/tecnologia/golpe-cibercrimen-microsoft-policia-japon-desmantelan-red-20261015183438-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/15/sms-spam-RYRq7sjxbzn6PwhKpalEasK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El peligro oculto de la IA: los terroristas pueden saltarse sus filtros de seguridad para conseguir la información que necesitan",
+      "link": "https://www.abc.es/tecnologia/peligro-oculto-ia-terroristas-pueden-saltarse-filtros-20261015173347-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/15/terrorista-ordenador-Rmmc1juQd4CIJsJ9CMWYodO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "OpenAI, demandada por ocho estados de EE.UU. por «causar daños a niños», «engañar a padres» e infringir la ley",
       "link": "https://www.abc.es/tecnologia/openai-demandada-ocho-estados-eeuu-causar-danos-20261015095551-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/15/1518493644-kdvG-U302245511769trG-1200x840@diario_abc.JPG",
@@ -22,18 +34,6 @@
       "titulo": "Un ingeniero espía, papel higiénico y una grabadora: el plan para robar los secretos de OpenAI",
       "link": "https://www.abc.es/tecnologia/fbi-detiene-empleado-openai-colocar-grabadora-escucha-20261014100107-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/14/openai-k07-U302224456327EZH-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Epic Games quiere desarrollar su próximo videojuego de Marvel y Star Wars con IA: «No más código escrito a mano»",
-      "link": "https://www.abc.es/tecnologia/videojuegos/epic-games-quiere-desarrollar-proximo-videojuego-marvel-20261013213614-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/13/fortnite-star-wars-disney-RuyxXOMqI2wFs3CzRVivA7L-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Satya Nadella pide un «botón de emergencia» para la IA: cualquier persona debería poder detenerlas mientras trabajan",
-      "link": "https://www.abc.es/tecnologia/satya-nadella-pide-boton-emergencia-ia-persona-20261013202512-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/13/satya-nadella-microsoft-RQW4ShBcY1tg43cvcfwUJeN-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

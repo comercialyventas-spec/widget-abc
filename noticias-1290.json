@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "EEUU impone una tasa de 200.000 dólares a todos los barcos españoles",
+      "link": "https://www.mediterraneodigital.com/internacional/barcos-espanoles-eeuu",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/10/trump-aranceles.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las redes financieras de los Hermanos Musulmanes: ¿se desvanece su influencia ante la presión del Parlamento Europeo?",
       "link": "https://www.mediterraneodigital.com/internacional/ue-hermanos-musulmanes",
       "imagen": "https://www.mediterraneodigital.com/images/2026/10/parlamento-europeo.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Bolsonaro derrota a Lula en Brasil y se impone en la primera vuelta de las elecciones presidenciales",
       "link": "https://www.mediterraneodigital.com/internacional/flavio-bolsonaro-gana-lula-elecciones-brasil-2026",
       "imagen": "https://www.mediterraneodigital.com/images/2026/10/brasil-elecciones.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Detienen al ex número dos de la embajada venezolana con 50 kilos de cocaína en Madrid",
-      "link": "https://www.mediterraneodigital.com/internacional/jose-manuel-escorihuela",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/9/rey-jose-manuel-escorihuela.jpg",
       "tipo": "imagen"
     }
   ]

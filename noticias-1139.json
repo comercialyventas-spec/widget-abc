@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "La jueza suspende la entrada en prisión del maquinista del Alvia accidentado en Santiago",
+      "link": "https://elpais.com/espana/2026-10-15/la-jueza-suspende-la-entrada-en-prision-del-maquinista-del-alvia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/Y7N3LOR2EZF3BNQHZIGVIVM4AY.jpg?auth=31cf2234682d8fe8a640d3a1b8cc9466dfdfa980dbefc76def465e28147c4a97&width=1200",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "“Hay un dulce que es un Tinder al aire libre”: María Mieres, autora del libro que reúne las historias detrás de la repostería tradicional del norte de España",
+      "link": "https://elpais.com/gastronomia/2026-10-15/hay-un-dulce-que-es-un-tinder-al-aire-libre-maria-mieres-autora-del-libro-que-reune-las-historias-detras-de-la-reposteria-tradicional-del-norte-de-espana.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/MJMZUGUDHRHD3BAOF6JWC6JYZU.jpg?auth=967e4519d4753c3ad047af4ea672c769fa1a01c2ffff453fbac12db68be135b6&width=1200",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El ‘caso Recimil’ de Ferrol: así se hunde un barrio de vivienda pública en España",
+      "link": "https://elpais.com/espana/galicia/2026-10-14/el-caso-recimil-de-ferrol-asi-se-hunde-un-barrio-de-vivienda-publica-en-espana.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XPEEIN2CM5DQLDIC2HMHY5OWCA.JPG?auth=ac76a260201d59d17007e6971979cec0dc290d1ad26f8541663e39631f9a7461&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Multitudinario adiós a Xosé Manuel Beiras: “Fuiste el presidente que merecemos y nunca tuvimos”",
       "link": "https://elpais.com/espana/galicia/2026-10-09/multitudinario-adios-a-xose-manuel-beiras-fuiste-el-presidente-que-merecemos-y-nunca-tuvimos.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/A365NBMZBJGVRN7GLNAFBA5NW4.JPG?auth=6579b0a221b5749089ea0478a6d64641df890254de0748c2cb59cad0a5ed1629&width=1200",
@@ -9,31 +27,13 @@
     {
       "titulo": "Beiras vs Fraga, el ardor de la vieja política",
       "link": "https://elpais.com/espana/2026-10-08/beiras-vs-fraga-el-ardor-de-la-vieja-politica.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/4ILCBM2TPFG65DDYNOPM5ZSYGY.jpg?auth=03f36382b0c104faebb34710cfc0cdd25f92fee2e2ad52d68a3896e39e3f7979&width=1200",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Muere Xosé Manuel Beiras, volcánico intelectual e histórico dirigente del nacionalismo gallego, a los 90 años",
       "link": "https://elpais.com/espana/2026-10-08/muere-a-los-90-anos-xose-manuel-beiras-historico-dirigente-del-nacionalismo-gallego.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/AJDW53HVSBDOBNP45L5RKK5T4I.jpg?auth=1578af4f1d935842dd14ef2c50830989df30463a570829659a197f7f4d197363&width=414&height=233&focal=1384%2C637",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mujeres desnudas para promocionar una empresa de almejas en una feria de Vigo",
-      "link": "https://elpais.com/espana/2026-10-07/mujeres-desnudas-para-promocionar-una-empresa-de-almejas-en-una-feria-de-vigo.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "El último “escándalo” del pazo de Meirás: los Franco subastan 700 lotes en Madrid con la bendición de Estado y Xunta",
-      "link": "https://elpais.com/espana/galicia/2026-10-07/el-ultimo-escandalo-del-pazo-de-meiras-los-franco-subastan-700-lotes-en-madrid-con-la-bendicion-de-estado-y-xunta.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "El otro robo del siglo en la Catedral de Santiago: la pista de la Cruz de Alfonso III se pierde en Argentina",
-      "link": "https://elpais.com/espana/2026-10-07/el-otro-robo-del-siglo-en-la-catedral-de-santiago-la-pista-de-la-cruz-de-alfonso-iii-se-pierde-en-argentina.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/7M44QLJZXJCUHAVCNDYWGF5STA.jpg?auth=5fbc519a3aa2dd8bb4af378a6ddf2fada966e746c7b7540f73abec590187a379&width=414&height=311&focal=513%2C491",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/AJDW53HVSBDOBNP45L5RKK5T4I.jpg?auth=1578af4f1d935842dd14ef2c50830989df30463a570829659a197f7f4d197363&width=414&height=311&focal=1384%2C637",
       "tipo": "imagen"
     }
   ]

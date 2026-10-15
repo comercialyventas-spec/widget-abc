@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "‘La Mesa de Hora 25′, en directo en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-10-15/la-mesa-de-hora-25-el-programa-de-la-cadena-ser-en-el-pais.html",
+      "imagen": "https://www.youtube.com/watch?v=U3e2_qhs5Ro",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Cómo es la primera megacárcel de Costa Rica?",
       "link": "https://elpais.com/videos/2026-10-15/como-es-la-primera-megacarcel-de-costa-rica.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261015/1225763_112243_video_1800.mp4",
@@ -28,12 +34,6 @@
       "titulo": "De UCD a Ciudadanos: ¿hay hueco para el centro político en España?",
       "link": "https://elpais.com/videos/2026-10-15/de-ucd-a-ciudadanos-hay-hueco-para-el-centro-politico-en-espana.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261014/1225467_180753_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘La Mesa de Hora 25’, en directo en EL PAÍS",
-      "link": "https://elpais.com/videos/2026-10-14/la-mesa-de-hora-25-programa-en-el-pais.html",
-      "imagen": "https://www.youtube.com/watch?v=jOBlHGfQDFA",
       "tipo": "imagen"
     }
   ]
