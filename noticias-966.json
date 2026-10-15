@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Un Olmo en medio de un páramo",
+      "link": "https://elpais.com/television/2026-10-15/un-olmo-en-medio-de-un-paramo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/UBJ5HGOOKRBUXFIZE5QUNPINMQ.jpg?auth=52ec6273d4a124fc9b3c91a2d4e33fd142032fac10b4278ff0541189bf1647b9",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Vuelve ‘La diplomática’, la serie más realista que no puede inspirarse en la realidad: “Si lo hiciéramos tendríamos una película de Marvel”",
+      "link": "https://elpais.com/us/entretenimiento/2026-10-15/vuelve-la-diplomatica-la-serie-mas-realista-que-no-puede-inspirarse-en-la-realidad-si-lo-hicieramos-tendriamos-una-pelicula-de-marvel.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/WSVIGCPNSBGYRPMX4PASY54ZYQ.jpg?auth=0bc156843ceacf89d607256dcd86353c1207d958d03756a426f23fddf538bac6",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Estos son los 18 participantes del Benidorm Fest 2027: Merche, Ladilla rusa, Suzete y la intérprete de ‘Potra salvaje’, entre ellos",
       "link": "https://elpais.com/television/2026-10-14/estos-son-los-18-participantes-del-benidorm-fest-2027-merche-ladilla-rusa-suzete-y-la-interprete-de-potra-salvaje-entre-ellos.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/FKLHNRNEFJA5PGB774R2SITEUA.jpg?auth=a82dcf1bfe400fc9a4309df7e164414bdc237826525170ab2cadcea9da53e1d2",
@@ -22,18 +34,6 @@
       "titulo": "Visionquest",
       "link": "https://elpais.com/television/series/visionquest/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/GX4CQUVCMVBUPPQTNLSMMUPV3Y.jpg?auth=846090676d895b32f5f827e740a9b514c8ea63d9a5ca84e92c85be56954c1e03",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘Gran Hermano VIP’ regresa a Telecinco tres años después",
-      "link": "https://elpais.com/television/2026-10-14/gran-hermano-vip-regresa-a-telecinco-tres-anos-despues-de-su-anterior-edicion.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/H2QASZR6ABH7PGHZRY72MD5NKU.png?auth=96b6286c3182de3192c85ca1fcf7f8da008b887fb2acad565b333da5f921c457",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "NBA, Roland Garros y, ahora, el Mundial de fútbol: el deporte en directo se convierte en la gran apuesta de las plataformas de ‘streaming’ en España",
-      "link": "https://elpais.com/television/2026-10-14/juegos-olimpicos-nba-roland-garros-y-ahora-el-mundial-de-futbol-el-deporte-en-directo-se-convierte-en-la-gran-apuesta-de-las-plataformas-de-streaming-en-espana.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/CCBUZ2BSNJJWBMYHBHFJZSNFZI.jpg?auth=692d8242a0f28a319a2181228a2eb8da7bc930dba86c2cf04fe7f540d3abf3f1",
       "tipo": "imagen"
     }
   ]

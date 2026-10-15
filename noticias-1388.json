@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Zadie Smith té l’opinió correcta",
+      "link": "https://elpais.com/quadern/2026-10-15/zadie-smith-te-lopinio-correcta.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4FQKTEV66FNRLDZADZPQUZEMFU.jpg?auth=8e68b74f658ae338c5ff4b27718992e7bf9f308033652d2346adbaba3f32a3e0",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Gris Jordana, directora de fotografia de ‘La bola negra’: “Hi ha una simbiosi molt gran amb els Javis”",
       "link": "https://elpais.com/quadern/2026-10-14/gris-jordana-directora-de-fotografia-de-la-bola-negra-hi-ha-una-simbiosi-molt-gran-amb-els-javis.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/C7AGAVLH45E6DMVWS6M4RGHLBI.JPG?auth=c7f17f390f21d069f497a9993efa457f32918f770ab88f38222c5209f700d31c",
@@ -28,12 +34,6 @@
       "titulo": "El cotxe de l’Artur Blasco",
       "link": "https://elpais.com/quadern/musica/2026-10-12/el-cotxe-de-lartur-blasco.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/3YQRSQGKFZCCDOYJXENQIW6XGY.JPG?auth=e754e3e2b45e8a9285eee127881c5a14e8773544abf838ba9eee3a51e237edc2",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Josep Maria Castellet rellegeix ‘El quadern gris’ a Viladrau",
-      "link": "https://elpais.com/quadern/literatura/2026-10-11/josep-m-castellet-rellegeix-el-quadern-gris-a-viladrau.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/4YJUYPBODCEOHPEFPPVCN3KHR4.jpg?auth=db0bb007c52bb3e78be6ba7cfe0c21b26503e4bedb25e28e31fdc7155ba25a9e",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El calor sigue este jueves con máximas de 30 grados en todas estas provincias",
+      "link": "https://www.eldiario.es/sociedad/el-tiempo/calor-sigue-jueves-maximas-30-grados-provincias-pm_1_13585132.html",
+      "imagen": "https://static.eldiario.es/clip/16befca5-731a-4259-8b6b-d0c609815bea_16-9-discover-aspect-ratio_default_1153273.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El calor sigue en otoño: temperaturas por encima de los 30 grados y sin lluvias hasta el viernes",
       "link": "https://www.eldiario.es/sociedad/el-tiempo/calor-sigue-otono-temperaturas-30-grados-lluvias-viernes-pm_1_13580670.html",
       "imagen": "https://static.eldiario.es/clip/b380c4b2-49ff-4ba5-a5af-5aa0c2db21aa_16-9-discover-aspect-ratio_default_1153158.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La lluvia no remite y este miércoles descarga con fuerza en ocho comunidades",
       "link": "https://www.eldiario.es/sociedad/el-tiempo/lluvia-no-remite-miercoles-descarga-fuerza-ocho-comunidades-pm_1_13566686.html",
       "imagen": "https://static.eldiario.es/clip/6f7f7f24-7744-4185-9bc0-ccb90b9ea803_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "España encara otro día de lluvias con nueve comunidades con avisos activos",
-      "link": "https://www.eldiario.es/sociedad/el-tiempo/espana-encara-dia-lluvias-nueve-comunidades-avisos-activos-pm_1_13563099.html",
-      "imagen": "https://static.eldiario.es/clip/3b0b7088-6bd7-4df2-95fa-3b0142087b40_16-9-discover-aspect-ratio_default_1152727.jpg",
       "tipo": "imagen"
     }
   ]

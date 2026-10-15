@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Terror en el supermercado",
+      "link": "https://www.lavanguardia.com/vida/20261015/11658982/terror-supermercado.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/14/6acf9b59aa014.r_d.1450-1213-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Audiencia Nacional avala que los ópticos hablen de “pacientes” y no de “clientes”",
+      "link": "https://www.lavanguardia.com/vida/20261015/11659061/audiencia-nacional-avala-opticos-hablen-pacientes-clientes.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2020/03/17/5fa8fef590ba1.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Detenidas dos mujeres en Andújar por sustraer un bebé de un mes de su madre",
       "link": "https://www.lavanguardia.com/local/andalucia/20261014/11659135/detenidas-dos-mujeres-andujar-sustraer-bebe-mes-madre.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/13/6ace2c0183b2e.r_d.2460-1963-0.jpeg",
@@ -22,18 +34,6 @@
       "titulo": "¿Cómo reconocer un cáncer de mama más allá de un bulto?",
       "link": "https://www.lavanguardia.com/vida/20261014/11658857/como-reconocer-cancer-mama-mas-bulto.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/04/30/663117c5cef96.r_d.4115-3331-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El reto de los municipios: comunicar mejor, no más",
-      "link": "https://www.lavanguardia.com/vida/20261014/11658865/reto-municipios-comunicar-mejor-mas.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/14/6acf709a00a62.r_d.2220-1890-1010.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La lenta retirada del AVE incendiado mantendrá los retrasos entre Barcelona y Madrid toda la semana",
-      "link": "https://www.lavanguardia.com/vida/20261014/11658760/alta-velocidad-barcelona-madrid-circulara-sola-principios-proxima-semana.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/14/6acfc2b1373cc.r_d.1816-1572-1122.jpeg",
       "tipo": "imagen"
     }
   ]

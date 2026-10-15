@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Atención: Rayos, precauciones básicas",
+      "link": "https://www.lavanguardia.com/natural/20261015/11658941/atencion-rayos-precauciones-basicas.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Aemet alerta de una dana y de un desplome de las temperaturas para el fin de semana",
       "link": "https://www.lavanguardia.com/natural/20261014/11658896/semana-traera-lluvias-intensas-litoral-mediterraneo-baleares.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/11/04/6728f53a6e1b2.r_d.3140-1968-0.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Les aigües del Pacífic i la Mediterrània Occidental van batre rècords al setembre",
       "link": "https://www.lavanguardia.com/encatala/20261012/11656567/les-aiguees-pacific-i-mediterrania-occidental-batre-records-setembre-ctx.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/11/6acb83681ccc9.r_d.4096-2732-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Así ha empezado la nueva inundación repentina de un río que ha arrasado un pueblo en Nepal",
-      "link": "https://www.lavanguardia.com/natural/20261012/11656623/asi-empezado-nueva-inundacion-repentina-rio-arrasado-pueblo-nepal.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
       "tipo": "imagen"
     }
   ]

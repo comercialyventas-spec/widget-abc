@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "‘Fideos botón’ de zanahoria, una receta fácil de pasta fresca sin máquina",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-15/fideos-boton-de-zanahoria-una-receta-facil-de-pasta-fresca-sin-maquina.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RRKSB3WZDZENBGEMNPSTT3YDII.jpg?auth=c55865aac07bddf7855c900cac22d816817206bbc5813c25a74052ec7a025ef2",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Shakrieh, una receta de carne con salsa de yogur para no olvidar Palestina",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-15/shakrieh-una-receta-de-carne-con-salsa-de-yogur-para-no-olvidar-palestina.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20260928/1219459_151756_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Causa peruana de judías verdes",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-10-14/causa-peruana-de-judias-verdes.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/QUIZTMRUUZBWJNHDWE47HCY7EE.jpg?auth=36e32b24b80d88910503be5e24d22176907d69df61999cda385196d89c81606b",
@@ -22,18 +34,6 @@
       "titulo": "Once postres latinoamericanos que vale la pena hacer en casa",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-10-12/once-postres-latinoamericanos-que-vale-la-pena-hacer-en-casa.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/YDGQWN7P4RGMHARVHWYKH66DSU.jpg?auth=f8ce44d96fcd5e75713d6b893809b60b2331134f70b464733a91e3106d912275",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Menú semanal de El Comidista (12 a 18 de octubre)",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-11/menu-semanal-de-el-comidista-12-a-18-de-octubre.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/BTR2UYHMQJCLREHFUM3DRW72SM.jpg?auth=7881d3a1f9e722e23a40c02c76344880651d82a78853e26b65553319532238b9",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Torta de pimiento molido, una receta fácil de pan plano y crujiente",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-10/torta-de-pimiento-molido-una-receta-facil-de-pan-plano-y-crujiente.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/FS2K3J5SFFAAVCLF7MGFY7JXDE.jpg?auth=a6058e691d73437faf49a84694d41f3316fe4862c4d9f8f8a7b230431b123359",
       "tipo": "imagen"
     }
   ]

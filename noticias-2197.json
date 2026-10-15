@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Canales, canales, canales",
+      "link": "https://www.elperiodico.com/es/tele/20261015/canales-canales-canales-135334340",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/62453121-dabe-4fad-a025-dc8dd5feb118_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Netflix despide a 1.000 empleados en su mayor recorte de plantilla desde 2022",
       "link": "https://www.elperiodico.com/es/tele/20261014/netflix-despide-1-000-empleados-135336349",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/50cb035c-4fb5-43ac-b776-f5c7d8ebb81f_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "'VisionQuest' (Disney+):aventuras de un androide en busca de sí mismo",
       "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261013/visionquest-disney-entrevista-showrunner-135292178",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ffd1e53e-28f4-4656-a1f5-3f7c0728fce6_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La 2Cat tendrá un canal propio íntegramente en catalán y TV3 podrá emitir en UHD",
-      "link": "https://www.elperiodico.com/es/tele/20261013/2cat-tendra-canal-propio-integramente-135292089",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/4159c242-656b-4b49-8c14-79a92bd73a10_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

@@ -2,6 +2,24 @@
   "noticias": [
     {
       "titulo": "Los quijotes de España",
+      "link": "https://www.lavanguardia.com/politica/20261015/11659123/quijotes-espana.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/04/10/69d8d4a10ad68.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Sánchez, preparado para un choque con Meloni en el Consejo Europeo",
+      "link": "https://www.lavanguardia.com/politica/20261015/11659107/sanchez-preparado-choque-meloni-consejo-europeo.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/14/6acfc3d8936dc.r_d.1939-1484-1174.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Cuántos votos hay a la izquierda del PSOE en la Comunidad Valenciana?",
+      "link": "https://www.lavanguardia.com/local/valencia/20261015/11658722/votos-hay-izquierda-psoe-comunidad-valenciana.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2023/06/28/649c1e465cfc0.r_d.2481-2424-905.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los quijotes de España",
       "link": "https://www.lavanguardia.com/politica/20261015/11659221/quijotes-espana.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/15/6acffe10b3af3.jpeg",
       "tipo": "imagen"
@@ -16,24 +34,6 @@
       "titulo": "Mireia Ingla, Jordi Albert y Laura Pelay serán los números 2, 3 y 4 de la lista de ERC al Congreso",
       "link": "https://www.lavanguardia.com/politica/20261014/11659113/mireia-ingla-jordi-albert-laura-pelay-seran-numeros-2-3-4-lista-erc-congreso.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2022/07/27/62e13378bf4ed.r_d.592-304-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Conde-Pumpido: “Solo queda que el Supremo aplique la amnistía y cierre la causa del 'procés'”",
-      "link": "https://www.lavanguardia.com/politica/20261014/11659047/conde-pumpido-ley-amnistia-derogar-tendra-efectos-retroactivos.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/14/6acfc39041210.r_d.1656-2383-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "EE.UU. plantea sanciones de 200.000 dólares a cada barco español que atraque en sus puertos",
-      "link": "https://www.lavanguardia.com/politica/20261014/11659083/ee-uu-plantea-sanciones-200-000-dolares-barco-espanol-atraque-puertos.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/05/15/6a074c152151d.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Rey promete más cercanía de la Corona a Ceuta y Melilla",
-      "link": "https://www.lavanguardia.com/politica/20261014/11659044/rey-promete-mas-cercania-corona-ceuta-melilla.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/14/6acfb08a62273.jpeg",
       "tipo": "imagen"
     }
   ]
