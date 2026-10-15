@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Dicen que la IA va a matarte hoy (no importa cuándo leas esto)",
+      "link": "https://www.eldiario.es/opinion/tribuna-abierta/dicen-ia-matarte-hoy-no-importa-leas_129_13566700.html",
+      "imagen": "https://static.eldiario.es/eldiario/public/file/2026/1006/13/marta-g-franco.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ceuta, Marruecos y la inmigración",
       "link": "https://www.eldiario.es/opinion/tribuna-abierta/ceuta-marruecos-inmigracion_129_13583203.html",
       "imagen": "https://static.eldiario.es/clip/6c967bca-ccbe-434b-b65b-9ced46136f86_avatar-200-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Un tribunal contra la democracia",
       "link": "https://www.eldiario.es/opinion/tribuna-abierta/tribunal-democracia_129_13580456.html",
       "imagen": "https://static.eldiario.es/clip/c8871900-1d2d-482a-9ca1-2f260f48728b_avatar-200-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La protesta de Merrimack: el caso de extradición de James Cox Chambers",
-      "link": "https://www.eldiario.es/opinion/tribuna-abierta/protesta-merrimack-caso-extradicion-james-cox-chambers_129_13578966.html",
-      "imagen": "https://static.eldiario.es/clip/238876b2-6469-495c-9fef-d31cc267ba81_avatar-200-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

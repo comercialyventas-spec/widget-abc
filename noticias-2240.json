@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El tiempo en España",
+      "link": "https://efe.com/espana/2025-11-26/tiempo-espana-hoy-prediccion-meteorologia-aemet/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/el-tiempo-en-espana-4.webp?w=600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Fiscalía dice que los tribunales españoles pueden investigar la querella contra Julio Iglesias por acoso y agresión sexual",
       "link": "https://efe.com/espana/2026-10-14/fiscalia-espana-tribunales-investigacion-querella-julio-iglesias-acoso-agresion-sexual/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/Julio_Iglesias_querella.webp?w=600&ssl=1",
@@ -28,12 +34,6 @@
       "titulo": "El rey aboga por una relación con Marruecos basada en la confianza y la buena fe",
       "link": "https://efe.com/espana/2026-10-14/rey-relacion-marruecos-visita-melilla/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/melilla-reyes-espana.webp?w=600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sánchez sitúa a Robles de número dos del PSOE por Madrid y a sus ministros en puestos de salida",
-      "link": "https://efe.com/espana/2026-10-14/margarita-robles-listas-psoe-madrid-pedro-sanchez/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/margarita-robles-numero-dos-psoe-madrid-pedro-sanchez.webp?w=600&ssl=1",
       "tipo": "imagen"
     }
   ]

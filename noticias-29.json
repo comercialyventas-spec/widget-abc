@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Los quijotes de España",
+      "link": "https://www.lavanguardia.com/politica/20261015/11659221/quijotes-espana.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/15/6acffe10b3af3.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El gallego nace y se hace",
       "link": "https://www.lavanguardia.com/politica/20261014/11659145/gallego-nace.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/14/6acfe987a4571.r_d.4643-2474-0.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "El Rey promete más cercanía de la Corona a Ceuta y Melilla",
       "link": "https://www.lavanguardia.com/politica/20261014/11659044/rey-promete-mas-cercania-corona-ceuta-melilla.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/14/6acfb08a62273.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "De Puigdemont a los delegados de la Generalitat: los 35 amnistiados por el Tribunal de Cuentas",
-      "link": "https://www.lavanguardia.com/politica/20261014/11658877/puigdemont-delegados-generalitat-35-amnistiados-tribunal-cuentas.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/04/15/661e9e2b3340e.jpeg",
       "tipo": "imagen"
     }
   ]

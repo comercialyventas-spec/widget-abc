@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Muere una anciana de 82 años al desplomarse el ascensor de una residencia en Vélez-Málaga",
+      "link": "https://www.elmundo.es/andalucia/2026/10/15/6ad0122ffc6c832d328b4595.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920213237535.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Dimite el alcalde de Vélez-Málaga tras las protestas de sus vecinos por la polémica de la tasa de basura",
       "link": "https://www.elmundo.es/andalucia/2026/10/14/6acf4f68e9cf4ac46f8b45a0.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/14/17919713499753.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Un turismo sale volando y se empotra contra la fachada de un edificio en Marbella",
       "link": "https://www.elmundo.es/andalucia/2026/10/11/6acbdc51fdddffa32e8b4589.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/11/17917450659744.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mercadona, Lidl, Maskom, Eroski... Estos son los horarios de los supermercados en Málaga el 12 de octubre por el Día de la Hispanidad",
-      "link": "https://www.elmundo.es/andalucia/2026/10/11/6ac8068ee9cf4ac6398b459d.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2025/03/17/17422153582816.jpg",
       "tipo": "imagen"
     }
   ]
