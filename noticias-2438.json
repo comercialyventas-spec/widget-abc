@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Sorteo de la BonoLoto del miércoles 14 de octubre",
+      "link": "https://www.rtve.es/rtve/20261015/sorteo-bonoloto-del-miercoles-14-octubre/17263976.shtml",
+      "imagen": "https://img.rtve.es/imagenes/sorteo-bonoloto-del-miercoles-14-octubre/01792010707489.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sorteo de la BonoLoto y Euromillones del martes 13 de octubre",
       "link": "https://www.rtve.es/rtve/20261014/sorteo-bonoloto-euromillones-del-martes-13-octubre/17263973.shtml",
       "imagen": "https://img.rtve.es/imagenes/sorteo-bonoloto-euromillones-del-martes-13-octubre/01791922920414.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Sorteo de la BonoLoto y Primitiva del lunes 5 de octubre",
       "link": "https://www.rtve.es/rtve/20261006/sorteo-bonoloto-primitiva-del-lunes-5-octubre/17255076.shtml",
       "imagen": "https://img.rtve.es/imagenes/sorteo-bonoloto-primitiva-del-lunes-5-octubre/1791231127821.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Quiniela y Quinigol del domingo 4 de octubre",
-      "link": "https://www.rtve.es/rtve/20261006/quiniela-quinigol-del-domingo-4-octubre/17253252.shtml",
-      "imagen": "https://img.rtve.es/imagenes/quiniela-quinigol-del-domingo-4-octubre/1612866735973.jpg",
       "tipo": "imagen"
     }
   ]
