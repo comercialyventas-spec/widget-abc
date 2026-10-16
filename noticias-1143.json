@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Chile retira el vino de la mesa",
+      "link": "https://elpais.com/noticias/vino/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TUOWA24UQVDQRP2DZWYWKPJWDY.jpg?auth=273614efee3df38a4039e0f4deda387ec2c790499c6cd597613fe93054491f23&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El supervisor de los futuros de EE UU entorpece la investigación de operaciones sospechosas con el petróleo",
       "link": "https://elpais.com/economia/2026-10-13/el-supervisor-de-los-futuros-de-ee-uu-entorpece-la-investigacion-de-operaciones-sospechosas-con-el-petroleo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/6ST66JBNBNIDDGVFRJUQHNTNBA.jpg?auth=822bd291cec80568ca6c4c47c5e4d23d5acf2347fee3e44a17442b6e4a486220&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/6ST66JBNBNIDDGVFRJUQHNTNBA.jpg?auth=822bd291cec80568ca6c4c47c5e4d23d5acf2347fee3e44a17442b6e4a486220&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
@@ -19,21 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "¿Cuánto sabes de cultura financiera? Diez preguntas para demostrar tus conocimientos",
-      "link": "https://elpais.com/educacion/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/SJ4KT3MNEZCZNMSFRFILQUVDWI.jpg?auth=3735c0c2be5b996ce1e395acb7840166a3d221f462776faa15707b6373ef3d7e&width=414&height=311&focal=3605%2C2719",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "De los sellos a las criptos: ¿qué saben los ciudadanos de los productos financieros que compran?",
       "link": "https://elpais.com/noticias/inversion/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/65TY6V2IOZCGFNFGOJ5ETVMQPM.jpg?auth=2aecaa0cf7c433f5b1de4a2a50c4ddd1fd0fdd0fa7d208155fd3a99374b4b487&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
-      "titulo": "La AIE anima a una nueva liberación de reservas de diésel para detener la escalada de precios",
-      "link": "https://elpais.com/noticias/petroleo/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/EQHXMTSX4ZJCZLFBR3YQAEFZE4.jpg?auth=0e835baa8dc020ab90c5c4d29a983c45b7bd41ba95d064d01489cb869634b6da&width=414&height=311&smart=true",
+      "titulo": "¿Cuánto sabes de cultura financiera? Diez preguntas para demostrar tus conocimientos",
+      "link": "https://elpais.com/educacion/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SJ4KT3MNEZCZNMSFRFILQUVDWI.jpg?auth=3735c0c2be5b996ce1e395acb7840166a3d221f462776faa15707b6373ef3d7e&width=414&height=311&focal=3605%2C2719",
       "tipo": "imagen"
     }
   ]

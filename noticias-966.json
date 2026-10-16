@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Criminales organizados",
+      "link": "https://elpais.com/television/series/criminales-organizados/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/HKYEWAYTDBBMHKPHKPWAIQGMDA.jpg?auth=12be52f77af3ae8185b42bfa1aa1e33c91f8ff084b7ee9ee2396e5236cce0cea",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Crystal Lake",
       "link": "https://elpais.com/television/series/crystal-lake/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/TLVV45OD45HN5HUTI7UYPNZIIE.jpg?auth=29c82c17f7fbc5bad42ba82b8c9cbd5c3b128d8886b46f7011fd9dfaeac52a11",
@@ -28,12 +34,6 @@
       "titulo": "Un hospital convertido en purgatorio: ‘The Terror’ regresa fusionando lo sobrenatural con una pesadilla recurrente de los espectadores",
       "link": "https://elpais.com/television/series/2026-10-16/un-hospital-convertido-en-purgatorio-the-terror-regresa-fusionando-lo-sobrenatural-con-una-pesadilla-recurrente-de-los-espectadores.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/2YP7GHZ7OBEN3DELPRMD6ZQLSQ.jpg?auth=767b3163df89c9daa310a47aa14b0ea57ced2fe374108c680ae42e33e1b1ea1c",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ion Aramendi, la risa entre tanto enfado",
-      "link": "https://elpais.com/television/2026-10-16/ion-aramendi-la-risa-entre-tanto-enfado.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ZZOBB3V4GBDI5H7YQCDG322EMY.png?auth=3c2ad677619b7eca9ccb54fffb16ad4c595da678b6099cbc7bc90f23aa386d68",
       "tipo": "imagen"
     }
   ]

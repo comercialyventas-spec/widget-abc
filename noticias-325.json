@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "10 planes gastronómicos para hacer en Madrid en octubre: desde cuatro manos y chefs famosos hasta un té inglés, una feria del marisco y noche de los muertos",
+      "titulo": "10 planes gastronómicos para hacer en Madrid en octubre: desde chefs famosos hasta una feria del marisco y la noche de los muertos",
       "link": "https://www.abc.es/gastronomia/planes-gastronomicos-madrid-octubre-cuatro-manos-chefs-20261016111342-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/10/16/planesoctubremadrid-Rl54IYai0vSEo8z6K5G9UaI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Bresa, el nuevo restaurante en Madrid de los hermanos Aparicio",
+      "link": "https://www.abc.es/gastronomia/bresa-empezar-base-20261016140726-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/10/16/Comedor-R24g1dhIa9dQk2ClOAda6VO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El mejor parrillero de España llegó en patera y trabaja en un restaurante familiar de Murcia",
+      "link": "https://www.abc.es/gastronomia/ocho-minutos-decisivos-coronan-rey-espana-carne-20261010193747-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/10/10/ganadores-RbEpS0Cf4epkQ06QpwD5A7L-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Maluma celebra su actuación con Shakira en Madrid en un animado restaurante de la Milla de Oro",
       "link": "https://www.abc.es/gastronomia/maluma-celebra-actuacion-shakira-madrid-animado-restaurante-20261014111612-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/10/14/malumaap-R37BNDoFHwmmZehjXhxENgO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tres homenajes",
-      "link": "https://www.abc.es/gastronomia/tres-homenajes-20261010011804-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/10/10/nuevacocinavasca_ssg26-RqLzrRD9lJCLCzOt4xnA8ZN-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El mejor parrillero de España llegó en patera y trabaja en un restaurante familiar de Murcia",
-      "link": "https://www.abc.es/gastronomia/ocho-minutos-decisivos-coronan-rey-espana-carne-20261010193747-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/10/10/ganadores-RbEpS0Cf4epkQ06QpwD5A7L-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

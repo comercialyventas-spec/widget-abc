@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Barcelona, capital mundial de la arquitectura",
+      "link": "https://www.lavanguardia.com/magazine/20261016/11658933/barcelona-capital-mundial-arquitectura.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/16/6ad230e0b9b86.r_d.1835-1243-1316.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Mireia Velasco, nutricionista: “La inflamación no siempre es un enemigo que debemos eliminar, es la respuesta esencial del cuerpo para protegernos de infecciones y toxinas”",
+      "link": "https://www.lavanguardia.com/magazine/bienestar/20261016/11660702/mireia-velasco-nutricionista-inflamacion-no-siempre-enemigo-debemos-eliminar-respuesta-esencial-cuerpo-para-protegernos-infecciones-toxinas-gvm.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/21/69201ff1362c3.r_d.802-489-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Menopausia, perfumes y movimiento: Magazine reúne bienestar y ciencia en una Jornada Wellness",
+      "link": "https://www.lavanguardia.com/magazine/20261016/11660732/menopausia-perfumes-movimiento-magazine-reune-bienestar-ciencia-jornada-wellness.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/16/6ad20f0ceb4f1.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Pino Alonso, psiquiatra: “Saber que tienes TOC es parecido a ver una película de terror, aunque sepamos que es ficción, el miedo que sentimos es real”",
       "link": "https://www.lavanguardia.com/magazine/bienestar/20261015/11658731/pino-alonso-psiquiatra-saber-que-tienes-toc-es-parecido-a-ver-una-pelicula-de-terror-aunque-sepamos-que-es-ficcion-el-miedo-que-sentimos-es-real-gvm.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/14/6acf58d395f88.r_d.1491-955-1496.jpeg",
@@ -16,24 +34,6 @@
       "titulo": "Antonio Naranjo, reumatólogo: “Se puede tener osteoporosis sin presentar ningún síntoma, ya que la enfermedad suele hacerse evidente cuando aparece una fractura”",
       "link": "https://www.lavanguardia.com/magazine/bienestar/20261016/11659662/antonio-naranjo-reumatologo-puede-osteoporosis-presentar-sintoma-enfermedad-evidente-fractura-gvm.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/15/6ad0b6c1aa415.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Victoria Maizes, doctora: “Ante una inflamación no siempre conviene recurrir inmediatamente al ibuprofeno; a veces queremos suprimir una reacción sin entender su función”",
-      "link": "https://www.lavanguardia.com/magazine/bienestar/20261016/11659817/victoria-maizes-doctora-inflamacion-siempre-conviene-recurrir-inmediatamente-ibuprofeno-veces-queremos-suprimir-reaccion-entender-funcion.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/15/6ad0bf046e94e.r_d.1997-1073-1124.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El primer pueblo de esclavos libres de América, el corazón afro de Colombia",
-      "link": "https://www.lavanguardia.com/magazine/viajes/20261016/11657598/san-basilio-palenque-colombia-primer-pueblo-esclavos-libres-america.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/13/6ace04e9dbb7b.r_d.1257-1141-1852.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Arribes, el Duero más salvaje entre viñedos y cañones que enamoró a Unamuno",
-      "link": "https://www.lavanguardia.com/magazine/lifestyle/20261016/11657587/arribes-duero-mas-salvaje-vinedos-canones-enamoro-unamuno.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/13/6ace081a3f036.r_d.4162-2330-548.jpeg",
       "tipo": "imagen"
     }
   ]

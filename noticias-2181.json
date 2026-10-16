@@ -1,7 +1,19 @@
 {
   "noticias": [
     {
-      "titulo": "Los catalanes viven 68 años con buena salud, aunque la esperanza de vida alcanza los 84",
+      "titulo": "Europa da luz verde a orforglipron, la pastilla diaria para la obesidad que se puede tomar sin restricciones de comida ni agua",
+      "link": "https://www.elperiodico.com/es/sanidad/20261016/europa-luz-verde-orforglipron-pastilla-diaria-obesidad-restricciones-comida-agua-135420532",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/74db19f2-1904-4142-b439-cefd2fb87d63_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Así es 'Rasonque', la pastilla autorizada por Europa que duplica la supervivencia en cáncer de páncreas",
+      "link": "https://www.elperiodico.com/es/sanidad/20261016/rasonque-pastilla-autorizada-europa-duplica-supervivencia-cancer-de-pancreas-135415461",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/937f4f9d-5eda-43ef-9848-9b031e19b8a5_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los catalanes tienen buena salud hasta los 68 años, aunque viven de media 84",
       "link": "https://www.elperiodico.com/es/sanidad/20261016/esperanza-vida-buena-salud-cataluna-pla-salut-horizto-2035-135374443",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/bc6fdcf7-cfcf-4b61-b271-4ef59d6bf2f2_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
@@ -22,18 +34,6 @@
       "titulo": "El intestino produce alrededor del 90% de la serotonina del organismo: qué significa este dato y otras curiosidades",
       "link": "https://www.elperiodico.com/ideas/quironsalud/intestino.html",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0c0b90c2-ef80-43de-af76-41c289da6055_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Sistema d'Emergències Mèdiques atiende ocho paradas cardiacas al día en Catalunya: 2.900 cada año",
-      "link": "https://www.elperiodico.com/es/sanidad/20261016/sistema-emergencias-medicas-cataluna-paradas-cardiacas-atencion-135327276",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/c97e0f3a-cf7c-4957-9654-33b090e0d040_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un fármaco utilizado para suprimir la producción de leche tras el parto podría reducir el riesgo de cáncer de mama",
-      "link": "https://www.elperiodico.com/es/sanidad/20261015/farmaco-utilizado-produccion-leche-podria-suprimir-riesgo-cancer-de-mama-135377009",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6e139096-2005-4778-ba69-eed780ed0804_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
