@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Muere ahogado un hombre mientras nadaba en el Port de Pollença",
+      "link": "https://www.elconfidencial.com/espana/2026-10-16/hombre-muere-ahogado-port-pollenca-1tna-1tps_4447023/",
+      "imagen": "https://images.ecestaticos.com/JAznWhH8CBT5d2tkO_3SskIWhXc=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe49%2Fa8b%2F045%2Fe49a8b045ffef5e60626c8c563937ebe.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Sánchez defiende a Mínguez tras su dimisión: \"La política maltrata a buenas personas\"",
+      "link": "https://www.elconfidencial.com/espana/2026-10-16/sanchez-defiende-montse-minguez-dimision-1hms_4446947/",
+      "imagen": "https://images.ecestaticos.com/SQl0qwUlLV-EfQKUVnwe8S6Gc8c=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff91%2Fb56%2F663%2Ff91b56663c3ee871683ae5bfe48f1603.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Detenido por homicidio el presunto agresor de un hombre que falleció tras una pelea",
       "link": "https://www.elconfidencial.com/espana/2026-10-16/detenido-homicidio-formentera-guardia-civil-1tna-1tps_4446792/",
       "imagen": "https://images.ecestaticos.com/P7L-12xwhVV5edarV15t3nxDAjE=/0x0:1920x1280/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbdb%2F87b%2F85f%2Fbdb87b85f9470b68b84237030b52526c.jpg",
@@ -19,21 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Asaltos al castillo, cetrería y combates medievales: la fortaleza de Córdoba que vuelve a la Edad Media este fin de semana",
-      "link": "https://www.elconfidencial.com/espana/2026-10-16/jornada-medieval-castillo-cordoba-1qrt_4446382/",
-      "imagen": "https://images.ecestaticos.com/On5rOL6RHRQrhOiPBUlbLZHPBJ4=/0x0:1200x675/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F198%2F0f8%2Ff3e%2F1980f8f3ec2f120f348b725d4ec1af07.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Detenido un joven en Vitoria-Gasteiz por agredir a su pareja esta madrugada",
       "link": "https://www.elconfidencial.com/espana/2026-10-16/detenido-lesiones-violencia-genero-vitoria-1tna-1tps_4446688/",
       "imagen": "https://images.ecestaticos.com/iXF4kG9QHmMdLAqi0lZtGIAwbdU=/0x0:1920x1280/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2a5%2Fb31%2F323%2F2a5b31323da88b957030ace252067a99.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Herida una menor de unos 15 años tras ser atropellada por un turismo en Aranda de Duero (Burgos)",
-      "link": "https://www.elconfidencial.com/espana/2026-10-16/menor-herida-atropello-aranda-duero-1tna-1tps_4446687/",
-      "imagen": "https://images.ecestaticos.com/tyEF2slkJJTlvrxm-CpP47B-yiU=/0x0:1920x1440/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4a4%2Feab%2Ff0b%2F4a4eabf0bb47317842c07b61a72ae91d.jpg",
       "tipo": "imagen"
     }
   ]

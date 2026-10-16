@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Gambas a la brasa con salsa shimi, humo, lima y hierbas frescas",
-      "link": "https://www.abc.es/recetasderechupete/gambas-a-la-brasa-con-salsa-shimi-humo-lima-y-hierbas-frescas/175901/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Pollo al limón con arroz blanco: receta china fácil",
-      "link": "https://www.abc.es/gastronomia/falsa-rechupete-20240712032340-nt.html",
-      "imagen": ""
-    },
-    {
-      "titulo": "¿El queso se puede congelar? Consejos y recomendaciones",
-      "link": "https://www.abc.es/recetasderechupete/el-queso-se-puede-congelar/23915/",
-      "imagen": ""
-    },
-    {
-      "titulo": "Líderes de la UE cargan contra Sánchez: «Son capaces de sustituir a la población para seguir en el Gobierno»",
-      "link": "https://www.abc.es/espana/lideres-ue-cargan-sanchez-regularizacion-capaces-sustituir-20261016125241-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/16/dinamarca-U201157731614IhF-U302268455155GeD-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "La UE arropa a Zelenski para hacer frente a la presión de Trump",
       "link": "https://www.abc.es/internacional/von-der-leyen-asegura-ue-levantara-ninguna-20261016095351-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/16/1518845958-RZKen9Tblku8PSH2a5x2oMO-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/16/1518845958-RZKen9Tblku8PSH2a5x2oMO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "Von der Leyen propone reforzar Frontex y advierte de «grandes movimientos de personas» en las fronteras",
-      "link": "https://www.abc.es/internacional/von-der-leyen-propone-reforzar-frontex-advierte-20261016194038-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/16/1518846046-k99B-U302278285998FSB-1200x840@diario_abc.jpg"
+      "titulo": "Matanza escolar en EE.UU.: el atacante usó un arma de su madre y el héroe que evitó una tragedia mayor es un carpintero",
+      "link": "https://www.abc.es/internacional/matanza-escolar-eeuu-atacante-utilizo-arma-madre-20261016204923-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/16/oregon-RieoNMLHf0OyUFSgbBzzXFJ-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Roberto Leal, alucinado con el aspecto de Mario Vaquerizo en su regreso a 'Pasapalabra' : «¿Puede ser que estés en el gimnasio?»",
+      "link": "https://www.abc.es/play/television/noticias/roberto-leal-alucinado-aspecto-mario-vaquerizo-regreso-20261016205829-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/16/pasapalabra-RfXyw04nHZE45u0Hg37o8QN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Sánchez sacrifica a la portavoz del PSOE, Montse Mínguez, para tapar el fiasco en vivienda",
+      "link": "https://www.abc.es/espana/dimite-portavoz-psoe-montse-minguez-tras-polemica-20261016181448-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/16/montse--758x531.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los Mossos investigan la muerte a tiros de un tatuador en Badalona",
+      "link": "https://www.abc.es/espana/cataluna/mossos-investigan-muerte-tiros-tatuador-badalona-20261016205650-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/16/Mossos1-k0DF-U3022798323445cG-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Lula recurre a un paquete billonario de medidas populistas y activa la calle para frenar a Flávio Bolsonaro",
+      "link": "https://www.abc.es/internacional/lula-recurre-paquete-billonario-medidas-populistas-activa-20261016201744-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/16/lula-Rsyjrzc9bz22xiO35jSDJZK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }

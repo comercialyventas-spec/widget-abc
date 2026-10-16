@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Evento deportivo en distrito Salamanca. Afectadas 42 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261018-Carrera-Superheroes.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Manifestación en avenida Ciudad de Barcelona. Afectadas 11 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261018-M-Av-Albufera.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Acto religioso en calle Ascao. Afectadas 2 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261018-PR-Señor-MIlagros-Ciudad-Lineal.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -21,18 +33,6 @@
     {
       "titulo": "Manifestación en Chamberí y Centro. Afectadas 27 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261017-M-Pza-Santa-Barbara-Pza-Independencia.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Manifestación en calle Cavanilles. Afectadas 5 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261017-M-Cavanilles.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Evento sociocultural en Gutierre de Cetina. Afectadas 2 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261017-Pregon-Señor-MIlagros-Ciudad-Lineal.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }
