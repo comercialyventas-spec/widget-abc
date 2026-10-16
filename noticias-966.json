@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Crystal Lake",
+      "link": "https://elpais.com/television/series/crystal-lake/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TLVV45OD45HN5HUTI7UYPNZIIE.jpg?auth=29c82c17f7fbc5bad42ba82b8c9cbd5c3b128d8886b46f7011fd9dfaeac52a11",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ana de Roque, histórica meteoróloga de TVE, se despide de la cadena tras más de 30 años con una “merecida jubilación”",
+      "link": "https://elpais.com/television/2026-10-16/ana-roque-historica-meteorologa-de-tve-se-despide-de-la-cadena-tras-mas-de-30-anos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NPT562KLCBFIZDT7ASK7YTTR2Q.png?auth=70921c3a6375fd4623d4e6c32c59c63c6cd67520c0ec7d58bbe9c0fb84583ceb",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Sí, son rufianes",
+      "link": "https://elpais.com/television/2026-10-16/si-son-rufianes.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/YGDRR556DJG25NXPOXWDTAZTYA.jpg?auth=b0e8898e1a7d2922ee3551c9f358feb72fff627c0a0cacefa0f6fafb68158b33",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "The Five Star Weekend",
+      "link": "https://elpais.com/television/series/the-five-star-weekend/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4JNM3ENTF5FVLEN2WH4PQKQCTA.jpg?auth=d6cce9103fbbdcb2bf9bafdb357cd02f18df76c585cf39d27fe0bfa348e2136a",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un hospital convertido en purgatorio: ‘The Terror’ regresa fusionando lo sobrenatural con una pesadilla recurrente de los espectadores",
       "link": "https://elpais.com/television/series/2026-10-16/un-hospital-convertido-en-purgatorio-the-terror-regresa-fusionando-lo-sobrenatural-con-una-pesadilla-recurrente-de-los-espectadores.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/2YP7GHZ7OBEN3DELPRMD6ZQLSQ.jpg?auth=767b3163df89c9daa310a47aa14b0ea57ced2fe374108c680ae42e33e1b1ea1c",
@@ -10,30 +34,6 @@
       "titulo": "Ion Aramendi, la risa entre tanto enfado",
       "link": "https://elpais.com/television/2026-10-16/ion-aramendi-la-risa-entre-tanto-enfado.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/ZZOBB3V4GBDI5H7YQCDG322EMY.png?auth=3c2ad677619b7eca9ccb54fffb16ad4c595da678b6099cbc7bc90f23aa386d68",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La diplomática",
-      "link": "https://elpais.com/television/series/la-diplomatica/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/YSCAXODOSJHWVF3DANYDDNXYQU.jpg?auth=f4e93c1ceff55e622cd5f60219216294cd3572c17cd1b6d5c58a57fdc2041a0e",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ludwig",
-      "link": "https://elpais.com/television/series/ludwig/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/AXE5EWVVNFGAPH2UQFPURHYTS4.jpg?auth=1ea9a7e177bcc5fe2aee731c74203e135d0125d3d8ee08d7f4a48d17c89f249b",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Hollywood Arts",
-      "link": "https://elpais.com/television/series/hollywood-arts/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/L6UAT35UKVDYNAVSSWQVURMP5A.jpg?auth=0ffb2abb99aa71ec3be249a84696fa6a80f2324e828438188b823fc51d66bc1e",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cat’s Eyes",
-      "link": "https://elpais.com/television/series/cats-eyes/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/VYY7JGTUGNE6VM5QB2TYQEFZIU.jpg?auth=9d511d5781e1700f6faba37b498677f1bc155c3a880a3c0737654ca44cd4f77d",
       "tipo": "imagen"
     }
   ]

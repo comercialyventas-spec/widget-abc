@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Una IA española para ayudar a los pilotos a solucionar rápidamente las situaciones más peligrosas",
+      "link": "https://www.abc.es/tecnologia/ia-espanola-ayudar-pilotos-solucionar-rapidamente-situaciones-20261016124818-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/16/1503671623-RWi7t88RQciAhJkH49bfdGL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Golpe al cibercrimen: Microsoft y la policía de Japón desmantelan una red de 'phishing' que envió más de 1.000 millones de mensajes fraudulentos",
       "link": "https://www.abc.es/tecnologia/golpe-cibercrimen-microsoft-policia-japon-desmantelan-red-20261015183438-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/15/sms-spam-RYRq7sjxbzn6PwhKpalEasK-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Google lanza Gemini 4 Argon para superar a sus rivales en programación y ciberseguridad: una nueva IA avanzada capaz de resolver tareas complejas",
       "link": "https://www.abc.es/tecnologia/google-lanza-gemini-argon-superar-rivales-programacion-20261014183548-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/14/mujer-ordenador-R7Xe69JYRnYT9A3jAzjtAmO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un ingeniero espía, papel higiénico y una grabadora: el plan para robar los secretos de OpenAI",
-      "link": "https://www.abc.es/tecnologia/fbi-detiene-empleado-openai-colocar-grabadora-escucha-20261014100107-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/14/openai-k07-U302224456327EZH-1200x840@diario_abc.JPG",
       "tipo": "imagen"
     }
   ]

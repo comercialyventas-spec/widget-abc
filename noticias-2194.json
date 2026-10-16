@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Qué hacer esta semana en Barcelona: los mejores planes",
+      "link": "https://www.elperiodico.com/es/que-hacer/planes/20261016/que-hacer-barcelona-mejores-planes-semana-agenda-102304377",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/1e0c855f-14a1-4e6b-83b2-11a012b87eaf_16-9-discover-aspect-ratio_default_0_x512y227.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Abre en Barcelona el primer centro de España con experiencias inmersivas de Netflix",
+      "link": "https://www.elperiodico.com/es/que-hacer/planes/20261016/barcelona-experiencias-inmersivas-netflix-primer-centro-espana-sandbox-vr-juegos-realidad-virtual-135392938",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/3197dc43-99d2-4606-a360-dee574fb90c1_16-9-discover-aspect-ratio_default_0_x600y225.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ruta de tardeos revival: la nostalgia ‘millenial’ se apodera del ocio de Barcelona",
       "link": "https://www.elperiodico.com/es/que-hacer/planes/20261016/nostalgia-millenial-barcelona-tardeos-revival-90-2000-135389015",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/cc35f544-999a-4c9b-9962-84f92dbd05c1_16-9-discover-aspect-ratio_default_0_x1024y455.jpg",
@@ -19,21 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "La meca del cine friki de L’Hospitalet instalará consolas con ‘Street Fighter’ que usan el cuerpo como controlador",
-      "link": "https://www.elperiodico.com/es/que-hacer/planes/20261015/street-fighter-consolas-estreno-hospitalet-barcelona-cine-friki-135334645",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/25471ca5-e596-4139-9e1f-6030e63179ab_16-9-discover-aspect-ratio_default_0_x650y244.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Modernismo gratis: la desconocida joya oculta en un parque público de Terrassa",
-      "link": "https://www.elperiodico.com/es/que-hacer/planes/20261014/modernismo-gratis-terrassa-desconocida-joya-oculta-parque-publico-106721019",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0f00d3ec-53ee-45d4-9a02-f9b13c6626cc_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Pueblo Libre: el alma de las tabernas del Perú, trasladada a Barcelona",
-      "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261014/restaurante-pueblo-libre-barcelona-peruano-135275296",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b2119ce1-cfcc-4192-8adf-7c04b710d401_16-9-discover-aspect-ratio_default_0_x864y324.jpg",
+      "titulo": "Bar Gros: cuando el tamaño (y la calidad y el precio) sí importa",
+      "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261016/bar-gros-barcelona-restaurante-135363337",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/91fc6546-e221-4c6d-b55a-f49e28230573_16-9-discover-aspect-ratio_default_0_x627y235.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Librarse de una acusación de asesinato para caer en otra: el intento del supuesto sicario de Carballo",
+      "link": "https://elpais.com/espana/2026-10-16/librarse-de-una-acusacion-de-asesinato-para-caer-en-otra-el-intento-del-supuesto-sicario-de-carballo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/Z2AG7H2WO7NQPB4SK6VISZP3PI.jpg?auth=73e94a5f13426bdcfd0bd9168bc9a99bf0bfa8d91da756bca016304011954f28&width=1200",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Garelos, la taberna gallega que triunfa en Madrid: tortilla, carne de ternera y un tique medio de 35 euros",
+      "link": "https://elpais.com/gastronomia/2026-10-16/garelos-la-taberna-gallega-que-triunfa-en-madrid-tortilla-carne-de-ternera-y-un-tique-medio-de-35-euros.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ZYVNV5ZOJZHR3G3RAEEFRCJNFU.jpg?auth=4edfb6801432cd85c6a553ff9a862da1ab64c051f0254531a1e5aa17516a4d3a&width=1200",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La jueza suspende la entrada en prisión del maquinista del Alvia accidentado en Santiago",
       "link": "https://elpais.com/espana/2026-10-15/la-jueza-suspende-la-entrada-en-prision-del-maquinista-del-alvia.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/Y7N3LOR2EZF3BNQHZIGVIVM4AY.jpg?auth=31cf2234682d8fe8a640d3a1b8cc9466dfdfa980dbefc76def465e28147c4a97&width=1200",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/Y7N3LOR2EZF3BNQHZIGVIVM4AY.jpg?auth=31cf2234682d8fe8a640d3a1b8cc9466dfdfa980dbefc76def465e28147c4a97&width=414&height=233&focal=1493%2C588",
       "tipo": "imagen"
     },
     {
@@ -15,25 +27,13 @@
     {
       "titulo": "El ‘caso Recimil’ de Ferrol: así se hunde un barrio de vivienda pública en España",
       "link": "https://elpais.com/espana/galicia/2026-10-14/el-caso-recimil-de-ferrol-asi-se-hunde-un-barrio-de-vivienda-publica-en-espana.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/XPEEIN2CM5DQLDIC2HMHY5OWCA.JPG?auth=ac76a260201d59d17007e6971979cec0dc290d1ad26f8541663e39631f9a7461&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Multitudinario adiós a Xosé Manuel Beiras: “Fuiste el presidente que merecemos y nunca tuvimos”",
-      "link": "https://elpais.com/espana/galicia/2026-10-09/multitudinario-adios-a-xose-manuel-beiras-fuiste-el-presidente-que-merecemos-y-nunca-tuvimos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/A365NBMZBJGVRN7GLNAFBA5NW4.JPG?auth=6579b0a221b5749089ea0478a6d64641df890254de0748c2cb59cad0a5ed1629&width=1200",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Beiras vs Fraga, el ardor de la vieja política",
-      "link": "https://elpais.com/espana/2026-10-08/beiras-vs-fraga-el-ardor-de-la-vieja-politica.html",
       "imagen": "",
       "tipo": ""
     },
     {
-      "titulo": "Muere Xosé Manuel Beiras, volcánico intelectual e histórico dirigente del nacionalismo gallego, a los 90 años",
-      "link": "https://elpais.com/espana/2026-10-08/muere-a-los-90-anos-xose-manuel-beiras-historico-dirigente-del-nacionalismo-gallego.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/AJDW53HVSBDOBNP45L5RKK5T4I.jpg?auth=1578af4f1d935842dd14ef2c50830989df30463a570829659a197f7f4d197363&width=414&height=311&focal=1384%2C637",
+      "titulo": "Multitudinario adiós a Xosé Manuel Beiras: “Fuiste el presidente que merecemos y nunca tuvimos”",
+      "link": "https://elpais.com/espana/galicia/2026-10-09/multitudinario-adios-a-xose-manuel-beiras-fuiste-el-presidente-que-merecemos-y-nunca-tuvimos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/A365NBMZBJGVRN7GLNAFBA5NW4.JPG?auth=6579b0a221b5749089ea0478a6d64641df890254de0748c2cb59cad0a5ed1629&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

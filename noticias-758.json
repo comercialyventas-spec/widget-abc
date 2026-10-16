@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¿Qué significa ser normal? María Velasco explora en La Abadía las heridas de quienes nunca encajaron en ese concepto",
+      "link": "https://www.eldiario.es/madrid/somos/chamberi/significa-normal-maria-velasco-explora-abadia-heridas-encajaron-concepto_1_13573303.html",
+      "imagen": "https://static.eldiario.es/clip/e3b6f563-8afe-4633-bd24-4c266bf0798d_16-9-discover-aspect-ratio_default_0_x933y225.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El caballo que levita sobre Madrid: la estatua sin jinete que habla de la incertidumbre del porvenir",
       "link": "https://www.eldiario.es/madrid/somos/caballo-levita-madrid-estatua-ecuestre-jinete-habla-incertidumbre-porvenir_1_13583960.html",
       "imagen": "https://static.eldiario.es/clip/072bbaa5-b19b-49b5-b5b5-d3e617cea8f4_16-9-discover-aspect-ratio_default_0.jpg",
@@ -19,21 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Guía para visitar gratis y sin entrada el altar de muertos 2026 de la Casa de México en Madrid: fechas y horarios",
-      "link": "https://www.eldiario.es/madrid/somos/chamberi/guia-visitar-gratis-entrada-altar-muertos-2026-casa-mexico-madrid-fechas-horarios_1_13551414.html",
-      "imagen": "https://static.eldiario.es/clip/b5892d31-fd8f-443c-9ade-c58370c74dc9_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Qué hacer en Madrid este fin de semana",
       "link": "https://www.eldiario.es/guia-ocio/que-hacer-fin-semana-madrid_1_9005597.html",
       "imagen": "https://static.eldiario.es/clip/71831d95-f3d1-469d-ad4b-216f2a3354fa_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Canciones para el déficit de empatía",
-      "link": "https://www.eldiario.es/madrid/somos/rivas/canciones-deficit-empatia_1_13579136.html",
-      "imagen": "https://static.eldiario.es/clip/3e98d53f-0523-473c-a37b-f0348226123f_16-9-discover-aspect-ratio_default_0_x1072y400.jpg",
+      "titulo": "Guía para visitar gratis y sin entrada el altar de muertos 2026 de la Casa de México en Madrid: fechas y horarios",
+      "link": "https://www.eldiario.es/madrid/somos/chamberi/guia-visitar-gratis-entrada-altar-muertos-2026-casa-mexico-madrid-fechas-horarios_1_13551414.html",
+      "imagen": "https://static.eldiario.es/clip/b5892d31-fd8f-443c-9ade-c58370c74dc9_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Los catalanes viven 68 años con buena salud, aunque la esperanza de vida alcanza los 84",
+      "link": "https://www.elperiodico.com/es/sanidad/20261016/esperanza-vida-buena-salud-cataluna-pla-salut-horizto-2035-135374443",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/bc6fdcf7-cfcf-4b61-b271-4ef59d6bf2f2_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los médicos de familia advierten del riesgo de \"banalizar\" el uso de los fármacos para adelgazar en adolescentes",
+      "link": "https://www.elperiodico.com/es/sanidad/20261016/medicos-familia-advierten-riesgo-banalizar-uso-farmacos-adelgazar-adolescentes-135408524",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/207043a2-c432-43dc-a97e-65a9e3273c93_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los médicos se movilizarán durante la campaña electoral para \"mantener la presión\" y \"visibilizar el descontento del colectivo\"",
+      "link": "https://www.elperiodico.com/es/sanidad/20261016/medicos-movilizaran-durante-campana-electoral-135403558",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2d13dcb5-e76a-4776-ac7e-731381280b42_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El intestino produce alrededor del 90% de la serotonina del organismo: qué significa este dato y otras curiosidades",
       "link": "https://www.elperiodico.com/ideas/quironsalud/intestino.html",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0c0b90c2-ef80-43de-af76-41c289da6055_media-libre-aspect-ratio_default_0.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Un fármaco utilizado para suprimir la producción de leche tras el parto podría reducir el riesgo de cáncer de mama",
       "link": "https://www.elperiodico.com/es/sanidad/20261015/farmaco-utilizado-produccion-leche-podria-suprimir-riesgo-cancer-de-mama-135377009",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6e139096-2005-4778-ba69-eed780ed0804_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La clínica Fertilab Barcelona fortalece su equipo con la incorporación de la doctora Valérie Vernaeve como nueva directora médica",
-      "link": "https://www.elperiodico.com/es/sanidad/20261015/clinica-fertilab-barcelona-fortalece-equipo-135377097",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/04ccf99b-cdcd-48c9-8adf-f24c697b3a56_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sant Joan de Déu crea el mayor registro mundial de niños con síndrome de Brugada",
-      "link": "https://www.elperiodico.com/es/sanidad/20261015/sant-joan-deu-crea-mayor-registro-mundial-ninos-sindrome-brugada-arritmias-muerte-subita-135369474",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a7035cb1-afe2-4279-a90a-30871cc93408_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La cirugía de párpados para rejuvenecer la mirada ya es la operación más realizada entre hombres y mujeres",
-      "link": "https://www.elperiodico.com/es/sanidad/20261015/cirugia-parpados-rejuvenecer-mirada-operacion-realizada-hombres-mujeres-135368258",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2d3e2067-25b9-4865-a6df-b6a5636ea77f_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

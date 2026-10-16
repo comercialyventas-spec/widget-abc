@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un fallo del programa",
+      "link": "https://elpais.com/opinion/2026-10-16/un-fallo-del-programa.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ULOIS3MLEZAMFO5IV5XGH3EVRU.jpg?auth=14b121e3e98c2f5f9f97503869094d8c8866fe8112d9dc237b356f58705579ad",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El despertar político de una generación maltratada",
       "link": "https://elpais.com/opinion/2026-10-16/el-despertar-politico-de-una-generacion-maltratada.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/4QUK4GEOA5EENBMSQPFD6JTTMU.JPG?auth=26cb2c72e5395d2dbd19022983157447cfeed855db741c53313fcd70e23a59d3",
@@ -28,12 +34,6 @@
       "titulo": "España es cosa de todos",
       "link": "https://elpais.com/opinion/2026-10-16/espana-es-cosa-de-todos.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/GA3EUEOQJJA7LCLJAA5JZQZETU.jpg?auth=8874af8a3deb4c2ebae4ebd6a5abbeb742ed7b81eda114f33d8ced27e47981d2",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Rufián Pijoaparte",
-      "link": "https://elpais.com/opinion/2026-10-16/rufian-pijoaparte.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/2OPBAI6YCRCGHGAFLOTDSC4U2E.jpg?auth=a82deda468d781850d49210454e0656c4b3f20368c8c6066f0214304660b8eba",
       "tipo": "imagen"
     }
   ]

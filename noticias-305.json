@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Ferrari Hypersail completa el casco y desvela parte de la tecnología",
+      "link": "https://www.abc.es/deportes/vela/vela-oceanica/ferrari-hypersail-completa-casco-desvela-parte-tecnologia-20261016125713-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/16/Ferrari%20Hypersail%20casco-RYT2Zzt872P17rGfRuwmSUP-1200x840@diario_abc.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Bribón del Rey Juan Carlos I defiende el liderato de la Liga de 6 Metros",
+      "link": "https://www.abc.es/deportes/vela/vela-crucero/bribon-rey-juan-carlos-defiende-liderato-liga-20261016111525-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/16/6%20metros%20Sanxenxo%20MM-RYx1NQfDTLHEXmzmGVZHTZI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Campeonato de España de Cruceros se decide en Calpe",
       "link": "https://www.abc.es/deportes/vela/vela-crucero/campeonato-espana-cruceros-decide-calpe-20261015162750-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/15/Loterias%20con%20el%20Deporte-RtFd5R23frpzcjeUwfX7oeM-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Phantom 7 se impone en la primera prueba de las J70 Barcelona Winter Series 2026/2027",
       "link": "https://www.abc.es/deportes/vela/vela-crucero/phantom-impone-primera-prueba-j70-barcelona-winter-20261013131353-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/13/salida%20Barcelona%20Winter%20Series-RJP0sXwcngyWbg2KB0DlO8K-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cádiz corona a los campeones de la WASZP All-Stars",
-      "link": "https://www.abc.es/deportes/vela/vela-ligera/cadiz-corona-campeones-waszp-allstars-20261013124013-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/13/Foiling%20Cadiz-R0vP6WXXkoeUlsBW6wRHYjN-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Nautilum gana el Campeonato de España y Las Pulperas el último evento de la Liga Iberdrola",
-      "link": "https://www.abc.es/deportes/vela/vela-crucero/nautilum-gana-campeonato-espana-pulperas-ultimo-evento-20261012212640-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/12/Foto%20familia%20Liga%20Iberdrola-RraN5OW03OSGjTG3bdTkQ0K-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

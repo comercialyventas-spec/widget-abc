@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Un mono se hace amigo de un perro, un ciervo y un cerdo y eso dice mucho de por qué tenemos mascotas",
+      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-16/mono-amigo-perro-ciervo-cerdo-humanos-mascotas-1qrt_4411956/",
+      "imagen": "https://images.ecestaticos.com/H1NtUU2fXpZ1NTx7NoB7kDpq7NI=/0x0:1500x988/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F380%2Fdc9%2Fae6%2F380dc9ae65b181e43ede9d72fa79e7a7.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El nuevo Tesla Roadster 'volador' es puro truco y vapor",
+      "link": "https://www.elconfidencial.com/tecnologia/novaceno/2026-10-16/el-nuevo-tesla-roadster-es-puro-truco-y-vapor_4446305/",
+      "imagen": "https://images.ecestaticos.com/Cy0UdgWbtN_6nP7A_o9IvxldsNI=/0x0:2272x1352/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F83e%2Ffd6%2F785%2F83efd67854a9b0e5d5416a47ace18e37.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La NASA mira a Marte y constata que su rover Perseverance ha recorrido más de 45 kilómetros: bate un récord que llevaba casi 15 años vigente",
       "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-16/nasa-perserverance-record-historico-marte-1qrt_4446091/",
       "imagen": "https://images.ecestaticos.com/v-DaxmNF2i8oRRprV4oJDi9B-44=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F30f%2Ff01%2Fbea%2F30ff01bea026ff5cb36e62df3864548e.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Google resuelve otro gran atasco para que los ordenadores cuánticos sirvan para algo (pero se topa con el siguiente)",
       "link": "https://www.elconfidencial.com/tecnologia/2026-10-15/willow-google-computacion-cuantica-realidad_4446075/",
       "imagen": "https://images.ecestaticos.com/IH5lz6NJeiibtWwDAwFHKML6vDk=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fdf8%2Fdd0%2F772%2Fdf8dd077240c9307ecb46b34fe2191b5.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "China trabaja en un tanque 'transformer' del futuro para luchar por tierra, mar y aire",
-      "link": "https://www.elconfidencial.com/tecnologia/novaceno/2026-10-15/tanque-modular-chino_4446012/",
-      "imagen": "https://images.ecestaticos.com/kTGzfKNvvGFT1QKNN3pb9nhDVjE=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3f8%2Faca%2F214%2F3f8aca2145264b38cebd046efb18bd6c.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Confirmado: los excrementos de este peculiar ave de la Antártida son una fuente importante de metano que aumenta el efecto invernadero",
-      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-15/ave-antartida-excrementos-metano-efecto-invernadero-1qrt_4444859/",
-      "imagen": "https://images.ecestaticos.com/tVddegpwDw0ij46WQqXaIIlL4xU=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa56%2F8a4%2Fcb1%2Fa568a4cb10b7ec3dfd67ea4c512d3f3d.jpg",
       "tipo": "imagen"
     }
   ]
