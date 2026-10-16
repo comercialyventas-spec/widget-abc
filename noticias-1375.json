@@ -1,7 +1,13 @@
 {
   "noticias": [
     {
-      "titulo": "La Aemet nombra ‘Adam’ a la primera dana de la temporada, que tumbará las temperaturas y dejará lluvias intensas",
+      "titulo": "La fiebre del oro cerca el hogar del tilcayo, el felino salvaje recién descubierto en Bolivia",
+      "link": "https://elpais.com/clima-y-medio-ambiente/2026-10-16/la-fiebre-del-oro-cerca-el-hogar-del-tilcayo-el-felino-salvaje-recien-descubierto-en-bolivia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/LFFERUTVVFG3VLMZWGGCMBXFQ4.JPG?auth=ed0bdb8481b5a11d9bb557acccaac7bca882220105248f3849ca79785553ec66",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Aemet nombra ‘Adam’ a la primera dana de gran impacto de la temporada",
       "link": "https://elpais.com/el-tiempo/2026-10-16/las-temperaturas-caeran-10-y-habra-otro-episodio-de-lluvias-intensas-en-baleares-y-area-mediterranea.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/562S6GKQNFJORKASPGRAE4K74Q.jpg?auth=f0039630dd77184ef18e0128aa57f8c5bc182c4117300bb2843d5d4b65fce769",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "El calentamiento se acelera: “Estamos generando un sistema que no vamos a poder controlar, como con la IA”",
       "link": "https://elpais.com/clima-y-medio-ambiente/2026-10-14/el-calentamiento-se-acelera-estamos-generando-un-sistema-que-no-vamos-a-poder-controlar-como-con-la-ia.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/35NC6CK7AFI47CPVVHCRPH5UZQ.jpg?auth=f4906d12024e996c15b8c877d228769edf86f501ed7d7965ba1654e0bfc4720d",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cambio brusco de tiempo: bajón térmico y lluvias muy fuertes en el Mediterráneo peninsular y Baleares",
-      "link": "https://elpais.com/el-tiempo/2026-10-14/cambio-brusco-de-tiempo-bajon-termico-y-lluvias-muy-fuertes-en-la-fachada-mediterranea-peninsular-y-baleares.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/PDJE6YIHCVBQZFZWQPPCLVKLCA.jpg?auth=8d7d0be9c95ac37d8987c212a2953d847c3b226205f0702b368ca5563bd4acd1",
       "tipo": "imagen"
     }
   ]

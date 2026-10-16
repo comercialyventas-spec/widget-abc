@@ -1,24 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "El jugador",
-      "link": "https://www.lavanguardia.com/peliculas-series/peliculas/el-jugador-44789",
-      "imagen": "https://www.lavanguardia.com/television/programacion-tv/logos/trece.webp",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "De picos pardos a la ciudad",
-      "link": "https://www.lavanguardia.com/television/programacion-tv/8madrid-tv",
-      "imagen": "https://www.lavanguardia.com/television/programacion-tv/logos/8madrid-tv.webp",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Operacion bebé oso",
-      "link": "https://www.lavanguardia.com/peliculas-series/peliculas/operacion-bebe-oso-599019",
-      "imagen": "https://www.lavanguardia.com/television/programacion-tv/logos/clan-tve.webp",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "El bebé jefazo: negocios de familia",
       "link": "https://www.lavanguardia.com/peliculas-series/peliculas/el-bebe-jefazo-negocios-de-familia-459151",
       "imagen": "https://www.lavanguardia.com/television/programacion-tv/logos/boing.webp",
@@ -34,6 +16,24 @@
       "titulo": "Pactar con el diablo",
       "link": "https://www.lavanguardia.com/peliculas-series/peliculas/pactar-con-el-diablo-1813",
       "imagen": "https://www.lavanguardia.com/television/programacion-tv/logos/be-mad.webp",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "L'excepció de la regla",
+      "link": "https://www.lavanguardia.com/television/programacion-tv/tv3",
+      "imagen": "https://www.lavanguardia.com/television/programacion-tv/logos/tv3.webp",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Lo que el viento se llevó",
+      "link": "https://www.lavanguardia.com/peliculas-series/peliculas/lo-que-el-viento-se-llevo-770",
+      "imagen": "https://www.lavanguardia.com/television/programacion-tv/logos/trece.webp",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Todas las canciones hablan de mí",
+      "link": "https://www.lavanguardia.com/peliculas-series/peliculas/todas-las-canciones-hablan-de-mi-89734",
+      "imagen": "https://www.lavanguardia.com/television/programacion-tv/logos/8madrid-tv.webp",
       "tipo": "imagen"
     }
   ]

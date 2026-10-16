@@ -1,7 +1,13 @@
 {
   "noticias": [
     {
-      "titulo": "El huracán ‘Trudy’, en vivo | El ciclón se debilita mientras se desplaza lentamente en paralelo a las costas del Pacífico",
+      "titulo": "Estados Unidos levanta las restricciones a las aerolíneas mexicanas tras recuperar espacios en el principal aeropuerto de Ciudad de México",
+      "link": "https://elpais.com/mexico/2026-10-16/estados-unidos-levanta-las-restricciones-a-las-aerolineas-mexicanas-tras-recuperar-espacios-en-el-principal-aeropuerto-de-ciudad-de-mexico.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/CVBUXTIHHRFAPDTMNEV42SAZHI.jpg?auth=4db5ff113704d26e4c4bd3e35c672ecb5b5cb75ce1acef134d2de8123c091989",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El huracán ‘Trudy’, en vivo | El ciclón se debilita a categoría 1 mientras se desplaza lentamente en paralelo a las costas del Pacífico",
       "link": "https://elpais.com/mexico/2026-10-16/el-huracan-trudy-en-vivo.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/37IF5422PRDLPJHYQ6XUZ32RG4.jpg?auth=5ab96da4030a75c6d033993dcf73b54c3f60b31647c1dbce6d82ca9637f6ce6b",
       "tipo": "imagen"
@@ -19,21 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Trump despide a la portavoz de prensa de la Casa Blanca cinco días después de nombrarla",
+      "titulo": "Trump despide a la portavoz de prensa de la Casa Blanca tras cinco días en el cargo",
       "link": "https://elpais.com/us/2026-10-16/trump-abre-la-puerta-a-una-salida-de-la-portavoz-de-prensa-recien-nombrada-por-el.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/RMZJIRKLPBH5FGTPX47BLCREJA.JPG?auth=f2861d4f2170f8fe567ce077bae0faae04cd0a5d76e0ffdeebefc5a68b7e729d",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261016/1226421_193509_video_1800.mp4",
       "tipo": "imagen"
     },
     {
       "titulo": "México suspende los aranceles a las autopartes para dar un respiro a la industria automotriz",
       "link": "https://elpais.com/mexico/economia/2026-10-16/mexico-suspende-los-aranceles-a-las-autopartes-para-dar-un-respiro-a-la-industria-automotriz.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/SIXDCZHNPNM5RJ32BSGMBVJZDQ.jpg?auth=0ed337a430a071678ca9f3968239a04005dbc4dbd5495d330046d5455d130a8a",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El baile editorial de los premios literarios: Isabel Allende abre nuevo capítulo con Planeta",
-      "link": "https://elpais.com/cultura/2026-10-16/el-baile-editorial-de-los-premios-literarios-isabel-allende-abre-nuevo-capitulo-con-planeta.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261015/1226019_230615_video_1800.mp4",
       "tipo": "imagen"
     }
   ]

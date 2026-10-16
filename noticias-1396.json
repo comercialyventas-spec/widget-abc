@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de Los Berrocales",
+      "link": "https://nuevosureste.es/feria-vehiculo-sostenible-rivas-2026/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/Feria-del-Vehiculo-Sostenible-1-400x250.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los Berrocales será el primer desarrollo de Madrid en probar el nuevo sistema de licencias urbanísticas automatizadas",
       "link": "https://nuevosureste.es/licencias-berrocales-madriddbp/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/06/Los-Berrocales-foto-Nuevo-Sureste-1-400x250.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Surestelab: El bloqueo eléctrico y la tramitación urbanística centran las preocupaciones para el desarrollo de vivienda en Madrid",
       "link": "https://nuevosureste.es/surestelab-mesa-redodna/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/SuresteLab-2026-033-400x250.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El viceconsejero de Vivienda inaugura la jornada ‘SuresteLAB. La ciudad antes de la ciudad’: “El urbanismo se demuestra andando”",
-      "link": "https://nuevosureste.es/inauguracion-jornada-surestelab/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/SuresteLab-2026-012-400x250.jpg",
       "tipo": "imagen"
     }
   ]

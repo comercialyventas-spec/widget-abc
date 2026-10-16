@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Fallece un motorista tras sufrir un accidente en la N-122 en Zamora",
+      "link": "https://www.zamora24horas.com/sucesos/herido-grave-motorista-tras-sufrir-salida-via-n-122-zamora",
+      "imagen": "https://statics.zamora24horas.com/227fe652-97dc-4c81-b094-2af5ea626de7.webp?format=webp&width=1200&quality=75",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un hombre de 80 años, evacuado en helicóptero tras un accidente en la N-122 en Alcañices",
       "link": "https://www.zamora24horas.com/sucesos/hombre-unos-80-anos-trasladado-helicoptero-salamanca-tras-accidente-n-122",
       "imagen": "https://statics.zamora24horas.com/9a70ba5c-8438-4091-9dd3-dc5bf794aa76.webp?format=webp&width=1200&quality=75",
@@ -28,12 +34,6 @@
       "titulo": "José Albert, previa del partido ante la SD Ponferradina: \"Vamos a ir con todo\"",
       "link": "https://www.zamora24horas.com/deportes/jose-albert-vamos-ir-todo",
       "imagen": "https://statics.zamora24horas.com/cc1477ab-9acb-4a3f-aa27-8eefc0497099.webp?format=webp&width=1200&quality=75",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Convocada una manifestación contra el cierre de la Residencia de los Tres Árboles: \"La quieren cerrar, pero no lo quieren decir\"",
-      "link": "https://www.zamora24horas.com/local/convocada-manifestacion-cierre-residencia-tres-arboles-la-quieren-cerrar-quieren-decir",
-      "imagen": "https://statics.zamora24horas.com/59b0e224-4666-4ceb-be06-63a23108dcf5.webp?format=webp&width=1200&quality=75",
       "tipo": "imagen"
     }
   ]

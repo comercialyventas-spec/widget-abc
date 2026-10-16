@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "LAS MEJORES FOTOS DE VIAJES Y AVENTURA DE 2026",
+      "titulo": "EL PRIMER PUEBLO DE ESCLAVOS LIBRES, CORAZÓN AFRO DE COLOMBIA",
+      "link": "https://www.lavanguardia.com/magazine/viajes/20261016/11657598/san-basilio-palenque-colombia-primer-pueblo-esclavos-libres-america.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/10/13/6ace04e9dbb7b.r_d.1257-1141.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Arribes, el Duero más salvaje entre viñedos y cañones que enamoró a Unamuno",
+      "link": "https://www.lavanguardia.com/magazine/lifestyle/20261016/11657587/arribes-duero-mas-salvaje-vinedos-canones-enamoro-unamuno.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/10/13/6ace081a3f036.r_d.4162-2330.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las mejores fotos de viajes y aventuras según los Siena Photo Awards 2026",
       "link": "https://www.lavanguardia.com/magazine/viajes/20261015/11657919/mejores-fotos-viajes-aventuras-siena-photo-awards-2026.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/10/13/6ace3844b9c42.r_d.593-591.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/10/13/6ace3844b9c42.r_d.593-591.jpeg",
       "tipo": "imagen"
     },
     {
@@ -13,27 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "El Paisaje Dulce y Salado, el rincón manchego que aspira a patrimonio de la Unesco",
-      "link": "https://www.lavanguardia.com/magazine/viajes/20261014/11654342/paisaje-dulce-salado-guadalajara-aspira-patrimonio-unesco.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/10/08/6ac7af2b7df3a.r_d.1061-707.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "48 horas de absoluto relax en el sur de Tenerife",
-      "link": "https://www.lavanguardia.com/magazine/viajes/20261013/11652374/48-horas-absoluto-relax-sur-tenerife.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/10/08/6ac774998763c.r_d.662-349.jpeg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Micelio: los hongos de Estonia como metáfora de comunidad y conexión",
       "link": "https://www.lavanguardia.com/magazine/viajes/20261015/11657660/micelio-hongos-estonia-metafora-comunidad-serendipias.html",
       "imagen": "https://www.lavanguardia.com/files/image_290_300/uploads/2026/10/13/6ace006fa7537.jpeg",
       "tipo": "imagen"
     },
     {
-      "titulo": "El pueblo normando que no olvida el error garrafal de un paracaidista",
-      "link": "https://www.lavanguardia.com/magazine/viajes/20261012/11653608/sainte-mere-eglise-paracaidista-desembarco-normandia.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/10/08/6ac76d2965526.r_d.1026-1290-2245.jpeg",
+      "titulo": "El Paisaje Dulce y Salado, el rincón manchego que aspira a patrimonio de la Unesco",
+      "link": "https://www.lavanguardia.com/magazine/viajes/20261014/11654342/paisaje-dulce-salado-guadalajara-aspira-patrimonio-unesco.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/10/08/6ac7af2b7df3a.r_d.1297-633-6876.jpeg",
       "tipo": "imagen"
     }
   ]

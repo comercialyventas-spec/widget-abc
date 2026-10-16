@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Novedades editoriales",
+      "link": "https://www.eldiario.es/opinion/novedades-editoriales_131_13592986.html",
+      "imagen": "https://static.eldiario.es/clip/31dba2ae-d514-49d7-8dde-49a304fd75f2_16-9-discover-aspect-ratio_default_0_x346y278.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Mientras, en Ceuta...",
       "link": "https://www.eldiario.es/opinion/ceuta_131_13589692.html",
       "imagen": "https://static.eldiario.es/clip/d9a7299c-1c62-4cd4-a1c3-b01a7565c716_16-9-discover-aspect-ratio_default_0_x360y141.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Puigdemont ya puede volver",
       "link": "https://www.eldiario.es/opinion/puigdemont-volver_131_13567667.html",
       "imagen": "https://static.eldiario.es/clip/7d111344-6f85-46f5-94ed-95b27d3504cd_16-9-discover-aspect-ratio_default_0_x479y357.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La diferencia",
-      "link": "https://www.eldiario.es/opinion/diferencia_131_13561410.html",
-      "imagen": "https://static.eldiario.es/clip/718d4753-9c56-4b7d-8819-29787c418c2a_16-9-discover-aspect-ratio_default_0_x440y102.jpg",
       "tipo": "imagen"
     }
   ]
