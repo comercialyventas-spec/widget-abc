@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "VOX estalla contra el PSOE: «Las rayas que os metíais en paradores y las putas que contratabais»",
+      "link": "https://www.mediterraneodigital.com/espana/politica/vox-psoe-recortes-rayas-paradores-prostitutas",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/10/vox-psoe.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Frente Amplio proclama a Ada Colau candidata a las elecciones generales",
       "link": "https://www.mediterraneodigital.com/espana/politica/frente-amplio-ada-colau",
       "imagen": "https://www.mediterraneodigital.com/images/2026/10/ada-colau.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Sánchez se propone gobernar hasta 2035: «España me necesita ocho años más»",
       "link": "https://www.mediterraneodigital.com/espana/politica/sanchez-elecciones-2035",
       "imagen": "https://www.mediterraneodigital.com/images/2026/4/pedro-sanchez-congreso-diputados.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Juan Carlos Monedero anuncia que se va de España",
-      "link": "https://www.mediterraneodigital.com/espana/politica/juan-carlos-monedero-se-va-espana",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/4/juan-carlos-monedero.jpg",
       "tipo": "imagen"
     }
   ]

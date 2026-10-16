@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "La NASA mira a Marte y constata que su rover Perseverance ha recorrido más de 45 kilómetros: bate un récord que llevaba casi 15 años vigente",
+      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-16/nasa-perserverance-record-historico-marte-1qrt_4446091/",
+      "imagen": "https://images.ecestaticos.com/v-DaxmNF2i8oRRprV4oJDi9B-44=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F30f%2Ff01%2Fbea%2F30ff01bea026ff5cb36e62df3864548e.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Una guitarra de fibra de carbono con luces LED inteligentes promete enseñarte a tocar en tiempo récord sin clases particulares",
+      "link": "https://www.elconfidencial.com/tecnologia/2026-10-16/guitarra-fibra-led-aprender-tocar-tiempo-record-1qrt_4405607/",
+      "imagen": "https://images.ecestaticos.com/61IFEY38KcQZUen7tW7Clj5B1nk=/0x0:1848x1130/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd65%2F5c7%2F4fa%2Fd655c74fa96b9f320dde54cb37363379.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La era Transformers ya está aquí: el robot gigante chino de 4 metros que es capaz de aplastar más de 500 kilos",
+      "link": "https://www.elconfidencial.com/tecnologia/2026-10-16/robot-gigante-chino-4-metros-aplasta-500-kilos-1qrt_4445706/",
+      "imagen": "https://images.ecestaticos.com/iXooBIinyCMpEXAzLXjoUA2uUzQ=/0x0:531x386/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F74e%2Fc6e%2F1a2%2F74ec6e1a2b49692153b6fd5170ad5e26.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Google resuelve otro gran atasco para que los ordenadores cuánticos sirvan para algo (pero se topa con el siguiente)",
       "link": "https://www.elconfidencial.com/tecnologia/2026-10-15/willow-google-computacion-cuantica-realidad_4446075/",
       "imagen": "https://images.ecestaticos.com/IH5lz6NJeiibtWwDAwFHKML6vDk=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fdf8%2Fdd0%2F772%2Fdf8dd077240c9307ecb46b34fe2191b5.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Confirmado: los excrementos de este peculiar ave de la Antártida son una fuente importante de metano que aumenta el efecto invernadero",
       "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-15/ave-antartida-excrementos-metano-efecto-invernadero-1qrt_4444859/",
       "imagen": "https://images.ecestaticos.com/tVddegpwDw0ij46WQqXaIIlL4xU=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa56%2F8a4%2Fcb1%2Fa568a4cb10b7ec3dfd67ea4c512d3f3d.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las lecciones que el dron de carreras autónomo más rápido del mundo puede enseñar a los ejércitos",
-      "link": "https://www.elconfidencial.com/tecnologia/novaceno/2026-10-15/monorace-delfi-universidad-drones-autonomes-velocidad_4445728/",
-      "imagen": "https://images.ecestaticos.com/5cuPOiPYcNFwmzcfa9EgDXvwTuw=/0x0:1200x675/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa52%2F813%2Fb00%2Fa52813b0095443f59ab1d01694657b6a.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ni bajo el mar están a salvo: un misterioso ciberataque paraliza las obras del túnel de 18 kilómetros entre Alemania y Dinamarca",
-      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-15/ciberataque-tunel-submarino-alemania-dinamarca_4445665/",
-      "imagen": "https://images.ecestaticos.com/asZTuvxlmvuFodE9iLt7pGGgRJ0=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff91%2F458%2Fad6%2Ff91458ad67fbc9a5d6b68d6a991030cb.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La riada de Nepal fue tan destructiva que se sintió hasta en España. Es una señal de que la vigilancia se queda corta",
-      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-15/riada-nepal-destructiva-inundacion-registro-ondas-espana-sacudio-planeta_4445631/",
-      "imagen": "https://images.ecestaticos.com/b1XfCVtCpwyypqxZUN3dcISyi5M=/0x242:2272x1520/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff00%2F6ef%2F965%2Ff006ef96583a3562420e416b346ec190.jpg",
       "tipo": "imagen"
     }
   ]

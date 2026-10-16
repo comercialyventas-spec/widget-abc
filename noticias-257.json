@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "«Ser del PSOE es…»",
+      "link": "https://www.abc.es/espana/psoe-20261015210042-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/15/1080.00_43_24_23.Imagen%20fija008_20261015200710-U63683826620KPT-562x393@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Carmen Posadas: «Siempre he tenido una lucha interna entre lo convencional y el desparrame»",
+      "link": "https://www.abc.es/xlsemanal/carmen-posadas-hermanas-mitford-hitler-churchill-20261012180039-ntrc.html",
+      "imagen": "https://static.vocento.com/xlsemanal/2026/10/12/xlsemanal-carmen-posadas-lead-kKe--562x315@RC.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "«La frontera morcillona»",
       "link": "https://www.abc.es/espana/frontera-morcillona-20261014205149-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/14/foto%20chapu%20bien_20261014204858-U66830235772XPT-562x393@diario_abc.jpg",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/14/foto%20chapu%20bien_20261014204903-U73742074457XDv-562x315@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "'Cosamala': la novela que escucha a Las 17 Rosas de Guillena",
       "link": "https://www.abc.es/cultura/libros/cosamala-novela-escucha-rosas-guillena-20261014011436-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/14/IMG_4507-U63014086130Edj-562x315@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El 'ozempic' que te quita el sueño... o te lo da",
-      "link": "https://www.abc.es/xlsemanal/orexinas-ozempic-del-sueno-narcolepsia-luis-de-lecea-20261012200606-ntrc.html",
-      "imagen": "https://static.vocento.com/xlsemanal/2026/10/12/xlsemanal-orexinas-ozempic-del-sueno-kGMB--562x315@RC.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "«¿Filtra Sánchez mierda de los suyos para ir sobreviviendo?»",
-      "link": "https://www.abc.es/espana/filtra-sanchez-mierda-suyos-sobreviviendo-20261014194858-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/14/1518754230-kNkH--562x315@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

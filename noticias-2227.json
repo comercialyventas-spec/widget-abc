@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Concentración en paseo de la Chopera. Afectadas 2 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261016-C-Paseo-Chopera.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Obras: Calle Embajadores. Afectada línea M1 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261016-O-Embajadores.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -27,12 +33,6 @@
     {
       "titulo": "Evento sociocultural en varios distritos. Afectadas 43 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261018-Veteran-Car-Retiro.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Evento deportivo en Luis de Hoyos Sainz. Afectada línea 30 de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261017-CR-Vuelta-al-Colegio-Gredos-Moratalaz.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un rincón para vivir",
+      "link": "https://www.publico.es/opinion/vinetas/rincon-vivir.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/15/6ad0e8eb55164.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los abuelos y los nietos",
       "link": "https://www.publico.es/opinion/vinetas/abuelos-nietos.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/13/6ace4bb154d0d.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "En la frontera",
       "link": "https://www.publico.es/opinion/vinetas/frontera.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/01/6abe5f2c8a945.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El buitre feroz",
-      "link": "https://www.publico.es/opinion/vinetas/buitre-feroz.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/09/29/6abbe8610ef4c.jpeg",
       "tipo": "imagen"
     }
   ]

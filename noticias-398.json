@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "William Arias, médico, sobre la morcilla: \"Muchos la evitan pensando que es \"mala\", pero tiene un valor nutricional impresionante\"",
-      "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-15/william-arias-morcilla-tiene-valor-nutricional-impresionante-1qrt_4445907/",
-      "imagen": "https://images.ecestaticos.com/yRmSC5I6SNA5c2Kxj5OPXduKrgk=/0x0:1000x562/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa14%2Fde0%2F3ca%2Fa14de03ca7942093f12811aa63c1a345.jpg",
+      "titulo": "Aurelio Rojas, cardiólogo: \"Comer dos kiwis verdes una hora antes de dormir puede reducir hasta un 35% el tiempo para conciliar el sueño y mejorar su calidad\"",
+      "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-16/aurelio-rojas-cardiologo-comer-dos-kiwis-verdes_4445625/",
+      "imagen": "https://images.ecestaticos.com/O7g7teEpwWgCil7xNZTxJvgG1VU=/0x0:2100x1400/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F1ac%2F37c%2F90b%2F1ac37c90bafc178413d9b0588813f485.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Dr. Pellicer, experto en fertilidad: \"No es verdad que no se quieran tener hijos, pero el contexto actual es muy difícil\"",
+      "link": "https://www.elconfidencial.com/bienestar/2026-10-16/barometro-fertilidad-espana-deseo-maternidad_4445541/",
+      "imagen": "https://images.ecestaticos.com/bYUPMEXe8Sr9L9PDvXuausW8FP8=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F24f%2F889%2Fd49%2F24f889d494b1039014780cf4eeb307f4.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Hay españoles que llevan años tomando las mismas pastillas: el problema es que quizá ya no las necesitan",
+      "link": "https://www.elconfidencial.com/salud/2026-10-16/medicamentos-enfermedad-polimedicacion_4441745/",
+      "imagen": "https://images.ecestaticos.com/TMTrDlwaJyQm4pu8P7KMyAqSSAU=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fdd0%2F654%2F636%2Fdd0654636c559bea60d8b31ca1fced5c.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Los sentimientos de soledad y tristeza entre los adolescentes españoles aumentan",
       "link": "https://www.elconfidencial.com/salud/2026-10-15/salud-mental-adolescentes-soledad-1tps_4445870/",
       "imagen": "https://images.ecestaticos.com/zx0qGC-6Ag-4MHQDNVd2ZHMjyyM=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Face%2Ff6c%2F829%2Facef6c829f6d9274666bd84d11b8d5b9.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Sindicato Médico convoca huelga indefinida en Andalucía desde el 13 de noviembre",
-      "link": "https://www.elconfidencial.com/salud/2026-10-15/huelga-medicos-andalucia-sma-1tps_4445858/",
-      "imagen": "https://images.ecestaticos.com/pUeU97Oor-yjbavjWDAPlFflcxM=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F93d%2F268%2F996%2F93d2689966e6d497634beff12980852b.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La inteligencia artificial permite calcular el riesgo de cáncer de mama a cinco años a partir de una sola mamografía",
-      "link": "https://www.elconfidencial.com/salud/2026-10-15/inteligencia-artificial-riesgo-cancer-mama-1tps_4445688/",
-      "imagen": "https://images.ecestaticos.com/WFgNr92VFPAQdGdBYMaNg2LtOaM=/0x0:2272x1513/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ffed%2Fc42%2F35c%2Ffedc4235cd93f4d6dc49cdf557ae8a65.jpg",
       "tipo": "imagen"
     }
   ]

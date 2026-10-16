@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Alcohol en todas partes",
+      "link": "https://elpais.com/babelia/2026-10-16/alcohol-en-todas-partes.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/MJYSVAWJB5GE7PP32SJ6JQQA4Q.jpg?auth=16278a59c3f1aa1a699deb2b874fa9ebe9caf44359f2c89e7a9e4f5db848b529",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las exposiciones de arte más destacadas de octubre",
+      "link": "https://elpais.com/babelia/2026-10-16/las-exposiciones-de-arte-mas-destacadas-de-octubre.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/27JLISF6KRFC3GVE2FNPLK5QEQ.gif?auth=f5f229275916531e4a30ac59f1de1194e16b322d0585a208ee119656b93ad1de",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Festival Revela’t: imágenes analógicas para escapar del ruido de lo cotidiano",
       "link": "https://elpais.com/babelia/2026-10-15/festival-revelat-imagenes-analogicas-para-escapar-de-lo-cotidiano.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/X47A6CAEJZF57IB7WW62X34PBY.jpg?auth=42dcdc303d4b41f4448508f28c56535cd4741c4d7287feb1824e74b8e358455b",
@@ -22,18 +34,6 @@
       "titulo": "Un ensayo conmovedor sobre un paciente que sufría envejecimiento acelerado",
       "link": "https://elpais.com/babelia/2026-10-14/un-ensayo-conmovedor-sobre-un-paciente-que-sufria-envejecimiento-acelerado.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/RQFKIOOGVJEOLOCO72AG4NBMCU.jpg?auth=75e9dd6debb303e99ca2b83eef0f1164a3ce2df4d30bba0d295e1ba959c582cc",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los buitres son buenas personas",
-      "link": "https://elpais.com/babelia/2026-10-14/los-buitres-son-buenas-personas.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/BDIFT3QS6BCX7IWLTBRJI2MFOE.jpg?auth=1bf7ca73b4d8c8abe58f30f62e776c9d89e0957b4e6db2219dc501974e8ff81e",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Evocaciones del Homero del rock",
-      "link": "https://elpais.com/babelia/2026-10-13/evocaciones-del-homero-del-rock.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/5THEF3KGSJENFLMEXUNFUWRHTM.jpg?auth=cb658f50123b1ecd75f20fb2fcb07c6443674e7c7bd711d8f2b85738eea14064",
       "tipo": "imagen"
     }
   ]

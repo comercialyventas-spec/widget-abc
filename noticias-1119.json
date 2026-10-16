@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Nubes y brumas marcan el día en Barcelona, según AEMET",
+      "link": "https://okdiario.com/cataluna/nubes-y-brumas-marcan-el-dia-en-barcelona-segun-aemet-20562340",
+      "imagen": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los jubilados cambian Benidorm por este destino catalán: se confirma que es la provincia con más hoteles del Imserso",
       "link": "https://okdiario.com/cataluna/jubilados-cambian-benidorm-este-destino-catalan-confirma-que-provincia-mas-hoteles-del-imserso-20557524",
       "imagen": "https://okdiario.com/img/2026/10/15/luis-de-la-corte-14.jpg",
@@ -28,12 +34,6 @@
       "titulo": "España recupera el tren histórico con recorrido de 89 km y que atraviesa 75 puentes y 40 túneles",
       "link": "https://okdiario.com/cataluna/espana-tren-historico-89-75-puentes-40-tuneles-16634721",
       "imagen": "https://okdiario.com/img/2026/04/19/tren-dels-llacs.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Previsión AEMET: cielo poco nuboso y temperaturas en ascenso en Barcelona hoy",
-      "link": "https://okdiario.com/cataluna/prevision-aemet-cielo-poco-nuboso-y-temperaturas-en-ascenso-en-barcelona-hoy-20535156",
-      "imagen": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
       "tipo": "imagen"
     }
   ]

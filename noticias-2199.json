@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Tesla presenta un Roadster capaz de volar y acelerar de 0 a 100 en menos de un segundo",
+      "link": "https://www.elperiodico.com/es/videos/sociedad/tesla-presenta-roadster-capaz-volar-acelerar-0-100-video/135397376.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b8068a6a-5b96-406d-99f1-01455f65f9d3_1-1-large-aspect-ratio_default_0_x600y225.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un año de la OPA fracasada del BBVA al Sabadell",
       "link": "https://www.elperiodico.com/es/videos/economia/ano-opa-fracasada-bbva-sabadell-video/135388103.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b1a616b9-5f6b-4d90-9ef8-bdeea9ebc56e_1-1-large-aspect-ratio_default_0_x580y217.jpg",
@@ -28,12 +34,6 @@
       "titulo": "TVyMAS; Gent de primera: televisión",
       "link": "https://www.elperiodico.com/es/videos/tele/tvymas-gent-primera-television/135375272.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b9c2979d-df0b-4ad1-9584-df073d363dad_1-1-large-aspect-ratio_default_0_x600y225.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ester Muñoz cambia su discurso sobre las pensiones: de \"van a petar\" a \"son innegociables\"",
-      "link": "https://www.elperiodico.com/es/videos/politica/ester-munoz-cambia-discurso-pensiones/135374497.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ee1d3c61-a756-4c48-8655-002b09bb3542_1-1-large-aspect-ratio_default_0_x799y355.jpg",
       "tipo": "imagen"
     }
   ]
