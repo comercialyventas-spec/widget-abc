@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Tesla presenta su nuevo Roadster, un coche de ciencia ficción capaz de volar y acelerar de 0 a 100 en menos de un segundo",
+      "link": "https://www.rtve.es/noticias/20261016/tesla-presenta-su-nuevo-roadster-coche-ciencia-ficcion-capaz-volar-acelerar-a-100-menos-segundo/17269354.shtml",
+      "imagen": "https://img.rtve.es/imagenes/tesla-presenta-su-nuevo-roadster-coche-ciencia-ficcion-capaz-volar-acelerar-a-100-menos-segundo/01792139114067.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los relojes atómicos, los más precisos del mundo, dejarán de ajustar la hora a la rotación terrestre en 2027",
       "link": "https://www.rtve.es/noticias/20261015/relojes-atomicos-mas-precisos-del-mundo-dejaran-ajustar-hora-a-rotacion-terrestre-2027/17268638.shtml",
       "imagen": "https://img.rtve.es/imagenes/relojes-atomicos-mas-precisos-del-mundo-dejaran-ajustar-hora-a-rotacion-terrestre-2027/01792077944923.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Detenido un ingeniero de OpenAI acusado de ocultar una grabadora en una sala de reuniones",
       "link": "https://www.rtve.es/noticias/20261014/detenido-ingeniero-openai-acusado-ocultar-grabadora-sala-reuniones-inteligencia-artificial/17266947.shtml",
       "imagen": "https://img.rtve.es/imagenes/detenido-ingeniero-openai-acusado-ocultar-grabadora-sala-reuniones-inteligencia-artificial/01791993226253.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Adenocarcinoma de pulmón: qué tipo de cáncer tiene el papa León XIV y cuál es su pronóstico",
-      "link": "https://www.rtve.es/noticias/20261014/adenocarcinoma-pulmon-tipo-cancer-tiene-papa-leon-xiv-cual-su-pronostico/17265749.shtml",
-      "imagen": "https://img.rtve.es/imagenes/adenocarcinoma-pulmon-tipo-cancer-tiene-papa-leon-xiv-cual-su-pronostico/01791966042588.jpg",
       "tipo": "imagen"
     }
   ]
