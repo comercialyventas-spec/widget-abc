@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Obras: Echegaray. Afectadas 3 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261020-O-Echegaray.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Evento: Palacio de los Deportes. Afectadas 4 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261020-PD-Evento.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Evento deportivo en distrito Salamanca. Afectadas 42 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261018-Carrera-Superheroes.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -21,18 +33,6 @@
     {
       "titulo": "Evento deportivo en Retiro, Salamanca y Chamartín. Afectadas 30 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261018-CR-Ciencia.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Recuperación de Parada: Paseo Olivos. Afectada línea 158 de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261019-RP-10779-Paseo-Olivos.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Manifestación en Chamberí y Centro. Afectadas 27 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261017-M-Pza-Santa-Barbara-Pza-Independencia.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

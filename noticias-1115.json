@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "AEMET: Día nublado y fresco en Zaragoza, con lluvia y tormentas en el sur del Ibérico",
+      "link": "https://okdiario.com/aragon/aemet-dia-nublado-y-fresco-en-zaragoza-con-lluvia-y-tormentas-en-el-sur-del-iberico-20570288",
+      "imagen": "https://okdiario.com/img/2026/10/17/lluvia-en-zaragoza.-europa-press.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Zaragoza: Cielo poco nuboso y viento flojo, según AEMET",
       "link": "https://okdiario.com/aragon/zaragoza-cielo-poco-nuboso-y-viento-flojo-segun-aemet-20562409",
       "imagen": "https://okdiario.com/img/2026/10/16/mujer-se-protege-del-sol-ante-la-mejora-del-tiempo.-europa-press.jpg",
@@ -28,12 +34,6 @@
       "titulo": "AEMET prevé un día soleado y con ligero viento en Zaragoza, ideal para disfrutar al aire libre",
       "link": "https://okdiario.com/aragon/aemet-preve-un-dia-soleado-y-con-ligero-viento-en-zaragoza-ideal-para-disfrutar-al-aire-libre-20530773",
       "imagen": "https://okdiario.com/img/2026/10/12/suben-las-temperaturas.-europa-press.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Previsión AEMET para Zaragoza: cielo nuboso al amanecer y tarde despejada con ligero viento",
-      "link": "https://okdiario.com/aragon/prevision-aemet-para-zaragoza-cielo-nuboso-al-amanecer-y-tarde-despejada-con-ligero-viento-20528103",
-      "imagen": "https://okdiario.com/img/2026/10/11/mujer-se-protege-del-sol-ante-la-mejora-del-tiempo.-europa-press-1.jpg",
       "tipo": "imagen"
     }
   ]

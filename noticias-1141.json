@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Adiós a la vieja cárcel de San Sebastián, foco de represión franquista e inspiración de Kortatu",
+      "link": "https://elpais.com/espana/pais-vasco/2026-10-17/adios-a-la-vieja-carcel-de-san-sebastian-foco-de-represion-franquista-e-inspiracion-de-kortatu.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/AOZTKAZDV5HDRJGJWBFXP27EJU.jpg?auth=4fd64c77610dd33a361b32fb5cabe26b986fae9c76fb27d145966b188fe7c508&width=1200",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Velora invertirá 100 millones en una fábrica de equipos para redes eléctricas",
+      "link": "https://elpais.com/hemeroteca/2026-10-16/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/IK42KBOB6ZC5VI4JGI7EYUZKLQ.png?auth=112441537d9dec67f7cc9f9fced813d6076459b6adbd16de14e93cec3115a7bb",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "“Hay un dulce que es un Tinder al aire libre”: María Mieres, autora del libro que reúne las historias detrás de la repostería tradicional del norte de España",
       "link": "https://elpais.com/gastronomia/2026-10-15/hay-un-dulce-que-es-un-tinder-al-aire-libre-maria-mieres-autora-del-libro-que-reune-las-historias-detras-de-la-reposteria-tradicional-del-norte-de-espana.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/MJMZUGUDHRHD3BAOF6JWC6JYZU.jpg?auth=967e4519d4753c3ad047af4ea672c769fa1a01c2ffff453fbac12db68be135b6&width=1200",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/MJMZUGUDHRHD3BAOF6JWC6JYZU.jpg?auth=967e4519d4753c3ad047af4ea672c769fa1a01c2ffff453fbac12db68be135b6&width=414&height=233&smart=true",
       "tipo": "imagen"
     },
     {
@@ -15,25 +27,13 @@
     {
       "titulo": "La exresponsable de NN GG del PP Bea Fanjul deja la política y no repetirá en las listas",
       "link": "https://elpais.com/espana/2026-10-13/la-exresponsable-de-nn-gg-del-pp-bea-fanjul-deja-la-politica-y-no-repetira-en-las-listas.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/HK4LFUHQTUWY2F2IHPJ6BTV2SQ.jpg?auth=1293657c6d1503870715a21959c24bfc4c90dd811a6b495c5c61361ad2020517&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una iniciativa ciudadana reivindica la “joya escondida” de Chillida en Vitoria",
-      "link": "https://elpais.com/espana/pais-vasco/2026-10-13/una-iniciativa-ciudadana-reivindica-la-joya-escondida-de-chillida-en-vitoria.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/CWI7IPNJEVEM5IBL3XBPCXJF5E.jpg?auth=4f0410ddabf63160365210740fa30421808452eaf535b420362e72097d786af5&width=1200",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El pastel vasco: el postre casero con museo propio, día de fiesta y una cofradía",
-      "link": "https://elpais.com/gastronomia/2026-10-11/el-pastel-vasco-el-postre-casero-con-museo-propio-dia-de-fiesta-y-una-cofradia.html",
       "imagen": "",
       "tipo": ""
     },
     {
-      "titulo": "Muere un hombre tras contagiarse de mpox en el Hospital Donostia",
-      "link": "https://elpais.com/sociedad/2026-10-08/muere-un-hombre-por-mpox-o-viruela-del-mono-en-el-hospital-donostia.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/BZOENGO2GZFS3GGTGXAAOEPECY.jpeg?auth=d9dead14f9cd833fa808e169179111ad26c992b882a22e279b3be2de037c3067&width=414&height=311&smart=true",
+      "titulo": "Una iniciativa ciudadana reivindica la “joya escondida” de Chillida en Vitoria",
+      "link": "https://elpais.com/espana/pais-vasco/2026-10-13/una-iniciativa-ciudadana-reivindica-la-joya-escondida-de-chillida-en-vitoria.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/CWI7IPNJEVEM5IBL3XBPCXJF5E.jpg?auth=4f0410ddabf63160365210740fa30421808452eaf535b420362e72097d786af5&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

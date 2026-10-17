@@ -1,15 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "Tezanos, otra vez",
+      "titulo": "Logro insólito de Hernández de Cos",
       "link": "https://elpais.com/opinion/editoriales/",
       "imagen": "https://imagenes.elpais.com/resizer/SRWcqt_XKUScZso4ky3pK7HQeHA=/300x300/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/2IZPH2YJMVHLJMHFOBJXFQTSSM.png",
       "tipo": "imagen"
     },
     {
-      "titulo": "La carrera es entre el PP y Vox",
+      "titulo": "El riesgo de vaciar la acción política",
       "link": "https://elpais.com/opinion/tribunas/",
       "imagen": "https://arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/2IZPH2YJMVHLJMHFOBJXFQTSSM.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El bienestar de los verdugos",
+      "link": "https://elpais.com/autor/antonio-munoz-molina/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VYIPJFDVFFDSZP4IZP4SVRNNQU.jpg?auth=f68892d9a2e9d0b96b3002f4af354ea089c2cbe6ecd78261ffff2f4eec4a42f5&width=414",
       "tipo": "imagen"
     },
     {
@@ -19,20 +25,14 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "España es cosa de todos",
-      "link": "https://elpais.com/opinion/2026-10-16/espana-es-cosa-de-todos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/GA3EUEOQJJA7LCLJAA5JZQZETU.jpg?auth=8874af8a3deb4c2ebae4ebd6a5abbeb742ed7b81eda114f33d8ced27e47981d2&width=1200",
+      "titulo": "La hipocresía de Podemos y los malabares de Rufián",
+      "link": "https://elpais.com/opinion/2026-10-17/la-hipocresia-de-podemos-y-los-malabares-de-rufian.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/WRVUYHLKH5HJHEYD3WEKZSZIWI.jpg?auth=c1a952d48150afd36ac490667c18f6829df069c67f2ba03053bb6c45dccd3e7d&width=1200",
       "tipo": "imagen"
     },
     {
-      "titulo": "Alemania en el diván",
-      "link": "https://elpais.com/opinion/2026-10-16/alemania-en-el-divan.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "El despertar político de una generación maltratada",
-      "link": "https://elpais.com/noticias/redes-sociales/",
+      "titulo": "A la guerra con tiritas",
+      "link": "https://elpais.com/autor/andrea-rizzi/",
       "imagen": "",
       "tipo": ""
     }
