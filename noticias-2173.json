@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Guerra Ucrania - Rusia, última hora en directo",
+      "link": "https://www.elperiodico.com/es/internacional/20261017/guerra-ucrania---rusia-ultima-126605559",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/79d1f80e-52d7-47be-9a85-b63cfa5b1ca9_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Guerra de Irán, en directo",
+      "link": "https://www.elperiodico.com/es/internacional/20261017/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/3daed15a-6179-49fc-aaf7-369df4128e83_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Trump releva a la portavoz de la Casa Blanca tras solo 5 caóticos días en el cargo",
       "link": "https://www.elperiodico.com/es/internacional/20261016/trump-sugiere-portavoz-casa-blanca-deje-cargo-polemica-primera-semana-135429623",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/76bf4f51-fbce-4552-b6e2-81cf4fe288cc_media-libre-aspect-ratio_default_0.jpg",
@@ -22,18 +34,6 @@
       "titulo": "León XIV habla con Putin desde el hospital y le pide una tregua urgente para la localidad ucraniana de Oleshki",
       "link": "https://www.elperiodico.com/es/sociedad/20261016/leon-xiv-pide-putin-llamada-135425443",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/e27664f7-0273-4bd0-b73f-fc93316a7c89_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un documental expone el racismo en el partido de Nigel Farage, en pleno desplome de su popularidad",
-      "link": "https://www.elperiodico.com/es/internacional/20261016/documental-expone-racismo-reform-uk-nigel-farage-caida-popularidad-135420446",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/88c750f2-30fd-4e80-8daa-16b4ab2efe2e_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Guerra de Irán, en directo",
-      "link": "https://www.elperiodico.com/es/internacional/20261016/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/3daed15a-6179-49fc-aaf7-369df4128e83_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

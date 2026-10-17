@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La Voyager 1, a punto de cruzar la barrera de un día luz de distancia de la Tierra",
+      "link": "https://www.abc.es/ciencia/voyager-punto-cruzar-barrera-dia-luz-distancia-20261016011700-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/10/16/Voyager%201-RdHlMdQXd0mjJvofKx8T92I-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Hallan, por primera vez, una estrella de color verde",
       "link": "https://www.abc.es/ciencia/hallan-primera-vez-estrella-color-verde-20261014010845-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/10/14/Green_WD_V3-RJ9zskaMAa9a1EhuH7vpu0J-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El sorprendente hallazgo que podría explicar por qué existe la vida",
       "link": "https://www.abc.es/ciencia/sorprendente-hallazgo-explicar-existe-vida-20261013112031-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/10/13/Ajuste%20fino%20Universo-RIV97fTi22PJO9569qyksPJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Perseverance de la NASA, el vehículo que más distancia ha recorrido en otro mundo",
-      "link": "https://www.abc.es/ciencia/perseverance-nasa-vehiculo-distancia-recorrido-mundo-20261013131634-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/10/13/perseverance-RQenofaCXFt9kwxKBnxymMN-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

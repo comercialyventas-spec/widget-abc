@@ -1,7 +1,19 @@
 {
   "noticias": [
     {
-      "titulo": "Tiempo en Catalunya mañana sábado: la dana Adam pone en aviso rojo a Barcelona por lluvias torrenciales",
+      "titulo": "Las horas más críticas de la dana en el Mediterráneo: a qué hora empezarán las tormentas más violentas este fin de semana",
+      "link": "https://www.elperiodico.com/es/tiempo/20261017/horas-dana-mediterraneo-hora-empiezan-tormentas-criticas-cataluna-valencia-dv-135429584",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/bfa72c02-dba9-4881-8ae2-e948f07ed17d_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Qué es una DANA retrógrada? El fenómeno que traerá lluvias torrenciales este fin de semana",
+      "link": "https://www.elperiodico.com/es/tiempo/20261017/dana-retrograda-fenomeno-lluvias-torrenciales-cataluna-valencia-baleares-aemet-dv-135417455",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7ff9d75a-14bf-4d2e-b231-163f435b5d74_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Tiempo en Catalunya hoy sábado: la dana Adam pone en aviso rojo a Barcelona por lluvias torrenciales",
       "link": "https://www.elperiodico.com/es/tiempo/20261016/tiempo-cataluna-hoy-sabado-17-octubre-dana-lluvias-adam-temperatura-dv-loc-135418537",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/72220520-5cc0-4d21-b119-6736a9e8c690_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
@@ -22,18 +34,6 @@
       "titulo": "Las muertes por calor en España alcanzó máximos este verano con 5.807 fallecimientos",
       "link": "https://www.elperiodico.com/es/tiempo/20261013/muertes-calor-espana-alcanzan-maximos-5807-fallecimientos-135292491",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8aba3f84-e671-453b-9061-82224381125b_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Govern aprueba las condiciones para acceder a las ayudas por los daños provocados por las últimas lluvias torrenciales",
-      "link": "https://www.elperiodico.com/es/tiempo/20261013/el-govern-aprueba-las-condiciones-para-acceder-a-las-ayudas-por-los-danos-provocados-por-los-ultimos-aguaceros-135290081",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b1bca1b9-d931-4d6a-9960-2d939064ef8a_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tiempo en Catalunya hoy miércoles: ambiente veraniego y temperaturas rozando los 30C",
-      "link": "https://www.elperiodico.com/es/tiempo/20261013/tiempo-cataluna-hoy-miercoles-14-octubre-temperaturas-calor-dv-loc-135289747",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/03400d17-cccb-40c6-a270-9268eb2dc14c_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

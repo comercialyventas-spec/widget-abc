@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Gozar del lujo",
+      "link": "https://www.abc.es/deportes/real-madrid/ignacio-ruizquintano-gozar-lujo-20261016011329-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/16/diazdemera-RLGUxI3431AH9oYFkEx8aWK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Vinicius toca fondo",
       "link": "https://www.abc.es/deportes/real-madrid/vinicius-toca-fondo-20261015135117-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/15/vini-roma-RZTYvcGmJ2Zo2amrEo9pJwN-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Remontada del Madrid 'cacio e pepe' con más dudas que gloria",
       "link": "https://www.abc.es/deportes/real-madrid/remontada-madrid-cacio-pepe-dudas-gloria-20261015094025-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/15/guler-endrick-cacio-pepe-RkowOJvZkJRekbZXpzwUpRP-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Madrid levanta el pulgar a tiempo en Roma",
-      "link": "https://www.abc.es/deportes/real-madrid/madrid-levanta-pulgar-tiempo-roma-20261014230135-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/14/espi-RQjhPItDEXmSkKsgW87vj8O-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

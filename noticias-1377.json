@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Pollo pochado: la receta china para conseguir una pechuga tierna y jugosa",
+      "link": "https://elpais.com/gastronomia/recetas/2026-10-17/pollo-pochado-la-receta-china-para-conseguir-una-pechuga-tierna-y-jugosa.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/EYGG7PATIRGNDFUB7UG2TXZXWM.jpg?auth=d4f1633c4b75e8fc28163d247ee9b9b8e106efbf0c38f810d9b6e632a5491f73",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La ley de hace 200 años que sigue decidiendo cómo te sirven una cerveza",
+      "link": "https://elpais.com/gastronomia/beber/2026-10-17/la-ley-de-hace-200-anos-que-sigue-decidiendo-como-te-sirven-una-cerveza.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/PXTNH44IUBCAFH65UFBCMFCZ4U.jpg?auth=44fbc7f38e8070f20f479a87e8736171fff4ddf5323b98bfaa482d1d0d9d16f0",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cinco recetas de cuchara de cocineros reconocidos para templar el cuerpo",
+      "link": "https://elpais.com/gastronomia/2026-10-17/cinco-recetas-de-cuchara-de-cocineros-reconocidos-para-templar-el-cuerpo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KD7HTNJEUZG2FMKZBZ6HQHCP64.jpg?auth=fe0e5f19b056905063bd56bb7afe5f78f6fb35262e48c8fdba9482112004bb64",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cómo el menú del día pasó de alimentar turistas a estar en peligro de extinción",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-10-16/como-el-menu-del-dia-paso-de-alimentar-turistas-a-estar-en-peligro-de-extincion.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/WVWPZ3TFIVGOHM7FIUNMD5XQLM.jpg?auth=e8ec8910c17ac360ecd4cb558c957bee22ff6c96d76ac94b329cfea85e5f56ae",
@@ -16,24 +34,6 @@
       "titulo": "Garelos, la taberna gallega que triunfa en Madrid: tortilla, carne de ternera y un tique medio de 35 euros",
       "link": "https://elpais.com/gastronomia/2026-10-16/garelos-la-taberna-gallega-que-triunfa-en-madrid-tortilla-carne-de-ternera-y-un-tique-medio-de-35-euros.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/ZYVNV5ZOJZHR3G3RAEEFRCJNFU.jpg?auth=4edfb6801432cd85c6a553ff9a862da1ab64c051f0254531a1e5aa17516a4d3a",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘Fideos botón’ de zanahoria, una receta fácil de pasta fresca sin máquina",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-15/fideos-boton-de-zanahoria-una-receta-facil-de-pasta-fresca-sin-maquina.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/RRKSB3WZDZENBGEMNPSTT3YDII.jpg?auth=c55865aac07bddf7855c900cac22d816817206bbc5813c25a74052ec7a025ef2",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Shakrieh, una receta de carne con salsa de yogur para no olvidar Palestina",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-15/shakrieh-una-receta-de-carne-con-salsa-de-yogur-para-no-olvidar-palestina.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20260928/1219459_151756_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "“Hay un dulce que es un Tinder al aire libre”: María Mieres, autora del libro que reúne las historias detrás de la repostería tradicional del norte de España",
-      "link": "https://elpais.com/gastronomia/2026-10-15/hay-un-dulce-que-es-un-tinder-al-aire-libre-maria-mieres-autora-del-libro-que-reune-las-historias-detras-de-la-reposteria-tradicional-del-norte-de-espana.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/MJMZUGUDHRHD3BAOF6JWC6JYZU.jpg?auth=967e4519d4753c3ad047af4ea672c769fa1a01c2ffff453fbac12db68be135b6",
       "tipo": "imagen"
     }
   ]

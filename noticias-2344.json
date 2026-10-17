@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Fallece un motorista tras sufrir un accidente en la N-122 en Zamora",
+      "link": "https://www.zamora24horas.com/sucesos/herido-grave-motorista-tras-sufrir-salida-via-n-122-zamora",
+      "imagen": "https://statics.zamora24horas.com/227fe652-97dc-4c81-b094-2af5ea626de7.webp?format=webp&width=320&quality=75",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un hombre de 80 años, evacuado en helicóptero tras un accidente en la N-122 en Alcañices",
       "link": "https://www.zamora24horas.com/sucesos/hombre-unos-80-anos-trasladado-helicoptero-salamanca-tras-accidente-n-122",
-      "imagen": "https://statics.zamora24horas.com/9a70ba5c-8438-4091-9dd3-dc5bf794aa76.webp?format=webp&width=320&quality=75",
+      "imagen": "https://statics.zamora24horas.com/5c30e591-330b-45e1-9a96-a4565a0127fa.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
     },
     {
@@ -13,7 +19,7 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Terremoto en El Bierzo que se ha sentido en el noroeste de Zamora",
+      "titulo": "Un terremoto de magnitud 4 en el Bierzo se siente en el noroeste de Zamora",
       "link": "https://www.zamora24horas.com/sucesos/terremoto-magnitud-4-bierzo-siente-noroeste-zamora",
       "imagen": "https://statics.zamora24horas.com/e194b17d-7156-4812-8b4b-1d8c98fe6961.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
@@ -22,12 +28,6 @@
       "titulo": "Ruedas pinchadas, arañazos y retrovisor arrancado: aparece un coche vandalizado en el centro de Zamora",
       "link": "https://www.zamora24horas.com/sucesos/ruedas-pinchadas-aranazos-retrovisor-arrancado-aparece-coche-vandalizado-centro-zamora",
       "imagen": "https://statics.zamora24horas.com/ae311dda-1d25-41c0-b06f-7e644f41f8f7.webp?format=webp&width=320&quality=75",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El asesino de Leticia Rosino incumple la libertad vigilada tras salir de prisión",
-      "link": "https://www.zamora24horas.com/sucesos/asesino-leticia-rosino-incumple-libertad-vigilada-tras-salir-prision",
-      "imagen": "https://statics.zamora24horas.com/173a3830-4f34-469f-95c6-b5e7c339739a.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
     }
   ]
