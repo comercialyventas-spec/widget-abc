@@ -1,10 +1,16 @@
 {
   "noticias": [
     {
+      "titulo": "El PSOE exige actuar con urgencia en las calles José Acosta Medina, Diego de Arana y López de Haro de Granada",
+      "link": "https://www.ahoragranada.com/noticias/el-psoe-exige-actuar-con-urgencia-en-las-calles-jose-acosta-medina-diego-de-arana-y-lopez-de-haro-de-granada/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/10/Zona-Norte-Visita.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Granada es la tercera andaluza que más ha aumentado su potencia renovable con 104,2 megavatios",
       "link": "https://www.ahoragranada.com/noticias/granada-es-la-tercera-andaluza-que-mas-ha-aumentado-su-potencia-renovable-con-1042-megavatios/",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2019/04/Placas-solares-Lachar.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Granada por la Regeneración aborda las líneas de trabajo en ecosistemas degradados en el contexto actual",
@@ -15,25 +21,19 @@
     {
       "titulo": "El aviso amarillo se mantiene en todos los municipios de Granada por riesgo bajo de lluvias",
       "link": "https://www.ahoragranada.com/noticias/el-aviso-amarillo-se-mantiene-en-todos-los-municipios-de-granada-por-riesgo-bajo-de-lluvias/",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/10/aviso-naranja-por-fuertes-lluvias-en-Granada-Capital.-cierran-colegios-y-universidad-AC-32.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Granada reactiva la apertura de los patios de diez colegios públicos para fomentar deporte, ocio y convivencia",
       "link": "https://www.ahoragranada.com/noticias/granada-reactiva-la-apertura-de-los-patios-de-diez-colegios-publicos-para-fomentar-deporte-ocio-y-convivencia/",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2024/08/CEIP-Gomez-Moreno-Granada-.png",
+      "tipo": "imagen"
     },
     {
       "titulo": "Un pequeño incendio en la segunda planta del Virgen de las Nieves en Granada causa daños materiales",
       "link": "https://www.ahoragranada.com/noticias/un-pequeno-incendio-en-la-segunda-planta-del-virgen-de-las-nieves-en-granada-causa-danos-materiales/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/10/Incendio-Virgen-de-las-Nieves-Montaje-01.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tellado activa la precampaña del PP de Granada: \"Para limpiar las instituciones hay que barrer a Pedro Sánchez\"",
-      "link": "https://www.ahoragranada.com/noticias/tellado-activa-la-precampana-del-pp-de-granada-para-limpiar-las-instituciones-hay-que-barrer-a-pedro-sanchez/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/10/Miguel-Tellado-Granada-011.jpeg",
       "tipo": "imagen"
     }
   ]

@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "La Ertzaintza detiene por terrorismo a dos proetarras con una base de datos sobre guardias civiles destinados en el País Vasco",
-      "link": "https://www.abc.es/espana/pais-vasco/ertzaintza-detiene-terrorismo-dos-proetarras-base-datos-20261017202953-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/17/1510924533-kd6H-U302291160476OyG-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "El Barça y De Burgos ahogan al Betis",
       "link": "https://www.abc.es/deportes/futbol/barca-burgos-ahogan-betis-20261017203801-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/17/yamalgol-RtebAKB31ptQWQfasrSZyeI-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/17/yamalgol-RtebAKB31ptQWQfasrSZyeI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "Sánchez presume de pacifismo, pero ha solicitado ya a Estados Unidos armamento por más de 7.100 millones",
-      "link": "https://www.abc.es/espana/sanchez-presume-pacifismo-solicitado-estados-unidos-armamento-20261017202206-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/17/1501854170-kZQF-U302290685045S3B-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Violentas protestas en Francia por el coste de la vida: más de 270 detenidos y disturbios en las principales ciudades",
+      "titulo": "La indignación por el alto coste de la vida desborda e incendia las calles de Francia",
       "link": "https://www.abc.es/internacional/166-detenidos-protestas-estudiantes-francia-coste-vida-20261017150236-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/17/protestas-francia-ROx5raUVdgOWvVpAITlVs2N-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/17/protestas-francia-ROx5raUVdgOWvVpAITlVs2N-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "Metro finaliza la limpieza en Sol, pero seguirá cerrado hasta tener todas las garantías de salud y seguridad",
-      "link": "https://www.abc.es/espana/madrid/metro-finaliza-limpieza-sol-seguira-cerrado-tener-20261017124804-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/17/limpieza-sol-RwtNxeJBwRjZkOVhkddXjHK-1200x840@diario_abc.JPG"
+      "titulo": "Pollo en olla exprés para wraps o ensaladas",
+      "link": "https://www.abc.es/recetasderechupete/pollo-desmenuzado-en-olla-expres-para-wraps-ensaladas-y-bocadillos-receta-facil-y-jugosa/176053/",
+      "imagen": "https://cdn.recetasderechupete.com/wp-content/uploads/2026/09/pollo-desmenuzado-portada.png",
+      "tipo": "imagen"
     },
     {
-      "titulo": "PP y Vox se disputan en Cataluña el voto de Aliança en las generales",
-      "link": "https://www.abc.es/espana/pp-vox-disputan-cataluna-voto-alianca-catalana-20261018165803-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/18/1467321996-Rbs5ZEhVYygibWGijB2OppO-1200x840@diario_abc.jpg"
+      "titulo": "Recetas para aprovechar arroz que ha sobrado",
+      "link": "https://www.abc.es/gastronomia/falsa-rechupete-20240712032340-nt.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "Tres versiones del sándwich de huevo",
+      "link": "https://www.abc.es/recetasderechupete/como-hacer-sandwich-de-huevo-3-versiones/27031/",
+      "imagen": "https://cdn.recetasderechupete.com/wp-content/uploads/2019/11/Sándwich-de-ensalada-de-huevo.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Existe el sexto sabor? Lo que dice la ciencia",
+      "link": "https://www.abc.es/recetasderechupete/existe-el-sexto-sabor-lo-que-dice-la-ciencia-sobre-los-nuevos-sabores-que-podemos-percibir/176377/",
+      "imagen": "https://cdn.recetasderechupete.com/wp-content/uploads/2026/09/sexto-sabor-portada.png",
+      "tipo": "imagen"
     }
   ]
 }
