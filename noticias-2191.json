@@ -1,7 +1,19 @@
 {
   "noticias": [
     {
-      "titulo": "Un golazo de Baena acaba con la resistencia de un bravo Espanyol",
+      "titulo": "Liverpool y Manchester City ganan con apuros en la Premier",
+      "link": "https://www.elperiodico.com/es/deportes/20261017/liverpool-manchester-city-ganan-apuros-135450409",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/e02c210d-c65e-40f1-9c51-74525c30ab3c_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La alineación del Barça ante el Betis: Gabriel Jesus y Adeyemi en el ataque",
+      "link": "https://www.elperiodico.com/es/deportes/20261017/alineacion-barca-betis-gabriel-jesus-135448846",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/145ce5fc-9eff-4242-8624-babaebe203c9_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un golazo de Baena acaba con la resistencia de un Espanyol gafado",
       "link": "https://www.elperiodico.com/es/deportes/20261017/golazo-baena-acaba-resistencia-bravo-135447529",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7012937d-68fe-4fa0-945b-76583ed5639d_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
@@ -22,18 +34,6 @@
       "titulo": "España cae en los penaltis ante Argentina y peleará por el bronce en el Mundial",
       "link": "https://www.elperiodico.com/es/deportes/20261017/espana-cae-penaltis-argentina-peleara-135440036",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/854728e2-f500-44ab-b654-0d15454fcc7e_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mourinho, sobre la comparación de Tebas con la Alemania nazi: \"Hay límites y solo tiene disculpa si es un caso clínico\"",
-      "link": "https://www.elperiodico.com/es/deportes/20261017/mourinho-real-madrid-sevilla-previa-135439270",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9d059db6-8f64-4d99-9be8-8cf198338b15_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La nefasta noche de Morata: suplencia y tarjeta roja en una nueva derrota del Leganés",
-      "link": "https://www.elperiodico.com/es/deportes/20261017/nefasta-noche-morata-suplencia-tarjeta-135439734",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7595ec45-0af7-43b4-9d16-e9744edfa661_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

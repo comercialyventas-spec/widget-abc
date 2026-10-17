@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "La trampa que muchos desconocen del café descafeinado",
+      "link": "https://www.abc.es/bienestar/trampa-desconocen-cafe-descafeinado-20261006014719-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/10/06/elisacafe-U87101448478lMo-562x393@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Qué está pasando con las pensiones?",
+      "link": "https://www.abc.es/economia/cuentas-corrientes/pasando-pensiones-20261016012031-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/16/Horizontal.00_00_35_11.Imagen%20fija002-U31785610255eVY-562x315@diario_abc.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La ciencia ficción que leyeron (y malinterpretaron) los tecnoligarcas y por qué te afecta",
       "link": "https://www.abc.es/xlsemanal/ia-ciencia-ficcion-tecnoligarcas-musk-altman-amodei-thiel-bezos-gates-zuckerberg-20261012174224-ntrc.html",
-      "imagen": "https://static.vocento.com/xlsemanal/2026/10/12/xlsemanal-tecnoligarcas-lead-kLAD--562x393@RC.jpg",
+      "imagen": "https://static.vocento.com/xlsemanal/2026/10/12/xlsemanal-tecnoligarcas-lead-kLAD--562x315@RC.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Trump premia a los Rodríguez porque desmontan el chavismo",
       "link": "https://www.abc.es/internacional/trump-premia-rodriguez-desmontan-chavismo-20261013013034-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/13/1080.00_43_18_23.Imagen%20fija007-U46672657630LcS-562x315@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "«¿Eso no es cosa de adolescentes?»: la detección de trastornos alimentarios en mujeres mayores de 40 se triplica",
-      "link": "https://www.abc.es/sociedad/adolescentes-deteccion-trastornos-alimentarios-mujeres-mayores-triplica-20261014012931-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/10/14/1518711457-U18743460147GXo-562x315@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "«Ser del PSOE es…»",
-      "link": "https://www.abc.es/espana/psoe-20261015210042-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/15/1080.00_43_24_23.Imagen%20fija008_20261015200812-U25200121204dHg-562x315@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

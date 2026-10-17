@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Una voz socialdemócrata en Francia",
+      "link": "https://elpais.com/opinion/editoriales/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/2576GQRIP5FXZOAIWQXAQXKZLA.jpg?auth=884f1aa7ea9f8cad8d1941e50669cece35ae15a8a51b6427a6f7257694a435aa&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Estado, en Ceuta y Melilla",
       "link": "https://elpais.com/opinion/2026-10-15/el-estado-en-ceuta-y-melilla.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/JN4PQV2WN5D2DKQKTRV2DXV45E.jpg?auth=2b98efe44347c23871cc3380f52a20b5f5abaa51b8fc4ae14bd8cf7e8928aaf2&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/JN4PQV2WN5D2DKQKTRV2DXV45E.jpg?auth=2b98efe44347c23871cc3380f52a20b5f5abaa51b8fc4ae14bd8cf7e8928aaf2&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Una visita oportuna y necesaria",
       "link": "https://elpais.com/opinion/2026-10-13/una-visita-oportuna-y-necesaria.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/UXGBLXQOKNHXFH5XCJYD5QKR3A.jpg?auth=ea2118f85c63383d41ba0404cc2452d4e0c2579b810ecc63b59c1f1841ca1909&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La credibilidad del espionaje alemán",
-      "link": "https://elpais.com/opinion/2026-10-13/la-credibilidad-del-espionaje-aleman.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/HYLN6ZYV6RDUHB7NHTA4BP43U4.jpg?auth=a3b00934f930a7fb3bc3a89d81140f46ca2686f3871a5a50f8d9f95be95ddb97&width=414&height=311&focal=1846%2C858",
       "tipo": "imagen"
     }
   ]

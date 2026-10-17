@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "BUNDESLIGA: escuche el partido Bayern Múnich vs. RB Leipzig",
+      "link": "https://www.dw.com/es/bundesliga-escuche-el-partido-bayern-múnich-vs-rb-leipzig/a-79688683",
+      "imagen": "https://static.dw.com/image/79660944_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ucrania lamenta la decisión de Trump sobre las sanciones a Rusia y Moscú la califica de \"histórica\"",
       "link": "https://www.dw.com/es/ucrania-lamenta-la-decisión-de-trump-sobre-las-sanciones-a-rusia-y-moscú-la-califica-de-histórica/a-79688156",
       "imagen": "https://static.dw.com/image/79676680_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Explosión en un petrolero tras chocar con una mina en Ormuz",
       "link": "https://www.dw.com/es/explosión-en-un-petrolero-tras-chocar-con-una-mina-en-ormuz/a-79685993",
       "imagen": "https://static.dw.com/image/79538269_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Japón ofrece disculpas públicas por falsa alerta de sismo de magnitud 9,9",
-      "link": "https://www.dw.com/es/japón-ofrece-disculpas-públicas-por-falsa-alerta-de-sismo-de-magnitud-9-9/a-79685334",
-      "imagen": "https://static.dw.com/image/79477002_6.jpg",
       "tipo": "imagen"
     }
   ]
