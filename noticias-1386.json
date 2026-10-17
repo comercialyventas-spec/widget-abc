@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "El paraguas invertido que evita mojar el coche y el suelo al entrar en casa",
-      "link": "https://elpais.com/escaparate/estilo-de-vida/paraguas-invertido.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/NHHCLOZW7FFR3MZBD6PKQ7F66Q.png?auth=095aaa8b807baaff02a7c3e9c7332f8ce13f4a8175d1f3cffe318d9706ee559b",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Temporada de lluvia: cinco botas de agua para niños con los diseños más divertidos",
       "link": "https://elpais.com/escaparate/estilo-de-vida/botas-de-agua-para-ninos.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/JNTYYKL7UJFYDB2SPPVZPWFOTY.png?auth=534cf0c00ca3c280c1f34cb2168ae6dfeeb0b1ceaee1d8e4cb834b68b942366d",
@@ -34,6 +28,12 @@
       "titulo": "Amazon Prime Day 2018: las mejores ofertas en belleza y cuidado personal",
       "link": "https://elpais.com/escaparate/belleza/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/7QY6YDVU5PCBNXEQUNZ5GB4PPM.jpg?auth=bff1295b0d1a24cff239c17ad42e206c16f1c679f69302e38b02a7113dc43e19",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las mejores ofertas del Amazon Prime Day 2018",
+      "link": "https://elpais.com/escaparate/ofertas-y-descuentos/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/OF6ZW3J24XAPCO7S5NBE2UOPYM.jpg?auth=d253de7c13434a0e8c8be985bed16650f6fa991ae239561d79f9d0b4bd595818",
       "tipo": "imagen"
     }
   ]
