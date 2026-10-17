@@ -1,21 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "El regreso de los ‘chalecos amarillos’ y la rabia estudiantil incendian Francia",
+      "link": "https://elpais.com/internacional/2026-10-17/la-rabia-de-los-estudiantes-los-agricultores-y-los-funcionarios-confluye-en-una-gran-protesta-en-toda-francia.html",
+      "imagen": "https://www.youtube.com/watch?v=fzIGj2a0hjg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Jérome Fourquet, sobre las protestas de estudiantes en Francia: “Estamos ante el final de un reinado”",
+      "link": "https://elpais.com/internacional/2026-10-17/jerome-fourquet-sociologo-estamos-ante-el-final-de-un-reinado-en-francia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/T3PUWRLLPVG5FLDJ4UAQTFCDUI.jpg?auth=0dd289274b5d69a9f182ddbb5a97efb74de867e645167decc637a08f7d0bf74c",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Trump suspende sanciones contra Rusia en pleno giro para que Putin le ayude a bajar el precio de la energía antes de las elecciones",
+      "link": "https://elpais.com/us/2026-10-17/trump-suspende-temporalmente-sanciones-contra-rusia-por-interes-nacional.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/2E3VSNCU35AU3FR6VCJEQFOFR4.JPG?auth=4fc3f09da3421752a15091580500df0b1a334515d961e177d8471567a7a17b61",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Estados Unidos aumenta su presencia militar en América Latina con entrenamientos en Panamá, Honduras y Colombia",
       "link": "https://elpais.com/america-colombia/2026-10-17/estados-unidos-aumenta-su-presencia-militar-en-america-latina-con-entrenamientos-en-panama-honduras-y-colombia.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/D2U6DUHHENIHPFP3M74VFUNFYY.jpg?auth=4b80a93284e9232e59fa80b98acc818d9eb6151338d317e4b4c4473b052eef63",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Búnkeres, amenazas de mutilación y rescates: el auge de los secuestros en Perú",
-      "link": "https://elpais.com/america/2026-10-17/bunkeres-amenazas-de-mutilacion-y-rescates-el-auge-de-los-secuestros-en-peru.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/F4BNECRWSNDEFMVWY3XM6USIYQ.jpg?auth=855f8c251e0f8b3cfbf6b86ba35fb341e2b694815e801543b1a23c45d3603868",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Votaron por Lula, se desencantaron y apuestan por Bolsonaro",
-      "link": "https://elpais.com/america/2026-10-17/votaron-por-lula-se-desencantaron-y-apuestan-por-bolsonaro.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/IAOY4ZHZ5JCQPBL7L6CPX6WTFE.jpg?auth=a498b6593854540e83fdf5779ad0e4e42cb12156a719baa6d8bffc5799536cc8",
       "tipo": "imagen"
     },
     {
@@ -25,15 +31,9 @@
       "tipo": ""
     },
     {
-      "titulo": "Trump suspende sanciones contra Rusia en pleno giro para que Putin le ayude a bajar el precio de la energía antes de las elecciones",
-      "link": "https://elpais.com/us/2026-10-17/trump-suspende-temporalmente-sanciones-contra-rusia-por-interes-nacional.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/2E3VSNCU35AU3FR6VCJEQFOFR4.JPG?auth=4fc3f09da3421752a15091580500df0b1a334515d961e177d8471567a7a17b61",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Patrick Radden Keefe, periodista: “Vivimos tiempos profundamente mercenarios. ¿Tienes dinero? Bienvenido”",
-      "link": "https://elpais.com/ideas/2026-10-17/patrick-radden-keefe-periodista-vivimos-tiempos-profundamente-mercenarios-tienes-dinero-bienvenido.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/OSURAJ66TRHFROIDDZB7ZZMIMM.jpg?auth=b3ce319b09ed7ae77e7a8e6e32bb40648a618fd56a188955b20e4af59433c7cf",
+      "titulo": "Votaron por Lula, se desencantaron y apuestan por Bolsonaro",
+      "link": "https://elpais.com/america/2026-10-17/votaron-por-lula-se-desencantaron-y-apuestan-por-bolsonaro.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/IAOY4ZHZ5JCQPBL7L6CPX6WTFE.jpg?auth=a498b6593854540e83fdf5779ad0e4e42cb12156a719baa6d8bffc5799536cc8",
       "tipo": "imagen"
     }
   ]

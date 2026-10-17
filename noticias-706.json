@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Más vacaciones, ¿más productivos? Reino Unido nos dice que sí",
+      "link": "https://www.eldiario.es/economia/vacaciones-productivos-reino-unido-dice-si_129_13589076.html",
+      "imagen": "https://static.eldiario.es/clip/7f915bf3-aca0-4f37-b6b0-dccb48782dd3_avatar-200-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El mundo vive endeudado, el FMI pide un ajuste y los gobiernos no se dan por aludidos",
       "link": "https://www.eldiario.es/economia/mundo-vive-endeudado-fmi-pide-ajuste-gobiernos-no-dan-aludidos_129_13590463.html",
       "imagen": "https://static.eldiario.es/eldiario/public/file/2025/0919/14/ijd-picture.png",
@@ -28,12 +34,6 @@
       "titulo": "No es lo mismo",
       "link": "https://www.eldiario.es/opinion/zona-critica/no_129_13592338.html",
       "imagen": "https://static.eldiario.es/clip/ae4117cc-df68-4e5e-8e26-ef3bf2efd6bf_avatar-200-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Por qué la vivienda quedó fuera del núcleo del Estado del bienestar",
-      "link": "https://www.eldiario.es/opinion/tribuna-abierta/vivienda-quedo-fuera-nucleo-bienestar_129_13591742.html",
-      "imagen": "https://static.eldiario.es/clip/f9a7af05-db4e-46d6-b749-4cf5320226de_facebook-aspect-ratio-1200-675_default_0.jpg",
       "tipo": "imagen"
     }
   ]

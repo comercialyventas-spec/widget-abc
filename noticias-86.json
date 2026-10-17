@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Protestas en Francia, fuego en California y otras imágenes del día",
+      "link": "https://www.lavanguardia.com/fotos/20261017/11661443/protestas-francia-fuego-california-imagenes-dia.html",
+      "imagen": "https://www.lavanguardia.com/files/listing_main/files/fp/uploads/2026/10/17/6ad35b6ec2fb6.r_d.2392-1595-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El coche volador de Tesla, el luto después de un tiroteo en Oregón y más imágenes del día",
       "link": "https://www.lavanguardia.com/fotos/20261016/11661000/coche-volador-tesla-luto-tiroteo-oregon-mas-imagenes-dia.html",
       "imagen": "https://www.lavanguardia.com/files/listing_main/files/fp/uploads/2026/10/16/6ad24b32163c5.r_d.1634-1214-292.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Fuertes lluvias y la operación del papa León XIV, entre las imágenes del día",
       "link": "https://www.lavanguardia.com/fotos/20261013/11658012/fuertes-lluvias-operacion-papa-leon-xiv-imagenes-dia.html",
       "imagen": "https://www.lavanguardia.com/files/listing_main/files/fp/uploads/2026/10/13/6ace3d5496f10.r_d.2258-1768-214.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Hispanidad y Ceuta entre las imágenes del día",
-      "link": "https://www.lavanguardia.com/fotos/20261012/11657183/hispanidad-ceuta-imagenes-dia.html",
-      "imagen": "https://www.lavanguardia.com/files/listing_main/files/fp/uploads/2026/10/12/6acceff300309.r_d.1760-1354-0.jpeg",
       "tipo": "imagen"
     }
   ]

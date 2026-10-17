@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Violentas protestas en Francia por el coste de la vida: más de 270 detenidos y disturbios en las principales ciudades",
+      "titulo": "La indignación por el alto coste de la vida desborda e incendia las calles de Francia",
       "link": "https://www.abc.es/internacional/166-detenidos-protestas-estudiantes-francia-coste-vida-20261017150236-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/17/protestas-francia-ROx5raUVdgOWvVpAITlVs2N-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "«Solo ayuda a Rusia»: Zelenski critica la suspensión de sanciones a Putin por parte de Trump",
+      "link": "https://www.abc.es/internacional/solo-ayuda-rusia-zelenski-critica-suspension-sanciones-20261017194823-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/17/trump-putin_20261017194648-RJ2ardyoQUy1zYhsfhzKmwN-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "El Papa habla por teléfono con Putin y le pide un alto el fuego en Ucrania",
       "link": "https://www.abc.es/internacional/papa-habla-telefono-putin-pide-tregua-permitir-20261016174931-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/16/1518855511-kdjE-U3022758539280bF-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Otro favor de Trump a Putin: suspende una ley de sanciones diseñada por el Congreso de EE.UU. para asfixiar a Rusia",
-      "link": "https://www.abc.es/internacional/favor-trump-putin-suspende-ley-sanciones-disenada-20261017080758-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/17/1518872384-kicF-RcvustTevp5lgdBExO3OARP-1200x840@diario_abc.JPG",
       "tipo": "imagen"
     }
   ]

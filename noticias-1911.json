@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Plantar cara a la derecha",
+      "link": "https://www.eldiario.es/opinion/plantar-cara-derecha_131_13594545.html",
+      "imagen": "https://static.eldiario.es/clip/32a31eff-4fb3-4688-9a71-8e940649b0a0_16-9-discover-aspect-ratio_default_0_x389y209.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Novedades editoriales",
       "link": "https://www.eldiario.es/opinion/novedades-editoriales_131_13592986.html",
       "imagen": "https://static.eldiario.es/clip/31dba2ae-d514-49d7-8dde-49a304fd75f2_16-9-discover-aspect-ratio_default_0_x346y278.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Hacer política",
       "link": "https://www.eldiario.es/opinion/politica_131_13573730.html",
       "imagen": "https://static.eldiario.es/clip/45a5d613-23f4-4380-b248-208a71cc96e9_16-9-discover-aspect-ratio_default_0_x523y163.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Puigdemont ya puede volver",
-      "link": "https://www.eldiario.es/opinion/puigdemont-volver_131_13567667.html",
-      "imagen": "https://static.eldiario.es/clip/7d111344-6f85-46f5-94ed-95b27d3504cd_16-9-discover-aspect-ratio_default_0_x479y357.jpg",
       "tipo": "imagen"
     }
   ]
