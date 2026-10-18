@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Somos Chamberí",
+      "link": "https://www.eldiario.es/madrid/somos/chamberi/",
+      "imagen": "https://static.eldiario.es/clip/d86f9823-da4e-4571-933f-28c4f6f5ed3a_16-9-discover-aspect-ratio_default_0_x1211y563.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Museo Sorolla inaugura su ampliación en un antiguo taller, mientras la casa seguirá en obras de forma indefinida",
+      "link": "https://www.eldiario.es/cultura/arte/museo-sorolla-inaugura-ampliacion-antiguo-taller-casa-seguira-obras-forma-indefinida_1_13584730.html",
+      "imagen": "https://static.eldiario.es/clip/2dc48c52-6219-4f79-9200-3eba7a2a5b90_16-9-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Convocada una protesta contra la llegada de una compañía de danza auspiciada por Israel a los Teatros del Canal",
       "link": "https://www.eldiario.es/madrid/somos/chamberi/convocada-protesta-llegada-compania-danza-auspiciada-israel-teatros-canal_1_13582590.html",
-      "imagen": "https://static.eldiario.es/clip/faab70b8-199e-4149-af32-3c60e3efe1b8_16-9-aspect-ratio_default_0_x1055y842.jpg",
+      "imagen": "https://static.eldiario.es/clip/faab70b8-199e-4149-af32-3c60e3efe1b8_16-9-discover-aspect-ratio_default_0_x1055y842.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "La Comunidad de Madrid busca sitio en Carabanchel para el 'mini Palacio de los Deportes' que descartó en Chamberí",
       "link": "https://www.eldiario.es/madrid/somos/comunidad-madrid-busca-sitio-carabanchel-mini-palacio-deportes-descarto-chamberi_1_13542639.html",
       "imagen": "https://static.eldiario.es/clip/4ce42ba0-ddfb-4392-8c46-ea2a3a69f346_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El frontón Beti Jai acoge ocho partidos de pelota vasca con entradas gratuitas",
-      "link": "https://www.eldiario.es/madrid/somos/chamberi/fronton-beti-jai-acoge-ocho-partidos-pelota-vasca-entradas-gratuitas_1_13526615.html",
-      "imagen": "https://static.eldiario.es/clip/ecc1cdd9-fcc0-41c9-b84a-4ca8bef56653_16-9-discover-aspect-ratio_default_0_x744y308.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Nuevo corte en la línea 6 de Metro de Madrid los dos próximos fines de semana, ahora entre Cuatro Caminos y Lucero",
-      "link": "https://www.eldiario.es/madrid/somos/nuevo-corte-linea-6-metro-madrid-proximos-fines-semana-ahora-cuatro-caminos-lucero_1_13525658.html",
-      "imagen": "https://static.eldiario.es/clip/b47d3b5f-4cc7-4e42-a563-dad6a58d0072_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

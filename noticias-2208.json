@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Entrevista con Juan Luis Ruiz, alcalde de Vilanova i la Geltrú",
+      "link": "https://www.elperiodico.com/es/videos/barcelona/entrevista-juan-luis-ruiz-alcalde-vilanova-geltru-video/135279621.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/cd999dde-3240-4715-bb50-80205a85b60b_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La inundación de una residencia de Sant Adrià de Besòs",
       "link": "https://www.elperiodico.com/es/videos/barcelona/inundacion-residencia-sant-adria-besos-video/135383919.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b747a582-faa3-44c2-af49-e0ad4d53dc5f_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La estación de metro de Diagonal de la L5",
       "link": "https://www.elperiodico.com/es/videos/barcelona/estacion-metro-diagonal-l5-barcelona-video/135281712.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ee565e08-3c8f-4cb6-a949-35cfdadffe4f_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "'Els Llums de Sant Pau' trae el mundo de 'El Principito' a Barcelona",
-      "link": "https://www.elperiodico.com/es/videos/barcelona/els-llums-sant-pau-trae-principito/135245043.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/eb014808-3482-476d-8c10-1a14642ca2b8_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

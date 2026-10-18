@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Ocupación o preocupación: ¿de quién es la calle?",
+      "link": "https://www.elconfidencial.com/cultura/2026-10-18/derecho-vivienda-ciudad-protesta_4445566/",
+      "imagen": "https://images.ecestaticos.com/_OT8UY7Mrzo63_WrKnqKtCMo4H8=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F474%2F546%2F129%2F474546129c8e03e6cdae82d3672f7d04.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Guerra Civil de los bisnietos o cómo volver a las trincheras y a batallas inútiles",
+      "link": "https://www.elconfidencial.com/cultura/2026-10-18/guerra-civil-memoria-historica-polarizacion-1hms_4445708/",
+      "imagen": "https://images.ecestaticos.com/2uTco38kcFAHPuIMP6cy9b98zg4=/0x0:2272x1656/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc7f%2F927%2F47c%2Fc7f92747cabe0059fdb0ed4d2d509a43.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ni villano ni traidor sistemático: la novela sobre el estratega que dominó la corte de Enrique IV y desafió a Isabel la Católica",
       "link": "https://www.elconfidencial.com/cultura/2026-10-18/ni-villano-ni-traidor-sistematico_4444115/",
       "imagen": "https://images.ecestaticos.com/7c3uYSnYbjDTD_w62Sqo2scxSxk=/11x0:1517x847/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fda4%2F151%2Ff1a%2Fda4151f1adcf993145d38f030ba02f5d.jpg",
@@ -13,27 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Lord Byron, el poeta que volvía locas a las mujeres y acabó profundamente desencantado del amor",
-      "link": "https://www.elconfidencial.com/cultura/2026-10-17/lord-byron-el-poeta-que-conquistaba-a-las-mujeres-y-acabo-desencantado-del-amor_4445361/",
-      "imagen": "https://images.ecestaticos.com/v3WArt6OTihNx6R4TKdoEVH5Nh0=/0x0:1920x1280/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe5a%2F01f%2F3b5%2Fe5a01f3b58abfb5289ac0748c7d0f993.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "El Plato Único: cuando la caridad acabó en Hacienda",
       "link": "https://www.elconfidencial.com/cultura/2026-10-17/plato-unico-caridad-obligatoria-franquista_4440065/",
       "imagen": "https://images.ecestaticos.com/Vx7avl7bvQzFL50hyK4UsiKj-nw=/0x0:1200x800/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fce7%2F2b0%2F75f%2Fce72b075f7822a9055cffabe6a65f0cd.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Hontanar convierte Granada en ciudad de las letras este otoño con un laboratorio literario junto a Lorenzo Silva y Aldo Linares",
-      "link": "https://www.elconfidencial.com/cultura/2026-10-17/granada-hontanar-literatura-lorenzo-silva-aldo-linares_4447175/",
-      "imagen": "https://images.ecestaticos.com/9You-2d6AgXuBuz09l0t3DR3wzU=/0x0:1600x899/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F5c4%2F4b6%2F408%2F5c44b64086ed5c11eaed5bd686389861.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Aquí puedes leer un extracto de la nueva novela de Pérez-Reverte: \"¿Qué pasa, chico, buscas barco?\"",
-      "link": "https://www.elconfidencial.com/cultura/2026-10-17/aqui-puedes-leer-un-extracto-de-la-nueva-novela-de-perez-reverte_4440944/",
-      "imagen": "https://images.ecestaticos.com/wDTI5giJvabFgDHTlQg31AXGWN0=/0x0:2272x1704/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fade%2Fe8c%2Fff2%2Fadee8cff2b52932f0206c0e37cb28788.jpg",
+      "titulo": "Lord Byron, el poeta que volvía locas a las mujeres y acabó profundamente desencantado del amor",
+      "link": "https://www.elconfidencial.com/cultura/2026-10-17/lord-byron-el-poeta-que-conquistaba-a-las-mujeres-y-acabo-desencantado-del-amor_4445361/",
+      "imagen": "https://images.ecestaticos.com/v3WArt6OTihNx6R4TKdoEVH5Nh0=/0x0:1920x1280/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe5a%2F01f%2F3b5%2Fe5a01f3b58abfb5289ac0748c7d0f993.jpg",
       "tipo": "imagen"
     }
   ]

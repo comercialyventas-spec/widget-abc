@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "La certeza que nos alegra",
+      "titulo": "Eloy Tizón, del silencio en la palabra",
+      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20261018/eloy-tizon-libro-labia-135259662",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9bd33347-8025-4c83-9741-35bae3bfe66d_16-9-discover-aspect-ratio_default_0_x590y590.webp",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Care Santos: \"Comencé a escribir porque necesitaba combatir una soledad demoledora\"",
+      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20261018/care-santos-libro-vaciar-casa-135126639",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/bf7bf005-b9c5-4a51-ab9d-23ccc497fc7f_16-9-discover-aspect-ratio_default_0_x740y374.webp",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Desgravar gracias a la cultura",
       "link": "https://www.epe.es/es/ocio-y-cultura/libros/20261017/desgravar-gracias-cultura-135357810",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/06ee1fb4-51b9-44d1-a943-8f258e4536fa_source-aspect-ratio_320w_0.jpg",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7d86a887-9afb-41ad-9e53-213eef3f07b9_16-9-discover-aspect-ratio_default_0_x750y330.webp",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Nerea Pérez de las Heras, en el videopódcast del suplemento ABRIL: \"La parte de testimonio fue la más difícil de escribir\"",
       "link": "https://www.epe.es/es/ocio-y-cultura/libros/20261016/nerea-perez-heras-videopodcast-suplemento-abril-135285207",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/656a8ba4-c39f-4cbb-9964-b5a27b8d0aaf_16-9-discover-aspect-ratio_default_0_x750y333.webp",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Dickens y Prince, mi gente",
-      "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261016/dickens-prince-libro-nick-hornby-135049602",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/02a3f1b9-365b-4d0f-8d46-0cd7d990d217_source-aspect-ratio_320w_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "'Número cero', de Eduardo Jordá: persiguiendo el eterno enigma",
-      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20261016/eduardo-jorda-critica-libro-numero-cero-135013092",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/473167b1-dfd1-48a3-a8cb-eb0d26f3badb_16-9-discover-aspect-ratio_default_0_x1136y688.webp",
       "tipo": "imagen"
     }
   ]

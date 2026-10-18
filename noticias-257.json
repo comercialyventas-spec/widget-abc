@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Ceuta, retrato de una ciudad herida",
+      "link": "https://www.abc.es/espana/ceuta-retrato-ciudad-herida-20261018012815-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/18/00011--562x393.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La trampa que muchos desconocen del café descafeinado",
       "link": "https://www.abc.es/bienestar/trampa-desconocen-cafe-descafeinado-20261006014719-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/10/06/elisacafe-U87101448478lMo-562x393@diario_abc.JPG",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/10/06/elisacafe-U21268434302Wxi-562x315@diario_abc.JPG",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Carmen Posadas: «Siempre he tenido una lucha interna entre lo convencional y el desparrame»",
       "link": "https://www.abc.es/xlsemanal/carmen-posadas-hermanas-mitford-hitler-churchill-20261012180039-ntrc.html",
       "imagen": "https://static.vocento.com/xlsemanal/2026/10/12/xlsemanal-carmen-posadas-lead-kKe--562x315@RC.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Trump premia a los Rodríguez porque desmontan el chavismo",
-      "link": "https://www.abc.es/internacional/trump-premia-rodriguez-desmontan-chavismo-20261013013034-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/13/1080.00_43_18_23.Imagen%20fija007-U46672657630LcS-562x315@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Vídeo | Cuestionario rápido a Alex Corretja",
+      "link": "https://elpais.com/videos/2026-10-18/video-cuestionario-rapido-a-alex-corretja.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261016/1226346_160522_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Caos en Francia: así se viven las protestas a lo largo de cinco ciudades",
       "link": "https://elpais.com/videos/2026-10-17/caos-en-francia-asi-se-viven-las-protestas-a-lo-largo-de-cinco-ciudades.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261017/1226646_170927_video_1800.mp4",
@@ -28,12 +34,6 @@
       "titulo": "Video | “Retrocede, fascista”: la periferia de São Paulo rima contra Flávio Bolsonaro",
       "link": "https://elpais.com/america/2026-10-16/video-retrocede-fascista-la-periferia-de-sao-paulo-rima-contra-flavio-bolsonaro.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261016/1226040_015542_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Vídeo | La odisea para alcanzar Mercurio",
-      "link": "https://elpais.com/videos/esto-va-despacio/2026-10-16/video-la-odisea-para-alcanzar-mercurio.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261015/1225819_141946_video_1800.mp4",
       "tipo": "imagen"
     }
   ]
