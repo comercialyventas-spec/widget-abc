@@ -1,21 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Logro insólito de Hernández de Cos",
+      "titulo": "Francia ante el caos",
       "link": "https://elpais.com/opinion/editoriales/",
-      "imagen": "https://imagenes.elpais.com/resizer/SRWcqt_XKUScZso4ky3pK7HQeHA=/300x300/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/2IZPH2YJMVHLJMHFOBJXFQTSSM.png",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
-      "titulo": "El riesgo de vaciar la acción política",
+      "titulo": "Mundo daliniano",
       "link": "https://elpais.com/opinion/tribunas/",
       "imagen": "https://arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/2IZPH2YJMVHLJMHFOBJXFQTSSM.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El bienestar de los verdugos",
-      "link": "https://elpais.com/autor/antonio-munoz-molina/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/VYIPJFDVFFDSZP4IZP4SVRNNQU.jpg?auth=f68892d9a2e9d0b96b3002f4af354ea089c2cbe6ecd78261ffff2f4eec4a42f5&width=414",
       "tipo": "imagen"
     },
     {
@@ -25,16 +19,22 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "La hipocresía de Podemos y los malabares de Rufián",
-      "link": "https://elpais.com/opinion/2026-10-17/la-hipocresia-de-podemos-y-los-malabares-de-rufian.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/WRVUYHLKH5HJHEYD3WEKZSZIWI.jpg?auth=c1a952d48150afd36ac490667c18f6829df069c67f2ba03053bb6c45dccd3e7d&width=1200",
+      "titulo": "Hermana, no es la ideología",
+      "link": "https://elpais.com/opinion/columnas/",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "Trump apuñala a Ucrania por la espalda",
+      "link": "https://elpais.com/autor/lluis-bassets/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/T6HJ6JJ5BJPXJAOKQTYDBUETT4.jpg?auth=817d6061ca14379072629c51a8dec1c1a9c9cb113b8a8bb8db20342c692a6694&width=414&height=233&smart=true",
       "tipo": "imagen"
     },
     {
-      "titulo": "A la guerra con tiritas",
-      "link": "https://elpais.com/autor/andrea-rizzi/",
-      "imagen": "",
-      "tipo": ""
+      "titulo": "El Roto: riesgo de alud",
+      "link": "https://elpais.com/opinion/2026-10-18/el-roto-riesgo-de-alud.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/GS3HUBDEJBHNROZHMNBIES77GY.jpg?auth=d9bfa202dc4578327ab803544fab1490dee687b6ee19299e3d4797b02244e481&width=414",
+      "tipo": "imagen"
     }
   ]
 }

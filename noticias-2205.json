@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Alerta por lluvias muy fuertes en Cataluny este lunes: la Generalitat activará el sistema ES-Alert",
+      "link": "https://www.elperiodico.com/es/videos/sociedad/alerta-lluvias-fuertes-cataluny-lunes-video/135477981.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ca32557c-8d0a-422e-9636-0afd570ed4ac_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las lluvias y tormentas causan retrasos en vuelos en el aeropuerto de El Prat",
+      "link": "https://www.elperiodico.com/es/videos/sociedad/lluvias-tormentas-causan-retrasos-masivos-video/135477633.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6d266cb6-95a0-4824-8ac4-ac4a77d42d2b_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Suspenden las clases de este lunes en amplias zonas de la Comunidad Valenciana y Baleares por la dana Adam",
+      "link": "https://www.elperiodico.com/es/videos/sociedad/suspenden-clases-lunes-amplias-zonas/135475890.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/00d5529d-bbcc-47be-83b9-693de4a67b09_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La UME embarca en Denia para desplegarse en Baleares por la borrasca Adam",
+      "link": "https://www.elperiodico.com/es/videos/sociedad/ume-embarca-denia-desplegarse-baleares/135474771.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/25dc4ae0-4577-4df1-8982-901ca0f83e32_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Fallece una mujer en Catalunya por la DANA Adam y la costa sigue en alerta",
       "link": "https://www.elperiodico.com/es/videos/sociedad/fallece-mujer-catalunya-dana-adam-video/135474269.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/31d91322-1b92-4f6c-9251-49ec19034086_media-libre-aspect-ratio_default_0.jpg",
@@ -10,30 +34,6 @@
       "titulo": "Inundaciones dentro del Aeropuerto de Ibiza",
       "link": "https://www.elperiodico.com/es/videos/sociedad/inundaciones-aeropuerto-ibiza/135472069.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b998ca0b-106f-498e-afb6-36737b0d0a11_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Hallado sin vida el cuerpo de la mujer arrastrada por la riera en Cabrera de Mar (Barcelona)",
-      "link": "https://www.elperiodico.com/es/videos/sociedad/hallado-vida-cuerpo-mujer-arrastrada/135469043.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9b99a2a3-0a68-46bc-a420-25f7cdf4fc91_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Reabre la estación de Metro de Sol tras garantizarse \"las condiciones de seguridad y salud\"",
-      "link": "https://www.elperiodico.com/es/videos/sociedad/reabre-estacion-metro-sol-garantizarse/135467445.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/38d36b39-4538-45b2-87a8-918ce1e324df_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La dana Adam deja importantes inundaciones en la provincia de Almería",
-      "link": "https://www.elperiodico.com/es/videos/sociedad/dana-adam-deja-importantes-inundaciones/135465064.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6d89c8c1-e0d5-49dd-b635-a405afd2fd08_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Seis formas de utilizar la IA para estudiar y aprender en la ESO: \"No le pidas que resuelva los problemas de Matemáticas, sino que te ayude a comprenderlos\"",
-      "link": "https://www.elperiodico.com/es/videos/sociedad/seis-formas-utilizar-ia-estudiar/135420399.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/228d45a0-a328-4ad9-add0-0735c8fcb5b6_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Camuflaje de serpiente con traje de santurrón",
+      "link": "https://www.eldiario.es/andalucia/desdeelsur/camuflaje-serpiente-traje-santurron_132_13595282.html",
+      "imagen": "https://static.eldiario.es/clip/990590b0-3d1b-48f8-827e-f99dfc43e557_16-9-discover-aspect-ratio_default_0_x1011y668.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Feijóo, un hombre sin puntería",
       "link": "https://www.eldiario.es/andalucia/desdeelsur/feijoo-hombre-punteria_132_13578695.html",
       "imagen": "https://static.eldiario.es/clip/c34782ab-9e3d-4c2d-8579-cc4f8d40594d_16-9-discover-aspect-ratio_default_0_x1222y531.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Aires de Tánger",
       "link": "https://www.eldiario.es/andalucia/desdeelsur/aires-tanger_132_13506464.html",
       "imagen": "https://static.eldiario.es/clip/afc792b1-10ce-4058-b4b1-ba1748da7066_16-9-discover-aspect-ratio_default_0_x1281y201.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Operación Mulhacén",
-      "link": "https://www.eldiario.es/andalucia/desdeelsur/operacion-mulhacen_132_13490680.html",
-      "imagen": "https://static.eldiario.es/clip/b8a07ff1-a99c-4ccc-8485-9d5c5b38165b_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

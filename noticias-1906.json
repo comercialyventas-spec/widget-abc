@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "No nos pidan más perdón",
+      "link": "https://www.eldiario.es/opinion/zona-critica/no-pidan-perdon_129_13595192.html",
+      "imagen": "https://static.eldiario.es/clip/f8eb8590-5aa5-4b5a-9c17-0d43fc448e7b_16-9-discover-aspect-ratio_default_0_x993y562.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Por un puñado de puntos",
       "link": "https://www.eldiario.es/opinion/zona-critica/punado-puntos_129_13578494.html",
       "imagen": "https://static.eldiario.es/clip/e6b423c7-3910-4a45-87e9-3b42c16884cc_16-9-discover-aspect-ratio_default_0_x630y119.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Sí que era la hora de la verdad",
       "link": "https://www.eldiario.es/opinion/zona-critica/si-hora_129_13557633.html",
       "imagen": "https://static.eldiario.es/clip/f6e0df6b-124c-4ab9-8419-27a37affe141_16-9-discover-aspect-ratio_default_0_x895y184.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Límite 48 horas, presidente",
-      "link": "https://www.eldiario.es/opinion/zona-critica/limite-48-horas-presidente_129_13542335.html",
-      "imagen": "https://static.eldiario.es/clip/4a1d901f-f0d9-4b64-a35a-1ba41b3dbd6b_16-9-discover-aspect-ratio_default_0_x511y905.jpg",
       "tipo": "imagen"
     }
   ]

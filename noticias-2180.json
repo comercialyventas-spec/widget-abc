@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El mal tiempo provoca decenas de cancelaciones en el aeropuerto de Barcelona",
+      "link": "https://www.elperiodico.com/es/tiempo/20261018/mal-tiempo-provoca-decenas-cancelaciones-135477738",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6d266cb6-95a0-4824-8ac4-ac4a77d42d2b_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La dana no da tregua y Catalunya mantiene las alertas por lluvias torrenciales hasta el martes",
+      "link": "https://www.elperiodico.com/es/tiempo/20261018/tiempo-cataluna-dana-adam-avisos-meteocat-lluvias-135477018",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ca32557c-8d0a-422e-9636-0afd570ed4ac_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Riada y goteras en las instalaciones del aeropuerto de Ibiza por la tormenta 'Adam'",
       "link": "https://www.elperiodico.com/es/tiempo/20261018/riada-goteras-instalaciones-aeropuerto-ibiza-135472126",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b998ca0b-106f-498e-afb6-36737b0d0a11_media-libre-aspect-ratio_default_0.jpg",
@@ -22,18 +34,6 @@
       "titulo": "El aviso de los expertos para hoy domingo si vives en zona de lluvias: por qué recomiendan bajar persianas y revisar ventanas",
       "link": "https://www.elperiodico.com/es/tiempo/20261018/lluvias-domingo-aviso-expertos-persianas-dv-135451511",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/94b9604f-5315-4543-8a3b-cb89fa3a7304_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tiempo en Catalunya hoy domingo: continúan los avisos por lluvias torrenciales en Barcelona",
-      "link": "https://www.elperiodico.com/es/tiempo/20261017/tiempo-cataluna-hoy-domingo-18-de-octubre-lluvias-avisos-temperatura-dv-loc-135446176",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/af9d7c24-8be1-49ba-b3f5-c1c9eac69f38_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Está tu casa en peligro por inundación? Este es el mapa de las zonas inundables por fuertes lluvias en Barcelona",
-      "link": "https://www.elperiodico.com/es/tiempo/20261017/cataluna-zonas-inundables-mapa-casa-peligro-lluvias-dana-dv-loc-135430817",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/21d87bc3-8206-40aa-96b4-ca554a2161b1_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

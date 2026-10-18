@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¿Has fracasado? ¿Has pensado en irte?",
+      "link": "https://www.eldiario.es/opinion/zona-critica/has-fracasado-has-pensado-irte_129_13595742.html",
+      "imagen": "https://static.eldiario.es/clip/e1fa5772-047c-4ac4-8e64-8847877e811d_16-9-discover-aspect-ratio_default_0_x973y438.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Angustia de izquierdas",
       "link": "https://www.eldiario.es/opinion/zona-critica/angustia-izquierdas_129_13579058.html",
       "imagen": "https://static.eldiario.es/clip/eebe7745-1952-4c60-a116-cd3410ba2d69_16-9-discover-aspect-ratio_default_0_x1224y820.jpg",
@@ -28,12 +34,6 @@
       "titulo": "A quién le conviene el apocalipsis de la IA",
       "link": "https://www.eldiario.es/opinion/zona-critica/le-conviene-apocalipsis-ia_129_13506831.html",
       "imagen": "https://static.eldiario.es/clip/179ba016-ff67-4bbf-9b37-00cc3e616af7_16-9-discover-aspect-ratio_default_0_x1027y320.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "'Farmear aura' y el fin de lo humano",
-      "link": "https://www.eldiario.es/opinion/zona-critica/farmear-aura-humano_129_13491130.html",
-      "imagen": "https://static.eldiario.es/clip/bad142de-237d-4822-86bf-5dce5c7d3834_16-9-discover-aspect-ratio_default_1150567.jpg",
       "tipo": "imagen"
     }
   ]
