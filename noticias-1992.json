@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Elecciones en el Madrid",
+      "link": "https://www.elmundo.es/deportes/futbol/2026/10/18/6ad4b261e85ececd5b8b457d.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/18/17923344656187.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Barça, con polémica y trifulca, vence al Betis en La Cartuja",
       "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/10/17/6ad3bb7ffdddffb0328b4593.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/17/17922668437358.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Baena saca de la siesta al Atlético y le da la victoria frente al Espanyol",
       "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/10/17/6ad363e1fdddff1d148b45c0.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/17/17922536266647.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mourinho, sobre la sanción a Vinicius: \"Estoy contento, porque con la presentación del recurso pensaba que le daban más\"",
-      "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/10/17/6ad33f94e85ece414d8b4577.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/17/17922306942892.jpg",
       "tipo": "imagen"
     }
   ]

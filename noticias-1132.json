@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Peridis: nosotros, a lo nuestro",
+      "link": "https://elpais.com/opinion/2026-10-18/peridis-nosotros-a-lo-nuestro.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/AA3I3L7PGJAUVCI5BRMCUYMHTU.jpg?auth=9b1368fea40dd5b1c34e871fe643aecd8613b23564b772a8631a08c05484e78b&width=414&height=233&focal=884%2C366",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Riki Blanco: lo siento",
+      "link": "https://elpais.com/opinion/2026-10-18/riki-blanco-lo-siento.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RGT2BJU6CZFHDEPUC5EYVLC7RY.jpg?auth=508a3c5ceff4e3f63be2b6f9fbada3e64b85d73066565b38daa7a9eb753d2887&width=414&height=311&focal=752%2C428",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Roto: riesgo de alud",
+      "link": "https://elpais.com/opinion/2026-10-18/el-roto-riesgo-de-alud.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/GS3HUBDEJBHNROZHMNBIES77GY.jpg?auth=d9bfa202dc4578327ab803544fab1490dee687b6ee19299e3d4797b02244e481&width=414&height=311&focal=563%2C1086",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Flavita Banana: consumo de temporada",
       "link": "https://elpais.com/opinion/2026-10-17/flavita-banana-consumo-de-temporada.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/AFF4HW2TUVHM5CAVBD4ZTGMMP4.jpg?auth=791a1710c2ec699857b9ea2b7bbadd270e4a918002bc502bb3c2706f8a07adf9&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/AFF4HW2TUVHM5CAVBD4ZTGMMP4.jpg?auth=791a1710c2ec699857b9ea2b7bbadd270e4a918002bc502bb3c2706f8a07adf9&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "Peridis: sálvese quien pueda",
       "link": "https://elpais.com/opinion/2026-10-17/peridis-salvese-quien-pueda.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/QQ6C3C2UJJFJ3PXETI653PPTGA.jpg?auth=124403f1b77b7e04861e3cca7b2f2eb29c88f8eb5d1fa53d40c0ec21fe95bf68&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Peridis: las pagaremos con fórceps",
-      "link": "https://elpais.com/opinion/2026-10-16/peridis-las-pagaremos-con-forceps.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ADW2FUX5GVHRVBXMAPR2H76QXU.jpg?auth=1a37dd9a4a30d73a2c9bae76b6b9efa15a4be92364e9fcef422cffd301925cb0&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Joaquín Sorolla, por Sciammarella",
-      "link": "https://elpais.com/opinion/2026-10-16/joaquin-sorolla-por-sciammarella.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/QOBD6UM7BFDU7JRKJAI2KHSG6M.jpg?auth=b19c285740e95378d6c795375b408cfcc0f075e7425d6b187f41b0fe2fd838d5&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Roto: los partidos cotizan",
-      "link": "https://elpais.com/opinion/2026-10-16/el-roto-los-partidos-cotizan.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/CJ56SM45RNEIFG5AP3IHOXBB2A.jpg?auth=1098b1e8d37c6310ee43a08b82cf7907aa4ec891fa07e9f47c1be9c2d3c7997e&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

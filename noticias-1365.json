@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Francia ante el caos",
+      "link": "https://elpais.com/opinion/2026-10-18/francia-ante-el-caos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/V335VNPMZJC35AEQ2FO2SDI7TY.jpg?auth=34f72ca95b0a29124419147f9ef12669702074c031a6d681fe9119dd159f7e27",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Fractura a la izquierda",
       "link": "https://elpais.com/opinion/2026-10-18/fractura-a-la-izquierda.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/BZWXRCQP4VBOFLII5R56R34A5U.jpg?auth=0d76ed0887a5734436a0aeb0099c303d02be5405e1220e25466fa7d14283ea7e",
@@ -28,12 +34,6 @@
       "titulo": "Elecciones que marcan el rumbo internacional",
       "link": "https://elpais.com/opinion/2026-10-18/elecciones-que-marcan-el-rumbo-internacional.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/YYOUOEIUEZENNG4UF2LPLRLNYA.jpg?auth=0c65fa2b106c364639cb0d1f78299f9eeecb80c4aef34335f664a4cbd8d91d0c",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Roto: riesgo de alud",
-      "link": "https://elpais.com/opinion/2026-10-18/el-roto-riesgo-de-alud.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/GS3HUBDEJBHNROZHMNBIES77GY.jpg?auth=d9bfa202dc4578327ab803544fab1490dee687b6ee19299e3d4797b02244e481",
       "tipo": "imagen"
     }
   ]
