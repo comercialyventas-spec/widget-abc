@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Del brazo a la muñeca, el reloj inteligente que se infla para detectar la hipertensión",
+      "link": "https://www.rtve.es/noticias/20261018/reloj-inteligente-detectar-hipertension-salud-tecnologia/17270568.shtml",
+      "imagen": "https://img.rtve.es/imagenes/reloj-inteligente-detectar-hipertension-salud-tecnologia/01792166210485.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Tesla presenta su nuevo Roadster, un coche de ciencia ficción capaz de volar y acelerar de 0 a 100 en menos de un segundo",
       "link": "https://www.rtve.es/noticias/20261016/tesla-presenta-su-nuevo-roadster-coche-ciencia-ficcion-capaz-volar-acelerar-a-100-menos-segundo/17269354.shtml",
       "imagen": "https://img.rtve.es/imagenes/tesla-presenta-su-nuevo-roadster-coche-ciencia-ficcion-capaz-volar-acelerar-a-100-menos-segundo/01792161719788.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Horario de invierno: ¿cuándo es el cambio de hora en octubre de 2026?",
       "link": "https://www.rtve.es/noticias/20261015/cuando-cambio-hora-invierno-octubre-2026/17267391.shtml",
       "imagen": "https://img.rtve.es/imagenes/cuando-cambio-hora-invierno-octubre-2026/01792034742947.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Detenido un ingeniero de OpenAI acusado de ocultar una grabadora en una sala de reuniones",
-      "link": "https://www.rtve.es/noticias/20261014/detenido-ingeniero-openai-acusado-ocultar-grabadora-sala-reuniones-inteligencia-artificial/17266947.shtml",
-      "imagen": "https://img.rtve.es/imagenes/detenido-ingeniero-openai-acusado-ocultar-grabadora-sala-reuniones-inteligencia-artificial/01791993226253.jpg",
       "tipo": "imagen"
     }
   ]
