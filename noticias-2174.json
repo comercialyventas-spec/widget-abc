@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "En directo Feijóo proclama a Albiol como candidato a las elecciones generales en un acto en Barcelona",
+      "link": "https://www.elperiodico.com/es/politica/20261018/feijoo-albiol-barcelona-elecciones-generales-135461987",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "De la plaza a la pantalla y de las redes a la IA: la inquietud por los nuevos formatos que deciden las elecciones",
+      "link": "https://www.elperiodico.com/es/politica/20261018/plaza-pantalla-redes-ia-inquietud-nuevos-formatos-elecciones-generales-29n-135461047",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/da1d82c8-91de-4c92-94e1-0fa306276d80_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "29N entre el odio y el miedo: el día que votarás con las entrañas",
+      "link": "https://www.elperiodico.com/es/politica/20261018/29n-odio-miedo-dia-votaras-entranas-135460897",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/5a8c3b90-aa7f-4d66-bd34-ed87227315b3_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Daniel Innerarity, filósofo político: \"Vivimos en la era de la brutalidad política\"",
+      "link": "https://www.elperiodico.com/es/sociedad/20261018/daniel-innerarity-filosofo-politico-sociedad-crueldad-odio-135385398",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/05934c57-1293-4f32-a3eb-c72bb838fc5e_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Feijóo: \"Hay que poner orden en la oferta turística\"",
       "link": "https://www.elperiodico.com/es/politica/20261018/feijoo-hay-poner-orden-oferta-135447179",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/c22ab90a-4930-4361-a9a4-415495647597_media-libre-aspect-ratio_default_0.jpg",
@@ -10,30 +34,6 @@
       "titulo": "Al Frente Amplio y a Podemos se les acabó el amor de tanto intentarlo: 10 años de pactos y desventuras",
       "link": "https://www.elperiodico.com/es/politica/20261018/frente-amplio-podemos-10-anos-alianzas-desventuras-135435435",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8f276275-1aa9-404f-94f4-bba51bbd5943_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Luis Martínez-Sicluna (FEMP): \"Los ayuntamientos tenemos suelo y dinero para construir viviendas, pero necesitamos que nos dejen hacerlo\"",
-      "link": "https://www.elperiodico.com/es/sociedad/20261018/luis-martinez-sicluna-secretario-general-femp-federacion-municipios-ayuntamientos-retos-espana-50-millones-habitantes-vivienda-inmigracion-servicios-sociales-135256052",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d05f3189-27cb-4250-afb7-0d4455620312_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Feijoo: La revalorización del sistema de pensiones es una línea roja de mi programa",
-      "link": "https://www.elperiodico.com/es/politica/20261018/feijoo-revalorizacion-sistema-pensiones-linea-135425986",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/933cee3e-714c-483d-bf71-b8f2a6362a64_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Feijóo: \"El Gobierno con Vox puede funcionar porque ya lo hace en cuatro autonomías\"",
-      "link": "https://www.elperiodico.com/es/politica/20261018/feijoo-funcionar-gobierno-vox-reiniciar-135425988",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/933cee3e-714c-483d-bf71-b8f2a6362a64_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Feijóo: España no funciona con el motor catalán apagado",
-      "link": "https://www.elperiodico.com/es/politica/20261018/feijoo-espana-funciona-motor-catalan-135425985",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a5db62e5-96a0-4a99-a2c5-5755b98baba0_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

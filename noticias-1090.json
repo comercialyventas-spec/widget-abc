@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Ucrania lanza contra San Petersburgo uno de los mayores ataques con drones de la guerra",
+      "link": "https://www.elconfidencial.com/mundo/2026-10-18/ataque-drones-ucranianos-san-petersburgo-1hms_4447410/",
+      "imagen": "https://images.ecestaticos.com/F2DdnhNGezRripKdrucd_9knvx8=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc3c%2F4bc%2Fdda%2Fc3c4bcdda91d865928f8ef19e2e1f569.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Ayuntamiento de Limoges, destruido por las llamas en la jornada de protestas en Francia",
+      "link": "https://www.elconfidencial.com/mundo/europa/2026-10-18/ayuntamiento-limoges-incendio-protestas-1hms_4447352/",
+      "imagen": "https://images.ecestaticos.com/2XKNSntSNUVj7I2QHTyHd4rd7nE=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F0b1%2F5bf%2F56c%2F0b15bf56c6d9edad42422b044738ba07.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Una estampida en un festival hindú en Calcuta deja al menos 19 muertos y siete detenidos",
+      "link": "https://www.elconfidencial.com/mundo/2026-10-18/estampida-durga-puja-calcuta-1tps_4447346/",
+      "imagen": "https://images.ecestaticos.com/IpBeffE6CIPlt5_H6AAxitgVleM=/0x0:2272x1517/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F831%2F354%2Ffbf%2F831354fbf26345d9809be8722de2d64a.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Qué busca el jefe de Palantir al comprarse este gigantesco bosque de Suecia?",
       "link": "https://www.elconfidencial.com/mundo/2026-10-18/que-busca-el-jefe-de-palantir-al-comprarse-este-gigantesco-bosque-de-suecia_4446922/",
       "imagen": "https://images.ecestaticos.com/t5ssz5xUq8fQhGuTbOQhd6jDXW8=/0x0:2272x1513/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F6f4%2Fc95%2Fa95%2F6f4c95a955866057809d787f9573aa54.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Colonos israelíes atacan a diplomáticos europeos que visitaban una localidad cristiana en Cisjordania",
       "link": "https://www.elconfidencial.com/mundo/2026-10-17/colonos-israelies-atacan-a-una-delegacion-diplomatica_4447226/",
       "imagen": "https://images.ecestaticos.com/L6CkZSmF05Q80ByYWM_SFmNRC7g=/0x122:2272x1400/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F725%2F28f%2Fc7b%2F72528fc7be10a1d1b19985a5a7ace386.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El papa León XIV sale del hospital tras recibir el alta y regresa al Vaticano",
-      "link": "https://www.elconfidencial.com/mundo/2026-10-17/leon-xiv-recibe-el-alta-hospitalaria-tras-su-operacion_4447112/",
-      "imagen": "https://images.ecestaticos.com/oUUUGZ9MCtHPmSLZ1SOkhTz5Vok=/0x0:2272x1278/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc44%2F5cc%2F545%2Fc445cc545e34701d6c25b02beb675946.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ni es sólo París, ni son sólo los estudiantes: las manifestaciones desbordan toda Francia de norte a sur",
-      "link": "https://www.elconfidencial.com/mundo/2026-10-17/los-chalecos-amarillos-se-suman-a-las-protestas_4447095/",
-      "imagen": "https://images.ecestaticos.com/fRdH5p7nFlHkTZZMsLfC2KQ4M-w=/0x155:2272x1433/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff31%2F722%2F79b%2Ff3172279b93ffb6a986b81564ea0f817.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Trump suspende el último paquete de sanciones contra Rusia por motivos de \"interés nacional\"",
-      "link": "https://www.elconfidencial.com/mundo/2026-10-17/trump-suspende-sanciones-rusia-1tps_4447049/",
-      "imagen": "https://images.ecestaticos.com/8MjC-uQ25j2U9hZYkZ39eeW5tHo=/0x0:2272x1516/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F848%2F84a%2F771%2F84884a771e21b702daa970a8bf387e5c.jpg",
       "tipo": "imagen"
     }
   ]

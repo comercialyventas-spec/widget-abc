@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Evento en Estadio Santiago Bernabéu. Afectadas 10 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261021-Bernabeu-Evento.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Obras: Echegaray. Afectadas 3 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261020-O-Echegaray.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -27,12 +33,6 @@
     {
       "titulo": "Acto religioso en calle Ascao. Afectadas 2 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261018-PR-Señor-MIlagros-Ciudad-Lineal.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Evento deportivo en Retiro, Salamanca y Chamartín. Afectadas 30 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261018-CR-Ciencia.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

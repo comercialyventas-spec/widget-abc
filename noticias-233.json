@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Francia arde en una jornada de protestas con 1.800 detenidos",
+      "link": "https://www.eldiario.es/internacional/francia-arde-jornada-protestas-1-200-detenidos_1_13594798.html",
+      "imagen": "https://static.eldiario.es/clip/ec2c2102-38b3-4759-8141-45ffec5fed26_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Frente Amplio y Podemos intentan zanjar el debate de las siglas y llaman a “frenar al fascismo”",
       "link": "https://www.eldiario.es/politica/frente-amplio-zanjar-debate-siglas-llaman-frenar-fascismo_1_13594075.html",
       "imagen": "https://static.eldiario.es/clip/8f77e769-c2d4-4ba4-a74b-92f368f35ac6_16-9-discover-aspect-ratio_default_0_x800y650.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un \"espectáculo dantesco\" para deprimir a los votantes de izquierda",
+      "link": "https://www.eldiario.es/blog/politica-para-supervivientes/espectaculo-dantesco-deprimir-votantes-izquierda_132_13593591.html",
+      "imagen": "https://static.eldiario.es/clip/a415c4be-82f6-496d-a520-7a65f4a40dde_16-9-discover-aspect-ratio_default_0_x635y428.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El éxito de Irene Montero y Gabriel Rufián",
+      "link": "https://www.eldiario.es/blog/el-boletin-del-director/exito-irene-montero-gabriel-rufian_132_13593339.html",
+      "imagen": "https://static.eldiario.es/clip/8fb367f5-cd3d-4afd-8fc5-285d76059187_16-9-discover-aspect-ratio_default_0_x954y288.jpg",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "Sánchez pone al PSOE a bailar al ritmo de Begoña Gómez para voltear la campaña",
       "link": "https://www.eldiario.es/politica/sanchez-pone-psoe-bailar-ritmo-begona-gomez-voltear-campana_1_13594220.html",
       "imagen": "https://static.eldiario.es/clip/f8e36515-610c-45fb-acd9-2be600c897a8_16-9-discover-aspect-ratio_default_0_x569y204.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El éxito de Irene Montero y Gabriel Rufián",
-      "link": "https://www.eldiario.es/blog/el-boletin-del-director/exito-irene-montero-gabriel-rufian_132_13593339.html",
-      "imagen": "https://static.eldiario.es/clip/8fb367f5-cd3d-4afd-8fc5-285d76059187_16-9-discover-aspect-ratio_default_0_x954y288.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "\"Discreción y generosidad\": cómo se fraguó y quiénes hicieron posible la lista unitaria de la izquierda valenciana",
-      "link": "https://www.eldiario.es/comunitat-valenciana/politica/discrecion-generosidad-fraguo-hicieron-posible-lista-unitaria-izquierda-valenciana_1_13593434.html",
-      "imagen": "https://static.eldiario.es/clip/f0bdc116-d04f-4225-bd78-36629a1eed30_16-9-discover-aspect-ratio_default_1153518.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El PP arranca con tropiezos la precampaña hacia las elecciones del 29N",
-      "link": "https://www.eldiario.es/politica/pp-arranca-tropiezos-precampana-elecciones-29n_1_13592479.html",
-      "imagen": "https://static.eldiario.es/clip/2b28605f-8b01-4acd-9a85-1221a517c673_16-9-discover-aspect-ratio_default_1153483.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Bugatti desafía el calor de Sevilla con el Tourbillon",
+      "link": "https://www.elperiodico.com/es/motor/20261018/bugatti-desafia-calor-sevilla-tourbillon-135358301",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a9184b2d-abd7-41f7-ae7f-0ea2048873dc_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Qué hay realmente detrás del Tesla Roadster volador que presentó Elon Musk?",
       "link": "https://www.elperiodico.com/es/motor/20261017/secretos-detras-tesla-roadster-coche-volador-elon-musk-135448482",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b8068a6a-5b96-406d-99f1-01455f65f9d3_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Wallbox y EDP électrique despliegan 168 puntos de recarga en el Aeropuerto Metropolitano de Montreal",
       "link": "https://www.elperiodico.com/es/motor/20261017/wallbox-edp-electrique-despliegan-168-135409886",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/53470a10-fd7c-484b-ae94-818c2cfb4e55_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ir a la universidad en coche cuesta de media 830 euros por curso, casi lo mismo que la matrícula",
-      "link": "https://www.elperiodico.com/es/motor/20261016/ir-universidad-coche-cuesta-media-830-euros-135365482",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/c656cae3-4a23-4c0e-b17c-17031c753c2a_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
