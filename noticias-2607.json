@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "La agonía de Virginia, una joven atrapada en su casa de Oliva, Valencia, por las inundaciones de la DANA Adam: \"Es lo peor que he vivido en mi vida\"",
+      "link": "https://www.telecinco.es/noticias/valencia/20261019/virginia-agonia-testimonio-inundacion-oliva-valencia-dana-adam_18_020471119.html",
+      "imagen": "https://album.mediaset.es/eimg/2026/10/19/dana-adam-en-valencia_dd75.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Situación límite en Oliva, Valencia, por la DANA Adam: inundaciones, rescates, despliegue de la UME y petición de confinamiento",
+      "link": "https://www.telecinco.es/noticias/valencia/20261019/situacion-limite-oliva-valencia-dana-adam-aviso-rojo_18_020469076.html",
+      "imagen": "https://album.mediaset.es/eimg/2026/10/19/situacion-limite-en-oliva-valencia-por-la-dana-adam-aviso-rojo-con-inundaciones-la-ume-movilizada-y_f643.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La DANA Adam activa las alertas rojas en Valencia y Alicante: la Aemet avisa de lluvias torrenciales, frío y rachas de viento intensas",
+      "link": "https://www.telecinco.es/noticias/tiempo/20261019/dana-adam-alerta-roja-valencia-alicante-aemet-lluvias-frio-viento_18_020468862.html",
+      "imagen": "https://album.mediaset.es/eimg/2026/10/19/continua-el-temporal-en-el-mediterraneo-con-una-jornada-de-lunes-marcada-por-fuertes-tormentas_1cf7.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Generalitat Valenciana envía un nuevo Es-Alert pidiendo extremar la precaución y no desplazarse por inundaciones: Alicante y Valencia, en aviso rojo",
+      "link": "https://www.telecinco.es/noticias/valencia/20261019/generalitat-valenciana-mensaje-es-alert-inundaciones-dana-adam-alicante-valencia_18_020468884.html",
+      "imagen": "https://album.mediaset.es/eimg/2026/10/19/la-generalitat-valenciana-envia-un-nuevo-es-alert-pidiendo-extremar-la-precaucion-y-no-desplazarse-p_2d6b.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Cuándo se marchará la dana Adam?: este lunes, se mantiene la alerta roja por lluvias en Valencia y Alicante",
       "link": "https://www.telecinco.es/noticias/tiempo/20261018/cuanto-dura-dana-adam-peninsula_18_020467538.html",
       "imagen": "https://album.mediaset.es/eimg/2026/10/18/cuando-se-marchara-la-dana-adam-este-lunes-se-mantiene-la-alerta-roja-por-lluvias-en-valencia-y-alic_f417.jpg",
@@ -10,30 +34,6 @@
       "titulo": "Se desploma una parte del techo de un centro de salud en Málaga por las intensas lluvias y reubican las urgencias",
       "link": "https://www.telecinco.es/noticias/andalucia/20261018/desploma-parte-techo-centro-salud-malaga-intensas-lluvias_18_020466878.html",
       "imagen": "https://album.mediaset.es/eimg/2026/10/18/malaga-el-palo_4b70.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las fuertes lluvias, que deja la dana Adam, provocan una tuba sobre el cielo de Alicante",
-      "link": "https://www.telecinco.es/noticias/valencia/20261018/tuba-descuelga-deja-ver-cielo-nuboso-alicante-tormenta_18_020466129.html",
-      "imagen": "https://album.mediaset.es/eimg/2026/10/18/una-tuba-se-descuelga-y-deja-ver-sobre-el-cielo-nuboso-de-alicante-durante-una-tormenta_b9f7.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La dana Adam de \"gran impacto\" pone en aviso por fuertes lluvias a gran parte de España: peligro importante en estas zonas del Mediterráneo",
-      "link": "https://www.telecinco.es/noticias/tiempo/20261017/avisos-fuertes-lluvias-dana-adam-espana-peligro-importante-mediterraneo_18_020461344.html",
-      "imagen": "https://album.mediaset.es/eimg/2026/10/17/dos-personas-con-paraguas-atraviesan-una-zona-inundada-por-fuertes-lluvias-en-barcelona_c0f5.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Alerta ante un desplome térmico generalizado de las temperaturas: avisos generalizados por una DANA retrógrada en la zona del Mediterráneo",
-      "link": "https://www.telecinco.es/noticias/tiempo/20261016/cambio-brusco-fin-semana-bajan-temperaturas-lluvias-mediterraneo_18_020449717.html",
-      "imagen": "https://album.mediaset.es/eimg/2026/10/16/este-fin-de-semana-bajan-las-temperaturas-y-vuelven-las-lluvias_19c2.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Alerta por la posible llegada de una nueva DANA: podría dejar importantes lluvias en la Comunidad Valenciana, Cataluña y Baleares",
-      "link": "https://www.telecinco.es/noticias/tiempo/20261014/alerta-posible-dana-lluvias-comunidad-valenciana-cataluna-baleares_18_020429397.html",
-      "imagen": "https://album.mediaset.es/eimg/2026/10/14/este-fin-de-semana-llega-a-la-peninsula-una-dana-que-dejara-importantes-lluvias-en-la-comunidad-vale_d196.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Los impuestos en campaña",
+      "link": "https://www.eldiario.es/economia/impuestos-campana_129_13587782.html",
+      "imagen": "https://static.eldiario.es/clip/d26cf0ae-6eb7-4a55-96fb-b692d0d54735_avatar-200-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Más vacaciones, ¿más productivos? Reino Unido nos dice que sí",
       "link": "https://www.eldiario.es/economia/vacaciones-productivos-reino-unido-dice-si_129_13589076.html",
       "imagen": "https://static.eldiario.es/clip/7f915bf3-aca0-4f37-b6b0-dccb48782dd3_avatar-200-aspect-ratio_default_0.jpg",
@@ -19,21 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "¿Motosierra o seguridad? Las pensiones también se votan el 29-N",
-      "link": "https://www.eldiario.es/economia/motosierra-seguridad-pensiones-votan-29-n_129_13587308.html",
-      "imagen": "https://static.eldiario.es/eldiario/public/file/2026/0615/17/chatgpt-image-15-jun-2026-17-53-09.png",
+      "titulo": "No nos pidan más perdón",
+      "link": "https://www.eldiario.es/opinion/zona-critica/no-pidan-perdon_129_13595192.html",
+      "imagen": "https://static.eldiario.es/clip/40aa4002-dfb9-4472-97ca-709829dfcb24_avatar-200-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "La historia se repite, pero cada vez sale más cara",
-      "link": "https://www.eldiario.es/opinion/zona-critica/historia-repite-vez-sale-cara_129_13593969.html",
-      "imagen": "https://static.eldiario.es/clip/05bdcff1-c65f-447c-9045-87c265509f3d_avatar-200-aspect-ratio_default_0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La izquierda de la izquierda: sumas que restan, restos que quedan en nada",
-      "link": "https://www.eldiario.es/opinion/zona-critica/izquierda-izquierda-sumas-restan-restos-quedan_129_13594536.html",
-      "imagen": "https://static.eldiario.es/clip/e94f1310-cf2f-4e60-ad40-c9a15bd68921_avatar-200-aspect-ratio_default_0.jpeg",
+      "titulo": "Más egos que escaños",
+      "link": "https://www.eldiario.es/opinion/zona-critica/egos-escanos_129_13595430.html",
+      "imagen": "https://static.eldiario.es/clip/3c18ff61-ff17-475d-bd30-a5717e71cfea_facebook-aspect-ratio-1200-675_default_0.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Cielo nublado y lluvias en Zaragoza: AEMET prevé tiempo inestable para hoy",
+      "link": "https://okdiario.com/aragon/cielo-nublado-y-lluvias-en-zaragoza-aemet-preve-tiempo-inestable-para-hoy-20577445",
+      "imagen": "https://okdiario.com/img/2026/10/19/lluvia-en-zaragoza.-europa-press.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Nubes y lluvias débiles en Zaragoza: AEMET prevé descenso de temperaturas y cierzo moderado",
       "link": "https://okdiario.com/aragon/nubes-y-lluvias-debiles-en-zaragoza-aemet-preve-descenso-de-temperaturas-y-cierzo-moderado-20574020",
       "imagen": "https://okdiario.com/img/2026/10/18/lluvia-en-zaragoza.-europa-press.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Cielo despejado y brumas en Zaragoza, ligero ascenso de temperaturas según AEMET",
       "link": "https://okdiario.com/aragon/cielo-despejado-y-brumas-en-zaragoza-ligero-ascenso-de-temperaturas-segun-aemet-20552998",
       "imagen": "https://okdiario.com/img/2026/10/15/suben-las-temperaturas.-europa-press.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cielo despejado y suave viento en Zaragoza según AEMET, algunos nubarrones hacia la tarde",
-      "link": "https://okdiario.com/aragon/cielo-despejado-y-suave-viento-en-zaragoza-segun-aemet-algunos-nubarrones-hacia-la-tarde-20535219",
-      "imagen": "https://okdiario.com/img/2026/10/13/mujer-se-protege-del-sol-ante-la-mejora-del-tiempo.-europa-press-2.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El Programa Mundial de Alimentos dejará de asistir a 500.000 personas en Gaza por falta de fondos",
+      "link": "https://elpais.com/planeta-futuro/2026-10-19/el-programa-mundial-de-alimentos-dejara-de-asistir-a-500000-personas-en-gaza-por-falta-de-fondos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4IWTGQKFTVDAJI4Y2HS6PZC5LU.jpg?auth=8aa05ef3552d25cf4936e50fd30a746659882ab1c843cbee7f141ba665b72b4e",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Malí, Níger y Burkina Faso lanzan Tafouk TV con apoyo ruso, en una “guerra cognitiva” contra Occidente",
       "link": "https://elpais.com/planeta-futuro/2026-10-19/mali-niger-y-burkina-faso-lanzan-tafouk-tv-con-apoyo-ruso-en-una-guerra-cognitiva-contra-occidente.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/Q726NK3KXJFNNBAPISULHK4TLI.jpg?auth=f6581359ba231e06b0cca120309dcb6ad1f9fafc8b82989c7c9a3d90122d2736",
@@ -25,15 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "El coste desigual de la cesta de la compra en el mundo: de 1,2 horas en Irlanda a un mes de trabajo en República Centroafricana",
-      "link": "https://elpais.com/planeta-futuro/2026-10-16/el-coste-desigual-de-la-cesta-de-la-compra-en-el-mundo-de-12-horas-en-irlanda-a-un-mes-de-trabajo-en-republica-centroafricana.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/KZBZU623Y5BD5CM4UHEDI5MFGE.jpg?auth=a36277066af379e73e472e5503d8db9ddea9443fc3090396b00fd14477c0685f",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sofía Monsalve, relatora de la ONU sobre el derecho a la alimentación: “Se está normalizando la hambruna deshumanizando a una población”",
-      "link": "https://elpais.com/planeta-futuro/2026-10-15/sofia-monsalve-relatora-de-la-onu-sobre-el-derecho-a-la-alimentacion-se-esta-normalizando-la-hambruna-deshumanizando-a-una-poblacion.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/RNQJX5BQLRAAHKCHE2HM7SVT3Y.jpeg?auth=b9f9181285f276744ba777b39aede0a883760da52a3f2ce408f2302de3ed41f2",
+      "titulo": "The cost of basic groceries, measured in wages: 1.2 hours of work in Ireland and a month in the Central African Republic",
+      "link": "https://english.elpais.com/international/2026-10-15/the-cost-of-basic-groceries-measured-in-wages-12-hours-of-work-in-ireland-and-a-month-in-the-central-african-republic.html",
+      "imagen": "https://images.english.elpais.com/resizer/v2/KZBZU623Y5BD5CM4UHEDI5MFGE.jpg?auth=a36277066af379e73e472e5503d8db9ddea9443fc3090396b00fd14477c0685f",
       "tipo": "imagen"
     }
   ]
