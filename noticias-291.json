@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Japón lanza esta noche una nave para recoger muestras de la mayor luna de Marte",
+      "link": "https://www.abc.es/ciencia/japon-lanza-noche-nave-recoger-muestras-mayor-20261019145847-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/10/19/fobos-RReS3dyydLHONV7VYJIURwJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El 'demonio de Maxwell' aprende un nuevo truco: extraer energía de la información oculta",
       "link": "https://www.abc.es/ciencia/demonio-maxwell-aprende-nuevo-truco-extraer-energia-20261019110124-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/10/19/maxwells_daemon-Rk4vLaXLZcHqYUhM2qIIrzK-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La Palma abre una nueva era en el estudio del Universo más extremo",
       "link": "https://www.abc.es/ciencia/palma-abre-nueva-era-estudio-universo-extremo-20261015155636-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/10/15/4096-2661-max-RzxEZ3Qkw7yuzdII9FsxfwL-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Científicos votan eliminar el minuto de 61 segundos para evitar que caiga internet y falle el GPS",
-      "link": "https://www.abc.es/ciencia/cientificos-votan-eliminar-minuto-segundos-evitar-caiga-20261013011738-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/10/13/segundero-RSBc1qkOWfLIfGs1vt40dII-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

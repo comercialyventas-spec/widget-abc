@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "TVyMAS; Netflix y el Mundial 2030",
+      "link": "https://www.elperiodico.com/es/videos/tele/tvymas-netflix-mundial-2030/135509555.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/41edf1ab-8e05-42b8-8a77-94ef4b11993b_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "TVyMAS Lunes 19",
       "link": "https://www.elperiodico.com/es/videos/tele/tvymas-lunes-19/135472136.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/98352e95-8175-4391-914f-9cc2aeb63a8b_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El trabajo de los profesionales que hacen posible el espectáculo Kurios, del Cirque du Soleil, desde detrás del escenario.",
       "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/trabajo-profesionales-posible-espectaculo-kurios/135342714.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/c5b0a666-274c-4456-8830-9ea12d6b8a1b_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "TVyMAS; Gent de primera: televisión",
-      "link": "https://www.elperiodico.com/es/videos/tele/tvymas-gent-primera-television/135375272.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b9c2979d-df0b-4ad1-9584-df073d363dad_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

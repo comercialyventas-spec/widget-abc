@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "‘Adam’ mantiene a Comunidad Valenciana, Andalucía, Cataluña, Baleares y Murcia bajo aviso naranja",
+      "titulo": "Andalucía y Cataluña, bajo aviso naranja por ‘Adam’ tras pasar lo peor en la Comunidad Valenciana y Baleares",
       "link": "https://elpais.com/el-tiempo/2026-10-19/la-comunidad-valenciana-y-baleares-continuan-bajo-aviso-rojo-en-la-fase-mas-adversa-de-la-dana-adam.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261019/1226987_071838_video_1800.mp4",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261019/1227093_112515_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El caballito de mar de hocico largo, icono del Mar Menor, es declarado especie vulnerable",
+      "link": "https://elpais.com/clima-y-medio-ambiente/2026-10-19/el-caballito-de-mar-de-hocico-largo-icono-del-mar-menor-es-declarado-especie-vulnerable.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ALML7SKPNJHOBKV6DFG25FQCD4.JPG?auth=d3f4a24525f05e32638b0277318f349d62774ec5a7feb0d0b236d95d09f17d15",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Alcaldes iberoamericanos piden más financiación para enfrentar los retos de la vivienda, la movilidad y el cambio climático",
+      "link": "https://elpais.com/sociedad/2026-10-19/alcaldes-iberoamericanos-piden-mas-financiacion-para-enfrentar-los-retos-de-la-vivienda-la-movilidad-y-el-cambio-climatico.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/AFY34VVRWZCUNGRM5MVOPD2WMQ.jpg?auth=157ad5f4a153708f09d7658f7af375c4e0bc719fe1ace903f53bf82a4b8c59c2",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "La dana ‘Adam’ mantiene bajo aviso rojo a la Comunidad Valenciana, donde ya han caído 250 litros",
       "link": "https://elpais.com/el-tiempo/2026-10-18/la-dana-adam-pone-bajo-aviso-rojo-a-baleares-y-a-comunidad-valenciana.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/E4NA4UIYNNKY3KMNC7ORK62P7M.jpg?auth=1c4921e8773088fbd781414198b45fde554b2cdfd11417dd0a7fdeddf25db2cb",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La dana ‘Adam’ dejará lluvias intensas y persistentes en el este peninsular y Baleares hasta el lunes",
-      "link": "https://elpais.com/el-tiempo/2026-10-17/la-dana-adam-dejara-lluvias-intensas-y-persistentes-en-el-este-peninsular-y-baleares-hasta-el-lunes.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/WARUQWLJLNJFRFFB3IXVGYYYRE.jpg?auth=1b5412f526f12f9592417abd9ac9d2c702458b414167187493e6283e50267b1a",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "“Queremos un río que no se envenene”: centenares de personas marchan en Sevilla contra la contaminación del Guadalquivir",
-      "link": "https://elpais.com/espana/andalucia/2026-10-17/queremos-un-rio-que-no-se-envenene-centenares-de-personas-marchan-en-sevilla-contra-la-contaminacion-del-guadalquivir.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/LE45FPUBFBIBFN2QK5L4BOV5NI.jpg?auth=8063b1cb0e26f0f0a933cb199276c339b9e9f1806b2df4e5910d9012064223d8",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Un riñón de cerdo vuelve a producir orina tras pasar un año a 150 grados bajo cero",
+      "link": "https://www.lavanguardia.com/ciencia/20261019/11662018/rinon-cerdo-vuelve-producir-orina-pasar-ano-150-grados-cero.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2022/02/18/620fdaf7c031d.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los arqueólogos descubren los primeros restos neandertales de Navarra: una mano de hace 46.000 años que todavía conserva su ADN",
+      "link": "https://www.lavanguardia.com/ciencia/20261019/11662684/arqueologos-descubren-primeros-restos-neandertales-navarra-mano-46000-anos-todavia-conserva-adn.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/19/6ad606cc837b5.r_d.978-728-2295.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Así será la misión espacial de Japón para entender las lunas de Marte",
       "link": "https://www.lavanguardia.com/ciencia/20261019/11662054/asi-sera-mision-espacial-japon-entender-lunas-marte.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
@@ -15,25 +27,13 @@
     {
       "titulo": "¿Cómo dirigir las defensas contra una leucemia que se parece a ellas?",
       "link": "https://www.lavanguardia.com/ciencia/20261019/11646990/como-dirigir-defensas-leucemia-parece.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/09/10/68c16e4f82a1d.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/09/10/68c16e4f82a1d.r_d.582-304-0.jpeg",
       "tipo": "imagen"
     },
     {
       "titulo": "Menopausia: 72 síntomas y muchas lagunas científicas por cubrir",
       "link": "https://www.lavanguardia.com/vivo/20261018/11660746/menopausia-72-sintomas-muchas-lagunas-cientificas-cubrir.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/16/6ad2108603bdd.r_d.478-257-4885.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Catalunya ofrecerá la detección precoz del cáncer de pulmón a partir de 2027",
-      "link": "https://www.lavanguardia.com/ciencia/20261017/11660959/catalunya-ofrecera-deteccion-precoz-cancer-pulmon-partir-2027.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/16/6ad2421e682cf.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Pentágono estudió cómo lograr la 'velocidad de curvatura' de la Enterprise de 'Star-Trek'",
-      "link": "https://www.lavanguardia.com/ciencia/universo/20261016/11660771/pentagono-estudio-como-lograr-velocidad-curvatura-enterprise-star-trek.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2012/04/26/5f9af03d24373.r_d.496-279-4526.jpeg",
       "tipo": "imagen"
     }
   ]
