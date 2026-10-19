@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Foucault en Irán",
+      "link": "https://www.lavanguardia.com/cultura/20261019/11663215/foucault-iran.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los premios ODA se celebrarán por primera vez en Barcelona",
+      "link": "https://www.lavanguardia.com/cultura/20261019/11663031/premios-oda-celebraran-primera-vez-barcelona.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/19/6ad6615075779.r_d.1024-683-2192.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Museo Thyssen muestra la obsesión de Dalí por Freud y cómo éste transformó toda su obra",
       "link": "https://www.lavanguardia.com/cultura/20261019/11662961/museo-thyssen-muestra-obsesion-dali-freud-como-este-transformo-toda-obra.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/19/6ad64345cd2d6.r_d.535-449-5749.jpeg",
@@ -22,18 +34,6 @@
       "titulo": "Los Mossos reciben unas 60 denuncias por presunta venta de entradas falsas para Oques Grasses",
       "link": "https://www.lavanguardia.com/cultura/20261019/11662861/mossos-reciben-60-denuncias-presunta-venta-entradas-falsas-oques-grasses.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/10/6aca9b24b8cf1.r_d.3928-2445-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Vuelve la Fiesta del Cine: entradas a 3,50 euros hasta el jueves para ver las últimas películas",
-      "link": "https://www.lavanguardia.com/cultura/20261019/11662597/vuelve-fiesta-cine-entradas-3-50-euros-jueves-ver-ultimas-peliculas.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/19/6ad5f7fbd56df.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El material resplandeciente que ayudó a forjar el poder de los reyes de la antigua Nubia",
-      "link": "https://www.lavanguardia.com/cultura/20261019/11662549/material-resplandeciente-ayudo-forjar-reyes-antigua-nubia-reino-kush-egipto.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/19/6ad5eeb68ceba.r_d.379-256-5846.jpeg",
       "tipo": "imagen"
     }
   ]

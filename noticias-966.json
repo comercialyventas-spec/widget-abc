@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "‘El Telediario de nuestras vidas’: Un menú degustación que supo a poco",
+      "link": "https://elpais.com/television/2026-10-19/el-telediario-de-nuestras-vidas-un-menu-degustacion-que-supo-a-poco.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261019/1227298_200011_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "‘El sótano club’ explica la marcha de Alba Carrillo: “Decidimos no emitir el programa del viernes con el objetivo de proteger al equipo”",
       "link": "https://elpais.com/television/2026-10-19/el-sotano-club-explica-la-marcha-de-alba-carrillo-decidimos-no-emitir-el-programa-del-viernes-con-el-objetivo-de-proteger-al-equipo.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/UIGIOXDTEBFTLJ6YKIFTRUDWOI.png?auth=7b8ad439905f75cb3ebcf110b43ba2354636e42bef03eb1e485d00a012191d88",
@@ -28,12 +34,6 @@
       "titulo": "The Killings at Parrish Station",
       "link": "https://elpais.com/television/series/the-killings-at-parrish-station/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/5QDV5X6JWRHYJNA45SK73UBWWI.jpg?auth=1cec86c8610a9abbb86346a38875df5b597e40eb9964e78d43b2430e75351100",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Muere a los 100 años Betty McGuire, la abuela Kate en ‘Los problemas crecen’",
-      "link": "https://elpais.com/television/series/2026-10-19/muere-a-los-100-anos-betty-mcguire-la-abuela-kate-en-los-problemas-crecen.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/7C5PALH6QFOOTKFJR3IWN76KU4.jpg?auth=3b1a0f232613e15c8fe4483eb3fc88217bc37a7c9215229f3b446b090f04b557",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "‘La Mesa de Hora 25’ | Programa del 19 de octubre de 2026",
+      "link": "https://elpais.com/videos/2026-10-19/la-mesa-de-hora-25-programa-del-19-de-octubre-de-2026.html",
+      "imagen": "https://www.youtube.com/watch?v=UpYFN6YPUk4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Vídeos de ajedrez | Portisch, el barítono letal",
       "link": "https://elpais.com/ajedrez/videos/2026-10-19/videos-de-ajedrez-portisch-el-baritono-letal.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261019/1226996_075841_video_1800.mp4",
@@ -28,12 +34,6 @@
       "titulo": "Coches arrastrados por el agua y crecidas en los ríos: las imágenes de las lluvias en la Comunidad Valenciana",
       "link": "https://elpais.com/espana/2026-10-19/coches-arrastrados-por-el-agua-y-crecidas-en-los-rios-las-imagenes-de-las-lluvias-en-la-comunidad-valenciana.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261019/1227093_112515_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en directo, en EL PAÍS",
-      "link": "https://elpais.com/videos/2026-10-19/el-pulso-de-hoy-por-hoy-en-el-pais.html",
-      "imagen": "https://www.youtube.com/watch?v=Bd8vIgbkflc",
       "tipo": "imagen"
     }
   ]

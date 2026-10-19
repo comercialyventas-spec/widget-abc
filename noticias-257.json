@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Del 1-O a la amnistía: el traje a medida para borrar el 'procès'",
+      "link": "https://www.abc.es/espana/amnistia-traje-medida-borrar-proces-20261010194659-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/10/proces-home-1920x1080.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Huelga educativa sin educación",
+      "link": "https://www.abc.es/espana/huelga-educativa-educacion-20261019210041-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/19/getafe.00_02_51_10.Imagen%20fija001-U65074530622IHC-562x315@diario_abc.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El poder y sus fronteras",
+      "link": "https://www.abc.es/noticias/poder-fronteras-20261015012805-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/noticias/2026/10/15/HORIZONTAL.00_08_44_22.Imagen%20fija006-U87674334421fDQ-562x315@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ceuta, retrato de una ciudad herida",
       "link": "https://www.abc.es/espana/ceuta-retrato-ciudad-herida-20261018012815-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/18/00011--562x393.jpg",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/18/00011-U80618752051VoO-562x315@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "¿Qué está pasando con las pensiones?",
       "link": "https://www.abc.es/economia/cuentas-corrientes/pasando-pensiones-20261016012031-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/16/Horizontal.00_00_35_11.Imagen%20fija002-U31785610255eVY-562x315@diario_abc.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La ciencia ficción que leyeron (y malinterpretaron) los tecnoligarcas y por qué te afecta",
-      "link": "https://www.abc.es/xlsemanal/ia-ciencia-ficcion-tecnoligarcas-musk-altman-amodei-thiel-bezos-gates-zuckerberg-20261012174224-ntrc.html",
-      "imagen": "https://static.vocento.com/xlsemanal/2026/10/12/xlsemanal-tecnoligarcas-lead-kLAD--562x315@RC.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ketty Garat: «Pardo de Vera anticipa en ABC lo que va a desarrollar ante el juez»",
-      "link": "https://www.abc.es/espana/isabel-pardo-vera-anticipa-abc-desarrollar-ante-20261015013908-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/15/1080.00_28_43_03.Imagen%20fija006-U24177068375SdB-562x315@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Carmen Posadas: «Siempre he tenido una lucha interna entre lo convencional y el desparrame»",
-      "link": "https://www.abc.es/xlsemanal/carmen-posadas-hermanas-mitford-hitler-churchill-20261012180039-ntrc.html",
-      "imagen": "https://static.vocento.com/xlsemanal/2026/10/12/xlsemanal-carmen-posadas-lead-kKe--562x315@RC.jpg",
       "tipo": "imagen"
     }
   ]
