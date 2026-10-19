@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La vida iba en serio (y también en broma)",
+      "link": "https://elpais.com/babelia/2026-10-19/la-vida-iba-en-serio-y-tambien-en-broma.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SGMIT7W6ANEHDDGPLHOBCZUELU.jpg?auth=48290991303ec8113ef5d9b2f83c21428bd903f5b637ab721b5bd7075f42b90d",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Gaza y el punto de no retorno",
+      "link": "https://elpais.com/babelia/2026-10-19/gaza-y-el-punto-de-no-retorno.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/WSPIKFGWDBEZPFICSUDDKGAKXQ.jpg?auth=2430d033ab04d06c781c43042eca0c619a7cbd1ce764087425ed9576a391fa6b",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Lecciones sobre la democracia de la Antigua Grecia",
       "link": "https://elpais.com/babelia/2026-10-17/lecciones-sobre-la-democracia-de-la-antigua-grecia.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/Q5JHSH4VJVF5ZJUAFBBUS5YIUY.jpg?auth=955268433599c5bb47693e8075f1876157fda321679f3f29105f089618d7bca9",
@@ -22,18 +34,6 @@
       "titulo": "‘Bioy’, la violencia en Perú es un veneno letal que todo lo corrompe",
       "link": "https://elpais.com/babelia/2026-10-17/bioy-la-violencia-en-peru-es-un-veneno-letal-que-todo-lo-corrompe.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/UBVIOPLJSFCKZDJPOOMVHFLULQ.jpg?auth=184cbc597f4cb757b57bd79e7f58d8cfc3b045c4b1aacb6e49ac4b6b5904ac60",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Del 15-M al 29-N: una conversación entre Ignacio Urquizu y Kiko Llaneras",
-      "link": "https://elpais.com/babelia/2026-10-17/del-15-m-al-29-n-una-conversacion-entre-ignacio-urquizu-y-kiko-llaneras.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261016/1226294_144713_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Trampantojo: El conspiranoico",
-      "link": "https://elpais.com/babelia/2026-10-17/trampantojo-el-conspiranoico.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/OXUAUZCKHBG6RHYFXBBMIBW7Y4.jpg?auth=28d2d79afbf9195d914aebbc8fad4dfac3fcd9b6c57e774e972bf093a5757cf0",
       "tipo": "imagen"
     }
   ]

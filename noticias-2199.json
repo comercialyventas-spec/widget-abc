@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "TVyMAS Lunes 19",
+      "link": "https://www.elperiodico.com/es/videos/tele/tvymas-lunes-19/135472136.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/98352e95-8175-4391-914f-9cc2aeb63a8b_1-1-large-aspect-ratio_default_0_x960y360.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Macron habla después de las protestas de este sábado que dejaron incendios, saqueos y destrozos en Francia",
       "link": "https://www.elperiodico.com/es/videos/internacional/macron-habla-despues-protestas-sabado-video/135478399.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0468e315-f86d-4259-816f-f98430367988_1-1-large-aspect-ratio_default_0_x1000y444.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La UME embarca en Denia para desplegarse en Baleares por la borrasca Adam",
       "link": "https://www.elperiodico.com/es/videos/sociedad/ume-embarca-denia-desplegarse-baleares/135474771.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/25dc4ae0-4577-4df1-8982-901ca0f83e32_1-1-large-aspect-ratio_default_0_x800y400.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Fallece una mujer en Catalunya por la DANA Adam y la costa sigue en alerta",
-      "link": "https://www.elperiodico.com/es/videos/sociedad/fallece-mujer-catalunya-dana-adam-video/135474269.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/31d91322-1b92-4f6c-9251-49ec19034086_1-1-large-aspect-ratio_default_0_x960y360.jpg",
       "tipo": "imagen"
     }
   ]

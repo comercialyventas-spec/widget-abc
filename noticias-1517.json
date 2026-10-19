@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "🎙 PODCAST | Las piezas del puzzle imposible de la izquierda",
+      "link": "https://eldiario.es/un-tema-al-dia/",
+      "imagen": "https://static.eldiario.es/clip/e3d05f09-3933-49b8-b373-c3dbf94377eb_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El éxito de Irene Montero y Gabriel Rufián",
       "link": "https://eldiario.es/blog/el-boletin-del-director/",
       "imagen": "https://static.eldiario.es/clip/8fb367f5-cd3d-4afd-8fc5-285d76059187_16-9-discover-aspect-ratio_default_0_x954y288.jpg",
@@ -22,12 +28,6 @@
       "titulo": "Mandamos 3.500 solicitudes de alquiler con nombres falsos, y esto fue lo que pasó",
       "link": "https://eldiario.es/piedrasdepapel",
       "imagen": "https://static.eldiario.es/clip/e835ca7f-f4f6-43b8-b24f-49aa14382dbe_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "🎙 PODCAST | Sefardíes sí, nietos de la guerra no: el derecho a votar y “la pureza” electoral",
-      "link": "https://eldiario.es/un-tema-al-dia/",
-      "imagen": "https://static.eldiario.es/clip/030e7a21-4522-47ac-86e0-a15a40d95800_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

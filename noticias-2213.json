@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Algunas viejas glorias",
+      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20261019/viejas-glorias-135244626",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/43ffa544-4e38-4106-ae9e-31a21dfb9f93_16-9-discover-aspect-ratio_default_0_x356y171.webp",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los libros de la semana: la edición definitiva del 'Borges' de Bioy Casares y el homenaje de Vita Sackville-West a su abuela española",
+      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20261019/bioy-casares-libro-borges-135125388",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/bc995602-ab5b-4d57-81f7-0169c00e1b5e_16-9-discover-aspect-ratio_default_0_x359y136.webp",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "'El amor', de Theodor Kallifatides: 'corazón loco'",
+      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20261019/theodor-kallifatides-critica-libro-amor-135242452",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ab27c52c-9b6d-4fc9-b458-ddbb0232b177_16-9-discover-aspect-ratio_default_0_x773y539.webp",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Eloy Tizón, del silencio en la palabra",
       "link": "https://www.epe.es/es/ocio-y-cultura/libros/20261018/eloy-tizon-libro-labia-135259662",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9bd33347-8025-4c83-9741-35bae3bfe66d_16-9-discover-aspect-ratio_default_0_x590y590.webp",
@@ -13,27 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Desgravar gracias a la cultura",
-      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20261017/desgravar-gracias-cultura-135357810",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7d86a887-9afb-41ad-9e53-213eef3f07b9_16-9-discover-aspect-ratio_default_0_x750y330.webp",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "La certeza que nos alegra",
       "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261017/certeza-alegra-135259123",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/06ee1fb4-51b9-44d1-a943-8f258e4536fa_source-aspect-ratio_320w_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Brais Lamela, escritor: \"La lengua es un lugar de resistencia\"",
-      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20261017/brais-lamela-libro-lengua-extranjera-135241845",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/598c5404-ce26-4014-9a79-129851448081_16-9-discover-aspect-ratio_default_0_x833y384.webp",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Nerea Pérez de las Heras, en el videopódcast del suplemento ABRIL: \"La parte de testimonio fue la más difícil de escribir\"",
-      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20261016/nerea-perez-heras-videopodcast-suplemento-abril-135285207",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/656a8ba4-c39f-4cbb-9964-b5a27b8d0aaf_16-9-discover-aspect-ratio_default_0_x750y333.webp",
       "tipo": "imagen"
     }
   ]

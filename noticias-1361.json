@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Guía práctica para empezar a resolver el problema de la vivienda",
+      "link": "https://elpais.com/videos/2026-10-19/guia-practica-para-empezar-a-resolver-el-problema-de-la-vivienda.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261016/1226302_150030_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Muerte por desesperación: ¿Cómo mata el sistema?",
+      "link": "https://elpais.com/videos/estaba-yo-pensando/2026-10-19/muerte-por-desesperacion-como-mata-el-sistema.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261016/1226313_152014_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El incendio del ayuntamiento de Limoges el día después del ataque: “Es inadmisible, hay que castigar a los culpables”",
       "link": "https://elpais.com/videos/2026-10-18/el-incendio-del-ayuntamiento-de-limoges-el-dia-despues-del-ataque-es-inadmisible-hay-que-castigar-a-los-culpables.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261018/1226831_144931_video_1800.mp4",
@@ -22,18 +34,6 @@
       "titulo": "‘La Mesa de Hora 25′, Programa del 16 de octubre de 2026",
       "link": "https://elpais.com/videos/2026-10-16/la-mesa-de-hora-25-el-programa-de-la-cadena-ser-en-el-pais.html",
       "imagen": "https://www.youtube.com/watch?v=bE-HP-GNRJc",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Tesla Roadster puede volar y rotar lateralmente: los trucos del nuevo deportivo eléctrico",
-      "link": "https://elpais.com/videos/2026-10-16/el-tesla-roadster-puede-volar-y-rotar-lateralmente-los-trucos-del-nuevo-deportivo-electrico.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261016/1226304_150532_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Valdano: “Se habla poco de que los futbolistas hacen terapia”",
-      "link": "https://elpais.com/eps/2026-10-16/valdano-se-habla-poco-de-que-los-futbolistas-hacen-terapia.html",
-      "imagen": "https://www.youtube.com/watch?v=afkXnUJ7vsA",
       "tipo": "imagen"
     }
   ]

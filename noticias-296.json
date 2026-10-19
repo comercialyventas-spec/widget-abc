@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Long live Teatro Real!",
+      "link": "https://www.abc.es/cultura/teatros/long-live-teatro-real-20261019010755-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/19/TEATROREAL-RGrgCApZc6CV6YgzT4dpk9J-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Crítica de 'El público' (****): Lorca sin complejidades añadidas",
       "link": "https://www.abc.es/cultura/teatros/critica-publico-lorca-complejidades-anadidas-20261015172649-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/15/publico-lcastilla-Ri7pbeuZnE4qNql6Oy5w1CK-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Crítica de teatro 'El Cadell' (***): Entre la memoria y la perorata",
       "link": "https://www.abc.es/cultura/teatros/critica-teatro-cadell-memoria-perorata-20261006191301-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/06/cadell-foto-nova-12-RoKBPpjYHDwf5hGRSrkmKiK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "'Las irresponsables', una comedia que araña más que acaricia",
-      "link": "https://www.abc.es/cultura/teatros/irresponsables-comedia-arana-acaricia-20261007191131-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/07/LAS%20IRRESPONSABLES___foto_Nacho_Pena____0052-R5Gt3dMUQ3oMjjnfzwzXwIK-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
