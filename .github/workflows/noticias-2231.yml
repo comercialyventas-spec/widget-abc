@@ -1,0 +1,109 @@
+name: Actualizar noticias-2231 (Sala de prensa Renfe)
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */3 * * *"
+
+concurrency:
+  group: widget-abc-git-write
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Descargar noticias de la sala de prensa de Renfe
+        run: |
+          curl -L --fail --max-time 30 \
+            -A "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/131 Safari/537.36" \
+            -H "Accept: application/json, */*" \
+            "https://grupo.renfe.com/content/grupo-renfe/es/es/sala-de-prensa/jcr:content/root/responsivegrid/wrglayoutcontainer/responsivegrid/wrgnewsview_copy_cop.newsresults.json" \
+            -o renfe.json
+
+      - name: Generar noticias-2231.json
+        run: |
+          node <<'NODE'
+          const fs = require("fs");
+          const BASE = "https://grupo.renfe.com";
+          const MESES = {enero:1,febrero:2,marzo:3,abril:4,mayo:5,junio:6,julio:7,agosto:8,septiembre:9,setiembre:9,octubre:10,noviembre:11,diciembre:12};
+
+          function absoluta(u) {
+            u = String(u || "").trim();
+            if (!u) return "";
+            try { return new URL(u, BASE).href; } catch { return ""; }
+          }
+          function limpiar(t) {
+            return String(t || "").replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
+          }
+          function fechaISO(t) {
+            const m = String(t || "").toLowerCase().match(/(\d{1,2})\s+(?:de\s+)?([a-záéíóú]+)\s+(?:de\s+)?(\d{4})/);
+            if (!m || !MESES[m[2]]) return "";
+            const d = new Date(Date.UTC(+m[3], MESES[m[2]] - 1, +m[1], 10, 0, 0));
+            return d.toISOString();
+          }
+
+          const datos = JSON.parse(fs.readFileSync("renfe.json", "utf8"));
+          const lista = (datos.results && datos.results.noticias) || [];
+
+          const noticias = [];
+          const vistos = new Set();
+          for (const n of lista) {
+            const titulo = limpiar(n.title || (n.link && n.link.title));
+            const link = absoluta(n.link && n.link.href);
+            if (!titulo || !link || vistos.has(link)) continue;
+            vistos.add(link);
+            const img = n.image && (n.image.srcDesktop || n.image.srcMobile || n.image.src);
+            noticias.push({
+              titulo,
+              link,
+              descripcion: limpiar(n.description).slice(0, 300),
+              fecha: fechaISO(n.date),
+              imagen: absoluta(img),
+              tipo: "imagen"
+            });
+          }
+
+          if (noticias.length < 3) {
+            throw new Error("Renfe devolvió solo " + noticias.length + " noticias; se conserva el JSON anterior.");
+          }
+
+          fs.writeFileSync("noticias-2231.json", JSON.stringify({ noticias }, null, 2) + "\n");
+          console.log("JSON válido: " + noticias.length + " noticias. Primera: " + noticias[0].titulo);
+          NODE
+
+      - name: Sincronizar con la rama remota antes de guardar
+        run: |
+          git pull --no-edit origin main || true
+
+      - name: Guardar noticias-2231.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add noticias-2231.json
+
+          if git diff --cached --quiet; then
+            echo "No hay cambios nuevos."
+          else
+            git commit -m "Actualizar noticias-2231"
+            ok=0
+            for intento in 1 2 3 4; do
+              if git push; then ok=1; break; fi
+              echo "Push rechazado (intento $intento). Trayendo cambios recientes y reintentando..."
+              git pull --rebase -X theirs origin main || { git rebase --abort || true; }
+              sleep $((intento * 5))
+            done
+            if [ "$ok" != "1" ]; then
+              echo "::error title=No se pudo guardar noticias-2231::El push a GitHub fallo 4 veces seguidas."
+              exit 1
+            fi
+          fi
