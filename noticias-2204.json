@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Alfa5",
+      "link": "https://www.elperiodico.com/es/videos/tecnologia/alfa5/135549803.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/547aeebc-b502-4401-8152-5ab97ec41172_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Elon Musk coincide con sus rivales Anthropic y OpenAI en la necesidad de desacelerar la IA",
       "link": "https://www.elperiodico.com/es/videos/tecnologia/elon-musk-coincide-rivales-anthropic/134233659.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d42cc7b1-bb77-4031-b13a-4ec6c18514a7_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Tim Berners-Lee, inventor de la World Wide Web, interviene en el Talent Arena 2026",
       "link": "https://www.elperiodico.com/es/videos/tecnologia/tim-berners-lee-inventor-world-wide-web-interviene-talent-arena-video/127495636.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0d49ca5b-42d7-479c-a4bc-41f7cf99ac5f_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Mobile World Congress 2026 abre sus puertas en Barcelona",
-      "link": "https://www.elperiodico.com/es/videos/tecnologia/mobile-world-congress-2026-abre-puertas-barcelona-video/127440890.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ccc381ab-4b2a-4974-bb45-a46762d4ba2f_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

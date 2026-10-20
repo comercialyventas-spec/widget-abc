@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El granero del mundo ya no tiene agua potable",
+      "link": "https://www.lavanguardia.com/vida/20261020/11663672/granero-mundo-agua-potable.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/05/20/6a0d8eda1e2a1.r_d.1936-1465-1159.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Jorge Olcina, geógrafo: “Cuatro millones de personas viven en zonas de riesgo en el litoral mediterráneo”",
       "link": "https://www.lavanguardia.com/natural/20261020/11662679/jorge-olcina-geografo-1-pib-debe-destinado-adaptacion-cambio-climatico.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/19/6ad6057d9dc86.r_d.879-350-4891.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "México cierra seis lagos turísticos por la presencia de la 'ameba comecerebros'",
       "link": "https://www.lavanguardia.com/natural/20261016/11660615/mexico-cierra-seis-lagos-turisticos-presencia-ameba-comecerebros.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/16/6ad1f8dc330b5.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El mes de septiembre fue el más cálido desde que hay registros: 22,5 °C de temperatura media",
-      "link": "https://www.lavanguardia.com/natural/20261016/11660515/mes-septiembre-mas-calido-hay-registros-22-5-c-temperatura-media.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/07/6a9e8651be8fa.r_d.5657-2043-742.jpeg",
       "tipo": "imagen"
     }
   ]

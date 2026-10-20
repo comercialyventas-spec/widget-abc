@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El juez envía a prisión por terrorismo a los dos disidentes de la izquierda ‘abertzale’ detenidos por la Ertzaintza",
+      "link": "https://elpais.com/espana/2026-10-20/el-juez-envia-a-prision-por-terrorismo-a-los-dos-disidentes-de-la-izquierda-abertzale-detenidos-por-la-ertzaintza.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "Los últimos pasos del final del terrorismo etarra",
       "link": "https://elpais.com/espana/2026-10-18/los-ultimos-pasos-del-final-del-terrorismo-etarra.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/3GIX2XL72FJUTA37JSPUM7MVFI.jpg?auth=75688f791e1ca7ef3a0bdd2ebe471387d2befec4cbccb23062a9b8411227be9a&width=1200",
@@ -9,31 +15,25 @@
     {
       "titulo": "La Ertzaintza detiene en Irún a dos personas acusadas de terrorismo y con información sobre las fuerzas de seguridad",
       "link": "https://elpais.com/espana/2026-10-17/la-ertzaintza-detiene-en-irun-a-dos-personas-acusadas-de-terrorismo-y-con-informacion-sobre-las-fuerzas-de-seguridad.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/XBJVJ7OSZJCMBOJ2OO7LJ3V4QA.jpg?auth=5b10aa9c12760bb85332cfa6754c8b91f2be797ae9433f17c0cc8ae4c439690d&width=1200",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XBJVJ7OSZJCMBOJ2OO7LJ3V4QA.jpg?auth=5b10aa9c12760bb85332cfa6754c8b91f2be797ae9433f17c0cc8ae4c439690d&width=414&height=233&smart=true",
       "tipo": "imagen"
     },
     {
       "titulo": "Adiós a la vieja cárcel de San Sebastián, foco de represión franquista e inspiración de Kortatu",
       "link": "https://elpais.com/espana/pais-vasco/2026-10-17/adios-a-la-vieja-carcel-de-san-sebastian-foco-de-represion-franquista-e-inspiracion-de-kortatu.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/AOZTKAZDV5HDRJGJWBFXP27EJU.jpg?auth=4fd64c77610dd33a361b32fb5cabe26b986fae9c76fb27d145966b188fe7c508&width=414&height=233&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Velora invertirá 100 millones en una fábrica de equipos para redes eléctricas",
-      "link": "https://elpais.com/hemeroteca/2026-10-16/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/IK42KBOB6ZC5VI4JGI7EYUZKLQ.png?auth=112441537d9dec67f7cc9f9fced813d6076459b6adbd16de14e93cec3115a7bb",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "“Hay un dulce que es un Tinder al aire libre”: María Mieres, autora del libro que reúne las historias detrás de la repostería tradicional del norte de España",
-      "link": "https://elpais.com/gastronomia/2026-10-15/hay-un-dulce-que-es-un-tinder-al-aire-libre-maria-mieres-autora-del-libro-que-reune-las-historias-detras-de-la-reposteria-tradicional-del-norte-de-espana.html",
       "imagen": "",
       "tipo": ""
     },
     {
-      "titulo": "Cinco detenidos en Vitoria vinculados al grupo 015, heredero de los Trinitiarios y los Blood",
-      "link": "https://elpais.com/espana/2026-10-14/cinco-detenidos-en-vitoria-vinculados-al-grupo-015-heredero-de-los-trinitiarios-y-los-blood.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/EUBDI3X4VFIORB3CYYNKLLTSMI.jpg?auth=d0f02e3d36e18e6b7989ed2f48c93ae88f2b0d795467d9ab72dd513e4cab9528&width=414&height=311&smart=true",
+      "titulo": "Velora invertirá 100 millones en una fábrica de equipos para redes eléctricas",
+      "link": "https://elpais.com/hemeroteca/2026-10-16/",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "“Hay un dulce que es un Tinder al aire libre”: María Mieres, autora del libro que reúne las historias detrás de la repostería tradicional del norte de España",
+      "link": "https://elpais.com/gastronomia/2026-10-15/hay-un-dulce-que-es-un-tinder-al-aire-libre-maria-mieres-autora-del-libro-que-reune-las-historias-detras-de-la-reposteria-tradicional-del-norte-de-espana.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/MJMZUGUDHRHD3BAOF6JWC6JYZU.jpg?auth=967e4519d4753c3ad047af4ea672c769fa1a01c2ffff453fbac12db68be135b6&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

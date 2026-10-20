@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Farsante",
+      "link": "https://elpais.com/television/series/farsante/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KYMX4HGS7BBB7JS7RUNOWZ3NO4.jpg?auth=df8fb35ed20fbbd06414e94c3458d663d6cc30ec704e9748f6892944e8efee38",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "‘In vitro’, una serie para romper con el tabú de la reproducción asistida",
       "link": "https://elpais.com/television/series/2026-10-20/in-vitro-una-serie-para-romper-con-el-tabu-de-la-reproduccion-asistida.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/UAQPU5UDOVFTLLFKIOOZBVGUWU.jpg?auth=63be7c50b101b17bd0cd609819f315d2d18344b650edfb8965b026dff86f2fa9",
@@ -28,12 +34,6 @@
       "titulo": "Netflix emitirá ‘La velada del año’ de Ibai Llanos en directo los próximos tres años",
       "link": "https://elpais.com/television/2026-10-19/netflix-sigue-apostando-por-el-directo-retransmitira-la-velada-del-ano-durante-los-proximos-tres-anos.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/S5MX6GXBPBBRTNZUN7GCPC3IVU.png?auth=92a98b4169f64b19945d9c2c2e4f0c3f9eebf1d09d37c5905eb2b40d2ae5b745",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Love in Disguise",
-      "link": "https://elpais.com/television/series/love-in-disguise/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/LCPKLYRTKJHR7PDGPZZUS6WFGM.png?auth=4f9669454e4ffc2c2ff059335d4360df021a3f616b782ed3158ad4ceacdd78ce",
       "tipo": "imagen"
     }
   ]

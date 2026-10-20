@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "Del 1-O a la amnistía: el traje a medida para borrar el 'procès'",
+      "titulo": "Del 1-O a la amnistía: el traje a medida para borrar el 'procés'",
       "link": "https://www.abc.es/espana/amnistia-traje-medida-borrar-proces-20261010194659-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/10/proces-home-1920x1080.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "«No podemos hacer con el dinero lo mismo que nuestros padres»",
+      "link": "https://www.abc.es/economia/cuentas-corrientes/podemos-dinero-padres-bastaba-vivienda-20261020011934-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/20/MONTAJE.00_21_47_21.Imagen%20fija012-U82102752761FcK-562x315@diario_abc.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los ángeles de la guarda del toreo",
+      "link": "https://www.abc.es/cultura/toros/angeles-guarda-toreo-20261019011921-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/19/alicia_show_toros-kchH--562x315@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Ceuta, retrato de una ciudad herida",
       "link": "https://www.abc.es/espana/ceuta-retrato-ciudad-herida-20261018012815-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/18/00011-U80618752051VoO-562x315@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La trampa que muchos desconocen del café descafeinado",
-      "link": "https://www.abc.es/bienestar/trampa-desconocen-cafe-descafeinado-20261006014719-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/10/06/elisacafe-U21268434302Wxi-562x315@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Qué está pasando con las pensiones?",
-      "link": "https://www.abc.es/economia/cuentas-corrientes/pasando-pensiones-20261016012031-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/16/Horizontal.00_00_35_11.Imagen%20fija002-U31785610255eVY-562x315@diario_abc.png",
       "tipo": "imagen"
     }
   ]

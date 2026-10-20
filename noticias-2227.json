@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Traslado definitivo de parada: Cerro Negro. Afectada línea 113 de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261022-TDP-5860-Cerro-Negro.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Recuperación de Parada: calle Ocaña. Afectada línea 17 de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261021-RP-574-Ocaña.pdf",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "Finalización de obras en calle del Plátano. Afectada línea 49 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261020-FO-Calle-Platano.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -21,18 +33,6 @@
     {
       "titulo": "Evento: Palacio de los Deportes. Afectadas 4 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261023-PD-Evento.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Supresión de Parada: Goya. Afectadas 2 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261021-SP-673-Goya.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Supresión de Parada: Goya. Afectada línea 30 de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261021-SP-1255-Goya.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }
