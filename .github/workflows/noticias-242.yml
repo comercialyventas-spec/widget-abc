@@ -1,0 +1,105 @@
+name: Actualizar noticias-242 (Vozpópuli portada)
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "7,37 * * * *"
+
+concurrency:
+  group: widget-abc-git-write
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Descargar el mapa de noticias de Vozpópuli
+        run: |
+          curl -L --fail --max-time 40 \
+            -A "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/131 Safari/537.36" \
+            -H "Accept: application/xml,text/xml,*/*" -H "Accept-Language: es-ES,es;q=0.9" \
+            "https://www.vozpopuli.com/sitemaps/google-news.xml" \
+            -o vozpopuli.xml
+
+      - name: Generar noticias-242.json
+        run: |
+          node <<'NODE'
+          const fs = require("fs");
+          const xml = fs.readFileSync("vozpopuli.xml", "utf8");
+
+          function decode(t) {
+            return String(t || "")
+              .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")
+              .replace(/&amp;/g, "&").replace(/&quot;/g, '"').replace(/&#39;|&apos;/g, "'")
+              .replace(/&lt;/g, "<").replace(/&gt;/g, ">")
+              .replace(/\s+/g, " ").trim();
+          }
+          function tag(b, t) {
+            const m = b.match(new RegExp("<" + t + "\\b[^>]*>([\\s\\S]*?)</" + t + ">", "i"));
+            return m ? decode(m[1]) : "";
+          }
+
+          const bloques = xml.match(/<url>[\s\S]*?<\/url>/g) || [];
+          const vistos = new Set();
+          const lista = [];
+          for (const b of bloques) {
+            const link = tag(b, "loc");
+            const titulo = tag(b, "news:title");
+            if (!link || !titulo || vistos.has(link)) continue;
+            vistos.add(link);
+            const f = new Date(tag(b, "news:publication_date") || tag(b, "lastmod"));
+            lista.push({
+              titulo,
+              link,
+              descripcion: "",
+              fecha: isNaN(f) ? "" : f.toISOString(),
+              imagen: tag(b, "image:loc"),
+              tipo: "imagen"
+            });
+          }
+          lista.sort((a, b) => String(b.fecha).localeCompare(String(a.fecha)));
+          const noticias = lista.slice(0, 12);
+
+          if (noticias.length < 3) {
+            throw new Error("Solo se han sacado " + noticias.length + " noticias; se conserva el JSON anterior.");
+          }
+
+          fs.writeFileSync("noticias-242.json", JSON.stringify({ noticias }, null, 2) + "\n");
+          console.log("JSON válido: " + noticias.length + " noticias. Primera: " + noticias[0].titulo + " (" + noticias[0].fecha + ")");
+          NODE
+
+      - name: Sincronizar con la rama remota antes de guardar
+        run: |
+          git pull --no-edit origin main || true
+
+      - name: Guardar noticias-242.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add noticias-242.json
+
+          if git diff --cached --quiet; then
+            echo "No hay cambios nuevos."
+          else
+            git commit -m "Actualizar noticias-242"
+            ok=0
+            for intento in 1 2 3 4; do
+              if git push; then ok=1; break; fi
+              echo "Push rechazado (intento $intento). Trayendo cambios recientes y reintentando..."
+              git pull --rebase -X theirs origin main || { git rebase --abort || true; }
+              sleep $((intento * 5))
+            done
+            if [ "$ok" != "1" ]; then
+              echo "::error title=No se pudo guardar noticias-242::El push a GitHub fallo 4 veces seguidas."
+              exit 1
+            fi
+          fi
