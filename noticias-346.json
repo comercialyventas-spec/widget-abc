@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "EE.UU. veta el uso de la IA china DeepSeek en las agencias gubernamentales",
+      "link": "https://www.abc.es/tecnologia/eeuu-veta-uso-ia-china-deepseek-agencias-20261020085058-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/20/1518990739--758x531.JPG",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Pep Martorell, físico: «El uso masivo de la IA a muchos chavales les provoca un sesgo de falso conocimiento. Obtienen mejor resultado en los deberes, pero peor en los exámenes»",
       "link": "https://www.abc.es/tecnologia/pep-martorell-fisico-uso-masivo-ia-chavales-20261020060000-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/20/pep-martorell-Rgmih2n5FCSEhSeXVo2comJ-1200x840@diario_abc.png",
@@ -28,12 +34,6 @@
       "titulo": "Sam Altman, creador de OpenAI, sobre sus predicciones erróneas acerca de la IA: «Cambiar el comportamiento de la sociedad es simplemente mucho más difícil de lo que los nerds de la tecnología creen»",
       "link": "https://www.abc.es/tecnologia/sam-altman-creador-openai-sobre-predicciones-erroneas-20261017090000-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/17/sam-altman-openai-entrevista-RB6k83V5vhPXLjt7iksqPkN-1200x840@diario_abc.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una IA española para ayudar a los pilotos a solucionar rápidamente las situaciones más peligrosas",
-      "link": "https://www.abc.es/tecnologia/ia-espanola-ayudar-pilotos-solucionar-rapidamente-situaciones-20261016124818-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/16/1503671623-RWi7t88RQciAhJkH49bfdGL-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

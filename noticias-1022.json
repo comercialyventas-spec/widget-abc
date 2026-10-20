@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Sánchez, increpado a su llegada a Oliva con gritos de «a prisión» o «perro»",
-      "link": "https://www.abc.es/sociedad/temporal-lluvias-tormentas-comunidad-valenciana-cataluna-baleares-20261019091904-di.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/10/19/Ps-U3019743552805pF-U302307008747jaE-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Antoni Gaudí pudo haber participado también en la Catedral de Palma: la clave está en su reordenación sonora, según una investigación",
-      "link": "https://www.abc.es/espana/baleares/investigan-posible-implicacion-antoni-gaudi-reordenacion-sonora-20261020132801-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/20/5260114-kUUC-U302330637423CJC-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "Konaté: «No sabía lo que ponía en las camisetas y me enteré después de lo de Ceuta»",
       "link": "https://www.abc.es/deportes/real-madrid/konate-sabia-ponia-camisetas-entere-despues-ceuta-20261020134200-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/20/Konatecamiseta-RD32adLxSf3V2I6alWJQ9WL-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/20/Konatecamiseta-RD32adLxSf3V2I6alWJQ9WL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "Madrid instala en Cibeles una estructura de 20 metros para contemplar la ciudad desde otra perspectiva",
-      "link": "https://www.abc.es/espana/madrid/madrid-instala-cibeles-estructura-metros-contemplar-ciudad-20261020133521-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/20/FNP8703-1500x1000-R8a1rKhO8pvgbEU5qFsQ3gL-1200x840@diario_abc.jpg"
+      "titulo": "Sánchez, increpado a su llegada a Oliva con gritos de «a prisión» o «perro»",
+      "link": "https://www.abc.es/sociedad/temporal-lluvias-tormentas-comunidad-valenciana-cataluna-baleares-20261019091904-di.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/10/19/Ps-U3019743552805pF-U302307008747jaE-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Investigan una posible implicación de Antoni Gaudí en la reordenación sonora de la Catedral de Palma",
+      "link": "https://www.abc.es/espana/baleares/investigan-posible-implicacion-antoni-gaudi-reordenacion-sonora-20261020132801-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/20/5260114-kUUC-U302330637423CJC-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "El Supremo se adelanta al TC y aplica la amnistía a Junqueras y a otros tres presos del 'procés' con críticas a la extralimitación de Pumpido",
       "link": "https://www.abc.es/espana/supremo-adelanta-tc-aplica-amnistia-junqueras-presos-20261020131014-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/20/1491125356-R8MVo8O6uP5efk5wLqCJonI-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/20/1491125356-R8MVo8O6uP5efk5wLqCJonI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "El Gobierno entra en campaña con una batería de mejoras para viudas y parejas con hijos",
       "link": "https://www.abc.es/economia/gobierno-aprueba-decreto-extender-mejoras-sociales-viudas-20261020093504-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/20/familia-kSMG-U302325723118v0E-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/20/familia-kSMG-U302325723118v0E-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Patti Smith: «Descubrí a Picasso con 12 años y él me hizo querer ser artista»",
+      "link": "https://www.abc.es/cultura/patti-smith-descubri-picasso-anos-hizo-querer-20261020131512-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/20/1518994431-R7zsBIPHeCVlmbsyJEqD3QO-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
     }
   ]
 }

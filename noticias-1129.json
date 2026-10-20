@@ -1,13 +1,13 @@
 {
   "noticias": [
     {
-      "titulo": "Francia ante el caos",
+      "titulo": "Otra dana, otro país",
       "link": "https://elpais.com/opinion/editoriales/",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://imagenes.elpais.com/resizer/SRWcqt_XKUScZso4ky3pK7HQeHA=/300x300/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/2IZPH2YJMVHLJMHFOBJXFQTSSM.png",
+      "tipo": "imagen"
     },
     {
-      "titulo": "El futuro que ya está aquí",
+      "titulo": "A pesar de todo, hoy es siempre todavía",
       "link": "https://elpais.com/opinion/tribunas/",
       "imagen": "https://arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/2IZPH2YJMVHLJMHFOBJXFQTSSM.png",
       "tipo": "imagen"
@@ -15,25 +15,25 @@
     {
       "titulo": "‘Los baldíos’",
       "link": "https://elpais.com/opinion/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/VTRU4Z2TZVHINK7UAFKAKBTJBU.jpg?auth=ce127a8e65449b25d20f279049c30ce60c356176207fb4a16945abebac144d87&width=414&height=233&focal=2783%2C1800",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/325RJJWP3RCQRJWBJTVPSQZ4RQ.jpg?auth=5914d175e18eacde6a8bd4a3c5da4c24d967a74d7ad64d24f21f4123f78c6fd8&width=414&height=233&focal=2783%2C1800",
       "tipo": "imagen"
     },
     {
-      "titulo": "Antes de votar, vayan al cine",
-      "link": "https://elpais.com/noticias/redes-sociales/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/SEJWTPYCSNDKVH3VOQNGOQGKKE.png?auth=b640870211b3a4af7ef9c423e5198d4a40e0b827510ab604d5a10c6ed173fac6",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Odiar Madrid",
+      "titulo": "La hora de los valientes",
       "link": "https://elpais.com/opinion/columnas/",
+      "imagen": "https://arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/2IZPH2YJMVHLJMHFOBJXFQTSSM.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "No bailes solo, Pedro",
+      "link": "https://elpais.com/noticias/redes-sociales/",
       "imagen": "",
       "tipo": ""
     },
     {
-      "titulo": "El Roto: estériles",
-      "link": "https://elpais.com/opinion/2026-10-19/el-roto-esteriles.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ASQAF2UZ75HLBPAQAA6XXDHBNE.jpg?auth=2e7d6561af79c85b716cbd173cf584933a65430d6d633b9704885d06cf3e29d5&width=414",
+      "titulo": "El Roto: vulnerables",
+      "link": "https://elpais.com/opinion/2026-10-20/el-roto-vulnerables.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/JQTOVCSF65EV5NJPV5K6VY4XII.jpg?auth=81f7aade0bf4eff9663b844fe2610c0e82e707a0eee5b14d1de7f1fc02340525&width=414",
       "tipo": "imagen"
     }
   ]

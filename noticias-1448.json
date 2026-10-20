@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un fallo eléctrico de Google Cloud en Londres deja sin servicio a Revolut y afecta a la banca y empresas británicas",
+      "link": "https://www.eldiario.es/tecnologia/caida-google-cloud-londres-deja-servicio-revolut-afecta-banca-empresas-britanicas_1_13599838.html",
+      "imagen": "https://static.eldiario.es/clip/50fc65ba-6e3b-47b2-8f26-6f06f53d4b80_16-9-discover-aspect-ratio_default_0_x766y728.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La vivienda manda a la pobreza a 770.000 trabajadores y tres veces más a inquilinos que a hipotecados",
       "link": "https://www.eldiario.es/economia/vivienda-manda-pobreza-770-000-trabajadores-tres-veces-inquilinos-hipotecados_1_13596860.html",
       "imagen": "https://static.eldiario.es/clip/07624f98-8f3c-48ae-ae2c-b67a449c06aa_16-9-discover-aspect-ratio_default_0_x1447y517.jpg",
@@ -13,27 +19,21 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Los impuestos en campaña",
-      "link": "https://www.eldiario.es/economia/impuestos-campana_129_13587782.html",
-      "imagen": "https://static.eldiario.es/clip/d26cf0ae-6eb7-4a55-96fb-b692d0d54735_avatar-200-aspect-ratio_default_0.jpg",
+      "titulo": "Francia, entre la protesta social y el caos organizado",
+      "link": "https://www.eldiario.es/opinion/zona-critica/francia-protesta-social-caos-organizado_129_13598338.html",
+      "imagen": "https://static.eldiario.es/clip/9f119a77-2fa7-414f-ab8e-292cadd90e93_avatar-200-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Más vacaciones, ¿más productivos? Reino Unido nos dice que sí",
-      "link": "https://www.eldiario.es/economia/vacaciones-productivos-reino-unido-dice-si_129_13589076.html",
-      "imagen": "https://static.eldiario.es/clip/7f915bf3-aca0-4f37-b6b0-dccb48782dd3_avatar-200-aspect-ratio_default_0.jpg",
+      "titulo": "No fue Sánchez, fue la derecha",
+      "link": "https://www.eldiario.es/opinion/zona-critica/no-sanchez-derecha_129_13597620.html",
+      "imagen": "https://static.eldiario.es/clip/056e97ad-7b6f-4f40-bf6d-a5190675b9b5_avatar-200-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "El mundo vive endeudado, el FMI pide un ajuste y los gobiernos no se dan por aludidos",
-      "link": "https://www.eldiario.es/economia/mundo-vive-endeudado-fmi-pide-ajuste-gobiernos-no-dan-aludidos_129_13590463.html",
-      "imagen": "https://static.eldiario.es/eldiario/public/file/2025/0919/14/ijd-picture.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "No nos pidan más perdón",
-      "link": "https://www.eldiario.es/opinion/zona-critica/no-pidan-perdon_129_13595192.html",
-      "imagen": "https://static.eldiario.es/clip/40aa4002-dfb9-4472-97ca-709829dfcb24_avatar-200-aspect-ratio_default_0.jpg",
+      "titulo": "¿De qué se felicita la izquierda de la izquierda, pocos y mal avenidos?",
+      "link": "https://www.eldiario.es/blog/el-ojo-izquierdo/felicita-izquierda-izquierda-mal-avenidos_132_13598224.html",
+      "imagen": "https://static.eldiario.es/clip/b3ae9dec-dc59-43be-bb3a-ae4bdbd3ef4b_avatar-200-aspect-ratio_default_0.jpeg",
       "tipo": "imagen"
     }
   ]

@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de El Cañaveral",
+      "link": "https://nuevosureste.es/nuevo-autobus-linea-e5-el-canaveral/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2025/02/Autobus-de-la-linea-E5-de-EMT-Madrid-fuente-EMT-Madrid-400x250.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Así es la radiografía de los hogares de El Cañaveral: 9.224 viviendas y 2,70 personas de media",
       "link": "https://nuevosureste.es/el-canaveral-perfil-hogares-tamano-edad/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/Calle-Mario-Moreno-Cantinflas-400x250.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "¿Qué buscan hoy las familias cuando eligen colegio? Claves para decidir el futuro de sus hijos",
       "link": "https://nuevosureste.es/colegio-el-valle-elegir-colegio/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/Octubre-1-400x250.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Inquietud en El Cañaveral por la ubicación del recinto ferial: «Cada vez hay más eventos y el sonido va a llegar sí o sí»",
-      "link": "https://nuevosureste.es/recinto-ferial-parking-el-canaveral/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/IMG_9491-400x250.jpg",
       "tipo": "imagen"
     }
   ]
