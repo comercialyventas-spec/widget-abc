@@ -1,0 +1,109 @@
+name: Actualizar noticias-2225 (Sevilla FC noticias)
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "47 */3 * * *"
+
+concurrency:
+  group: widget-abc-git-write
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Descargar la página de noticias del Sevilla FC
+        run: |
+          curl -L --fail --max-time 40 \
+            -A "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/131 Safari/537.36" \
+            -H "Accept: text/html,*/*" -H "Accept-Language: es-ES,es;q=0.9" \
+            "https://sevillafc.es/actualidad/noticias" \
+            -o sevilla.html
+
+      - name: Generar noticias-2225.json
+        run: |
+          node <<'NODE'
+          const fs = require("fs");
+          const BASE = "https://sevillafc.es";
+          const h = fs.readFileSync("sevilla.html", "utf8");
+
+          // La web (Next.js) trae las noticias como datos dentro de self.__next_f.push([1,"..."])
+          const re = /self\.__next_f\.push\(\[1,("(?:[^"\\]|\\.)*")\]\)/g;
+          let m, txt = "";
+          while ((m = re.exec(h))) { try { txt += JSON.parse(m[1]); } catch (e) {} }
+          let s = txt;
+          for (let k = 0; k < 3; k++) s = s.replace(/\\"/g, '"').replace(/\\\\/g, "\\");
+
+          const objs = s.match(/\{[^{}]*"slug":"\/actualidad\/noticias\/[^"]+"[^{}]*\}/g) || [];
+          const mapa = new Map();
+          for (const o of objs) {
+            try {
+              const j = JSON.parse(o);
+              if (j.title && j.slug && !mapa.has(j.slug)) mapa.set(j.slug, j);
+            } catch (e) {}
+          }
+
+          function absoluta(u) {
+            u = String(u || "").trim();
+            if (!u) return "";
+            try { return new URL(u, BASE).href; } catch { return ""; }
+          }
+          function fechaISO(t) {
+            const d = new Date(String(t || "").replace(" +0000 UTC", "Z").replace(" ", "T"));
+            return isNaN(d) ? "" : d.toISOString();
+          }
+
+          const lista = [...mapa.values()].sort((a, b) => String(b.date).localeCompare(String(a.date)));
+          const noticias = lista.slice(0, 12).map(j => ({
+            titulo: String(j.title).replace(/\s+/g, " ").trim(),
+            link: absoluta(j.slug),
+            descripcion: String(j.subtitle || "").replace(/\s+/g, " ").trim().slice(0, 300),
+            fecha: fechaISO(j.date),
+            imagen: absoluta(j.image || j.thumbnail || j.hero_image),
+            tipo: "imagen"
+          })).filter(n => n.titulo && n.link);
+
+          if (noticias.length < 3) {
+            throw new Error("Solo se han sacado " + noticias.length + " noticias; se conserva el JSON anterior.");
+          }
+
+          fs.writeFileSync("noticias-2225.json", JSON.stringify({ noticias }, null, 2) + "\n");
+          console.log("JSON válido: " + noticias.length + " noticias. Primera: " + noticias[0].titulo + " (" + noticias[0].fecha + ")");
+          NODE
+
+      - name: Sincronizar con la rama remota antes de guardar
+        run: |
+          git pull --no-edit origin main || true
+
+      - name: Guardar noticias-2225.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add noticias-2225.json
+
+          if git diff --cached --quiet; then
+            echo "No hay cambios nuevos."
+          else
+            git commit -m "Actualizar noticias-2225"
+            ok=0
+            for intento in 1 2 3 4; do
+              if git push; then ok=1; break; fi
+              echo "Push rechazado (intento $intento). Trayendo cambios recientes y reintentando..."
+              git pull --rebase -X theirs origin main || { git rebase --abort || true; }
+              sleep $((intento * 5))
+            done
+            if [ "$ok" != "1" ]; then
+              echo "::error title=No se pudo guardar noticias-2225::El push a GitHub fallo 4 veces seguidas."
+              exit 1
+            fi
+          fi
