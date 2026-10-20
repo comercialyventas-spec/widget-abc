@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Los impuestos y cotizaciones que soporta un trabajador medio suben un 18% con Sánchez, mientras su renta cae un 4%",
+      "link": "https://www.abc.es/economia/impuestos-cotizaciones-soporta-trabajador-medio-suben-sanchez-20261021222828-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/21/1506005746-Rlp7l5T8D5kpvg23FUUnIRL-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Gobierno se compromete en plena campaña a subir un 4,5% el sueldo de los funcionarios",
+      "link": "https://www.abc.es/economia/gobierno-compromete-subir-sueldo-funcionarios-plena-campana-20261020193636-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/20/1503222819-RA9BwzKIyuqk21T8tFTYc3K-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Gobierno riega a Cataluña con 120 millones por intervenir los alquileres",
       "link": "https://www.abc.es/economia/gobierno-riega-cataluna-120-millones-intervenir-alquileres-20261020124736-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/20/1519026839-RxwG6uiohIjRCI0DazGLU5N-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Los taxis sin conductor de Google aterrizan en Madrid",
       "link": "https://www.abc.es/economia/taxis-conductor-google-aterrizan-madrid-20261020142805-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/20/waymo-kHOF-U302332249140hvH-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Gobierno entra en campaña con una batería de mejoras para viudas y parejas con hijos",
-      "link": "https://www.abc.es/economia/gobierno-aprueba-decreto-extender-mejoras-sociales-viudas-20261020093504-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/20/familia-kSMG-U302325723118v0E-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Caída de Revolut: la aplicación y varios servicios quedan interrumpidos por una caída de Google Cloud",
-      "link": "https://www.abc.es/economia/revolut-sufre-caida-interrumpen-varios-servicios-20261020120624-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/20/revolut-kCgB-U302328661926olF-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

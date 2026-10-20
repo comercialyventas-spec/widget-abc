@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Sacrificios",
+      "link": "https://www.eldiario.es/opinion/tribuna-abierta/sacrificios_129_13599854.html",
+      "imagen": "https://static.eldiario.es/clip/2e8cd98e-2a5f-44d3-9fcb-ecc2b5cf471f_avatar-200-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ley de nietos y aprendices de brujo",
       "link": "https://www.eldiario.es/opinion/tribuna-abierta/ley-nietos-aprendices-brujo_129_13594365.html",
       "imagen": "https://static.eldiario.es/clip/f6eda45a-1d5e-453d-bfd7-53066a50bda8_avatar-200-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "De nietos y pucherazos",
       "link": "https://www.eldiario.es/opinion/tribuna-abierta/nietos-pucherazos_129_13588459.html",
       "imagen": "https://static.eldiario.es/clip/ea9c4e64-2bff-4ea5-a5d8-96aa615114f1_avatar-200-aspect-ratio_default_0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ser dignos de nuestro tiempo",
-      "link": "https://www.eldiario.es/opinion/tribuna-abierta/dignos-tiempo_129_13589560.html",
-      "imagen": "https://static.eldiario.es/eldiario/public/file/2022/0608/15/alicia-valdes-ba1ecdc.png",
       "tipo": "imagen"
     }
   ]

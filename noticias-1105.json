@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "EEUU quiere lanzar agentes secretos de IA que se infiltren en redes enemigas y se autoborren",
+      "link": "https://www.elconfidencial.com/tecnologia/novaceno/2026-10-20/eeuu-guerra-cibernetica-inteligencia-artificial-espionaje_4449264/",
+      "imagen": "https://images.ecestaticos.com/2EqPiXxccEJ-v9B1uiuOqT1oLwo=/0x0:2272x1503/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4cd%2F9b7%2F796%2F4cd9b7796859adf02e1b62f3a6f7a705.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La NASA quiere escuchar el universo: así será el detector espacial con tres naves separadas por 2,5 millones de kilómetros",
+      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-20/nasa-detector-espacial-ondas-gravitacionales-1qrt_4441896/",
+      "imagen": "https://images.ecestaticos.com/2HW7bPp8DwCvNhgygvv9XdyEL_c=/0x0:1600x1066/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F03c%2Faf2%2F771%2F03caf2771160a872cf649ea2ed1ff9c5.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Jeff Bezos, 62 años: \"No necesitamos que haya gente viviendo en el espacio, pero en las próximas dos décadas habrá millones de personas\"",
+      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-20/jeff-bezos-vivir-espacio-millones-personas-1qrt_4448190/",
+      "imagen": "https://images.ecestaticos.com/aWWFQj9TwzE-Tx53A4PHC2HKhiI=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fcfb%2F98d%2Fa76%2Fcfb98da76bfc8e7f35aa4fbd2e694b65.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sam Altman explica los tres finales posibles de la carrera de la IA, incluyendo uno \"terrible\"",
       "link": "https://www.elconfidencial.com/tecnologia/novaceno/2026-10-20/altman-explica-tres-finales-posibles-carrera-ia_4449075/",
       "imagen": "https://images.ecestaticos.com/f4Ks1G-ujjTYshLhYHxdsliO3gE=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff61%2Fc77%2Fd19%2Ff61c77d19710f8035359be88b9df61dd.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Europa mira a Marruecos desde el espacio y observa cómo una mancha roja se extiende",
       "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-20/esa-marruecos-espacio-mancha-roja-crece-1qrt_4367446/",
       "imagen": "https://images.ecestaticos.com/ZzqMZHgaz9kkNCM9Q9EaKmx5jOY=/0x0:1672x1002/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa00%2Ff6a%2F595%2Fa00f6a595f7bfb1e850ee9871bbce33f.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Corea del Sur mete café en un reactor de plasma a 900 ºC y tarda 90 segundos en convertirlo en una alternativa al carbón",
-      "link": "https://www.elconfidencial.com/tecnologia/2026-10-20/eeuu-canon-plasma-cafe-combustible-carbon-1qrt_4376887/",
-      "imagen": "https://images.ecestaticos.com/mcZ4AsqdgfRFzhq-q-BT-3FJZds=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F526%2F4bf%2Fb3d%2F5264bfb3d58839edf9e206b999d3017f.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El sistema robótico Ion supera los 10.000 procedimientos de broncoscopia en Europa",
-      "link": "https://www.elconfidencial.com/tecnologia/2026-10-20/sistema-ion-broncoscopia-robot-cancer-pulmon-1hms-1svm_4448961/",
-      "imagen": "https://images.ecestaticos.com/TDtGkAp7gNM1LlRy9WcMMnEmGc4=/0x0:1200x800/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F54b%2Fb8c%2Fb0d%2F54bb8cb0de3c48712aca0e58dbcaf47c.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "En pocas semanas vas a cruzarte en Madrid con ellos: así funcionan los robotaxis de Waymo (Google) que llegan a España",
-      "link": "https://www.elconfidencial.com/tecnologia/2026-10-20/robotaxis-madrid-waymo_4448820/",
-      "imagen": "https://images.ecestaticos.com/zBX6kkeQyg-BJuhcFr8pjkbKdRs=/0x136:2272x1414/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe50%2F452%2F3de%2Fe504523dee25ca15fba98fbfd8a99f36.jpg",
       "tipo": "imagen"
     }
   ]

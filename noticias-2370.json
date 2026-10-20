@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Arquitectura exclusiva y lujo cinco estrellas en el Hotel Marqués de Riscal",
+      "link": "https://www.larazon.es/gastronomia/arquitectura-exclusiva-lujo-cinco-estrellas-hotel-marques-riscal_202610206ad76d0c2beea101da2e7000.html",
+      "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/02/04/0248B43B-E1A7-4B6B-A72B-6B95F53ACB34/hotel-marques-riscal-luxury-collection-hotel_60.jpg?crop%3D5600%2C3150%2Cx0%2Cy528%26width%3D640%26height%3D360%26optimize%3Dhigh%26format%3Dwebply",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "JW Marriott Hotel Madrid: aromas con historia en el corazón de la ciudad",
+      "link": "https://www.larazon.es/viajes/marriott-hotel-madrid-aromas-historia-corazon-ciudad_202610206acbfd766e8df44596aede45.html",
+      "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/10/11/D49871C0-A1DA-4542-AC30-02D8BC3006A0/marriott-hotel-madrid-aromas-historia-corazon-ciudad_49.jpg?crop%3D1336%2C884%2Cx0%2Cy3%26width%3D680%26height%3D450%26optimize%3Dhigh%26format%3Dwebply",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Mesa para Urrechu y sus amigos",
       "link": "https://www.larazon.es/viajes/mesa-urrechu-sus-amigos_202610176ad34732bafd3d7363629a0e.html",
-      "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages01/2023/08/07/E043BBB0-A692-4CCF-B788-836889C20FC1/inigo-urrechu_60.jpg?crop%3D6016%2C3384%2Cx0%2Cy0%26width%3D640%26height%3D360%26optimize%3Dhigh%26format%3Dwebply",
+      "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages01/2023/08/07/E043BBB0-A692-4CCF-B788-836889C20FC1/inigo-urrechu_49.jpg?crop%3D6016%2C3981%2Cx0%2Cy0%26width%3D680%26height%3D450%26optimize%3Dhigh%26format%3Dwebply",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Puerto Rico se escucha, se saborea y se siente",
       "link": "https://www.larazon.es/viajes/puerto-rico-escucha-saborea-siente_202610166ad1b3926e8df44596b2900d.html",
       "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/10/14/492FE073-C021-4E36-BB51-5FDFA16724A7/san-juan-puerto-rico_49.jpg?crop%3D2968%2C1964%2Cx51%2Cy0%26width%3D680%26height%3D450%26optimize%3Dhigh%26format%3Dwebply",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un cinco estrellas en Santiago con alma de convento: Hotel Palacio del Carmen cumple un cuarto de siglo",
-      "link": "https://www.larazon.es/viajes/cinco-estrellas-santiago-alma-convento-hotel-palacio-carmen-cumple-cuarto-siglo_202610166ad1a16bbafd3d73636169ab.html",
-      "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/10/06/E6432E5B-3411-45E0-B9C4-AAA0F51715E2/culto-nuevo-espacio-gastronomico-hotel-palacio-carmen_49.jpg?crop%3D1600%2C1059%2Cx0%2Cy4%26width%3D680%26height%3D450%26optimize%3Dhigh%26format%3Dwebply",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "\"Penha Longa\", la afamada exclusividad de un clásico",
-      "link": "https://www.larazon.es/viajes/penha-longa-afamada-exclusividad-clasico_202610156ad09e606e8df44596b1a269.html",
-      "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/10/15/5A1CC347-9B9A-42A4-AA4A-11B7B5EACB68/vista-general-aire-hotel_49.jpg?crop%3D1857%2C1229%2Cx96%2Cy0%26width%3D680%26height%3D450%26optimize%3Dhigh%26format%3Dwebply",
       "tipo": "imagen"
     }
   ]

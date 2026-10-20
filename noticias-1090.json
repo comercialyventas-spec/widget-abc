@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Trump afirma que España fue \"invadida\" por migrantes y \"no está haciendo nada al respecto\"",
+      "link": "https://www.elconfidencial.com/mundo/2026-10-20/trump-acusa-espana-invasion-migratoria-1tps_4449415/",
+      "imagen": "https://images.ecestaticos.com/aj76mD3zA_dIFRf73cw869TU7wM=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F684%2F02e%2Fb7e%2F68402eb7e31abaa86576658898b3b7f0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Italia extiende a menores la detención preventiva y tipifica como delito la participación violenta en protestas",
+      "link": "https://www.elconfidencial.com/mundo/2026-10-20/meloni-endurece-seguridad-juvenil-italia-1tps_4449386/",
+      "imagen": "https://images.ecestaticos.com/3YipJhUvwAmXy11TLE7ffFEOeEs=/0x0:2272x1415/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F259%2F05e%2F3f7%2F25905e3f75e5c5d99edfb964922e2b26.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Una falsa amenaza de bomba obliga a evacuar medio centenar de colegios en Italia",
       "link": "https://www.elconfidencial.com/mundo/2026-10-20/una-falsa-amenaza-de-bomba-obliga-a-evacuar-medio-centenar-de-colegios-en-italia_4449227/",
       "imagen": "https://images.ecestaticos.com/zMwITXjyBg-yXx6Ja5StTAc0AX4=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F313%2F65e%2F87e%2F31365e87e753133730578d22efa977f9.jpg",
@@ -19,21 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Alberta vota decididamente a favor de seguir formando parte de Canadá: 76% vs 23%",
+      "titulo": "Canadá aleja al fantasma independetista: \"Alberta ha elegido la unidad\"",
       "link": "https://www.elconfidencial.com/mundo/2026-10-20/alberta-referendum-seguir-canada-1tps_4448695/",
       "imagen": "https://images.ecestaticos.com/MSt1a1LSp4VDjH7e9dPtgYgN8Cs=/0x0:2272x1544/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F8d3%2Fcb9%2F752%2F8d3cb97521285e4b41eb369c606a9f0b.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Al menos 14 muertos y siete heridos tras un deslizamiento de tierra en una mina de oro en Colombia",
-      "link": "https://www.elconfidencial.com/mundo/2026-10-20/deslizamiento-mina-oro-colombia-1tps_4448624/",
-      "imagen": "https://images.ecestaticos.com/LB9K1AgxctfpPZhM0CM-q2Hye9E=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fac8%2F44a%2F4be%2Fac844a4be1c74accc952ef0b4f6fe19b.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Al menos tres muertos en la región de Kiev al atacar Rusia una fábrica",
-      "link": "https://www.elconfidencial.com/mundo/2026-10-20/ataque-ruso-fabrica-kiev-1tps_4448620/",
-      "imagen": "https://images.ecestaticos.com/agwWjWK6m5C4lhBIOYRKrRd-OPI=/0x0:2272x1507/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F0d7%2Fab7%2F0aa%2F0d7ab70aa00518ecbd5bffe2430b84e4.jpg",
       "tipo": "imagen"
     }
   ]

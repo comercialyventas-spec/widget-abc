@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Amnistía por fin",
+      "link": "https://www.eldiario.es/opinion/amnistia_131_13601689.html",
+      "imagen": "https://static.eldiario.es/clip/a6a648da-1bdb-4994-a4fd-62aed351cb59_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sacrificios",
       "link": "https://www.eldiario.es/opinion/sacrificios_131_13595734.html",
       "imagen": "https://static.eldiario.es/clip/4e807754-97d8-491b-8c3e-1f237090d28a_16-9-discover-aspect-ratio_default_0_x362y135.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Sorprendidos",
       "link": "https://www.eldiario.es/opinion/sorprendidos_131_13579074.html",
       "imagen": "https://static.eldiario.es/clip/ecd46b9c-33f9-4774-b9aa-bebb87d6caa0_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Pucherazo",
-      "link": "https://www.eldiario.es/opinion/pucherazo_131_13577947.html",
-      "imagen": "https://static.eldiario.es/clip/24f0c99c-e506-49f3-8acc-494f3224276f_16-9-discover-aspect-ratio_default_1153091.jpg",
       "tipo": "imagen"
     }
   ]
