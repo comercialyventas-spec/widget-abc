@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El tiempo en España",
+      "link": "https://efe.com/espana/2025-11-26/tiempo-espana-hoy-prediccion-meteorologia-aemet/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/el-tiempo-en-espana-7.webp?w=600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Generalitat valenciana levanta todos los confinamientos por la dana y se desmoviliza la UME",
       "link": "https://efe.com/comunidad-valenciana/2026-10-19/la-generalitat-levanta-todos-los-confinamientos-por-la-dana/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/rss-efeea2a9ccc94d9ae04db650004f82ea4e65746f4d5w.webp?w=600&ssl=1",
@@ -28,12 +34,6 @@
       "titulo": "El juez inadmite la querella por falso testimonio de Vito Quiles contra Begoña Gómez",
       "link": "https://efe.com/espana/2026-10-19/inadmitida-querella-vito-quiles-contra-begona-gomez/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/vito-quiles-begona-gomez-querella-desestimada-1.webp?w=600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La policía carga contra el profesorado que bloqueaba la entrada a un acto de Ayuso",
-      "link": "https://efe.com/espana/2026-10-19/policia-profesores-huelga-educacion-ayuso/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/policia-carga-huelga-educacion-madrid.webp?w=600&ssl=1",
       "tipo": "imagen"
     }
   ]
