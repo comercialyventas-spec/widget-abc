@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Última hora sobre la actualidad política, en directo",
+      "link": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13598876.html",
+      "imagen": "https://static.eldiario.es/clip/dc0b5d67-4dc0-4910-9c5e-3c24107fe961_16-9-discover-aspect-ratio_default_0_x1120y473.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La asesora de Begoña Gómez pide investigar a un abogado de Iustitia Europa por filtrar fotos de una vista a puerta cerrada",
       "link": "https://www.eldiario.es/politica/asesora-begona-gomez-pide-investigar-abogado-iustitia-europa-filtrar-fotos-vista-puerta-cerrada_1_13598068.html",
       "imagen": "https://static.eldiario.es/clip/af35aacf-51e9-4642-b3e0-393c038958d5_16-9-discover-aspect-ratio_default_0_x814y633.jpg",
@@ -10,18 +16,6 @@
       "titulo": "La Audiencia Nacional juzgará desde este lunes a Duro Felguera por los presuntos sobornos a funcionarios venezolanos",
       "link": "https://www.eldiario.es/politica/audiencia-nacional-juzgara-lunes-duro-felguera-presuntos-sobornos-funcionarios-venezolanos_1_13592012.html",
       "imagen": "https://static.eldiario.es/clip/cb3f2a08-fd58-4e20-8edc-fd1100577732_16-9-discover-aspect-ratio_default_0_x502y213.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Perro serás, mas Perro enamorado",
-      "link": "https://www.eldiario.es/politica/perro-seras-perro-enamorado_129_13595463.html",
-      "imagen": "https://static.eldiario.es/clip/fb7b2699-a101-42d3-8053-8534d1f60811_avatar-200-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "“Puede colapsar las defensas”: dentro de la primera línea de Policía y CNI ante los ataques con IA",
-      "link": "https://www.eldiario.es/tecnologia/colapsar-defensas-primera-linea-policia-cni-ataques-ia_1_13584501.html",
-      "imagen": "https://static.eldiario.es/clip/a3ba943d-e0d2-4616-bd6c-00aee678bca0_16-9-discover-aspect-ratio_default_0_x871y292.jpg",
       "tipo": "imagen"
     }
   ]

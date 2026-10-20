@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Buyiurdi, la receta griega de tomate con queso fundido para untar",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-20/buyiurdi-la-receta-griega-de-tomate-con-queso-fundido-para-untar.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20261013/1224871_155630_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Lentejas con tomate y queso de cabra",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-10-19/lentejas-con-tomate-y-queso-de-cabra.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/VNX4ZMP23BGLJIBPX33NGIFHLM.jpg?auth=f54130d1bcefa10e275f1c8d007473b3f950ac22e5df5938a51d19367d5952a9",
@@ -28,12 +34,6 @@
       "titulo": "‘Fideos botón’ de zanahoria, una receta fácil de pasta fresca sin máquina",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-10-15/fideos-boton-de-zanahoria-una-receta-facil-de-pasta-fresca-sin-maquina.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/RRKSB3WZDZENBGEMNPSTT3YDII.jpg?auth=c55865aac07bddf7855c900cac22d816817206bbc5813c25a74052ec7a025ef2",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Shakrieh, una receta de carne con salsa de yogur para no olvidar Palestina",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-15/shakrieh-una-receta-de-carne-con-salsa-de-yogur-para-no-olvidar-palestina.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20260928/1219459_151756_video_1800.mp4",
       "tipo": "imagen"
     }
   ]

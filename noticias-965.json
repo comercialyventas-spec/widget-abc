@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Leer sin PISA",
+      "link": "https://elpais.com/educacion/2026-10-20/leer-sin-pisa.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/3UXVYQEL3ZGRNPUP2G6HROQ6IY.JPG?auth=5682b04357138e6faf83575f46ed54952f9384bdabc59840f96dfd8b990b8ff0",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Gobierno aprueba este martes 45 millones para 2.000 nuevas plazas de alojamientos para universitarios",
       "link": "https://elpais.com/educacion/2026-10-19/el-gobierno-aprueba-este-martes-45-millones-para-2000-nuevas-plazas-de-alojamientos-para-universitarios.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/WP4OIASIZJHATMEIOK2QEVPAUY.jpg?auth=353f165f6fb4d53bc36d23f137a32cbe2dd1851a58d44beda8f188fc9989c0c2",
@@ -28,12 +34,6 @@
       "titulo": "¿Lo tienen más difícil los profesores en huelga en Madrid que los catalanes y valencianos?",
       "link": "https://elpais.com/educacion/2026-10-18/lo-tienen-mas-dificil-los-profesores-en-huelga-en-madrid-que-los-catalanes-y-valencianos.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261014/1225480_184835_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Trabajadores y alumnos de la Complutense exigen “medidas disciplinarias” contra los agentes de una carga policial en el campus",
-      "link": "https://elpais.com/educacion/2026-10-16/trabajadores-y-alumnos-de-la-complutense-exigen-medidas-disciplinarias-contra-los-agentes-de-una-carga-policial-en-el-campus.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/OAIUEFAPZZDYHNZKEU245ZR7ZU.jpg?auth=c7cae425f5be889199833f5dfa49b1dd702765c100fcbc1350f5c3b458e64640",
       "tipo": "imagen"
     }
   ]

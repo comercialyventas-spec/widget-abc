@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Guerra de Irán, en directo",
+      "link": "https://www.elperiodico.com/es/internacional/20261020/guerra-iran-estados-unidos-israel-ormuz-ultima-hora-directo-130265713",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7c6b9814-7849-43ad-bce7-120e9e7dc5ad_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Protestas en Francia e Italia, en directo: última hora de los toques de queda en París y Lille, la huelga general y la respuesta de Meloni",
+      "link": "https://www.elperiodico.com/es/internacional/20261020/francia-italia-disturbios-ultima-hora-directo-135485330",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/00b6eb88-1791-40ce-aea9-9142aa91c14d_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Guerra Ucrania - Rusia, última hora en directo",
+      "link": "https://www.elperiodico.com/es/internacional/20261020/guerra-ucrania---rusia-ultima-126605559",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/79d1f80e-52d7-47be-9a85-b63cfa5b1ca9_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El TPI, el tanzano Tundu Lissu y las hermanas iraníes Tarané y Romina Rahimi, finalistas del premio Sájarov",
       "link": "https://www.elperiodico.com/es/internacional/20261019/tpi-tanzano-tundu-lissu-hermanas-135521014",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/4dc4e17a-ad3f-4c5b-8b9d-3d3035dc8d27_media-libre-aspect-ratio_default_0.jpg",
@@ -16,24 +34,6 @@
       "titulo": "La periodista Christiane Amanpour dejará la CNN en 2027 después de 43 años",
       "link": "https://www.elperiodico.com/es/sociedad/20261019/periodista-christiane-amanpour-dejara-cnn-135519867",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9cd513df-ef6c-4ccb-9892-aa81cf27c141_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los ciudadanos de Alberta, en Canadá, votan para decidir si iniciar el proceso de independencia",
-      "link": "https://www.elperiodico.com/es/internacional/20261019/ciudadanos-alberta-votan-decidir-iniciar-proceso-independentista-135516959",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/29855366-8998-4b73-b32f-48908e3cb1e9_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un tribunal halla culpable al \"gurú\" Paul Mackenzie por el asesinato en masa en una secta cristiana de Kenia",
-      "link": "https://www.elperiodico.com/es/internacional/20261019/tribunal-halla-culpable-guru-paul-135515474",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/78ccd558-b3b3-4394-a4bb-b718d006e4c5_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Arabia Saudí suspenderá la celebración presencial del 'Davos del Desierto' ante la inseguridad creada por los ataques hutíes",
-      "link": "https://www.elperiodico.com/es/internacional/20261019/arabia-saudi-suspende-davos-del-desierte-future-investment-initiative-2026-ataques-huties-yemen-135514790",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/47589a83-8627-4a74-a21c-0b310a8c6ae1_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

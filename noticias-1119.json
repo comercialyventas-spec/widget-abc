@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "AEMET prevé cielo nuboso y chubascos en Barcelona, mejoría hacia la mañana y vientos del oeste",
+      "link": "https://okdiario.com/cataluna/aemet-preve-cielo-nuboso-y-chubascos-en-barcelona-mejoria-hacia-la-manana-y-vientos-del-oeste-20586554",
+      "imagen": "https://okdiario.com/img/2026/01/12/lluvias-barcelona-interior.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cielo cubierto y chubascos en Barcelona: AEMET advierte tormentas esta tarde",
       "link": "https://okdiario.com/cataluna/cielo-cubierto-y-chubascos-en-barcelona-aemet-advierte-tormentas-esta-tarde-20577360",
       "imagen": "https://okdiario.com/img/2026/01/12/lluvias-barcelona-interior.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La palabra que usan los catalanes para insultar al resto de españoles: probablemente ya te lo han dicho y no te has dado cuenta",
       "link": "https://okdiario.com/cataluna/palabra-que-usan-catalanes-insultar-resto-espanoles-probablemente-ya-te-lo-han-dicho-no-te-has-dado-cuenta-20563669",
       "imagen": "https://okdiario.com/img/2026/10/16/insultar.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Nubes y brumas marcan el día en Barcelona, según AEMET",
-      "link": "https://okdiario.com/cataluna/nubes-y-brumas-marcan-el-dia-en-barcelona-segun-aemet-20562340",
-      "imagen": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
       "tipo": "imagen"
     }
   ]
