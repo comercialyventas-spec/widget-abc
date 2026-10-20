@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Arturo Pérez-Reverte, el Mediterráneo te dirá quién eres",
+      "link": "https://www.abc.es/cultura/cultural/arturo-perezreverte-mediterraneo-dira-20261020233519-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/20/reverte-R4VP59AsfiP8z1bH5fs6hBL-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un olé a destiempo en el Museo Carmen Thyssen de Málaga",
+      "link": "https://www.abc.es/cultura/cultural/ole-destiempo-museo-carmen-thyssen-malaga-20261020233436-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/20/6-RegjWhDhNQjxJh5oEkCh2GJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Anne Brönte, una novela valiente",
+      "link": "https://www.abc.es/cultura/cultural/anne-bronte-novela-valiente-20261020233408-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/20/bronte-RoAOUqNh99hR5dTIEMULJvI-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Adelbert Von Chamisso, el hombre que vendió su sombra",
+      "link": "https://www.abc.es/cultura/cultural/adelbert-von-chamisso-hombre-vendio-sombra-20261020233223-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/20/Adelbert-Von-Chamisso-RGmM35UGsWcp5kYo93xSuxH-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "José María Cruz Novillo: los árboles y el bosque",
       "link": "https://www.abc.es/cultura/cultural/jose-maria-cruz-novillo-arboles-bosque-20261019202521-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/19/CruzNovillo_CentroCentro_AlejandroCayetano-36-R9Gm7AJ5JMQ8wxVfb5LkCjJ-1200x840@diario_abc.jpg",
@@ -10,30 +34,6 @@
       "titulo": "Miguel Ángel Campano: la coherencia de no repetirse",
       "link": "https://www.abc.es/cultura/cultural/miguel-angel-campano-coherencia-repetirse-20261019202830-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/19/MAC111679_media_0-RIDP5wTfO276HsIHDoqbqZL-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Raquel Sánchez: los duelos, una pasión española",
-      "link": "https://www.abc.es/cultura/cultural/raquel-sanchez-duelos-pasion-espanola-20261019202753-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/19/duelistas-RgmqAZlBcNnBsohzBaTaDkP-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Alexandre Pechmann, para cuando los mares ya no existan",
-      "link": "https://www.abc.es/cultura/cultural/alexandre-pechmann-mares-existan-20261019202714-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/19/piratas-ReOvYAfOo7MufihF6eAGVyO-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "A. R. Ammons, la canción como consuelo",
-      "link": "https://www.abc.es/cultura/cultural/ammons-cancion-consuelo-20261019202542-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/07/27/ammons-RyaBCcS7VrAJLAp2vOCamfJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Gonzalo Lebrija (o de Madrid al cielo)",
-      "link": "https://www.abc.es/cultura/cultural/gonzalo-lebrija-madrid-cielo-20261016131425-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/16/LEBRIJA-ROZhoGl4CnCWu385LiJHbaP-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

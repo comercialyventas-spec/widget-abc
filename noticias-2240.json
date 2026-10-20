@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El tiempo en España",
+      "link": "https://efe.com/espana/2025-11-26/tiempo-espana-hoy-prediccion-meteorologia-aemet/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/tiempo-en-espana.webp?w=600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La UCO revela que Aldama atribuyó a un intento de robo el supuesto tiroteo a su coche",
       "link": "https://efe.com/espana/2026-10-20/uco-aldama-intento-robo-tiroteo-coche/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/uco-intento-robo-coche-tiroteo.webp?w=600&ssl=1",
@@ -28,12 +34,6 @@
       "titulo": "La Audiencia de Madrid urge a acelerar la investigación contra González Amador por su relación con Quirón Prevención",
       "link": "https://efe.com/espana/2026-10-20/uco-investigacion-gonzalez-amador-ayuso-quiron/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/audiencia-madrid-urge-uco-investigar-gonzalez-amador-ayuso-quiron.webp?w=600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El PP pedirá responsabilidades a Exteriores si no se suspende el voto por la ley de nietos",
-      "link": "https://efe.com/espana/2026-10-20/pp-pedira-responsabilidades-exteriores-si-no-suspende-voto-ley-de-nietos/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/albares.webp?w=600&ssl=1",
       "tipo": "imagen"
     }
   ]

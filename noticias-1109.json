@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Una IA con reconocimiento facial podrá detectar el riesgo de muerte en pacientes con cáncer",
+      "link": "https://www.publico.es/ciencias/ia-reconocimiento-facial-podra-detectar-riesgo-muerte-pacientes-cancer.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2024/11/17/673a60373460d.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los relojes atómicos dejarán de añadir segundos para ajustarse a la rotación de la Tierra",
       "link": "https://www.publico.es/ciencias/relojes-atomicos-dejaran-anadir-segundos-ajustarse-rotacion-tierra.html",
       "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/10/15/6ad0e8eb4300b.r_d.484-327-2699.png",
@@ -28,12 +34,6 @@
       "titulo": "Muere Margaret Hamilton, pionera del programa Apolo y clave en la llegada a la Luna",
       "link": "https://www.publico.es/ciencias/muere-margaret-hamilton-pionera-programa-apolo-clave-llegada-hombre-luna.html",
       "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/10/08/6ac755324a809.r_d.1001-592-1350.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Henri B. Kagan y Kenso Soai, Nobel de Química por las reacciones que conducen a la homoquiralidad",
-      "link": "https://www.publico.es/ciencias/henri-b-kagan-kenso-soai-nobel-quimica-reacciones-conducen-homoquiralidad.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/07/6ac6202eb3975.jpeg",
       "tipo": "imagen"
     }
   ]

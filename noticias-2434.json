@@ -1,9 +1,33 @@
 {
   "noticias": [
     {
-      "titulo": "Los sindicatos registran en el Ministerio de Trabajo la huelga general del 11 de noviembre por la vivienda y los salarios",
-      "link": "https://www.rtve.es/noticias/20261019/sindicatos-registran-ministerio-huelga-general-11-noviembre/17272505.shtml",
-      "imagen": "https://img.rtve.es/n/17272505?w=1600",
+      "titulo": "El Gobierno confirma la subida del sueldo para los funcionarios del 4,5% en 2027",
+      "link": "https://www.rtve.es/noticias/20261020/gobierno-subida-sueldo-funcionarios-2027/17275648.shtml",
+      "imagen": "https://img.rtve.es/n/17275648?w=1600",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Cómo esquivan la inflación los españoles? Nueve de cada diez compara precios, sobre todo cuando compra por internet",
+      "link": "https://www.rtve.es/noticias/20261020/inflacion-espanoles-nueve-cada-diez-compara-precios-ropa-tecnologia-alimentacion/17273572.shtml",
+      "imagen": "https://img.rtve.es/n/17273572?h=200",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Gobierno amplía la pensión de viudedad y las ayudas para el cuidado de hijos dependientes",
+      "link": "https://www.rtve.es/noticias/20261020/gobierno-pension-viudedad-ayudas-cuidado-hijos-dependientes/17274354.shtml",
+      "imagen": "https://img.rtve.es/v/17275235?h=200",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Uno de cada tres trabajadores que vive de alquiler está en el umbral de la pobreza tras pagar la vivienda, según Oxfam",
+      "link": "https://www.rtve.es/noticias/20261020/trabajadores-alquiler-pobreza-pagar-vivienda-oxfam/17274123.shtml",
+      "imagen": "https://img.rtve.es/v/17275121?h=200",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Hora, dónde ver y claves de 'Los Desayunos' de RTVE y EFE con Unai Sordo y Pepe Álvarez",
+      "link": "https://www.rtve.es/noticias/20261020/unai-sordo-pepe-alvarez-desayunos-rtve-hora-donde-ver/17268112.shtml",
+      "imagen": "https://img.rtve.es/n/17268112?h=200",
       "tipo": "imagen"
     },
     {
@@ -11,30 +35,6 @@
       "link": "https://www.rtve.es/noticias/20261019/mapa-origen-renta-calle-a-calle-2024/17266212.shtml",
       "imagen": "",
       "tipo": ""
-    },
-    {
-      "titulo": "Pozuelo de Alarcón (Madrid) repite como municipio con mayor renta e Iznalloz (Granada), como el que menos",
-      "link": "https://www.rtve.es/noticias/20261019/ciudadanos-ricos-espana-pozuelo-alarcon-madrid-mas-pobres-iznalloz-granada/17272673.shtml",
-      "imagen": "https://img.rtve.es/n/17272673?h=200",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Daños causados por la dana Adam: hacer fotografías antes de limpiar y otros consejos para reclamar al seguro",
-      "link": "https://www.rtve.es/noticias/20261019/ante-danos-dana-hacer-fotos-antes-limpiar-recopilar-documentacion-seguro/17272481.shtml",
-      "imagen": "https://img.rtve.es/n/17272481?h=200",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Gobierno de Francia ordena toques de queda parciales en algunas ciudades ante los disturbios durante las protestas",
-      "link": "https://www.rtve.es/noticias/20261019/protestas-estudiantes-francia-disturbios/17272494.shtml",
-      "imagen": "https://img.rtve.es/v/17273394?h=200",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tras un año de robos espectaculares en museos, ¿qué ha cambiado en la protección del patrimonio artístico?",
-      "link": "https://www.rtve.es/noticias/20261019/arte-vigilancia-robos-debate-seguridad-museos-proteccion-patrimonio/17241279.shtml",
-      "imagen": "https://img.rtve.es/n/17241279?h=200",
-      "tipo": "imagen"
     }
   ]
 }
