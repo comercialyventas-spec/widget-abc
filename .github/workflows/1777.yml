@@ -24,101 +24,128 @@ jobs:
       - name: Descargar y convertir RSS a JSON
         run: |
           node <<'NODE'
-          const https = require("https");
+          const { execFileSync } = require("child_process");
           const fs = require("fs");
 
-          // 17 sept: elperiodico.com empezo a devolver HTTP 406 a las peticiones
-          // que llegan directamente desde las IPs de GitHub Actions (bloqueo
-          // anti-bot a nivel de origen, no un fallo de nuestra extraccion).
-          // En vez de pelear con ese bloqueo, se pide el mismo RSS a traves de
-          // rss2json.com (servicio gratuito que ya se usa como fallback en el
-          // propio widget de este WID y en el de La Vanguardia Opinion, y que
-          // no esta bloqueado) — mismo feed, misma cadencia horaria, sin tocar
-          // nada en el NAS.
+          // 17 sept: elperiodico.com devuelve HTTP 406 a peticiones con cabeceras minimas
+          // (p. ej. solo "User-Agent: Mozilla/5.0"); con las cabeceras completas de un
+          // navegador responde 200 con el RSS entero (probado desde GitHub Actions el 21/10).
+          // rss2json, que se uso como desvio, ahora devuelve 403 (Cloudflare).
+          // Orden: 1) directo con cabeceras de navegador, 2) mismo RSS via r.jina.ai.
+          // Si ninguna da noticias validas, se deja noticias-1777.json como esta (sin
+          // vaciarlo) y el run termina en verde con un aviso.
           const RSS_URL = "https://www.elperiodico.com/es/cds/rss/?id=board.xml";
-          const RSS2JSON_URL = "https://api.rss2json.com/v1/api.json?rss_url=" + encodeURIComponent(RSS_URL);
+          const NAVEGADOR = [
+            "-A", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+            "-H", "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+            "-H", "Accept-Language: es-ES,es;q=0.9,en;q=0.8",
+            "-H", "Cache-Control: no-cache",
+            "-H", "Upgrade-Insecure-Requests: 1",
+            "-H", "Sec-Fetch-Dest: document",
+            "-H", "Sec-Fetch-Mode: navigate",
+            "-H", "Sec-Fetch-Site: none",
+            "-H", "Sec-Fetch-User: ?1",
+            "-H", 'sec-ch-ua: "Chromium";v="129", "Not=A?Brand";v="8"',
+            "-H", "sec-ch-ua-mobile: ?0",
+            "-H", 'sec-ch-ua-platform: "Windows"'
+          ];
+          const FUENTES = [
+            { nombre: "directo (cabeceras de navegador)", args: NAVEGADOR.concat([RSS_URL]) },
+            { nombre: "r.jina.ai", args: ["-H", "X-Return-Format: html", "https://r.jina.ai/" + RSS_URL] }
+          ];
 
-          function descargar(url) {
-            return new Promise((resolve, reject) => {
-              https.get(url, {
-                headers: { "User-Agent": "Mozilla/5.0" }
-              }, res => {
-                let data = "";
-                res.on("data", chunk => { data += chunk; });
-                res.on("end", () => {
-                  if (res.statusCode < 200 || res.statusCode >= 300) {
-                    reject(new Error("HTTP " + res.statusCode));
-                    return;
-                  }
-                  resolve(data);
-                });
-              }).on("error", reject);
-            });
+          function descargar(args) {
+            // curl: mismas cabeceras que se probaron; --fail hace que un 4xx/5xx sea error
+            return execFileSync("curl", ["-sS", "-L", "--compressed", "--fail", "-m", "30"].concat(args),
+              { encoding: "utf8", maxBuffer: 20 * 1024 * 1024 });
           }
 
           function limpiarHtml(texto) {
             return String(texto || "")
+              .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")
               .replace(/<[^>]*>/g, "")
               .replace(/&amp;/g, "&")
               .replace(/&quot;/g, '"')
-              .replace(/&#39;/g, "'")
+              .replace(/&#39;|&apos;/g, "'")
               .replace(/&lt;/g, "<")
               .replace(/&gt;/g, ">")
               .replace(/\s+/g, " ")
               .trim();
           }
 
-          async function main() {
-            console.log("Descargando RSS de El Periodico via rss2json...");
-
-            const raw = await descargar(RSS2JSON_URL);
-            const data = JSON.parse(raw);
-
-            if (data.status !== "ok" || !Array.isArray(data.items)) {
-              throw new Error("rss2json no devolvio items validos: " + raw.slice(0, 500));
-            }
-
-            const noticias = [];
-            for (const item of data.items) {
-              if (noticias.length >= 6) break;
-
-              const titulo = limpiarHtml(item.title);
-              const link = String(item.link || "").split("#")[0].split("?")[0];
-              if (!titulo || !link) continue;
-
-              let imagen = "";
-              let tipo = "";
-              if (item.enclosure && item.enclosure.link) {
-                imagen = item.enclosure.link;
-                tipo = (item.enclosure.type && item.enclosure.type.indexOf("video") !== -1) ? "video" : "imagen";
-              } else if (item.thumbnail) {
-                imagen = item.thumbnail;
-                tipo = "imagen";
-              }
-
-              noticias.push({ titulo: titulo, link: link, imagen: imagen, tipo: tipo });
-
-              console.log(noticias.length + ". " + titulo);
-              console.log("   Multimedia: " + (tipo || "ninguna"));
-              console.log("   URL: " + (imagen || "VACIA"));
-            }
-
-            if (!noticias.length) {
-              throw new Error("No se encontraron noticias validas.");
-            }
-
-            fs.writeFileSync("noticias-1777.json", JSON.stringify({ noticias: noticias }, null, 2));
-
-            console.log("==========================================");
-            console.log("noticias-1777.json generado correctamente.");
-            console.log("Noticias: " + noticias.length);
-            console.log("==========================================");
+          function etiqueta(bloque, nombre) {
+            const m = bloque.match(new RegExp("<" + nombre + "(?:\\s[^>]*)?>([\\s\\S]*?)</" + nombre + ">", "i"));
+            return m ? m[1] : "";
           }
 
-          main().catch(error => {
-            console.error("ERROR:", error);
-            process.exit(1);
+          function multimedia(bloque) {
+            // enclosure / media:content / media:thumbnail; se prefiere una imagen
+            const lista = [];
+            const re = /<(enclosure|media:content|media:thumbnail)\b([^>]*)>/gi;
+            let m;
+            while ((m = re.exec(bloque))) {
+              const url = (m[2].match(/\burl\s*=\s*"([^"]+)"/i) || [])[1];
+              if (!url) continue;
+              const type = (m[2].match(/\btype\s*=\s*"([^"]+)"/i) || [])[1] || "";
+              lista.push({ url: limpiarHtml(url), video: type.indexOf("video") !== -1 });
+            }
+            return lista.find(x => !x.video) || lista[0] || null;
+          }
+
+          function extraer(xml) {
+            const noticias = [], vistos = new Set();
+            const items = xml.match(/<item\b[\s\S]*?<\/item>/gi) || [];
+            for (const item of items) {
+              if (noticias.length >= 6) break;
+              const titulo = limpiarHtml(etiqueta(item, "title"));
+              const link = limpiarHtml(etiqueta(item, "link")).split("#")[0].split("?")[0];
+              if (!titulo || !link || vistos.has(link)) continue;
+              vistos.add(link);
+              const med = multimedia(item);
+              noticias.push({
+                titulo: titulo,
+                link: link,
+                imagen: med ? med.url : "",
+                tipo: med ? (med.video ? "video" : "imagen") : ""
+              });
+            }
+            return noticias;
+          }
+
+          let noticias = null;
+          for (const fuente of FUENTES) {
+            try {
+              console.log("Descargando RSS de El Periodico: " + fuente.nombre + "...");
+              const lista = extraer(descargar(fuente.args));
+              const conImagen = lista.filter(n => n.imagen).length;
+              if (lista.length < 3 || conImagen < Math.ceil(lista.length / 2)) {
+                throw new Error("respuesta sin noticias validas (" + lista.length + " noticias, " + conImagen + " con imagen)");
+              }
+              noticias = lista;
+              console.log("Fuente usada: " + fuente.nombre);
+              break;
+            } catch (e) {
+              console.log("::warning title=El Periodico (" + fuente.nombre + ")::" + String(e.message || e).split("\n")[0].slice(0, 300));
+            }
+          }
+
+          if (!noticias) {
+            console.log("::warning title=noticias-1777 sin actualizar::Ninguna fuente de El Periodico respondio; se mantiene el JSON actual sin cambios.");
+            process.exit(0);
+          }
+
+          noticias.forEach((n, i) => {
+            console.log((i + 1) + ". " + n.titulo);
+            console.log("   Multimedia: " + (n.tipo || "ninguna"));
+            console.log("   URL: " + (n.imagen || "VACIA"));
           });
+
+          fs.writeFileSync("noticias-1777.json", JSON.stringify({ noticias: noticias }, null, 2));
+
+          console.log("==========================================");
+          console.log("noticias-1777.json generado correctamente.");
+          console.log("Noticias: " + noticias.length);
+          console.log("==========================================");
           NODE
 
       - name: Sincronizar con la rama remota antes de guardar
