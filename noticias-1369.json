@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Multa histórica para Meta: pagará 25.000 millones de dólares en Nuevo México por las malas prácticas de Facebook",
+      "link": "https://elpais.com/us/2026-10-21/multa-historica-para-meta-debera-pagar-25000-millones-de-dolares-en-nuevo-mexico.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/JJ73DYGMCBEKDBNNACJD2MZE54.jpg?auth=db50aefd8710c24532fd3ff729128910c2503915b94ecbba8d756e42e5f57826",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Dos vulnerabilidades críticas detectadas con IA provocan fallos múltiples en miles de páginas web",
+      "link": "https://elpais.com/tecnologia/2026-10-21/dos-vulnerabilidades-criticas-detectadas-con-ia-provocan-fallos-multiples-en-miles-de-paginas-web.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4TVTEAY77JLF5G42NUTTIAZFCA.jpg?auth=8ab02dc367f46cf9f4314c62b58565e6f2f07f36ff1f2e6b05b54d9c8fa200f1",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El iPhone Duo de 2.300 euros desata una fiebre inédita por los plegables: se agota y acumula tres meses de espera",
       "link": "https://elpais.com/tecnologia/2026-10-21/el-iphone-duo-de-2300-euros-desata-una-fiebre-inedita-por-los-plegables-se-agota-y-acumula-tres-meses-de-espera.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/F4RND5QHWFARPGKRPWH7OOQ34E.jpg?auth=2f96e7bd351cdaff32a4824a5ead667b6322c0d1a6716fc3b16923e51e5f9c1e",
@@ -22,18 +34,6 @@
       "titulo": "Google despliega en Madrid sus primeros robotaxis autónomos Waymo",
       "link": "https://elpais.com/tecnologia/2026-10-20/google-despliega-en-madrid-sus-primeros-robotaxis-autonomos-waymo.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/BL4EB4FEAJIBRL5GPZUARDON7Q.jpg?auth=91e4cb57306a26b8e5785526cf904de4d4318b8fda630c8c491978c58df7ee04",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "He comprobado todo lo que Google sabe de mi vida y esto es lo que guarda",
-      "link": "https://elpais.com/tecnologia/tu-tecnologia/2026-10-20/he-comprobado-todo-lo-que-google-sabe-de-mi-vida-y-esto-es-lo-que-guarda.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/BI2XXQMXOJANZAYVKOU7DK5KHI.jpg?auth=036bbb032944a68d4950c8c02d4ee8e9135290a68b877d4106a94d06670a0ab1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "De Lara Croft a Lucía Caminos: ¿por qué todavía molesta que una mujer sea protagonista de un videojuego?",
-      "link": "https://elpais.com/tecnologia/2026-10-16/de-lara-croft-a-lucia-caminos-por-que-todavia-molesta-que-una-mujer-sea-protagonista-de-un-videojuego.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/CJFCI5CQCFEHBKBJ4XXVJOYEQQ.tif?auth=8d4355bafd0d2b5c1e2952532ca0f3bf19ce13c08fd29ca4f193e926a4e5ad5a",
       "tipo": "imagen"
     }
   ]

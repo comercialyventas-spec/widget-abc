@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Nacho Roura, neuropsicólogo, sobre dormir con los hijos: \"Es una manera que tenemos de autorregularnos y hacer contacto humano\"",
+      "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-21/nacho-roura-neuropsicologo-dormir-hijos-autorregularnos_4260099/",
+      "imagen": "https://images.ecestaticos.com/qYpTTbWe2YLwOpuDWnMcSHT0kZ0=/0x0:1500x1001/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa52%2Fc62%2F3a1%2Fa52c623a10d0ad5e4363b7ca64d345e1.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Dr. Gurutz Linazasoro, neurólogo: \"El mejor horario sería el de invierno porque sincroniza mejor los ritmos circadianos",
+      "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-21/dr-gurutz-linazasoro-neurologo-mejor-horario-invierno-sincroniza-mejor-ritmos-circadianos-1qrt_4450015/",
+      "imagen": "https://images.ecestaticos.com/xvrM4hdtc1T6i-AGqUJRq_hxMx8=/0x0:2048x2048/746x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F541%2F6f0%2F96f%2F5416f096f91b091356113baa8262a448.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La estimulación cerebral domiciliaria reduce los síntomas depresivos en pacientes resistentes al tratamiento",
+      "link": "https://www.elconfidencial.com/salud/2026-10-21/estimulacion-transcraneal-depresion-resistente-domicilio-1tps_4449998/",
+      "imagen": "https://images.ecestaticos.com/E0Qd9LIOIPmeQKVclRnvG5HlpY8=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F0d1%2F711%2Fed4%2F0d1711ed463d112e2d73569e171f6112.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Alcer y Feder presentan la primera comunidad para pacientes con glomerulonefritis crónicas",
       "link": "https://www.elconfidencial.com/salud/2026-10-21/gnconecta-glomerulonefritis-cronica-enfermedad-renal-1hms-1svm_4449922/",
       "imagen": "https://images.ecestaticos.com/oHmfC6xvYXfJxKVgDw6p7vV7IyI=/0x0:2210x1356/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F243%2F0a3%2F25b%2F2430a325b40e27005f1c64309b25b6cf.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Un estudio de la UNED sitúa a los hospitales madrileños de gestión mixta entre los más eficientes de la región",
       "link": "https://www.elconfidencial.com/salud/2026-10-21/eficiencia-hospitalaria-madrid-uned-1hms-1svm_4449917/",
       "imagen": "https://images.ecestaticos.com/ak7ZzxsCDjW5hTIduIQwopwtvUY=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa1f%2F638%2F508%2Fa1f63850864a19bf07e94655bdb075a0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "De la masa del pan a la vitamina D: el papel de las levaduras en la investigación y la salud",
-      "link": "https://www.elconfidencial.com/salud/2026-10-21/levaduras-pan-investigacion-salud_4449927/",
-      "imagen": "https://images.ecestaticos.com/igakqLG4XjQTucwgtrh8OrD9M4c=/0x210:2272x1488/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F5cb%2Fa4d%2Fc1a%2F5cba4dc1a64a9d260491854a9cd955d5.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sanidad y GeSIDA desarrollarán nuevos protocolos clínicos frente al VIH en los centros penitenciarios",
-      "link": "https://www.elconfidencial.com/salud/2026-10-21/convenio-vih-atencion-penitenciaria-1tps_4449892/",
-      "imagen": "https://images.ecestaticos.com/pRRChVQT3yuM7BmwpHg20FhXQIw=/0x0:2272x1447/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7d0%2F67e%2F28a%2F7d067e28a763ba83da7b2d0c03dbd23f.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Solo el 36% de españoles relaciona la salud digestiva con el estrés o el estado de ánimo",
-      "link": "https://www.elconfidencial.com/salud/2026-10-21/salud-digestiva-microbiota-estres-1tps_4449824/",
-      "imagen": "https://images.ecestaticos.com/8Zo7V2NVz-0ZhKIeCO3b0_ZvuwU=/0x0:3000x1925/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F583%2Fbd0%2Fec1%2F583bd0ec172864e7f93fa37dc5466f45.jpg",
       "tipo": "imagen"
     }
   ]

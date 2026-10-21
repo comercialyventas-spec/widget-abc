@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Cataluña cerrará al tráfico ocho puertos de montaña para los ciclistas",
+      "link": "https://elpais.com/deportes/ciclismo/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ZUPVGVEGIJF7JFJULLAEQ6WUHY.jpg?auth=a404be6c2ff567b2c9c7341b5217868739d4292627e6156a4cf34b84a6e37046&width=414&height=233&focal=3521%2C1793",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Paul Seixas alcanza en el Giro de Lombardía su futuro anunciado",
-      "link": "https://elpais.com/noticias/giro-lombardia/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/H6XHKXTVENOEBD6T7P7OE6RVLM.jpg?auth=7df51636a732f49cf99fc6dc3cd3ff783a1d95d00ca91bef1aa6e810b2356a2a&width=414&height=233&focal=2865%2C1088",
+      "link": "https://elpais.com/deportes/ciclismo/2026-10-10/paul-seixas-alcanza-en-el-giro-de-lombardia-su-futuro-anunciado.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/H6XHKXTVENOEBD6T7P7OE6RVLM.jpg?auth=7df51636a732f49cf99fc6dc3cd3ff783a1d95d00ca91bef1aa6e810b2356a2a&width=1200",
       "tipo": "imagen"
     },
     {
@@ -15,25 +21,19 @@
     {
       "titulo": "Pippa York, del barrio más duro de Glasgow a pedalear por los Pirineos",
       "link": "https://elpais.com/deportes/ciclismo/2026-10-09/pippa-york-del-barrio-mas-duro-de-glasgow-a-pedalear-por-los-pirineos.html",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://imagenes.elpais.com/resizer/v2/YHBXHBGPMJECPHFMBVFAB7E4AQ.jpg?auth=5916cc105c939a85e166014910e9d2d7959b84ea7375ad50268a9423b5e4be83&width=414&height=233&focal=4097%2C1706",
+      "tipo": "imagen"
     },
     {
       "titulo": "Chava Jiménez y Ángel Arroyo: dos ciclistas barrocos comparten eternidad en la Castilla dura y austera",
       "link": "https://elpais.com/deportes/ciclismo/2026-10-07/chava-jimenez-y-angel-arroyo-dos-ciclistas-barrocos-comparten-eternidad-en-la-castilla-dura-y-austera.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/YMTQL3DZHFPINDFC4ASLOVINIA.jpg?auth=1f588e98cf4cf8b012b999005f5b26630a1a4822c8ff895344646084b0ca65a9&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/YMTQL3DZHFPINDFC4ASLOVINIA.jpg?auth=1f588e98cf4cf8b012b999005f5b26630a1a4822c8ff895344646084b0ca65a9&width=1200",
       "tipo": "imagen"
     },
     {
       "titulo": "Cosecha de oro del ciclismo joven español en los Europeos contrarreloj",
-      "link": "https://elpais.com/deportes/ciclismo/2026-10-07/cosecha-de-oro-del-ciclismo-joven-espanol-en-los-europeos-contrarreloj.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Muere a los 70 años Ángel Arroyo, el ciclista de El Barraco que fue segundo en el Tour de 1983",
       "link": "https://elpais.com/noticias/ciclismo/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/KFS5YLYGBND4HGCOCOXPTNPSHU.jpg?auth=5510a77f73a888e3c3c2a48136657f6026bdd7369ebadc95130cbe0e9d0eeee3&width=414&height=233&focal=4379%2C1381",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/D35VMO353JFCNIG3Q55L7DCORA.JPG?auth=00cbb66e136e68b51338af13ef1580b82878c46c830c547de4435470fa007a74&width=414&height=233&smart=true",
       "tipo": "imagen"
     }
   ]

@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de El Cañaveral",
+      "link": "https://nuevosureste.es/detenido-en-el-canaveral-profesor-agresion-sexual/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/El-Canaveral-Foto-Nuevo-Sureste-400x250.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Cañaveral tendrá un autobús más en la línea E5 desde este martes",
       "link": "https://nuevosureste.es/nuevo-autobus-linea-e5-el-canaveral/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2025/02/Autobus-de-la-linea-E5-de-EMT-Madrid-fuente-EMT-Madrid-400x250.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Valores cívicos, instrumentos musicales y otras curiosidades del callejero de El Cañaveral",
       "link": "https://nuevosureste.es/curiosidades-callejero-el-canaveral/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/07/Canaveral-callejero-400x250.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Qué buscan hoy las familias cuando eligen colegio? Claves para decidir el futuro de sus hijos",
-      "link": "https://nuevosureste.es/colegio-el-valle-elegir-colegio/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/Octubre-1-400x250.jpg",
       "tipo": "imagen"
     }
   ]

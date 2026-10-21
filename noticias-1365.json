@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Inaceptable Milei",
+      "link": "https://elpais.com/opinion/2026-10-21/inaceptable-milei.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ZXVC3REGI5F63ETAVDEH47WDF4.jpg?auth=e6f561120a35892b51e137efe392f5c4755da67a7c8c2670fc5eb3b3bb31f5e5",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sciammarella: Fallera mayor. Oliva, Comunidad Valenciana",
       "link": "https://elpais.com/opinion/2026-10-21/sciammarella-fallera-mayor-oliva-comunidad-valenciana.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/YJPG2S2J7FBS5DVYTB5E6XNZTA.jpg?auth=fe8c97f43d6c30be9455084f77293db3cd945fd12f9820b2c7028d2d7cc4b00e",
@@ -28,12 +34,6 @@
       "titulo": "Ha estado muy bien Borja Sémper",
       "link": "https://elpais.com/opinion/2026-10-21/ha-estado-muy-bien-borja-semper.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/M3ZKHBJF5NA7RNUCG5Z5JYEYOY.jpg?auth=e65c7d283e54a46a1c2d66be606ee0c5db4cb729452be6eee85e603627a4cf7a",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Roto: casas de sobra",
-      "link": "https://elpais.com/opinion/2026-10-21/el-roto-casas-de-sobra.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/5YI7EB42DBCONDLF2LQPTCNSB4.jpg?auth=6ba4107e7439fb8095ba6123f6fade76a334e6e6421a5a9eb5b69f414aeb8edc",
       "tipo": "imagen"
     }
   ]

@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "De los 57.000 euros de Puertollano al casi millón de euros en Calvià: el precio medio de la vivienda en España",
+      "titulo": "De los 57.000 euros de Puertollano al casi millón en Calviá: el precio medio de la vivienda en España",
       "link": "https://www.abc.es/economia/57000-euros-puertollano-millon-euros-calvia-precio-20261021133028-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/21/pisos-kHoE-U302348927930tVE-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Iberdrola consuma su giro estratégico: gana un 10% más impulsado por las redes eléctricas",
+      "link": "https://www.abc.es/economia/iberdrola-consuma-giro-estrategico-gana-impulsado-redes-20261021091146-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/21/galan%20ep-RPhDJPeLsPv5WVFUuPDOZjM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ruptura total en la patronal de pymes avalada por el Gobierno: el grueso de las asociaciones abandonan la entidad",
+      "link": "https://www.abc.es/economia/ruptura-total-patronal-pymes-avalada-gobierno-grueso-20261021150851-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/21/doble-RCW18Q54OOkk8KgcSp5CLNL-1200x840@diario_abc.PNG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Hernández de Cos se cita con Merz y Macron para reforzar su candidatura a presidir el BCE",
+      "link": "https://www.abc.es/economia/hernandez-cos-cita-merz-macron-impulsar-candidatura-20261020012540-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/20/hernandez-cos-Rf4C1aHKlgdUEbCIiQyZHcP-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "Ferratum ofrece un 3,4%, Bankinter garantiza el 3% y Unicaja sube al 2,55%: así está la guerra del ahorro",
       "link": "https://www.abc.es/economia/guia-financiera/ferratum-bankinter-unicaja-guerra-ahorro-20261020155352-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/20/Ferratum,%20Bankinter%20y%20Unicaja-RrdJDnzWTIek6vdcPwbX6aL-1200x840@diario_abc.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cuenta remunerada o depósito a plazo: las opciones de octubre para cada tipo de ahorro",
-      "link": "https://www.abc.es/economia/guia-financiera/cuenta-remunerada-o-deposito-a-plazo-segun-tu-ahorro-20261019052147-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/19/Cuentas%20remuneradas-RAhmEi1uPD0DaJrtWfP9zdI-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ruptura total en la patronal de pymes avalada por el Gobierno: el grueso de las asociaciones abandonan la entidad",
-      "link": "https://www.abc.es/economia/ruptura-total-patronal-pymes-avalada-gobierno-grueso-20261021150851-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/21/doble-RCW18Q54OOkk8KgcSp5CLNL-1200x840@diario_abc.PNG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los casos de estafa de la bailarina se cuadruplican en 24 horas: las claves de los abogados para recuperar el dinero",
-      "link": "https://www.abc.es/economia/casos-estafa-bailarina-cuadruplican-horas-claves-abogados-20261021145932-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/21/eliksa-RwZAZiDBzdDJJR5OxXBbDzM-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

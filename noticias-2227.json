@@ -1,8 +1,20 @@
 {
   "noticias": [
     {
-      "titulo": "Manifestación en distrito Vicalvaro. Afectadas 10 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261021-M-Av-Gran-Via-Este-Casalarreina.pdf",
+      "titulo": "Creación de Parada: Plaza de la Independencia. Afectadas 9 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261023-CP-51323-Plaza-Independencia.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Recuperación de Parada: Plaza de la Independencia. Afectadas 7 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261023-RP-162-Plaza-Independencia.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Manifestación en Gran Vía y Jacometrezo. Afectadas 13 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261022-M-Gran-Via-Jacometrezo.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     },
@@ -21,18 +33,6 @@
     {
       "titulo": "Evento Deportivo: Estadio de Vallecas. Afectada línea 103 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261024-Estadio-Vallecas.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Obras: Guzmán El Bueno. Afectada línea 2 de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261024-Grua-Guzman-El-Bueno.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Traslado definitivo de parada: Cerro Negro. Afectada línea 113 de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261022-TDP-5860-Cerro-Negro.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }
