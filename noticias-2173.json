@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La Universitat de Barcelona cierra sus conexiones a internet por la alerta de ciberseguridad PHP",
+      "link": "https://www.elperiodico.com/es/sociedad/20261021/universitat-barcelona-cierra-conexiones-internet-ciberseguridad-php-php-135603633",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/aee39391-df07-44c9-a400-35ca01583b18_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los datos detrás de las protestas estudiantiles en Francia: menos presupuesto para educación, pobreza y paro al alza, y vivienda desbocada",
       "link": "https://www.elperiodico.com/es/internacional/20261021/datos-malestar-juvenil-francia-presupuesto-educacion-pobreza-paro-vivienda-135603192",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/4830ddf9-c2fd-425b-9ce8-4c87e1131880_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La Eurocámara reconoce una investigación sobre los centros de detención de migrantes con el premio Daphne Caruana Galizia de periodismo",
       "link": "https://www.elperiodico.com/es/internacional/20261021/eurocamara-reconoce-investigacion-centros-detencion-albania-italia-daphne-caruana-135598059",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b9147d66-8819-4386-a500-f6d0bc227a17_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "7 aeropuertos del sur de Italia registran problemas de escasez de combustible por los bloqueos de los transportistas",
-      "link": "https://www.elperiodico.com/es/internacional/20261021/7-aeropuertos-sur-italia-afectados-escasez-combustible-protestas-bloqueos-transportistas-135597514",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a0b45dc6-8fb1-4d50-a7e6-71e406c1ac6a_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

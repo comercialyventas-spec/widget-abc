@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Arte parece, gallina es",
+      "link": "https://www.eldiario.es/caballodenietzsche/arte-parece-gallina_132_13596024.html",
+      "imagen": "https://static.eldiario.es/clip/4bf0db8a-8edf-4e8d-a676-50c2e8480276_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "B12, la vitamina que nos suplementamos",
       "link": "https://www.eldiario.es/caballodenietzsche/b12-vitamina-suplementamos_132_13587511.html",
       "imagen": "https://static.eldiario.es/clip/897d3135-5c81-4a50-b0c5-bc9fa28244a4_16-9-discover-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Los pulpos ganan la batalla, pero no la guerra: por qué es importante prohibir su acuicultura antes de que se produzca",
       "link": "https://www.eldiario.es/caballodenietzsche/pulpos-ganan-batalla-no-guerra-importante-prohibir-acuicultura-produzca_132_13542656.html",
       "imagen": "https://static.eldiario.es/clip/d35a21ce-0c57-4537-92da-ad5040a9575a_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La vivienda, en su sentido primitivo y sagrado de refugio",
-      "link": "https://www.eldiario.es/caballodenietzsche/vivienda-sentido-primitivo-sagrado-refugio_132_13534284.html",
-      "imagen": "https://static.eldiario.es/clip/ba710c26-a9ec-4373-9d77-a21369ae8eb1_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

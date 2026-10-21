@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "El tiempo en España",
+      "link": "https://efe.com/espana/2025-11-26/tiempo-espana-hoy-prediccion-meteorologia-aemet/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/tiempo-en-espana-1.webp?w=600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Junqueras celebra la amnistía en ‘casa’: «Quisieron rompernos el alma, pero es de hierro»",
+      "link": "https://efe.com/espana/2026-10-21/junqueras-celebra-amnistia/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/junqueras-amnistia-casa.webp?w=600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sánchez ve a Milei, Feijóo y Abascal en «la misma peña» de «tijeretazos y motosierra»",
       "link": "https://efe.com/espana/2026-10-21/sanchez-precampana-burgos-milei-feijoo-abascal/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/pedro-sanchez-milei-feijoo.webp?w=600&ssl=1",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/sanchez-milei-feijoo.webp?w=600&ssl=1",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "La Sexta plantea dos debates electorales con PSOE, PP, Vox y Frente Amplio, moderados por Ana Pastor",
       "link": "https://efe.com/espana/2026-10-21/debates-electorales-psoe-pp-vox-frente-amplio/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/ana-pastor.webp?w=600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los vecinos de Oliva y Miramar siguen limpiando viviendas y garajes y evalúan los daños tras la dana Adam",
-      "link": "https://efe.com/comunidad-valenciana/2026-10-21/los-vecinos-de-oliva-y-miramar-siguen-limpiando-viviendas-y-garajes-y-evaluan-los-danos/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/rss-efefc7a85b496e01965134fa2216cabafd22c80c01ew.webp?w=600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La jueza pide a Defensa que informe sobre si buques marroquíes entraron en aguas españolas cercanas a Ceuta",
-      "link": "https://efe.com/espana/2026-10-21/jueza-defensa-buques-marroquies-aguas-espanolas/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/ceua-defensa-buques.webp?w=600&ssl=1",
       "tipo": "imagen"
     }
   ]

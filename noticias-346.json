@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "España recomienda actualizar de inmediato PHP ante las múltiples vulnerabilidades detectadas",
+      "link": "https://www.abc.es/tecnologia/espana-recomienda-actualizar-inmediato-php-ante-multiples-20261021221333-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/21/1519092078-kS4B-U302363312292sm-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Condenan a Meta a pagar una multa de 25.000 millones por engañar a usuarios con la privacidad",
       "link": "https://www.abc.es/tecnologia/condenan-meta-pagar-multa-25000-millones-enganar-20261021200808-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/21/1503185317-ksQE-U302361388199RCD-1200x840@diario_abc.JPG",
@@ -28,12 +34,6 @@
       "titulo": "Nuevo evento de Apple a la vista: estas son las novedades que podremos conocer la próxima semana",
       "link": "https://www.abc.es/tecnologia/nuevo-evento-apple-vista-novedades-podremos-conocer-20261020192638-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/20/apple-pro-and-tell-RiCGnQXIocYR6eGU2vnwsTM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Spotify lanza un nuevo sistema de verificación para cuentas compartidas: expulsará a los usuarios que no vivan juntos",
-      "link": "https://www.abc.es/tecnologia/spotify-lanza-nuevo-sistema-verificacion-cuentas-compartidas-20261020162645-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/20/spotify-app-RZdVh1ObJDB5ldVl7A68uqN-1200x840@diario_abc.PNG",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El potaje de la izquierda y las listas comunes",
+      "link": "https://www.eldiario.es/opinion/zona-critica/potaje-izquierda-listas-comunes_129_13604602.html",
+      "imagen": "https://static.eldiario.es/clip/e397018b-a36b-47de-ba1f-3d684faa7c11_16-9-discover-aspect-ratio_default_0_x1065y383.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Finanzas para propietarios",
       "link": "https://www.eldiario.es/opinion/zona-critica/finanzas-propietarios_129_13586308.html",
       "imagen": "https://static.eldiario.es/clip/18437894-8c2c-46a3-a2f4-95079652d9d9_16-9-discover-aspect-ratio_default_0_x690y164.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Maricarmen somos todos",
       "link": "https://www.eldiario.es/opinion/zona-critica/maricarmen_129_13533334.html",
       "imagen": "https://static.eldiario.es/clip/74cb4e0d-4148-4050-b332-663893c3b964_16-9-discover-aspect-ratio_default_0_x1264y942.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Vivir en el campo, pagar en Madrid",
-      "link": "https://www.eldiario.es/opinion/zona-critica/vivir-campo-pagar-madrid_129_13515830.html",
-      "imagen": "https://static.eldiario.es/clip/69c8e3e1-45d9-4734-bd66-fb58f4d29c88_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Antidisturbios",
+      "link": "https://www.elconfidencialdigital.com/album/seguridad/antidisturbios/202610212323361495759.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/21/2026102123220072527.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Policía Nacional",
       "link": "https://www.elconfidencialdigital.com/album/seguridad/policia-nacional/202610202018481495453.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/08/21/2026082111085125140.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Daesh",
       "link": "https://www.elconfidencialdigital.com/album/seguridad/daesh/202609251337111488250.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/25/2026092513350322892.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Marruecos",
-      "link": "https://www.elconfidencialdigital.com/album/seguridad/marruecos/202609242127531488085.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/24/2026092421261743788.jpg",
       "tipo": "imagen"
     }
   ]
