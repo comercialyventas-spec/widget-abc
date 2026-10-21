@@ -5,8 +5,10 @@ on:
   schedule:
     - cron: "13 3 * * 1,3,5"
 
+# Grupo propio: en widget-abc-git-write (compartido con las noticias frecuentes) GitHub cancelaba la ejecución pendiente
+# de este workflow poco frecuente. El choque de pushes lo resuelven el paso de sincronizar y los reintentos.
 concurrency:
-  group: widget-abc-git-write
+  group: producto-basycojerez
   cancel-in-progress: false
 
 permissions:

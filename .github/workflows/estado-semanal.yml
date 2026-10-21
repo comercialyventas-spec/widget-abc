@@ -13,8 +13,10 @@ on:
 permissions:
   contents: write
 
+# Grupo propio: en widget-abc-git-write (compartido con las noticias frecuentes) GitHub cancelaba la ejecución pendiente
+# de este workflow poco frecuente. El choque de pushes lo resuelven el paso de sincronizar y los reintentos.
 concurrency:
-  group: widget-abc-git-write
+  group: estado-semanal
   cancel-in-progress: false
 
 jobs:
@@ -43,6 +45,10 @@ jobs:
           LISTAR_FEEDS_URL: "https://script.google.com/macros/s/AKfycbw3CPo21pjeJ6Iom59N0glwaJuxC75FknVtX7Et5PgHoplWz33GjcH4Jble_uh6Pw0/exec"
           LISTAR_FEEDS_TOKEN: ${{ secrets.LISTAR_FEEDS_TOKEN }}
         run: node migracion/estado_semanal.js
+      - name: Sincronizar con la rama remota antes de guardar
+        run: |
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || { git rebase --abort || true; }
+
       - name: Guardar el informe
         run: |
           git config user.name "github-actions[bot]"
@@ -51,9 +57,12 @@ jobs:
           if git diff --cached --quiet; then echo "Sin cambios."; exit 0; fi
           git commit -m "Estado semanal de noticias y catalogos $(date -u +%Y-%m-%d)"
           RAMA="${GITHUB_REF_NAME}"
+          # Igual que feeds-generico.yml: si otro workflow ha escrito antes, traer sus cambios y reintentar
           for intento in 1 2 3 4; do
-            git pull --no-edit --rebase origin "$RAMA" && git push origin HEAD:"$RAMA" && exit 0
-            git rebase --abort 2>/dev/null || true
-            sleep $((intento*5))
+            git push origin HEAD:"$RAMA" && exit 0
+            echo "Push rechazado (intento $intento). Trayendo cambios recientes y reintentando..."
+            git pull --rebase -X theirs origin "$RAMA" || { git rebase --abort || true; }
+            sleep $((intento * 5))
           done
+          echo "::error title=No se pudo guardar el informe::El push a GitHub fallo 4 veces seguidas."
           exit 1

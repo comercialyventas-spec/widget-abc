@@ -186,6 +186,18 @@ jobs:
                 problemas.push(`${nombre}: no se pudo consultar (${e.message})`);
               }
             }
+            // 3) JSON que deben cambiar aunque su workflow salga en verde (1777 termina en verde con aviso si la fuente
+            //    falla y deja el JSON como estaba). El JSON no lleva fecha: se mira su último commit en la rama.
+            for (const [ruta, nombre, horas] of [['noticias-1777.json', 'noticias-1777.json (El Periódico)', 12]]) {
+              try {
+                const c = (await api(`/commits?path=${encodeURIComponent(ruta)}&sha=${RAMA}&per_page=1`))[0];
+                const h = c ? (Date.now() - new Date(c.commit.committer.date).getTime()) / 3600000 : Infinity;
+                if (h > horas) problemas.push(`${nombre}: lleva ${h === Infinity ? 'sin commits' : h.toFixed(1) + ' h'} sin actualizarse (máximo ${horas} h), aunque su workflow salga en verde`);
+                else bien.push(`${nombre}: actualizado hace ${h.toFixed(1)} h`);
+              } catch (e) {
+                problemas.push(`${nombre}: no se pudo consultar su último commit (${e.message})`);
+              }
+            }
             if (relanzados.length) console.log('::notice title=Relanzados por atraso::' + relanzados.join(' ### '));
             if (bien.length) console.log('::notice title=Funcionan bien::' + bien.join(' ### '));
             const nivel = SOLO_RELANZAR ? 'warning' : 'error';

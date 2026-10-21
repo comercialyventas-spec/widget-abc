@@ -13,8 +13,10 @@ on:
 permissions:
   contents: write
 
+# Grupo propio: en widget-abc-git-write (compartido con las noticias frecuentes) GitHub cancelaba la ejecución pendiente
+# de este workflow poco frecuente. El choque de pushes lo resuelven el paso de sincronizar y los reintentos.
 concurrency:
-  group: widget-abc-git-write
+  group: sitemaps-a-json
   cancel-in-progress: false
 
 jobs:
@@ -29,6 +31,10 @@ jobs:
         run: |
           python3 datos/sitemaps_a_json.py datos/sitemaps_lista.txt | tee /tmp/res.txt
           while IFS= read -r l; do echo "::notice::$l"; done < /tmp/res.txt
+      - name: Sincronizar con la rama remota antes de guardar
+        run: |
+          git pull --rebase --autostash origin main || { git rebase --abort || true; }
+
       - name: Guardar
         run: |
           git config user.name "github-actions[bot]"
@@ -36,9 +42,12 @@ jobs:
           git add datos
           if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
           git commit -m "datos: sitemaps a JSON"
-          for i in 1 2 3 4 5; do
-            git fetch origin main && git rebase origin/main && git push origin HEAD:main && exit 0
-            git rebase --abort 2>/dev/null || true
-            sleep 10
+          # Igual que feeds-generico.yml: si otro workflow ha escrito antes, traer sus cambios y reintentar
+          for intento in 1 2 3 4 5; do
+            git push origin HEAD:main && exit 0
+            echo "Push rechazado (intento $intento). Trayendo cambios recientes y reintentando..."
+            git pull --rebase -X theirs origin main || { git rebase --abort || true; }
+            sleep $((intento * 5))
           done
+          echo "::error title=No se pudo guardar sitemaps::El push a GitHub fallo 5 veces seguidas."
           exit 1
