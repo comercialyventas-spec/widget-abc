@@ -148,9 +148,12 @@ jobs:
           }
 
           (async () => {
-            const problemas = [], bien = [], relanzados = [];
+            const problemas = [], bien = [], relanzados = [], ignorados = [];
             for (const [archivo, nombre, horas, horasRelanzar] of VIGILAR) {
               try {
+                // Desactivado a mano en GitHub (p. ej. producto-basycojerez desde el 09/10): ni se relanza ni da alarma.
+                // Al reactivarlo vuelve a vigilarse solo, sin tocar la lista.
+                if ((await api(`/actions/workflows/${archivo}`)).state === 'disabled_manually') { ignorados.push(nombre); continue; }
                 const d = await api(`/actions/workflows/${archivo}/runs?per_page=10&status=completed`);
                 const runs = (d.workflow_runs || []).filter((r) => r.conclusion !== 'cancelled' && r.conclusion !== 'skipped');
                 const ultimo = runs[0];
@@ -198,6 +201,7 @@ jobs:
                 problemas.push(`${nombre}: no se pudo consultar su último commit (${e.message})`);
               }
             }
+            if (ignorados.length) console.log('::notice title=Ignorados (desactivados a mano)::' + ignorados.join(' ### '));
             if (relanzados.length) console.log('::notice title=Relanzados por atraso::' + relanzados.join(' ### '));
             if (bien.length) console.log('::notice title=Funcionan bien::' + bien.join(' ### '));
             const nivel = SOLO_RELANZAR ? 'warning' : 'error';
