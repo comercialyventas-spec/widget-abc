@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Garamendi conforma su equipo: Sánchez Llibre recupera relaciones con las Cortes y Lorenzo Amor asume Seguridad Social",
-      "link": "https://www.abc.es/economia/garamendi-conforma-equipo-sanchez-llibre-recupera-relaciones-20261021104601-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/21/1483494344-Rg1BfhUPkIwOekbo5ifkG5L-1200x840@diario_abc.JPG"
-    },
-    {
       "titulo": "Vivas e Imbroda proclaman la defensa de la españolidad de Ceuta y Melilla en ABC",
       "link": "https://www.abc.es/espana/vivas-imbroda-foro-abc-marruecos-quiere-dependamos-20261021112413-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/21/foroabc%20(2)-kTkH-U302347342048zG-1200x840@diario_abc.JPG"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/21/foroabc%20(2)-kTkH-U302347342048zG-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los dos Juanes de España",
+      "link": "https://www.abc.es/espana/dos-juanes-espana-20261021145129-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/21/brazo-kMfF-U302353023810boD-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Putin, «listo» para hablar de nuevo con Washington y Kiev, mientras Zelenski se abre a «congelar» el frente",
+      "link": "https://www.abc.es/internacional/kremlin-dispuesto-reanudar-conversaciones-estados-unidos-ucrania-20261021155228-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/21/1518872384-kFCE-U302354217692KBD-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cargas policiales y disturbios en el acto de Abascal en La Coruña: «Han acudido en auxilio de Pedro Sánchez, de su mafia, de su corrupción»",
+      "link": "https://www.abc.es/espana/galicia/cargas-policiales-acto-abascal-coruna-coaccion-violenta-20261021132324-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/21/palos-U20609936686yHD-U302349822691Pw-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "De los 57.000 euros de Puertollano al casi millón de euros en Calvià: el precio medio de la vivienda en España",
       "link": "https://www.abc.es/economia/57000-euros-puertollano-millon-euros-calvia-precio-20261021133028-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/21/pisos-kHoE-U302348927930tVE-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/21/pisos-kHoE-U302348927930tVE-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "Georgina Rodríguez y la eterna reinvención del lujo: o cómo convertir un rosario de siete millones en un accesorio deportivo",
-      "link": "https://www.abc.es/gente/georgina-rodriguez-eterna-reinvencion-lujo-convertir-rosario-20261021143817-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/10/21/georgina-rosario-R2qoJAgh9K6IBnDQVbja5rL-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Archivada la denuncia contra el alcalde por el robo del Tesoro de Villena",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/alicante/archivada-denuncia-alcalde-robo-tesoro-villena-20261021143229-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/21/tesoro-villena-RY46KXTC7DSWNexAfvcAZzN-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "La juez pide a Defensa un informe sobre las entradas de buques de guerra marroquíes en Ceuta",
-      "link": "https://www.abc.es/espana/juez-pide-defensa-informe-sobre-entradas-buques-20261021143147-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/21/Royal_Moroccan_Navy_frigate_Mohammed_VI_(701)_underway_in_the_Atlantic_Ocean_on_25_April_2018_(180425-N-GC347-1193)-k22-U302352009302Q8-1200x840@diario_abc.jpg"
+      "titulo": "La realeza se viste de gala: las tiaras de Victoria de Suecia, Kate Middleton y Mary de Dinamarca",
+      "link": "https://www.abc.es/estilo/moda/realeza-europea-viste-gala-tiaras-kate-middleton-20261021111029-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/estilo/2026/10/21/joyas-reales-europeas-R3ni04ObO8u5MoidJKPlq5O-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }

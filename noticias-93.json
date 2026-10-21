@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "La UB y Novo impulsan una nueva forma de abordar la obesidad centrada en la persona",
+      "link": "https://www.lavanguardia.com/launi/20261009/11655076/ub-novo-impulsan-nueva-forma-abordar-obesidad-centrada-persona.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_220/uploads/2026/09/15/6aa92e3c6f570.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "En marcha nuevos asistentes de inteligencia artificial para facilitar las consultas y trámites en la UPC",
       "link": "https://www.lavanguardia.com/launi/20261014/11658514/upc-pone-marcha-nuevo-chatbot-sobre-registro-electronico-e-identidad-digital.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_220/uploads/2026/10/14/6acf3f623c048.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/uploads/2026/10/14/6acf3f623c048.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Investigadores de la UB revelan la importancia de las redes descentralizadas en las primeras sociedades urbanas",
+      "link": "https://www.lavanguardia.com/launi/20261019/11662399/investigadores-ub-revelan-importancia-redes-descentralizadas-primeras-sociedades-urbanas.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/uploads/2026/07/08/6a4e35bbc4eff.jpeg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Las universidades catalanas abren el curso con la financiación, la IA y el catalán entre sus grandes retos",
       "link": "https://www.lavanguardia.com/launi/20261005/11651111/universidades-catalanas-abren-curso-financiacion-ia-catalan-grandes-retos.html",
       "imagen": "https://www.lavanguardia.com/files/image_449_464/uploads/2026/10/05/6ac36288118d3.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La UPC, finalista en los QS Reimagine Education Awards con tres proyectos de innovación docente",
-      "link": "https://www.lavanguardia.com/launi/20260929/11646556/upc-finalista-qs-reimagine-education-awards-2026-tres-proyectos-innovacion-docente.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/uploads/2026/09/29/6abb863268948.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una amenaza climática oculta bajo el hielo de la Antártida oriental",
-      "link": "https://www.lavanguardia.com/launi/20261001/11648109/amenaza-climatica-oculta-hielo-antartida-oriental.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/06/15/6a2fd57f61522.r_d.1711-1306.jpeg",
       "tipo": "imagen"
     }
   ]

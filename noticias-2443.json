@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Madrid estrena las máquinas de Metro donde se puede hacer una videollamada para asistencia",
+      "link": "https://www.diariocritico.com/madrid/estrena-maquinas-metro-videollamada-asistencia",
+      "imagen": "https://www.diariocritico.com/fotos/1/em_metro_peinetas_finales_7680x5120_8EB3864E01.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Más controles para los aparcamientos de residentes en Madrid con lectura de matrículas",
       "link": "https://www.diariocritico.com/madrid/mas-controles-para-los-aparcamientos-de-residentes",
       "imagen": "https://www.diariocritico.com/fotos/1/aparcamientos-de-residentes.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Cortes en la C-5 de Cercanías Madrid: horarios, fechas de las obras en Atocha y transbordos",
       "link": "https://www.diariocritico.com/madrid/cortes-en-la-c-5-de-cercanias-atocha-y-transbordos",
       "imagen": "https://www.diariocritico.com/fotos/1/385310_cercanias-2-1.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un accidente pirotécnico en las fiestas de Fuenlabrada deja varios heridos en el hospital",
-      "link": "https://www.diariocritico.com/sucesos/accidente-pirotecnia-fuenlabrada-heridos-hospital",
-      "imagen": "https://www.diariocritico.com/fotos/1/385273_sede-del-ayuntamiento-de-fuenlabrada.jpg",
       "tipo": "imagen"
     }
   ]

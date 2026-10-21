@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El mundo pierde la batalla de los 1,5ºC",
+      "link": "https://www.lavanguardia.com/opinion/20261021/11664003/mundo-pierde-batalla-1-5oc.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Sagrada Família vista desde el Poble Espanyol",
       "link": "https://www.lavanguardia.com/opinion/20261021/11664092/sagrada-familia-vista-poble-espanyol.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/21/6ad7ef91ced2f.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Estallido del descontento",
       "link": "https://www.lavanguardia.com/opinion/20261021/11663599/estallido-descontento.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/20/6ad79c2d73f99.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La atracción de los radicales",
-      "link": "https://www.lavanguardia.com/opinion/20261021/11663589/atraccion-radicales.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/02/22/67b907ca74309.r_d.1491-885-0.jpeg",
       "tipo": "imagen"
     }
   ]

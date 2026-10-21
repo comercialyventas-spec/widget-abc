@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La tostada de desayuno más grande de Andalucía cuesta 3,50 euros",
+      "link": "https://www.telecinco.es/gastronomia/restaurantes/20261021/tostada-desayuno-mas-grande-andalucia_18_020374357.html",
+      "imagen": "https://album.mediaset.es/eimg/2026/10/07/la-venta-salas-en-algodonales_d11b.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El restaurante de la guía Michelin donde puedes comer por solo 25 euros",
       "link": "https://www.telecinco.es/gastronomia/restaurantes/20261020/unico-restaurante-michelin-puedes-comer-25-euros_18_020372700.html",
       "imagen": "https://album.mediaset.es/eimg/2026/10/20/pacto-raiz_befe.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Lume: comer en la mitad del cielo",
       "link": "https://www.telecinco.es/gastronomia/restaurantes/20261016/lume-comer-mitad-cielo_18_020450884.html",
       "imagen": "https://album.mediaset.es/eimg/2026/10/16/almejas-con-curry-en-lume_b61f.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los bares y restaurantes favoritos de Guitarricadelafuente en Barcelona: \"Recomiendo la butifarra\"",
-      "link": "https://www.telecinco.es/gastronomia/restaurantes/20261016/bares-favoritos-guitarricadelafuente-barcelona-butifarra_18_020446035.html",
-      "imagen": "https://album.mediaset.es/eimg/2026/10/16/guitarritadelafuente_90c9.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en directo, en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-10-21/el-pulso-de-hoy-por-hoy-en-el-pais.html",
+      "imagen": "https://www.youtube.com/watch?v=edgtMJBYFm4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Motivos y consecuencias de un pacto entre PP y Vox sobre las listas electorales del Senado",
       "link": "https://elpais.com/videos/2026-10-21/motivos-y-consecuencias-de-un-pacto-entre-pp-y-vox-sobre-las-listas-electorales-del-senado.html",
       "imagen": "https://vdmedia.elpais.com/elpaistop/multimedia/202610/20/1227758.mp4",
@@ -25,15 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en directo, en EL PAÍS",
+      "titulo": "‘El Pulso’ de ‘Hoy por Hoy’| Programa del 20 de octubre de 2026",
       "link": "https://elpais.com/videos/2026-10-20/el-pulso-de-hoy-por-hoy-en-el-pais.html",
       "imagen": "https://www.youtube.com/watch?v=ACfE_LOmSjc",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "En la biblioteca de Jacobo Bergareche: “Con las cartas de amor adolescente uno aprende a manipular emocionalmente”",
-      "link": "https://elpais.com/videos/2026-10-20/en-la-biblioteca-de-jacobo-bergareche-con-las-cartas-de-amor-adolescente-uno-aprende-a-manipular-emocionalmente.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260922/1216891_100316_video_1800.mp4",
       "tipo": "imagen"
     }
   ]
