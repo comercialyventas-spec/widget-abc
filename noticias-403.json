@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Por qué son tan malos los textos explicativos que ves en los cuadros de los museos",
+      "link": "https://www.elconfidencial.com/el-grito/2026-10-21/por-que-malos-textos-explicativos-cuadros-museos_4448884/",
+      "imagen": "https://images.ecestaticos.com/EuEn0VUAl7GmPatSiLZzLm2h68s=/0x0:1444x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F8c0%2Fa90%2Ffa4%2F8c0a90fa467798c0f03c3b72914547d9.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El hermano equivocado de la familia Madrazo",
+      "link": "https://www.elconfidencial.com/el-grito/2026-10-21/hermano-equivocado-familia-madrazo_4448895/",
+      "imagen": "https://images.ecestaticos.com/M3WLu4k4Afirf7bcVHrjranKthI=/0x0:960x1158/746x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F96e%2F269%2Fc10%2F96e269c1047673986177083727a3c2c4.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ni fotos, ni recuerdos, ni Gioconda: bienvenidos al Louvre que no sale en los folletos",
       "link": "https://www.elconfidencial.com/el-grito/2026-10-20/ni-fotos-ni-recuerdos-ni-gioconda-bienvenidos-al-louvre-que-no-sale-en-los-folletos_4448742/",
       "imagen": "https://images.ecestaticos.com/B9EPbLC8G7-HlSUDombgcdAf6-o=/0x0:1658x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F772%2F45c%2F2aa%2F77245c2aa02fe0187558690aa678c241.jpg",
@@ -22,18 +34,6 @@
       "titulo": "La Bluewave Alliance y Studio 46 presentan la exposición 'El mar recuerda', que reivindica el Mediterráneo como un archivo vivo",
       "link": "https://www.elconfidencial.com/cultura/2026-10-13/mar-recuerda-exposicion-mediterraneo-1hms-1svm_4443976/",
       "imagen": "https://images.ecestaticos.com/xrB7xrT-VVA1Ii0925xZNmR68ds=/0x0:1200x800/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc32%2F4ad%2Fdc6%2Fc324addc6b058555a5bc476a5440835a.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "De un beso en París a las cicatrices de Warhol: 200 años de historia de la fotografía en 700 imágenes",
-      "link": "https://www.elconfidencial.com/cultura/2026-10-13/coleccion-pinault-200-anos-fotografia-700-obras-bourse-de-commerce_4441943/",
-      "imagen": "https://images.ecestaticos.com/6o7-ika2RvKGOXJYh0uqE9jHXZM=/0x0:720x361/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe36%2Fa14%2F121%2Fe36a141212465af86161878ac138a46b.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Esta cronología histórica afirma que el arte generativo comenzó en una cueva hace 73.000 años",
-      "link": "https://www.elconfidencial.com/tecnologia/novaceno/2026-10-13/l-arte-generativo-comenzo-en-una-cueva-hace-73-000-anos_4442057/",
-      "imagen": "https://images.ecestaticos.com/HAk3IktnAnJty_zGpDO7uORy6ao=/0x0:1800x1350/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4f1%2F73e%2F848%2F4f173e848d7ebc7879c3617d42721d54.jpg",
       "tipo": "imagen"
     }
   ]

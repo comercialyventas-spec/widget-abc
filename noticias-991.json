@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Prompt: el negocio de saber hablar con la IA",
+      "link": "https://emprendedores.es/inteligencia-artificial/prompt-ia/",
+      "imagen": "https://wp.emprendedores.es/wp-content/uploads/Javi-Manzano1-copia.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El talento que convierte los retos en oportunidades",
       "link": "https://emprendedores.es/ayudas/discapacidad/congreso-nacional-emprendimiento-discapacidad-2026/",
       "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/congreso-personas-discapacidad-1024x683.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Plan de negocio de un local de consigna de equipajes",
       "link": "https://emprendedores.es/gestion/planes-de-negocio/plan-de-negocio-de-un-local-de-consigna-de-equipajes/",
       "imagen": "https://wp.emprendedores.es/wp-content/uploads/2026/03/Plan-de-negocio-equipajes-3.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Por qué tu mejor empleado no quiere ser jefe (y qué cambiar para que acepte)",
-      "link": "https://emprendedores.es/gestion/empleado-no-quiere-ser-jefe/",
-      "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/nacho-barraquer-1024x683.jpg",
       "tipo": "imagen"
     }
   ]

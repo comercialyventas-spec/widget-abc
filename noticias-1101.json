@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Pódcast | Sí, tu banco está usando IA a diario, pero eso no es una mala noticia: estas son sus ventajas",
+      "link": "https://www.elconfidencial.com/empresas/2026-10-21/inteligencia-artificial-sector-bancario-bra_4389326/",
+      "imagen": "https://images.ecestaticos.com/xcN1uqKVIaZLQo9iMBt9tzCEde8=/0x0:1200x800/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F8f7%2F362%2Fca8%2F8f7362ca88ae8066457091cc134ce8d7.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Vender no siempre es cobrar a tiempo: más de la mitad de los pagos empresariales llegan tarde",
+      "link": "https://www.elconfidencial.com/empresas/2026-10-21/vender-cobrar-impagos-tarde-bra_4436877/",
+      "imagen": "https://images.ecestaticos.com/RxsJv2mpUzkVNnO6OuHfti5tEmM=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F57f%2Fdf8%2F88e%2F57fdf888eb3f069f863277465e646668.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Nace la Cátedra USC-Lactalis España para abordar los retos de la ganadería",
+      "link": "https://www.elconfidencial.com/empresas/2026-10-21/catedra-usc-lactalis-retos-ganaderia-bra_4435150/",
+      "imagen": "https://images.ecestaticos.com/qfpbd984te4fwPeMnj8R6cytF-4=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe9e%2F07c%2F76a%2Fe9e07c76a0e867cf89ae0d3bde69e597.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "DBRS eleva a 'AA (bajo)' el rating de BBVA, con perspectiva 'estable'",
       "link": "https://www.elconfidencial.com/empresas/2026-10-20/dbrs-mejora-rating-de-bbva_4449368/",
       "imagen": "https://images.ecestaticos.com/0laKuZd6pARD5DoW-ZCaoJ7bHO8=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F34f%2F3d1%2Fbde%2F34f3d1bde647c3ed40fc4f4179dbfbce.jpg",
@@ -16,24 +34,6 @@
       "titulo": "El World Infrastructure Forum reunirá en Madrid a más de 350 líderes de más de 30 países y ya cuenta con más de 50 ponentes confirmados",
       "link": "https://www.elconfidencial.com/empresas/2026-10-20/world-infrastructure-forum-cumbre-infraestructuras-1hms-1svm_4448964/",
       "imagen": "https://images.ecestaticos.com/gK6UeR10-W21fApk1sx16m1xUpk=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fff0%2F162%2F078%2Fff0162078fb4579f60e57baabb21d583.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las aseguradoras ganan peso como socios estratégicos del sector energético",
-      "link": "https://www.elconfidencial.com/empresas/2026-10-20/alianzas-energeticas-aseguradoras-1hms-1svm_4448960/",
-      "imagen": "https://images.ecestaticos.com/Upkoy8abcgXJILVY4RgtFDPggm4=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F5d9%2F8af%2Fa32%2F5d98afa32bfb58570f2bd4c635bd7923.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Uber renueva su acuerdo con el Museo Nacional Thyssen-Bornemisza para ofrecer acceso gratuito los sábados por la noche",
-      "link": "https://www.elconfidencial.com/empresas/2026-10-20/noches-thyssen-uber-museo-madrid-1hms-1svm_4448959/",
-      "imagen": "https://images.ecestaticos.com/OCDpH8nsEn6wFSRFB0w0aUmsNpQ=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F317%2Fb4c%2Fb57%2F317b4cb5797eb843f29034afa76deda2.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "ISDIN se sitúa entre las 25 mejores empresas para trabajar en España y entra en el top 3 del sector farmacéutico",
-      "link": "https://www.elconfidencial.com/empresas/2026-10-20/isdin-mejores-empresas-trabajar-espana-1hms-1svm_4448958/",
-      "imagen": "https://images.ecestaticos.com/IQETlHnE96rod_9quwhQtczPetQ=/0x0:1200x800/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F469%2F4be%2F4ae%2F4694be4aea121457aa6d24f4d8029a4f.jpg",
       "tipo": "imagen"
     }
   ]

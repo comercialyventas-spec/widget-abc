@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "El ‘yogur del rey’ que se saborea en una república del Himalaya",
+      "link": "https://elpais.com/gastronomia/2026-10-21/el-yogur-del-rey-que-se-saborea-en-una-republica-del-himalaya.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/MY6ZXEQ6QJD3ZHWJIZR5VNQSHY.JPG?auth=b12a61fe1bd26c427e632dabd3ffa95793ade16f5279aea5d64e8441b031193f",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "‘Frit de xai’, el guiso mallorquín perfecto para recibir el fresquito",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-21/frit-de-xai-el-guiso-mallorquin-perfecto-para-recibir-el-fresquito.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/DWCPTH7JAFHIBJLWQSX5GIVX24.jpg?auth=f59bc871d455578ad8844795991804a66c6ee08fe92eb0b1db9cff2c39088109",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "‘Taps’ de Cadaqués, el futuro incierto de unos pasteles míticos",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-21/taps-de-cadaques-el-futuro-incierto-de-unos-pasteles-miticos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VETSLDDPGFAPHCTLXMOUEP256Y.jpg?auth=8e92dbf8d3f2e550fd01ceb73025bf9e20d8c2ea67c6ddec0a1f1c6e169beb48",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Sisón, el obrador asturiano que elabora panes de trigos antiguos: “La gente mayor nos dice que hacía mucho que no comían un pan así”",
+      "link": "https://elpais.com/gastronomia/2026-10-21/sison-el-obrador-asturiano-que-elabora-panes-de-trigos-antiguos-la-gente-mayor-nos-dice-que-hacia-mucho-que-no-comian-un-pan-asi.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/6JJCEXMXNNBKNJHDOJQABYWZNY.jpg?auth=2e505fc62a5a370985a2315c1ecabb4762bdd03e50e1630166eb8238ad04ecd2",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Buyiurdi, la receta griega de tomate con queso fundido para untar",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-10-20/buyiurdi-la-receta-griega-de-tomate-con-queso-fundido-para-untar.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20261013/1224871_155630_video_1800.mp4",
@@ -10,30 +34,6 @@
       "titulo": "La obsesión del Studio Ghibli por la comida: preparar y probar cada bocado antes de dibujarlo",
       "link": "https://elpais.com/gastronomia/2026-10-20/la-obsesion-del-studio-ghibli-por-la-comida-preparar-y-probar-cada-bocado-antes-de-dibujarlo.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/MP2YZWEKHFFUJARGGARMZWNNL4.jpg?auth=347b3511377b3affb994399d7c58b8647c7ad98bc7b9a679f8f6c93da9b52f48",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Casa Habibi: el delicioso hummus que se esconde en el distrito financiero de Madrid",
-      "link": "https://elpais.com/gastronomia/2026-10-20/casa-habibi-el-delicioso-hummus-que-se-esconde-en-el-distrito-financiero-de-madrid.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/UJIYRLZSNVC5BMXTY4FKJOA4TU.JPG?auth=53905821f5cdb7edaffe9ebf6b7a3782b962ef6cb0daa90586dd234fe6c1e717",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Lentejas con tomate y queso de cabra",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-19/lentejas-con-tomate-y-queso-de-cabra.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/VNX4ZMP23BGLJIBPX33NGIFHLM.jpg?auth=f54130d1bcefa10e275f1c8d007473b3f950ac22e5df5938a51d19367d5952a9",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Hay una receta en tu buzón: el auge de los clubs de correspondencia dedicados a la cocina",
-      "link": "https://elpais.com/gastronomia/2026-10-19/hay-una-receta-en-tu-buzon-el-auge-de-los-clubs-de-correspondencia-dedicados-a-la-cocina.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/Z2RAE6UU55CGJFE6BXLU525NSY.jpg?auth=bf76d242d5bfe5b3bc20b32f6f7fb8ceecb4868d0b4f22c9dba3cf2b2f260118",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Javier Rufo, barman del Cock: “Algunos clientes han dejado de beber porque han bebido mucho”",
-      "link": "https://elpais.com/gastronomia/2026-10-19/javier-rufo-barman-del-cock-algunos-clientes-han-dejado-de-beber-porque-han-bebido-mucho.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/KJMTOFNBH5E75BJ6Q6JIAI2JCI.jpg?auth=fbf35b4b0428b03a4c80c3b89de767b013290edeadf7c0eb8cfd2700cff5b7ba",
       "tipo": "imagen"
     }
   ]

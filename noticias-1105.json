@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Claude ayuda a resolver un enigma que traía de cabeza a los mejores matemáticos desde hacía 87 años",
+      "link": "https://www.elconfidencial.com/tecnologia/2026-10-21/claude-resuelve-enigma-matematicas-87-anos-1qrt_4414526/",
+      "imagen": "https://images.ecestaticos.com/MtA5qI-8gAY8UqCKn8hgVPPQ2ek=/0x0:2272x1704/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F9ec%2Fb0a%2F8e0%2F9ecb0a8e01b169c18adbf0b9fa43cbf9.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Este dron quiere jubilar al globo meteorológico y revolucionar el pronóstico del tiempo",
+      "link": "https://www.elconfidencial.com/tecnologia/novaceno/2026-10-21/dron-jubilar-globo-meteorologico-revolucionar-pronostico-tiempo_4449203/",
+      "imagen": "https://images.ecestaticos.com/htMW6jNJHff55-FHQbb2wklXIdo=/0x0:1920x1280/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fdc2%2F69a%2F5b7%2Fdc269a5b7ba3c5946f57800ecdba5bdc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El verdadero coste de la inteligencia artificial: ¿es rentable para las empresas?",
+      "link": "https://www.elconfidencial.com/tecnologia/2026-10-21/inteligencia-artificial-rentable-empresas-costes-1hms-bra_4448071/",
+      "imagen": "https://images.ecestaticos.com/0PWSxxDq1q9U2GdFsj-6Upd5T4k=/0x0:1920x1280/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc54%2Fcc6%2F409%2Fc54cc64098cee811fd37d48e256f5242.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "EEUU quiere lanzar agentes secretos de IA que se infiltren en redes enemigas y se autoborren",
       "link": "https://www.elconfidencial.com/tecnologia/novaceno/2026-10-20/eeuu-guerra-cibernetica-inteligencia-artificial-espionaje_4449264/",
       "imagen": "https://images.ecestaticos.com/2EqPiXxccEJ-v9B1uiuOqT1oLwo=/0x0:2272x1503/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4cd%2F9b7%2F796%2F4cd9b7796859adf02e1b62f3a6f7a705.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Jeff Bezos, 62 años: \"No necesitamos que haya gente viviendo en el espacio, pero en las próximas dos décadas habrá millones de personas\"",
       "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-20/jeff-bezos-vivir-espacio-millones-personas-1qrt_4448190/",
       "imagen": "https://images.ecestaticos.com/aWWFQj9TwzE-Tx53A4PHC2HKhiI=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fcfb%2F98d%2Fa76%2Fcfb98da76bfc8e7f35aa4fbd2e694b65.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sam Altman explica los tres finales posibles de la carrera de la IA, incluyendo uno \"terrible\"",
-      "link": "https://www.elconfidencial.com/tecnologia/novaceno/2026-10-20/altman-explica-tres-finales-posibles-carrera-ia_4449075/",
-      "imagen": "https://images.ecestaticos.com/f4Ks1G-ujjTYshLhYHxdsliO3gE=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff61%2Fc77%2Fd19%2Ff61c77d19710f8035359be88b9df61dd.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "EEUU planea llenar Europa de globos estratosféricos armados con drones si se recrudece la guerra: “Serían 200 o 300”",
-      "link": "https://www.elconfidencial.com/tecnologia/novaceno/2026-10-20/eeuu-europa-guerra-otan-globos-lanzamiento-drones_4448865/",
-      "imagen": "https://images.ecestaticos.com/N9aVkIBjuZJGjuMZuqFVZEhMSGA=/0x0:1536x865/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F464%2F051%2F43b%2F46405143bb51576c1a8f79ef768c2e9f.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Europa mira a Marruecos desde el espacio y observa cómo una mancha roja se extiende",
-      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-20/esa-marruecos-espacio-mancha-roja-crece-1qrt_4367446/",
-      "imagen": "https://images.ecestaticos.com/ZzqMZHgaz9kkNCM9Q9EaKmx5jOY=/0x0:1672x1002/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa00%2Ff6a%2F595%2Fa00f6a595f7bfb1e850ee9871bbce33f.jpg",
       "tipo": "imagen"
     }
   ]

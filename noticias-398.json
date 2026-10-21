@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La microalga que ha revolucionado la neurociencia: la conexión española del Nobel de Medicina",
+      "link": "https://www.elconfidencial.com/salud/2026-10-21/la-microalga-revoluciona-la-neurociencia-la-conexion-espanola-del-nobel_4449055/",
+      "imagen": "https://images.ecestaticos.com/0aDiGpGfbDDqbQ6uG71_8qpiz7c=/0x0:1200x675/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F42e%2F869%2F1a5%2F42e8691a52a7fc60155f865cd78b170c.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El hipo no siempre es inofensivo: cuándo puede ser síntoma de una enfermedad grave",
+      "link": "https://www.elconfidencial.com/salud/2026-10-21/hipo-persistente-causas-enfermedades-tratamiento_4386308/",
+      "imagen": "https://images.ecestaticos.com/U0HB-je4jGQ5yIANHMsdp2q2VoU=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2af%2Ff9a%2F61b%2F2aff9a61b35514ec04866d96137e2656.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sociedades oncológicas piden que se reduzca la burocracia en los ensayos clínicos",
       "link": "https://www.elconfidencial.com/salud/2026-10-20/ensayos-clinicos-reduccion-burocracia-1tps_4449105/",
       "imagen": "https://images.ecestaticos.com/8sqmLgvmxHsAJhXNmCRV3G0T3jU=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F6d4%2F9aa%2Fd40%2F6d49aad401a15f104815bce842fcf989.jpg",
@@ -19,21 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Javier Quintero, psiquiatra: \"Sentir ansiedad forma parte de la vida\"",
-      "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-20/javier-quintero-psiquiatra-sentir-ansiedad-forma-parte-vida-1qrt_4449077/",
-      "imagen": "https://images.ecestaticos.com/7v5DLDpNdjVzCWQfgwxzOYFXWEw=/0x90:609x433/0x900/filters:format(png)/f.elconfidencial.com%2Foriginal%2Fb63%2Fdb2%2Fbe8%2Fb63db2be8a681d80cdc2214b7c4bac0a.png",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Una de cada cinco personas que intenta suicidarse lo reintenta en los 12 meses siguientes",
       "link": "https://www.elconfidencial.com/salud/2026-10-20/riesgo-reintento-suicida-estudio-survive-1tps_4449030/",
       "imagen": "https://images.ecestaticos.com/BK48Vd30B0yxoHpGOSK-D7u6waY=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F6e4%2F099%2F4d1%2F6e40994d1d8f3ebe32df0b1958fb9b65.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Silvio Garattini, oncólogo (97 años): \"Lo que importa es comer poco, incluso si lo hago cinco veces al día; lo que importa es el total\"",
-      "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-20/silvio-grattini-oncologo-comer-poco_4398299/",
-      "imagen": "https://images.ecestaticos.com/lUxhBwhKB7__aEmKZTH72CtELHo=/0x0:1000x750/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F672%2F7d2%2F416%2F6727d2416a9396ccfc8e484b84abefd0.jpg",
       "tipo": "imagen"
     }
   ]
