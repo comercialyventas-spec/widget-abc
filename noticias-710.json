@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El pozo sin fondo de la IA: Anthropic prepara su salida a bolsa con 80.000 millones en pérdidas",
+      "link": "https://www.eldiario.es/tecnologia/pozo-fondo-ia-anthropic-prepara-salida-bolsa-80-000-millones-perdidas_1_13602325.html",
+      "imagen": "https://static.eldiario.es/clip/179ba016-ff67-4bbf-9b37-00cc3e616af7_facebook-aspect-ratio-1200-675_default_0_x1027y320.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Elon Musk estudia la fusión de SpaceX y Tesla en un gigante tecnológico de 3,5 billones de dólares",
+      "link": "https://www.eldiario.es/tecnologia/elon-musk-estudia-fusion-spacex-tesla-gigante-tecnologico-3-5-billones-dolares_1_13602071.html",
+      "imagen": "https://static.eldiario.es/clip/79640d3f-d3d5-4d26-9ccc-f0b4ece43e7f_facebook-aspect-ratio-1200-675_default_0_x945y659.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un fallo eléctrico de Google Cloud en Londres deja sin servicio a Revolut en toda Europa",
       "link": "https://www.eldiario.es/tecnologia/caida-google-cloud-londres-deja-servicio-revolut-afecta-banca-empresas-britanicas_1_13599838.html",
       "imagen": "https://static.eldiario.es/clip/50fc65ba-6e3b-47b2-8f26-6f06f53d4b80_facebook-aspect-ratio-1200-675_default_0_x766y728.jpg",
@@ -22,18 +34,6 @@
       "titulo": "“Puede colapsar las defensas”: dentro de la primera línea de Policía y CNI ante los ataques con IA",
       "link": "https://www.eldiario.es/tecnologia/colapsar-defensas-primera-linea-policia-cni-ataques-ia_1_13584501.html",
       "imagen": "https://static.eldiario.es/clip/a3ba943d-e0d2-4616-bd6c-00aee678bca0_facebook-aspect-ratio-1200-675_default_0_x871y292.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Silicon Valley acapara el crédito para sus centros de datos de IA y ahoga a las empresas europeas",
-      "link": "https://www.eldiario.es/tecnologia/silicon-valley-acapara-credito-centros-datos-ia-ahoga-empresas-europeas_1_13582669.html",
-      "imagen": "https://static.eldiario.es/clip/3ac26e26-0c70-49bc-ae34-972c023011f1_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cuatro años de cola para comprar máquinas de chips: la fiebre de la IA desborda al gigante europeo ASML",
-      "link": "https://www.eldiario.es/tecnologia/cuatro-anos-cola-comprar-maquinas-chips-fiebre-ia-desborda-gigante-europeo-asml_1_13583869.html",
-      "imagen": "https://static.eldiario.es/clip/d08327f3-b06f-43e1-8d37-ef926eb56ae9_facebook-aspect-ratio-1200-675_default_0.jpg",
       "tipo": "imagen"
     }
   ]
