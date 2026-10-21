@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Alerta mundial por dos fallos críticos en PHP: qué riesgos afrontan millones de servidores web",
+      "link": "https://www.rtve.es/noticias/20261022/fallos-criticos-php2shell-vulnerabilidades-servidores-alerta-ciberseguridad/17277748.shtml",
+      "imagen": "https://img.rtve.es/imagenes/fallos-criticos-php2shell-vulnerabilidades-servidores-alerta-ciberseguridad/01792622323184.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La ONU alerta de un Niño que podría situarse \"literalmente fuera de las escalas de seguimiento\"",
       "link": "https://www.rtve.es/noticias/20261021/onu-alerta-nino-sin-precedentes-con-temperaturas-hasta-38-grados-superiores/17276667.shtml",
       "imagen": "https://img.rtve.es/imagenes/onu-alerta-nino-sin-precedentes-con-temperaturas-hasta-38-grados-superiores/01792584299238.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Anthropic y SpaceX prometen donaciones millonarias para paliar el efecto negativo de la inteligencia artificial",
       "link": "https://www.rtve.es/noticias/20261020/anthropic-spacex-donaciones-millonarias-inteligencia-artificial/17274095.shtml",
       "imagen": "https://img.rtve.es/imagenes/anthropic-spacex-donaciones-millonarias-inteligencia-artificial/01792458370579.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Del brazo a la muñeca, el reloj inteligente que se infla para detectar la hipertensión",
-      "link": "https://www.rtve.es/noticias/20261018/reloj-inteligente-detectar-hipertension-salud-tecnologia/17270568.shtml",
-      "imagen": "https://img.rtve.es/imagenes/reloj-inteligente-detectar-hipertension-salud-tecnologia/01792166210485.jpg",
       "tipo": "imagen"
     }
   ]
