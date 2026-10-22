@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La democracia que sueño",
+      "link": "https://www.abc.es/cultura/cultural/maria-corina-machado-libertad-garantizada-dispuestos-luchar-20261022130555-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/22/maria-corina-machado-Rq9hoIORd5TshryUEY8zXgP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Chonín Navarro: con telares de horizontes",
       "link": "https://www.abc.es/cultura/cultural/chonin-navarro-telares-horizontes-20261022101751-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/15/Chonin%20Navarro_Tejer%20el%20vacio_Fotografia_Claudia%20Ihrek-RXPSNpALuXjh73YRGisKt0I-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Nepobabies S.A.: el negocio de los hijos de Hollywood",
       "link": "https://www.abc.es/cultura/cultural/nepobabies-negocio-hijos-hollywood-20261022101413-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/20/the-shards-RSoYC7hZn2gVYkOccVGhYhN-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cristina Garrido o el valor del empeño curatorial",
-      "link": "https://www.abc.es/cultura/cultural/critina-garrido-valor-empeno-curatorial-20261021203838-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/22/LCE26_PiedraDeToque_CristinaGarrido_PRENSA_02-Raeqt7cKCsPYTakccO6aQLM-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

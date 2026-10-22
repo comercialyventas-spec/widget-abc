@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Millones de intentos de hackeos después de que se descubriera un fallo de seguridad en el lenguaje PHP de las webs",
+      "link": "https://www.abc.es/sociedad/millones-intentos-hackeos-despues-descubriera-fallo-seguridad-20261022155923-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/10/22/1519128291-kxF-U302374696420PAE-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Muere en Francia una persona con el virus shamonda, que hasta ahora solo se había detectado en animales",
+      "link": "https://www.abc.es/sociedad/francia-registra-primera-muerte-virus-shamonda-solo-20261022122215-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/10/22/laboratorio-RhDbFU78WnHC6UVlKvHqL3K-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Casi todos los arrecifes de coral se enfrentan al colapso para 2075",
+      "link": "https://www.abc.es/sociedad/arrecifes-coral-enfrentan-colapso-2075-20261022144110-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/10/22/arrecife-ok-RFRmVLBrz8PtAvqwzgUSfYN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La ONU reconoce que el objetivo climático de 1,5ºC está obsoleto y fija de nuevo tope 1,8º",
+      "link": "https://www.abc.es/sociedad/onu-supera-objetivo-climatico-centrarse-grados-20261021083103-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/10/21/incendios-RwTzogbEg2izltCtdenYNzK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Meta se enfrenta a una demanda colectiva en Australia por el diseño adictivo de sus redes sociales en menores",
       "link": "https://www.abc.es/sociedad/meta-enfrenta-demanda-colectiva-australia-diseno-adictivo-20261022083806-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/10/22/meta-kbd-U3023666556067aG-1200x840@diario_abc.jpg",
@@ -10,30 +34,6 @@
       "titulo": "El Vaticano confirma que el Papa no necesitará ningún tratamiento más allá de la cirugía",
       "link": "https://www.abc.es/sociedad/hospital-gemelli-confirma-papa-necesitara-ningun-tratamiento-20261021211907-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/10/21/1519077199-kElB-Rf6WkGCVj94ujgkB2PeatXI-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La muerte de un alumno en un viaje desata una rebelión docente contra las excursiones: «Hay consecuencias penales»",
-      "link": "https://www.abc.es/sociedad/muerte-alumno-viaje-desata-rebelion-docente-excursiones-20261022012727-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/10/22/1495759963-RTzSjx2joJNbX4x5cqwiCxM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El reto de acabar con la munición de plomo: «Las alternativas son un peligro para el cazador»",
-      "link": "https://www.abc.es/sociedad/reto-acabar-municion-plomo-alternativas-peligro-cazador-20261021011657-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/10/21/cazadores02-RMJPunCmE5I3S9KjS7NEu6O-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Papa mantiene en agenda su inminente viaje a América Latina, que desafía los plazos de recuperación",
-      "link": "https://www.abc.es/sociedad/papa-mantiene-agenda-inminente-viaje-america-latina-20261021211138-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/10/21/1519072344-Rj0sia1Vcphz1OxgCYXM1nL-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Supremo de EE.UU. rechaza la petición de Trump de suspender el tratamiento hormonal a presos transgénero",
-      "link": "https://www.abc.es/sociedad/supremo-eeuu-rechaza-peticion-trump-suspender-tratamiento-20261021200707-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/10/21/1519053935-kUeB-U302361214663S3D-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Europa, ¿qué te pasa?",
+      "link": "https://www.lavanguardia.com/opinion/20261022/11665491/europa-que-te-pasa.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/22/6ad9f18b7b1e8.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Vox y la piel de cordero",
       "link": "https://www.lavanguardia.com/opinion/20261022/11664920/vox-piel-cordero.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/21/6ad8e7ae07c37.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/21/6ad8e7ae07c37.r_d.1313-903-0.jpeg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "De boda en El Puig",
       "link": "https://www.lavanguardia.com/opinion/20261022/11664502/boda-puig.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/21/6ad895b00b77e.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Principios más allá de las palabras",
-      "link": "https://www.lavanguardia.com/opinion/20261022/11664501/principios-palabras.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/21/6ad8979fc0d1d.jpeg",
       "tipo": "imagen"
     }
   ]

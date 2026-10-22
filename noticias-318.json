@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La diplomática",
+      "link": "https://www.abc.es/play/series/noticias/diplomatica-20261022120605-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/22/diplomta-Rf7ox0NghW1riHKQo97jdhP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Llega a Netflix la adaptación de este bestseller de Javier Castillo: una serie protagonizada por Inma Cuesta con solo cuatro episodios",
       "link": "https://www.abc.es/play/series/noticias/llega-netflix-adaptacion-bestseller-javier-castillo-serie-20261021183757-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/21/netflix-RRPkGYtmSIYfThv1NC21gyH-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Llega a Netflix un nuevo true-crime protagonizado por Tristán Ulloa: tiene tres episodios y es de los creadores de 'El caso Asunta' y 'La viuda negra'",
       "link": "https://www.abc.es/play/series/noticias/llega-netflix-nuevo-truecrime-protagonizado-tristan-ulloa-20261019063000-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/19/crimendepazos-RoFNG9V1iVknQSXEhVaHF6O-1200x840@diario_abc.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Lena Dunham, la voz de la generación milenial se confiesa (y vuelve a 'Girls')",
-      "link": "https://www.abc.es/play/series/noticias/lena-dunham-lena-dunham-confesion-cura-enfermedad-20261016011721-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/16/dunham-girls-k3QC-U3022674792303zG-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El kéfir, un lácteo del Cáucaso adaptado a todos los gustos y rutinas",
+      "link": "https://elpais.com/gastronomia/2026-10-22/el-kefir-un-lacteo-del-caucaso-adaptado-a-todos-los-gustos-y-rutinas.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/THNFR5ILFNH5BI3OFWAAUWOM3A.jpg?auth=304f0bbfabb7985c8dc25f3ae0e8507f60917f0bcd5f60da3aeae9c5c74ef44f",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Emilio Medina, bombero forestal y horticultor de 27 años, gana el Premio Nacional de Gastronomía 2026 al Talento Joven",
+      "link": "https://elpais.com/gastronomia/2026-10-22/emilio-medina-bombero-forestal-y-horticultor-de-27-anos-gana-el-premio-nacional-de-gastronomia-2026.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/JERITX2BHBCEBLJVXMUTWJ4HNM.jpg?auth=8eea478102cd2408c423f3bbad3268e027180dab50cf1998b06e0c4621505d87",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La receta de ensalada de atún que le da una vuelta a la mixta de siempre",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-10-22/la-receta-de-ensalada-de-atun-que-le-da-una-vuelta-a-la-mixta-de-siempre.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20261013/1224875_160403_video_1800.mp4",
@@ -22,18 +34,6 @@
       "titulo": "Leonoras, las nuevas galletas en honor de la Princesa de Asturias y otros postres reales",
       "link": "https://elpais.com/gastronomia/2026-10-22/leonoras-las-nuevas-galletas-en-honor-de-la-princesa-de-asturias-y-otros-postres-reales.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/SYSIPEGFPBDADGQXQWMGNWYHPY.jpg?auth=889fc5547f3d854db62c7fdad50500f382b7c8484f64e9e33990760a5256d44c",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El ‘yogur del rey’ que se saborea en una república del Himalaya",
-      "link": "https://elpais.com/gastronomia/2026-10-21/el-yogur-del-rey-que-se-saborea-en-una-republica-del-himalaya.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/MY6ZXEQ6QJD3ZHWJIZR5VNQSHY.JPG?auth=b12a61fe1bd26c427e632dabd3ffa95793ade16f5279aea5d64e8441b031193f",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘Frit de xai’, el guiso mallorquín perfecto para recibir el fresquito",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-21/frit-de-xai-el-guiso-mallorquin-perfecto-para-recibir-el-fresquito.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/DWCPTH7JAFHIBJLWQSX5GIVX24.jpg?auth=f59bc871d455578ad8844795991804a66c6ee08fe92eb0b1db9cff2c39088109",
       "tipo": "imagen"
     }
   ]

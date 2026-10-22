@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La receta de ensalada de atún que le da una vuelta a la mixta de siempre",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-22/la-receta-de-ensalada-de-atun-que-le-da-una-vuelta-a-la-mixta-de-siempre.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20261013/1224875_160403_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cremoso de mango, coco y yogur griego",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-22/cremoso-de-mango-coco-y-yogur-griego.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/OEYJVVDWIJGYNN3GJT2YFXJNRM.JPG?auth=4abe572391c91ee9af858efa6b2ad3fe00cb0a243893aa0ee420483c29e6157b",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "‘Frit de xai’, el guiso mallorquín perfecto para recibir el fresquito",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-10-21/frit-de-xai-el-guiso-mallorquin-perfecto-para-recibir-el-fresquito.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/DWCPTH7JAFHIBJLWQSX5GIVX24.jpg?auth=f59bc871d455578ad8844795991804a66c6ee08fe92eb0b1db9cff2c39088109",
@@ -22,18 +34,6 @@
       "titulo": "Lentejas con tomate y queso de cabra",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-10-19/lentejas-con-tomate-y-queso-de-cabra.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/VNX4ZMP23BGLJIBPX33NGIFHLM.jpg?auth=f54130d1bcefa10e275f1c8d007473b3f950ac22e5df5938a51d19367d5952a9",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Menú semanal de El Comidista (19 a 25 de octubre)",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-18/menu-semanal-de-el-comidista-19-a-25-de-octubre.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/UFFRSOGK65F4FNXXIJLOBHKWPA.jpg?auth=4b30380a71ffe8aceed9f85bc79390681946abee96684ee0ab99315873a9d78f",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Pollo pochado: la receta china para conseguir una pechuga tierna y jugosa",
-      "link": "https://elpais.com/gastronomia/recetas/2026-10-17/pollo-pochado-la-receta-china-para-conseguir-una-pechuga-tierna-y-jugosa.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/EYGG7PATIRGNDFUB7UG2TXZXWM.jpg?auth=d4f1633c4b75e8fc28163d247ee9b9b8e106efbf0c38f810d9b6e632a5491f73",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Jardun",
+      "link": "https://www.elconfidencialdigital.com/album/seguridad/jardun/202610221457081495988.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/22/2026102214552627585.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Guardia Civil y Policía Nacional",
+      "link": "https://www.elconfidencialdigital.com/album/seguridad/guardia-civil-policia-nacional/202610221232111495906.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/22/2026102212303115921.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Antidisturbios",
       "link": "https://www.elconfidencialdigital.com/album/seguridad/antidisturbios/202610212323361495759.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/21/2026102123220072527.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Grupo Especial de Operaciones (GEO) de la Policía Nacional",
       "link": "https://www.elconfidencialdigital.com/album/seguridad/grupo-especial-operaciones-geo-policia-nacional/202609301334351489440.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/30/2026093013333390179.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Regularización de inmigrantes sin papeles",
-      "link": "https://www.elconfidencialdigital.com/album/seguridad/regularizacion-inmigrantes-papeles/202609291820051489196.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/29/2026092918173784275.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Daesh",
-      "link": "https://www.elconfidencialdigital.com/album/seguridad/daesh/202609251337111488250.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/25/2026092513350322892.jpg",
       "tipo": "imagen"
     }
   ]

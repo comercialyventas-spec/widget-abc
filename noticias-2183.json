@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El nuevo mapa del riesgo de terremoto en Catalunya: los municipios con mayor peligrosidad sísmica",
+      "link": "https://www.elperiodico.com/es/ciencia/20261022/mapa-peligro-terremoto-cataluna-municipios-barcelona-girona-lleida-tarragona-dv-et-135545600",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b545c318-7879-4ebb-a108-a1eb2c9123d3_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Qué sabemos (y qué no) de los efectos del Superniño en España: las incógnitas sobre las lluvias, el calor extremo y otros desastres climáticos",
+      "link": "https://www.elperiodico.com/es/sociedad/20261022/efectos-supernino-espana-lluvias-calor-extremos-climaticos-135621176",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/5164cd8e-1275-4855-8181-f20650c4e750_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Asturias prohíbe totalmente la pesca del salmón, pero sigue permitiendo capturar angulas, en peligro crítico de extinción",
       "link": "https://www.elperiodico.com/es/medio-ambiente/20261022/asturias-prohibe-totalmente-pesca-salmon-135610098",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/e5b644c8-c40d-4ebe-b3ba-0e3eb103a1ad_media-libre-aspect-ratio_default_0.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Qué sabemos (y qué no) de los efectos del Superniño en Catalunya: las incógnitas sobre las lluvias, el calor extremo y otros desastres climáticos",
       "link": "https://www.elperiodico.com/es/sociedad/20261021/efectos-supernino-cataluna-lluvias-calor-extremos-climaticos-135585468",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/5164cd8e-1275-4855-8181-f20650c4e750_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Niño desata una cascada de incendios forestales alrededor del planeta",
-      "link": "https://www.elperiodico.com/es/medio-ambiente/20261021/nino-desata-cascada-incendios-forestales-135571608",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/91c9b675-9004-4ace-9f22-236525eda607_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Descubren un método increíblemente sencillo para eliminar los microplásticos del agua que bebemos",
-      "link": "https://www.elperiodico.com/es/medio-ambiente/20261021/descubren-metodo-increiblemente-sencillo-eliminar-135567721",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d1323d69-50d5-496e-883a-d47343a503ce_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
