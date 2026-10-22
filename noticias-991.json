@@ -1,10 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "Éxito del ‘Día de la Persona Emprendedora’ en Murcia",
+      "link": "https://emprendedores.es/ayudas/exito-del-dia-de-la-persona-emprendedora-en-murcia/",
+      "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/Diape-Info-Murcia-1024x576.webp",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Berto’s Milanesa abre en Zaragoza su primera franquicia",
+      "link": "https://emprendedores.es/franquicias/franquicias-nuevas/bertos-milanesa-abre-en-zaragoza-su-primera-franquicia/",
+      "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/bertos-milanesa-zaragoza-1200x675.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Vuelve el CEIN Startup Day, con la inversión y la innovación abierta como hilos conductores",
       "link": "https://emprendedores.es/ayudas/vuelve-el-cein-startup-day-inversion-y-la-innovacion-abierta/",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/CEIN-Startup-Day-2025-1200x675.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "NEAR: inteligencia artificial para reducir los viajes en vacío en el transporte de mercancías",
@@ -15,25 +27,13 @@
     {
       "titulo": "El coste invisible de una vacante que la empresa decide no cubrir",
       "link": "https://emprendedores.es/firmas/el-coste-invisible-de-una-vacante-que-la-empresa-decide-no-cubrir/",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/dos-profesionales-llegando-a-un-acuerdo-laboral-1200x675.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "¿Cómo hacer un chatbot en WhatsApp para una empresa? 5 pasos que necesitas saber",
       "link": "https://emprendedores.es/ideas-de-negocio/como-hacer-un-chatbot-en-whatsapp-para-una-empresa-5-pasos-que-necesitas-saber/",
       "imagen": "https://wp.emprendedores.es/wp-content/uploads/WhatsApp.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El ecosistema startup español mejora, pero falla en la financiación para escalar",
-      "link": "https://emprendedores.es/startups/espana-startups-financiacion/",
-      "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/evolucion-ecosistema-startup-scaleup.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Gemelo digital: ¿Cómo anticipar la rentabilidad de tu negocio?",
-      "link": "https://emprendedores.es/gestion/gemelo-digital-como-anticipar-la-rentabilidad-de-tu-negocio/",
-      "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/gemelo-digital-en-Formula-1-687x1024.jpg",
       "tipo": "imagen"
     }
   ]
