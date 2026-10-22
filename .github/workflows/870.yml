@@ -5,8 +5,10 @@ on:
     - cron: '0 * * * *'
   workflow_dispatch:
 
+# Grupo propio: en el grupo compartido widget-abc-git-write solo cabía 1 run en marcha + 1 en espera para todos los
+# workflows, y GitHub cancelaba los que esperaban. El choque de pushes lo resuelven el paso de sincronizar y los reintentos.
 concurrency:
-  group: widget-abc-git-write
+  group: noticias-870
   cancel-in-progress: false
 
 jobs:
@@ -243,6 +245,10 @@ jobs:
           console.log(`JSON válido: ${data.noticias.length} noticias.`);
           NODE
 
+      - name: Sincronizar con la rama remota antes de guardar
+        run: |
+          git pull --no-edit origin main || true
+
       - name: Guardar noticias-870.json
         run: |
           git config user.name "github-actions[bot]"
@@ -254,5 +260,16 @@ jobs:
             echo "No hay cambios nuevos."
           else
             git commit -m "Actualizar noticias-870"
-            git push
+            # Igual que feeds-generico.yml: si otro workflow ha escrito antes, traer sus cambios y reintentar
+            ok=0
+            for intento in 1 2 3 4; do
+              if git push; then ok=1; break; fi
+              echo "Push rechazado (intento $intento). Trayendo cambios recientes y reintentando..."
+              git pull --rebase -X theirs origin main || { git rebase --abort || true; }
+              sleep $((intento * 5))
+            done
+            if [ "$ok" != "1" ]; then
+              echo "::error title=No se pudo guardar noticias-870::El push a GitHub fallo 4 veces seguidas."
+              exit 1
+            fi
           fi

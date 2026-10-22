@@ -11,8 +11,10 @@ on:
 permissions:
   contents: write
 
+# Grupo propio: en el grupo compartido widget-abc-git-write solo cabía 1 run en marcha + 1 en espera para todos los
+# workflows, y GitHub cancelaba los que esperaban. El choque de pushes lo resuelven el paso de sincronizar y los reintentos.
 concurrency:
-  group: widget-abc-git-write
+  group: migrar-posts-orden
   cancel-in-progress: false
 
 jobs:
@@ -45,6 +47,10 @@ jobs:
           split -l 6 /tmp/resumen.txt /tmp/trozo_
           for f in /tmp/trozo_*; do echo "::notice::$(paste -sd'#' "$f" | sed 's/#/ ### /g')"; done
           exit 0
+
+      - name: Sincronizar con la rama remota antes de guardar
+        run: |
+          git pull --no-edit origin main || true
 
       - name: Guardar resultado y copias de seguridad
         if: always()

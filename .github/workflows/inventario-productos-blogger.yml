@@ -13,8 +13,10 @@ on:
 permissions:
   contents: write
 
+# Grupo propio: en el grupo compartido widget-abc-git-write solo cabía 1 run en marcha + 1 en espera para todos los
+# workflows, y GitHub cancelaba los que esperaban. El choque de pushes lo resuelven el paso de sincronizar y los reintentos.
 concurrency:
-  group: widget-abc-git-write
+  group: inventario-productos-blogger
   cancel-in-progress: false
 
 jobs:
@@ -31,6 +33,10 @@ jobs:
           CLIENT_SECRET: ${{ secrets.BLOGGER_CLIENT_SECRET }}
           REFRESH_TOKEN: ${{ secrets.BLOGGER_REFRESH_TOKEN }}
         run: node migracion/inventario_productos.js "${{ inputs.blogs }}"
+      - name: Sincronizar con la rama remota antes de guardar
+        run: |
+          git pull --no-edit origin main || true
+
       - name: Guardar inventario en el repositorio
         run: |
           git config user.name "github-actions"

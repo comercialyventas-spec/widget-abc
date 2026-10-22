@@ -75,7 +75,7 @@ jobs:
 
       - name: Sincronizar con la rama remota antes de guardar
         run: |
-          git pull --rebase --autostash origin main || { git rebase --abort || true; }
+          git pull --no-edit origin main || true
 
       - name: Guardar en el repositorio
         run: |

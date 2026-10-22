@@ -5,8 +5,10 @@ on:
     - cron: '43 * * * *'
   workflow_dispatch:
 
+# Grupo propio: en el grupo compartido widget-abc-git-write solo cabía 1 run en marcha + 1 en espera para todos los
+# workflows, y GitHub cancelaba los que esperaban. El choque de pushes lo resuelven el paso de sincronizar y los reintentos.
 concurrency:
-  group: widget-abc-git-write
+  group: noticias-1777
   cancel-in-progress: false
 
 jobs:

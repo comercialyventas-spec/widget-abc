@@ -13,8 +13,10 @@ on:
 permissions:
   contents: write
 
+# Grupo propio: en el grupo compartido widget-abc-git-write solo cabía 1 run en marcha + 1 en espera para todos los
+# workflows, y GitHub cancelaba los que esperaban. El choque de pushes lo resuelven el paso de sincronizar y los reintentos.
 concurrency:
-  group: widget-abc-git-write
+  group: rtve-api
   cancel-in-progress: false
 
 jobs:
@@ -30,6 +32,10 @@ jobs:
           node-version: '20'
       - name: Generar
         run: node migracion/rtve_api.js
+      - name: Sincronizar con la rama remota antes de guardar
+        run: |
+          git pull --no-edit origin main || true
+
       - name: Guardar
         run: |
           git config user.name "github-actions[bot]"
@@ -37,9 +43,12 @@ jobs:
           for f in noticias-2435.json noticias-2438.json; do [ -f "$f" ] && git add "$f"; done; true
           if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
           git commit -m "Noticias RTVE por API (Ciencia y Loterias)"
-          for i in 1 2 3 4 5; do
-            git fetch origin main && git rebase origin/main && git push origin HEAD:main && exit 0
-            git rebase --abort 2>/dev/null || true
-            sleep 10
+          # Igual que feeds-generico.yml: si otro workflow ha escrito antes, traer sus cambios y reintentar
+          for intento in 1 2 3 4 5; do
+            git push origin HEAD:main && exit 0
+            echo "Push rechazado (intento $intento). Trayendo cambios recientes y reintentando..."
+            git pull --rebase -X theirs origin main || { git rebase --abort || true; }
+            sleep $((intento * 5))
           done
+          echo "::error title=No se pudo guardar rtve-api::El push a GitHub fallo 5 veces seguidas."
           exit 1

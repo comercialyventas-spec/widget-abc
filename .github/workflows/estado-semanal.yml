@@ -47,7 +47,7 @@ jobs:
         run: node migracion/estado_semanal.js
       - name: Sincronizar con la rama remota antes de guardar
         run: |
-          git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || { git rebase --abort || true; }
+          git pull --no-edit origin "${GITHUB_REF_NAME}" || true
 
       - name: Guardar el informe
         run: |
