@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La Pedrera acoge el primer congreso internacional sobre Gaudí",
+      "link": "https://www.rtve.es/noticias/20261022/pedrera-acoge-primer-congreso-internacional-sobre-gaudi/17278002.shtml",
+      "imagen": "https://img.rtve.es/imagenes/pedrera-acoge-primer-congreso-internacional-sobre-gaudi/01792660710751.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La industria del videojuego se tambalea por el avance imparable de la IA",
       "link": "https://www.rtve.es/noticias/20261022/industria-videojuego-tambalea-avance-imparable-ia-inteligencia-artificial/17275443.shtml",
       "imagen": "https://img.rtve.es/imagenes/industria-videojuego-tambalea-avance-imparable-ia-inteligencia-artificial/01792511571048.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El Hospital de Bellvitge realiza el primer trasplante renal robótico de Europa a través de una incisión de 7 centímetros",
       "link": "https://www.rtve.es/noticias/20261021/hospital-bellvitge-realiza-primer-trasplante-renal-robotico-europa-a-traves-incision-7-centimetros/17276132.shtml",
       "imagen": "https://img.rtve.es/imagenes/hospital-bellvitge-realiza-primer-trasplante-renal-robotico-europa-a-traves-incision-7-centimetros/01792589939964.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Cuándo cambian la hora en octubre de 2026 y pasamos al horario de invierno?",
-      "link": "https://www.rtve.es/noticias/20261021/cambio-hora-octubre-2026-invierno/17275918.shtml",
-      "imagen": "https://img.rtve.es/imagenes/cambio-hora-octubre-2026-invierno/01792546499190.jpg",
       "tipo": "imagen"
     }
   ]
