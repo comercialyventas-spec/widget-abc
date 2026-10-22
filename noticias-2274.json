@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "ASPADIR inaugura en Rivas su nuevo centro de día especializado en autismo",
+      "link": "https://www.diarioderivas.es/centro-de-dia-autismo-aspadir/",
+      "imagen": "https://www.diarioderivas.es/wp-content/uploads/2026/10/ASPADIR-Centro-de-Dia-3.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La comunidad educativa de Rivas pasa la noche en el CEIP Jarama para protestar por la falta de diálogo de la Comunidad",
       "link": "https://www.diarioderivas.es/encierro-ceip-jarama-comunidad-educativa/",
       "imagen": "https://www.diarioderivas.es/wp-content/uploads/2026/10/Profesores-encierro.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El PP denuncia pintadas contra su concejal Jesús Martínez e Isabel Díaz Ayuso",
       "link": "https://www.diarioderivas.es/pp-pintadas-jesus-martinez/",
       "imagen": "https://www.diarioderivas.es/wp-content/uploads/2026/10/Pintadas-PP.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Gobierno de Aída Castillejo nos aboca al precipicio y desmantela la ciudad",
-      "link": "https://www.diarioderivas.es/el-gobierno-de-aida-castillejo-nos-aboca-al-precipicio-y-desmantela-la-ciudad/",
-      "imagen": "https://www.diarioderivas.es/wp-content/uploads/2019/05/Janette-Novo.jpg",
       "tipo": "imagen"
     }
   ]

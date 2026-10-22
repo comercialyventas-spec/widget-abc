@@ -2,8 +2,20 @@
   "noticias": [
     {
       "titulo": "PRIMERA PLANA",
+      "link": "https://www.infolibre.es/politica/aguirre-defiende-campo-golf-llevado-juicio-gonzalez-mejor-helipuerto-bono_1_2238882.html",
+      "imagen": "https://static.infolibre.es/clip/e1170dac-4a98-41e1-b4db-0266e324e8d5_16-9-discover-aspect-ratio_default_1022854.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un segundo juzgado rechaza una nueva querella contra Sofía Puente por la instrucción de la 'ley de nietos'",
+      "link": "https://www.infolibre.es/politica/segundo-juzgado-rechaza-nueva-querella-sofia-puente-instruccion-ley-nietos_1_2238891.html",
+      "imagen": "https://static.infolibre.es/clip/e1170dac-4a98-41e1-b4db-0266e324e8d5_16-9-discover-aspect-ratio_default_1022854.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La motosierra de Milei se convierte en un problema electoral para PP y Vox",
       "link": "https://www.infolibre.es/politica/motosierra-milei-convierte-problema-electoral-pp-vox_1_2238856.html",
-      "imagen": "https://static.infolibre.es/clip/e47b5abc-a0e4-499d-9007-8c7bc6d068ee_16-9-discover-aspect-ratio_default_0.jpg",
+      "imagen": "https://static.infolibre.es/clip/e47b5abc-a0e4-499d-9007-8c7bc6d068ee_16-9-discover-aspect-ratio_50p_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -13,27 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "\"Mátenme, pero la idea fue mía\": Aguirre y la 'rana' González, frente a frente en el segundo juicio de 'Lezo'",
-      "link": "https://www.infolibre.es/politica/matenme-idea-aguirre-rana-gonzalez-frente-frente-segundo-juicio-lezo_1_2238804.html",
-      "imagen": "https://static.infolibre.es/clip/b6c17f99-ca0e-4601-a5c3-c804f1797b28_16-9-discover-aspect-ratio_50p_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ada Colau, Jordi Wild y el dilema de la izquierda: participar en espacios hostiles o quedar al margen",
-      "link": "https://www.infolibre.es/politica/ada-colau-jordi-wild-dilema-izquierda-participar-espacios-hostiles-quedar-margen_1_2238836.html",
-      "imagen": "https://static.infolibre.es/clip/3de8e737-d06e-4690-8b48-3814dd2c0474_16-9-discover-aspect-ratio_50p_0.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "La derecha tiene una teoría sobre cuál es el objetivo de Pedro Sánchez y no, no es ganar las elecciones",
       "link": "https://www.infolibre.es/medios/derecha-teoria-objetivo-pedro-sanchez-no-no-ganar-elecciones_1_2238854.html",
       "imagen": "https://static.infolibre.es/clip/3cb17d2f-db9f-461f-b55e-c28c28625499_16-9-discover-aspect-ratio_50p_0.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "España votará sin que podamos comprobar si Meta, X o YouTube han estado favoreciendo a algún partido",
-      "link": "https://www.infolibre.es/medios/espana-votara-podamos-comprobar-si-meta-x-youtube-han-favoreciendo-partido_1_2238775.html",
-      "imagen": "https://static.infolibre.es/clip/56ffdd5a-af17-470d-a2d8-48bcbe4dc2cf_16-9-discover-aspect-ratio_50p_0.jpg",
+      "titulo": "Proyecto 43-2 denuncia en Fiscalía la cancelación en Valladolid de una obra de Lorca por causas ideológicas",
+      "link": "https://www.infolibre.es/cultura/teatro/proyecto-43-2-denuncia-fiscalia-cancelacion-valladolid-obra-lorca-causas-ideologicas_1_2238892.html",
+      "imagen": "https://static.infolibre.es/clip/d9f65299-cf1e-4575-ac58-ab491e7a18a6_16-9-discover-aspect-ratio_50p_0.jpg",
       "tipo": "imagen"
     }
   ]

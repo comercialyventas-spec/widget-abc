@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La Policía desaloja a un hombre que había acampado frente a la sede del PSOE",
+      "link": "https://www.mediterraneodigital.com/espana/acampado-ferraz",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/10/sede-psoe-acampada.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cómo evitar que entren a robar en casa: las medidas que de verdad disuaden",
+      "link": "https://www.mediterraneodigital.com/negocios-y-finanzas/kits-camaras-vigilancia-todoelectronica",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/10/todoelectronica-seguridad.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La alcaldesa 'influencer' deja el PSOE",
       "link": "https://www.mediterraneodigital.com/gente-y-tv/katrin-ortega",
       "imagen": "https://www.mediterraneodigital.com/images/2026/10/katrin-ortega.jpg",
@@ -21,20 +33,8 @@
     {
       "titulo": "El cuidado de mayores a domicilio: una necesidad creciente en España",
       "link": "https://www.mediterraneodigital.com/sociedad-y-tiempo-libre/cuidado-de-personas-mayores",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Dimite el alcalde de Algeciras, José Ignacio Landaluce, tras dos denuncias por abusos sexuales",
-      "link": "https://www.mediterraneodigital.com/espana/andalucia/jose-ignacio-landaluce-calleja",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Francia arde por los disturbios y la violencia de la extrema izquierda",
-      "link": "https://www.mediterraneodigital.com/internacional/francia-disturbios",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://www.mediterraneodigital.com/images/2026/10/cuidado_de_personas_mayores.jpg",
+      "tipo": "imagen"
     }
   ]
 }
