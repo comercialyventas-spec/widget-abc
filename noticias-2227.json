@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Acto religioso en zona Moncloa. Afectadas 8 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261025-PR-Ntra-Sra-Buen-Suceso-Moncloa.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Evento deportivo en distrito San Blas - Canillejas. Afectadas 20 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261025-Ruta-Patines-San-Blas-Canillejas.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cambio Horario Invierno: Ajustes horarios en las líneas nocturnas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261025-Cambio-Hora-Invierno.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Evento deportivo en zona avenida de América. Afectada línea 72 de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261024-Cr-Solidaria-Colegio-Claret.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Creación de Parada: Plaza de la Independencia. Afectadas 9 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261023-CP-51323-Plaza-Independencia.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -9,30 +33,6 @@
     {
       "titulo": "Recuperación de Parada: Plaza de la Independencia. Afectadas 7 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261023-RP-162-Plaza-Independencia.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Manifestación en Gran Vía y Jacometrezo. Afectadas 13 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261022-M-Gran-Via-Jacometrezo.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Servicio Especial: SE [Canillejas – Estadio Metropolitano].",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261024-Metropolitano.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Servicio Especial línea 6 de Metro entre Cuatro Caminos y Laguna",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261024-SE6-Cuatro-Caminos-Laguna.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Evento Deportivo: Estadio de Vallecas. Afectada línea 103 de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261024-Estadio-Vallecas.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

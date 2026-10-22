@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La receta de ensalada de atún que le da una vuelta a la mixta de siempre",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-22/la-receta-de-ensalada-de-atun-que-le-da-una-vuelta-a-la-mixta-de-siempre.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20261013/1224875_160403_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cremoso de mango, coco y yogur griego",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-22/cremoso-de-mango-coco-y-yogur-griego.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/OEYJVVDWIJGYNN3GJT2YFXJNRM.JPG?auth=4abe572391c91ee9af858efa6b2ad3fe00cb0a243893aa0ee420483c29e6157b",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "2026, el año de la nueva realidad climática",
       "link": "https://elpais.com/gastronomia/2026-10-22/2026-el-ano-de-la-nueva-realidad-climatica.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/INOPL7E7KJARXHFZZIDTILZNQE.jpg?auth=8d17831d813d44c0b5511955b3e60abe548777134e43c85b141b96ad09e79be3",
@@ -22,18 +34,6 @@
       "titulo": "‘Frit de xai’, el guiso mallorquín perfecto para recibir el fresquito",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-10-21/frit-de-xai-el-guiso-mallorquin-perfecto-para-recibir-el-fresquito.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/DWCPTH7JAFHIBJLWQSX5GIVX24.jpg?auth=f59bc871d455578ad8844795991804a66c6ee08fe92eb0b1db9cff2c39088109",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘Taps’ de Cadaqués, el futuro incierto de unos pasteles míticos",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-21/taps-de-cadaques-el-futuro-incierto-de-unos-pasteles-miticos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/VETSLDDPGFAPHCTLXMOUEP256Y.jpg?auth=8e92dbf8d3f2e550fd01ceb73025bf9e20d8c2ea67c6ddec0a1f1c6e169beb48",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sisón, el obrador asturiano que elabora panes de trigos antiguos: “La gente mayor nos dice que hacía mucho que no comían un pan así”",
-      "link": "https://elpais.com/gastronomia/2026-10-21/sison-el-obrador-asturiano-que-elabora-panes-de-trigos-antiguos-la-gente-mayor-nos-dice-que-hacia-mucho-que-no-comian-un-pan-asi.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/6JJCEXMXNNBKNJHDOJQABYWZNY.jpg?auth=2e505fc62a5a370985a2315c1ecabb4762bdd03e50e1630166eb8238ad04ecd2",
       "tipo": "imagen"
     }
   ]

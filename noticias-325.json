@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Chardonnay con acento valenciano",
+      "link": "https://www.abc.es/gastronomia/vinos/chardonnay-acento-valenciano-20261022091420-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/10/22/bodega-covinas-RJcsgne7Le5Zr3RhNGOVY4O-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Tres restaurantes españoles se quedan a las puertas de los '50 Best'",
       "link": "https://www.abc.es/gastronomia/tres-restaurantes-espanoles-quedan-puertas-best-20261021193556-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/10/21/hermanostorres-RkaURAhHiglfbUlH5zX7HLO-1200x840@diario_abc.JPG",
@@ -28,12 +34,6 @@
       "titulo": "Bresa, el nuevo restaurante en Madrid de los hermanos Aparicio",
       "link": "https://www.abc.es/gastronomia/bresa-empezar-base-20261016140726-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/10/16/Comedor-R24g1dhIa9dQk2ClOAda6VO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El mejor parrillero de España llegó en patera y trabaja en un restaurante familiar de Murcia",
-      "link": "https://www.abc.es/gastronomia/ocho-minutos-decisivos-coronan-rey-espana-carne-20261010193747-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/10/10/ganadores-RbEpS0Cf4epkQ06QpwD5A7L-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

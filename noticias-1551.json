@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Las lluvias se concentran este jueves y las mínimas bajan en buena parte de España",
+      "link": "https://www.eldiario.es/sociedad/el-tiempo/lluvias-concentran-jueves-minimas-bajan-buena-parte-espana-pm_1_13603646.html",
+      "imagen": "https://static.eldiario.es/clip/e768c678-2745-4584-84d9-97cf02be821a_16-9-discover-aspect-ratio_default_1153833.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La dana Adam da paso a un ambiente otoñal: la previsión del tiempo para los próximos días",
       "link": "https://www.eldiario.es/sociedad/el-tiempo/dana-adam-da-paso-ambiente-otonal-prevision-tiempo-proximos-dias-pm_1_13600484.html",
       "imagen": "https://static.eldiario.es/clip/e7f11b0e-1c72-4f64-9400-281fce2b3148_16-9-discover-aspect-ratio_default_0_x1729y589.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El calor sigue en otoño: temperaturas por encima de los 30 grados y sin lluvias hasta el viernes",
       "link": "https://www.eldiario.es/sociedad/el-tiempo/calor-sigue-otono-temperaturas-30-grados-lluvias-viernes-pm_1_13580670.html",
       "imagen": "https://static.eldiario.es/clip/b380c4b2-49ff-4ba5-a5af-5aa0c2db21aa_16-9-discover-aspect-ratio_default_1153158.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El puente del Pilar cambia el tiempo en España con más de 25ºC y una próxima semana todavía más cálida",
-      "link": "https://www.eldiario.es/sociedad/el-tiempo/puente-pilar-cambia-tiempo-espana-25oc-proxima-semana-todavia-calida-pm_1_13576205.html",
-      "imagen": "https://static.eldiario.es/clip/dd79ae78-e183-4d7a-801f-7c92e474c513_16-9-discover-aspect-ratio_default_0_x683y377.jpg",
       "tipo": "imagen"
     }
   ]

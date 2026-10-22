@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "AEMET prevé nubes altas y vientos variables en Zaragoza con cambios en las temperaturas",
+      "link": "https://okdiario.com/aragon/aemet-preve-nubes-altas-y-vientos-variables-en-zaragoza-con-cambios-en-las-temperaturas-20604701",
+      "imagen": "https://okdiario.com/img/2026/10/22/suben-las-temperaturas.-europa-press.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Zaragoza: Cielo poco nuboso y viento moderado según AEMET, con heladas débiles en el Pirineo",
       "link": "https://okdiario.com/aragon/zaragoza-cielo-poco-nuboso-y-viento-moderado-segun-aemet-con-heladas-debiles-en-el-pirineo-20595884",
       "imagen": "https://okdiario.com/img/2026/10/21/mujer-se-protege-del-sol-ante-la-mejora-del-tiempo.-europa-press-1.jpg",
@@ -28,12 +34,6 @@
       "titulo": "AEMET: Día nublado y fresco en Zaragoza, con lluvia y tormentas en el sur del Ibérico",
       "link": "https://okdiario.com/aragon/aemet-dia-nublado-y-fresco-en-zaragoza-con-lluvia-y-tormentas-en-el-sur-del-iberico-20570288",
       "imagen": "https://okdiario.com/img/2026/10/17/lluvia-en-zaragoza.-europa-press.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Zaragoza: Cielo poco nuboso y viento flojo, según AEMET",
-      "link": "https://okdiario.com/aragon/zaragoza-cielo-poco-nuboso-y-viento-flojo-segun-aemet-20562409",
-      "imagen": "https://okdiario.com/img/2026/10/16/mujer-se-protege-del-sol-ante-la-mejora-del-tiempo.-europa-press.jpg",
       "tipo": "imagen"
     }
   ]

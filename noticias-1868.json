@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "Las llamadas comerciales estrenan el prefijo 400: qué significa y qué hacer si te llaman desde otros números",
-      "link": "https://www.20minutos.es/tecnologia/actualidad/llamadas-comerciales-estrenan-prefijo-400-que-significa-que-hacer-si-te-llaman-desde-otros-numeros_7050380_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/20/6ad723768d6371-56491120.png",
+      "titulo": "Dos fallos \"críticos\" en el lenguaje de programación PHP ponen en riesgo cerca del 70% de las páginas web de todo el mundo",
+      "link": "https://www.20minutos.es/tecnologia/agencia-seguridad-nacional-eeuu-advierte-dos-fallos-criticos-php-que-ponen-riesgo-servidores-web_7051747_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2023/08/04/ordenadores.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Qué es PHP y por qué un fallo puede afectar a tantas páginas web",
+      "link": "https://www.20minutos.es/tecnologia/ciberseguridad/que-es-php-por-que-un-fallo-puede-afectar-tantas-paginas-web_7051893_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/22/6ad9bbbf7dd686-71924796.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Tienes una web o tienda online? Qué debes comprobar tras la alerta de PHP",
+      "link": "https://www.20minutos.es/tecnologia/ciberseguridad/tienes-web-tienda-online-que-debes-comprobar-tras-alerta-php_7051858_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/22/6ad9aa2d958d22-15380512.jpeg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Tesla revela cómo funciona su Roadster 'volador': nitrógeno, piezas de Optimus y ventiladores de succión",
       "link": "https://www.20minutos.es/tecnologia/actualidad/tesla-revela-como-funciona-roadster-volador-nitrogeno-piezas-optimus-ventiladores-succion_7050944_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/16/6ad1c2ee68e789-29260845.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Caída de Revolut: estos han sido los problemas del banco digital en España",
-      "link": "https://www.20minutos.es/tecnologia/actualidad/caida-revolut-banco-digital-sufre-problemas-espana_7050917_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/20/6ad74995c25288-86842488.webp",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Japón lanza con éxito su misión para traer las primeras muestras de una luna de Marte",
-      "link": "https://www.20minutos.es/tecnologia/actualidad/japon-lanza-exito-mision-traer-primeras-muestras-luna-marte_7050804_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/19/6ad5c3a70f9a84-28550624.jpeg",
       "tipo": "imagen"
     }
   ]
