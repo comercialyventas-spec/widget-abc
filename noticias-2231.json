@@ -1,6 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "El Canfranero acoge y pone en valor siete historias de emprendimiento e innovación en el territorio aragonés",
+      "link": "https://grupo.renfe.com/es/es/sala-de-prensa/noticias/2026/10/canfranero-siete-historias-emprendimiento-innovacion",
+      "descripcion": "Siete historias de emprendimiento e innovación en el medio rural aragonés han sido las protagonistas de un particular viaje en tren entre Zaragoza y Canfranc. De la fabricación aditiva a la automatización de procesos; del cuidado de la salud a la producción cinematográfica. Emprendedores de distinto",
+      "fecha": "2026-10-22T10:00:00.000Z",
+      "imagen": "https://grupo.renfe.com/content/dam/grupo-renfe/sala-de-prensa/comunicacion/comunicacion/aragon/nueva-medida/b-emprender-canfranero.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Renfe simplifica el viaje en Media Distancia y Regionales con un modelo más flexible sin reserva previa de asiento",
+      "link": "https://grupo.renfe.com/es/es/sala-de-prensa/noticias/2026/10/renfe-simplifica-viaje-md-regionales-sin-reserva-asiento",
+      "descripcion": "A partir del próximo 12 de diciembre, Renfe pondrá en marcha un nuevo sistema de venta sin reserva previa de asiento en diversas relaciones de Media Distancia y Regionales. Con este modelo, la compañía busca facilitar un proceso de compra y acceso más ágil para las personas viajeras, puesto que ya n",
+      "fecha": "2026-10-22T10:00:00.000Z",
+      "imagen": "https://grupo.renfe.com/content/dam/grupo-renfe/sala-de-prensa/sala-de-prensa/general/cards-446x254/c-interior-114-media-distancia.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Renfe refuerza el servicio de Cercanías para facilitar los desplazamientos a las fiestas de San Severino de Balmaseda",
       "link": "https://grupo.renfe.com/es/es/sala-de-prensa/noticias/2026/10/renfe-refuerza-servicio-cercanias-fiestas-balmaseda",
       "descripcion": "Renfe reforzará el servicio de Cercanías de la línea C4 Bilbao-Balmaseda con motivo de la celebración de las fiestas de San Severino, que tendrán lugar el próximo 23 de octubre en la villa encartada.",
@@ -25,19 +41,19 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Inicio de trabajos en las marquesinas de la estación de Arbide",
-      "link": "https://grupo.renfe.com/es/es/sala-de-prensa/noticias/2026/10/inicio-trabajos-marquesinas-arbide",
-      "descripcion": "Renfe iniciará el 19 de octubre trabajos en las marquesinas de la estación de Arbide, en Bizkaia. Los trabajos contemplan el desmontaje de la cubierta existente de fibrocemento, el saneo de la estructura y la instalación de una nueva cubierta. Asimismo, está prevista la renovación de la iluminación ",
-      "fecha": "2026-10-19T10:00:00.000Z",
-      "imagen": "https://grupo.renfe.com/content/dam/grupo-renfe/sala-de-prensa/comunicacion/comunicacion/general/nueva-medida/b-446-exterior-cercanias.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Renfe recupera su programación habitual en el corredor Madrid-Barcelona tras la reapertura de la doble vía entre Ricla y Plasencia de Jalón",
       "link": "https://grupo.renfe.com/es/es/sala-de-prensa/noticias/2026/10/renfe-recupera-programacion-habitual-corredor-madrid-barcelona",
       "descripcion": "Renfe retoma su programación habitual en el corredor de alta velocidad Madrid-Barcelona tras la reapertura de la circulación por ambas vías entre Ricla y Plasencia de Jalón, una vez concluidos los trabajos de reposición, acondicionamiento de la vía y verificación de la infraestructura realizados por",
       "fecha": "2026-10-19T10:00:00.000Z",
       "imagen": "https://grupo.renfe.com/content/dam/grupo-renfe/conoce-renfe/trenes/2-103-exterior.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Inicio de trabajos en las marquesinas de la estación de Arbide",
+      "link": "https://grupo.renfe.com/es/es/sala-de-prensa/noticias/2026/10/inicio-trabajos-marquesinas-arbide",
+      "descripcion": "Renfe iniciará el 19 de octubre trabajos en las marquesinas de la estación de Arbide, en Bizkaia. Los trabajos contemplan el desmontaje de la cubierta existente de fibrocemento, el saneo de la estructura y la instalación de una nueva cubierta. Asimismo, está prevista la renovación de la iluminación ",
+      "fecha": "2026-10-19T10:00:00.000Z",
+      "imagen": "https://grupo.renfe.com/content/dam/grupo-renfe/sala-de-prensa/comunicacion/comunicacion/general/nueva-medida/b-446-exterior-cercanias.jpg",
       "tipo": "imagen"
     },
     {
@@ -51,7 +67,7 @@
     {
       "titulo": "Renfe Cercanías Madrid mantiene abierta la estación de Sol",
       "link": "https://grupo.renfe.com/es/es/sala-de-prensa/noticias/2026/10/renfe-cercanias-madrid-mantiene-hoy-abierta-la-estacion-de-sol",
-      "descripcion": "Renfe Cercanías Madrid mantiene hoy la estación de Sol abierta y a disposición de sus usuarios, ya que no se han detectado problemas de salubridad en sus instalaciones. El Gobierno regional ha ordenado hoy el cierre de la estación de Sol de Metro de Madrid este viernes para realizar \"trabajos de lim",
+      "descripcion": "Renfe Cercanías Madrid mantiene hoy la estación de Sol abierta y a disposición de sus usuarios, ya que no se han detectado problemas de salubridad en sus instalaciones.",
       "fecha": "2026-10-16T10:00:00.000Z",
       "imagen": "https://grupo.renfe.com/content/dam/grupo-renfe/fondos-europeos/noticias-content/estaciones-sol-01-624-304.jpeg",
       "tipo": "imagen"
@@ -78,22 +94,6 @@
       "descripcion": "Con motivo de la ejecución por parte de Adif de unos trabajos de mantenimiento en la infraestructura ferroviaria entre las estaciones de Guadalajara y Alcalá de Henares, el próximo domingo, 18 de octubre, el servicio ferroviario entre ambas paradas lo realizará un tren lanzadera con una frecuencia d",
       "fecha": "2026-10-14T10:00:00.000Z",
       "imagen": "https://grupo.renfe.com/content/dam/grupo-renfe/conoce-renfe/trenes/cercanias-y-media-distancia/electricos/446_01_700.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Inicio de trabajos en la estación de Muskiz",
-      "link": "https://grupo.renfe.com/es/es/sala-de-prensa/noticias/2026/10/inicio-trabajos-estacion-muskiz",
-      "descripcion": "Renfe iniciará el 13 de octubre trabajos en la estación de Cercanías de Muskiz (Bizkaia) de la línea C2 Abando Indalecio Prieto – Muskiz.",
-      "fecha": "2026-10-13T10:00:00.000Z",
-      "imagen": "https://grupo.renfe.com/content/dam/grupo-renfe/sala-de-prensa/comunicacion/comunicacion/pais-vasco/nueva-medida/b-muskiz-estacion-cercanias-pais-vasco.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Afectaciones de la línea de Alta Velocidad Madrid-Barcelona tras la incidencia registrada ayer en Ricla (Zaragoza)",
-      "link": "https://grupo.renfe.com/es/es/sala-de-prensa/noticias/2026/10/afectaciones-madrid-barcelona-tras-incidencia",
-      "descripcion": "Tras la incidencia registrada en la tarde de ayer, 12 de octubre, a la altura de Ricla (Zaragoza), la circulación ferroviaria entre Ricla y Plasencia de Jalón se encuentra restablecida parcialmente y los trenes circulan por una única vía, con una limitación temporal de velocidad de 80 km/h y marcha ",
-      "fecha": "2026-10-13T10:00:00.000Z",
-      "imagen": "https://grupo.renfe.com/content/dam/grupo-renfe/sala-de-prensa/sala-de-prensa/general/gente-viajando/vias_tren.jpg",
       "tipo": "imagen"
     }
   ]
