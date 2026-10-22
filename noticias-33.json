@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Vox y la piel de cordero",
+      "link": "https://www.lavanguardia.com/opinion/20261022/11664920/vox-piel-cordero.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/21/6ad8e7ae07c37.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Abogado, amigo y rival",
       "link": "https://www.lavanguardia.com/opinion/20261022/11664895/abogado-amigo-rival.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Principios más allá de las palabras",
       "link": "https://www.lavanguardia.com/opinion/20261022/11664501/principios-palabras.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/21/6ad8979fc0d1d.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Pistas para los que vuelven",
-      "link": "https://www.lavanguardia.com/opinion/20261022/11664494/pistas-vuelven.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/21/6ad90408b009b.jpeg",
       "tipo": "imagen"
     }
   ]

@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "Abren los cajones de un museo y encuentran un nuevo género de la vida del que solo hay 8 ejemplares",
-      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-21/abren-cajon-museo-nuevo-genero-vida-8-ejemplares-1qrt_4414472/",
-      "imagen": "https://images.ecestaticos.com/KkhiRgFtOvtwOD11070SO0mqVsQ=/0x0:1218x844/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F71b%2F029%2Fc47%2F71b029c473882120b5746ba6bbe0b4e2.jpg",
+      "titulo": "Así funciona SynthID: podrás saber si fotos como las de la Pantera Rosa son falsas en segundos",
+      "link": "https://www.elconfidencial.com/tecnologia/2026-10-22/synthid-fotos-falsas-pantera-rosa-inteligencia-artificial-1qrt_4449178/",
+      "imagen": "https://images.ecestaticos.com/uQQ9DoMeWtFLF7CSvyB8CZ5WjhI=/0x0:1000x750/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F685%2F727%2F228%2F685727228970ef53487be3ed31825df9.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un agricultor encuentra una extraña piedra frente a su casa en Egipto y descubre dos colosos vinculados a Ramsés II",
+      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-22/agricultor-egipto-halla-colosos-ramses-ii-1qrt_4448102/",
+      "imagen": "https://images.ecestaticos.com/Se9pBOfx4xY1l-0-XFJ9LKG3WcY=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fec3%2F75f%2F867%2Fec375f867b84398b89e97454f40ebaef.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "PHP: los dos fallos de seguridad descubiertos con IA que han puesto en riesgo a 7 de cada 10 webs",
+      "link": "https://www.elconfidencial.com/tecnologia/2026-10-22/php-fallos-ciberseguridad_4450336/",
+      "imagen": "https://images.ecestaticos.com/OPeslixilTA48yi3iVuwz7xdKAg=/0x193:2272x1471/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe9d%2Fcea%2F91c%2Fe9dcea91c1eae70f911b76a496e32845.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El 8% de los objetos desconocidos desclasificados por el Pentágono pueden ser pájaros",
+      "link": "https://www.elconfidencial.com/tecnologia/novaceno/2026-10-22/mas-del-8-de-los-objetos-desclasificados-por-el-pentagono-pueden-ser-solo-pajaros_4449702/",
+      "imagen": "https://images.ecestaticos.com/THXP4KKPZIOO6SvV_zBWd91Ju1Y=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F62b%2Fb39%2F134%2F62bb391344fb7bba9a129c9041b3ab7a.jpg",
       "tipo": "imagen"
     },
     {
@@ -13,27 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Estados Unidos advierte de dos fallos en PHP que pone en riesgo servidores web",
+      "titulo": "Estados Unidos advierte de dos fallos en PHP que ponen en riesgo servidores web",
       "link": "https://www.elconfidencial.com/tecnologia/2026-10-21/vulnerabilidades-criticas-php-servidores-1tps_4450170/",
       "imagen": "https://images.ecestaticos.com/xWfsetjYfZC86Cvlr5mwtjZB2ZE=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F943%2Ff4a%2Fd79%2F943f4ad7985bb78f600dc79bd2fc8956.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Japón estudia el ADN y descubre el \"extraordinario truco\" que permitió a la humanidad sobrevivir a la Edad de Hielo",
-      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-21/japon-cuerpo-humano-truco-humanos-sobrevivir-edad-hielo-1qrt_4416136/",
-      "imagen": "https://images.ecestaticos.com/b3mhU592mDlsxxMD5sBaLiFp_gY=/0x0:1986x1224/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe6f%2Ff84%2F270%2Fe6ff84270527b7cc6821262b2e64a189.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Lobos, osos y corzos están regresando al campo español. Es un regalo envenenado",
-      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-21/lobos-osos-corzos-campo-espanol-paradoja-regalo-envenenado-ecosistema_4449860/",
-      "imagen": "https://images.ecestaticos.com/r8DB81-TJJTmLXndlQHjiHzRSMM=/0x216:2272x1494/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2ec%2F4f7%2F845%2F2ec4f7845bcf0b455a96590a259a0f1a.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Médicos en Rusia aseguran haber realizado el primer trasplante de médula espinal del mundo",
-      "link": "https://www.elconfidencial.com/tecnologia/novaceno/2026-10-21/rusia-china-primer-trasplante-medula-espinal-del-mundo_4450068/",
-      "imagen": "https://images.ecestaticos.com/BvuSoy0fJeAIF8VBbwskJcpYhsc=/0x0:1920x1280/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F394%2Fb1c%2F1b5%2F394b1c1b58684b38e9907ec15a78c36e.jpg",
       "tipo": "imagen"
     }
   ]

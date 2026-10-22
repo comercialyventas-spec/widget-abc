@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "La IA detecta un fallo que pone en riesgo hasta al 70% de las páginas web del mundo",
+      "link": "https://www.elmundo.es/economia/2026/10/21/6ad8db5bfdddff90638b4581.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/24/17743404998035.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Netflix, el servicio de streaming dominante en Estados Unidos, ha llegado a un punto muerto",
+      "link": "https://www.elmundo.es/economia/2026/10/21/6ad7910321efa05f558b45c2.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/20/17925124882778.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Musk ordenó la ralentización de Starlink que cogió desprevenida a Ucrania",
+      "link": "https://www.elmundo.es/internacional/2026/10/20/6ad7e0f921efa0b2278b4570.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/20/17925331540596.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Rusia, Irán y la política exterior de conmoción y pavor de Trump",
       "link": "https://www.elmundo.es/opinion/2026/10/18/6ad3fd20fc6c83666a8b4571.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/18/17922778877737.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Para Walmart, sustituir a humanos por robots es una batalla multimillonaria",
       "link": "https://www.elmundo.es/economia/2026/10/10/6ac8f367fc6c83ce0b8b45a8.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/09/17915583685894.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La guerra de precios de la IA se intensifica y OpenAI le está ganando terreno a Anthropic",
-      "link": "https://www.elmundo.es/economia/2026/10/09/6ac77c57fc6c836c5f8b4577.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/08/17914788539590.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La IA resolvió un problema matemático y todo el mundo se volvió loco. Ahora acaba de descifrar cientos más",
-      "link": "https://www.elmundo.es/papel/2026/10/08/6ac66ed5e85ece3b6a8b459d.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/07/17913895380226.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El apetito de Francia por el \"dinero mágico\" se ha convertido en una bomba de deuda",
-      "link": "https://www.elmundo.es/economia/2026/10/07/6ac5022921efa0cc2e8b458a.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/06/17913059630241.jpg",
       "tipo": "imagen"
     }
   ]

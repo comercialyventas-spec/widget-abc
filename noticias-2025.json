@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Abraham, el policía de Sant Joan que no quería ser un héroe",
+      "link": "https://www.esdiario.com/comunidad-valenciana/alicante/261021/200858/abraham-orts-policia-sant-joan-queria-heroe.html",
+      "imagen": "https://imagenes.esdiario.com/files/image_414_276/uploads/2026/10/21/6ad89118543b4.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Siniestro mortal en la carretera en Pozoblanco (Córdoba) con una fallecida",
+      "link": "https://www.esdiario.com/andalucia/261021/200827/siniestro-mortal-carretera-pozoblanco-cordoba-fallecida.html",
+      "imagen": "https://imagenes.esdiario.com/files/image_414_276/uploads/2026/10/21/6ad862f5523db.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Catástrofe en una base militar canadiense: siete muertos en una enorme explosión",
       "link": "https://www.esdiario.com/internacional/261018/200560/catastrofe-base-militar-canada-wainwright-muertos-heridos.html",
       "imagen": "https://imagenes.esdiario.com/files/image_414_276/files/fp/uploads/2026/10/18/6ad494c1945d2.r_d.353-382-5295.jpeg",
@@ -15,25 +27,13 @@
     {
       "titulo": "Tragedia en una residencia de mayores: dos fallecidos al desplomarse un ascensor",
       "link": "https://www.esdiario.com/andalucia/261015/200320/tragedia-residencia-mayores-dos-fallecidos-desplomarse-ascensor.html",
-      "imagen": "https://imagenes.esdiario.com/files/image_414_276/uploads/2026/10/15/6ad0897b50f99.jpeg",
+      "imagen": "https://imagenes.esdiario.com/files/listing_more/uploads/2026/10/15/6ad0897b50f99.jpeg",
       "tipo": "imagen"
     },
     {
       "titulo": "Mueren 498 trabajadores en accidente laboral hasta agosto, nueve más que en 2025",
       "link": "https://www.esdiario.com/economia/261013/200109/mueren-498-trabajadores-accidente-laboral-agosto-nueve-2025.html",
-      "imagen": "https://imagenes.esdiario.com/files/image_414_276/uploads/2026/10/13/6acdff0512b03.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Rescatan a 3.300 cerdos y a cinco trabajadores de un incendio en una granja de Benaguasil",
-      "link": "https://www.esdiario.com/comunidad-valenciana/valencia/261012/200038/incendio-granja-benaguasil.html",
-      "imagen": "https://imagenes.esdiario.com/files/listing_more/uploads/2026/10/12/6accb8375e9ac.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Muere en Alicante un Policía Nacional atropellado por su coche patrulla",
-      "link": "https://www.esdiario.com/comunidad-valenciana/alicante/261008/199754/muere-alicante-policia-nacional-atropellado-coche-patrulla.html",
-      "imagen": "https://imagenes.esdiario.com/files/listing_more/uploads/2026/10/08/6ac7582fd9199.jpeg",
+      "imagen": "https://imagenes.esdiario.com/files/listing_more/uploads/2026/10/13/6acdff0512b03.jpeg",
       "tipo": "imagen"
     }
   ]

@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
+      "titulo": "Los peatones y motoristas encabezan las listas de mortalidad en ciudad y carretera",
+      "link": "https://www.abc.es/motor/reportajes/peatones-motoristas-encabezan-listas-mortalidad-ciudad-carretera-20261021011247-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/10/21/ciclistas-dgt-RutEXV2aCGcF9qXB8qaH4cI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El 'New York Times' destaca a un actor de 'La bola negra': «Posee un magnetismo»",
+      "link": "https://www.abc.es/play/cine/noticias/new-york-times-publica-critica-sobre-bola-20261022063000-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/22/bola-negra-koGB-U302316773099pYG-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Llega a Netflix la nueva película de Luis Zahera: un thriller dirigido por Daniel Sánchez Arévalo con Karra Elejalde y Laia Costa",
+      "link": "https://www.abc.es/play/cine/noticias/llega-netflix-nueva-pelicula-luis-zahera-thriller-20261022070000-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/19/zahera%20(2)-kkXG-RTykHE6TQHArZ2xcx7TGIFM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Qué dice la ciencia para desmontar los diez mitos de la longevidad",
       "link": "https://www.abc.es/bienestar/alimentacion/unica-verdad-sobre-envejecimiento-influenciable-bien-mal-20261021011656-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/10/21/mayoresbici-RTnPDh9xyxaPsDdEtk2Y2MO-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/10/21/mayoresbici-RTnPDh9xyxaPsDdEtk2Y2MO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "«No creo que la inteligencia artificial pueda superar nunca a Hayao Miyazaki»",
       "link": "https://www.abc.es/cultura/kenichi-yoda-presidente-studio-ghibli-creo-inteligencia-20261021153448-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/21/keinichi%20Yoda%2001-RDessxQw7gqsGU3cLmGiEIP-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/21/keinichi%20Yoda%2001-RDessxQw7gqsGU3cLmGiEIP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Pedro Ruiz, sobre la ausencia de Zapatero en la campaña electoral de Sánchez: «Puede ser una prueba clamorosa»",
       "link": "https://www.abc.es/recreo/pedro-ruiz-convencido-detras-zapatero-participe-campana-20261021054500-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2026/10/21/pedro-ruiz-zp-sanchez-klSB-U302334239449HUC-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Aznar: «Cuando yo era más joven, la vivienda era una expectativa, ahora es un derecho»",
-      "link": "https://www.abc.es/espana/jose-maria-aznar-contundente-sobre-problema-vivienda-20261021105312-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/21/aznar-kTbH-RUrGwmOiHlwEunT8aUbEOpL-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Roca Rey, tras su ruptura con Tana Rivera: «Me tocó llorarte casi para siempre»",
-      "link": "https://www.abc.es/gente/roca-rey-tras-ruptura-tana-rivera-toco-20261021092911-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/10/21/ne-RUX9pXLTdBFW4Xw3hrXrZpL-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Ayuso y Milei escenifican su buena sinton��a durante una reunión de dos horas",
-      "link": "https://www.abc.es/espana/madrid/ayuso-milei-escenifican-buena-relacion-encuentro-sede-20261021181303-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/21/ayuso-milei-RI0zEW3qTg2WF2Q0GhdfVtN-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2026/10/21/pedro-ruiz-zp-sanchez-klSB-U302334239449HUC-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }

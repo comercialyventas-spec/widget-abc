@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "¿Cómo hacer un chatbot en WhatsApp para una empresa? 5 pasos que necesitas saber",
+      "link": "https://emprendedores.es/ideas-de-negocio/como-hacer-un-chatbot-en-whatsapp-para-una-empresa-5-pasos-que-necesitas-saber/",
+      "imagen": "https://wp.emprendedores.es/wp-content/uploads/WhatsApp.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El ecosistema startup español mejora, pero falla en la financiación para escalar",
+      "link": "https://emprendedores.es/startups/espana-startups-financiacion/",
+      "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/evolucion-ecosistema-startup-scaleup.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Gemelo digital: ¿Cómo anticipar la rentabilidad de tu negocio?",
+      "link": "https://emprendedores.es/gestion/gemelo-digital-como-anticipar-la-rentabilidad-de-tu-negocio/",
+      "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/gemelo-digital-en-Formula-1-687x1024.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las empresas del PCUMH se consolidan en los grandes premios de innovación del país",
       "link": "https://emprendedores.es/ayudas/las-empresas-del-pcumh-se-consolidan-en-los-grandes-premios-de-innovacion-del-pais/",
       "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/Healthmate-ganadora-Seedrocket-2026.jpg",
@@ -9,32 +27,14 @@
     {
       "titulo": "Formación y empleabilidad: prepararse hoy para facilitar las oportunidades de mañana",
       "link": "https://emprendedores.es/formacion/formacion-y-empleabilidad-prepararse-hoy-para-facilitar-las-oportunidades-de-manana/",
-      "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/Formacion-Carpe-Diem-1200x675.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "¿Cómo apoya el franquiciador al franquiciado antes de abrir su negocio?",
       "link": "https://emprendedores.es/franquicias/franquicias-actualidad/como-apoya-el-franquiciador-al-franquiciado-antes-de-abrir-su-negocio/",
-      "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/apoyo-franquiciador-franquiciado-1200x675.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cantabria por la transparencia en investigación animal",
-      "link": "https://emprendedores.es/ayudas/cantabria-por-la-transparencia-en-investigacion-animal/",
-      "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/Investigacion-animal-1200x675.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mujeres en fintech: sólo el 1% son fundadoras de empresas",
-      "link": "https://emprendedores.es/gestion/emprendimiento-femenino-fintech/",
-      "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/cargos-mujeres-fintech-1024x544.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Prompt: el negocio de saber hablar con la IA",
-      "link": "https://emprendedores.es/inteligencia-artificial/prompt-ia/",
-      "imagen": "https://wp.emprendedores.es/wp-content/uploads/Javi-Manzano1-copia.png",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     }
   ]
 }

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El PP denuncia pintadas contra su concejal Jesús Martínez e Isabel Díaz Ayuso",
+      "link": "https://www.diarioderivas.es/pp-pintadas-jesus-martinez/",
+      "imagen": "https://www.diarioderivas.es/wp-content/uploads/2026/10/Pintadas-PP-1080x675.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un detenido en Rivas por robar en el interior de una docena de vehículos",
       "link": "https://www.diarioderivas.es/detenido-rivas-robo-coches/",
       "imagen": "https://www.diarioderivas.es/wp-content/uploads/2026/10/Detenido-robos-coches-1080x675.png",
@@ -28,12 +34,6 @@
       "titulo": "Rivas instalará cámaras en el cementerio municipal tras un episodio de vandalismo en el mes de abril",
       "link": "https://www.diarioderivas.es/camaras-videovigilancia-cementerio/",
       "imagen": "https://www.diarioderivas.es/wp-content/uploads/2026/07/Cementerio-1080x675.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Detenido un individuo en Rivas tras quemar varios contenedores en el paseo de Capa Negra",
-      "link": "https://www.diarioderivas.es/detenido-rivas-quemar-contenedores-capa-negra/",
-      "imagen": "https://www.diarioderivas.es/wp-content/uploads/2026/09/quema-contenedores-capa-negra-1080x675.jpg",
       "tipo": "imagen"
     }
   ]

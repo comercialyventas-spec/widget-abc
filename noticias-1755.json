@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El kit de los sacrificios",
+      "link": "https://www.publico.es/opinion/vinetas/kit-sacrificios.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/20/6ad746d6404df.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Escuela S.A.",
       "link": "https://www.publico.es/opinion/vinetas/escuela-s.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/17/6ad3b06b3bc1c.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Las casas de Maricarmen",
       "link": "https://www.publico.es/opinion/vinetas/casas-maricarmen.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/08/6ac79e5af27b5.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "29N. Derecho a techo",
-      "link": "https://www.publico.es/opinion/vinetas/29n-derecho-techo.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/06/6ac5097aa01da.jpeg",
       "tipo": "imagen"
     }
   ]
