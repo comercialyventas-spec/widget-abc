@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Sorteo de la BonoLoto del miércoles 21 de octubre",
+      "link": "https://www.rtve.es/rtve/20261022/sorteo-bonoloto-del-miercoles-21-octubre/17277800.shtml",
+      "imagen": "https://img.rtve.es/imagenes/sorteo-bonoloto-del-miercoles-21-octubre/01792616404910.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sorteo de la BonoLoto, Primitiva y Lotería Nacional del jueves 15 de octubre",
       "link": "https://www.rtve.es/rtve/20261016/sorteo-bonoloto-primitiva-loteria-nacional-del-jueves-15-octubre/17263977.shtml",
       "imagen": "https://img.rtve.es/imagenes/sorteo-bonoloto-primitiva-loteria-nacional-del-jueves-15-octubre/01792095781324.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Sorteo de la BonoLoto, Primitiva y Lotería Nacional del jueves 8 de octubre",
       "link": "https://www.rtve.es/rtve/20261009/sorteo-bonoloto-primitiva-loteria-nacional-del-jueves-8-octubre/17256487.shtml",
       "imagen": "https://img.rtve.es/imagenes/sorteo-bonoloto-primitiva-loteria-nacional-del-jueves-8-octubre/1791490130911.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sorteo de la BonoLoto del miércoles 7 de octubre",
-      "link": "https://www.rtve.es/rtve/20261008/sorteo-bonoloto-del-miercoles-7-octubre/17256486.shtml",
-      "imagen": "https://img.rtve.es/imagenes/sorteo-bonoloto-del-miercoles-7-octubre/01791408076269.png",
       "tipo": "imagen"
     }
   ]
