@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Calentamiento global descontrolado",
+      "link": "https://elpais.com/opinion/2026-10-22/calentamiento-global-descontrolado.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7OYO5HX7URGDFOL5BMN77YAUOM.jpg?auth=1229b69ef1452286a81faac1512dd3adffb703be3d8a473f61df5bccc12a16d8&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Inaceptable Milei",
+      "link": "https://elpais.com/opinion/2026-10-21/inaceptable-milei.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ZXVC3REGI5F63ETAVDEH47WDF4.jpg?auth=e6f561120a35892b51e137efe392f5c4755da67a7c8c2670fc5eb3b3bb31f5e5&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Europa frente a Starlink",
       "link": "https://elpais.com/opinion/editoriales/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/LNZKH6PNQRAJNFTTQNHFJGFPBU.jpg?auth=592c40627052fe5b8e9fa5c15c1e4e85bf9138161c7fe89791a1d9954b82a841&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/LNZKH6PNQRAJNFTTQNHFJGFPBU.jpg?auth=592c40627052fe5b8e9fa5c15c1e4e85bf9138161c7fe89791a1d9954b82a841&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Las compañías de Vox",
       "link": "https://elpais.com/opinion/2026-10-14/las-companias-de-vox.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/EJZPV7X3I5F23HWKIHRZL2DHDU.JPG?auth=468e72312d218938970a95e35fbacf794449bc47c071a43295e1b61bd220c602&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Españoles sin voto",
-      "link": "https://elpais.com/opinion/2026-10-14/espanoles-sin-voto.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/NXSCAI6FPFEXVODEZPMRSFPWS4.jpg?auth=5edaaa4632e88ab1492d136d1d4a1408cf9db1e18e51f61d98b46de8e14e8af3&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una visita oportuna y necesaria",
-      "link": "https://elpais.com/opinion/2026-10-13/una-visita-oportuna-y-necesaria.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/UXGBLXQOKNHXFH5XCJYD5QKR3A.jpg?auth=ea2118f85c63383d41ba0404cc2452d4e0c2579b810ecc63b59c1f1841ca1909&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Detectado el virus Shamonda en tres explotaciones de vacuno de leche en Girona",
+      "link": "https://www.lavanguardia.com/vida/20261022/11665772/detectado-virus-shamonda-tres-explotaciones-vacuno-leche-girona.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/10/31/6904a220edbae.r_d.1691-1600-1169.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Una familia desahuciada de Badalona con dos hijos enfermos y con discapacidad pide ayuda",
+      "link": "https://www.lavanguardia.com/local/barcelones-nord/20261022/11665729/familia-desahuciada-badalona-dos-hijos-enfermos-discapacidad-pide-ayuda.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/22/6ada31f55197f.r_d.2160-1184-1051.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los principales ejes del debate del Consell d'Educació: inclusión, profesorado y familias",
       "link": "https://www.lavanguardia.com/vida/20261022/11665514/principales-ejes-debate-consell-d-educacio-inclusion-profesorado-familias.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/21/6ab12d384931c.r_d.2137-1662-1051.jpeg",
@@ -22,18 +34,6 @@
       "titulo": "Virus de Shamonda: qué es, cómo se contagia y qué se sabe de sus síntomas tras detectarse el primer caso mortal en Francia",
       "link": "https://www.lavanguardia.com/vida/salud/20261022/11665549/virus-shamonda-que-como-contagia-principales-sintomas.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2020/11/13/5fbb95a832c67.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los Mossos d'Esquadra investigan una paliza de dos compañeros a un niño por bullying",
-      "link": "https://www.lavanguardia.com/vida/20261022/11665338/mossos-d-esquadra-investigan-paliza-dos-companeros-nino-bullying.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/01/26/69774dd373c78.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El estudio de CCOO para impulsar un tren Lleida-Monzón contempla 12 trenes por sentido",
-      "link": "https://www.lavanguardia.com/vida/20261022/11665538/estudio-impulsar-tren-lleida-monzon-contempla-12-trenes-sentido.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2023/10/08/6522cd217c494.r_d.3013-2009-0.jpeg",
       "tipo": "imagen"
     }
   ]

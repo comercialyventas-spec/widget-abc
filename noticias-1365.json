@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¿Por qué no te callas, Milei?",
+      "link": "https://elpais.com/espana/elecciones-generales/2026-10-22/por-que-no-te-callas-milei.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261021/1228198_175858_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Peridis: sin pecado concebida",
       "link": "https://elpais.com/opinion/2026-10-22/peridis-sin-pecado-concebida.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/EOYFEEFNCFACHNUS5D2YQ227UI.jpg?auth=5a0cca627ebaf0ea3942d41a740e5c4fdfbba729b225dc722086e264155049fc",
@@ -21,19 +27,13 @@
     {
       "titulo": "Allende el Planeta",
       "link": "https://elpais.com/opinion/2026-10-22/allende-el-planeta.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/35LV6Z3BMVN2LGYAZCAG6H4UO4.jpg?auth=4c663379ae81f9a0427a4107264f8ffb2024980ac5ab359d7dcbb380d16fb8c6",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/HN35W6YU2ZHMVAA7BVR535QKVQ.jpg?auth=aaf0bc256ec3154d79262f37a93d8403e208539c5dd22f1725fcbdf33384afdb",
       "tipo": "imagen"
     },
     {
       "titulo": "Calentamiento global descontrolado",
       "link": "https://elpais.com/opinion/2026-10-22/calentamiento-global-descontrolado.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/7OYO5HX7URGDFOL5BMN77YAUOM.jpg?auth=1229b69ef1452286a81faac1512dd3adffb703be3d8a473f61df5bccc12a16d8",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¡Mira detrás de ti! ¡Un coche volador!",
-      "link": "https://elpais.com/opinion/2026-10-22/mira-detras-de-ti-un-coche-volador.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/SRELJ3NH3RK2JH6NGBNWASR3KY.jpg?auth=d3d253fc158eafcff974fa7685e43aaac663a76169b3c22cbd430ab4e5f66749",
       "tipo": "imagen"
     }
   ]

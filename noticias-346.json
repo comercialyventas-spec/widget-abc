@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Qué es PHP y por qué sus fallos de seguridad han desatado una alerta mundial",
+      "link": "https://www.abc.es/tecnologia/informatica/php-fallos-seguridad-desatado-alerta-mundial-20261022191222-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/22/tired-young-handsome-man-sitting-with-laptop-outdoor-cafe-working-remote-studying-using-park-wifi-R0VTbBlT5rf0UwHBkKxAeGN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Tesla pone fecha a la venta del Cybercab, el robotaxi sin volante ni pedales que quiere revolucionar el transporte",
+      "link": "https://www.abc.es/tecnologia/tesla-pone-fecha-venta-cybercab-robotaxi-volante-20261022182937-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/22/tesla-cybercab-robotaxi-coche-autonomo-RWJnWIygvhzu4U4ochEcdkL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un fallo de seguridad afecta a routers de Movistar, Orange, O2, Jazztel y más operadores: qué ha pasado y cuáles son los afectados",
       "link": "https://www.abc.es/tecnologia/fallo-seguridad-afecta-routers-movistar-orange-jazztel-20261021163126-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/21/Movistar%20Base-R8NiUVPArVSyebI0n39PdnK-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Condenan a Meta a pagar una multa de 25.000 millones por engañar a usuarios con la privacidad",
       "link": "https://www.abc.es/tecnologia/condenan-meta-pagar-multa-25000-millones-enganar-20261021200808-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/21/1503185317-ksQE-U302361388199RCD-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mantén privadas tus conversaciones con ChatGPT: esta es la nueva funcionalidad de OpenAI para proteger tus chats",
-      "link": "https://www.abc.es/tecnologia/manten-privadas-tus-conversaciones-chatgpt-nueva-funcionalidad-20261021183928-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/21/openai-ReDQIH2vpuFBzMgL28jqZpI-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Spotify frena el fraude de la inteligencia artificial y borra millones de temas no originales de su plataforma",
-      "link": "https://www.abc.es/tecnologia/redes/spotify-frena-fraude-inteligencia-artificial-borra-millones-20261021192722-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/21/mujer-auriculares-musica-RJmvpakeQMqS1UOJkS1LnDJ-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

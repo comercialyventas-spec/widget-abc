@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Millones de intentos de hackeos después de que se descubriera un fallo de seguridad en el lenguaje PHP de las webs",
-      "link": "https://www.abc.es/sociedad/millones-intentos-hackeos-despues-descubriera-fallo-seguridad-20261022155923-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/10/22/1519128291-kxF-U302374696420PAE-1200x840@diario_abc.jpg",
+      "titulo": "Los medios españoles exigen a Bruselas que frene las nuevas condiciones de Meta",
+      "link": "https://www.abc.es/sociedad/asociacion-medios-exige-bruselas-frene-nuevas-condiciones-20261022185731-ntrc.html",
+      "imagen": "https://s1.abcstatics.com/rc/www/multimedia/sociedad/2026/10/22/meta-reuters-kp6G-U302378764996pcB-1200x840@RC.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "PHP: en qué consiste este lenguaje informático y cómo pueden afectar sus vulnerabilidades en la ciberseguridad de las webs",
+      "link": "https://www.abc.es/sociedad/php-consiste-lenguaje-informatico-pueden-afectar-vulnerabilidades-20261022185907-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/10/22/1519139282-k7kB-U302378178764UYB-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -13,27 +19,21 @@
       "tipo": "imagen"
     },
     {
+      "titulo": "Agricultura pide «calma» por el virus shamonda pero admite que está «en alerta»",
+      "link": "https://www.abc.es/sociedad/agricultura-pide-calma-virus-shamonda-admite-alerta-20261022173601-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/10/22/vacas-Rb0FwnzXLMxvufADmcp2oVK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Millones de intentos de hackeos después de que se descubriera un fallo de seguridad en el lenguaje PHP de las webs",
+      "link": "https://www.abc.es/sociedad/millones-intentos-hackeos-despues-descubriera-fallo-seguridad-20261022155923-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/10/22/1519128291-kxF-U302374696420PAE-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Casi todos los arrecifes de coral se enfrentan al colapso para 2075",
       "link": "https://www.abc.es/sociedad/arrecifes-coral-enfrentan-colapso-2075-20261022144110-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/10/22/arrecife-ok-RFRmVLBrz8PtAvqwzgUSfYN-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La ONU reconoce que el objetivo climático de 1,5ºC está obsoleto y fija de nuevo tope 1,8º",
-      "link": "https://www.abc.es/sociedad/onu-supera-objetivo-climatico-centrarse-grados-20261021083103-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/10/21/incendios-RwTzogbEg2izltCtdenYNzK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Meta se enfrenta a una demanda colectiva en Australia por el diseño adictivo de sus redes sociales en menores",
-      "link": "https://www.abc.es/sociedad/meta-enfrenta-demanda-colectiva-australia-diseno-adictivo-20261022083806-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/10/22/meta-kbd-U3023666556067aG-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Vaticano confirma que el Papa no necesitará ningún tratamiento más allá de la cirugía",
-      "link": "https://www.abc.es/sociedad/hospital-gemelli-confirma-papa-necesitara-ningun-tratamiento-20261021211907-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/10/21/1519077199-kElB-Rf6WkGCVj94ujgkB2PeatXI-1200x840@diario_abc.JPG",
       "tipo": "imagen"
     }
   ]

@@ -1,7 +1,19 @@
 {
   "noticias": [
     {
-      "titulo": "Agricultura pide calma ante el virus de Shamonda, con positivos en animales en Girona, Córdoba, Toledo, Cantabria, Madrid y Ávila",
+      "titulo": "Detectado el virus shamonda en tres explotaciones de vacuno de leche de Girona",
+      "link": "https://www.elperiodico.com/es/sanidad/20261022/detectado-virus-shamonda-tres-explotaciones-135649786",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/739c0f40-4e27-49c8-91dd-2b662b75f5ce_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Expertos en sanidad animal piden reforzar la vigilancia sobre el virus de shamonda y rastrear nuevos casos",
+      "link": "https://www.elperiodico.com/es/sanidad/20261022/expertos-virus-de-shamonda-rastrear-nuevos-casos-vigilancia-135638409",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/387a1101-9996-40fa-8e9d-facf5eb05c59_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Agricultura pide calma ante el virus de shamonda, con positivos en animales en Girona, Córdoba, Toledo, Cantabria, Madrid y Ávila",
       "link": "https://www.elperiodico.com/es/sanidad/20261022/agricultura-espana-alerta-por-el-virus-shamonda-135635639",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/75be8e19-91d3-49bb-ac1a-27d80a170525_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
@@ -9,7 +21,7 @@
     {
       "titulo": "Virus shamonda: qué es, cómo se contagia y principales síntomas",
       "link": "https://www.elperiodico.com/es/sanidad/20261022/virus-shamonda-contagia-principales-sintomas-135625812",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/116ffe4a-6e4c-4964-8ec2-ad7ae63643ff_media-libre-aspect-ratio_default_0.jpg",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/38fc4c2e-c7d5-4d57-9024-48294c7c60a7_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Europa da luz verde a ocrelizumab, una terapia para niños y adolescentes con esclerosis múltiple recurrente",
       "link": "https://www.elperiodico.com/es/sanidad/20261022/europa-da-luz-verde-ocrelizumab-ninos-adolescentes-esclerosis-multiple-135612767",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b5053414-de77-47da-b980-4476686f9c44_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Enfermos que no pueden acogerse a la jubilación anticipada: \"Hay gente que sigue trabajando y está muy deteriorada\"",
-      "link": "https://www.elperiodico.com/es/sanidad/20261022/enfermos-discapacidad-fuera-jubilacion-anticipada-artritis-lupus-fatiga-trabajo-deterioro-135016436",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b851b993-6832-4ec0-9064-e855decc25a4_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cerca de 50.000 trabajadores con discapacidad podrán anticipar su jubilación a los 56 años: \"Cada dolencia que entra en la lista es una alegría\"",
-      "link": "https://www.elperiodico.com/es/sanidad/20261022/trabajadores-discapacidad-espanoles-jubilacion-anticipada-enfermedades-alegria-lista-135014063",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/e6718828-d837-4176-9f50-4ea5f1d4ae0a_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

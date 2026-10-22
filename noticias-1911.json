@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Algunos años difíciles",
+      "link": "https://www.eldiario.es/opinion/anos-dificiles_131_13607897.html",
+      "imagen": "https://static.eldiario.es/clip/4fe96a9c-9ec6-4141-8560-c378c11172aa_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Amnistía por fin",
       "link": "https://www.eldiario.es/opinion/amnistia_131_13601689.html",
       "imagen": "https://static.eldiario.es/clip/a6a648da-1bdb-4994-a4fd-62aed351cb59_16-9-discover-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Mientras, en Ceuta...",
       "link": "https://www.eldiario.es/opinion/ceuta_131_13589692.html",
       "imagen": "https://static.eldiario.es/clip/d9a7299c-1c62-4cd4-a1c3-b01a7565c716_16-9-discover-aspect-ratio_default_0_x360y141.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sorprendidos",
-      "link": "https://www.eldiario.es/opinion/sorprendidos_131_13579074.html",
-      "imagen": "https://static.eldiario.es/clip/ecd46b9c-33f9-4774-b9aa-bebb87d6caa0_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

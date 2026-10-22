@@ -1,7 +1,13 @@
 {
   "noticias": [
     {
-      "titulo": "EEUU tendrá su primera policía voladora en una universidad de Florida: vigilará el campus desde el aire",
+      "titulo": "La razón por la que el pulpo tiene sangre azul y tres corazones para sobrevivir (y no es un mito de la realeza)",
+      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-22/motivo-biologico-sangre-pulpo-azul-tres-corazones-sobrevivir-1qrt_4451025/",
+      "imagen": "https://images.ecestaticos.com/TddfBYPcdlgQcIADAP6OxUPYlTM=/0x0:1000x562/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F0a1%2F240%2F5c4%2F0a12405c469c8d8d8afd5e9a4116b01b.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "EEUU está a punto de tener la primera policía voladora del mundo que patrulla en un dron con piloto",
       "link": "https://www.elconfidencial.com/tecnologia/novaceno/2026-10-22/policia-eeuu-jetson-one-coche-volador-evtol_4450933/",
       "imagen": "https://images.ecestaticos.com/1McyKJZHKhXaVffU50Tb3OZfnzo=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa03%2F2f4%2Fb3e%2Fa032f4b3e0ef32da33d67d9b91b4084e.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Sam Altman, fundador de Open AI: \"No he dormido bien ni una sola noche desde que se lanzó ChatGPT\"",
       "link": "https://www.elconfidencial.com/tecnologia/2026-10-22/sam-altman-no-he-dormido-bien-ni-desde-lanzamiento-chatgpt-1qrt_4450222/",
       "imagen": "https://images.ecestaticos.com/7CJVAUBXekru8m309rVH_upps_Q=/0x0:2272x1278/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F05e%2Fa6a%2F5c8%2F05ea6a5c823f6cd3a98b664e08ef6532.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Así funciona SynthID: podrás saber si fotos como las de la Pantera Rosa son falsas en segundos",
-      "link": "https://www.elconfidencial.com/tecnologia/2026-10-22/synthid-fotos-falsas-pantera-rosa-inteligencia-artificial-1qrt_4449178/",
-      "imagen": "https://images.ecestaticos.com/uQQ9DoMeWtFLF7CSvyB8CZ5WjhI=/0x0:1000x750/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F685%2F727%2F228%2F685727228970ef53487be3ed31825df9.jpg",
       "tipo": "imagen"
     }
   ]

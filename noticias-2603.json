@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Un terremoto de magnitud 7 sacude la región del Tíbet en China",
+      "link": "https://www.telecinco.es/noticias/internacional/20261022/terremoto-magnitud-sacude-region-tibet-china_18_020514277.html",
+      "imagen": "https://album.mediaset.es/eimg/2026/10/22/imagenes-de-las-inundaciones-en-la-region-fronteriza-entre-el-tnibet-y-nepal_838f.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Claudia Abbt y Eva Gretzmacher, liberadas tras estar secuestradas un año en Níger por el Estado Islámico",
+      "link": "https://www.telecinco.es/noticias/internacional/20261022/claudia-abbt-eva-gretzmacher-liberadas-secuestradas-niger-estado-islamico_18_020513229.html",
+      "imagen": "https://album.mediaset.es/eimg/2026/10/22/claudia-abbt-y-eva-gretzmacher-han-sido-liberadas-tras-estar-secuestradas-un-ano-en-niger-por-el-est_f484.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Unos padres abandonan a sus hijos a 2.000 metros de altitud en los Alpes italianos: los menores fueron rescatados con hipotermia",
       "link": "https://www.telecinco.es/noticias/internacional/20261022/padres-abandonan-hijos-alpes-italianos-menores-rescatados-hipotermia_18_020512193.html",
-      "imagen": "https://album.mediaset.es/eimg/2026/10/22/unos-padres-abandonan-a-sus-hijos-a-2-000-metros-de-altitud-en-los-alpes-italianos-los-menores-fuero_ef99.jpg",
+      "imagen": "https://album.mediaset.es/eimg/2026/10/22/unos-padres-abandonan-a-sus-hijos-a-2-000-metros-de-altitud-en-los-alpes-italianos-los-menores-fuero_44f5.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Zelenski denuncia que Rusia \"responde a las negociaciones con misiles\" y exige \"presión real\" sobre Moscú",
       "link": "https://www.telecinco.es/noticias/internacional/20261022/zelenski-denuncia-rusia-responde-negociaciones-misiles_18_020511085.html",
       "imagen": "https://album.mediaset.es/eimg/2026/10/22/zelenski-denuncia-que-rusia-responde-a-las-negociaciones-con-misiles-y-exige-presion-real-sobre-mosc_ecbc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Polémica por el anuncio del gobierno de Irlanda que pide a los abuelos que no abracen a sus nietos sin consentimiento",
-      "link": "https://www.telecinco.es/noticias/internacional/20261022/polemica-anuncio-gobierno-irlanda-pide-abuelos-no-abrazar-nietos-sin-consentimiento_18_020509065.html",
-      "imagen": "https://album.mediaset.es/eimg/2026/10/22/el-anuncio-del-gobierno-de-irlanda-en-la-que-pide-consentimiento-para-que-los-abuelos-abracen-a-sus_508c.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Christa Pike se recupera en la cárcel después de su ejecución fallida en EEUU: ya puede caminar sola y ha mejorado su capacidad para hablar",
-      "link": "https://www.telecinco.es/noticias/internacional/20261022/christa-pike-puede-caminar-sola-capacidad-hablar-ejecucion-fallida-estados-unidos_18_020506681.html",
-      "imagen": "https://album.mediaset.es/eimg/2026/10/22/christa-pike-ya-puede-caminar-por-si-sola-y-ha-mejorado-su-capacidad-para-hablar-despues-de-su-ejecu_0f2c.jpg",
       "tipo": "imagen"
     }
   ]

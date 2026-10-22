@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La nueva generación de escritores españoles: \"La literatura que triunfa hoy es la que da voz a los márgenes, y eso es ya es un logro\"",
+      "link": "https://www.elmundo.es/la-lectura/2026/10/22/6ad8db6ae9cf4afd2a8b4585.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/21/17925967363069.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Euríbor hoy, jueves 22 de octubre: mínima bajada de la tasa diaria que no afloja la tendencia al alza",
       "link": "https://www.elmundo.es/economia/2026/10/22/6ad9f37d21efa0e7508b4598.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/06/08/17809195230603.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Democracia 21 propone límites a los precios de los alquileres y que el Estado actúe como escudo ante impagos",
       "link": "https://www.elmundo.es/elecciones/2026/10/22/6ad8cfa3e4d4d86f108b45da.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/21/17925938053786.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las ciudades de España: demasiado llenas para la convivencia, demasiado vacías para la crisis de la vivienda",
-      "link": "https://www.elmundo.es/cultura/2026/10/21/6ad109e921efa04d5c8b45ba.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/15/17920846818972.jpg",
       "tipo": "imagen"
     }
   ]
