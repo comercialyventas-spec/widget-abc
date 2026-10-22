@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Oxfam Intermón alerta de una \"grave falta de fondos\" para la ayuda humanitaria por El Niño",
+      "link": "https://www.rtve.es/noticias/20261022/oxfam-intermon-alerta-grave-falta-fondos-ayuda-humanitaria-nino/17277775.shtml",
+      "imagen": "https://img.rtve.es/imagenes/oxfam-intermon-alerta-grave-falta-fondos-ayuda-humanitaria-nino/01792632909484.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Alerta mundial por dos fallos críticos en PHP: qué riesgos afrontan millones de servidores web",
       "link": "https://www.rtve.es/noticias/20261022/fallos-criticos-php2shell-vulnerabilidades-servidores-alerta-ciberseguridad/17277748.shtml",
       "imagen": "https://img.rtve.es/imagenes/fallos-criticos-php2shell-vulnerabilidades-servidores-alerta-ciberseguridad/01792622323184.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Osteoporosis: la importancia de actuar antes de la primera fractura",
       "link": "https://www.rtve.es/noticias/20261020/osteoporosis-importancia-actuar-antes-primera-fractura/17272488.shtml",
       "imagen": "https://img.rtve.es/imagenes/osteoporosis-importancia-actuar-antes-primera-fractura/01792400456666.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Anthropic y SpaceX prometen donaciones millonarias para paliar el efecto negativo de la inteligencia artificial",
-      "link": "https://www.rtve.es/noticias/20261020/anthropic-spacex-donaciones-millonarias-inteligencia-artificial/17274095.shtml",
-      "imagen": "https://img.rtve.es/imagenes/anthropic-spacex-donaciones-millonarias-inteligencia-artificial/01792458370579.jpg",
       "tipo": "imagen"
     }
   ]
