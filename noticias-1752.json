@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La solución habitacional de Feijóo",
+      "link": "https://www.publico.es/opinion/vinetas/solucion-habitacional-feijoo.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/22/6ada2066bfdcd.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "De la nueva adaptación de Jane Austen a un drama familiar: los estrenos de la semana",
+      "link": "https://www.publico.es/culturas/video-nueva-adaptacion-jane-austen-drama-familiar-estrenos-semana.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/20/6ad72d5ed431e.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El 77% de las muertes por calor de este verano en España se podrían haber evitado en un escenario sin crisis climática",
       "link": "https://www.publico.es/sociedad/m-ambiente/77-muertes-calor-verano-espana-podrian-haber-evitado-escenario-crisis-climatica.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/21/6ad8e2f400c25.jpeg",
@@ -22,18 +34,6 @@
       "titulo": "La Administración Trump deporta a casi un millón de personas en su segundo mandato",
       "link": "https://www.publico.es/internacional/eeuu/administracion-trump-deporta-casi-millon-personas-segundo-mandato.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/22/6ada730852c49.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "De Celtas Cortos a 'La Revuelta' y más del doble de mítines que en 2023: Sánchez se multiplica en la campaña del 29N",
-      "link": "https://www.publico.es/politica/partidos/celtas-cortos-revuelta-doble-mitines-2023-sanchez-multiplica-campana-29n.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/22/6ad9ecd34ca80.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "\"Me arrojaron al mar sin saber nadar\": migrantes denuncian nuevas agresiones por parte de militares y las ONG exigen al Gobierno que actúe",
-      "link": "https://www.publico.es/sociedad/migracion/me-arrojaron-mar-saber-nadar-migrantes-denuncian-nuevas-agresiones-parte-militares-ong-exigen-gobierno-actue.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/22/6ada6aa56ecc7.jpeg",
       "tipo": "imagen"
     }
   ]

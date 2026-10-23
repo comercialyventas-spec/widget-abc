@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¿Cómo hacer una firma de correo electrónico para tu cuenta de empresa?",
+      "link": "https://emprendedores.es/gestion/como-hacer-firma-correo-electronico-cuenta-empresa/",
+      "imagen": "https://wxglizbwjzuheprcvxlu.supabase.co/storage/v1/object/public/enhanced-images/inline-kw_intent_articles-bd01b27c-dc5d-4b0d-a500-119415c3d22a-0-1-1770120896049.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las spin-offs deep tech en España crecen un 4,6% y ya son 1.014",
       "link": "https://emprendedores.es/startups/ecosistema-spin-offs-deep-tech-2/",
       "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/especializacion-spinoffs.png",
@@ -21,19 +27,13 @@
     {
       "titulo": "Berto’s Milanesa abre en Zaragoza su primera franquicia",
       "link": "https://emprendedores.es/franquicias/franquicias-nuevas/bertos-milanesa-abre-en-zaragoza-su-primera-franquicia/",
-      "imagen": "",
-      "tipo": ""
+      "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/bertos-milanesa-zaragoza-1200x675.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Vuelve el CEIN Startup Day, con la inversión y la innovación abierta como hilos conductores",
       "link": "https://emprendedores.es/ayudas/vuelve-el-cein-startup-day-inversion-y-la-innovacion-abierta/",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "NEAR: inteligencia artificial para reducir los viajes en vacío en el transporte de mercancías",
-      "link": "https://emprendedores.es/marketing-y-ventas/logistica/near/",
-      "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/lorena-rubio-navolotskaya-828x1024.jpg",
+      "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/CEIN-Startup-Day-2025-1200x675.jpg",
       "tipo": "imagen"
     }
   ]
