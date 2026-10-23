@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Potaje de berros, la receta canaria más reconfortante",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-23/potaje-de-berros-la-receta-canaria-mas-reconfortante.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/3YWQDG73KBEWFL5KNETQQ2WKF4.jpg?auth=c53f7618277e4e8009c2f9742b09e6d6de77b63c2feeb7d6d4825f1de89ed971",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La receta de ensalada de atún que le da una vuelta a la mixta de siempre",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-10-22/la-receta-de-ensalada-de-atun-que-le-da-una-vuelta-a-la-mixta-de-siempre.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20261013/1224875_160403_video_1800.mp4",
@@ -28,12 +34,6 @@
       "titulo": "Buyiurdi, la receta griega de tomate con queso fundido para untar",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-10-20/buyiurdi-la-receta-griega-de-tomate-con-queso-fundido-para-untar.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20261013/1224871_155630_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Lentejas con tomate y queso de cabra",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-19/lentejas-con-tomate-y-queso-de-cabra.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/VNX4ZMP23BGLJIBPX33NGIFHLM.jpg?auth=f54130d1bcefa10e275f1c8d007473b3f950ac22e5df5938a51d19367d5952a9",
       "tipo": "imagen"
     }
   ]

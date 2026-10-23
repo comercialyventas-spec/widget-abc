@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Potaje de berros, la receta canaria más reconfortante",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-23/potaje-de-berros-la-receta-canaria-mas-reconfortante.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/3YWQDG73KBEWFL5KNETQQ2WKF4.jpg?auth=c53f7618277e4e8009c2f9742b09e6d6de77b63c2feeb7d6d4825f1de89ed971",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los baños de bares y restaurantes: el gran marrón",
+      "link": "https://elpais.com/gastronomia/2026-10-23/los-banos-de-bares-y-restaurantes-el-gran-marron.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/6S7RWXHFCVH2BOBVRUVFBLUJUI.jpg?auth=73dcd80083b3921e010eaa32d6e875e8f2917b30da354ccaac41efabd1953175",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Mesa de Conus, la barra de Vigo que cultiva sus propias fabas y reivindica los platos de cuchara",
+      "link": "https://elpais.com/gastronomia/restaurantes/2026-10-23/la-mesa-de-conus-la-barra-de-vigo-que-cultiva-sus-propias-fabas-y-reivindica-los-platos-de-cuchara.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ME5XUS75CJBE3FODOH46DR7VBY.jpg?auth=bdc796b95f0c2cd46afa98d1aecad9243e7ba1737c359adff87910e72843b214",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El kéfir, un lácteo del Cáucaso adaptado a todos los gustos y rutinas",
       "link": "https://elpais.com/gastronomia/2026-10-22/el-kefir-un-lacteo-del-caucaso-adaptado-a-todos-los-gustos-y-rutinas.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/THNFR5ILFNH5BI3OFWAAUWOM3A.jpg?auth=304f0bbfabb7985c8dc25f3ae0e8507f60917f0bcd5f60da3aeae9c5c74ef44f",
@@ -16,24 +34,6 @@
       "titulo": "La receta de ensalada de atún que le da una vuelta a la mixta de siempre",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-10-22/la-receta-de-ensalada-de-atun-que-le-da-una-vuelta-a-la-mixta-de-siempre.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20261013/1224875_160403_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cremoso de mango, coco y yogur griego",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-22/cremoso-de-mango-coco-y-yogur-griego.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/OEYJVVDWIJGYNN3GJT2YFXJNRM.JPG?auth=4abe572391c91ee9af858efa6b2ad3fe00cb0a243893aa0ee420483c29e6157b",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "2026, el año de la nueva realidad climática",
-      "link": "https://elpais.com/gastronomia/2026-10-22/2026-el-ano-de-la-nueva-realidad-climatica.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/INOPL7E7KJARXHFZZIDTILZNQE.jpg?auth=8d17831d813d44c0b5511955b3e60abe548777134e43c85b141b96ad09e79be3",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Leonoras, las nuevas galletas en honor de la Princesa de Asturias y otros postres reales",
-      "link": "https://elpais.com/gastronomia/2026-10-22/leonoras-las-nuevas-galletas-en-honor-de-la-princesa-de-asturias-y-otros-postres-reales.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/SYSIPEGFPBDADGQXQWMGNWYHPY.jpg?auth=889fc5547f3d854db62c7fdad50500f382b7c8484f64e9e33990760a5256d44c",
       "tipo": "imagen"
     }
   ]

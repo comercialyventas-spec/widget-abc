@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El cambio climático es responsable del 65 % de las muertes por calor en 2026 en Europa",
+      "link": "https://efe.com/medio-ambiente/2026-10-23/cambio-climatiico-muertes-calor-2026-europa/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/cambio-climatico-responsable-65-muertes-calor-2026-europa.webp?fit=900%2C600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Indígenas piden al Gobierno de Bolivia restringir la minería en el acceso al parque Madidi",
       "link": "https://efe.com/medio-ambiente/2026-10-22/indigenas-bolivia-piden-restringir-mineria-parque-madidi/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/Indigenas-Bolivia.webp?fit=900%2C600&ssl=1",
@@ -28,12 +34,6 @@
       "titulo": "La tormenta subtropical Josephine se forma en el Atlántico y se alejará de EE.UU.",
       "link": "https://efe.com/medio-ambiente/2026-10-22/tormenta-subtropical-josephine-atlantico-eeuu-canada/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/HURACANES.webp?fit=897%2C736&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La ONU alerta de que El Niño puede alcanzar una «intensidad sin precedentes»",
-      "link": "https://efe.com/medio-ambiente/2026-10-21/onu-alerta-intensidad-el-nino/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/EL-NINO-ONU-4.webp?fit=900%2C600&ssl=1",
       "tipo": "imagen"
     }
   ]

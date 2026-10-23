@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "¿Cómo pensar lo que importa? Con la memoria personal",
+      "link": "https://elpais.com/babelia/2026-10-23/como-pensar-lo-que-importa-con-la-memoria-personal.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RI7U53K6CJBGBMUIGGTOXIHM7Q.jpg?auth=b57fdde16c21a097962ba12d6b114f8fb1c8ea40890eb6e9c7cc5e5bbdc72b73",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "‘El gran secreto’, la sangre ‘impura’ de la nobleza española",
+      "link": "https://elpais.com/babelia/2026-10-23/el-gran-secreto-la-sangre-impura-de-la-nobleza-espanola.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/EVVJQ5PFVJFCTNL4ALCVPECMRM.jpg?auth=e4bd325c0b7eacb5ee34d063e47a8df272674753ccd23ab14f393231402d21d8",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Trescientas versiones de una imagen: la fotografía del pasaporte del padre",
       "link": "https://elpais.com/babelia/2026-10-22/trescientas-versiones-de-una-imagen-la-fotografia-del-pasaporte-del-padre.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/Z5G5WP2TP5CJNICB7GICUSXUEM.jpg?auth=1d4c1e040ae1231e486fee10550111dab7b35f9b74991319774a862ca5983f51",
@@ -22,18 +34,6 @@
       "titulo": "Ser “valientes” con los pensionistas",
       "link": "https://elpais.com/babelia/2026-10-21/ser-valientes-con-los-pensionistas.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/IEYDBMZUVNGTFAYLI6GDLNWVPM.jpg?auth=ebf6a4a9209cae1a33fd4355603acf61101e7871f575a48581933d4f7cfb4498",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Patti Smith: los mejores discos y libros de una artista que jamás se dejó domesticar",
-      "link": "https://elpais.com/babelia/2026-10-20/patti-smith-los-mejores-discos-y-libros-de-una-artista-que-jamas-se-dejo-domesticar.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/7FUMSHOEXNETBFPFIHC7PDYMUA.jpg?auth=5b62d6b543a7680ef477709ef3085ce79b2a924129f224e2ec4416a9baf683af",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cristina Rosselló, cineasta: “Nunca realizaría una campaña política para un partido de extrema derecha”",
-      "link": "https://elpais.com/babelia/2026-10-20/cristina-rossello-cineasta-nunca-realizaria-una-campana-politica-para-un-partido-de-extrema-derecha.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/TARCJSOJ7BGXNHRDBCP2F3BBVI.jpg?auth=1debb6e264e0b388514c7226c4a723db6200c4316cc1883f62a25401ee3ac3e0",
       "tipo": "imagen"
     }
   ]
