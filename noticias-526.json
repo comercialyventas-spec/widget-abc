@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Puerta de Alcalá",
+      "link": "https://www.elconfidencialdigital.com/album/vivir/puerta-de-alcala/202610231214261496213.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/23/2026102312131177195.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Coworking",
       "link": "https://www.elconfidencialdigital.com/album/vivir/coworking/202610221242101495930.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/22/2026102212374536272.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Viajes Navidad",
       "link": "https://www.elconfidencialdigital.com/album/vivir/viajes-navidad/202610141152551493464.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/14/2026101411473226899.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Supermercados",
-      "link": "https://www.elconfidencialdigital.com/album/vivir/supermercados/202610131330081493199.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/10/2026091011301786085.jpg",
       "tipo": "imagen"
     }
   ]

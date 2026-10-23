@@ -1,10 +1,22 @@
 {
   "noticias": [
     {
+      "titulo": "Del emprendimiento a la dirección: el valor de un MBA",
+      "link": "https://emprendedores.es/formacion/del-emprendimiento-a-la-direccion-el-valor-de-un-mba/",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "Nanogrow gana el VDS 2026 con sus medicamentos basados en nanoanticuerpos",
+      "link": "https://emprendedores.es/startups/nanogrow-premio-vds-nanoanticuerpos/",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "Estas son las nueve ideas de negocio que competirán en los Santander X Global Award",
       "link": "https://emprendedores.es/ayudas/estas-son-las-nueve-ideas-de-negocio-que-competiran-en-los-santander-x-global-award/",
-      "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/Ganadores-Santader-X-Spain-Awards-1200x675.jpeg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "TGB lanza dos nuevas burgers de edición limitada: Chidobao y Sweet Golosa",
@@ -15,25 +27,13 @@
     {
       "titulo": "Aquí tu Reforma entra en Italia y Francia con un modelo de delegado comercial",
       "link": "https://emprendedores.es/franquicias/franquicias-actualidad/aqui-tu-reforma-entra-en-italia-y-francia-con-un-modelo-de-delegado-comercial/",
-      "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/aqui-tu-reforma-colombo-portugal-1200x675.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Brooklyn Fitboxing busca socios para llegar a los 500 clubes",
       "link": "https://emprendedores.es/franquicias/brooklyn-fitboxing-busca-socios-para-llegar-a-los-500-clubes/",
       "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/brooklyn-fitboxing-1024x683.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "“El gran desafío es convertir el interés por la salud en hábitos duraderos”",
-      "link": "https://emprendedores.es/franquicias/entrevistas/el-gran-desafio-es-convertir-el-interes-por-la-salud-en-habitos-duraderos/",
-      "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/tim-devereaux-1200x675.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Cómo hacer una firma de correo electrónico para tu cuenta de empresa?",
-      "link": "https://emprendedores.es/gestion/como-hacer-firma-correo-electronico-cuenta-empresa/",
-      "imagen": "https://wxglizbwjzuheprcvxlu.supabase.co/storage/v1/object/public/enhanced-images/inline-kw_intent_articles-bd01b27c-dc5d-4b0d-a500-119415c3d22a-0-1-1770120896049.png",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El metro de Barcelona cortará un tramo de cinco estaciones de la L5 para renovar la vía el verano del 2027",
+      "link": "https://www.elperiodico.com/es/barcelona/20261023/cortes-l5-metro-barcelona-verano-2027-fechas-estaciones-135616785",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ee565e08-3c8f-4cb6-a949-35cfdadffe4f_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los Mossos salvan la vida de un hombre que cayó desplomado mientras jugaba a fútbol en un parque de L'Hospitalet de Llobregat",
       "link": "https://www.elperiodico.com/es/barcelona/hospitalet/20261022/mossos-salvan-vida-hombre-cayo-lhospitalet-mossos-salvan-vida-parada-cardiorespiratoria-135595914",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6f13675c-3256-48e9-8ce4-8459b3233c8e_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El Gastronòmic Fòrum Barcelona revisita la tradición en una nueva sede, la Fira Gran Via de L'Hospitalet",
       "link": "https://www.elperiodico.com/es/gastronomia/20261019/gastronomic-forum-barcelona-2026-135492014",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f5b2fc53-b967-4cc5-96ed-2b615a86f818_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Govern quiere construir el futuro Campus Clínic con colaboración público-privada",
-      "link": "https://www.elperiodico.com/es/economia/20261018/govern-quiere-construir-futuro-campus-clinic-diagonal-concesion-colaboracion-publico-privada-135386125",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/4392a0ca-dd41-49cd-823d-a3760dd1afcf_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

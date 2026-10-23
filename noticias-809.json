@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La borrasca Austen estropea el viernes con olas de más de siete metros y fuertes vientos en el norte",
+      "link": "https://www.eldiario.es/sociedad/el-tiempo/borrasca-austen-estropea-viernes-olas-siete-metros-fuertes-vientos-norte-pm_1_13606872.html",
+      "imagen": "https://static.eldiario.es/clip/e5c9e3d7-4581-4dfe-931a-f71b99378671_16-9-discover-aspect-ratio_default_1153933.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las lluvias se concentran este jueves y las mínimas bajan en buena parte de España",
       "link": "https://www.eldiario.es/sociedad/el-tiempo/lluvias-concentran-jueves-minimas-bajan-buena-parte-espana-pm_1_13603646.html",
       "imagen": "https://static.eldiario.es/clip/e768c678-2745-4584-84d9-97cf02be821a_16-9-discover-aspect-ratio_default_1153833.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La primera dana de gran impacto de la temporada irrumpe con hasta 250 litros y una caída térmica de ocho grados en España",
       "link": "https://www.eldiario.es/sociedad/el-tiempo/primera-dana-gran-impacto-temporada-irrumpe-250-litros-caida-termica-ocho-grados-espana-pm_1_13592373.html",
       "imagen": "https://static.eldiario.es/clip/88d49170-0fef-4d9f-ae23-499438a5861b_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El calor sigue en otoño: temperaturas por encima de los 30 grados y sin lluvias hasta el viernes",
-      "link": "https://www.eldiario.es/sociedad/el-tiempo/calor-sigue-otono-temperaturas-30-grados-lluvias-viernes-pm_1_13580670.html",
-      "imagen": "https://static.eldiario.es/clip/b380c4b2-49ff-4ba5-a5af-5aa0c2db21aa_16-9-discover-aspect-ratio_default_1153158.jpg",
       "tipo": "imagen"
     }
   ]
