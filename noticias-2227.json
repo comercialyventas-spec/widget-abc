@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Evento socio-cultural en distrito Centro. Afectadas 23 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261025-Fiesta-de-la-Trashumancia.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Evento sociocultural en distrito Moncloa-Aravaca. Afectadas 12 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261024-Traslado-Trashumante-Tarde.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Evento sociocultural en varios distritos. Afectadas 4 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261024-Traslado-Trashumante-Mañana.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Manifestación en distrito Centro. Afectadas 37 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261024-M-Plaza-España-Cibeles.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Evento deportivo en Casa de Campo. Afectada línea 33 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261025-Carrera-Civico-Militar-Contra-la-Droga.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -9,30 +33,6 @@
     {
       "titulo": "Obras: Hortaleza. Afectada línea 3 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261026-O-Hortaleza.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Acto religioso en distrito Chamberí. Afectadas 7 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261025-PR-Hdad-Señor-Milagros-Centro.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Evento sociocultural en Conde de Peñalver. Afectadas 2 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261025-Jornadas-Culturales-Salamanca.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Finalización de obras en avenida de Betanzos. Afectada línea 83 de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261023-FO-Avenida-Betanzos.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Evento: Palacio de los Deportes. Afectadas 4 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261026-PD-Evento.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

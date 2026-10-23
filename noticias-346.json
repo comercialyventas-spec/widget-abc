@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La IA de Microsoft acierta en el 83 % de los diagnósticos complejos de enfermedades: «Va a cambiar de forma radical cómo se presta la asistencia sanitaria»",
+      "link": "https://www.abc.es/tecnologia/ia-microsoft-acierta-diagnosticos-complejos-enfermedades-cambiar-20261023182800-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/23/medico-hosptial-ordenador-ia-R3Rx4zIdea33Iq4FPY15zRM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Canva resuelve uno de los grandes problemas de la IA generativa: crear imágenes con texto legible y modificable",
+      "link": "https://www.abc.es/tecnologia/canva-resuelve-grandes-problemas-ia-generativa-crear-20261023173007-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/23/canva-Rm7sCF1dj0pctyKPvz0zyfK-1200x840@diario_abc.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El «truco» de Sánchez para evitar otro caso Pegasus: apagar el móvil durante cinco minutos al día",
       "link": "https://www.abc.es/tecnologia/moviles/truco-sanchez-evitar-pegasus-apagar-movil-cinco-20261023103805-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/23/sanchez-kf7G-U302386040934qFG-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Tesla pone fecha a la venta del Cybercab, el robotaxi sin volante ni pedales que quiere revolucionar el transporte",
       "link": "https://www.abc.es/tecnologia/tesla-pone-fecha-venta-cybercab-robotaxi-volante-20261022182937-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/22/tesla-cybercab-robotaxi-coche-autonomo-RWJnWIygvhzu4U4ochEcdkL-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un fallo de seguridad afecta a routers de Movistar, Orange, O2, Jazztel y más operadores: qué ha pasado y cuáles son los afectados",
-      "link": "https://www.abc.es/tecnologia/fallo-seguridad-afecta-routers-movistar-orange-jazztel-20261021163126-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/21/Movistar%20Base-R8NiUVPArVSyebI0n39PdnK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Alerta roja en Electronic Arts: despide a 400 trabajadores, cierra BioWare y cancela varios lanzamientos",
-      "link": "https://www.abc.es/tecnologia/videojuegos/alerta-roja-electronic-arts-despide-400-trabajadores-20261022114433-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/22/mass-effect-kAyD-U3023679325570yE-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
