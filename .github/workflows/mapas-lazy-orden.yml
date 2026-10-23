@@ -1,0 +1,57 @@
+name: Mapas lazy (por orden)
+
+# Se lanza cuando cambia migracion/orden_mapas_lazy.json (lo sube Claude con el permiso de Dani).
+# orden_mapas_lazy.json: {"modo": "simular" | "aplicar" | "restaurar" | "comprobar", "tope": 150, "vez": 1}
+# Informe en migracion/backup_mapas_lazy/informe_<modo>.txt y copias en migracion/backup_mapas_lazy/<postId>.json,
+# guardados en la misma rama en la que se ha subido la orden.
+on:
+  push:
+    branches: [main, claude/beautiful-bohr-034gh0]
+    paths: ['migracion/orden_mapas_lazy.json']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mapas-lazy
+  cancel-in-progress: false
+
+jobs:
+  mapas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Mapas lazy
+        env:
+          CLIENT_ID: ${{ secrets.BLOGGER_CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.BLOGGER_CLIENT_SECRET }}
+          REFRESH_TOKEN: ${{ secrets.BLOGGER_REFRESH_TOKEN }}
+        run: |
+          MODO=$(node -e "console.log(require('./migracion/orden_mapas_lazy.json').modo)")
+          TOPE=$(node -e "console.log(require('./migracion/orden_mapas_lazy.json').tope || 150)")
+          set +e
+          node migracion/mapas_lazy.js "$MODO" "$TOPE"
+          grep -E "MODO|Entradas|iframes|RESUMEN|ERROR|CORTADO|Tope|BIEN|MAL" migracion/backup_mapas_lazy/informe_$MODO.txt | head -10 | while IFS= read -r l; do echo "::notice::$l"; done
+          exit 0
+
+      - name: Guardar informe y copias de seguridad
+        if: always()
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add migracion/backup_mapas_lazy || true
+          if git diff --cached --quiet; then echo "Nada que guardar"; exit 0; fi
+          git commit -m "Mapas lazy: informe y copias de seguridad"
+          for i in 1 2 3 4 5; do
+            git fetch origin "${GITHUB_REF_NAME}"
+            git rebase "origin/${GITHUB_REF_NAME}" || git rebase --abort
+            if git push origin "HEAD:${GITHUB_REF_NAME}"; then exit 0; fi
+            sleep 10
+          done
+          exit 1
