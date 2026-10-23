@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Talento emergente y experimentación",
+      "link": "https://www.larazon.es/gastronomia/talento-emergente-experimentacion_202610226ad9c98c3eef771e1ac2eb6b.html",
+      "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/10/22/E30CB994-5821-4632-A8FA-B809430546D7/enrique-garcia-ceo-avolution-lab-philippe-labbe-director-tecnico-bch-martin-berasategui-junto-autoridades_60.jpg?crop=2449,1378,x0,y128&width=640&height=360&optimize=high&format=webply",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El sabor que también viaja a casa",
+      "link": "https://www.larazon.es/gastronomia/sabor-que-tambien-viaja-casa_202610226ad9c90e3eef771e1ac2eacb.html",
+      "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/10/22/7828E983-3C1D-45FE-851E-847D5503C02A/marcella-filippone-david-varas-sanchez-posan-galardon_66.jpg?crop=1633,1633,x408,y0&width=150&height=150&optimize=high&format=webply",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Premios La Razón de Videojuegos by Difoosion 2026: finalistas a Mejor Smart TV para gaming",
       "link": "https://www.larazon.es/videojuegos/eventos/premios-razon-videojuegos-by-difoosion-2026-finalistas-mejor-smart-tv-gaming_202610206ad60162bafd3d7363654cf8.html",
-      "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/10/20/F22EF16E-3DD8-4D72-B824-5065AEEE6872/premios-razon-televisor-gaming_60.jpg",
+      "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/10/20/F22EF16E-3DD8-4D72-B824-5065AEEE6872/premios-razon-televisor-gaming_66.jpg?crop=720,720,x280,y0&width=150&height=150&optimize=high&format=webply",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Premios La Razón de Tecnología y Consumo by Difoosion 2026: estos son los nominados a Mejor Tecnología en Vehículos",
       "link": "https://www.larazon.es/tecnologia-consumo/eventos/premios-razon-tecnologia-consumo-by-difoosion-2026-estos-son-nominados-mejor-tecnologia-vehiculos_202610196ad5bf5bfb06971aad080bb5.html",
       "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/10/19/86241FDE-05B3-4B93-AD9B-D6F037B5321B/nominados-categoria-mejor-tecnologia-vehiculos_66.jpg?crop=1080,1080,x420,y0&width=150&height=150&optimize=high&format=webply",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Premios La Razón de Videojuegos by Difoosion 2026: finalistas a Mejor adaptación a serie o película",
-      "link": "https://www.larazon.es/videojuegos/eventos/premios-razon-videojuegos-by-difoosion-2026-finalistas-mejoradaptacion-serie-pelicula_202610176ad2508cb79b18452fc6732a.html",
-      "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/10/17/377BB2C3-3341-450B-8339-D5F6E3FCBFD1/estos-son-nuestros-finalistas-mejor-adaptacion-serie-pelicula_66.jpg?crop=720,720,x280,y0&width=150&height=150&optimize=high&format=webply",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Premios La Razón de Tecnología y Consumo by Difoosion 2026: estos son los nominados a Mejor producto de red en el hogar del año",
-      "link": "https://www.larazon.es/tecnologia-consumo/premios-razon-tecnologia-consumo-by-difoosion-2026-estos-son-nominados-mejor-producto-red-hogar-ano_202610176ad20117bafd3d736361a4d2.html",
-      "imagen": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/10/17/27A1E80E-872B-44BF-BBBF-05F82764DB91/premios-razon-difoosion-mejor-productod-red-hogar_66.jpg?crop=1069,1069,x416,y0&width=150&height=150&optimize=high&format=webply",
       "tipo": "imagen"
     }
   ]

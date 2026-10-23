@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El verano más mortífero: el calor extremo deja más de 5.000 muertes en España",
+      "link": "https://www.eldiario.es/sociedad/verano-mortifero-calor-extremo-deja-5-000-muertes-espana_1_13607100.html",
+      "imagen": "https://static.eldiario.es/clip/6cbe3869-5a1c-4e96-ab5d-143bff27775a_16-9-discover-aspect-ratio_default_0_x280y365.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Gobierno británico vuelve a autorizar perforaciones de gas en el mar del Norte por la “inestabilidad global” provocada por la guerra de Irán",
       "link": "https://www.eldiario.es/internacional/gobierno-britanico-vuelve-autorizar-perforaciones-gas-mar-norte-inestabilidad-global-provocada-guerra-iran_1_13602226.html",
       "imagen": "https://static.eldiario.es/clip/dffb80bb-7456-49be-b1ec-aaa623a526b7_16-9-discover-aspect-ratio_default_0_x987y586.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Más tiempo para crecer no significa más madera: el Moncayo, escenario de un estudio global sobre el cambio climático",
       "link": "https://www.eldiario.es/aragon/sociedad/tiempo-crecer-no-significa-madera-moncayo-escenario-estudio-global-cambio-climatico_1_13534274.html",
       "imagen": "https://static.eldiario.es/clip/8398fc5b-d522-4e50-89cb-1df3dd37fc51_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Por qué Ibiza se moviliza contra la macroampliación del aeropuerto",
-      "link": "https://www.eldiario.es/illes-balears/sociedad/ibiza-moviliza-macroampliacion-aeropuerto_1_13518834.html",
-      "imagen": "https://static.eldiario.es/clip/f3cf3ac2-ce97-4529-8941-8aaf90561608_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

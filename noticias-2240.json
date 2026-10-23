@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El tiempo en España",
+      "link": "https://efe.com/espana/2025-11-26/tiempo-espana-hoy-prediccion-meteorologia-aemet/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/el-tiempo-en-espana-8.webp?w=600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Unos 20.000 docentes se manifiestan en Madrid en la séptima jornada de huelga indefinida",
       "link": "https://efe.com/espana/2026-10-22/docentes-manifestacion-madrid-huelga-indefinida/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/madrid-huelga-educacion.webp?w=600&ssl=1",
@@ -28,12 +34,6 @@
       "titulo": "El PSOE acepta un debate «cara a cara» entre Sánchez y Feijóo el 16 de noviembre",
       "link": "https://efe.com/espana/2026-10-22/psoe-cara-a-cara-feijoo-sanchez-debate/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/sanchez-feijoo-cara-a-cara-debate-psoe.webp?w=600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Junta Electoral Central desestima una denuncia del PP pero recuerda a Sánchez su deber de neutralidad",
-      "link": "https://efe.com/espana/2026-10-22/sanchez-junta-electoral-denuncia-pp/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/sanchez-junta-electoral-1.webp?w=600&ssl=1",
       "tipo": "imagen"
     }
   ]

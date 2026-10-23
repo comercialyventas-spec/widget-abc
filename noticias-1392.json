@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de Nuevo Sureste de Madrid",
+      "link": "https://nuevosureste.es/alquiler-opcion-a-compra-los-berrocales/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/02/Apertura-de-la-etapa-1-de-Los-Berrocales-foto-Nuevo-Sureste-1080x675.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Detenido en El Cañaveral un profesor acusado de agredir sexualmente a menores",
       "link": "https://nuevosureste.es/detenido-en-el-canaveral-profesor-agresion-sexual/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/El-Canaveral-Foto-Nuevo-Sureste-1080x675.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "El Cañaveral registró 649 nacimientos y 28 defunciones en 2025",
       "link": "https://nuevosureste.es/el-canaveral-registro-nacimientos-y-defunciones/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/Escuela-Infantil-muneco-de-Nieve-de-El-Canaveral-Foto-Nuevo-Sureste-1080x675.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Rivas reúne este fin de semana cerca de 400 coches en su Feria del Vehículo Sostenible con entrada gratuita y sorteos",
-      "link": "https://nuevosureste.es/feria-vehiculo-sostenible-rivas-2026/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/Feria-del-Vehiculo-Sostenible-1.jpg",
       "tipo": "imagen"
     }
   ]
