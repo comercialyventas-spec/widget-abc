@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de Los Cerros",
+      "link": "https://nuevosureste.es/culminacion-reparelacion-los-cerros/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2025/09/LosCerros-PrimeraPiedra-2025-15-400x250.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los Berrocales será el primer desarrollo de Madrid en probar el nuevo sistema de licencias urbanísticas automatizadas",
       "link": "https://nuevosureste.es/licencias-berrocales-madriddbp/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/06/Los-Berrocales-foto-Nuevo-Sureste-1-400x250.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "La conexión de Los Cerros con la M-45 se ejecutará dentro de las obras de urbanización de la etapa 1",
       "link": "https://nuevosureste.es/conexion-los-cerros-m-45-etapa-1/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2025/12/puente-los-cerros-m45-1-400x250.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Inma Sanz, vicealcaldesa de Madrid: “El sureste de Madrid es el futuro de la ciudad”",
-      "link": "https://nuevosureste.es/clausura-jornada-surestelab/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/SuresteLab-2026-044-400x250.jpg",
       "tipo": "imagen"
     }
   ]

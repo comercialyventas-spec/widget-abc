@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Los chats de Signal que costaron el puesto a tres investigadores de OpenAI",
+      "link": "https://www.elmundo.es/economia/empresas/2026/10/23/6adb17f7e85ece1e598b45b9.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927438671448.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Trump llamó a Musk para pedirle que levantara las restricciones de Starlink en Ucrania",
       "link": "https://www.elmundo.es/internacional/2026/10/22/6ada623ce85ece2c2f8b4574.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926978319459.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Rusia, Irán y la política exterior de conmoción y pavor de Trump",
       "link": "https://www.elmundo.es/opinion/2026/10/18/6ad3fd20fc6c83666a8b4571.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/18/17922778877737.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La nueva portavoz de prensa de Trump debuta con tropiezos en el atril de la Casa Blanca",
-      "link": "https://www.elmundo.es/internacional/2026/10/14/6acf7377e4d4d852778b45c0.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/14/17919804672473.jpg",
       "tipo": "imagen"
     }
   ]
