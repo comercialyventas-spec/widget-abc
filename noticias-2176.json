@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Así es Mobo, el robot humanoide con inteligencia artificial creado por AiMOGA y el grupo Chery",
+      "link": "https://www.elperiodico.com/es/motor/20261023/grupo-chery-presenta-mobo-robot-humanoide-135624444",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/1ec1ec1c-d9e2-4e9f-9bde-7ff187a7a9dd_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los trucos virales para cuidar el coche que pueden acabar saliendo muy caros",
+      "link": "https://www.elperiodico.com/es/motor/20261023/trucos-virales-cuidar-coche-acabar-135582229",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7d586323-0f6b-4205-a812-a993cd1409a5_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Trànsit evaluará si la renovación del permiso de conducir de personas mayores se hace correctamente",
       "link": "https://www.elperiodico.com/es/sociedad/20261023/cataluna-evaluara-renovacion-permiso-conducir-personas-mayores-trafico-135622092",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/53023763-766f-4919-a5d2-4e03c1b391f8_media-libre-aspect-ratio_default_0.jpg",
@@ -13,7 +25,7 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "La velocidad máxima podrá limitarse a 100 km/h en 200 kilómetros de la AP7",
+      "titulo": "La AP7 tendrá 200 kilómetros con velocidad limitable a 100 km/h",
       "link": "https://www.elperiodico.com/es/sociedad/20261023/autopista-ap7-velocidad-limitada-100kmh-plan-transit-cataluna-reducir-accidentes-135582689",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/54d4723d-57b1-4c20-b2b0-008895c01653_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
@@ -22,18 +34,6 @@
       "titulo": "Madrid será la capital europea del robotaxi con la llegada de Waymo en 2027",
       "link": "https://www.elperiodico.com/es/motor/20261022/madrid-sera-capital-europea-robotaxi-llegada-waymo-2027-135630725",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0aa64947-037f-4790-bbc9-1cf9e6b1dc58_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Lexus LBX: pequeño por tamaño, grande por sensaciones",
-      "link": "https://www.elperiodico.com/es/motor/20261022/prueba-lexus-lbx-pequeno-tamano-grande-sensaciones-conduccion-135615761",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/58a84c66-7aa0-405b-8e79-e88e68b077fd_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "9 de cada 10 españoles apoya ordenar el uso de los patinetes",
-      "link": "https://www.elperiodico.com/es/motor/20261022/9-10-espanoles-apoya-ordenar-uso-patinetes-135614564",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/bebfd308-eb1f-4987-b167-708d68417e07_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

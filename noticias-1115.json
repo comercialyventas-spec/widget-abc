@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Previsión AEMET: Nubes altas y ligero descenso térmico en Zaragoza, con viento del noroeste",
+      "link": "https://okdiario.com/aragon/prevision-aemet-nubes-altas-y-ligero-descenso-termico-en-zaragoza-con-viento-del-noroeste-20612955",
+      "imagen": "https://okdiario.com/img/2026/10/23/suben-las-temperaturas.-europa-press.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "AEMET prevé nubes altas y vientos variables en Zaragoza con cambios en las temperaturas",
       "link": "https://okdiario.com/aragon/aemet-preve-nubes-altas-y-vientos-variables-en-zaragoza-con-cambios-en-las-temperaturas-20604701",
       "imagen": "https://okdiario.com/img/2026/10/22/suben-las-temperaturas.-europa-press.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Nubes y lluvias débiles en Zaragoza: AEMET prevé descenso de temperaturas y cierzo moderado",
       "link": "https://okdiario.com/aragon/nubes-y-lluvias-debiles-en-zaragoza-aemet-preve-descenso-de-temperaturas-y-cierzo-moderado-20574020",
       "imagen": "https://okdiario.com/img/2026/10/18/lluvia-en-zaragoza.-europa-press.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "AEMET: Día nublado y fresco en Zaragoza, con lluvia y tormentas en el sur del Ibérico",
-      "link": "https://okdiario.com/aragon/aemet-dia-nublado-y-fresco-en-zaragoza-con-lluvia-y-tormentas-en-el-sur-del-iberico-20570288",
-      "imagen": "https://okdiario.com/img/2026/10/17/lluvia-en-zaragoza.-europa-press.jpg",
       "tipo": "imagen"
     }
   ]

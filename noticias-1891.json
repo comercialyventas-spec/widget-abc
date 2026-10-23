@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Período azul",
+      "link": "https://www.20minutos.es/nacional/blogs/1-de-cada10/",
+      "imagen": "https://www.20minutos.es/uploads/icons/blogs/1-de-cada-10.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Cuál es el origen de la frase «No es posible entender a aquellos que odiamos»?",
       "link": "https://www.20minutos.es/cultura/blogs/yaestaellistoquetodolosabe/",
       "imagen": "https://www.20minutos.es/uploads/icons/blogs/yaestaellistoquetodolosabe.jpg",
@@ -22,12 +28,6 @@
       "titulo": "Salva la vida de su futuro esposo después de que ambos fueran alcanzados por un rayo",
       "link": "https://www.20minutos.es/gonzoo/blogs/becario/",
       "imagen": "https://www.20minutos.es/uploads/icons/blogs/becario.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El derecho a ser visibles también en lo cotidiano",
-      "link": "https://www.20minutos.es/nacional/blogs/1-de-cada10/",
-      "imagen": "https://www.20minutos.es/uploads/icons/blogs/1-de-cada-10.jpg",
       "tipo": "imagen"
     },
     {

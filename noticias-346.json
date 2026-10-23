@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El «truco» de Sánchez para evitar otro caso Pegasus: apagar el móvil durante cinco minutos al día",
+      "link": "https://www.abc.es/tecnologia/moviles/truco-sanchez-evitar-pegasus-apagar-movil-cinco-20261023103805-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/23/sanchez-kf7G-U302386040934qFG-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Pep Martorell, físico: «El uso masivo de la inteligencia artificial en ciertos puestos del mercado laboral empieza a provocar deterioro de capacidades cognitivas»",
+      "link": "https://www.abc.es/tecnologia/pep-martorell-fisico-uso-masivo-inteligencia-artificial-20261023064500-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/23/pep-martorell-2_20261020180946-kLXC-RKu9CnqZxi6PdQf4GRM0aUN-1200x840@diario_abc.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Qué es PHP y por qué sus fallos de seguridad han desatado una alerta mundial",
       "link": "https://www.abc.es/tecnologia/informatica/php-fallos-seguridad-desatado-alerta-mundial-20261022191222-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/22/tired-young-handsome-man-sitting-with-laptop-outdoor-cafe-working-remote-studying-using-park-wifi-R0VTbBlT5rf0UwHBkKxAeGN-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Alerta roja en Electronic Arts: despide a 400 trabajadores, cierra BioWare y cancela varios lanzamientos",
       "link": "https://www.abc.es/tecnologia/videojuegos/alerta-roja-electronic-arts-despide-400-trabajadores-20261022114433-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/22/mass-effect-kAyD-U3023679325570yE-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "España recomienda actualizar de inmediato PHP ante las múltiples vulnerabilidades detectadas",
-      "link": "https://www.abc.es/tecnologia/espana-recomienda-actualizar-inmediato-php-ante-multiples-20261021221333-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/21/1519092078-kS4B-U302363312292sm-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Condenan a Meta a pagar una multa de 25.000 millones por engañar a usuarios con la privacidad",
-      "link": "https://www.abc.es/tecnologia/condenan-meta-pagar-multa-25000-millones-enganar-20261021200808-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/21/1503185317-ksQE-U302361388199RCD-1200x840@diario_abc.JPG",
       "tipo": "imagen"
     }
   ]

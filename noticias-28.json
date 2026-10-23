@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Un terremoto en el Tíbet deja un mínimo de 16 muertos y 65 heridos",
+      "link": "https://www.lavanguardia.com/internacional/20261023/11666113/terremoto-tibet-deja-minimo-16-muertos-65-heridos.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/23/6adae6ad98c19.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las protestas desafían a Meloni",
+      "link": "https://www.lavanguardia.com/internacional/20261023/11665862/protestas-desafian-meloni.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/22/6ada6ab1a2328.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Quién vota en Israel?",
+      "link": "https://www.lavanguardia.com/internacional/20261023/11665751/vota-israel.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/22/6ada366c60153.r_d.4144-2186-548.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Lula o Flávio: ¿cuánto pueden cambiar el mundo?",
+      "link": "https://www.lavanguardia.com/internacional/20261023/11665577/lula-flavio-cambiar-mundo.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/19/6ad639b8ebb0a.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las encuestas confirman el empate técnico entre Lula y Bolsonaro a tres días de las elecciones",
       "link": "https://www.lavanguardia.com/internacional/20261023/11665851/encuestas-confirman-empate-tecnico-lula-bolsonaro-tres-dias-elecciones.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/22/6ada5e0ce3ba8.r_d.2776-1808-808.jpeg",
@@ -10,30 +34,6 @@
       "titulo": "Los hutíes redoblan los ataques contra Arabia Saudí",
       "link": "https://www.lavanguardia.com/internacional/20261022/11665796/huties-redoblan-ataques-arabia-saudi.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/22/6ada4837bf48d.r_d.4041-2108-748.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Portugal reanuda las acampadas por la vivienda",
-      "link": "https://www.lavanguardia.com/internacional/20261022/11665666/portugal-reanuda-acampadas-vivienda.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/22/6ada2ddf15e4f.r_d.3130-3861-748.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Empujones y forcejeos en el Parlamento albanés por diferencias sobre la protesta estudiantil",
-      "link": "https://www.lavanguardia.com/internacional/20261022/11665646/empujones-forcejeos-parlamento-albanes-diferencias-sobre-protesta-estudiantil.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "EE.UU. e Israel se preparan para reanudar sus bombardeos sobre Irán",
-      "link": "https://www.lavanguardia.com/internacional/20261022/11665606/ee-uu-e-israel-preparan-reanudar-bombardeos-sobre-iran.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/22/6ada18b6e9b34.r_d.3801-2059-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Francia prohíbe todas las manifestaciones no sindicales",
-      "link": "https://www.lavanguardia.com/internacional/20261022/11665562/francia-prohibe-todas-manifestaciones-sindicales.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
       "tipo": "imagen"
     }
   ]

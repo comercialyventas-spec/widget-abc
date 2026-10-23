@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un dato que nadie consulta es un coste; uno integrado en el día a día es una ventaja",
+      "link": "https://www.elperiodico.com/es/tecnologia/20261023/dato-nadie-consulta-coste-integrado-135655943",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/885f2bb4-23d9-4990-9c79-2c6f4a281644_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Logitech G305 X Superlight, análisis y opinión: características, precio y experiencia de uso",
       "link": "https://www.elperiodico.com/es/tecnologia/20261022/logitech-g305-x-superlight-analisis-135640057",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b14cded3-2dbc-4e82-8ee3-b6e25a4f4d3d_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Dreo Convection Heater 711S: calor serio, silencio y una forma sensata de calentar espacios",
       "link": "https://www.elperiodico.com/es/tecnologia/20261022/dreo-convection-heater-711s-135614449",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f013520e-f00d-463b-b0c5-4043eda2eb9d_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Alerta PHP: cómo me pueden afectar las brechas de ciberseguridad que exponen el 70% de las páginas web",
-      "link": "https://www.elperiodico.com/es/tecnologia/20261022/alerta-php-afectar-brechas-ciberseguridad-internet-web-virus-135617873",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/23bb3b8a-8453-4218-bbc6-84ac0d07ddde_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El cambio climático, cada año más letal: mueren más de 50.000 personas por calor en Europa este verano, 6.000 de ellas en España",
+      "link": "https://www.telecinco.es/noticias/sociedad/20261023/muertes-verano-calor-europa-cambio-climatico-cada-vez-mas-letal_18_020514969.html",
+      "imagen": "https://album.mediaset.es/eimg/2026/10/23/el-cambio-climatico-una-amenaza-cada-vez-mas-letal_9b02.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La borrasca Austen llega al norte de España con olas de más de siete metros y fuertes vientos: Asturias, Cantabria, País Vasco y Galicia, en aviso naranja",
       "link": "https://www.telecinco.es/noticias/tiempo/20261022/borrasca-austen-norte-espana-asturias-cantabria-pais-vasco-galicia-aviso-naranja_18_020505924.html",
       "imagen": "https://album.mediaset.es/eimg/2026/10/22/la-borrasca-austen-llega-al-norte-de-espana-con-olas-de-mas-de-siete-metros-este-viernes-asturias-ca_95ff.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Avisos activos en Cataluña, Baleares y puntos de Andalucía, donde podrían repetirse los episodios de lluvias torrenciales",
       "link": "https://www.telecinco.es/noticias/tiempo/20261020/avisos-cataluna-baleares-andalucia-lluvias-torrenciales_18_020480210.html",
       "imagen": "https://album.mediaset.es/eimg/2026/10/20/durante-la-jornada-del-martes-se-mantienen-avisos-activos-en-cataluna-baleares-y-puntos-de-andalucia_ce64.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El temporal en Valencia, Cataluña y Baleares tiene las horas contadas: la intensidad y gravedad de las lluvias se reducirá en los próximos días",
-      "link": "https://www.telecinco.es/noticias/tiempo/20261019/temporal-valencia-baleares-cataluna-horas-contadas-intensidad-lluvias-reducira-proximos-dias_18_020476258.html",
-      "imagen": "https://album.mediaset.es/eimg/2026/10/19/inundaciones-en-la-zona-este-de-la-peninsula_e26f.jpg",
       "tipo": "imagen"
     }
   ]

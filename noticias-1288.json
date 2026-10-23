@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La Policía investiga dos denuncias por violación en Ceuta contra dos ilegales marroquíes",
+      "link": "https://www.mediterraneodigital.com/sucesos-espana/violaciones-ceuta-marroquies",
+      "imagen": "https://www.mediterraneodigital.com/images/2022/6/violacion.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Policía desaloja a un hombre que había acampado frente a la sede del PSOE",
       "link": "https://www.mediterraneodigital.com/espana/acampado-ferraz",
       "imagen": "https://www.mediterraneodigital.com/images/2026/10/sede-psoe-acampada.jpg",
@@ -15,26 +21,20 @@
     {
       "titulo": "La alcaldesa 'influencer' deja el PSOE",
       "link": "https://www.mediterraneodigital.com/gente-y-tv/katrin-ortega",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/10/katrin-ortega.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Un hombre español mata a su pareja a puñaladas en Madrid",
       "link": "https://www.mediterraneodigital.com/sucesos-espana/carabanchel-violencia-de-genero",
-      "imagen": "https://www.mediterraneodigital.com/images/2022/11/policia-nacional.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "¿Están los Hermanos Musulmanes avivando las protestas en Francia?",
       "link": "https://www.mediterraneodigital.com/internacional/hermanos-musulmanes-francia",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/10/francia.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El cuidado de mayores a domicilio: una necesidad creciente en España",
-      "link": "https://www.mediterraneodigital.com/sociedad-y-tiempo-libre/cuidado-de-personas-mayores",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/10/cuidado_de_personas_mayores.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     }
   ]
 }

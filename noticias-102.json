@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "La IA descubre casi 40.000 icebergs encallados en la Antártida",
+      "link": "https://www.lavanguardia.com/lugaresdeaventura/20261023/11665381/ia-descubre-40-000-icebergs-encallados-antartida.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2025/09/13/68c5a202bd30b.r_d.2982-2067-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un piloto de paramotor cruza los Pirineos tras recorrer 773 kilómetros en cinco días",
       "link": "https://www.lavanguardia.com/lugaresdeaventura/20261022/11664626/piloto-paramotor-cruza-pirineos-recorrer-773-kilometros-cinco-dias.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/10/21/6ad8b0dd35027.r_d.640-427-3508.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/10/21/6ad8b0dd35027.r_d.640-427-3508.jpeg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Crean un equipo de running de élite de 75 a 85 años para demostrar que correr no tiene edad",
       "link": "https://www.lavanguardia.com/lugaresdeaventura/20261018/11660990/crean-equipo-running-elite-75-85-anos-demostrar-correr-edad.html",
       "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/10/16/6ad25260f1c64.r_d.572-311-4689.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Pintaron de blanco una montaña de los Andes para intentar recuperar un glaciar desaparecido",
-      "link": "https://www.lavanguardia.com/lugaresdeaventura/20261017/11659497/pintaron-blanco-montana-andes-intentar-recuperar-glaciar-desaparecido.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/uploads/2026/10/15/6ad09d6a14723.jpeg",
       "tipo": "imagen"
     }
   ]

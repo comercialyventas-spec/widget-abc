@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Monos en la cara",
+      "link": "https://www.lavanguardia.com/local/barcelona/20261023/11664804/monos-cara.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/21/6ad8e658b6a80.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La batalla del 29-N y las izquierdas sin brújula",
+      "link": "https://www.lavanguardia.com/opinion/20261023/11663450/batalla-29-n-izquierdas-brujula.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/20/6ad72a84940d6.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La protesta social golpea a Meloni",
       "link": "https://www.lavanguardia.com/opinion/20261023/11665855/protesta-social-golpea-meloni.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Cobrar por leer",
       "link": "https://www.lavanguardia.com/opinion/20261023/11665613/cobrar-leer.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/09/6ac8a73b13384.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El abismo Z",
-      "link": "https://www.lavanguardia.com/opinion/20261023/11665486/abismo-z.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/22/6ad9fac78b3b2.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sin un adiós",
-      "link": "https://www.lavanguardia.com/opinion/20261023/11665428/adios.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2017/03/27/5fa3ca78a241b.jpeg",
       "tipo": "imagen"
     }
   ]
