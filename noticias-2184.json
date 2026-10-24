@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "Disturbios en Barcelona por una protesta juvenil inspirada en las movilizaciones europeas",
+      "titulo": "Más de 100 detenidos en Barcelona por la violenta protesta juvenil que ha dejado 14 comercios saqueados",
+      "link": "https://www.elperiodico.com/es/sucesos/20261024/100-detenidos-barcelona-violentas-protestas-juveniles-actos-vandalicos-135726338",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/72aecde5-edf2-4e97-87dc-ce246706f1ac_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cientos de personas quedan atrapadas en El Corte Inglés de la plaza Catalunya de Barcelona por las protestas juveniles",
+      "link": "https://www.elperiodico.com/es/barcelona/20261024/cientos-personas-atrapadas-corte-ingles-plaza-cataluna-protestas-jovenes-francia-italia-manifestaciones-135723026",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f0f62b4d-7066-4242-b3ae-6785611074a5_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Violentos disturbios en Barcelona por una protesta juvenil inspirada en las movilizaciones europeas dejan un centenar de detenidos",
       "link": "https://www.elperiodico.com/es/barcelona/20261024/tension-barcelona-protesta-juvenil-movilizaciones-europeas-135721173",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/563236cc-5f4a-4331-8fc6-d4ba63b1c04a_media-libre-aspect-ratio_default_0.jpg",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/44991f20-6789-4d92-9dbd-3fd827dff43a_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "El mapa del café en Barcelona: en estos barrios tomarte un cortado se ha convertido en un lujo",
       "link": "https://www.elperiodico.com/es/barcelona/20261024/mapa-cafe-barcelona-caro-barceloneta-gotic-dreta-de-leixample-dv-et-135509499",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/c86cfd23-f41b-426c-a2a1-4c51161801b4_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Albiol carga contra los okupas y promete aplicar la ley \"con la máxima dureza\"",
-      "link": "https://www.elperiodico.com/es/barcelona/20261024/albiol-carga-okupas-promete-aplicar-pp-dureza-135713312",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/595b896c-0c73-4877-8d4a-d4234aabfc02_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Barcelona subvencionará con 400 euros las bicicletas eléctricas compradas a partir de diciembre",
-      "link": "https://www.elperiodico.com/es/barcelona/20261024/barcelona-ayudas-compra-bici-electrica-diciembre-135669391",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/db121ddf-ca12-4224-a262-b45a836cd1b9_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

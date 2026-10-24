@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Feijóo viene avisando",
+      "link": "https://www.eldiario.es/opinion/feijoo-viene-avisando_131_13612893.html",
+      "imagen": "https://static.eldiario.es/clip/ddab71bd-e3ef-4f0d-a75a-01858896ba23_16-9-discover-aspect-ratio_default_1154135.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Algunos años difíciles",
       "link": "https://www.eldiario.es/opinion/anos-dificiles_131_13607897.html",
       "imagen": "https://static.eldiario.es/clip/4fe96a9c-9ec6-4141-8560-c378c11172aa_16-9-discover-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Novedades editoriales",
       "link": "https://www.eldiario.es/opinion/novedades-editoriales_131_13592986.html",
       "imagen": "https://static.eldiario.es/clip/31dba2ae-d514-49d7-8dde-49a304fd75f2_16-9-discover-aspect-ratio_default_0_x346y278.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mientras, en Ceuta...",
-      "link": "https://www.eldiario.es/opinion/ceuta_131_13589692.html",
-      "imagen": "https://static.eldiario.es/clip/d9a7299c-1c62-4cd4-a1c3-b01a7565c716_16-9-discover-aspect-ratio_default_0_x360y141.jpg",
       "tipo": "imagen"
     }
   ]
