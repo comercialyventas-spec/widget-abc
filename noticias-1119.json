@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "AEMET prevé cielos nubosos y chubascos en Barcelona, con ligera disminución de temperaturas",
+      "link": "https://okdiario.com/cataluna/aemet-preve-cielos-nubosos-y-chubascos-en-barcelona-con-ligera-disminucion-de-temperaturas-20620806",
+      "imagen": "https://okdiario.com/img/2026/01/12/lluvias-barcelona-interior.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Previsión AEMET: Nubes altas y posible lluvia al final del día en Barcelona",
       "link": "https://okdiario.com/cataluna/prevision-aemet-nubes-altas-y-posible-lluvia-al-final-del-dia-en-barcelona-20612931",
       "imagen": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Albiol, un hombre de la casa para luchar contra la okupación",
       "link": "https://okdiario.com/cataluna/albiol-hombre-casa-luchar-contra-okupacion-20590668",
       "imagen": "https://okdiario.com/img/2026/10/20/imagen_recortada-88.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "AEMET prevé cielo nuboso y chubascos en Barcelona, mejoría hacia la mañana y vientos del oeste",
-      "link": "https://okdiario.com/cataluna/aemet-preve-cielo-nuboso-y-chubascos-en-barcelona-mejoria-hacia-la-manana-y-vientos-del-oeste-20586554",
-      "imagen": "https://okdiario.com/img/2026/01/12/lluvias-barcelona-interior.jpg",
       "tipo": "imagen"
     }
   ]

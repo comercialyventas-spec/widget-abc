@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Barcelona dará ayudas de hasta 400 euros para la compra de bicicletas eléctricas",
+      "link": "https://www.20minutos.es/cataluna/barcelona/barcelona-dara-ayudas-hasta-400-euros-para-compra-bicicletas-electricas_7052266_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/18/6943f0d3be29b6-49928520.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El barrio de Barcelona donde es más caro compartir piso y no es el Eixample: 800 euros por cuarto",
+      "link": "https://www.20minutos.es/cataluna/barcelona/barrio-barcelona-donde-es-mas-caro-compartir-piso-no-es-eixample-800-euros-por-cuarto_7049424_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2021/08/11/la-oferta-de-habitaciones-en-piso-compartido-cae-un-15-en-palma-en-el-ultimo-ano-segun-idealista.r_d.997-122.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los Mossos desalojan el bloque de Barcelona ocupado por miembros de la acampada",
       "link": "https://www.20minutos.es/cataluna/barcelona/los-mossos-desalojan-bloque-barcelona-ocupado-por-miembros-acampada_7052863_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/23/6adbb3494a7cf8-79935967.jpeg",
@@ -22,18 +34,6 @@
       "titulo": "FGC prevé recuperar la normalidad en la línea Llobregat-Anoia la semana que viene tras el desprendimiento en el Gornal",
       "link": "https://www.20minutos.es/cataluna/barcelona/fgc-preve-recuperar-normalidad-linea-llobregat-anoia-semana-que-viene-tras-desprendimiento-gornal_7052437_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/15/6968c582e8a437-60682713.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los sindicatos de educación de Catalunya proponen un día de huelga con una plantilla dividida",
-      "link": "https://www.20minutos.es/cataluna/barcelona/los-sindicatos-educacion-proponen-un-dia-huelga-con-una-plantilla-dividida_7052491_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/08/6a9ff30b57da86-39181378.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El debate para mejorar la educación catalana girará en torno a la inclusión, docentes y la corresponsabilidad de familias y municipios",
-      "link": "https://www.20minutos.es/cataluna/barcelona/debate-para-mejorar-educacion-catalana-girara-torno-inclusion-docentes-corresponsabilidad-familias-municipios_7052508_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/23/6adb3ea60195f8-41013196.jpeg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La Guardia Civil atrapa a un atracador de gasolineras",
+      "link": "https://www.elperiodico.com/es/videos/sucesos/guardia-civil-atrapa-atracador-gasolineras/135708806.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8614ab1d-1853-4dff-8590-3fa03a223c32_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Cuándo cambia la hora en España? Todo lo que debes saber",
       "link": "https://www.elperiodico.com/es/videos/sociedad/cambia-hora-espana-invierno/135704924.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ef9f7772-9cd7-42e1-99a3-16f58a9ceff9_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Discurso de Julian Barnes, Premio Princesa de Asturias de las Letras 2026",
       "link": "https://www.elperiodico.com/es/videos/sociedad/discurso-julian-barnes-premio-princesa/135700769.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a4834ee7-5352-4d63-8059-a89b26bae62c_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Discurso de Christina Koch, Premio Princesa de Asturias de la Concordia 2026",
-      "link": "https://www.elperiodico.com/es/videos/sociedad/discurso-christina-koch-premio-princesa/135700586.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/fa2ed9c9-ad5d-485e-82f3-c9ee09b341a9_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

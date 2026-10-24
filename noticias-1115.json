@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Nubes altas y ligero ascenso de temperaturas en Zaragoza según AEMET",
+      "link": "https://okdiario.com/aragon/nubes-altas-y-ligero-ascenso-de-temperaturas-en-zaragoza-segun-aemet-20620876",
+      "imagen": "https://okdiario.com/img/2026/10/24/suben-las-temperaturas.-europa-press.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Previsión AEMET: Nubes altas y ligero descenso térmico en Zaragoza, con viento del noroeste",
       "link": "https://okdiario.com/aragon/prevision-aemet-nubes-altas-y-ligero-descenso-termico-en-zaragoza-con-viento-del-noroeste-20612955",
       "imagen": "https://okdiario.com/img/2026/10/23/suben-las-temperaturas.-europa-press.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Cielo nublado y lluvias en Zaragoza: AEMET prevé tiempo inestable para hoy",
       "link": "https://okdiario.com/aragon/cielo-nublado-y-lluvias-en-zaragoza-aemet-preve-tiempo-inestable-para-hoy-20577445",
       "imagen": "https://okdiario.com/img/2026/10/19/lluvia-en-zaragoza.-europa-press.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Nubes y lluvias débiles en Zaragoza: AEMET prevé descenso de temperaturas y cierzo moderado",
-      "link": "https://okdiario.com/aragon/nubes-y-lluvias-debiles-en-zaragoza-aemet-preve-descenso-de-temperaturas-y-cierzo-moderado-20574020",
-      "imagen": "https://okdiario.com/img/2026/10/18/lluvia-en-zaragoza.-europa-press.jpg",
       "tipo": "imagen"
     }
   ]
