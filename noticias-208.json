@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El tifón Champi deja a miles sin electricidad en Taiwán mientras se aleja y se enfila hacia Japón",
+      "link": "https://www.dw.com/es/el-tifón-champi-deja-a-miles-sin-electricidad-en-taiwán-mientras-se-aleja-y-se-enfila-hacia-japón/a-79748259",
+      "imagen": "https://static.dw.com/image/79738736_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "EE.UU. revela que Irán intensifica plan para atacar a sus funcionarios",
       "link": "https://www.dw.com/es/ee-uu-revela-que-irán-intensifica-plan-para-atacar-a-sus-funcionarios/a-79748105",
       "imagen": "https://static.dw.com/image/78152302_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Francia desplegará más de 70.000 policías para evitar nuevos disturbios",
       "link": "https://www.dw.com/es/francia-desplegará-más-de-70-000-policías-para-evitar-nuevos-disturbios/a-79747260",
       "imagen": "https://static.dw.com/image/79692287_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Argentina: cuando el dinero se acaba antes que el mes",
-      "link": "https://www.dw.com/es/argentina-cuando-el-dinero-se-acaba-antes-que-el-mes/a-79745431",
-      "imagen": "https://static.dw.com/image/79746224_6.jpg",
       "tipo": "imagen"
     }
   ]

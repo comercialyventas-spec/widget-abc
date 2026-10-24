@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Entrevista a Álex Palou, piloto de IndyCar",
+      "link": "https://www.elperiodico.com/es/videos/deportes/entrevista-alex-palou-piloto-indycar/135703005.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/1326c76d-058c-4fbb-a950-369067eca07b_1-1-large-aspect-ratio_default_0_x960y426.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Cuándo cambia la hora en España? Todo lo que debes saber",
       "link": "https://www.elperiodico.com/es/videos/sociedad/cambia-hora-espana-invierno/135704924.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ef9f7772-9cd7-42e1-99a3-16f58a9ceff9_1-1-large-aspect-ratio_default_0_x306y136.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Discurso de Julian Barnes, Premio Princesa de Asturias de las Letras 2026",
       "link": "https://www.elperiodico.com/es/videos/sociedad/discurso-julian-barnes-premio-princesa/135700769.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a4834ee7-5352-4d63-8059-a89b26bae62c_1-1-large-aspect-ratio_default_0_x1000y444.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La princesa Leonor habla de los miedos de su generación",
-      "link": "https://www.elperiodico.com/es/videos/politica/princesa-leonor-habla-miedos-generacion/135700564.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/62fd8246-9fa8-4470-8a41-acb44cba9cf1_1-1-large-aspect-ratio_default_0_x450y200.jpg",
       "tipo": "imagen"
     }
   ]
