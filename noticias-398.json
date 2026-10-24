@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La EPOC ocasiona un gasto de 1.000 millones al Sistema Nacional de Salud en costes directos",
+      "link": "https://www.elconfidencial.com/salud/2026-10-24/epoc-deteccion-precoz-seguimiento-coste-sanitario-1hms-1svm_4452240/",
+      "imagen": "https://images.ecestaticos.com/LTiIH-5naSGJUZFy9Jk4hRYBEv0=/0x0:1200x715/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F862%2F119%2F683%2F8621196836491967e48bb9f9d1917197.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los hematólogos reivindican que la edad no determine por sí sola el tratamiento de los pacientes mayores",
+      "link": "https://www.elconfidencial.com/salud/2026-10-24/hematologia-personalizada-pacientes-mayores-1hms-1svm_4452239/",
+      "imagen": "https://images.ecestaticos.com/OZKjzqw_rzCo8vwgANNoVu9NBxY=/0x0:1024x572/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc82%2Ff4d%2Fcea%2Fc82f4dceaf1936a2c113ab731ac18aa8.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "José Manuel Felices, médico: “No comas chicle justo después de comer, retrasa tu digestión y te pone la barriga como un globo”",
       "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-24/jose-manuel-felices-medico_4448683/",
       "imagen": "https://images.ecestaticos.com/REUDGGWnZLYIYLBg_Y9Ne53rjF8=/0x0:1188x1058/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc1d%2F939%2Ffaa%2Fc1d939faa432d166fd03b250cbc467c3.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Alerta alimentaria en España: detectan listeria en unos mejillones cocidos distribuidos en tres comunidades autónomas",
       "link": "https://www.elconfidencial.com/salud/2026-10-23/alerta-alimentaria-en-espana-detectan-listeria-en-unos-mejillones-cocidos-_4451945/",
       "imagen": "https://images.ecestaticos.com/xbI4s69f48LW9N6hIUdFbi6R7m4=/0x131:1254x836/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3c1%2F2eb%2F475%2F3c12eb475119b54c178ca3a18ef8b3c2.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Gregorio Marañón alerta de una estafa que suplanta a sanitarios para pedir dinero por supuestas emergencias médicas",
-      "link": "https://www.elconfidencial.com/salud/2026-10-23/estafa-telefonica-hospital-mayores-1tps_4451935/",
-      "imagen": "https://images.ecestaticos.com/Wu5FmzKCIa8sWvuic54yrByhB3U=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F5e4%2F540%2F143%2F5e4540143f5aee1230ad4ef1fc3fff49.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Décadas después de la polio: los afectados piden atención para unas secuelas que todavía persisten",
-      "link": "https://www.elconfidencial.com/salud/2026-10-23/postpolio-rehabilitacion-especializada-proteccion-social-1tps_4451923/",
-      "imagen": "https://images.ecestaticos.com/x8QLGrwLuguIFOYgHN18_l7wvLk=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbee%2Fa4c%2F46d%2Fbeea4c46d23c3c7cd48af53ea6e0b381.jpg",
       "tipo": "imagen"
     }
   ]

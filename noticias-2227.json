@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Obras: Hortaleza. Afectada línea 3 de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261027-O-Hortaleza.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Evento deportivo en varios distritos. Afectadas 56 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261025-Carrera-Marca-Derbi-Aficiones.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -27,12 +33,6 @@
     {
       "titulo": "Evento socio-cultural en distrito Centro. Afectadas 23 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261025-Fiesta-de-la-Trashumancia.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Evento sociocultural en distrito Moncloa-Aravaca. Afectadas 12 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261024-Traslado-Trashumante-Tarde.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }
