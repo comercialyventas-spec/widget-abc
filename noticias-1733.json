@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Pulianas reúne al comercio local en una feria con gastronomía, música y actividades infantiles",
+      "link": "https://www.ahoragranada.com/noticias/pulianas-reune-al-comercio-local-en-una-feria-con-gastronomia-musica-y-actividades-infantiles/",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "El descanso y el ocio en familia, las principales opciones de tiempo libre de los granadinos",
+      "link": "https://www.ahoragranada.com/noticias/el-descanso-y-el-ocio-en-familia-las-principales-opciones-de-tiempo-libre-de-los-granadinos/",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "Armilla reconoce a los autores de los mejores relatos y a sus lectores más activos",
+      "link": "https://www.ahoragranada.com/noticias/armilla-reconoce-a-los-autores-de-los-mejores-relatos-y-a-sus-lectores-mas-activos/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/10/Premio-Relato-Corto-Athenea-Armilla-1.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La acampada por la vivienda de Granada defiende su continuidad: \"No nos hemos ido, nos han silenciado\"",
       "link": "https://www.ahoragranada.com/noticias/la-acampada-por-la-vivienda-de-granada-defiende-su-continuidad-no-nos-hemos-ido-nos-han-silenciado/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/10/Acampada-vivienda-Granada-1.jpg",
@@ -13,28 +31,10 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Mitin de Pedro Sánchez en el Palacio de Congresos de Granada",
+      "titulo": "Pedro Sánchez en el Palacio de Congresos de Granada",
       "link": "https://www.ahoragranada.com/galerias/mitin-de-pedro-sanchez-en-el-palacio-de-congresos-de-granada/",
       "imagen": "",
       "tipo": ""
-    },
-    {
-      "titulo": "Cielos poco nubosos y máximas de 25 grados este domingo en Granada",
-      "link": "https://www.ahoragranada.com/noticias/cielos-poco-nubosos-y-maximas-de-25-grados-este-domingo-en-granada/",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Saavedra asegura que Granada \"tendrá las infraestructuras pendientes\" con Feijóo",
-      "link": "https://www.ahoragranada.com/noticias/saavedra-asegura-que-granada-tendra-las-infraestructuras-pendientes-con-feijoo/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/10/PP-Granada-29N.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sánchez reivindica en Granada \"la España de Lorca\" frente a la \"involución de PP y Vox\"",
-      "link": "https://www.ahoragranada.com/noticias/pedro-sanchez-reivindica-en-granada-la-espana-de-lorca-frente-a-la-involucion-de-pp-y-vox/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/10/Granada_Mitin-Pedro-Sanchez-PSOE_Fotos_Francisco-Neyra-5.JPG.jpg",
-      "tipo": "imagen"
     }
   ]
 }

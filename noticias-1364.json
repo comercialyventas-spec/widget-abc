@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Francia contiene el aliento ante una nueva jornada de protestas",
+      "titulo": "Medio millón de personas mantiene el pulso a Macron en toda Francia pese al despliegue policial",
       "link": "https://elpais.com/internacional/2026-10-24/francia-contiene-el-aliento-ante-una-nueva-jornada-de-protestas.html",
       "imagen": "https://www.youtube.com/watch?v=oM6vGVzjbOY",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La temida jornada de protestas en Italia transcurre sin incidentes y con la detención del presunto promotor en redes de los disturbios",
+      "link": "https://elpais.com/internacional/2026-10-24/la-temida-jornada-de-protestas-en-italia-transcurre-sin-incidentes-y-con-la-detencion-del-presunto-promotor-en-redes-de-los-disturbios.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KG6ZJCZEMRM4JCN22AU7RUNYYQ.jpg?auth=f39637a5f68f5a09ac92a13f4f6817edf9862903db23fa63f801bd6e55d15451",
       "tipo": "imagen"
     },
     {
@@ -13,9 +19,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "El ejército israelí realiza redadas y expulsa a decenas de familias de sus hogares en Hebrón tras el ataque palestino en el que murieron dos soldados",
-      "link": "https://elpais.com/internacional/2026-10-24/el-ejercito-israeli-realiza-redadas-y-expulsa-a-decenas-de-familias-de-sus-hogares-en-hebron-tras-el-ataque-palestino-en-el-que-murieron-dos-soldados.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/5ZJEIB477ZJ5LLJ7NR7TQYFBVM.jpg?auth=59ce15cdf459adcd6516215f57ab7d6f20a590b41c92aa8d013671b90026f896",
+      "titulo": "La rebelión en la calle y un ejército digital impulsan a Lula",
+      "link": "https://elpais.com/america/2026-10-24/la-rebelion-en-la-calle-y-un-ejercito-digital-impulsan-a-lula.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/34QPDMNMIFJ5JKSN653RDPNGJY.jpg?auth=9f2fe10f01d90e69e47f0e3ad9c053fddf8b8ffa1cd9c0bd922ea18e6465de99",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Sangre nueva para frenar a Trump",
       "link": "https://elpais.com/us/2026-10-23/sangre-nueva-para-frenar-a-trump.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/O3AA6YFDBNINXCLAHSGEINVXYQ.jpg?auth=da11344a70063f733a17e6884328f215b851a3f40b008ca5679aa327d639dd68",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La desconfianza militar hacia China crea inestabilidad en Asia",
-      "link": "https://elpais.com/internacional/2026-10-22/la-desconfianza-militar-hacia-china-crea-inestabilidad-en-asia.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/5UACGZBKPBL4ZH33UBVRANI6HE.jpg?auth=ac6f2c95dab285741cd0301ad00fc161b68b02791e02d24fd9733e290a436fa9",
       "tipo": "imagen"
     }
   ]

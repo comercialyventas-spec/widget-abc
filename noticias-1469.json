@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "España ante el espejo del clima: la urgencia de proteger los recursos en un país cada vez más cálido",
+      "link": "https://www.eldiario.es/edcreativo/espana-espejo-clima-urgencia-proteger-recursos-pais-vez-calido_1_13608817.html",
+      "imagen": "https://static.eldiario.es/clip/45af1074-30f6-4c6c-be93-31a8d08d355a_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El ‘city break’ que necesitas tiene nombre propio: Región de Murcia",
       "link": "https://www.eldiario.es/edcreativo/city-break-necesitas-nombre-propio-region-murcia_1_13601012.html",
       "imagen": "https://static.eldiario.es/clip/8e5a071e-a85e-4baa-a9be-c544d932af33_16-9-discover-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El SUV eléctrico que une la elegancia japonesa con el placer de conducción europeo",
       "link": "https://www.eldiario.es/motor/suv-electrico-une-elegancia-japonesa-placer-conduccion-europeo_1_13574258.html",
       "imagen": "https://static.eldiario.es/clip/2322166d-fc30-42cf-941f-4b416600b1c1_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Del gran velero al barco eléctrico, presente y futuro del mar en Barcelona",
-      "link": "https://www.eldiario.es/edcreativo/gran-velero-barco-electrico-presente-futuro-mar-barcelona_1_13566833.html",
-      "imagen": "https://static.eldiario.es/clip/76e32a95-c13d-441b-91a7-7028ed93f8d1_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
