@@ -1,40 +1,34 @@
 {
   "noticias": [
     {
-      "titulo": "Sánchez reivindica “la España de Lorca” frente a la “involución” del PP y Vox",
-      "link": "https://elpais.com/espana/2026-10-24/sanchez-reivindica-la-espana-de-lorca-frente-a-la-involucion-del-pp-y-vox.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261024/1229404_122848_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Feijóo advierte al PSOE de que no va a “indultar corruptos” si gobierna: “Me encargaré de que paguen por todo”",
-      "link": "https://elpais.com/espana/2026-10-24/feijoo-advierte-al-psoe-de-que-no-va-a-indultar-corruptos-si-gobierna-me-encargare-de-que-paguen-por-todo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/PYREJMCWWNDKNIJLRIBBPTB42U.jpg?auth=11b850194e3040f7518ac9685c36d60ccd880fa421af389327a584d4b8170521",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Montero y Rufián: “Una izquierda que se presenta en la misma papeleta con el PSOE no va a arreglar los problemas”",
-      "link": "https://elpais.com/espana/elecciones-generales/2026-10-24/montero-y-rufian-una-izquierda-que-se-presenta-en-la-misma-papeleta-con-el-psoe-no-va-a-arreglar-los-problemas.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261024/1229416_131706_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Cómo no entender a Felipe González?",
-      "link": "https://elpais.com/opinion/2026-10-24/como-no-entender-a-felipe-gonzalez.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/774KL4TEPNM2JIYPQIKN6FFZ64.jpg?auth=95fedc43864f7874ef9b4031430e72623bd7c326bffd2ff459ce1dcfeb92e6f3",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Miles de personas se manifiestan en Madrid en defensa del sistema de pensiones: “¡No se venden!”",
-      "link": "https://elpais.com/economia/2026-10-24/miles-de-personas-se-manifiestan-en-madrid-en-defensa-del-sistema-de-pensiones-no-se-venden.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/CSWARPDUZ5BTDGIGW4SQ55IWVY.jpeg?auth=6557ca86764b51d925c48e7efc7d4859722f514b4bcb2f4990b320e17df2b9b9",
-      "tipo": "imagen"
+      "titulo": "París, Marsella y Estrasburgo viven los primeros altercados de una nueva jornada de protesta en Francia",
+      "link": "https://elpais.com/internacional/2026-10-24/francia-contiene-el-aliento-ante-una-nueva-jornada-de-protestas.html",
+      "imagen": "https://www.youtube.com/watch?v=oM6vGVzjbOY"
     },
     {
       "titulo": "¿Dónde y por qué se protesta en Europa? Las reivindicaciones de los jóvenes de cada país",
       "link": "https://elpais.com/internacional/europa/informada/2026-10-24/donde-y-por-que-se-protesta-en-europa-las-reivindicaciones-de-los-jovenes-de-cada-pais.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261023/1229216_190457_video_1800.mp4",
-      "tipo": "imagen"
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261023/1229216_190457_video_1800.mp4"
+    },
+    {
+      "titulo": "Miles de personas se manifiestan en Madrid en defensa del sistema de pensiones: “¡No se venden!”",
+      "link": "https://elpais.com/economia/2026-10-24/miles-de-personas-se-manifiestan-en-madrid-en-defensa-del-sistema-de-pensiones-no-se-venden.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/CSWARPDUZ5BTDGIGW4SQ55IWVY.jpeg?auth=6557ca86764b51d925c48e7efc7d4859722f514b4bcb2f4990b320e17df2b9b9"
+    },
+    {
+      "titulo": "Sánchez reivindica “la España de Lorca” frente a la “involución” del PP y Vox",
+      "link": "https://elpais.com/espana/2026-10-24/sanchez-reivindica-la-espana-de-lorca-frente-a-la-involucion-del-pp-y-vox.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261024/1229404_122848_video_1800.mp4"
+    },
+    {
+      "titulo": "Feijóo advierte al PSOE de que no va a “indultar corruptos” si gobierna: “Me encargaré de que paguen por todo”",
+      "link": "https://elpais.com/espana/2026-10-24/feijoo-advierte-al-psoe-de-que-no-va-a-indultar-corruptos-si-gobierna-me-encargare-de-que-paguen-por-todo.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261024/1229452_153853_video_1800.mp4"
+    },
+    {
+      "titulo": "Montero y Rufián: “Una izquierda que se presenta en la misma papeleta con el PSOE no va a arreglar los problemas”",
+      "link": "https://elpais.com/espana/elecciones-generales/2026-10-24/montero-y-rufian-una-izquierda-que-se-presenta-en-la-misma-papeleta-con-el-psoe-no-va-a-arreglar-los-problemas.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261024/1229416_131706_video_1800.mp4"
     }
   ]
 }
