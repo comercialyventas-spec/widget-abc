@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Desguace masivo: Las furgonetas pueden liberar a Europa de su dependencia del diésel",
+      "link": "https://www.elconfidencial.com/mundo/2026-10-24/van-guardia-como-puede-europa-acabar-con-su-dependencia-global-del-diesel_4451643/",
+      "imagen": "https://images.ecestaticos.com/Z0GzxESzrwfIw8pD42_DDBpxrJM=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe0b%2F5b5%2F013%2Fe0b5b501374dd867fcf932116aed1e84.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Granadas aturdidoras en protestas con menores: las armas no letales, el 'elefante en la habitación' en Francia",
+      "link": "https://www.elconfidencial.com/mundo/2026-10-24/violencia-policial-francia-protestas-lesiones-1hms_4451862/",
+      "imagen": "https://images.ecestaticos.com/L3tsFFKZGC3sjfOipjTSzXZIyaE=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F368%2F29c%2F19f%2F36829c19fc641d633fc4558eaec87e30.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Melania Trump media un alto el fuego local entre Rusia y Ucrania en la ciudad de Oleshky",
       "link": "https://www.elconfidencial.com/mundo/2026-10-23/melania-trump-alto-fuego-entre-rusia-y-ucrania-ciudad-de-oleshky_4451844/",
       "imagen": "https://images.ecestaticos.com/iadscx8yeA-LZTT-BHlnr9fJwAM=/0x0:2272x1278/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fcce%2F350%2F608%2Fcce350608e991d84baa4a8e5ef1dc1fc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Un muerto y tres desaparecidos en un supuesto ataque con drones a un buque en el mar Negro ante Rumanía",
       "link": "https://www.elconfidencial.com/mundo/2026-10-23/buque-mercante-hundido-dron-rumania-1tps_4451457/",
       "imagen": "https://images.ecestaticos.com/mh9rcYoPhHn5KocAjexVDfsBQUg=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc24%2Fa8f%2Fbcf%2Fc24a8fbcf3a785d7d69893cd18c013f1.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La nueva estafa en Noruega: comprar oro para enterrarlo en el bosque y esperar a que se revalorice",
-      "link": "https://www.elconfidencial.com/mundo/2026-10-23/nueva-estafa-noruega-oro-enterrado-bosques_4451363/",
-      "imagen": "https://images.ecestaticos.com/PvkuAO9aWgQZUZovaeMEwEm_e8A=/0x182:2272x1460/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7d8%2Fb97%2F70b%2F7d8b9770b25ce9d7a90451798bbef917.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Netanyahu anuncia una operación a gran escala en Cisjordania tras un ataque contra israelíes días antes de las elecciones",
-      "link": "https://www.elconfidencial.com/mundo/2026-10-23/netanyahu-cierre-cisjordania-ataque-hebron-1tps_4451403/",
-      "imagen": "https://images.ecestaticos.com/iVFehTo8PDjXgDncLTgqtG7wU0A=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F95b%2Ff49%2Fef1%2F95bf49ef10714434ab9f7312d8c8d669.jpg",
       "tipo": "imagen"
     }
   ]

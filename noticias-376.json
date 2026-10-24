@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Por qué un interruptor de emergencia no funcionará para frenar la IA",
+      "link": "https://www.elconfidencial.com/tecnologia/novaceno/2026-10-24/interruptor-de-emergencia-no-funcionara-para-frenar-la-ia_4451570/",
+      "imagen": "https://images.ecestaticos.com/yhqr11hdT0GEkLxDTfVfgN8jkRw=/0x0:2272x1701/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa98%2Faee%2F755%2Fa98aee7556fb5be67066018d3e66edba.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Dos agujeros amenazan a casi todo internet. Este ingeniero voluntario ha evitado el desastre: \"Nunca volveremos a estar seguros\"",
+      "link": "https://www.elconfidencial.com/tecnologia/2026-10-24/fallos-seguridad-ia-internet-php_4452010/",
+      "imagen": "https://images.ecestaticos.com/Pu-E-UJYR0bvLYWvPE-igXzkcVY=/0x172:2272x1450/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff60%2F771%2F92e%2Ff6077192e3bab64dec893d2e0e429fe3.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Así se fabrica la penicilina: Oxford usa un láser de rayos X ultrarrápido y capta imágenes nunca vistas",
+      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-24/laser-rayos-x-penicilina-escala-molecular-1qrt_4448723/",
+      "imagen": "https://images.ecestaticos.com/cWPCef4KkzGFA_Foj5IgiTN_3SU=/0x0:1500x1000/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa79%2F0ea%2F5b4%2Fa790ea5b4190153ddb6f67dec0384f4c.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "EEUU explora el Atlántico a 700 metros de profundidad y encuentra un extraño pez con el cráneo transparente y los ojos tubulares",
       "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-23/eeuu-700-metros-pez-extrano-cabeza-transparente-1qrt_4417438/",
       "imagen": "https://images.ecestaticos.com/KU4OK6yXmF4WI6cEhHT9L2q2dh8=/0x0:1862x1050/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F732%2Fc34%2F6d1%2F732c346d1097b8cc1a410e569a0f44a0.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Warhounds: la compañía que desarrolla perros de guerra modificados genéticamente para EEUU",
       "link": "https://www.elconfidencial.com/tecnologia/novaceno/2026-10-23/warhounds-perros-de-guerra-modificados-geneticamente_4451639/",
       "imagen": "https://images.ecestaticos.com/1H_VdhwBqpVNtoupBFpxa6kcSE8=/0x0:1024x768/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F549%2F26c%2F168%2F54926c168b75bc362de0da0756d48309.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los expertos en ciberseguridad, sobre el truco de Pedro Sánchez de apagar el móvil 5 minutos al día: \"Sí, pero...\"",
-      "link": "https://www.elconfidencial.com/tecnologia/2026-10-23/truco-sanchez-ciberseguridad_4451499/",
-      "imagen": "https://images.ecestaticos.com/S3SIac96khzd7ceFPp5NJ8T87gw=/0x0:2272x1278/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F878%2Fdfc%2F8ca%2F878dfc8ca6b0dbc79a5a0b495da05124.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Prince, CEO de Cloudflare, sobre los fallos de PHP: \"Hemos pasado de miles a millones de ataques\"",
-      "link": "https://www.elconfidencial.com/tecnologia/2026-10-23/cloudflare-errores-seguridad_4451162/",
-      "imagen": "https://images.ecestaticos.com/HvgXeJY_GmVTfHrd0XWv9EYXJkA=/0x0:2272x1516/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F82c%2F088%2F3a5%2F82c0883a538af01968f7623d6e62f2b0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Hemos probado el nuevo iPhone Duo: que esté agotado es hasta una buena noticia",
-      "link": "https://www.elconfidencial.com/tecnologia/2026-10-23/iphone-duo-agotado-caracteristicas-precio_4451041/",
-      "imagen": "https://images.ecestaticos.com/qqBWi5bfnlsN7zgEM82TU22-ec4=/0x0:2048x1152/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Faa0%2F5e0%2Fb04%2Faa05e0b044e8756ad851069cdb52e4bf.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Entrevista a Álex Palou, piloto de IndyCar",
+      "link": "https://www.elperiodico.com/es/videos/deportes/entrevista-alex-palou-piloto-indycar/135703005.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/1326c76d-058c-4fbb-a950-369067eca07b_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Encuentro de Messi con la comunidad educativa en Oviedo",
       "link": "https://www.elperiodico.com/es/videos/deportes/encuentro-messi-comunidad-educativa-oviedo/135650605.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/67fcdf12-1683-468f-8874-40c16906d514_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Messi: \"Mi padre estaba muy ilusionado con el Premio Princesa de los Deportes\"",
       "link": "https://www.elperiodico.com/es/videos/deportes/messi-padre-ilusionado-premio-deportes/135635790.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d692159d-30b7-482d-8a81-0d9670706f38_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las lágrimas y la emoción del pequeño Joaquín después de que Messi le firmara una camiseta a las puertas del hotel de La Reconquista: \"Significa todo para mí y doy gracias\"",
-      "link": "https://www.elperiodico.com/es/videos/deportes/lagrimas-emocion-pequeno-joaquin-despues/135628695.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7b5a5781-a0e6-4edf-86f0-d372aeb0942b_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
