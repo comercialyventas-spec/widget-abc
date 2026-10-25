@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Resistencia",
+      "link": "https://www.eldiario.es/opinion/resistencia_131_13614155.html",
+      "imagen": "https://static.eldiario.es/clip/53e5c8b2-bcb8-48a6-9a8c-61ea33b5760d_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Feijóo viene avisando",
       "link": "https://www.eldiario.es/opinion/feijoo-viene-avisando_131_13612893.html",
       "imagen": "https://static.eldiario.es/clip/ddab71bd-e3ef-4f0d-a75a-01858896ba23_16-9-discover-aspect-ratio_default_1154135.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Plantar cara a la derecha",
       "link": "https://www.eldiario.es/opinion/plantar-cara-derecha_131_13594545.html",
       "imagen": "https://static.eldiario.es/clip/32a31eff-4fb3-4688-9a71-8e940649b0a0_16-9-discover-aspect-ratio_default_0_x389y209.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Novedades editoriales",
-      "link": "https://www.eldiario.es/opinion/novedades-editoriales_131_13592986.html",
-      "imagen": "https://static.eldiario.es/clip/31dba2ae-d514-49d7-8dde-49a304fd75f2_16-9-discover-aspect-ratio_default_0_x346y278.jpg",
       "tipo": "imagen"
     }
   ]

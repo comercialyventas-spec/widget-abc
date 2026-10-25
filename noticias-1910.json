@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El agujero de Feijóo",
+      "link": "https://www.eldiario.es/andalucia/desdeelsur/agujero-feijoo_132_13613850.html",
+      "imagen": "https://static.eldiario.es/clip/11d71807-2484-4f3f-8e77-8735ceb91a27_16-9-discover-aspect-ratio_default_0_x870y405.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Camuflaje de serpiente con traje de santurrón",
       "link": "https://www.eldiario.es/andalucia/desdeelsur/camuflaje-serpiente-traje-santurron_132_13595282.html",
       "imagen": "https://static.eldiario.es/clip/990590b0-3d1b-48f8-827e-f99dfc43e557_16-9-discover-aspect-ratio_default_0_x1011y668.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Sevilla, ciudad abierta",
       "link": "https://www.eldiario.es/andalucia/desdeelsur/sevilla-ciudad-abierta_132_13524524.html",
       "imagen": "https://static.eldiario.es/clip/0c30e478-709c-431f-97e1-c2da5f8a9cf9_16-9-discover-aspect-ratio_default_0_x703y990.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Aires de Tánger",
-      "link": "https://www.eldiario.es/andalucia/desdeelsur/aires-tanger_132_13506464.html",
-      "imagen": "https://static.eldiario.es/clip/afc792b1-10ce-4058-b4b1-ba1748da7066_16-9-discover-aspect-ratio_default_0_x1281y201.jpg",
       "tipo": "imagen"
     }
   ]

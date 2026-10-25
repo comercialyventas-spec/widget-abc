@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Cae un autobús por un barranco de veinte metros en Fogars de Montclús",
+      "link": "https://www.elperiodico.com/es/videos/sociedad/cae-autobus-barranco-veinte-metros/135746751.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/3ace39ad-4bef-4b27-8ac7-feecec066e7e_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Miles de personas acuden en Madrid a la llamada de las 'caballas' para apoyar a Ceuta",
       "link": "https://www.elperiodico.com/es/videos/sociedad/miles-personas-acuden-madrid-llamada/135742064.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a7405575-271a-4d6e-9e3c-275680716859_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "María Mondéjar explica los disturbios en Barcelona",
       "link": "https://www.elperiodico.com/es/videos/sociedad/maria-mondejar-explica-disturbios-barcelona/135724074.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/44991f20-6789-4d92-9dbd-3fd827dff43a_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Escala la tensión en Barcelona",
-      "link": "https://www.elperiodico.com/es/videos/sociedad/escala-tension-barcelona/135722886.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/fbf60614-78e9-4a6d-86dd-86be83ae0b2e_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

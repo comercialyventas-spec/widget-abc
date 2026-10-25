@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Al menos 80 heridos al caer un autobús por un barranco en Fogars de Montclús (Barcelona)",
+      "link": "https://okdiario.com/cataluna/menos-60-personas-han-resultado-heridas-caer-autobus-barranco-forgans-montclus-barcelona-20626389",
+      "imagen": "https://okdiario.com/img/2026/10/25/frame-accidente-bus.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "AEMET predice nubes altas y ascenso de temperaturas en Barcelona, con viento moderado en la costa",
       "link": "https://okdiario.com/cataluna/aemet-predice-nubes-altas-y-ascenso-de-temperaturas-en-barcelona-con-viento-moderado-en-la-costa-20624140",
       "imagen": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Previsión AEMET: Nubes altas y posible lluvia al final del día en Barcelona",
       "link": "https://okdiario.com/cataluna/prevision-aemet-nubes-altas-y-posible-lluvia-al-final-del-dia-en-barcelona-20612931",
       "imagen": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Illa miente como Sánchez",
-      "link": "https://okdiario.com/cataluna/illa-miente-como-sanchez-20612100",
-      "imagen": "https://okdiario.com/img/2026/10/22/sanchez_illa-1.jpg",
       "tipo": "imagen"
     }
   ]

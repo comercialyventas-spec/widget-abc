@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Turismo rural: ya no vive del rebote de la pandemia, aunque la ocupación media solo llega al 20%",
+      "link": "https://www.elconfidencial.com/economia/2026-10-25/turismo-rural-precios-demanda-1hms_4452548/",
+      "imagen": "https://images.ecestaticos.com/C6ix9NFLsiZsz-2ZIy_AMmPOxTQ=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3e9%2F8bc%2F76c%2F3e98bc76cadfa81687991d2a9c2759fe.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Santiago Niño Becerra, economista: “Los jóvenes y no tan jóvenes que no son propietarios están vendidos”",
+      "link": "https://www.elconfidencial.com/economia/2026-10-25/economista-jovenes-propietarios-estan-vendidos_4452603/",
+      "imagen": "https://images.ecestaticos.com/9V_SOknqdLxAJiSxQQsHROSKyCk=/0x0:2272x1562/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F86f%2F7f7%2F02e%2F86f7f702eda66e07181022fd5ae44d70.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Carmen, jubilada anticipada con 45 años cotizados: \"A pesar de todo mi esfuerzo, me han recortado la pensión injustamente, mes a mes”",
       "link": "https://www.elconfidencial.com/economia/2026-10-25/jubilada-anticipada-pesar-esfuerzo-recortado-pension_4452251/",
       "imagen": "https://images.ecestaticos.com/rNUo40TvVoG-nUDxOaCndT2mRno=/0x0:613x342/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbff%2F3d0%2Fd1e%2Fbff3d0d1e46c60f1c0a4bf2819173430.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Si le cobro el alquiler a mi pareja, ¿sigue siendo mi pareja? Lo que el nuevo reparto de gastos dice del cambio en los hogares",
+      "link": "https://www.elconfidencial.com/economia/2026-10-25/cobrar-alquiler-pareja-reparto-gastos_4451547/",
+      "imagen": "https://images.ecestaticos.com/XHOEEREwx6oiiAocd5B9xB6cwuA=/0x0:2272x1278/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fba5%2Fe02%2F91e%2Fba5e0291e980a9855a0e08cce0d4caa1.jpg",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "Telefónica celebra, en el Espacio Fundación Telefónica, una nueva edición del Policy Day",
       "link": "https://www.elconfidencial.com/economia/2026-10-24/soberania-tecnologica-europea-1hms-1svm_4452237/",
       "imagen": "https://images.ecestaticos.com/f5-KbciWQiqbbx1hf6_fa6iC9f4=/0x0:900x506/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F324%2Fe74%2Fef0%2F324e74ef0e33286446ceaa9911f9e9ad.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Valentín Martín, jubilado: \"Con 57 años no te coge nadie, y perdí el 24% de la pensión teniendo 47 años cotizados\"",
-      "link": "https://www.elconfidencial.com/economia/2026-10-24/valentin-martin-jubilado-perdi-24-pension-47-anos-cotizados-1qrt_4451001/",
-      "imagen": "https://images.ecestaticos.com/3qY6nyntaiUXFxgMloQ9scN5XVQ=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb65%2F9ec%2F044%2Fb659ec044f68fff0eeca971155d7be78.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sara Aagesen y Beatriz Corredor participan en el XIII Foro Solar, que reunirá al sector ante los retos energéticos de 2030",
-      "link": "https://www.elconfidencial.com/economia/2026-10-23/foro-solar-fotovoltaico-almacenamiento-espana-1hms-1svm_4451803/",
-      "imagen": "https://images.ecestaticos.com/KcoY__7vDKePDOl-fbDebsxH6Q8=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F660%2F1a4%2Faa1%2F6601a4aa1738d19f155db30b12f3d8ae.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "De Cos se sitúa como el favorito para suceder a Lagarde al frente del BCE",
-      "link": "https://www.elconfidencial.com/economia/2026-10-23/de-cos-se-situa-como-el-favorito-para-suceder-lagarde_4451531/",
-      "imagen": "https://images.ecestaticos.com/VyqU5usaaGjcLRmOahze9lYTHeY=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fde4%2Fddb%2Fa44%2Fde4ddba449ac098a540a356262a80e9a.jpg",
       "tipo": "imagen"
     }
   ]

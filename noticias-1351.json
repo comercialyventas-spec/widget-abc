@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
+      "titulo": "Elecciones en Brasil, en vivo |Lula pide ampliar el horario de voto por problemas con el transporte: “No permitiremos que haya robo”",
+      "link": "https://elpais.com/america/2026-10-25/resultados-de-las-elecciones-en-brasil-en-vivo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/UY44QPOBDZFIFK7CTMSUWR4EHU.jpg?auth=3ebcc7d8f70d50393b01e98a09575cab26df3a92a1c92374d3f8822e4a11df7f",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La jornada electoral de Brasil, en imágenes",
+      "link": "https://elpais.com/america/2026-10-25/la-jornada-electoral-de-brasil-en-imagenes.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NIBC2EKYMNOHRCJ2XZGXGXQCWY.jpg?auth=a2f45d0d5c00ad5fa329a29c50dcfb082287ce1348e185259c4f18449cc50ecf",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Videoanálisis | Brasil elige presidente en una elección reñida y que será decisiva para Latinoamérica",
+      "link": "https://elpais.com/america/2026-10-24/videoanalisis-brasil-elige-presidente-en-una-eleccion-renida-y-que-sera-decisiva-para-latinoamerica.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261024/1229491_175933_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Elecciones en Brasil 2026: las claves de una reñida segunda vuelta presidencial",
+      "link": "https://elpais.com/america/2026-10-24/elecciones-en-brasil-2026-las-claves-de-una-renida-segunda-vuelta-presidencial.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/3XXK2PJZDRLRBOJAVMQB6GC3GM.jpg?auth=123188e7d5f55c80fbb3a22c278ef05bf9fd88ec3fc7c29d44abf8393f84a5e5",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Barcelona - Real Madrid en directo | Mbappé marca el segundo para volver a poner por delante al Madrid",
+      "link": "https://elpais.com/deportes/futbol/2026-10-25/barcelona-real-madrid-en-directo-el-clasico-de-la-liga-en-vivo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/UVYMA5UCDRISDGI243MLIXBIZA.jpg?auth=acc2c18ad01d8edec9c5ce99476c9038c119827c612d7f3403bfba5c4befe972",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "María Corina Machado regresa a Venezuela",
       "link": "https://elpais.com/america/2026-10-25/maria-corina-machado-regresa-a-venezuela.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261025/1229730_171702_video_1800.mp4"
-    },
-    {
-      "titulo": "Trump, sobre el regreso de Maria Corina Machado a Venezuela: “Espero que esté a salvo, es una mujer muy agradable”",
-      "link": "https://elpais.com/us/2026-10-25/trump-sobre-el-regreso-de-maria-corina-machado-a-venezuela-espero-que-este-a-salvo-es-una-mujer-muy-agradable.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261025/1229768_195837_video_1800.mp4"
-    },
-    {
-      "titulo": "El regreso de María Corina Machado a Venezuela, en vivo | María Corina Machado hará tres paradas en su camino hacia Caracas",
-      "link": "https://elpais.com/america/2026-10-25/el-regreso-de-maria-corina-machado-a-venezuela-en-vivo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/OZLN6I2ZRFFN3EMVY4HJGC6R7Y.jpeg?auth=b96f0f828432e9dbcb352efde5bafefa9a1f21e18b872db9ce3eeb50fc19a125"
-    },
-    {
-      "titulo": "El regreso de María Corina Machado busca acelerar la transición y retar al chavismo",
-      "link": "https://elpais.com/america/2026-10-25/el-regreso-de-maria-corina-machado-busca-acelerar-la-transicion-y-retar-al-chavismo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/CQFWTGP2IFAZXBOTEZKZEP7RBM.jpeg?auth=55a62574efdfe2a4c58ded9e7a62ebf6b1b8071bd4e5a05d5e18169a10a38f78"
-    },
-    {
-      "titulo": "Resultados de las elecciones en Brasil, en vivo|Brasil extiende el horario de votación dos horas",
-      "link": "https://elpais.com/america/2026-10-25/resultados-de-las-elecciones-en-brasil-en-vivo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/UY44QPOBDZFIFK7CTMSUWR4EHU.jpg?auth=3ebcc7d8f70d50393b01e98a09575cab26df3a92a1c92374d3f8822e4a11df7f"
-    },
-    {
-      "titulo": "Lula se asoma a otro triunfo épico o al abismo",
-      "link": "https://elpais.com/america/2026-10-24/lula-se-asoma-al-abismo-o-a-otro-triunfo-epico.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/XBU5ABKZMRC6XOJGJ3IWXHODGE.jpeg?auth=36a67de75ea1bd46d446da23093f9fd6567c83c85cbeae9e772b8b4b85226399"
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261025/1229730_171702_video_1800.mp4",
+      "tipo": "imagen"
     }
   ]
 }

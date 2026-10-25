@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "Barcelona - Real Madrid en directo: previa, reacciones y última hora de El Clásico hoy en vivo",
+      "titulo": "Barcelona - Real Madrid: previa, reacciones y última hora de El Clásico",
       "link": "https://www.marca.com/futbol/2026/10/25/6addc8ba5660fba9dd2bd77d-directo.html",
       "imagen": "https://phantom.estaticos-marca.com/dd8bf1fd643c1a535f257aba05d82733/resize/640/f/jpg/assets/multimedia/imagenes/2026/10/25/17929210368597.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Hacia dónde va la gestión del fútbol de América Latina?",
+      "link": "https://www.marca.com/futbol/2026/10/25/gestion-futbol-america-latina.html",
+      "imagen": "https://phantom.estaticos-marca.com/334ee2db6878cf5ab7530dea286c4623/resize/640/f/jpg/assets/multimedia/imagenes/2026/10/25/17929510141897.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Míchel mete al Ajax en la pelea por la Eredivisie",
+      "link": "https://www.marca.com/futbol/2026/10/25/michel-mete-ajax-pelea-eredivisie.html",
+      "imagen": "https://phantom.estaticos-marca.com/b55eef7393d3edee60d2fdc65d09fa8c/resize/640/f/jpg/assets/multimedia/imagenes/2026/10/25/17929501155545.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Neymar, expulsado por la 'Ley Vinicius'",
       "link": "https://www.marca.com/futbol/2026/10/25/neymar-expulsado-ley-vinicius.html",
       "imagen": "https://phantom.estaticos-marca.com/93c5b1ab4158e66115027585540d2584/resize/640/f/jpg/assets/multimedia/imagenes/2026/10/25/17929019194138.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Clásico de los 649 euros",
-      "link": "https://www.marca.com/futbol/opinion/2026/10/25/clasico-649-euros.html",
-      "imagen": "https://phantom.estaticos-marca.com/bdad44ac5c1a052d3193c4e625844b49/resize/640/f/jpg/assets/multimedia/imagenes/2026/10/25/17928935774752.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las portadas del día",
-      "link": "https://www.marca.com/futbol/album/2026/10/25/portadas-dia.html",
-      "imagen": "https://phantom.estaticos-marca.com/0b9198b8d37079d708c8defed399b2b1/resize/640/f/jpg/assets/multimedia/imagenes/2026/10/25/17928851431268.jpg",
       "tipo": "imagen"
     }
   ]

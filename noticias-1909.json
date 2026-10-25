@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¿Y si gana la izquierda?",
+      "link": "https://www.eldiario.es/opinion/zona-critica/si-gana-izquierda_129_13613758.html",
+      "imagen": "https://static.eldiario.es/clip/cb615376-f31b-420d-9c81-fbd5f2f8c188_16-9-discover-aspect-ratio_default_0_x985y1084.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Has fracasado? ¿Has pensado en irte?",
       "link": "https://www.eldiario.es/opinion/zona-critica/has-fracasado-has-pensado-irte_129_13595742.html",
       "imagen": "https://static.eldiario.es/clip/e1fa5772-047c-4ac4-8e64-8847877e811d_16-9-discover-aspect-ratio_default_0_x973y438.jpg",
@@ -28,12 +34,6 @@
       "titulo": "No todo es cancelación",
       "link": "https://www.eldiario.es/opinion/zona-critica/no-cancelacion_129_13524495.html",
       "imagen": "https://static.eldiario.es/clip/d00be170-5960-40c1-bff7-2eae6e64f284_16-9-discover-aspect-ratio_default_1151620.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "A quién le conviene el apocalipsis de la IA",
-      "link": "https://www.eldiario.es/opinion/zona-critica/le-conviene-apocalipsis-ia_129_13506831.html",
-      "imagen": "https://static.eldiario.es/clip/179ba016-ff67-4bbf-9b37-00cc3e616af7_16-9-discover-aspect-ratio_default_0_x1027y320.jpg",
       "tipo": "imagen"
     }
   ]
