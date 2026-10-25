@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¿Quién ganará el 29-N?",
+      "link": "https://www.lavanguardia.com/opinion/20261025/11667374/ganara-29-n.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/05/12/6640fe14c79ae.r_d.1418-458-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Unas elecciones cruciales para Trump",
       "link": "https://www.lavanguardia.com/opinion/20261025/11667176/elecciones-cruciales-trump.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Nueva Europa",
       "link": "https://www.lavanguardia.com/opinion/20261025/11667136/nueva-europa.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/24/6adc813a6862d.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Esposas y maridos",
-      "link": "https://www.lavanguardia.com/opinion/20261025/11667135/esposas-maridos.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/18/6ad4f46fdaaa6.jpeg",
       "tipo": "imagen"
     }
   ]

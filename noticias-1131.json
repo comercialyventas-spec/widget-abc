@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "La isla vaciada",
+      "link": "https://elpais.com/opinion/tribunas/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/IDLMHEUAWRFUPGS5YO7TB4TFGQ.jpg?auth=d1a57b67e69ca7146f7d9a3f5319509620ee4847ceb559eaec65fb4845b96dba&width=414&height=233&focal=590%2C718",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las vacunas contra el cáncer: sí, pero aún no",
+      "link": "https://elpais.com/noticias/cancer/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/27STBYBVR5AOTNNGLIFM6ATI5I.jpg?auth=32ef136edb96645fbca7cc0ea9d5994ee297098e3dd4c2678044001722b2f37b&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La familia que la Expofamily no quiso ver",
+      "link": "https://elpais.com/noticias/familia/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/H4WKWAYUUNESRAFLF3GFF54AZQ.jpg?auth=5a1f89058f3936a4ffb998f4681b8d3d43f570a9c340185907e2534d03595c48&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cómo soñar con las abuelas que no conocemos",
       "link": "https://elpais.com/noticias/guatemala/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/L77SOQBK3ZE7VN7WNRG23U5D3I.jpg?auth=266d38d69bd66bea6373b45d79f9701ba298d225cac4d1449a45b497bc261d05&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/L77SOQBK3ZE7VN7WNRG23U5D3I.jpg?auth=266d38d69bd66bea6373b45d79f9701ba298d225cac4d1449a45b497bc261d05&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
@@ -13,27 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Una bola negra contra el hispanismo",
-      "link": "https://elpais.com/opinion/tribunas/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/U7G5UAP34VBKVPUVCV62CCJEDY.JPG?auth=25cdbdfe4a6cf8e53b8911e1a8eba0bafa0cd3b3f426197e41c54752a7892c62&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "El chavismo en el centro de datos, Extremadura en la periferia",
       "link": "https://elpais.com/noticias/centros-datos/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/O2DZ7ZJKQFF6ZK5FN4PNCDOKBM.jpg?auth=cea47e16cef4a1800edc72baa04726d6f96dc892aef399db1b4dccb154669b5b&width=414&height=311&focal=1053%2C444",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Lecciones de la sabana africana para las áreas quemadas",
-      "link": "https://elpais.com/clima-y-medio-ambiente/2026-10-24/lecciones-de-la-sabana-africana-para-las-areas-quemadas.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ORHTDB6VMZIUTPJE2MNL5S3LDM.jpg?auth=86ea245b829d54f3c515005d3bed63c2613f79553e2281a41e5258ebcf466e56&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ayuso y el neonacionalflamenquismo",
-      "link": "https://elpais.com/opinion/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/XTVRXXMFHFESDLJDJVELCNJDS4.jpg?auth=5bdc6a8e371850d3acecd9b2ff50065bc45e5a09d9c6e1cc44baee7b1b7913d0&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

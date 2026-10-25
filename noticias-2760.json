@@ -1,0 +1,22 @@
+{
+  "noticias": [
+    {
+      "titulo": "' + escapeHtml(item.forumCategoryName) + '",
+      "link": "https://www.kmib.co.kr/' + item.landingUrl + '",
+      "imagen": "https://www.kmib.co.kr/' + item.listBannerImgUrl + '",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "본 페이지에 게시된 포럼 소개 내용 및 관련 콘텐츠(기사, 사진, 영상 등)의 저작권은 국민일보에 있으며, 출처를 명시한 비상업적 공유는 허용됩니다 단, 콘텐츠의 무단 수정, 상업적 활용 및 재배포는 제한될 수 있습니다. 서울특별시 영등포구 여의공원로 101 (CCMM",
+      "link": "https://www.kmib.co.kr",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "본 페이지에 게시된 포럼 소개 내용 및 관련 콘텐츠(기사, 사진, 영상 등)의 저작권은 국민일보에 있으며, 출처를 명시한 비상업적 공유는 허용됩니다 단, 콘텐츠의 무단 수정, 상업적 활용 및 재배포는 제한될 수 있습니다. 서울특별시 영등포구 여의공원로 101 (CCMM",
+      "link": "https://company.kmib.co.kr/company/customer.asp",
+      "imagen": "https://image.kmib.co.kr/images/company/img_kmib_meta.jpg",
+      "tipo": "imagen"
+    }
+  ]
+}

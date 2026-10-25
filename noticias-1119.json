@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "AEMET predice nubes altas y ascenso de temperaturas en Barcelona, con viento moderado en la costa",
+      "link": "https://okdiario.com/cataluna/aemet-predice-nubes-altas-y-ascenso-de-temperaturas-en-barcelona-con-viento-moderado-en-la-costa-20624140",
+      "imagen": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Encapuchados saquean comercios y queman barricadas en Barcelona y los Mossos blindan la plaza de Cataluña",
       "link": "https://okdiario.com/cataluna/encapuchados-queman-barricadas-destrozan-mobiliario-barcelona-mossos-blindan-plaza-cataluna-20623023",
       "imagen": "https://okdiario.com/img/2026/10/24/europapress_7867658_varias_personas_causan_disturbios_24_octubre_2026_barcelona_catalunya-1.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Illa miente como Sánchez",
       "link": "https://okdiario.com/cataluna/illa-miente-como-sanchez-20612100",
       "imagen": "https://okdiario.com/img/2026/10/22/sanchez_illa-1.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Nubes altas y ligero descenso de temperaturas en Barcelona, según AEMET",
-      "link": "https://okdiario.com/cataluna/nubes-altas-y-ligero-descenso-de-temperaturas-en-barcelona-segun-aemet-20604500",
-      "imagen": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
       "tipo": "imagen"
     }
   ]

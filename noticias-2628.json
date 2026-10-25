@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El primer restaurante de fideos Diaxiaoman hechos con un robot",
+      "link": "https://www.telecinco.es/gastronomia/restaurantes/20261025/primer-fideos-diaxiaoman-robot-madrid_18_020375252.html",
+      "imagen": "https://album.mediaset.es/eimg/2026/10/20/fideos-chinos_2ffd.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Tarta de queso con churros: el postre que sube la apuesta para los más golosos",
+      "link": "https://www.telecinco.es/gastronomia/recetas/20261025/tarta-churros-postre-apuesta-golosos_18_020232262.html",
+      "imagen": "https://album.mediaset.es/eimg/2026/09/22/pexels-pixabay-372851_da97-2.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La coctelería nocturna donde brindan Rosalía, Los Javis y otros famosos",
       "link": "https://www.telecinco.es/gastronomia/restaurantes/20261024/cocteleria-nocturna-brindan-rosalia-javis_18_020375577.html",
       "imagen": "https://album.mediaset.es/eimg/2026/10/07/un-par-de-cocteles-de-marrufo_ae20.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Así se reinventa el melón con jamón para sorprender",
       "link": "https://www.telecinco.es/gastronomia/recetas/20261023/gazpacho-melon-jamon_18_019699551.html",
       "imagen": "https://album.mediaset.es/eimg/2026/07/13/pexels-pixabay-39350_9e5c-2.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La granada: ese misterio dulce, ácido y rubí",
-      "link": "https://www.telecinco.es/gastronomia/alimentacion/20261023/granada-misterio-dulce-acido-rubi_18_020491868.html",
-      "imagen": "https://album.mediaset.es/eimg/2026/10/21/la-granada_21ef.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Jordi Cruz hace con su hijo Noah la receta más infalible de hummus",
-      "link": "https://www.telecinco.es/gastronomia/recetas/20261022/jordi-cruz-receta-infalible-hummus_18_020374978.html",
-      "imagen": "https://album.mediaset.es/eimg/2024/12/18/jordi-cruz_f9c0.jpg",
       "tipo": "imagen"
     }
   ]

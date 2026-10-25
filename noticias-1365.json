@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¡Otra Yalta no, por favor!",
+      "link": "https://elpais.com/internacional/2026-10-25/otra-yalta-no-por-favor.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KD2N6PA4BRJDNHGDKRKRUGJMAE.jpg?auth=bf3795462794aab5ec343c8a908bdac9076761a301ba85ac0cbb167fd72f25cf",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "“Un ataque informático puede suponer el cierre definitivo de una pyme”, alerta una lectora",
       "link": "https://elpais.com/opinion/2026-10-25/un-ataque-informatico-puede-suponer-el-cierre-definitivo-de-una-pyme-alerta-una-lectora.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/XXDYAUKBXBGP3IC2XQR6BFYLZI.jpg?auth=e087c0a8ba7543f7491264621fe4c0fd8ada2cb88a972cac02cebe3d1bc1e464",
@@ -28,12 +34,6 @@
       "titulo": "La isla vaciada",
       "link": "https://elpais.com/opinion/2026-10-25/la-isla-vaciada.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/IDLMHEUAWRFUPGS5YO7TB4TFGQ.jpg?auth=d1a57b67e69ca7146f7d9a3f5319509620ee4847ceb559eaec65fb4845b96dba",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Peridis: choque judicial",
-      "link": "https://elpais.com/opinion/2026-10-25/peridis-choque-judicial.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/YZPVN56BIRHVJM4U4X4YKMJFR4.jpg?auth=e49682f850e3e494b061b4351301bf6b3e055dad39032dcb8ca633157ac401cb",
       "tipo": "imagen"
     }
   ]

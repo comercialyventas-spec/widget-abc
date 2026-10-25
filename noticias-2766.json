@@ -1,0 +1,40 @@
+{
+  "noticias": [
+    {
+      "titulo": "Elecciones Elecciones generales Elecciones autonómicas Elecciones municipales",
+      "link": "https://www.larazon.es/elecciones/",
+      "imagen": "https://www.larazon.es/public/img/larazon/favicon/apple-touch-icon.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Comunitat Valenciana",
+      "link": "https://www.larazon.es/comunidad-valenciana/",
+      "imagen": "https://www.larazon.es/public/img/larazon/favicon/apple-touch-icon.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Castilla La Mancha",
+      "link": "https://www.larazon.es/castilla-la-mancha/",
+      "imagen": "https://www.larazon.es/public/img/larazon/favicon/apple-touch-icon.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Suplemento Tu Economía",
+      "link": "https://www.larazon.es/tueconomia/",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "Dinero & Negocios",
+      "link": "https://www.larazon.es/tags/suplementos-dinero-negocios/",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
+      "titulo": "Literatura Libros",
+      "link": "https://www.larazon.es/cultura/literatura/",
+      "imagen": "",
+      "tipo": ""
+    }
+  ]
+}
