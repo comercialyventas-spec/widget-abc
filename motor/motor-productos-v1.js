@@ -356,6 +356,12 @@
 
   function anadir(w, lista) {
     var h = "";
+    // Si el filtro (data-filtro) no deja pasar ningun producto de la primera tanda, se ignora y se ensena el catalogo completo de esa coleccion
+    if (w.filtro && !w.productos.length && lista && lista.length) {
+      var baseF = w.urls[w.idx] || w.urls[0], algunoF = false;
+      lista.forEach(function (p) { var q = normalizar(p, baseF, w.moneda); if (q && pasaFiltro(q, w)) algunoF = true; });
+      if (!algunoF) w.filtro = "";
+    }
     lista.forEach(function (p) {
       p = normalizar(p, w.urls[w.idx] || w.urls[0], w.moneda);
       if (!p || w.vistos[p.url] || !pasaFiltro(p, w)) return;
