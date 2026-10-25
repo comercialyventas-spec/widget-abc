@@ -20,6 +20,8 @@
  *   data-blog        utm_source (por defecto "blog")
  *   data-campana     utm_campaign = catalogo_<campana>
  *   data-comprar     texto del botón de cada producto (por defecto "Comprar ahora")
+ *   data-awin        (opcional) ID del anunciante en Awin: los enlaces de producto y de tienda pasan por Awin
+ *   data-awinaff     (opcional) ID de afiliado de Awin (por defecto 347757)
  *   data-club        "0" para quitar "Unirme al Club de Ahorro"
  *   data-form        URL del formulario del Club (termina en entry.X=)
  *   data-filtro      (opcional) deja solo los productos cuya URL o título contienen ese texto
@@ -330,7 +332,11 @@
   }
 
   /* ---------- pintar ---------- */
-  function utm(u, w, medio) { return u + (u.indexOf("?") !== -1 ? "&" : "?") + "utm_source=" + encodeURIComponent(w.blog) + "&utm_medium=" + medio + "&utm_campaign=catalogo_" + encodeURIComponent(w.campana); }
+  // Afiliación Awin opcional (data-awin = ID del anunciante en Awin; data-awinaff = ID de afiliado, por defecto 347757).
+  // Sin data-awin los enlaces quedan como siempre (directos a la tienda con UTM).
+  function awin(u, w) { return w.awin ? "https://www.awin1.com/cread.php?awinmid=" + encodeURIComponent(w.awin) + "&awinaffid=" + encodeURIComponent(w.awinaff) + "&ued=" + encodeURIComponent(u) : u; }
+  function utm(u, w, medio) { return awin(utmBase(u, w, medio), w); }
+  function utmBase(u, w, medio) { return u + (u.indexOf("?") !== -1 ? "&" : "?") + "utm_source=" + encodeURIComponent(w.blog) + "&utm_medium=" + medio + "&utm_campaign=catalogo_" + encodeURIComponent(w.campana); }
   function tarjeta(p, w) {
     var clic = CLICS + "?producto=" + encodeURIComponent(p.titulo) + "&url=" + encodeURIComponent(p.url);
     var h = '<div class="mp-card">';
@@ -446,7 +452,9 @@
       club: el.getAttribute("data-club") !== "0",
       form: el.getAttribute("data-form") || FORM_POR_DEFECTO,
       filtro: (el.getAttribute("data-filtro") || "").trim(),
-      moneda: el.getAttribute("data-moneda") || "€"
+      moneda: el.getAttribute("data-moneda") || "€",
+      awin: (el.getAttribute("data-awin") || "").trim(),
+      awinaff: (el.getAttribute("data-awinaff") || "347757").trim()
     };
     ponerEstilos();
     el.innerHTML = '<div class="mp-grid"><p class="mp-aviso" style="grid-column:1/-1;text-align:center;color:#999">Cargando productos...</p></div><div class="mp-estado"></div>';
