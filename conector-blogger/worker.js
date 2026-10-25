@@ -1,4 +1,4 @@
-// Conector Blogger para Claude (servidor MCP) — v1.2: Blogger (lectura + escritura con copia previa, KV COPIAS) + Search Console.
+// Conector Blogger para Claude (servidor MCP) — v1.3: Blogger (lectura + escritura con copia previa, KV COPIAS) + Search Console + AdSense (solo lectura).
 // Secretos del Worker (los pone el workflow desde GitHub):
 //   BLOGGER_CLIENT_ID, BLOGGER_CLIENT_SECRET, BLOGGER_REFRESH_TOKEN, MCP_CLAVE
 // Dirección del conector: https://conector-blogger.<subdominio>.workers.dev/mcp/<MCP_CLAVE>
@@ -464,7 +464,152 @@ HERRAMIENTAS.push(
   },
 );
 
-// Página de permiso de Search Console
+// ===================== ADSENSE (v1.3, solo lectura) =====================
+// Permiso propio igual que Search Console: refresh token en KV (clave "ads:refresh"),
+// se obtiene con la página /permiso/<MCP_CLAVE>/adsense.
+const ADS_ALCANCE = "https://www.googleapis.com/auth/adsense.readonly";
+const ADS_API = "https://adsense.googleapis.com/v2";
+let tokenAdsCache = { valor: null, caduca: 0 };
+let cuentaAdsCache = null;
+
+async function tokenAds(env) {
+  if (tokenAdsCache.valor && Date.now() < tokenAdsCache.caduca) return tokenAdsCache.valor;
+  const refresh = await env.COPIAS.get("ads:refresh");
+  if (!refresh) throw new Error("AdSense aún no tiene permiso. Hay que abrir la página /permiso/<clave>/adsense del conector y pulsar Permitir.");
+  const c = gscCliente(env);
+  const r = await fetch("https://oauth2.googleapis.com/token", {
+    method: "POST",
+    headers: { "Content-Type": "application/x-www-form-urlencoded" },
+    body: new URLSearchParams({ client_id: c.id, client_secret: c.secreto, refresh_token: refresh, grant_type: "refresh_token" }),
+  });
+  const j = await r.json();
+  if (!j.access_token) throw new Error("No se pudo obtener acceso a AdSense: " + (j.error || "") + " " + (j.error_description || ""));
+  tokenAdsCache = { valor: j.access_token, caduca: Date.now() + (j.expires_in - 120) * 1000 };
+  return j.access_token;
+}
+
+async function ads(env, ruta, params = []) {
+  const url = new URL(ADS_API + ruta);
+  for (const [k, v] of params) if (v !== undefined && v !== null && v !== "") url.searchParams.append(k, String(v));
+  const r = await fetch(url, { headers: { Authorization: "Bearer " + (await tokenAds(env)) } });
+  const t = await r.text();
+  if (!r.ok) throw new Error("AdSense respondió " + r.status + ": " + t.slice(0, 500));
+  return t ? JSON.parse(t) : {};
+}
+
+async function cuentaAds(env, a = {}) {
+  if (a.cuenta) return a.cuenta.startsWith("accounts/") ? a.cuenta : "accounts/" + a.cuenta;
+  if (cuentaAdsCache) return cuentaAdsCache;
+  const j = await ads(env, "/accounts");
+  const c = (j.accounts || [])[0];
+  if (!c) throw new Error("No se ha encontrado ninguna cuenta de AdSense con este permiso");
+  cuentaAdsCache = c.name;
+  return c.name;
+}
+
+const PROP_CUENTA = { cuenta: { type: "string", description: "Cuenta de AdSense (pub-...). Si no se indica, la primera" } };
+
+function fechaPartes(prefijo, iso) {
+  const [y, m, d] = iso.split("-").map(Number);
+  return [[prefijo + ".year", y], [prefijo + ".month", m], [prefijo + ".day", d]];
+}
+
+HERRAMIENTAS.push(
+  {
+    name: "ads_cuentas",
+    annotations: { readOnlyHint: true },
+    description: "AdSense: cuentas a las que da acceso el permiso (nombre, estado, zona horaria).",
+    inputSchema: { type: "object", properties: {} },
+    run: async (env) => {
+      const j = await ads(env, "/accounts");
+      return (j.accounts || []).map((c) => ({ cuenta: c.name, nombre: c.displayName, estado: c.state, zonaHoraria: c.timeZone?.id, creada: c.createTime }));
+    },
+  },
+  {
+    name: "ads_informe",
+    annotations: { readOnlyHint: true },
+    description: "AdSense: ingresos estimados, páginas vistas, impresiones, clics, CTR y RPM. Agrupa por dominio (blog), fecha, mes, país, plataforma o bloque de anuncios. Por defecto últimos 28 días por dominio.",
+    inputSchema: {
+      type: "object",
+      properties: {
+        ...PROP_CUENTA,
+        agruparPor: { type: "string", enum: ["DOMAIN_NAME", "DATE", "MONTH", "COUNTRY_NAME", "PLATFORM_TYPE_NAME", "AD_UNIT_NAME", "ninguno"], description: "Por defecto DOMAIN_NAME (por blog)" },
+        periodo: { type: "string", enum: ["TODAY", "YESTERDAY", "LAST_7_DAYS", "LAST_30_DAYS", "MONTH_TO_DATE", "YEAR_TO_DATE", "LAST_28_DAYS"], description: "Por defecto LAST_28_DAYS (se ignora si se dan desde/hasta)" },
+        desde: { type: "string", description: "AAAA-MM-DD" },
+        hasta: { type: "string", description: "AAAA-MM-DD" },
+        maximo: { type: "number", description: "Filas (1-1000, por defecto 100)" },
+      },
+    },
+    run: async (env, a) => {
+      const cuenta = await cuentaAds(env, a);
+      const dim = a.agruparPor || "DOMAIN_NAME";
+      const metricas = ["ESTIMATED_EARNINGS", "PAGE_VIEWS", "IMPRESSIONS", "CLICKS", "PAGE_VIEWS_CTR", "PAGE_VIEWS_RPM"];
+      const p = [];
+      if (a.desde || a.hasta) {
+        p.push(["dateRange", "CUSTOM"], ...fechaPartes("startDate", a.desde || fechaISO(28)), ...fechaPartes("endDate", a.hasta || fechaISO(0)));
+      } else p.push(["dateRange", a.periodo || "LAST_28_DAYS"]);
+      if (dim !== "ninguno") p.push(["dimensions", dim]);
+      for (const m of metricas) p.push(["metrics", m]);
+      if (dim !== "ninguno") p.push(["orderBy", dim === "DATE" || dim === "MONTH" ? "+" + dim : "-ESTIMATED_EARNINGS"]);
+      p.push(["limit", Math.min(Math.max(Number(a.maximo) || 100, 1), 1000)], ["languageCode", "es"]);
+      const j = await ads(env, `/${cuenta}/reports:generate`, p);
+      const cab = (j.headers || []).map((h) => h.name);
+      const moneda = (j.headers || []).find((h) => h.currencyCode)?.currencyCode || "";
+      const fila = (r) => Object.fromEntries((r.cells || []).map((c, i) => [cab[i], c.value]));
+      return {
+        cuenta, moneda, desde: j.startDate ? `${j.startDate.year}-${j.startDate.month}-${j.startDate.day}` : null,
+        hasta: j.endDate ? `${j.endDate.year}-${j.endDate.month}-${j.endDate.day}` : null,
+        agrupadoPor: dim, filas: j.totalMatchedRows ?? (j.rows || []).length,
+        totales: j.totals ? fila(j.totals) : null, datos: (j.rows || []).map(fila), avisos: j.warnings || [],
+      };
+    },
+  },
+  {
+    name: "ads_sitios",
+    annotations: { readOnlyHint: true },
+    description: "AdSense: sitios dados de alta en AdSense y su estado (READY = aprobado, REQUIRES_REVIEW, GETTING_READY, NEEDS_ATTENTION) y si tienen anuncios automáticos.",
+    inputSchema: { type: "object", properties: { ...PROP_CUENTA } },
+    run: async (env, a) => {
+      const cuenta = await cuentaAds(env, a);
+      const lista = [];
+      let pagina;
+      do {
+        const j = await ads(env, `/${cuenta}/sites`, [["pageSize", 1000], ["pageToken", pagina]]);
+        lista.push(...(j.sites || []));
+        pagina = j.nextPageToken;
+      } while (pagina);
+      return `${lista.length} sitios (dominio | estado | anuncios automáticos)\n` + lista.map((s) => `${s.domain} | ${s.state} | ${s.autoAdsEnabled ? "sí" : "no"}`).sort().join("\n");
+    },
+  },
+  {
+    name: "ads_alertas",
+    annotations: { readOnlyHint: true },
+    description: "AdSense: avisos y alertas de la cuenta (problemas de políticas, pagos, ads.txt, etc.).",
+    inputSchema: { type: "object", properties: { ...PROP_CUENTA } },
+    run: async (env, a) => {
+      const cuenta = await cuentaAds(env, a);
+      const j = await ads(env, `/${cuenta}/alerts`, [["languageCode", "es"]]);
+      const l = (j.alerts || []).map((x) => ({ gravedad: x.severity, tipo: x.type, mensaje: x.message }));
+      return l.length ? l : "Sin alertas";
+    },
+  },
+  {
+    name: "ads_pagos",
+    annotations: { readOnlyHint: true },
+    description: "AdSense: pagos realizados y saldo pendiente de pago.",
+    inputSchema: { type: "object", properties: { ...PROP_CUENTA } },
+    run: async (env, a) => {
+      const cuenta = await cuentaAds(env, a);
+      const j = await ads(env, `/${cuenta}/payments`);
+      return (j.payments || []).map((x) => ({
+        pago: x.name?.split("/").pop(), importe: x.amount,
+        fecha: x.date ? `${x.date.year}-${x.date.month}-${x.date.day}` : "pendiente (saldo sin pagar)",
+      }));
+    },
+  },
+);
+
+// Página de permiso de Search Console (y de AdSense con /permiso/<clave>/adsense)
 function paginaHtml(titulo, texto) {
   return new Response(`<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${titulo}</title><body style="font-family:sans-serif;max-width:560px;margin:40px auto;padding:0 16px"><h2>${titulo}</h2><p>${texto}</p></body>`,
     { headers: { "Content-Type": "text/html; charset=utf-8" } });
@@ -474,13 +619,14 @@ async function permisoGsc(request, env, url, partes) {
   const vuelta = url.origin + "/permiso-vuelta";
   if (partes[0] === "permiso") {
     if (!(env.MCP_CLAVE && env.MCP_CLAVE.length >= 20 && partes[1] === env.MCP_CLAVE)) return new Response("No encontrado", { status: 404 });
+    const esAds = partes[2] === "adsense";
     const estado = crypto.randomUUID();
-    await env.COPIAS.put("gsc:estado:" + estado, "1", { expirationTtl: 900 });
+    await env.COPIAS.put("gsc:estado:" + estado, esAds ? "adsense" : "1", { expirationTtl: 900 });
     const g = new URL("https://accounts.google.com/o/oauth2/v2/auth");
     g.searchParams.set("client_id", gscCliente(env).id);
     g.searchParams.set("redirect_uri", vuelta);
     g.searchParams.set("response_type", "code");
-    g.searchParams.set("scope", GSC_ALCANCE);
+    g.searchParams.set("scope", esAds ? ADS_ALCANCE : GSC_ALCANCE);
     g.searchParams.set("access_type", "offline");
     g.searchParams.set("prompt", "consent");
     g.searchParams.set("state", estado);
@@ -489,7 +635,9 @@ async function permisoGsc(request, env, url, partes) {
   // /permiso-vuelta
   const estado = url.searchParams.get("state") || "";
   const code = url.searchParams.get("code");
-  if (!estado || !(await env.COPIAS.get("gsc:estado:" + estado))) return paginaHtml("Permiso no válido", "El enlace ha caducado. Vuelve a abrir la página de permiso.");
+  const servicio = estado ? await env.COPIAS.get("gsc:estado:" + estado) : null;
+  const esAds = servicio === "adsense";
+  if (!servicio) return paginaHtml("Permiso no válido", "El enlace ha caducado. Vuelve a abrir la página de permiso.");
   await env.COPIAS.delete("gsc:estado:" + estado);
   if (!code) return paginaHtml("Permiso no concedido", "Google no ha dado el permiso: " + (url.searchParams.get("error") || "cancelado") + ".");
   const c = gscCliente(env);
@@ -500,6 +648,12 @@ async function permisoGsc(request, env, url, partes) {
   });
   const j = await r.json();
   if (!j.refresh_token) return paginaHtml("Algo ha fallado", "Google no devolvió la credencial (" + (j.error || "sin detalle") + "). Díselo a Claude.");
+  if (esAds) {
+    await env.COPIAS.put("ads:refresh", j.refresh_token);
+    tokenAdsCache = { valor: null, caduca: 0 };
+    cuentaAdsCache = null;
+    return paginaHtml("Permiso guardado", "AdSense ya está conectado (solo lectura). Puedes cerrar esta pestaña.");
+  }
   await env.COPIAS.put("gsc:refresh", j.refresh_token);
   tokenGscCache = { valor: null, caduca: 0 };
   return paginaHtml("Permiso guardado", "Search Console ya está conectado. Puedes cerrar esta pestaña.");
@@ -519,7 +673,7 @@ async function atender(msg, env) {
     return respuesta(id, {
       protocolVersion: params?.protocolVersion || "2025-03-26",
       capabilities: { tools: {} },
-      serverInfo: { name: "conector-blogger", version: "1.2.0" },
+      serverInfo: { name: "conector-blogger", version: "1.3.0" },
     });
   }
   if (method === "ping") return respuesta(id, {});
