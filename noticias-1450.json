@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Muere el director de cine José Luis García Sánchez, ganador de dos premios Goya y un Oso de Oro en Berlín",
+      "link": "https://www.eldiario.es/cultura/muere-director-cine-jose-luis-garcia-sanchez-ganador-premios-goya-oso-oro-berlin_1_13613161.html",
+      "imagen": "https://static.eldiario.es/clip/eb37481a-34b1-4cb6-b4c2-07bfbcc5bb60_16-9-discover-aspect-ratio_default_0_x723y347.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El exorcismo del arte",
       "link": "https://www.eldiario.es/cultura/exorcismo-arte_129_13611323.html",
       "imagen": "https://static.eldiario.es/clip/e5464ddd-333f-414e-9f6a-21d38a524725_16-9-discover-aspect-ratio_default_1154101.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La censura ultra en Colombia decide qué es arte y qué no: de la violencia política a los encuentros en un cine gay",
       "link": "https://www.eldiario.es/cultura/arte/censura-ultra-colombia-decide-arte-no-violencia-politica-encuentros-cine-gay_1_13609036.html",
       "imagen": "https://static.eldiario.es/clip/a946ceb8-abc9-4ebf-a0ec-5ef716e102e0_16-9-discover-aspect-ratio_default_1154074.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Quién mató a Cachou, el oso cuyo asesinato se investigó como si fuera una persona y sirve como metáfora de España",
-      "link": "https://www.eldiario.es/cultura/cine/mato-cachou-oso-cuyo-asesinato-investigo-si-fuera-persona-sirve-metafora-espana_1_13609860.html",
-      "imagen": "https://static.eldiario.es/clip/2d47c98d-1b37-4c49-acf1-291c7801f8ad_16-9-discover-aspect-ratio_default_0_x1052y355.jpg",
       "tipo": "imagen"
     }
   ]

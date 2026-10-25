@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Barcelona incrementa su parque residencial a una velocidad de unas 2.400 viviendas al año",
+      "link": "https://www.elperiodico.com/es/barcelona/20261025/barcelona-incrementa-parque-residencial-2400-viviendas-ano-135662858",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/29e3240d-30fc-4f32-9cc0-9deb605276e8_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Collboni, tras los disturbios: Lo que ha pasado no se puede volver a repetir en Barcelona",
       "link": "https://www.elperiodico.com/es/barcelona/20261025/barcelona-disturbios-protesta-manifestantes-detenidos-destrozos-collboni-135737223",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/22d8d649-2c55-46a5-b8b5-212c8949bdeb_media-libre-aspect-ratio_default_0.jpg",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/3a86d47a-c6cf-4dc7-b0f8-02c36ab5b0f7_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Barcelona instalará un radar en un lateral de la ronda de Dalt para multar los acelerones que superan el límite de velocidad",
       "link": "https://www.elperiodico.com/es/barcelona/20261025/barcelona-trafico-radar-ronda-dalt-lateral-vall-hebron-135689509",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/dc63f92f-886c-4193-a482-d24ab5a8607f_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los recursos a multas de tráfico se disparan en Barcelona coincidiendo con el auge de la IA y las webs quitamultas’",
-      "link": "https://www.elperiodico.com/es/barcelona/20261025/recursos-multas-trafico-barcelona-ia-webs-juicios-135688790",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/035f6bb3-06cf-4046-b8d2-092c4d343a10_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

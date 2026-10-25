@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Dos muertos y tres heridos en un accidente de tráfico en Vila-real con tres vehículos implicados",
+      "link": "https://www.lavanguardia.com/local/valencia/20261025/11667693/dos-muertos-tres-heridos-accidente-trafico-vila-real-tres-vehiculos-implicados.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/25/6ade1951820b3.r_d.1024-769-2192.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Quiénes eran y cómo se organizaron los alborotadores de ayer en Barcelona",
       "link": "https://www.lavanguardia.com/local/barcelona/20261025/11667600/quienes-como-organizaron-alborotadores-ayer-barcelona.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/25/6addbab43ae2e.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Intervenidos más de 6.000 artículos del Barça presuntamente falsificados",
       "link": "https://www.lavanguardia.com/sucesos/20261023/11666256/intervenidos-mas-6-000-articulos-barca-presuntamente-falsificados.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/23/6adb221ddce4f.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los Mossos d'Esquadra detienen al autor de dos robos en centros escolares de Mataró",
-      "link": "https://www.lavanguardia.com/local/maresme/20261022/11665713/mossos-d-esquadra-detienen-autor-dos-robos-centros-escolares-mataro.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2021/03/23/6059cbe572108.jpeg",
       "tipo": "imagen"
     }
   ]

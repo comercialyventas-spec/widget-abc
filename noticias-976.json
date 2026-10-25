@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Irán ataca con drones una base de rebeldes kurdos iraníes en Irak",
+      "link": "https://www.dw.com/es/irán-ataca-con-drones-una-base-de-rebeldes-kurdos-iraníes-en-irak/a-79755780",
+      "imagen": "https://static.dw.com/image/76373080_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Putin dice que Europa recurre a Rusia para GNL y rechaza implicación en protestas",
       "link": "https://www.dw.com/es/putin-dice-que-europa-recurre-a-rusia-para-gnl-y-rechaza-implicación-en-protestas/a-79755379",
       "imagen": "https://static.dw.com/image/79354194_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Ucrania restablece su conexión al sistema Starlink de SpaceX",
       "link": "https://www.dw.com/es/ucrania-restablece-su-conexión-al-sistema-starlink-de-spacex/a-79753476",
       "imagen": "https://static.dw.com/image/79753285_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Israel bloquea a Cisjordania el día de las elecciones legislativas",
-      "link": "https://www.dw.com/es/israel-bloquea-a-cisjordania-el-día-de-las-elecciones-legislativas/a-79753468",
-      "imagen": "https://static.dw.com/image/79741053_6.jpg",
       "tipo": "imagen"
     }
   ]

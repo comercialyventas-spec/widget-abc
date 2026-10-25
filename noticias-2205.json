@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Miles de personas acuden en Madrid a la llamada de las 'caballas' para apoyar a Ceuta",
+      "link": "https://www.elperiodico.com/es/videos/sociedad/miles-personas-acuden-madrid-llamada/135742064.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a7405575-271a-4d6e-9e3c-275680716859_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Más de un centenar de detenidos y 15 policías heridos en los disturbios de Barcelona",
       "link": "https://www.elperiodico.com/es/videos/sociedad/centenar-detenidos-15-policias-heridos/135736337.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a1a304e3-fc25-438b-99e1-949bb7c2f445_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Escala la tensión en Barcelona",
       "link": "https://www.elperiodico.com/es/videos/sociedad/escala-tension-barcelona/135722886.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/fbf60614-78e9-4a6d-86dd-86be83ae0b2e_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Protesta de jóvenes en Barcelona",
-      "link": "https://www.elperiodico.com/es/videos/sociedad/protesta-jovenes-barcelona/135721183.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/05b6dc49-fc0a-4631-b3ea-32546cb21f64_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
