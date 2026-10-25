@@ -528,13 +528,13 @@ HERRAMIENTAS.push(
   {
     name: "ads_informe",
     annotations: { readOnlyHint: true },
-    description: "AdSense: ingresos estimados, páginas vistas, impresiones, clics, CTR y RPM. Agrupa por dominio (blog), fecha, mes, país, plataforma o bloque de anuncios. Por defecto últimos 28 días por dominio.",
+    description: "AdSense: ingresos estimados, páginas vistas, impresiones, clics, CTR y RPM. Agrupa por dominio (blog), fecha, mes, país, plataforma o bloque de anuncios. Por defecto últimos 30 días por dominio.",
     inputSchema: {
       type: "object",
       properties: {
         ...PROP_CUENTA,
         agruparPor: { type: "string", enum: ["DOMAIN_NAME", "DATE", "MONTH", "COUNTRY_NAME", "PLATFORM_TYPE_NAME", "AD_UNIT_NAME", "ninguno"], description: "Por defecto DOMAIN_NAME (por blog)" },
-        periodo: { type: "string", enum: ["TODAY", "YESTERDAY", "LAST_7_DAYS", "LAST_30_DAYS", "MONTH_TO_DATE", "YEAR_TO_DATE", "LAST_28_DAYS"], description: "Por defecto LAST_28_DAYS (se ignora si se dan desde/hasta)" },
+        periodo: { type: "string", enum: ["TODAY", "YESTERDAY", "LAST_7_DAYS", "LAST_30_DAYS", "MONTH_TO_DATE", "YEAR_TO_DATE"], description: "Por defecto LAST_30_DAYS (se ignora si se dan desde/hasta)" },
         desde: { type: "string", description: "AAAA-MM-DD" },
         hasta: { type: "string", description: "AAAA-MM-DD" },
         maximo: { type: "number", description: "Filas (1-1000, por defecto 100)" },
@@ -547,7 +547,7 @@ HERRAMIENTAS.push(
       const p = [];
       if (a.desde || a.hasta) {
         p.push(["dateRange", "CUSTOM"], ...fechaPartes("startDate", a.desde || fechaISO(28)), ...fechaPartes("endDate", a.hasta || fechaISO(0)));
-      } else p.push(["dateRange", a.periodo || "LAST_28_DAYS"]);
+      } else p.push(["dateRange", a.periodo || "LAST_30_DAYS"]);
       if (dim !== "ninguno") p.push(["dimensions", dim]);
       for (const m of metricas) p.push(["metrics", m]);
       if (dim !== "ninguno") p.push(["orderBy", dim === "DATE" || dim === "MONTH" ? "+" + dim : "-ESTIMATED_EARNINGS"]);
