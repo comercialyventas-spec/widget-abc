@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Protestas Francia",
+      "link": "https://www.eldiario.es/internacional/movilizacion-social-mantiene-presion-emmanuel-macron-pese-trabas-derecho-manifestarse-decretadas-gobierno-semana_1_13612830.html",
+      "imagen": "https://static.eldiario.es/clip/862091ff-4cd8-401c-a5e3-734d0b9a45af_facebook-aspect-ratio-1200-675_default_0_x784y1174.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sistema electoral",
       "link": "https://www.eldiario.es/politica/afecta-sistema-electoral-izquierda-alternativa-escanos-grandes-provincias-castigo-pequenas_1_13608875.html",
       "imagen": "https://static.eldiario.es/clip/c25ff734-c967-4645-8c93-7669a0828699_facebook-aspect-ratio-1200-675_default_0.jpg",
@@ -13,26 +19,20 @@
       "tipo": "imagen"
     },
     {
+      "titulo": "Eurovisión Junior",
+      "link": "https://www.eldiario.es/vertele/noticias/rtve-aferra-eurovision-junior-sigue-sellarse-futuro-espana-eurovision-2027_1_13603104.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "Supervivientes 2026",
       "link": "https://www.eldiario.es/vertele/noticias/supervivientes-all-stars-3-expulsa-mejores-asusta-desmayo-omar-sanchez-apnea-medico_1_13608199.html",
-      "imagen": "https://static.eldiario.es/clip/fb541d5b-9d22-4ab1-9dff-a7cbf8fdff5f_facebook-vertele-watermarked-aspect-ratio-1200-675_default_0.jpg",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Festivo 9 noviembre",
       "link": "https://www.eldiario.es/spin/festivo-9-noviembre-comunidades-habra-puente_1_13596435.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Festivo 2 noviembre",
-      "link": "https://www.eldiario.es/spin/festivo-2-noviembre-comunidades-habra-puente_1_13608694.html",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Recorrido Tour 2026",
-      "link": "https://www.eldiario.es/spin/deportes/tour-francia-2027-contrarrelojes-poner-prueba-pogacar-protagonismo-alpes-pirineos-pm_1_13607873.html",
       "imagen": "",
       "tipo": ""
     }

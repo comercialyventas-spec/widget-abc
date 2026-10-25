@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Unas elecciones cruciales para Trump",
+      "link": "https://www.lavanguardia.com/opinion/20261025/11667176/elecciones-cruciales-trump.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Premios al cretinismo",
       "link": "https://www.lavanguardia.com/opinion/20261025/11667215/premios-cretinismo.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/24/6adcae05a82ba.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Esposas y maridos",
       "link": "https://www.lavanguardia.com/opinion/20261025/11667135/esposas-maridos.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/18/6ad4f46fdaaa6.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Campaña poco ejemplar",
-      "link": "https://www.lavanguardia.com/opinion/20261025/11667131/campana-poco-ejemplar.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/23/6adaf64863cd4.r_d.956-424-0.jpeg",
       "tipo": "imagen"
     }
   ]

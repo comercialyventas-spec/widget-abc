@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Kim Jong Un cruza a China en una visita relámpago",
+      "link": "https://www.lavanguardia.com/internacional/20261024/11667282/kim-jong-cruza-china-visita-relampago.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/10/24/6adce9db7acb4.r_d.1764-1202-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Zelenski confirma que Starlink vuelve a funcionar a pleno rendimiento en el frente",
       "link": "https://www.lavanguardia.com/internacional/20261024/11667263/zelenski-confirma-starlink-vuelve-funcionar-pleno-rendimiento-frente.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/10/24/6adcdbd6575b3.r_d.1943-1139-1178.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/10/24/6adcdbd6575b3.r_d.1943-1139-1178.jpeg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "El alcalde de Nueva York explica en video y en español a los inmigrantes cómo actuar ante ICE",
       "link": "https://www.lavanguardia.com/internacional/20261024/11667145/alcalde-nueva-york-explica-video-espanol-inmigrantes-como-actuar-ice.html",
       "imagen": "https://www.lavanguardia.com/files/image_449_221/uploads/2026/10/24/6adcd621c61c5.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Marcha en Francia contra la extrema derecha mientras se reúne el Frente Nacional",
-      "link": "https://www.lavanguardia.com/internacional/20261024/11667120/marcha-francia-extrema-derecha-reune-frente-nacional.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/uploads/2026/10/24/6adc7ce9a7207.jpeg",
       "tipo": "imagen"
     }
   ]

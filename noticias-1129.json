@@ -1,16 +1,22 @@
 {
   "noticias": [
     {
-      "titulo": "Asedio a la cultura crítica",
+      "titulo": "Lo que está en juego en Brasil",
       "link": "https://elpais.com/opinion/editoriales/",
       "imagen": "",
       "tipo": ""
     },
     {
-      "titulo": "Exiliados: España ha muerto",
+      "titulo": "Una bola negra contra el hispanismo",
       "link": "https://elpais.com/opinion/tribunas/",
       "imagen": "",
       "tipo": ""
+    },
+    {
+      "titulo": "Perder las formas",
+      "link": "https://elpais.com/autor/antonio-munoz-molina/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/MRHPMBBLNNF6LPF4XY65QKNJEM.jpg?auth=fc88a0ca89734cc214f06445370b448d578215a95c02d8b244d6d6b71fdda095&width=414",
+      "tipo": "imagen"
     },
     {
       "titulo": "‘Los baldíos’",
@@ -19,22 +25,16 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Los pillos actúan en Francia",
+      "titulo": "Un lector que no existía",
       "link": "https://elpais.com/opinion/columnas/",
-      "imagen": "https://arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/2IZPH2YJMVHLJMHFOBJXFQTSSM.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Calentamiento global descontrolado",
-      "link": "https://elpais.com/opinion/2026-10-22/calentamiento-global-descontrolado.html",
       "imagen": "",
       "tipo": ""
     },
     {
-      "titulo": "Inaceptable Milei",
-      "link": "https://elpais.com/opinion/2026-10-21/inaceptable-milei.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ZXVC3REGI5F63ETAVDEH47WDF4.jpg?auth=e6f561120a35892b51e137efe392f5c4755da67a7c8c2670fc5eb3b3bb31f5e5&width=414&height=233&smart=true",
-      "tipo": "imagen"
+      "titulo": "Saberlo todo sobre nada",
+      "link": "https://elpais.com/autor/javier-sampedro/",
+      "imagen": "",
+      "tipo": ""
     }
   ]
 }

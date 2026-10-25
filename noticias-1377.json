@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "La pasta hecha a base de restos de pasta",
+      "link": "https://elpais.com/gastronomia/2026-10-25/la-pasta-hecha-a-base-de-restos-de-pasta.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NB3LD3GNGVACFGVTBQRWGJDE64.jpeg?auth=5e1d43db0c79ee37271937b21999681b1d5e10e997acab953416da2e8f6415e2",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Menú semanal de El Comidista (26 de octubre a 1 de noviembre)",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-25/menu-semanal-de-el-comidista-26-de-octubre-a-1-de-noviembre.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NDB7XB34HZCQPCCZCNOJKQXXJU.JPG?auth=b34be036073ed8bfcf8ff3ac5ed9b48edd52ad30b511794f9fc6822acb9c0ba3",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Jamie Oliver para niños y otros libros para animar a los más pequeños a cocinar",
+      "link": "https://elpais.com/gastronomia/2026-10-25/jamie-oliver-para-ninos-y-otros-libros-para-animar-a-los-mas-pequenos-a-cocinar.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/PDGBGS7V3ZDKFERVAQJHKO6XCM.jpg?auth=60296441e1851fb9e3d693b30dbbb2b16b4ac55a2776ca147136c4390e34d84e",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La receta del caldillo de perros y el salpicón de huevas de Aponiente (tres estrellas Michelin)",
       "link": "https://elpais.com/gastronomia/2026-10-24/la-receta-del-caldillo-de-perros-y-el-salpicon-de-huevas-de-aponiente-tres-estrellas-michelin.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261022/1228628_163605_video_1800.mp4",
@@ -16,24 +34,6 @@
       "titulo": "¿Es real ese pelo en la sopa? La IA llega a las reclamaciones en restaurantes",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-10-24/es-real-ese-pelo-en-la-sopa-la-ia-llega-a-las-reclamaciones-en-restaurantes.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/T535AMVO65CKPGKD4IZAGZML2E.jpg?auth=ea05289539334c900703b98f59f14a7140435f5b65336b414168ee7c80f7a20a",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Potaje de berros, la receta canaria más reconfortante",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-23/potaje-de-berros-la-receta-canaria-mas-reconfortante.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/3YWQDG73KBEWFL5KNETQQ2WKF4.jpg?auth=c53f7618277e4e8009c2f9742b09e6d6de77b63c2feeb7d6d4825f1de89ed971",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los baños de bares y restaurantes: el gran marrón",
-      "link": "https://elpais.com/gastronomia/2026-10-23/los-banos-de-bares-y-restaurantes-el-gran-marron.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/6S7RWXHFCVH2BOBVRUVFBLUJUI.jpg?auth=73dcd80083b3921e010eaa32d6e875e8f2917b30da354ccaac41efabd1953175",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Mesa de Conus, la barra de Vigo que cultiva sus propias fabas y reivindica los platos de cuchara",
-      "link": "https://elpais.com/gastronomia/restaurantes/2026-10-23/la-mesa-de-conus-la-barra-de-vigo-que-cultiva-sus-propias-fabas-y-reivindica-los-platos-de-cuchara.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ME5XUS75CJBE3FODOH46DR7VBY.jpg?auth=bdc796b95f0c2cd46afa98d1aecad9243e7ba1737c359adff87910e72843b214",
       "tipo": "imagen"
     }
   ]
