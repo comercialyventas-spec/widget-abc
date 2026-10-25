@@ -1,0 +1,44 @@
+name: Desplegar conector Blogger (Cloudflare)
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "conector-blogger/**"
+      - ".github/workflows/desplegar-conector-blogger.yml"
+  workflow_dispatch:
+
+concurrency:
+  group: conector-blogger
+  cancel-in-progress: false
+
+jobs:
+  desplegar:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: conector-blogger
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Publicar el Worker
+        run: npx --yes wrangler@4 deploy
+      - name: Guardar secretos en el Worker
+        env:
+          S_CLIENT_ID: ${{ secrets.BLOGGER_CLIENT_ID }}
+          S_CLIENT_SECRET: ${{ secrets.BLOGGER_CLIENT_SECRET }}
+          S_REFRESH: ${{ secrets.BLOGGER_REFRESH_TOKEN }}
+          S_CLAVE: ${{ secrets.MCP_CLAVE }}
+        run: |
+          printf '%s' "$S_CLIENT_ID"     | npx --yes wrangler@4 secret put BLOGGER_CLIENT_ID
+          printf '%s' "$S_CLIENT_SECRET" | npx --yes wrangler@4 secret put BLOGGER_CLIENT_SECRET
+          printf '%s' "$S_REFRESH"       | npx --yes wrangler@4 secret put BLOGGER_REFRESH_TOKEN
+          if [ -n "$S_CLAVE" ]; then
+            printf '%s' "$S_CLAVE" | npx --yes wrangler@4 secret put MCP_CLAVE
+          else
+            echo "::warning::Falta el secreto MCP_CLAVE en GitHub: el conector no aceptará conexiones hasta que exista."
+          fi
