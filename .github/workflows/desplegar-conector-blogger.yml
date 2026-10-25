@@ -25,6 +25,21 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+      - name: Almacen de copias (KV) - crear si no existe y enlazarlo
+        run: |
+          CUENTA=a9381cc56c9174783f6b95c9bc8a175e
+          TITULO=conector-blogger-copias
+          API=https://api.cloudflare.com/client/v4/accounts/$CUENTA/storage/kv/namespaces
+          ID=$(curl -s -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" "$API?per_page=100" | jq -r --arg t "$TITULO" '.result[] | select(.title==$t) | .id' | head -1)
+          if [ -z "$ID" ]; then
+            ID=$(curl -s -X POST -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" -H "Content-Type: application/json" -d "{\"title\":\"$TITULO\"}" "$API" | jq -r '.result.id')
+            echo "KV creado: $ID"
+          else
+            echo "KV ya existia: $ID"
+          fi
+          if [ -z "$ID" ] || [ "$ID" = "null" ]; then echo "::error::No se pudo obtener el KV de copias"; exit 1; fi
+          printf '\n[[kv_namespaces]]\nbinding = "COPIAS"\nid = "%s"\n' "$ID" >> wrangler.toml
+          cat wrangler.toml
       - name: Publicar el Worker
         run: npx --yes wrangler@4 deploy
       - name: Guardar secretos en el Worker
