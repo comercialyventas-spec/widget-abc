@@ -89,16 +89,58 @@ jobs:
           }
 
           // 17 sept: ultimo recurso cuando el feed no trae imagen en ningun
-          // sitio reconocible - visitamos la propia pagina del articulo y
-          // cogemos su <meta property="og:image">, que casi todos los
-          // medios rellenan siempre porque la usan para las vistas previas
-          // al compartir en redes sociales. Limitado por un presupuesto
-          // global de peticiones para no disparar la duracion del job.
+          // sitio reconocible - visitamos la propia pagina del articulo.
+          // 25 oct: ademas de og:image se mira og:image:secure_url, twitter:image
+          // y, si no hay ninguna (p. ej. dsca.gob.es, Consumo), la primera foto real
+          // del contenido (sin logos, iconos ni svg). Y se guarda lo encontrado en
+          // .cache-imagenes.json para no volver a visitar el mismo articulo en cada
+          // pasada: el presupuesto de 250 visitas se gasta solo en noticias nuevas.
           let presupuestoOgImage = 250;
+          const RUTA_CACHE_IMG = ".cache-imagenes.json";
+          const DIAS_CACHE_VACIA = 3;   // si no se encontro foto, se reintenta pasados 3 dias
+          const MAX_CACHE_IMG = 8000;
+          let cacheImg = {};
+          try { cacheImg = JSON.parse(fs.readFileSync(RUTA_CACHE_IMG, "utf8")); } catch (e) { cacheImg = {}; }
+          let cacheImgCambiada = false;
+
+          function guardarCacheImagenes() {
+            if (!cacheImgCambiada) return;
+            const claves = Object.keys(cacheImg);
+            if (claves.length > MAX_CACHE_IMG) {
+              claves.sort((a, b) => (cacheImg[a].t || 0) - (cacheImg[b].t || 0));
+              for (const k of claves.slice(0, claves.length - MAX_CACHE_IMG)) delete cacheImg[k];
+            }
+            fs.writeFileSync(RUTA_CACHE_IMG, JSON.stringify(cacheImg));
+          }
+
+          function metaContenido(html, nombre) {
+            const n = nombre.replace(/:/g, "\\:");
+            let m = html.match(new RegExp("<meta[^>]+(?:property|name)=[\"']" + n + "[\"'][^>]+content=[\"']([^\"']+)[\"']", "i"));
+            if (!m) m = html.match(new RegExp("<meta[^>]+content=[\"']([^\"']+)[\"'][^>]+(?:property|name)=[\"']" + n + "[\"']", "i"));
+            return m ? decodeHtml(m[1]).trim() : "";
+          }
+
+          const IMG_DESCARTE = /(^|[\/_.-])(logo|logos|icon|icons|sprite|avatar|favicon|placeholder|spinner)([\/_.-]|$)|\.svg(\?|$)|^data:/i;
+          function primeraFotoContenido(html, base) {
+            const zona = (html.match(/<article\b[\s\S]*?<\/article>/i) || html.match(/<main\b[\s\S]*?<\/main>/i) || [html])[0];
+            const imgs = zona.match(/<img\b[^>]*>/gi) || [];
+            for (const tag of imgs) {
+              const m = tag.match(/\b(?:data-src|src)\s*=\s*["']([^"']+)["']/i);
+              if (!m) continue;
+              const src = decodeHtml(m[1]);
+              if (IMG_DESCARTE.test(src) || !/\.(jpe?g|png|webp)(\?|$)/i.test(src)) continue;
+              try { return new URL(src, base).href; } catch (e) {}
+            }
+            return "";
+          }
 
           async function obtenerImagenOg(url, timeoutMs) {
-            if (!url || presupuestoOgImage <= 0) return "";
+            if (!url) return "";
+            const c = cacheImg[url];
+            if (c && (c.img || Date.now() - (c.t || 0) < DIAS_CACHE_VACIA * 86400000)) return c.img || "";
+            if (presupuestoOgImage <= 0) return "";
             presupuestoOgImage--;
+            let img = "";
             try {
               const controller = new AbortController();
               const timeout = setTimeout(() => controller.abort(), timeoutMs);
@@ -107,15 +149,25 @@ jobs:
                 headers: { "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/139 Safari/537.36" }
               });
               clearTimeout(timeout);
-              if (!respuesta.ok) return "";
+              if (!respuesta.ok) return "";   // error de la web: no se anota, se reintenta en la proxima pasada
               const html = await respuesta.text();
-              let m = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i);
-              if (!m) m = html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i);
-              return m ? decodeHtml(m[1]) : "";
+              img = metaContenido(html, "og:image") || metaContenido(html, "og:image:secure_url") ||
+                    metaContenido(html, "twitter:image") || metaContenido(html, "twitter:image:src") ||
+                    primeraFotoContenido(html, url);
+              if (img && !/^https?:\/\//i.test(img)) { try { img = new URL(img, url).href; } catch (e) { img = ""; } }
+              if (img && IMG_DESCARTE.test(img)) img = "";
             } catch (error) {
               return "";
             }
+            cacheImg[url] = { img, t: Date.now() };
+            cacheImgCambiada = true;
+            return img;
           }
+
+          // 25 oct: titulos que son en realidad paginas de error o de bloqueo
+          // (p. ej. EFE devolvio "429 Too Many Requests" y se guardo como noticias).
+          const TITULO_ERROR = /^\s*(4\d\d|5\d\d)\s+(too many|forbidden|not found|unauthorized|bad (request|gateway)|internal server|service unavailable|gateway time)|^\s*(error:?\s*)?(too many requests|access denied|403 forbidden|just a moment|attention required|are you a robot|the request could not be satisfied|enable javascript|p[aá]gina no encontrada|page not found|service unavailable|error 40[34])\b/i;
+          function esTituloError(t) { return TITULO_ERROR.test(String(t || "")); }
 
           // 4 oct: algunos feeds (p. ej. los RSS antiguos de El Mundo) vienen en ISO-8859-1 y
           // .text() los leia siempre como UTF-8, rompiendo los acentos ("teor�a"). Ahora, solo si
@@ -227,6 +279,21 @@ jobs:
                   else throw new Error("JSON sin campo 'noticias' válido");
                 } else {
                   resultado = await parsearRss(texto);
+                }
+
+                // 25 oct: fuera las noticias con titulo de pagina de error; si no queda ninguna,
+                // se trata como fallo y se conserva el archivo anterior (no se guarda basura).
+                if (Array.isArray(resultado.noticias)) {
+                  const antes = resultado.noticias.length;
+                  resultado.noticias = resultado.noticias.filter(n => n && !esTituloError(n.titulo));
+                  if (resultado.noticias.length < antes) console.warn("[" + wid + "] Descartadas " + (antes - resultado.noticias.length) + " noticias con titulo de pagina de error");
+                  // las que llegan del NAS en JSON tambien buscan foto en el articulo si no la traen
+                  await Promise.all(resultado.noticias.map(async (n) => {
+                    if (!n.imagen && n.link) {
+                      n.imagen = await obtenerImagenOg(n.link, 3500);
+                      if (n.imagen) n.tipo = "imagen";
+                    }
+                  }));
                 }
 
                 if (!resultado.noticias || resultado.noticias.length === 0) {
@@ -378,6 +445,7 @@ jobs:
 
             await procesarEnLotes(feedsOtros, 20, { intentosMaximos: 1, timeoutMs: 6000 }, contadores);
             await procesarEnLotes(feedsNas, 10, { intentosMaximos: 3, timeoutMs: 20000 }, contadores);
+            guardarCacheImagenes();
 
             console.log("========================================");
             console.log("Actualizados: " + contadores.actualizados);
@@ -397,7 +465,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add noticias-*.json .estado-frecuencias.json
+          git add noticias-*.json .estado-frecuencias.json .cache-imagenes.json 2>/dev/null || git add noticias-*.json .estado-frecuencias.json
 
           if git diff --cached --quiet; then
             echo "No hay cambios nuevos."
