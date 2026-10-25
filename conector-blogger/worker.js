@@ -1,4 +1,4 @@
-// Conector Blogger para Claude (servidor MCP) — fase 2: lectura + escritura con copia previa (KV COPIAS).
+// Conector Blogger para Claude (servidor MCP) — v1.2: Blogger (lectura + escritura con copia previa, KV COPIAS) + Search Console.
 // Secretos del Worker (los pone el workflow desde GitHub):
 //   BLOGGER_CLIENT_ID, BLOGGER_CLIENT_SECRET, BLOGGER_REFRESH_TOKEN, MCP_CLAVE
 // Dirección del conector: https://conector-blogger.<subdominio>.workers.dev/mcp/<MCP_CLAVE>
@@ -298,6 +298,213 @@ HERRAMIENTAS.push(
   },
 );
 
+// ===================== SEARCH CONSOLE (v1.2) =====================
+// Permiso propio: el refresh token de Search Console se guarda en KV (clave "gsc:refresh"),
+// lo obtiene la página /permiso/<MCP_CLAVE> sin que nadie lo vea ni lo copie.
+const GSC_ALCANCE = "https://www.googleapis.com/auth/webmasters";
+const GSC_API = "https://www.googleapis.com/webmasters/v3";
+let tokenGscCache = { valor: null, caduca: 0 };
+
+function gscCliente(env) {
+  return {
+    id: env.GSC_CLIENT_ID || env.BLOGGER_CLIENT_ID,
+    secreto: env.GSC_CLIENT_SECRET || env.BLOGGER_CLIENT_SECRET,
+  };
+}
+
+async function tokenGsc(env) {
+  if (tokenGscCache.valor && Date.now() < tokenGscCache.caduca) return tokenGscCache.valor;
+  const refresh = await env.COPIAS.get("gsc:refresh");
+  if (!refresh) throw new Error("Search Console aún no tiene permiso. Hay que abrir la página /permiso/<clave> del conector y pulsar Permitir.");
+  const c = gscCliente(env);
+  const r = await fetch("https://oauth2.googleapis.com/token", {
+    method: "POST",
+    headers: { "Content-Type": "application/x-www-form-urlencoded" },
+    body: new URLSearchParams({ client_id: c.id, client_secret: c.secreto, refresh_token: refresh, grant_type: "refresh_token" }),
+  });
+  const j = await r.json();
+  if (!j.access_token) throw new Error("No se pudo obtener acceso a Search Console: " + (j.error || "") + " " + (j.error_description || ""));
+  tokenGscCache = { valor: j.access_token, caduca: Date.now() + (j.expires_in - 120) * 1000 };
+  return j.access_token;
+}
+
+async function gsc(env, urlCompleta, metodo = "GET", cuerpo = null) {
+  const opciones = { method: metodo, headers: { Authorization: "Bearer " + (await tokenGsc(env)) } };
+  if (cuerpo) { opciones.headers["Content-Type"] = "application/json"; opciones.body = JSON.stringify(cuerpo); }
+  const r = await fetch(urlCompleta, opciones);
+  const t = await r.text();
+  if (!r.ok) throw new Error("Search Console respondió " + r.status + ": " + t.slice(0, 500));
+  return t ? JSON.parse(t) : {};
+}
+
+// "periodicosaliazon.blogspot.com" -> "https://periodicosaliazon.blogspot.com/"; respeta "sc-domain:..."
+function sitioGsc(s) {
+  if (!s) throw new Error("Falta sitio");
+  s = String(s).trim();
+  if (s.startsWith("sc-domain:")) return s;
+  if (!/^https?:\/\//.test(s)) s = "https://" + s;
+  return new URL(s).origin + "/";
+}
+const enc = encodeURIComponent;
+
+function fechaISO(diasAtras) {
+  return new Date(Date.now() - diasAtras * 86400000).toISOString().slice(0, 10);
+}
+
+const PROP_SITIO = { sitio: { type: "string", description: "Blog o web, p. ej. periodicosaliazon.blogspot.com" } };
+
+HERRAMIENTAS.push(
+  {
+    name: "sc_listar_sitios",
+    annotations: { readOnlyHint: true },
+    description: "Search Console: lista los sitios dados de alta y el nivel de permiso (siteOwner = verificado).",
+    inputSchema: { type: "object", properties: {} },
+    run: async (env) => {
+      const j = await gsc(env, GSC_API + "/sites");
+      const l = (j.siteEntry || []).map((s) => `${s.siteUrl} | ${s.permissionLevel}`).sort();
+      return `${l.length} sitios (sitio | permiso)\n` + l.join("\n");
+    },
+  },
+  {
+    name: "sc_rendimiento",
+    annotations: { readOnlyHint: true },
+    description: "Search Console: clics, impresiones, CTR y posición media de un sitio. Agrupa por query (búsquedas), page (páginas), date, country o device. Por defecto últimos 28 días (Google tarda ~3 días en dar datos).",
+    inputSchema: {
+      type: "object",
+      properties: {
+        ...PROP_SITIO,
+        agruparPor: { type: "string", enum: ["query", "page", "date", "country", "device", "ninguno"], description: "Por defecto query" },
+        desde: { type: "string", description: "AAAA-MM-DD" },
+        hasta: { type: "string", description: "AAAA-MM-DD" },
+        filtroPagina: { type: "string", description: "Solo páginas cuya URL contenga este texto" },
+        filtroBusqueda: { type: "string", description: "Solo búsquedas que contengan este texto" },
+        maximo: { type: "number", description: "Filas (1-1000, por defecto 50)" },
+      },
+      required: ["sitio"],
+    },
+    run: async (env, a) => {
+      const sitio = sitioGsc(a.sitio);
+      const cuerpo = {
+        startDate: a.desde || fechaISO(31),
+        endDate: a.hasta || fechaISO(3),
+        rowLimit: Math.min(Math.max(Number(a.maximo) || 50, 1), 1000),
+      };
+      const dim = a.agruparPor || "query";
+      if (dim !== "ninguno") cuerpo.dimensions = [dim];
+      const filtros = [];
+      if (a.filtroPagina) filtros.push({ dimension: "page", operator: "contains", expression: a.filtroPagina });
+      if (a.filtroBusqueda) filtros.push({ dimension: "query", operator: "contains", expression: a.filtroBusqueda });
+      if (filtros.length) cuerpo.dimensionFilterGroups = [{ filters: filtros }];
+      const j = await gsc(env, `${GSC_API}/sites/${enc(sitio)}/searchAnalytics/query`, "POST", cuerpo);
+      const filas = (j.rows || []).map((r) => ({
+        clave: r.keys ? r.keys[0] : "(total)", clics: r.clicks, impresiones: r.impressions,
+        ctr: Math.round(r.ctr * 1000) / 10 + "%", posicion: Math.round(r.position * 10) / 10,
+      }));
+      return { sitio, desde: cuerpo.startDate, hasta: cuerpo.endDate, agrupadoPor: dim, filas: filas.length, datos: filas };
+    },
+  },
+  {
+    name: "sc_inspeccionar_url",
+    annotations: { readOnlyHint: true },
+    description: "Search Console: dice si Google tiene indexada una URL concreta, cuándo la rastreó y por qué no la indexa si es el caso.",
+    inputSchema: {
+      type: "object",
+      properties: { url: { type: "string", description: "URL completa de la entrada" }, ...PROP_SITIO },
+      required: ["url"],
+    },
+    run: async (env, a) => {
+      const sitio = sitioGsc(a.sitio || a.url);
+      const j = await gsc(env, "https://searchconsole.googleapis.com/v1/urlInspection/index:inspect", "POST",
+        { inspectionUrl: a.url, siteUrl: sitio, languageCode: "es" });
+      const i = j.inspectionResult?.indexStatusResult || {};
+      return {
+        url: a.url, veredicto: i.verdict, estado: i.coverageState, indexacionPermitida: i.indexingState,
+        robots: i.robotsTxtState, ultimoRastreo: i.lastCrawlTime, canonicaGoogle: i.googleCanonical,
+        canonicaDeclarada: i.userCanonical, enlaceInforme: j.inspectionResult?.inspectionResultLink,
+      };
+    },
+  },
+  {
+    name: "sc_listar_sitemaps",
+    annotations: { readOnlyHint: true },
+    description: "Search Console: mapas del sitio enviados de un sitio, con fecha, errores y nº de URLs.",
+    inputSchema: { type: "object", properties: { ...PROP_SITIO }, required: ["sitio"] },
+    run: async (env, a) => {
+      const sitio = sitioGsc(a.sitio);
+      const j = await gsc(env, `${GSC_API}/sites/${enc(sitio)}/sitemaps`);
+      return (j.sitemap || []).map((s) => ({
+        ruta: s.path, enviado: s.lastSubmitted, descargado: s.lastDownloaded, pendiente: s.isPending,
+        errores: s.errors, avisos: s.warnings, urls: (s.contents || []).map((c) => `${c.type}: ${c.submitted}`).join(", "),
+      }));
+    },
+  },
+  {
+    name: "sc_enviar_sitemap",
+    annotations: { readOnlyHint: false, destructiveHint: false, idempotentHint: true },
+    description: "Search Console: envía (o reenvía) un mapa del sitio. Si no se indica, usa <sitio>/sitemap.xml (el de Blogger).",
+    inputSchema: { type: "object", properties: { ...PROP_SITIO, sitemap: { type: "string", description: "URL completa del sitemap" } }, required: ["sitio"] },
+    run: async (env, a) => {
+      const sitio = sitioGsc(a.sitio);
+      const mapa = a.sitemap || sitio + "sitemap.xml";
+      await gsc(env, `${GSC_API}/sites/${enc(sitio)}/sitemaps/${enc(mapa)}`, "PUT");
+      return { hecho: true, sitio, sitemap: mapa };
+    },
+  },
+  {
+    name: "sc_anadir_sitio",
+    annotations: { readOnlyHint: false, destructiveHint: false, idempotentHint: true },
+    description: "Search Console: da de alta un blog o web. Los blogs de Blogger de la misma cuenta suelen quedar verificados solos; se comprueba al terminar.",
+    inputSchema: { type: "object", properties: { ...PROP_SITIO }, required: ["sitio"] },
+    run: async (env, a) => {
+      const sitio = sitioGsc(a.sitio);
+      await gsc(env, `${GSC_API}/sites/${enc(sitio)}`, "PUT");
+      const s = await gsc(env, `${GSC_API}/sites/${enc(sitio)}`);
+      return { hecho: true, sitio, permiso: s.permissionLevel, verificado: s.permissionLevel === "siteOwner" || s.permissionLevel === "siteFullUser" };
+    },
+  },
+);
+
+// Página de permiso de Search Console
+function paginaHtml(titulo, texto) {
+  return new Response(`<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${titulo}</title><body style="font-family:sans-serif;max-width:560px;margin:40px auto;padding:0 16px"><h2>${titulo}</h2><p>${texto}</p></body>`,
+    { headers: { "Content-Type": "text/html; charset=utf-8" } });
+}
+
+async function permisoGsc(request, env, url, partes) {
+  const vuelta = url.origin + "/permiso-vuelta";
+  if (partes[0] === "permiso") {
+    if (!(env.MCP_CLAVE && env.MCP_CLAVE.length >= 20 && partes[1] === env.MCP_CLAVE)) return new Response("No encontrado", { status: 404 });
+    const estado = crypto.randomUUID();
+    await env.COPIAS.put("gsc:estado:" + estado, "1", { expirationTtl: 900 });
+    const g = new URL("https://accounts.google.com/o/oauth2/v2/auth");
+    g.searchParams.set("client_id", gscCliente(env).id);
+    g.searchParams.set("redirect_uri", vuelta);
+    g.searchParams.set("response_type", "code");
+    g.searchParams.set("scope", GSC_ALCANCE);
+    g.searchParams.set("access_type", "offline");
+    g.searchParams.set("prompt", "consent");
+    g.searchParams.set("state", estado);
+    return Response.redirect(g.toString(), 302);
+  }
+  // /permiso-vuelta
+  const estado = url.searchParams.get("state") || "";
+  const code = url.searchParams.get("code");
+  if (!estado || !(await env.COPIAS.get("gsc:estado:" + estado))) return paginaHtml("Permiso no válido", "El enlace ha caducado. Vuelve a abrir la página de permiso.");
+  await env.COPIAS.delete("gsc:estado:" + estado);
+  if (!code) return paginaHtml("Permiso no concedido", "Google no ha dado el permiso: " + (url.searchParams.get("error") || "cancelado") + ".");
+  const c = gscCliente(env);
+  const r = await fetch("https://oauth2.googleapis.com/token", {
+    method: "POST",
+    headers: { "Content-Type": "application/x-www-form-urlencoded" },
+    body: new URLSearchParams({ client_id: c.id, client_secret: c.secreto, code, redirect_uri: vuelta, grant_type: "authorization_code" }),
+  });
+  const j = await r.json();
+  if (!j.refresh_token) return paginaHtml("Algo ha fallado", "Google no devolvió la credencial (" + (j.error || "sin detalle") + "). Díselo a Claude.");
+  await env.COPIAS.put("gsc:refresh", j.refresh_token);
+  tokenGscCache = { valor: null, caduca: 0 };
+  return paginaHtml("Permiso guardado", "Search Console ya está conectado. Puedes cerrar esta pestaña.");
+}
+
 function respuesta(id, result) {
   return Response.json({ jsonrpc: "2.0", id, result });
 }
@@ -312,7 +519,7 @@ async function atender(msg, env) {
     return respuesta(id, {
       protocolVersion: params?.protocolVersion || "2025-03-26",
       capabilities: { tools: {} },
-      serverInfo: { name: "conector-blogger", version: "1.1.0" },
+      serverInfo: { name: "conector-blogger", version: "1.2.0" },
     });
   }
   if (method === "ping") return respuesta(id, {});
@@ -336,6 +543,7 @@ export default {
   async fetch(request, env) {
     const url = new URL(request.url);
     const partes = url.pathname.split("/").filter(Boolean);
+    if (request.method === "GET" && (partes[0] === "permiso" || partes[0] === "permiso-vuelta")) return permisoGsc(request, env, url, partes);
     const claveOk = env.MCP_CLAVE && env.MCP_CLAVE.length >= 20 && partes[0] === "mcp" && partes[1] === env.MCP_CLAVE;
     if (!claveOk) return new Response("No encontrado", { status: 404 });
     if (request.method !== "POST") return new Response("Método no permitido", { status: 405, headers: { Allow: "POST" } });
