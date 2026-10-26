@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Muere un hombre tras sufrir un golpe con una máquina de obra en Orce",
+      "link": "https://www.ahoragranada.com/noticias/muere-un-hombre-tras-sufrir-un-accidente-con-una-maquina-de-obra-en-orce/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2022/12/Orce.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Santa Cena llegará al monumento dedicado a Los Favores en su salida extraordinaria del 1 de noviembre",
       "link": "https://www.ahoragranada.com/noticias/la-santa-cena-llegara-al-monumento-dedicado-a-los-favores-en-su-salida-extraordinaria-del-1-de-noviembre/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2025/04/Domingo_de_Ramos_2025_Santa_Cena_2025_FN-13.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Pacheta iguala el arranque del mejor Granada CF de Diego Martínez",
+      "link": "https://www.ahoragranada.com/noticias/pacheta-iguala-el-arranque-del-mejor-granada-cf-de-diego-martinez/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/10/Granada-CF-Valladolid-Celebran-01.jpeg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "La enfermería andaluza se suma a la candidatura de Granada como Capital de la Cultura en 2031",
       "link": "https://www.ahoragranada.com/noticias/la-enfermeria-andaluza-se-suma-a-la-candidatura-de-granada-como-capital-europea-de-la-cultura-en-2031/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/10/Enfermeria-ANdaluza-Granada-2031.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ligero descenso de las máximas para este martes en Granada",
-      "link": "https://www.ahoragranada.com/noticias/ligero-descenso-de-las-maximas-para-este-martes-en-granada/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2025/11/ambiente-fresco-frio-fresquito-otono-por-zona-constitucion-AC-10.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Detenido por perseguir con su vehículo a un perro en una finca del Área Metropolitana de Granada",
-      "link": "https://www.ahoragranada.com/noticias/detenido-por-perseguir-con-su-vehiculo-a-un-perro-en-una-finca-del-area-metropolitana-de-granada/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/10/Persecucion-perro-todoterreno-ARea-Metropolitana-1.jpg",
       "tipo": "imagen"
     }
   ]
