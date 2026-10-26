@@ -1,8 +1,14 @@
 {
   "noticias": [
     {
-      "titulo": "Restricciones de tráfico: Alcalá. Afectadas 12 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261026-Restricciones-Trafico-Alcala.pdf",
+      "titulo": "Recuperación de Parada: Francos Rodríguez. Afectada línea 64 de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261027-RP-1580-Francos-Rodriguez.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Obras: Hortaleza. Afectada línea 3 de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261028-O-Hortaleza.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     },
@@ -21,12 +27,6 @@
     {
       "titulo": "Obras: Calle de Alcalá. Afectadas 4 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261029-O-Calle-Alcala.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Obras: Hortaleza. Afectada línea 3 de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261027-O-Hortaleza.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     },

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Tiempo en Catalunya mañana martes: niebla por la mañana y ambiente casi cálido por la tarde",
+      "link": "https://www.elperiodico.com/es/tiempo/20261026/tiempo-catalunya-hoy-martes-meteocat-dv-loc-135769718",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/de39f696-aaeb-4520-bb67-1dc78303bc77_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Tiempo en Catalunya mañana lunes: estabilidad y temperaturas de hasta 25 grados",
       "link": "https://www.elperiodico.com/es/tiempo/20261025/catalunya-hoy-lunes-tiempo-meteocat-dv-135740218",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/585105a8-ad3a-4ec4-b657-8ebb8adddd79_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Tiempo en Catalunya hoy viernes: cielos despejados y algunos chubascos antes de una notable subida de temperaturas",
       "link": "https://www.elperiodico.com/es/tiempo/20261022/tiempo-catalunya-hoy-viernes-chubascos-subida-temperaturas-dv-135633681",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/032cc7a1-4151-4bb4-b6a8-c2d632f92c64_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tiempo en Catalunya hoy jueves: avisos por lluvias intensas en el Baix Llobregat y el Maresme",
-      "link": "https://www.elperiodico.com/es/tiempo/20261021/tiempo-catalunya-hoy-jueves-avisos-lluvia-baix-llobregat-maresme-meteocat-dv-135588692",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/db8557ed-c772-4e40-9ab4-ec6d875594c2_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

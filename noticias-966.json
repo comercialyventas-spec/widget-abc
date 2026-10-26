@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Gnomos",
+      "link": "https://elpais.com/television/series/gnomos/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/DKA7QGK3WNF6PGOREYK4W5EKTY.webp?auth=6b2e80a43f47aa3f3c6534eb97d1c1db935e6b6397c1fe3bfdde10d9b57c2956",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Veteranos contra el crimen",
+      "link": "https://elpais.com/television/series/veteranos-contra-el-crimen/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XDLEPBHDEBA5PKMGFWNKVGYNHU.jpg?auth=860c1e121072d9f138b3b6a7553d0ad5906acab37c496298d151b8c50872b92d",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Carmen Borrego se convierte en presentadora de ‘Supervivientes’ durante unos minutos y Yola Berrocal se rapa el pelo a cambio de una tarta",
       "link": "https://elpais.com/television/2026-10-26/carmen-borrego-se-convierte-en-presentadora-de-supervivientes-durante-unos-minutos-y-yola-berrocal-se-rapa-el-pelo-a-cambio-de-una-tarta.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/ORNFTSKQ4FDMXKLW4XDQFHHRKM.jpg?auth=ebfde3b830d3a6b252b8a36d89093a15e18b1637e4a9e1e7180046619d3bdaf6",
@@ -22,18 +34,6 @@
       "titulo": "Se buscan censores en León",
       "link": "https://elpais.com/television/2026-10-26/se-buscan-censores-en-leon.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/GT4GG7M7TND6FK54ARHYZIWG5A.jpg?auth=749062d5ff1427c47817c92a5879789299f725dc41fbce1401fd2888f4cf713d",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘Aquí la Tierra’: cómo un programa sobre ecología y ciencia se ha convertido en el segundo más visto de TVE",
-      "link": "https://elpais.com/television/2026-10-25/aqui-la-tierra-como-un-programa-sobre-ecologia-y-ciencia-se-ha-convertido-en-el-segundo-mas-visto-de-tve.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/OIFLT5NAIRBP7BN5IJT3YEIXL4.jpg?auth=631c51e62186610680a36313c780905e4f2b01e0d2048b78af696204b15a0a30",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Pedro Sánchez no es nuestro padre",
-      "link": "https://elpais.com/television/2026-10-25/pedro-sanchez-no-es-nuestro-padre.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/EQQIJVZIYZK4VBOM6HTFHT5XTU.jpg?auth=970748fbd77441e69c25d47ed3203ed09d173d127c36b72fe7850fc1ccc4aebd",
       "tipo": "imagen"
     }
   ]

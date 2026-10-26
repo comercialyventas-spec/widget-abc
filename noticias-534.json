@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Salvador Illa",
+      "link": "https://www.elconfidencialdigital.com/album/el-chivato/salvador-illa/202610261702031496911.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/26/2026102617005897595.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Crisis de Ceuta",
       "link": "https://www.elconfidencialdigital.com/album/el-chivato/crisis-de-ceuta/202609071725491039317.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/07/2026090717323378914.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Trabajadores autónomos",
       "link": "https://www.elconfidencialdigital.com/album/el-chivato/trabajadores-autonomos/202607090500001030087.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/07/08/2026070820305677868.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Regularización de inmigrantes",
-      "link": "https://www.elconfidencialdigital.com/album/el-chivato/regularizacion-inmigrantes/202607060500001029378.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/07/03/2026070318083420046.jpg",
       "tipo": "imagen"
     }
   ]

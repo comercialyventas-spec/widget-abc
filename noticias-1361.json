@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Vídeos de ajedrez | Arte con la luz de un candil",
+      "link": "https://elpais.com/ajedrez/videos/2026-10-26/videos-de-ajedrez-arte-con-la-luz-de-un-candil.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261026/1229953_090921_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en directo, en EL PAÍS",
       "link": "https://elpais.com/videos/2026-10-26/el-pulso-de-hoy-por-hoy-en-el-pais.html",
       "imagen": "https://www.youtube.com/watch?v=Wd1C2ELQiZg",
@@ -28,12 +34,6 @@
       "titulo": "Cinco cosas que aprendimos del periodista Augusto Delkáder",
       "link": "https://elpais.com/videos/2026-10-23/cinco-cosas-que-aprendimos-del-periodista-augusto-delkader.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261023/1229095_155239_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Martirio: “Una se puede hacer mayor, pero no por ello vieja”",
-      "link": "https://elpais.com/eps/2026-10-23/martirio-me-preocupa-que-ahora-no-hay-gente-reflexiva-capaz-de-guiar-a-la-gente.html",
-      "imagen": "https://www.youtube.com/watch?v=m-mydH177QM",
       "tipo": "imagen"
     }
   ]
