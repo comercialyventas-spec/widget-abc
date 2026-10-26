@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El café de los sueños",
+      "link": "https://www.abc.es/cultura/cultural/cafe-suenos-20261026014118-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/26/cafe-RbcqcnZ9R37n7xhjRb4sBfJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La democracia que sueño",
       "link": "https://www.abc.es/cultura/cultural/maria-corina-machado-libertad-garantizada-dispuestos-luchar-20261022130555-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/22/maria-corina-machado-Rq9hoIORd5TshryUEY8zXgP-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Elecciones y democracia en un mundo polarizado",
       "link": "https://www.abc.es/cultura/cultural/elecciones-democracia-mundo-polarizado-20261023134448-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/23/portadas-SUPLE-2026-RxURfOscQEB7yqdfJhWAN9N-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El KGB, un imperio del mal",
-      "link": "https://www.abc.es/cultura/cultural/pedro-garcia-cuartango-kgb-imperio-mal-20261022134055-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/22/1428382232-R15lNLWSWw63AwP5SS93bZL-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

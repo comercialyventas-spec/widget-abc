@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Lula gana las elecciones en Brasil tras un tenso escrutinio",
+      "link": "https://www.lavanguardia.com/internacional/20261026/11667806/fuerte-recelo-recuento-brasileno.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/25/6ade8642068cc.r_d.1252-835-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El movimiento estudiantil derrota a Vucic en las elecciones generales de Serbia",
       "link": "https://www.lavanguardia.com/internacional/20261025/11667785/movimiento-estudiantil-derrota-vucic-elecciones-generales-serbia.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/25/6ade6b49a68b3.r_d.2817-1946-0.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/25/6ade7d6f483d0.r_d.3309-2345-731.jpeg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Trump culpa a la inmigración de los disturbios en Barcelona: “Son gente que odia a España“",
       "link": "https://www.lavanguardia.com/internacional/20261025/11667718/trump-culpa-inmigracion-disturbios-barcelona-son-gente-odia-espana.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/25/6ade334c43653.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La líder de la oposición antichavista, María Corina Machado, regresa a Venezuela tras diez meses de exilio forzado",
-      "link": "https://www.lavanguardia.com/internacional/20261025/11667709/lider-oposicion-antichavista-maria-corina-machado-regresa-venezuela-diez-meses.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/18/6ad3f251f196c.r_d.598-418-3754.jpeg",
       "tipo": "imagen"
     }
   ]

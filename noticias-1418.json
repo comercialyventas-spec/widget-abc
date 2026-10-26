@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Fernando Savater, escritor español: \"La felicidad no es un premio que se otorga al final del camino si nos portamos bien, sino la recompensa en la propia acción elegida\"",
+      "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-26/fernando-savater-escritor-espanol_4442158/",
+      "imagen": "https://images.ecestaticos.com/JtTB3OCFdruxBW_A4wQpCGbds3Y=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F003%2F461%2F51c%2F00346151ca5d11100c803de233569bb5.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Diego Fernández, ingeniero químico: \"Yo siempre lavo mis sábanas, toallas y ropa con manchas de sudor a 40ºC\"",
+      "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-26/diego-fernandez-ingeniero-quimico-lavo-sabanas-toallas-ropa-manchas-sudor-1qrt_4451920/",
+      "imagen": "https://images.ecestaticos.com/yWaXpyg08QlTT1pmF2h9if60sMw=/0x0:1024x768/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F964%2F554%2Fc4c%2F964554c4c565e35a58d8b013443ddaf5.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La reflexión de Antoine de Saint-Exupéry, escritor de 'El Principito': \"Sabes que tu verdad se hará lentamente, porque es nacimiento de árbol y no hallazgo de una fórmula\"",
+      "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-26/antoine-de-saint-exupery-el-principito-verdad-lenta-1qrt_4451666/",
+      "imagen": "https://images.ecestaticos.com/3FZ_EzKzXT5AIH9I_za6JunrDAg=/0x0:557x418/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F56b%2F612%2F67b%2F56b61267bc6fde943fde47642e71f991.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Arthur Brooks, catedrático de Harvard: “Camino 40 minutos después de cenar porque mejora los ritmos circadianos y reduce la hiperglucemia”",
       "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-25/arthur-brooks-catedratico-de-harvard-caminar_4450760/",
       "imagen": "https://images.ecestaticos.com/YXR4Yjv7xZTzuN8iCnrgT-AU9XU=/0x0:1166x568/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fae7%2F2f0%2F359%2Fae72f0359f89cb507004a26883a72551.jpg",
@@ -13,27 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Ignacio Morgado, neurocientífico: \"Hasta donde podemos demostrarlo cientificamente, solo los humanos podemos pensar que pensamos\"",
-      "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-25/ignacio-morgado-neurocientifico-solo-humanos-pensar-pensamos-1qrt_4404565/",
-      "imagen": "https://images.ecestaticos.com/zQFOs6A0OgoMbLRehVFhM1s61Xs=/0x0:721x406/0x900/filters:format(png)/f.elconfidencial.com%2Foriginal%2Fbae%2F225%2F0ea%2Fbae2250ea25bfc04bd605ba3aee74850.png",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Emilio Prados, escritor español, sobre la felicidad: \"El éxito de la existencia pasa por llegar a ser capaz de mirar de frente al dolor y continuar la batalla de la vida\"",
       "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-25/emilio-prados-escritor-espanol-sobre-la-felicidad_4449777/",
       "imagen": "https://images.ecestaticos.com/N9vdeMuDft06O85OnZwnO4q-ejw=/0x0:612x408/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe44%2F278%2F37c%2Fe4427837c94523886c3ee9688db6f05f.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Juan Manuel Lorente, abogado laboralista: “Si vuelves de una baja médica, está totalmente prohibido que tu empresa te cambie el puesto de trabajo”",
-      "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-25/abogado-laboralista-vuelves-baja-medica-totalmente-prohibida_4452571/",
-      "imagen": "https://images.ecestaticos.com/HAmXUzbzfvRPCtsZbVHonRv4lh0=/0x0:529x400/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F403%2F51c%2F30d%2F40351c30d10611501db3c088450431ca.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los veterinarios coinciden: si a nuestro gato le huele mal el aliento, puede ser un indicio de fallo renal",
-      "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-25/veterinarios-gato-huele-mal-aliento-indicio-fallo-renal_4452577/",
-      "imagen": "https://images.ecestaticos.com/YQxH6ky_kjopPdNxV-GP-a29KVQ=/0x0:698x501/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F6f0%2F248%2F984%2F6f0248984689ad46b34092d24076d48c.jpg",
       "tipo": "imagen"
     }
   ]

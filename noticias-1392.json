@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de Nuevo Sureste de Madrid",
+      "link": "https://nuevosureste.es/culminacion-reparelacion-los-cerros/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2025/09/LosCerros-PrimeraPiedra-2025-15-1080x675.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los Berrocales estrenará una nueva fórmula de vivienda libre: alquiler asequible y opción a compra a los siete años",
       "link": "https://nuevosureste.es/alquiler-opcion-a-compra-los-berrocales/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/02/Apertura-de-la-etapa-1-de-Los-Berrocales-foto-Nuevo-Sureste-1080x675.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Así es la radiografía de los hogares de El Cañaveral: 9.224 viviendas y 2,70 personas de media",
       "link": "https://nuevosureste.es/el-canaveral-perfil-hogares-tamano-edad/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/Calle-Mario-Moreno-Cantinflas-1080x675.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Cañaveral registró 649 nacimientos y 28 defunciones en 2025",
-      "link": "https://nuevosureste.es/el-canaveral-registro-nacimientos-y-defunciones/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/Escuela-Infantil-muneco-de-Nieve-de-El-Canaveral-Foto-Nuevo-Sureste-1080x675.jpg",
       "tipo": "imagen"
     }
   ]

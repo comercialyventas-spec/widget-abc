@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La solución habitacional de Feijóo",
+      "link": "https://www.publico.es/opinion/vinetas/solucion-habitacional-feijoo.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/22/6ada2066bfdcd.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El kit de los sacrificios",
       "link": "https://www.publico.es/opinion/vinetas/kit-sacrificios.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/20/6ad746d6404df.jpeg",
@@ -15,7 +21,7 @@
     {
       "titulo": "Un rincón para vivir",
       "link": "https://www.publico.es/opinion/vinetas/rincon-vivir.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/15/6ad0e8eb55164.jpeg",
+      "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/10/15/6ad0e8eb55164.r_d.689-476-1928.jpeg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Contrato de alquiler",
       "link": "https://www.publico.es/opinion/vinetas/contrato-alquiler.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/11/6acb94b3447fb.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las casas de Maricarmen",
-      "link": "https://www.publico.es/opinion/vinetas/casas-maricarmen.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/08/6ac79e5af27b5.jpeg",
       "tipo": "imagen"
     }
   ]
