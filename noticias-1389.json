@@ -1,7 +1,13 @@
 {
   "noticias": [
     {
-      "titulo": "La victoria de Lula en Brasil resuena en el Ibex con fuertes caídas del Santander y Telefónica",
+      "titulo": "El real brasileño registra su peor sesión en más de tres décadas tras la inesperada victoria de Lula",
+      "link": "https://elpais.com/economia/2026-10-26/los-mercados-brasilenos-afrontan-una-caida-historica-tras-la-inesperada-victoria-de-lula.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/H3YG7HVGEJNOTH6SOFHNTRD37U.jpg?auth=e33d83353f0655536352574bfd94f471a3d4d178edecf3ee88033c1df548a18e",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Ibex cotiza en tablas pese a los fuertes recortes del Santander y Telefónica",
       "link": "https://cincodias.elpais.com/mercados-financieros/2026-10-26/la-bolsa-y-el-ibex-35.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/MOU4KJT7CZIJNM7TOPTZ5MHEPM.jpg?auth=ddb35d65f17b09b4712c96ef560fe1ba206de2e2cae1a75cda4e399c00c7f36f",
       "tipo": "imagen"
@@ -13,27 +19,21 @@
       "tipo": "imagen"
     },
     {
+      "titulo": "Anthropic registra el folleto para protagonizar una de las mayores salidas a Bolsa de la historia",
+      "link": "https://elpais.com/economia/2026-10-26/anthropic-registra-el-folleto-para-protagonizar-una-de-las-mayores-salidas-a-bolsa-de-la-historia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TS2NN7HNMJOUNIJIIKFCRHS4S4.jpg?auth=4c1cc383d78142d1d3a5f3a060b3a8d7f5f698fb012b19fb8b1295f5d1bd2b89",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las aerolíneas afrontan sus meses más inciertos con mayor oferta en España",
+      "link": "https://cincodias.elpais.com/companias/2026-10-26/las-aerolineas-afrontan-sus-meses-mas-inciertos-con-mayor-oferta-en-espana.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/TEBV3N3EKND3FF2FNCNIAMKL6Y.jpg?auth=ae40d7473b4f0a5c127dc6cd37dd647a681540534f461bad324d4bef76d8ea5f",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Moeve y Galp rompen las negociaciones para fusionar sus negocios en la Península",
       "link": "https://cincodias.elpais.com/companias/2026-10-26/moeve-y-galp-rompen-las-negociaciones-para-fusionar-sus-negocios-en-la-peninsula.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/PA2D47TGZBPTLCNKFRLZQLHMNM.jpg?auth=a9d1477f31b1dc14ead6d4e60d3938720a01ba737191f6ec658b4bbb94f3ca71",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La política se cuela en las reuniones de los banqueros centrales en pleno repunte inflacionista",
-      "link": "https://elpais.com/economia/2026-10-26/la-politica-se-cuela-en-las-reuniones-de-los-banqueros-centrales-en-pleno-repunte-inflacionista.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/NW4MFWS5TVFERPCZMKPF7BGRYA.jpg?auth=4d47baac483c14b1af4504a6a9312f71df62ae8b649d7be59a41c8124533b9ad",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Barrio rico o barrio pobre? Por qué depende también de cómo se mida",
-      "link": "https://elpais.com/economia/2026-10-26/barrio-rico-o-barrio-pobre-por-que-depende-tambien-de-como-se-mida.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/VUTTJQCZ3JBSHEEUJ6H3W4VGOQ.png?auth=b252cc26c7a3b4b1bb770f6b88b75f2c8ae20559180041815a2b986a110c3b25&width=1200",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las pensiones privadas se estancan pese al debate sobre la sostenibilidad del sistema público",
-      "link": "https://elpais.com/economia/2026-10-26/las-pensiones-privadas-se-estancan-pese-al-debate-sobre-la-sostenibilidad-del-sistema-publico.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/POZCYUEBI5AI3HD47JLHYL7U6Q.jpg?auth=d6e12d194eea6fb51203214138022620e75715d0c6217fd6ae5af41af79b4495",
       "tipo": "imagen"
     }
   ]

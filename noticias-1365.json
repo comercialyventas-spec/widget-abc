@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Respiramos, pero sin bajar la guardia",
+      "link": "https://elpais.com/opinion/2026-10-26/respiramos-pero-sin-bajar-la-guardia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NLICJYZS4FCPZHLZV57ASQIQF4.JPG?auth=182dda28497d55db2c2a7fc9b0a2c1f108f27567ed2cb3a0d343b05626affb41",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Momentos difíciles",
       "link": "https://elpais.com/opinion/2026-10-26/momentos-dificiles.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/OYVOTE3LJRHGHB56PE56Y27NMM.jpg?auth=cd73e420ba0dd7bdeb535bb847d905638181e8c701e54d0193c1d36d1f3a28a7",
@@ -28,12 +34,6 @@
       "titulo": "Oportunidad para Israel",
       "link": "https://elpais.com/opinion/2026-10-26/oportunidad-para-israel.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/6HAI4OW2MVF3RCNDNLMPL4FHXU.JPG?auth=d7c1e2b89e8cbc5fc27ebca2e97b712f4ecd37cd08db172a3a2c96eb74be4b89",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "300 encapuchados",
-      "link": "https://elpais.com/opinion/2026-10-26/300-encapuchados.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/VMF4K2SSEZARDITV2NZ77ERJLM.jpg?auth=538e4da3498c900a2563b8537852d8bb22922e39b0da189d97efa3e9ad96361f",
       "tipo": "imagen"
     }
   ]

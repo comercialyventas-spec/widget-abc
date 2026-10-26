@@ -1,7 +1,13 @@
 {
   "noticias": [
     {
-      "titulo": "Al menos 80 heridos al caer un autobús por un barranco en Fogars de Montclús (Barcelona)",
+      "titulo": "Previsión AEMET: cielo poco nuboso y temperaturas estables en Barcelona hoy",
+      "link": "https://okdiario.com/cataluna/prevision-aemet-cielo-poco-nuboso-y-temperaturas-estables-en-barcelona-hoy-20627793",
+      "imagen": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Al menos 80 heridos, 7 de ellos graves, al caer un autobús por un barranco en Fogars de Montclús (Barcelona)",
       "link": "https://okdiario.com/cataluna/menos-60-personas-han-resultado-heridas-caer-autobus-barranco-forgans-montclus-barcelona-20626389",
       "imagen": "https://okdiario.com/img/2026/10/25/frame-accidente-bus.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "AEMET prevé cielos nubosos y chubascos en Barcelona, con ligera disminución de temperaturas",
       "link": "https://okdiario.com/cataluna/aemet-preve-cielos-nubosos-y-chubascos-en-barcelona-con-ligera-disminucion-de-temperaturas-20620806",
       "imagen": "https://okdiario.com/img/2026/01/12/lluvias-barcelona-interior.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Previsión AEMET: Nubes altas y posible lluvia al final del día en Barcelona",
-      "link": "https://okdiario.com/cataluna/prevision-aemet-nubes-altas-y-posible-lluvia-al-final-del-dia-en-barcelona-20612931",
-      "imagen": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
       "tipo": "imagen"
     }
   ]

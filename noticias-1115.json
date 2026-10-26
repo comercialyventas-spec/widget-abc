@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "AEMET: cielo poco nuboso y ascenso de temperaturas en Zaragoza con viento suave",
+      "link": "https://okdiario.com/aragon/aemet-cielo-poco-nuboso-y-ascenso-de-temperaturas-en-zaragoza-con-viento-suave-20627881",
+      "imagen": "https://okdiario.com/img/2026/10/26/suben-las-temperaturas.-europa-press-1.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Zaragoza: AEMET prevé un día de nubes altas y aumento de temperaturas con viento moderado",
       "link": "https://okdiario.com/aragon/zaragoza-aemet-preve-un-dia-de-nubes-altas-y-aumento-de-temperaturas-con-viento-moderado-20624173",
       "imagen": "https://okdiario.com/img/2026/10/25/suben-las-temperaturas.-europa-press.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Zaragoza: Cielo poco nuboso y viento moderado según AEMET, con heladas débiles en el Pirineo",
       "link": "https://okdiario.com/aragon/zaragoza-cielo-poco-nuboso-y-viento-moderado-segun-aemet-con-heladas-debiles-en-el-pirineo-20595884",
       "imagen": "https://okdiario.com/img/2026/10/21/mujer-se-protege-del-sol-ante-la-mejora-del-tiempo.-europa-press-1.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "AEMET prevé chubascos y ascenso de temperaturas en Zaragoza con cielos nublados y viento moderado",
-      "link": "https://okdiario.com/aragon/aemet-preve-chubascos-y-ascenso-de-temperaturas-en-zaragoza-con-cielos-nublados-y-viento-moderado-20595815",
-      "imagen": "https://okdiario.com/img/2026/10/21/vuelven-las-lluvias.-europa-press.jpg",
       "tipo": "imagen"
     }
   ]

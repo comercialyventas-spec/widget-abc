@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "'Awake', el robot 'made in Barcelona' que ayuda a caminar tras un ictus, suma más de 500 horas de ensayos con pacientes: \"La rehabilitación es dura\"",
+      "link": "https://www.elperiodico.com/es/sanidad/20261026/awake-robot-made-in-barcelona-ensayos-pacientes-rehabilitacion-dura-135758022",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/4e2cd647-5564-4a82-bc67-05afc6d04473_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El fármaco antiobesidad en pastillas se fabrica ya en España, a la espera de ser aprobado por Sanidad",
+      "link": "https://www.elperiodico.com/es/sociedad/20261026/farmaco-obesidad-pastillas-fabrica-espana-135765126",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/254079c5-9c2b-4701-83b5-443d522092d6_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El aprendizaje automático con datos sanitarios comunes ayuda a saber quién tiene más riesgo de desarrollar cáncer",
+      "link": "https://www.elperiodico.com/es/sanidad/20261026/aprendizaje-automatico-datos-sanitarios-comunes-saber-riesgo-cancer-135759293",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b708452c-f1e4-454e-9720-d8a0e71fddc1_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Hasta un 45% de los casos de alzhéimer se pueden prevenir: \"El estilo de vida y las relaciones sociales son fundamentales\"",
+      "link": "https://www.elperiodico.com/es/sanidad/20261026/alzheimer-prevencion-estilos-de-vida-aislamiento-fundamentales-fundacion-pasqual-maragall-135759872",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/3ca54680-e9f1-4985-9d64-131b3cb73b95_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Más de 21.000de los 52.814 médicos de la sanidad privada se jubilarán en los próximos 15 años: \"Tenemos un gravísimo problema\"",
       "link": "https://www.elperiodico.com/es/sanidad/20261025/sanidad-privada-jubilaciones-medicos-falta-enfermeras-espana-135615312",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f8e4b40a-94a5-496f-8d99-8a0eec1c3f54_media-libre-aspect-ratio_default_0.jpg",
@@ -10,30 +34,6 @@
       "titulo": "'Helicobacter pylori': estos son los síntomas de la bacteria que afecta a casi la mitad de la población y puede permanecer oculta durante años",
       "link": "https://www.elperiodico.com/es/sanidad/20261023/helicobacter-pylori-estos-son-los-sintomas-de-la-bacteria-que-afecta-a-casi-la-mitad-de-la-poblacion-135701731",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/84d00bba-2306-4622-9e38-3904c6e7f6b6_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sanidad y las comunidades aprueban ampliar el cribado de cáncer de mama a las mujeres de 45 a 74 años",
-      "link": "https://www.elperiodico.com/es/sanidad/20261023/sanidad-comunidades-aprueban-ampliar-cribado-cancer-de-mama-listas-espera-135661797",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/85ca5a8a-3219-44ce-8378-12f6b497c3be_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Francesc Augé accederá a la eutanasia el 27 de noviembre tras más de dos años de lucha en los tribunales",
-      "link": "https://www.elperiodico.com/es/sanidad/20261023/francesc-auge-accedera-eutanasia-27-noviembre-muerte-digna-135662420",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/66d61027-99cc-4abe-81bf-efa88744d717_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Salut asegura que no hay preocupación por el virus shamonda y que la transmisión en humanos es muy limitada",
-      "link": "https://www.elperiodico.com/es/sociedad/20261023/govern-salut-asegura-tranquilo-virus-shamonda-transmision-humanos-limitada-135660266",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/e82fddf7-4c91-4fde-a931-ff5fde7558e0_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Detectado el virus shamonda en tres explotaciones de vacuno de leche de Girona",
-      "link": "https://www.elperiodico.com/es/sanidad/20261022/detectado-virus-shamonda-tres-explotaciones-135649786",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/739c0f40-4e27-49c8-91dd-2b662b75f5ce_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

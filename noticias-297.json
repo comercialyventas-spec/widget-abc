@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Los puentes del Prado",
+      "link": "https://www.abc.es/cultura/arte/puentes-prado-20261026135040-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/26/globo-RSufii4XpB5SmORV4umAo4O-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La modernidad del Bosco y Bruegel, cinco siglos después",
       "link": "https://www.abc.es/cultura/arte/modernidad-bosco-bruegel-cinco-siglos-despues-20261021142021-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/21/9-pez%20grande_20261021121215-RLQYbqfTEkGM07K5EtTXLRK-1200x940@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La otra Transición (estética) en España",
       "link": "https://www.abc.es/cultura/arte/transicion-espana-importacion-cultural-cambio-20261016012911-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/16/march1-RdpXaYzNiHu5NqjvEnETLyH-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "D*Face, el artista que pinta los muros de Londres, Carabanchel y el 'GTA VI'",
-      "link": "https://www.abc.es/cultura/arte/dface-locura-interes-mural-virtual-fisico-20260917011228-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/09/17/unnamed-Rq24NDLoXVjnTQKO8sX7p6J-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

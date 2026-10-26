@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
+      "titulo": "Los nuevos coches de lujo: de Jaguar a Porsche, Mercedes y Tesla",
+      "link": "https://www.abc.es/summum/motor/nuevos-coches-marcas-lujo-jaguar-porsche-mercedes-20261026123304-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/summum/2026/10/26/porsche-RdMa3I3ZX3e1rbWhZggzJHK-1200x840@diario_abc.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "PP y Vox alcanzan un acuerdo en el Senado para hacer frente a la izquierda",
       "link": "https://www.abc.es/espana/miguel-tellado-comparece-ante-medios-dar-informacion-20261026132738-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/26/1519234324-kiYG-U406485758b3E-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/26/tellado-U201157731614vgE-U406485758b3E-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "Deslumbramientos tras el cambio de hora: el peligro invisible que amenaza la conducción desde este lunes",
-      "link": "https://www.abc.es/motor/reportajes/deslumbramientos-tras-cambio-hora-peligro-invisible-amenaza-20261026073005-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/10/26/alumbrado-Rc2S4Ke0FS6PNM30W96LEJP-1200x840@diario_abc.jpg"
+      "titulo": "La Guardia Urbana, tras las declaraciones de Colau: «Ella alimentó el radicalismo y hoy sus cachorros actúan»",
+      "link": "https://www.abc.es/espana/cataluna/guardia-urbana-barcelona-obligada-emitir-comunicado-tras-20261026144926-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/26/ada-colau-disturbios-RkOMujC3p9AuH7vcdIgJtQN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "Ochenta y siete heridos, ocho de ellos graves, tras caer un autobús por un terraplén de 20 metros en Cataluña",
-      "link": "https://www.abc.es/espana/cataluna/heridos-graves-tras-caer-autobus-barranco-metros-20261025181253-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/25/bomber1-U302422416635XMD-1200x840@diario_abc.jpg"
+      "titulo": "Susana Díaz, sobre una posible remontada de Sánchez: «Hay miedo en el cuerpo del PP»",
+      "link": "https://www.abc.es/play/television/noticias/susana-diaz-convencida-sobre-pedro-sanchez-remontara-20261026103056-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/26/susana-diaz-knaH-U401900725MFG-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "El plan de María Corina Machado: una ruta por toda Venezuela para exigir elecciones",
-      "link": "https://www.abc.es/internacional/maria-corina-machado-recorrera-venezuela-exigir-elecciones-20261026084502-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/26/1519329810-RC23Kz9GjZp108lOZyvGaJO-1200x840@diario_abc.jpg"
+      "titulo": "Carlos Herrera: «Si no hay acuerdo, será imposible que la derecha alcance los tres quintos del Senado»",
+      "link": "https://www.abc.es/recreo/carlos-herrera-alerta-sobre-resultado-elecciones-generales-20261026111337-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2026/10/26/herrera-pp-vox--ky0F-U402560212dv-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "Las aerolíneas entran en «incertidumbre máxima» y se preparan para un verano caliente por los precios del queroseno",
-      "link": "https://www.abc.es/economia/aerolineas-entran-incertidumbre-maxima-preparan-verano-caliente-20261026131843-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/26/1516483436-RuCtZLI4aTpRD5XC7YhpVVJ-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Un joven siembra el caos en Retiro al huir de la Policía y acabar estampándose contra varios vehículos",
-      "link": "https://www.abc.es/espana/madrid/joven-siembra-caos-retiro-huir-policia-acabar-20261026142510-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/26/accidente12-RK25IFwRCeTkzjUn5kYx9aP-1200x840@diario_abc.jpg"
+      "titulo": "Jon Echeverría: «Necesitamos inmigración cualificada, que aporte y que no venga a vivir de pagas»",
+      "link": "https://www.abc.es/play/television/noticias/jon-echeverria-espana-necesitamos-inmigracion-cualificada-aporte-20261026103726-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/26/inmigracion-kUjH-U401355897rwH-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }

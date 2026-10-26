@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Restricciones de tráfico: Alcalá. Afectadas 12 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261026-Restricciones-Trafico-Alcala.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Traslado de Parada: glorieta del Valle de Oro. Afectadas 5 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261028-TP-5601-Glorieta-Valle-Oro.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Evento: Palacio de los Deportes. Afectadas 4 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261029-PD-Baloncesto.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Obras: Calle de Alcalá. Afectadas 4 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261029-O-Calle-Alcala.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Obras: Hortaleza. Afectada línea 3 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261027-O-Hortaleza.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -9,30 +33,6 @@
     {
       "titulo": "Evento deportivo en varios distritos. Afectadas 56 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261025-Carrera-Marca-Derbi-Aficiones.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Obras: Doctor Fernando Primo de Rivera. Afectadas 3 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261027-O-Dr-Fernando-Primo-de-Rivera.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Evento: Palacio de los Deportes. Afectadas 4 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261027-PD-Evento.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Obras: Huerta de Castañeda. Afectadas 6 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261027-O-Huerta-Castañeda.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Evento socio-cultural en distrito Centro. Afectadas 23 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261025-Fiesta-de-la-Trashumancia.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

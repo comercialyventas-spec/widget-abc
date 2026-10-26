@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El nuevo mapa del riesgo de terremoto en Catalunya: estos son los municipios con mayor peligrosidad sísmica",
+      "link": "https://www.elperiodico.com/es/ciencia/20261026/mapa-peligro-terremoto-cataluna-municipios-barcelona-girona-lleida-tarragona-dv-et-135545600",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ee428a1c-2ee2-4176-9089-fcf36d12639d_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Alertan de que el hambre vuelve a subir en el mundo tras años de mejoras",
+      "link": "https://www.elperiodico.com/es/medio-ambiente/20261026/alertan-hambre-vuelve-subir-mundo-135759178",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/adce43fc-4c6b-4486-a245-7d814accacef_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El mercado de segunda mano, alternativa ecológica de consumo, crece sin parar en España: ya representa el 1,1% del PIB",
       "link": "https://www.elperiodico.com/es/medio-ambiente/20261026/mercado-segunda-mano-alternativa-ecologica-135755214",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/656514eb-b7ef-4721-abdb-0c7ffd86b1f3_media-libre-aspect-ratio_default_0.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Denuncian que la pesca de arrastre sigue practicándose en áreas marinas protegidas de España",
       "link": "https://www.elperiodico.com/es/medio-ambiente/20261024/denuncian-pesca-arrastre-sigue-practicandose-135707910",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ca8a42a1-8176-412d-a3bf-d151e7eb86be_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Noviembre marcará el inicio del pico de intensidad de El Niño, el más grave en 1.000 años y que durará hasta enero",
-      "link": "https://www.elperiodico.com/es/medio-ambiente/20261024/noviembre-marcara-inicio-pico-intensidad-135705407",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/321fce3d-b7f9-41c2-9826-4a04f9077522_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La genial idea de un desarrollador catalán para dominar la búsqueda de 'bolets' desde casa",
-      "link": "https://www.elperiodico.com/es/catalunya/20261023/cataluna-setas-bolets-videojuego-bosque-programacion-ramon-forns-dv-135573889",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/aad3acd6-155f-48b6-9252-e3aee4f56592_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
