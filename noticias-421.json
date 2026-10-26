@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Pedro Sánchez",
+      "link": "https://www.elconfidencialdigital.com/album/defensa/pedro-sanchez/202610262001001497074.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/26/2026102617104769966.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Tribunal Supremo",
+      "link": "https://www.elconfidencialdigital.com/album/ecd-judicial/tribunal-supremo/202610261856421496977.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/26/2026102619144432211.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Salvador Illa",
       "link": "https://www.elconfidencialdigital.com/album/el-chivato/salvador-illa/202610261702031496911.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/26/2026102617005897595.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Cerbero 26 termina en Valencia: participan 48 perros del Ejército",
       "link": "https://www.elconfidencialdigital.com/album/defensa/cerbero-26-termina-valencia-participan-48-perros-ejercito/202610261611521496894.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/26/2026102616105455230.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Unidad de Verificación española y Hungría colaboran en un ejercicio",
-      "link": "https://www.elconfidencialdigital.com/album/defensa/unidad-verificacion-espanola-hungria-colaboran-ejercicio/202610261607071496889.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/26/2026102616055313358.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Guardia Civil de Tráfico",
-      "link": "https://www.elconfidencialdigital.com/album/guardia-civil/guardia-civil-trafico/202610261357171496837.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/05/28/2026052820150489103.jpg",
       "tipo": "imagen"
     }
   ]

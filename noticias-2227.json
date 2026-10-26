@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Supresión de Parada: calle Goya. Afectadas líneas 21 y 53 de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261028-SP-4521-Goya.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Supresión de Parada: Serrano. Afectadas 3 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261028-SP-441-Serrano.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Supresión de Parada: Goya. Afectadas 2 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261028-SP-674-Goya.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Recuperación de Parada: Francos Rodríguez. Afectada línea 64 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261027-RP-1580-Francos-Rodriguez.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -15,24 +33,6 @@
     {
       "titulo": "Traslado de Parada: glorieta del Valle de Oro. Afectadas 5 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261028-TP-5601-Glorieta-Valle-Oro.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Evento: Palacio de los Deportes. Afectadas 4 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261029-PD-Baloncesto.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Obras: Calle de Alcalá. Afectadas 4 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261029-O-Calle-Alcala.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Evento deportivo en varios distritos. Afectadas 56 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261025-Carrera-Marca-Derbi-Aficiones.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

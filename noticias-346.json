@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Anthropic presenta su histórica salida a bolsa: «Puede que no logremos ni mantengamos la rentabilidad en el futuro»",
+      "link": "https://www.abc.es/tecnologia/anthropic-presenta-historica-salida-bolsa-puede-logremos-20261026205111-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/26/anthropic-Rut28KkrDjLLEFHMQPr2RLP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Grok muestra solo siete minutos de su 'Odisea' generada con IA, la película prometida por Elon Musk",
+      "link": "https://www.abc.es/tecnologia/grok-muestra-solo-siete-minutos-odisea-generada-20261026194940-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/26/odisea-grok-2-RfHrH6S5oVFBJVsiOgIu07L-1200x840@diario_abc.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Apple anuncia el iPad mini 8 con pantalla OLED: precio y cuándo sale a la venta",
+      "link": "https://www.abc.es/tecnologia/electronica/apple-anuncia-ipad-mini-pantalla-oled-precio-20261026190614-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/26/apple-ipad-mini-8-RvmSUcKSTLW3ezcvrr6MikO-1200x840@diario_abc.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La web del ministerio de Transportes sufre un 'hackeo' que redirigía a una web de criptomonedas",
       "link": "https://www.abc.es/tecnologia/informatica/web-ministerio-transportes-sufre-hackeo-redirigia-web-20261026112459-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/26/ministerio-transportes-kPjF-U4030209272fC-1200x840@diario_abc.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Canva resuelve uno de los grandes problemas de la IA generativa: crear imágenes con texto legible y modificable",
       "link": "https://www.abc.es/tecnologia/canva-resuelve-grandes-problemas-ia-generativa-crear-20261023173007-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/23/canva-Rm7sCF1dj0pctyKPvz0zyfK-1200x840@diario_abc.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El «truco» de Sánchez para evitar otro caso Pegasus: apagar el móvil durante cinco minutos al día",
-      "link": "https://www.abc.es/tecnologia/moviles/truco-sanchez-evitar-pegasus-apagar-movil-cinco-20261023103805-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/23/sanchez-kf7G-U302386040934qFG-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Pep Martorell, físico: «El uso masivo de la inteligencia artificial en ciertos puestos del mercado laboral empieza a provocar deterioro de capacidades cognitivas»",
-      "link": "https://www.abc.es/tecnologia/pep-martorell-fisico-uso-masivo-inteligencia-artificial-20261023064500-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/23/pep-martorell-2_20261020180946-kLXC-RKu9CnqZxi6PdQf4GRM0aUN-1200x840@diario_abc.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Qué es PHP y por qué sus fallos de seguridad han desatado una alerta mundial",
-      "link": "https://www.abc.es/tecnologia/informatica/php-fallos-seguridad-desatado-alerta-mundial-20261022191222-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/22/tired-young-handsome-man-sitting-with-laptop-outdoor-cafe-working-remote-studying-using-park-wifi-R0VTbBlT5rf0UwHBkKxAeGN-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

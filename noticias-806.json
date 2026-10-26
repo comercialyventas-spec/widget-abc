@@ -1,27 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Elecciones Brasil",
-      "link": "https://www.eldiario.es/internacional/brasil-vilo-elecciones-ajustadas-historia_1_13614113.html",
-      "imagen": "https://static.eldiario.es/clip/bdd1882c-d9db-43d3-a7fa-d41b6f7dfc14_facebook-aspect-ratio-1200-675_default_0_x1680y746.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Alfredo Sánchez Monteseirín",
       "link": "https://www.eldiario.es/sevilla/muere-alfredo-sanchez-monteseirin-alcalde-tiempo-frente-ayuntamiento-sevilla_1_13286528.html",
       "imagen": "https://static.eldiario.es/clip/150703e3-d2b7-4798-9db9-aab70accdf83_facebook-aspect-ratio-1200-675_default_0_x573y332.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Podemos Baleares",
-      "link": "https://www.eldiario.es/illes-balears/politica/suma-coalicion-ara-mes-front-ampli-no-presentara-solitario-congreso-balears_1_13614467.html",
-      "imagen": "https://static.eldiario.es/clip/f7212958-797b-4d56-acb4-2b5dcd522cc2_facebook-aspect-ratio-1200-675_default_0_x968y485.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Delegado del Gobierno",
-      "link": "https://www.eldiario.es/madrid/somos/criticas-pp-dimision-delegado-gobierno-madrid-no-le-echar-partido_1_13614713.html",
-      "imagen": "https://static.eldiario.es/clip/4ceaa0bb-4226-4379-9af9-6ccdc1fdc8dc_facebook-aspect-ratio-1200-675_default_0_x445y462.jpg",
+      "titulo": "Elecciones Brasil",
+      "link": "https://www.eldiario.es/internacional/brasil-vilo-elecciones-ajustadas-historia_1_13614113.html",
+      "imagen": "https://static.eldiario.es/clip/bdd1882c-d9db-43d3-a7fa-d41b6f7dfc14_facebook-aspect-ratio-1200-675_default_0_x1680y746.jpg",
       "tipo": "imagen"
     },
     {
@@ -31,9 +19,21 @@
       "tipo": "imagen"
     },
     {
+      "titulo": "Delegado del Gobierno",
+      "link": "https://www.eldiario.es/madrid/somos/criticas-pp-dimision-delegado-gobierno-madrid-no-le-echar-partido_1_13614713.html",
+      "imagen": "https://static.eldiario.es/clip/4ceaa0bb-4226-4379-9af9-6ccdc1fdc8dc_facebook-aspect-ratio-1200-675_default_0_x445y462.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Balón de Oro 2026",
       "link": "https://www.eldiario.es/spin/deportes/hora-entrega-balon-oro-horario-ver-gala-galardon-optan-lamine-yamal-mbappe-kane-pm_1_13614550.html",
       "imagen": "https://static.eldiario.es/clip/3e0e82a5-c51a-430b-b616-e5d06ad0e91d_facebook-aspect-ratio-1200-675_default_0_x619y307.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Festivo 9 noviembre",
+      "link": "https://www.eldiario.es/spin/festivo-9-noviembre-comunidades-habra-puente_1_13596435.html",
+      "imagen": "https://static.eldiario.es/clip/4af5a9b0-a5da-47b7-a7ec-c1778606879d_facebook-aspect-ratio-1200-675_default_0_x679y788.jpg",
       "tipo": "imagen"
     }
   ]
