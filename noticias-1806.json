@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Una grúa intentará este lunes extraer el bus precipitado por un terraplén de 20 metros en un accidente que ha dejado 83 heridos",
+      "link": "https://www.20minutos.es/cataluna/barcelona/los-bomberos-descartan-con-muy-alta-probabilidad-que-haya-fallecidos-por-accidente-bus-que-ha-dejado-83-heridos_7053251_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/26/6adeefb0be6a84-11536343.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Retrasos en una línea de Rodalies por el atropello de un persona en Vilanova i la Geltrú",
+      "link": "https://www.20minutos.es/cataluna/barcelona/retrasos-una-linea-rodalies-por-atropello-un-persona-vilanova-i-geltru_7053273_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/26/6adf0918bbe355-11946450.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un autobús de pasajeros cae por un terraplén de 20 metros en Barcelona: hay 83 heridos, 25 de ellos graves",
       "link": "https://www.20minutos.es/cataluna/barcelona/un-autobus-cae-por-un-terraplen-veinte-metros-barcelona_7053164_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/25/6ade4d06a44ca8-12845682.jpeg",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/26/6adeefb0be6a84-11536343.png",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Illa dice que se sabrá quién está detrás de los disturbios en Barcelona: \"Convivencia y democracia\"",
       "link": "https://www.20minutos.es/cataluna/barcelona/illa-dice-que-se-sabra-quien-esta-detras-los-disturbios-barcelona-convivencia-democracia_7053133_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/10/09/6ac8b83938a999-34052341.r_d.1053-389.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Rufián ve \"probable\" que la extrema derecha esté detrás de los disturbios en Barcelona",
-      "link": "https://www.20minutos.es/cataluna/barcelona/rufian-ve-probable-que-extrema-derecha-este-detras-los-disturbios-barcelona_7053125_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/25/6ade14dc5b8651-98746195.webp",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Collboni defiende el dispositivo policial en los disturbios de Barcelona: \"Alguien lo hizo circular con intencionalidad no democrática\"",
-      "link": "https://www.20minutos.es/cataluna/barcelona/collboni-defiende-dispositivo-policial-los-disturbios-barcelona-alguien-hizo-circular-con-intencionalidad-no-democratica_7053112_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/10/25/6addf8cb940632-23362788.r_d.930-8.png",
       "tipo": "imagen"
     }
   ]

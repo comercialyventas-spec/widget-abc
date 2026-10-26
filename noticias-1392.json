@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de Nuevo Sureste de Madrid",
+      "link": "https://nuevosureste.es/guia-verde-madrid/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/07/Gran-Via-Sureste-1.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los Cerros da un paso decisivo para construir sus primeras 3.000 viviendas tras completar la reparcelación",
       "link": "https://nuevosureste.es/culminacion-reparelacion-los-cerros/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2025/09/LosCerros-PrimeraPiedra-2025-15-1080x675.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "El Cañaveral tendrá un autobús más en la línea E5 desde este martes",
       "link": "https://nuevosureste.es/nuevo-autobus-linea-e5-el-canaveral/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2025/02/Autobus-de-la-linea-E5-de-EMT-Madrid-fuente-EMT-Madrid.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Así es la radiografía de los hogares de El Cañaveral: 9.224 viviendas y 2,70 personas de media",
-      "link": "https://nuevosureste.es/el-canaveral-perfil-hogares-tamano-edad/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/Calle-Mario-Moreno-Cantinflas-1080x675.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Madrid incluye la Gran Vía del Sureste entre sus futuros ejes verdes y destaca el Cerro Almodóvar en su nueva guía ambiental",
+      "link": "https://nuevosureste.es/guia-verde-madrid/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/07/Gran-Via-Sureste-1.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los Cerros da un paso decisivo para construir sus primeras 3.000 viviendas tras completar la reparcelación",
       "link": "https://nuevosureste.es/culminacion-reparelacion-los-cerros/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2025/09/LosCerros-PrimeraPiedra-2025-15.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Así es la radiografía de los hogares de El Cañaveral: 9.224 viviendas y 2,70 personas de media",
       "link": "https://nuevosureste.es/el-canaveral-perfil-hogares-tamano-edad/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/Calle-Mario-Moreno-Cantinflas.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Cañaveral registró 649 nacimientos y 28 defunciones en 2025",
-      "link": "https://nuevosureste.es/el-canaveral-registro-nacimientos-y-defunciones/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/Escuela-Infantil-muneco-de-Nieve-de-El-Canaveral-Foto-Nuevo-Sureste.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en directo, en EL PAÍS",
+      "link": "https://elpais.com/videos/2026-10-26/el-pulso-de-hoy-por-hoy-en-el-pais.html",
+      "imagen": "https://www.youtube.com/watch?v=Wd1C2ELQiZg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El miedo al paso del tiempo: ¿por qué nos aferramos a la juventud?",
+      "link": "https://elpais.com/videos/estaba-yo-pensando/2026-10-26/el-miedo-al-paso-del-tiempo-por-que-nos-aferramos-a-la-juventud.html",
+      "imagen": "https://www.youtube.com/watch?v=jE5FUGOBYpc",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Primeras imágenes del regreso de María Corina Machado a Venezuela tras 10 meses fuera del país",
       "link": "https://elpais.com/america/2026-10-25/primeras-imagenes-del-regreso-de-maria-corina-machado-a-venezuela-tras-10-meses-fuera-del-pais.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261025/1229730_171702_video_1800.mp4",
@@ -22,18 +34,6 @@
       "titulo": "Martirio: “Una se puede hacer mayor, pero no por ello vieja”",
       "link": "https://elpais.com/eps/2026-10-23/martirio-me-preocupa-que-ahora-no-hay-gente-reflexiva-capaz-de-guiar-a-la-gente.html",
       "imagen": "https://www.youtube.com/watch?v=m-mydH177QM",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La entrevista a Feijóo en la SER en tres minutos",
-      "link": "https://elpais.com/videos/2026-10-23/la-entrevista-a-feijoo-en-la-ser-en-tres-minutos.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261023/1228879_101315_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La entrevista de David Broncano a Pedro Sánchez en ‘La Revuelta’, en cinco minutos",
-      "link": "https://elpais.com/videos/2026-10-23/la-entrevista-de-broncano-a-pedro-sanchez-en-la-revuelta-en-cinco-minutos.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261023/1228905_111023_video_1800.mp4",
       "tipo": "imagen"
     }
   ]

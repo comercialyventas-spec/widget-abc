@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Lo de Irene",
+      "link": "https://okdiario.com/opinion/lo-irene-20626301",
+      "imagen": "https://okdiario.com/img/2026/10/25/26-10-2026-podemos-irene.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Indag \"El mundo es hoy un lugar mejor, el filoetarra Francisco Martín dimite como delegado del Gobierno en Madrid\"",
       "link": "https://okdiario.com/opinion/inda-mundo-hoy-lugar-mejor-filoetarra-francisco-martin-dimite-como-delegado-del-gobierno-madrid-20626963",
       "imagen": "https://okdiario.com/img/2026/10/25/frame-inda-delegado-02.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Indag \"Gracias, Pedro, por hacerme más famoso aún y mucho más popular entre los míos, dime dónde te mando el cheque\"",
       "link": "https://okdiario.com/opinion/inda-gracias-pedro-hacerme-mas-famoso-aun-mucho-mas-popular-mios-dime-donde-te-mando-cheque-20622823",
       "imagen": "https://okdiario.com/img/2026/10/24/frame-inda-01.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sube & baja, por Jaime Peñafiel: semana del 17 al 23 de octubre",
-      "link": "https://okdiario.com/opinion/sube-baja-jaime-penafiel-semana-del-17-23-octubre-20621103",
-      "imagen": "https://okdiario.com/img/2026/10/24/sube-baja-jaime-penafiel-interior-3.jpg",
       "tipo": "imagen"
     }
   ]
