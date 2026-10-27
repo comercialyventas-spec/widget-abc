@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Miles de grullas transforman Gallocanta en uno de los grandes espectáculos del otoño",
+      "link": "https://www.lavanguardia.com/lugaresdeaventura/20261027/11668693/miles-grullas-transforman-gallocanta-grandes-espectaculos-otono.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2025/10/28/6900f35280fac.r_d.118-325-5282.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Segovia estrena cuatro rutas entre minas romanas, fósiles y paisajes de otro planeta",
       "link": "https://www.lavanguardia.com/lugaresdeaventura/20261026/11664794/segovia-estrena-cuatro-rutas-minas-romanas-fosiles-paisajes-planeta.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/10/21/6ad8e6091e904.r_d.827-872-2339.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/10/21/6ad8e6091e904.r_d.827-872-2339.jpeg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "La IA descubre casi 40.000 icebergs encallados en la Antártida",
       "link": "https://www.lavanguardia.com/lugaresdeaventura/20261023/11665381/ia-descubre-40-000-icebergs-encallados-antartida.html",
       "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2025/09/13/68c5a202bd30b.r_d.2982-2067-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un piloto de paramotor cruza los Pirineos tras recorrer 773 kilómetros en cinco días",
-      "link": "https://www.lavanguardia.com/lugaresdeaventura/20261022/11664626/piloto-paramotor-cruza-pirineos-recorrer-773-kilometros-cinco-dias.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/10/21/6ad8b0dd35027.r_d.640-427-3508.jpeg",
       "tipo": "imagen"
     }
   ]

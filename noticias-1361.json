@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Lo que se sabe y lo que se investiga de los disturbios en Barcelona",
+      "link": "https://elpais.com/videos/2026-10-27/lo-que-se-sabe-y-lo-que-se-investiga-de-los-disturbios-en-barcelona.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261026/1230205_191957_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Lamine Yamal no se lleva el Balón de Oro 2026",
       "link": "https://elpais.com/deportes/futbol/2026-10-26/lamine-yamal-no-se-lleva-el-balon-de-oro-2026.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261026/1230165_180042_video_1800.mp4",
@@ -28,12 +34,6 @@
       "titulo": "‘El Pulso’ de ‘Hoy por Hoy’, en directo, en EL PAÍS",
       "link": "https://elpais.com/videos/2026-10-26/el-pulso-de-hoy-por-hoy-en-el-pais.html",
       "imagen": "https://www.youtube.com/watch?v=Wd1C2ELQiZg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El miedo al paso del tiempo: ¿por qué nos aferramos a la juventud?",
-      "link": "https://elpais.com/videos/estaba-yo-pensando/2026-10-26/el-miedo-al-paso-del-tiempo-por-que-nos-aferramos-a-la-juventud.html",
-      "imagen": "https://www.youtube.com/watch?v=jE5FUGOBYpc",
       "tipo": "imagen"
     }
   ]

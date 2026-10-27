@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un estudio a 769 jóvenes españoles advierte: esta es la proteína que se asocia con mejores notas",
+      "link": "https://www.elconfidencial.com/salud/2026-10-27/estudio-jovenes-espanoles-proteina-mejores-notas-1qrt_4453013/",
+      "imagen": "https://images.ecestaticos.com/4WMHBiw451M0GaebUjWXeS1yAVs=/0x0:1999x1500/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd33%2F7c7%2F8e2%2Fd337c78e2a3007a593eafe945764cee3.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "José Abellán, cardiólogo: \"Consumir aceite de oliva virgen extra es beneficioso para disminuir el riesgo de que nuestro corazón enferme\"",
       "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-26/jose-abellan-cardiologo-consumir-aceite-oliva-beneficioso-corazon-1qrt_4453244/",
       "imagen": "https://images.ecestaticos.com/AtCiBlOi2SIpGeeGq__Hbnm0uTk=/0x0:1440x810/0x900/filters:format(png)/f.elconfidencial.com%2Foriginal%2Fffe%2Fe0d%2F9e4%2Fffee0d9e4f920fd4ad40629911c78a5f.png",
@@ -28,12 +34,6 @@
       "titulo": "Núria Coll, divulgadora de salud integrativa: \"Que el arroz blanco no alimenta nada no sé si están dispuestos a escucharlo\"",
       "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-17/nuria-coll-divulgadora-salud-integrativa-arroz-blanco-no-alimenta-nada-1qrt_4445413/",
       "imagen": "https://images.ecestaticos.com/onqxQp9l0HCYWpbOmArSnr3DBNI=/0x214:1440x1024/0x900/filters:format(png)/f.elconfidencial.com%2Foriginal%2F64e%2Fb72%2F838%2F64eb72838dbdded5d6bbc7f318cdaee7.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "William Arias, médico, sobre la morcilla: \"Muchos la evitan pensando que es \"mala\", pero tiene un valor nutricional impresionante\"",
-      "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-15/william-arias-morcilla-tiene-valor-nutricional-impresionante-1qrt_4445907/",
-      "imagen": "https://images.ecestaticos.com/yRmSC5I6SNA5c2Kxj5OPXduKrgk=/0x0:1000x562/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa14%2Fde0%2F3ca%2Fa14de03ca7942093f12811aa63c1a345.jpg",
       "tipo": "imagen"
     }
   ]

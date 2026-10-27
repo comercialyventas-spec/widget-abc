@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Alexia Putellas, la reina de oro que ya es leyenda del fútbol mundial",
+      "link": "https://www.elperiodico.com/es/deportes/alexia-putellas-balon-oro-135770756-rm/index.html",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/49960359-e919-476d-874a-3ac72d9d8dd7_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los goles de Harry Kane frustran la ambición de Lamine Yamal por el Balón de Oro",
       "link": "https://www.elperiodico.com/es/deportes/20261027/harry-kane-balon-de-oro-ganador-25-26-135785288",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/54653eaf-d51e-4177-849a-67534e5187ba_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Rafa Nadal participará en una exhibición en Las Vegas el 28 de febrero de 2027",
       "link": "https://www.elperiodico.com/es/deportes/20261026/rafa-nadal-participara-exhibicion-vegas-135781258",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/af060432-1a85-4ab2-88ce-8f6a4d716115_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "No pienso rajar!, por Lluís Carrasco",
-      "link": "https://www.elperiodico.com/es/deportes/20261026/pienso-rajar-lluis-carrasco-135779175",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/5bfd5ee2-24f2-4f89-b64a-6092e166e64a_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
