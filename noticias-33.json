@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "China reeduca a Mbappé",
+      "link": "https://www.lavanguardia.com/opinion/20261027/11669478/china-reeduca-mbappe.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/27/6ae0c250be703.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Aparecen peces muertos en la playa de Sant Pol de Mar",
       "link": "https://www.lavanguardia.com/opinion/20261027/11668890/aparecen-peces-muertos-playa-sant-pol-mar.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/27/6adfed84eb6ef.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "La ansiedad que no se ve",
       "link": "https://www.lavanguardia.com/opinion/20261027/11668636/ansiedad-ve.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/26/6adf7b2793752.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Y el Ministerio de Juventud?",
-      "link": "https://www.lavanguardia.com/opinion/20261027/11668560/ministerio-juventud.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/26/6adf69d14aac1.jpeg",
       "tipo": "imagen"
     }
   ]

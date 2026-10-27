@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Tiempo en Catalunya mañana miércoles: últimos días de calor antes de la llegada de un frente frío",
+      "link": "https://www.elperiodico.com/es/tiempo/20261027/tiempo-cataluna-hoy-miercoles-28-de-octubre-frente-frio-calor-temperaturas-dv-loc-135812521",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2b7107a4-c52d-4e1e-ac21-8e2aa03dc2cd_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Tiempo en Catalunya hoy martes: niebla por la mañana y ambiente casi cálido por la tarde",
       "link": "https://www.elperiodico.com/es/tiempo/20261026/tiempo-catalunya-hoy-martes-meteocat-dv-loc-135769718",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/de39f696-aaeb-4520-bb67-1dc78303bc77_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Tiempo en Catalunya hoy sábado: avisos por lluvia intensa en Barcelona, Maresme y la Selva",
       "link": "https://www.elperiodico.com/es/tiempo/20261023/tiempo-catalunya-hoy-sabado-avisos-lluvia-barcelona-maresme-selva-meteocat-dv-135683382",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/43e58cce-90c3-460f-bb0d-9d02a9f3e69f_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tiempo en Catalunya hoy viernes: cielos despejados y algunos chubascos antes de una notable subida de temperaturas",
-      "link": "https://www.elperiodico.com/es/tiempo/20261022/tiempo-catalunya-hoy-viernes-chubascos-subida-temperaturas-dv-135633681",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/032cc7a1-4151-4bb4-b6a8-c2d632f92c64_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

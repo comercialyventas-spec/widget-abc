@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Apple presenta el nuevo MacBook Pro de 14 pulgadas con chip M6: precio y cuándo sale a la venta",
+      "link": "https://www.abc.es/tecnologia/electronica/apple-presenta-nuevo-macbook-pro-pulgadas-chip-20261027184711-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/27/apple-macbook-pro-m6-Rd17icmGGClVONT3lWVjZmN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Australia avisa de una amenaza cibernética «sin precedentes» por el rápido avance de la IA",
       "link": "https://www.abc.es/tecnologia/australia-avisa-amenaza-cibernetica-precedentes-rapido-avance-20261027084208-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/27/1519352386-k8Z-U4020918022dPI-1200x840@diario_abc.JPG",
@@ -28,12 +34,6 @@
       "titulo": "La web del ministerio de Transportes sufre un 'hackeo' que redirigía a una web de criptomonedas",
       "link": "https://www.abc.es/tecnologia/informatica/web-ministerio-transportes-sufre-hackeo-redirigia-web-20261026112459-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/26/ministerio-transportes-kPjF-U4030209272fC-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La IA de Microsoft acierta en el 83 % de los diagnósticos complejos de enfermedades: «Va a cambiar de forma radical cómo se presta la asistencia sanitaria»",
-      "link": "https://www.abc.es/tecnologia/ia-microsoft-acierta-diagnosticos-complejos-enfermedades-cambiar-20261023182800-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/23/medico-hosptial-ordenador-ia-R3Rx4zIdea33Iq4FPY15zRM-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

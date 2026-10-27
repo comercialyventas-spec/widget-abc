@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El queso asturiano creado a la luz de la luna y a la venta solo un día al año",
+      "link": "https://www.telecinco.es/gastronomia/alimentacion/20261027/creado-luna-venta-queso-asturiano-peculiar_18_019655100.html",
+      "imagen": "https://album.mediaset.es/eimg/2025/07/17/quesos-pexels_8bd2.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Así es la cocina de Tania Llasera en “camptania”, su casa de campo",
       "link": "https://www.telecinco.es/gastronomia/cocinas/20261027/decoracion-tania-llasera-camptania-casa-de-campo_18_020533630.html",
       "imagen": "https://album.mediaset.es/eimg/2024/07/18/tania-llasera_bfea.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Olvídate de las salsas de bote: esta de tomate y albahaca merece la pena hacerla en casa",
       "link": "https://www.telecinco.es/gastronomia/recetas/20261026/salsa-tomate-albahaca-hacerla-casa_18_020309111.html",
       "imagen": "https://album.mediaset.es/eimg/2026/03/02/salsa-de-tomate_ec5c.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "María Rosas, bióloga y experta en setas: \"Todas las fechas de fructificación se han retrasado un mes este año\"",
-      "link": "https://www.telecinco.es/gastronomia/alimentacion/20261026/experta-setas-temporada-mitos_18_020492042.html",
-      "imagen": "https://album.mediaset.es/eimg/2026/10/21/cesta-de-setas_cff9.jpg",
       "tipo": "imagen"
     }
   ]

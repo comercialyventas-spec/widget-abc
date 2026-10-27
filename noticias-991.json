@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Más allá de la teoría: los desafíos como maestros",
+      "link": "https://emprendedores.es/formacion/mas-alla-de-la-teoria-los-desafios-como-maestros/",
+      "imagen": "http://wp.emprendedores.es/wp-content/uploads/Esneca-logo-1.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "ICEX Next: hasta 24.000€ para internacionalizar tu negocio",
       "link": "https://emprendedores.es/ayudas/icex-next-hasta-24-000e-para-internacionalizar-tu-negocio/",
       "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/Internacionalizacion-1024x607.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Inteligencia artificial: los 5 perfiles que necesitarán las empresas",
       "link": "https://emprendedores.es/gestion/recursos-humanos/perfiles-profesionales-ia/",
       "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/profesionales-ia-1200x675.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cómo preparar una empresa para su venta",
-      "link": "https://emprendedores.es/gestion/como-preparar-una-empresa-para-su-venta/",
-      "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/llegar-a-un-acuerdo-para-vender-tu-empresa-1200x675.jpg",
       "tipo": "imagen"
     }
   ]

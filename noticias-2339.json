@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "La jueza de menores riñe a los padres por los disturbios de Barcelona",
-      "link": "https://www.lavanguardia.com/local/barcelona/20261027/11668735/jueza-menores-rine-padres-violencia-hijos.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/uploads/2026/10/27/6ae0343c4f168.jpeg",
+      "titulo": "Comuns pacta con el PSC renunciar a listas en el Senado para frenar la operación de PP y Vox en Catalunya",
+      "link": "https://www.lavanguardia.com/politica/20261027/11669211/acuerdo-psc-comuns-senado-girona-tarragona-lleida.html",
+      "imagen": "https://www.lavanguardia.com/files/image_150_155/files/fp/uploads/2026/10/27/6ae09268cbb05.r_d.2189-1196-763.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Junts exigirá la salida de Sánchez tras el 29-N para volver a negociar con el PSOE",
+      "link": "https://www.lavanguardia.com/politica/20261027/11669324/junts-exigira-concierto-economico-elecciones-llave-investidura.html",
+      "imagen": "https://www.lavanguardia.com/files/image_150_155/files/fp/uploads/2026/10/27/6ae09268cbb05.r_d.2189-1196-763.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Feijóo vuelve a Barcelona para prometer penas más duras por los disturbios",
+      "link": "https://www.lavanguardia.com/politica/20261027/11669359/feijoo-acude-manana-barcelona-prometiendo-reforma-penal-responder-mejor-disturbios.html",
+      "imagen": "https://www.lavanguardia.com/files/image_150_155/files/fp/uploads/2026/10/27/6ae08a60069fd.r_d.587-115-5508.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Generalitat se persona como acusación particular contra los vándalos de Barcelona",
+      "link": "https://www.lavanguardia.com/politica/20261027/11669348/generalitat-persona-acusacion-particular-responsables-vandalos-barcelona.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/uploads/2026/10/27/6ae0bd42efff5.jpeg",
       "tipo": "imagen"
     },
     {
@@ -13,27 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Vox ya no da miedo al PP",
-      "link": "https://www.lavanguardia.com/opinion/20261027/11668808/vox-da-miedo-pp.html",
-      "imagen": "https://www.lavanguardia.com/files/image_65_65/uploads/2024/08/14/66bcc1fc15362.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El pacto PP-Vox en el Senado certifica la alianza para llegar a la Moncloa",
-      "link": "https://www.lavanguardia.com/politica/20261027/11668757/pp-vox-sellan-pacto-senado-busca-conservar-mayoria-absoluta.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/uploads/2026/10/26/6adfa38449927.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La motosierra pierde dientes",
-      "link": "https://www.lavanguardia.com/internacional/20261027/11668928/motosierra-pierde-dientes.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/uploads/2026/10/26/6adfc8fdc792a.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Harry Kane se lleva el Balón de Oro al mejor futbolista por delante de Mbappé y Lamine Yamal",
-      "link": "https://www.lavanguardia.com/deportes/20261026/11668794/balon-oro-harry-kane-mejor-futbolista-por-delante-lamine-yamal-mbappe-londres.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/10/27/6adfe08a99f2d.r_d.1412-964-2112.jpeg",
+      "titulo": "La jueza de menores riñe a los padres por los disturbios de Barcelona",
+      "link": "https://www.lavanguardia.com/local/barcelona/20261027/11668735/jueza-menores-rine-padres-violencia-hijos.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/27/6ae04fc82eb9d.jpeg",
       "tipo": "imagen"
     }
   ]
