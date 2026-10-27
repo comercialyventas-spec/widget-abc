@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Pocas lluvias y mucha amplitud térmica: la previsión de la Aemet para la última semana de octubre",
+      "link": "https://www.eldiario.es/sociedad/el-tiempo/lluvias-amplitud-termica-prevision-aemet-ultima-semana-octubre-pm_1_13614337.html",
+      "imagen": "https://static.eldiario.es/clip/c35c0878-ac8d-412c-be1b-3ef507d0fd11_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El tiempo en España el fin de semana: el frío del sábado dará paso a una subida de temperaturas el domingo",
       "link": "https://www.eldiario.es/sociedad/el-tiempo/tiempo-espana-semana-frio-sabado-dara-paso-subida-temperaturas-domingo-pm_1_13610926.html",
       "imagen": "https://static.eldiario.es/clip/680ded9f-cc07-4cf6-891d-fd9a8d0d1417_16-9-discover-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La dana Adam remite pero la inestabilidad y las lluvias seguirán hoy en estas zonas",
       "link": "https://www.eldiario.es/sociedad/el-tiempo/dana-adam-remite-inestabilidad-lluvias-seguiran-hoy-zonas-pm_1_13597464.html",
       "imagen": "https://static.eldiario.es/clip/a43ac2fb-8534-4210-aef5-323ab0d8ac2b_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Aemet mantiene los avisos por la dana y alerta de lluvias torrenciales en el litoral mediterráneo",
-      "link": "https://www.eldiario.es/sociedad/el-tiempo/aemet-mantiene-avisos-dana-alerta-lluvias-torrenciales-litoral-mediterraneo_1_13594848.html",
-      "imagen": "https://static.eldiario.es/clip/7a4f3b92-ebf7-4aaa-a7cd-3e76af2e3c68_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

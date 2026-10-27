@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "España domina el fútbol mundial",
+      "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/27/espana-domina-futbol-mundial/0003_202610G27P35995.htm",
+      "imagen": "https://www.lavozdegalicia.es/assets/themes/lvdg/img/og_image_default.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El balón de oro de Harry Kane: incluso entre dioses, perder es lo más normal",
+      "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/26/balon-oro-harry-kane-incluso-dioses-perder-normal/00031793055149539483789.htm",
+      "imagen": "https://cflvdg.avoz.es/sc/UOegNLXFQW5RSDJyr35r2jNW1zM=/768x/2026/10/27/00121793055662149937176/Foto/reu_20261026_225711315.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Alexia Putellas y Harry Kane ganan el Balón de Oro 2026",
+      "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/26/harry-kane-alexia-putellas-ganan-balon-oro/00031793055423038803823.htm",
+      "imagen": "https://cflvdg.avoz.es/sc/RLP6V4JG5lmNxpzPfJzq8YbWH0I=/768x/2026/10/26/00121793054462180455361/Foto/reu_20261026_223801167.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El portero Edu Sousa, el único jugador del Compostela que disputó los 720 minutos de la liga",
+      "link": "https://www.lavozdegalicia.es/noticia/santiago/2026/10/26/portero-edu-sousa-unico-jugador-compostela-disputo-720-minutos-liga/00031793049292229612246.htm",
+      "imagen": "https://cflvdg.avoz.es/sc/Spglg816a6saXX9dNOA7WWalEnw=/768x/2026/10/26/00121793047203148144842/Foto/s_20261026_213627000.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Fernando Alonso ataca a los pilotos que le roban puntos",
       "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/10/26/fernando-alonso-ataca-pilotos-roban-puntos/00031793045830570277758.htm",
       "imagen": "https://cflvdg.avoz.es/sc/9aG-Az9p_hxsu4vPGk4TMgRM8WA=/768x/2026/10/26/00121793046363320683935/Foto/eup_20261009_182714958.jpg",
@@ -10,30 +34,6 @@
       "titulo": "El deportivista Miguel de Labra, con once dianas, ya es el máximo goleador juvenil del fútbol español",
       "link": "https://www.lavozdegalicia.es/noticia/torremarathon/cantera/2026/10/26/deportivista-miguel-labra-once-dianas-maximo-goleador-juvenil-futbol-espanol/00031793042818362936429.htm",
       "imagen": "https://cflvdg.avoz.es/sc/OgEIofJjC-j0goKTr_Rb9QwbbLk=/768x/2026/10/26/00121793017142024662579/Foto/i_20260111_171534016.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Antela igualó una trepidante pugna contra el Lalín (2-2)",
-      "link": "https://www.lavozdegalicia.es/noticia/ourense/2026/10/26/antela-igualo-trepidante-pugna-contra-lalin/0003_202610O26C5991.htm",
-      "imagen": "https://cflvdg.avoz.es/sc/SpJLIUiWd2gP3jgeo4LZNLqjZJ0=/768x/2026/10/25/00121792955942160412112/Foto/OO26C5F1_201628.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Dos rivales de altura para el Racing de Ferrol",
-      "link": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/26/dos-rivales-altura-racing-ferrol/00031793035098908895909.htm",
-      "imagen": "https://cflvdg.avoz.es/sc/ya48NvKnETEYIVa0R4CAdBe0i4s=/768x/2026/10/26/00121793034963447505869/Foto/f_20261024_193838001.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La cubierta de A Malata avanza con la instalación de las chapas",
-      "link": "https://www.lavozdegalicia.es/noticia/oparacing/2026/10/26/cubierta-malata-avanza-instalacion-chapas/00031793035319571883941.htm",
-      "imagen": "https://cflvdg.avoz.es/sc/tvNeHMPv04qavUNNskKY_f3SuRg=/768x/2026/10/26/00121793034782896340178/Foto/f_20261026_163649000.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "O Parrulo convierte A Malata en la clave contra uno de los grandes",
-      "link": "https://www.lavozdegalicia.es/noticia/ferrol/2026/10/26/parrulo-convierte-malata-clave-contra-grandes/00031793035462604881255.htm",
-      "imagen": "https://cflvdg.avoz.es/sc/9lxf114iR1giXMR03wTlcYhcpCI=/768x/2026/10/26/00121793034843809755677/Foto/f_20261025_160252000.jpg",
       "tipo": "imagen"
     }
   ]

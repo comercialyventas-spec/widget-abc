@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La dirección del viento está cambiando",
+      "link": "https://www.eldiario.es/contracorriente/direccion-viento-cambiando_132_13616480.html",
+      "imagen": "https://static.eldiario.es/clip/08af9838-3592-451b-a533-be54117eda2f_16-9-discover-aspect-ratio_default_0_x1046y345.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ábalos ante el Tribunal Constitucional",
       "link": "https://www.eldiario.es/contracorriente/abalos-tribunal-constitucional_132_13586057.html",
       "imagen": "https://static.eldiario.es/clip/bd7eba5f-2400-4208-b4cc-378c5447d4fe_16-9-discover-aspect-ratio_default_0_x1412y192.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La legislatura de la ley de amnistía",
       "link": "https://www.eldiario.es/contracorriente/legislatura-ley-amnistia_132_13536287.html",
       "imagen": "https://static.eldiario.es/clip/a91f6b15-0267-46b0-8941-483af77116c6_16-9-discover-aspect-ratio_default_0_x1160y931.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El otoño electoral alemán: no hay motivos para el pesimismo",
-      "link": "https://www.eldiario.es/contracorriente/otono-electoral-aleman-no-hay-motivos-pesimismo_132_13528629.html",
-      "imagen": "https://static.eldiario.es/clip/910f8fee-22f7-431f-873d-0d857689a6e3_16-9-discover-aspect-ratio_default_0_x926y658.jpg",
       "tipo": "imagen"
     }
   ]

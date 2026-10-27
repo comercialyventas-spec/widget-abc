@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un estudio alerta de que el 0,1 % más rico contamina más que casi la mitad de la humanidad",
+      "link": "https://efe.com/medio-ambiente/2026-10-27/estudio-ricos-contaminacion-humanidad/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/clima-1.webp?fit=900%2C600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La OEA urge a preparase contra las severas inundaciones y sequías que provocará El Niño",
       "link": "https://efe.com/medio-ambiente/2026-10-26/oea-preparacion-fenomeno-el-nino-lluvias-sequias/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/paraguay_lluvias.webp?fit=900%2C600&ssl=1",
@@ -28,12 +34,6 @@
       "titulo": "El tifón Champi comienza a alejarse de Taiwán, donde ha causado un muerto y más de 500 heridos",
       "link": "https://efe.com/medio-ambiente/tifon-champi-taiwan-china/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/TIFON-CHAMPI-TAIWAN-1.webp?fit=900%2C600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Vance sube a huracán de categoría 2 y provoca lluvias en Michoacán, Guerrero y Oaxaca",
-      "link": "https://efe.com/medio-ambiente/2026-10-24/vance-huracan-categoria-2-lluvias-mexico/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/HURACANES-PACIFICO-e1792800074432.webp?fit=796%2C597&ssl=1",
       "tipo": "imagen"
     }
   ]

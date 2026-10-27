@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Accidente entre dos coches en un pueblo de Zamora: hay un hombre herido",
+      "link": "https://www.zamora24horas.com/sucesos/accidente-entre-dos-coches-pueblo-zamora-hay-hombre-herido",
+      "imagen": "https://statics.zamora24horas.com/fe39255b-dfd4-47d6-9ece-92123a128307.webp?format=webp&width=320&quality=75",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Una menor resulta herida en una colisión por alcance entre dos vehículos en Zamora capital",
+      "link": "https://www.zamora24horas.com/sucesos/menor-resulta-herida-colision-alcance-entre-dos-vehiculos-zamora-capital",
+      "imagen": "https://statics.zamora24horas.com/9b1279ee-a234-4695-8ab2-b56820933f0f.webp?format=webp&width=320&quality=75",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Herida una mujer de unos 30 años tras volcar su turismo en la A-6 en Benavente",
       "link": "https://www.zamora24horas.com/sucesos/herida-mujer-unos-30-anos-tras-volcar-turismo-a-6-benavente",
       "imagen": "https://statics.zamora24horas.com/e6a96642-1a84-4eb3-ae93-39cd85ee5ab8.webp?format=webp&width=320&quality=75",
@@ -16,18 +28,6 @@
       "titulo": "Controlado el incendio de Pino del Oro, originado de forma intencionada",
       "link": "https://www.zamora24horas.com/sucesos/controlado-incendio-pino-oro-originado-forma-intencionada",
       "imagen": "https://statics.zamora24horas.com/4874a0f3-907a-4570-9cdf-9f99a3196504.webp?format=webp&width=320&quality=75",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las llamas vuelven a poner en alerta a Zamora: declarado un nuevo incendio forestal",
-      "link": "https://www.zamora24horas.com/sucesos/llamas-vuelven-poner-alerta-zamora-declarado-nuevo-incendio-forestal",
-      "imagen": "https://statics.zamora24horas.com/ccb01e00-a385-4615-9533-acc13daf30a9.webp?format=webp&width=320&quality=75",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un hombre resulta herido tras volcar su vehículo en la carretera vieja de Villaralbo",
-      "link": "https://www.zamora24horas.com/sucesos/hombre-resulta-herido-tras-volcar-vehiculo-carretera-vieja-villaralbo",
-      "imagen": "https://statics.zamora24horas.com/a24a4b4e-5574-46fc-888c-27a9087e972f.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
     }
   ]

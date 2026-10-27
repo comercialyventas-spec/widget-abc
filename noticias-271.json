@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Una fallecida y dos heridos en un atropello en el Paseo Zorrilla de Valladolid",
+      "link": "https://www.abc.es/espana/castilla-leon/fallecida-dos-heridos-atropello-paseo-zorrilla-valladolid-20261026223503-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/26/ambulancia555-RM6qorzyntHOFIn68pG3CEP-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Fallece en un accidente de tráfico el torero segoviano Andrés Hernando",
+      "link": "https://www.abc.es/espana/castilla-leon/muerto-choque-autobus-turismo-provincia-avila-20261026193247-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/26/torero-RjIu7mrSIwubWzdXUIuX0PI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Francisco del Amo, el mayor donante de sangre en Europa: «Tenemos que conseguir convencer a los jóvenes»",
       "link": "https://www.abc.es/espana/castilla-leon/francisco-amo-record-europeo-donaciones-sangre-conseguir-20261023081500-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/23/record-donaciones2-RuHUgGAVZPMEajlUbLrWGeO-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "El Ministerio de Cultura concede el Premio de Teatro Calderón de la Barca 2026 a la autora leonesa Isabel Fernández",
       "link": "https://www.abc.es/espana/castilla-leon/ministerio-cultura-concede-premio-teatro-calderon-barca-20261026145633-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/26/dramaturga-RHiZDe62UmbjHdddPt732ZO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Burgos agradece a su «hermano mayor» de Madrid la ayuda con los autobuses y estudia quedárselos",
-      "link": "https://www.abc.es/espana/castilla-leon/burgos-agradece-hermano-mayor-madrid-ayuda-autobuses-20261026202208-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/26/martinez-almeida-RFVd54tlNq5JYeOnUfQwMRN-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un muerto en el choque entre autobús y un turismo en la provincia de Ávila",
-      "link": "https://www.abc.es/espana/castilla-leon/muerto-choque-autobus-turismo-provincia-avila-20261026193247-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/26/emergencias-centro-RjIu7mrSIwubWzdXUIuX0PI-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
