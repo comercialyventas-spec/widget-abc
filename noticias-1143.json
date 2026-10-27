@@ -1,39 +1,39 @@
 {
   "noticias": [
     {
+      "titulo": "Vitória da democracia",
+      "link": "https://elpais.com/opinion/2026-10-26/vitoria-da-democracia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RGOTTZVSWRBAFARBLDQKKEGKJE.JPG?auth=e4d80e097a8c64b2c587e0a29288d90972b40a806045c4bd986dce6db556c6f0&width=414&height=233&focal=882%2C331",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Victoria de la democracia",
+      "link": "https://elpais.com/opinion/editoriales/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RGOTTZVSWRBAFARBLDQKKEGKJE.JPG?auth=e4d80e097a8c64b2c587e0a29288d90972b40a806045c4bd986dce6db556c6f0&width=414&height=311&focal=839%2C345",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Meta busca obtener hasta 95.000 millones de dólares para seguir financiando la carrera por la IA",
+      "link": "https://elpais.com/noticias/meta-platforms/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/JRJ6QXV5URASBFYRYCGZ7WC2DQ.jpg?auth=c7ef5ea3cd4ad7353896f7d89d8c12a769f948f452ba3ff801812375ca6f38e1&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los mercados brasileños viven una de las peores sesiones en casi tres décadas tras la inesperada victoria de Lula",
+      "link": "https://elpais.com/economia/2026-10-26/los-mercados-brasilenos-afrontan-una-caida-historica-tras-la-inesperada-victoria-de-lula.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NXWR5RIJZFHOHEF2OJELLDYLPQ.JPG?auth=8b896a06cb6b06f840b3af59540543c03a831395136a9a44a02a4677195d9a9f&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Moody’s mantiene la calificación de la deuda soberana de Francia en medio de la crisis política y el malestar social",
       "link": "https://elpais.com/noticias/deuda-publica/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/LXMEWSZ7TRAOVKHQCFI7PL76ZE.jpg?auth=3e4c0b41b597e7953a8ed2b3b0a018a20820e67defa03a6531dc929c91c62309&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/LXMEWSZ7TRAOVKHQCFI7PL76ZE.jpg?auth=3e4c0b41b597e7953a8ed2b3b0a018a20820e67defa03a6531dc929c91c62309&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
       "titulo": "¿Te han timado haciéndose pasar por tu banco? La justicia europea dice que tu entidad tendrá que devolverte el dinero",
       "link": "https://elpais.com/expres/2026-10-22/te-han-timado-haciendose-pasar-por-tu-banco-la-justicia-europea-dice-que-tu-banco-tendra-que-devolverte-el-dinero.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/5XW4WB6GMBD7ZL4LVKRFXVAAOU.jpg?auth=22fb091f7c9534923dbdba44918d6c04276c3830995ed424d4c7feddbe0954ce&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Revolut restablece sus servicios tras la caída de Google Cloud que ha impedido a los clientes acceder a sus cuentas",
-      "link": "https://elpais.com/economia/2026-10-20/revolut-sufre-una-caida-que-impide-a-sus-clientes-hacer-pagos-transferencias-y-acceder-a-sus-cuentas.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/YYF2C5EFLVJ2DNRGU3KRWEDN24.jpg?auth=b96e842eb47cfefb9ac70648f06c084e051e4afbc6531610518777dfb72c1867&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El inversor español tiene la sensibilidad a flor de piel",
-      "link": "https://elpais.com/noticias/finanzas-personales/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/CHK6YAFVFECQF34DA3E4BHZXEI.jpg?auth=fcc9d399c2961a7f0b05b7caa5da1a6dc62bed70ec8351944cf3d6e84d40fe25&width=414&height=311&focal=2856%2C1981",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Chile retira el vino de la mesa",
-      "link": "https://elpais.com/noticias/vino/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/TUOWA24UQVDQRP2DZWYWKPJWDY.jpg?auth=273614efee3df38a4039e0f4deda387ec2c790499c6cd597613fe93054491f23&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El supervisor de los futuros de EE UU entorpece la investigación de operaciones sospechosas con el petróleo",
-      "link": "https://elpais.com/economia/2026-10-13/el-supervisor-de-los-futuros-de-ee-uu-entorpece-la-investigacion-de-operaciones-sospechosas-con-el-petroleo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/6ST66JBNBNIDDGVFRJUQHNTNBA.jpg?auth=822bd291cec80568ca6c4c47c5e4d23d5acf2347fee3e44a17442b6e4a486220&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

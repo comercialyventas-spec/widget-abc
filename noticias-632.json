@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Registrado un terremoto de magnitud 2,6 con epicentro al noreste de León",
+      "link": "https://www.20minutos.es/castilla-y-leon/leon/registrado-un-terremoto-magnitud-2-6-con-epicentro-noreste-leon_7053797_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/27/6ae05a28bc03a7-91192280.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Muere una mujer y dos hombres resultan heridos en un atropello en Valladolid",
       "link": "https://www.20minutos.es/castilla-y-leon/valladolid/muere-una-mujer-dos-hombres-resultan-heridos-un-atropello-valladolid_7053750_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/08/6ac762a84da9a2-47852186.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "La Policía detiene a cuatro personas más por el homicidio de la anciana en Burgos y eleva a seis los implicados, tres de ellos menores",
       "link": "https://www.20minutos.es/castilla-y-leon/burgos/tres-nuevos-detenidos-por-muerte-una-anciana-maniatada-tras-un-robo-su-casa-burgos_7051466_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/16/6ad215fdc0dae9-79554452.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un hombre muere aplastado por la carga de una cinta transportadora en una bodega de Aranda de Duero",
-      "link": "https://www.20minutos.es/castilla-y-leon/burgos/un-hombre-muere-aplastado-por-carga-una-cinta-transportadora-una-bodega-aranda-duero_7051735_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2020/10/19/decretado-el-confinamiento-de-burgos-y-aranda-de-duero.jpeg",
       "tipo": "imagen"
     }
   ]

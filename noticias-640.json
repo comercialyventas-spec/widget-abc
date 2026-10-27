@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "El tipo medio de las hipotecas en España supera el 3% y pierde posiciones entre las más baratas de Europa",
+      "titulo": "El tipo medio de las hipotecas en España supera el 3% y pierden posiciones entre las más baratas de Europa",
       "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/hipotecas-espana-no-son-tan-baratas-tipo-medio_7053496_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/26/6adf4d4d523ee0-30405552.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El importe medio de las hipotecas marca nuevo récord en plena subida de los tipos de interés: \"Las familias deben endeudarse más\"",
+      "link": "https://www.20minutos.es/nacional/importe-medio-las-hipotecas-marca-nuevo-record-plena-subida-los-tipos-interes-las-familias-deben-endeudarse-mas_7053473_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2023/05/09/anuncio-inmobiliario.jpeg",
       "tipo": "imagen"
     },
     {
@@ -13,9 +19,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "¿Qué está pasando con la generación zeta?",
-      "link": "https://www.20minutos.es/lainformacion/opinion/que-esta-pasando-con-generacion-zeta_7053331_3.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/12/6a7c19a06c6e30-88181960.webp",
+      "titulo": "España bate un nuevo récord de ocupación en el tercer trimestre, pero el paro aumenta al 10,2%",
+      "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/espana-suma-73-600-empleos-tercer-trimestre-bate-un-nuevo-record-ocupacion-pero-paro-aumenta-10-2_7053792_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/04/06/69d382b5d9e199-45834665.png",
       "tipo": "imagen"
     },
     {
@@ -25,15 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Microsoft ofrecerá bajas voluntarias a 60.000 trabajadores para recortar costes y adaptarse a la era de la IA",
-      "link": "https://www.20minutos.es/lainformacion/empresas/microsoft-ofrecera-bajas-voluntarias-60-000-trabajadores-para-recortar-costes-adaptarse-era-ia_7053623_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/05/12/6a02b298e89846-71088728.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El automóvil chino 'pasa por la derecha' al japonés en Europa y ya mete miedo al coreano a nivel local",
-      "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/motor-chino-pasa-japones-europa-miedo-coreano-nivel-local_7053503_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/26/6adf625ac12a81-98774217.jpeg",
+      "titulo": "Asisa prestará asistencia sanitaria a Mugeju por un año más pero rechaza continuar en Isfas",
+      "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/asisa-continua-mutua-jueces-rechaza-militares_7053803_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/01/27/fachada-de-un-edificio-de-asisa.jpeg",
       "tipo": "imagen"
     }
   ]

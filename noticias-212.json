@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Algeciras, con el Día del Daño Cerebral Adquirido",
+      "link": "https://www.algecirasalminuto.es/sociedad/algeciras-con-el-dia-del-dano-cerebral-adquirido/",
+      "imagen": "https://www.algecirasalminuto.es/wp-content/uploads/2026/10/dano-cerebral-adquirido-1.webp",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "‘Quien no quiera trabajar que no coma’",
+      "link": "https://www.algecirasalminuto.es/opinion/quien-no-quiera-trabajar-que-no-coma/",
+      "imagen": "https://www.algecirasalminuto.es/wp-content/uploads/2021092310115458352.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Supremo envía a Algeciras la denuncia contra Landaluce",
       "link": "https://www.algecirasalminuto.es/politica/algeciras-otra-caso-landaluce/",
       "imagen": "https://www.algecirasalminuto.es/wp-content/uploads/2026/10/IMG_5343.jpeg",
@@ -22,18 +34,6 @@
       "titulo": "Algeciras retrasa la reapertura del Llano Amarillo al jueves 29",
       "link": "https://www.algecirasalminuto.es/puerto/algeciras-llano-abrira-el-jueves/",
       "imagen": "https://www.algecirasalminuto.es/wp-content/uploads/2026/10/Aparcamiento-Llano.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Algeciras, punto de encuentro para quienes buscan trabajo",
-      "link": "https://www.algecirasalminuto.es/municipal/algeciras-feria-empleo/",
-      "imagen": "https://www.algecirasalminuto.es/wp-content/uploads/2026/10/IMG_5971.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Algeciras destaca en el avistamiento de narcolanchas desde 2018",
-      "link": "https://www.algecirasalminuto.es/sociedad/algeciras-vista-narcolanchas/",
-      "imagen": "https://www.algecirasalminuto.es/wp-content/uploads/2026/10/IMG_5340.jpeg",
       "tipo": "imagen"
     }
   ]

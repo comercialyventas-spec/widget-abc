@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Guardianes de la noche: la desafiante profesión de los astrónomos de La Palma",
+      "link": "https://elpais.com/ciencia/2026-10-27/guardianes-de-la-noche-la-desafiante-profesion-de-los-astronomos-de-la-palma.html",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "Nicola Spaldin, favorita al Nobel de Física: “Un material superconductor a temperatura ambiente traería un cambio geopolítico mundial”",
       "link": "https://elpais.com/ciencia/2026-10-26/nicola-spaldin-favorita-al-nobel-de-fisica-un-material-superconductor-a-temperatura-ambiente-traeria-un-cambio-geopolitico-mundial.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/GHDPVEHIM5GGVIHLOBZDYRZBWA.jpg?auth=63dd743b78a35d70a0216b03577e304e92991fdb9cc05e06e94ca46b9173e26b&width=1200",
@@ -9,14 +15,14 @@
     {
       "titulo": "Las vacunas contra el cáncer: sí, pero aún no",
       "link": "https://elpais.com/salud-y-bienestar/2026-10-25/las-vacunas-contra-el-cancer-si-pero-aun-no.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/27STBYBVR5AOTNNGLIFM6ATI5I.jpg?auth=32ef136edb96645fbca7cc0ea9d5994ee297098e3dd4c2678044001722b2f37b&width=1200",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/27STBYBVR5AOTNNGLIFM6ATI5I.jpg?auth=32ef136edb96645fbca7cc0ea9d5994ee297098e3dd4c2678044001722b2f37b&width=414&height=233&smart=true",
       "tipo": "imagen"
     },
     {
       "titulo": "Brian May, guitarrista y astrofísico: “Ver un eclipse es como estar en el escenario: sales pensando ‘tengo que repetirlo”",
       "link": "https://elpais.com/ciencia/2026-10-25/brian-may-guitarrista-y-astrofisico-ver-un-eclipse-es-como-estar-en-el-escenario-sales-pensando-tengo-que-repetirlo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/AIZLLXEVPRFH3BZTDCPOB5ONE4.jpg?auth=4ba503d6e7bee7ab89f124c839a003960efb7c9d3bb02b50ba3461af7b83aee2&width=414&height=233&smart=true",
-      "tipo": "imagen"
+      "imagen": "",
+      "tipo": ""
     },
     {
       "titulo": "Carrera contrarreloj para estudiar las cuevas heladas de España antes de que desaparezcan: “Es un archivo único y lo vamos a perder”",
@@ -27,13 +33,7 @@
     {
       "titulo": "EE UU acusa a Rusia de realizar maniobras “peligrosas y amenazantes” con su satélite compatibles con armas espaciales",
       "link": "https://elpais.com/ciencia/2026-10-22/ee-uu-acusa-a-rusia-de-realizar-maniobras-peligrosas-y-amenazantes-con-su-satelite-compatibles-con-armas-espaciales.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/IGIAV2QXYJCK7GESBLPFPHBCTE.jpg?auth=404e1e47539bfdb0ef71c8ba35467a44dcd690f23320e330ee2bc4956e23bd64&width=1200",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El cielo que atrapó a Van Gogh: la Luna y Venus revelan la fecha en que observó ‘La noche estrellada’",
-      "link": "https://elpais.com/ciencia/2026-10-22/el-cielo-que-atrapo-a-van-gogh-la-luna-y-venus-revelan-la-fecha-en-que-observo-la-noche-estrellada.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/SQLM6WKIHRCS7D352MMJWKRO2A.jpg?auth=0e1b506709084b02b93871caab5ed918f657ba76198b9766db583984eec1db87&width=414&height=311&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/IGIAV2QXYJCK7GESBLPFPHBCTE.jpg?auth=404e1e47539bfdb0ef71c8ba35467a44dcd690f23320e330ee2bc4956e23bd64&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

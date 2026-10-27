@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "AEMET prevé un día de nubes y brumas con viento ligero en Barcelona, cielos despejándose por la tarde",
+      "link": "https://okdiario.com/cataluna/aemet-preve-un-dia-de-nubes-y-brumas-con-viento-ligero-en-barcelona-cielos-despejandose-por-la-tarde-20637155",
+      "imagen": "https://okdiario.com/img/2026/10/27/mujer-se-protege-del-sol-ante-la-mejora-del-tiempo.-europa-press.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Previsión AEMET: cielo poco nuboso y temperaturas estables en Barcelona hoy",
       "link": "https://okdiario.com/cataluna/prevision-aemet-cielo-poco-nuboso-y-temperaturas-estables-en-barcelona-hoy-20627793",
       "imagen": "https://okdiario.com/img/2026/01/12/nevadas-barcelona-interior.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Insultan y agreden en plena calle al alcalde de Sant Pere de Torelló tras exigirle una vivienda",
       "link": "https://okdiario.com/cataluna/agreden-alcalde-sant-pere-torello-exigirle-vivienda-municipal-20622338",
       "imagen": "https://okdiario.com/img/2026/10/24/jordi-fàbrega-colomer-interior-1.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "AEMET prevé cielos nubosos y chubascos en Barcelona, con ligera disminución de temperaturas",
-      "link": "https://okdiario.com/cataluna/aemet-preve-cielos-nubosos-y-chubascos-en-barcelona-con-ligera-disminucion-de-temperaturas-20620806",
-      "imagen": "https://okdiario.com/img/2026/01/12/lluvias-barcelona-interior.jpg",
       "tipo": "imagen"
     }
   ]

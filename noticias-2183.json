@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "La gran idea de un desarrollador catalán para dominar la búsqueda de 'bolets' desde casa",
+      "link": "https://www.elperiodico.com/es/catalunya/20261027/cataluna-setas-bolets-videojuego-bosque-programacion-ramon-forns-dv-135573889",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/aad3acd6-155f-48b6-9252-e3aee4f56592_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El lince ibérico comienza a atacar al milano negro en Doñana: este es el motivo",
+      "link": "https://www.elperiodico.com/es/medio-ambiente/20261027/lince-iberico-comienza-atacar-milano-135795612",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/cece4c63-7249-44cc-a095-3316b0526b5d_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Repunte de las emisiones de CO2 en España durante 2025 tras un paulatino descenso desde 2008",
+      "link": "https://www.elperiodico.com/es/medio-ambiente/20261027/repunte-emisiones-co2-espana-durante-135791722",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/912871fe-61e1-46a9-b54e-1822ec4bdc9a_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Protecció Civil ensayará una prealerta ES-Alert más suave en Santa Pau, en la Garrotxa, en los próximos días",
       "link": "https://www.elperiodico.com/es/sociedad/20261026/alerta-es-alert-mas-suave-ensayo-santa-pau-la-garrotxa-proteccio-civil-emergencias-cataluna-lluvias-torrenciales-135759053",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f14a5e3f-a616-4402-8e02-a9081dd1033e_media-libre-aspect-ratio_default_0.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Alertan de que el hambre vuelve a subir en el mundo tras años de mejoras",
       "link": "https://www.elperiodico.com/es/medio-ambiente/20261026/alertan-hambre-vuelve-subir-mundo-135759178",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/adce43fc-4c6b-4486-a245-7d814accacef_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El mercado de segunda mano, alternativa ecológica de consumo, crece sin parar en España: ya representa el 1,1% del PIB",
-      "link": "https://www.elperiodico.com/es/medio-ambiente/20261026/mercado-segunda-mano-alternativa-ecologica-135755214",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/656514eb-b7ef-4721-abdb-0c7ffd86b1f3_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Confirmado: las áreas marinas protegidas aumentan la variedad y abundancia de peces",
-      "link": "https://www.elperiodico.com/es/medio-ambiente/20261025/estudio-confirma-areas-marinas-protegidas-99873651",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9fe0128b-bd92-48b1-b215-673e72e04d6e_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los vertederos ilegales en plena naturaleza se duplican en tres años en Catalunya",
-      "link": "https://www.elperiodico.com/es/sociedad/20261025/vertederos-ilegales-bosque-naturaleza-duplican-cataluna-135531384",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8d9daaca-1bfb-456a-a966-1f2d095d6366_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
