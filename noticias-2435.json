@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La cepa Bundibugyo del ébola amenaza con extenderse en África mientras se busca una vacuna",
+      "link": "https://www.rtve.es/noticias/20261027/cepa-bundibugyo-ebola-extenderse-africa-busca-vacuna/17285386.shtml",
+      "imagen": "https://img.rtve.es/imagenes/cepa-bundibugyo-ebola-extenderse-africa-busca-vacuna/01793107161168.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Gobierno suaviza las exigencias ambientales para instalar centros de datos",
       "link": "https://www.rtve.es/noticias/20261026/gobierno-suaviza-exigencias-ambientales-para-instalar-centros-datos/17284570.shtml",
       "imagen": "https://img.rtve.es/imagenes/gobierno-suaviza-exigencias-ambientales-para-instalar-centros-datos/01793054676009.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Van Gogh no imaginó el cielo de 'La noche estrellada': la ciencia detrás de su obra más icónica",
       "link": "https://www.rtve.es/noticias/20261022/van-gogh-cielo-noche-estrellada-ciencia-obra-iconica/17277862.shtml",
       "imagen": "https://img.rtve.es/imagenes/van-gogh-cielo-noche-estrellada-ciencia-obra-iconica/01792666588788.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Inteligencia Artificial aplicada a las armas: una amenaza real que debe ser regulada",
-      "link": "https://www.rtve.es/noticias/20261022/inteligencia-artificial-armas-amenaza-real-regulada/17278458.shtml",
-      "imagen": "https://img.rtve.es/imagenes/inteligencia-artificial-armas-amenaza-real-regulada/01792608060661.jpg",
       "tipo": "imagen"
     }
   ]
