@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Plaza Catalunya de Gaudí",
+      "link": "https://www.lavanguardia.com/cultura/20261027/11669793/plaza-catalunya-gaudi.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Irán condena al cineasta Jafar Panahi a 5 años de prisión y la confiscación de sus bienes",
+      "link": "https://www.lavanguardia.com/cultura/20261027/11669598/iran-condena-cineasta-jafar-panahi-5-anos-prision-confiscacion-bienes.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/05/24/683239a39a17a.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Koršunovas convierte la violencia que sufren las mujeres en terapia teatral",
       "link": "https://www.lavanguardia.com/cultura/20261027/11669576/korsunovas-violencia-masclista-flaix-de-tardor.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/27/6ae0dd9d827ff.jpeg",
@@ -22,18 +34,6 @@
       "titulo": "Los besugos de Meléndes y el Warhol con marihuana: Artur Ramon celebra 100 años con obras de un millón de euros",
       "link": "https://www.lavanguardia.com/cultura/20261027/11669561/besugos-melendes-warhol-marihuana-artur-ramon-celebra-100-anos-obras-millon-euros.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/27/6ae0d8b0520c7.r_d.459-306-4891.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Dani Martín anuncia nuevas fechas para los conciertos aplazados de Barcelona",
-      "link": "https://www.lavanguardia.com/cultura/20261027/11669547/dani-martin-anuncia-nuevas-fechas-conciertos-aplazados-barcelona.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/24/6add2975b33a1.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Museu Egipci se sirve por primera vez de una sala inmersiva para viajar 4.000 años atrás",
-      "link": "https://www.lavanguardia.com/cultura/20261027/11669459/museu-egipci-sirve-primera-vez-sala-inmersiva-viajar-4-000-anos.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/27/6ae0bfeed64ed.r_d.2067-1378-1134.jpeg",
       "tipo": "imagen"
     }
   ]

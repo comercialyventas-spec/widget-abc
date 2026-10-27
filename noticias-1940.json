@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "OpenAI asegura haber resuelto parte de un Problema del Milenio gracias a la inteligencia artificial",
+      "link": "https://www.elmundo.es/tecnologia/2026/10/27/6ae0efe921efa071288b45a3.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/27/17931263444613.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "iPhone Duo: es el mejor plegable pero viene con importantes sacrificios",
       "link": "https://www.elmundo.es/tecnologia/creadores/2026/10/21/6ad8bfc821efa080018b4581.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/21/17925905760229.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El primer móvil con tres cámaras de 200 megapíxeles es de OPPO",
       "link": "https://www.elmundo.es/tecnologia/creadores/2026/10/22/6ada591221efa0e17c8b45a3.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926945929526.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "OpenAI crea una marca de agua invisible para detectar los textos escritos por ChatGPT",
-      "link": "https://www.elmundo.es/tecnologia/2026/10/08/6ac75b61fdddff08248b45a7.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/08/17914509989891.jpg",
       "tipo": "imagen"
     }
   ]

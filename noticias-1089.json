@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "Mayte, jubilada en ‘First Dates’, sobre el Imserso: “No necesitas ir como los borregos detrás de todo el grupo”",
-      "link": "https://www.elconfidencial.com/espana/2026-10-27/mayte-jubilada-firts-dates-imserso-1qrt-1tna_4454064/",
-      "imagen": "https://images.ecestaticos.com/B0K3w769500iLl_d8R8yO5e0pQk=/0x0:1500x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F50f%2F5f6%2F126%2F50f5f61268a0a2d152a06c93a3ab7d07.jpg",
+      "titulo": "Interceptadas 76 personas de origen magrebí y subsahariano en Formentera y Mallorca",
+      "link": "https://www.elconfidencial.com/espana/2026-10-27/interceptan-migrantes-formentera-mallorca-1tna-1tps_4454390/",
+      "imagen": "https://images.ecestaticos.com/VMP_By_u9zEm-0XmJzq-z_mpOfQ=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff94%2Fb29%2Ff71%2Ff94b29f710b11e327238ac5a42ee2eaf.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Tres personas trasladadas al hospital y otras dos ilesas tras una salida de vía",
+      "link": "https://www.elconfidencial.com/espana/2026-10-27/accidente-tres-heridos-isaba-1tna-1tps_4454386/",
+      "imagen": "https://images.ecestaticos.com/LoRuYff-zb_MaGgvLDwat8TyK_M=/0x0:1920x1280/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc8b%2F20e%2Fadc%2Fc8b20eadcdfbac4a5e5dbb61ab0bb2e7.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Sindicatos de Policía y Guardia Civil se encierran en Interior por su jubilación",
+      "link": "https://www.elconfidencial.com/espana/2026-10-27/policias-guardias-civiles-jubilacion-digna-1tna-1tps_4454318/",
+      "imagen": "https://images.ecestaticos.com/SJV2pttSxUH4U3UI9RZlxdOjAtg=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb0b%2F63e%2F1bc%2Fb0b63e1bc713867984c15f1cf0de01fd.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Un agente fuera de servicio detiene a un ladrón que robó de manera violenta una cadena de oro en Eivissa",
       "link": "https://www.elconfidencial.com/espana/2026-10-27/policia-detiene-ladron-cadena-oro-eivissa-1tna-1tps_4454223/",
       "imagen": "https://images.ecestaticos.com/n4WUi5b4kcl-bm-EVc3c0-l35pU=/0x0:1920x1231/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3d1%2F644%2F9ee%2F3d16449ee299a552e525086c7e12a418.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Dos detenidos por apuñalar a un joven a las puertas de un bar de copas de Magaluf",
-      "link": "https://www.elconfidencial.com/espana/2026-10-27/detenidos-apunalamiento-magaluf-intento-homicidio-1tna-1tps_4454213/",
-      "imagen": "https://images.ecestaticos.com/csVRfz7hAdT8RvwptVsbwQs6Pbg=/0x0:1620x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3a1%2Ffa1%2F8d8%2F3a1fa18d89d12d45eceeaff953168d37.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una persona herida al precipitarse desde tres metros de altura en el Torrent de Pareis (Baleares)",
-      "link": "https://www.elconfidencial.com/espana/2026-10-27/herida-torrent-pareis-rescate-haspital-1tna-1tps_4454177/",
-      "imagen": "https://images.ecestaticos.com/dKNdLqQRGuTEFv1RAAf2sDMZW0s=/0x0:1920x1280/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F1b1%2Fc3a%2Fc69%2F1b1c3ac69bed9252d066fcd2e6d49d5d.jpg",
       "tipo": "imagen"
     }
   ]

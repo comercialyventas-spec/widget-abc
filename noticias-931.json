@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "OpenAI asegura haber resuelto parte de un Problema del Milenio gracias a la inteligencia artificial",
+      "link": "https://www.elmundo.es/tecnologia/2026/10/27/6ae0efe921efa071288b45a3.html",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/27/17931263444613.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "iPhone Duo: es el mejor plegable pero viene con importantes sacrificios",
       "link": "https://www.elmundo.es/tecnologia/creadores/2026/10/21/6ad8bfc821efa080018b4581.html",
       "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/21/17925905760229.jpg",
@@ -9,7 +15,7 @@
     {
       "titulo": "Las reservas del iPhone Duo se agotan en minutos y quien quiera uno tendrá que esperar hasta 2027",
       "link": "https://www.elmundo.es/tecnologia/2026/10/19/6ad647effc6c83e1668b459b.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/19/17924279356270.jpg",
+      "imagen": "https://e01-phantom-elmundo.uecdn.es/3409d9354178f996bf2cb6c2b0384f4a/crop/306x151/1647x1045/resize/1200/f/webp/assets/multimedia/imagenes/2026/10/19/17924279356270.jpg",
       "tipo": "imagen"
     },
     {
@@ -27,13 +33,7 @@
     {
       "titulo": "El primer móvil con tres cámaras de 200 megapíxeles es de OPPO",
       "link": "https://www.elmundo.es/tecnologia/creadores/2026/10/22/6ada591221efa0e17c8b45a3.html",
-      "imagen": "https://e01-phantom-elmundo.uecdn.es/ef28443b80e1b95013c32efb68ba2086/resize/1200/f/webp/assets/multimedia/imagenes/2026/10/22/17926945929526.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "OpenAI crea una marca de agua invisible para detectar los textos escritos por ChatGPT",
-      "link": "https://www.elmundo.es/tecnologia/2026/10/08/6ac75b61fdddff08248b45a7.html",
-      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/08/17914509989891.jpg",
+      "imagen": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926945929526.jpg",
       "tipo": "imagen"
     }
   ]

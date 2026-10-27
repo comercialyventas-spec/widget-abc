@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "La Administración Trump anuncia que acogerá a Flávio Bolsonaro y a su familia en Estados Unidos",
+      "link": "https://www.elperiodico.com/es/internacional/20261027/anuncia-acogera-flavio-bolsonaro-familia-estados-unidos-135825779",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a98d1a25-be17-48d1-b72f-da71b970d15e_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La EPA y las dudas sobre el consumo",
+      "link": "https://www.elperiodico.com/es/opinion/20261027/epa-dudas-consumo-135823587",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6a859ab7-e963-4646-ae98-2a1db35f578e_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La venganza de los ayatolás: cómo la guerra de Irán podría hundir a Trump y los republicanos en las legislativas",
+      "link": "https://www.elperiodico.com/es/internacional/20261027/guerra-iran-coste-politico-midterm-hundir-trump-republicanos-venganza-ayatolas-135821349",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/092a4c99-216f-4c2c-ac3b-cf120914332e_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Gobierno de Francia apuesta por la firmeza policial frente a las protestas y por responsabilizar a los vándalos de los daños causados",
       "link": "https://www.elperiodico.com/es/internacional/20261027/gobierno-francia-apuesta-firmeza-policial-frente-protestas-135819639",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6e37141f-5278-46fa-af0b-a87ea76f6569_media-libre-aspect-ratio_default_0.jpg",
@@ -13,27 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Aliados de Flávio Bolsonaro dicen que el candidato ultra ha abandonado Brasil con destino a EEUU",
+      "titulo": "Flávio Bolsonaro huye a EEUU con la protección de la administración de Donald Trump",
       "link": "https://www.elperiodico.com/es/internacional/20261027/policia-federal-brasil-flavio-bolsonaro-huido-pais-135814398",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/717607fd-613b-4e87-aa88-832ab7c7537a_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Putin reanuda contactos con Europa y le exige respetar sus intereses para lograr la paz",
-      "link": "https://www.elperiodico.com/es/internacional/20261027/putin-reanuda-contactos-europa-suecia-y-noruega-criticas-dinamarca-135813857",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/cb772a79-dbe0-43df-b2a8-596809917e1e_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "En directo Disturbios en Barcelona y resto de España: última hora de los detenidos, alertas policiales y nuevas convocatorias en redes",
-      "link": "https://www.elperiodico.com/es/barcelona/20261027/disturbios-barcelona-ultima-hora-directo-manifestaciones-francia-italia-135485330",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/51c2dabd-d223-491f-92d8-b780329ad336_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Última hora de las elecciones en Israel 2026, en directo Votación, participación, futuro de Netanyahu y conflicto en Oriente Próximo",
-      "link": "https://www.elperiodico.com/es/internacional/20261027/elecciones-israel-guerra-iran-ultima-hora-directo-130265713",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/73ac52e4-0295-4558-9402-e61add4bc0c2_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Brasilia, conexión Madrid",
+      "link": "https://www.eldiario.es/opinion/tribuna-abierta/brasilia-conexion-madrid_129_13619467.html",
+      "imagen": "https://static.eldiario.es/clip/4c77f48c-d25e-4810-a580-89702a94ac60_avatar-200-aspect-ratio_default_0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Estamos en guerra",
       "link": "https://www.eldiario.es/opinion/tribuna-abierta/guerra_129_13607559.html",
       "imagen": "https://static.eldiario.es/clip/baa993a3-ff93-4019-9db2-b00ddfd769d8_avatar-200-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Violencia y libertad en la enseñanza",
       "link": "https://www.eldiario.es/opinion/tribuna-abierta/violencia-libertad-ensenanza_129_13600214.html",
       "imagen": "https://static.eldiario.es/clip/fc9262a4-36aa-47e8-abe9-4fb844be7da6_avatar-200-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sacrificios",
-      "link": "https://www.eldiario.es/opinion/tribuna-abierta/sacrificios_129_13599854.html",
-      "imagen": "https://static.eldiario.es/clip/2e8cd98e-2a5f-44d3-9fcb-ecc2b5cf471f_avatar-200-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

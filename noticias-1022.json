@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "La oposición israelí supera a la coalición de Netanyahu, pero necesitará a los partidos árabes para gobernar",
-      "link": "https://www.abc.es/internacional/oposicion-israeli-supera-coalicion-netanyahu-necesitara-partidos-20261027222051-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/27/eisenkot-RGxPXr3l6dvzvuyxcjms2GJ-1200x840@diario_abc.JPG"
-    },
-    {
       "titulo": "El Espanyol despide a Manolo tras la debacle copera ante el Sestao",
       "link": "https://www.abc.es/deportes/futbol/sestao-deja-espanyol-copa-manolo-sentenciado-20261027215957-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/27/00234f-Rq3K7uUGpbDxkvfzMzvOiqN-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/27/00234f-Rq3K7uUGpbDxkvfzMzvOiqN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Cómo nos manejamos y dónde lo destinamos?",
+      "link": "https://www.abc.es/economia/cuentas-corrientes/sabemos-espanoles-dinero-manejamos-destinamos-20261020011616-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/20/1439843515-U20827340738iWH-U302395565848cvH-1200x672@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La oposición israelí supera a la coalición de Netanyahu, pero necesitará a los partidos árabes para gobernar",
+      "link": "https://www.abc.es/internacional/oposicion-israeli-supera-coalicion-netanyahu-necesitara-partidos-20261027222051-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/27/eisenkot-RGxPXr3l6dvzvuyxcjms2GJ-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
     },
     {
       "titulo": "El Madrid comienza a infundir temor",
       "link": "https://www.abc.es/deportes/baloncesto/madrid-comienza-infundir-temor-20261027230122-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/27/1519402989-R5Wxafsr2EN3uYfIu3imwSK-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/27/1519402989-R5Wxafsr2EN3uYfIu3imwSK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Flávio Bolsonaro huye de Brasil y llega a EE.UU. para buscar la protección de Trump",
       "link": "https://www.abc.es/internacional/policia-brasil-investiga-flavio-bolsonaro-salio-pais-20261027141435-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/27/1519357676-khHH-U4027850476v0D-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/27/1519357676-khHH-U4027850476v0D-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "EE.UU forzará a Delcy a dejar la presidencia de Venezuela el próximo año, pero no le impedirá presentarse a las elecciones",
       "link": "https://www.abc.es/internacional/eeuu-forzara-delcy-dejar-presidencia-venezuela-proximo-20261027193806-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/27/1518531035-R4z4GIdaXXTALVd83o3HESN-1200x840@diario_abc.JPG"
-    },
-    {
-      "titulo": "Estopa: «La fama te hace olvidar de dónde vienes, hasta que llega el bofetón»",
-      "link": "https://www.abc.es/cultura/musica/estopa-fama-olvidarte-llega-bofeton-20261027200253-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/27/1-estopa-tania-REmMidHsT12aZGwaZ3ELB0I-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/27/1518531035-R4z4GIdaXXTALVd83o3HESN-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
     }
   ]
 }

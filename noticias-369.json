@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Ferrovial sube un 9% tras despejar las dudas de la viabilidad de su autopista en Tennessee (EEUU)",
+      "link": "https://www.elconfidencial.com/mercados/2026-10-27/ferrovial-concesion-carriles-express-tennessee-1tps_4453842/",
+      "imagen": "https://images.ecestaticos.com/7OG2iIGlPMIDf6xNEVkOOwXb0ZU=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3e4%2F636%2Ffac%2F3e4636fac77e7826bd649f7a93927199.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Deutsche Bank eleva la remuneración de su cuenta al 2,02% TAE y sube el máximo a retribuir",
+      "link": "https://www.elconfidencial.com/mercados/2026-10-27/deutsche-bank-cuenta-mejora-rentabilidad-remunerada-bonificacion-1hms_4453827/",
+      "imagen": "https://images.ecestaticos.com/geLe9xHtM42ZvRkpd4-1t6SryyE=/0x0:800x600/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fcdc%2F387%2F0c9%2Fcdc3870c9ff7969fa8a70f49b497d55f.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Anthropic presenta su solicitud para salir a bolsa en Wall Street",
+      "link": "https://www.elconfidencial.com/mercados/2026-10-26/anthropic-presenta-su-solicitud-para-salir-a-bolsa-en-wall-street_4453183/",
+      "imagen": "https://images.ecestaticos.com/jmoHLmSlgGuWPZJcLhREPEaRSQs=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc20%2F0df%2Fdd5%2Fc200dfdd55d43243ed7b14da7d55bb5a.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La inteligencia artificial pierde brillo en los mercados: los inversores vuelven a mirar los beneficios",
+      "link": "https://www.elconfidencial.com/mercados/2026-10-24/inteligencia-artificial-mercados-inversion-bra_4451445/",
+      "imagen": "https://images.ecestaticos.com/JPrvVAz3CBhJ8v0Lx13Yp1X67KA=/0x0:2000x1335/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2c6%2Fcf5%2F060%2F2c6cf50603cc0a87d5055c018b5aacbe.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "IX edición del foro 'Activos digitales', en imágenes",
       "link": "https://www.elconfidencial.com/mercados/2026-09-16/activos-digitales-sistema-financiero-tokenizacion-bra_4423491/",
       "imagen": "https://images.ecestaticos.com/13kzCuXGCusRqUvDuoVm3lXsSDg=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff4f%2Fcf8%2Fbcf%2Ff4fcf8bcf8b47ae2e745426d67c84226.jpg",
@@ -10,24 +34,6 @@
       "titulo": "El foro 'Emerging Markets Summit', en imágenes",
       "link": "https://www.elconfidencial.com/mercados/2026-03-02/inversion-mercados-emergentes-economia-bra_4308895/",
       "imagen": "https://images.ecestaticos.com/nVZmk2woaHlK0o3xCHwCAesAJlo=/0x0:1920x1078/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F573%2F0c9%2F332%2F5730c93327e4d07544d74cae8ea3628c.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Foro 'Ideas con Valor', en imágenes",
-      "link": "https://www.elconfidencial.com/mercados/2025-11-20/ideas-valor-accion-social-sostenibilidad-finanzas-bra_4250496/",
-      "imagen": "https://images.ecestaticos.com/ifWKkeuW-3Z6Bvgt7iPHBhTMrkI=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa27%2F00c%2Fb80%2Fa2700cb80d720b8829642fca49554af1.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "VIII edición del foro 'Activos Digitales', en imágenes",
-      "link": "https://www.elconfidencial.com/mercados/2025-09-17/galeria-activos-digitales-bra_4209402/",
-      "imagen": "https://images.ecestaticos.com/FxfJH-WTXOgoRVUO4rG0BIV_K_o=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2c5%2F429%2Fc68%2F2c5429c68edb6d4c9afd7481df1d3e7b.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Foro “Pautas para navegar un 2025 de incertidumbres y desafíos”, en imágenes",
-      "link": "https://www.elconfidencial.com/mercados/2025-06-26/foro-pautas-navegar-incertidumbres-desafios-imagenes-bra_4158990/",
-      "imagen": "https://images.ecestaticos.com/hrbXGFl5BS92OQsu--Q_fiNcpEI=/0x0:2000x1125/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F21a%2Ff80%2F713%2F21af807136e1e0c2c180b80e9f454a3d.jpg",
       "tipo": "imagen"
     }
   ]

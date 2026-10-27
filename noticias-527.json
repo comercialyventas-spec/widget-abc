@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Elecciones",
+      "link": "https://www.elconfidencialdigital.com/album/politica/elecciones/202610272110401497405.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/27/2026102721073178200.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "José Manuel Albares",
       "link": "https://www.elconfidencialdigital.com/album/politica/jose-manuel-albares/202610270001231497091.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/26/2026102623592015682.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Concentración de protesta en contra de la acampada de Sol (Madrid)",
       "link": "https://www.elconfidencialdigital.com/album/politica/concentracion-protesta-acampada-sol-madrid/202610191219331494885.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/19/2026101912190557698.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Acampada en la Puerta del Sol",
-      "link": "https://www.elconfidencialdigital.com/album/politica/acampada-puerta-sol/202610121458221492901.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/03/2026100300162722887.jpg",
       "tipo": "imagen"
     }
   ]
