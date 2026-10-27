@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Los Mossos investigan un robo con fuerza con alunizaje en una joyería de Barcelona",
+      "link": "https://www.lavanguardia.com/local/barcelona/20261027/11669338/mossos-investigan-robo-fuerza-alunizaje-joyeria-barcelona.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/13/6ace65bc12f12.r_d.1949-1299-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Una falsa amenaza de bomba en un vuelo Barcelona-Las Palmas de Gran Canaria provoca un amplio despliegue policial",
+      "link": "https://www.lavanguardia.com/sucesos/20261027/11669286/falsa-amenaza-bomba-vuelo-barcelona-palmas-gran-canaria-provoca-amplio-despliegue-policial.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/14/6a7e3f64c345d.r_d.2126-1417-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Catalunya registra una oleada de secuestros exprés entre narcotraficantes",
       "link": "https://www.lavanguardia.com/sucesos/20261027/11668805/catalunya-registra-oleada-secuestros-expres-narcotraficantes.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Guardia Urbana y Mossos alertan a comerciantes de Sants ante una nueva concentración",
       "link": "https://www.lavanguardia.com/sucesos/20261026/11668641/guardia-urbana-mossos-alertan-comerciantes-sants-nueva-concentracion.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/25/6ade217fcb18d.r_d.2000-1333-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Más de 330 detenidos en una macrooperación europea contra el narcotráfico, el contrabando y el robo de vehículos",
-      "link": "https://www.lavanguardia.com/sucesos/20261026/11668237/mas-330-detenidos-macrooperacion-europea-narcotrafico-contrabando-robo-vehiculos.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/06/12/684a9e6239f4f.r_d.1847-1178-1169.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Herido grave un niño de ocho años tras electrocutarse en una atracción de feria en Consuegra (Toledo)",
-      "link": "https://www.lavanguardia.com/sucesos/20261026/11668082/herido-grave-nino-ocho-anos-electrocutarse-atraccion-feria-consuegra-toledo.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/23/6ab38c7b88457.r_d.1250-859-2338.jpeg",
       "tipo": "imagen"
     }
   ]

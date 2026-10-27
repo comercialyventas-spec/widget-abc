@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Amazon y Bizum consolidan su cooperación celebrando su aniversario en España",
+      "link": "https://www.elconfidencial.com/empresas/2026-10-27/amazon-bizum-pago-prime-1hms-1svm_4454053/",
+      "imagen": "https://images.ecestaticos.com/DxDEaYkQ7PDZqMjrE4hUrV3k4iI=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F700%2F336%2F920%2F70033692084b87e01d001f73cdf052cb.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Renfe adjudica a Siemens 30 trenes de alta velocidad por 1.218 millones",
+      "link": "https://www.elconfidencial.com/empresas/2026-10-27/renfe-adjudica-a-siemens-30-trenes_4454010/",
+      "imagen": "https://images.ecestaticos.com/ICnseSKOrKZneV4kWzTRx0OdFTY=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3a7%2F572%2F7b3%2F3a75727b3651ec980a05c2c7624340e7.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Nvidia invertirá 3.000 millones de dólares en Meta y ampliarán su colaboración en IA",
       "link": "https://www.elconfidencial.com/empresas/2026-10-27/nvidia-invierte-meta-inteligencia-artificial-1tps_4453843/",
       "imagen": "https://images.ecestaticos.com/LRTH146j2cMK350LiN-vccZ9SXw=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7bf%2F5f8%2F82b%2F7bf5f882b8bd752118629406dcdcf305.jpg",
@@ -9,7 +21,7 @@
     {
       "titulo": "La editorial Vicens Vives planea despedir a la mitad de la plantilla y baraja el cierre de Gráficas Instar",
       "link": "https://www.elconfidencial.com/empresas/2026-10-27/vicens-vives-ere-graficas-instar-1tps_4453841/",
-      "imagen": "https://www.ecestaticos.com/imagestatic/clipping/e0b/eca/e0beca665ce0da5fd2163093e1836001/la-editorial-vicens-vives-anuncia-un-ere-para-hasta-122-personas-y-se-plantea-cerrar-graficas-instar.jpg?mtime=1793095621",
+      "imagen": "https://www.ecestaticos.com/imagestatic/clipping/e0b/eca/e0beca665ce0da5fd2163093e1836001/la-editorial-vicens-vives-planea-despedir-a-la-mitad-de-la-plantilla-y-baraja-el-cierre-de-graficas-instar.jpg?mtime=1793095621",
       "tipo": "imagen"
     },
     {
@@ -19,21 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "La editorial Vicens Vives anuncia un ERE para hasta 122 personas y se plantea cerrar Gráficas Instar",
+      "titulo": "La editorial Vicens Vives planea despedir a la mitad de la plantilla y baraja el cierre de Gráficas Instar",
       "link": "https://www.elconfidencial.com/empresas/2026-10-27/vicens-vives-ere-graficas-instar-1hms_4453792/",
       "imagen": "https://images.ecestaticos.com/XArWeBOV5UgvduKLaVKxHjvoNNU=/0x0:1600x720/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fee2%2F862%2F016%2Fee28620164a7c63dc5abdd805093141b.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ferrovial se dispara un 8% en bolsa en vísperas de resultados y tras ofrecer nuevos datos sobre la I-24",
-      "link": "https://www.elconfidencial.com/empresas/2026-10-27/cotizacion-ferrovial-autopista-i24-eeuu-resultados-1tps_4453722/",
-      "imagen": "https://images.ecestaticos.com/Er3R-O1YoNK5j3xBbcNuoA9v9vM=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F231%2Fa98%2Fa8d%2F231a98a8d0fa39d6daa9d3a0aade065d.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un problema técnico sin resolver deja a los clientes de Bankinter sin acceso a su web y app durante horas",
-      "link": "https://www.elconfidencial.com/empresas/2026-10-27/bankinter-problema-tecnico-acceso-web-app-horas_4453674/",
-      "imagen": "https://images.ecestaticos.com/1Tt7HTMyK5GvTgDGGrjy8Wha5N4=/0x0:850x567/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F615%2F1fc%2F85b%2F6151fc85b60117f54533d078f18c61df.jpg",
       "tipo": "imagen"
     }
   ]
