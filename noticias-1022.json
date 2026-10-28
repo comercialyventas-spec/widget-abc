@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Puente reconoce un fallo del sistema de seguridad y una «inexplicable» reanudación de la marcha",
+      "titulo": "Sánchez: «No es asumible sufrir dos accidentes ferroviarios en un mismo año»",
       "link": "https://www.abc.es/espana/accidente-ave-sevilla-madrid-toledo-directo-heridos-20261028094604-di.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/oscar-puente-dos-U2099176976075C-U4041633301g8F-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/pedro-U20991769760dx-U4041633301g8F-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Al menos 68 muertos en un nuevo choque de trenes",
+      "link": "https://www.abc.es/espana/accidente-ave-sevilla-madrid-toledo-directo-heridos-20261028094604-di.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/pedro-U20991769760dx-U4041633301g8F-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Susana Díaz, destrozada tras el accidente de tren: «Cojo ese AVE todos los días. Tendrán que asumir responsabilidades»",
+      "link": "https://www.abc.es/play/television/noticias/susana-diaz-destrozada-tras-accidente-tren-toledo-20261028154738-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/28/susana-diaz-tren-kTTF-U4050914576fWB-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Castilla-La Mancha y Madrid piden donaciones de sangre urgentes",
+      "link": "https://www.abc.es/espana/castillala-mancha-madrid-llaman-donacion-sangre-tras-20261028135017-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/HVtVfFjXwAAdegh-kAPG-U4049992116FeB-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las primeras identificaciones por ADN de las víctimas llegarán «en unas horas»",
+      "link": "https://www.abc.es/sociedad/primeras-identificaciones-adn-victimas-choque-trenes-toledo-20261028144051-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/10/28/1519435110-Re98b1YRzT9oD4mHSJJrH3M-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Lo que se sabe del accidente: víctimas, causas y reacciones",
       "link": "https://www.abc.es/espana/castilla-la-mancha/sabe-colision-trenes-yebenes-urda-toledo-victimas-20261028102818-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/1519425931-U201157731614qo-U4042399793v1H-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Castilla-La Mancha y Madrid llaman a la donación de sangre tras el accidente: «Puede salvar muchas vidas»",
-      "link": "https://www.abc.es/espana/castillala-mancha-madrid-llaman-donacion-sangre-tras-20261028135017-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/HVtVfFjXwAAdegh-kAPG-U4049992116FeB-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "¿Puede fallar la seguridad en la alta velocidad? Así funcionan los sistemas que gestionan la circulación",
-      "link": "https://www.abc.es/economia/puede-fallar-seguridad-alta-velocidad-funcionan-sistemas-20261028115835-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/28/alta-velocidadtrenes-RoI80xLtLYitZ6EghFk2IkK-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "El Rey: «Lo primero es transmitir a las familias nuestro pésame, nuestra tristeza, nuestro cariño»",
-      "link": "https://www.abc.es/espana/casa-rey-conmovidos-acompanamos-tristeza-familias-seres-20261028113701-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/foto-rey-RdHcufCwLrn6uaZ2tKUJReL-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Al menos 64 muertos en un nuevo choque de trenes",
-      "link": "https://www.abc.es/espana/accidente-ave-sevilla-madrid-toledo-directo-heridos-20261028094604-di.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/oscar-puente-dos-U2099176976075C-U4041633301g8F-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/1519425931-U201157731614qo-U4042399793v1H-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }

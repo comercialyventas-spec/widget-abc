@@ -1,15 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "En directo | Al menos 30 fallecidos tras el accidente entre dos trenes en Toledo",
+      "titulo": "Se elevan a 68 los fallecidos tras el accidente entre dos trenes en Toledo",
       "link": "https://www.ahoragranada.com/noticias/en-directo-al-menos-30-fallecidos-tras-el-choque-entre-dos-trenes-en-toledo/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/10/Imagen-accidente-trenes-Toledo-Guardia-Civil-746x420.jpg",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/10/Accidente-Ferroviario-Toledo-05.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Gobierno apunta a un fallo en el centro de control, que autorizó la marcha \"contra la normativa\"",
+      "link": "https://www.ahoragranada.com/noticias/el-gobierno-apunta-a-un-fallo-en-el-centro-de-control-que-autorizo-la-marcha-contra-la-normativa/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/10/Accidente-Ferroviario-Toledo-07-370x207.jpg",
       "tipo": "imagen"
     },
     {
       "titulo": "Seis rutas de Granada con Madrid y una con Barcelona, afectadas por el accidente ferroviario en Toledo",
       "link": "https://www.ahoragranada.com/noticias/seis-rutas-de-granada-con-madrid-y-una-con-barcelona-afectadas-por-el-accidente-ferroviario-en-toledo/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/10/Accidente-Ferroviario-01-Estacion-RENFE-746x419.jpg",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/10/Accidente-Ferroviario-01-Estacion-RENFE-370x207.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Suspendidos por el accidente de Toledo los partidos de la Copa del Rey de este miércoles, entre ellos el Cieza-Granada",
+      "link": "https://www.ahoragranada.com/noticias/suspendidos-por-el-accidente-de-toledo-los-partidos-de-la-copa-del-rey-de-este-miercoles-entre-ellos-el-cieza-granada/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/09/Copa-del-Rey-01-370x207.jpg",
       "tipo": "imagen"
     },
     {
@@ -21,19 +33,7 @@
     {
       "titulo": "Todas las candidaturas por Granada al Congreso y al Senado para el 29N",
       "link": "https://www.ahoragranada.com/noticias/todas-las-candidaturas-por-granada-al-congreso-y-al-senado-para-el-29n/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/10/Ambiente-de-gente-votando-en-las-elecciones-generales-julio-2023.-Instituto-Cervantes-AC-1-370x207.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Piden \"reforzar la seguridad\" en Pinos Puente tras los altercados con heridos por arma blanca y disparos",
-      "link": "https://www.ahoragranada.com/noticias/piden-reforzar-la-seguridad-en-pinos-puente-tras-los-altercados-con-heridos-por-arma-blanca-y-disparos/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/10/archivo-de-Pinos-Puente-desde-Cerro-Faquila-Enero-2026-AC-5-746x420.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Dos heridos por arma blanca en Pinos Puente en una noche de altercados y disparos entre dos familias",
-      "link": "https://www.ahoragranada.com/noticias/dos-heridos-por-arma-blanca-en-pinos-puente-en-una-noche-de-altercados-y-disparos-entre-dos-familias/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2020/02/Operación-Guardia-Civil-Antidroga-Pinos-Puente-370x207.gif",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/10/Ambiente-de-gente-votando-en-las-elecciones-generales-julio-2023.-Instituto-Cervantes-AC-1-746x420.jpg",
       "tipo": "imagen"
     }
   ]

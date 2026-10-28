@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "Última hora del accidente de trenes en Toledo, en directo | Al menos 30 muertos en el choque de trenes en Urda",
+      "titulo": "Última hora del accidente de trenes en Toledo, en directo | Al menos 68 muertos en el choque de trenes de alta velocidad en Urda",
       "link": "https://elpais.com/espana/2026-10-28/ultima-hora-del-choque-entre-dos-trenes-en-los-yebenes-toledo-en-directo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/4VT4667TARG4DPDCVGFT5JJCZQ.jpeg?auth=87a2437ce4cdc6efefdeb2bac6dd9c8738be02afcd1fb38206c7a2b92b3f429b",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/EAH5X4WX7RHFHGS6KJBZGZGY6U.jpg?auth=bfa9fbb9daf8b54b849f4c9b27af68013220d660acd20e2448855325bbdba60e",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El ministro de Transportes, Óscar Puente, califica de inexplicable que el centro de control permitiera al AVE reanudar la marcha con normalidad cuando el Iryo seguía parado",
+      "link": "https://elpais.com/economia/2026-10-28/el-ministro-de-transportes-oscar-puente-comparece-para-dar-detalles-sobre-el-accidente-ferroviario-de-urda.html",
+      "imagen": "https://www.youtube.com/watch?v=Uy595uSWfJ8",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Por qué chocaron los trenes? La investigación apunta a una avería informática y un error humano de un controlador de Adif",
+      "link": "https://elpais.com/espana/2026-10-28/por-que-han-chocado-dos-trenes-en-toledo.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261028/1230882_091607_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Inquietud por la exministra Fátima Báñez, que viajaba en uno de los trenes accidentados en Toledo",
+      "link": "https://elpais.com/economia/2026-10-28/inquietud-por-la-exministra-fatima-banez-que-viajaba-en-uno-de-los-trenes-accidentados-en-toledo.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261028/1231034_131141_video_1800.mp4",
       "tipo": "imagen"
     },
     {
@@ -13,27 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Al menos 30 muertos tras el choque entre un AVE de Renfe y un tren Iryo a la altura de Urda, en Toledo",
-      "link": "https://elpais.com/espana/2026-10-28/adif-suspende-la-circulacion-de-la-linea-de-alta-velocidad-entre-madrid-y-andalucia-por-un-alcance-entre-dos-trenes.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261028/1230917_103359_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Por qué han chocado dos trenes en Toledo? La investigación apunta a una orden errónea al AVE desde el centro de control",
-      "link": "https://elpais.com/espana/2026-10-28/por-que-han-chocado-dos-trenes-en-toledo.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261028/1230882_091607_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El accidente de dos trenes de alta velocidad en Toledo, en imágenes",
-      "link": "https://elpais.com/espana/2026-10-28/el-accidente-de-dos-trenes-de-alta-velocidad-en-toledo-en-imagenes.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/KM2JRU7IQ5GF3AJY7LPCEE4MS4.jpg?auth=39119b981e9c7e9b9469b8279a31b9c46a5e1ebcd00f30946813ebabf37af36d",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Banco Finantia amplía su oferta de ahorro con un depósito a seis meses que renta un 3,25% TAE",
-      "link": "https://cincodias.elpais.com/mercados-financieros/2026-10-28/banco-finantia-amplia-su-oferta-de-ahorro-con-un-deposito-a-seis-meses-que-renta-un-325-tae.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/PMBAMTPNW5C2LIBFEM6WZCWKKY.jpg?auth=74a7253040d3a5e47ed924a3185b841417660f3a14000aa0b54dfe0d43d4f31d",
+      "titulo": "¿Cómo ha sido el choque? Mapas y datos del accidente de tren en Toledo",
+      "link": "https://elpais.com/espana/2026-10-28/donde-ha-sido-el-choque-mapas-y-primeras-informaciones-del-accidente-de-tren-en-toledo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/EAH5X4WX7RHFHGS6KJBZGZGY6U.jpg",
       "tipo": "imagen"
     }
   ]

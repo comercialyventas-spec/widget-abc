@@ -1,7 +1,19 @@
 {
   "noticias": [
     {
-      "titulo": "Herido un motorista en Zamora capital tras estamparse contra el escaparate de una tienda",
+      "titulo": "La colisión de dos trenes en Toledo, el accidente ferroviario más grave desde el de Angrois donde murieron dos zamoranos",
+      "link": "https://www.zamora24horas.com/sucesos/colision-dos-trenes-toledo-accidente-ferroviario-grave-angrois-murieron-dos-zamoranos",
+      "imagen": "https://statics.zamora24horas.com/ddbc1ad4-c851-450f-8f17-3a2ab858bdbc.webp?format=webp&width=320&quality=75",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Herida una mujer de unos 40 años tras ser atropellada junto a la estación de autobuses de Benavente",
+      "link": "https://www.zamora24horas.com/sucesos/herida-mujer-unos-40-anos-junto-estacion-autobuses-benavente",
+      "imagen": "https://statics.zamora24horas.com/eb333668-04c5-4bb7-8d75-38aa3ec5eacd.webp?format=webp&width=320&quality=75",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Imagen de los daños",
       "link": "https://www.zamora24horas.com/sucesos/herido-motorista-zamora-capital-tras-estamparse-escaparate-tienda",
       "imagen": "https://statics.zamora24horas.com/a8490c1a-1ec3-4b5a-ac71-504bd187df17.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
@@ -13,21 +25,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Imagen de archivo de la Policía Nacional en la plaza Alemania",
+      "titulo": "Se hace pasar por una trabajadora social para robar las joyas de una mujer mayor en Zamora",
       "link": "https://www.zamora24horas.com/sucesos/hace-pasar-trabajadora-social-robar-joyas-mujer-mayor-zamora",
       "imagen": "https://statics.zamora24horas.com/b45f0108-2f13-43e5-bb46-3719308b79c9.webp?format=webp&width=320&quality=75",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Detenida una madre por la sustracción sus tres hijos menores en Zamora",
-      "link": "https://www.zamora24horas.com/sucesos/detenida-madre-sustraccion-tres-hijos-menores-zamora",
-      "imagen": "https://statics.zamora24horas.com/bc2e5743-7aa3-41fe-a4c1-a2db78511e53.webp?format=webp&width=320&quality=75",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "SUCESOS | Herido un motorista de unos 50 años tras sufrir un accidente en Cardenal Cisneros",
-      "link": "https://www.zamora24horas.com/sucesos/herido-motorista-unos-50-anos-tras-sufrir-accidente-cardenal-cisneros",
-      "imagen": "https://statics.zamora24horas.com/05e668eb-ebe4-4fb6-80ee-b7662b81f1a3.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
     }
   ]

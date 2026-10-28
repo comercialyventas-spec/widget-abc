@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "Última hora del accidente de trenes en Toledo, en directo | Al menos 30 muertos en el choque de trenes en Urda",
+      "titulo": "Última hora del accidente de trenes en Toledo, en directo | Al menos 68 muertos en el choque de trenes de alta velocidad en Urda",
       "link": "https://elpais.com/espana/2026-10-28/ultima-hora-del-choque-entre-dos-trenes-en-los-yebenes-toledo-en-directo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/4VT4667TARG4DPDCVGFT5JJCZQ.jpeg?auth=87a2437ce4cdc6efefdeb2bac6dd9c8738be02afcd1fb38206c7a2b92b3f429b",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/EAH5X4WX7RHFHGS6KJBZGZGY6U.jpg?auth=bfa9fbb9daf8b54b849f4c9b27af68013220d660acd20e2448855325bbdba60e",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Crónica de un periodista de EL PAÍS que viajaba dentro del AVE: “Hemos salido despedidos”",
+      "link": "https://elpais.com/espana/2026-10-28/un-testigo-del-accidente-la-gente-estaba-intentando-salir-por-las-ventanas.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261028/1230967_113043_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Cómo ha sido el choque? Mapas y datos del accidente de tren en Toledo",
+      "link": "https://elpais.com/espana/2026-10-28/donde-ha-sido-el-choque-mapas-y-primeras-informaciones-del-accidente-de-tren-en-toledo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/EAH5X4WX7RHFHGS6KJBZGZGY6U.jpg",
       "tipo": "imagen"
     },
     {
@@ -13,27 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "¿Por qué han chocado dos trenes en Toledo? La investigación apunta a una orden errónea al AVE desde el centro de control",
+      "titulo": "“He salido disparada donde las maletas. Todo está destrozado”: hablan los supervivientes del accidente de Toledo",
+      "link": "https://elpais.com/espana/2026-10-28/he-salido-disparada-donde-las-maletas-todo-esta-destrozado-hablan-los-supervivientes-del-accidente-de-toledo.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261028/1230955_111832_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Por qué chocaron los trenes? La investigación apunta a una avería informática y un error humano de un controlador de Adif",
       "link": "https://elpais.com/espana/2026-10-28/por-que-han-chocado-dos-trenes-en-toledo.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261028/1230882_091607_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Dónde ha sido el choque? Mapas y primeros datos del accidente de tren en Toledo",
-      "link": "https://elpais.com/espana/2026-10-28/donde-ha-sido-el-choque-mapas-y-primeras-informaciones-del-accidente-de-tren-en-toledo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ZGJYICU64VEWTHEF7T6OD46ML4.png?auth=1e3fd868f12685579f1106fcb0e599d775838951b8c7f9169d2feae9bfeffcae&width=1200",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Heridos junto a la vía y guardias civiles intentando abrir los vagones: las imágenes grabadas por un pasajero tras el choque de trenes de Toledo",
-      "link": "https://elpais.com/espana/2026-10-28/heridos-junto-a-la-via-y-guardias-civiles-intentando-abrir-los-vagones-las-imagenes-grabadas-por-un-pasajero-tras-el-choque-de-trenes-de-toledo.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261028/1230917_103359_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El accidente de trenes de Toledo, desde la cafetería del AVE siniestrado: “Los viajeros han salido despedidos”",
-      "link": "https://elpais.com/espana/2026-10-28/un-testigo-del-accidente-la-gente-estaba-intentando-salir-por-las-ventanas.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/YTBZEMEE5BGCTFGI76MTB5X74Y.jpeg?auth=11758397c72718d0b952f6d9c2bc25d73715ec8dc8155a6432de7d001bb4dba3",
       "tipo": "imagen"
     }
   ]
