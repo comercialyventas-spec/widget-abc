@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Microsoft dispara su beneficio un 32% apoyada en la buena marcha de su negocio relacionado con la IA",
+      "link": "https://elpais.com/noticias/microsoft/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ZTEC5BIFQVPL7LY4P4JG4XI7L4.jpg?auth=e186a26defcea966b2dfc404cebf911b19fefb53a14d1bef0f7a2894504b81da&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El mercado da una tregua a Lula mientras escruta los primeros pasos de su política fiscal",
+      "link": "https://elpais.com/noticias/elecciones-brasil/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/HXEK62LVAFP37GOETB5HO2475M.jpg?auth=c42faaa680ee786a11869c7ae01237b1ac5a46c4212c84b2e611affea241f58d&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Vitória da democracia",
       "link": "https://elpais.com/opinion/2026-10-26/vitoria-da-democracia.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/RGOTTZVSWRBAFARBLDQKKEGKJE.JPG?auth=e4d80e097a8c64b2c587e0a29288d90972b40a806045c4bd986dce6db556c6f0&width=414&height=233&focal=882%2C331",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RGOTTZVSWRBAFARBLDQKKEGKJE.JPG?auth=e4d80e097a8c64b2c587e0a29288d90972b40a806045c4bd986dce6db556c6f0&width=414&height=311&focal=882%2C331",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Los mercados brasileños viven una de las peores sesiones en casi tres décadas tras la inesperada victoria de Lula",
       "link": "https://elpais.com/economia/2026-10-26/los-mercados-brasilenos-afrontan-una-caida-historica-tras-la-inesperada-victoria-de-lula.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/NXWR5RIJZFHOHEF2OJELLDYLPQ.JPG?auth=8b896a06cb6b06f840b3af59540543c03a831395136a9a44a02a4677195d9a9f&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Moody’s mantiene la calificación de la deuda soberana de Francia en medio de la crisis política y el malestar social",
-      "link": "https://elpais.com/noticias/deuda-publica/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/LXMEWSZ7TRAOVKHQCFI7PL76ZE.jpg?auth=3e4c0b41b597e7953a8ed2b3b0a018a20820e67defa03a6531dc929c91c62309&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Te han timado haciéndose pasar por tu banco? La justicia europea dice que tu entidad tendrá que devolverte el dinero",
-      "link": "https://elpais.com/expres/2026-10-22/te-han-timado-haciendose-pasar-por-tu-banco-la-justicia-europea-dice-que-tu-banco-tendra-que-devolverte-el-dinero.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/5XW4WB6GMBD7ZL4LVKRFXVAAOU.jpg?auth=22fb091f7c9534923dbdba44918d6c04276c3830995ed424d4c7feddbe0954ce&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

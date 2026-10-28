@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Al menos 68 muertos y 15 heridos muy graves tras chocar dos trenes de alta velocidad en Toledo",
+      "titulo": "Al menos 68 muertos y 107 heridos, 21 en la UCI, tras chocar dos trenes de alta velocidad en Toledo",
       "link": "https://www.europapress.es/castilla-lamancha/noticia-dos-trenes-colisionan-estacion-urda-20261028092433.html",
       "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261028092433_600x400_0_0_0_0_bgfff_v8.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Política, economía y ciudadanía se unen en una Cibeles de luto que llora a los que ya no están",
+      "link": "https://www.europapress.es/madrid/noticia-politica-economia-ciudadania-unen-cibeles-luto-llora-ya-no-estan-20261028210756.html",
+      "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261028210756_400_102_102_0_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -15,7 +21,7 @@
     {
       "titulo": "Madrileños ofrecen una \"impresionante\" respuesta a la llamada para donar sangre y se pide ya acudir mañana",
       "link": "https://www.europapress.es/madrid/noticia-madrilenos-ofrecen-impresionante-respuesta-llamada-donar-sangre-pide-ya-acudir-manana-20261028171917.html",
-      "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261028171917_400_128_128_0_0.jpg",
+      "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261028171917_617_130_130_0_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Protección Civil reconoce que la coordinación es \"complicada\" y apunta a que la mayoría de pasajeros serían de Madrid",
       "link": "https://www.europapress.es/madrid/noticia-proteccion-civil-reconoce-coordinacion-complicada-apunta-quela-mayoria-pasajeros-serian-madrid-20261028135051.html",
       "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261028135051_617_104_104_0_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Comunidad activa La Paz, 12 de Octubre y Hospital de Getafe para atender a heridos del accidente",
-      "link": "https://www.europapress.es/madrid/noticia-comunidad-pone-disposicion-hospitales-atender-heridos-trabaja-ya-traslados-20261028111137.html",
-      "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261028111137_617_104_104_0_0.jpg",
       "tipo": "imagen"
     }
   ]

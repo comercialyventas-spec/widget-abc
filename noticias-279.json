@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "La manifestación por el accidente en Urda frente al Ministerio de Transportes acaba con disturbios y cargas policiales",
+      "link": "https://www.abc.es/espana/madrid/manifestacion-accidente-urda-frente-sede-ministerio-transportes-20261028213319-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/1519449998-kkLG-U4063889312uBD-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los ángeles de la guarda de la plaza de la Luna: dos policías salvan la vida a un bebé de cuatro meses que no respiraba",
+      "link": "https://www.abc.es/espana/madrid/angeles-guarda-plaza-luna-dos-policias-salvan-20261027204336-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/27/policias-bebe1-ROhbOu8L40wFnE6VeKS3w8J-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Puente reconoce un fallo del sistema de seguridad y una «inexplicable» reanudación de la marcha, pero rechaza dimitir",
       "link": "https://www.abc.es/espana/madrid/puente-reconoce-fallo-sistema-seguridad-inexplicable-reanudacion-20261028152138-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/1519439005-RkfzD1yoj9d1KwSp9UfkEzO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Agotados los coches de alquiler en Atocha tras la catástrofe en Urda: «Me pilló la dana, Adamuz y el apagón, esto ya me lo conozco»",
+      "link": "https://www.abc.es/espana/madrid/afectados-accidente-ferroviario-buscan-alternativas-llegar-destino-20261028192628-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/1519428379-RxiC7i4Xfay2R7Zhmfo8lGP-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "Ayuso decreta tres días de luto en Madrid en una jornada aciaga, en la que se han estrenado dos consejeros",
       "link": "https://www.abc.es/espana/madrid/gobierno-ayuso-estrena-dos-consejeros-garcia-gomez-20261028114844-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/ayuso-pp2-RckhdEvR7fmaCHHE8Oy3mGL-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Abascal forma una lista de Vox por Madrid repleta de cargos locales y la cierra con Isabel Pérez Moñino",
-      "link": "https://www.abc.es/espana/madrid/abascal-forma-lista-vox-madrid-repleta-cargos-20261028175016-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/vox-isabel-RgJ8NyvqQtdlsqaDIc25BlO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las donaciones de sangre para los afectados en Urda son tan numerosas en Madrid que Ayuso pide a los voluntarios que «esperen a mañana»",
-      "link": "https://www.abc.es/espana/madrid/donaciones-sangre-afectados-accidente-urda-numerosas-madrid-20261028164149-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/1519432245-k1nE-U4056151799l5F-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Guerra de cifras entre Almeida y Reyes Maroto por la construcción de vivienda en Madrid de Sánchez",
-      "link": "https://www.abc.es/espana/madrid/almeida-desmonta-defensa-reyes-maroto-sobre-inversion-20261027150702-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/27/1505271374_20261027150608-RfeKKrFXrLqZNIBYpIPvKsN-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

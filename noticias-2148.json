@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Los Diablos Azules",
+      "link": "https://www.infolibre.es/cultura/los-diablos-azules/",
+      "imagen": "https://static.infolibre.es/clip/a3570dbc-049c-4d7f-b168-d63971d47315_source-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cine 26 de octubre de 2026 - 06:00 h",
       "link": "https://www.infolibre.es/cultura/cine/",
       "imagen": "https://www.infolibre.es/assets/img/logos/infolibre-logo-square.png?id=f9423636ca6a2fda65b6",
@@ -16,12 +22,6 @@
       "titulo": "Teatro 22 de octubre de 2026 - 13:44 h",
       "link": "https://www.infolibre.es/cultura/teatro/",
       "imagen": "https://static.infolibre.es/clip/d9f65299-cf1e-4575-ac58-ab491e7a18a6_16-9-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los Diablos Azules",
-      "link": "https://www.infolibre.es/cultura/los-diablos-azules/",
-      "imagen": "https://static.infolibre.es/clip/a3570dbc-049c-4d7f-b168-d63971d47315_source-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {

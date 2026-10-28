@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Incidencia en la calzada: Plaza San Juan de la Cruz. Afectadas 11 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261029-IC-Rios-Rosas.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Finalización de obras: glorieta carretera Fuencarral a Alcobendas sobre M40. Afectadas 3 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261028-FO-Glta-Ctra-Fuencarral-Alcobendas.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -27,12 +33,6 @@
     {
       "titulo": "Concentración en Alcalá. Afectadas 11 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261028-C-Alcala.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Obras: Plaza de la Independencia. Afectadas 4 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261031-O-Plaza-Independencia.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

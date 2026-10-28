@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "El “Picasso de las calabazas” sorprende con sus esculturas en California",
-      "link": "https://www.lavanguardia.com/vida/20261027/11668786/picasso-calabazas-sorprende-esculturas-california.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/26/6adfb123748d2.jpeg",
+      "titulo": "La vuelta al mundo en vertical: entre las auroras y el miedo a perder la vida",
+      "link": "https://www.lavanguardia.com/videos/claves-del-dia/20261028/11670446/vuelta-mundo-vertical-auroras-miedo-perder-vida.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/28/6ae2255759525.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "«Controlar el Senado no te permite legislar, pero sí hacer ruido»",
+      "link": "https://www.lavanguardia.com/videos/claves-del-dia/20261027/11669578/controlar-senado-te-permite-legislar-ruido.html",
+      "imagen": "https://www.lavanguardia.com/files/image_936_458/uploads/2026/10/27/6ae0dd06b501c.png",
       "tipo": "imagen"
     },
     {
@@ -19,21 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Ucrania, atrapada entre los intereses de Trump y la incertidumbre política europea",
-      "link": "https://www.lavanguardia.com/videos/claves-del-dia/20261021/11664877/ucrania-atrapada-intereses-trump-incertidumbre-politica-europea.html",
-      "imagen": "https://www.lavanguardia.com/files/image_936_458/uploads/2026/10/21/6ad8fcd89021d.jpeg",
+      "titulo": "Feijóo ofrece una declaración tras el accidente ferroviario en Toledo",
+      "link": "https://www.lavanguardia.com/politica/20261028/11670370/feijoo-ofrece-declaracion-accidente-ferroviario-toledo.html",
+      "imagen": "https://www.lavanguardia.com/files/image_936_458/uploads/2026/10/28/6ae21363c1517.jpeg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Un mando dirige y da instrucciones a los vándalos para sembrar el caos en Barcelona",
-      "link": "https://www.lavanguardia.com/sucesos/20261027/11668493/mando-dirige-da-instrucciones-vandalos-sembrar-caos-barcelona.html",
-      "imagen": "https://www.lavanguardia.com/files/image_936_458/uploads/2026/10/26/6adf8596c6526.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Por qué le ganó la partida Mourinho a Flick?",
-      "link": "https://www.lavanguardia.com/deportes/20261026/11668506/le-gano-partida-mourinho-flick.html",
-      "imagen": "https://www.lavanguardia.com/files/image_936_458/uploads/2026/10/26/6adf5b93cde0a.jpeg",
+      "titulo": "Óscar Puente comparece tras el accidente ferroviario en Toledo",
+      "link": "https://www.lavanguardia.com/local/20261028/11670248/oscar-puente-comparece-accidente-ferroviario-toledo.html",
+      "imagen": "https://www.lavanguardia.com/files/image_936_458/uploads/2026/10/28/6ae1ed748afda.jpeg",
       "tipo": "imagen"
     }
   ]

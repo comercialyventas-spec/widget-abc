@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "OpenAI planta a Nvidia: la creadora de ChatGPT planea comprar los chips de IA de Google para entrenar a sus modelos",
+      "link": "https://www.abc.es/tecnologia/openai-planta-nvidia-creadora-chatgpt-planea-comprar-20261028203222-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/28/sam%20altman-RoAJ54EtcE8Ya0zC327Y1bI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Bill Gates, cofundador de Microsoft: «La estructura de incentivos es incorrecta, se trata de contratar al robot, despedir al humano y no mirar atrás»",
       "link": "https://www.abc.es/tecnologia/bill-gates-cofundador-microsoft-estructura-incentivos-incorrecta-20261027195416-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/27/gates-relaciones-R6zMUv05W6QEvBVo5E3hBdO-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Grok muestra solo siete minutos de su 'Odisea' generada con IA, la película prometida por Elon Musk",
       "link": "https://www.abc.es/tecnologia/grok-muestra-solo-siete-minutos-odisea-generada-20261026194940-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/26/odisea-grok-2-RfHrH6S5oVFBJVsiOgIu07L-1200x840@diario_abc.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Apple anuncia el iPad mini 8 con pantalla OLED: precio y cuándo sale a la venta",
-      "link": "https://www.abc.es/tecnologia/electronica/apple-anuncia-ipad-mini-pantalla-oled-precio-20261026190614-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/26/apple-ipad-mini-8-RvmSUcKSTLW3ezcvrr6MikO-1200x840@diario_abc.png",
       "tipo": "imagen"
     }
   ]

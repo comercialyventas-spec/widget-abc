@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Catástrofes inasumibles",
+      "link": "https://elpais.com/opinion/2026-10-28/catastrofes-inasumibles.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/HA5EVI2BZFCFZC2LF3CG2SU3LY.jpg?auth=c4f0adc15494f684b121759030d9a13b730c04cff817856dd6380363462f7b8e",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Riki Blanco: una respuesta compleja",
       "link": "https://elpais.com/opinion/2026-10-28/riki-blanco-una-respuesta-compleja.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/SA4WVHSFJFCT3IRKOUFKWEITBU.jpg?auth=f6b6521c764503dae7966b881feb4eab387c7787635d1db856f80750b3557ce1",
@@ -28,12 +34,6 @@
       "titulo": "Si Rajoy levantara la cabeza",
       "link": "https://elpais.com/opinion/2026-10-28/si-rajoy-levantara-la-cabeza.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/JVRKGDA5OZA7LCSXXI7QAKTHDI.jpg?auth=e91c0563e87ac8fc2deb3058f7743060cf2c26328884c51e20f3d5bcba17fe88",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "“El entorno digital ha desatado una preocupante crueldad”, lamenta un lector",
-      "link": "https://elpais.com/opinion/2026-10-28/el-entorno-digital-ha-desatado-una-preocupante-crueldad-lamenta-un-lector.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/2M7HHONPJRBY3FHZ6LB3Z76M44.jpg?auth=499421ad14e3e90c313a48e7c57261030ebdbf80ca0c92d577d3e229cbd33b00",
       "tipo": "imagen"
     }
   ]

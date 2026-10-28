@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de Nuevo Sureste de Madrid",
+      "link": "https://nuevosureste.es/auditorio-centro-cultural-benjamin-palencia-cerrado/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/Salon-de-actos-del-Centro-Cultural-Benjamin-Palencia-1080x675.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Valdecarros subasta seis parcelas para construir 380 viviendas de alquiler asequible",
       "link": "https://nuevosureste.es/subasta-parcelas-valdecarros/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2025/11/Valdecarros-Cam3-1080x675.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Detenido en El Cañaveral un profesor acusado de agredir sexualmente a menores",
       "link": "https://nuevosureste.es/detenido-en-el-canaveral-profesor-agresion-sexual/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/El-Canaveral-Foto-Nuevo-Sureste-1080x675.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Vicálvaro aprueba dedicar una calle de Los Ahijones a Luis Miguel Aparisi Laporta",
-      "link": "https://nuevosureste.es/calle-luis-miguel-aparisi-laporta-los-ahijones/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/05/etapa-2-los-ahijones-2-1080x675.jpg",
       "tipo": "imagen"
     }
   ]
