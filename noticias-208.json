@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Muere a los 96 años la líder sindical hispana Dolores Huerta",
+      "link": "https://www.dw.com/es/muere-a-los-96-años-la-líder-sindical-hispana-dolores-huerta/a-79790719",
+      "imagen": "https://static.dw.com/image/79790733_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "\"Grave accidente de trenes\" en España: más de 60 muertos",
       "link": "https://www.dw.com/es/grave-accidente-de-trenes-en-españa-más-de-60-muertos/a-79784468",
       "imagen": "https://static.dw.com/image/79786892_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Más de 100.000 evacuados en India por el peligroso ciclón Arnab",
       "link": "https://www.dw.com/es/más-de-100-000-evacuados-en-india-por-el-peligroso-ciclón-arnab/a-79782470",
       "imagen": "https://static.dw.com/image/79782352_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Siria y Jordania buscan rebajar tensiones tras mortales bombardeos",
-      "link": "https://www.dw.com/es/siria-y-jordania-buscan-rebajar-tensiones-tras-mortales-bombardeos/a-79782259",
-      "imagen": "https://static.dw.com/image/74026662_6.jpg",
       "tipo": "imagen"
     }
   ]
