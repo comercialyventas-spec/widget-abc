@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La moda de los dispositivos sin pantalla y por qué cada vez hay más",
+      "link": "https://elpais.com/tecnologia/2026-10-28/la-moda-de-los-dispositivos-sin-pantalla-y-por-que-cada-vez-hay-mas.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RENMOXR7TNCKDDCLKZHNVG2A34.jpg?auth=003ed9bbda158c7976293564a3c267bc9f30ef8ea6742a975812271c3cdee0b4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El iPhone Duo, el primer plegable de Apple, recibe quejas de clientes por roturas de pantallas",
       "link": "https://elpais.com/tecnologia/2026-10-26/el-iphone-duo-el-primer-plegable-de-apple-recibe-quejas-de-clientes-por-roturas-de-pantallas.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260909/1212654_192223_video_1800.mp4",
@@ -28,12 +34,6 @@
       "titulo": "Millones de ciberataques en pocas horas, tras descubrir la IA un fallo en el corazón del 70% de las webs",
       "link": "https://elpais.com/tecnologia/2026-10-22/millones-de-intentos-de-ataque-en-pocas-horas-tras-destaparse-fallos-graves-en-miles-de-webs.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/PUAZKD4QJRIKHOUVYVXIDVA3SE.jpg?auth=1f98812834a95e02eda81957ba1601bbc9c009bc79c1962b42e0819dd80c5e5b",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Multa histórica para Meta: pagará 25.000 millones de dólares en Nuevo México por las malas prácticas de Facebook",
-      "link": "https://elpais.com/us/2026-10-21/multa-historica-para-meta-debera-pagar-25000-millones-de-dolares-en-nuevo-mexico.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/JJ73DYGMCBEKDBNNACJD2MZE54.jpg?auth=db50aefd8710c24532fd3ff729128910c2503915b94ecbba8d756e42e5f57826",
       "tipo": "imagen"
     }
   ]
