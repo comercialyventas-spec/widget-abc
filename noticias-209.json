@@ -1,27 +1,39 @@
 {
   "noticias": [
     {
-      "titulo": "Colisionan dos trenes de pasajeros en Urda (Toledo) y caen por un terraplén dos vagones",
+      "titulo": "Accidente de tren en Urda (Toledo), en directo | Page afirma que esperan \"más fallecidos\" porque \"todavía no se ha accedido al fondo de los vagones\"",
+      "link": "https://www.elconfidencial.com/espana/2026-10-28/accidente-tren-toledo-directo_4454527/",
+      "imagen": "https://images.ecestaticos.com/xLm6raLQ6pmQmSydD04ZgqBJCk0=/0x200:2272x1478/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F520%2F9c2%2F8ef%2F5209c28ef830c41dcbae91894d46b110.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las posibles causas del choque de trenes en Toledo: el Gobierno apunta a un error humano tras el fallo de un sistema de seguridad",
+      "link": "https://www.elconfidencial.com/empresas/2026-10-28/las-posibles-causas-del-choque-de-trenes-en-toledo-el-gobierno-apunta-a-un-error-humano-tras-el-fallo-de-un-sistema-de-seguridad_4454577/",
+      "imagen": "https://images.ecestaticos.com/yNRHWJwZ97az_a5AKV9co3MHZ4U=/0x0:2272x1409/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F85d%2F12d%2F38b%2F85d12d38b46ddd76429c7574bda9b08f.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Vídeo | Un accidente ferroviario deja decenas de fallecidos en Urda (Toledo)",
+      "link": "https://www.elconfidencial.com/espana/2026-10-28/video-accidente-ferroviario-decenas-fallecidos-urda-toledo_4454660/",
+      "imagen": "https://images.ecestaticos.com/cpw65WslUyggjHkVVudBsiGQoi0=/0x0:2272x1278/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F0c6%2Fae9%2Fe52%2F0c6ae9e525fd760b04940b43f2d7a002.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Mónica García pone los hospitales de Madrid a disposición del accidente ferroviario de Toledo: \"Es un choque de alto impacto\"",
+      "link": "https://www.elconfidencial.com/salud/2026-10-28/sanidad-uci-disposicion-heridos-accidente-ave-iryo-urda_4454559/",
+      "imagen": "https://images.ecestaticos.com/83GxHKP9AZzK6mDrjKOWPJMARao=/0x240:1280x960/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3b9%2F6fa%2F6a3%2F3b96fa6a3ffa19fcc7b4870ac6c0ca02.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Page afirma que se esperan \"más fallecidos\" porque \"todavía no se ha accedido al fondo de los vagones\"",
+      "link": "https://www.elconfidencial.com/espana/2026-10-28/emiliano-garcia-page-declaraciones-pie-de-via-accidente-tren-urda_4454682/",
+      "imagen": "https://images.ecestaticos.com/D8DXTaR0QCdNavXxeD5b_A9GFIw=/0x0:2272x1278/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F01b%2Fbed%2Fa6d%2F01bbeda6d869e4b405a282df789ed495.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Al menos 30 muertos tras el choque entre un AVE y un Iryo en Urda (Toledo)",
       "link": "https://www.elconfidencial.com/espana/madrid/2026-10-28/interrumpida-circulacion-ave-madrid-andalucia-alcance_4454517/",
-      "imagen": "https://images.ecestaticos.com/ZlYL55fB_smrOUMwWXBcJK1KW5A=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F977%2F2bf%2F034%2F9772bf0348881d2c1bd606e269f70bb7.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "EEUU y Francia: dos culturas del derecho adquirido a la palestra",
-      "link": "https://www.elconfidencial.com/mundo/tribuna-internacional/2026-10-28/crisis-fiscal-francia-eeuu-1hms_4453891/",
-      "imagen": "https://images.ecestaticos.com/mb2ESikAKHKScXVPd1VQC8shjsI=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F977%2F508%2F53d%2F97750853d351f7174439fd91ece3d267.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Netanyahu adelanta a la oposición, pero se queda a las puertas de la mayoría en Israel",
-      "link": "https://www.elconfidencial.com/mundo/2026-10-28/netanyahu-castigado-su-bloque-cae-en-escanos_4454401/",
-      "imagen": "https://images.ecestaticos.com/TDoOngsr4YEux1eDwX_jUC3FGCQ=/0x0:2272x1278/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F377%2F6ff%2F4e7%2F3776ff4e75b3b2a4277760d0d2d5fcf9.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La rocambolesca saga/fuga de Bolsonaro Jr: así huyó Flávio a Estados Unidos (y los casos que le persiguen)",
-      "link": "https://www.elconfidencial.com/mundo/2026-10-28/asi-huyo-flavio-bolsonaro-a-estados-unidos-y-los-casos-que-le-persiguen_4454408/",
-      "imagen": "https://images.ecestaticos.com/jyKKs_B7JmA2eT4Lu1Be1xEmqPI=/0x0:2272x1278/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe16%2Fdf9%2Fedb%2Fe16df9edb6b0bb2811ebc717273186a4.jpg",
+      "imagen": "https://images.ecestaticos.com/FGZyrfZN3BHYJk_4Qu_6S_3pv4Q=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F520%2F9c2%2F8ef%2F5209c28ef830c41dcbae91894d46b110.jpg",
       "tipo": "imagen"
     }
   ]
