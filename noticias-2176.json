@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Stellantis deja atrás las pérdidas y gana 217 millones de euros en los nueve primeros meses del año",
+      "link": "https://www.elperiodico.com/es/motor/20261028/stellantis-deja-perdidas-gana-217-millones-nueve-primeros-meses-ano-135832507",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/90d1a041-5c4c-46e6-953c-04d27731c6d4_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Lepas presenta el Aura, un 'concept car' que define su futuro electrificado",
+      "link": "https://www.elperiodico.com/es/motor/20261028/lepas-presenta-aura-primer-concept-car-135793899",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/3affee28-886b-4144-9782-d0ede0dabf0a_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Luz de fallo motor encendida: cuándo puedes seguir circulando y cuándo debes llamar a la grúa",
+      "link": "https://www.elperiodico.com/es/motor/20261028/luz-fallo-motor-encendida-puedes-circular-o-llamar-grua-135794248",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/57ca4b38-9865-4a3f-81da-24b67b28dcc5_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Audi y NVIDIA desplegarán robots humanoides capaces de clasificar un millón de piezas al día",
       "link": "https://www.elperiodico.com/es/motor/20261027/audi-nvidia-desplegaran-robots-humanoides-135763361",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/1fe0ef68-346f-4827-9971-c7f71fd6213f_media-libre-aspect-ratio_default_0.jpg",
@@ -16,24 +34,6 @@
       "titulo": "GAC lleva al extremo la seguridad de sus baterías con la tecnología Magazine Battery 2.0",
       "link": "https://www.elperiodico.com/es/motor/20261027/gac-lleva-extremo-seguridad-baterias-135798391",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8e742f36-5ed3-4f20-ab4f-dd42ea92ed97_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El 65% de los españoles pide a la Unión Europea flexibilizar la prohibición de los coches de combustión en 2035",
-      "link": "https://www.elperiodico.com/es/motor/20261027/65-espanoles-pide-union-europea-flexibilizar-prohibicion-coches-combustion-135797098",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/02880342-35c4-49a3-96d7-1d6147a60c06_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El nuevo GWM Haval H7 llega con hasta 435 CV y 129 kilómetros de autonomía eléctrica, desde 28.000 euros",
-      "link": "https://www.elperiodico.com/es/motor/20261027/nuevo-gwm-h7-haval-llega-135789091",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d5023aff-86de-4c5e-961a-1b8b15c58be5_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El interés por el coche eléctrico crece en España y alcanza al 41,4% de los conductores impulsado por el precio del combustible",
-      "link": "https://www.elperiodico.com/es/motor/20261027/interes-coche-electrico-crece-espana-135762534",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2c718463-2a51-4330-84a9-bed257d4794c_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

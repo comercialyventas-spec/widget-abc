@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Descubren un nuevo tipo de rana común que había estado oculta a la vista de todos desde 1902",
+      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-28/reino-unido-rana-oculta-plena-vista-1902-1qrt_4422963/",
+      "imagen": "https://images.ecestaticos.com/pDvFa4zo0M6lXqbvWQNjvqYq2J4=/0x0:1200x675/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff3a%2F114%2Fb96%2Ff3a114b9671ece16cf6a200807fd45ed.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Daniel Litt, matemático, sobre el impacto de la IA en la ciencia: \"Puede que acabemos en un mundo sin investigación de calidad\"",
+      "link": "https://www.elconfidencial.com/tecnologia/2026-10-28/daniel-litt-ia-ciencia-mundo-sin-investigacion-1qrt_4418652/",
+      "imagen": "https://images.ecestaticos.com/791K1_Az8i5TUA347K6tAibWtTM=/0x0:2010x1142/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F75b%2Fd44%2F508%2F75bd4450807e009ecda3ebb975937d3c.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Roman Yampolskiy, experto en IA y ciberseguridad, sobre su impacto en el mercado laboral: \"No me refiero a un 10% de paro, sino a un 99%\"",
+      "link": "https://www.elconfidencial.com/tecnologia/2026-10-28/roman-yampolskiy-ia-mercado-laboral-99-paro-1qrt_4427681/",
+      "imagen": "https://images.ecestaticos.com/HLz-p6n-yv5G3nTfO3W285112lc=/0x0:1714x1086/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fdec%2Fd04%2F0fb%2Fdecd040fb944b21a5f1a7362690310c3.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Científicos conectan ‘minicerebros’ humanos en una mente colmena y baten a la IA",
+      "link": "https://www.elconfidencial.com/tecnologia/novaceno/2026-10-28/cientificos-conectan-minicerebros-humanos-en-una-mente-colmena_4454351/",
+      "imagen": "https://images.ecestaticos.com/koXCx6VBZKhwX3w_JljiGx-vUHU=/0x0:1180x885/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F49c%2F8a5%2F4bc%2F49c8a54bcc51b7f2154f3200d599e866.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "EEUU resucita el misil hipersónico que iba a cancelar y prepara una versión para atacar portaviones chinos",
       "link": "https://www.elconfidencial.com/tecnologia/novaceno/2026-10-27/misil-hipersonico-arrw-eeuu-china-fuerza-aerea-portaaviones_4454265/",
       "imagen": "https://images.ecestaticos.com/b3NVCcHh0sE-h__nJ5yFpyaT7RU=/0x0:1440x809/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F0b4%2F15d%2F0f4%2F0b415d0f44f8cb2c7ed7800b55268ccd.jpg",
@@ -10,30 +34,6 @@
       "titulo": "NODUS prevé que el 80% de los procesos productivos automatizados se ejecutarán con IA local",
       "link": "https://www.elconfidencial.com/tecnologia/2026-10-27/inteligencia-artificial-local-soberania-datos-1hms-1svm_4454058/",
       "imagen": "https://images.ecestaticos.com/7NY4WbdwSniveML6JFWEtZ5AF5A=/0x0:900x506/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff2d%2F2c4%2F2d3%2Ff2d2c42d3b819a6a4cec865e9f180147.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El desierto del Sáhara se ha llenado de 'manchas'. Son el resultado de un fenómeno muy inusual",
-      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-27/nasa-desierto-sahara-manchas-fenomeno-1qrt_3969630/",
-      "imagen": "https://images.ecestaticos.com/e4Gh8AoY2Wxq44GcaJ52KgzBKQw=/0x0:1274x776/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F6e3%2F387%2F294%2F6e3387294b339def940cddbe1bb1a960.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los pulpos más inteligentes del mundo poseen una peculiaridad que explica cómo sus cerebros multiplican por 100 su tamaño",
-      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-27/pulpos-mas-inteligentes-cerebros-multiplican-100-tamano-1qrt_4423624/",
-      "imagen": "https://images.ecestaticos.com/ysppWN55_LfL6OUL7f6E3hhHPnk=/0x0:1816x1208/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F05d%2Fabe%2F0fd%2F05dabe0fd3da48cdbb91e66437b178b3.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "GTA 6: cuándo sale en España, precio y cómo reservar el videojuego",
-      "link": "https://www.elconfidencial.com/tecnologia/2026-10-27/gta-6-precio-fecha-lanzamiento-espana-reserva-1qrt_4453693/",
-      "imagen": "https://images.ecestaticos.com/DJBPLh03XgKyPps7Vt_sF5oLUHo=/0x0:1665x936/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F84c%2Fa75%2F93e%2F84ca7593e3f84261ee7c10c15d3aebc9.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Analizan el ADN de una princesa sueva y descubren un vínculo de hace 1.500 años que cambia lo que sabíamos de Hispania",
-      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-27/adn-princesa-sueva-misterio-tumbas-1qrt-hispania_4452875/",
-      "imagen": "https://images.ecestaticos.com/Lb5MJJxEKAtDc6YiDHCwfQdf4ew=/0x0:2272x1704/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4b2%2F81f%2F189%2F4b281f189bc1a732c7950a5cef749002.jpg",
       "tipo": "imagen"
     }
   ]

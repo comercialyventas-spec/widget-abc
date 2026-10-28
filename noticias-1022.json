@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Varias víctimas mortales en un nuevo choque entre dos trenes en la línea de AVE Madrid - Sevilla",
+      "titulo": "Nuevo choque de trenes con víctimas mortales",
       "link": "https://www.abc.es/espana/accidente-ave-sevilla-madrid-toledo-directo-heridos-20261028094604-di.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/10/28/1491497397-k4LB-U4041633301g8F-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/10/28/1491497397-k4LB-U4041633301g8F-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un paseo por el 'bombón de La Gomera' y su mágico pulmón verde",
+      "link": "https://www.abc.es/viajar/destinos/espana/paseo-bombon-gomera-magico-pulmon-verde-20261027010200-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/viajar/2026/10/27/IMG_9746-REL46G5d9Hp9F1X9W8rAu9K-1200x840@diario_abc.jpeg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Begoña Gómez denuncia al PP por suplantar su imagen con IA",
       "link": "https://www.abc.es/espana/begona-denuncia-pp-suplantar-imagen-ia-20261028083843-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/1518893731-RePgDDBCSkLToQ4ppcYvXBO-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/1518893731-RePgDDBCSkLToQ4ppcYvXBO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "El choque se ha producido a la altura de Urda (Toledo)",
       "link": "https://www.abc.es/sevilla/ciudad/alcance-dos-trenes-suspende-circulacion-madrid-andalucia-20261028092547-nts.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/10/28/ave-sevilla-kp4C-U4041514182DcE-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2026/10/28/ave-sevilla-kp4C-U4041514182DcE-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "De Luis de la Fuente a Kylian Mbappé: los hombres más elegantes en la gala del Balón de Oro",
       "link": "https://www.abc.es/summum/estilo/moda/luis-fuente-kylian-mbappe-hombres-elegantes-gala-20261027084801-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/summum/2026/10/27/hombres-elegantes-balon-oro-RVNu4D7WmYD1fWwWcIbix2H-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/summum/2026/10/27/hombres-elegantes-balon-oro-RVNu4D7WmYD1fWwWcIbix2H-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "China rechaza las disculpas de Mbappé y LaLiga: «Se ha sobrepasado el ámbito de la libertad de expresión»",
       "link": "https://www.abc.es/deportes/futbol/china-rechaza-disculpas-mbappe-liga-sobrepasado-ambito-20261028084417-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/28/mbappe-kAMB-U4040772233w7G-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Más de 500 tractores tomarán este miércoles las calles de Madrid: cortes de tráfico y alternativas",
-      "link": "https://www.abc.es/espana/madrid/madrid-sufrira-cortes-trafico-miercoles-nueva-tractorada-20261027160038-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/27/tractor-RVcidG3dOj1r8RVPNYOdQVP-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/28/mbappe-kAMB-U4040772233w7G-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }

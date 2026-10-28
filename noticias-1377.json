@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Doce recetas para el otoño: sopas, guisos y ensaladas que preparamos cada semana",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-28/doce-recetas-para-el-otono-sopas-guisos-y-ensaladas-que-preparamos-cada-semana.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/OVZD2DFQN5DC3CWKHMYRRDTLMA.jpg?auth=783c6e616e4e57a3bbd00204fef0a9d4b52cca73a39eb102c76a5cf89f6334ec",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Polenta al horno con queso y setas",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-28/polenta-al-horno-con-queso-y-setas.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/IGWXSDBIKRDGDONBQW6XJ7HUPA.jpg?auth=5b233b0c53210dafb750bef6b781dfcc5ce3cb1aab42a0fed178dd40300a58e9",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Acueo, ostras ecológicas sin lujos y acompañadas con sidra por 7 euros",
+      "link": "https://elpais.com/gastronomia/2026-10-28/acueo-ostras-ecologicas-sin-lujos-y-acompanadas-con-sidra-por-7-euros.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/36XPWTIIZZHU5JOGTAHWVNMGFM.jpg?auth=26e8c096171db98b3097e9cb2c805dcaf5d8731495338b23cf75287308cb8d57",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Tecelás da Terra, la biblioteca que presta semillas para preservar las variedades autóctonas gallegas",
+      "link": "https://elpais.com/gastronomia/2026-10-28/tecelas-da-terra-la-biblioteca-que-presta-semillas-para-preservar-las-variedades-autoctonas-gallegas.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ZXWW52KKRNEDHMW6ACKIAUOZ34.jpg?auth=c7babb7fbb7e5412bad1f0e1bbb91c7ba75fdcea418cac91dca7d2ffde10ec95",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Vega Sicilia presenta su primer vino blanco español e inaugura bodega en Galicia",
       "link": "https://elpais.com/gastronomia/2026-10-27/vega-sicilia-presenta-su-primer-vino-blanco-e-inaugura-bodega-en-galicia.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/ZWZMIEUL6BBHXKMGLLBPAQ6PTM.jpg?auth=4f90bb3a03a9edf19a5131a1f5da5357276abc4f24563be281812cd97e77c058",
@@ -10,30 +34,6 @@
       "titulo": "Alerta naranja: 12 recetas con calabaza o boniato para aprovechar su mejor momento",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-10-27/alerta-naranja-12-recetas-con-calabaza-o-boniato-para-aprovechar-su-mejor-momento.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/OYMNRS3OHNAULPTOS4RVCYJDI4.jpg?auth=1ccefdd782bffc6de39e3a318da765791f2ec9679ed94cfad3b938493b7c2442",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tres bocadillos jugosos y rápidos con jamón de Teruel",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-27/tres-bocadillos-jugosos-y-rapidos-con-jamon-de-teruel.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20261026/1230116_161123_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La nueva edad dorada del cocido madrileño: el plato tradicional convive con versiones cada vez más sofisticadas",
-      "link": "https://elpais.com/gastronomia/2026-10-27/la-nueva-edad-dorada-del-cocido-madrileno-el-plato-tradicional-convive-con-versiones-cada-vez-mas-sofisticadas.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/FHIDPNXXBVDV5JPOHOH2SQASRQ.jpg?auth=6fc58ca1f63c6021fbbad68a5ee372e585980d4eca2636c7f378d06f901d78ee",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Es la fibra la nueva proteína? La industria de la comida insana se apunta al ‘fibermaxxing’",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-26/es-la-fibra-la-nueva-proteina-la-industria-de-la-comida-insana-se-apunta-al-fibermaxxing.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/XI743IQH75DBVAVYJVWEPM36WE.jpg?auth=6d6e4ad7a3a82167af247d7bf538043cd1142be97a5d5e3de3d349e5b070982a",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sergi Arola (cocinero): “Me pasó como a los alcohólicos, no percibí el batacazo que me estaba dando”",
-      "link": "https://elpais.com/gastronomia/2026-10-26/sergi-arola-cocinero-me-paso-como-a-los-alcoholicos-no-percibi-el-batacazo-que-me-estaba-dando.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/RPQOT2EKRVBK3NLBV2SM3FMGQ4.jpg?auth=0a359a5e1a068736e19e69256859f12f99adb70b27edb0156605f4f1646325b2",
       "tipo": "imagen"
     }
   ]

@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "Microsoft lanza un parche urgente para aplicaciones y servidores: qué corrige el fallo de Brotli",
-      "link": "https://www.20minutos.es/tecnologia/ciberseguridad/microsoft-lanza-parche-urgente-aplicaciones-servidores-corrige-fallo-brotli_7053808_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2024/12/31/ordenador-con-una-actualizacion-de-windows.r_d.600-337.jpeg",
+      "titulo": "OpenAI dice que su IA ha resuelto problemas clave de matemáticas, física e informática: un Nobel y otros expertos lo revisarán",
+      "link": "https://www.20minutos.es/tecnologia/inteligencia-artificial/openai-ia-problemas-matematicas-fisica-informatica-revision-expertos_7054137_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/27/6ae0d1bc90aec7-99028250.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Qué emitía TVE en los años sesenta? Así funciona Telerín, su nueva herramienta gratuita para consultar el archivo",
+      "link": "https://www.20minutos.es/tecnologia/actualidad/que-emitia-tve-anos-sesenta-asi-funciona-telerin-nueva-herramienta-gratuita-consultar-archivo_7054273_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/28/6ae1a3e14f81d1-95480583.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "OPPO Find X10, la serie de móviles cuyas fotos se parecen realmente a lo que viste",
+      "link": "https://www.20minutos.es/bc/oppo-find-x10-tro-to-live-fotos_7053885_5.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/27/6ae092543e2f66-17878467.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cámaras en vez de GPS: así aterriza un dron de la Marina en un barco que no deja de moverse",
+      "link": "https://www.20minutos.es/tecnologia/actualidad/asi-aterriza-dron-marina-barco-no-deja-moverse_7052476_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/23/6adb1de94978a3-72253901.jpeg",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "Así empezó la familia de cohetes que llevó al ser humano a la Luna: se cumplen 65 años del primer Saturn",
       "link": "https://www.20minutos.es/tecnologia/actualidad/asi-empezo-familia-cohetes-llevo-ser-humano-luna-se-cumplen-65-anos-primer-saturn_7053854_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/27/6ae06d725e8621-06648147.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El robot humanoide de Elon Musk está más cerca: Tesla inicia la producción de Optimus",
-      "link": "https://www.20minutos.es/tecnologia/actualidad/tesla-inicia-produccion-robot-humanoide-optimus_7053414_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2024/12/02/optimus.r_d.601-335.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Starlink vuelve a funcionar en drones ucranianos a más de 400 km/h tras las restricciones impuestas",
-      "link": "https://www.20minutos.es/tecnologia/actualidad/starlink-vuelve-drones-ucrania-conexion-400-kmh-restricciones_7053376_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/26/6adf293e4c4556-17050233.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Luna se prepara para recibir su primer superordenador: viajará en un rover para poner a prueba la IA",
-      "link": "https://www.20minutos.es/tecnologia/actualidad/luna-se-prepara-recibir-primer-superordenador-viajara-rover-poner-prueba-ia_7052655_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/23/6adb4c7c756b27-44882848.jpeg",
       "tipo": "imagen"
     }
   ]

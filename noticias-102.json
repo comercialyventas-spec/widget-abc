@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Las islas del Atlántico que nacieron donde se encuentran tres placas tectónicas",
+      "link": "https://www.lavanguardia.com/lugaresdeaventura/20261028/11636563/islas-atlantico-nacieron-encuentran-tres-placas-tectonicas.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2025/11/03/69088a817c634.r_d.1544-1292-1169.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Miles de grullas transforman Gallocanta en uno de los grandes espectáculos del otoño",
       "link": "https://www.lavanguardia.com/lugaresdeaventura/20261027/11668693/miles-grullas-transforman-gallocanta-grandes-espectaculos-otono.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2025/10/28/6900f35280fac.r_d.118-325-5282.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2025/10/28/6900f35280fac.r_d.118-325-5282.jpeg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "La serra de Busa, una meseta rodeada de precipicios en el Prepirineo catalán",
       "link": "https://www.lavanguardia.com/lugaresdeaventura/20261024/11665822/serra-busa-meseta-rodeada-precipicios-prepirineo-catalan.html",
       "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2020/08/13/5faa5f8b260e1.r_d.291-260-6845.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La IA descubre casi 40.000 icebergs encallados en la Antártida",
-      "link": "https://www.lavanguardia.com/lugaresdeaventura/20261023/11665381/ia-descubre-40-000-icebergs-encallados-antartida.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2025/09/13/68c5a202bd30b.r_d.2982-2067-0.jpeg",
       "tipo": "imagen"
     }
   ]

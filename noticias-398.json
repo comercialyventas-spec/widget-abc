@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Jeremy London, cirujano cardíaco: \"Caminar no construye huesos fuertes y las mujeres de mediana edad deben saberlo especialmente\"",
+      "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-28/jeremy-london-cirujano-cardiaco-caminar-no-construye-huesos-fuertes-mujeres_4260192/",
+      "imagen": "https://images.ecestaticos.com/ULx0ziSEju9c2nsrcHpMA6QfaBk=/0x0:623x453/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F480%2F552%2Ff77%2F480552f779e5737d69fcfdfbdbafd971.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Trabajar de noche durante el embarazo se relaciona con más alteraciones del desarrollo en los hijos",
+      "link": "https://www.elconfidencial.com/salud/2026-10-28/trabajar-de-noche-embarazo-relaciona-mas-alteracionesdesarrollo-en-hijos_4454181/",
+      "imagen": "https://images.ecestaticos.com/mOU_HPCX-GJ-OEt9jYNMbqSy-Bo=/0x0:2272x1278/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F202%2Ffa6%2Fe8b%2F202fa6e8b77e306c997671b289a5eb80.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Huelga de médicos en España: qué comunidades la mantienen y qué días hay paros en Madrid, Cataluña y Valencia",
+      "link": "https://www.elconfidencial.com/salud/2026-10-28/huelga-medicos-espana-comunidades-paros-1qrt_4452993/",
+      "imagen": "https://images.ecestaticos.com/xzTTS6qcPz9c1YFU8E8Flr6Is54=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ffff%2Ff0f%2Feff%2Fffff0feff0da5a2bcdbc00cfc4f1d592.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las infecciones relacionadas con la asistencia sanitaria ocasionan más de 5.000 muertes al año en España",
       "link": "https://www.elconfidencial.com/salud/2026-10-27/infecciones-hospitalarias-muertes-espana-1tps_4454141/",
       "imagen": "https://images.ecestaticos.com/cM4e37vfYuQRSCvNduJaI5rhGkE=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F187%2F5a1%2Fdca%2F1875a1dca631f05a5dacb18f0965a1c9.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Cuidar a una persona con daño cerebral recae en el 80% de las familias con hasta 8 horas de dedicación",
       "link": "https://www.elconfidencial.com/salud/2026-10-27/familias-cuidadoras-dano-cerebral-adquirido-1hms-1svm_4454061/",
       "imagen": "https://images.ecestaticos.com/MpLgnC61M2bC89A51fGn1lvdgXQ=/0x0:1200x800/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3e1%2F381%2F98c%2F3e138198c319c3f7b6dcf1ab054ebd61.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los resultados muestran una mejora de la vascularización endometrial en mujeres con pocas alternativas terapéuticas",
-      "link": "https://www.elconfidencial.com/salud/2026-10-27/plasma-cordon-umbilical-regeneracion-endometrio-1hms-1svm_4454055/",
-      "imagen": "https://images.ecestaticos.com/FdV1QqCj1A_H1Pq2HiGSeKtog-A=/0x0:1279x853/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F12b%2Fa1e%2F7c5%2F12ba1e7c5271950a04ad5a17c9c0e682.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ocho de cada diez españoles quieren vivir más pero el 60% teme envejecer, con el deterioro cognitivo como primer miedo",
-      "link": "https://www.elconfidencial.com/salud/2026-10-27/satisfaccion-sistema-sanitario-envejecimiento-1tps_4453999/",
-      "imagen": "https://images.ecestaticos.com/VgWJDZBmVpJj_AGBdJ15soQM_nY=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F74a%2Fde5%2F238%2F74ade5238c4172f49c97b3251d450f12.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Hospital Universitario Rey Juan Carlos organiza una jornada sobre cirugía robótica en Ginecología",
-      "link": "https://www.elconfidencial.com/salud/2026-10-27/cirugia-robotica-ginecologica-formacion-1hms-1svm_4454052/",
-      "imagen": "https://images.ecestaticos.com/Rc1CkdvVkHehlAX4YrnPz7pKaHU=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F47e%2Fddc%2F407%2F47eddc407e8c89003a31484960d2e558.jpg",
       "tipo": "imagen"
     }
   ]
