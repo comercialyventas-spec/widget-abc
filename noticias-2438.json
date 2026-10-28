@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Sorteo de la BonoLoto y Euromillones del martes 27 de octubre",
+      "link": "https://www.rtve.es/rtve/20261028/sorteo-bonoloto-euromillones-del-martes-27-octubre/17285192.shtml",
+      "imagen": "https://img.rtve.es/imagenes/sorteo-bonoloto-euromillones-del-martes-27-octubre/1793134966829.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sorteo de la BonoLoto y Primitiva del lunes 26 de octubre",
       "link": "https://www.rtve.es/rtve/20261027/sorteo-bonoloto-primitiva-del-lunes-26-octubre/17284668.shtml",
       "imagen": "https://img.rtve.es/imagenes/sorteo-bonoloto-primitiva-del-lunes-26-octubre/1793048529799.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Sorteo de la BonoLoto, Primitiva y Lotería Nacional del jueves 22 de octubre",
       "link": "https://www.rtve.es/rtve/20261023/sorteo-bonoloto-primitiva-loteria-nacional-del-jueves-22-octubre/17277854.shtml",
       "imagen": "https://img.rtve.es/imagenes/sorteo-bonoloto-primitiva-loteria-nacional-del-jueves-22-octubre/01792701557658.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sorteo de la BonoLoto del miércoles 21 de octubre",
-      "link": "https://www.rtve.es/rtve/20261022/sorteo-bonoloto-del-miercoles-21-octubre/17277800.shtml",
-      "imagen": "https://img.rtve.es/imagenes/sorteo-bonoloto-del-miercoles-21-octubre/01792616404910.jpg",
       "tipo": "imagen"
     }
   ]
