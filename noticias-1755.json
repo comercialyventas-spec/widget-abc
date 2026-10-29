@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un antes y un después de Brasil",
+      "link": "https://www.publico.es/opinion/vinetas/despues-brasil.html",
+      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/27/6ae0b172c6479.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La solución habitacional de Feijóo",
       "link": "https://www.publico.es/opinion/vinetas/solucion-habitacional-feijoo.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/22/6ada2066bfdcd.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Los abuelos y los nietos",
       "link": "https://www.publico.es/opinion/vinetas/abuelos-nietos.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/13/6ace4bb154d0d.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Contrato de alquiler",
-      "link": "https://www.publico.es/opinion/vinetas/contrato-alquiler.html",
-      "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/11/6acb94b3447fb.jpeg",
       "tipo": "imagen"
     }
   ]

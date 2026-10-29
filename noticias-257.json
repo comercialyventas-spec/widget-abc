@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "La tragedia, en gráficos",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/accidente-tren-urda-mapas-datos-sobre-tragedia-20261028164902-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/29/accidente-tren-urda-562x393.jpg?width=562",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La historia de amor enterrada en el cementerio más pequeño del mundo (y otros relatos del más allá)",
+      "link": "https://www.abc.es/xlsemanal/historia-amor-enterrada-cementerio-pequeno-mundo-relatos-20261026193753-ntrc.html",
+      "imagen": "https://static.vocento.com/xlsemanal/2026/10/26/xlsemanal-2036-cementerio-teresa-kgm--562x315@RC.jpg?width=562",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Desde la zona cero: «La urgencia es inabarcable»",
+      "link": "https://www.abc.es/espana/zona-cero-urgencia-inabarcable-20261028163142-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/HORIZONTAL.00_05_18_09.Imagen%20fija005_20261028164804-U77105055661miF-562x315@diario_abc.jpg?width=562",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El choque del AVE y el Iryo, desde el aire: todos los vídeos del accidente en Toledo",
       "link": "https://www.abc.es/espana/video-cronologia-accidente-ferroviario-toledo-20261028111228-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/02cc9467-f015-4319-be43-87e804cd4a27-U201157731614IlH-U44612727415rCG-562x393@diario_abc.jpg?width=562",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/02cc9467-f015-4319-be43-87e804cd4a27-U201157731614IlH-U80517350815OMw-562x315@diario_abc.jpg?width=562",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "De hacer retos de comida a marcar la agenda electoral",
       "link": "https://www.abc.es/gente/historia-jordi-wild-retos-comida-marcar-agenda-20261027012217-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/10/27/PORTADA%20SHOW%201920X1080-klkF-U40309956580-562x315@diario_abc.png?width=562",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "«Mbappé tenía razón»",
-      "link": "https://www.abc.es/espana/mbappe-razon-20261027210003-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/27/foto%20chapu-U57222846710hte-562x315@diario_abc.png?width=562",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mbappé desaparece en China por bromear con Mao",
-      "link": "https://www.abc.es/internacional/china-cancela-mbappe-bromear-mao-20261027123017-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/27/galeon.00_00_05_12.Imagen%20fija004-R9PLyH36my7XzkFHrVmihkK-562x315@diario_abc.jpg?width=562",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "de aprender a caminar a estar en la cima",
-      "link": "https://www.abc.es/cultura/toros/david-miranda-aprender-caminar-triunfadores-temporada-20261027192307-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/27/1516284418-U20410936172QBE--562x315@diario_abc.jpg?width=562",
       "tipo": "imagen"
     }
   ]
