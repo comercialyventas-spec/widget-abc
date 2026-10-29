@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "El Gobierno de Sánchez concedió 1.500 millones de euros para los trenes de Marruecos, Egipto y Uzbekistán",
+      "link": "https://www.mediterraneodigital.com/espana/espana-trenes-marruecos-egipto-uzbekistan",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/10/sanchez-puente-trenes.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Reseña de OryxBox.com: ¿Qué nos dice la historia de la empresa?",
+      "link": "https://www.mediterraneodigital.com/negocios-y-finanzas/oryxbox",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/10/oryxbox-1.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Gobierno de Sánchez declara un templo masónico «Lugar de Memoria Democrática»",
       "link": "https://www.mediterraneodigital.com/historia/templo-masonico-de-santa-cruz-de-tenerife",
       "imagen": "https://www.mediterraneodigital.com/images/2026/10/masoneria.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El candidato del PSOE de Ceuta es un musulmán afín a Marruecos",
+      "link": "https://www.mediterraneodigital.com/espana/ceuta-y-melilla/abdelah-abdelah-mustafa-psoe",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/10/abdelah-abdela-mustafa.jpg",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "Arabia Saudita busca una tregua con los hutíes: ¿qué puede ofrecer Irán?",
       "link": "https://www.mediterraneodigital.com/internacional/arabia-saudita-yemen",
       "imagen": "https://www.mediterraneodigital.com/images/2026/10/arabia-saudita-iran-yemen.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una Miss Suiza denuncia a Donald Trump por agresión sexual",
-      "link": "https://www.mediterraneodigital.com/internacional/trump-miss-suiza",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/10/trump-miss.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Detenido un líder de UGT y excandidato del PSOE por ser un depredador de mujeres",
-      "link": "https://www.mediterraneodigital.com/espana/pablo-puerto-campos-ugt",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/10/pablo-puerto.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "LaLiga denuncia al Barça por la agresión a Camavinga en el Camp Nou",
-      "link": "https://www.mediterraneodigital.com/deportes/agresion-camavinga-camp-nou",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/10/camavinga.jpg",
       "tipo": "imagen"
     }
   ]
