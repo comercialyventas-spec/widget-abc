@@ -1,7 +1,19 @@
 {
   "noticias": [
     {
-      "titulo": "Nueva tragedia en la Alta Velocidad española: decenas de muertos en un accidente en Toledo",
+      "titulo": "Matan a tiros a un hombre ingresado en el Hospital Joan XXIII de Tarragona",
+      "link": "https://www.mediterraneodigital.com/sucesos-espana/matan-a-tiros-joan-xxiii-tarragona",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/10/joan-xxiii.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un inmigrante desbocado agrede y muerde a dos policías nacionales",
+      "link": "https://www.mediterraneodigital.com/sucesos-espana/muerda-a-un-policia",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/10/cnp.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Nueva tragedia en la Alta Velocidad española: 68 muertos en un accidente en Toledo",
       "link": "https://www.mediterraneodigital.com/sucesos-espana/accidente-tren-toledo",
       "imagen": "https://www.mediterraneodigital.com/images/2026/10/tren-toledo.jpg",
       "tipo": "imagen"
@@ -16,18 +28,6 @@
       "titulo": "Detenido por agredir sexualmente a una joven de 22 años en la acampada de Sol",
       "link": "https://www.mediterraneodigital.com/sucesos-espana/violacion-acampada-sol",
       "imagen": "https://www.mediterraneodigital.com/images/2026/10/sol.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Barcelona arde entre saqueos y violencia de la extrema izquierda",
-      "link": "https://www.mediterraneodigital.com/sucesos-espana/barcelona-disturbios",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/10/disturbios-bcn.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Policía investiga dos denuncias por violación en Ceuta contra dos ilegales marroquíes",
-      "link": "https://www.mediterraneodigital.com/sucesos-espana/violaciones-ceuta-marroquies",
-      "imagen": "https://www.mediterraneodigital.com/images/2022/6/violacion-p.jpg",
       "tipo": "imagen"
     }
   ]

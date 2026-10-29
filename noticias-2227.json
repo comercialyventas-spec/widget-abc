@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Obras: Avenida del Partenón. Afectadas 2 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261031-O-Avenida-Del-Partenon.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Evento socio-cultural en Bailén y Mayor. Afectadas 3 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261101-Desfile-Dia-Muertos-Centro.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -27,12 +33,6 @@
     {
       "titulo": "Evento: Palacio de los Deportes. Afectadas 4 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261101-PD-Baloncesto.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Recuperación de Parada: Jesús del Pino. Afectadas 3 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261029-RP-4693-Jesus-Del-Pino.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

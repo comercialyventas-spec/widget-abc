@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Conchas y estrellas: las mejores marisquerías de Barcelona para urbanitas",
+      "link": "https://www.elperiodico.com/es/que-hacer/donde-comer/20261029/conchas-estrellas-mejores-marisquerias-barcelona-135895579",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/271746c8-3f9b-42e7-8a18-da04915722fa_16-9-discover-aspect-ratio_default_0_x1000y444.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Mundo Today | Saqueadores entran en una librería y se llevan todos los ejemplares de Ética a Nicómaco de Aristóteles",
+      "link": "https://www.elperiodico.com/es/que-hacer/20261029/mundo-today-saqueadores-entran-libreria-ejemplares-etica-nicomaco-aristoteles-135894686",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0b946ecc-872d-4764-b64a-0ce1a944283d_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Qué hacer esta semana en Barcelona: los mejores planes",
       "link": "https://www.elperiodico.com/es/que-hacer/planes/20261028/que-hacer-barcelona-mejores-planes-semana-agenda-102304377",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/18d22305-c5d6-4685-b34e-9bb574678d0d_16-9-discover-aspect-ratio_default_0_x564y663.jpg",
@@ -13,27 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Dónde ver el clásico en Barcelona con fiesta, tapas y cerveza",
-      "link": "https://www.elperiodico.com/es/que-hacer/donde-comer/20261025/donde-ver-clasico-barcelona-fiesta-partido-barca-madrid-135693195",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/4dbc39c8-7b01-4246-8e57-d1dba8c3f3ac_16-9-discover-aspect-ratio_default_0_x1000y418.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "48H Open House: visita hoy a los polis trotamúsicos de Barcelona",
-      "link": "https://www.elperiodico.com/es/que-hacer/planes/20261024/visita-polis-trotamusicos-barcelona-48h-open-house-caballerizas-guardia-urbana-135687775",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/78751b84-aa75-4aec-bdbc-d975ffdc5477_16-9-discover-aspect-ratio_default_0_x375y166.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Restaurante Nairod: no solo caza, pero ¡qué buena caza!",
       "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261028/restaurante-nairod-barcelona-135798113",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/3e9d94d5-992c-463c-b964-5a26e48dff41_16-9-discover-aspect-ratio_default_0_x872y327.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Restaurante Nuara: cocina de mercado de campanillas junto al mar",
-      "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20261023/restaurante-nuara-barcelona-balcon-gastronomico-port-olimpic-130236740",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/3bae33e0-9695-4faf-9c6a-240bd47452f0_16-9-discover-aspect-ratio_default_0_x960y359.jpg",
+      "titulo": "Dónde ver el clásico en Barcelona con fiesta, tapas y cerveza",
+      "link": "https://www.elperiodico.com/es/que-hacer/donde-comer/20261025/donde-ver-clasico-barcelona-fiesta-partido-barca-madrid-135693195",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/4dbc39c8-7b01-4246-8e57-d1dba8c3f3ac_16-9-discover-aspect-ratio_default_0_x1000y418.jpg",
       "tipo": "imagen"
     }
   ]

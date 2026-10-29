@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "Última hora del accidente de tren en Urda, en directo: asciende a 69 el número de víctimas",
+      "titulo": "Última hora del accidente de tren en Urda, en directo: Puente comparecerá el próximo martes en la Diputación Permanente",
       "link": "https://www.ondacero.es/noticias/sociedad/alcance-trenes-interrumpida-circulacion-alta-velocidad-madrid-andalucia_202610286ae1b1336973466c29dfcd71.html",
       "imagen": "https://image.ondacero.es/clipping/cmsimages02/2026/10/28/99DB17DC-C7CB-4C2F-A336-AF766C2650AF/imagen-trenes-siniestrados-pasajeros-afectados-cedida-pasajero_69.jpg?crop=1600,900,x0,y150&width=1280&height=720&optimize=low&format=webply",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Del accidente \"inasumible\" al respaldo a Puente: Sánchez cierra filas con su ministro pese a las críticas por Urda",
+      "link": "https://www.ondacero.es/noticias/sociedad/accidente-inasumible-respaldo-puente-sanchez-cierra-filas-ministro-pese-criticas-urda_202610296ae39af76973466c29e255d1.html",
+      "imagen": "https://image.ondacero.es/clipping/cmsimages01/2026/10/29/0E71E407-253A-4429-A0C6-477CD63EB736/reunion-centro-coordinacion-operativa-integrado-cecopi-centro-112-toledo_96.jpg?crop=1920,1080,x0,y99&amp;width=1200&amp;height=675&amp;optimize=low&amp;format=webply",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Felipe VI pide investigar las causas del accidente de Urda y adoptar medidas para que no vuelva a suceder: \"Volvemos a sufrir un durísimo golpe\"",
+      "link": "https://www.ondacero.es/noticias/sociedad/felipe-pide-investigar-causas-accidente-urda-adoptar-medidas-que-vuelva-suceder-volvemos-sufrir-durisimo-golpe_202610296ae3758cb55c427e2eb7d50b.html",
+      "imagen": "https://image.ondacero.es/clipping/cmsimages01/2026/10/29/B749A914-E90D-4C4E-9C2F-6F7A9F3E6073/felipe-pide-investigar-causas-accidente-urda-adoptar-medidas-que-vuelva-suceder-volvemos-sufrir-durisimo-golpe_96.jpg?crop=1280,720,x0,y0&amp;width=1200&amp;height=675&amp;optimize=low&amp;format=webply",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Feijóo cuestiona el sistema ferroviario, pide \"tomar decisiones\" y carga contra Sánchez: \"Así no se puede seguir\"",
       "link": "https://www.ondacero.es/noticias/espana/feijoo-cuestiona-sistema-ferroviario-pide-tomar-decisiones-carga-sanchez-asi-puede-seguir_202610296ae34153004b78127ab89582.html",
       "imagen": "https://image.ondacero.es/clipping/cmsimages02/2026/10/29/6E6B83C9-3FD2-4676-9F58-F73838111586/lider-alberto-nunez-feijoo-canutazo-periodistas_96.jpg?crop=1920,1080,x0,y0&amp;width=1200&amp;height=675&amp;optimize=low&amp;format=webply",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Muere la atleta Julieta Gallego en el accidente ferroviario de Urda",
-      "link": "https://www.ondacero.es/noticias/sociedad/muere-atleta-julieta-gallego-accidente-ferroviario-urda_202610296ae33a4602501232156c77a8.html",
-      "imagen": "https://image.ondacero.es/clipping/cmsimages02/2026/10/29/37D1CCF6-8B3E-41F5-844A-5ED67D9A283E/imagen-aerea-accidente-tren-urda-toledo_96.jpg?crop=1920,1080,x0,y96&amp;width=1200&amp;height=675&amp;optimize=low&amp;format=webply",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un tren de Ouigo sufre un enganchón de catenaria y provoca retrasos en la alta velocidad entre Madrid y el Levante",
-      "link": "https://www.ondacero.es/noticias/sociedad/tren-ouigo-sufre-enganchon-catenaria-provoca-retrasos-alta-velocidad-madrid-levante_202610296ae3300fa5f83c2fb8e7f5d1.html",
-      "imagen": "https://image.ondacero.es/clipping/cmsimages02/2026/10/29/AB4C0A13-1DEB-451A-8A80-77148C1AAB2A/imagen-archivo-tren-ouigo_96.jpg?crop=1920,1080,x0,y81&amp;width=1200&amp;height=675&amp;optimize=low&amp;format=webply",
       "tipo": "imagen"
     }
   ]

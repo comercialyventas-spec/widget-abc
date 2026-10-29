@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Microsoft dice adiós a Copilot en los televisores inteligentes: a qué modelos afecta y qué ocurrirá con ellos",
+      "link": "https://www.abc.es/tecnologia/electronica/microsoft-dice-adios-copilot-televisores-inteligentes-modelos-20261029185636-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/29/microsoft-copilot-smart-tv-RUL4L40oITecGVRZgOHFmdJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Nvidia lanza una IA gratuita capaz de transcribir audio en 40 idiomas: así es el nuevo modelo que quiere revolucionar las grabaciones",
+      "link": "https://www.abc.es/tecnologia/nvidia-lanza-ia-gratuita-capaz-transcribir-audio-20261029180422-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/29/1516429074-RmPoVgOA3IBzwnuz8BBCfEK-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "OpenAI planta a Nvidia: la creadora de ChatGPT planea comprar los chips de IA de Google para entrenar a sus modelos",
       "link": "https://www.abc.es/tecnologia/openai-planta-nvidia-creadora-chatgpt-planea-comprar-20261028203222-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/28/sam%20altman-RoAJ54EtcE8Ya0zC327Y1bI-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Australia avisa de una amenaza cibernética «sin precedentes» por el rápido avance de la IA",
       "link": "https://www.abc.es/tecnologia/australia-avisa-amenaza-cibernetica-precedentes-rapido-avance-20261027084208-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/27/1519352386-k8Z-U4020918022dPI-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Anthropic presenta su histórica salida a bolsa: «Puede que no logremos ni mantengamos la rentabilidad en el futuro»",
-      "link": "https://www.abc.es/tecnologia/anthropic-presenta-historica-salida-bolsa-puede-logremos-20261026205111-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/26/anthropic-Rut28KkrDjLLEFHMQPr2RLP-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Grok muestra solo siete minutos de su 'Odisea' generada con IA, la película prometida por Elon Musk",
-      "link": "https://www.abc.es/tecnologia/grok-muestra-solo-siete-minutos-odisea-generada-20261026194940-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/10/26/odisea-grok-2-RfHrH6S5oVFBJVsiOgIu07L-1200x840@diario_abc.png",
       "tipo": "imagen"
     }
   ]

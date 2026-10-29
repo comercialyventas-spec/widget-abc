@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Encuentro imaginario de Munch y Picasso en Málaga",
+      "link": "https://www.abc.es/cultura/arte/encuentro-imaginario-munch-picasso-malaga-20261129165056-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/11/29/munch-pica1-RbCAqkcBtTHiBNxN6nSkXoK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los puentes del Prado: la ingeniería civil, en sus colecciones",
       "link": "https://www.abc.es/cultura/arte/puentes-prado-20261026135040-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/26/globo-RSufii4XpB5SmORV4umAo4O-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Dalí, en el diván de Freud",
       "link": "https://www.abc.es/cultura/arte/dali-divan-freud-20261019171654-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/19/dali1-Rs99D2R6M8zTjEAL7hUFnOM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La otra Transición (estética) en España",
-      "link": "https://www.abc.es/cultura/arte/transicion-espana-importacion-cultural-cambio-20261016012911-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/16/march1-RdpXaYzNiHu5NqjvEnETLyH-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
