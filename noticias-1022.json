@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
+      "titulo": "La otra reconstrucción tras la dana: «El aniversario reaviva el trauma»",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/reconstruccion-tras-dana-aniversario-reaviva-trauma-20261029080136-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/dana-paiporta_20261028172206-RLYdHDmf4lVIwbfiBDOjJ5O-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ejecutado a tiros un hombre ingresado en un hospital de Tarragona",
+      "link": "https://www.abc.es/espana/cataluna/ejecutado-tiros-hombre-ingresado-hospital-tarragona-20261029091842-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/29/mossos-cordon-RQgPuc22E4yNLi3EfF9vubM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Netanyahu resiste en las urnas y la oposición se divide ante el pacto con los árabes",
+      "link": "https://www.abc.es/internacional/netanyahu-resiste-urnas-oposicion-divide-ante-pacto-20261028182325-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/28/1519442343-RZ5W0tXHccfvtZVFOx07sJO-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ricardo Díaz, ingeniero ferroviario, sobre la causa del accidente: «De ser un error humano, en todo caso es de la gestión del control y de la vigilancia»",
+      "link": "https://www.abc.es/play/television/noticias/ricardo-diaz-ingeniero-ferroviario-error-humano-accidente-20261029085212-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/28/feasr-kfMI-Rwcf1ri078J3e4ZVBRQorxK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Repsol dispara su beneficio un 325% por los incontrolables precios del petróleo",
       "link": "https://www.abc.es/economia/repsol-20261029084906-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/29/Repsol%20afp-RJSIZCwGNM3JCqBJTsNMR1H-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/29/Repsol%20afp-RJSIZCwGNM3JCqBJTsNMR1H-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
-      "titulo": "María Corina Machado visita la zona devastada de La Guaira por el doble terremoto",
-      "link": "https://www.abc.es/internacional/maria-corina-machado-visita-zona-devastada-guaira-20261028231025-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/28/1519450941-khEI-U4064968253Z4G-1200x840@diario_abc.JPG"
-    },
-    {
-      "titulo": "Encuestas elecciones generales en Castilla-La Mancha: resultados de PSOE, PP y Vox y ganador según los sondeos el 29N",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/encuestas-elecciones-generales-castillala-mancha-resultados-psoe-20261029050000-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/29/candidatos-elecciones_20261028133304-R4i8E0qFtecHLI2PEjJo7oJ-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Juan del Val: «Pedro Sánchez no es de izquierdas ni de derechas. No tiene ideología ni escrúpulos»",
-      "link": "https://www.abc.es/play/television/noticias/juan-val-pedro-sanchez-izquierdas-derechas-ideologia-20261029161133-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/29/piseo-kGfB-RURgkjhTaNFoNKYptnu7K0J-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Tomás Gómez, exsecretario del PSOE de Madrid, alerta: «El panorama que se va a quedar en este país después de las elecciones es muy complicado»",
-      "link": "https://www.abc.es/play/television/noticias/tomas-gomez-exsecretario-psoe-madrid-alerta-espana-20261029083340-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/28/gomez-violencia--k0HD-U4041556182WHC-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Banco Sabadell gana 1.376 millones hasta septiembre, un 1% menos, tras la venta de TSB",
-      "link": "https://www.abc.es/economia/banco-sabadell-gana-1376-millones-septiembre-tras-20261029082336-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/29/marc-armengol-Rn9POXp31AqaXcfXWxlQsrM-1200x840@diario_abc.jpg"
+      "titulo": "Risto Mejide, 51 años: «Desayuno unas tostadas de pan tumaca con unas lonchas de jamón ibérico. Nunca bollería ni dulces»",
+      "link": "https://www.abc.es/gente/risto-mejide-anos-desayuno-tostadas-pan-tumaca-20261029084540-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/10/29/rm-kiZF-U4053059282YEH-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }

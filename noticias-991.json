@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Premios Emprendedor del Año a las ideas más innovadoras de Murcia",
+      "link": "https://emprendedores.es/ayudas/premios-emprendedor-del-ano-a-las-ideas-mas-innovadoras-de-murcia/",
+      "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/Wesog-1024x556.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El coste empresarial de no parar",
+      "link": "https://emprendedores.es/firmas/el-coste-empresarial-de-no-parar/",
+      "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/trabajadora-estresada-sosteniendo-la-cabeza-en-una-oficina-ocupada.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Pedro Pestana reparte 4 millones entre los 120 empleados de Marosa tras vender la empresa",
       "link": "https://emprendedores.es/casos-de-exito/marosa-reparto-empleados/",
       "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/marosa_pedro-pestana-scaled-mkt-schema-wide.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Franquicias nuevas con propuestas diferentes y poca competencia",
       "link": "https://emprendedores.es/franquicias/franquicias-nuevas/franquicias-nuevas-con-propuestas-diferentes-y-poca-competencia/",
       "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/franquicias-nuevas-mkt-schema-wide.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Carrefour: tu compra desde el móvil y en 30 minutos en tu casa",
-      "link": "https://emprendedores.es/franquicias/franquicias-actualidad/carrefour-tu-compra-desde-el-movil-y-en-30-minutos-en-tu-casa/",
-      "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/carrefour-delivery-mkt-schema-wide.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Del CV al proyecto: cómo presentar la trayectoria profesional de un fundador",
-      "link": "https://emprendedores.es/firmas/del-cv-al-proyecto-como-presentar-la-trayectoria-profesional-de-un-fundador/",
-      "imagen": "https://emprendedores.es/wp-content/uploads/2026/10/entrevista-de-trabajo-1.jpg",
       "tipo": "imagen"
     }
   ]
