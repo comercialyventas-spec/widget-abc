@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Catástrofes inasumibles",
+      "link": "https://elpais.com/opinion/2026-10-28/catastrofes-inasumibles.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/HA5EVI2BZFCFZC2LF3CG2SU3LY.jpg?auth=c4f0adc15494f684b121759030d9a13b730c04cff817856dd6380363462f7b8e",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Roto: consumistas",
       "link": "https://elpais.com/opinion/2026-10-29/el-roto-consumistas.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/N4HNGKI2K5C4BDKLLHURTDDDAU.jpg?auth=2d9a7b8e359f4764b16480fbccc1477e6084fc57e9ed556755a0a0b602f0c8f0",
@@ -27,13 +33,7 @@
     {
       "titulo": "Se acabó la campaña",
       "link": "https://elpais.com/opinion/2026-10-29/se-acabo-la-campana.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/DMQZLJ2RVFMJ7EXMYXKB23DM5M.jpg?auth=50e3b851a0354c5f0fffd3993963bf4853ab220274c848eb77e20615f607603c",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Putin es optimista con la ayuda de Trump",
-      "link": "https://elpais.com/opinion/2026-10-29/putin-es-optimista-con-la-ayuda-de-trump.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/KAT5BUKXN5HDJN2EFEM4FUJYSM.jpg?auth=f4145ca53f62ba415e330cd1530c6faed4615e66685459bef7fa6a7989316ea3",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VT2UJVUIDBDRZKFDJU67W6F7ZM.jpg?auth=6f396f5eba84c7b36c3b73f6d2b2c78642a3f871972621f4ad4d7a02876524a6",
       "tipo": "imagen"
     }
   ]

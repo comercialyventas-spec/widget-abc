@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "Al menos 68 muertos y más de 180 heridos al chocar dos trenes de alta velocidad en Urda, Toledo",
-      "link": "https://www.rtve.es/noticias/20261028/interrumpen-circulacion-linea-alta-velocidad-madrid-andalucia-por-alcance-entre-dos-trenes/17286647.shtml",
-      "imagen": "https://img.rtve.es/v/17287514?w=1600",
+      "titulo": "Suben a 69 las víctimas mortales en el accidente de tren de Urda y más de medio centenar de pasajeros siguen hospitalizados",
+      "link": "https://www.rtve.es/noticias/20261029/accidente-tren-urda-toledo-rescate-investigacion/17287958.shtml",
+      "imagen": "https://img.rtve.es/n/17287958?w=1600",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El accidente de Urda pausa la precampaña con un Gobierno en shock y Puente más cuestionado",
+      "link": "https://www.rtve.es/noticias/20261029/sanchez-gobierno-puente-cecopi-toledo-accidente-urda/17288002.shtml",
+      "imagen": "https://img.rtve.es/n/17288002?h=200",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El farmacéutico de Urda: \"Era una escena trágica y dantesca. No le deseo a nadie sufrirla ni verla\"",
+      "link": "https://www.rtve.es/noticias/20261029/farmaceutico-urda-escena-tragica-dantesca-no-deseo-nadie-sufrirla-ni-verla/17288020.shtml",
+      "imagen": "https://img.rtve.es/v/17288006?h=200",
       "tipo": "imagen"
     },
     {
@@ -19,21 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "La Guardia Civil y la CIAF interrogan al operario que regulaba el tráfico en el momento del accidente",
-      "link": "https://www.rtve.es/noticias/20261028/guardia-civil-interroga-operario-del-centro-control-regulaba-trafico-momento-del-accidente/17287370.shtml",
-      "imagen": "https://img.rtve.es/n/17287370?h=200",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Las operadoras bloquean la venta de billetes para las próximas semanas en alta velocidad entre Madrid y Andalucía, ¿qué alternativas hay?",
       "link": "https://www.rtve.es/noticias/20261028/cuales-alternativas-transporte-entre-madrid-andalucia-tras-accidente-tren-toledo/17287120.shtml",
       "imagen": "https://img.rtve.es/n/17287120?h=200",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Puente apunta a un error humano en el accidente de tren de Toledo y tacha de \"inexplicable\" la orden al AVE de retomar la marcha",
-      "link": "https://www.rtve.es/noticias/20261028/puente-apunta-a-error-humano-accidente-tren-toledo-tacha-inexplicable-orden-ave-retomar-marcha/17286898.shtml",
-      "imagen": "https://img.rtve.es/v/17287772?h=200",
       "tipo": "imagen"
     }
   ]

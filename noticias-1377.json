@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Crema de coliflor, ajo asado y anacardos",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-29/crema-de-coliflor-ajo-asado-y-anacardos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/64YB35DAM5E6VNPRG6GPB2V7HU.jpg?auth=23d8d2301be1e76196aabf8c6b5d6a18d756ee239a44c8bec00ea01d72fe5160",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Lentejas con chorizo, la receta para no fallar con un clásico",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-10-29/lentejas-con-chorizo-la-receta-para-no-fallar-con-un-clasico.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20261020/1227612_131756_video_1800.mp4",
@@ -28,12 +34,6 @@
       "titulo": "Acueo, ostras ecológicas sin lujos y acompañadas con sidra por 7 euros",
       "link": "https://elpais.com/gastronomia/2026-10-28/acueo-ostras-ecologicas-sin-lujos-y-acompanadas-con-sidra-por-7-euros.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/36XPWTIIZZHU5JOGTAHWVNMGFM.jpg?auth=26e8c096171db98b3097e9cb2c805dcaf5d8731495338b23cf75287308cb8d57",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tecelás da Terra, la biblioteca que presta semillas para preservar las variedades autóctonas gallegas",
-      "link": "https://elpais.com/gastronomia/2026-10-28/tecelas-da-terra-la-biblioteca-que-presta-semillas-para-preservar-las-variedades-autoctonas-gallegas.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ZXWW52KKRNEDHMW6ACKIAUOZ34.jpg?auth=c7babb7fbb7e5412bad1f0e1bbb91c7ba75fdcea418cac91dca7d2ffde10ec95",
       "tipo": "imagen"
     }
   ]

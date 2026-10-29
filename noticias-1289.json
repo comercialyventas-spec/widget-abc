@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El Gobierno recortó un 28,45% el coste de la seguridad de la línea Madrid - Sevilla",
+      "link": "https://www.mediterraneodigital.com/espana/seguridad-linea-madrid-sevilla",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/10/puente.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "España ya es el país del mundo con más muertos de la historia en accidentes ferroviarios",
+      "link": "https://www.mediterraneodigital.com/espana/espana-accidentes-alta-velocidad",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/10/accidente-tren.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Gobierno de Sánchez concedió 1.500 millones de euros para los trenes de Marruecos, Egipto y Uzbekistán",
       "link": "https://www.mediterraneodigital.com/espana/espana-trenes-marruecos-egipto-uzbekistan",
       "imagen": "https://www.mediterraneodigital.com/images/2026/10/sanchez-puente-trenes.jpg",
@@ -22,18 +34,6 @@
       "titulo": "La ultraizquierda incendia Bilbao para boicotear un acto de Vito Quiles",
       "link": "https://www.mediterraneodigital.com/espana/pais-vasco/vito-quiles-incidentes-bilbao",
       "imagen": "https://www.mediterraneodigital.com/images/2026/10/bilbao-disturbios.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Acuerdo histórico: la derecha española se une para ir juntos al Senado",
-      "link": "https://www.mediterraneodigital.com/espana/politica/pp-vox-senado",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/10/vox-pp.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Trabajadores de Más Madrid presentan una denuncia contra Tesh Sidi por «acoso laboral»",
-      "link": "https://www.mediterraneodigital.com/espana/politica/tesh-sidi-acoso-laboral",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/10/sidi.jpg",
       "tipo": "imagen"
     }
   ]

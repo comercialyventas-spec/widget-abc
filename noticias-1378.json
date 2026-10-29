@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Crema de coliflor, ajo asado y anacardos",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-29/crema-de-coliflor-ajo-asado-y-anacardos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/64YB35DAM5E6VNPRG6GPB2V7HU.jpg?auth=23d8d2301be1e76196aabf8c6b5d6a18d756ee239a44c8bec00ea01d72fe5160",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Lentejas con chorizo, la receta para no fallar con un clásico",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-29/lentejas-con-chorizo-la-receta-para-no-fallar-con-un-clasico.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20261020/1227612_131756_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Doce recetas para el otoño: sopas, guisos y ensaladas que preparamos cada semana",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-10-28/doce-recetas-para-el-otono-sopas-guisos-y-ensaladas-que-preparamos-cada-semana.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/OVZD2DFQN5DC3CWKHMYRRDTLMA.jpg?auth=783c6e616e4e57a3bbd00204fef0a9d4b52cca73a39eb102c76a5cf89f6334ec",
@@ -22,18 +34,6 @@
       "titulo": "Tres bocadillos jugosos y rápidos con jamón de Teruel",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-10-27/tres-bocadillos-jugosos-y-rapidos-con-jamon-de-teruel.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20261026/1230116_161123_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Es la fibra la nueva proteína? La industria de la comida insana se apunta al ‘fibermaxxing’",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-26/es-la-fibra-la-nueva-proteina-la-industria-de-la-comida-insana-se-apunta-al-fibermaxxing.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/XI743IQH75DBVAVYJVWEPM36WE.jpg?auth=6d6e4ad7a3a82167af247d7bf538043cd1142be97a5d5e3de3d349e5b070982a",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Menú semanal de El Comidista (26 de octubre a 1 de noviembre)",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-10-25/menu-semanal-de-el-comidista-26-de-octubre-a-1-de-noviembre.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/NDB7XB34HZCQPCCZCNOJKQXXJU.JPG?auth=b34be036073ed8bfcf8ff3ac5ed9b48edd52ad30b511794f9fc6822acb9c0ba3",
       "tipo": "imagen"
     }
   ]

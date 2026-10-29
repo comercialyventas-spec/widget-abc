@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "De la fábrica a los algoritmos: los trabajadores que narran y venden la transformación económica en China",
-      "link": "https://www.elmundo.es/economia/2026/10/29/6ac65bb9fc6c83c5108b4584.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/07/17913952313689.jpg",
+      "titulo": "BBVA gana 9.066 millones de euros hasta septiembre y eleva un 13,6% su beneficio",
+      "link": "https://www.elmundo.es/economia/empresas/2026/10/29/6ae2efc1e4d4d871118b456d.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/01/17829072438563.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Banco Sabadell reduce un 1% su beneficio, hasta 1.376 millones de euros, tras la venta de TSB",
+      "link": "https://www.elmundo.es/economia/empresas/2026/10/29/6ae2f180e4d4d8e7088b456d.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2025/06/25/17508385830953.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Naturgy mejora por tercera vez sus previsiones y se prepara para crecer con compras",
+      "link": "https://www.elmundo.es/economia/empresas/2026/10/29/6ae2fc8cfdddffcd638b45a6.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932606583298.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las lecciones no aprendidas en Adamuz: una investigación inacabada, una red a medio gas y ningún responsable político",
+      "link": "https://www.elmundo.es/economia/2026/10/28/6ae2184421efa0390e8b45b3.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/28/17932245646532.jpg",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "La Fed opta por la prudencia antes de las elecciones de mitad de mandato y mantiene los tipos de interés",
       "link": "https://www.elmundo.es/economia/2026/10/28/6ae23a7e21efa0d7558b45c7.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/28/17932108986684.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La industria de los centros de datos teme ahora una renegociación masiva de contratos si se aprueba el decreto",
-      "link": "https://www.elmundo.es/economia/empresas/2026/10/28/6ae0cff7fdddff7f4d8b4588.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2025/05/04/17463580084996.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El marketing español crece a golpe de descuentos mientras reduce empleo e inversión en branding: \"tener una marca fuerte hoy es más importante que nunca\"",
-      "link": "https://www.elmundo.es/economia/empresas/2026/10/27/6ae0d49dfdddfff7758b45c5.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2025/09/29/17591378691387.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "No estamos preparados para Anthropic: cuánto cuesta financiar el 'apocalipsis'",
-      "link": "https://www.elmundo.es/economia/dinero-inversion/2026/10/25/6adb38af21efa09a118b457c.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927679424296.jpg",
       "tipo": "imagen"
     }
   ]
