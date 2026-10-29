@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Christine Lagarde dejará la presidencia del BCE el 7 de febrero y abre la carrera por su sucesión",
+      "link": "https://elpais.com/noticias/bce-banco-central-europeo/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/YVTEOTYXM5BQFHUVOH4JVDJD4U.JPG?auth=5bdbd879aba5a783a73cb6e940090f2f651ca5e24abadcc25861d1efe7280f02&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Microsoft dispara su beneficio un 32% apoyada en la buena marcha de su negocio relacionado con la IA",
       "link": "https://elpais.com/noticias/microsoft/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ZTEC5BIFQVPL7LY4P4JG4XI7L4.jpg?auth=e186a26defcea966b2dfc404cebf911b19fefb53a14d1bef0f7a2894504b81da&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ZTEC5BIFQVPL7LY4P4JG4XI7L4.jpg?auth=e186a26defcea966b2dfc404cebf911b19fefb53a14d1bef0f7a2894504b81da&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Meta busca obtener hasta 95.000 millones de dólares para seguir financiando la carrera por la IA",
       "link": "https://elpais.com/noticias/meta-platforms/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/JRJ6QXV5URASBFYRYCGZ7WC2DQ.jpg?auth=c7ef5ea3cd4ad7353896f7d89d8c12a769f948f452ba3ff801812375ca6f38e1&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los mercados brasileños viven una de las peores sesiones en casi tres décadas tras la inesperada victoria de Lula",
-      "link": "https://elpais.com/economia/2026-10-26/los-mercados-brasilenos-afrontan-una-caida-historica-tras-la-inesperada-victoria-de-lula.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/NXWR5RIJZFHOHEF2OJELLDYLPQ.JPG?auth=8b896a06cb6b06f840b3af59540543c03a831395136a9a44a02a4677195d9a9f&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

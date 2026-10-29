@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La Generalitat de Cataluña confirma que 'Halloween' es de origen catalán",
+      "link": "https://www.mediterraneodigital.com/historia/halloween-catalunya",
+      "imagen": "https://www.mediterraneodigital.com/images/2022/10/origen-halloween.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Gobierno de Sánchez declara un templo masónico «Lugar de Memoria Democrática»",
       "link": "https://www.mediterraneodigital.com/historia/templo-masonico-de-santa-cruz-de-tenerife",
       "imagen": "https://www.mediterraneodigital.com/images/2026/10/masoneria.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Roban el Tesoro de Villena",
       "link": "https://www.mediterraneodigital.com/historia/tesoro-de-villena",
       "imagen": "https://www.mediterraneodigital.com/images/2026/8/tesoro-de-villena.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un ministro marroquí, Ahmed Toufiq, llama ante el rey Mohamed VI a «liberar los territorios ocupados» de Ceuta y Melilla",
-      "link": "https://www.mediterraneodigital.com/historia/ceuta-melilla-marruecos",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/8/marruecos.jpg",
       "tipo": "imagen"
     }
   ]

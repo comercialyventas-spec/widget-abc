@@ -1,15 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "Un festín musical para Álvaro Pombo",
-      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20261028/maria-climent-critica-libro-punt-retorn-135489821",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/02a3f1b9-365b-4d0f-8d46-0cd7d990d217_source-aspect-ratio_320w_0.jpg",
+      "titulo": "La ficción que nos habita",
+      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20261029/antoine-compagnon-critica-biografia-colette-135492395",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/dec8e50b-015d-430a-839d-126b0d8a7f02_source-aspect-ratio_320w_0.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La ficción que nos habita",
+      "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261029/valeria-luiselli-libro-principio-medio-fin-135498096",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/dec8e50b-015d-430a-839d-126b0d8a7f02_source-aspect-ratio_320w_0.jpeg",
       "tipo": "imagen"
     },
     {
       "titulo": "Un festín musical para Álvaro Pombo",
       "link": "https://www.elperiodico.com/es/ocio-y-cultura/libros/20261028/hidrogenesse-disco-alvaro-pombo-135497568",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/02a3f1b9-365b-4d0f-8d46-0cd7d990d217_source-aspect-ratio_320w_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "‘Punt de no retorn’, de Maria Climent: bendita crisis",
+      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20261028/maria-climent-critica-libro-punt-retorn-135489821",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/65e924a1-db10-430c-9f7f-0411b386f705_16-9-discover-aspect-ratio_default_0_x534y237.webp",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "‘Esta es tu casa’, de Jon Bilbao: más allá de las evidencias",
       "link": "https://www.epe.es/es/ocio-y-cultura/libros/20261027/jon-bilbao-critica-libro-cuentos-esta-es-tu-casa-135488542",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/208e65a4-5559-48b2-884a-a1eeee377da1_16-9-discover-aspect-ratio_default_0_x320y142.webp",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "'La caja de los truenos', de Pablo Fernández-Miranda: en el jardín de la Transición",
-      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20261027/pablo-fernandez-miranda-critica-libro-caja-truenos-135494800",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/60474eb0-2a85-463b-937c-df6e2df83f2e_16-9-discover-aspect-ratio_default_0_x519y505.webp",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sofía V. Paura, directora de arte: \"Los directores de arte hacemos visible la idea\"",
-      "link": "https://www.epe.es/es/ocio-y-cultura/libros/20261026/sofia-paura-directora-arte-135529555",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7e1c0375-9b1e-43c0-8168-90843ebd6a0a_16-9-discover-aspect-ratio_default_0_x367y260.webp",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Doc (Estados Unidos)",
+      "link": "https://elpais.com/television/series/doc/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/YUDVUQMRRBEVVMHBKMO27RM2UI.jpg?auth=79a8a5a996c037cb3596d7231ebfe7d0f8c32f9e61e49ca93733e4f400e3d7a1",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Balaraw: La isla sangrienta",
+      "link": "https://elpais.com/television/series/balaraw-la-isla-sangrienta/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4DMOLOEULZDY3OPIQZLVP5KZZI.jpg?auth=e5933f0dcaf185fd9aaf66d5571c97197c18ded18b0b49c70998d763f0ae7ee3",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "‘Horizonte’ de Iker Jiménez lidera la noche con su cobertura del accidente de trenes en Toledo con datos récord para el programa",
       "link": "https://elpais.com/television/2026-10-29/horizonte-de-iker-jimenez-lidera-la-noche-con-su-cobertura-del-accidente-de-trenes-en-toledo-con-datos-record-para-el-programa.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/FUI7XDF2SRHGNEHHHAMQ7JRJ44.jpeg?auth=12f33d58dc972dc59f840ed917f0947be45463168f3466cdba375fc9eca6f678",
@@ -22,18 +34,6 @@
       "titulo": "Trigger Point: Fuera de control",
       "link": "https://elpais.com/television/series/trigger-point-fuera-de-control/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/IR7DHTC3W5EKJPJKOCPXL3FQAM.jpg?auth=68cc9ed4895e0b5ec0c89a47232367062848014076cade8be4239334b3faafa5",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La serie de ‘Harry Potter’ incorpora a su reparto a los actores que interpretarán a Charlie Weasley, James Potter y Lily Potter",
-      "link": "https://elpais.com/television/series/2026-10-28/la-serie-de-harry-potter-incorpora-a-su-reparto-a-los-actores-que-interpretaran-a-charlie-weasley-james-potter-y-lily-potter.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/GSBFNO6LQFAKPCEIY6TLMHMDQU.webp?auth=67236899ab165b74266e978cd6e0cab361a8e704e9bf3a64e156186147b9fe74",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La visita de Gabriel Rufián e Irene Montero da a ‘La Revuelta’ el tercer programa más visto de su historia",
-      "link": "https://elpais.com/television/2026-10-28/la-visita-de-gabriel-rufian-e-irene-montero-da-a-la-revuelta-el-tercer-programa-mas-visto-de-su-historia.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261028/1230845_064315_video_1800.mp4",
       "tipo": "imagen"
     }
   ]

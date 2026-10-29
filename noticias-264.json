@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Asesinado a tiros un hombre ingresado en un hospital de Tarragona",
+      "titulo": "Asesinado a tiros un hombre ingresado en un hospital de Tarragona al que ya habían intentado matar en Salou",
       "link": "https://www.abc.es/espana/cataluna/ejecutado-tiros-hombre-ingresado-hospital-tarragona-20261029091842-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/29/mossos-cordon-RQgPuc22E4yNLi3EfF9vubM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un presidente",
+      "link": "https://www.abc.es/espana/cataluna/daniel-tercero-presidente-20261029150718-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/29/psanchez-RywoDH7hWClrzZFtdSVtJKJ-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -19,21 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Un hombre se entrega en Madrid para confesar el crimen de su expareja en Barcelona: «Esta noche la he estrangulado en casa»",
-      "link": "https://www.abc.es/espana/cataluna/hombre-entrega-madrid-confiesa-haber-matado-mujer-20261028193157-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/mossos-detenido-R9Q872mk0RwqreFMC3BgF6J-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Saó d'Orígens une sin fusionar la cocina catalana y la técnica japonesa en Muntaner con Vía Augusta",
       "link": "https://www.abc.es/espana/cataluna/sao-dorigens-une-fusionar-cocina-catalana-tecnica-20261028193955-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/puntazogastro_20261028193108-RzydVkrQTTXJeqP8ocdzHxJ-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Los Mossos descartan que extremismos violentos estén tras los disturbios «sin precedentes» de Blocus",
-      "link": "https://www.abc.es/espana/cataluna/blocus-barcelona-20261028175326-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/blocus-barcelona-RtXCOYUwtrcGYD6nd84EzLK-1200x840@diario_abc.jpeg",
+      "titulo": "Un hombre se entrega en Madrid para confesar el crimen de su expareja en Barcelona: «Esta noche la he estrangulado en casa»",
+      "link": "https://www.abc.es/espana/cataluna/hombre-entrega-madrid-confiesa-haber-matado-mujer-20261028193157-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/mossos-detenido-R9Q872mk0RwqreFMC3BgF6J-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

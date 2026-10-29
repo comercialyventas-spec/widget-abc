@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Evento socio-cultural en Bailén y Mayor. Afectadas 3 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261101-Desfile-Dia-Muertos-Centro.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Manifestación en avenida de la Albufera. Afectadas 5 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261030-M-Av-Albufera.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -27,12 +33,6 @@
     {
       "titulo": "Recuperación de Parada: Jesús del Pino. Afectadas 3 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261029-RP-4693-Jesus-Del-Pino.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Incidencia en la calzada: Plaza San Juan de la Cruz. Afectadas 11 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261029-IC-Rios-Rosas.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

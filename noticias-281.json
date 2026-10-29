@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Sigue en directo la rueda de prensa de María Corina Machado tras su llegada a Venezuela",
+      "link": "https://www.abc.es/internacional/sigue-directo-rueda-prensa-maria-corina-machado-20261029164709-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/29/1519457291%20(1)-RCxLxWHawTdEMMqA6zmIlMK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Muere, a los 92 años, Cuauhtémoc Cárdenas, figura capital de la transición democrática de México",
+      "link": "https://www.abc.es/internacional/muere-cuauhtemoc-cardenas-anos-figura-capital-transicion-20261029134111-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/29/1519459663-RfvVEvcnKBQtqwj0aisRMPL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La líder de La Izquierda de Berlín censura sus respuestas en una entrevista por miedo a Hamás",
       "link": "https://www.abc.es/internacional/lider-izquierda-berlin-somete-censura-hamas-20261029113521-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/29/1519475357-ReuxLeBN1P0qJ7FVCcC81xN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Al menos 13 muertos tras un ataque ruso en una estación de tren de Ucrania",
+      "link": "https://www.abc.es/internacional/rusia-derriba-1200-drones-ucrania-cifra-alta-20261029092454-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/29/1519480333-REkKFDCtVXLZ5QZKDEVwVCP-1200x840@diario_abc.JPG",
       "tipo": "imagen"
     },
     {
@@ -13,27 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Al menos 13 muertos en un ataque ruso contra un tren en Ucrania",
-      "link": "https://www.abc.es/internacional/rusia-derriba-1200-drones-ucrania-cifra-alta-20261029092454-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/29/1519472800-REkKFDCtVXLZ5QZKDEVwVCP-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Sullivan contra Sullivan: la guerra sucia de los demócratas en Alaska",
       "link": "https://www.abc.es/internacional/sullivan-sullivan-guerra-sucia-democratas-alaska-20261029091745-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/29/alaska-RbhUtc1NzrmzY8BmGZrJ5ZI-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Netanyahu resiste en las urnas y la oposición se divide ante el pacto con los árabes",
-      "link": "https://www.abc.es/internacional/netanyahu-resiste-urnas-oposicion-divide-ante-pacto-20261028182325-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/28/1519442343-RZ5W0tXHccfvtZVFOx07sJO-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "María Corina Machado visita la zona devastada de La Guaira por el doble terremoto",
-      "link": "https://www.abc.es/internacional/maria-corina-machado-visita-zona-devastada-guaira-20261028231025-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/28/1519450941-khEI-U4064968253Z4G-1200x840@diario_abc.JPG",
       "tipo": "imagen"
     }
   ]

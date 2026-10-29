@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Las recetas de Isabel Coixet para llevar la vida con humor: anchoas y champán (de desayuno)",
+      "link": "https://www.abc.es/xlsemanal/recetas-isabel-coixet-libro-silencio-se-come-20261026171856-ntrc.html",
+      "imagen": "https://static.vocento.com/xlsemanal/2026/10/26/coixet%20naranjas-kxaF--562x393@RC.jpg?width=562",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La tragedia, en gráficos",
       "link": "https://www.abc.es/espana/castilla-la-mancha/accidente-tren-urda-mapas-datos-sobre-tragedia-20261028164902-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/29/accidente-tren-urda-562x393.jpg?width=562",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/29/urda-visual-562x315.jpg?width=562",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Brujería, secuestros y diablos para leer en Halloween",
+      "link": "https://www.abc.es/cultura/libros/brujeria-secuestros-diablos-leer-halloween-20261028014918-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/28/IMG_4942_20261028143348-U47615146113Cyh-562x315@diario_abc.JPG?width=562",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "De hacer retos de comida a marcar la agenda electoral",
+      "link": "https://www.abc.es/gente/historia-jordi-wild-retos-comida-marcar-agenda-20261027012217-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/10/27/PORTADA%20SHOW%201920X1080-klkF-U40309956580-562x315@diario_abc.png?width=562",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "Desde la zona cero: «La urgencia es inabarcable»",
       "link": "https://www.abc.es/espana/zona-cero-urgencia-inabarcable-20261028163142-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/HORIZONTAL.00_05_18_09.Imagen%20fija005_20261028164804-U77105055661miF-562x315@diario_abc.jpg?width=562",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El choque del AVE y el Iryo, desde el aire: todos los vídeos del accidente en Toledo",
-      "link": "https://www.abc.es/espana/video-cronologia-accidente-ferroviario-toledo-20261028111228-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/02cc9467-f015-4319-be43-87e804cd4a27-U201157731614IlH-U80517350815OMw-562x315@diario_abc.jpg?width=562",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Cómo nos manejamos y dónde lo destinamos?",
-      "link": "https://www.abc.es/economia/cuentas-corrientes/sabemos-espanoles-dinero-manejamos-destinamos-20261020011616-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/20/1439843515-U20827340738iWH--562x315@diario_abc.jpg?width=562",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "De hacer retos de comida a marcar la agenda electoral",
-      "link": "https://www.abc.es/gente/historia-jordi-wild-retos-comida-marcar-agenda-20261027012217-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/10/27/PORTADA%20SHOW%201920X1080-klkF-U40309956580-562x315@diario_abc.png?width=562",
       "tipo": "imagen"
     }
   ]

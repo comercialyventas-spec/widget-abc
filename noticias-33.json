@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "17 minutos",
+      "link": "https://www.lavanguardia.com/opinion/20261029/11670966/17-minutos.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/29/6ae337d556c37.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La tragedia silencia la política",
       "link": "https://www.lavanguardia.com/opinion/20261029/11670530/tragedia-silencia-politica.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/28/6ae22fe475d74.r_d.1324-1025-0.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Los viejos poderes",
       "link": "https://www.lavanguardia.com/opinion/20261029/11670080/viejos-poderes.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/28/6ae1d3ac8da36.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El amigo que piensa distinto",
-      "link": "https://www.lavanguardia.com/opinion/20261029/11670079/amigo-piensa-distinto.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/28/6ae1d46895db8.jpeg",
       "tipo": "imagen"
     }
   ]

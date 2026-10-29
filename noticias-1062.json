@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Nuevo diseño de nuestras gorras best seller «Gorra HEGO»",
+      "link": "https://tienda.eldebate.com/gorra-hego",
+      "imagen": "https://tienda.eldebate.com/media/catalog/product/cache/2a3ebd75b151fff9413b04d59c86ce46/g/o/gorra_hego_modelo_optimizada.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "'use strict'; function initMiniSearch() { return { minSearchLength: 3, suggestions: [], suggest() { const search = this.$refs.searchInput; if (search.",
       "link": "https://tienda.eldebate.com/",
       "imagen": "https://tienda.eldebate.com/media/logo/websites/4/eldebate-logo-short.png",
@@ -9,13 +15,13 @@
     {
       "titulo": "Accesorios Tecnología Moda Viajes Ocio y tiempo libre Hogar España Gastronomía",
       "link": "https://tienda.eldebate.com/accesorios",
-      "imagen": "https://tienda.eldebate.com/static/version1793011495/frontend/Hiberus/eldebate/es_ES/Hiberus_Seo/images/tienda-eldebate.jpg",
+      "imagen": "https://tienda.eldebate.com/static/version1793286171/frontend/Hiberus/eldebate/es_ES/Hiberus_Seo/images/tienda-eldebate.jpg",
       "tipo": "imagen"
     },
     {
       "titulo": "Ocio y tiempo libre",
       "link": "https://tienda.eldebate.com/ocio-y-tiempo-libre",
-      "imagen": "https://tienda.eldebate.com/static/version1793011495/frontend/Hiberus/eldebate/es_ES/Hiberus_Seo/images/tienda-eldebate.jpg",
+      "imagen": "https://tienda.eldebate.com/static/version1793286171/frontend/Hiberus/eldebate/es_ES/Hiberus_Seo/images/tienda-eldebate.jpg",
       "tipo": "imagen"
     },
     {
@@ -27,12 +33,6 @@
     {
       "titulo": "Mi cesta El carrito está vacío x Eliminar Subtotal: Realizar pedido o Ver y editar carrito loader Cargando...",
       "link": "https://tienda.eldebate.com/checkout/",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "¿Olvidaste la contraseña?",
-      "link": "https://tienda.eldebate.com/customer/account/forgotpassword/",
       "imagen": "",
       "tipo": ""
     }

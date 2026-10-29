@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Un lector: “Lo que en un coche parece un adelantamiento rápido, para el ciclista es un veloz latigazo de aire”",
+      "link": "https://elpais.com/autor/cartas-director/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/JVMM2IVGHZFONHVSWW33XPADH4.jpg?auth=e4429182f51155ef29a4aab8bcbe4a22fe6ffe34f0b930f3328a664d11254555&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Recorrido del Tour de Francia 2027: Puy de Dôme para Paula Blasi; dinamita en los Pirineos para Tadej Pogacar",
-      "link": "https://elpais.com/noticias/tour-francia/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/XF22IHSFUVCRVDNYD6S32IT4EI.jpg?auth=32d55ade0e2adbfd013857a1de9e6476615c0d24fc9b7a934210354256b37566&width=414&height=233&smart=true",
+      "link": "https://elpais.com/deportes/ciclismo/2026-10-22/recorrido-del-tour-de-francia-2027-puy-de-dome-para-paula-blasi-dinamita-en-los-pirineos-para-tadej-pogacar.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XF22IHSFUVCRVDNYD6S32IT4EI.jpg?auth=32d55ade0e2adbfd013857a1de9e6476615c0d24fc9b7a934210354256b37566&width=1200",
       "tipo": "imagen"
     },
     {
@@ -15,25 +21,19 @@
     {
       "titulo": "Paul Seixas alcanza en el Giro de Lombardía su futuro anunciado",
       "link": "https://elpais.com/deportes/ciclismo/2026-10-10/paul-seixas-alcanza-en-el-giro-de-lombardia-su-futuro-anunciado.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/H6XHKXTVENOEBD6T7P7OE6RVLM.jpg?auth=7df51636a732f49cf99fc6dc3cd3ff783a1d95d00ca91bef1aa6e810b2356a2a&width=1200",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/H6XHKXTVENOEBD6T7P7OE6RVLM.jpg?auth=7df51636a732f49cf99fc6dc3cd3ff783a1d95d00ca91bef1aa6e810b2356a2a&width=414&height=233&focal=2865%2C1088",
       "tipo": "imagen"
     },
     {
       "titulo": "Pippa York: “Las trans no somos el problema en el mundo femenino: nosotras no agredimos a otras mujeres”",
       "link": "https://elpais.com/deportes/ciclismo/2026-10-09/pippa-york-las-trans-no-somos-el-problema-en-el-mundo-femenino-nosotras-no-agredimos-a-otras-mujeres.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/MMB2TBIZWREYXBCZ7URQM4I3VA.JPG?auth=9dc94d765961f1cd2d232a50ab35e08168f3a74a704a25f6647f6f82f69832bc&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/MMB2TBIZWREYXBCZ7URQM4I3VA.JPG?auth=9dc94d765961f1cd2d232a50ab35e08168f3a74a704a25f6647f6f82f69832bc&width=1200",
       "tipo": "imagen"
     },
     {
       "titulo": "Pippa York, del barrio más duro de Glasgow a pedalear por los Pirineos",
-      "link": "https://elpais.com/deportes/ciclismo/2026-10-09/pippa-york-del-barrio-mas-duro-de-glasgow-a-pedalear-por-los-pirineos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/YHBXHBGPMJECPHFMBVFAB7E4AQ.jpg?auth=5916cc105c939a85e166014910e9d2d7959b84ea7375ad50268a9423b5e4be83&width=1200",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Chava Jiménez y Ángel Arroyo: dos ciclistas barrocos comparten eternidad en la Castilla dura y austera",
       "link": "https://elpais.com/noticias/ciclismo/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/YMTQL3DZHFPINDFC4ASLOVINIA.jpg?auth=1f588e98cf4cf8b012b999005f5b26630a1a4822c8ff895344646084b0ca65a9&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/YHBXHBGPMJECPHFMBVFAB7E4AQ.jpg?auth=5916cc105c939a85e166014910e9d2d7959b84ea7375ad50268a9423b5e4be83&width=414&height=233&focal=4097%2C1706",
       "tipo": "imagen"
     }
   ]
