@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Qué ocurre en el cerebro cuando intentamos calmarnos: un estudio cuestiona una idea muy extendida",
+      "link": "https://www.elconfidencial.com/salud/2026-10-29/cerebro-mapa-investigacion-emociones_4454822/",
+      "imagen": "https://images.ecestaticos.com/HAiVKnAXrogeqveDF7ba7M9z0s0=/0x50:2272x1328/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3e9%2F15a%2Fe84%2F3e915ae848f48d5025bb4a87f2159a68.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un fármaco en lugar del bisturí: la inmunoterapia que elimina ciertos tumores de recto sin cirugía",
+      "link": "https://www.elconfidencial.com/salud/2026-10-29/farmaco-inmunoterapia-cancer-operacion_4453968/",
+      "imagen": "https://images.ecestaticos.com/EYnteXdgGBHmlxe5RjOrvIsQxKw=/0x94:1254x799/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F128%2F772%2Ff21%2F128772f21f760f1def6d67ff489618ea.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El trauma psicológico tras un accidente ferroviario: \"¿Por qué otros han fallecido y yo he salido ileso?\"",
+      "link": "https://www.elconfidencial.com/salud/2026-10-29/accidente-trenes-trauma-psicologico_4454871/",
+      "imagen": "https://images.ecestaticos.com/gSPYfO5f_o9a3y5RvJUnbURqNgk=/0x167:2272x1445/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4ab%2F43a%2Fb72%2F4ab43ab72647092f9f094279d9d0de96.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Liu Zheng, experto en medicina tradicional china: \"La hipertensión es un desajuste entre el corazón y los riñones\"",
       "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-28/liu-zheng-experto-medicina-tradicional-hipertension-fallo-1qrt_4416061/",
       "imagen": "https://images.ecestaticos.com/YaNQxynG-y84pFMmvpoMx_M2_us=/0x0:802x451/0x900/filters:format(png)/f.elconfidencial.com%2Foriginal%2Fc2b%2F60b%2Fde4%2Fc2b60bde45c4805dcdbb1506fdc889d1.png",
@@ -16,24 +34,6 @@
       "titulo": "El absentismo laboral en España tiene un impacto de 92.000 millones",
       "link": "https://www.elconfidencial.com/empleo/2026-10-28/absentismo-laboral-espana-impacto-economico-1hms_4454798/",
       "imagen": "https://images.ecestaticos.com/ilMcIrvu14RZfLwTt5vmYkZu0B0=/0x0:2272x1285/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff8a%2F73f%2F10b%2Ff8a73f10b455676bee39e87702eb30d3.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Gerardo Ochoa, médico: \"Si una persona está sana, tener el colesterol elevado no implica necesariamente que exista un problema\"",
-      "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-10-28/gerardo-ochoa-medico-persona-sana-colesterol_4377225/",
-      "imagen": "https://images.ecestaticos.com/XmgNqEWxr0eKpHqqGoZ0nHT3HsM=/0x0:1440x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F286%2Ff4b%2F5a5%2F286f4b5a5dbc215f388d7814c46c385e.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las enfermeras envían sus condolencias y se ponen a disposición de las autoridades por el accidente de trenes en Toledo",
-      "link": "https://www.elconfidencial.com/salud/2026-10-28/enfermeras-condolencias-accidente-trenes_4454683/",
-      "imagen": "https://images.ecestaticos.com/vR4riYJgFHuMCxfX-fUOUeU3Q-Y=/0x0:2272x1278/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe26%2Fefc%2F940%2Fe26efc940c926f8f8714f037d520e709.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Respuesta \"impresionante\" de los madrileños después del llamamiento para donar sangre tras el accidente de tren en Urda (Toledo)",
-      "link": "https://www.elconfidencial.com/salud/2026-10-28/1qrt-donar-sangre-accidente-urda-toledo-madrid-llamamiento-urgente-puntos_4454640/",
-      "imagen": "https://images.ecestaticos.com/IdjjUUxz-z9LBCQ91Ngah_W1Ov4=/0x170:2272x1448/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4b8%2Fda3%2Fc2b%2F4b8da3c2b9d670a100a285c4f26be0f8.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Empieza otra campaña electoral",
+      "link": "https://elpais.com/videos/2026-10-29/empieza-otra-campana-electoral.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261028/1231250_203514_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cronología visual: todas las imágenes del accidente de trenes de Toledo",
       "link": "https://elpais.com/espana/2026-10-28/cronologia-visual-todas-las-imagenes-del-accidente-de-trenes-de-toledo.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261028/1231252_204011_video_1800.mp4",
@@ -28,12 +34,6 @@
       "titulo": "Última hora desde Toledo: lo que se sabe del accidente de trenes en Urda | Programa especial de vídeo",
       "link": "https://elpais.com/videos/2026-10-28/programa-especial-accidente-de-trenes-en-toledo.html",
       "imagen": "https://www.youtube.com/watch?v=4Vosv_vRO_A",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El vídeo de un pasajero desde la vía que muestra cómo quedaron los vagones del accidente de tren de Toledo",
-      "link": "https://elpais.com/videos/2026-10-28/el-video-de-un-pasajero-desde-la-via-que-muestra-como-quedaron-los-vagones-del-accidente-de-tren-de-toledo.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261028/1231065_142055_video_1800.mp4",
       "tipo": "imagen"
     }
   ]

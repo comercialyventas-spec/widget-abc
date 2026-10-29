@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Siempre, la radio",
+      "link": "https://www.elperiodico.com/es/tele/20261029/poder-radio-accidente-tren-justo-molinero-video-sergi-mas-135861076",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/742c7be8-2806-4f29-8797-60234a1a39c0_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La 2Cat inicia una nueva etapa con un canal propio en la TDT, y con más oferta en catalán, a partir del 5 de noviembre",
       "link": "https://www.elperiodico.com/es/tele/20261028/2cat-nuevo-canal-tdt-catalan-135838202",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/4cb54276-f6ae-428e-89b6-470bc617e345_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Berta Prieto: \"Seguro que los Javis también preferirían hablar antes con Hitler que conmigo\"",
       "link": "https://www.elperiodico.com/es/tele/20261027/berta-prieto-segunda-temporada-serie-135756733",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/e0798a73-6812-4362-908a-db1df44d32bb_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cosas que no entiendo de la tele",
-      "link": "https://www.elperiodico.com/es/tele/20261027/sergi-mas-video-cosas-no-entiendo-tele-135779531",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0da0dbec-89b6-4851-ab95-32c94ae30ec9_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Elecciones en Israel: la democracia en cuestión",
+      "link": "https://www.eldiario.es/opinion/tribuna-abierta/elecciones-israel-democracia-cuestion_129_13622508.html",
+      "imagen": "https://static.eldiario.es/clip/e2e12a06-c3ed-47cc-ba21-6618df50a0ed_avatar-200-aspect-ratio_default_0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Brasilia, conexión Madrid",
       "link": "https://www.eldiario.es/opinion/tribuna-abierta/brasilia-conexion-madrid_129_13619467.html",
       "imagen": "https://static.eldiario.es/clip/4c77f48c-d25e-4810-a580-89702a94ac60_avatar-200-aspect-ratio_default_0.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Mensaje desde Francia: cuando la nada es todo el horizonte",
       "link": "https://www.eldiario.es/opinion/tribuna-abierta/mensaje-francia-horizonte_129_13606467.html",
       "imagen": "https://static.eldiario.es/clip/f3bec7aa-7239-46d6-a438-10f32e4bda72_avatar-200-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Violencia y libertad en la enseñanza",
-      "link": "https://www.eldiario.es/opinion/tribuna-abierta/violencia-libertad-ensenanza_129_13600214.html",
-      "imagen": "https://static.eldiario.es/clip/fc9262a4-36aa-47e8-abe9-4fb844be7da6_avatar-200-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Nueva tragedia en la Alta Velocidad española: decenas de muertos en un accidente en Toledo",
+      "link": "https://www.mediterraneodigital.com/sucesos-espana/accidente-tren-toledo",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/10/tren-toledo.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Grave accidente ferroviario en Toledo: chocan dos trenes de alta velocidad en Urda",
+      "link": "https://www.mediterraneodigital.com/sucesos-espana/accidente-tren-urda",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/10/accidente-urda.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Detenido por agredir sexualmente a una joven de 22 años en la acampada de Sol",
       "link": "https://www.mediterraneodigital.com/sucesos-espana/violacion-acampada-sol",
       "imagen": "https://www.mediterraneodigital.com/images/2026/10/sol.jpg",
@@ -16,18 +28,6 @@
       "titulo": "La Policía investiga dos denuncias por violación en Ceuta contra dos ilegales marroquíes",
       "link": "https://www.mediterraneodigital.com/sucesos-espana/violaciones-ceuta-marroquies",
       "imagen": "https://www.mediterraneodigital.com/images/2022/6/violacion-p.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un hombre español mata a su pareja a puñaladas en Madrid",
-      "link": "https://www.mediterraneodigital.com/sucesos-espana/carabanchel-violencia-de-genero",
-      "imagen": "https://www.mediterraneodigital.com/images/2022/11/policia-nacional.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Defiende a dos chicas de ser agredidas sexualmente y es estrangulado por un africano",
-      "link": "https://www.mediterraneodigital.com/sucesos-espana/agresion-estacion-palma",
-      "imagen": "https://www.mediterraneodigital.com/images/2021/9/violacion-inmigrantes.jpg",
       "tipo": "imagen"
     }
   ]
