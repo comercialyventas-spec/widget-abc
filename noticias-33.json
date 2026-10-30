@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La cordialidad evangélica de Moreno Bonilla",
+      "link": "https://www.lavanguardia.com/opinion/20261030/11670053/cordialidad-evangelica-moreno-bonilla.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/28/6ae1d18c0aa25.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "AVE: de sueño a pesadilla",
       "link": "https://www.lavanguardia.com/opinion/20261030/11671374/ave-sueno-pesadilla.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/29/6ae37f29976a4.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Quizá voten",
       "link": "https://www.lavanguardia.com/opinion/20261030/11671056/quiza-voten.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/29/6ae324c2d8bbe.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Unidad de acción?",
-      "link": "https://www.lavanguardia.com/opinion/20261030/11671026/unidad-accion.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/29/6ae31e1d73841.jpeg",
       "tipo": "imagen"
     }
   ]

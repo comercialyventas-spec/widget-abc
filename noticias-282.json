@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "El seguro que todos los viajeros lo tienen al comprar un billete, aunque la mayoría lo desconoce",
+      "link": "https://www.abc.es/economia/cuentas-corrientes/seguro-viajeros-comprar-billete-mayoria-desconoce-20261029011133-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/29/ave-viajeros-RgcwlDEKjxzORRhSUcNO5FL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "España dedica la mitad que la UE al mantenimiento ferroviario: 45,5 millones cada mil kilómetros",
       "link": "https://www.abc.es/economia/espana-dedica-455-millones-mantenimiento-ferroviario-mil-20261030013804-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/30/1202003497-RyaZPMtJqzINwjEtOiV8EdI-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Marcha normal en lugar de marcha a la vista: la orden del centro de mando de Atocha al AVE que chocó contra el Iryo",
+      "link": "https://www.abc.es/economia/marcha-normal-lugar-marcha-vista-orden-centro-20261029095746-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/29/urda-trenes-kE8H-U4068352211b4F-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "El precio de la gasolina y el diésel se contiene, pero las ayudas no impiden que repostar sea más caro que hace un año",
       "link": "https://www.abc.es/economia/cuentas-corrientes/precio-gasolina-diesel-contiene-puertas-puente-gracias-20261030011211-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/29/deposito.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El seguro que todos los viajeros tienen al comprar un billete, aunque la mayoría desconoce",
-      "link": "https://www.abc.es/economia/cuentas-corrientes/seguro-viajeros-comprar-billete-mayoria-desconoce-20261029011133-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/29/ave-viajeros-RgcwlDEKjxzORRhSUcNO5FL-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Cobrarás menos si enfermas? El drástico cambio de la Seguridad Social en las bajas médicas desde diciembre",
-      "link": "https://www.abc.es/economia/cuentas-corrientes/cobraras-enfermas-drastico-cambio-seguridad-social-bajas-20261029010223-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/29/bajas-voluntarias-R4b1ZRgN82xD5T8BBG6eezN-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

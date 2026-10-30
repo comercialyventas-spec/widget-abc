@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El renacer de Pierre Cardin",
+      "link": "https://elpais.com/eps/2026-10-30/el-renacer-de-pierre-cardin.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/EUMP7WJ4M5HWFFRLN45WQOPZF4.jpg?auth=2020f3ac30453499d36470747aa9d418c94a64a4b2587528f54b906693732493",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un año con Alcalá Norte: un grupo disfuncional ante el reto de su segundo disco",
+      "link": "https://elpais.com/eps/2026-10-30/un-ano-con-alcala-norte-un-grupo-disfuncional-ante-el-reto-de-su-segundo-disco.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/DJFTBTSFTNGJPLCSKEQQJ2NKPY.jpg?auth=4b25ab33570080ffd3f2c5603ea3aacbfe7c9d595db004609294d7f8569ecc6a",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La verdadera historia de cómo se conquistó el Polo Norte",
       "link": "https://elpais.com/eps/2026-10-29/la-verdadera-historia-de-como-se-conquisto-el-polo-norte.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/KZPYUZZTZ5DTDBVGDS5W3QV2YQ.jpg?auth=3015ca1015e1979b6664e6839233ab369caf027e5caca55ad8862e2d2b22f619",
@@ -22,18 +34,6 @@
       "titulo": "Paul Smith cumple 80 años en lo alto de la moda: “Sigo vistiendo a gente muy famosa, pero pienso en ellos como personas normales”",
       "link": "https://elpais.com/eps/2026-10-28/paul-smith-cumple-80-anos-en-lo-alto-de-la-moda-sigo-vistiendo-a-gente-muy-famosa-pero-pienso-en-ellos-como-personas-normales.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/PNLO4TEG3VGULFZKOECYIIGLIA.jpg?auth=6386a46bd3a90c4c4a053836bc9a9ace24a932c4672691aa672d88eaf1e1b477",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una ‘app’ para preservar la memoria palestina",
-      "link": "https://elpais.com/eps/2026-10-27/una-app-para-preservar-la-memoria-palestina.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/7VXA42CPVBCUPPMBQD4ODB7WJ4.jpg?auth=2e7078ebc28efe6baaaff665e314b38d23a14c9fcbc3e9b371e61e867f3a8ddc",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La nueva vida del carro de la compra, un icono de la cultura popular que se reinventa",
-      "link": "https://elpais.com/eps/2026-10-26/la-nueva-vida-del-carro-de-la-compra-un-icono-de-la-cultura-popular-que-se-reinventa.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/VCTV4WTT4ZG65I4JJ42RF5Q25E.jpg?auth=d2fe1d3b948e9bd93be233e7d188308600a2108c6501ab05c140cb7f56563015",
       "tipo": "imagen"
     }
   ]
