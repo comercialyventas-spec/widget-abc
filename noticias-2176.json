@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "BYD Dolphin G",
+      "link": "https://www.elperiodico.com/es/motor/20261030/byd-dolphin-g-135923905",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/cc38b289-5b77-4111-8617-39d4247b14db_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Mazda CX-5 ya entiende lo que le dices gracias a Gemini",
+      "link": "https://www.elperiodico.com/es/motor/20261030/mazda-cx-5-gemini-inteligencia-artificial-asistente-voz-natural-135926571",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ab7b4fbc-2add-4c7d-8a2b-c36fad8f4cde_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Honda renueva sus tres SUV híbridos con más versiones y equipamiento",
       "link": "https://www.elperiodico.com/es/motor/20261030/honda-renueva-tres-suv-hibridos-cr-v-hr-v-zr-v-135913474",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/30f3a2f2-3866-4267-b2b4-af378fd78ac2_media-libre-aspect-ratio_default_0.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Los conos conectados de la DGT quieren avisarte de las obras antes de que las veas",
       "link": "https://www.elperiodico.com/es/motor/20261030/conos-conectados-dgt-quieren-avisarte-135838690",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/210d919a-e511-4f7c-a02a-41d9a65bd2f5_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un nuevo récord Guinness: de caerse al río a recorrer 40 kilómetros sobre el agua en moto",
-      "link": "https://www.elperiodico.com/es/motor/20261030/nuevo-record-guinness-caerse-rio-135875113",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ede40a6a-50a7-4b0d-a957-a2091e92cf02_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los consejos de la Policía y la DGT para evitar accidentes en la operación salida del Puente de Todos los Santos",
-      "link": "https://www.elperiodico.com/es/motor/20261029/consejos-policia-dgt-evitar-accidentes-puente-todos-los-santos-135835704",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/de7da241-9fb1-4796-add0-576ee2bbc462_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

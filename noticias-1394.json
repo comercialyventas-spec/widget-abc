@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de Los Cerros",
+      "link": "https://nuevosureste.es/ayuntamiento-madrid-vivienda-protegida-los-cerros/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/06/marketing-point-los-cerros-5-400x250.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los Cerros da un paso decisivo para construir sus primeras 3.000 viviendas tras completar la reparcelación",
       "link": "https://nuevosureste.es/culminacion-reparelacion-los-cerros/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2025/09/LosCerros-PrimeraPiedra-2025-15-400x250.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Almeida: «La Gran Vía del Sureste permitirá multiplicar las opciones de transporte público de los nuevos desarrollos»",
       "link": "https://nuevosureste.es/almeida-gran-via-sureste/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/Visita-de-Almeida-a-las-obras-de-la-Gran-Via-del-Sureste-en-Ensanche-de-Vallecas-foto_-Nuevo-Sureste-400x250.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La conexión de Los Cerros con la M-45 se ejecutará dentro de las obras de urbanización de la etapa 1",
-      "link": "https://nuevosureste.es/conexion-los-cerros-m-45-etapa-1/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2025/12/puente-los-cerros-m45-1-400x250.jpg",
       "tipo": "imagen"
     }
   ]
