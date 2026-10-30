@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "El Diccionario de los 300 años estrena su 24ª edición: 99.900 palabras, diseño nativo digital y novedades como performativo, porfa, narcolancha e 'influencer'",
-      "link": "https://www.elmundo.es/cultura/2026/10/30/6ae44eaa21efa0f25c8b4577.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/30/17933598949957.jpg",
+      "titulo": "¿Sueñan los androides con pagar la hipoteca?",
+      "link": "https://www.elmundo.es/cultura/2026/10/30/6ae4d9e3fdddff0b658b45c2.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/30/17933838845679.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La pérdida, el dolor y las mentiras que nos cuentan",
+      "link": "https://www.elmundo.es/cultura/2026/10/29/6ae1f74efdddff615d8b4582.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/28/17931939317252.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Karateka: Dar mito, pulir mito (***)",
+      "link": "https://www.elmundo.es/cultura/cine/2026/10/29/6ae3310de85ece49298b457e.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932746948168.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Esta soledad: Un robusto y brillante ejercicio de cine desde la fragilidad (****)",
+      "link": "https://www.elmundo.es/cultura/cine/2026/10/29/6ae331bbe85ece9f478b45a1.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932747548606.jpg",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "Vincent Lindon: \"Tras cumplir el sueño de ser Jean Valjean, solo me queda el de trabajar con Pedro Almodóvar\"",
       "link": "https://www.elmundo.es/cultura/cine/2026/10/29/6ae384bbe9cf4ab6778b456e.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932958811973.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La pérdida, el dolor y las mentiras que nos cuentan",
-      "link": "https://www.elmundo.es/cultura/2026/10/29/6ae1f74efdddff615d8b4582.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/28/17931939317252.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Esta soledad: Un robusto y brillante ejercicio de cine desde la fragilidad (****)",
-      "link": "https://www.elmundo.es/cultura/cine/2026/10/29/6ae331bbe85ece9f478b45a1.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932747548606.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Marisa Manchado, Premio Nacional de Música en 2024, desaparecida en el accidente de tren en Urda",
-      "link": "https://www.elmundo.es/cultura/musica/2026/10/29/6ae36bc0e4d4d8e5588b459a.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932924078739.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El Barça bate por tercera vez al Valencia en el tercer duelo del curso",
+      "link": "https://www.elperiodico.com/es/deportes/20261030/barca-bate-tercera-vez-valencia-135940899",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a00b4795-409b-4da0-bf98-d6219a1c4fcf_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Flick sigue \"cien por cien convencido\" de la idea de juego del Barça tras las dos derrotas",
       "link": "https://www.elperiodico.com/es/deportes/20261030/flick-sigue-cien-cien-convencido-135925002",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/85720230-5be1-4eed-8f10-a3008eb237fd_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El clásico del baloncesto del 2026: el noveno Barça-Valencia",
       "link": "https://www.elperiodico.com/es/deportes/20261029/clasico-baloncesto-2026-noveno-barca-135895806",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/970deac8-007e-42b2-8af0-a845c41a2281_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los Mossos identifican al seguidor que intentó agredir a Camavinga durante el clásico",
-      "link": "https://www.elperiodico.com/es/deportes/20261029/mossos-identifican-seguidor-agresion-camavinga-clasico-135886623",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7896118d-7de3-4afe-8ba1-613099d6e3db_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
