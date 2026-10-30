@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Así mejoran la movilidad los nuevos semáforos inteligentes de Rivas",
+      "link": "https://www.diarioderivas.es/semaforos-inteligentes-rivas/",
+      "imagen": "https://www.diarioderivas.es/wp-content/uploads/2026/10/5990238205845901000-1.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Una fiesta de música electrónica recaudará fondos para Rivanimal en la noche de Halloween",
       "link": "https://www.diarioderivas.es/fiesta-electronica-solidaria-raveanimal/",
       "imagen": "https://www.diarioderivas.es/wp-content/uploads/2026/10/IMG-20261009-WA0030.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Talleres gratuitos de Halloween para niños en la LEGO Fan Factory de H2O",
       "link": "https://www.diarioderivas.es/talleres-halloween-lego-fan-factory/",
       "imagen": "https://www.diarioderivas.es/wp-content/uploads/2026/10/1080X1080_oct_halloween-1.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Rivas guarda un minuto de silencio por las víctimas de la tragedia ferroviaria de Urda",
-      "link": "https://www.diarioderivas.es/minuto-de-silencio-tragedia-urda/",
-      "imagen": "https://www.diarioderivas.es/wp-content/uploads/2026/10/5985818083202898223-1.jpg",
       "tipo": "imagen"
     }
   ]

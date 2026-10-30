@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "Los Mossos detienen a un menor vinculado con los canales de Blocus relacionados con los saqueos de Barcelona",
+      "titulo": "Los Mossos detienen a tres personas, dos de ellas menores, relacionados con los canales de Blocus tras los saqueos de Barcelona",
       "link": "https://www.abc.es/espana/cataluna/mossos-detienen-menor-vinculado-canales-blocus-relacionados-20261030094117-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/30/1519260105%20(1)-kekC-U40912455210WC-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Primera investigación penal contra una médico de Barcelona por exigir presuntamente a un paciente hablar en castellano",
+      "link": "https://www.abc.es/espana/cataluna/investigada-penalmente-medico-barcelona-exigir-presuntamente-paciente-20261030124626-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/30/di-RvdsTUyQcnax0R0NZZD0H3K-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Xabier García Albiol, convencido sobre cuál es la solución al problema de la vivienda en España: «No se resuelve pintando pancartas ni con manifestaciones, sino con hechos concretos»",
+      "link": "https://www.abc.es/espana/cataluna/xabier-garcia-albiol-convencido-sobre-solucion-problema-20261030121957-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2026/10/30/newspaint-1793352586423-1200x840-RNGQ4Bi2u2iyTzIFDNRdbTJ-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Siguen 14 personas hospitalizadas por el accidente de autobús de Fogars, cinco en estado grave",
       "link": "https://www.abc.es/espana/cataluna/siguen-personas-hospitalizadas-accidente-autobus-fogars-cinco-20261029193953-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/29/fogars00-Rq12BFgZLiBeEAvsbjRA6yO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Asesinado a tiros un hombre ingresado en un hospital de Tarragona al que ya habían intentado matar en Salou",
-      "link": "https://www.abc.es/espana/cataluna/ejecutado-tiros-hombre-ingresado-hospital-tarragona-20261029091842-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/29/mossos-cordon-RQgPuc22E4yNLi3EfF9vubM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un presidente",
-      "link": "https://www.abc.es/espana/cataluna/daniel-tercero-presidente-20261029150718-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/29/psanchez-RywoDH7hWClrzZFtdSVtJKJ-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

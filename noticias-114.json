@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Wildwood: El Bosque Salvaje",
+      "link": "https://www.lavanguardia.com/peliculas-series/peliculas/wildwood-el-bosque-salvaje-791523",
+      "imagen": "https://peliculas.lavanguardia.com/imagenes/w185/sJ1uZ4DKsjs2iqLtCX46TifxqoE.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Spider-Man: Brand New Day",
       "link": "https://www.lavanguardia.com/peliculas-series/peliculas/spider-man-brand-new-day-969681",
       "imagen": "https://peliculas.lavanguardia.com/imagenes/w185/9g0sEFhmvmK4nGhXj8DHuv2noYI.jpg",
@@ -13,27 +19,21 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Drive: Los farsantes",
-      "link": "https://www.lavanguardia.com/peliculas-series/peliculas/drive-los-farsantes-1596275",
-      "imagen": "https://peliculas.lavanguardia.com/imagenes/w185/aSvA1Xat045jh8ck7U626PPkzH1.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Anatomía de Grey",
       "link": "https://www.lavanguardia.com/peliculas-series/series/anatomia-de-grey-1416",
-      "imagen": "https://peliculas.lavanguardia.com/imagenes/w185/2kFOeA4oCxdHRfHiv8JEa7y3vD9.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ley y orden: Unidad de Víctimas Especiales",
-      "link": "https://www.lavanguardia.com/peliculas-series/series/ley-y-orden-unidad-de-victimas-especiales-2734",
-      "imagen": "https://peliculas.lavanguardia.com/imagenes/w185/zvQDigyHIZMKWT8QciLn9xFtGAc.jpg",
+      "imagen": "https://peliculas.lavanguardia.com/imagenes/w185/qn9yYUX73MqHRoivOiq1sAhcdbG.jpg",
       "tipo": "imagen"
     },
     {
       "titulo": "Sobrenatural",
       "link": "https://www.lavanguardia.com/peliculas-series/series/sobrenatural-1622",
       "imagen": "https://peliculas.lavanguardia.com/imagenes/w185/58Qaj36FZDz54H36LsUI8mGiW9y.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ley y orden: Unidad de Víctimas Especiales",
+      "link": "https://www.lavanguardia.com/peliculas-series/series/ley-y-orden-unidad-de-victimas-especiales-2734",
+      "imagen": "https://peliculas.lavanguardia.com/imagenes/w185/zvQDigyHIZMKWT8QciLn9xFtGAc.jpg",
       "tipo": "imagen"
     }
   ]

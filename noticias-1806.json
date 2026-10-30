@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Detenido un menor de 17 años vinculado a los canales de Blocus utilizados para coordinar los saqueos del sábado en Barcelona",
+      "titulo": "Tercer detenido en Catalunya por estar detrás de los disturbios de Blocus",
       "link": "https://www.20minutos.es/cataluna/barcelona/detenido-un-menor-17-anos-vinculado-los-canales-blocus-utilizados-para-coordinar-los-saqueos-sabado-barcelona_7055343_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/30/6ae463e93bdce6-15010664.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Detenido por estafar más de 120.000 euros a un convento de monjas de Barcelona con una falsa herencia",
+      "link": "https://www.20minutos.es/cataluna/barcelona/detenido-un-hombre-por-estafar-mas-120-000-euros-un-convento-monjas-barcelona-con-una-falsa-herencia_7055413_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/03/692ff825e41305-24721112.png",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Barcelona prepara un \"dispositivo de máximos\" para evitar disturbios la noche de Halloween",
       "link": "https://www.20minutos.es/cataluna/barcelona/barcelona-prepara-un-dispositivo-maximos-para-evitar-disturbios-noche-halloween_7055201_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/29/6ae39781834e48-11169979.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Ayuntamiento de Barcelona aplaza el pleno del mes de octubre por el accidente de tren en Urda",
-      "link": "https://www.20minutos.es/cataluna/barcelona/ayuntamiento-barcelona-aplaza-pleno-mes-octubre-por-accidente-tren-urda_7055116_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/25/6ab656a227f9c3-61340314.jpeg",
       "tipo": "imagen"
     }
   ]

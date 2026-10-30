@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "ChatGPT",
+      "link": "https://www.elconfidencialdigital.com/album/el-chivato/chatgpt/202610301403341498294.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/30/2026103014030486714.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Salvador Illa",
       "link": "https://www.elconfidencialdigital.com/album/el-chivato/salvador-illa/202610261702031496911.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/26/2026102617005897595.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El presidente del CIS, José Félix Tezanos",
       "link": "https://www.elconfidencialdigital.com/album/el-chivato/presidente-cis-jose-felix-tezanos/202607160500001031285.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/07/15/2026071520023478530.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Trabajadores autónomos",
-      "link": "https://www.elconfidencialdigital.com/album/el-chivato/trabajadores-autonomos/202607090500001030087.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/07/08/2026070820305677868.jpg",
       "tipo": "imagen"
     }
   ]

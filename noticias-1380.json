@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Banca para una vida saludable",
+      "link": "https://elpais.com/eps/2026-10-30/banca-para-una-vida-saludable.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/FO6Q3NCKF5B4BO2Q7ILEUAR7OQ.png?auth=aa72ee480ce3b4860da51b3ce07a24477b4a813babc5fd9325a4d3355896164e",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El renacer de Pierre Cardin",
       "link": "https://elpais.com/eps/2026-10-30/el-renacer-de-pierre-cardin.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/EUMP7WJ4M5HWFFRLN45WQOPZF4.jpg?auth=2020f3ac30453499d36470747aa9d418c94a64a4b2587528f54b906693732493",
@@ -28,12 +34,6 @@
       "titulo": "Tres décadas transformando el futuro",
       "link": "https://elpais.com/eps/2026-10-28/tres-decadas-transformando-el-futuro.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/6WQMZIFPFVDCDNU3TDNU3XM2K4.jpg?auth=e29e7f2bea0c85f23d0ae7ab50d65c7b53b36c7a6b9341490f0184782f1df22e",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Paul Smith cumple 80 años en lo alto de la moda: “Sigo vistiendo a gente muy famosa, pero pienso en ellos como personas normales”",
-      "link": "https://elpais.com/eps/2026-10-28/paul-smith-cumple-80-anos-en-lo-alto-de-la-moda-sigo-vistiendo-a-gente-muy-famosa-pero-pienso-en-ellos-como-personas-normales.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/PNLO4TEG3VGULFZKOECYIIGLIA.jpg?auth=6386a46bd3a90c4c4a053836bc9a9ace24a932c4672691aa672d88eaf1e1b477",
       "tipo": "imagen"
     }
   ]
