@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Mujeres que revolucionan el sabor tradicional de Austria",
+      "link": "https://elpais.com/gastronomia/2026-10-30/mujeres-que-revolucionan-el-sabor-tradicional-de-austria.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/JQNR533KLFAQNBTTGW5SZHSHDQ.jpg?auth=1d8ab5c6f91af9809dcbf78a39d724b6e703b6dc9adae1bf21e4251e15b4f0da",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Huesillos extremeños o huesos de San Expedito, una receta para Todos los Santos",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-10-30/huesillos-extremenos-o-huesos-de-san-expedito-una-receta-para-todos-los-santos.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/5RPN4RPOLVDWDBICNL27UUVNZM.jpg?auth=3a4f971ab06044efbf430d90ef63b3b2ad63b26074a663e0919abe5a38017f29",
@@ -28,12 +34,6 @@
       "titulo": "Lentejas con chorizo, la receta para no fallar con un clásico",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-10-29/lentejas-con-chorizo-la-receta-para-no-fallar-con-un-clasico.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20261020/1227612_131756_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Bar Gros, la taberna de barrio que arrasa en el centro de Barcelona:“Por 35 euros sales con el estómago lleno”",
-      "link": "https://elpais.com/gastronomia/2026-10-29/bar-gros-la-taberna-de-barrio-que-arrasa-en-el-centro-de-barcelonapor-35-euros-sales-con-el-estomago-lleno.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/XAK2R7P6LVCNXIVXE3QB6OGKKI.jpg?auth=7563d99f2f57f686d8a92ff8b7f9538e7248a465e6a4702da0c9f8177f951446",
       "tipo": "imagen"
     }
   ]

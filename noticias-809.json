@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Mucho sol y pocas lluvias para el viernes previo al puente de Todos los Santos",
+      "link": "https://www.eldiario.es/sociedad/el-tiempo/sol-lluvias-viernes-previo-puente-santos-pm_1_13625126.html",
+      "imagen": "https://static.eldiario.es/clip/93b7d788-9724-489f-bc8b-450ab63b1db1_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las lluvias reaparecen este miércoles en algunos puntos del Mediterráneo",
       "link": "https://www.eldiario.es/sociedad/el-tiempo/lluvias-reaparecen-miercoles-puntos-mediterraneo-pm_1_13618901.html",
       "imagen": "https://static.eldiario.es/clip/e73cc7b3-b653-4819-a401-1907d2ae80f1_16-9-discover-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La borrasca Austen estropea el viernes con olas de más de siete metros y fuertes vientos en el norte",
       "link": "https://www.eldiario.es/sociedad/el-tiempo/borrasca-austen-estropea-viernes-olas-siete-metros-fuertes-vientos-norte-pm_1_13606872.html",
       "imagen": "https://static.eldiario.es/clip/e5c9e3d7-4581-4dfe-931a-f71b99378671_16-9-discover-aspect-ratio_default_1153933.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las lluvias se concentran este jueves y las mínimas bajan en buena parte de España",
-      "link": "https://www.eldiario.es/sociedad/el-tiempo/lluvias-concentran-jueves-minimas-bajan-buena-parte-espana-pm_1_13603646.html",
-      "imagen": "https://static.eldiario.es/clip/e768c678-2745-4584-84d9-97cf02be821a_16-9-discover-aspect-ratio_default_1153833.jpg",
       "tipo": "imagen"
     }
   ]

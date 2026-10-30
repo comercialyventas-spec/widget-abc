@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Antonio, José Manuel, Ana... Las historias detrás de la tragedia ferroviaria en Urda",
-      "link": "https://www.abc.es/sociedad/antonio-jose-manuel-ana-historias-detras-tragedia-20261029012927-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/10/29/1519446996%20(1)-RcrZuRT90XWoOQvicma0Z9N-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "Ayuso exige el «total esclarecimiento» de la catástrofe ferroviaria y la «inmediata asunción de responsabilidades»",
       "link": "https://www.abc.es/espana/madrid/ayuso-exige-total-esclarecimiento-catastrofe-ferroviaria-inmediata-20261030113152-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/30/ayuso-pp-RXIFEG9rZoCWGtrMPgI4ycL-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/30/ayuso-pp-RXIFEG9rZoCWGtrMPgI4ycL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Antonio, José Manuel, Ana... Las historias detrás de la tragedia ferroviaria en Urda",
+      "link": "https://www.abc.es/sociedad/antonio-jose-manuel-ana-historias-detras-tragedia-20261029012927-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/10/29/1519446996%20(1)-RcrZuRT90XWoOQvicma0Z9N-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "El exviceministro chavista nacionalizado por la 'ley de nietos' se niega a declarar ante el juez del caso 'cloacas'",
       "link": "https://www.abc.es/espana/exviceministro-chavista-nacionalizado-ley-nietos-niega-declarar-20261030114021-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/30/NERVIS-kL5G-U4093884808gIB-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/30/NERVIS-kL5G-U4093884808gIB-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Realme se adelanta al 11.11 de AliExpress y tira precios de sus 6 modelos más famosos: uno para cada tipo de persona",
       "link": "https://www.abc.es/favorito/electronica/moviles-smartphones/realme-tira-precios-seis-moviles-antes-11-11-aliexpress-uno-para-cada-perfil-20261027062600-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/favorito/2026/10/27/realme-tira-precios-seis-moviles-antes-11-11-aliexpress-uno-para-cada-perfil-portada-RpNPmjWDSTQcsYVqS1hgaUJ-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Almeida prepara con la Delegación del Gobierno un dispositivo para evitar posibles actos violentos en Madrid",
-      "link": "https://www.abc.es/espana/madrid/almeida-prepara-delegacion-gobierno-dispositivo-evitar-posibles-20261030113858-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/30/1519426311-RuU4gWHPsUd2EJSZeZcQaHP-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/favorito/2026/10/27/realme-tira-precios-seis-moviles-antes-11-11-aliexpress-uno-para-cada-perfil-portada-RpNPmjWDSTQcsYVqS1hgaUJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "La oposición del euroescéptico Sali Berisha asalta el Parlamento albanés con bengalas y botes de humo",
       "link": "https://www.abc.es/internacional/oposicion-euroesceptico-sali-berisha-asalta-parlamento-albanes-20261030113112-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/30/1519488230-Ra1sVt3p98npNxYdfefvRGK-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/30/1519488230-Ra1sVt3p98npNxYdfefvRGK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Puente echó a técnicos y llenó la cúpula de Adif de políticos",
+      "link": "https://www.abc.es/espana/xxxxxxxxxxxxx-20261030214038-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/30/adif-1920x1080-kEwC-U4076504926VHB-1200x672@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }

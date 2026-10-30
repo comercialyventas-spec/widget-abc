@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Al menos tres heridos en una explosión en la fábrica de municiones de El Fargue (Granada)",
+      "link": "https://www.lavanguardia.com/sucesos/20261030/11671907/tres-heridos-explosion-fabrica-municiones-fargue-granada.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/29/6a698e0789b48.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los Mossos detienen a un adolescente que instigaba a los saqueos en Lleida en un canal de Blocus",
       "link": "https://www.lavanguardia.com/local/barcelona/20261029/11671568/mossos-detienen-adolescente-instigaba-saqueos-lleida.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/29/6ae3a8e1431be.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Hallado el cadáver de un hombre y a una mujer herida en una vivienda de Las Palmas",
       "link": "https://www.lavanguardia.com/local/canarias/20261028/11670210/hallado-cadaver-hombre-mujer-herida-vivienda-palmas.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/01/07/677d591ab2865.r_d.1815-852-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El gobierno valenciano pone a disposición sus medios tras el accidente ferroviario de Toledo",
-      "link": "https://www.lavanguardia.com/local/valencia/20261028/11670182/gobierno-valenciano-pone-disposicion-medios-accidente-ferroviario-toledo.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/28/6ae1e313e40b7.jpeg",
       "tipo": "imagen"
     }
   ]
