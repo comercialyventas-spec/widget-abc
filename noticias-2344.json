@@ -1,7 +1,19 @@
 {
   "noticias": [
     {
-      "titulo": "Una joven herida tras ser golpeada por un coche en Zamora capital",
+      "titulo": "Una mujer de 80 años herida tras ser atropellada en Los Bloques",
+      "link": "https://www.zamora24horas.com/sucesos/mujer-80-anos-herida-tras-ser-atropellada-barrio-bloques",
+      "imagen": "https://statics.zamora24horas.com/17543706-2659-4865-8a25-c8b9ac19b979.webp?format=webp&width=320&quality=75",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Dos detenidos por quemar ocho camiones en Benavente: uno sería el autor material y su jefe el inductor",
+      "link": "https://www.zamora24horas.com/sucesos/detienen-dos-personas-quemar-ocho-camiones-benavente-seria-autor-material-jefe-inductor",
+      "imagen": "https://statics.zamora24horas.com/0ae5efac-7c93-46de-91d5-47627b432e4f.webp?format=webp&width=320&quality=75",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ambulancia en la avenida de Galicia. Archivo",
       "link": "https://www.zamora24horas.com/sucesos/joven-herida-tras-ser-golpeada-coche-zamora-capital",
       "imagen": "https://statics.zamora24horas.com/f7c32871-6438-4a00-bbfa-440cb5480a07.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
@@ -13,21 +25,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "La colisión de dos trenes en Urda (Toledo), el accidente ferroviario más grave desde el de Angrois",
+      "titulo": "La colisión de dos trenes en Toledo, el accidente ferroviario más grave desde el de Angrois donde murieron dos zamoranos",
       "link": "https://www.zamora24horas.com/sucesos/colision-dos-trenes-toledo-accidente-ferroviario-grave-angrois-murieron-dos-zamoranos",
       "imagen": "https://statics.zamora24horas.com/ddbc1ad4-c851-450f-8f17-3a2ab858bdbc.webp?format=webp&width=320&quality=75",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Herida una mujer de unos 40 años tras ser atropellada junto a la estación de autobuses de Benavente",
-      "link": "https://www.zamora24horas.com/sucesos/herida-mujer-unos-40-anos-junto-estacion-autobuses-benavente",
-      "imagen": "https://statics.zamora24horas.com/eb333668-04c5-4bb7-8d75-38aa3ec5eacd.webp?format=webp&width=320&quality=75",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Herido un motorista en Zamora capital tras estamparse contra el escaparate de una tienda",
-      "link": "https://www.zamora24horas.com/sucesos/herido-motorista-zamora-capital-tras-estamparse-escaparate-tienda",
-      "imagen": "https://statics.zamora24horas.com/a8490c1a-1ec3-4b5a-ac71-504bd187df17.webp?format=webp&width=320&quality=75",
       "tipo": "imagen"
     }
   ]

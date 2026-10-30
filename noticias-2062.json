@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Sahel, sangre en la arena",
+      "link": "https://loquesomos.es/sahel-sangre-en-la-arena/",
+      "imagen": "https://loquesomos.es/wp-content/uploads/2026/07/Alianza-Estados-del-Sahel-mali-niger-burkina-lqsomos.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sudán se desangra: el infierno silencioso de los drones",
       "link": "https://loquesomos.es/sudan-se-desangra-el-infierno-silencioso-de-los-drones/",
       "imagen": "https://loquesomos.es/wp-content/uploads/2026/10/Una-mujer-permanece-de-pie-frente-a-su-tienda-refugiada-sudan-lqsomos.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El ébola llega a Kenya: confirman un primer caso importado",
       "link": "https://loquesomos.es/el-ebola-llega-a-kenya-confirman-un-primer-caso-importado/",
       "imagen": "https://loquesomos.es/wp-content/uploads/2026/10/ebola-tratamiento-RDC-lqsomos.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Temporada de guerras en Etiopía",
-      "link": "https://loquesomos.es/temporada-de-guerras-en-etiopia/",
-      "imagen": "https://loquesomos.es/wp-content/uploads/2026/09/Fuerza-de-Defensa-Nacional-de-Etiopia-lqsomos-.jpeg",
       "tipo": "imagen"
     }
   ]

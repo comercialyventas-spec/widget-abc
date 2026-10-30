@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "La reina Sonia de Noruega visita Málaga para inaugurar la exposición que une a Munch y Picasso",
+      "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261029/reina-sonia-noruega-malaga-exposicion-picasso-munch-135906422",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f1af02c1-3bda-45e3-bbdf-cce2a9f79a7c_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Muere Patrick Stewart, estrella de 'Star Trek' y 'X-Men'",
+      "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261029/muere-actor-patrick-stewart-star-trek-xmen-135903705",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2d6334eb-adaf-4025-80fb-b997abac379d_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Leica apuesta por Barcelona: tienda, galería y academia en un mismo espacio",
       "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261029/leica-apuesta-barcelona-tienda-galeria-135898424",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/c84c9746-c932-47eb-97ef-3bd8f9e2d339_media-libre-aspect-ratio_default_0.jpg",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/5578241d-49cb-46e8-8785-951438a23f37_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Crítica de 'Hope': un cruce excesivo y apabullante de thriller de persecuciones, comedia, cine de monstruos y ciencia ficción",
       "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261029/critica-hope-cruce-excesivo-apabullante-135879843",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/45578897-84f1-4589-8147-b0a552fbb75a_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "\"Basura\", \"aburrida\" y \"sin sentido\": la crítica destroza la versión de 'La Odisea' de Elon Musk",
-      "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261029/basura-aburrida-critica-destroza-odisea-pelicula-musk-ia-grok-christoper-nolan-homero-135892453",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/96df5bbd-cc33-468b-8002-73ee0749bbca_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Crítica de 'Tiempos de ilusión': El tándem Nakache-Toledano presenta el 'coming of age' de un niño parisino que busca su identidad",
-      "link": "https://www.elperiodico.com/es/ocio-y-cultura/20261029/critica-tiempos-ilusion-nakache-toledano-135892372",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/52531eed-38cd-48d0-8baf-e1250eec3a18_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Tragedia y desafección",
+      "link": "https://www.lavanguardia.com/politica/20261029/11671615/tragedia-desafeccion.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Junta Electoral abre expediente a Sánchez por el vídeo ante el Guernica de Picasso",
       "link": "https://www.lavanguardia.com/politica/20261029/11671482/junta-electoral-abre-expediente-sanchez-video-guernica-picasso.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/22/6ada79bc33c2d.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "El PNV exige a Sánchez “responsabilidades al máximo nivel” por el accidente ferroviario",
       "link": "https://www.lavanguardia.com/local/paisvasco/20261029/11671170/vaquero-pnv-sanchez-reconoce-inasumible-tendran-asumir-responsabilidades-maximo-nivel.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/29/6ae33ce7f3716.r_d.600-360-3741.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sindicatos y partidos lamentan la filtración de los audios del accidente de Urda",
-      "link": "https://www.lavanguardia.com/politica/20261029/11671145/maquinistas-diversos-partidos-lamentan-filtracion-audios-accidente-urda.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/29/6ae33823c92fc.r_d.2016-1512-1113.jpeg",
       "tipo": "imagen"
     }
   ]

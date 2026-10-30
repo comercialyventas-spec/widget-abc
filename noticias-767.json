@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El mantra de la categoría 'juventud'",
+      "link": "https://www.eldiario.es/opinion/tribuna-abierta/mantra-categoria-juventud_129_13625036.html",
+      "imagen": "https://static.eldiario.es/clip/24ce1959-0dc9-4f1f-ac74-0d520b9a9bd7_avatar-200-aspect-ratio_default_0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Elecciones en Israel: la democracia en cuestión",
       "link": "https://www.eldiario.es/opinion/tribuna-abierta/elecciones-israel-democracia-cuestion_129_13622508.html",
       "imagen": "https://static.eldiario.es/clip/e2e12a06-c3ed-47cc-ba21-6618df50a0ed_avatar-200-aspect-ratio_default_0.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Un Senado para someternos a todos",
       "link": "https://www.eldiario.es/opinion/tribuna-abierta/senado-someternos_129_13606390.html",
       "imagen": "https://static.eldiario.es/clip/381a377c-f9cc-43ce-9c37-d21206358e03_avatar-200-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mensaje desde Francia: cuando la nada es todo el horizonte",
-      "link": "https://www.eldiario.es/opinion/tribuna-abierta/mensaje-francia-horizonte_129_13606467.html",
-      "imagen": "https://static.eldiario.es/clip/f3bec7aa-7239-46d6-a438-10f32e4bda72_avatar-200-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

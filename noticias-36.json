@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Los Mossos detienen a un adolescente que instigaba a los saqueos en Lleida en un canal de Blocus",
+      "link": "https://www.lavanguardia.com/local/barcelona/20261029/11671568/mossos-detienen-adolescente-instigaba-saqueos-lleida.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/29/6ae3a8e1431be.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Condenan al expresidente de las Corts Julio de España por agredir sexualmente a una paciente",
       "link": "https://www.lavanguardia.com/local/valencia/20261029/11671227/condenan-expresidente-corts-julio-espana-agredir-sexualmente-paciente.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/29/6ae346f4d1c3a.r_d.600-450-3741.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "El gobierno valenciano pone a disposición sus medios tras el accidente ferroviario de Toledo",
       "link": "https://www.lavanguardia.com/local/valencia/20261028/11670182/gobierno-valenciano-pone-disposicion-medios-accidente-ferroviario-toledo.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/28/6ae1e313e40b7.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Dos detenidos en Majadahonda por robar a través del tirón a mujeres de avanzada edad",
-      "link": "https://www.lavanguardia.com/sucesos/20261028/11670002/dos-detenidos-majadahonda-robar-traves-tiron-mujeres-avanzada-edad.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/28/6ae1c0b27bac8.r_d.546-641-0.jpeg",
       "tipo": "imagen"
     }
   ]
