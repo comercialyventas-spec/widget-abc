@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La edad de la inocencia",
+      "link": "https://www.abc.es/play/series/criticas/edad-inocencia-20261029011015-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/29/carrie1-RDAXJjTdYFfVmC4oJheNVkM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El secreto de 'Breaking Bad'",
       "link": "https://www.abc.es/play/series/criticas/secreto-breaking-bad-20261029130817-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/29/15817924-RSEiRkooGp72xOA74D3ioRK-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Regreso a los 2000: por qué ya no puedes escapar de la nostalgia milenial",
       "link": "https://www.abc.es/play/series/noticias/regreso-2000-invasion-nostalgia-milenial-20261025011047-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/25/Harry-Potter-serie-RhwWfMabLyrmMpGSYuUkg0J-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Llega a RTVE la nueva serie de Rodolfo Sancho: un thriller policíaco de solo 3 episodios sobre uno de los mayores criminales de España",
-      "link": "https://www.abc.es/play/series/noticias/llega-rtve-nueva-serie-rodolfo-sancho-thriller-20261027070000-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/28/casper2-kF0B-R7YEZzCglyizoGaqx004EbM-1200x840@diario_abc.jpeg",
       "tipo": "imagen"
     }
   ]

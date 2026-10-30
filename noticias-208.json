@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Trump cancela dos mítines antes de las legislativas en EE.UU.",
+      "link": "https://www.dw.com/es/trump-cancela-dos-mítines-antes-de-las-legislativas-en-ee-uu/a-79803308",
+      "imagen": "https://static.dw.com/image/79780525_6.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Bloque de Netanyahu no logra mayoría, según recuento final de la Comisión Electoral Central de Israel",
+      "link": "https://www.dw.com/es/bloque-de-netanyahu-no-logra-mayoría-según-recuento-final-de-la-comisión-electoral-central-de-israel/a-79803290",
+      "imagen": "https://static.dw.com/image/79783685_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ataque con dron ruso causa 14 muertos en una estación de tren en Ucrania",
       "link": "https://www.dw.com/es/ataque-con-dron-ruso-causa-14-muertos-en-una-estación-de-tren-en-ucrania/a-79803106",
       "imagen": "https://static.dw.com/image/79795541_6.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Protestas estudiantiles: Alemania teme escenas como las de Francia",
       "link": "https://www.dw.com/es/protestas-estudiantiles-alemania-teme-escenas-como-las-de-francia/a-79801708",
       "imagen": "https://static.dw.com/image/79754386_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El ADN vincula al asesino serial Ted Bundy con otro crimen ocurrido en 1974",
-      "link": "https://www.dw.com/es/el-adn-vincula-al-asesino-serial-ted-bundy-con-otro-crimen-ocurrido-en-1974/a-79799895",
-      "imagen": "https://static.dw.com/image/79800018_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "UE contempla a Canadá como primer \"miembro asociado\", afirma Von der Leyen",
-      "link": "https://www.dw.com/es/ue-contempla-a-canadá-como-primer-miembro-asociado-afirma-von-der-leyen/a-79800269",
-      "imagen": "https://static.dw.com/image/79398809_6.jpg",
       "tipo": "imagen"
     }
   ]

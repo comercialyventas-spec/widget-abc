@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El millonario José Elías, que no es muy guapo, se casa con su novia venezolana de 27 años",
+      "link": "https://www.mediterraneodigital.com/gente-y-tv/jose-elias-se-casa",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/10/jose-elias.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Óscar Puente se gastó 62.085 euros públicos para saber quién le insultaba en las redes",
+      "link": "https://www.mediterraneodigital.com/espana/oscar-puente-dossier-insultos",
+      "imagen": "https://www.mediterraneodigital.com/images/2026/10/oscar-puente-x.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Matan a tiros a un hombre ingresado en el Hospital Joan XXIII de Tarragona",
       "link": "https://www.mediterraneodigital.com/sucesos-espana/matan-a-tiros-joan-xxiii-tarragona",
       "imagen": "https://www.mediterraneodigital.com/images/2026/10/hospital-Joan23.jpg",
@@ -22,18 +34,6 @@
       "titulo": "El Gobierno de Sánchez concedió 1.500 millones de euros para los trenes de Marruecos, Egipto y Uzbekistán",
       "link": "https://www.mediterraneodigital.com/espana/espana-trenes-marruecos-egipto-uzbekistan",
       "imagen": "https://www.mediterraneodigital.com/images/2026/10/sanchez-puente-trenes.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Nueva tragedia en la Alta Velocidad española: 68 muertos en un accidente en Toledo",
-      "link": "https://www.mediterraneodigital.com/sucesos-espana/accidente-tren-toledo",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/10/accidente-tren-toledo.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Reseña de OryxBox.com: ¿Qué nos dice la historia de la empresa?",
-      "link": "https://www.mediterraneodigital.com/negocios-y-finanzas/oryxbox",
-      "imagen": "https://www.mediterraneodigital.com/images/2026/10/oryxbox-1.jpg",
       "tipo": "imagen"
     }
   ]
