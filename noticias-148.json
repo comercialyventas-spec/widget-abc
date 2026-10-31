@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Mapas para entender las elecciones en Brasil",
-      "link": "https://elordenmundial.com/mapas-y-graficos/mapas-elecciones-brasil/",
-      "imagen": "https://elordenmundial.com/wp-content/uploads/2026/09/portada-mapas-brasil-640x607.png",
+      "titulo": "El mapa de los accidentes de tren en Europa",
+      "link": "https://elordenmundial.com/mapas-y-graficos/accidentes-tren-europa/",
+      "imagen": "https://elordenmundial.com/wp-content/uploads/2026/10/2026-10_mapa_accidentes-tren-europa-640x616.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Mapas y gráficos para entender las ‘midterms’ en Estados Unidos",
+      "link": "https://elordenmundial.com/mapas-y-graficos/mapas-graficos-midterms-estados-unidos/",
+      "imagen": "https://elordenmundial.com/wp-content/uploads/2026/10/2026-10_mapa_senado-eeuu-midterms-640x481.png",
       "tipo": "imagen"
     },
     {
@@ -19,21 +25,15 @@
       "tipo": "imagen"
     },
     {
+      "titulo": "El mapa del Gran Israel",
+      "link": "https://elordenmundial.com/mapas-y-graficos/mapa-gran-israel/",
+      "imagen": "https://elordenmundial.com/wp-content/uploads/2024/10/mapa-teoria-gran-israel-640x640.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El mapa del antiguo Egipto",
       "link": "https://elordenmundial.com/mapas-y-graficos/antiguo-egipto-imperio/",
       "imagen": "https://elordenmundial.com/wp-content/uploads/2026/10/mapa-antiguo-egipto-reino-nuevo-640x640.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El mapa de la Grecia clásica",
-      "link": "https://elordenmundial.com/mapas-y-graficos/mapa-grecia-clasica/",
-      "imagen": "https://elordenmundial.com/wp-content/uploads/2026/07/mapa-grecia-clasica-mediterraneo-640x640.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El mapa de los vikingos",
-      "link": "https://elordenmundial.com/mapas-y-graficos/mapa-vikingos/",
-      "imagen": "https://elordenmundial.com/wp-content/uploads/2026/07/mapa-vikingos-640x492.png",
       "tipo": "imagen"
     }
   ]

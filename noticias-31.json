@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Hemos pisado la Luna",
+      "link": "https://www.lavanguardia.com/deportes/20261031/11672650/hemos-pisado-luna.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Lecciones para crecer",
+      "link": "https://www.lavanguardia.com/deportes/20261031/11672649/lecciones-crecer.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Barça aprende a sufrir para ganar al Valencia",
+      "link": "https://www.lavanguardia.com/deportes/baloncesto/20261030/11672488/barca-aprende-sufrir-ganar-valencia.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/30/6ae515ad02340.r_d.2001-664-2086.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El nuevo Espanyol deja atrás la crisis con un triunfo en La Cerámica",
+      "link": "https://www.lavanguardia.com/deportes/20261030/11672487/nuevo-espanyol-deja-crisis-triunfo-ceramica.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/30/6ae515eae8c87.r_d.3427-2016-635.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Harry Kane le ganó el Balón de Oro a Mbappé por solo 28 puntos",
       "link": "https://www.lavanguardia.com/deportes/futbol/20261030/11672430/harry-kane-le-gano-balon-oro-mbape-28-puntos.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/27/6adfeea3ad6ce.jpeg",
@@ -10,30 +34,6 @@
       "titulo": "Villarreal – Espanyol el partido de fútbol de la jornada 11 de LaLiga EA Sports, en directo",
       "link": "https://www.lavanguardia.com/deportes/futbol/20261030/24642/villarreal-espanyol-laliga-primera-division-ca-en-directo-ctx.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/09/13/65016ce5577c1.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "SV Elversberg – Mainz 05 el partido de fútbol de la jornada 8 de la Bundesliga, en directo",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20261030/30979/sv-elversberg-mainz-05-bundesliga-ca-en-directo-ctx.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/01/26/65b39bad85a3e.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El equipo de Valentino Rossi se niega a ayudar a Marc Márquez pese a ser cliente de Ducati",
-      "link": "https://www.lavanguardia.com/clic/20261030/11672395/equipo-valentino-rossi-niega-ayudar-marc-marquez-pese-cliente-ducati-lol.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/30/6ae4df051fe5a.r_d.2413-1608-930.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Michael Owen recuerda su fichaje por el Real Madrid: “Lloré a mares mientras me dirigía al aeropuerto”",
-      "link": "https://www.lavanguardia.com/clic/20261030/11672380/michael-owen-recuerda-fichaje-real-madrid-llore-mares-me-dirigia-aeropuerto-lol.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/30/6ae4d78b82f6a.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Le Havre – PSG el partido de fútbol de la jornada 9 de la Ligue 1, en directo",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20261030/4516/le-havre-psg-ligue-1-ca-en-directo-ctx.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/01/26/65b39b45e683a.jpeg",
       "tipo": "imagen"
     }
   ]
