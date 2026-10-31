@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Patrocinios para la historia. Cuando la española SEAT patrocinó al PSG",
+      "titulo": "Qué fue de... Derrick Sharp: una leyenda del Maccabi que ganó dos Euroligas seguidas",
       "link": "https://www.20minutos.es/deportes/blogs/quefuede/",
       "imagen": "https://www.20minutos.es/uploads/icons/blogs/quefuede.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La secuela de Trainspotting, 'Los hombres enamorados' de Irvine Welsh",
+      "link": "https://www.20minutos.es/cultura/blogs/motel-margot/",
+      "imagen": "https://www.20minutos.es/uploads/icons/blogs/motel-margot.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "La dana de hace dos años",
       "link": "https://www.20minutos.es/medio-ambiente/blogs/la-cima2030/",
       "imagen": "https://www.20minutos.es/uploads/icons/blogs/la-cima-2030.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "30 AÑOS DE LA CREACIÓN DE BARDÍN, el personaje de MAX",
-      "link": "https://www.20minutos.es/cultura/blogs/motel-margot/",
-      "imagen": "https://www.20minutos.es/uploads/icons/blogs/motel-margot.jpg",
       "tipo": "imagen"
     }
   ]

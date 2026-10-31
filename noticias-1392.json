@@ -2,6 +2,18 @@
   "noticias": [
     {
       "titulo": "Noticias de Nuevo Sureste de Madrid",
+      "link": "https://nuevosureste.es/red-trafico-hachis-punto-desmantelado-el-canaveral/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/Policia-Nacional-1080x675.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Ayuntamiento de Madrid construirá más de 2.000 viviendas protegidas en 15 parcelas de Los Cerros: reparto por etapas",
+      "link": "https://nuevosureste.es/ayuntamiento-madrid-vivienda-protegida-los-cerros/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/06/marketing-point-los-cerros-5-1080x675.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Villa de Vallecas pide una comisaría de Policía Nacional para el distrito",
       "link": "https://nuevosureste.es/pleno-villa-de-vallecas-comisaria-policia-nacional/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2025/09/Ensanche-2025-107-1080x675.jpg",
       "tipo": "imagen"
@@ -22,18 +34,6 @@
       "titulo": "Madrid incluye la Gran Vía del Sureste entre sus futuros ejes verdes y destaca el Cerro Almodóvar en su nueva guía ambiental",
       "link": "https://nuevosureste.es/guia-verde-madrid/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/07/Gran-Via-Sureste-1.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los Cerros da un paso decisivo para construir sus primeras 3.000 viviendas tras completar la reparcelación",
-      "link": "https://nuevosureste.es/culminacion-reparelacion-los-cerros/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2025/09/LosCerros-PrimeraPiedra-2025-15-1080x675.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los Berrocales estrenará una nueva fórmula de vivienda libre: alquiler asequible y opción a compra a los siete años",
-      "link": "https://nuevosureste.es/alquiler-opcion-a-compra-los-berrocales/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/02/Apertura-de-la-etapa-1-de-Los-Berrocales-foto-Nuevo-Sureste-1080x675.jpg",
       "tipo": "imagen"
     }
   ]

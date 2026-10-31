@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El restaurante favorito de Felipe González: está en Madrid, parece sacado de una villa italiana y su especialidad es la pasta",
+      "link": "https://www.abc.es/espana/madrid/restaurante-favorito-felipe-gonzalez-madrid-parece-sacado-20261031113000-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/31/numa-pompilio-felipe-gonzalez-RqSWfXBoErihlGFcAIXKThN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los antidisturbios blindan la zona comercial del centro de Madrid para disuadir los saqueos",
       "link": "https://www.abc.es/espana/madrid/antidisturbios-blindan-zona-comercial-centro-madrid-disuadir-20261030012441-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/30/1519535202-RpGoxKR4js2jUltrhWyHExK-1200x840@diario_abc.JPG",
@@ -28,12 +34,6 @@
       "titulo": "Planes de Halloween, una agenda terroríficamente divertida",
       "link": "https://www.abc.es/espana/madrid/planes-halloween-agenda-terrorificamente-divertida-20261030011256-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/30/1-edgarallan-RNKqS99ZzMQquxbdmlGtABN-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un jurado declara culpables de asesinato a los dos hombres acusados de matar a golpes a otro en Alcobendas",
-      "link": "https://www.abc.es/espana/madrid/jurado-declara-culpables-asesinato-dos-hombres-acusados-20261030170523-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/30/1421773028-ReMfv4JZgRADqSRj4qktr4M-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
