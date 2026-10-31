@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Turquía propone su propio candidato a dirigir la ONU",
+      "link": "https://www.dw.com/es/turquía-propone-su-propio-candidato-a-dirigir-la-onu/a-79814296",
+      "imagen": "https://static.dw.com/image/70980728_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "COP17 acuerda en Armenia textos clave para proteger la naturaleza",
       "link": "https://www.dw.com/es/cop17-acuerda-en-armenia-textos-clave-para-proteger-la-naturaleza/a-79814267",
       "imagen": "https://static.dw.com/image/79696500_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Estados Unidos aprueba venta de misiles Patriot a Ucrania por 2.100 millones de dólares",
       "link": "https://www.dw.com/es/estados-unidos-aprueba-venta-de-misiles-patriot-a-ucrania-por-2-100-millones-de-dólares/a-79813694",
       "imagen": "https://static.dw.com/image/79710283_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El plan de Trump para la flota fantasma de Rusia inquieta a Europa",
-      "link": "https://www.dw.com/es/el-plan-de-trump-para-la-flota-fantasma-de-rusia-inquieta-a-europa/a-79810907",
-      "imagen": "https://static.dw.com/image/77543762_6.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,7 +1,19 @@
 {
   "noticias": [
     {
-      "titulo": "José Antonio Marina, filósofo: “No todas las opiniones valen igual",
+      "titulo": "La palabra elecciones",
+      "link": "https://elpais.com/eps/2026-10-31/la-palabra-elecciones.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/3GZNCME6UVAHDHQ472JJTLZYZQ.jpg?auth=a283d499631c50e766d4b19528b7b67e3a2cd1f0fc91cd45786240cb2cfec9d3",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Emilia Redolar, neurocientífica: “Como mujer trans, no me siento tan laboralmente empoderada como cuando me llamaba Diego”",
+      "link": "https://elpais.com/eps/2026-10-31/emilia-redolar-neurocientifica-como-mujer-trans-no-me-siento-tan-laboralmente-empoderada-como-cuando-me-llamaba-diego.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ZS7Y6S7QIZE2DHQ5FHCB6YQ35Y.jpg?auth=daa716a505ae918c4b7f39de73a74ed532f86c9483d98d67349a51f0ded61167",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "José Antonio Marina, filósofo: “No todas las opiniones valen igual”",
       "link": "https://elpais.com/eps/2026-10-30/jose-antonio-marina-filosofo-en-cinco-anos-deberemos-decidir-si-queremos-un-mundo-humanista-o-uno-cientifico-tecnologico.html",
       "imagen": "https://www.youtube.com/watch?v=4f2tBUWrdvM",
       "tipo": "imagen"
@@ -22,18 +34,6 @@
       "titulo": "Un año con Alcalá Norte: un grupo disfuncional ante el reto de su segundo disco",
       "link": "https://elpais.com/eps/2026-10-30/un-ano-con-alcala-norte-un-grupo-disfuncional-ante-el-reto-de-su-segundo-disco.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/DJFTBTSFTNGJPLCSKEQQJ2NKPY.jpg?auth=4b25ab33570080ffd3f2c5603ea3aacbfe7c9d595db004609294d7f8569ecc6a",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La verdadera historia de cómo se conquistó el Polo Norte",
-      "link": "https://elpais.com/eps/2026-10-29/la-verdadera-historia-de-como-se-conquisto-el-polo-norte.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/KZPYUZZTZ5DTDBVGDS5W3QV2YQ.jpg?auth=3015ca1015e1979b6664e6839233ab369caf027e5caca55ad8862e2d2b22f619",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Michelangelo Pistoletto: “Es posible que los humanos logren usar la IA para perfeccionar su existencia”",
-      "link": "https://elpais.com/eps/2026-10-29/michelangelo-pistoletto-es-posible-que-los-humanos-logren-usar-la-ia-para-perfeccionar-su-existencia.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/IYI22MGIBVFEJAFFG4YASDST6Y.jpg?auth=89a654ba3bb758f5e418aced1c3b27a63d7c4965cb610bcb00022af01351b188",
       "tipo": "imagen"
     }
   ]

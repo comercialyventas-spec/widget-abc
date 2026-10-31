@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La voz de Antonio",
+      "link": "https://www.elconfidencial.com/espana/tribuna/2026-10-31/antonio-acedo-maquinista-ave-accidente-urda-1hms_4456185/",
+      "imagen": "https://images.ecestaticos.com/YMYRwQYFZgJ5-uCX3pcbh9DA9-0=/0x0:2272x1512/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F362%2F363%2Fd16%2F362363d1670d7b07c8bc9fc595c73bbf.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Mi amiga Fátima",
       "link": "https://www.elconfidencial.com/espana/tribuna/2026-10-30/fatima-ministra-amiga-homenaje-1hms_4455969/",
       "imagen": "https://images.ecestaticos.com/rUDFkFrbquU1bWWIY2jhImlq4j0=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4ef%2Fc72%2Fe79%2F4efc72e79bba17e040fe7ae1428d7c7e.jpg",
@@ -13,15 +19,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Martes electorales, o el BOE como mitin",
-      "link": "https://www.elconfidencial.com/espana/tribuna/2026-10-27/decretos-ley-campana-electoral-gobierno-1hms_4451864/",
-      "imagen": "https://images.ecestaticos.com/H5lG9vEF_YN3FgjNWFdqDOeX-U4=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F09d%2Fef1%2Fb0e%2F09def1b0e8f070bace02517d8c74be12.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "La sombra de Battaner sobrevuela la fusión entre Caja Duero y Caja España",
       "link": "https://blogs.elconfidencial.com/espana/el-confidente/2026-09-05/la-sombra-de-battaner-sobrevuela-la-fusion-entre-caja-duero-y-caja-espana_441583/",
-      "imagen": "https://sb.scorecardresearch.com/b?c1=2&c2=7215267&ns__t=1793414247&ns_c=UTF-8&c8=BLOGS&c7=https%3A%2F%2Frss.blogs.elconfidencial.com%2F&c9=https%3A%2F%2Fwww.elconfidencial.com%2F",
+      "imagen": "https://sb.scorecardresearch.com/b?c1=2&c2=7215267&ns__t=1793425385&ns_c=UTF-8&c8=BLOGS&c7=https%3A%2F%2Frss.blogs.elconfidencial.com%2F&c9=https%3A%2F%2Fwww.elconfidencial.com%2F",
       "tipo": "imagen"
     },
     {
