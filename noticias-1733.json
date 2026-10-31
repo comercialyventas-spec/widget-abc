@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Registrado un incendio forestal en la zona de Los Alayos en Dílar",
+      "link": "https://www.ahoragranada.com/noticias/declarado-un-incendio-forestal-en-la-zona-de-los-alayos-en-dilar/",
+      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/10/INcendio-Dilar-1.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Granada busca reforzar las conexiones aéreas y terrestres con Madrid tras el accidente ferroviario de Toledo",
       "link": "https://www.ahoragranada.com/noticias/granada-busca-reforzar-las-conexiones-aereas-y-terrestres-con-madrid-tras-el-accidente-ferroviario-de-toledo/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2024/06/Aeropuerto-de-Granada-con-avion-despegando-noviembre-2022-AC-6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Se enfrenta a 24 años de prisión por atropellar tres veces a varios miembros de una familia en Iznalloz",
       "link": "https://www.ahoragranada.com/noticias/se-enfrenta-a-24-anos-de-prision-por-atropellar-tres-veces-a-varios-miembros-de-una-familia-en-iznalloz/",
       "imagen": "https://www.ahoragranada.com/wp-content/uploads/2025/04/Iznalloz-1.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tramo urbano del Rally Ciudad de Granada 2026",
-      "link": "https://www.ahoragranada.com/galerias/tramo-urbano-del-rally-ciudad-de-granada-2026/",
-      "imagen": "https://www.ahoragranada.com/wp-content/uploads/2026/10/RALLY-GRANADA-TRAMO-URBANO-2026-CH-48.jpg",
       "tipo": "imagen"
     }
   ]
