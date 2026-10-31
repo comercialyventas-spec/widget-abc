@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Fátima",
+      "link": "https://www.elconfidencial.com/espana/tribuna/2026-10-31/fatima-legado-servicio-espana-1hms_4456937/",
+      "imagen": "https://images.ecestaticos.com/ZtJavo1CAAGKS0v5n35Tfvq4nZ4=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbce%2Fba0%2F08c%2Fbceba008cc5f38ed15cecd2819e93fc4.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La voz de Antonio",
       "link": "https://www.elconfidencial.com/espana/tribuna/2026-10-31/antonio-acedo-maquinista-ave-accidente-urda-1hms_4456185/",
       "imagen": "https://images.ecestaticos.com/YMYRwQYFZgJ5-uCX3pcbh9DA9-0=/0x0:2272x1512/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F362%2F363%2Fd16%2F362363d1670d7b07c8bc9fc595c73bbf.jpg",
@@ -13,15 +19,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Urda, 28 de octubre de 2026. 178 cumpleaños del primer ferrocarril de Iberia",
-      "link": "https://www.elconfidencial.com/espana/tribuna/2026-10-29/accidente-ave-iryo-fallo-senalizacion-1hms_4455217/",
-      "imagen": "https://images.ecestaticos.com/0Cpv8Jiytd6wAJcCIUHuYotXbnQ=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3ee%2Fab8%2F72c%2F3eeab872cbd604536421623b5e4d6e76.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "La sombra de Battaner sobrevuela la fusión entre Caja Duero y Caja España",
       "link": "https://blogs.elconfidencial.com/espana/el-confidente/2026-09-05/la-sombra-de-battaner-sobrevuela-la-fusion-entre-caja-duero-y-caja-espana_441583/",
-      "imagen": "https://sb.scorecardresearch.com/b?c1=2&c2=7215267&ns__t=1793460535&ns_c=UTF-8&c8=BLOGS&c7=https%3A%2F%2Frss.blogs.elconfidencial.com%2F&c9=https%3A%2F%2Fwww.elconfidencial.com%2F",
+      "imagen": "https://sb.scorecardresearch.com/b?c1=2&c2=7215267&ns__t=1793471932&ns_c=UTF-8&c8=BLOGS&c7=https%3A%2F%2Frss.blogs.elconfidencial.com%2F&c9=https%3A%2F%2Fwww.elconfidencial.com%2F",
       "tipo": "imagen"
     },
     {

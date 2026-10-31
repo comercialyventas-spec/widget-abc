@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Comprueba los premios del sorteo de la Lotería Nacional",
+      "link": "https://www.abc.es/loterias/loteria-nacional/loteria-nacional-hoy-sabado-directo-comprobar-resultados-sorteo-20261031105239-di.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/loterias/2026/08/22/loteria-sabado-kglH-U4094355163lwE-758x424@diario_abc.jpg?width=758",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Bonoloto, Triplex y Cuponazo de la Once: comprueba los resultados de las loterías que se celebran el viernes, 30 de octubre de 2026",
       "link": "https://www.abc.es/loterias/resultados-sorteos-hoy-viernes-30-octubre-20261030060005-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/plantillas/loterias-diarias/cortadas/loterias-diarias-viernes-758x424@abc.jpg?width=758",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/plantillas/loterias-diarias/cortadas/loterias-diarias-viernes-562x315@abc.jpg?width=562",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Resultados del Euromillones, La Bonoloto, Triplex y Cuponazo de la Once del martes, 27 de octubre de 2026",
       "link": "https://www.abc.es/loterias/resultados-sorteos-hoy-martes-27-octubre-20261027060007-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/plantillas/loterias-diarias/cortadas/loterias-diarias-martes-562x315@abc.jpg?width=562",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Resultados de La Bonoloto, Triplex y Cuponazo de la Once del lunes lunes, 26 de octubre de 2026",
-      "link": "https://www.abc.es/loterias/resultados-sorteos-hoy-lunes-26-octubre-20261026060005-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/plantillas/loterias-diarias/cortadas/loterias-diarias-lunes-562x315@abc.jpg?width=562",
       "tipo": "imagen"
     }
   ]

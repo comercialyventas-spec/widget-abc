@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Por qué fallaron los sistemas de seguridad en el accidente ferroviario de Urda",
+      "link": "https://www.publico.es/ciencias/video-fallaron-sistemas-seguridad-accidente-ferroviario-urda.html",
+      "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/10/30/6ae4984819e7c.r_d.1816-1197-2396.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Más allá del error humano: la tragedia de Urda expone deficiencias en la seguridad ferroviaria ya denunciadas antes",
       "link": "https://www.publico.es/ciencias/error-humano-tragedia-urda-expone-deficiencias-seguridad-ferroviaria-sobre-habia-advertido.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2026/10/29/6ae3898f2dd00.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Una IA con reconocimiento facial podrá detectar el riesgo de muerte en pacientes con cáncer",
       "link": "https://www.publico.es/ciencias/ia-reconocimiento-facial-podra-detectar-riesgo-muerte-pacientes-cancer.html",
       "imagen": "https://www.publico.es/files/listing_square/uploads/2024/11/17/673a60373460d.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los relojes atómicos dejarán de añadir segundos para ajustarse a la rotación de la Tierra",
-      "link": "https://www.publico.es/ciencias/relojes-atomicos-dejaran-anadir-segundos-ajustarse-rotacion-tierra.html",
-      "imagen": "https://www.publico.es/files/listing_square/files/fp/uploads/2026/10/15/6ad0e8eb4300b.r_d.484-327-2699.png",
       "tipo": "imagen"
     }
   ]
