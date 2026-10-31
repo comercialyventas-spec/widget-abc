@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El tiempo en España este fin de semana: las lluvias fuertes amenazan el Mediterráneo y Canarias",
+      "link": "https://www.eldiario.es/sociedad/el-tiempo/tiempo-espana-semana-lluvias-fuertes-amenazan-mediterraneo-canarias-pm_1_13628122.html",
+      "imagen": "https://static.eldiario.es/clip/e73cc7b3-b653-4819-a401-1907d2ae80f1_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Mucho sol y pocas lluvias para el viernes previo al puente de Todos los Santos",
       "link": "https://www.eldiario.es/sociedad/el-tiempo/sol-lluvias-viernes-previo-puente-santos-pm_1_13625126.html",
       "imagen": "https://static.eldiario.es/clip/93b7d788-9724-489f-bc8b-450ab63b1db1_16-9-discover-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El tiempo en España el fin de semana: el frío del sábado dará paso a una subida de temperaturas el domingo",
       "link": "https://www.eldiario.es/sociedad/el-tiempo/tiempo-espana-semana-frio-sabado-dara-paso-subida-temperaturas-domingo-pm_1_13610926.html",
       "imagen": "https://static.eldiario.es/clip/680ded9f-cc07-4cf6-891d-fd9a8d0d1417_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La borrasca Austen estropea el viernes con olas de más de siete metros y fuertes vientos en el norte",
-      "link": "https://www.eldiario.es/sociedad/el-tiempo/borrasca-austen-estropea-viernes-olas-siete-metros-fuertes-vientos-norte-pm_1_13606872.html",
-      "imagen": "https://static.eldiario.es/clip/e5c9e3d7-4581-4dfe-931a-f71b99378671_16-9-discover-aspect-ratio_default_1153933.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Qué delitos se le atribuyen al presunto fundador de Blocus que ha sido enviado a prisión provisional",
+      "link": "https://www.elconfidencial.com/espana/2026-10-31/blocus-delitos-fundador-prision-provisional_4457037/",
+      "imagen": "https://images.ecestaticos.com/X4z7qpnMh8zhSb_vHARVKwdI9js=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F348%2F772%2F45a%2F34877245abbff8c061192d7294784e61.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Qué significa 'blocus': el origen de la palabra que da nombre a la red que convocó los disturbios de Barcelona",
+      "link": "https://www.elconfidencial.com/espana/2026-10-31/blocus-significado-origen-francia-bloque_4457031/",
+      "imagen": "https://images.ecestaticos.com/6p_VrdCZojphPERmT_3gJZkduKI=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F78d%2F196%2Ff9f%2F78d196f9f736f67e184e3213a88bdc01.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El PSOE no remonta: GAD3 ve \"imposible\" que Sánchez sea el más votado el 29-N tras el accidente de Urda",
+      "link": "https://www.elconfidencial.com/espana/2026-10-31/encuesta-escanos-psoe-pp-accidente-urda-mayoria_4457029/",
+      "imagen": "https://images.ecestaticos.com/8U_bBLWFoe1FvvJ4Rg17W_DTwOI=/0x0:800x533/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F60d%2Fae4%2F71b%2F60dae471b5491f45edc93985e47e98d5.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Rescatados 20 migrantes que viajaban en una patera y avistada otra este sábado en Mojácar",
+      "link": "https://www.elconfidencial.com/espana/2026-10-31/pateras-mojacar-interceptadas-avistadas-1tna-1tps_4457010/",
+      "imagen": "https://images.ecestaticos.com/Xym6x-Gx8Z_2VMrnCgac4R3l448=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F238%2F800%2F435%2F238800435d39eff93b64939278b2a84b.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un motorista herido e inconsciente tras sufrir una caída en Sargentes de la Lora (Burgos)",
       "link": "https://www.elconfidencial.com/espana/2026-10-31/motorista-herido-caida-motocicleta-burgos-1tna-1tps_4456955/",
       "imagen": "https://images.ecestaticos.com/hS2lbUOQG4lwYY1UZbiAjxE0IoA=/0x0:2272x1475/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F39c%2F730%2Fe37%2F39c730e3726672421ca2503a6436c4dc.jpg",
@@ -10,30 +34,6 @@
       "titulo": "Rescatan en helicóptero a dos montañeros enriscados en el pico Arenizas (León)",
       "link": "https://www.elconfidencial.com/espana/2026-10-31/rescate-montaneros-pico-arenizas-posada-valdeon-1tna-1tps_4456954/",
       "imagen": "https://images.ecestaticos.com/6G69l9gzHRzmACP0f2eM2IszySM=/0x0:2272x1517/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F21a%2Fdec%2F55c%2F21adec55c2c57d969457ef2e6071e125.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Organizadores de la acampada en Sol anuncian que dejan la protesta para preparar huelga general",
-      "link": "https://www.elconfidencial.com/espana/2026-10-31/acampada-madrid-huelga-general-vivienda-1tna-1tps_4456976/",
-      "imagen": "https://images.ecestaticos.com/WshtW5-JmiXBpMr4hqXplAmyfP0=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd63%2F803%2Ff93%2Fd63803f93e1dfca669b647f7633888f1.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un incendio calcina una vivienda en Palma",
-      "link": "https://www.elconfidencial.com/espana/2026-10-31/incendio-vivienda-palma-1tna-1tps_4456935/",
-      "imagen": "https://images.ecestaticos.com/8PSnHvSid5ejeQgqQ7kGKohsPZE=/0x0:1600x1200/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F0fa%2F213%2Fd3f%2F0fa213d3fc16a18dd396353d30379fce.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Qué es Blocus: la red anónima de TikTok que ha convocado los disturbios en España y cómo funciona",
-      "link": "https://www.elconfidencial.com/espana/2026-10-31/blovus-red-anonima-tiktok-disturbios-espana-como-funciona_4456929/",
-      "imagen": "https://images.ecestaticos.com/e_Z6dgiSVm8DZ-K91CAY-mGujqs=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4b0%2Fa59%2Faae%2F4b0a59aae6b0eaecf67abca44ff066cf.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Prisión provisional sin fianza para el supuesto \"fundador e impulsor\" de Blocus España",
-      "link": "https://www.elconfidencial.com/espana/2026-10-31/ingreso-prision-fundador-blocus-espana-1tna-1tps_4456900/",
-      "imagen": "https://images.ecestaticos.com/AOLqugjWKayXPy5YYx9SHK-kCeA=/0x0:2272x1450/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F342%2F841%2F9ba%2F3428419badf6e34af39271b416c8e706.jpg",
       "tipo": "imagen"
     }
   ]

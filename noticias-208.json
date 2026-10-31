@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Rubio niega que Estados Unidos haya facilitado la salida de Flávio Bolsonaro de Brasil",
+      "link": "https://www.dw.com/es/rubio-niega-que-estados-unidos-haya-facilitado-la-salida-de-flávio-bolsonaro-de-brasil/a-79819674",
+      "imagen": "https://static.dw.com/image/79790316_6.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Francia vive un tercer fin de semana de masivas protestas",
+      "link": "https://www.dw.com/es/francia-vive-un-tercer-fin-de-semana-de-masivas-protestas/a-79819007",
+      "imagen": "https://static.dw.com/image/79818874_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cómo el aumento de los tipos de interés está haciendo estallar el presupuesto de Francia",
       "link": "https://www.dw.com/es/cómo-el-aumento-de-los-tipos-de-interés-está-haciendo-estallar-el-presupuesto-de-francia/a-79814756",
       "imagen": "https://static.dw.com/image/79796551_6.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Zelenski llega a Estambul para reunirse con Erdogan",
       "link": "https://www.dw.com/es/zelenski-llega-a-estambul-para-reunirse-con-erdogan/a-79816581",
       "imagen": "https://static.dw.com/image/74828382_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La ONU rechaza resoluciones contrapuestas sobre el Sáhara",
-      "link": "https://www.dw.com/es/la-onu-rechaza-resoluciones-contrapuestas-sobre-el-sáhara/a-79815959",
-      "imagen": "https://static.dw.com/image/79814259_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Protestas juveniles previstas en más de treinta ciudades alemanas",
-      "link": "https://www.dw.com/es/protestas-juveniles-previstas-en-más-de-treinta-ciudades-alemanas/a-79815512",
-      "imagen": "https://static.dw.com/image/79814039_6.jpg",
       "tipo": "imagen"
     }
   ]

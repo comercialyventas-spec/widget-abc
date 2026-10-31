@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Juan Antonio Gómez-Pintado (Vía Ágora): \"No se puede subir indefinidamente el precio de la vivienda porque es como matar la gallina de los huevos de oro\"",
+      "link": "https://www.elmundo.es/economia/empresas/2026/10/31/6adf7306fc6c83a5298b4581.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/30/17933753525943.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Óscar Puente, los trenes y la degradación de España",
       "link": "https://www.elmundo.es/podcasts/el-mundo-al-dia/2026/10/30/6ae395dcfc6c83cc3e8b458b.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932998923387.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Una familia lleva una semana acampada en la calle tras ser desalojada: \"No queremos ayudas, sólo una vivienda de alquiler en la que entren las sillas de ruedas\"",
       "link": "https://www.elmundo.es/andalucia/2026/10/28/6ae0a13421efa071288b458c.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/27/17931060432821.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Gobierno lanza su 'Plan Vive' con 201 millones de euros para construir 2.500 viviendas asequibles con el sector privado",
-      "link": "https://www.elmundo.es/economia/vivienda/2026/10/27/6ae09942fdddff3a488b4594.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/27/17931055516485.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Una nueva jornada de protestas estudiantiles deja al menos 300 detenidos en Francia",
+      "link": "https://www.elperiodico.com/es/videos/internacional/nueva-jornada-protestas-estudiantiles-deja/135960953.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/944a4005-90f5-4b52-bfdd-f9e928c4d928_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "EEUU en un minuto: ¿Qué vota Estados Unidos el 3 de noviembre y qué está en juego?",
       "link": "https://www.elperiodico.com/es/videos/internacional/eeuu-minuto-vota-estados-unidos/135817055.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0864dad0-1fc5-4a9f-a4c0-634706bc2752_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Bolsonaro llega a Miami después de escaparse de Brasil",
       "link": "https://www.elperiodico.com/es/videos/internacional/bolsonaro-llega-miami-despues-escaparse-video/135854402.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ee7f3c20-5880-413e-a6c1-f5825bf3a36e_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Netanyahu y Eisenkot se autoproclaman vencedores de las elecciones en Israel",
-      "link": "https://www.elperiodico.com/es/videos/internacional/netanyahu-eisenkot-autoproclaman-vencedores-elecciones-israel-video/135832070.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/251f35b2-9e4e-4975-aaef-a648317267e5_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
