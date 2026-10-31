@@ -2,8 +2,26 @@
   "noticias": [
     {
       "titulo": "Accidente tren Toledo",
-      "link": "https://www.eldiario.es/castilla-la-mancha/accidente-tren-urda-ultima-hora-directo-autoridades-identifican-cinco-personas-urda-hay-70-denuncias-desaparicion_133_13626103.html",
-      "imagen": "https://static.eldiario.es/clip/c69dc0a1-964b-4441-bf77-fe618579ca08_facebook-aspect-ratio-1200-675_default_0_x1326y785.jpg",
+      "link": "https://www.eldiario.es/castilla-la-mancha/accidente-tren-urda-ultima-hora-directo_133_13628783.html",
+      "imagen": "https://static.eldiario.es/clip/0444bafd-3059-47aa-a383-7b0a84a62eff_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Condiciones Renfe",
+      "link": "https://www.eldiario.es/economia/plantilla-advierte-aumento-presion-carga-trabajo-personal-experiencia-control-ferroviario_1_13625397.html",
+      "imagen": "https://static.eldiario.es/clip/ee45ce74-91b5-4ba3-a0f6-9fb939712104_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Sistema seguridad Urda",
+      "link": "https://www.eldiario.es/castilla-la-mancha/tren-iryo-no-arranco-urda-sistema-seguridad-tarda-desbloquearse_1_13627938.html",
+      "imagen": "https://static.eldiario.es/clip/ff03799a-0d82-43b5-a2f7-6388d768b1e5_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Raúl Triguero periodista",
+      "link": "https://www.eldiario.es/vertele/noticias/muere-raul-triguero-reportero-viernes-ex-salvame-accidente-tren-urda_1_13627029.html",
+      "imagen": "https://static.eldiario.es/clip/30e8a61e-a904-4f29-b500-bbd2966a8bc9_facebook-vertele-watermarked-aspect-ratio-1200-675_default_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -13,27 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Parque Juan Carlos I",
-      "link": "https://www.eldiario.es/madrid/somos/ayuntamiento-madrid-abre-concurso-privatizar-35-anos-auditorio-abandonado-parque-juan-carlos-i_1_13621526.html",
-      "imagen": "https://static.eldiario.es/clip/f898eeae-0521-4b96-92e1-79dd52d8cd4c_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Festivo 9 noviembre",
-      "link": "https://www.eldiario.es/spin/festivo-9-noviembre-comunidades-habra-puente_1_13596435.html",
-      "imagen": "https://static.eldiario.es/clip/4af5a9b0-a5da-47b7-a7ec-c1778606879d_facebook-aspect-ratio-1200-675_default_0_x679y788.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Semana Santa 2027",
-      "link": "https://www.eldiario.es/viajes/semana-santa-2027-fechas-caen-festivos-comunidad_1_13615865.html",
-      "imagen": "https://static.eldiario.es/clip/2e56ade9-8a1c-4b25-a542-326d5a61dd4b_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Resultados elecciones 2026",
-      "link": "https://elecciones.eldiario.es/",
-      "imagen": "https://elecciones.eldiario.es/assets/metas_andalucia_17M.png",
+      "titulo": "Francisco José Barbero",
+      "link": "https://cordopolis.eldiario.es/cordoba-hoy/sucesos/desaparecido-accidente-urda-joven-nacido-cordoba-32-anos-viajaba-visitar-padres_1_13626216.html",
+      "imagen": "https://static.eldiario.es/clip/cc9c4187-3735-41f8-a566-0bc58e39f006_facebook-cordopolis-watermarked-aspect-ratio-1200-675_default_0_x398y239.jpg",
       "tipo": "imagen"
     }
   ]

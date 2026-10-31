@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Los videojuegos de mi vida",
+      "link": "https://www.lavanguardia.com/cultura/20261031/11672343/videojuegos-mi-vida.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/08/31/68b48cd329d62.r_d.1762-1175-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Del paso del tiempo y otros temblores",
       "link": "https://www.lavanguardia.com/cultura/20261031/11672406/mariana-enriquez-ignacio-peyro-fahrenheit-merino.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/30/6ae4e5266b01d.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Norbert Bilbeny: un adolescent educat, treballador i obedient",
       "link": "https://www.lavanguardia.com/encatala/20261031/11670179/adolescent-educat-treballador-i-obedient.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/28/6ae1e2410fad5.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Flamenco y cine: historia de un romance vista por Isaki Lacuesta",
-      "link": "https://www.lavanguardia.com/cultura/culturas/20261031/11670116/flamenco-cine-historia-romance-vista-isaki-lacuesta.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/28/6ae1dbaf73fdc.jpeg",
       "tipo": "imagen"
     }
   ]

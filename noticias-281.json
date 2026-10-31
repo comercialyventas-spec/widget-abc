@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La última milla de Trump",
+      "link": "https://www.abc.es/internacional/ultima-milla-trump-20261031095126-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/31/trump-RJtouD8eRdOz9pyVfIZCeRI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Policía rodea el Constitucional de Polonia al enfrentarse el primer ministro y el presidente por sus jueces",
       "link": "https://www.abc.es/internacional/policia-rodea-constitucional-polonia-enfrentarse-primer-ministro-20261030212104-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/30/1519546223-kylG-U40107059085TID-1200x840@diario_abc.JPG",
@@ -28,12 +34,6 @@
       "titulo": "Noruega responde al insulto de Trump de «país de mierda» con fotos de sus mejores baños públicos",
       "link": "https://www.abc.es/internacional/noruega-responde-insulto-trump-pais-mierda-fotos-20261030220905-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/30/Bano-kFxH-U40106783432dEF-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Francia despliega a 70.000 policías ante el temor a una noche de violencia en Halloween",
-      "link": "https://www.abc.es/internacional/francia-despliega-70000-policias-ante-temor-noche-20261030144024-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/30/1519230535-RrZ0VaNoUuXUcOxXLgn02UJ-1200x840@diario_abc.JPG",
       "tipo": "imagen"
     }
   ]

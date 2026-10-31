@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La confiança trencada",
+      "link": "https://www.lavanguardia.com/encatala/20261031/11672503/confianca-trencada-ctx.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El escenario vasco se transforma: del auge de Bildu a la aparición de una izquierda antiinmigración",
       "link": "https://www.lavanguardia.com/politica/20261031/11672485/escenario-vasco-transforma-auge-bildu-aparicion-izquierda-antiinmigracion.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/30/6ae5133970ea7.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "¿Una Aliança Catalana en el País Vasco? Así es el partido que se dará a conocer en enero y mira al BSW alemán",
       "link": "https://www.lavanguardia.com/local/paisvasco/20261030/11672260/alianca-catalana-pais-vasco-asi-partido-dara-conocer-enero-mira-bsw.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/04/12/6619820c7fe62.r_d.3301-3188-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Vox se reúne con el Cercle d´Economia y Foment para trasladar su programa económico",
-      "link": "https://www.lavanguardia.com/politica/20261030/11672184/vox-reune-cercle-d-economia-foment-trasladar-programa-economico.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/30/6ae49d23de8db.jpeg",
       "tipo": "imagen"
     }
   ]

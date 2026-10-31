@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Washington, Seúl y Tokio se comprometen con la desnuclearización del norte",
+      "link": "https://www.dw.com/es/washington-seúl-y-tokio-se-comprometen-con-la-desnuclearización-del-norte/a-79814483",
+      "imagen": "https://static.dw.com/image/65257415_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Turquía propone su propio candidato a dirigir la ONU",
       "link": "https://www.dw.com/es/turquía-propone-su-propio-candidato-a-dirigir-la-onu/a-79814296",
       "imagen": "https://static.dw.com/image/70980728_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Protestas multitudinarias se extienden por Italia durante una huelga nacional",
       "link": "https://www.dw.com/es/protestas-multitudinarias-se-extienden-por-italia-durante-una-huelga-nacional/a-79813891",
       "imagen": "https://static.dw.com/image/79806537_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Estados Unidos aprueba venta de misiles Patriot a Ucrania por 2.100 millones de dólares",
-      "link": "https://www.dw.com/es/estados-unidos-aprueba-venta-de-misiles-patriot-a-ucrania-por-2-100-millones-de-dólares/a-79813694",
-      "imagen": "https://static.dw.com/image/79710283_6.jpg",
       "tipo": "imagen"
     }
   ]

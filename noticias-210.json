@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Directo Midterms y el aumento de la participación en el voto anticipado en Texas",
+      "link": "https://www.france24.com/es/video/20261031-directo-midterms-y-el-aumento-de-la-participaci%C3%B3n-en-el-voto-anticipado-en-texas",
+      "imagen": "https://s.france24.com/media/display/1fbdd47c-d4e1-11f1-8f77-d18c5759e759/w:1024/p:16x9/ES-20261030-191514-192042-CS.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Qué pasaría si Trump pierde las mayorías de la Cámara y el Senado en las midterms?",
+      "link": "https://www.france24.com/es/video/20261031-qu%C3%A9-pasar%C3%ADa-si-trump-pierde-las-mayor%C3%ADas-de-la-c%C3%A1mara-y-el-senado-en-las-midterms",
+      "imagen": "https://s.france24.com/media/display/80c30dee-d4de-11f1-b8fd-1beafce15fea/w:1024/p:16x9/ES-20261030-190450-190713-CS.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Finalizó operativo humanitario de evacuación en Oleshky en medio de tregua Rusia-Ucrania",
+      "link": "https://www.france24.com/es/video/20261031-finaliz%C3%B3-operativo-humanitario-de-evacuaci%C3%B3n-en-oleshky-en-medio-de-tregua-rusia-ucrania",
+      "imagen": "https://s.france24.com/media/display/bac5699c-d4d9-11f1-9a50-d18c5759e759/w:1024/p:16x9/ES-20261030-183731-183931-CS.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Líbano busca tomar control de la gobernanza de campamentos de refugiados palestinos",
+      "link": "https://www.france24.com/es/video/20261031-l%C3%ADbano-busca-tomar-control-de-la-gobernanza-de-campamentos-de-refugiados-palestinos",
+      "imagen": "https://s.france24.com/media/display/51344756-d4d3-11f1-905b-695cb59fade5/w:1024/p:16x9/ES-20261030-173924-174133-CS.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Qué pasaría si Trump decide no reconocer resultados adversos en las midterms?",
       "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261031-qu%C3%A9-pasar%C3%ADa-si-trump-decide-no-reconocer-resultados-adversos-en-las-midterms",
       "imagen": "https://s.france24.com/media/display/fe8b1ab2-d4d1-11f1-a16c-a575454bc579/w:1024/p:16x9/IVS-WEB-30OCT-PORTADA-WEB.png",
@@ -10,30 +34,6 @@
       "titulo": "Mbappé se quedó a solo 28 puntos de Kane en la votación del Balón de Oro",
       "link": "https://www.france24.com/es/deportes/20261031-mbapp%C3%A9-qued%C3%B3-28-puntos-kane-votaci%C3%B3n-bal%C3%B3n-de-oro",
       "imagen": "https://s.france24.com/media/display/ddc02614-d4c3-11f1-b040-d18c5759e759/w:1024/p:16x9/IVS-WEB-DEP-30OCT-BALON-DE-ORO-GANADOR-v2-00899.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Más IVA al café y reducción de impuestos a las empresas: el ajuste fiscal que propone De la Espriella",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261031-m%C3%A1s-iva-al-caf%C3%A9-y-reducci%C3%B3n-de-impuestos-a-las-empresas-el-ajuste-fiscal-que-propone-de-la-espriella",
-      "imagen": "https://s.france24.com/media/display/4447a666-a435-11f0-be2c-005056a90284/w:1024/p:16x9/34dde53eea34c360c825ccfdb5e167caa8df1e8a.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los escenarios para formar gobierno en Israel con Netanyahu y Eisenkot sin mayoría absoluta",
-      "link": "https://www.france24.com/es/video/20261031-los-escenarios-para-formar-gobierno-en-israel-con-netanyahu-y-eisenkot-sin-mayor%C3%ADa-absoluta",
-      "imagen": "https://s.france24.com/media/display/c1a6d000-d4c7-11f1-b0b8-695cb59fade5/w:1024/p:16x9/ES-20261030-173719-173901-CS.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Informe desde Washington: León XIV vota a distancia y reabre debate sobre papel político del papa",
-      "link": "https://www.france24.com/es/video/20261031-informe-desde-washington-le%C3%B3n-xiv-vota-a-distancia-y-reabre-debate-sobre-papel-pol%C3%ADtico-del-papa",
-      "imagen": "https://s.france24.com/media/display/2d75e186-d4c3-11f1-abec-d18c5759e759/w:1024/p:16x9/ES-20261030-133938-134200-CS.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "España: familiares de víctimas de accidente ferroviario exigen respuestas",
-      "link": "https://www.france24.com/es/video/20261031-espa%C3%B1a-familiares-de-v%C3%ADctimas-de-accidente-ferroviario-exigen-respuestas",
-      "imagen": "https://s.france24.com/media/display/d787ecca-d386-11f1-9efd-47de50b3c1e4/w:1024/p:16x9/2026-10-29T101143Z-1296105867-RC2WCOARW78Q-RTRMADP-3-SPAIN-ACCIDENT.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La revolución silenciosa de la IA: todos podemos crear ya aplicaciones a medida",
+      "link": "https://www.lavanguardia.com/tecnologia/aplicaciones/20261031/11671523/vibe-coding.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/06/19/6a3513fd0f5ab.r_d.2287-1525-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Josep Lluís Checa deja la dirección del TecnoCampus para asumir el liderazgo de Eurecat",
       "link": "https://www.lavanguardia.com/local/maresme/20261028/11670050/josep-lluis-checa-deja-direccion-tecnocampus-asumir-liderazgo-eurecat.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2018/09/04/5fa452da97c78.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "De PEGI 3 a PEGI 16: el sistema europeo de clasificación por edades endurece sus criterios",
       "link": "https://www.lavanguardia.com/neo/20261021/11664017/cambios-sistema-pegi-clasificacion-videojuegos-edad.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2020/03/28/5fa8ff4db47db.r_d.513-276-4526.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La factoría de IA del BSC lanza un programa para acelerar startups",
-      "link": "https://www.lavanguardia.com/economia/20261015/11660033/factoria-ia-bsc-lanza-programa-acelerar-startups.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/15/6ad10a48003fd.jpeg",
       "tipo": "imagen"
     }
   ]

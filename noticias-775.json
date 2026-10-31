@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¿Por qué pagó Okdiario la defensa de Koldo García?",
+      "link": "https://eldiario.es/blog/el-boletin-del-director/",
+      "imagen": "https://static.eldiario.es/clip/c6064f83-b743-4119-b19c-dd84ab7bec61_16-9-discover-aspect-ratio_default_0_x495y236.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Vértigo constitucional",
       "link": "https://eldiario.es/blog/mano-a-mano/",
       "imagen": "https://static.eldiario.es/clip/b34db411-ec50-499c-8800-86f77909ce2d_16-9-discover-aspect-ratio_default_0_x378y381.jpg",
@@ -10,12 +16,6 @@
       "titulo": "🎙 PODCAST | La reconstrucción de Urda: varios fallos y muchas preguntas",
       "link": "https://eldiario.es/un-tema-al-dia/",
       "imagen": "https://static.eldiario.es/clip/23e7b706-0d43-4248-9c6f-e2247f37e6fa_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ya, ya, pero es que el lobo viene de verdad. Y con colmillos",
-      "link": "https://eldiario.es/blog/el-ojo-izquierdo/",
-      "imagen": "https://static.eldiario.es/clip/b996cb5d-164c-4090-8115-05fe52029cfb_16-9-discover-aspect-ratio_default_0_x2660y1408.jpg",
       "tipo": "imagen"
     }
   ]
