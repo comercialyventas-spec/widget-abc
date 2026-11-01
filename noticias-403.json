@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La Generalitat de Cataluña adquiere 11 obras de la artista Lluïsa Vidal por 129.000 euros",
+      "link": "https://www.elconfidencial.com/espana/cataluna/2026-11-01/lluisa-vidal-arte-catalan-1tna-1tps_4457152/",
+      "imagen": "https://images.ecestaticos.com/r6omRQiLfLpKcbbe_9KM8r0EG6I=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4b0%2F927%2Fb98%2F4b0927b988e6aca15a69fb819b3dc05c.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sevilla reivindica el arte y el criterio frente a la polarización",
       "link": "https://www.elconfidencial.com/aniversario/2026-10-28/sevilla-arte-criterio-polarizacion-bra_4454372/",
       "imagen": "https://images.ecestaticos.com/sNVwDTeCcDvQBTFoTnxqfrdlbrU=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F6c3%2F7e3%2F157%2F6c37e31573722ed8308f85cf2ab9cdc1.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Aragón pide al Museo Nacional de Cataluña un plazo de devolución de las pinturas de Sijena",
       "link": "https://www.elconfidencial.com/espana/aragon/2026-10-23/devolucion-pinturas-monasterio-sijena-mnac-1tps_4451645/",
       "imagen": "https://images.ecestaticos.com/pfdWrrwXE_PsnacUEjmDqWVyfy4=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F087%2F822%2F165%2F087822165c6f58aef7f9c0f6cc1cfbc2.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Por qué son tan malos los textos explicativos que ves en los cuadros de los museos",
-      "link": "https://www.elconfidencial.com/el-grito/2026-10-21/por-que-malos-textos-explicativos-cuadros-museos_4448884/",
-      "imagen": "https://images.ecestaticos.com/EuEn0VUAl7GmPatSiLZzLm2h68s=/0x0:1444x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F8c0%2Fa90%2Ffa4%2F8c0a90fa467798c0f03c3b72914547d9.jpg",
       "tipo": "imagen"
     }
   ]

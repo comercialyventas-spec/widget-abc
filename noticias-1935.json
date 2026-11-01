@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Localizada una embarcación con cuatro migrantes a punto de hundirse en aguas del Estrecho",
+      "link": "https://www.elmundo.es/espana/2026/11/01/6ae72235e9cf4ab0058b456d.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/23/17874799161264.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Una semana infiltrado con los Blocus, los violentos que lideraba el hispanopakistaní Alfayez desde un pueblo de Valencia",
       "link": "https://www.elmundo.es/cronica/2026/10/30/6ae506b7e9cf4a72368b4585.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/30/17933943532085.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Planes de Halloween en Málaga: desde Muelle Uno hasta la discoteca Santa Rita",
       "link": "https://www.elmundo.es/andalucia/2026/10/29/6ae3036ffc6c8319068b4579.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932834181821.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La famosa cadena de restaurantes de Barcelona que aterriza en Málaga: comida saludable y producto local ideal para vegetarianos",
-      "link": "https://www.elmundo.es/andalucia/2026/10/28/6ae10ab3e4d4d836698b45b5.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/27/17931336294397.png",
       "tipo": "imagen"
     }
   ]
