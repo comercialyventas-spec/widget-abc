@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El brote de ébola en la República Democrática del Congo deja ya más de 5.000 personas muertas",
+      "link": "https://efe.com/salud/2026-10-31/ebola-muertos-congo-epidemia/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/ebola-congo-1.webp?fit=900%2C600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La española María Neira y otros seis candidatos competirán por la dirección de la OMS",
+      "link": "https://efe.com/salud/2026-10-30/direccion-oms-candidatos-maria-neira/",
+      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/neira-1.webp?fit=900%2C600&ssl=1",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Acceden a datos de 18.416 pacientes del Servicio Extremeño de Salud, entre ellos Guardiola",
       "link": "https://efe.com/extremadura/2026-10-29/ciberataque-ses-guardiola/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/EPA5973-ALEMANIA-ESPIONAJE.webp?fit=900%2C600&ssl=1",
@@ -22,18 +34,6 @@
       "titulo": "Los casos de dengue se duplican en Perú respecto al mismo periodo de 2025",
       "link": "https://efe.com/salud/2026-10-28/casos-dengue-se-duplican-peru/",
       "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/dngue-1.webp?fit=900%2C600&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Unos 300 médicos y familiares se manifiestan en Las Palmas de Gran Canaria para pedir mejoras laborales",
-      "link": "https://efe.com/economia/2026-10-27/unos-300-medicos-y-familiares-se-manifiestan-en-las-palmas-de-gran-canaria-para-pedir-mejoras-laborales/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/medicos.webp?fit=1024%2C683&ssl=1",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cero pantallas hasta los 6 años en los coles; el aviso urgente de neurólogos y expertos",
-      "link": "https://efe.com/salud/2026-10-27/cero-pantallas-colegios-hasta-6-anos-expertos/",
-      "imagen": "https://i0.wp.com/efe.com/wp-content/uploads/2026/10/pantallas-colegios.webp?fit=900%2C577&ssl=1",
       "tipo": "imagen"
     }
   ]

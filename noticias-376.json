@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Suiza asegura haber fabricado un nuevo tipo de robot que no tiene motor y usa el sonido como combustible",
+      "link": "https://www.elconfidencial.com/tecnologia/2026-11-01/suiza-robot-volar-sin-motor-usando-sonido-1qrt_4433094/",
+      "imagen": "https://images.ecestaticos.com/u8xpWAWH9oyTWA_vdrnWj-tgP0s=/0x0:2044x1160/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd50%2F3e4%2Fc3e%2Fd503e4c3ed5734cec1bb1008e1673284.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El turismo espacial está medio muerto y esta nueva nave es la gran esperanza para resucitarlo",
+      "link": "https://www.elconfidencial.com/tecnologia/novaceno/2026-11-01/turismo-espacial-virgin-galactic-apeiron-nave-branson_4456647/",
+      "imagen": "https://images.ecestaticos.com/Lne0-0fRB-Anw0DdLK1nwaKNfBY=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2f4%2Fc95%2F9b4%2F2f4c959b400990f9a12a262419e9d2d2.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El enésimo coste oculto de los centros de datos: por qué una manada de lobos se ha 'mudado' a estos pueblos",
       "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-11-01/coste-centros-datos-impacto-fauna-medioambiente-google-finlandia-lobos_4456612/",
       "imagen": "https://images.ecestaticos.com/2BtCs78xInnD-snvnBdLvFyrFqQ=/0x301:2890x1927/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F80e%2F16d%2F03a%2F80e16d03ad28c423159f9288c11d30d2.jpg",
@@ -19,21 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "El turismo espacial está medio muerto y esta nueva nave es la gran esperanza para resucitarlo",
-      "link": "https://www.elconfidencial.com/tecnologia/novaceno/2026-11-01/turismo-espacial-virgin-galactic-apeiron-nave-branson_4456647/",
-      "imagen": "https://images.ecestaticos.com/Lne0-0fRB-Anw0DdLK1nwaKNfBY=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2f4%2Fc95%2F9b4%2F2f4c959b400990f9a12a262419e9d2d2.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Un terraplanista gasta 18.000 euros en demostrar que la Tierra es plana y lo que sucede lo convierte en protagonista de una serie",
       "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-31/terraplanista-18000-euros-tierra-plana-protagonista-serie-1qrt_4433087/",
       "imagen": "https://images.ecestaticos.com/WFgzw-u7Xf3q1VWzA1VG0j9mdAc=/0x0:2126x1232/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ffd6%2F854%2F366%2Ffd68543667be263472a2010a92e79214.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Descubren un nuevo estado de la materia que es “como mezclar agua y aceite”",
-      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-10-31/nuevo-estado-materia-mezclar-agua-aceite-1qrt_4418599/",
-      "imagen": "https://images.ecestaticos.com/TyNdMWNLW5MG80EwDU6ynmoW6ZQ=/0x0:1892x1214/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbcb%2F6b8%2F81d%2Fbcb6b881dc7d4b05d7c2ac00e5e6a525.jpg",
       "tipo": "imagen"
     }
   ]

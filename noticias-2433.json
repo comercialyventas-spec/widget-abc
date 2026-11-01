@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Marc Márquez se impone de principio a fin en el GP de Malasia y podría ser campeón en Catar",
+      "link": "https://www.rtve.es/deportes/20261101/gp-malasia-motogp-2026-carrera-larga-directo-resumen/17288877.shtml",
+      "imagen": "https://img.rtve.es/n/17288877?w=800",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Barça recupera su mejor versión con una goleada ante el Alavés para seguir al frente de la Liga",
       "link": "https://www.rtve.es/deportes/20261031/barcelona-deportivo-alaves-directo-hoy-partido-liga-resumen-resultado-goles/17293931.shtml",
-      "imagen": "https://img.rtve.es/i/?h=400&i=01793483966729.jpg",
+      "imagen": "https://img.rtve.es/i/?h=300&i=01793483966729.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "El Rayo Vallecano vuelve a ganar apoyado por un gran De Frutos",
       "link": "https://www.rtve.es/play/videos/resumenes-de-laliga/rayo-celta-resumen-del-partido-11a-jornada-liga-primera/17294817/",
       "imagen": "https://img.rtve.es/i/?w=400&i=01793467576437.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mourinho: \"Mbappé ha asimilado el Balón de Oro para Kane con mucha clase\"",
-      "link": "https://www.rtve.es/deportes/20261031/mourinho-mbappe-asimilado-balon-oro-para-harry-kane-con-mucha-clase/17294865.shtml",
-      "imagen": "https://img.rtve.es/v/17295052?w=400",
       "tipo": "imagen"
     }
   ]

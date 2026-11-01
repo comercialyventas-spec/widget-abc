@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "Última hora del accidente de tren en Urda, en directo: La Guardia Civil reanuda los trabajos en la zona cero",
+      "titulo": "Última hora del accidente de tren en Urda, en directo: Identificadas ya 56 de las 69 víctimas mortales",
       "link": "https://www.ondacero.es/noticias/sociedad/ultima-hora-accidente-tren-urda-directo-oscar-puente_202610316ae5b287a5f83c2fb8ea88b9.html",
       "imagen": "https://image.ondacero.es/clipping/cmsimages02/2026/10/31/DCCC3588-A0E4-4D44-87AD-5A38B5AFCD5E/imagen-archivo-trenes-iryo-ave-accidente-urda_96.jpg?crop=1080,608,x0,y23&amp;width=1200&amp;height=675&amp;optimize=low&amp;format=webply",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Julia Otero: \"El trumpismo sobrevivirá a Trump\"",
+      "link": "https://www.ondacero.es/noticias/espana/julia-otero-trumpismo-sobrevivira-trump_202611016ae6f850b55c427e2ebad156.html",
+      "imagen": "https://image.ondacero.es/clipping/cmsimages01/2026/11/01/AA80D4A4-4A36-4027-8968-8752BACE5DD4/julia-otero-trumpismo-sobrevivira-trump_96.jpg?crop=1280,720,x0,y0&amp;width=1200&amp;height=675&amp;optimize=low&amp;format=webply",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La repercusión mundial que ha tenido el accidente de Urda: \"Arroja una duda sobre el sistema y hace que la imagen de España se pueda ver comprometida\"",
+      "link": "https://www.ondacero.es/noticias/mundo/repercusion-mundial-que-tenido-accidente-urda-arroja-duda-sistema-hace-que-imagen-espana-pueda-ver-comprometida_202611016ae6f54ab55c427e2ebad00a.html",
+      "imagen": "https://image.ondacero.es/clipping/cmsimages01/2026/11/01/46CB86E9-DB19-425A-877F-2C3072F59F2A/imagen-archivo-trenes-accidente-urda-toledo_96.jpg?crop=2868,1613,x0,y17&amp;width=1200&amp;height=675&amp;optimize=low&amp;format=webply",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "\"Hay que darle una vuelta seria\": un ingeniero pide que se revisen los protocolos de control y seguridad ferroviaria tras el accidente de Urda",
+      "link": "https://www.ondacero.es/noticias/sociedad/hay-que-darle-vuelta-seria-ingeniero-pide-que-revisen-protocolos-control-seguridad-ferroviaria-accidente-urda_202611016ae6ce6b02501232156fb650.html",
+      "imagen": "https://image.ondacero.es/clipping/cmsimages01/2026/10/31/E6AC01EA-81FA-4871-83FA-26B5E0FA5DA8/imagen-colision-ave-iryo-urda-toledo_96.jpg?crop=1920,1080,x0,y43&amp;width=1200&amp;height=675&amp;optimize=low&amp;format=webply",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "La amenaza de disturbios de Blocus se salda con mil identificados y 63 denuncias en Barcelona y sin incidencias reseñables en el resto de España",
       "link": "https://www.ondacero.es/noticias/sociedad/amenaza-disturbios-blocus-salda-mil-identificados-63-denuncias-barcelona-incidencias-resenables-resto-espana_202610316ae65b2f004b78127abba208.html",
       "imagen": "https://image.ondacero.es/clipping/cmsimages01/2026/10/31/2F300A52-E2C1-4BC2-B7B7-B1975FAAA5A8/miembros-policia-nacional-identifican-registran-grupo-adolescentes-este-sabado-palma-mallorca_96.jpg?crop=1920,1080,x0,y0&amp;width=1200&amp;height=675&amp;optimize=low&amp;format=webply",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Vox pide al Supremo suspender el voto de los hijos de nacionalizados por la ley de nietos si sus padres no acreditan el exilio",
-      "link": "https://www.ondacero.es/elecciones/generales/vox-pide-supremo-suspender-voto-hijos-nacionalizados-ley-nietos-sus-padres-acreditan-exilio_202610316ae63d0b02501232156f7a34.html",
-      "imagen": "https://image.ondacero.es/clipping/cmsimages01/2026/10/31/D7368ADC-D4CD-43CD-98A7-1F195EBB3AD1/fachada-tribunal-supremo-madrid_96.jpg?crop=1920,1080,x0,y0&amp;width=1200&amp;height=675&amp;optimize=low&amp;format=webply",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La acampada de Sol anuncia su \"disolución progresiva\" de la plaza hacia los barrios para preparar la huelga general del 11N",
-      "link": "https://www.ondacero.es/noticias/sociedad/acampada-sol-anuncia-disolucion-progresiva-plaza-barrios-preparar-huelga-general-11n_202610316ae6302fa5f83c2fb8eaf910.html",
-      "imagen": "https://image.ondacero.es/clipping/cmsimages01/2026/10/31/08835E1A-1A84-46A9-BA21-0804718853FD/vista-acampada-puerta-sol_96.jpg?crop=1920,1080,x0,y144&amp;width=1200&amp;height=675&amp;optimize=low&amp;format=webply",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Gobierno de Ceuta lamenta que tres meses después se hayan producido \"cero devoluciones\" por vía administrativa",
-      "link": "https://www.ondacero.es/noticias/espana/gobierno-ceuta-lamenta-que-tres-meses-despues-hayan-producido-cero-devoluciones-via-administrativa_202610316ae6267e004b78127abb8705.html",
-      "imagen": "https://image.ondacero.es/clipping/cmsimages01/2026/10/31/212650CE-4241-48F5-963C-01EE501177DA/operacion-esta-semana-ceuta-devolver-marruecos-migrantes-que-entraron-dias-30-31-julio-que-tienen-derecho-asilo_96.jpg?crop=1920,1080,x0,y0&amp;width=1200&amp;height=675&amp;optimize=low&amp;format=webply",
       "tipo": "imagen"
     }
   ]

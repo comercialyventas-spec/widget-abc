@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Las costuras del ciclo expansivo",
+      "link": "https://elpais.com/economia/negocios/2026-11-01/las-costuras-del-ciclo-expansivo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/6ZNP7GA5OROBFJZIZ4ZTKNB5PA.jpg?auth=0b67bb604ad2df3926dc7174348ae24b1f000cd2cdae3d912291e212171cf897",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El planeta nos cobrará aranceles",
       "link": "https://elpais.com/economia/negocios/2026-11-01/el-planeta-nos-cobrara-aranceles.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/N32RU57J5ZHLXNJP7BOYYKGIUE.jpg?auth=7b5912022ad5958a9ca39cc04a57ce16e50491940692f8355c63092613ea8e33",
@@ -28,12 +34,6 @@
       "titulo": "Cumbre global de la vivienda asequible",
       "link": "https://elpais.com/economia/negocios/2026-11-01/cumbre-global-de-la-vivienda-asequible.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/4XE5ASAZM5GOVET5UT5MWEMKQU.jpg?auth=28f7918a6676fa95ffadb6e0b285533b849a88913aa17eb9484d39b41303746a",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El inmenso valor del ‘chip-dólar’",
-      "link": "https://elpais.com/economia/negocios/2026-11-01/el-inmenso-valor-del-chip-dolar.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/2AXM5C74LFKXLCIOU5HUSORQKY.jpg?auth=c644f1164a5f4cf23b2a0ae96b12197b761b6796738b6a3723666d87ca974366",
       "tipo": "imagen"
     }
   ]

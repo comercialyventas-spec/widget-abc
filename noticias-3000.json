@@ -1,0 +1,40 @@
+{
+  "noticias": [
+    {
+      "titulo": "CulturaOcio",
+      "link": "https://www.europapress.es/podcasts/culturaocio/",
+      "imagen": "https://s01.europapress.net/podcast/10/foto.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los retos de las pymes en España",
+      "link": "https://www.europapress.es/podcasts/reto-pymes-espana/",
+      "imagen": "https://s01.europapress.net/podcast/12/foto.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Generación de oportunidades",
+      "link": "https://www.europapress.es/podcasts/generacion-oportunidades/",
+      "imagen": "https://s01.europapress.net/podcast/14/foto.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Escucha, es tu EUropa",
+      "link": "https://www.europapress.es/podcasts/es-tu-europa/",
+      "imagen": "https://s01.europapress.net/podcast/164c045c-5f3a-4598-8c0f-3927c5a4312c.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "microEmPrendedores",
+      "link": "https://www.europapress.es/podcasts/microemprendedores/",
+      "imagen": "https://s01.europapress.net/podcast/f5894385-8117-459d-8f5f-8d997b6dc96a.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Finanzas personales para el día a día",
+      "link": "https://www.europapress.es/podcasts/finanzas-personales-para-el-dia-a-dia/",
+      "imagen": "https://s01.europapress.net/podcast/aec7e096-425b-40eb-a189-f7b9dde3878d.jpg",
+      "tipo": "imagen"
+    }
+  ]
+}

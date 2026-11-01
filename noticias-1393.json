@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de El Cañaveral",
+      "link": "https://nuevosureste.es/red-trafico-hachis-punto-desmantelado-el-canaveral/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/Policia-Nacional-400x250.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Detenido en El Cañaveral un profesor acusado de agredir sexualmente a menores",
       "link": "https://nuevosureste.es/detenido-en-el-canaveral-profesor-agresion-sexual/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/09/El-Canaveral-Foto-Nuevo-Sureste-400x250.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Rivas reúne este fin de semana cerca de 400 coches en su Feria del Vehículo Sostenible con entrada gratuita y sorteos",
       "link": "https://nuevosureste.es/feria-vehiculo-sostenible-rivas-2026/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/Feria-del-Vehiculo-Sostenible-1-400x250.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Valores cívicos, instrumentos musicales y otras curiosidades del callejero de El Cañaveral",
-      "link": "https://nuevosureste.es/curiosidades-callejero-el-canaveral/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/07/Canaveral-callejero-400x250.jpg",
       "tipo": "imagen"
     }
   ]
