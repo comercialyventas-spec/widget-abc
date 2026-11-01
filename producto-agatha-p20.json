@@ -1,11 +1,6 @@
 {
   "productos": [
     {
-      "titulo": "Casco Pasarela Estrella",
-      "url": "https://www.agatharuizdelaprada.com/products/casco-pasarela-agatha-ruiz-de-la-prada",
-      "imagen": "https://cdn.shopify.com/s/files/1/0901/8746/4971/files/estrella-g.jpg?v=1777480444"
-    },
-    {
       "titulo": "CHUBASQUERO PERRO CORAZONES Y FLORES",
       "url": "https://www.agatharuizdelaprada.com/products/arnes-todoterreno-nubes-copia",
       "imagen": "https://cdn.shopify.com/s/files/1/0901/8746/4971/files/5_e5fff8eb-a9a5-499e-963b-30a68b656b95.webp?v=1777480313"
@@ -119,10 +114,15 @@
       "titulo": "PIN CIRCULO ALMENARDIAZ",
       "url": "https://www.agatharuizdelaprada.com/products/pin-almenar-diaz",
       "imagen": "https://cdn.shopify.com/s/files/1/0901/8746/4971/files/sector5_d64bdd13-d50b-452f-a752-0fcae822fd2d.jpg?v=1777480401"
+    },
+    {
+      "titulo": "PIN CORAZON ALMENARDIAZ",
+      "url": "https://www.agatharuizdelaprada.com/products/pin-corazon-almenar-diaz",
+      "imagen": "https://cdn.shopify.com/s/files/1/0901/8746/4971/files/sector1_75426b7f-382e-4f7b-97e8-627958667e7e.jpg?v=1777480402"
     }
   ],
   "pagina": 20,
   "totalPaginas": 42,
   "hayMas": true,
-  "generado": "2026-10-30T09:42:26.127Z"
+  "generado": "2026-11-01T22:05:32.375Z"
 }
