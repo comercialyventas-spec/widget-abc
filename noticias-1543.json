@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Entrevista",
+      "link": "https://www.eldiario.es/cantabria/miguel-angel-revilla-feijoo-presidente-manos-atadas-vox_1_13627618.html",
+      "imagen": "https://static.eldiario.es/clip/4f8f0f2e-e365-449c-9550-46ce8e2bbb9a_facebook-aspect-ratio-1200-675_default_0_x640y195.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Gobierno de Cantabria gasta 21.500 euros al mes en mantener vacías las viviendas de sustitución para los afectados por derribos en Escalante",
       "link": "https://www.eldiario.es/cantabria/gobierno-cantabria-gasta-21-500-euros-mes-mantener-vacias-viviendas-sustitucion-afectados-derribos_1_13627638.html",
       "imagen": "https://static.eldiario.es/clip/7b952aba-977b-426a-816f-8b4334fbcbc1_facebook-aspect-ratio-1200-675_default_0_x788y309.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El monitor de Villaescusa acusado de grabar a jugadoras en los vestuarios no llega a un acuerdo y será juzgado en mayo",
       "link": "https://www.eldiario.es/cantabria/monitor-villaescusa-acusado-grabar-jugadoras-vestuarios-no-llega-acuerdo-sera-juzgado-mayo_1_13628144.html",
       "imagen": "https://static.eldiario.es/clip/f63832e5-1e18-4034-b7ac-fd295f0f9a79_16-9-discover-aspect-ratio_default_0_x698y445.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Gobierno prevé ejecutar este año el 80% de las obras de la carretera de Lunada donde fallecieron cuatro jóvenes",
-      "link": "https://www.eldiario.es/cantabria/gobierno-preve-ejecutar-ano-80-obras-carretera-lunada-don-fallecieron-cuatro-jovenes_1_13629240.html",
-      "imagen": "https://static.eldiario.es/clip/036df399-f41d-4bd7-971a-2d149eedcc8d_16-9-discover-aspect-ratio_default_0_x1006y642.jpg",
       "tipo": "imagen"
     }
   ]

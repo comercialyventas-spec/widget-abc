@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La rebelión del Tribunal Supremo contra la ley",
+      "link": "https://www.eldiario.es/contracorriente/rebelion-tribunal-supremo-ley_132_13629502.html",
+      "imagen": "https://static.eldiario.es/clip/dc9813ac-ff26-4df0-8124-241a45dc55f8_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La dirección del viento está cambiando",
       "link": "https://www.eldiario.es/contracorriente/direccion-viento-cambiando_132_13616480.html",
       "imagen": "https://static.eldiario.es/clip/08af9838-3592-451b-a533-be54117eda2f_16-9-discover-aspect-ratio_default_0_x1046y345.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La Constitución es más lista que el constituyente",
       "link": "https://www.eldiario.es/contracorriente/constitucion-lista-constituyente_132_13548208.html",
       "imagen": "https://static.eldiario.es/clip/4a2c20e7-cdf5-485a-996b-9e68bee4d18b_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La legislatura de la ley de amnistía",
-      "link": "https://www.eldiario.es/contracorriente/legislatura-ley-amnistia_132_13536287.html",
-      "imagen": "https://static.eldiario.es/clip/a91f6b15-0267-46b0-8941-483af77116c6_16-9-discover-aspect-ratio_default_0_x1160y931.jpg",
       "tipo": "imagen"
     }
   ]
