@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "En mitad de entonces",
+      "link": "https://www.lavanguardia.com/comer/opinion/20261101/11671917/mitad.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/30/6ae46591e270a.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Las 4 mejores recetas de panellets para celebrar el Día de Todos los Santos",
+      "link": "https://www.lavanguardia.com/comer/recetas/20261101/11669176/4-mejores-recetas-panellets-celebrar-dia-todos-santos.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/27/6ae07c0ac865b.r_d.1154-649-1944.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El vino de la semana: 10 Relíquies de Les Vinyes del Convent",
+      "link": "https://www.lavanguardia.com/comer/20261101/11667744/vino-semana-10-reliquies-les-vinyes-convent.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/26/6adf72e38a4ae.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Su familia lleva desde 1385 cultivando viñas y hoy elabora con ellas un vino que ha obtenido 100 puntos Peñín: “Estamos muy orgullosos por el valor sentimental que hay detrás”",
       "link": "https://www.lavanguardia.com/comer/beber/20261031/11669961/familia-lleva-1385-cultivando-vinas-hoy-elabora-vino-obtenido-100-puntos-penin-orgullosos-valor-sentimental-hay-detras.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/28/6ae1b2edd71ca.r_d.567-317-4736.jpeg",
@@ -16,24 +34,6 @@
       "titulo": "El hechizo de Casa Bonay y su Bodega",
       "link": "https://www.lavanguardia.com/comer/sitios/20261031/11671896/hechizo-casa-bonay-bodega.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/30/6ae460cc08d9c.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El vino se armoniza con el cine y la música durante el mes de noviembre",
-      "link": "https://www.lavanguardia.com/comer/al-dia/20261031/11668715/vino-armoniza-cine-musica-mes-noviembre.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/26/6adfa80d33480.r_d.1282-725-1751.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Maymanta: De significado origen, de origen Perú",
-      "link": "https://www.lavanguardia.com/comer/20261031/11670827/maymanta-significado-origen-origen-peru-brl.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/29/6ae2fed76a7cc.r_d.1920-2000-1048.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Lluïsa Estrada, primera mujer en ganar el título de Mejor Maestro Artesano Pastelero de España",
-      "link": "https://www.lavanguardia.com/comer/al-dia/20261030/11671853/lluisa-estrada-primera-mujer-ganar-titulo-mejor-maestro-artesano-pastelero-espana.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/30/6ae456436280f.r_d.329-185-6813.jpeg",
       "tipo": "imagen"
     }
   ]

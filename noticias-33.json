@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Feijóo se cambia de traje",
+      "link": "https://www.lavanguardia.com/opinion/20261101/11673268/feijoo-cambia-traje.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La tragedia del accidente de Urda: de la urgencia a la profundidad y el rigor",
       "link": "https://www.lavanguardia.com/opinion/20261101/11672921/tragedia-accidente-urda-urgencia-profundidad-rigor.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/28/6ae20938c80ec.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "No estamos todos",
       "link": "https://www.lavanguardia.com/opinion/20261101/11672897/todos.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/12/22/694930b93b97d.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Con disculpas a los dictadores",
-      "link": "https://www.lavanguardia.com/opinion/20261101/11672896/disculpas-dictadores.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/31/6ae610778f882.jpeg",
       "tipo": "imagen"
     }
   ]

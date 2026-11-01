@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "Una cinta de 510 metros unió una semana Catalunya y Aragón sobre el vacío en Mont-rebei",
+      "link": "https://www.lavanguardia.com/lugaresdeaventura/20261101/11671315/cinta-510-metros-unio-semana-catalunya-aragon-sobre-vacio-mont-rebei.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/10/29/6ae36d9c8ccba.r_d.885-1048-3118.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los 82 cuatromiles de los Alpes, en un solo mapa",
       "link": "https://www.lavanguardia.com/lugaresdeaventura/20261031/11668473/82-cuatromiles-alpes-mapa.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/files/fp/uploads/2026/10/26/6adf546d24480.r_d.1024-711-0.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/10/26/6adf546d24480.r_d.1024-711-0.jpeg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Miles de grullas transforman Gallocanta en uno de los grandes espectáculos del otoño",
       "link": "https://www.lavanguardia.com/lugaresdeaventura/20261027/11668693/miles-grullas-transforman-gallocanta-grandes-espectaculos-otono.html",
       "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2025/10/28/6900f35280fac.r_d.118-325-5282.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Segovia estrena cuatro rutas entre minas romanas, fósiles y paisajes de otro planeta",
-      "link": "https://www.lavanguardia.com/lugaresdeaventura/20261026/11664794/segovia-estrena-cuatro-rutas-minas-romanas-fosiles-paisajes-planeta.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_221/files/fp/uploads/2026/10/21/6ad8e6091e904.r_d.827-872-2339.jpeg",
       "tipo": "imagen"
     }
   ]

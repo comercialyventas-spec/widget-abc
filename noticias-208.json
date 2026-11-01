@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un juez desestima demanda de Trump al diario estadounidense The Wall Street Journal",
+      "link": "https://www.dw.com/es/un-juez-desestima-demanda-de-trump-al-diario-estadounidense-the-wall-street-journal/a-79820038",
+      "imagen": "https://static.dw.com/image/75308986_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Protestas de jóvenes en varias ciudades de Alemania terminan en violencia",
       "link": "https://www.dw.com/es/protestas-de-jóvenes-en-varias-ciudades-de-alemania-terminan-en-violencia/a-79819986",
       "imagen": "https://static.dw.com/image/79818377_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Cómo el aumento de los tipos de interés está haciendo estallar el presupuesto de Francia",
       "link": "https://www.dw.com/es/cómo-el-aumento-de-los-tipos-de-interés-está-haciendo-estallar-el-presupuesto-de-francia/a-79814756",
       "imagen": "https://static.dw.com/image/79796551_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "BUNDESLIGA: escuche el partido Bayern Múnich vs. Borussia Dortmund",
-      "link": "https://www.dw.com/es/bundesliga-escuche-el-partido-bayern-múnich-vs-borussia-dortmund/a-79817741",
-      "imagen": "https://static.dw.com/image/79806083_6.jpg",
       "tipo": "imagen"
     }
   ]
