@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El ciberataque a los supermercados afectó también al banco nacional de sangre francés",
+      "link": "https://www.eldiario.es/tecnologia/ciberataque-frigorificos-forzo-evacuacion-emergencia-banco-sangre-frances_1_13637984.html",
+      "imagen": "https://static.eldiario.es/clip/440b9241-5e30-49db-97a4-d3e26524ebef_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Supermercados en Europa y bases militares en EEUU: ¿qué está pasando con los hackeos a frigoríficos?",
       "link": "https://www.eldiario.es/tecnologia/supermercados-europa-bases-militares-eeuu-pasando-hackeos-frigorificos_1_13634024.html",
       "imagen": "https://static.eldiario.es/clip/956b6a28-822f-4403-a20b-1148e2d0052a_facebook-aspect-ratio-1200-675_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Suecia bloquea a sus funcionarios el acceso a ChatGPT y Claude para evitar filtraciones de datos",
       "link": "https://www.eldiario.es/tecnologia/suecia-bloquea-funcionarios-acceso-chatgpt-claude-evitar-filtraciones-datos_1_13618468.html",
       "imagen": "https://static.eldiario.es/clip/2e0527d6-6a69-45c6-a41b-23f907d4eeda_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Microsoft propone un plan de salidas voluntarias para 60.000 empleados, un cuarto de su plantilla",
-      "link": "https://www.eldiario.es/tecnologia/microsoft-propone-plan-salidas-voluntarias-60-000-empleados-cuarta-parte-plantilla_1_13616521.html",
-      "imagen": "https://static.eldiario.es/clip/4ccc4c7c-f9c2-4485-9a8f-431cad98bb96_facebook-aspect-ratio-1200-675_default_0.jpg",
       "tipo": "imagen"
     }
   ]
