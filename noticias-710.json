@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "España lidera la primera movilización europea contra los centros de datos: “Las promesas de la IA son falsas”",
+      "link": "https://www.eldiario.es/tecnologia/espana-lidera-primera-movilizacion-europea-centros-datos-promesas-ia-son-falsas_1_13639661.html",
+      "imagen": "https://static.eldiario.es/clip/d0a6369f-9b27-4a0c-be55-2d56a21660be_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El ciberataque a los supermercados afectó también al banco nacional de sangre francés",
       "link": "https://www.eldiario.es/tecnologia/ciberataque-frigorificos-forzo-evacuacion-emergencia-banco-sangre-frances_1_13637984.html",
       "imagen": "https://static.eldiario.es/clip/440b9241-5e30-49db-97a4-d3e26524ebef_facebook-aspect-ratio-1200-675_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El histórico desplome de Google e Intel asesta un nuevo golpe a la burbuja de la IA",
       "link": "https://www.eldiario.es/tecnologia/historico-desplome-google-e-intel-asesta-nuevo-golpe-burbuja-ia_1_13627374.html",
       "imagen": "https://static.eldiario.es/clip/fd096173-7f50-42b2-ac1d-37923a7669a4_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Suecia bloquea a sus funcionarios el acceso a ChatGPT y Claude para evitar filtraciones de datos",
-      "link": "https://www.eldiario.es/tecnologia/suecia-bloquea-funcionarios-acceso-chatgpt-claude-evitar-filtraciones-datos_1_13618468.html",
-      "imagen": "https://static.eldiario.es/clip/2e0527d6-6a69-45c6-a41b-23f907d4eeda_facebook-aspect-ratio-1200-675_default_0.jpg",
       "tipo": "imagen"
     }
   ]
