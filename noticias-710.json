@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Nvidia abre una investigación sobre la relación de su CEO, Jensen Huang, con una espía china",
+      "link": "https://www.eldiario.es/tecnologia/nvidia-abre-investigacion-relacion-ceo-jensen-huang-espia-china_1_13648276.html",
+      "imagen": "https://static.eldiario.es/clip/3620472a-5672-4a48-bcb9-2a79c484c279_facebook-aspect-ratio-1200-675_default_0_x553y429.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Ha empezado ya el estallido de la burbuja de la IA? Esto es lo que nos dice el desplome de las bolsas",
       "link": "https://www.eldiario.es/tecnologia/empezado-estallido-burbuja-ia-dice-desplome-bolsas_1_13646581.html",
       "imagen": "https://static.eldiario.es/clip/e70ce27d-bf27-4bf2-a96e-a5fa1a66d0fb_facebook-aspect-ratio-1200-675_default_0_x2751y511.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El ciberataque a los supermercados afectó también al banco nacional de sangre francés",
       "link": "https://www.eldiario.es/tecnologia/ciberataque-frigorificos-forzo-evacuacion-emergencia-banco-sangre-frances_1_13637984.html",
       "imagen": "https://static.eldiario.es/clip/440b9241-5e30-49db-97a4-d3e26524ebef_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Supermercados en Europa y bases militares en EEUU: ¿qué está pasando con los hackeos a frigoríficos?",
-      "link": "https://www.eldiario.es/tecnologia/supermercados-europa-bases-militares-eeuu-pasando-hackeos-frigorificos_1_13634024.html",
-      "imagen": "https://static.eldiario.es/clip/956b6a28-822f-4403-a20b-1148e2d0052a_facebook-aspect-ratio-1200-675_default_0.jpg",
       "tipo": "imagen"
     }
   ]
