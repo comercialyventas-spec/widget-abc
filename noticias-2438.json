@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Sorteo de la BonoLoto y Euromillones del martes 10 de noviembre",
+      "link": "https://www.rtve.es/rtve/20261111/sorteo-bonoloto-euromillones-del-martes-10-noviembre/17307285.shtml",
+      "imagen": "https://img.rtve.es/imagenes/sorteo-bonoloto-euromillones-del-martes-10-noviembre/01794345159694.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sorteo de la BonoLoto y Primitiva del lunes 9 de noviembre",
       "link": "https://www.rtve.es/rtve/20261110/sorteo-bonoloto-primitiva-del-lunes-9-noviembre/17307274.shtml",
       "imagen": "https://img.rtve.es/imagenes/sorteo-bonoloto-primitiva-del-lunes-9-noviembre/01794260693332.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Sorteo de la BonoLoto del miércoles 28 de octubre",
       "link": "https://www.rtve.es/rtve/20261029/sorteo-bonoloto-del-miercoles-octubre-28/17285193.shtml",
       "imagen": "https://img.rtve.es/imagenes/sorteo-bonoloto-del-miercoles-octubre-28/1793219669384.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sorteo de la BonoLoto y Euromillones del martes 27 de octubre",
-      "link": "https://www.rtve.es/rtve/20261028/sorteo-bonoloto-euromillones-del-martes-27-octubre/17285192.shtml",
-      "imagen": "https://img.rtve.es/imagenes/sorteo-bonoloto-euromillones-del-martes-27-octubre/1793134966829.jpg",
       "tipo": "imagen"
     }
   ]
