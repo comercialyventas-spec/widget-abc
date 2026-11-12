@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Sorteo de la BonoLoto del miércoles 11 de noviembre",
+      "link": "https://www.rtve.es/rtve/20261112/sorteo-bonoloto-del-miercoles-11-noviembre/17310114.shtml",
+      "imagen": "https://img.rtve.es/css/rtve.2020.rtve/i/generica_rtve.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sorteo de la BonoLoto y Euromillones del martes 10 de noviembre",
       "link": "https://www.rtve.es/rtve/20261111/sorteo-bonoloto-euromillones-del-martes-10-noviembre/17307285.shtml",
       "imagen": "https://img.rtve.es/imagenes/sorteo-bonoloto-euromillones-del-martes-10-noviembre/01794345159694.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Sorteo de la BonoLoto, Primitiva y Lotería Nacional del jueves 29 de octubre",
       "link": "https://www.rtve.es/rtve/20261030/sorteo-bonoloto-primitiva-loteria-nacional-del-jueves-29-octubre/17285194.shtml",
       "imagen": "https://img.rtve.es/imagenes/sorteo-bonoloto-primitiva-loteria-nacional-del-jueves-29-octubre/1793307813866.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sorteo de la BonoLoto del miércoles 28 de octubre",
-      "link": "https://www.rtve.es/rtve/20261029/sorteo-bonoloto-del-miercoles-octubre-28/17285193.shtml",
-      "imagen": "https://img.rtve.es/imagenes/sorteo-bonoloto-del-miercoles-octubre-28/1793219669384.jpg",
       "tipo": "imagen"
     }
   ]
