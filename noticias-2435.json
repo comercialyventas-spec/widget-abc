@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Del hashtag al meme: el 11N es la primera huelga en la era del teletrabajo y la inteligencia artificial",
+      "link": "https://www.rtve.es/noticias/20261111/twitter-inteligencia-artificial-cambiado-huelgas-generales-era-digital/17309790.shtml",
+      "imagen": "https://img.rtve.es/imagenes/twitter-inteligencia-artificial-cambiado-huelgas-generales-era-digital/01794414250656.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las emisiones de los combustibles fósiles descenderán en 2026 por la guerra de Irán y la expansión de las renovables",
       "link": "https://www.rtve.es/noticias/20261110/emisiones-combustibles-fosiles-descenderan-2026-guerra-iran-expansion-renovables/17304219.shtml",
       "imagen": "https://img.rtve.es/imagenes/emisiones-combustibles-fosiles-descenderan-2026-guerra-iran-expansion-renovables/01793997859081.jpg",
@@ -28,12 +34,6 @@
       "titulo": "'Virtue and a Sledgehammer', la fábula humanista en tiempos de la IA con factura española",
       "link": "https://www.rtve.es/noticias/20261107/virtue-sledgehammer-fabula-humanista-tiempos-ia-videojuego/17298451.shtml",
       "imagen": "https://img.rtve.es/imagenes/virtue-sledgehammer-fabula-humanista-tiempos-ia-videojuego/01793730259763.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Madrid ensayará los coches autónomos entre dudas sobre accidentes, seguros y responsabilidad",
-      "link": "https://www.rtve.es/noticias/20261106/madrid-ensayara-coches-autonomos-entre-dudas-sobre-accidentes-seguros-responsabilidad/17233244.shtml",
-      "imagen": "https://img.rtve.es/imagenes/madrid-ensayara-coches-autonomos-entre-dudas-sobre-accidentes-seguros-responsabilidad/01771751023967.jpg",
       "tipo": "imagen"
     }
   ]
