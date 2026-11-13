@@ -1,7 +1,13 @@
 {
   "noticias": [
     {
-      "titulo": "Caída global de Microsoft: qué ha pasado, por qué no se recupera y cuándo podrían volver a funcionar Outlook y Teams",
+      "titulo": "Outlook y Teams empiezan a recuperarse en Europa tras una caída global de 20 horas en Microsoft",
+      "link": "https://www.eldiario.es/tecnologia/outlook-teams-empiezan-recuperarse-europa-caida-global-20-horas-microsoft_1_13661763.html",
+      "imagen": "https://static.eldiario.es/clip/82c64a46-dea1-41fc-aaae-d9531efc2238_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Caída global de Microsoft: qué ha pasado, por qué y cuándo podrían volver a funcionar Outlook y Teams",
       "link": "https://www.eldiario.es/tecnologia/caida-global-microsoft-pasado-no-recupera-volver-funcionar-outlook-teams_1_13660769.html",
       "imagen": "https://static.eldiario.es/clip/4ccc4c7c-f9c2-4485-9a8f-431cad98bb96_facebook-aspect-ratio-1200-675_default_0.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Nvidia se plantea el despido de Jensen Huang por su relación con una espía china y con otra ejecutiva de la empresa",
       "link": "https://www.eldiario.es/tecnologia/nvidia-plantea-despido-jensen-huang-relacion-espia-china-ejecutiva-empresa_1_13656864.html",
       "imagen": "https://static.eldiario.es/clip/2e7dcfc0-5010-445c-b96f-68da37c9dc46_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Anthropic saldrá a bolsa por 1,4 billones dopada por sus propios proveedores",
-      "link": "https://www.eldiario.es/tecnologia/anthropic-saldra-bolsa-1-4-billones-dopada-propios-proveedores_1_13653487.html",
-      "imagen": "https://static.eldiario.es/clip/ec157a5b-1641-42fd-bb90-ac1fe2d3111a_facebook-aspect-ratio-1200-675_default_0.jpg",
       "tipo": "imagen"
     }
   ]
