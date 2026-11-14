@@ -1,21 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "La gran paradoja de la vivienda en España: cada vez más hogares y cada vez menos casas disponibles",
-      "link": "https://www.elperiodico.com/es/economia/20261114/gran-paradoja-vivienda-espana-136429969",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6253847c-bfc0-4c62-b08d-bd2a1e5573dd_16-9-discover-aspect-ratio_default_0_x1200y450.jpg",
+      "titulo": "La final del Mundial 2030 se convierte en cuestión de Estado: la gran batalla de Barcelona, Madrid y Casablanca",
+      "link": "https://www.elperiodico.com/es/deportes/20261114/final-mundial-2030-barcelona-madrid-casablanca-136366358",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a307c137-c062-4fac-97f3-b0addafbc480_16-9-discover-aspect-ratio_default_1530448.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Barcelona aprueba un plan de 25 millones para construir 71 pisos protegidos junto al futuro parque de La Sagrera",
+      "link": "https://www.elperiodico.com/es/barcelona/20261113/barcelona-aprueba-plan-25-millones-136376083",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6c08ad51-5c0c-433b-a409-d6a375abdf65_16-9-discover-aspect-ratio_default_0_x774y294.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "De un millón de viviendas a expropiaciones: las propuestas de los partidos sobre vivienda",
+      "link": "https://www.elperiodico.com/es/economia/20261114/millon-viviendas-expropiaciones-propuestas-partidos-136424256",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f11548c7-be06-4f1d-b64a-cbfc3999d1cb_16-9-discover-aspect-ratio_default_0_x1200y450.jpg",
       "tipo": "imagen"
     },
     {
       "titulo": "EEUU suspende los vuelos en todo el país durante cinco horas y culpa a una sobrecarga del sistema de control",
       "link": "https://www.elperiodico.com/es/internacional/20261113/estados-unidos-ordena-suspender-despegues-136427697",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/02617ac8-150c-4e9c-96b2-55c8931e56b0_16-9-discover-aspect-ratio_default_0_x1000y359.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La final del Mundial 2030 se convierte en cuestión de Estado: la gran batalla de Barcelona, Madrid y Casablanca",
-      "link": "https://www.elperiodico.com/es/deportes/20261114/final-mundial-2030-barcelona-madrid-casablanca-136366358",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a307c137-c062-4fac-97f3-b0addafbc480_16-9-discover-aspect-ratio_default_1530448.jpg",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/75c75c5e-cbce-4199-87b2-ee82ebdf4bc4_16-9-discover-aspect-ratio_default_0_x512y524.jpg",
       "tipo": "imagen"
     },
     {
@@ -25,15 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "El gas que ni se ve ni se huele y que causa cáncer de pulmón: Catalunya empieza a medir el radón en 600 viviendas",
-      "link": "https://www.elperiodico.com/es/sanidad/20261113/gas-ve-huele-cancer-pulmon-medir-radon-cataluna-casas-136290663",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d3a91213-e3f1-4075-918d-31450c6faa34_16-9-discover-aspect-ratio_default_0_x600y225.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Qué ha pasado con Outlook? ¿Ha vuelto ya mi correo? Claves de la caída global de Microsoft",
-      "link": "https://www.elperiodico.com/es/tecnologia/20261113/que-pasa-microsoft-claves-caida-global-teams-copilot-outlook-conexion-solucion-136399021",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f587ffe0-aedc-4eae-9efb-2e5f80b95955_16-9-discover-aspect-ratio_default_0_x1000y431.jpg",
+      "titulo": "Tres accidentes de camiones con un muerto cortan la autopista AP-7 entre Tarragona y Barcelona",
+      "link": "https://www.elperiodico.com/es/trafico-y-transportes/20261114/cortada-ap7-mont-roig-camp-sentido-barcelona-accidentes-camiones-136431815",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/78c06ac6-2bab-4819-9041-13fe41d5b4a9_16-9-discover-aspect-ratio_default_0_x1438y1055.jpg",
       "tipo": "imagen"
     }
   ]
