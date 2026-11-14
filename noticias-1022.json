@@ -1,19 +1,24 @@
 {
   "noticias": [
     {
-      "titulo": "Caos aéreo en EE.UU.: cancelan todos los vuelos durante más de cuatro horas por la saturación del sistema de control",
+      "titulo": "El SMI se dispara... ¿por qué mi sueldo no?",
+      "link": "https://www.abc.es/economia/cuentas-corrientes/smi-dispara-sueldo-20261114024212-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/11/14/4-3_salario-estancado_20261113161321-RFhheQ1jGNzazgCBwlsUi9L-1200x840@diario_abc.jpg"
+    },
+    {
+      "titulo": "Caos aéreo en EE.UU.: todos los vuelos cancelados durante más de cuatro horas por la saturación del sistema de control",
       "link": "https://www.abc.es/internacional/suspendidos-vuelos-eeuu-debido-circunstancias-extraordinarias-motivos-20261113222039-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/13/1520243167-U209789089591eD-U40345620570VdG-1200x840@diario_abc.jpg"
+    },
+    {
+      "titulo": "Camino de Invierno: la ruta jacobea más joven cumple diez años",
+      "link": "https://www.abc.es/viajar/destinos/espana/camino-invierno-ruta-jacobea-joven-cumple-diez-20261114075446-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/viajar/2026/11/14/cabo-mundo-a-cova-R1026HmnAdS3KIs9YRncfEL-1200x840@diario_abc.jpg"
     },
     {
       "titulo": "Elon Musk renuncia a recuperar la primera etapa del Starship y lo jugará todo a la parte más difícil: atrapar la nave a su vuelta",
       "link": "https://www.abc.es/ciencia/previa-starship-vuelo-20261113182525-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/11/13/1517985565-R8s51lyQk4DtWsFPnHk8zML-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "El SMI se dispara... ¿por qué mi sueldo, no?",
-      "link": "https://www.abc.es/economia/cuentas-corrientes/smi-dispara-sueldo-20261114024212-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/11/14/4-3_salario-estancado_20261113161321-RFhheQ1jGNzazgCBwlsUi9L-1200x840@diario_abc.jpg"
     },
     {
       "titulo": "Paloma Esteban: «Feijóo lo fía todo a su perfil gestor y la 'reconstrucción nacional' contra Sánchez»",
@@ -24,11 +29,6 @@
       "titulo": "ABC se infiltra en Núcleo Nacional (I): «Así entré en la organización nazi más grande de España»",
       "link": "https://www.abc.es/espana/infiltrado-nucleo-nacional-grupo-nazi-grande-espana-20261114025136-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/14/AFP__20261003__D26P27E__v2__HighRes__SpainPoliticsHousingRealEstateDemo-kRCI-RmS4B7T9fYYEduabZtsC7bI-1200x672@diario_abc.jpg"
-    },
-    {
-      "titulo": "Los programas electorales de PP y Vox allanan el futuro acuerdo de Gobierno",
-      "link": "https://www.abc.es/espana/programas-electorales-pp-vox-allanan-futuro-acuerdo-20261114025204-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/14/1507872668-RNF2xXeQZRIzknFzC91SrRL-1200x840@diario_abc.jpg"
     }
   ]
 }
