@@ -1,11 +1,9 @@
 {
- "fecha": "2026-11-09T12:24:14.080Z",
+ "fecha": "2026-11-16T12:20:58.757Z",
  "items": {
   "catalogo:https://0not1.ru/catalog/kurtki/#categoria": {
-   "sev": 2,
-   "problemas": [
-    "copia de GitHub antigua (193 h; el motor la da por caducada a las 72 h)"
-   ],
+   "sev": 0,
+   "problemas": [],
    "posts": [
     "https://ropaycomplementosaliazon.blogspot.com/2026/05/chaquetas-0not1-chaquetas-y-abrigos-de.html"
    ]
@@ -196,7 +194,7 @@
   "catalogo:https://cervezamica.es/collections/all": {
    "sev": 1,
    "problemas": [
-    "solo 3 productos"
+    "solo 5 productos"
    ],
    "posts": [
     "https://supermercadoaliazon.blogspot.com/2026/05/productos-el-bici.html"
@@ -365,7 +363,7 @@
   "catalogo:https://tierrasafari.com/": {
    "sev": 2,
    "problemas": [
-    "copia de GitHub antigua (243 h; el motor la da por caducada a las 72 h)"
+    "copia de GitHub antigua (411 h; el motor la da por caducada a las 72 h)"
    ],
    "posts": [
     "https://ropaycomplementosaliazon.blogspot.com/2026/05/tierra-safari.html"
@@ -421,10 +419,8 @@
    ]
   },
   "catalogo:https://www.anaisa.es/tienda/#categoria": {
-   "sev": 2,
-   "problemas": [
-    "copia de GitHub antigua (167 h; el motor la da por caducada a las 72 h)"
-   ],
+   "sev": 0,
+   "problemas": [],
    "posts": [
     "https://ropaycomplementosaliazon.blogspot.com/2026/04/ultimas-unidades-annaisa.html"
    ]
@@ -654,29 +650,37 @@
    ]
   },
   "catalogo:https://yumbiltong.com/es/collections/cerveza": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "copia de GitHub antigua (219 h; el motor la da por caducada a las 72 h)"
+   ],
    "posts": [
     "https://supermercadoaliazon.blogspot.com/2026/06/cerveza-lager-mexicana-de-sabor-ligero.html"
    ]
   },
   "catalogo:https://yumbiltong.com/es/collections/miel": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "copia de GitHub antigua (219 h; el motor la da por caducada a las 72 h)"
+   ],
    "posts": [
     "https://supermercadoaliazon.blogspot.com/2026/07/yumbiltong-es-una-firma-de-moda.html"
    ]
   },
   "catalogo:https://yumbiltong.com/es/collections/nuevos-llegadas-1": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "copia de GitHub antigua (219 h; el motor la da por caducada a las 72 h)"
+   ],
    "posts": [
     "https://supermercadoaliazon.blogspot.com/2026/07/la-seccion-de-nuevas-llegadas-reune-las.html"
    ]
   },
   "catalogo:https://yumbiltong.com/es/collections/rojo-vino": {
-   "sev": 0,
-   "problemas": [],
+   "sev": 2,
+   "problemas": [
+    "copia de GitHub antigua (219 h; el motor la da por caducada a las 72 h)"
+   ],
    "posts": [
     "https://supermercadoaliazon.blogspot.com/2026/07/la-coleccion-reune-una-amplia-seleccion.html"
    ]
@@ -691,7 +695,7 @@
   "noticias-10": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 12.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -701,7 +705,7 @@
   "noticias-100": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -709,20 +713,22 @@
    ]
   },
   "noticias-1002": {
-   "sev": 3,
+   "sev": 0,
    "problemas": [
+    "OK por respaldo: el post carga 6 noticias en el navegador aunque no hay copia en GitHub",
     "no existe noticias-1002.json (el widget sale en blanco)",
     "no está en la lista de feeds"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/portada-publicoes.html",
     "https://periodicosaliazon.blogspot.com/2026/07/publicoes.html"
-   ]
+   ],
+   "respaldo": 6
   },
   "noticias-101": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -732,7 +738,7 @@
   "noticias-102": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -751,7 +757,7 @@
   "noticias-1029": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -761,7 +767,7 @@
   "noticias-103": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -771,7 +777,7 @@
   "noticias-1032": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -781,7 +787,7 @@
   "noticias-1037": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -801,7 +807,7 @@
   "noticias-1039": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -811,7 +817,7 @@
   "noticias-104": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -821,7 +827,7 @@
   "noticias-1040": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -831,7 +837,7 @@
   "noticias-1042": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -841,7 +847,7 @@
   "noticias-1046": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -852,7 +858,7 @@
   "noticias-1047": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -862,7 +868,7 @@
   "noticias-1048": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -872,7 +878,7 @@
   "noticias-1049": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -882,7 +888,7 @@
   "noticias-105": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -892,7 +898,7 @@
   "noticias-1050": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -902,7 +908,7 @@
   "noticias-1054": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -922,7 +928,7 @@
   "noticias-1056": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -932,7 +938,7 @@
   "noticias-106": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -942,7 +948,7 @@
   "noticias-1061": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.6 días",
+    "sin cambios en más de 15 días",
     "solo 2 noticias",
     "no está en la lista de feeds"
    ],
@@ -953,7 +959,7 @@
   "noticias-1064": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -963,7 +969,7 @@
   "noticias-1066": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -973,7 +979,7 @@
   "noticias-1067": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -983,7 +989,7 @@
   "noticias-1068": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -994,7 +1000,7 @@
   "noticias-1069": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1014,7 +1020,7 @@
   "noticias-1070": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1024,7 +1030,7 @@
   "noticias-1071": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1034,7 +1040,7 @@
   "noticias-1072": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1044,7 +1050,7 @@
   "noticias-1073": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1054,7 +1060,7 @@
   "noticias-1075": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1064,7 +1070,7 @@
   "noticias-1077": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1074,7 +1080,7 @@
   "noticias-1078": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1084,7 +1090,7 @@
   "noticias-1082": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1114,7 +1120,7 @@
   "noticias-1088": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1124,7 +1130,7 @@
   "noticias-1089": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1134,7 +1140,7 @@
   "noticias-109": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.5 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1144,7 +1150,7 @@
   "noticias-1090": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1154,7 +1160,7 @@
   "noticias-1091": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1164,7 +1170,7 @@
   "noticias-1092": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1174,7 +1180,7 @@
   "noticias-1093": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1184,7 +1190,7 @@
   "noticias-1098": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1194,7 +1200,7 @@
   "noticias-11": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1205,7 +1211,7 @@
   "noticias-110": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1215,7 +1221,7 @@
   "noticias-1100": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1225,7 +1231,7 @@
   "noticias-1101": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1255,7 +1261,7 @@
   "noticias-1105": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1265,7 +1271,7 @@
   "noticias-1109": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1275,7 +1281,7 @@
   "noticias-111": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1285,7 +1291,7 @@
   "noticias-1113": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1295,7 +1301,7 @@
   "noticias-1115": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1305,7 +1311,7 @@
   "noticias-1119": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1315,7 +1321,7 @@
   "noticias-112": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1325,7 +1331,7 @@
   "noticias-1122": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.5 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1335,7 +1341,7 @@
   "noticias-1128": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 13.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1355,7 +1361,7 @@
   "noticias-1136": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1365,7 +1371,7 @@
   "noticias-114": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1375,7 +1381,7 @@
   "noticias-1148": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 12.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1385,7 +1391,7 @@
   "noticias-115": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1395,7 +1401,7 @@
   "noticias-1150": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 12.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1405,7 +1411,7 @@
   "noticias-1153": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1415,7 +1421,7 @@
   "noticias-1154": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1425,7 +1431,7 @@
   "noticias-1155": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1435,7 +1441,7 @@
   "noticias-1156": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1455,7 +1461,7 @@
   "noticias-117": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.5 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1465,7 +1471,7 @@
   "noticias-1170": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1475,7 +1481,7 @@
   "noticias-1172": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1485,7 +1491,7 @@
   "noticias-1177": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1505,7 +1511,7 @@
   "noticias-1190": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1515,7 +1521,7 @@
   "noticias-1201": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1526,7 +1532,7 @@
   "noticias-121": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1546,7 +1552,7 @@
   "noticias-1212": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1566,7 +1572,7 @@
   "noticias-1217": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.5 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1576,7 +1582,7 @@
   "noticias-122": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.5 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1586,7 +1592,7 @@
   "noticias-1220": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1596,7 +1602,7 @@
   "noticias-1221": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1606,7 +1612,7 @@
   "noticias-1223": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1636,7 +1642,7 @@
   "noticias-1236": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1646,7 +1652,7 @@
   "noticias-1237": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1656,7 +1662,7 @@
   "noticias-1238": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1666,7 +1672,7 @@
   "noticias-1239": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 13.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1676,7 +1682,7 @@
   "noticias-124": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.5 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1686,7 +1692,7 @@
   "noticias-1240": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1696,7 +1702,7 @@
   "noticias-1241": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1726,7 +1732,7 @@
   "noticias-1254": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1736,7 +1742,7 @@
   "noticias-1255": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1746,7 +1752,7 @@
   "noticias-1256": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1756,7 +1762,7 @@
   "noticias-1257": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.5 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1777,7 +1783,7 @@
   "noticias-1259": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1787,7 +1793,7 @@
   "noticias-126": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1807,7 +1813,7 @@
   "noticias-1261": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1817,7 +1823,7 @@
   "noticias-1262": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1828,7 +1834,7 @@
   "noticias-1263": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1838,7 +1844,7 @@
   "noticias-1264": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1848,7 +1854,7 @@
   "noticias-1265": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1858,7 +1864,7 @@
   "noticias-127": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1868,7 +1874,7 @@
   "noticias-1272": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 12.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1908,7 +1914,7 @@
   "noticias-130": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.5 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1928,7 +1934,7 @@
   "noticias-1301": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1938,7 +1944,7 @@
   "noticias-1302": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 12.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1958,7 +1964,7 @@
   "noticias-1329": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 12.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1968,7 +1974,7 @@
   "noticias-133": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -1978,7 +1984,7 @@
   "noticias-134": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2009,7 +2015,7 @@
   "noticias-1360": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2019,7 +2025,7 @@
   "noticias-1363": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2029,7 +2035,7 @@
   "noticias-1369": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2039,7 +2045,7 @@
   "noticias-137": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 13.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2049,7 +2055,7 @@
   "noticias-1370": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2059,7 +2065,7 @@
   "noticias-1378": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2069,7 +2075,7 @@
   "noticias-1379": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2089,7 +2095,7 @@
   "noticias-1381": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2099,7 +2105,7 @@
   "noticias-1390": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2109,7 +2115,7 @@
   "noticias-1391": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2119,7 +2125,7 @@
   "noticias-14": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2140,7 +2146,7 @@
   "noticias-1403": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2150,7 +2156,7 @@
   "noticias-141": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 13.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2160,7 +2166,7 @@
   "noticias-1412": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2170,7 +2176,7 @@
   "noticias-142": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2180,7 +2186,7 @@
   "noticias-143": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.5 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2190,7 +2196,7 @@
   "noticias-144": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2200,7 +2206,7 @@
   "noticias-1440": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2210,7 +2216,7 @@
   "noticias-1446": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2220,7 +2226,7 @@
   "noticias-1447": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2230,7 +2236,7 @@
   "noticias-1448": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2240,7 +2246,7 @@
   "noticias-1449": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2260,7 +2266,7 @@
   "noticias-1450": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2280,7 +2286,7 @@
   "noticias-147": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2290,7 +2296,7 @@
   "noticias-148": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2321,7 +2327,7 @@
   "noticias-151": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2364,7 +2370,7 @@
   "noticias-1546": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2384,7 +2390,7 @@
   "noticias-1550": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2394,7 +2400,7 @@
   "noticias-156": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 12.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2414,7 +2420,7 @@
   "noticias-158": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2424,7 +2430,7 @@
   "noticias-159": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2435,7 +2441,7 @@
   "noticias-160": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 12.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2485,7 +2491,7 @@
   "noticias-165": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2495,7 +2501,7 @@
   "noticias-166": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2505,7 +2511,7 @@
   "noticias-167": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2515,7 +2521,7 @@
   "noticias-168": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2526,7 +2532,7 @@
   "noticias-169": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2538,7 +2544,7 @@
   "noticias-170": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2549,7 +2555,7 @@
   "noticias-1700": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2569,7 +2575,7 @@
   "noticias-171": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2580,7 +2586,7 @@
   "noticias-172": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2591,7 +2597,7 @@
   "noticias-1721": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2601,7 +2607,7 @@
   "noticias-1722": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2611,7 +2617,7 @@
   "noticias-1723": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2621,7 +2627,7 @@
   "noticias-1724": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2631,7 +2637,7 @@
   "noticias-1725": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2642,7 +2648,7 @@
   "noticias-1726": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2652,7 +2658,7 @@
   "noticias-1728": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2662,7 +2668,7 @@
   "noticias-173": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2673,7 +2679,7 @@
   "noticias-1733": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2693,7 +2699,7 @@
   "noticias-174": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2704,7 +2710,7 @@
   "noticias-1741": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2715,7 +2721,7 @@
   "noticias-1745": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2725,7 +2731,7 @@
   "noticias-1746": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2735,7 +2741,7 @@
   "noticias-1747": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2745,7 +2751,7 @@
   "noticias-175": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2756,7 +2762,7 @@
   "noticias-176": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2766,7 +2772,7 @@
   "noticias-177": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2785,7 +2791,7 @@
   "noticias-178": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2796,7 +2802,7 @@
   "noticias-179": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2817,7 +2823,7 @@
   "noticias-180": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2827,7 +2833,7 @@
   "noticias-181": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2837,7 +2843,7 @@
   "noticias-182": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2847,7 +2853,7 @@
   "noticias-183": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2857,7 +2863,7 @@
   "noticias-184": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2867,7 +2873,7 @@
   "noticias-185": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2877,7 +2883,7 @@
   "noticias-186": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2887,7 +2893,7 @@
   "noticias-1868": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2897,7 +2903,7 @@
   "noticias-187": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2907,7 +2913,7 @@
   "noticias-1874": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2917,7 +2923,7 @@
   "noticias-188": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2927,17 +2933,27 @@
   "noticias-1881": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 13.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/09/vivienda-20-minutos.html"
    ]
   },
+  "noticias-189": {
+   "sev": 2,
+   "problemas": [
+    "sin cambios desde hace 15.0 días",
+    "no está en la lista de feeds"
+   ],
+   "posts": [
+    "https://periodicosaliazon.blogspot.com/2026/10/torre-marathon-la-voz-de-galicia.html"
+   ]
+  },
   "noticias-19": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.8 días",
+    "sin cambios en más de 15 días",
     "solo 1 noticias",
     "no está en la lista de feeds"
    ],
@@ -2949,7 +2965,7 @@
   "noticias-190": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2959,7 +2975,7 @@
   "noticias-1900": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2969,7 +2985,7 @@
   "noticias-1903": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2979,7 +2995,7 @@
   "noticias-191": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -2989,7 +3005,7 @@
   "noticias-1915": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.0 días",
+    "sin cambios en más de 15 días",
     "sin fotos",
     "no está en la lista de feeds"
    ],
@@ -3000,7 +3016,7 @@
   "noticias-1916": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3010,7 +3026,7 @@
   "noticias-1917": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3020,7 +3036,7 @@
   "noticias-1918": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3040,7 +3056,7 @@
   "noticias-192": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3050,7 +3066,7 @@
   "noticias-1920": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3060,7 +3076,7 @@
   "noticias-1921": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3070,7 +3086,7 @@
   "noticias-1922": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3080,7 +3096,7 @@
   "noticias-1923": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3091,7 +3107,7 @@
   "noticias-1924": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3121,7 +3137,7 @@
   "noticias-1929": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3131,7 +3147,7 @@
   "noticias-193": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3161,7 +3177,7 @@
   "noticias-1932": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3171,7 +3187,7 @@
   "noticias-1934": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3181,7 +3197,7 @@
   "noticias-1937": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3191,7 +3207,7 @@
   "noticias-1939": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3199,19 +3215,21 @@
    ]
   },
   "noticias-194": {
-   "sev": 3,
+   "sev": 0,
    "problemas": [
+    "OK por respaldo: el post carga 6 noticias en el navegador aunque no hay copia en GitHub",
     "no existe noticias-194.json (el widget sale en blanco)",
     "no está en la lista de feeds"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/10/futbol-galego-la-voz-de-galicia.html"
-   ]
+   ],
+   "respaldo": 6
   },
   "noticias-1940": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3221,7 +3239,7 @@
   "noticias-195": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 13.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3232,7 +3250,7 @@
   "noticias-196": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3242,7 +3260,7 @@
   "noticias-198": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3252,7 +3270,7 @@
   "noticias-1996": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3282,7 +3300,7 @@
   "noticias-1999": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3292,7 +3310,7 @@
   "noticias-2": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3303,7 +3321,7 @@
   "noticias-2000": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 13.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3313,7 +3331,7 @@
   "noticias-2003": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3323,7 +3341,7 @@
   "noticias-2007": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3333,7 +3351,7 @@
   "noticias-2008": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3343,7 +3361,7 @@
   "noticias-2010": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3353,7 +3371,7 @@
   "noticias-2011": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3363,7 +3381,7 @@
   "noticias-2012": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3373,7 +3391,7 @@
   "noticias-2013": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3393,7 +3411,7 @@
   "noticias-2015": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3403,7 +3421,7 @@
   "noticias-2016": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3413,7 +3431,7 @@
   "noticias-2017": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3423,7 +3441,7 @@
   "noticias-2018": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3433,7 +3451,7 @@
   "noticias-2019": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3443,7 +3461,7 @@
   "noticias-2020": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3453,7 +3471,7 @@
   "noticias-2021": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3463,7 +3481,7 @@
   "noticias-2022": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3473,7 +3491,7 @@
   "noticias-2023": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3483,7 +3501,7 @@
   "noticias-2024": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3493,7 +3511,7 @@
   "noticias-2025": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3503,7 +3521,7 @@
   "noticias-2026": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3513,7 +3531,7 @@
   "noticias-2027": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3523,7 +3541,7 @@
   "noticias-2028": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3533,7 +3551,7 @@
   "noticias-2029": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3553,7 +3571,7 @@
   "noticias-2031": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3563,7 +3581,7 @@
   "noticias-2038": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3573,7 +3591,7 @@
   "noticias-2041": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3583,7 +3601,7 @@
   "noticias-2050": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3603,7 +3621,7 @@
   "noticias-2052": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3623,7 +3641,7 @@
   "noticias-2054": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3643,7 +3661,7 @@
   "noticias-2056": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3653,7 +3671,7 @@
   "noticias-2058": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3670,20 +3688,10 @@
     "https://periodicosaliazon.blogspot.com/2026/10/sapiens-lo-que-somos.html"
    ]
   },
-  "noticias-2060": {
-   "sev": 2,
-   "problemas": [
-    "sin cambios desde hace 10.2 días",
-    "no está en la lista de feeds"
-   ],
-   "posts": [
-    "https://periodicosaliazon.blogspot.com/2026/10/tierra-lo-que-somos.html"
-   ]
-  },
   "noticias-2061": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3693,7 +3701,7 @@
   "noticias-2062": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.5 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3703,7 +3711,7 @@
   "noticias-2063": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 12.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3713,7 +3721,7 @@
   "noticias-2064": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3723,7 +3731,7 @@
   "noticias-2065": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3733,7 +3741,7 @@
   "noticias-2066": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 12.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3753,7 +3761,7 @@
   "noticias-2068": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 13.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3763,7 +3771,7 @@
   "noticias-2069": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 13.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3773,7 +3781,7 @@
   "noticias-2070": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3793,7 +3801,7 @@
   "noticias-209": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3824,7 +3832,7 @@
   "noticias-2103": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3834,7 +3842,7 @@
   "noticias-2104": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3844,7 +3852,7 @@
   "noticias-2105": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3854,7 +3862,7 @@
   "noticias-2106": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3864,7 +3872,7 @@
   "noticias-2107": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3874,7 +3882,7 @@
   "noticias-2108": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3884,7 +3892,7 @@
   "noticias-2109": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3904,7 +3912,7 @@
   "noticias-2111": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3914,7 +3922,7 @@
   "noticias-2112": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3924,7 +3932,7 @@
   "noticias-2113": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3934,7 +3942,7 @@
   "noticias-2114": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3944,7 +3952,7 @@
   "noticias-2115": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3954,7 +3962,7 @@
   "noticias-214": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3964,7 +3972,7 @@
   "noticias-215": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3974,7 +3982,7 @@
   "noticias-2165": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3984,7 +3992,7 @@
   "noticias-2166": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -3994,7 +4002,7 @@
   "noticias-2170": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4004,7 +4012,7 @@
   "noticias-2173": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4015,7 +4023,7 @@
   "noticias-2177": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4025,7 +4033,7 @@
   "noticias-2178": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4035,7 +4043,7 @@
   "noticias-2179": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4046,7 +4054,7 @@
   "noticias-2180": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4056,7 +4064,7 @@
   "noticias-2181": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4066,7 +4074,7 @@
   "noticias-2182": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4076,7 +4084,7 @@
   "noticias-2183": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4086,7 +4094,7 @@
   "noticias-2191": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4096,7 +4104,7 @@
   "noticias-2192": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4106,7 +4114,7 @@
   "noticias-2193": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4116,7 +4124,7 @@
   "noticias-2196": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4126,7 +4134,7 @@
   "noticias-22": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4136,7 +4144,7 @@
   "noticias-2203": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4166,7 +4174,7 @@
   "noticias-2209": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4176,7 +4184,7 @@
   "noticias-2216": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 12.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4186,7 +4194,7 @@
   "noticias-2219": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4225,7 +4233,7 @@
   "noticias-2230": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4244,7 +4252,7 @@
   "noticias-2232": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4254,7 +4262,7 @@
   "noticias-2233": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4284,7 +4292,7 @@
   "noticias-2240": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4296,7 +4304,7 @@
   "noticias-2241": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4306,7 +4314,7 @@
   "noticias-2246": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4316,7 +4324,7 @@
   "noticias-225": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4326,7 +4334,7 @@
   "noticias-226": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4337,7 +4345,7 @@
   "noticias-2296": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4347,7 +4355,7 @@
   "noticias-23": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4358,7 +4366,7 @@
   "noticias-233": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4368,7 +4376,7 @@
   "noticias-2335": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4378,7 +4386,7 @@
   "noticias-2336": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 13.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4388,7 +4396,7 @@
   "noticias-235": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4398,7 +4406,7 @@
   "noticias-237": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4408,7 +4416,7 @@
   "noticias-24": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4418,7 +4426,7 @@
   "noticias-240": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4429,7 +4437,7 @@
   "noticias-241": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4469,19 +4477,21 @@
    "respaldo": 6
   },
   "noticias-2421": {
-   "sev": 3,
+   "sev": 0,
    "problemas": [
+    "OK por respaldo: el post carga 6 noticias en el navegador aunque no hay copia en GitHub",
     "no existe noticias-2421.json (el widget sale en blanco)",
     "no está en la lista de feeds"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/05/arte-y-cultura-diario-critico.html"
-   ]
+   ],
+   "respaldo": 6
   },
   "noticias-2422": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4491,7 +4501,7 @@
   "noticias-2423": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4501,7 +4511,7 @@
   "noticias-2424": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4511,7 +4521,7 @@
   "noticias-2425": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4521,7 +4531,7 @@
   "noticias-2426": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4531,7 +4541,7 @@
   "noticias-2427": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4541,7 +4551,7 @@
   "noticias-2428": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4551,7 +4561,7 @@
   "noticias-2429": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4561,7 +4571,7 @@
   "noticias-243": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4571,7 +4581,7 @@
   "noticias-2430": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4581,7 +4591,7 @@
   "noticias-2431": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4591,7 +4601,7 @@
   "noticias-2432": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4601,7 +4611,7 @@
   "noticias-2433": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4612,7 +4622,7 @@
   "noticias-2434": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4631,7 +4641,7 @@
   "noticias-2436": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4641,7 +4651,7 @@
   "noticias-2437": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4670,7 +4680,7 @@
   "noticias-2448": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4680,7 +4690,7 @@
   "noticias-2449": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4690,7 +4700,7 @@
   "noticias-2451": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4700,7 +4710,7 @@
   "noticias-2453": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4710,7 +4720,7 @@
   "noticias-2456": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4720,7 +4730,7 @@
   "noticias-246": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4731,7 +4741,7 @@
   "noticias-2469": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4741,7 +4751,7 @@
   "noticias-247": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4751,7 +4761,7 @@
   "noticias-2472": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4761,7 +4771,7 @@
   "noticias-2484": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4781,7 +4791,7 @@
   "noticias-2488": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4791,7 +4801,7 @@
   "noticias-2492": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4801,7 +4811,7 @@
   "noticias-25": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4812,7 +4822,7 @@
   "noticias-250": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4822,7 +4832,7 @@
   "noticias-2502": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4832,7 +4842,7 @@
   "noticias-2503": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4862,7 +4872,7 @@
   "noticias-251": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4874,7 +4884,7 @@
   "noticias-2512": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4884,7 +4894,7 @@
   "noticias-2515": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 13.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4894,7 +4904,7 @@
   "noticias-2519": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4904,7 +4914,7 @@
   "noticias-252": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4914,7 +4924,7 @@
   "noticias-2529": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4924,7 +4934,7 @@
   "noticias-253": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4935,7 +4945,7 @@
   "noticias-2530": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4945,7 +4955,7 @@
   "noticias-2533": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4955,7 +4965,7 @@
   "noticias-2534": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4965,7 +4975,7 @@
   "noticias-2536": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4975,7 +4985,7 @@
   "noticias-2537": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4985,7 +4995,7 @@
   "noticias-2538": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -4995,7 +5005,7 @@
   "noticias-254": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5005,7 +5015,7 @@
   "noticias-2541": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5015,7 +5025,7 @@
   "noticias-2542": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5025,7 +5035,7 @@
   "noticias-2545": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5035,7 +5045,7 @@
   "noticias-2546": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5055,7 +5065,7 @@
   "noticias-255": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5075,7 +5085,7 @@
   "noticias-2551": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5085,7 +5095,7 @@
   "noticias-2552": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5095,7 +5105,7 @@
   "noticias-2553": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5105,7 +5115,7 @@
   "noticias-2554": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5115,7 +5125,7 @@
   "noticias-2555": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5125,7 +5135,7 @@
   "noticias-2556": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5135,7 +5145,7 @@
   "noticias-2557": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5145,7 +5155,7 @@
   "noticias-2558": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5155,7 +5165,7 @@
   "noticias-2560": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5185,7 +5195,7 @@
   "noticias-2563": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5195,17 +5205,27 @@
   "noticias-2565": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/10/portada-telecinco.html"
    ]
   },
+  "noticias-2566": {
+   "sev": 2,
+   "problemas": [
+    "sin cambios en más de 15 días",
+    "no está en la lista de feeds"
+   ],
+   "posts": [
+    "https://periodicosaliazon.blogspot.com/2026/10/ultimas-noticias-telecinco.html"
+   ]
+  },
   "noticias-2567": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5225,7 +5245,7 @@
   "noticias-2569": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5235,7 +5255,7 @@
   "noticias-257": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5349,7 +5369,7 @@
   "noticias-258": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5419,7 +5439,7 @@
   "noticias-259": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5502,7 +5522,7 @@
   "noticias-260": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5513,7 +5533,7 @@
   "noticias-2600": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5534,7 +5554,7 @@
   "noticias-262": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5554,7 +5574,7 @@
   "noticias-264": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5564,7 +5584,7 @@
   "noticias-265": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5574,7 +5594,7 @@
   "noticias-266": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5584,7 +5604,7 @@
   "noticias-267": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 12.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5594,7 +5614,7 @@
   "noticias-268": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5614,7 +5634,7 @@
   "noticias-27": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5625,7 +5645,7 @@
   "noticias-270": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5635,7 +5655,7 @@
   "noticias-271": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5645,7 +5665,7 @@
   "noticias-272": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5655,7 +5675,7 @@
   "noticias-273": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5665,7 +5685,7 @@
   "noticias-274": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5675,7 +5695,7 @@
   "noticias-275": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5685,7 +5705,7 @@
   "noticias-279": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5696,7 +5716,7 @@
   "noticias-28": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5707,7 +5727,7 @@
   "noticias-281": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5718,7 +5738,7 @@
   "noticias-282": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5739,7 +5759,7 @@
   "noticias-285": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5749,7 +5769,7 @@
   "noticias-288": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5759,7 +5779,7 @@
   "noticias-289": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5769,7 +5789,7 @@
   "noticias-29": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5781,7 +5801,7 @@
   "noticias-290": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5791,7 +5811,7 @@
   "noticias-291": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5801,7 +5821,7 @@
   "noticias-292": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5811,7 +5831,7 @@
   "noticias-293": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5821,7 +5841,7 @@
   "noticias-294": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5832,7 +5852,7 @@
   "noticias-295": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5843,7 +5863,7 @@
   "noticias-296": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5853,7 +5873,7 @@
   "noticias-297": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5863,7 +5883,7 @@
   "noticias-298": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5873,7 +5893,7 @@
   "noticias-3": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 12.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5883,7 +5903,7 @@
   "noticias-30": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5894,7 +5914,7 @@
   "noticias-300": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5905,7 +5925,7 @@
   "noticias-301": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5915,7 +5935,7 @@
   "noticias-302": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5925,7 +5945,7 @@
   "noticias-303": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5936,7 +5956,7 @@
   "noticias-305": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5947,7 +5967,7 @@
   "noticias-306": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5957,7 +5977,7 @@
   "noticias-307": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5967,7 +5987,7 @@
   "noticias-308": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5977,7 +5997,7 @@
   "noticias-309": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5987,7 +6007,7 @@
   "noticias-31": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -5998,7 +6018,7 @@
   "noticias-310": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6008,7 +6028,7 @@
   "noticias-312": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6018,7 +6038,7 @@
   "noticias-314": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6028,7 +6048,7 @@
   "noticias-316": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6038,7 +6058,7 @@
   "noticias-317": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6048,7 +6068,7 @@
   "noticias-318": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6058,7 +6078,7 @@
   "noticias-319": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 12.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6068,7 +6088,7 @@
   "noticias-32": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 12.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6078,7 +6098,7 @@
   "noticias-320": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6088,7 +6108,7 @@
   "noticias-321": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6098,7 +6118,7 @@
   "noticias-322": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6108,7 +6128,7 @@
   "noticias-323": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6128,7 +6148,7 @@
   "noticias-325": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6138,7 +6158,7 @@
   "noticias-326": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6148,7 +6168,7 @@
   "noticias-327": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6158,7 +6178,7 @@
   "noticias-328": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6168,7 +6188,7 @@
   "noticias-329": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 12.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6178,7 +6198,7 @@
   "noticias-33": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6188,7 +6208,7 @@
   "noticias-334": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6199,7 +6219,7 @@
   "noticias-335": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6209,7 +6229,7 @@
   "noticias-336": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6229,7 +6249,7 @@
   "noticias-338": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6239,7 +6259,7 @@
   "noticias-339": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6249,7 +6269,7 @@
   "noticias-34": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6269,7 +6289,7 @@
   "noticias-341": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 13.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6289,7 +6309,7 @@
   "noticias-343": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6299,7 +6319,7 @@
   "noticias-344": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6309,7 +6329,7 @@
   "noticias-346": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6320,7 +6340,7 @@
   "noticias-35": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6350,7 +6370,7 @@
   "noticias-352": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6360,7 +6380,7 @@
   "noticias-353": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6420,7 +6440,7 @@
   "noticias-359": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6430,7 +6450,7 @@
   "noticias-36": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6441,7 +6461,7 @@
   "noticias-360": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6451,7 +6471,7 @@
   "noticias-361": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6462,7 +6482,7 @@
   "noticias-362": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6473,7 +6493,7 @@
   "noticias-363": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6484,7 +6504,7 @@
   "noticias-364": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6494,7 +6514,7 @@
   "noticias-369": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6504,7 +6524,7 @@
   "noticias-37": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6514,7 +6534,7 @@
   "noticias-370": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6524,7 +6544,7 @@
   "noticias-371": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6534,7 +6554,7 @@
   "noticias-372": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6554,7 +6574,7 @@
   "noticias-374": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6574,7 +6594,7 @@
   "noticias-376": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6594,7 +6614,7 @@
   "noticias-378": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6614,7 +6634,7 @@
   "noticias-38": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6624,7 +6644,7 @@
   "noticias-381": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6634,7 +6654,7 @@
   "noticias-382": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 12.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6644,7 +6664,7 @@
   "noticias-384": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6655,18 +6675,17 @@
   "noticias-385": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
-    "https://periodicosaliazon.blogspot.com/2026/10/futbol-el-confidencial.html",
     "https://periodicosaliazon.blogspot.com/2026/07/futbol-el-confidencial.html"
    ]
   },
   "noticias-386": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6677,7 +6696,7 @@
   "noticias-388": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6687,7 +6706,7 @@
   "noticias-389": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6697,7 +6716,7 @@
   "noticias-39": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6708,7 +6727,7 @@
   "noticias-391": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6728,7 +6747,7 @@
   "noticias-40": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6739,7 +6758,7 @@
   "noticias-401": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6749,7 +6768,7 @@
   "noticias-402": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6759,7 +6778,7 @@
   "noticias-403": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6769,7 +6788,7 @@
   "noticias-404": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6779,7 +6798,7 @@
   "noticias-405": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6799,7 +6818,7 @@
   "noticias-407": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6809,7 +6828,7 @@
   "noticias-408": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6819,7 +6838,7 @@
   "noticias-41": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6849,7 +6868,7 @@
   "noticias-415": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6871,7 +6890,7 @@
   "noticias-418": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6882,7 +6901,7 @@
   "noticias-419": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6892,7 +6911,7 @@
   "noticias-42": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6903,7 +6922,7 @@
   "noticias-421": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6933,7 +6952,7 @@
   "noticias-429": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.5 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6943,7 +6962,7 @@
   "noticias-43": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6954,7 +6973,7 @@
   "noticias-430": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6964,7 +6983,7 @@
   "noticias-431": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6974,7 +6993,7 @@
   "noticias-432": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 13.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6984,7 +7003,7 @@
   "noticias-433": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 13.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -6994,7 +7013,7 @@
   "noticias-434": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7004,7 +7023,7 @@
   "noticias-435": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7014,7 +7033,7 @@
   "noticias-436": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7024,7 +7043,7 @@
   "noticias-437": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7044,7 +7063,7 @@
   "noticias-439": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7054,7 +7073,7 @@
   "noticias-44": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7065,7 +7084,7 @@
   "noticias-440": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7075,7 +7094,7 @@
   "noticias-441": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7085,7 +7104,7 @@
   "noticias-442": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7095,7 +7114,7 @@
   "noticias-443": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7105,7 +7124,7 @@
   "noticias-449": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7126,7 +7145,7 @@
   "noticias-450": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7136,7 +7155,7 @@
   "noticias-451": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7146,7 +7165,7 @@
   "noticias-453": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7156,7 +7175,7 @@
   "noticias-454": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7176,7 +7195,7 @@
   "noticias-456": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7186,7 +7205,7 @@
   "noticias-457": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7196,7 +7215,7 @@
   "noticias-46": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7237,7 +7256,7 @@
   "noticias-464": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7247,7 +7266,7 @@
   "noticias-465": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7267,7 +7286,7 @@
   "noticias-467": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7287,7 +7306,7 @@
   "noticias-47": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7298,7 +7317,7 @@
   "noticias-470": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7318,7 +7337,7 @@
   "noticias-472": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7375,20 +7394,90 @@
     "https://periodicosaliazon.blogspot.com/2026/11/cine-el-confidencial-digital.html"
    ]
   },
+  "noticias-478": {
+   "sev": 2,
+   "problemas": [
+    "sin cambios en más de 15 días",
+    "no está en la lista de feeds"
+   ],
+   "posts": [
+    "https://periodicosaliazon.blogspot.com/2026/11/hogar-el-confidencial-digital.html"
+   ]
+  },
+  "noticias-479": {
+   "sev": 2,
+   "problemas": [
+    "sin cambios en más de 15 días",
+    "no está en la lista de feeds"
+   ],
+   "posts": [
+    "https://periodicosaliazon.blogspot.com/2026/11/electrodomesticos-el-confidencial.html"
+   ]
+  },
   "noticias-48": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/07/vivo-la-vanguardia_0932894369.html"
    ]
   },
+  "noticias-480": {
+   "sev": 2,
+   "problemas": [
+    "sin cambios en más de 15 días",
+    "no está en la lista de feeds"
+   ],
+   "posts": [
+    "https://periodicosaliazon.blogspot.com/2026/11/tecnologia-el-confidencial-digital.html"
+   ]
+  },
+  "noticias-481": {
+   "sev": 2,
+   "problemas": [
+    "sin cambios en más de 15 días",
+    "no está en la lista de feeds"
+   ],
+   "posts": [
+    "https://periodicosaliazon.blogspot.com/2026/11/viajes-el-confidencial-digital.html"
+   ]
+  },
+  "noticias-482": {
+   "sev": 2,
+   "problemas": [
+    "sin cambios en más de 15 días",
+    "no está en la lista de feeds"
+   ],
+   "posts": [
+    "https://periodicosaliazon.blogspot.com/2026/11/regalos-el-confidencial-digital.html"
+   ]
+  },
+  "noticias-483": {
+   "sev": 2,
+   "problemas": [
+    "sin cambios en más de 15 días",
+    "no está en la lista de feeds"
+   ],
+   "posts": [
+    "https://periodicosaliazon.blogspot.com/2026/11/fitness-el-confidencial-digital.html"
+   ]
+  },
+  "noticias-484": {
+   "sev": 2,
+   "problemas": [
+    "sin cambios en más de 15 días",
+    "no está en la lista de feeds"
+   ],
+   "posts": [
+    "https://periodicosaliazon.blogspot.com/2026/11/que-leer-el-confidencial-digital.html"
+   ]
+  },
   "noticias-49": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7431,7 +7520,7 @@
   "noticias-495": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7483,7 +7572,7 @@
   "noticias-50": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7599,7 +7688,7 @@
   "noticias-51": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7684,7 +7773,7 @@
   "noticias-517": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 13.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7694,7 +7783,7 @@
   "noticias-518": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7714,7 +7803,7 @@
   "noticias-52": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7745,7 +7834,7 @@
   "noticias-522": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7755,7 +7844,7 @@
   "noticias-523": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7775,7 +7864,7 @@
   "noticias-525": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7785,7 +7874,7 @@
   "noticias-526": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7795,7 +7884,7 @@
   "noticias-527": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7805,7 +7894,7 @@
   "noticias-528": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7826,7 +7915,7 @@
   "noticias-53": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7848,7 +7937,7 @@
   "noticias-531": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7879,7 +7968,7 @@
   "noticias-534": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7941,7 +8030,7 @@
   "noticias-54": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -7971,7 +8060,7 @@
   "noticias-542": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.9 días",
+    "sin cambios en más de 15 días",
     "solo 2 noticias",
     "no está en la lista de feeds"
    ],
@@ -7982,7 +8071,7 @@
   "noticias-543": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.9 días",
+    "sin cambios en más de 15 días",
     "solo 1 noticias",
     "no está en la lista de feeds"
    ],
@@ -7993,7 +8082,7 @@
   "noticias-544": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.9 días",
+    "sin cambios en más de 15 días",
     "solo 2 noticias",
     "no está en la lista de feeds"
    ],
@@ -8004,7 +8093,7 @@
   "noticias-545": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.9 días",
+    "sin cambios en más de 15 días",
     "solo 1 noticias",
     "no está en la lista de feeds"
    ],
@@ -8015,7 +8104,7 @@
   "noticias-546": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.9 días",
+    "sin cambios en más de 15 días",
     "solo 1 noticias",
     "no está en la lista de feeds"
    ],
@@ -8026,7 +8115,7 @@
   "noticias-547": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.9 días",
+    "sin cambios en más de 15 días",
     "solo 1 noticias",
     "no está en la lista de feeds"
    ],
@@ -8037,7 +8126,7 @@
   "noticias-548": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8047,7 +8136,7 @@
   "noticias-549": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8057,7 +8146,7 @@
   "noticias-55": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8067,7 +8156,7 @@
   "noticias-550": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8077,7 +8166,7 @@
   "noticias-551": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8087,7 +8176,7 @@
   "noticias-552": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.9 días",
+    "sin cambios en más de 15 días",
     "solo 1 noticias",
     "no está en la lista de feeds"
    ],
@@ -8099,7 +8188,7 @@
   "noticias-553": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.9 días",
+    "sin cambios en más de 15 días",
     "solo 1 noticias",
     "no está en la lista de feeds"
    ],
@@ -8110,7 +8199,7 @@
   "noticias-57": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8130,7 +8219,7 @@
   "noticias-58": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8140,7 +8229,7 @@
   "noticias-59": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8150,7 +8239,7 @@
   "noticias-6": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8160,7 +8249,7 @@
   "noticias-60": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8170,7 +8259,7 @@
   "noticias-612": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8191,7 +8280,7 @@
   "noticias-617": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8213,7 +8302,7 @@
   "noticias-619": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8231,19 +8320,21 @@
    ]
   },
   "noticias-620": {
-   "sev": 3,
+   "sev": 0,
    "problemas": [
+    "OK por respaldo: el post carga 1 noticias en el navegador aunque no hay copia en GitHub",
     "no existe noticias-620.json (el widget sale en blanco)",
     "no está en la lista de feeds"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/10/artrend-20-minutos.html"
-   ]
+   ],
+   "respaldo": 1
   },
   "noticias-621": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 13.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8283,7 +8374,7 @@
   "noticias-625": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8293,7 +8384,7 @@
   "noticias-626": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8323,7 +8414,7 @@
   "noticias-629": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 12.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8331,14 +8422,16 @@
    ]
   },
   "noticias-630": {
-   "sev": 3,
+   "sev": 0,
    "problemas": [
+    "OK por respaldo: el post carga 1 noticias en el navegador aunque no hay copia en GitHub",
     "no existe noticias-630.json (el widget sale en blanco)",
     "no está en la lista de feeds"
    ],
    "posts": [
     "https://abelardolinares.blogspot.com/2026/10/cartagena-20-minutos.html"
-   ]
+   ],
+   "respaldo": 1
   },
   "noticias-631": {
    "sev": 2,
@@ -8353,7 +8446,7 @@
   "noticias-632": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8363,7 +8456,7 @@
   "noticias-633": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8373,7 +8466,7 @@
   "noticias-635": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.5 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8383,7 +8476,7 @@
   "noticias-636": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 12.5 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8393,7 +8486,7 @@
   "noticias-637": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.5 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8403,7 +8496,7 @@
   "noticias-638": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.5 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8413,7 +8506,7 @@
   "noticias-639": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8423,7 +8516,7 @@
   "noticias-64": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 12.5 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8433,7 +8526,7 @@
   "noticias-640": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8451,19 +8544,21 @@
    ]
   },
   "noticias-642": {
-   "sev": 3,
+   "sev": 0,
    "problemas": [
+    "OK por respaldo: el post carga 6 noticias en el navegador aunque no hay copia en GitHub",
     "no existe noticias-642.json (el widget sale en blanco)",
     "no está en la lista de feeds"
    ],
    "posts": [
     "https://periodicosaliazon.blogspot.com/2026/10/empleo-20-minutos.html"
-   ]
+   ],
+   "respaldo": 6
   },
   "noticias-643": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8473,7 +8568,7 @@
   "noticias-644": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8483,7 +8578,7 @@
   "noticias-645": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8493,7 +8588,7 @@
   "noticias-646": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8525,7 +8620,7 @@
   "noticias-649": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8535,7 +8630,7 @@
   "noticias-65": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8545,7 +8640,7 @@
   "noticias-650": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8555,7 +8650,7 @@
   "noticias-651": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8565,7 +8660,7 @@
   "noticias-652": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8575,7 +8670,7 @@
   "noticias-655": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 13.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8585,7 +8680,7 @@
   "noticias-656": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8595,7 +8690,7 @@
   "noticias-659": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8605,7 +8700,7 @@
   "noticias-66": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.7 días",
+    "sin cambios en más de 15 días",
     "solo 2 noticias",
     "no está en la lista de feeds"
    ],
@@ -8616,7 +8711,7 @@
   "noticias-662": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.5 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8626,7 +8721,7 @@
   "noticias-667": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8636,7 +8731,7 @@
   "noticias-67": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8646,7 +8741,7 @@
   "noticias-676": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8666,7 +8761,7 @@
   "noticias-69": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8677,7 +8772,7 @@
   "noticias-692": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8687,7 +8782,7 @@
   "noticias-699": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 13.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8697,7 +8792,7 @@
   "noticias-7": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.5 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8718,7 +8813,7 @@
   "noticias-704": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8728,7 +8823,7 @@
   "noticias-705": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8738,7 +8833,7 @@
   "noticias-706": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8748,7 +8843,7 @@
   "noticias-707": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8759,7 +8854,7 @@
   "noticias-708": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8769,7 +8864,7 @@
   "noticias-71": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8798,7 +8893,7 @@
   "noticias-73": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8809,7 +8904,7 @@
   "noticias-733": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8817,19 +8912,21 @@
    ]
   },
   "noticias-736": {
-   "sev": 3,
+   "sev": 0,
    "problemas": [
+    "OK por respaldo: el post carga 6 noticias en el navegador aunque no hay copia en GitHub",
     "no existe noticias-736.json (el widget sale en blanco)",
     "no está en la lista de feeds"
    ],
    "posts": [
     "https://noticiasautonomicas.blogspot.com/2026/10/aragon-el-diarioes.html"
-   ]
+   ],
+   "respaldo": 6
   },
   "noticias-737": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8839,7 +8936,7 @@
   "noticias-738": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8849,7 +8946,7 @@
   "noticias-739": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8859,7 +8956,7 @@
   "noticias-74": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8870,7 +8967,7 @@
   "noticias-740": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8880,7 +8977,7 @@
   "noticias-741": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8890,7 +8987,7 @@
   "noticias-744": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8900,7 +8997,7 @@
   "noticias-745": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8910,7 +9007,7 @@
   "noticias-747": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8920,7 +9017,7 @@
   "noticias-748": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8940,7 +9037,7 @@
   "noticias-77": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8950,7 +9047,7 @@
   "noticias-78": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.5 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8960,7 +9057,7 @@
   "noticias-783": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8980,7 +9077,7 @@
   "noticias-788": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.5 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -8990,7 +9087,7 @@
   "noticias-79": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9000,7 +9097,7 @@
   "noticias-8": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9010,7 +9107,7 @@
   "noticias-80": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9020,7 +9117,7 @@
   "noticias-81": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.0 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9030,7 +9127,7 @@
   "noticias-815": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9040,7 +9137,7 @@
   "noticias-818": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9050,7 +9147,7 @@
   "noticias-819": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9060,7 +9157,7 @@
   "noticias-82": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9070,7 +9167,7 @@
   "noticias-821": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9081,7 +9178,7 @@
   "noticias-822": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9091,7 +9188,7 @@
   "noticias-826": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9101,7 +9198,7 @@
   "noticias-83": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9111,7 +9208,7 @@
   "noticias-830": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9141,7 +9238,7 @@
   "noticias-834": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9151,7 +9248,7 @@
   "noticias-836": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9171,7 +9268,7 @@
   "noticias-84": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9181,7 +9278,7 @@
   "noticias-85": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "solo 2 noticias",
     "no está en la lista de feeds"
    ],
@@ -9192,7 +9289,7 @@
   "noticias-86": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9202,7 +9299,7 @@
   "noticias-87": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9212,7 +9309,7 @@
   "noticias-88": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.7 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9233,7 +9330,7 @@
   "noticias-892": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9243,7 +9340,7 @@
   "noticias-893": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9253,7 +9350,7 @@
   "noticias-894": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.5 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9263,7 +9360,7 @@
   "noticias-895": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9293,7 +9390,7 @@
   "noticias-90": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9303,7 +9400,7 @@
   "noticias-908": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9313,7 +9410,7 @@
   "noticias-909": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.5 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9323,7 +9420,7 @@
   "noticias-91": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9333,7 +9430,7 @@
   "noticias-910": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9343,7 +9440,7 @@
   "noticias-911": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.8 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9353,7 +9450,7 @@
   "noticias-914": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9363,7 +9460,7 @@
   "noticias-916": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9373,7 +9470,7 @@
   "noticias-917": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9383,7 +9480,7 @@
   "noticias-918": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9393,7 +9490,7 @@
   "noticias-919": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 10.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9403,7 +9500,7 @@
   "noticias-92": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9413,7 +9510,7 @@
   "noticias-920": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9423,7 +9520,7 @@
   "noticias-921": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.1 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9433,7 +9530,7 @@
   "noticias-922": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.2 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9443,7 +9540,7 @@
   "noticias-923": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9453,7 +9550,7 @@
   "noticias-924": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9463,7 +9560,7 @@
   "noticias-925": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9473,7 +9570,7 @@
   "noticias-926": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9483,7 +9580,7 @@
   "noticias-927": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9493,7 +9590,7 @@
   "noticias-93": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.4 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9523,7 +9620,7 @@
   "noticias-95": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9533,7 +9630,7 @@
   "noticias-965": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 9.3 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9545,7 +9642,7 @@
   "noticias-966": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9566,7 +9663,7 @@
   "noticias-968": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 14.6 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9576,7 +9673,7 @@
   "noticias-972": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 8.0 días",
+    "sin cambios desde hace 15.0 días",
     "no está en la lista de feeds"
    ],
    "posts": [
@@ -9586,7 +9683,7 @@
   "noticias-98": {
    "sev": 2,
    "problemas": [
-    "sin cambios desde hace 11.9 días",
+    "sin cambios en más de 15 días",
     "no está en la lista de feeds"
    ],
    "posts": [
