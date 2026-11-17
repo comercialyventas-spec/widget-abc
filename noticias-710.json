@@ -1,7 +1,13 @@
 {
   "noticias": [
     {
-      "titulo": "Nvidia descarta restituir a Jensen Huang, acorralado por la justicia por la venta de chips a su amante",
+      "titulo": "El Gobierno obliga a las telecos a rebajar un 25% la tarifa de teléfono fijo e internet a los perceptores del ingreso mínimo vital",
+      "link": "https://www.eldiario.es/tecnologia/gobierno-obliga-telecos-rebajar-25-tarifa-telefono-fijo-e-internet-perceptores-ingreso-minimo-vital_1_13671484.html",
+      "imagen": "https://static.eldiario.es/clip/0972690b-58c1-481a-a827-e75ca4d48c26_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Jensen Huang rompe su silencio tras el escándalo con la presunta espía china: “Sería un honor volver a Nvidia”",
       "link": "https://www.eldiario.es/tecnologia/nvidia-descarta-restituir-jensen-huang-acorralado-justicia-venta-chips-amante_1_13670019.html",
       "imagen": "https://static.eldiario.es/clip/9a457e62-73fb-42cd-9356-bfc21e298bde_facebook-aspect-ratio-1200-675_default_0_x2302y862.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Microsoft pide perdón mientras Outlook y Teams se recuperan en Europa tras una caída global de 20 horas",
       "link": "https://www.eldiario.es/tecnologia/outlook-teams-empiezan-recuperarse-europa-caida-global-20-horas-microsoft_1_13661763.html",
       "imagen": "https://static.eldiario.es/clip/82c64a46-dea1-41fc-aaae-d9531efc2238_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Caída global de Microsoft: qué ha pasado, por qué y cuándo podrían volver a funcionar Outlook y Teams",
-      "link": "https://www.eldiario.es/tecnologia/caida-global-microsoft-pasado-no-recupera-volver-funcionar-outlook-teams_1_13660769.html",
-      "imagen": "https://static.eldiario.es/clip/4ccc4c7c-f9c2-4485-9a8f-431cad98bb96_facebook-aspect-ratio-1200-675_default_0.jpg",
       "tipo": "imagen"
     }
   ]
