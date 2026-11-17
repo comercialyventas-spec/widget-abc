@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Nvidia descarta restituir a Jensen Huang, acorralado por la justicia por la venta de chips a su amante",
+      "link": "https://www.eldiario.es/tecnologia/nvidia-descarta-restituir-jensen-huang-acorralado-justicia-venta-chips-amante_1_13670019.html",
+      "imagen": "https://static.eldiario.es/clip/9a457e62-73fb-42cd-9356-bfc21e298bde_facebook-aspect-ratio-1200-675_default_0_x2302y862.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un error oculto desde julio desató el gran apagón de Microsoft que tumbó Teams y Outlook",
+      "link": "https://www.eldiario.es/tecnologia/error-oculto-julio-desato-gran-apagon-microsoft_1_13669749.html",
+      "imagen": "https://static.eldiario.es/clip/8d5b2dac-fd34-404d-90e7-9a6023121943_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un ciberataque obligó a desconectar sistemas de Salvamento Marítimo en plena crisis migratoria",
       "link": "https://www.eldiario.es/tecnologia/ciberataque-obligo-desconectar-sistemas-salvamento-maritimo-plena-crisis-migratoria_1_13651742.html",
       "imagen": "https://static.eldiario.es/clip/4abf25ea-fdfa-436e-ae81-05be16007b32_facebook-aspect-ratio-1200-675_default_0.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Caída global de Microsoft: qué ha pasado, por qué y cuándo podrían volver a funcionar Outlook y Teams",
       "link": "https://www.eldiario.es/tecnologia/caida-global-microsoft-pasado-no-recupera-volver-funcionar-outlook-teams_1_13660769.html",
       "imagen": "https://static.eldiario.es/clip/4ccc4c7c-f9c2-4485-9a8f-431cad98bb96_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Outlook y Teams siguen sin funcionar: Microsoft no consigue recuperar sus servicios tras una caída global",
-      "link": "https://www.eldiario.es/tecnologia/microsoft-sufre-caida-global-servicios-outlook-teams_1_13660555.html",
-      "imagen": "https://static.eldiario.es/clip/9dd5504c-3472-4eb6-93df-4378e87e196c_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Espías, contrabando e infidelidades: las cloacas de la IA tumban a Jensen Huang, creador del imperio Nvidia",
-      "link": "https://www.eldiario.es/tecnologia/espias-contrabando-e-infidelidades-cloacas-ia-tumban-jensen-huang-creador-imperio-nvidia_1_13658846.html",
-      "imagen": "https://static.eldiario.es/clip/66311f88-a54b-44ca-ae2a-de4a465c5d29_facebook-aspect-ratio-1200-675_default_0.jpg",
       "tipo": "imagen"
     }
   ]
