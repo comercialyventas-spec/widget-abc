@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Objetivo: Apolo",
-      "link": "https://elpais.com/television/series/objetivo-apolo/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/Z7VZVBRMANA7TNDKBSKI4H4WBI.jpg?auth=3ef3a8d4f3a1c78346d589a0f33754500dfaa63278bcdddc06577b053f31081d",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Todo sobre el estreno de ‘GH VIP 9’: los concursantes, el regreso de Jorge Javier Vázquez y un inesperado habitante",
       "link": "https://elpais.com/television/2026-11-18/todo-sobre-el-estreno-de-gh-vip-9-los-concursantes-el-regreso-de-jorge-javier-vazquez-y-un-inesperado-habitante.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/VJINN3GMFJH2FIHRVWYFUI5GDE.jpg?auth=2e0e53ba20e263f45191da4c27c1f6af4420ac6a399e913d539e427a89c9b7eb",
@@ -34,6 +28,12 @@
       "titulo": "Pablo Motos no entiende la audiencia de la entrevista de Pedro Sánchez en Telecinco: “Nos hemos quedado con cara de conejo”",
       "link": "https://elpais.com/television/2026-11-18/pablo-motos-no-entiende-la-audiencia-de-la-entrevista-de-pedro-sanchez-en-telecinco-nos-hemos-quedado-con-cara-de-conejo.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/AGY6W4AW2FFGXI7S4XIYZXLSCI.jpg?auth=0c8948a7cb71fa15cd3cf3774063ad8a6cd423a093c8bbe5b10e83303dac537c",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Gordon",
+      "link": "https://elpais.com/television/series/gordon/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/6KYTZIL2AZERBCUZLV22EWADXQ.jpg?auth=8d4ed8bdf41e65852b701220b9da8fb68a7d08102bd527efff3dd7bc4cda94b2",
       "tipo": "imagen"
     }
   ]

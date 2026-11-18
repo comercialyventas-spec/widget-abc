@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Ciberdefensa",
+      "link": "https://www.elconfidencialdigital.com/defensa/ciberdefensa/202611182131501503724.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/02/19/2026021921214059790.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Armada entrena contra explosivos en Islandia",
       "link": "https://www.elconfidencialdigital.com/defensa/armada-entrena-explosivos-islandia/202611181341051503473.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/18/2026111813394441015.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Militares",
       "link": "https://www.elconfidencialdigital.com/defensa/militares/202611171423061503037.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/17/2026111714200113667.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Grupo Calatrava vuelve a ganar en Caballería",
-      "link": "https://www.elconfidencialdigital.com/defensa/grupo-calatrava-vuelve-ganar-caballeria/202611171332131503012.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/17/2026111713312924497.jpg",
       "tipo": "imagen"
     }
   ]

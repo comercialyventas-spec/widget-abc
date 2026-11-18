@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Pérgamo, Pigmalión y el viejo cuento de los malos hijos",
+      "link": "https://www.eldiario.es/opinion/zona-critica/pergamo-pigmalion-viejo-cuento-malos-hijos_129_13675173.html",
+      "imagen": "https://static.eldiario.es/clip/327a5441-b829-450a-9aa6-d84c62cd640f_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Exigir o construir? El papel de los sindicatos en la solución de la crisis de la vivienda",
       "link": "https://www.eldiario.es/opinion/zona-critica/exigir-construir-papel-sindicatos-solucion-crisis-vivienda_129_13656515.html",
       "imagen": "https://static.eldiario.es/clip/cb66774c-59bc-4162-a5e3-143578a1bd88_16-9-discover-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Finanzas para propietarios",
       "link": "https://www.eldiario.es/opinion/zona-critica/finanzas-propietarios_129_13586308.html",
       "imagen": "https://static.eldiario.es/clip/18437894-8c2c-46a3-a2f4-95079652d9d9_16-9-discover-aspect-ratio_default_0_x690y164.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La encrucijada",
-      "link": "https://www.eldiario.es/opinion/zona-critica/encrucijada_129_13570261.html",
-      "imagen": "https://static.eldiario.es/clip/fdfc9377-6ef5-46c0-86f1-d058086e7d95_16-9-discover-aspect-ratio_default_0_x1047y242.jpg",
       "tipo": "imagen"
     }
   ]

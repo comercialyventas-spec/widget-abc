@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Así es la nueva casa de 'Gran Hermano VIP': un jacuzzi, cámaras ocultas y un perro robot",
-      "link": "https://www.abc.es/play/television/noticias/nueva-casa-gran-hermano-vip-jacuzzi-camaras-20261117205142-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/11/17/visita-casa-RFGAdYSLyoc5mldoT5djGhI-1200x840@diario_abc.jpg"
-    },
-    {
       "titulo": "Así es trabajar como periodista de ABC en Cuba: la Policía en la puerta y preparada para ir a la cárcel",
       "link": "https://www.abc.es/internacional/policia-puertas-detenida-dos-tres-trabajo-periodista-20261118195517-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/18/camila-acosta-comisaria-RyDwjDOmyksOy91pWiOfiDN-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/18/camila-acosta-comisaria-RyDwjDOmyksOy91pWiOfiDN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Transportes pagó un tratamiento para el cáncer de la exmujer de Ábalos",
+      "link": "https://www.abc.es/espana/transportes-pago-tratamiento-cancer-exmujer-abalos-20261119222527-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/19/abalos-docu-1920x1080-U40414487695PBG-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Anthropic fija el precio de su salida a bolsa en 83 dólares por acción",
+      "link": "https://www.abc.es/economia/anthropic-fija-precio-salida-bolsa-dolares-accion-20261118225047-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/11/18/1520135239-kaNE-U40423879615cXB-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Alcaraz, en semifinales con susto",
+      "link": "https://www.abc.es/deportes/tenis/alcaraz-pone-ante-medvedev-pie-semifinales-alarma-20261118152807-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/11/18/alcaraz-vendaje-reuters-RewpcRzFBOMbytAOvkQSHBO-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Así es la nueva casa de 'Gran Hermano VIP': un jacuzzi, cámaras ocultas y un perro robot",
+      "link": "https://www.abc.es/play/television/noticias/nueva-casa-gran-hermano-vip-jacuzzi-camaras-20261117205142-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/11/17/visita-casa-RFGAdYSLyoc5mldoT5djGhI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Cayetano Rivera lanza un comunicado de urgencia ante la vuelta de Tamara Gorro a televisión",
       "link": "https://www.abc.es/gente/cayetano-rivera-lanza-comunicado-urgencia-ante-vuelta-20261118170047-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/11/18/tamara-cayetano-R1XbNtr2qltj1u5kAzV1p5M-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Preguntas sofá",
-      "link": "https://www.abc.es/espana/juan-soto-ivars-preguntas-sofa-20261118190022-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/18/Clipboard-0346-k0yC-U40416353461V0F-1200x840@diario_abc.png"
-    },
-    {
-      "titulo": "Hasta 80 colegios e institutos gallegos recibieron un correo con un aviso bomba",
-      "link": "https://www.abc.es/espana/galicia/falsas-amenazas-bomba-varios-colegios-coruna-provocan-20261118135825-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/18/PLICIA-R1HmFI4DOv1CqP0Ynb54ryN-1200x840@diario_abc.jpg"
-    },
-    {
-      "titulo": "Guiso de cordero con patatas",
-      "link": "https://www.abc.es/recetasderechupete/guiso-de-cordero-con-patatas/10459/",
-      "imagen": ""
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/11/18/tamara-cayetano-R1XbNtr2qltj1u5kAzV1p5M-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     }
   ]
 }

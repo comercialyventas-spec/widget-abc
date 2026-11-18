@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Estopa ofrece un concierto secreto, acústico e íntimo en el Parc del Tibidabo para 150 personas",
+      "link": "https://www.elperiodico.com/es/videos/barcelona/estopa-ofrece-concierto-secreto-acustico/136594393.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b9147ed3-25c6-451b-8cfa-a01bd824b215_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Guardia Urbana de Barcelona desaloja a los activistas en huelga de hambre de la plaza Sant Jaume",
       "link": "https://www.elperiodico.com/es/videos/barcelona/guardia-urbana-barcelona-desaloja-activistas-huelga-hambre-plaza-sant-jaume-video/136566661.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a30b10d5-129b-4408-b122-9203b70d36d9_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "A PIE DE CALLE Barcelona, el día después de la huelga general",
       "link": "https://www.elperiodico.com/es/videos/barcelona/pie-calle-barcelona-dia-despues/136380928.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/4712ce8c-6495-4cda-96dc-353f5a566f20_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El centro de Barcelona, tras los disturbios del 11-N",
-      "link": "https://www.elperiodico.com/es/videos/barcelona/centro-barcelona-disturbios-11-n-video/136361016.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/04a041a5-8793-4f91-bd42-df167f6de570_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

@@ -2,6 +2,18 @@
   "noticias": [
     {
       "titulo": "Noticias de Los Berrocales",
+      "link": "https://nuevosureste.es/ayuntamiento-madrid-9-millones-euros-urbanizacion-los-berrocales/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/11/berrocales_etapa3-400x250.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El colegio y el instituto de Los Berrocales, entre las inversiones de la Comunidad para los desarrollos del Sureste en 2027",
+      "link": "https://nuevosureste.es/inversiones-comunidad-desarrollos-del-sureste-2027/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/02/Abre-la-etapa-1-de-Los-Berrocales-foto-Nuevo-Sureste-400x250.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los Berrocales estrenará una nueva fórmula de vivienda libre: alquiler asequible y opción a compra a los siete años",
       "link": "https://nuevosureste.es/alquiler-opcion-a-compra-los-berrocales/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/02/Apertura-de-la-etapa-1-de-Los-Berrocales-foto-Nuevo-Sureste-400x250.jpg",
       "tipo": "imagen"
@@ -22,18 +34,6 @@
       "titulo": "Los Berrocales se acerca a las 4.000 viviendas en construcción, de las que 1.381 son protegidas",
       "link": "https://nuevosureste.es/berrocales-viviendas-en-construccion/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/02/Abre-la-etapa-1-de-Los-Berrocales-foto-Nuevo-Sureste-400x250.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Almeida: «La Gran Vía del Sureste permitirá multiplicar las opciones de transporte público de los nuevos desarrollos»",
-      "link": "https://nuevosureste.es/almeida-gran-via-sureste/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/Visita-de-Almeida-a-las-obras-de-la-Gran-Via-del-Sureste-en-Ensanche-de-Vallecas-foto_-Nuevo-Sureste-400x250.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Inma Sanz, vicealcaldesa de Madrid: “El sureste de Madrid es el futuro de la ciudad”",
-      "link": "https://nuevosureste.es/clausura-jornada-surestelab/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/10/SuresteLab-2026-044-400x250.jpg",
       "tipo": "imagen"
     }
   ]
