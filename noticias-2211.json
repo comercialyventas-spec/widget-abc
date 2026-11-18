@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Así es una fiesta en bici en el Sutton de Barcelona",
+      "link": "https://www.elperiodico.com/es/videos/que-hacer/planes/fiesta-bici-sutton-barcelona-video/136576203.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b43fa965-696d-42aa-b68b-44f4ae79029b_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Abre en Barcelona el primer centro de España con experiencias inmersivas de Netflix",
       "link": "https://www.elperiodico.com/es/videos/que-hacer/planes/abre-barcelona-primer-centro-espana-experiencias-inmersivas-netflix-video/135404323.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/3197dc43-99d2-4606-a360-dee574fb90c1_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Instalan un confesionario en una pizzería de Barcelona",
       "link": "https://www.elperiodico.com/es/videos/que-hacer/instalan-confesionario-pizzeria-barcelona/133169802.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d3ddb8a7-3e09-4c09-a7df-6a591c4971d6_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Peñíscola, destino de cine",
-      "link": "https://www.elperiodico.com/es/videos/que-hacer/peniscola-destino-cine/132050663.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b763fb8e-db1c-41e5-a697-8bd05c9dcb03_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

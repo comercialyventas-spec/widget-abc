@@ -1,9 +1,39 @@
 {
   "noticias": [
     {
-      "titulo": "Capricornio",
-      "link": "https://www.lavanguardia.com/horoscopo/signos-zodiaco-capricornio",
-      "imagen": "https://rsc.lavanguardia.com/img/horoscopo/ico-capricornio.png",
+      "titulo": "Aries 21/03 - 19/04",
+      "link": "https://www.lavanguardia.com/horoscopo/signos-zodiaco-aries/horoscopo-diario",
+      "imagen": "https://www.lavanguardia.com/horoscopo/assets/img/og/aries-16x9.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Tauro 20/04 - 20/05",
+      "link": "https://www.lavanguardia.com/horoscopo/signos-zodiaco-tauro/horoscopo-diario",
+      "imagen": "https://www.lavanguardia.com/horoscopo/assets/img/og/tauro-16x9.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Géminis 21/05 - 20/06",
+      "link": "https://www.lavanguardia.com/horoscopo/signos-zodiaco-geminis/horoscopo-diario",
+      "imagen": "https://www.lavanguardia.com/horoscopo/assets/img/og/geminis-16x9.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cáncer 21/06 - 22/07",
+      "link": "https://www.lavanguardia.com/horoscopo/signos-zodiaco-cancer/horoscopo-diario",
+      "imagen": "https://www.lavanguardia.com/horoscopo/assets/img/og/cancer-16x9.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Leo 23/07 - 22/08",
+      "link": "https://www.lavanguardia.com/horoscopo/signos-zodiaco-leo/horoscopo-diario",
+      "imagen": "https://www.lavanguardia.com/horoscopo/assets/img/og/leo-16x9.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Virgo 23/08 - 22/09",
+      "link": "https://www.lavanguardia.com/horoscopo/signos-zodiaco-virgo/horoscopo-diario",
+      "imagen": "https://www.lavanguardia.com/horoscopo/assets/img/og/virgo-16x9.png",
       "tipo": "imagen"
     }
   ]

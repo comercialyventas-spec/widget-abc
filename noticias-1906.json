@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Esto se anima",
+      "link": "https://www.eldiario.es/opinion/zona-critica/anima_129_13665945.html",
+      "imagen": "https://static.eldiario.es/clip/8008c6af-9ac4-47ac-830e-675017c40a2a_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Una campaña sin dueño",
+      "link": "https://www.eldiario.es/opinion/zona-critica/campana-dueno_129_13647834.html",
+      "imagen": "https://static.eldiario.es/clip/27f601b7-5c9e-46ff-bc8d-78815c07030a_16-9-discover-aspect-ratio_default_0_x833y191.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Impecable decisión de Óscar Puente",
+      "link": "https://www.eldiario.es/opinion/zona-critica/impecable-decision-oscar-puente_129_13635813.html",
+      "imagen": "https://static.eldiario.es/clip/12f7e9b5-724a-435c-bac5-748af55836de_16-9-discover-aspect-ratio_default_0_x957y512.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Es su trabajo, presidente",
+      "link": "https://www.eldiario.es/opinion/zona-critica/trabajo-presidente_129_13630706.html",
+      "imagen": "https://static.eldiario.es/clip/d88bd5d9-08e2-4eef-97e3-8d2b8d1298ba_16-9-discover-aspect-ratio_default_0_x771y415.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las campañas se sabe cómo empiezan…",
       "link": "https://www.eldiario.es/opinion/zona-critica/campanas-empiezan_129_13613518.html",
       "imagen": "https://static.eldiario.es/clip/b996cb5d-164c-4090-8115-05fe52029cfb_16-9-discover-aspect-ratio_default_0_x2660y1408.jpg",
@@ -10,30 +34,6 @@
       "titulo": "No nos pidan más perdón",
       "link": "https://www.eldiario.es/opinion/zona-critica/no-pidan-perdon_129_13595192.html",
       "imagen": "https://static.eldiario.es/clip/f8eb8590-5aa5-4b5a-9c17-0d43fc448e7b_16-9-discover-aspect-ratio_default_0_x993y562.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Por un puñado de puntos",
-      "link": "https://www.eldiario.es/opinion/zona-critica/punado-puntos_129_13578494.html",
-      "imagen": "https://static.eldiario.es/clip/e6b423c7-3910-4a45-87e9-3b42c16884cc_16-9-discover-aspect-ratio_default_0_x630y119.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Recordemos a Maricarmen como se merece",
-      "link": "https://www.eldiario.es/opinion/zona-critica/recordemos-maricarmen-merece_129_13570713.html",
-      "imagen": "https://static.eldiario.es/clip/c0ef1838-0f34-4264-b5a0-bb76d035e942_16-9-discover-aspect-ratio_default_0_x1040y339.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El mensaje de Sánchez: adelante o atrás",
-      "link": "https://www.eldiario.es/opinion/zona-critica/mensaje-sanchez-adelante_129_13561865.html",
-      "imagen": "https://static.eldiario.es/clip/cb4132ee-683b-40d6-b28b-6ff800a7ebe6_16-9-discover-aspect-ratio_default_0_x656y123.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El pisito",
-      "link": "https://www.eldiario.es/opinion/zona-critica/pisito_129_13560858.html",
-      "imagen": "https://static.eldiario.es/clip/b291a1e1-1bed-4c89-9d14-98c7ac505174_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

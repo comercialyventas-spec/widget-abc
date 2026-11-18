@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
+      "titulo": "El fascinante azul en el arte",
+      "link": "https://www.lavanguardia.com/libros-de-vanguardia/20261116/11685576/fascinante-azul-arte.html",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/uploads/2026/11/16/6afaf7da12911.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cuidar la salud en libertad",
       "link": "https://www.lavanguardia.com/libros-de-vanguardia/20260821/11617684/cuidar-salud-libertad.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/uploads/2026/08/21/6a883968f23d3.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/uploads/2026/11/16/6afafd6a9b690.jpeg",
       "tipo": "imagen"
     },
     {
@@ -21,19 +27,13 @@
     {
       "titulo": "Las claves de la adaptación humana",
       "link": "https://www.lavanguardia.com/libros-de-vanguardia/20260212/11464931/claves-adaptacion-humana.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/uploads/2026/08/21/6a884756e5489.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/uploads/2026/11/16/6afafe87ca6ec.jpeg",
       "tipo": "imagen"
     },
     {
       "titulo": "Sobre la belleza",
       "link": "https://www.lavanguardia.com/libros-de-vanguardia/20251028/11203653/sobre-belleza.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/uploads/2025/10/28/6900515317930.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Planeta Nobel",
-      "link": "https://www.lavanguardia.com/libros-de-vanguardia/20251007/11134299/planeta-nobel-xavi-ayen-libros-de-vanguardia.html",
-      "imagen": "https://www.lavanguardia.com/files/image_449_464/uploads/2025/10/07/68e495b9e8286.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/image_449_464/uploads/2026/11/16/6afaff6b14064.jpeg",
       "tipo": "imagen"
     }
   ]

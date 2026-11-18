@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "La gracia de las plumas",
+      "link": "https://www.eldiario.es/andalucia/desdeelsur/gracia-plumas_132_13665569.html",
+      "imagen": "https://static.eldiario.es/clip/ca9c500b-4978-47d8-b753-0d84c9a8d617_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La próxima semana hablaremos del gobierno",
+      "link": "https://www.eldiario.es/andalucia/desdeelsur/proxima-semana-hablaremos-gobierno_132_13648636.html",
+      "imagen": "https://static.eldiario.es/clip/03d21c29-4973-44b2-919d-79540d9f3b07_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Capitalismo criminal",
+      "link": "https://www.eldiario.es/andalucia/desdeelsur/capitalismo-criminal_132_13630833.html",
+      "imagen": "https://static.eldiario.es/clip/ed2f0c79-7e1b-4a30-ae0a-3887a5629fc5_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El agujero de Feijóo",
       "link": "https://www.eldiario.es/andalucia/desdeelsur/agujero-feijoo_132_13613850.html",
       "imagen": "https://static.eldiario.es/clip/11d71807-2484-4f3f-8e77-8735ceb91a27_16-9-discover-aspect-ratio_default_0_x870y405.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Feijóo, un hombre sin puntería",
       "link": "https://www.eldiario.es/andalucia/desdeelsur/feijoo-hombre-punteria_132_13578695.html",
       "imagen": "https://static.eldiario.es/clip/c34782ab-9e3d-4c2d-8579-cc4f8d40594d_16-9-discover-aspect-ratio_default_0_x1222y531.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Levántate y anda",
-      "link": "https://www.eldiario.es/andalucia/desdeelsur/levantate-anda_132_13561086.html",
-      "imagen": "https://static.eldiario.es/clip/bd9bc8fa-edc2-468a-be35-585e68a6cdf9_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Violencia simbólica y palos",
-      "link": "https://www.eldiario.es/andalucia/desdeelsur/violencia-simbolica-palos_132_13542248.html",
-      "imagen": "https://static.eldiario.es/clip/ecb48909-d44c-457e-a48b-97e27a84e3bc_16-9-discover-aspect-ratio_default_0_x662y344.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sevilla, ciudad abierta",
-      "link": "https://www.eldiario.es/andalucia/desdeelsur/sevilla-ciudad-abierta_132_13524524.html",
-      "imagen": "https://static.eldiario.es/clip/0c30e478-709c-431f-97e1-c2da5f8a9cf9_16-9-discover-aspect-ratio_default_0_x703y990.jpg",
       "tipo": "imagen"
     }
   ]

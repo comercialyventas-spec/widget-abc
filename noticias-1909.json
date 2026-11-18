@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Una reverencia en plató",
+      "link": "https://www.eldiario.es/opinion/zona-critica/reverencia-plato_129_13666136.html",
+      "imagen": "https://static.eldiario.es/clip/e4c19b05-bf7f-4383-83f3-23fc9318e38e_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cómo aprendimos a dejar de preocuparnos y amar la IA",
+      "link": "https://www.eldiario.es/opinion/zona-critica/aprendimos-preocuparnos-amar-ia_129_13648132.html",
+      "imagen": "https://static.eldiario.es/clip/ded2ee4c-dbae-4d53-a41c-c8284417bf97_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "No me sale una columna 'de izquierdas'",
+      "link": "https://www.eldiario.es/opinion/zona-critica/no-sale-columna-izquierdas_129_13630786.html",
+      "imagen": "https://static.eldiario.es/clip/91d76055-8bd7-4680-bd15-6093dd37d37e_16-9-discover-aspect-ratio_default_0_x780y319.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "¿Y si gana la izquierda?",
       "link": "https://www.eldiario.es/opinion/zona-critica/si-gana-izquierda_129_13613758.html",
       "imagen": "https://static.eldiario.es/clip/cb615376-f31b-420d-9c81-fbd5f2f8c188_16-9-discover-aspect-ratio_default_0_x985y1084.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Angustia de izquierdas",
       "link": "https://www.eldiario.es/opinion/zona-critica/angustia-izquierdas_129_13579058.html",
       "imagen": "https://static.eldiario.es/clip/eebe7745-1952-4c60-a116-cd3410ba2d69_16-9-discover-aspect-ratio_default_0_x1224y820.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Que ser de izquierdas vuelva a ser sexy",
-      "link": "https://www.eldiario.es/opinion/zona-critica/izquierdas-vuelva-sexy_129_13561216.html",
-      "imagen": "https://static.eldiario.es/clip/9339b298-fa75-4782-be19-b1e64a43f1b4_16-9-discover-aspect-ratio_default_0_x1059y677.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Nadie en Sol está solo",
-      "link": "https://www.eldiario.es/opinion/zona-critica/nadie-sol_129_13542221.html",
-      "imagen": "https://static.eldiario.es/clip/1adde9c9-f488-4b3f-9102-e7404cacbb9e_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "No todo es cancelación",
-      "link": "https://www.eldiario.es/opinion/zona-critica/no-cancelacion_129_13524495.html",
-      "imagen": "https://static.eldiario.es/clip/d00be170-5960-40c1-bff7-2eae6e64f284_16-9-discover-aspect-ratio_default_1151620.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,9 +1,15 @@
 {
   "noticias": [
     {
-      "titulo": "Economía 28 de octubre de 2026 - 12:04 h",
-      "link": "https://www.infolibre.es/economia/",
+      "titulo": "Economía y sociedad",
+      "link": "https://www.infolibre.es/economia-y-sociedad/",
       "imagen": "https://static.infolibre.es/clip/0408ec2e-d618-4c82-8eeb-f8dec1bf2c5a_source-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Empleo 17 de noviembre de 2026 - 06:01 h",
+      "link": "https://www.infolibre.es/economia-y-sociedad/empleo/",
+      "imagen": "https://www.infolibre.es/assets/img/logos/infolibre-logo-square.png?id=f9423636ca6a2fda65b6",
       "tipo": "imagen"
     },
     {
