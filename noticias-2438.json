@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Sorteo de la BonoLoto y Euromillones del martes 17 de noviembre",
+      "link": "https://www.rtve.es/rtve/20261118/sorteo-bonoloto-euromillones-del-martes-17-noviembre/17317610.shtml",
+      "imagen": "https://img.rtve.es/imagenes/sorteo-bonoloto-euromillones-del-martes-17-noviembre/01794949891575.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un viaje por los anuncios de la Lotería de Navidad: del 'calvo' de los 2000 a la corazonada de 2026",
+      "link": "https://www.rtve.es/rtve/20261118/loteria-navidad-anuncios-historia/17315746.shtml",
+      "imagen": "https://img.rtve.es/imagenes/loteria-navidad-anuncios-historia/01794936094768.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sorteo de la BonoLoto y Primitiva del lunes 16 de noviembre",
       "link": "https://www.rtve.es/rtve/20261117/sorteo-bonoloto-primitiva-del-lunes-16-noviembre/17317272.shtml",
       "imagen": "https://img.rtve.es/imagenes/sorteo-bonoloto-primitiva-del-lunes-16-noviembre/1794863090850.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Sorteo de El Gordo de la Primitiva del domingo 15 de noviembre",
       "link": "https://www.rtve.es/rtve/20261116/sorteo-gordo-primitiva-del-domingo-15-noviembre/17315305.shtml",
       "imagen": "https://img.rtve.es/imagenes/sorteo-gordo-primitiva-del-domingo-15-noviembre/01794783135138.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sorteo de la BonoLoto, Primitiva y Lotería Nacional del jueves 12 de noviembre",
-      "link": "https://www.rtve.es/rtve/20261113/sorteo-bonoloto-primitiva-loteria-nacional-del-jueves-12-noviembre/17310138.shtml",
-      "imagen": "https://img.rtve.es/imagenes/sorteo-bonoloto-primitiva-loteria-nacional-del-jueves-12-noviembre/01794522082268.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sorteo de la BonoLoto del miércoles 11 de noviembre",
-      "link": "https://www.rtve.es/rtve/20261112/sorteo-bonoloto-del-miercoles-11-noviembre/17310114.shtml",
-      "imagen": "https://img.rtve.es/css/rtve.2020.rtve/i/generica_rtve.jpg",
       "tipo": "imagen"
     }
   ]
