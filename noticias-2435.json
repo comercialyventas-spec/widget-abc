@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Alerta por la resistencia a los antibióticos en Europa: las infecciones del torrente sanguíneo crecen un 72%",
+      "link": "https://www.rtve.es/noticias/20261118/alerta-resistencia-antibioticos-europa-infecciones-torrente-sanguineo-72/17319791.shtml",
+      "imagen": "https://img.rtve.es/imagenes/alerta-resistencia-antibioticos-europa-infecciones-torrente-sanguineo-72/01752751315694.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La sonda espacial Voyager 1 se convierte en el primer objeto humano en situarse a un día luz de distancia de la Tierra",
       "link": "https://www.rtve.es/noticias/20261118/sonda-espacial-voyager-dia-luz-distancia-tierra/17319094.shtml",
       "imagen": "https://img.rtve.es/imagenes/sonda-espacial-voyager-dia-luz-distancia-tierra/01794985809735.jpg",
@@ -28,12 +34,6 @@
       "titulo": "España se suma al objetivo de electrificar el 35% de la demanda energética global para 2035, gran apuesta de la COP31",
       "link": "https://www.rtve.es/noticias/20261116/espana-objetivo-electrificar-35-demanda-energetica-global-2035-apuesta-cop31/17315523.shtml",
       "imagen": "https://img.rtve.es/imagenes/espana-objetivo-electrificar-35-demanda-energetica-global-2035-apuesta-cop31/01794823307753.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La trampa de los super-CEO en Nvidia, Tesla o Meta: \"Su figura es comparable a la de un Dios, ellos son la empresa\"",
-      "link": "https://www.rtve.es/noticias/20261115/ceo-nvidia-tesla-meta-caida-lider-arrastra-imperio/17312185.shtml",
-      "imagen": "https://img.rtve.es/imagenes/ceo-nvidia-tesla-meta-caida-lider-arrastra-imperio/01794579563220.jpg",
       "tipo": "imagen"
     }
   ]
