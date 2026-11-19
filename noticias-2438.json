@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Sorteo de la BonoLoto del miércoles 18 de noviembre",
+      "link": "https://www.rtve.es/rtve/20261119/sorteo-bonoloto-del-miercoles-18-noviembre/17317619.shtml",
+      "imagen": "https://img.rtve.es/imagenes/sorteo-bonoloto-del-miercoles-18-noviembre/1795035671836.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sorteo de la BonoLoto y Euromillones del martes 17 de noviembre",
       "link": "https://www.rtve.es/rtve/20261118/sorteo-bonoloto-euromillones-del-martes-17-noviembre/17317610.shtml",
       "imagen": "https://img.rtve.es/imagenes/sorteo-bonoloto-euromillones-del-martes-17-noviembre/01794949891575.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Sorteo de Lototurf y Quíntuple Plus del domingo 15 de noviembre",
       "link": "https://www.rtve.es/rtve/20261116/sorteo-lototurf-quintuple-plus-del-domingo-15-noviembre/17315489.shtml",
       "imagen": "https://img.rtve.es/imagenes/sorteo-lototurf-quintuple-plus-del-domingo-15-noviembre/1794774008096.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sorteo de El Gordo de la Primitiva del domingo 15 de noviembre",
-      "link": "https://www.rtve.es/rtve/20261116/sorteo-gordo-primitiva-del-domingo-15-noviembre/17315305.shtml",
-      "imagen": "https://img.rtve.es/imagenes/sorteo-gordo-primitiva-del-domingo-15-noviembre/01794783135138.jpg",
       "tipo": "imagen"
     }
   ]

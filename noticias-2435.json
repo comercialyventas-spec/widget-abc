@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Anthropic se dispara un 34% en su debut en la bolsa y supera los 111 dólares por acción",
+      "link": "https://www.rtve.es/noticias/20261119/anthropic-debuta-bolsa-record/17321403.shtml",
+      "imagen": "https://img.rtve.es/imagenes/anthropic-debuta-bolsa-record/01795107232530.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La misión BepiColombo, que cuenta con tecnología vasca, está a punto de llegar a Mercurio",
+      "link": "https://www.rtve.es/noticias/20261119/mision-bepicolombo-cuenta-tecnologia-vasca-punto-llegar-mercurio/17321410.shtml",
+      "imagen": "https://img.rtve.es/imagenes/mision-bepicolombo-cuenta-tecnologia-vasca-punto-llegar-mercurio/01795097582823.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Comisión Europea confirma que sufrió un ciberataque con IA el 22 de octubre",
+      "link": "https://www.rtve.es/noticias/20261119/comision-europea-ciberataque-inteligencia-artificial-22-octubre/17321723.shtml",
+      "imagen": "https://img.rtve.es/imagenes/comision-europea-ciberataque-inteligencia-artificial-22-octubre/01795095498138.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La crítica elogia al videojuego GTA VI, que se queda a las puertas de la puntuación perfecta",
+      "link": "https://www.rtve.es/noticias/20261119/critica-elogia-videojuego-gta-puntuacion-perfecta/17320343.shtml",
+      "imagen": "https://img.rtve.es/imagenes/critica-elogia-videojuego-gta-puntuacion-perfecta/01795084952592.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Anthropic fija en 83 dólares sus acciones y logra la mayor oferta pública inicial de la historia en su salida a bolsa",
       "link": "https://www.rtve.es/noticias/20261119/anthropic-acciones-salida-bolsa/17320860.shtml",
       "imagen": "https://img.rtve.es/imagenes/anthropic-acciones-salida-bolsa/01795051348754.jpg",
@@ -10,30 +34,6 @@
       "titulo": "Alerta por la resistencia a los antibióticos en Europa: las infecciones del torrente sanguíneo crecen un 72%",
       "link": "https://www.rtve.es/noticias/20261118/alerta-resistencia-antibioticos-europa-infecciones-torrente-sanguineo-72/17319791.shtml",
       "imagen": "https://img.rtve.es/imagenes/alerta-resistencia-antibioticos-europa-infecciones-torrente-sanguineo-72/01795031306708.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La sonda espacial Voyager 1 se convierte en el primer objeto humano en situarse a un día luz de distancia de la Tierra",
-      "link": "https://www.rtve.es/noticias/20261118/sonda-espacial-voyager-dia-luz-distancia-tierra/17319094.shtml",
-      "imagen": "https://img.rtve.es/imagenes/sonda-espacial-voyager-dia-luz-distancia-tierra/01795017223758.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "GTA VI, el fenómeno cultural de la década que aspira a ser \"la gran novela americana\"",
-      "link": "https://www.rtve.es/noticias/20261118/gta-videojuego-decada-gran-novela-americana-rockstar/17318521.shtml",
-      "imagen": "https://img.rtve.es/imagenes/gta-videojuego-decada-gran-novela-americana-rockstar/01794930662205.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cae la red de comunicaciones de seguridad nacional de Estados Unidos, con información altamente clasificada",
-      "link": "https://www.rtve.es/noticias/20261117/cae-red-interna-comunicaciones-agencia-seguridad-eeuu/17318801.shtml",
-      "imagen": "https://img.rtve.es/imagenes/cae-red-interna-comunicaciones-agencia-seguridad-eeuu/01794940318238.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Nvidia presenta un beneficio trimestral del 105% el mismo día que Huang se postula para volver como CEO",
-      "link": "https://www.rtve.es/noticias/20261117/jensen-huang-pide-perdon-anuncia-volver-ceo-nvidia/17318733.shtml",
-      "imagen": "https://img.rtve.es/imagenes/jensen-huang-pide-perdon-anuncia-volver-ceo-nvidia/01794934320969.jpg",
       "tipo": "imagen"
     }
   ]
