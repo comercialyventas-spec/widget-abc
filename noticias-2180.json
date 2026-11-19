@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Tiempo en Catalunya mañana viernes: bajan las temperaturas antes de un fin de semana marcado por el viento",
+      "link": "https://www.elperiodico.com/es/tiempo/20261119/tiempo-catalunya-hoy-viernes-temperaturas-viento-meteocat-136623944",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/978e6abc-3a8c-4696-b25d-2859b0dae992_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Tiempo en Catalunya hoy jueves: bajan las temperaturas y llegan fuertes rachas de viento",
       "link": "https://www.elperiodico.com/es/tiempo/20261118/tiempo-catalunya-hoy-jueves-bajan-temperaturas-fuerte-viento-dv-136583342",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/54772a1b-5ca7-4781-928b-21a5b42e8dcc_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Envían un ES-Alert al Montsià (Tarragona) por lluvias torrenciales hasta las 18 horas",
       "link": "https://www.elperiodico.com/es/tiempo/20261114/envian-alert-montsia-tarragona-lluvias-136444244",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/298dcc5a-e7fe-474e-838e-3577a2e690a4_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tiempo en Catalunya hoy sábado: algunos chubascos y temperaturas todavía superiores a las habituales",
-      "link": "https://www.elperiodico.com/es/tiempo/20261113/tiempo-catalunya-hoy-sabado-lluvias-meteocat-dv-136414920",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/db923ebe-54e7-49d4-8bf7-25f687d159bd_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

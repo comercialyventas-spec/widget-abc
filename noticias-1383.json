@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El arte de hacer de la conducción un placer",
+      "link": "https://elpais.com/icon/2026-11-19/el-arte-de-hacer-de-la-conduccion-un-placer.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/DY74WXQAJRGLBNPFHM7BDCMJIE.jpg?auth=3c5036b1cddbf921961af815323d5d425fb8c31f745812999155862ffaa2cfeb",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Nicholas Hoult: “Ya no me importa lo que la gente piense de mí. Eso no solo me lo enseñó la paternidad, sino la vida”",
       "link": "https://elpais.com/icon/2026-11-19/nicholas-hoult-ya-no-me-importa-lo-que-la-gente-piense-de-mi-eso-no-solo-me-lo-enseno-la-paternidad-sino-la-vida.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/YVCQVE6NTBBRVKLDGO36WSAH2E.jpg?auth=94d2fe8f12aff6499441b562eb255160c8fec4277bab571867da30919d4d3566",
@@ -28,12 +34,6 @@
       "titulo": "La inversión que no sale en portadas: Private Equity",
       "link": "https://elpais.com/icon/2026-11-17/la-inversion-que-no-sale-en-portadas-private-equity.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/M7EUE6QBYNCHHCSZKCPF4KUQQI.jpg?auth=eda3be0e9aebfdd0e09603940f4ef847c3de499e4191432583224e100d60f53f",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Jensen Huang y la cazadora de cuero sospechosa: radiografía de una prenda que “confesó antes que él”",
-      "link": "https://elpais.com/icon/2026-11-17/jensen-huang-y-la-chaqueta-de-cuero-radiografia-de-una-prenda-que-confeso-la-verdad-antes-que-el.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261110/1236170_181206_video_1800.mp4",
       "tipo": "imagen"
     }
   ]

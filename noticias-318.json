@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "'El crimen de Pazos'",
+      "link": "https://www.abc.es/play/series/noticias/crimen-pazos-20261119121510-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/11/19/crimenpazos-RzL1MLTcEpE1zvenBJDDhyM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "'Patagonia' o cómo construir una serie en un entorno salvaje",
       "link": "https://www.abc.es/play/series/noticias/patagonia-construir-serie-entorno-salvaje-20261116014559-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/11/16/patagonia-serie-movistarplus-4-scaled-RLc62Iz6Wd0eeegMvxr0lzO-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La muerte de los superhéroes: cómo el 'streaming' envenenó una fórmula de éxito",
       "link": "https://www.abc.es/play/series/noticias/muerte-superheroes-streaming-enveneno-formula-exito-20261114012107-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/11/14/james-gunn-RfLxhiTy27ejTmWVDOvIvlJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tiene solo 4 episodios y es la serie más vista en España: un thriller psicológico que arrasa en todo el mundo y es perfecto para ver el fin de semana",
-      "link": "https://www.abc.es/play/series/noticias/solo-episodios-serie-vista-espana-thriller-psicologico-20261114150000-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/11/14/intercambio-kKK-RtqTUNCHimMv81I6CVJm2IJ-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

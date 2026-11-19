@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El Cañaveral celebrará la segunda edición de su paella comunitaria",
+      "link": "https://nuevosureste.es/paella-comunitaria-el-canaveral/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/11/Paella-comunitaria-.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Ayuntamiento de Madrid aprueba una partida de 13 millones en su Presupuesto de 2027 para la segunda fase de la vía borde de Valdecarros",
       "link": "https://nuevosureste.es/presupuesto-2027-via-borde-valdecarros/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/07/via-borde-valdecarros.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La Comunidad de Madrid prevé licitar en 2027 el centro de salud de El Cañaveral",
       "link": "https://nuevosureste.es/centro-salud-el-canaveral-licitacion-2027/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2024/03/IMG_6431-ajustada-scaled.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Hospital Universitario Infanta Leonor rinde homenaje al doctor Vicente Soldevilla",
-      "link": "https://nuevosureste.es/hospital-universitario-infanta-leonor-homenaje-doctor-vicente-soldevilla/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/11/Las-nietas-del-Dr.-Vicente-Soldevilla-descubren-una-placa-junto-al-director-medico-del-HUIL.jpg",
       "tipo": "imagen"
     }
   ]

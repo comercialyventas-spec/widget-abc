@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Sam Altman, CEO de OpenAI, sobre la autoridad de la inteligencia artificial: «Las personas deben mantener el control del futuro, que haya una cesión gradual del control a la IA es una idea terrible»",
+      "link": "https://www.abc.es/tecnologia/sam-altman-ceo-openai-sobre-autoridad-inteligencia-20261119182515-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/19/sam-altman-ceo-openai-RlkBAvxhncUdYpX8F7Y0kNN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Las empresas compiten por protegerse de las ciberamenazas relacionadas con la IA",
       "link": "https://www.abc.es/tecnologia/empresas-compiten-protegerse-ciberamenazas-relacionadas-ia-20261119000831-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/19/veconomist_1200x840-k0eB-U40341925315UrF-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Copilot presenta sus nuevas herramientas: Microsoft pretende crear una plataforma única para trabajar con IA",
       "link": "https://www.abc.es/tecnologia/informatica/copilot-presenta-nuevas-herramientas-microsoft-pretende-crear-20261118175652-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/18/side-view-cropped-unrecognizable-business-people-working-common-desk-R1G5RbbWnEiC0gfily5HPrM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Apple prepara su propia IA médica para competir con ChatGPT que analiza tus datos médicos para ofrecer consejos de salud personalizados",
-      "link": "https://www.abc.es/tecnologia/moviles/apple-prepara-propia-ia-medica-competir-chatgpt-20261117204815-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/17/apple-medico-ia_20261117203841--758x531.jpg",
       "tipo": "imagen"
     }
   ]
