@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El fenómeno de las granjas vietnamitas de páginas de Facebook con desinformación sobre las elecciones",
+      "link": "https://www.eldiario.es/tecnologia/fenomeno-granjas-vietnamitas-paginas-facebook-desinformacion-elecciones_1_13676964.html",
+      "imagen": "https://static.eldiario.es/clip/c999fac2-3f1c-46d3-bdcb-fadee8fb9996_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Comisión Europea sufre un ciberataque con inteligencia artificial",
+      "link": "https://www.eldiario.es/tecnologia/comision-europea-sufre-ciberataque-inteligencia-artificial_1_13677689.html",
+      "imagen": "https://static.eldiario.es/clip/747ccbe4-3045-4019-b604-90f91c9153e1_facebook-aspect-ratio-1200-675_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El transatlántico Anthropic sale a bolsa entre avisos de iceberg: “Todo en la IA es catastróficamente vulnerable”",
       "link": "https://www.eldiario.es/tecnologia/transatlantico-anthropic-sale-bolsa-avisos-iceberg-ia-catastroficamente-vulnerable_1_13668595.html",
       "imagen": "https://static.eldiario.es/clip/1ddfb818-48cc-4f7d-a60d-8fd5c91ff1c2_facebook-aspect-ratio-1200-675_default_0_x916y472.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Un error oculto desde julio desató el gran apagón de Microsoft que tumbó Teams y Outlook",
       "link": "https://www.eldiario.es/tecnologia/error-oculto-julio-desato-gran-apagon-microsoft_1_13669749.html",
       "imagen": "https://static.eldiario.es/clip/8d5b2dac-fd34-404d-90e7-9a6023121943_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un ciberataque obligó a desconectar sistemas de Salvamento Marítimo en plena crisis migratoria",
-      "link": "https://www.eldiario.es/tecnologia/ciberataque-obligo-desconectar-sistemas-salvamento-maritimo-plena-crisis-migratoria_1_13651742.html",
-      "imagen": "https://static.eldiario.es/clip/4abf25ea-fdfa-436e-ae81-05be16007b32_facebook-aspect-ratio-1200-675_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Microsoft restablece por completo Outlook, Teams y Copilot tras una caída mundial que afectó a más de 70 países",
-      "link": "https://www.eldiario.es/tecnologia/microsoft-restablece-completo-outlook-teams-copilot-caida-mundial-afecto-70-paises_1_13663982.html",
-      "imagen": "https://static.eldiario.es/clip/7d2e41c3-8c99-4530-9aad-64ef1c67da01_facebook-aspect-ratio-1200-675_default_0.jpg",
       "tipo": "imagen"
     }
   ]
