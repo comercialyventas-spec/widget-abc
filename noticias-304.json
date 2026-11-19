@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Los cambios en el circuito de Madring, a punto",
+      "link": "https://www.abc.es/deportes/formula-1/cambios-circuito-madring-punto-20261118013924-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/11/18/madring-R2MBXFBemeLzzuiMLXVmAGK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Fernando Alonso correrá el Dakar 2027 con Aston Martin",
       "link": "https://www.abc.es/deportes/formula-1/fernando-alonso-correra-dakar-2027-aston-martin-20261117101355-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/11/17/alonso-dakar--758x531.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Antonelli, el campeón precoz que nació en un garaje",
       "link": "https://www.abc.es/deportes/formula-1/antonelli-campeon-precoz-nacio-garaje-20261030232600-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/30/Kimi3%20Reuters-RkTrttF54SPHLu0zSQ6NlII-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Verstappen vence en la coronación de Antonelli",
-      "link": "https://www.abc.es/deportes/formula-1/verstappen-vence-coronacion-antonelli-20261101232719-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/11/01/salida-RoVkXOMs6o8dlWvbh1t6sAP-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

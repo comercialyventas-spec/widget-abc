@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "‘Tièlle sétoise’, la empanada de pulpo francesa que llegó de Italia",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-11-19/tielle-setoise-la-empanada-de-pulpo-francesa-que-llego-de-italia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/WXXS4CEIVRD45ADCMDWCX2PS7A.jpg?auth=5c299d1ce6ae7fbbdb51f85fce3e21ff42978353bdbbf0f4a4323aa0bf8cbc33",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Sopa de cebolla, la receta ‘rápida’ para vagos",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-11-19/sopa-de-cebolla-la-receta-rapida-para-vagos.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20261112/1236858_105612_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El bum del rollo de canela en España: “Cada día vendemos más, ha desplazado al cruasán″",
+      "link": "https://elpais.com/gastronomia/2026-11-19/el-bum-del-rollo-de-canela-en-espana-cada-dia-vendemos-mas-ha-desplazado-al-cruasan.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ILLNMCJ3GJCKZOKLREYQBUH654.jpg?auth=8539db1e55d3e64715765920cf044c6dac815e233f94e2f4006e8cb3e7e48203",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cinco utensilios de cocina para asar castañas, salir a por setas y aprovechar los cítricos de temporada",
+      "link": "https://elpais.com/gastronomia/2026-11-19/cinco-utensilios-de-cocina-para-asar-castanas-salir-a-por-setas-y-aprovechar-los-citricos-de-temporada.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/YH3MI6S7UFFBVI3MPG5CG7G6ZQ.jpg?auth=75d3a91061fa81364bc0bb8d86ca36978db7009041f52d04775ef8a1bcdf397c",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "“Amas da Terra son mujeres que protegen la tradición gallega y tejen las redes del futuro”",
       "link": "https://elpais.com/gastronomia/branded/para-una-inmensa-minoria/2026-11-18/amas-da-terra-son-mujeres-que-protegen-la-tradicion-gallega-y-tejen-las-redes-del-futuro.html",
       "imagen": "https://www.youtube.com/watch?v=ZGAXY2sOA5o",
@@ -10,30 +34,6 @@
       "titulo": "‘Cottage pie’, el pastel británico de carne y puré de patata",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-11-18/cottage-pie-el-pastel-britanico-de-carne-y-pure-de-patata.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/WUQXNL4UPJEBZACNEKNRHLIUIQ.jpg?auth=924310d4dfb21fb540ebc7260c33bdba67b62143bdb5c6ddb74f145baf5a4f72",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Lentejas con verduras y 10 recetas más de platos de cuchara para alegrarse con la llegada del frío",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-11-18/lentejas-con-verduras-y-10-recetas-mas-de-platos-de-cuchara-para-alegrarse-con-la-llegada-del-frio.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/JQTPOWJHANF4HNGDTWNHGHXWBM.jpg?auth=abe1dc5b7cd6e7bf2a111b85072c10edc43d301df07fb3e99f7da03d56a4b117",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Encurtir o el sistema para detener el tiempo de los alimentos que se descubrió hace 4.500 años",
-      "link": "https://elpais.com/gastronomia/2026-11-18/encurtir-o-el-sistema-para-detener-el-tiempo-de-los-alimentos-que-se-descubrio-hace-4500-anos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/BFYW2U2VVBAKXODN7ZJUHVJHG4.jpg?auth=4ef591b385ba65ddfb8cb5b10075192a057cd8b4ab32778147944007c052f797",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El miso artesanal que se elabora en un caserío vasco y que querrás echarle a todo",
-      "link": "https://elpais.com/gastronomia/2026-11-18/el-miso-artesanal-que-se-elabora-en-un-caserio-vasco-y-que-querras-echarle-a-todo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/W75XD77OOFEQ7MK2YYAPZVKIAA.jpg?auth=566cbf9057536b20a0c8cb11908a19499f22e72256cfa5d4b8747ec5e3d7a57f",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El vino que empieza mucho antes de llegar a la mesa",
-      "link": "https://elpais.com/gastronomia/2026-11-17/el-vino-que-empieza-mucho-antes-de-llegar-a-la-mesa.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/6T6KXPB7P5ESXPJNTHI3CE6NFQ.jpg?auth=62ed0878e470556f695ed74978f4b3deaad53b54f60bf8368ece88231c1e48af",
       "tipo": "imagen"
     }
   ]

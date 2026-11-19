@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Proceso judicial canónico para el cura del Obispado de Urgell acusado de violar a un seminarista",
+      "link": "https://www.lavanguardia.com/vida/20261118/11687527/proceso-judicial-canonico-cura-obispado-urgell-acusado-violar-seminarista.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/18/6afde9a77c29c.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "700 piezas de la historia de las hidroeléctricas vuelven al Pirineo",
       "link": "https://www.lavanguardia.com/local/lleida/20261117/11686787/700-piezas-historia-hidroelectricas-vuelven-pirineo.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/17/6afca2ea68a94.jpeg",
@@ -10,12 +16,6 @@
       "titulo": "Los cortes en el Port de la Bonaigua se flexibilizan al comenzar la temporada de esquí de Baqueira",
       "link": "https://www.lavanguardia.com/local/lleida/20261117/11686386/cortes-port-bonaigua-flexibilizan-comenzar-temporada-esqui-baqueira.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/17/6afc38f331ca8.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El matadero municipal de La Pobla de Segur reabre gestionado por una cooperativa",
-      "link": "https://www.lavanguardia.com/local/lleida/20261116/11685738/matadero-municipal-pobla-segur-reabre-gestionado-cooperativa.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/16/6afb27a494b17.jpeg",
       "tipo": "imagen"
     },
     {
@@ -31,9 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "El Obispado de Urgell cesa de los oficios pastorales a un cura denunciado por violar a un seminarista",
-      "link": "https://www.lavanguardia.com/vida/20261109/11680290/obispado-urgell-cesa-oficios-pastorales-cura-denunciado-violar-seminarista.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/09/6af2164d98f10.jpeg",
+      "titulo": "El matadero municipal de La Pobla de Segur reabre gestionado por una cooperativa",
+      "link": "https://www.lavanguardia.com/local/lleida/20261116/11685738/matadero-municipal-pobla-segur-reabre-gestionado-cooperativa.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/16/6afb27a494b17.jpeg",
       "tipo": "imagen"
     }
   ]

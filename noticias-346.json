@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Las empresas compiten por protegerse de las ciberamenazas relacionadas con la IA",
+      "link": "https://www.abc.es/tecnologia/empresas-compiten-protegerse-ciberamenazas-relacionadas-ia-20261119000831-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/19/veconomist_1200x840-k0eB-U40341925315UrF-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Paris Hilton pide al Congreso de EE.UU. una ley contra las imágenes sexuales falsas generadas por IA",
       "link": "https://www.abc.es/tecnologia/paris-hilton-pide-congreso-eeuu-ley-imagenes-20261118191136-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/18/1520431984-k1YB-U40418443606eVD-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Apple prepara su propia IA médica para competir con ChatGPT que analiza tus datos médicos para ofrecer consejos de salud personalizados",
       "link": "https://www.abc.es/tecnologia/moviles/apple-prepara-propia-ia-medica-competir-chatgpt-20261117204815-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/17/apple-medico-ia_20261117203841--758x531.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La IA llega a Google Maps: Gemini podrá planificar tus viajes de varios días y decirte dónde parar, qué visitar y cómo evitar atascos",
-      "link": "https://www.abc.es/tecnologia/informatica/ia-llega-google-maps-gemini-podra-planificar-20261117204620-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/17/ask-maps-ktdD-RcSGJZqiBhEvGKoYBtLs1AP-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Anthropic sale hoy a bolsa: quién gana y quién pierde con el gigante de la IA",
+      "link": "https://www.elperiodico.com/es/tecnologia/20261119/anthropic-sale-hoy-bolsa-gana-pierde-acciones-ia-claude-136594437",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f043d2b7-47cd-406a-8f9c-86ab3c515d5e_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Dario Amodei, el cerebro de Anthropic que quiere salvar al mundo de los riesgos de la IA",
+      "link": "https://www.elperiodico.com/es/tecnologia/20261119/dario-amodei-anthropic-salida-bolsa-ia-riesgos-claude-136510101",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ed23f56c-9281-4a6f-bb5d-2bdf9531be9c_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Una hora sin poder cobrar puede dejar más de 21.000 euros en operaciones en el aire para un comercio en España",
       "link": "https://www.elperiodico.com/es/economia/20261118/una-hora-sin-cobrar-cuesta-mas-21000-euros-comercio-espana-136583507",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/496bedb4-2772-4301-9aa6-32e70e7ab4d9_media-libre-aspect-ratio_default_0.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Huion Note: el cuaderno que convierte el papel en una pantalla",
       "link": "https://www.elperiodico.com/es/tecnologia/20261118/huion-note-cuaderno-inteligente-precio-136546219",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b33fd35e-4f9f-48b6-a643-16e4d1714f4a_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Catalunya desarrolla una solución clave para crear el rival europeo de Starlink, de Elon Musk",
-      "link": "https://www.elperiodico.com/es/tecnologia/20261118/catalunya-logra-establecer-primera-conexion-satelite-movil-5g-europa-i2cat-generalitat-136527105",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/75ce3d3a-c53f-4be7-b2c4-a157cba1a0be_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La IA detecta un fallo crítico en Java, usado por el 90% de las grandes empresas de EE.UU.",
-      "link": "https://www.elperiodico.com/es/economia/20261118/ia-detecta-fallo-critico-java-136560999",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a7d6b850-fda7-4188-983e-cbe8522fefa4_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
