@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Crema de zanahoria, la receta con jengibre sencilla pero diferente",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-11-20/crema-de-zanahoria-la-receta-con-jengibre-sencilla-pero-diferente.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/G3CA7IMDU5B6TJXUJS46S4ZAQE.jpg?auth=3aa00e4050238e22bcd49aad260314d2ba8d36a3304306e518b49e6b59d90738",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "‘Tièlle sétoise’, la empanada de pulpo francesa que llegó de Italia",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-11-19/tielle-setoise-la-empanada-de-pulpo-francesa-que-llego-de-italia.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/WXXS4CEIVRD45ADCMDWCX2PS7A.jpg?auth=5c299d1ce6ae7fbbdb51f85fce3e21ff42978353bdbbf0f4a4323aa0bf8cbc33",
@@ -28,12 +34,6 @@
       "titulo": "Buenos bares de Barcelona que no son para turistas y resisten la gentrificación",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-11-17/buenos-bares-de-barcelona-que-no-son-para-turistas-y-resisten-la-gentrificacion.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elcomidista/multimedia/20261112/1236854_104040_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Arroz tres delicias, la receta clásica de restaurante chino para hacer en casa",
-      "link": "https://elpais.com/gastronomia/el-comidista/2026-11-16/arroz-tres-delicias-la-receta-clasica-de-restaurante-chino-para-hacer-en-casa.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/KZCUGWDVUFBP7MD2CC6POIXHWE.JPG?auth=0174b44379142c8d62a7be7c69702fcd8d5a1da3f850b6eeb58166b8210df2b1",
       "tipo": "imagen"
     }
   ]

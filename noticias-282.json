@@ -1,7 +1,25 @@
 {
   "noticias": [
     {
-      "titulo": "¿Si sube el salario mínimo sube el paro? Así afecta a tu prestación y a los subsidios del SEPE",
+      "titulo": "Las comunidades autónomas cerrarán el año con un déficit del 0,4% del PIB, cuatro veces más de lo previsto por el Gobierno",
+      "link": "https://www.abc.es/economia/comunidades-autonomas-cerraran-ano-deficit-pib-cuatro-20261120095816-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/11/20/dinero_20261120100014-RuFbZWB89GcdaKFTwjzBRDM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "EE.UU. nombra a Kirsten Davies como directora nacional de Ciberseguridad tras la cadena de fallos técnicos en servicios que afectan al país",
+      "link": "https://www.abc.es/economia/eeuu-nombra-kirsten-davies-directora-nacional-ciberseguridad-20261120082806-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/11/20/EuropaPress_7928187_archivo_nueva_directora_nacional_ciberseguridad_estados_unidos_kirsten-kGwH-U40448461186xmH-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los maquinistas desconvocan la huelga del 23 de noviembre tras lograr un acuerdo sobre el protocolo de seguridad ferroviaria",
+      "link": "https://www.abc.es/economia/maquinistas-desconvocan-huelga-noviembre-tras-lograr-acuerdo-20261120070419-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/11/20/trenes-k5KG-U40447574973OIC-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Si sube el salario mínimo, sube el paro? Así afecta a tu prestación y a los subsidios del SEPE",
       "link": "https://www.abc.es/economia/cuentas-corrientes/sube-salario-minimo-sube-paro-afecta-prestacion-20261120012628-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/11/19/sube-salario-minimo-sube-paro-asi-afecta-RKNnYXwxbNF3BD6jBaZY4KK-1200x840@diario_abc.jpg",
       "tipo": "imagen"
@@ -13,27 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Los 3 errores de herencia que más dinero te costarán y cómo evitarlos con un testamento",
+      "titulo": "Los tres errores de herencia que más dinero te costarán y cómo evitarlos con un testamento",
       "link": "https://www.abc.es/economia/cuentas-corrientes/errores-herencia-dinero-costaran-evitarlos-testamento-20261120012431-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/11/19/testamento-errores-cuestan-dinero-RvT4ZfTMU3Td1CFmVvWC7AP-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Trabaja en la sanidad penitenciaria: Interior convoca 105 plazas y así puedes conseguirlas",
-      "link": "https://www.abc.es/economia/cuentas-corrientes/trabaja-sanidad-penitenciaria-interior-convoca-105-plazas-20261120012003-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/11/19/oposicion-sanida-penitenciaria-RsHiNjuCowgcdMdOwJkxsrM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Llega la paga extra de las pensiones antes del subidón de la nómina por la inflación",
-      "link": "https://www.abc.es/economia/cuentas-corrientes/llega-paga-extra-pensiones-subidon-nomina-inflacion-20261120011931-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/11/20/pensiones--758x531.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Feijóo opone los apuros de las familias al cohete económico de Sánchez: «El PIB no se come»",
-      "link": "https://www.abc.es/economia/feijoo-opone-apuros-familias-cohete-economico-sanchez-20261119230933-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/11/19/feijoo%20sanchez%20efe-Rbo9jDTjhm6CA4uziDGROCL-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

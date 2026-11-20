@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La Roux descubre los años noventa",
+      "link": "https://elpais.com/babelia/2026-11-20/la-roux-descubre-los-anos-noventa.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7IPWSWT4NBFWHPTDMS2YN7SSQE.jpg?auth=9749e474d7dab04bad2143ce559d0cb19081a984c8a704b2e8f6d4adae9d5adb",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Me llamo Antígona González y busco a 130.000 hermanos",
+      "link": "https://elpais.com/babelia/2026-11-20/me-llamo-antigona-gonzalez-y-busco-a-130000-hermanos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NBXZNPWJO5FQFBLGRYZK4NLBRE.jpg?auth=947fb426c165172731b2a6a99e0a32962992f510cd9770faf97d4d2a6acad6df",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cecil Beaton y el amor lejos de los focos",
       "link": "https://elpais.com/babelia/2026-11-19/cecil-beaton-y-el-amor-lejos-de-los-focos.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/KZBWIH7EWNAPDJUPXBXHZM26GE.jpg?auth=6ff3ffc1e6525264710210f9367c370b3cb678d4b773224af7d06b4a83ff4cf1",
@@ -22,18 +34,6 @@
       "titulo": "‘Tracking’",
       "link": "https://elpais.com/babelia/2026-11-18/tracking.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/3KVNMVSEYNB5FOC7XR55JFCT7I.jpg?auth=40d2c9880123ade055a992a7061c2c53e8514ddcd9ac52f58bb7c8b4deeae522",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Diego del Alcázar, escritor y empresario: “La felicidad impostada es un síntoma muy preocupante de nuestro tiempo”",
-      "link": "https://elpais.com/babelia/2026-11-17/diego-del-alcazar-escritor-y-empresario-la-felicidad-impostada-es-un-sintoma-muy-preocupante-de-nuestro-tiempo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/D7VLUPUM4ZB3TIVHUB4LH2GZOI.jpg?auth=b51bae2ddc798e62cfad438f9fb7091ae6ca1fc6c2f02e219b5c65235d52527e",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Rainer Maria Rilke, el poeta en busca de patria",
-      "link": "https://elpais.com/babelia/2026-11-17/rainer-maria-rilke-el-poeta-en-busca-de-patria-llega-al-museo-del-prado.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/2FB3CGGBFFBYLKBITNI7EVETVU.jpg?auth=e7a8c3bc9ce651849f71d1547e5d17886eac5a2d9af97db7e2f2733e2f3cce4a",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El bar de los Estopa",
+      "link": "https://www.20minutos.es/cataluna/barcelona/bar-los-estopa_7063167_3.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/12/6af5b95451bc10-14833291.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Una mochila sospechosa obliga a cortar varias calles y desalojar comercios en Barcelona: era una falsa alarma",
       "link": "https://www.20minutos.es/cataluna/barcelona/una-mochila-sospechosa-obliga-cortar-varias-calles-desalojar-comercios-barcelona-era-una-falsa-alarma_7063379_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/04/13/69dc8a9379e8e5-85309698.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "'El Principito' toma un antiguo hospital de Barcelona esta Navidad: así es el nuevo recorrido de luces de Sant Pau",
       "link": "https://www.20minutos.es/cataluna/barcelona/principito-toma-un-antiguo-hospital-barcelona-esta-navidad-asi-es-nuevo-recorrido-luces-sant-pau_7062902_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/06/19/6a3500889dfae0-17081290.r_d.1099-506.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tres multas por exceso de velocidad en siete minutos a un mecánico que estaba probando el coche de un cliente",
-      "link": "https://www.20minutos.es/cataluna/barcelona/tres-multas-por-exceso-velocidad-siete-minutos-un-mecanico-que-estaba-probando-coche-un-cliente_7063034_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/11/19/6afec51a4c81a8-26653856.r_d.1493-748-0.jpeg",
       "tipo": "imagen"
     }
   ]

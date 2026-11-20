@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Análisis electoral de Rogelio Garrido",
+      "link": "https://www.elperiodico.com/es/videos/opinion/analisis-electoral-rogelio-garrido/136647989.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/1614e3c5-6b61-4472-bac6-444d499a6fbc_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Análisis electoral de Gemma Martínez",
       "link": "https://www.elperiodico.com/es/videos/opinion/analisis-electoral-gemma-martinez/136601799.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9ad0059c-ad9e-4933-a486-26d6c14fdec7_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El análisis electoral de Armando Huerta",
       "link": "https://www.elperiodico.com/es/videos/opinion/analisis-electoral-armando-huerta/136522023.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/39167ef7-31f3-4c29-9350-e03d808f8a84_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La conquista de Valencia",
-      "link": "https://www.elperiodico.com/es/videos/opinion/conquista-valencia/136480833.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f055ed90-c628-4218-8b68-8aa7a24414aa_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

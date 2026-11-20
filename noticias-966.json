@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "El camino azul",
+      "link": "https://elpais.com/television/series/el-camino-azul/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/O67D5KFU2FGC5B4EQD775CCWFM.jpg?auth=421c32b7fe026c2c32135426de0c26f1cb1c9d7088f124547fdb8bbea0e5fcd7",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Cuándo son los debates electorales y en qué cadena se pueden ver?",
+      "link": "https://elpais.com/television/2026-11-11/cuando-son-los-debates-electorales-y-en-que-cadena.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KO4WLUU6OQBQJCCSXWJYSSYVE4.jpg?auth=aa376084ec8329a696841a9143f88d331e5cb9fae284b7a561293f2e0a012e48",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Audiencias del cara a cara: Antena 3 fue la cadena preferida para seguir el debate entre Sánchez y Feijóo",
+      "link": "https://elpais.com/television/2026-11-20/audiencias-del-cara-a-cara-antena-3-fue-la-cadena-preferida-para-seguir-el-debate-entre-sanchez-y-feijoo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/THF2K45GCFCFBFZM2AV6YANBYE.jpg?auth=bce67bda113adc45d90a250603aed4d9b81608d51338d997a28f580eeaf8c1ee",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Henar Álvarez anuncia el final de ‘Al cielo con ella’: “No tiene nada que ver con las elecciones ni con la derecha”",
+      "link": "https://elpais.com/television/2026-11-20/henar-alvarez-anuncia-el-final-de-al-cielo-con-ella-no-tiene-nada-que-ver-con-las-elecciones-ni-con-la-derecha.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/DRJYBDTXXRCRBGCF7264GMWJ7U.jpg?auth=8ba43f5a1800b3719c41b0a0c0113b5c9eeb5f391acf809d34157dac19653e00",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Maquillaje de tanatorio y poca moderación: aciertos y errores televisivos del debate de Sánchez y Feijóo",
       "link": "https://elpais.com/television/2026-11-19/maquillaje-de-tanatorio-y-poca-moderacion-aciertos-y-errores-televisivos-del-debate-de-sanchez-y-feijoo.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/6IPE75FJS5B5LAY3APORVWYLTA.jpg?auth=82cbbbba40937201d60b3de9dda50171cdef9775cd0aeee4f1236c6e5c8dff31",
@@ -10,30 +34,6 @@
       "titulo": "Silencios, “guarradas” y “estoy dialogando”: cinco momentos televisivos del cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo",
       "link": "https://elpais.com/television/2026-11-19/silencios-guarradas-y-estoy-dialogando-cuatro-momentos-televisivos-del-cara-a-cara-entre-pedro-sanchez-y-alberto-nunez-feijoo.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261120/1239976_005157_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "A qué hora y dónde ver el debate entre Sánchez y Feijóo: todas las cadenas que emiten el cara a cara",
-      "link": "https://elpais.com/television/2026-11-19/a-que-hora-y-donde-ver-el-debate-entre-sanchez-y-feijoo-todas-las-cadenas-que-emiten-el-cara-a-cara.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ECH6QEX62FO4DL67U6SZV7XAVE.jpg?auth=98855ee454e82e0d2a90ca29777c12587e0e333ce7aa0c9708215f83368ea3b3",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "HBO Max limita las cuentas compartidas y obliga a pagar un extra por un miembro adicional",
-      "link": "https://elpais.com/television/2026-11-19/hbo-max-limita-las-cuentas-compartidas-y-obliga-a-pagar-un-extra-por-un-miembro-adicional.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/IKVIWJRKBZCIJK6MPYPR5TYWIY.webp?auth=cb8db6636c88aaba15f933537e40d9688a7aeea11581c1297a7e49da1b27060d",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Celeste",
-      "link": "https://elpais.com/television/series/celeste/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ROTJR2X4DNCCJECNJ6FHRCTCDY.jpg?auth=5bb68f949e19f25f110f27a0236ed6db43f95abb8c4fd851063e53ceadb53d56",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cierra SkyShowtime, la plataforma de ‘streaming’ de ‘Dexter’, ‘Star Trek’, ‘Yellowstone’ y los estrenos de Paramount y Universal en España",
-      "link": "https://elpais.com/television/2026-11-19/cierra-skyshowtime-la-plataforma-de-streaming-de-dexter-star-trek-yellowstone-y-los-estrenos-de-paramount-y-universal-en-espana.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/TUYSW23LFZABFJQCPWC2ZIPY5U.jpg?auth=c1e6190126e5657d934b11c0f91fbb7621afbf65b5df58e290ec529430cf5597",
       "tipo": "imagen"
     }
   ]

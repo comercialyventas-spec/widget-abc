@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Cielo nuboso y viento suave en Zaragoza hoy, según AEMET",
+      "link": "https://okdiario.com/aragon/cielo-nuboso-y-viento-suave-en-zaragoza-hoy-segun-aemet-21192295",
+      "imagen": "https://okdiario.com/img/2026/11/20/suben-las-temperaturas.-europa-press.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cielo nuboso y viento fuerte en Zaragoza: AEMET prevé mejoras y posibles lluvias dispersas",
       "link": "https://okdiario.com/aragon/cielo-nuboso-y-viento-fuerte-en-zaragoza-aemet-preve-mejoras-y-posibles-lluvias-dispersas-21119288",
       "imagen": "https://okdiario.com/img/2026/11/19/lluvia-en-zaragoza.-europa-press.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Zaragoza: AEMET prevé nubes y lluvias con descenso de temperaturas y viento moderado hoy",
       "link": "https://okdiario.com/aragon/zaragoza-aemet-preve-nubes-y-lluvias-con-descenso-de-temperaturas-y-viento-moderado-hoy-20901195",
       "imagen": "https://okdiario.com/img/2026/11/15/lluvia-en-zaragoza.-europa-press.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "AEMET prevé nubes y lluvias aisladas en Zaragoza con viento suave y temperaturas estables",
-      "link": "https://okdiario.com/aragon/aemet-preve-nubes-y-lluvias-aisladas-en-zaragoza-con-viento-suave-y-temperaturas-estables-20897659",
-      "imagen": "https://okdiario.com/img/2026/11/14/lluvia-en-zaragoza.-europa-press.jpg",
       "tipo": "imagen"
     }
   ]

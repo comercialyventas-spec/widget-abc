@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Manuel Moreno Ramírez, pianista que abraza el espacio por alcanzar",
+      "link": "https://www.elmundo.es/andalucia/2026/11/20/6afff5d8fc6c83ff0e8b457c.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/20/17951594421123.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Rescatan a un hombre de 65 años tras derrumbarse de madrugada el techo de su habitación en Carmona (Sevilla)",
       "link": "https://www.elmundo.es/andalucia/2026/11/19/6afeb019e85ece744b8b45a0.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/19/17950767474701.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El espectáculo 'Houdini, un musical mágico' continúa su gira en Sevilla a partir del 26 de diciembre",
       "link": "https://www.elmundo.es/andalucia/2026/11/17/6afc45a121efa08c378b4583.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/17/17949183973937.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ryanair aterriza en Sevilla con 500 millones de euros y consolida a la ciudad andaluza como el tercer polo aeronáutico de Europa",
-      "link": "https://www.elmundo.es/andalucia/2026/11/16/6afb1ad3e9cf4a8b578b4573.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/16/17948515518553.jpg",
       "tipo": "imagen"
     }
   ]
