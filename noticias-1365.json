@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Dos hombres y un elefante en la habitación",
+      "link": "https://elpais.com/opinion/2026-11-19/dos-hombres-y-un-elefante-en-la-habitacion.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/FM7CNYCQ7BC3VAWVY6CG7SGM54.jpg?auth=4b7a79d6206136d1cd0a1ca2fe980dda99b228d75d09c289f2da71f4a4dceef3",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Feijóo sorprende ante un Sánchez incómodo",
+      "link": "https://elpais.com/opinion/2026-11-19/feijoo-sorprende-ante-un-sanchez-incomodo.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/MZYDQADYOZDL7HIYADYQMAT6UM.jpg?auth=6e692a3c3aa0f2867f589d38a285d884e97c04a048af8706b5e38cb77e2e9a8a",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Jéssica Feijóo vs. Maricarmen Sánchez",
+      "link": "https://elpais.com/opinion/2026-11-19/jessica-feijoo-vs-maricarmen-sanchez.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261119/1239861_211939_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Riki Blanco: sintonía",
       "link": "https://elpais.com/opinion/2026-11-19/riki-blanco-sintonia.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/3Y27LRN7BNEXBISUJRZ6D6MRYA.jpg?auth=df6b862c5d25ca81b81787e72bfdcc83d4981144d3653aea0ce085691f6fb958",
@@ -16,24 +34,6 @@
       "titulo": "Peridis: nacionalcatolicismo y motosierra",
       "link": "https://elpais.com/opinion/2026-11-19/peridis-nacionalcatolicismo-y-motosierra.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/V7FKYOEVKBGUVGBBIW4ZOSLIGI.jpg?auth=6f4b01adad1c2f598fc6f40574f61f0b00b40a98aec4083b8daa3712cd243590",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¡Extra, extra! ¡Hombre de mediana edad se cree irresistible!",
-      "link": "https://elpais.com/opinion/2026-11-19/extra-extra-hombre-de-mediana-edad-se-cree-irresistible.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/PVSLKXW4GZMRLCCOD424VC2ODI.jpg?auth=56ad1db4603a6dab9f2d1634a5aed92418cdfbcb079445d9ca5180ca6ec31814",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un lector: “A quién vota el que no recoge los excrementos de su mascota”",
-      "link": "https://elpais.com/opinion/2026-11-19/un-lector-a-quien-vota-el-que-no-recoge-los-excrementos-de-su-mascota.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/DU25PLND5NAUXMDYIRTD2YVTPE.JPG?auth=cbbf59d52734597e11ce328604bd111e5eccc2d3164a2c49b74f63e83071df13",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El desastre de Rodalies",
-      "link": "https://elpais.com/opinion/2026-11-19/el-desastre-de-rodalies.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/BXJFH5EGFBDOZDXVXEINHIYSTU.jpg?auth=341c11512920592701e9516ce70f6efa75bf929374d2543a2e1a83803f1ee3d1",
       "tipo": "imagen"
     }
   ]

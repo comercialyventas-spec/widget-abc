@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Juan Carlos Morillo, el ingeniero que se inventó un ferrocarril para Vaciamadrid",
+      "link": "https://www.diarioderivas.es/juan-carlos-morillo-tren-vaciamadrid-arganda/",
+      "imagen": "https://www.diarioderivas.es/wp-content/uploads/2026/10/ingeniero-juan-carlos-morillo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La cantera de yeso de Santa Ana de Rivas regresa del pasado",
+      "link": "https://www.diarioderivas.es/cantera-yeso-santa-ana-rivas/",
+      "imagen": "https://www.diarioderivas.es/wp-content/uploads/2026/05/cantera_yeseria_fortuna_rivas.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Sindicatos, patronal y Ayuntamiento analizan en Rivas el presente y futuro de la vivienda",
       "link": "https://www.diarioderivas.es/presente-y-futuro-de-la-vivienda/",
       "imagen": "https://www.diarioderivas.es/wp-content/uploads/2026/11/Vivienda.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Madrid aprueba en sus Presupuestos de 2027 una inversión de 62 millones para los nuevos contratos de explotación del Parque Tecnológico de Valdemingómez",
       "link": "https://www.diarioderivas.es/madrid-presupuestos-2027-inversion-contratos-explotacion-valdemingomez/",
       "imagen": "https://www.diarioderivas.es/wp-content/uploads/2026/11/planta_las_dehesas_valdemingomez.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un elfo mágico, un concurso y miles de luces: ParqueRivas da la bienvenida a la Navidad",
-      "link": "https://www.diarioderivas.es/parquerivas-da-la-bienvenida-a-la-navidad/",
-      "imagen": "https://www.diarioderivas.es/wp-content/uploads/2026/11/7_-CC-Diario-Rivas-800-x-533-px-encendido-luces.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Rivamadrid 2027: estas son todas las novedades y mejoras que la empresa pública implementará el próximo año",
-      "link": "https://www.diarioderivas.es/rivamadrid-2027-estas-son-todas-las-novedades-y-mejoras-que-la-empresa-publica-implementara-el-proximo-ano/",
-      "imagen": "https://www.diarioderivas.es/wp-content/uploads/2026/09/Puertas-abiertas-Rivamadrid-8.jpg",
       "tipo": "imagen"
     }
   ]

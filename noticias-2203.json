@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Sánchez promete rebajas de impuestos a la clase media y subirlos a las grandes fortunas",
+      "link": "https://www.elperiodico.com/es/videos/economia/sanchez-promete-rebajas-impuestos-clase/136644970.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f7f331f0-9975-47aa-b710-879fdd639261_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Anthropic se dispara un 34% en su estreno en el Nasdaq, hasta un precio de 111,5 dólares",
       "link": "https://www.elperiodico.com/es/videos/economia/anthropic-dispara-34-estreno-nasdaq/136633156.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ff267f4e-6c9d-4d8a-ac4b-ff8f990931c6_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Jensen Huang abre la puerta a regresar al cargo de CEO de Nvidia en su primera comunicación",
       "link": "https://www.elperiodico.com/es/videos/economia/jensen-huang-abre-puerta-regresar-nvidia/136554059.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9014940b-4207-4133-95b8-30c1e2a21ddb_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cancelaciones y retrasos en trenes de toda España por la huelga ferroviaria",
-      "link": "https://www.elperiodico.com/es/videos/economia/cancelaciones-retrasos-trenes-huelga-ferroviaria/136552567.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/5de80bc6-a8db-4daf-bcb7-32037d14bf9d_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

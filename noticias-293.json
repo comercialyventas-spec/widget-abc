@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Umbral y su fe ciega",
+      "link": "https://www.abc.es/cultura/cultural/umbral-ciega-20261120015735-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/11/20/interior12-trapiello-adria_ramirez-RqDNuyIfblZG994KLbf1XUN-1200x1775@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Carlos Jover, una poesía de la excepción",
       "link": "https://www.abc.es/cultura/cultural/carlos-jover-poesia-excepcion-20261119132221-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/11/19/_DSC3300-RQNOyVIH6JEuqOeoYqJDU8L-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La geometría perceptiva de Luis Palmero",
       "link": "https://www.abc.es/cultura/cultural/geometria-perceptiva-luis-palmero-20261119131914-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/11/19/Luis%20Palmero%20-%205%20Colores%20(2009)-RGiqw0TWqVH3XWk9cfD20nO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Releer a Raymond Aron",
-      "link": "https://www.abc.es/cultura/cultural/releer-raymond-aron-20261119125812-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/11/19/6370968_20261116102239-Ri11frBtGlkobc4XcwOCIGP-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

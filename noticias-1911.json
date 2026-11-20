@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Dos velas",
+      "link": "https://www.eldiario.es/opinion/velas_131_13678775.html",
+      "imagen": "https://static.eldiario.es/clip/8e8baa2e-dcdd-4590-844f-99e0d6ed47a3_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Hasta aquí",
       "link": "https://www.eldiario.es/opinion/hasta-aqui_131_13675423.html",
       "imagen": "https://static.eldiario.es/clip/8f8d7327-0a35-4ccf-b864-d6ad1c1b1aca_16-9-discover-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Marlaska",
       "link": "https://www.eldiario.es/opinion/marlaska_131_13660257.html",
       "imagen": "https://static.eldiario.es/clip/10a1dfa9-1736-4b37-9105-be5343a49149_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "11N",
-      "link": "https://www.eldiario.es/opinion/11n_131_13653994.html",
-      "imagen": "https://static.eldiario.es/clip/7c7e1703-310b-4c01-9b66-c1408dc9705d_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

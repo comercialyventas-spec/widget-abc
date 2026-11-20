@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Pedro Sánchez",
+      "link": "https://www.elconfidencialdigital.com/politica/pedro-sanchez/202611200003001504233.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/20/2026112000014882519.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Debate electoral Pedro Sánchez-Alberto Núñez Feijóo",
+      "link": "https://www.elconfidencialdigital.com/politica/debate-electoral-pedro-sanchez-alberto-nunez-feijoo/202611192341171504228.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/19/2026111923392673992.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "PP",
       "link": "https://www.elconfidencialdigital.com/politica/pp/202611171251551502992.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/17/2026111712470039239.jpg",
@@ -22,18 +34,6 @@
       "titulo": "La candidata a la presidencia por el Frente Amplio, Ada Colau, en un acto en Móstoles, Madrid",
       "link": "https://www.elconfidencialdigital.com/politica/candidata-presidencia-frente-amplio-ada-colau-acto-mostoles-madrid/202611051819211499823.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/05/2026110518174623958.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Elecciones generales",
-      "link": "https://www.elconfidencialdigital.com/politica/elecciones-generales/202610291823041498079.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/29/2026102918205262302.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Elecciones",
-      "link": "https://www.elconfidencialdigital.com/politica/elecciones/202610272110401497405.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/27/2026102721073178200.jpg",
       "tipo": "imagen"
     }
   ]

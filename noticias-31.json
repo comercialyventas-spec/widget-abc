@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "La protección de la Masia",
+      "link": "https://www.lavanguardia.com/deportes/20261120/11688779/proteccion-masia.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cómo linchar a un central uruguayo",
+      "link": "https://www.lavanguardia.com/deportes/20261120/11688777/como-linchar-central-uruguayo.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Servette paga los platos de un Barça hambriento",
+      "link": "https://www.lavanguardia.com/deportes/futbol-femenino/20261119/11688581/servette-paga-platos-barca-hambriento.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/19/6aff6f9e76e20.r_d.2440-1485-923.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La RFEF confirma que la FIFA no admite la candidatura conjunta Bilbao-San Sebastián como sede del Mundial de 2030",
       "link": "https://www.lavanguardia.com/deportes/futbol/20261119/11688454/rfef-confirma-fifa-admite-candidatura-conjunta-bilbao-san-sebastian-sede-mundial-2030.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/04/16/69e0c14c7b7ea.r_d.2078-1323-1083.jpeg",
@@ -16,24 +34,6 @@
       "titulo": "Carles Puyol, nuevo director de relaciones y fútbol internacional del Inter Escaldes andorrano",
       "link": "https://www.lavanguardia.com/deportes/futbol/20261119/11688404/carles-puyol-nuevo-director-relaciones-futbol-internacional-inter-escaldes-andorrano.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/19/6aff215bbfa67.r_d.882-1147-2748.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Carlsen divide al ajedrez tras no presentarse a una partida para conservar el número 1",
-      "link": "https://www.lavanguardia.com/deportes/otros-deportes/20261119/11688379/carlsen-ajedrez-assaubayeva-divide-numero-1-total-chess.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/19/6aff12be3cd69.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Jódar también sucumbe ante los latigazos de Shelton y queda fuera de las ATP Finals",
-      "link": "https://www.lavanguardia.com/deportes/tenis/20261119/11688261/jodar-sucumbe-latigazos-shelton-queda-fuera-atp-finals.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/19/6aff0afcb0b05.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Alcaraz decide continuar en las ATP Finals tras someterse a una resonancia",
-      "link": "https://www.lavanguardia.com/deportes/tenis/20261119/11688286/incertidumbre-alcaraz-atp-finals-pruebas-medicas-entrenamiento-suspendido.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/18/6afdb5b99158a.jpeg",
       "tipo": "imagen"
     }
   ]

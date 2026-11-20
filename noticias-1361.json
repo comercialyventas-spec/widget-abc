@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El minuto de oro de Alberto Núñez Feijóo",
+      "link": "https://elpais.com/espana/elecciones-generales/2026-11-19/el-minuto-de-oro-de-alberto-nunez-feijoo.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261119/1239939_231725_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Qué dice la resolución de la Audiencia de Barcleona sobre el caso de Isak Andic: “Un aval a la investigación contra Jonathan Andic”",
+      "link": "https://elpais.com/videos/2026-11-19/que-dice-la-resolucion-de-la-audiencia-de-barcleona-sobre-el-caso-de-isak-andic-un-aval-a-la-investigacion-contra-jonathan-andic.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261119/1239797_184750_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Donald Trump, grabado con los ojos cerrados durante una intervención del presidente de China, Xi Jinping",
       "link": "https://elpais.com/videos/2026-11-19/donald-trump-grabado-con-los-ojos-cerrados-durante-una-intervencion-del-presidente-de-china-xi-jinping.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261119/1239500_082205_video_1800.mp4",
@@ -22,18 +34,6 @@
       "titulo": "¿Cómo de exactos son los datos de vivienda que los candidatos están usando en la campaña?",
       "link": "https://elpais.com/espana/elecciones-generales/2026-11-18/como-de-exactos-son-los-datos-de-vivienda-que-los-candidatos-estan-usando-en-la-campana.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261118/1239358_194415_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Qué hacer para luchar contra la pobreza además de subir el salario mínimo interprofesional?",
-      "link": "https://elpais.com/videos/2026-11-18/que-hacer-para-luchar-contra-la-pobreza-ademas-de-subir-el-salario-minimo-interprofesional.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261117/1238839_175200_video_1800.mp4",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "En la biblioteca de Brenda Navarro: “Los universos literarios de Europa del Este conversan mucho con América Latina”",
-      "link": "https://elpais.com/videos/2026-11-17/en-la-biblioteca-de-brenda-navarro-los-universos-literarios-de-europa-del-este-conversan-mucho-con-america-latina.html",
-      "imagen": "https://www.youtube.com/watch?v=7I-akfQ-CdQ",
       "tipo": "imagen"
     }
   ]

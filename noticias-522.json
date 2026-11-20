@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Vehículos",
+      "link": "https://www.elconfidencialdigital.com/defensa/vehiculos/202611192312561504224.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/19/2026111923092925147.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Militares",
       "link": "https://www.elconfidencialdigital.com/defensa/militares/202611191326301504055.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/30/2026093013485493452.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Escuela Naval Militar",
       "link": "https://www.elconfidencialdigital.com/defensa/escuela-naval-militar/202611171940451503276.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/17/2026111719395752047.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Millán-Astray: de Filipinas a la Legión",
-      "link": "https://www.elconfidencialdigital.com/defensa/m/202611171430111503040.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/17/2026111712553157281.jpg",
       "tipo": "imagen"
     }
   ]

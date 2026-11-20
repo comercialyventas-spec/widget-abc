@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Pedro Sánchez",
+      "link": "https://www.elconfidencialdigital.com/politica/pedro-sanchez/202611200003001504233.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/20/2026112000014882519.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Debate electoral Pedro Sánchez-Alberto Núñez Feijóo",
+      "link": "https://www.elconfidencialdigital.com/politica/debate-electoral-pedro-sanchez-alberto-nunez-feijoo/202611192341171504228.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/19/2026111923392673992.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Vehículos",
+      "link": "https://www.elconfidencialdigital.com/defensa/vehiculos/202611192312561504224.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/19/2026111923092925147.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Militares",
       "link": "https://www.elconfidencialdigital.com/defensa/militares/202611191326301504055.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/30/2026093013485493452.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Álbum Maserati en la feria Milano AutoClassica 2026",
       "link": "https://www.elconfidencialdigital.com/motor/album-maserati-feria-milano-autoclassica-2026/202611191154041503936.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/19/2026111911473052243.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Álbum CUPRA KIRO estrena la era GEN4 en los test del Jarama",
-      "link": "https://www.elconfidencialdigital.com/motor/album-cupra-kiro-estrena-era-gen4-test-jarama/202611191126411503914.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/19/2026111911254367368.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Álbum GWM HAVAL H7 y ORA 5 han obtenido cinco estrellas en las pruebas de seguridad Euro NCAP",
-      "link": "https://www.elconfidencialdigital.com/motor/album-gwm-haval-h7-ora-5-han-obtenido-cinco-estrellas-pruebas-seguridad-euro-ncap/202611191119021503906.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/19/2026111911173676633.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Álbum DEL CABO NORTE A TARIFA EN EL NUEVO BMW i3 50 xDrive",
-      "link": "https://www.elconfidencialdigital.com/motor/album-cabo-norte-tarifa-nuevo-bmw-i3-50-xdrive/202611191112571503891.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/19/2026111911094362149.jpg",
       "tipo": "imagen"
     }
   ]
