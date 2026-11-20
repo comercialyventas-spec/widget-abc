@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Em Sherif, una aproximación libanesa",
+      "link": "https://www.abc.es/gastronomia/sherif-aproximacion-libanesa-20261120123528-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/11/20/Comedor-RMAPzl3lCuYkZsbxfypvazM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "XII Salón del Vino y Guía del Vino 2027 de ABC: llega la gran cita anual del sector",
       "link": "https://www.abc.es/gastronomia/xii-salon-vino-guia-vino-2027-abc-20261119132740-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/11/19/salon1-Rjp6eUdILfmkr2FqEunPb9N-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Vandelvira, alta cocina de proximidad",
       "link": "https://www.abc.es/gastronomia/vandelvira-alta-cocina-proximidad-20261113105915-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/11/13/Barra-cocina-RcMC7OTxYWkbbnvuw7FWlWK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Parrona, una variedad con mucho que contar",
-      "link": "https://www.abc.es/gastronomia/vinos/parrona-variedad-contar-20261112120555-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/11/12/vinedo-bodega-tierra-savia-Rh0OWGMrbVUMSuP3iBsKxmI-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

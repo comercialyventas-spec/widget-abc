@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Policía Nacional",
+      "link": "https://www.elconfidencialdigital.com/seguridad/policia-nacional/202611201404171504488.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/02/18/2026021823034281678.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Fuerzas de Seguridad",
+      "link": "https://www.elconfidencialdigital.com/seguridad/fuerzas-seguridad/202611201248591504469.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/05/13/2026051320303190835.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Radicalización",
       "link": "https://www.elconfidencialdigital.com/seguridad/radicalizacion/202611161426141502699.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/16/2026111614235638977.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Voto por correo",
       "link": "https://www.elconfidencialdigital.com/seguridad/voto-por-correo/202611121329091501819.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/12/2026111213261146171.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Núcleo Nacional",
-      "link": "https://www.elconfidencialdigital.com/seguridad/nucleo-nacional/202611112124451501587.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/11/2026111121215414154.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Huelga general",
-      "link": "https://www.elconfidencialdigital.com/seguridad/huelga-general/202611111420081501425.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/11/2026111114112961784.jpg",
       "tipo": "imagen"
     }
   ]

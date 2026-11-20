@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Barcelona, el gran aparador de la cuina catalana",
+      "link": "https://elpais.com/quadern/gastronomia/2026-11-20/barcelona-el-gran-aparador-de-la-cuina-catalana.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/3VE345TAZJD6NMZAKPDK5H7OCA.jpg?auth=ea5e60d1a34fdc2d95d03730e254ce5769845405bb43e003161d4c2bd0d5e8e5",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El premi Proa de Iolanda Batallé ni molesta ni entusiasma",
       "link": "https://elpais.com/quadern/literatura/2026-11-20/el-premi-proa-de-iolanda-batlle-ni-molesta-ni-entusiasma.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/X5YKMPLEHNBH7A3UURMWJN4IVI.JPG?auth=03f67b6df66d3fcd23cbc823dce95f8be84ed98b42a9a765cb01615432300409",
@@ -28,12 +34,6 @@
       "titulo": "“Covard, poruc i bandarra”: la relació epistolar de Flaubert i la seva amant Louise Colet",
       "link": "https://elpais.com/quadern/literatura/2026-11-19/covard-poruc-i-bandarra-la-relacio-epistolar-de-flaubert-i-la-seva-amant-louise-colet.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/6QFBZWPC6JE2TFIR7H5DLBYLTM.JPG?auth=dde694ed555e735c77d00135ee79e3574baaa937dd7383517d899f14db6bcf19",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "‘Malvina’, de Mirko Kovač: la història d’una transgressora sexual i nacional",
-      "link": "https://elpais.com/quadern/literatura/2026-11-18/malvina-de-mirko-kovac-la-historia-duna-transgressora-sexual-i-nacional.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ZMV4UDI6IBBBTOFW7HOZ3HGN44.JPG?auth=598ac2fd6b3666aa3d665c27659e68e937ae7b106c5c9f5cdcb2e34cd699f0d1",
       "tipo": "imagen"
     }
   ]

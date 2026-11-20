@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Evento deportivo en Chamartín, Salamanca, Centro y Arganzuela. Afectadas 58 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261122-CR-Zara-Athleticz-Speed-Run.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Restricciones de tráfico calle Mayor. Afectada línea M3 de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261121-Restricciones-Trafico-Mayor.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Evento sociocultural en zona Centro. Afectadas 41 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261121-Celebracion-Encendido-Luces-Navidad.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Manifestación en distrito San Blas - Canillejas. Afectadas 8 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261123-M-Av-Guadalajara-Arcos-Jalon.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Obras: Ciclón. Afectada línea 105 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261123-O-Ciclon.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -9,30 +33,6 @@
     {
       "titulo": "Manifestación en paseo del Robledal. Afectada línea 33 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261122-M-Paseo-Robledal.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Evento socio-cultural en zona Cibeles. Afectadas 19 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261121-Desvios-Encendido-Luces-Navidad.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Manifestación en Alcalá. Afectadas 4 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261122-M-Alcala-Angel-Gonzalez-Tejedor.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Acto religioso en distrito Moncloa. Afectadas 3 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261122-PR-San-Martin-Porres-Moncloa.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Evento deportivo en Arturo Soria. Afectadas 7 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20251122-CR-Corre-Segura-Ciudad-Lineal.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

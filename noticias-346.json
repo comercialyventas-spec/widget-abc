@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Meta lanza una nueva aplicación de mensajería de Instagram que permite chatear sin entrar en la red social y hasta sin tener una cuenta",
+      "link": "https://www.abc.es/tecnologia/redes/meta-lanza-nueva-aplicacion-mensajeria-instagram-permite-20261120183453-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/20/cute-teenage-girl-is-taking-pictures-phone-girl-headphones-R2hxxLNjKA3rruHQ6rofoJI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Apple Watch mejora con la IA de Siri: ahora puede escuchar tus conversaciones, recordar lo que has dicho y resumir tu día",
+      "link": "https://www.abc.es/tecnologia/electronica/apple-watch-mejora-ia-siri-puede-escuchar-20261120180046-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/20/apple-watch-series-12-RWFYVtC0MLbApscun2gk52M-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "TikTok lanza un detector de 'deepfakes' para frenar la desinformación ante la oleada de elecciones europeas",
+      "link": "https://www.abc.es/tecnologia/redes/tiktok-lanza-detector-deepfakes-frenar-desinformacion-ante-20261120120654-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/20/tiktok-deepfake-kdII-U40451722820De-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La nueva IA de Microsoft ya puede simular ciberataques, detectar vulnerabilidades y corregir fallos de seguridad antes de que los aprovechen los hackers",
       "link": "https://www.abc.es/tecnologia/informatica/nueva-ia-microsoft-puede-simular-ciberataques-detectar-20261119202503-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/19/business-man-owner-company-office-RZMEtZiC2jcTayGjWJrbN5I-1200x840@diario_abc.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Sam Altman, CEO de OpenAI, sobre la autoridad de la inteligencia artificial: «Las personas deben mantener el control del futuro, que haya una cesión gradual del control a la IA es una idea terrible»",
       "link": "https://www.abc.es/tecnologia/sam-altman-ceo-openai-sobre-autoridad-inteligencia-20261119182515-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/19/sam-altman-ceo-openai-RlkBAvxhncUdYpX8F7Y0kNN-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las empresas compiten por protegerse de las ciberamenazas relacionadas con la IA",
-      "link": "https://www.abc.es/tecnologia/empresas-compiten-protegerse-ciberamenazas-relacionadas-ia-20261119000831-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/19/veconomist_1200x840-k0eB-U40341925315UrF-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Paris Hilton pide al Congreso de EE.UU. una ley contra las imágenes sexuales falsas generadas por IA",
-      "link": "https://www.abc.es/tecnologia/paris-hilton-pide-congreso-eeuu-ley-imagenes-20261118191136-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/18/1520431984-k1YB-U40418443606eVD-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "España, cuarto país con más peticiones de días libres ante el lanzamiento del 'GTA VI'",
-      "link": "https://www.abc.es/tecnologia/videojuegos/crecen-peticiones-dias-libres-trabajo-lanzamiento-gta-20261118174650-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/18/1520464557-kuPG-U40415436558gcF-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

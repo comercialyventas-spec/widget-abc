@@ -1,39 +1,39 @@
 {
   "noticias": [
     {
-      "titulo": "Un ingeniero civil alerta sobre el riesgo de inundación de los garajes en ciudades: “No es necesario que se desborde un río, una tormenta intensa puede ser suficiente”",
+      "titulo": "¿Qué comer justo al bajar de la bici? Claves de una buena alimentación",
+      "link": "https://www.lavanguardia.com/motor/vehiculos/bicicletas/20261120/11689330/que-comer-justo-bajar-bici-claves-buena-alimentacion.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/20/6b0067316a77a.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Sergi Sánchez (24 años), usuario de Rodalies: “Tardaría menos en llegar a Sevilla en avión que lo que me cuesta ir a trabajar a Barcelona en tren cada día”",
+      "link": "https://www.lavanguardia.com/motor/movilidad/20261120/11688045/sergi-sanchez-24-anos-usuario-rodalies-tardaria-llegar-sevilla-avion-me-cuesta-trabajar-barcelona-tren-dia-gvm.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/19/6afedc2c697ad.r_d.698-372-4736.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Jorge Novo, mecánico: “Si vas a comprar un coche de segunda mano, tienes que revisar la fecha de fabricación de los cinturones; siempre tiene que ser anterior a la fecha de matriculación del coche”",
+      "link": "https://www.lavanguardia.com/motor/20261120/11689170/jorge-novo-mecanico-vas-comprar-coche-segunda-mano-tienes-revisar-fecha-fabricacion-cinturones-siempre-anterior-fecha-matriculacion-coche-epm.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/02/6abf5fb120fc3.r_d.1916-893-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Millones de cangrejos migratorios paralizan el tráfico en Australia: carreteras cortadas y puentes especiales evitan que mueran atropellados",
+      "link": "https://www.lavanguardia.com/motor/actualidad/20261120/11418263/pais-cortan-carreteras-levantan-puentes-especiales-millones-cangrejos-crucen-aplastados-tsc.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/20/6b0020fdbb60c.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Nuevo Dacia Spring: mucho más coche por menos de 18.000 euros",
+      "link": "https://www.lavanguardia.com/motor/vehiculos/coches/20261120/11687507/nuevo-dacia-spring-mas-coche-18000-euros-tsc.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/18/6afde3b5838e2.r_d.2583-1875-820.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Una tormenta intensa puede ser suficiente para que se inunde el garaje: un ingeniero civil explica cómo puedes saber si tu parking está en riesgo",
       "link": "https://www.lavanguardia.com/motor/consejos/20261120/11685157/ingeniero-civil-alerta-sobre-riesgo-inundacion-parkings-ciudades-necesario-desborde-rio-tormenta-intensa-suficiente-gvm.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/16/6afafc01eecf7.r_d.956-643-2336.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Nuevo BMW i3 eléctrico: hasta 912 km de autonomía y recarga rápida en 10 minutos",
-      "link": "https://www.lavanguardia.com/motor/20261120/11682426/nuevo-bmw-i3-electrico-autonomia-recarga-precio-brl-gbc.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/12/6af5a45db992f.r_d.3988-1751-937.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Atención conductores: la DGT cambia el código de colores para alertar del estado de la circulación cuando hay nieve, niebla y viento",
-      "link": "https://www.lavanguardia.com/motor/actualidad/20261119/11688383/atencion-conductores-dgt-cambia-codigo-colores-alertar-circulacion-hay-nieve-niebla-viento.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/01/16/63c580b113254.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Jesús Alloza, experto en coches: “Nunca dejes apoyada la mano en la palanca de cambios; aceleras el desgaste del sistema y puedes volver las marchas imprecisas”",
-      "link": "https://www.lavanguardia.com/motor/20261119/11688170/jesus-alloza-experto-coches-nunca-dejes-apoyada-mano-palanca-cambios-aceleras-desgaste-sistema-puedes-volver-marchas-imprecisas-epm.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/28/6a68bf3b44ef1.r_d.1259-827-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Kia amplía la gama del SUV Seltos con una versión híbrida autorrecargable: etiqueta ECO de la DGT sin depender de enchufes",
-      "link": "https://www.lavanguardia.com/motor/vehiculos/coches/20261119/11687269/kia-amplia-gama-suv-seltos-version-hibrida-autorrecargable-etiqueta-eco-dgt-depender-enchufes-tsc.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/18/6afda1096903e.r_d.1006-712-2338.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El futuro del automóvil y la movilidad, también en juego en las elecciones generales del 29-N",
-      "link": "https://www.lavanguardia.com/motor/actualidad/20261119/11687304/futuro-automovil-movilidad-juego-elecciones-generales-29-n.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/04/06/69d3c0109f9b9.r_d.1173-1084-1641.jpeg",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/04/6ac2778ff399c.r_d.847-353-4736.jpeg",
       "tipo": "imagen"
     }
   ]

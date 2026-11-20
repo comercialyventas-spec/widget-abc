@@ -1,12 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Nueva jornada de protestas en Francia, en imágenes",
-      "link": "https://elpais.com/internacional/2026-11-05/nueva-jornada-de-protestas-en-francia-en-imagenes.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/S7KLU7XO4NAYPELPMMMC5DFMXQ.jpg?auth=fd9b2ab1ddd4d8d304cda716555dd59763cd8a7aef6da942dcb0c8b5f89bea17",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "La sesión plenaria de la XXX Cumbre Iberoamericana en Madrid, en imágenes",
       "link": "https://elpais.com/espana/2026-11-05/la-sesion-plenaria-de-la-xxx-cumbre-iberoamericana-en-madrid-en-imagenes.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/A2K4Y6CDFVBQBHCVG4F6E76X6Q.jpg?auth=43491875f845fbd03de84ad08cb02422b2cfa6362e63bdca144060b0ee4e0faf",
@@ -34,6 +28,12 @@
       "titulo": "Los festejos de las elecciones ‘midterms’ de Estados Unidos, en imágenes",
       "link": "https://elpais.com/us/2026-11-04/los-festejos-de-las-elecciones-midterms-de-estados-unidos-en-imagenes.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/6QWLJIN2XRMMLPFJYPUX3L3B5I.jpg?auth=b1e74626740f83e7120ac7083c22815deb705061096ee3aac610a85a9045cbfd",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La acampada de Sol, en imágenes",
+      "link": "https://elpais.com/espana/madrid/2026-11-03/la-acampada-de-sol-en-imagenes.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ESAJWLGFEZASDD5OVPNGEABOXU.jpg?auth=7597f345c16632403cbe772e6773dbb609370cdc13ea6394ad8f9db94ff2c1b0",
       "tipo": "imagen"
     }
   ]
