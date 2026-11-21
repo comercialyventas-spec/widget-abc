@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "La madre de todas las lenguas",
+      "link": "https://www.lavanguardia.com/cultura/20261121/11689692/madre-todas-lenguas.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un trauma en Nueva York",
+      "link": "https://www.lavanguardia.com/cultura/20261121/11689378/trauma-nueva-york.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "‘Grand Theft Auto VI’ ya es el mayor lanzamiento de la historia del entretenimiento",
+      "link": "https://www.lavanguardia.com/cultura/20261120/11689505/grand-theft-auto-vi-mayor-lanzamiento-historia-entretenimiento.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/20/6b00a770c9005.r_d.3513-2159-640.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Mary Halvorson Canis Major (★★★✩✩), estrella refulgente",
       "link": "https://www.lavanguardia.com/cultura/20261120/11689367/mary-halvorson-canis-major-estrella-refulgente.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/20/6b00715688c84.jpeg",
@@ -16,24 +34,6 @@
       "titulo": "El extraordinario tesoro de época romana que han descubierto unos estudiantes de Inglaterra en su primera excavación arqueológica",
       "link": "https://www.lavanguardia.com/cultura/20261120/11689194/extraordinario-tesoro-epoca-romana-han-descubierto-estudiantes-inglaterra-primera-excavacion-arqueologica.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/20/6b003e313cbad.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una mañana para entrenar como valquirias: ACOTAR llega a Barcelona",
-      "link": "https://www.lavanguardia.com/cultura/20261120/11686284/manana-entrenar-valquirias-sarah-maas-crossbooks-romantasy-barcelona-casa-rius.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/17/6afc28bdb445f.r_d.590-929-3741.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "'La maketa' de Estopa (★★★✩✩), un manantial sin fecha de caducidad",
-      "link": "https://www.lavanguardia.com/cultura/20261120/11687086/maketa-manantial-fecha-caducidad.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/18/6afd7f9ce92d7.r_d.715-793-4342.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Adolescencia, sexo y muerte en Campamento Miasma (★★★★✩) oda al 'slasher' más chapucero y otros estrenos de la semana",
-      "link": "https://www.lavanguardia.com/cultura/cine/20261120/11688113/adolescencia-sexo-muerte-campamento-miasma-oda-slasher-mas-chapucero-otros-estrenos-semana.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/19/6afedacd16d07.jpeg",
       "tipo": "imagen"
     }
   ]

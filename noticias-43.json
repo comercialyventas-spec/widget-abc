@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Monstruos humanizados",
+      "link": "https://www.lavanguardia.com/television/20261121/11689684/monstruos-humanizados.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Séptima estrena 'Moncloa: Cuatro estaciones', la docuserie sobre la sede de la Presidencia del Gobierno",
+      "link": "https://www.lavanguardia.com/television/20261120/11689475/septima-estrena-moncloa-cuatro-estaciones-docuserie-sobre-sede-presidencia-gobierno.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/20/6b00976610c09.r_d.664-631-4490.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Pedro Sánchez analizará en 'Salvados' su debate con Feijóo",
+      "link": "https://www.lavanguardia.com/television/20261120/11689462/pedro-sanchez-analizara-salvados-debate-feijoo.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/20/6b0091f716417.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "'El Hormiguero' desvela a sus invitados de la próxima semana, esta vez sí con Jordi Wild",
       "link": "https://www.lavanguardia.com/television/20261120/11689425/hormiguero-desvela-invitados-proxima-semana-vez-jordi-wild.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/30/6ae3e51a815a3.jpeg",
@@ -16,24 +34,6 @@
       "titulo": "Las televisiones cercanas al PSOE superan a las del PP en el cara a cara entre Sánchez y Feijóo",
       "link": "https://www.lavanguardia.com/television/20261120/11688837/antena-3-supera-1-audiencia-debate-pedro-sanchez-nunez-feijoo.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/20/6afff09765687.r_d.2859-1510-1328.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Henar Álvarez anuncia el fin inesperado de 'Al cielo con ella': “No tiene que ver con las elecciones o la derecha”",
-      "link": "https://www.lavanguardia.com/television/20261120/11688847/henar-alvarez-anuncia-inesperado-cielo-ver-elecciones-derecha.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/04/06/69d3a842ce549.r_d.852-604-3040.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ángel Martín recuerda el brote psicótico que le cambió la vida: “Yo nunca tuve la sensación de que estuviese sucediendo nada raro”",
-      "link": "https://www.lavanguardia.com/television/20261119/11688540/angel-martin-recuerda-brote-psicotico-le-cambio-vida-nunca-tuve-sensacion-estuviese-sucediendo-raro.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/19/6aff4b7fe6d16.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Olvido Hormigos volverá a la televisión para desmentir a Belén Esteban",
-      "link": "https://www.lavanguardia.com/television/20261119/11688496/olvido-hormigos-volvera-television-desmentir-belen-esteban.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/19/6aff3b06210c0.r_d.1397-544-2245.jpeg",
       "tipo": "imagen"
     }
   ]

@@ -1,21 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "Bolsa e Ibex 35 hoy, en directo | El Nasdaq cae un 3,5% este viernes y el Ibex se hunde casi un 6% en su peor semana en ocho meses",
+      "titulo": "Feijóo celebra el éxito del debate, pero pide prudencia: \"Ayer pusimos a Sánchez ante el espejo de su corrupción y mala gestión\"",
+      "link": "https://www.elconfidencial.com/espana/2026-11-20/feijoo-sanchez-cara-a-cara-corrupcion_4469615/",
+      "imagen": "https://images.ecestaticos.com/Ktb8ViqsbEKn9WVtpMm3cY-X54E=/0x0:2272x1426/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2ed%2F934%2F06a%2F2ed93406ae9722f712b49312d6c5fc37.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Bolsa e Ibex 35 hoy, en directo | Colapso tecnológico en Wall Street: el Nasdaq se hunde un 5,28% con desplomes de Nvidia (-14%) y Anthropic (-9%)",
       "link": "https://www.elconfidencial.com/mercados/2026-11-20/bolsa-e-ibex-35-hoy-en-directo_4468923/",
       "imagen": "https://images.ecestaticos.com/5cx5f_Ts9xHDrYlD02frp85ue9I=/0x237:2272x1515/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fdec%2F63c%2F4ea%2Fdec63c4ea6802afa1ffa069db6698d52.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La SEC examina la contabilidad de Nvidia en su investigación sobre el fabricante de chips",
+      "link": "https://www.elconfidencial.com/empresas/2026-11-20/nvidia-auditoria-cuentas-jensen-huang_4469658/",
+      "imagen": "https://images.ecestaticos.com/vt-g64LaLuojUXrBB402L4bxcMc=/0x253:2272x1531/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbf8%2F8e7%2F2c4%2Fbf88e72c4f0957a4c8d1d2c11d049175.jpg",
       "tipo": "imagen"
     },
     {
       "titulo": "Los centros de datos llevarán a Aagesen a los tribunales y pedirán suspender su decreto",
       "link": "https://www.elconfidencial.com/empresas/2026-11-20/los-centros-de-datos-llevaran-a-aagesen-a-los-tribunales-y-pediran-suspender-su-decreto_4469474/",
       "imagen": "https://images.ecestaticos.com/8vzr-8zbdggTcIbFVxQZABxbr8I=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F440%2Fdd9%2Fa10%2F440dd9a10b26853cbf2f79a7e284c904.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El nombramiento de De Cos al BCE se retrasa por la insistencia del candidato neerlandés y podría forzar la votación",
-      "link": "https://www.elconfidencial.com/economia/2026-11-20/nombramiento-de-cos-bce-se-retrasa-knot-votacion-final_4469523/",
-      "imagen": "https://images.ecestaticos.com/84kYLvHW1pa7GM3bqU-sBp7ppE0=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F966%2Fe07%2F011%2F966e07011ac8912981c89d1bf16287e3.jpg",
       "tipo": "imagen"
     },
     {

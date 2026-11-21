@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Avisos por lluvias este sábado en las provincias de Zamora y Salamanca y en El Bierzo",
+      "link": "https://www.abc.es/espana/castilla-leon/avisos-lluvias-sabado-provincias-zamora-salamanca-bierzo-20261120201901-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/20/TORMENTAA-RWUUfgrnROwZkDcezwIX3LJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Ester Muñoz: «Están pidiendo a los españoles un voto para el 'perro', nosotros lo pedimos para un presidente»",
+      "link": "https://www.abc.es/espana/castilla-leon/ester-munoz-pidiendo-espanoles-voto-perro-pedimos-20261120200321-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/20/_03MAX202611758847-RELy7UfJ3Ca6TEqA9NCFIfL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ana Redondo y Lola Herrera suben el telón del miedo para hacer campaña",
       "link": "https://www.abc.es/espana/castilla-leon/ana-redondo-lola-herrera-suben-telon-miedo-20261120180152-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/20/RO_0196420112026-Rbjn9Psucnt7CIsEWdt9nAL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los psicólogos atienden 2.035 nuevos casos de violencia de género en los dos últimos años",
+      "link": "https://www.abc.es/espana/castilla-leon/psicologos-atienden-2035-nuevos-casos-violencia-genero-20261120130214-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/20/colegio-psicologos-RGzCWGWgWAQFUFpv9qj8UMJ-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "El Gobierno aprueba la planificación eléctrica hasta 2030 con una inversión de 667 millones en Castilla y León",
       "link": "https://www.abc.es/espana/castilla-leon/gobierno-aprueba-planificacion-electrica-2030-inversion-667-20261120171447-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/20/_02MAX202003472544-RDw7OvtMDCngCSliEyOyBEI-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mañueco afirma que Feijóo transmitió «liderazgo y proyecto» en el debate frente a un Sánchez «ausente»",
-      "link": "https://www.abc.es/espana/castilla-leon/manueco-sentencia-buena-gestion-solvencia-confianza-feijoo-20261120101124-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/20/debate-electoral-Rr10GEGftVv4oUmXUsml1oM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los psicólogos atienden 2.035 nuevos casos de violencia de género en los dos últimos años",
-      "link": "https://www.abc.es/espana/castilla-leon/psicologos-atienden-2035-nuevos-casos-violencia-genero-20261120130214-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/20/colegio-psicologos-RGzCWGWgWAQFUFpv9qj8UMJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Abascal busca recuperar el apoyo de Salamanca y conseguir un diputado por la provincia",
-      "link": "https://www.abc.es/espana/castilla-leon/abascal-busca-recuperar-apoyo-salamanca-conseguir-diputado-20261120165405-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/20/salamanca-vox2-RR7unZirCnP3zbSCY0VEbWO-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

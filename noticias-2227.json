@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Manifestación en zona Quintana. Afectadas 3 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261122-M-Jose-Hierro-Quintana.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Evento deportivo en Chamartín, Salamanca, Centro y Arganzuela. Afectadas 58 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261122-CR-Zara-Athleticz-Speed-Run.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -27,12 +33,6 @@
     {
       "titulo": "Obras: Ciclón. Afectada línea 105 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261123-O-Ciclon.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Manifestación en paseo del Robledal. Afectada línea 33 de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261122-M-Paseo-Robledal.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

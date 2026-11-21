@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El cara a cara",
+      "link": "https://www.eldiario.es/opinion/cara-cara_131_13682049.html",
+      "imagen": "https://static.eldiario.es/clip/eb70e9a3-e3f1-4a9d-9080-36640abc29ef_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Dos velas",
       "link": "https://www.eldiario.es/opinion/velas_131_13678775.html",
       "imagen": "https://static.eldiario.es/clip/8e8baa2e-dcdd-4590-844f-99e0d6ed47a3_16-9-discover-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Insoportable",
       "link": "https://www.eldiario.es/opinion/insoportable_131_13664720.html",
       "imagen": "https://static.eldiario.es/clip/ad341681-6f94-489c-a6de-9e6dd8fb9510_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Marlaska",
-      "link": "https://www.eldiario.es/opinion/marlaska_131_13660257.html",
-      "imagen": "https://static.eldiario.es/clip/10a1dfa9-1736-4b37-9105-be5343a49149_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

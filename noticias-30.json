@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "El vértigo de la IA en Estados Unidos: dos lecciones para Catalunya",
+      "link": "https://www.lavanguardia.com/vida/20261121/11689445/vertigo-ia-estados-unidos-dos-lecciones-catalunya.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un matemático afirma haber resuelto uno de los problemas más importantes del mundo con ayuda de la IA",
+      "link": "https://www.lavanguardia.com/vida/20261120/11689484/matematico-afirma-haber-resuelto-problemas-mas-importantes-mundo-ayuda-ia.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/20/6b0098ddf3a65.r_d.1003-394-2245.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Verificaciones del cara a cara entre Pedro Sánchez y Alberto Núñez Feijóo",
+      "link": "https://www.lavanguardia.com/vida/verificacion/20261120/11689467/verificaciones-cara-cara-pedro-sanchez-alberto-nunez-feijoo.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/19/6aff7f3ad56f7.r_d.389-268-4885.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La COP31 encalla en el desacuerdo para prescindir de los combustibles fósiles",
+      "link": "https://www.lavanguardia.com/vida/20261120/11689454/cop31-encalla-desacuerdo-prescindir-combustibles-fosiles.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/20/6b008edb27cda.r_d.463-252-4885.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Consumo alerta de la presencia de salmonella en unos huevos de Eroski",
       "link": "https://www.lavanguardia.com/vida/20261120/11689376/consumo-alerta-presencia-salmonella-huevos-eroski.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/07/6a9e827072808.jpeg",
@@ -10,30 +34,6 @@
       "titulo": "Italia aprueba la conducción autónoma de Tesla antes que España, Francia y Alemania",
       "link": "https://www.lavanguardia.com/vida/20261120/11689366/italia-aprueba-conduccion-autonoma-tesla-espana-francia-alemania.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/20/6b006fa298460.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La conferencia del clima, una cumbre con spoiler",
-      "link": "https://www.lavanguardia.com/vida/20261120/11689303/cop31-cumbre-spoiler.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/17/6afcc96c2884d.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La impresora 3D leridana que diseña piezas con la voz llega a México, Portugal y Polonia",
-      "link": "https://www.lavanguardia.com/vida/20261120/11689225/impresora-3d-leridana-disena-piezas-voz-llega-mexico-portugal-polonia.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/20/6b00444bae8ac.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Más del 76% de los hogares europeos no tiene niños",
-      "link": "https://www.lavanguardia.com/vida/20261120/11689184/mas-76-hogares-europeos-ninos.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/05/16/6645cb5967957.r_d.626-427-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Por qué es importante votar?",
-      "link": "https://www.lavanguardia.com/vida/junior-report/20261120/11689179/importante-votar.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/20/6b003b6965072.jpeg",
       "tipo": "imagen"
     }
   ]
