@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "Encendido luces de Navidad de Madrid hoy: a qué hora es, calles iluminadas, dónde están los árboles y los belenes",
+      "titulo": "A qué hora se encienden las luces de Navidad de Madrid y dónde están las calles iluminadas, árboles y belenes",
       "link": "https://www.abc.es/espana/madrid/encendido-luces-navidad-madrid-hoy-hora-calles-arboles-belenes-20261121053000-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/17/aredfsv-kJw-U40410087050LnB-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Real Madrid afirma que no existe «ningún impedimento legal» para celebrar conciertos en el Bernabéu",
+      "link": "https://www.abc.es/espana/madrid/real-madrid-afirma-existe-ningun-impedimento-legal-20261121152426-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/21/1484030163-khiG-U40471174250NXD-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Planetario: 40 años acercando Madrid al cielo",
+      "link": "https://www.abc.es/espana/madrid/planetario-anos-acercando-madrid-cielo-20261120134035-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/20/1520521728-RPE23j87iJVqEIatRZBYhQM-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "'Circo Price en Navidad', risas y acrobacias desde los confines del mundo",
       "link": "https://www.abc.es/espana/madrid/circo-price-navidad-risas-acrobacias-confines-mundo-20261120014753-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/20/1-circo-26-RM9BFRs0oZlteVOFI8DcUGI-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Recorrido Zara Speed Run 2026 Madrid kilómetro a kilómetro, horario por oleadas y calles cortadas al tráfico",
-      "link": "https://www.abc.es/espana/madrid/recorrido-zara-speed-run-2026-madrid-kilometro-20261120184009-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/20/zara-speed-run-kKYG-U40460809424JbG-1200x840@diario_abc.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Madrid se blinda por Navidad: hasta 800 policías municipales, control de aforos y drones",
-      "link": "https://www.abc.es/espana/madrid/madrid-blinda-navidad-800-policias-municipales-control-20261120125047-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/20/1503309686-RckF9dlrvJ5g1B8Y0qv68wM-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

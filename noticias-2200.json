@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Análisis electoral de Marisa Goñi",
+      "link": "https://www.elperiodico.com/es/videos/opinion/analisis-electoral-marisa-goni/136697923.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/14958571-6350-481d-8cb4-69fe0a27d244_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Análisis electoral de Toni Cabot",
       "link": "https://www.elperiodico.com/es/videos/opinion/analisis-electoral-toni-cabot/136687391.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f46aae6c-2744-459d-b8ab-9df5f603551a_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Análisis electoral de Isabel Morillo",
       "link": "https://www.elperiodico.com/es/videos/opinion/analisis-electoral-isabel-morillo/136562497.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b8e0465c-d5eb-4a62-8a45-988c93b1d1cc_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El análisis electoral de Daniel Domínguez",
-      "link": "https://www.elperiodico.com/es/videos/opinion/analisis-electoral-daniel-dominguez/136543859.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/41a4330e-0dac-4c11-ab7b-59a3540c6030_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Apple anuncia ofertas de Black Friday y una vía de ahorro al renovar dispositivos",
+      "link": "https://www.elperiodico.com/es/tecnologia/20261121/apple-anuncia-ofertas-black-friday-136693961",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/cabd3c65-ae41-496d-958d-a8604d93febd_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Oppo lanza el Watch 5, un reloj orientado al pádel, al entrenamiento y al control del bienestar",
+      "link": "https://www.elperiodico.com/es/tecnologia/20261121/oppo-lanza-watch-5-reloj-precio-136692657",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6339c3ec-6aca-4a96-a964-ed13880059f3_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Recomendaciones: Cinco claves para convivir con perros y gatos sin renunciar a una casa impecable",
       "link": "https://www.elperiodico.com/es/tecnologia/20261121/recomendaciones-cinco-claves-convivir-mascotas-136692110",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7c421f61-283a-471b-a5d5-12ed59be9043_media-libre-aspect-ratio_default_0.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Un matemático de Anthropic asegura haber resuelto con IA el problema más famoso de cálculo, la hipótesis de Riemann",
       "link": "https://www.elperiodico.com/es/tecnologia/20261121/matematico-anthropic-asegura-haber-resuelto-problema-matematicas-hipotesis-riemann-136687524",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/aa90cc96-7d42-48cf-a605-a5314f7f856c_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las plataformas digitales se preparan para mitigar la desinformación sobre las elecciones del 29-N",
-      "link": "https://www.elperiodico.com/es/politica/20261121/plataformas-preparan-mitigar-desinformacion-propaganda-ia-elecciones-espana-sanchez-feijoo-136657712",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b2fd803c-ee6b-4576-92df-b43a23479901_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mova Z60 Ultra Roller Complete: el robot que aspira, friega y se encarga de sí mismo",
-      "link": "https://www.elperiodico.com/es/tecnologia/20261120/mova-z60-ultra-roller-complete-136655110",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/e73579f7-eccb-4461-8401-2422322c49b9_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

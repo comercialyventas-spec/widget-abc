@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "Investigan un ciberataque a la base de datos criminales del FBI",
-      "link": "https://www.abc.es/internacional/investigan-cibertataque-base-datos-criminales-fbi-20261121080221-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/21/fbi-kRg-U40467368597HBG-1200x840@diario_abc.jpg",
+      "titulo": "Hallan muerto a Gianni de Gennaro, exjefe de la Policía investigado por el atentado contra Borsellino",
+      "link": "https://www.abc.es/internacional/hallan-muerto-gianni-gennaro-exjefe-policia-investigado-20261121155911-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/21/1520604856-kaKD-U40471409760L0G-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La captura en México de un narco buscado por el FBI desata la violencia en Sinaloa",
+      "link": "https://www.abc.es/internacional/captura-capo-buscado-fbi-desata-terror-sinaloa-20261120153639-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/20/mexico-R6fBnHlQ6qiYuRr8UQ0kzTK-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Europa se vuelca con Dinamarca tras el intento de asesinato de un rapero ucraniano por parte de Rusia",
+      "link": "https://www.abc.es/internacional/europa-vuelca-dinamarca-tras-intento-asesinato-rapero-20261121134246-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/21/Rapero-ktP-U404698304756X-1200x840@diario_abc.JPG",
       "tipo": "imagen"
     },
     {
@@ -13,27 +25,15 @@
       "tipo": "imagen"
     },
     {
+      "titulo": "Investigan un ciberataque a la base de datos criminales del FBI",
+      "link": "https://www.abc.es/internacional/investigan-cibertataque-base-datos-criminales-fbi-20261121080221-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/21/fbi-kRg-U40467368597HBG-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El islam será la religión con más fieles del mundo en 2035",
       "link": "https://www.abc.es/internacional/islam-religion-fieles-mundo-dentro-diez-anos-20261120022034-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/20/musulmanes-rezando-italia-ReN0WFhGENzV7KsVgrGrg6L-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La UE y el Reino Unido sellan su acercamiento para empezar a revertir el Brexit",
-      "link": "https://www.abc.es/internacional/ue-vuelca-atraer-regreso-reino-unido-decada-20261120140613-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/20/1520559216-RsQL4Ju5HrIS8LAtBEvmrWP-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "«Voy a mear en tu cerebro»: el liderazgo de Jensen Huang en Nvidia, a golpe de insulto",
-      "link": "https://www.abc.es/internacional/mear-cerebro-liderazgo-jensen-huang-nvidia-golpe-20261120224110-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/20/1520227264--758x531.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Dos menores roban un autobús para imitar el 'GTA VI' y acaban accidentados en una zanja",
-      "link": "https://www.abc.es/internacional/dos-menores-roban-autobus-imitar-gta-acaban-20261120221312-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/20/Polizia-kp7C-U40463945602VDD-1200x840@diario_abc.JPG",
       "tipo": "imagen"
     }
   ]
