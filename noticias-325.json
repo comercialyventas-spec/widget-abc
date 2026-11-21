@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Restaurantes que llevan al huerto, y que van del huerto a la mesa",
+      "link": "https://www.abc.es/gastronomia/restaurantes-llevan-huerto-van-huerto-mesa-20261121185029-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/11/21/ANGELITA%20HUERTA_2026-RLTEjgCWcmtfAlu2aCunNvK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Em Sherif, una aproximación libanesa",
       "link": "https://www.abc.es/gastronomia/sherif-aproximacion-libanesa-20261120123528-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/11/20/Comedor-RMAPzl3lCuYkZsbxfypvazM-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Un queso francés de montaña es el mejor del mundo",
       "link": "https://www.abc.es/gastronomia/queso-frances-montana-nuevo-mejor-mundo-20261113115430-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/11/13/representante-queseria-mejor-queso-2026-Rj9GdBI2Jfgcwy0zldPCOvM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Vandelvira, alta cocina de proximidad",
-      "link": "https://www.abc.es/gastronomia/vandelvira-alta-cocina-proximidad-20261113105915-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gastronomia/2026/11/13/Barra-cocina-RcMC7OTxYWkbbnvuw7FWlWK-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

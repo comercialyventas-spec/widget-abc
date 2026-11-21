@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El Gobierno español fija multas de hasta 60 millones para los centros de datos que incumplan la normativa",
+      "link": "https://www.elperiodico.com/es/tecnologia/20261121/centros-de-datos-multas-gobierno-espanol-normativa-consejo-de-ministros-136704153",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/71637361-90ac-4254-9b1d-389622e43b53_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los relojes Huawei entran en el Black Friday: salud, deporte y diseño con descuentos de hasta el 25%",
+      "link": "https://www.elperiodico.com/es/tecnologia/20261121/relojes-huawei-entran-black-friday-136700232",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/bd811895-f8fa-4056-a52a-7624690f4e97_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Apple anuncia ofertas de Black Friday y una vía de ahorro al renovar dispositivos",
       "link": "https://www.elperiodico.com/es/tecnologia/20261121/apple-anuncia-ofertas-black-friday-136693961",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/cabd3c65-ae41-496d-958d-a8604d93febd_media-libre-aspect-ratio_default_0.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Pikachu y Eevee se instalan en el escritorio con la nueva colección gaming de Razer",
       "link": "https://www.elperiodico.com/es/tecnologia/20261121/pikachu-eevee-escritorio-personalizado-precio-136690574",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2faf60db-a955-4418-b153-42922945a29d_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La inteligencia artificial cambia el Black Friday: el 55% de los españoles la utilizará para encontrar descuentos",
-      "link": "https://www.elperiodico.com/es/economia/20261121/black-friday-espanoles-utilizaran-inteligencia-encontrar-artificial-descuentos-136623319",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/c314b609-9cd6-48d8-9c4e-e8e79ba34d57_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un matemático de Anthropic asegura haber resuelto con IA el problema más famoso de cálculo, la hipótesis de Riemann",
-      "link": "https://www.elperiodico.com/es/tecnologia/20261121/matematico-anthropic-asegura-haber-resuelto-problema-matematicas-hipotesis-riemann-136687524",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/aa90cc96-7d42-48cf-a605-a5314f7f856c_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

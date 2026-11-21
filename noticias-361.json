@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Jair Bolsonaro, ingresado en la UCI por una obstrucción abdominal",
+      "link": "https://www.elconfidencial.com/mundo/2026-11-21/bolsonaro-cuidados-intensivos-obstruccion-abdominal-haspital-brasiia-1tps_4469936/",
+      "imagen": "https://images.ecestaticos.com/mMxH9Fpr56zce-DKL-OujBWDhyA=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F861%2F0da%2Fed6%2F8610daed64c9b7c9feb04eed73aff08e.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "México captura a 'El Chapo Isidro', uno de los fugitivos más buscados por EEUU",
+      "link": "https://www.elconfidencial.com/mundo/2026-11-21/mexico-captura-el-chapo-isidro-fugitivos-mas-buscados-por-eeuu_4469855/",
+      "imagen": "https://images.ecestaticos.com/DUjl99ZEX01RNLpSI_ie5pPvvYE=/0x0:2249x1265/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Faa5%2F3cf%2F475%2Faa53cf47527f39305da19a5777a0bbb0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Daniel Brunner, ex FBI, sobre los acuerdos con los acusados: \"Si quiere declararse culpable, te damos 15 años en vez de 30. Si testifica, te damos 5\"",
+      "link": "https://www.elconfidencial.com/mundo/2026-11-21/daniel-brunner-fbi-acuerdos-acusados_4468092/",
+      "imagen": "https://images.ecestaticos.com/bNsmqOt2BYJcpQtHdrAkl09vgFU=/0x112:2272x1390/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F70d%2Fd89%2F77d%2F70dd8977db64d93b7e0d114cb7dc6c0d.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ucrania ataca con drones un carguero ruso en aguas internacionales del golfo de Finlandia",
       "link": "https://www.elconfidencial.com/mundo/2026-11-21/ucrania-ataca-drones-carguero-ruso-aguas-internacionales-golfo-de-finlandia_4469805/",
       "imagen": "https://images.ecestaticos.com/QIdq_3KMn0nlKlPXBkFleknxgI4=/0x0:2272x1278/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F03d%2Fead%2Faea%2F03deadaea2c59a17862cb26fc741dbf7.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Un nuevo ataque ruso con misiles balísticos y drones deja al menos dos muertos en el sureste de Ucrania",
       "link": "https://www.elconfidencial.com/mundo/2026-11-21/ataque-misiles-rusos-krivo-rog-1tna-1tps_4469688/",
       "imagen": "https://images.ecestaticos.com/eUVQYABwMavyp4s4ArlbYOEvMqc=/0x0:1600x1067/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc3a%2Fe34%2F8f6%2Fc3ae348f611338f8bac53c7347e6747c.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El FBI investiga un nuevo ataque informático contra su base de datos nacional, según la CNN",
-      "link": "https://www.elconfidencial.com/mundo/2026-11-21/fbi-investiga-intrusion-informatica-ncic-1tps_4469678/",
-      "imagen": "https://images.ecestaticos.com/lc5WBFfSnG0AJ2O6bMfJIy9l74c=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F11d%2F443%2Ff66%2F11d443f668ca2784d147812637205c68.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Por qué Xi y Putin siempre le ganan a Trump",
-      "link": "https://www.elconfidencial.com/mundo/2026-11-21/xi-jinping-putin-siempre-ganan-trump_4469541/",
-      "imagen": "https://images.ecestaticos.com/x8AzKmCE6p1RCtTPqAsKeLyJD1c=/0x124:2272x1402/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F481%2Ff7f%2F22d%2F481f7f22d49211a7eaa9f11b39755fe2.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una 'megacárcel' explica el problema latinoamericano: por qué el 'bukelismo' es ya un emblema político",
-      "link": "https://www.elconfidencial.com/mundo/2026-11-21/bukele-el-cecot-y-el-revivir-del-caudillo-tutelado-en-america-latina_4466962/",
-      "imagen": "https://images.ecestaticos.com/tOCjgHSKJjfyZ_JFAJxoDfSInOw=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2e6%2Fbe6%2F843%2F2e6be68430c7da6c4bc3c8481a996802.jpg",
       "tipo": "imagen"
     }
   ]

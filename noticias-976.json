@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "BUNDESLIGA: escuche el partido FC Schalke 04 vs. VfB Stuttgart",
+      "link": "https://www.dw.com/es/bundesliga-escuche-el-partido-fc-schalke-04-vs-vfb-stuttgart/a-80010680",
+      "imagen": "https://static.dw.com/image/79994478_6.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Secuestro de niños como arma de guerra: el sistema de Hitler y Putin",
+      "link": "https://www.dw.com/es/secuestro-de-niños-como-arma-de-guerra-el-sistema-de-hitler-y-putin/a-80009054",
+      "imagen": "https://static.dw.com/image/80003412_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Drones ucranianos atacan carguero ruso en el golfo de Finlandia",
       "link": "https://www.dw.com/es/drones-ucranianos-atacan-carguero-ruso-en-el-golfo-de-finlandia/a-80009849",
       "imagen": "https://static.dw.com/image/79928706_6.jpg",
@@ -22,18 +34,6 @@
       "titulo": "La COP31 busca acuerdos en el tiempo en cumbre de Turquía",
       "link": "https://www.dw.com/es/la-cop31-busca-acuerdos-en-el-tiempo-en-cumbre-de-turquía/a-80008841",
       "imagen": "https://static.dw.com/image/79999578_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Incendio en Irak deja al menos 4 muertos y 35 heridos",
-      "link": "https://www.dw.com/es/incendio-en-irak-deja-al-menos-4-muertos-y-35-heridos/a-80008442",
-      "imagen": "https://static.dw.com/image/80008645_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Quién habla por Europa en la guerra de Ucrania... y quién no?",
-      "link": "https://www.dw.com/es/¿quién-habla-por-europa-en-la-guerra-de-ucrania-y-quién-no/a-80007113",
-      "imagen": "https://static.dw.com/image/79943441_6.jpg",
       "tipo": "imagen"
     }
   ]

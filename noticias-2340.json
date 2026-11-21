@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "La oferta de alquiler no alcanza las 30 viviendas en 12 capitales españolas",
+      "link": "https://www.zamora24horas.com/nacional/oferta-alquiler-alcanza-30-viviendas-12-capitales-espanolas",
+      "imagen": "https://statics.zamora24horas.com/c56df49d-a8b8-403e-bf82-cf154f51675f.webp?format=webp&width=1200&quality=75",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La lluvia causa estragos en Zamora: provoca un derrumbe y moviliza a los servicios de emergencia",
+      "link": "https://www.zamora24horas.com/sucesos/lluvia-causa-estragos-zamora-provoca-derrumbe-moviliza-servicios-emergencia",
+      "imagen": "https://statics.zamora24horas.com/bc6da5b0-ad9a-4ac4-b2e5-6515174ffd52.webp?format=webp&width=1200&quality=75",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Más de 2.000 agricultores y ganaderos zamoranos reciben un nuevo anticipo de la PAC",
+      "link": "https://www.zamora24horas.com/campo/2-00-agricultores-ganaderos-zamoranos-reciben-nuevo-anticipo-pac",
+      "imagen": "https://statics.zamora24horas.com/01cdc971-bdaf-4401-b114-0128c887c048.webp?format=webp&width=1200&quality=75",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un corte de tráfico en Zamora, suspendido por las previsiones de lluvia",
       "link": "https://www.zamora24horas.com/local/corte-trafico-zamora-suspendido-previsiones-lluvia",
       "imagen": "https://statics.zamora24horas.com/e5c8e8c0-9991-4bfa-97ad-395a9bbe61da.webp?format=webp&width=1200&quality=75",
@@ -16,24 +34,6 @@
       "titulo": "Más del 25% de los trabajadores de Castilla y León cobra de empresas con sede fuera de la Comunidad",
       "link": "https://www.zamora24horas.com/castilla-y-leon/25-trabajadores-castilla-leon-cobra-empresas-sede-fuera-comunidad",
       "imagen": "https://statics.zamora24horas.com/48042a8d-acbe-402d-bb8e-3a978643c02e.webp?format=webp&width=1200&quality=75",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Junta convoca 873 plazas de personal laboral fijo en 18 procesos selectivos",
-      "link": "https://www.zamora24horas.com/castilla-y-leon/junta-convoca-873-plazas-personal-laboral-fijo-18-procesos-selectivos",
-      "imagen": "https://statics.zamora24horas.com/7793ea59-8aa2-44ee-89cb-e3701c733384.webp?format=webp&width=1200&quality=75",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Ayuntamiento de Zamora recibe a los participantes en el XX Encuentro de Divulgadores de Ciencia",
-      "link": "https://www.zamora24horas.com/local/ayuntamiento-zamora-recibe-participantes-xx-encuentro-divulgadores-ciencia",
-      "imagen": "https://statics.zamora24horas.com/2078ebee-d44b-45ca-a0ba-8d2edffaf0a8.webp?format=webp&width=1200&quality=75",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "\"Niegan que exista desigualdad, y es evidente que existe\": el PSOE de Zamora pide el voto \"para que las mujeres sigan teniendo sus derechos\"",
-      "link": "https://www.zamora24horas.com/local/niegan-exista-desigualdad-es-evidente-existe-psoe-zamora-pide-voto-para-mujeres-sigan-teniendo-derechos",
-      "imagen": "https://statics.zamora24horas.com/5a96008e-5d03-4e8a-9c91-ee4c02f045ea.webp?format=webp&width=1200&quality=75",
       "tipo": "imagen"
     }
   ]

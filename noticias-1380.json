@@ -1,18 +1,6 @@
 {
   "noticias": [
     {
-      "titulo": "Cultura gastronómica de posguerra",
-      "link": "https://elpais.com/eps/2026-11-21/cultura-gastronomica-de-posguerra.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/PW6WJ5UJ7NE6PD56XJZCOZ4WLI.jpg?auth=f5b443d3f81e7f1b1d20ab35450140541b1d9dd8cbb8d735eb7e66e126877809",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Rubia gallega, la carne más deseada de España: por qué está desapareciendo",
-      "link": "https://elpais.com/eps/2026-11-21/rubia-gallega-la-carne-mas-deseada-de-espana-por-que-esta-desapareciendo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/5RFH72RG45ETXHNOCCUIE4W4MI.jpg?auth=d16307bc7bebde627ab5024405ed94aedac1be77a9e265d554aa323526883eb8",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Un día sin café no es del todo un día",
       "link": "https://elpais.com/eps/2026-11-21/un-dia-sin-cafe-no-es-del-todo-un-dia.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/IQFYOJ7XTBHQPNZ4QOUIS5Z7SI.jpg?auth=ad7ccabced39a7cee59a3e856c2486f6964d2af2a37ac26093a77739e458e4ec",
@@ -34,6 +22,18 @@
       "titulo": "Los fermentos mexicanos irrumpen en la coctelería",
       "link": "https://elpais.com/eps/2026-11-20/los-fermentos-mexicanos-irrumpen-en-la-cocteleria.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/F5T6SFHPLFFZRF2T57JZCWWIKE.jpg?auth=65512a3be2acea75212e5d7845f34db8d51af531d48a0daf81243e4b8382d70b",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Especial Gastro, este domingo en ‘El País Semanal’",
+      "link": "https://elpais.com/eps/2026-11-20/especial-gastro-este-domingo-en-el-pais-semanal.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/IQTC33CL6FHCJHLC5OXRE2DVMM.jpg?auth=f33f073a9fc4261a6ce3d0f587717ddef31d3f9530fd345c93daa4a9820f852e",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Tamar Adler: “La cocina es un buen lugar donde practicar cómo quieres ser”",
+      "link": "https://elpais.com/eps/2026-11-19/tamar-adler-la-cocina-es-un-buen-lugar-donde-practicar-como-quieres-ser.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/JOK76RBQQNFSVCPWXBMANCEG2A.jpg?auth=61eec2cbbb1e13f5f634aeab434641fd26f7489a2859c74dc37c7864107b1239",
       "tipo": "imagen"
     }
   ]

@@ -1,15 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "Hallan muerto a Gianni de Gennaro, exjefe de la Policía investigado por el atentado contra Borsellino",
+      "titulo": "La captura en México de un narco buscado por el FBI desata la violencia en Sinaloa",
+      "link": "https://www.abc.es/internacional/captura-capo-buscado-fbi-desata-terror-sinaloa-20261120153639-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/20/mexico_20261121194420-R6fBnHlQ6qiYuRr8UQ0kzTK-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Hallan muerto a Gianni de Gennaro, exjefe de la Policía italiana investigado por el atentado contra Borsellino",
       "link": "https://www.abc.es/internacional/hallan-muerto-gianni-gennaro-exjefe-policia-investigado-20261121155911-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/21/1520604856-kaKD-U40471409760L0G-1200x840@diario_abc.JPG",
       "tipo": "imagen"
     },
     {
-      "titulo": "La captura en México de un narco buscado por el FBI desata la violencia en Sinaloa",
-      "link": "https://www.abc.es/internacional/captura-capo-buscado-fbi-desata-terror-sinaloa-20261120153639-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/20/mexico-R6fBnHlQ6qiYuRr8UQ0kzTK-1200x840@diario_abc.JPG",
+      "titulo": "Jean Monnet en Downing Street",
+      "link": "https://www.abc.es/internacional/jean-monnet-downing-street-20261121171659-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/21/burnham-R1MW1RIqr6SPYPkiNaxE59H-1200x840@diario_abc.JPG",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Investigan un ciberataque a la base de datos criminales del FBI",
       "link": "https://www.abc.es/internacional/investigan-cibertataque-base-datos-criminales-fbi-20261121080221-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/21/fbi-kRg-U40467368597HBG-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El islam será la religión con más fieles del mundo en 2035",
-      "link": "https://www.abc.es/internacional/islam-religion-fieles-mundo-dentro-diez-anos-20261120022034-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/20/musulmanes-rezando-italia-ReN0WFhGENzV7KsVgrGrg6L-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
