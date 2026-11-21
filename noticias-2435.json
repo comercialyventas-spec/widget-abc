@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El Nasdaq se desploma un 5,28 % en un durísimo viernes para el sector tecnológico",
+      "link": "https://www.rtve.es/noticias/20261121/nasdaq-se-desploma-528-durisimo-viernes-para-sector-tecnologico/17324564.shtml",
+      "imagen": "https://img.rtve.es/imagenes/nasdaq-se-desploma-528-durisimo-viernes-para-sector-tecnologico/01795217700843.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Gobierno aprueba una inversión récord en la red eléctrica hasta 2030 y el decreto que regula los centros de datos",
       "link": "https://www.rtve.es/noticias/20261120/gobierno-inversion-record-red-electrica-centros-datos/17323152.shtml",
       "imagen": "https://img.rtve.es/imagenes/gobierno-inversion-record-red-electrica-centros-datos/01795177780236.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La Comisión Europea confirma que sufrió un ciberataque con IA el 22 de octubre",
       "link": "https://www.rtve.es/noticias/20261119/comision-europea-ciberataque-inteligencia-artificial-22-octubre/17321723.shtml",
       "imagen": "https://img.rtve.es/imagenes/comision-europea-ciberataque-inteligencia-artificial-22-octubre/01795095498138.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La crítica elogia al videojuego GTA VI, que se queda a las puertas de la puntuación perfecta",
-      "link": "https://www.rtve.es/noticias/20261119/critica-elogia-videojuego-gta-puntuacion-perfecta/17320343.shtml",
-      "imagen": "https://img.rtve.es/imagenes/critica-elogia-videojuego-gta-puntuacion-perfecta/01795084952592.jpg",
       "tipo": "imagen"
     }
   ]
