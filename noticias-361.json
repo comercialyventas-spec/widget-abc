@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "El FBI investiga un nuevo ataque informático contra su base de datos nacional, según la CNN",
+      "link": "https://www.elconfidencial.com/mundo/2026-11-21/fbi-investiga-intrusion-informatica-ncic-1tps_4469678/",
+      "imagen": "https://images.ecestaticos.com/lc5WBFfSnG0AJ2O6bMfJIy9l74c=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F11d%2F443%2Ff66%2F11d443f668ca2784d147812637205c68.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Por qué Xi y Putin siempre le ganan a Trump",
       "link": "https://www.elconfidencial.com/mundo/2026-11-21/xi-jinping-putin-siempre-ganan-trump_4469541/",
       "imagen": "https://images.ecestaticos.com/x8AzKmCE6p1RCtTPqAsKeLyJD1c=/0x124:2272x1402/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F481%2Ff7f%2F22d%2F481f7f22d49211a7eaa9f11b39755fe2.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "De neveras a bases militares: el aumento de los ataques híbridos iraníes en Europa",
+      "link": "https://www.elconfidencial.com/mundo/2026-11-21/de-neveras-a-bases-militares-el-aumento-de-los-ataques-hibridos-iranies-en-europa_4469441/",
+      "imagen": "https://images.ecestaticos.com/mEysVYs0q-ESSWs_VFRnKpgh6PA=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3f3%2Fd2c%2F050%2F3f3d2c0508e6264d755c87dd61ea4cab.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Una 'megacárcel' explica el problema latinoamericano: por qué el 'bukelismo' es ya un emblema político",
+      "link": "https://www.elconfidencial.com/mundo/2026-11-21/bukele-el-cecot-y-el-revivir-del-caudillo-tutelado-en-america-latina_4466962/",
+      "imagen": "https://images.ecestaticos.com/tOCjgHSKJjfyZ_JFAJxoDfSInOw=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2e6%2Fbe6%2F843%2F2e6be68430c7da6c4bc3c8481a996802.jpg",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "Reino Unido y la UE cierran un acuerdo para suavizar el Brexit (con un pero)",
       "link": "https://www.elconfidencial.com/mundo/2026-11-20/reino-unido-y-la-ue-cierran-un-acuerdo-para-suavizar-el-brexit-con-un-pero_4469171/",
       "imagen": "https://images.ecestaticos.com/T41t3oGHRIY22A_Yxz-VXz2O3Qs=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F564%2F47b%2Fc5d%2F56447bc5d8e0c96cc37dc3fda9a40308.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Dos misiles rusos caen en territorio polaco y Varsovia lo tilda de \"provocación\"",
-      "link": "https://www.elconfidencial.com/mundo/2026-11-20/misiles-rusos-polonia-ataque-ucrania-1tps_4469142/",
-      "imagen": "https://images.ecestaticos.com/JkBzjR9NIAJ2iXPdBsjPnfelYU8=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F490%2Fe2e%2F05e%2F490e2e05e2566fb70b94afefeeb68256.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Al menos ocho muertos en el ataque ruso con misiles y drones contra Ucrania",
-      "link": "https://www.elconfidencial.com/mundo/2026-11-20/ataque-ruso-ucrania-kiev-1tps_4469076/",
-      "imagen": "https://images.ecestaticos.com/9Y3KBBPNCgAQKr0L0VU0D5AwpPc=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F07b%2F0ba%2Fe35%2F07b0bae355a1b76a037cac3715a613ec.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "EEUU nombra a una nueva directora nacional de Ciberseguridad tras la cadena de fallos técnicos",
-      "link": "https://www.elconfidencial.com/mundo/2026-11-20/eeuu-directora-ciberseguridad-fallos-tecnicos-1tps_4468944/",
-      "imagen": "https://images.ecestaticos.com/C84LvymXTzUSob7MFoLcxzUK-30=/0x0:1200x820/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4ea%2F55d%2F1fd%2F4ea55d1fd217db54a9b63e2a1d0188f2.jpg",
       "tipo": "imagen"
     }
   ]

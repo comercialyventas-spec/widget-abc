@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Un matemático de Anthropic asegura haber resuelto el problema más famoso de cálculo con IA",
+      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-11-21/hipotesis-riemann-inteligencia-artificial-1tps_4469680/",
+      "imagen": "https://images.ecestaticos.com/zPR_Lpf5I8csbFFQIFvKedpQG0Y=/0x0:1832x1110/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fca5%2F4c1%2F39f%2Fca54c139f26e48b595e560c82874e55d.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Nueva historia del oxígeno en la Tierra: clave para encontrar vida en otros planetas",
+      "link": "https://www.elconfidencial.com/tecnologia/novaceno/2026-11-21/nueva-historia-del-oxigeno-en-la-tierra_4468779/",
+      "imagen": "https://images.ecestaticos.com/u1B8VUbq1ll514tjbkt_dTjj_c0=/0x0:1041x781/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbf9%2Fad8%2Fe5b%2Fbf9ad8e5bf29c1a4136fb0d21e39983d.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El éxito de la primera misión europea al planeta más inexplorado de nuestro sistema solar depende de una pieza vasca",
+      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-11-21/exito-primera-mision-europea-mercurio-bepicolombo-depende-pieza-vasca_4468919/",
+      "imagen": "https://images.ecestaticos.com/AVP2aP2uQJwUTlTejwYWhOBs_a0=/0x137:2272x1277/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb92%2F078%2Fab9%2Fb92078ab90ba0e6b0fb5675627905494.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un satélite diseñado y operado por Open Cosmos posibilita la primera conexión 5G directa vía satélite de Europa",
       "link": "https://www.elconfidencial.com/tecnologia/2026-11-20/conexion-5g-satelite-regenerativo-europa-1hms-1svm_4469370/",
       "imagen": "https://images.ecestaticos.com/HrU3J6e3LvUxrQ-npxKq7zIaeF4=/0x0:1200x793/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc06%2Fe64%2F8f8%2Fc06e648f8cb47cde99e862c2da7e4d69.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Analizan el ADN de las chinches y dictan sentencia: los humanos somos responsables de que sigan existiendo",
       "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-11-20/adn-chinches-existen-culpa-humanos-1qrt_4385647/",
       "imagen": "https://images.ecestaticos.com/ukzNm3ahI1OUPNPn2vCc6YEpaOs=/0x0:1600x961/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ffbc%2F3e2%2Ff63%2Ffbc3e2f63f838aa810dedc6883efc3df.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "En 2003, un astronauta chino en el espacio escuchó un ruido 'imposible': dos décadas después, la ciencia sigue buscando explicaciones",
-      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-11-20/astronauta-chino-2003-ruido-inexplicable-1qrt_4207783/",
-      "imagen": "https://images.ecestaticos.com/1ZyGaPYpvPCtEE82mU9H0uPtPn0=/0x0:1676x1044/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe1a%2F343%2F058%2Fe1a34305842edda4f3e2f75350df88d8.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Reino Unido estudia un volcán activo del Caribe y encuentra un auténtico tesoro a 2 km de profundidad",
-      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-11-20/reino-unido-volcan-activo-caribe-tesoro-2-km-profundidad-1qrt_4411178/",
-      "imagen": "https://images.ecestaticos.com/NVYIoqrjnQvJk2XegL8vmPi2XiA=/0x0:2112x1246/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F892%2F08f%2F75e%2F89208f75e734e151eb11dc91713b3c1c.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Elon Musk, fundador de SpaceX: \"Me siento bastante tonto por haber gastado tanto dinero sin obtener resultados\"",
-      "link": "https://www.elconfidencial.com/tecnologia/2026-11-20/elon-musk-eeuu-tonto-gasto-dinero-elecciones-1qrt_4468985/",
-      "imagen": "https://images.ecestaticos.com/sC6w9PnJDXrboXkkNlTdRS81wU0=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F510%2F6c2%2Fed2%2F5106c2ed27e4668a458bf93ed2977580.jpg",
       "tipo": "imagen"
     }
   ]

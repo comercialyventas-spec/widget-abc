@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "La madre de todas las lenguas",
+      "link": "https://www.lavanguardia.com/cultura/20261121/11689553/madre-todas-lenguas.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Disparen, disparen. Total, solo somos usuarios",
+      "link": "https://www.lavanguardia.com/local/barcelona/20261121/11689104/disparen-disparen-total-usuarios.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/17/6afc561678f1e.r_d.2660-1773-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "No saben conducir",
+      "link": "https://www.lavanguardia.com/local/barcelona/20261121/11689063/conducir.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Responsabilidad ante la crisis climática",
       "link": "https://www.lavanguardia.com/opinion/20261121/11689509/responsabilidad-crisis-climatica.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Las nieblas de Waterloo",
       "link": "https://www.lavanguardia.com/opinion/20261121/11689437/nieblas-waterloo.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/04/6aea6c2cd73cb.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Podría ganar la izquierda?",
-      "link": "https://www.lavanguardia.com/opinion/20261121/11689350/ganar-izquierda.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/20/6b0069b30f9b8.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las carteristas",
-      "link": "https://www.lavanguardia.com/opinion/20261121/11689343/carteristas.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2022/09/22/632c8cb98a455.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La falsa superioridad moral del embudo",
-      "link": "https://www.lavanguardia.com/opinion/20261121/11689342/falsa-superioridad-moral-embudo.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/20/6b0069e8c06b7.jpeg",
       "tipo": "imagen"
     }
   ]

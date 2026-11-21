@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Análisis electoral de Toni Cabot",
+      "link": "https://www.elperiodico.com/es/videos/opinion/analisis-electoral-toni-cabot/136687391.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f46aae6c-2744-459d-b8ab-9df5f603551a_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Análisis electoral de Rogelio Garrido",
       "link": "https://www.elperiodico.com/es/videos/opinion/analisis-electoral-rogelio-garrido/136647989.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/1614e3c5-6b61-4472-bac6-444d499a6fbc_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El análisis electoral de Daniel Domínguez",
       "link": "https://www.elperiodico.com/es/videos/opinion/analisis-electoral-daniel-dominguez/136543859.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/41a4330e-0dac-4c11-ab7b-59a3540c6030_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El análisis electoral de Armando Huerta",
-      "link": "https://www.elperiodico.com/es/videos/opinion/analisis-electoral-armando-huerta/136522023.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/39167ef7-31f3-4c29-9350-e03d808f8a84_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

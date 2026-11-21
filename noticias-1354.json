@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Detenido El Chapo Isidro en un operativo que desata el terror en Sinaloa",
+      "link": "https://elpais.com/mexico/2026-11-21/detenido-el-chapo-isidro-en-un-operativo-que-desata-el-terror-en-sinaloa.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261121/1240507_055240_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El ‘Chapo Isidro’, señor de la guerra en Sinaloa, uno de los objetivos más buscados por Estados Unidos",
+      "link": "https://elpais.com/mexico/2026-11-21/el-chapo-isidro-senor-de-la-guerra-en-sinaloa-uno-de-los-objetivos-mas-buscados-por-estados-unidos.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/XGYLF73AOZGBPMBEMYTVWKRXEQ.jpg?auth=635cf83bf5b1b63084f1ac49384865b62a421ac19a362b80ae65c61cdf926aed",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Trump, sobre su reunión con Sheinbaum: “Le dije: ‘Claudia, no les permitiremos tener un superávit comercial”",
       "link": "https://elpais.com/mexico/2026-11-20/trump-sobre-su-reunion-con-sheinbaum-le-dije-claudia-no-les-permitiremos-tener-un-superavit-comercial.html",
       "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261120/1240355_185400_video_1800.mp4",
@@ -22,18 +34,6 @@
       "titulo": "La Suprema Corte da un revés al ‘rey del cobre’ Germán Larrea y ratifica una multa millonaria a una de sus minas",
       "link": "https://elpais.com/mexico/economia/2026-11-20/la-suprema-corte-da-un-reves-al-rey-del-cobre-german-larrea-y-ratifica-una-multa-millonaria-a-una-de-sus-minas.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/TM4TWLIZYBCODKPQJ5LNVJ56FI.jpg?auth=49d4cd5a1f0cea7c1d8e987365f9e2aab4b461eeccfc884ee4c32f6c32a35103",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Mono Muñoz, el criminal de las 1.000 caras",
-      "link": "https://elpais.com/mexico/2026-11-20/el-mono-munoz-el-criminal-de-las-1000-caras.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/7IWOXIOSJVB35A523LAK4M5Z3I.jpg?auth=52d8765fc7fefb99ef1b9f4b976a1be9aa1a0c120900baa1d0d4e420ef989b38",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Detenida en Ciudad de México la exalcaldesa de Playa del Carmen Lili Campos",
-      "link": "https://elpais.com/mexico/2026-11-20/detenida-en-ciudad-de-mexico-la-exalcaldesa-de-playa-del-carmen-lili-campos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/2GIDPWXCO5HVVHSJECSPKNHTUQ.jpg?auth=0eee26cdc673085c60b9542f05b20bc128f460e8448be50fa18f1e917d5cda80",
       "tipo": "imagen"
     }
   ]
