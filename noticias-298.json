@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El drama es doble",
+      "link": "https://www.abc.es/cultura/toros/drama-doble-20261120015919-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/11/20/xzxz-RGcKv94p64zlnspXVpBz1CO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La América taurina, entre los vetos políticos y el auge de la afición",
       "link": "https://www.abc.es/cultura/toros/america-taurina-vetos-politicos-auge-aficion-20261120220728-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/11/20/roca-R-R3qoyurNJ6OKQrusLW6DYVL-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Fran Rivera se pronuncia sobre Roca Rey: «Me gustaba antes, durante y me sigue gustando»",
       "link": "https://www.abc.es/cultura/toros/sevilla/fran-rivera-pronuncia-sobre-roca-rey-gustaba-20261119121743-nts.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/11/19/WhatsApp%20Image%202026-11-19%20at%2012.09.06-kjP-U40430473648ceB-1200x840@diario_abc.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Diego Urdiales recoge el Trofeo 'Yiyo' como triunfador de Colmenar Viejo",
-      "link": "https://www.abc.es/cultura/toros/diego-urdiales-recoge-trofeo-yiyo-triunfador-colmenar-20261118134059-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/11/18/3cfdf808-038f-4c6e-879f-7e4e61d79a1f-RE5RSybhjPFmJX6qQRWIYdO-1200x840@diario_abc.jpeg",
       "tipo": "imagen"
     }
   ]

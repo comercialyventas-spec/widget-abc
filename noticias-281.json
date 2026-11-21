@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "El islam será la religión con más fieles del mundo en 2035",
+      "link": "https://www.abc.es/internacional/islam-religion-fieles-mundo-dentro-diez-anos-20261120022034-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/20/musulmanes-rezando-italia-ReN0WFhGENzV7KsVgrGrg6L-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un Trump debilitado saca pecho de su cumbre con Putin y Xi pese a sus pocos frutos",
       "link": "https://www.abc.es/internacional/donald-trump-rueda-prensa-tras-gira-asia-20261120212436-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/20/trump-RjtAkVpM7jj5kyFC8fUVLoO-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La UE y el Reino Unido sellan su acercamiento para empezar a revertir el Brexit",
+      "link": "https://www.abc.es/internacional/ue-vuelca-atraer-regreso-reino-unido-decada-20261120140613-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/20/1520559216-RsQL4Ju5HrIS8LAtBEvmrWP-1200x840@diario_abc.JPG",
       "tipo": "imagen"
     },
     {
@@ -19,21 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "La UE y el Reino Unido sellan su acercamiento para empezar a revertir el Brexit",
-      "link": "https://www.abc.es/internacional/ue-vuelca-atraer-regreso-reino-unido-decada-20261120140613-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/20/1520559216-RsQL4Ju5HrIS8LAtBEvmrWP-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Un misil ruso impacta en el sureste de Polonia durante un ataque contra Ucrania",
       "link": "https://www.abc.es/internacional/misil-ruso-impacta-sureste-polonia-ataque-ucrania-20261120121157-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/20/1520553977-kQqC-U40451777871GpC-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un recluso condenado a muerte en Texas grita de dolor durante una ejecución de más de una hora",
-      "link": "https://www.abc.es/internacional/recluso-condenado-muerte-texas-grita-dolor-ejecucion-20261120190655-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/20/Ejecutado-k73B-U40459751950I5C-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
