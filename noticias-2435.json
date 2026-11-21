@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La COP31 busca fuera de plazo llegar a un acuerdo climático en plena tensión por los hidrocarburos",
+      "link": "https://www.rtve.es/noticias/20261121/cumbre-clima-cop31-acuerdo/17324678.shtml",
+      "imagen": "https://img.rtve.es/imagenes/cumbre-clima-cop31-acuerdo/01795257710145.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Nasdaq se desploma un 5,28 % en un durísimo viernes para el sector tecnológico",
       "link": "https://www.rtve.es/noticias/20261121/nasdaq-se-desploma-528-durisimo-viernes-para-sector-tecnologico/17324564.shtml",
       "imagen": "https://img.rtve.es/imagenes/nasdaq-se-desploma-528-durisimo-viernes-para-sector-tecnologico/01795217700843.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La misión BepiColombo, que cuenta con tecnología vasca, está a punto de llegar a Mercurio",
       "link": "https://www.rtve.es/noticias/20261119/mision-bepicolombo-cuenta-tecnologia-vasca-punto-llegar-mercurio/17321410.shtml",
       "imagen": "https://img.rtve.es/imagenes/mision-bepicolombo-cuenta-tecnologia-vasca-punto-llegar-mercurio/01795097582823.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Comisión Europea confirma que sufrió un ciberataque con IA el 22 de octubre",
-      "link": "https://www.rtve.es/noticias/20261119/comision-europea-ciberataque-inteligencia-artificial-22-octubre/17321723.shtml",
-      "imagen": "https://img.rtve.es/imagenes/comision-europea-ciberataque-inteligencia-artificial-22-octubre/01795095498138.jpg",
       "tipo": "imagen"
     }
   ]
