@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Valentín Fuster, cardiólogo de 83 años: \"Alargar la vida quiere decir alargar el riesgo de sufrir alzheimer\"",
+      "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-11-21/valentin-fuster-alargar-vida-quiere-decir-alargar-riesgo-alzheimer-1qrt_4464667/",
+      "imagen": "https://images.ecestaticos.com/QB0H8_miqvwGIMcaD9mAjLeM7Cg=/0x188:1000x750/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fdee%2F3a1%2F630%2Fdee3a16304770c118dfe9af0197b1760.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Marta León, experta en salud hormonal: \"Para que nuestro vientre no esté hinchado necesitamos primero observar y mimar mucho a esta microbiota\"",
+      "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-11-21/marta-leon-experta-salud-hormonal-vientre-no-este-hinchado-observar-mimar-microbiota-1qrt_4254295/",
+      "imagen": "https://images.ecestaticos.com/rYAmeNRtPjPkXYjeJ0rFqUNyBco=/0x0:614x499/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd36%2F240%2F87e%2Fd3624087e92e92bb6d03ae7668930fb8.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Estudian la piel humana y descubren que las quemaduras solares (controladas) pueden prevenir el cáncer",
+      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-11-21/quemaduras-solares-prevenir-melanoma-1qrt_4247576/",
+      "imagen": "https://images.ecestaticos.com/v5E1UanpCTdDaio65sTW4_vIFjw=/0x0:1254x836/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb94%2F67e%2Fe68%2Fb9467ee6867d7954e897612e011e3c1c.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Paula Marrero, nutricionista, sobre la inflamación en el cuerpo: \"Lo que sí puede verse es una distensión abdominal\"",
       "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-11-21/paula-marrero-nutricionista-inflamacion-1qrt_4464700/",
       "imagen": "https://images.ecestaticos.com/t6x8YnnEaRRCI_GkOKZDWHyH6cw=/0x0:733x412/0x900/filters:format(png)/f.elconfidencial.com%2Foriginal%2F9ff%2F0bf%2Fccb%2F9ff0bfccb536934111f2ed959858d710.png",
@@ -13,27 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "El azúcar de una bacteria intestinal que podría ayudar a quemar la grasa que rodea los órganos",
-      "link": "https://www.elconfidencial.com/salud/2026-11-21/bacteria-intestino-quemar-grasa-visceral_4468431/",
-      "imagen": "https://images.ecestaticos.com/LMyPTP42Dx9dKDAO8afgWC_7vBA=/0x0:2272x1278/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7cf%2F7fe%2F470%2F7cf7fe470e8017d9d9282a60cfdcfc6a.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "El médico de Lampedusa que dedicó tres décadas de su vida a salvar migrantes: \"Temo que se repita una catástrofe en España\"",
       "link": "https://www.elconfidencial.com/salud/2026-11-21/el-medico-de-lampedusa-sobre-crisis-migratoria-canarias_4468852/",
       "imagen": "https://images.ecestaticos.com/OEfynM8qI6pLFs_xcawP-dPhajI=/0x8:1280x728/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb13%2F396%2F4d0%2Fb133964d05b13f7c8dbba1abbc4405e8.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Sergio Gómez Molina, experto en longevidad, y su lista de productos que deben estar en toda despensa: \"Vivir más años también influye en la compra\"",
-      "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-11-20/sergio-gomez-molina-lista-compra-ideal-huevo-aguacate-arandano-sardina-1qrt_4469549/",
-      "imagen": "https://images.ecestaticos.com/skTJUCH3A-jXQFElsuAx4od1MSY=/0x0:1000x562/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd8d%2F04f%2Feac%2Fd8d04feacca12418325fcfc7ab10bc28.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La AESAN alerta de la posible presencia de Salmonella en lotes de huevos de la marca Eroski",
-      "link": "https://www.elconfidencial.com/salud/2026-11-20/alerta-salmonella-huevos-eroski-1tps_4469560/",
-      "imagen": "https://images.ecestaticos.com/KeSRYNnRdOpvDW59D8U16bMiceE=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe09%2Fecd%2F6df%2Fe09ecd6dfd6d3cdb04330746ba25c0e8.jpg",
       "tipo": "imagen"
     }
   ]

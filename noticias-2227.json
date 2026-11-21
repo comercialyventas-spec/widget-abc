@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Evento en Estadio Santiago Bernabéu. Afectadas 12 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261124-Bernabeu-Evento.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Evento sociocultural en Entrevías. Afectadas 6 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261124-Dia-Eliminacion-Violencia-Mujeres.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Manifestación en zona Quintana. Afectadas 3 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261122-M-Jose-Hierro-Quintana.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -21,18 +33,6 @@
     {
       "titulo": "Evento sociocultural en zona Centro. Afectadas 41 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261121-Celebracion-Encendido-Luces-Navidad.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Manifestación en distrito San Blas - Canillejas. Afectadas 8 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261123-M-Av-Guadalajara-Arcos-Jalon.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Obras: Ciclón. Afectada línea 105 de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261123-O-Ciclon.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

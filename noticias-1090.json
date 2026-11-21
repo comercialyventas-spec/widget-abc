@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un nuevo ataque ruso con misiles balísticos y drones deja al menos dos muertos en el sureste de Ucrania",
+      "link": "https://www.elconfidencial.com/mundo/2026-11-21/ataque-misiles-rusos-krivo-rog-1tna-1tps_4469688/",
+      "imagen": "https://images.ecestaticos.com/eUVQYABwMavyp4s4ArlbYOEvMqc=/0x0:1600x1067/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc3a%2Fe34%2F8f6%2Fc3ae348f611338f8bac53c7347e6747c.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El FBI investiga un nuevo ataque informático contra su base de datos nacional, según la CNN",
       "link": "https://www.elconfidencial.com/mundo/2026-11-21/fbi-investiga-intrusion-informatica-ncic-1tps_4469678/",
       "imagen": "https://images.ecestaticos.com/lc5WBFfSnG0AJ2O6bMfJIy9l74c=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F11d%2F443%2Ff66%2F11d443f668ca2784d147812637205c68.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La frontera invisible de Gibraltar: el algoritmo de la Unión Europea bloquea a los residentes y les fulmina sus días de libre circulación",
       "link": "https://www.elconfidencial.com/mundo/europa/2026-11-20/gibraltar-frontera-invisible-algoritmo-ue-libre-circulacion_4469256/",
       "imagen": "https://images.ecestaticos.com/qFwxA4_7fekFV5-7U7O9cMTUhWY=/0x237:2272x1515/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc72%2Fe6c%2Fe0d%2Fc72e6ce0d1c4f05317382da2bbcea9af.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Reino Unido y la UE cierran un acuerdo para suavizar el Brexit (con un pero)",
-      "link": "https://www.elconfidencial.com/mundo/2026-11-20/reino-unido-y-la-ue-cierran-un-acuerdo-para-suavizar-el-brexit-con-un-pero_4469171/",
-      "imagen": "https://images.ecestaticos.com/T41t3oGHRIY22A_Yxz-VXz2O3Qs=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F564%2F47b%2Fc5d%2F56447bc5d8e0c96cc37dc3fda9a40308.jpg",
       "tipo": "imagen"
     }
   ]
