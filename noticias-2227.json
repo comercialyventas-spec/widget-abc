@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Servicio Especial: SE [Canillejas – Estadio Metropolitano].",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261125-Metropolitano.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Evento: Palacio de los Deportes. Afectadas 4 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261125-PD-Baloncesto.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Manifestación en calle Alcalá y plaza Manuel Becerra. Afectadas 15 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261125-M-Alcala-Manuel-Becerra.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Manifestación en glorieta Valle de Oro y General Ricardos. Afectadas 7 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261125-M-Oporto-Gral-Ricardos.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Manifestación en zona Centro. Afectadas 26 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261125-M-Neptuno-Alcala.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -9,30 +33,6 @@
     {
       "titulo": "Evento en Estadio Santiago Bernabéu. Afectadas 12 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261124-Bernabeu-Evento.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Evento sociocultural en Entrevías. Afectadas 6 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261124-Dia-Eliminacion-Violencia-Mujeres.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Manifestación en zona Quintana. Afectadas 3 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261122-M-Jose-Hierro-Quintana.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Evento deportivo en Chamartín, Salamanca, Centro y Arganzuela. Afectadas 58 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261122-CR-Zara-Athleticz-Speed-Run.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Restricciones de tráfico calle Mayor. Afectada línea M3 de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261121-Restricciones-Trafico-Mayor.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

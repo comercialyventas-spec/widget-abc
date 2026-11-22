@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un gallego cuenta su experiencia en Cataluña: «Los catalanes no se inmutan de que no sabes catalán»",
+      "link": "https://okdiario.com/cataluna/gallego-cuenta-experiencia-cataluna-catalanes-no-inmutan-que-no-sabes-catalan-20528568",
+      "imagen": "https://okdiario.com/img/2026/10/11/un-gallego-opina-contra-cataluna-los-catalanes-no-se-inmutan-de-que-no-sabes-catalan.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "AEMET: cielo nuboso y vientos moderados en Barcelona con mejora hacia la mañana",
       "link": "https://okdiario.com/cataluna/aemet-cielo-nuboso-y-vientos-moderados-en-barcelona-con-mejora-hacia-la-manana-21241540",
       "imagen": "https://okdiario.com/img/2026/01/12/viento-barcelona-interior.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Previsión AEMET: Cielo nublado y ligeras lluvias en Barcelona, con viento moderado y temperaturas en ascenso",
       "link": "https://okdiario.com/cataluna/prevision-aemet-cielo-nublado-y-ligeras-lluvias-en-barcelona-con-viento-moderado-y-temperaturas-en-ascenso-21044251",
       "imagen": "https://okdiario.com/img/2026/11/18/lluvia-en-barcelona.-europa-press.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "AEMET prevé nubes y lluvias débiles hoy en Barcelona con temperaturas en ascenso y viento moderado",
-      "link": "https://okdiario.com/cataluna/aemet-preve-nubes-y-lluvias-debiles-hoy-en-barcelona-con-temperaturas-en-ascenso-y-viento-moderado-20974264",
-      "imagen": "https://okdiario.com/img/2026/11/17/lluvia-en-barcelona.-europa-press.jpg",
       "tipo": "imagen"
     }
   ]

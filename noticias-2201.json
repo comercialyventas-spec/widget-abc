@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Buscan a supervivientes bajo los escombros de un edificio tras un ataque ruso cerca de Kiev",
+      "link": "https://www.elperiodico.com/es/videos/internacional/buscan-supervivientes-escombros-edificio-ataque/136719005.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d4a46b8a-9680-4869-be7f-407a6ecd17aa_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Tres fallecidos en un bombardeo israelí contra un vehículo de ayuda alimentaria en Gaza",
       "link": "https://www.elperiodico.com/es/videos/internacional/tres-fallecidos-bombardeo-israeli-vehiculo/136704682.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8ca5bb17-2572-4458-ae7c-7847143d2199_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "SpaceX hace historia: captura por primera vez su nave Starship con brazos mecánicos",
       "link": "https://www.elperiodico.com/es/videos/internacional/spacex-historia-captura-primera-vez/136460526.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/c1fe7056-6402-4f9b-822e-ea55b063990b_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La salida de Huang abre un periodo de incertidumbre en Nvidia, la IA y las relaciones EEUU-China",
-      "link": "https://www.elperiodico.com/es/videos/internacional/salida-huang-abre-periodo-incertidumbre/136438613.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/e2fdf8e9-5293-45d0-af78-dc214b44011f_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

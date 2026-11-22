@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "Mueren dos motoristas en un accidente en Badalona",
+      "link": "https://www.20minutos.es/cataluna/barcelona/mueren-dos-motoristas-un-accidente-badalona_7064233_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/01/69a491c52012f2-18105290.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El viento causa estragos en Cataluña: la caída de dos árboles provoca 10 heridos en Barcelona y la de una farola otro en Sabadell",
+      "link": "https://www.20minutos.es/cataluna/barcelona/viento-provoca-caida-arboles-barcelona-herido-grave-icaria-leves-carrera-meridiana_7064214_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/22/6b02d968a774c7-76946898.webp",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Nueve mujeres heridas por la caída de un árbol al paso de una carrera en Barcelona",
+      "link": "https://www.20minutos.es/cataluna/barcelona/nueve-mujeres-heridas-por-caida-un-arbol-paso-una-carrera-barcelona_7064201_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/22/6b02c08a061c36-03956464.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Así está cambiando la zona entre Cornellà y Esplugues junto al nuevo Vithas: cientos de pisos y nuevos comercios",
+      "link": "https://www.20minutos.es/cataluna/barcelona/asi-esta-cambiando-zona-entre-cornella-esplugues-junto-nuevo-vithas-cientos-pisos-nuevos-comercios_7051828_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/22/6ad9563de00c45-52197291.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Miles de personas se movilizan en Barcelona por la educación pública y la vivienda",
       "link": "https://www.20minutos.es/cataluna/barcelona/miles-personas-se-movilizan-barcelona-por-educacion-publica-vivienda_7064063_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/21/6b01b1e3d5ec81-78626762.webp",
@@ -10,30 +34,6 @@
       "titulo": "Atendidas 34 personas tras declararse un incendio en una vivienda de Terrassa",
       "link": "https://www.20minutos.es/cataluna/barcelona/atendidas-34-personas-tras-declararse-un-incendio-una-vivienda-terrassa_7064013_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/18/6ad4a1ed675333-64696576.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Así será el futuro del Pont d'Esplugues: de puente histórico a gran nodo de transporte del Baix Llobregat",
-      "link": "https://www.20minutos.es/cataluna/barcelona/asi-sera-futuro-pont-d-esplugues-puente-historico-gran-nodo-transporte-baix-llobregat_7051829_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/22/6ad95c11d29fb6-04238267.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una familia de Barcelona se queda sin coche después de que un presunto pirómano incendiara un contenedor: \"Era el cuarto\"",
-      "link": "https://www.20minutos.es/cataluna/barcelona/una-familia-barcelona-se-queda-sin-coche-despues-que-un-presunto-piromano-incendiara-un-contenedor-era-cuarto_7055479_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/12/6af585c4841864-31816319.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Sant Andreu vuelve a casa: Barcelona finaliza la instalación de césped natural en el Narcís Sala",
-      "link": "https://www.20minutos.es/cataluna/barcelona/sant-andreu-vuelve-casa-barcelona-finaliza-instalacion-cesped-natural-narcis-sala_7063700_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/20/6b0046c44cfcb5-16572171.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El encendido de las luces de Navidad en Barcelona provocará cortes en Passeig de Gràcia y desvíos en varias líneas de autobús",
-      "link": "https://www.20minutos.es/cataluna/barcelona/encendido-las-luces-navidad-barcelona-provocara-cortes-passeig-gracia-desvios-varias-lineas-autobus_7063696_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/11/20/6b004785e47868-33953904.r_d.542-310-0.png",
       "tipo": "imagen"
     }
   ]
