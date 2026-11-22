@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El precio de alzar la voz por la Tierra",
+      "link": "https://www.abc.es/natural/precio-alzar-voz-tierra-20261122010320-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/natural/2026/11/22/Francisco%20Javier%20Vera%20Manzanares-Rq8zlIZiljaN1HNUtg9A3BM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Los secretos de una mirada adaptada al océano",
       "link": "https://www.abc.es/natural/secretos-mirada-adaptada-oceano-20261115151341-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/natural/2026/11/15/retina%20ballena-RtjqwywFskSn3CXkpoDb37J-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La memoria viva de Doñana",
       "link": "https://www.abc.es/natural/memoria-viva-donana-20261109231750-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/natural/2026/11/09/18_EL%20CIENT%c3%8dFICO-R0IxTEJzow4CmDWE6lOiyiL-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La inteligencia artificial se adentra en el lenguaje secreto de las orcas",
-      "link": "https://www.abc.es/natural/inteligencia-artificial-adentra-lenguaje-secreto-orcas-20261109230448-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/natural/2026/11/09/orca%20loro%20parque%203%20(2)-RtxjKmeejQccSmDNM7a0UVM-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Jair Bolsonaro, ingresado en la UCI por una obstrucción intestinal",
+      "link": "https://www.lavanguardia.com/internacional/20261121/11690012/jair-bolsonaro-ingresado-uci-obstruccion-intestinal.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/21/6b01eaa283748.r_d.3863-2337-0.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "México captura al jefe narco 'El Chapo Isidro', uno de los más buscados por el FBI",
       "link": "https://www.lavanguardia.com/internacional/20261121/11689937/chapo-isidro-fausto-isidro-meza-flores-arrestado-mexico.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/21/6b01baea31a95.r_d.939-1093-3060.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "El FBI investiga un ataque informático contra su gran base de datos de delincuentes, según la CNN",
       "link": "https://www.lavanguardia.com/internacional/20261121/11689751/fbi-investiga-ataque-informatico-gran-base-datos-delincuentes-cnn.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/21/6b01362bbe7b2.r_d.3000-1687-748.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cuando un yihadista pide que le cuentes ‘Blancanieves’",
-      "link": "https://www.lavanguardia.com/internacional/20261121/11689508/yihadista-pide-le-cuentes-blancanieves.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/20/6b00afd2921a2.jpeg",
       "tipo": "imagen"
     }
   ]

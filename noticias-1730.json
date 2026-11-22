@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Entrevista a María Alcantud, candidata al Congreso por Adelante Andalucía en Granada",
+      "link": "https://www.youtube.com/watch",
+      "imagen": "https://www.youtube.com/v/pyQePkvwAAM?version=3",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Manifestaciones en Granada por la huelga general del 11N",
       "link": "https://www.youtube.com/watch",
       "imagen": "https://www.youtube.com/v/mYAoxklm2cc?version=3",
@@ -28,12 +34,6 @@
       "titulo": "Salida extraordinaria de la Santa Cena de Granada por su centenario",
       "link": "https://www.youtube.com/watch",
       "imagen": "https://www.youtube.com/v/QULjMPLwOKQ?version=3",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una explosión en la fábrica de municiones de Granada moviliza a los servicios de emergencias",
-      "link": "https://www.youtube.com/shorts/2ChMr15TnaU",
-      "imagen": "https://www.youtube.com/v/2ChMr15TnaU?version=3",
       "tipo": "imagen"
     }
   ]

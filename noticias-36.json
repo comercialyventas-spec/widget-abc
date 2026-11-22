@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Fallecen dos trabajadores al caer a un foso en una empresa aceitera de Morón",
+      "link": "https://www.lavanguardia.com/sucesos/20261121/11690035/fallecen-dos-trabajadores-caer-foso-empresa-aceitera-moron.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/03/23/67dffc8b21db1.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Detenido un hombre acusado de tres agresiones sexuales en La Bisbal d'Empordà",
       "link": "https://www.lavanguardia.com/sucesos/20261121/11689921/detenido-hombre-acusado-tres-agresiones-sexuales-bisbal-d-emporda.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/21/6b01b142d1a30.r_d.633-886-3897.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Los Mossos d'Esquadra investigan la muerte violenta de un hombre en Malgrat de Mar",
       "link": "https://www.lavanguardia.com/local/maresme/20261119/11688572/mossos-d-esquadra-investigan-muerte-violenta-hombre-malgrat-mar.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/02/11/67ab7feb080d1.r_d.2328-442-0.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Guardia Civil sigue sin localizar al autor del asesinato en Muriedas cinco días después del crimen",
-      "link": "https://www.lavanguardia.com/local/cantabria/20261119/11688350/guardia-civil-sigue-localizar-autor-asesinato-muriedas-cinco-dias-crimen.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/14/6916f809078d3.jpeg",
       "tipo": "imagen"
     }
   ]

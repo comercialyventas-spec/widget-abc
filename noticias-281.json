@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "La captura en México de un narco buscado por el FBI desata la violencia en Sinaloa",
-      "link": "https://www.abc.es/internacional/captura-capo-buscado-fbi-desata-terror-sinaloa-20261120153639-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/20/mexico_20261121194420-R6fBnHlQ6qiYuRr8UQ0kzTK-1200x840@diario_abc.JPG",
+      "titulo": "Los británicos que suspiran por volver a la UE: «El Brexit fue una locura colectiva»",
+      "link": "https://www.abc.es/internacional/britanicos-quieren-volver-ue-quiero-nietos-oportunidades-20261121015917-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/20/1430295620-RcmDuUxJkmBPw5EWGxLG61L-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Trump se luce como líder mundial mientras le crecen los problemas en casa",
+      "link": "https://www.abc.es/internacional/trump-luce-lider-mundial-crecen-problemas-casa-20261122015838-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/20/trump2-RBwReEqcLSwMVMXSd3QuiJP-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El reto de depurar y verter al Pacífico el agua con que se enfrían los reactores fundidos de Fukushima",
+      "link": "https://www.abc.es/internacional/polemica-vertidos-mar-agua-tratada-fukushima-20261122015337-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/22/Fukushima25-RD4RQg3vjt20GuXJ6AiH5xN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Viaje a los reactores de Fukushima",
+      "link": "https://www.abc.es/internacional/viaje-reactores-fukushima-20261122015321-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/18/Fukushima10-R0Q80qwyq9X4i6nWNe3vEhL-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     },
     {
@@ -13,27 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Jean Monnet en Downing Street",
-      "link": "https://www.abc.es/internacional/jean-monnet-downing-street-20261121171659-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/21/burnham-R1MW1RIqr6SPYPkiNaxE59H-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Europa se vuelca con Dinamarca tras el intento de asesinato de un rapero ucraniano por parte de Rusia",
-      "link": "https://www.abc.es/internacional/europa-vuelca-dinamarca-tras-intento-asesinato-rapero-20261121134246-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/21/Rapero-ktP-U404698304756X-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un Trump debilitado saca pecho de su cumbre con Putin y Xi pese a sus pocos frutos",
-      "link": "https://www.abc.es/internacional/donald-trump-rueda-prensa-tras-gira-asia-20261120212436-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/20/trump-RjtAkVpM7jj5kyFC8fUVLoO-1200x840@diario_abc.JPG",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Investigan un ciberataque a la base de datos criminales del FBI",
-      "link": "https://www.abc.es/internacional/investigan-cibertataque-base-datos-criminales-fbi-20261121080221-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/21/fbi-kRg-U40467368597HBG-1200x840@diario_abc.jpg",
+      "titulo": "La captura en México de un narco buscado por el FBI desata la violencia en Sinaloa",
+      "link": "https://www.abc.es/internacional/captura-capo-buscado-fbi-desata-terror-sinaloa-20261120153639-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/20/mexico_20261121194420-R6fBnHlQ6qiYuRr8UQ0kzTK-1200x840@diario_abc.JPG",
       "tipo": "imagen"
     }
   ]

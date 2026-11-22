@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Regimiento de Caballería 'España' nº 11",
+      "link": "https://www.elconfidencialdigital.com/defensa/regimiento-caballeria-espana-11/202611212318171504738.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/21/2026112123154832767.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Drones estadounidenses en Marruecos",
       "link": "https://www.elconfidencialdigital.com/defensa/drones-estadounidenses-marruecos/202611202336431504674.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/20/2026112023320465150.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Militares",
       "link": "https://www.elconfidencialdigital.com/defensa/militares/202611191326301504055.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/30/2026093013485493452.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ciberdefensa",
-      "link": "https://www.elconfidencialdigital.com/defensa/ciberdefensa/202611182131501503724.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/02/19/2026021921214059790.jpg",
       "tipo": "imagen"
     }
   ]
