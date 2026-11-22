@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Dos personas atropelladas en Rivas: una mujer, en estado crítico",
+      "link": "https://www.diarioderivas.es/dos-personas-atropelladas-rivas-una-estado-critico/",
+      "imagen": "https://www.diarioderivas.es/wp-content/uploads/2023/01/Ambulancia-SUMMA-112.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Operación contra la venta de droga en la Cañada Real: siete detenidos que traficaban en el entorno de Rivas",
       "link": "https://www.diarioderivas.es/rivas-siete-detenidos-venta-droga-canada-real/",
       "imagen": "https://www.diarioderivas.es/wp-content/uploads/2026/11/Sin-titulo-1200-x-800-px-1200-x-800-px-1200-x-800-px-1200-x-800-px-1200-x-800-px-1200-x-800-px-1200-x-800-px-1200-x-800-px-1200-x-800-px-1200-x-800-px-1200-x-800-px-1200-x-800-px-1200-x-4.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Juan Carlos Morillo, el ingeniero que se inventó un ferrocarril para Vaciamadrid",
       "link": "https://www.diarioderivas.es/juan-carlos-morillo-tren-vaciamadrid-arganda/",
       "imagen": "https://www.diarioderivas.es/wp-content/uploads/2026/10/ingeniero-juan-carlos-morillo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La cantera de yeso de Santa Ana de Rivas regresa del pasado",
-      "link": "https://www.diarioderivas.es/cantera-yeso-santa-ana-rivas/",
-      "imagen": "https://www.diarioderivas.es/wp-content/uploads/2026/05/cantera_yeseria_fortuna_rivas.jpg",
       "tipo": "imagen"
     }
   ]

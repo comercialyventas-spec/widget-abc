@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Barcelona rinde un homenaje a la catalanidad de Antoni Gaudí",
+      "link": "https://www.elperiodico.com/es/videos/barcelona/barcelona-rinde-homenaje-catalanidad-antoni-video/136721315.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/5dc0045e-a29b-434a-8b81-4e29e0d20152_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Vino y bicicletas como antídoto contra la despoblación en la Terra Alta",
       "link": "https://www.elperiodico.com/es/videos/barcelona/vino-bicicletas-antidoto-despoblacion-terra-alta-video/136633956.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2fe565c4-5704-4fc1-848e-511a141a2ddc_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Estopa ofrece un concierto secreto, acústico e íntimo en el Parc del Tibidabo para 150 personas",
       "link": "https://www.elperiodico.com/es/videos/barcelona/estopa-ofrece-concierto-secreto-acustico/136594393.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b9147ed3-25c6-451b-8cfa-a01bd824b215_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Guardia Urbana de Barcelona desaloja a los activistas en huelga de hambre de la plaza Sant Jaume",
-      "link": "https://www.elperiodico.com/es/videos/barcelona/guardia-urbana-barcelona-desaloja-activistas-huelga-hambre-plaza-sant-jaume-video/136566661.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a30b10d5-129b-4408-b122-9203b70d36d9_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
