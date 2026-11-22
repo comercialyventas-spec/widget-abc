@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "AEMET: cielo nuboso y vientos moderados en Barcelona con mejora hacia la mañana",
+      "link": "https://okdiario.com/cataluna/aemet-cielo-nuboso-y-vientos-moderados-en-barcelona-con-mejora-hacia-la-manana-21241540",
+      "imagen": "https://okdiario.com/img/2026/01/12/viento-barcelona-interior.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Nubes y ligero descenso en temperaturas en Barcelona según AEMET",
       "link": "https://okdiario.com/cataluna/nubes-y-ligero-descenso-en-temperaturas-en-barcelona-segun-aemet-21192198",
       "imagen": "https://okdiario.com/img/2026/11/20/varias-personas-paseando-con-paraguas.-europa-press.jpg",
@@ -28,12 +34,6 @@
       "titulo": "AEMET prevé nubes y lluvias débiles hoy en Barcelona con temperaturas en ascenso y viento moderado",
       "link": "https://okdiario.com/cataluna/aemet-preve-nubes-y-lluvias-debiles-hoy-en-barcelona-con-temperaturas-en-ascenso-y-viento-moderado-20974264",
       "imagen": "https://okdiario.com/img/2026/11/17/lluvia-en-barcelona.-europa-press.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Barcelona: Cielo poco nuboso y brumas matinales, según AEMET",
-      "link": "https://okdiario.com/cataluna/barcelona-cielo-poco-nuboso-y-brumas-matinales-segun-aemet-20905455",
-      "imagen": "https://okdiario.com/img/2026/11/16/mujer-se-protege-del-sol-ante-la-mejora-del-tiempo.-europa-press-1.jpg",
       "tipo": "imagen"
     }
   ]

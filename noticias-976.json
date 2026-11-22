@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "La industria automotriz alemana busca reinventarse para sobrevivir",
+      "link": "https://www.dw.com/es/la-industria-automotriz-alemana-busca-reinventarse-para-sobrevivir/a-80006050",
+      "imagen": "https://static.dw.com/image/79669256_6.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Buscan a decenas de desaparecidos tras un incendio en una fábrica de dulces en Indonesia",
+      "link": "https://www.dw.com/es/buscan-a-decenas-de-desaparecidos-tras-un-incendio-en-una-fábrica-de-dulces-en-indonesia/a-80012286",
+      "imagen": "https://static.dw.com/image/80012341_6.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Baréin acusa a Irán de atacar un sitio industrial civil y provocar un incendio",
+      "link": "https://www.dw.com/es/baréin-acusa-a-irán-de-atacar-un-sitio-industrial-civil-y-provocar-un-incendio/a-80012297",
+      "imagen": "https://static.dw.com/image/76275270_6.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Una huelga nacional a la que se sumarán los controladores paralizará el lunes el tráfico aéreo en Bélgica",
+      "link": "https://www.dw.com/es/una-huelga-nacional-a-la-que-se-sumarán-los-controladores-paralizará-el-lunes-el-tráfico-aéreo-en-bélgica/a-80012267",
+      "imagen": "https://static.dw.com/image/79945403_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Donald Trump confirma un ciberataque al FBI y cree que podría destapar \"engaños\" contra él",
       "link": "https://www.dw.com/es/donald-trump-confirma-un-ciberataque-al-fbi-y-cree-que-podría-destapar-engaños-contra-él/a-80012085",
       "imagen": "https://static.dw.com/image/79542395_6.jpg",
@@ -10,30 +34,6 @@
       "titulo": "OTAN promete defender \"cada centímetro\" de Polonia tras la incursión de misiles rusos",
       "link": "https://www.dw.com/es/otan-promete-defender-cada-centímetro-de-polonia-tras-la-incursión-de-misiles-rusos/a-80011180",
       "imagen": "https://static.dw.com/image/77857119_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Decenas de miles de personas manifiestan por sexto fin de semana en Francia",
-      "link": "https://www.dw.com/es/decenas-de-miles-de-personas-manifiestan-por-sexto-fin-de-semana-en-francia/a-80011046",
-      "imagen": "https://static.dw.com/image/80011096_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "BUNDESLIGA: escuche el partido FC Schalke 04 vs. VfB Stuttgart",
-      "link": "https://www.dw.com/es/bundesliga-escuche-el-partido-fc-schalke-04-vs-vfb-stuttgart/a-80010680",
-      "imagen": "https://static.dw.com/image/79994478_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Secuestro de niños como arma de guerra: el sistema de Hitler y Putin",
-      "link": "https://www.dw.com/es/secuestro-de-niños-como-arma-de-guerra-el-sistema-de-hitler-y-putin/a-80009054",
-      "imagen": "https://static.dw.com/image/80003412_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Drones ucranianos atacan carguero ruso en el golfo de Finlandia",
-      "link": "https://www.dw.com/es/drones-ucranianos-atacan-carguero-ruso-en-el-golfo-de-finlandia/a-80009849",
-      "imagen": "https://static.dw.com/image/79928706_6.jpg",
       "tipo": "imagen"
     }
   ]

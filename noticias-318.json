@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La española es mejor",
+      "link": "https://www.abc.es/play/series/espanola-mejor-20261122025737-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/11/22/machi-R6up8wETh5M7Qu2VnxmXHbK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "'Celeste' olvida la parodia sobre Shakira y ataca «los escándalos» del fútbol español",
       "link": "https://www.abc.es/play/series/carmen-machi-regresa-celeste-serie-inspectores-hacienda-20261120184821-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/11/20/celeste-3-R2NVJQ3rXeNyI5WDBUY8XrL-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "'Patagonia' o cómo construir una serie en un entorno salvaje",
       "link": "https://www.abc.es/play/series/noticias/patagonia-construir-serie-entorno-salvaje-20261116014559-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/11/16/patagonia-serie-movistarplus-4-scaled-RLc62Iz6Wd0eeegMvxr0lzO-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "'Infamia', cómo cocinar un thriller a fuego lento",
-      "link": "https://www.abc.es/play/series/noticias/infamia-cocinar-thriller-fuego-lento-20261117011816-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/11/17/infamia-RwBap0CHrSD7TPQTTyMhRmJ-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

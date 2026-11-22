@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La COP31 blinda el trabajo del IPCC y le pide aclarar el polémico calendario de su informe",
+      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-11-22/cop31-ipcc-informe-climatico-1tps_4470025/",
+      "imagen": "https://images.ecestaticos.com/AlirDd0X8W5EU2NTEVcKVWrnyoI=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff6a%2Fc40%2F5b7%2Ff6ac405b796ab6506745ffc66681f162.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Hallan un hacha neolítica intacta en una cueva termal de Italia: un detalle apunta a un antiguo ritual",
+      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-11-22/hallan-hacha-neolitico-cueva-toscana-italiana_4467381/",
+      "imagen": "https://images.ecestaticos.com/Gh3r8S7c4yw1HQgQMC4rx7h0Ekg=/0x0:1800x1200/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff74%2Fc37%2Fe73%2Ff74c37e7319ae03e371f4955a141df9c.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Descubren en Japón restos de un palacio de hace 1.300 años: pudo albergar a princesas sagradas",
       "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-11-21/hallazgo-japon-palacio-1300-anos-princesas-1qrt_4468453/",
       "imagen": "https://images.ecestaticos.com/tOI_sMcROjXM8NDp8d33-hdFRw0=/0x0:1024x724/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd6a%2Fd12%2Fb89%2Fd6ad12b89b090616ac3ff831614f708c.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Estudian la piel humana y descubren que las quemaduras solares (controladas) pueden prevenir el cáncer",
       "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-11-21/quemaduras-solares-prevenir-melanoma-1qrt_4247576/",
       "imagen": "https://images.ecestaticos.com/v5E1UanpCTdDaio65sTW4_vIFjw=/0x0:1254x836/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb94%2F67e%2Fe68%2Fb9467ee6867d7954e897612e011e3c1c.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un matemático de Anthropic asegura haber resuelto el problema más famoso de cálculo con IA",
-      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-11-21/hipotesis-riemann-inteligencia-artificial-1tps_4469680/",
-      "imagen": "https://images.ecestaticos.com/zPR_Lpf5I8csbFFQIFvKedpQG0Y=/0x0:1832x1110/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fca5%2F4c1%2F39f%2Fca54c139f26e48b595e560c82874e55d.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Nueva historia del oxígeno en la Tierra: clave para encontrar vida en otros planetas",
-      "link": "https://www.elconfidencial.com/tecnologia/novaceno/2026-11-21/nueva-historia-del-oxigeno-en-la-tierra_4468779/",
-      "imagen": "https://images.ecestaticos.com/u1B8VUbq1ll514tjbkt_dTjj_c0=/0x0:1041x781/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbf9%2Fad8%2Fe5b%2Fbf9ad8e5bf29c1a4136fb0d21e39983d.jpg",
       "tipo": "imagen"
     }
   ]

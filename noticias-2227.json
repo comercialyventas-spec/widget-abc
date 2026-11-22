@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Manifestación en zona Centro. Afectadas 26 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261125-M-Neptuno-Alcala.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Evento en Estadio Santiago Bernabéu. Afectadas 12 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261124-Bernabeu-Evento.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -27,12 +33,6 @@
     {
       "titulo": "Restricciones de tráfico calle Mayor. Afectada línea M3 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261121-Restricciones-Trafico-Mayor.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Evento sociocultural en zona Centro. Afectadas 41 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261121-Celebracion-Encendido-Luces-Navidad.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Verstappen gana en la noche que Las Vegas pareció Indianápolis y en la que Alonso acabó último",
+      "link": "https://www.elmundo.es/deportes/formula-1/2026/11/22/6b0276d2fdddff216c8b4585.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/22/17953278169896.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El espíritu de Espí, al estilo Nadal y al estilo Madrid, completa ante el Celta otra angustiosa remontada",
       "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/11/21/6b021122fc6c8322308b457e.html",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/21/17952991392431.jpg",
@@ -19,21 +25,15 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Otro ridículo de Honda y primera 'pole' de Verstappen en Las Vegas",
-      "link": "https://www.elmundo.es/deportes/formula-1/2026/11/21/6b013cffe9cf4a32288b458b.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/21/17952436358769.jpg",
+      "titulo": "Isabel Rivero hace historia para el boxeo español",
+      "link": "https://www.elmundo.es/deportes/boxeo/2026/11/22/6b0235de21efa0c70e8b456d.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/22/17953070310947.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Rafa Nadal, un galáctico a la derecha de Florentino en la Asamblea del Madrid: \"Voy a estar aquí muchos años\"",
-      "link": "https://www.elmundo.es/deportes/futbol/2026/11/21/6b01646de85ecec7518b4581.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/21/17952545659575.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "España se medirá a la Francia de Zidane y Mbappé en los cuartos de final de la Liga de Naciones",
-      "link": "https://www.elmundo.es/deportes/futbol/uefa-nations-league/2026/11/20/6b00239de85ecec80b8b457b.html",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/20/17951743925819.jpg",
+      "titulo": "El Valencia se agarra a un gol de Copete para derrotar al Rayo en Vallecas y tomar aire",
+      "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/11/21/6b01bb2ffdddff70578b4571.html",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/21/17952797361237.jpg",
       "tipo": "imagen"
     }
   ]
