@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Crisis de la vivienda, desigualdad y crecimiento",
+      "link": "https://elpais.com/economia/negocios/2026-11-22/crisis-de-la-vivienda-desigualdad-y-crecimiento.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/B6TFZ6ADP5FR7O5KD2YVH6FDXU.jpg?auth=093bd733c16d48d97f3924b9aa35618144a9a8ea037b2931721b007ee8f84640",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El caso Weil: así se desmantela un despacho de abogados",
       "link": "https://elpais.com/economia/negocios/2026-11-22/el-caso-weil-asi-se-desmantela-un-despacho-de-abogados.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/EHWLZZ4U4FASPEWAASB7CVXERU.JPG?auth=89a42a44accec059d91a3fec9dc0c95a14a8d2e1956dcbb890064a8b7ebb6967",
@@ -28,12 +34,6 @@
       "titulo": "España tiene talento. ¿Sabemos aprovecharlo?",
       "link": "https://elpais.com/economia/negocios/2026-11-22/espana-tiene-talento-sabemos-aprovecharlo.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/TRPHK5QEUVB7TLI2VRM3RQKBHQ.jpg?auth=ab33a558b67b7990a347b7c2e9fe11db305f9844432e58c7b0c2824f7891bd9b",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El arte se abre a nuevos públicos",
-      "link": "https://elpais.com/economia/negocios/2026-11-22/el-arte-se-abre-a-nuevos-publicos.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/OBT5XRZLZ5BEFFWQNXMNA6JQ44.jpg?auth=2383082878206aadc47b95b415b5a978749f7994cbfa4b995106cb521744059c",
       "tipo": "imagen"
     }
   ]

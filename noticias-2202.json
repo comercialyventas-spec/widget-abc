@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Mitin de Ada Colau en Las Palmas de Gran Canaria",
+      "link": "https://www.elperiodico.com/es/videos/politica/mitin-ada-colau-palmas-gran/136727271.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/5d038e98-5c37-4067-bc8e-4eda2a4fc648_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Abascal acusa al PP de jugar sucio con Vox y le insta a centrarse en echar a Sánchez",
       "link": "https://www.elperiodico.com/es/videos/politica/abascal-acusa-pp-jugar-sucio/136725696.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7d8f569e-c9e7-4819-a524-547ff340c922_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Feijóo se da un baño de mesas en una Plaza Cardenal Belluga a a rebosar",
       "link": "https://www.elperiodico.com/es/videos/politica/feijoo-da-bano-mesas-plaza/136721145.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0dfc00c6-a7ad-4032-9dd6-4c5266b81612_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Así ha sido el encendido de las luces navideñas de 2026 en Madrid",
-      "link": "https://www.elperiodico.com/es/videos/politica/sido-encendido-luces-navidenas-2026/136718455.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/c488462f-bf8c-4150-af45-34ead836d0ba_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

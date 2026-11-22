@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Rabia, frustración, impotencia",
+      "link": "https://www.eldiario.es/opinion/zona-critica/rabia-frustracion-impotencia_129_13684695.html",
+      "imagen": "https://static.eldiario.es/clip/6baff85d-b90f-4962-bbbd-7a6b74b8caf4_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Una reverencia en plató",
       "link": "https://www.eldiario.es/opinion/zona-critica/reverencia-plato_129_13666136.html",
       "imagen": "https://static.eldiario.es/clip/e4c19b05-bf7f-4383-83f3-23fc9318e38e_16-9-discover-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "¿Has fracasado? ¿Has pensado en irte?",
       "link": "https://www.eldiario.es/opinion/zona-critica/has-fracasado-has-pensado-irte_129_13595742.html",
       "imagen": "https://static.eldiario.es/clip/e1fa5772-047c-4ac4-8e64-8847877e811d_16-9-discover-aspect-ratio_default_0_x973y438.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Angustia de izquierdas",
-      "link": "https://www.eldiario.es/opinion/zona-critica/angustia-izquierdas_129_13579058.html",
-      "imagen": "https://static.eldiario.es/clip/eebe7745-1952-4c60-a116-cd3410ba2d69_16-9-discover-aspect-ratio_default_0_x1224y820.jpg",
       "tipo": "imagen"
     }
   ]

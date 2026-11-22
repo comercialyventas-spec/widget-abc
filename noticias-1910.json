@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El Manifiesto de los Plebeyos",
+      "link": "https://www.eldiario.es/andalucia/desdeelsur/manifiesto-plebeyos_132_13684076.html",
+      "imagen": "https://static.eldiario.es/clip/f987c5d7-fff6-4a57-82bd-f52693f86b07_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La gracia de las plumas",
       "link": "https://www.eldiario.es/andalucia/desdeelsur/gracia-plumas_132_13665569.html",
       "imagen": "https://static.eldiario.es/clip/ca9c500b-4978-47d8-b753-0d84c9a8d617_16-9-discover-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Camuflaje de serpiente con traje de santurrón",
       "link": "https://www.eldiario.es/andalucia/desdeelsur/camuflaje-serpiente-traje-santurron_132_13595282.html",
       "imagen": "https://static.eldiario.es/clip/990590b0-3d1b-48f8-827e-f99dfc43e557_16-9-discover-aspect-ratio_default_0_x1011y668.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Feijóo, un hombre sin puntería",
-      "link": "https://www.eldiario.es/andalucia/desdeelsur/feijoo-hombre-punteria_132_13578695.html",
-      "imagen": "https://static.eldiario.es/clip/c34782ab-9e3d-4c2d-8579-cc4f8d40594d_16-9-discover-aspect-ratio_default_0_x1222y531.jpg",
       "tipo": "imagen"
     }
   ]

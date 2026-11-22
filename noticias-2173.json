@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Una explosión hunde un buque de guerra ruso en Libia",
+      "link": "https://www.elperiodico.com/es/internacional/20261122/explosion-hunde-buque-guerra-ruso-136730628",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6b146df5-41dc-4c33-a8f9-69178ac7e071_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "España ensaya con la Coalición de Voluntarios un despliegue de tropas de interposición en Ucrania",
       "link": "https://www.elperiodico.com/es/politica/20261122/espana-ensaya-coalicion-voluntarios-despliegue-tropas-interposicion-ucrania-136720432",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2280a239-0334-46f0-90ac-0c08d36d19c9_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Dos líderes poderosos, y Vladímir Putin",
       "link": "https://www.elperiodico.com/es/opinion/20261122/lideres-poderosos-putin-reunion-china-putin-trump-xi-136675177",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/158ea23d-e2f0-4f2a-936d-42effca08e66_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Macron medita meter en la constitución francesa una regla de control de la deuda",
-      "link": "https://www.elperiodico.com/es/internacional/20261122/macron-contempla-constitucionalizar-regla-control-deuda-136715391",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9e4eb430-b2d7-465f-8044-8a93d0145e1c_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

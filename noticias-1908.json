@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Ansiedad demoscópica",
+      "link": "https://www.eldiario.es/opinion/zona-critica/ansiedad-demoscopica_129_13684709.html",
+      "imagen": "https://static.eldiario.es/clip/61715b88-d4d6-42df-8c18-4c9deaa1c77c_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Feijóo quería \"dialogar\"",
       "link": "https://www.eldiario.es/opinion/zona-critica/feijoo-queria-dialogar_129_13679100.html",
       "imagen": "https://static.eldiario.es/clip/89de7a06-1f53-4b2f-aef7-700a16fa52d6_16-9-discover-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Este artículo está en huelga",
       "link": "https://www.eldiario.es/opinion/zona-critica/articulo-huelga_129_13653279.html",
       "imagen": "https://static.eldiario.es/clip/fdfc29f9-fed8-4f50-801c-6f54a3fbed91_16-9-discover-aspect-ratio_default_0_x3600y4249.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La huelga general ha sido un éxito",
-      "link": "https://www.eldiario.es/opinion/zona-critica/huelga-general-sido-exito_129_13648111.html",
-      "imagen": "https://static.eldiario.es/clip/a0933dd6-9071-46c3-a62d-f92b84cd4de9_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

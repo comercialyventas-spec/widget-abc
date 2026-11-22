@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Tiempo en Catalunya mañana lunes: el viento pierde fuerza y descienden las temperaturas",
+      "link": "https://www.elperiodico.com/es/tiempo/20261122/tiempo-cataluna-hoy-lunes-23-noviembre-viento-temperatura-dv-loc-136727207",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/1ae9ffba-a852-46be-a596-c3663ac31f79_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Catalunya mantiene la alerta de emergencias por fuertes rachas de viento",
       "link": "https://www.elperiodico.com/es/tiempo/20261122/cataluna-activa-alerta-emergencias-viento-fuertes-rachas-barcelona-136681986",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b6352e97-0ada-4ff1-8e5e-a37b2d803af7_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Tiempo en Catalunya hoy jueves: bajan las temperaturas y llegan fuertes rachas de viento",
       "link": "https://www.elperiodico.com/es/tiempo/20261118/tiempo-catalunya-hoy-jueves-bajan-temperaturas-fuerte-viento-dv-136583342",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/54772a1b-5ca7-4781-928b-21a5b42e8dcc_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tiempo en Catalunya hoy miércoles: día de lluvias y fuerte ascenso de las temperaturas",
-      "link": "https://www.elperiodico.com/es/tiempo/20261117/tiempo-cataluna-hoy-miercoles-18-de-noviembre-temperaturas-lluvia-dv-loc-136543585",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/38c12f09-0f6d-4797-af66-3db7204ea273_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

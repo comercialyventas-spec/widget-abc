@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Traductor de neolengua",
+      "link": "https://www.eldiario.es/opinion/traductor-neolengua_131_13684763.html",
+      "imagen": "https://static.eldiario.es/clip/8d38f6b6-09bb-4bbf-b36b-4c69e33b6c03_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Activo electoral",
       "link": "https://www.eldiario.es/opinion/activo-electoral_131_13683436.html",
       "imagen": "https://static.eldiario.es/clip/e1217c2f-af1d-4d80-bdf6-28db20bf14df_16-9-discover-aspect-ratio_default_1156216.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Llamamiento",
       "link": "https://www.eldiario.es/opinion/llamamiento_131_13672405.html",
       "imagen": "https://static.eldiario.es/clip/8d56e75d-e0de-4940-9079-2703579cf917_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Comegambas",
-      "link": "https://www.eldiario.es/opinion/comegambas_131_13666169.html",
-      "imagen": "https://static.eldiario.es/clip/7bc7f09a-dafb-4d0b-b48a-50bb57f8d4f4_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

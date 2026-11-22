@@ -1,34 +1,40 @@
 {
   "noticias": [
     {
-      "titulo": "Johnny hace el segundo del Atlético",
-      "link": "https://www.abc.es/deportes/atletico-madrid/getafe-atletico-madrid-directo-partido-resultado-goles-20261122203256-di.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/11/22/liga-j13-getafe-atletico_20261116114953-Rfag1yhLQeLUJrKooYo58JI-1200x840@diario_abc.jpg"
+      "titulo": "El Atlético vuelve a brillar lejos de casa",
+      "link": "https://www.abc.es/deportes/atletico-madrid/cronica-getafe-atletico-20261122094725-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/11/22/1520678849-RbKnK7Ibg6juckqD5weFVjN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Bailad, malditos",
+      "link": "https://www.abc.es/espana/bailad-malditos-20261122185656-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/22/1520626558-kgsE-U40483692145UaD-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Alcaraz ya tiene su obra maestra",
       "link": "https://www.abc.es/deportes/tenis/alcaraz-obra-maestra-20261122201829-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/11/22/alcaraz-trofeo-reuters-RXF8hVLR26JmdBtjlQFubGL-1200x840@diario_abc.JPG"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/11/22/alcaraz-trofeo-reuters-RXF8hVLR26JmdBtjlQFubGL-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
     },
     {
       "titulo": "Un Real Madrid muy espeso encuentra alivio en la liga",
       "link": "https://www.abc.es/deportes/baloncesto/cronica-real-madrid-joventut-20261122081408-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/11/22/maledon-Roxbsy4C2PpOock6WTRU22I-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/11/22/maledon-Roxbsy4C2PpOock6WTRU22I-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Raphael recibe el alta médica tras su hospitalización en La Coruña",
       "link": "https://www.abc.es/cultura/musica/raphael-recibe-alta-medica-tras-hospitalizacion-coruna-20261122134146-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/11/22/1-rapa-Ru8E9Z1FnYpHaGNPjTMAZQM-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/11/22/1-rapa-Ru8E9Z1FnYpHaGNPjTMAZQM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
     },
     {
       "titulo": "Al menos un muerto y dos heridos en la explosión de una vivienda en Rudilla (Teruel)",
       "link": "https://www.abc.es/espana/aragon/muerto-dos-heridos-explosion-vivienda-rudilla-teruel-20261122194138-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/22/GC-kYiC-U40484271571kH-1200x840@diario_abc.JPG"
-    },
-    {
-      "titulo": "Jair Bolsonaro, ingresado en cuidados intensivos por una obstrucción intestinal",
-      "link": "https://www.abc.es/internacional/jair-bolsonaro-ingresado-cuidados-intensivos-obstruccion-intestinal-20261122191630-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/22/1520625592-kxU-U40483980070dgD-1200x840@diario_abc.jpg"
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/22/GC-kYiC-U40484271571kH-1200x840@diario_abc.JPG",
+      "tipo": "imagen"
     }
   ]
 }

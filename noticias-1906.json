@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La gente es muy rara",
+      "link": "https://www.eldiario.es/opinion/zona-critica/gente-rara_129_13684003.html",
+      "imagen": "https://static.eldiario.es/clip/0ba17933-5cf2-4cf4-b993-1d67980768d7_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Pedro Sánchez se ha aficionado al ajedrez",
       "link": "https://www.eldiario.es/opinion/zona-critica/pedro-sanchez-aficionado-ajedrez_129_13679056.html",
       "imagen": "https://static.eldiario.es/clip/ce91a468-2784-4dc6-9355-c93842fc6802_16-9-discover-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Es su trabajo, presidente",
       "link": "https://www.eldiario.es/opinion/zona-critica/trabajo-presidente_129_13630706.html",
       "imagen": "https://static.eldiario.es/clip/d88bd5d9-08e2-4eef-97e3-8d2b8d1298ba_16-9-discover-aspect-ratio_default_0_x771y415.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las campañas se sabe cómo empiezan…",
-      "link": "https://www.eldiario.es/opinion/zona-critica/campanas-empiezan_129_13613518.html",
-      "imagen": "https://static.eldiario.es/clip/b996cb5d-164c-4090-8115-05fe52029cfb_16-9-discover-aspect-ratio_default_0_x2660y1408.jpg",
       "tipo": "imagen"
     }
   ]
