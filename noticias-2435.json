@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La cumbre del clima estudia un nuevo borrador para intentar salvar la COP31",
+      "link": "https://www.rtve.es/noticias/20261122/cop31-cumbre-clima-cambio-climatico/17325228.shtml",
+      "imagen": "https://img.rtve.es/imagenes/cop31-cumbre-clima-cambio-climatico/01795331680453.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Cumbre del Clima se estanca sin un acuerdo en plena tensión por los hidrocarburos",
       "link": "https://www.rtve.es/noticias/20261121/cumbre-clima-cop31-acuerdo/17324678.shtml",
       "imagen": "https://img.rtve.es/imagenes/cumbre-clima-cop31-acuerdo/01795274652910.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Anthropic se dispara un 17% en su debut en la bolsa y supera los 97 dólares por acción",
       "link": "https://www.rtve.es/noticias/20261119/anthropic-debuta-bolsa-record/17321403.shtml",
       "imagen": "https://img.rtve.es/imagenes/anthropic-debuta-bolsa-record/01795107232530.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La misión BepiColombo, que cuenta con tecnología vasca, está a punto de llegar a Mercurio",
-      "link": "https://www.rtve.es/noticias/20261119/mision-bepicolombo-cuenta-tecnologia-vasca-punto-llegar-mercurio/17321410.shtml",
-      "imagen": "https://img.rtve.es/imagenes/mision-bepicolombo-cuenta-tecnologia-vasca-punto-llegar-mercurio/01795097582823.png",
       "tipo": "imagen"
     }
   ]
