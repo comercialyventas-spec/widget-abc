@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Noticias de Los Berrocales",
+      "link": "https://nuevosureste.es/autobuses-nuevos-desarrollos-madrid/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2025/01/Autobus-de-la-EMT-fuente-EMT-Madrid-400x250.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Ayuntamiento de Madrid destinará 9,5 millones de euros hasta 2030 a sufragar su parte de los costes de urbanización de Los Berrocales",
       "link": "https://nuevosureste.es/ayuntamiento-madrid-9-millones-euros-urbanizacion-los-berrocales/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/11/berrocales_etapa3-400x250.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Los Berrocales será el primer desarrollo de Madrid en probar el nuevo sistema de licencias urbanísticas automatizadas",
       "link": "https://nuevosureste.es/licencias-berrocales-madriddbp/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/06/Los-Berrocales-foto-Nuevo-Sureste-1-400x250.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los Berrocales se acerca a las 4.000 viviendas en construcción, de las que 1.381 son protegidas",
-      "link": "https://nuevosureste.es/berrocales-viviendas-en-construccion/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/02/Abre-la-etapa-1-de-Los-Berrocales-foto-Nuevo-Sureste-400x250.jpg",
       "tipo": "imagen"
     }
   ]

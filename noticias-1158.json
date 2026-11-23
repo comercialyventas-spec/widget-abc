@@ -1,8 +1,26 @@
 {
   "noticias": [
     {
+      "titulo": "El Supremo marca la senda para recuperar miles de vías pecuarias usurpadas por los agricultores",
+      "link": "https://elpais.com/noticias/vias-pecuarias/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/2MUEVTUDDNDHVN4LFJXTPPYUE4.JPG?auth=424b1263466cf7d89efa9189930ec3984ec9db5ec6179014db74b5fcd3147922&width=414&height=233&focal=1656%2C1070",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Giro de Italia 2027: montañas a gogó para gozo de los aficionados y pavor de los artistas",
+      "link": "https://elpais.com/deportes/ciclismo/2026-11-03/giro-de-italia-2027-montanas-a-gogo-para-gozo-de-los-aficionados-y-pavor-de-los-artistas.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/WD4P2ONQM7Q4BCYYVJEGG2JLUQ.jpg?auth=e2e94aaaa991c3a12732fb922310c62ca57b6f0f156546b4e0519c1796e4b961&width=1200",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Autoridad Catalana de la Competencia pide “preservar” la oferta privada de bicicletas en Barcelona",
+      "link": "https://elpais.com/espana/catalunya/2026-10-30/la-autoridad-catalana-de-la-competencia-pide-preservar-la-oferta-privada-de-bicicletas-en-barcelona.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/6ZCBTTFTMVFKNI6KT6CGVFHRT4.jpg?auth=0dd8a4536b050af776e4bf58264d3328716384b3dba99b58fe7903ef79ba399e&width=1200",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un lector: “Lo que en un coche parece un adelantamiento rápido, para el ciclista es un veloz latigazo de aire”",
-      "link": "https://elpais.com/autor/cartas-director/",
+      "link": "https://elpais.com/opinion/2026-10-29/un-lector-lo-que-en-un-coche-parece-un-adelantamiento-rapido-para-el-ciclista-es-un-veloz-latigazo-de-aire.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/JVMM2IVGHZFONHVSWW33XPADH4.jpg?auth=e4429182f51155ef29a4aab8bcbe4a22fe6ffe34f0b930f3328a664d11254555&width=414&height=233&smart=true",
       "tipo": "imagen"
     },
@@ -14,26 +32,8 @@
     },
     {
       "titulo": "Cataluña cerrará al tráfico ocho puertos de montaña para los ciclistas",
-      "link": "https://elpais.com/espana/catalunya/2026-10-21/cataluna-cerrara-al-trafico-ocho-puertos-de-montana-para-los-ciclistas.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ZUPVGVEGIJF7JFJULLAEQ6WUHY.jpg?auth=a404be6c2ff567b2c9c7341b5217868739d4292627e6156a4cf34b84a6e37046&width=1200",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Paul Seixas alcanza en el Giro de Lombardía su futuro anunciado",
-      "link": "https://elpais.com/deportes/ciclismo/2026-10-10/paul-seixas-alcanza-en-el-giro-de-lombardia-su-futuro-anunciado.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/H6XHKXTVENOEBD6T7P7OE6RVLM.jpg?auth=7df51636a732f49cf99fc6dc3cd3ff783a1d95d00ca91bef1aa6e810b2356a2a&width=414&height=233&focal=2865%2C1088",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Pippa York: “Las trans no somos el problema en el mundo femenino: nosotras no agredimos a otras mujeres”",
-      "link": "https://elpais.com/deportes/ciclismo/2026-10-09/pippa-york-las-trans-no-somos-el-problema-en-el-mundo-femenino-nosotras-no-agredimos-a-otras-mujeres.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/MMB2TBIZWREYXBCZ7URQM4I3VA.JPG?auth=9dc94d765961f1cd2d232a50ab35e08168f3a74a704a25f6647f6f82f69832bc&width=1200",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Pippa York, del barrio más duro de Glasgow a pedalear por los Pirineos",
-      "link": "https://elpais.com/noticias/ciclismo/",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/YHBXHBGPMJECPHFMBVFAB7E4AQ.jpg?auth=5916cc105c939a85e166014910e9d2d7959b84ea7375ad50268a9423b5e4be83&width=414&height=233&focal=4097%2C1706",
+      "link": "https://elpais.com/deportes/ciclismo/",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ZUPVGVEGIJF7JFJULLAEQ6WUHY.jpg?auth=a404be6c2ff567b2c9c7341b5217868739d4292627e6156a4cf34b84a6e37046&width=414&height=233&focal=3521%2C1793",
       "tipo": "imagen"
     }
   ]

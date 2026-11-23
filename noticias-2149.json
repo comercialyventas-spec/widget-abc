@@ -1,15 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "Medioambiente 1 de noviembre de 2026 - 06:00 h",
-      "link": "https://www.infolibre.es/medioambiente/",
-      "imagen": "https://static.infolibre.es/clip/d59ba7ad-bcee-47e4-b507-a0f8b9ec7025_source-aspect-ratio_default_0.jpg",
+      "titulo": "Política 18 de noviembre de 2026 - 06:00 h",
+      "link": "https://www.infolibre.es/politica/",
+      "imagen": "https://static.infolibre.es/clip/44eec3ae-e01c-4baf-b959-a33ca3292b13_source-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Economía 16 de octubre de 2026 - 19:15 h",
-      "link": "https://www.infolibre.es/economia/",
+      "titulo": "Economía y sociedad",
+      "link": "https://www.infolibre.es/economia-y-sociedad/",
       "imagen": "https://static.infolibre.es/clip/0408ec2e-d618-4c82-8eeb-f8dec1bf2c5a_source-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Medioambiente 14 de noviembre de 2026 - 06:01 h",
+      "link": "https://www.infolibre.es/medioambiente/",
+      "imagen": "https://static.infolibre.es/clip/d59ba7ad-bcee-47e4-b507-a0f8b9ec7025_source-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "La Seguridad Social rectifica y reconoce una incapacidad permanente absoluta sin llegar a juicio",
+      "link": "https://elpais.com/economia/mis-derechos/2026-11-18/la-seguridad-social-rectifica-y-reconoce-una-incapacidad-permanente-absoluta-sin-llegar-a-juicio.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NVRJFVNUVBF5RP36YPSF3FDRSY.jpg?auth=c33b20108347281c913d4e0fbdf332bf2d4ae2334033d553190a43fa66561462&width=414&height=233&smart=true",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El Estado pagará 10.000 euros por el tratamiento psiquiátrico de una adolescente con tendencia autolesiva rechazada en la Sanidad Pública",
+      "link": "https://elpais.com/economia/mis-derechos/2026-11-11/el-estado-pagara-10000-euros-por-el-tratamiento-psiquiatrico-de-una-adolescente-con-tendencia-autolesiva-rechazada-en-la-sanidad-publica.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/AF27DRMTVFBEHMBUEIJYWC5M2M.jpg?auth=f5e96897b3381af4bc066f8f2853e82c577b75098408a9f0f2f6434b9a61b4f0&width=414&height=311&focal=2920%2C1911",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La Justicia aclara que quien acepta cuidar un perro responde por su pérdida, aunque sea un favor",
+      "link": "https://elpais.com/economia/mis-derechos/2026-11-04/la-justicia-aclara-que-quien-acepta-cuidar-un-perro-responde-por-su-perdida-aunque-sea-un-favor.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/RPUR4BETORAXHDSWGUE36Q4HI4.jpg?auth=f60e0ac6230252132c385161f1c1fc7892401f7375cbd831c3c3c23e569d8fc4&width=414&height=311&smart=true",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Supremo impide a las empresas esquivar un despido colectivo mediante bajas voluntarias",
       "link": "https://elpais.com/economia/mis-derechos/2026-10-28/el-supremo-impide-a-las-empresas-esquivar-un-despido-colectivo-mediante-bajas-voluntarias.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/SBKGWARKIRCONHIIG3TWCRNC3E.jpg?auth=b2cc014373b165e166026cc8ae63d3d8fddd6423991c9b8f278c4532a029ffbc&width=414&height=233&smart=true",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/SBKGWARKIRCONHIIG3TWCRNC3E.jpg?auth=b2cc014373b165e166026cc8ae63d3d8fddd6423991c9b8f278c4532a029ffbc&width=414&height=311&smart=true",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "Un cheque de 180.000 euros que no debía cobrarse: el Supremo condena a Bankinter por no comprobar quién era su beneficiario",
       "link": "https://elpais.com/economia/mis-derechos/2026-10-14/un-cheque-de-180000-euros-que-no-debia-cobrarse-el-supremo-condena-a-bankinter-por-no-comprobar-quien-era-su-beneficiario.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/BYQKNXANJVG63DHRXS7QFYFTSQ.jpg?auth=372981e1dee1ccf58fc15bfd9282943d96a833aa9b737b97ae9f652b104cceca&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Dudas legales sobre la huelga general del 11 de noviembre: ¿debo avisar al jefe? ¿me descuentan pagas extra? ¿y si estoy de baja?",
-      "link": "https://elpais.com/economia/mis-derechos/2026-10-07/dudas-legales-sobre-la-huelga-general-del-11-de-noviembre-debo-avisar-al-jefe-me-descuentan-pagas-extra-y-si-estoy-de-baja.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/CE2LAJKPNNMJLMRAC7SBKJNUUM.jpg?auth=a99b1a8933bbcfaf43957e7d9f349d320c50b773caab517d996a1e8a2ea27e28&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La justicia anula el despido de una madre que pidió adaptar su horario para cuidar a su hijo",
-      "link": "https://elpais.com/economia/mis-derechos/2026-10-02/la-justicia-anula-el-despido-de-una-madre-que-pidio-adaptar-su-horario-para-cuidar-a-su-hijo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/RG37I2ZVLNAYTCDXITPIYG7BJ4.jpg?auth=e3344f31c72249388b19f93261d958f3580d5f8d6200779675cf9370e941623e&width=414&height=311&smart=true",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Begoña Gómez será juzgada por un jurado popular. ¿Es posible descartar a un miembro por sesgos políticos? ¿Cómo son elegidos? ¿El fallo es recurrible?",
-      "link": "https://elpais.com/economia/mis-derechos/2026-09-28/begona-gomez-sera-juzgada-por-un-jurado-popular-es-posible-descartar-a-un-miembro-por-sesgos-politicos-como-son-elegidos-el-fallo-es-recurrible.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/J2LHZANLZVEDLNFYHFSGPMBMSM.jpg?auth=16ffdc75646f4f1e2a42bd7fb3c80894b7e9aa22c35d83bfd6c3d65d1bfb7017&width=414&height=311&smart=true",
       "tipo": "imagen"
     }
   ]

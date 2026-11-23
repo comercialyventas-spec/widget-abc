@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Un catalán de 22 años es detenido por la policía de inmigración de Estados Unidos (ICE)",
+      "link": "https://www.elconfidencial.com/mundo/2026-11-23/catalan-detenido-por-el-ice-estados-unidos_4471037/",
+      "imagen": "https://images.ecestaticos.com/SWVOAsZmCJ6YP6FOTbEQbDBceA4=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F712%2F10e%2F6b8%2F71210e6b847f936d62ccf1196fb2736a.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ucrania reivindica los ataques contra dos buques rusos cerca de Libia",
       "link": "https://www.elconfidencial.com/mundo/2026-11-23/ucrania-reivindica-los-ataques-contra-dos-buques-rusos-cerca-de-libia_4470467/",
       "imagen": "https://images.ecestaticos.com/rnVbOP4Mr6hPeM0x8ss1iv1qVIo=/0x0:2272x1278/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F8f8%2Fe4f%2F327%2F8f8e4f327567cd854534858626c6e40a.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Lo que los unió empieza a separarles: la resaca electoral de EEUU divide a AfD por el dilema migratorio",
+      "link": "https://www.elconfidencial.com/mundo/2026-11-23/les-unio-empieza-separarles-resaca-electoral-eeuu-grieta-afd-migratorio_4466908/",
+      "imagen": "https://images.ecestaticos.com/AGvEm_tMBbBoZDt_Pg0EQg5PB4M=/0x0:2272x1278/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7ff%2Ffd3%2F406%2F7fffd3406763f9b96034f18cb9fbe43f.jpg",
       "tipo": "imagen"
     },
     {
@@ -19,21 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Lo que los unió empieza a separarles: la resaca electoral de EEUU divide a AfD por el dilema migratorio",
-      "link": "https://www.elconfidencial.com/mundo/2026-11-23/les-unio-empieza-separarles-resaca-electoral-eeuu-grieta-afd-migratorio_4466908/",
-      "imagen": "https://images.ecestaticos.com/AGvEm_tMBbBoZDt_Pg0EQg5PB4M=/0x0:2272x1278/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7ff%2Ffd3%2F406%2F7fffd3406763f9b96034f18cb9fbe43f.jpg",
-      "tipo": "imagen"
-    },
-    {
       "titulo": "Un buque de guerra ruso, atacado con drones en un puerto de Libia",
       "link": "https://www.elconfidencial.com/mundo/2026-11-22/un-barco-ruso-atacado-drones-en-el-puerto-de-bengasi-en-el-este-de-libia_4470263/",
       "imagen": "https://images.ecestaticos.com/WM2hQWUjndJ7E7R3EEC3aGJ3pDk=/0x188:2272x1466/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F565%2Feb8%2F7d8%2F565eb87d8bc5f05a64c973cad06dd9ea.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Nadar entre explosiones en Ormuz: la hazaña de Lewis Pugh para denunciar el problema ecológico de la guerra",
-      "link": "https://www.elconfidencial.com/mundo/2026-11-22/nadador-lewis-pugh-estrecho-ormuz-1hms_4470218/",
-      "imagen": "https://images.ecestaticos.com/GEbyA7DK3MIEY4YrOI_82YQIgV8=/0x0:2272x1273/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F94d%2Fabd%2F2aa%2F94dabd2aa8f07c1ce423b27c5a71c5d9.jpg",
       "tipo": "imagen"
     }
   ]

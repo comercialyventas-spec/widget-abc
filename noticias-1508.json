@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Roma no paga traidores",
+      "link": "https://www.eldiario.es/contracorriente/roma-no-paga-traidores_132_13681012.html",
+      "imagen": "https://static.eldiario.es/clip/b46e44bd-bf53-4cc1-b947-60f1631bec4c_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La participación decidirá",
       "link": "https://www.eldiario.es/contracorriente/participacion-decidira_132_13674025.html",
       "imagen": "https://static.eldiario.es/clip/f9b43096-99bb-45d1-9a38-b34c1e7558da_16-9-discover-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La dirección del viento está cambiando",
       "link": "https://www.eldiario.es/contracorriente/direccion-viento-cambiando_132_13616480.html",
       "imagen": "https://static.eldiario.es/clip/08af9838-3592-451b-a533-be54117eda2f_16-9-discover-aspect-ratio_default_0_x1046y345.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ábalos ante el Tribunal Constitucional",
-      "link": "https://www.eldiario.es/contracorriente/abalos-tribunal-constitucional_132_13586057.html",
-      "imagen": "https://static.eldiario.es/clip/bd7eba5f-2400-4208-b4cc-378c5447d4fe_16-9-discover-aspect-ratio_default_0_x1412y192.jpg",
       "tipo": "imagen"
     }
   ]

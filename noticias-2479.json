@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Zenytu | Productos para un ambiente relajante",
+      "link": "https://www.dtiendasonline.es/tiendas-bienestar-belleza-online/zenytu-productos-un-ambiente-relajante-1675",
+      "imagen": "https://www.dtiendasonline.es/oc-content/uploads/16/1584_thumbnail.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Shoppinss | Perfumería y Parafarmacia",
       "link": "https://www.dtiendasonline.es/tiendas-bienestar-belleza-online/shoppinss-perfumeria-parafarmacia-1648",
       "imagen": "https://www.dtiendasonline.es/oc-content/uploads/16/1566_thumbnail.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Aire Natural | Cosméticos",
       "link": "https://www.dtiendasonline.es/tiendas-bienestar-belleza-online/aire-natural-cosmeticos-1543",
       "imagen": "https://www.dtiendasonline.es/oc-content/uploads/15/1459_thumbnail.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mesoterapiaonline | Productos para mesoterapia",
-      "link": "https://www.dtiendasonline.es/tiendas-bienestar-belleza-online/mesoterapiaonline-productos-mesoterapia-1542",
-      "imagen": "https://www.dtiendasonline.es/oc-content/uploads/15/1458_thumbnail.png",
       "tipo": "imagen"
     }
   ]

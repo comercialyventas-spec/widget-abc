@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Nvidia recupera a Jensen Huang como consejero delegado",
+      "link": "https://elpais.com/economia/2026-11-23/nvidia-recupera-a-jensen-huang-como-consejero-delegado.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261123/1241284_164755_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Cúcuta se convierte en la primera capital departamental de Colombia atacada con drones",
+      "link": "https://elpais.com/america-colombia/2026-11-23/cucuta-se-convierte-en-la-primera-capital-departamental-de-colombia-atacada-con-drones.html",
+      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261123/1241350_183004_video_1800.mp4",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La ministra de Educación apunta a una revolución ultraconservadora, pero con menos dinero",
       "link": "https://elpais.com/america-colombia/2026-11-23/la-ministra-de-educacion-apunta-a-una-revolucion-ultraconservadora-pero-con-menos-dinero.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/ZDMPNDDWUVFI5E2HM2BDRLO3KE.jpg?auth=cd8ec1e2614283ad565fedb8e9b42768a6fa734abce0df26d737ca587060afb7",
@@ -22,18 +34,6 @@
       "titulo": "Las trabajadoras domésticas se alistan para participar por primera vez en la mesa que define el salario mínimo",
       "link": "https://elpais.com/america-colombia/2026-11-23/las-trabajadoras-domesticas-se-alistan-para-participar-por-primera-vez-en-la-mesa-que-define-el-salario-minimo.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/UYOB6GWUHJC6DFMUULKXXSFAOY.jpg?auth=17d86ccb8ad2b35960b9ed683aedf033600d7e45d33e7cecd67640e6f8a9aee0",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Colombia vive en el siglo XIX",
-      "link": "https://elpais.com/america-colombia/2026-11-23/colombia-vive-en-el-siglo-xix.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/QDYRKJANKZNZBBQ353CYQFYNVU.jpg?auth=0533ef7dc81d443dbd68dcf036887a00d384db701f16346f022b23f970edefff",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El rastro tóxico de los rituales mayas: cómo un pigmento rojo envenenó el agua de Yucatán",
-      "link": "https://elpais.com/mexico/2026-11-23/el-rastro-toxico-de-los-rituales-mayas-como-un-pigmento-rojo-enveneno-el-agua-de-yucatan.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/S4A5RAWBL5BX7M5U2Q7FAJBP4Y.jpeg?auth=39e895b8c9c5c3a69ced8127121704f06ed4cf7ceb6ef5748b6c95e2b526a11b",
       "tipo": "imagen"
     }
   ]

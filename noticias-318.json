@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El viaje sin fin del 'Doctor Who'",
+      "link": "https://www.abc.es/play/series/noticias/viaje-fin-doctor-who-20261123144755-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/11/23/doctor-who-RNkmjqyLTqaP0bZCri32HEI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Llega a Netflix la nueva serie de los creadores de 'Élite': un romance de época protagonizado por Carlos Cuevas y Carla Campra",
       "link": "https://www.abc.es/play/series/noticias/llega-netflix-nueva-serie-creadores-elite-romance-20261122120000-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/11/20/lossecretosdelacortesana-kT8G-RO6EV8rRIVYRtfENNJGHzkI-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Muere atropellado el actor de 'Friends' y 'CSI' Larry Poindexter a los 66 años",
       "link": "https://www.abc.es/play/series/noticias/muere-atropellado-actor-defriends-csi-larry-poindexter-20261119225340-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/11/19/Poindexter-k64E-U40442656789sL-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "'El crimen de Pazos'",
-      "link": "https://www.abc.es/play/series/noticias/crimen-pazos-20261119121510-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/11/19/crimenpazos-RzL1MLTcEpE1zvenBJDDhyM-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

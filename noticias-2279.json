@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "Ensaladilla de gambas para Navidad",
-      "link": "https://lacocinadefrabisa.lavozdegalicia.es/ensaladilla-de-gambas-un-entrante-economico-y-lucido-para-navidad/",
-      "imagen": "https://lacocinadefrabisa.lavozdegalicia.es/wp-content/uploads/2025/08/ensaladilla-de-gambas-ok.jpg",
+      "titulo": "Merluza rellena de marisco al horno",
+      "link": "https://lacocinadefrabisa.lavozdegalicia.es/merluza-rellena-de-marisco/",
+      "imagen": "https://lacocinadefrabisa.lavozdegalicia.es/wp-content/uploads/2021/12/MELUZA-RELLENA.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Pulpo a la Plancha con Volandeiras y Gambones |Cocina fácil y elegante",
+      "link": "https://lacocinadefrabisa.lavozdegalicia.es/pulpo-a-la-plancha-con-zamburinas-y-gambones-cocina-facil-y-elegante/",
+      "imagen": "https://lacocinadefrabisa.lavozdegalicia.es/wp-content/uploads/2025/04/pulpo-a-la-plancha-con-gambones-y-zamburinas.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Menú semanal del 23 al 29 de noviembre",
+      "link": "https://lacocinadefrabisa.lavozdegalicia.es/menu-semanal-del-23-al-29-de-noviembre-2/",
+      "imagen": "https://lacocinadefrabisa.lavozdegalicia.es/wp-content/uploads/2026/11/collage-2.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Magdalenas de boniato y chips de chocolate",
+      "link": "https://lacocinadefrabisa.lavozdegalicia.es/magdalenas-de-boniato-y-chips-de-chocolate/",
+      "imagen": "https://lacocinadefrabisa.lavozdegalicia.es/wp-content/uploads/2026/05/madalenas-de-boniato-y-chips-de-chocolate-1.jpg",
       "tipo": "imagen"
     },
     {
@@ -13,27 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Mousse de aguacate con salmón para Navidad",
-      "link": "https://lacocinadefrabisa.lavozdegalicia.es/aperitivo-festivo-de-mousse-de-aguacate-con-salmon-y-mango-facil-fresco-y-elegante/",
-      "imagen": "https://lacocinadefrabisa.lavozdegalicia.es/wp-content/uploads/2025/09/MOUSSE-DE-AGUACATE-SALMON-Y-MANGO.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cómo cocer centolla gallega y prepararla para servir",
-      "link": "https://lacocinadefrabisa.lavozdegalicia.es/como-cocinar-centolloa-gallego/",
-      "imagen": "https://lacocinadefrabisa.lavozdegalicia.es/wp-content/uploads/2018/11/centolla-gallega.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cómo hacer caldo gallego de nabizas o grelos fácil y tradicional",
-      "link": "https://lacocinadefrabisa.lavozdegalicia.es/como-hacer-caldo-gallego-de-nabizas-facil-y-tradicional/",
-      "imagen": "https://lacocinadefrabisa.lavozdegalicia.es/wp-content/uploads/2025/11/caldo-gallego-1-1.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Menú semanal del 16 al 22 de noviembre",
-      "link": "https://lacocinadefrabisa.lavozdegalicia.es/menu-semanal-del-16-al-22-de-noviembre/",
-      "imagen": "https://lacocinadefrabisa.lavozdegalicia.es/wp-content/uploads/2026/11/collage-1.jpg",
+      "titulo": "Ensaladilla de gambas para Navidad",
+      "link": "https://lacocinadefrabisa.lavozdegalicia.es/ensaladilla-de-gambas-un-entrante-economico-y-lucido-para-navidad/",
+      "imagen": "https://lacocinadefrabisa.lavozdegalicia.es/wp-content/uploads/2025/08/ensaladilla-de-gambas-ok.jpg",
       "tipo": "imagen"
     }
   ]

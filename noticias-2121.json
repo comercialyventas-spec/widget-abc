@@ -2,6 +2,12 @@
   "noticias": [
     {
       "titulo": "Sobre este blog",
+      "link": "https://www.infolibre.es/opinion/",
+      "imagen": "https://static.infolibre.es/clip/401ad3f6-ac71-4e3d-9ef2-b24b1056ae27_source-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Sobre este blog",
       "link": "https://www.infolibre.es/opinion/columnas/al-reves-al-derecho/",
       "imagen": "https://static.infolibre.es/clip/401ad3f6-ac71-4e3d-9ef2-b24b1056ae27_source-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
@@ -29,12 +35,6 @@
       "link": "https://www.infolibre.es/opinion/columnas/al-reves-al-derecho/eutanasia-derecho-reves_132_1972815.html",
       "imagen": "https://static.infolibre.es/clip/385203eb-8db5-458a-8f56-a1dd76054da8_source-aspect-ratio_default_0.jpeg",
       "tipo": "imagen"
-    },
-    {
-      "titulo": "Contra la indiferencia y los dogmas: pensar y actuar",
-      "link": "https://www.infolibre.es/opinion/columnas/al-reves-al-derecho/indiferencia-dogmas-pensar-actuar_132_1953792.html",
-      "imagen": "",
-      "tipo": ""
     }
   ]
 }
