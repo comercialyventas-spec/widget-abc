@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Concentración en Jorge Juan. Afectadas 2 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261126-C-Jorge-Juan.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Obras: Capitán Blanco Argibay. Afectada línea N22 de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261124-O-Capitan-Blanco-Argibay.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Manifestación en zona Centro. Afectadas 30 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261125-M-Prado-Pza-Callao.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -21,18 +33,6 @@
     {
       "titulo": "Evento: Palacio de los Deportes. Afectadas 4 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261125-PD-Baloncesto.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Manifestación en calle Alcalá y plaza Manuel Becerra. Afectadas 15 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261125-M-Alcala-Manuel-Becerra.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Manifestación en glorieta Valle de Oro y General Ricardos. Afectadas 7 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261125-M-Oporto-Gral-Ricardos.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

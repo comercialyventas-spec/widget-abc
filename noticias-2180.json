@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Lunes con viento fuerte en Tarragona y bajada de temperaturas en el Mediterráneo",
+      "link": "https://www.elperiodico.com/es/tarragona/20261123/lunes-viento-fuerte-tarragona-bajada-temperaturas-mediterraneo-136744801",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/78538f79-a219-4e24-b2bd-ee5ba8fc5bcf_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Tiempo en Catalunya hoy lunes: el viento pierde fuerza y descienden las temperaturas",
       "link": "https://www.elperiodico.com/es/tiempo/20261122/tiempo-cataluna-hoy-lunes-23-noviembre-viento-temperatura-dv-loc-136727207",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/1ae9ffba-a852-46be-a596-c3663ac31f79_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Tiempo en Catalunya hoy viernes: bajan las temperaturas antes de un fin de semana marcado por el viento",
       "link": "https://www.elperiodico.com/es/tiempo/20261119/tiempo-catalunya-hoy-viernes-temperaturas-viento-meteocat-136623944",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/978e6abc-3a8c-4696-b25d-2859b0dae992_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tiempo en Catalunya hoy jueves: bajan las temperaturas y llegan fuertes rachas de viento",
-      "link": "https://www.elperiodico.com/es/tiempo/20261118/tiempo-catalunya-hoy-jueves-bajan-temperaturas-fuerte-viento-dv-136583342",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/54772a1b-5ca7-4781-928b-21a5b42e8dcc_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

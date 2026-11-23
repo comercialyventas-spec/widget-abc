@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Militares",
+      "link": "https://www.elconfidencialdigital.com/defensa/militares/202611231248111504872.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/20/2026102020455128478.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Regimiento de Caballería 'España' nº 11",
       "link": "https://www.elconfidencialdigital.com/defensa/regimiento-caballeria-espana-11/202611212318171504738.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/21/2026112123154832767.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Vehículos",
       "link": "https://www.elconfidencialdigital.com/defensa/vehiculos/202611192312561504224.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/19/2026111923092925147.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Militares",
-      "link": "https://www.elconfidencialdigital.com/defensa/militares/202611191326301504055.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/30/2026093013485493452.jpg",
       "tipo": "imagen"
     }
   ]
