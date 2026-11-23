@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El regreso triunfal de Jensen Huang, creador de Nvidia, a la cima de la inteligencia artificial",
+      "link": "https://www.rtve.es/noticias/20261123/huang-nvidia-regreso-cima-inteligencia-artificial/17327367.shtml",
+      "imagen": "https://img.rtve.es/imagenes/huang-nvidia-regreso-cima-inteligencia-artificial/01795459607143.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Hallan en Lleida el cuello del que podría ser el titanosaurio más grande de Europa",
+      "link": "https://www.rtve.es/noticias/20261123/hallan-lleida-cuello-del-podria-ser-titanosaurio-mas-grande-europa/17327182.shtml",
+      "imagen": "https://img.rtve.es/imagenes/hallan-lleida-cuello-del-podria-ser-titanosaurio-mas-grande-europa/01795451169184.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Tamagotchi: 30 años de una vida virtual en nuestras manos",
       "link": "https://www.rtve.es/noticias/20261123/tamagotchi-30-anos-vida-virtual/17323162.shtml",
       "imagen": "https://img.rtve.es/imagenes/tamagotchi-30-anos-vida-virtual/01795175860136.jpg",
@@ -22,18 +34,6 @@
       "titulo": "La Cumbre del Clima se estanca sin un acuerdo en plena tensión por los hidrocarburos",
       "link": "https://www.rtve.es/noticias/20261121/cumbre-clima-cop31-acuerdo/17324678.shtml",
       "imagen": "https://img.rtve.es/imagenes/cumbre-clima-cop31-acuerdo/01795274652910.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Nasdaq se desploma un 5,28 % en un durísimo viernes para el sector tecnológico",
-      "link": "https://www.rtve.es/noticias/20261121/nasdaq-se-desploma-528-durisimo-viernes-para-sector-tecnologico/17324564.shtml",
-      "imagen": "https://img.rtve.es/imagenes/nasdaq-se-desploma-528-durisimo-viernes-para-sector-tecnologico/01795217700843.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Gobierno aprueba una inversión récord en la red eléctrica hasta 2030 y el decreto que regula los centros de datos",
-      "link": "https://www.rtve.es/noticias/20261120/gobierno-inversion-record-red-electrica-centros-datos/17323152.shtml",
-      "imagen": "https://img.rtve.es/imagenes/gobierno-inversion-record-red-electrica-centros-datos/01795177780236.jpg",
       "tipo": "imagen"
     }
   ]
