@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Este jueves vuelve \"Sálvame\"",
+      "link": "https://www.elperiodico.com/es/videos/tele/jueves-vuelve-salvame-video/136723837.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/12905cb7-ff1c-4767-b83e-7c181266f370_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Teatro Real de Madrid celebra su premio como mejor ópera del mundo",
       "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/teatro-real-madrid-celebra-premio/136720249.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/3af01c94-69ba-4712-b822-ad777efb06c4_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "A pie de calle El primer día del GTA VI: así opinan los jugadores que ya lo han probado",
       "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/pie-calle-primer-dia-gta-vi-opiniones-jugadores-video/136622658.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/79a58da7-f751-49e1-8492-468a957cca04_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "TVyMAS; Cubino, President !!",
-      "link": "https://www.elperiodico.com/es/videos/tele/tvymas-cubino-president/136627107.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/947e9ebf-8ca2-4532-b7ff-f3963e8adcd0_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

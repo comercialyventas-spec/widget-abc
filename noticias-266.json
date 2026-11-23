@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Las cosas por su nombre",
+      "link": "https://www.abc.es/espana/galicia/nombre-20261122060005-nt.html",
+      "imagen": "https://s1.abcstatics.com/narwhal/1.3.72/assets/images/abc-noticias.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El hombre que atropelló a su hermano en la reyerta de Ribeira recurre a su familia para desmontar la acusación de asesinato",
       "link": "https://www.abc.es/espana/galicia/hombre-atropello-hermano-reyerta-ribeira-recurre-familia-20261119040001-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/19/1498619391-RIa35BhOqlO3s2PMXNciTRO-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Nueva ley de educación digital gallega: «No es en la escuela donde los niños están una hora haciendo scroll en Tiktok»",
       "link": "https://www.abc.es/espana/galicia/nueva-ley-educacion-digital-gallega-escuela-ninos-20261119191427-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/19/1494422779-RLubWo2NGmu2SvrXwvdrI8N-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ansiedad, estrés e incertidumbre: las preocupaciones que más pesan entre los universitarios",
-      "link": "https://www.abc.es/espana/galicia/ansiedad-estres-incertidumbre-preocupaciones-pesan-universitarios-20261121191359-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/21/1497286003-RMMJ1KSEBGWEwoTHfLLjOSM-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

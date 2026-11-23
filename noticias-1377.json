@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La batalla del cabello de ángel",
+      "link": "https://elpais.com/gastronomia/2026-11-23/la-batalla-del-cabello-de-angel.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/BSAN4OGZGBBQ7FF3QSWU6BDHZU.jpg?auth=9980a76114776a6de497d533f0f0a72c39f8fd26e4588e61f5b5d1f46ad91b87",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Yuvarlakia, la receta griega de sopa de albóndigas con huevo y limón",
+      "link": "https://elpais.com/gastronomia/el-comidista/2026-11-23/yuvarlakia-la-receta-griega-de-sopa-de-albondigas-con-huevo-y-limon.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KMZWVJJOO5CXZJRLXEVOU2OIWQ.jpg?auth=61af25dabb462e608c1dacd17291c2bb32655fcc34d89a6a2ecc0b950bcbc9ce",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Guía Gastro 2027: una selección de los restaurantes y comercios favoritos de los expertos de EL PAÍS",
       "link": "https://elpais.com/gastronomia/2026-11-22/la-guia-gastro-2027-una-seleccion-de-los-restaurantes-y-comercios-favoritos-de-los-expertos-de-el-pais.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/GSXMFGL43JHPBB3HHIJSSDLN6A.jpg?auth=2a78c1301457d80dbd631026d9263189d6ca257e211e0518b550f9e6340417ef",
@@ -22,18 +34,6 @@
       "titulo": "Por qué en Cádiz los churros se comen de otra manera: al peso y un poco salados",
       "link": "https://elpais.com/gastronomia/el-comidista/2026-11-21/por-que-en-cadiz-los-churros-se-comen-de-otra-manera-al-peso-y-un-poco-salados.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/JETLEWSYZZBU5BYPUHFOZD7WWI.jpg?auth=9300fc953ee63db00a7bf7dede42ccd00ccce8430e2c05ef97c8fe4a568b61ca",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Asador Etxebarri, regreso al altar del fuego",
-      "link": "https://elpais.com/gastronomia/2026-11-21/asador-etxebarri-regreso-al-altar-del-fuego.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/BIIICQ7P7RE7XKAZCOLPPMQHVA.jpg?auth=c9ead5949281fa0503e6583dfeec6e0ddc9e5e364cae381752f6665762dc0e07",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cinco recetas veganas del restaurante Desoriente para preparar en casa",
-      "link": "https://elpais.com/gastronomia/2026-11-21/cinco-recetas-veganas-del-restaurante-desoriente-para-preparar-en-casa.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/2JRJLN2GOVAEHE6ZSKTHZUPGY4.jpg?auth=9098c91fad284baf051b110c2aa604fbed7e46e043b11a723b228e3062b968eb",
       "tipo": "imagen"
     }
   ]

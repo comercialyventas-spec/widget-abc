@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "El peso que se quita DIA con la venta en Argentina: más beneficio, más potencial y una nueva historia",
+      "link": "https://www.elconfidencial.com/mercados/el-valor-anadido/2026-11-23/dia-analistas-mejoran-valoracion-venta-argentina_4469212/",
+      "imagen": "https://images.ecestaticos.com/6SerWpWljQ6vxszqCgVen1RcMGc=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd33%2F35c%2F1a7%2Fd3335c1a7c31b0b163793539079acf53.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "David Merino, experto en educación financiera, sobre los ahorros: “Tenemos un termómetro en la cuenta. Yo llegaba a 30.000 € y aparecía un gasto”",
+      "link": "https://www.elconfidencial.com/mercados/finanzas-personales/2026-11-22/david-merino-educacion-financiera-ahorros_4467432/",
+      "imagen": "https://images.ecestaticos.com/QmM6HumWDzGR7Ap8p25_HgCNeoQ=/0x0:1015x571/0x900/filters:format(png)/f.elconfidencial.com%2Foriginal%2F74f%2F592%2F8cc%2F74f5928cce5489fbb7f0d3cc596933a3.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El petróleo puede dar un respiro a los bancos centrales en 2027: todo dependerá de la estabilidad energética",
+      "link": "https://www.elconfidencial.com/mercados/2026-11-21/mercados-inversiones-empresas-europa-eeuu-bra_4468330/",
+      "imagen": "https://images.ecestaticos.com/UX8yHurmiU4mebXMlrk0W0XSmHM=/0x0:2000x1333/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe17%2F770%2Fd1c%2Fe17770d1c946ce254ee0a54016d92e50.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El bitcoin pierde los 60.000 dólares lastrado por las salidas en ETF y las tecnológicas",
+      "link": "https://www.elconfidencial.com/mercados/2026-11-20/bitcoin-cae-salidas-etf-1hms_4469500/",
+      "imagen": "https://images.ecestaticos.com/OpeRjUcdOe0Ser8QxcqbjMc0ONE=/0x0:640x439/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff5a%2F04f%2F083%2Ff5a04f083a201843f6bf1d6293dc55ba.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "IX edición del foro 'Activos digitales', en imágenes",
       "link": "https://www.elconfidencial.com/mercados/2026-09-16/activos-digitales-sistema-financiero-tokenizacion-bra_4423491/",
       "imagen": "https://images.ecestaticos.com/13kzCuXGCusRqUvDuoVm3lXsSDg=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff4f%2Fcf8%2Fbcf%2Ff4fcf8bcf8b47ae2e745426d67c84226.jpg",
@@ -10,24 +34,6 @@
       "titulo": "El foro 'Emerging Markets Summit', en imágenes",
       "link": "https://www.elconfidencial.com/mercados/2026-03-02/inversion-mercados-emergentes-economia-bra_4308895/",
       "imagen": "https://images.ecestaticos.com/nVZmk2woaHlK0o3xCHwCAesAJlo=/0x0:1920x1078/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F573%2F0c9%2F332%2F5730c93327e4d07544d74cae8ea3628c.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Foro 'Ideas con Valor', en imágenes",
-      "link": "https://www.elconfidencial.com/mercados/2025-11-20/ideas-valor-accion-social-sostenibilidad-finanzas-bra_4250496/",
-      "imagen": "https://images.ecestaticos.com/ifWKkeuW-3Z6Bvgt7iPHBhTMrkI=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa27%2F00c%2Fb80%2Fa2700cb80d720b8829642fca49554af1.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "VIII edición del foro 'Activos Digitales', en imágenes",
-      "link": "https://www.elconfidencial.com/mercados/2025-09-17/galeria-activos-digitales-bra_4209402/",
-      "imagen": "https://images.ecestaticos.com/FxfJH-WTXOgoRVUO4rG0BIV_K_o=/0x0:1920x1080/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2c5%2F429%2Fc68%2F2c5429c68edb6d4c9afd7481df1d3e7b.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Foro “Pautas para navegar un 2025 de incertidumbres y desafíos”, en imágenes",
-      "link": "https://www.elconfidencial.com/mercados/2025-06-26/foro-pautas-navegar-incertidumbres-desafios-imagenes-bra_4158990/",
-      "imagen": "https://images.ecestaticos.com/hrbXGFl5BS92OQsu--Q_fiNcpEI=/0x0:2000x1125/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F21a%2Ff80%2F713%2F21af807136e1e0c2c180b80e9f454a3d.jpg",
       "tipo": "imagen"
     }
   ]

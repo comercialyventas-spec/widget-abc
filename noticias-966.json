@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La película de la semana de TVE supera en audiencia a Pedro Sánchez en ‘Salvados’",
+      "link": "https://elpais.com/television/2026-11-23/la-pelicula-de-la-semana-de-tve-supera-en-audiencia-a-la-entrevista-de-pedro-sanchez-en-salvados.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/C4PVNFNCWRE73MTNNOY35452GU.png?auth=1582962555c7778038b5062577b6f357a129b06261f7aeebe81b96cb632dbdf4",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "‘La cena de los idiotas’, de Gonzalo Miró: La tele de consenso",
+      "link": "https://elpais.com/television/2026-11-23/la-tele-de-consenso.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/63R4GTASQNEM3D63R36KVT4ORU.jpg?auth=a7e014974293ac38d0cd28d4e2b76e4704db8626fc72e923562bcaea87ce8dd1",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Emmy Rossum, actriz: “Cuando el arte es entretenido y tiene sentido, puede moldear el debate social y hacernos sentir menos solas”",
       "link": "https://elpais.com/us/entretenimiento/2026-11-22/emmy-rossum-actriz-cuando-el-arte-es-entretenido-y-tiene-sentido-puede-moldear-el-debate-social-y-hacernos-sentir-menos-solas.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/KQSJ6HJYHZMPFLIWDJPCSSFYTY.jpg?auth=a284f7f698b855096fb84f55a4eb65d6d9949d3ba14409713ed2defca3aaf9d8",
@@ -22,18 +34,6 @@
       "titulo": "Yellowjackets",
       "link": "https://elpais.com/television/series/yellowjackets/",
       "imagen": "https://imagenes.elpais.com/resizer/v2/UUXSDSHEDJDSTCZOHZJ2743PL4.jpg?auth=b73a9ad99222b3cc4fbc00061b089cc83fdee61e69813b7eedae09dfb6e2fb87",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Y el actor más versátil y descarado perdió la voz",
-      "link": "https://elpais.com/television/2026-11-21/y-el-actor-mas-versatil-y-descarado-perdio-la-voz.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/2LCSUSJZUVFBXDNDFCFCJACINI.jpg?auth=545305927b5b099ff171aeac096d4fddfbddd26d29627627fb6772e5e6db2327",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Cómo se rueda la muerte de un hijo o un nieto?: “No tengo que sufrir para transmitir sufrimiento, soy un mentiroso profesional”",
-      "link": "https://elpais.com/videos/cuestionario-acelerado/2026-11-21/como-se-rueda-la-muerte-de-un-hijo-o-un-nieto-no-tengo-que-sufrir-para-transmitir-sufrimiento-soy-un-mentiroso-profesional.html",
-      "imagen": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261119/1239729_163225_video_1800.mp4",
       "tipo": "imagen"
     }
   ]

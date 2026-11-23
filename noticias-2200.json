@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Análisis electoral de Pablo Calvo",
+      "link": "https://www.elperiodico.com/es/videos/opinion/analisis-electoral-pablo-calvo/136734926.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9786c2dd-2a66-47c4-b974-7e2a1e233f45_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Análisis electoral de Eloy Méndez",
       "link": "https://www.elperiodico.com/es/videos/opinion/analisis-electoral-eloy-mendez/136711792.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ea294b67-b1b2-4e36-a2cf-14c91a2acaa9_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Análisis electoral de Gemma Martínez",
       "link": "https://www.elperiodico.com/es/videos/opinion/analisis-electoral-gemma-martinez/136601799.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9ad0059c-ad9e-4933-a486-26d6c14fdec7_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Análisis electoral de Luis Garrido",
-      "link": "https://www.elperiodico.com/es/videos/opinion/analisis-electoral-luis-garrido/136580779.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/fd2132b5-0fff-4045-9764-b6729217e384_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

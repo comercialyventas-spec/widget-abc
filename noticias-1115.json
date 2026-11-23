@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "AEMET prevé nubes altas y descenso de temperaturas en Zaragoza con vientos del noroeste",
+      "link": "https://okdiario.com/aragon/aemet-preve-nubes-altas-y-descenso-de-temperaturas-en-zaragoza-con-vientos-del-noroeste-21246131",
+      "imagen": "https://okdiario.com/img/2026/11/23/zaragoza-mantiene-el-frio.-europa-press.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cielo despejado y viento moderado en Zaragoza, según AEMET",
       "link": "https://okdiario.com/aragon/cielo-despejado-y-viento-moderado-en-zaragoza-segun-aemet-4-21241571",
       "imagen": "https://okdiario.com/img/2026/11/22/suben-las-temperaturas.-europa-press.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Cielo nublado y lluvias débiles en Zaragoza: AEMET prevé viento moderado y cambios por la tarde",
       "link": "https://okdiario.com/aragon/cielo-nublado-y-lluvias-debiles-en-zaragoza-aemet-preve-viento-moderado-y-cambios-por-la-tarde-20974308",
       "imagen": "https://okdiario.com/img/2026/11/17/lluvia-en-zaragoza.-europa-press.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Zaragoza: intervalos nubosos y viento variable, AEMET prevé ligero ascenso de temperaturas",
-      "link": "https://okdiario.com/aragon/zaragoza-intervalos-nubosos-y-viento-variable-aemet-preve-ligero-ascenso-de-temperaturas-20905528",
-      "imagen": "https://okdiario.com/img/2026/11/16/suben-las-temperaturas.-europa-press.jpg",
       "tipo": "imagen"
     }
   ]

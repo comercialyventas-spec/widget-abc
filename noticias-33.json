@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Ser más pillo que los pillos",
+      "link": "https://www.lavanguardia.com/opinion/20261123/11690572/mas-pillo-pillos.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/02/6ae8d0e5271f5.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La perplejidad",
       "link": "https://www.lavanguardia.com/opinion/20261123/11690536/perplejidad.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/26/6ab7909f212e2.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Votar el domingo pensando en el lunes",
       "link": "https://www.lavanguardia.com/opinion/20261123/11689999/votar-domingo-pensando-lunes.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/20/69bda27ba8093.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El socavón",
-      "link": "https://www.lavanguardia.com/opinion/20261123/11689996/socavon.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/22/6b02bc0ff3ce1.jpeg",
       "tipo": "imagen"
     }
   ]

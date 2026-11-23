@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El recipiente como sustento",
+      "link": "https://elpais.com/eps/2026-11-23/el-recipiente-como-sustento.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KZVYROA5CRGDVMKVGFCO3OZGX4.JPG?auth=424ec9bfb0153df42e54e5901e25b2bcc374026f3e58d1bce232444bfc27133c",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El 85% del calamar en España es importado e industrial: este marinero catalán los pesca uno a uno",
+      "link": "https://elpais.com/eps/2026-11-23/el-85-del-calamar-en-espana-es-importado-e-industrial-este-marinero-catalan-los-pesca-uno-a-uno.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/3TH6H66CSNCJTNHIRCT4GSVOGE.jpg?auth=cba6049050041577c74fb68b6459031d381a414313a7256de52ab19676453fd0",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Qué rica está esa tortilla reseca",
       "link": "https://elpais.com/eps/2026-11-22/que-rica-esta-esa-tortilla-reseca.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/JAMYGG3KGBE5DJ7XMCS3KK3SUI.jpg?auth=49591cf7e3f8489891e1c8e6ae03ad727bd7fcf4a2d7bcc511ac9fa2f4e80679",
@@ -22,18 +34,6 @@
       "titulo": "Cultura gastronómica de posguerra",
       "link": "https://elpais.com/eps/2026-11-21/cultura-gastronomica-de-posguerra.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/PW6WJ5UJ7NE6PD56XJZCOZ4WLI.jpg?auth=f5b443d3f81e7f1b1d20ab35450140541b1d9dd8cbb8d735eb7e66e126877809",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Rubia gallega, la carne más deseada de España: por qué está desapareciendo",
-      "link": "https://elpais.com/eps/2026-11-21/rubia-gallega-la-carne-mas-deseada-de-espana-por-que-esta-desapareciendo.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/5RFH72RG45ETXHNOCCUIE4W4MI.jpg?auth=d16307bc7bebde627ab5024405ed94aedac1be77a9e265d554aa323526883eb8",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un día sin café no es del todo un día",
-      "link": "https://elpais.com/eps/2026-11-21/un-dia-sin-cafe-no-es-del-todo-un-dia.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/IQFYOJ7XTBHQPNZ4QOUIS5Z7SI.jpg?auth=ad7ccabced39a7cee59a3e856c2486f6964d2af2a37ac26093a77739e458e4ec",
       "tipo": "imagen"
     }
   ]

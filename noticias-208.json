@@ -1,14 +1,26 @@
 {
   "noticias": [
     {
+      "titulo": "Dos terremotos de magnitud 6,5 y 4,9 sacuden las aguas al noreste de Vanuatu",
+      "link": "https://www.dw.com/es/dos-terremotos-de-magnitud-6-5-y-4-9-sacuden-las-aguas-al-noreste-de-vanuatu/a-80015733",
+      "imagen": "https://static.dw.com/image/66706016_6.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Los demócratas logran histórica mayoría en la Cámara de Representantes, la más amplia en tres décadas",
+      "link": "https://www.dw.com/es/los-demócratas-logran-histórica-mayoría-en-la-cámara-de-representantes-la-más-amplia-en-tres-décadas/a-80015632",
+      "imagen": "https://static.dw.com/image/79914246_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Kim dice que Corea del Norte no busca \"supremacía ni expansión\", sino seguridad",
       "link": "https://www.dw.com/es/kim-dice-que-corea-del-norte-no-busca-supremacía-ni-expansión-sino-seguridad/a-80015541",
       "imagen": "https://static.dw.com/image/79965795_6.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Ucrania: al menos 12 muertos en bombardeos rusos sobre región de Kiev",
-      "link": "https://www.dw.com/es/ucrania-al-menos-12-muertos-en-bombardeos-rusos-sobre-región-de-kiev/a-80015527",
+      "titulo": "Ucrania reporta al menos 15 muertos en bombardeos rusos sobre región de Kiev",
+      "link": "https://www.dw.com/es/ucrania-reporta-al-menos-15-muertos-en-bombardeos-rusos-sobre-región-de-kiev/a-80015527",
       "imagen": "https://static.dw.com/image/80013135_6.jpg",
       "tipo": "imagen"
     },
@@ -22,18 +34,6 @@
       "titulo": "Secretario general de la ONU expresa \"profunda frustración\" por fracaso de COP31",
       "link": "https://www.dw.com/es/secretario-general-de-la-onu-expresa-profunda-frustración-por-fracaso-de-cop31/a-80015142",
       "imagen": "https://static.dw.com/image/79955625_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Marc Márquez gana su octavo título mundial de MotoGP",
-      "link": "https://www.dw.com/es/marc-márquez-gana-su-octavo-título-mundial-de-motogp/a-80015062",
-      "imagen": "https://static.dw.com/image/80015091_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La COP31 fracasa por las discrepancias sobre cómo financiar a los países vulnerables o abandonar el uso del carbón, el petróleo y el gas",
-      "link": "https://www.dw.com/es/la-cop31-fracasa-por-las-discrepancias-sobre-cómo-financiar-a-los-países-vulnerables-o-abandonar-el-uso-del-carbón-el-petróleo-y-el-gas/a-80013934",
-      "imagen": "https://static.dw.com/image/80013500_6.jpg",
       "tipo": "imagen"
     }
   ]

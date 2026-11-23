@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Madrid invertirá más de 7 millones de euros en el Parque Tecnológico de Valdemingómez en 2027",
+      "link": "https://nuevosureste.es/madrid-invertira-7-millones-parque-tecnologico-valdemingomez-2027/",
+      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/05/Parque-Tecnologico-de-Valdemingomez-.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Cañaveral se reúne en torno a la paella y pone el futuro del barrio sobre la mesa",
       "link": "https://nuevosureste.es/paella-comunitaria-el-canaveral-mas-900-raciones/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/11/2-5.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Llegan las primeras grúas a Los Cerros",
       "link": "https://nuevosureste.es/primeras-gruas-los-cerros/",
       "imagen": "https://nuevosureste.es/wp-content/uploads/2026/11/Imagen-de-las-primeras-gruas-en-Los-Cerros-Junta-de-Compensacion.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Ayuntamiento de Madrid destinará 9,5 millones de euros hasta 2030 a sufragar su parte de los costes de urbanización de Los Berrocales",
-      "link": "https://nuevosureste.es/ayuntamiento-madrid-9-millones-euros-urbanizacion-los-berrocales/",
-      "imagen": "https://nuevosureste.es/wp-content/uploads/2026/11/berrocales_etapa3.jpg",
       "tipo": "imagen"
     }
   ]
