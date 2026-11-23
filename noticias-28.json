@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "La tinta precedió al fuego",
+      "link": "https://www.lavanguardia.com/internacional/20261122/11690659/tinta-precedio-fuego.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Posible ataque de Ucrania contra un buque de guerra ruso en un puerto de Libia",
       "link": "https://www.lavanguardia.com/internacional/20261122/11690571/posible-ataque-ucrania-buque-guerra-ruso-puerto-libia.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/22/6b0334a2e76bc.jpeg",
@@ -28,12 +34,6 @@
       "titulo": "Trump se ríe de Vance y Rubio como sucesores al sugerir que el mejor es Miller",
       "link": "https://www.lavanguardia.com/internacional/20261122/11690021/trump-rie-vance-rubio-sucesores-sugerir-mejor-miller.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Los euroescépticos británicos ven una traición en el acercamiento a la UE",
-      "link": "https://www.lavanguardia.com/internacional/20261122/11690013/euroescepticos-britanicos-ven-traicion-acercamiento-ue.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/21/6b01edd228c7f.jpeg",
       "tipo": "imagen"
     }
   ]

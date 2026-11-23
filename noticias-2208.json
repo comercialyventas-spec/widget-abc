@@ -1,7 +1,13 @@
 {
   "noticias": [
     {
-      "titulo": "Incendio de un autobús en la calle Biada de Gracia",
+      "titulo": "Incendio de un autobús en la calle Biada de Gràcia",
+      "link": "https://www.elperiodico.com/es/videos/barcelona/incendio-autobus-calle-biada-gracia/136733403.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6cbc9f60-884d-48dc-91a8-5175f1ce0b78_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Incendio de un autobús en la calle Biada de Gràcia",
       "link": "https://www.elperiodico.com/es/videos/barcelona/incendio-autobus-calle-biada-gracia/136730094.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6cbc9f60-884d-48dc-91a8-5175f1ce0b78_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Barcelona moviliza a medio centenar de empresas locales por cada crucero que pasa por la ciudad",
       "link": "https://www.elperiodico.com/es/videos/barcelona/barcelona-moviliza-medio-centenar-empresas/136682662.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9966d269-6bdc-40a3-bdd5-89f2133eb759_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "De parar un desahucio a sufrir acoso inmobiliario en Barcelona",
-      "link": "https://www.elperiodico.com/es/videos/barcelona/parar-desahucio-sufrir-acoso-inmobiliario/136666322.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/3000d4bb-d5dc-4a09-9f53-c6f92a2039a2_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

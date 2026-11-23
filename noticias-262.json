@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un incendio en la península de Formentor (Mallorca) obliga a desplegar 30 dispositivos de emergencias",
+      "link": "https://www.abc.es/espana/baleares/incendio-peninsula-formentor-obliga-desplegar-dispositivos-emergencias-20261122232043-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/22/fromentor-kpXH-U40486332820okD-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El Supremo rechaza imponer un mínimo del 25% de clases en castellano en Baleares",
       "link": "https://www.abc.es/espana/baleares/supremo-rechaza-imponer-minimo-clases-castellano-baleares-20261120201445-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/20/tribunal%20supremo%20-RrV3AoNRJJYmHaOK0MKHhHJ-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Envían a prisión al hombre acusado de quitar el arma a un policía y dispararle en Palma",
       "link": "https://www.abc.es/espana/baleares/envian-prision-hombre-acusado-quitar-arma-policia-20261118155159-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/18/polici%cc%81a%20nacional%20_20261118154803-RNyXswNVn9jpDveKTK8ytUO-1200x840@diario_abc.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El túnel de Sóller: una decisión política con un coste de 33 millones para los contribuyentes",
-      "link": "https://www.abc.es/espana/baleares/tunel-soller-decision-politica-coste-millones-contribuyentes-20261116155754-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/16/tunel%20so%cc%81ller%20-RJJWUqy3NiCrql5s1gp4TsK-1200x840@diario_abc.jpeg",
       "tipo": "imagen"
     }
   ]

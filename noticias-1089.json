@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El incendio de un bus con 12 personas dentro en la calle Biada de Barcelona afecta a varios edificios sin causar heridos",
+      "link": "https://www.elconfidencial.com/espana/2026-11-22/incendio-autobus-barcelona-gracia-1tna-1tps_4470382/",
+      "imagen": "https://images.ecestaticos.com/rx1PDcwnnK7eP92_JWFiX24jt0k=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F480%2F413%2F07c%2F48041307c0ea93e036609e33fd167a83.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Auxiliados una senderista y un montañero en sendos rescates en la Sierra de Gredos (Ávila)",
       "link": "https://www.elconfidencial.com/espana/2026-11-22/rescates-sierra-gredos-senderista-montanero-1tna-1tps_4470352/",
       "imagen": "https://images.ecestaticos.com/AZh1xV-2aXBEEuV9DpQf2RBiTSI=/0x0:1920x1386/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa64%2F665%2F305%2Fa646653059a1b96b8daf3d075f1d3779.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Dos heridos en la salida de vía de un coche en la A-1 en Lerma (Burgos)",
       "link": "https://www.elconfidencial.com/espana/2026-11-22/heridos-accidente-trafico-lerma-1tna-1tps_4470350/",
       "imagen": "https://images.ecestaticos.com/xmMRmPbVZsEdEYZZiStILnWpjHY=/0x0:1920x1281/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F07f%2F336%2F2f8%2F07f3362f898a7ac2056ec2f82bbfa3af.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Muere una persona y otras dos resultan heridas en la explosión de una vivienda de la localidad turolense de Rudilla (Aragón)",
-      "link": "https://www.elconfidencial.com/espana/2026-11-22/explosion-rudilla-personas-heridas-1tna-1tps_4470351/",
-      "imagen": "https://images.ecestaticos.com/1vgvZsVv3SdR-p2-u6OWXgDYMY8=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F10b%2F3f3%2Ff6f%2F10b3f3f6fd654471493516e5706ecf58.jpg",
       "tipo": "imagen"
     }
   ]

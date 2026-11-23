@@ -1,7 +1,13 @@
 {
   "noticias": [
     {
-      "titulo": "Incendio de un autobús en la calle Biada de Gracia",
+      "titulo": "Incendio de un autobús en la calle Biada de Gràcia",
+      "link": "https://www.elperiodico.com/es/videos/barcelona/incendio-autobus-calle-biada-gracia/136733403.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6cbc9f60-884d-48dc-91a8-5175f1ce0b78_1-1-large-aspect-ratio_default_0_x536y201.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Incendio de un autobús en la calle Biada de Gràcia",
       "link": "https://www.elperiodico.com/es/videos/barcelona/incendio-autobus-calle-biada-gracia/136730094.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6cbc9f60-884d-48dc-91a8-5175f1ce0b78_1-1-large-aspect-ratio_default_0_x536y201.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Ciudadanos españoles en Londres acuden al consulado para votar en las elecciones generales",
       "link": "https://www.elperiodico.com/es/videos/sociedad/ciudadanos-espanoles-londres-acuden-consulado/136726970.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8d774536-7df8-4f1a-9564-69a5ab97745d_1-1-large-aspect-ratio_default_0_x1200y539.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Abascal acusa al PP de jugar sucio con Vox y le insta a centrarse en echar a Sánchez",
-      "link": "https://www.elperiodico.com/es/videos/politica/abascal-acusa-pp-jugar-sucio/136725696.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7d8f569e-c9e7-4819-a524-547ff340c922_1-1-large-aspect-ratio_default_0_x512y227.jpg",
       "tipo": "imagen"
     }
   ]
