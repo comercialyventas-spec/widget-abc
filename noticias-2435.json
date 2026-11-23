@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Tamagotchi: 30 años de una vida virtual en nuestras manos",
+      "link": "https://www.rtve.es/noticias/20261123/tamagotchi-30-anos-vida-virtual/17323162.shtml",
+      "imagen": "https://img.rtve.es/imagenes/tamagotchi-30-anos-vida-virtual/01795175860136.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La misión espacial BepiColombo logra entrar en la órbita de Mercurio tras una travesía de ocho años",
       "link": "https://www.rtve.es/noticias/20261122/mision-espacial-bepicolombo-entra-orbita-mercurio-travesia-ocho-anos/17325481.shtml",
       "imagen": "https://img.rtve.es/imagenes/mision-espacial-bepicolombo-entra-orbita-mercurio-travesia-ocho-anos/01795352638788.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El Gobierno aprueba una inversión récord en la red eléctrica hasta 2030 y el decreto que regula los centros de datos",
       "link": "https://www.rtve.es/noticias/20261120/gobierno-inversion-record-red-electrica-centros-datos/17323152.shtml",
       "imagen": "https://img.rtve.es/imagenes/gobierno-inversion-record-red-electrica-centros-datos/01795177780236.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Lana del Rey, Dua Lipa o Keith Richards: el álbum del GTA VI por el que 'mataría' Coachella para su cartel",
-      "link": "https://www.rtve.es/noticias/20261120/lana-del-rey-dua-lipa-keith-richards-album-del-gta-vi-por-mataria-coachella-para-su-cartel/17323224.shtml",
-      "imagen": "https://img.rtve.es/imagenes/lana-del-rey-dua-lipa-keith-richards-album-del-gta-vi-por-mataria-coachella-para-su-cartel/01795177307391.jpg",
       "tipo": "imagen"
     }
   ]
