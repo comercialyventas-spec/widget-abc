@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Trabajar cuando todos se conectan a la vez: para qué necesitan las empresas redes inteligentes",
+      "link": "https://www.elconfidencial.com/empresas/2026-11-24/trabajar-todos-conectan-redes-inteligentes-bra_4467559/",
+      "imagen": "https://images.ecestaticos.com/lsFBjO-KORBp1GDbacEItO-AYyw=/0x0:1200x900/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fdf7%2Fc59%2F46a%2Fdf7c5946af53438b2a7f501868e2961d.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "De la competencia a la convivencia: ¿qué tal se llevan las salas de cine y las plataformas de 'streaming'?",
+      "link": "https://www.elconfidencial.com/empresas/2026-11-24/poder-empresas-banco-sabadell-filmin-deaplaneta-bra_4468911/",
+      "imagen": "https://images.ecestaticos.com/bDCsGR0GE9fc3EvtDEKqK8U0AfU=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fea9%2F9a4%2Fa2a%2Fea99a4a2a6d969a78b9b98af4a3367c8.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Zurich cierra el capítulo de la opa a Sabadell reduciendo su participación por debajo del 3%",
       "link": "https://www.elconfidencial.com/empresas/2026-11-23/zurich-reduce-participacion-sabadell-1hms_4470969/",
       "imagen": "https://images.ecestaticos.com/9COnQP0z1Z5HiT4w4a6anPi5GKE=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff03%2Fa6a%2F7d3%2Ff03a6a7d3b0e62188069ce1a81010b39.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Bruselas investiga a Coca-Cola por restringir el comercio de sus refrescos en España",
       "link": "https://www.elconfidencial.com/empresas/2026-11-23/bruselas-investiga-coca-cola-competencia-1tps_4470605/",
       "imagen": "https://images.ecestaticos.com/GLf8b1NypOBe_fZ_ytFMJxeuxbs=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd5f%2Fc66%2F3e5%2Fd5fc663e543c5a53e8dd7f70f8b4d75a.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Mercadona cambia su horario en diciembre de 2026: las nuevas franjas en las que abrirán los supermercados de cara a Navidad",
-      "link": "https://www.elconfidencial.com/empresas/2026-11-23/mercadona-diciembre-horario-horas-1qrt_4470572/",
-      "imagen": "https://images.ecestaticos.com/dv_Bxch_vsOeUMecDuHlbeDUfxA=/0x131:1254x836/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F34b%2F8bc%2F574%2F34b8bc574ccd4e2d13c7f068a429073e.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Invertir ayudando a los demás: ¿qué son los fondos solidarios?",
-      "link": "https://www.elconfidencial.com/empresas/2026-11-23/fondos-solidarios-inversion-impacto-social-1hms-bra_4469127/",
-      "imagen": "https://images.ecestaticos.com/aHh87BP5ZN2h156JseA2-3hGZok=/0x0:1900x1267/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2c4%2F2a3%2F501%2F2c42a350116e297d532f15cd66723b5b.jpg",
       "tipo": "imagen"
     }
   ]

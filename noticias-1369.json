@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¿Qué pasa en una casa inteligente cuando se cae internet?",
+      "link": "https://elpais.com/tecnologia/2026-11-24/que-pasa-en-una-casa-inteligente-cuando-se-cae-internet.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/UIMDD3C5EVGO5MYA7AL6YYZYBM.jpg?auth=c2e43d1a0b3cd64ce50e4c64e9cc0630f73e0c2892bf3bd8a69cd68d6b11075c",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Luciano Floridi, filósofo: “La teoría del apocalipsis de la IA es la suma de desinformación, propaganda, intereses y codicia”",
       "link": "https://elpais.com/tecnologia/2026-11-23/luciano-floridi-filosofo-la-teoria-del-apocalipsis-de-la-ia-es-la-suma-de-desinformacion-propaganda-intereses-y-codicia.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/BNXCA77EZVE5JMW4BZPPJV3ZOI.jpg?auth=5cc525d704883eda8bcb9163276188119c867a6922080574f8a61246aedf4f37",
@@ -28,12 +34,6 @@
       "titulo": "Facebook, la herramienta clave del genocidio contra los rohinyás: “Una cuenta militar los deshumanizaba”",
       "link": "https://elpais.com/tecnologia/2026-11-19/facebook-la-herramienta-clave-del-genocidio-contra-los-rohinyas-una-cuenta-militar-los-deshumanizaba.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/YFFCCKD66BJIZBAXZ2HQMZ6TAM.jpg?auth=7bf55b19e8f7fbc6b6ac3e030f3f231f63b74550783050f23f7ae47d7c4541ce",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las dos oleadas de nerviosismo global por el lanzamiento de GTA VI: así se sufrieron las caídas más importantes de la PlayStation Network",
-      "link": "https://elpais.com/tecnologia/2026-11-19/las-dos-oleadas-de-nerviosismo-global-por-el-lanzamiento-de-gta-vi-asi-se-sufrieron-las-caidas-mas-importantes-de-la-playstation-network.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/PBTJHWPPZFD3FNF4OLKOCQGNZU.jpg?auth=f5ba6cd31478610ea4d04e48967af23bb11ea773f743e75746d0b510b00a177d",
       "tipo": "imagen"
     }
   ]
