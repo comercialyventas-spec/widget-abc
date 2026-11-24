@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "COP31 sin acuerdo: el petróleo tumba la cumbre del clima",
+      "link": "https://www.france24.com/es/programas/el-debate/20261124-cop31-sin-acuerdo-el-petr%C3%B3leo-tumba-la-cumbre-del-clima",
+      "imagen": "https://s.france24.com/media/display/be7696ca-e743-11f1-bb51-e56ab3dc0809/w:1024/p:16x9/AP26326503438778.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El TAS define hoy si mantiene a Marruecos como campeón de África o restituye el título a Senegal",
+      "link": "https://www.france24.com/es/deportes/20261124-el-tas-define-hoy-si-mantiene-a-marruecos-como-campe%C3%B3n-de-%C3%A1frica-o-restituye-el-t%C3%ADtulo-a-senegal",
+      "imagen": "https://s.france24.com/media/display/81c1ba12-e7f1-11f1-b35f-81da3ab2acbb/w:1024/p:16x9/000-936U69Y.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El regreso de Huang impulsa las bolsas asiáticas; EE. UU. refuerza el control de chips",
       "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20261124-el-regreso-de-huang-impulsa-las-bolsas-asi%C3%A1ticas-ee-uu-refuerza-el-control-de-chips",
       "imagen": "https://s.france24.com/media/display/ae357ab6-e7dd-11f1-8d5c-e56ab3dc0809/w:1024/p:16x9/000-D8EZ8T4.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Jair Bolsonaro mejora en cuidados intensivos y sus médicos buscan evitar una cirugía",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261124-bolsonaro-en-terapia-intensiva-presenta-una-mejora-significativa",
+      "imagen": "https://s.france24.com/media/display/4bcadbf4-e69e-11f1-854a-6b451f569414/w:1024/p:16x9/e30ea96d6fc0f6b93c6ff27aac71c287f64d3374.jpg",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "Yemen: los hutíes reportan 25 muertos o desaparecidos tras ataques sauditas",
       "link": "https://www.france24.com/es/medio-oriente/20261124-yemen-los-hut%C3%ADes-reportan-25-muertos-o-desaparecidos-tras-ataques-sauditas",
       "imagen": "https://s.france24.com/media/display/da0d532e-e7b6-11f1-9de5-e56ab3dc0809/w:1024/p:16x9/000-D8D692D.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Nuevo atentado en Colombia deja al menos 12 heridos; De la Espriella dice que \"el narcoterrorismo está desesperado\"",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261124-otro-atentado-en-colombia-deja-al-menos-12-heridos-de-la-espriella-dice-que-el-narcoterrorismo-est%C3%A1-desesperado",
-      "imagen": "",
-      "tipo": ""
-    },
-    {
-      "titulo": "Otro atentado en Colombia deja al menos 23 heridos; De la Espriella dice que \"el narcoterrorismo está desesperado\"",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20261124-otro-atentado-en-colombia-deja-al-menos-12-heridos-de-la-espriella-dice-que-el-narcoterrorismo-est%C3%A1-desesperado",
-      "imagen": "https://s.france24.com/media/display/cfd5884e-e7b7-11f1-8adc-13439ca2fe89/w:1024/p:16x9/atentado-Meta-Colombia.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Gaza: alarma por la crisis sanitaria y ambiental que dejan los residuos de la guerra",
-      "link": "https://www.france24.com/es/video/20261124-gaza-alarma-por-la-crisis-sanitaria-y-ambiental-que-dejan-los-residuos-de-la-guerra",
-      "imagen": "https://s.france24.com/media/display/7cda026a-e7ac-11f1-9eaa-e56ab3dc0809/w:1024/p:16x9/ES-20261123-191220-191355-CS.jpg",
       "tipo": "imagen"
     }
   ]

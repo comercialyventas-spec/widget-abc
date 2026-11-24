@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Ted Lasso vuelve al banquillo para una quinta temporada",
+      "link": "https://www.abc.es/play/series/noticias/ted-lasso-vuelve-banquillo-quinta-temporada-20261124141545-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/11/24/Ted_Lasso-RezOajLqASXtN1HrKZdV2nO-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El viaje sin fin del 'Doctor Who'",
       "link": "https://www.abc.es/play/series/noticias/viaje-fin-doctor-who-20261123144755-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/11/23/doctor-who-RNkmjqyLTqaP0bZCri32HEI-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Puy de Fou de AliExpress en la Tierra Media",
       "link": "https://www.abc.es/play/series/criticas/puy-fou-aliexpress-tierra-media-20261117014947-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/11/17/los-anillos-de-poder-RgC3nCCO3YRjywtHx2AMAAK-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Muere atropellado el actor de 'Friends' y 'CSI' Larry Poindexter a los 66 años",
-      "link": "https://www.abc.es/play/series/noticias/muere-atropellado-actor-defriends-csi-larry-poindexter-20261119225340-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/11/19/Poindexter-k64E-U40442656789sL-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

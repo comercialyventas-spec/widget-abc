@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Estafas telefónicas",
+      "link": "https://www.elconfidencialdigital.com/seguridad/estafas-telefonicas/202611241305311505257.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/09/08/2026090811235014405.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Policía Nacional",
       "link": "https://www.elconfidencialdigital.com/seguridad/policia-nacional/202611201404171504488.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/02/18/2026021823034281678.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Voto por correo",
       "link": "https://www.elconfidencialdigital.com/seguridad/voto-por-correo/202611121335191501823.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/12/2026111213342737206.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Voto por correo",
-      "link": "https://www.elconfidencialdigital.com/seguridad/voto-por-correo/202611121329091501819.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/12/2026111213261146171.jpg",
       "tipo": "imagen"
     }
   ]

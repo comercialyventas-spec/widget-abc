@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Detenido un hombre por apuñalar a otro en Badalona",
+      "link": "https://www.elperiodico.com/es/barcelona/20261124/detenido-hombre-apunalar-otro-badalona-136788813",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/929af759-9ba8-4a18-ab7c-8f571bc12bae_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un herido grave y cinco leves en un incendio de Badalona tras el desalojo de 60 vecinos",
       "link": "https://www.elperiodico.com/es/barcelona/20261123/herido-grave-cinco-leves-incendio-136746066",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/3c5cdbb2-a66c-4b8c-b999-9da755856382_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Badalona cierra un supermercado que ocupaba dos locales sin autorización urbanística",
       "link": "https://www.elperiodico.com/es/barcelona/20261119/badalona-cierra-supermercado-ocupaba-locales-sin-autorizacion-urbanistica-136615657",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/7936a3e3-6702-405b-92d9-4dce96f9bbcd_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un terremoto de magnitud 2,3 sacude la costa de Badalona sin causar daños",
-      "link": "https://www.elperiodico.com/es/barcelona/20261117/terremoto-magnitud-2-3-sacude-costa-badalona-sin-causar-danos-136546979",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9f3130fe-420f-4143-a154-815e1aea7e75_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

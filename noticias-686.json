@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "Convertir los jardines en sumideros de CO2: así es la tecnología experimental que prueba Ávila en sus rotondas",
-      "link": "https://www.20minutos.es/tecnologia/emprendimiento/avila-polvo-basalto-captura-co2-rotondas_7063816_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/20/6b006f3a39d849-12037210.jpeg",
+      "titulo": "La Comisión Europea confirma que el ciberataque asistido por IA robó nombres y correos de usuarios",
+      "link": "https://www.20minutos.es/tecnologia/ciberseguridad/comision-europea-confirma-ciberataque-asistido-ia-robo-nombres-correos-usuarios_7064891_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/24/6b053ce659cc41-88501491.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Con estos 5 consejos podrás aprovechar al máximo los descuentos en tecnología durante el Black Friday",
+      "link": "https://www.20minutos.es/tecnologia/actualidad/black-friday-como-aprovechar-maximo-descuentos-tecnologia-dispositivos_5079382_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2023/11/21/black-friday-1.jpeg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Amazon completa con éxito el lanzamiento de 36 satélites tras un retraso provocado por un fallo en el cohete Ariane 6",
+      "link": "https://www.20minutos.es/tecnologia/actualidad/amazon-completa-exito-lanzamiento-36-satelites-retraso-provocado-fallo-cohete-ariane-6_7064980_0.html",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/24/6b05800d259999-89466782.jpeg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "BepiColombo llega a Mercurio tras ocho años de viaje, pero un fallo de software complica la maniobra",
       "link": "https://www.20minutos.es/tecnologia/actualidad/bepicolombo-mercurio-ocho-anos-viaje-fallo-software_7064516_0.html",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/04/6a9ac3d28eec51-60404363.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Black Friday no siempre tiene chollos: el 37% de los productos subió de precio, según la OCU",
-      "link": "https://www.20minutos.es/tecnologia/actualidad/black-friday-no-siempre-tiene-chollos-37-los-productos-subio-precio-segun-ocu_7063771_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/18/691c30852bab8.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Google da el siguiente paso para sacar sus centros de datos de la Tierra: los llevará al espacio en un cohete de Jeff Bezos",
-      "link": "https://www.20minutos.es/tecnologia/actualidad/google-centros-datos-espacio-cohete-blue-origin-jeff-bezos_7063905_0.html",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/20/6b00967ee10184-78468820.jpeg",
       "tipo": "imagen"
     }
   ]

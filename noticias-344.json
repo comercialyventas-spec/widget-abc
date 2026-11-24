@@ -1,6 +1,30 @@
 {
   "noticias": [
     {
+      "titulo": "La automoción española pide acelerar el despliegue del coche autónomo para no perder el tren industrial",
+      "link": "https://www.abc.es/motor/economia/automocion-espanola-pide-acelerar-despliegue-coche-autonomo-20261124132010-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/11/24/OK-BLUE-CRUSE-FORD-RgetebxFEOapX0fkzkgO4gI-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "VOGE eleva el nivel tecnológico de su trail 625DSX con suspensión electrónica inteligente",
+      "link": "https://www.abc.es/motor/motos/voge-eleva-nivel-tecnologico-trail-625dsx-suspension-20261124130000-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/11/24/VOGE-625DSX-ES-accion-2-RjiUpZ0pIuC7S2zkLSuK0aN-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "GWM Tank 300: ponemos a prueba el nuevo todoterreno híbrido enchufable chino de 408 CV",
+      "link": "https://www.abc.es/motor/novedades/gwm-tank-300-ponemos-prueba-nuevo-todoterreno-20261124110501-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/11/24/GWM_TANK_300_031-R5G3m3OQiIJCoNCfvQ2UzQJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El BYD Dolphin Surf conquista las cinco estrellas en Green NCAP",
+      "link": "https://www.abc.es/motor/reportajes/byd-dolphin-surf-conquista-cinco-estrellas-green-20261124101201-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/11/24/BYD-DONFIN-RyUVpfIFCsqn4y6vHeXTAsK-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Renault Clio consolida su trayectoria con avanzados motores electrificados y gran conectividad digital",
       "link": "https://www.abc.es/motor/renault-clio-consolida-trayectoria-avanzados-motores-electrificados-20261124085301-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/11/24/Renault-RYWK2s3akxhyMUMaDsC7eUL-1200x840@diario_abc.jpg",
@@ -10,30 +34,6 @@
       "titulo": "Así es el detector capaz de cazar a los helicópteros Pegasus de la DGT",
       "link": "https://www.abc.es/motor/reportajes/detector-capaz-cazar-helicopteros-pegasus-dgt-20261125072500-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/11/25/pegasus-dgt-RKK98gg5kFpNYWeDWre9NfI-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La escasez de conductores cualificados amenaza al transporte terrestre en el territorio español",
-      "link": "https://www.abc.es/motor/economia/escasez-conductores-cualificados-amenaza-transporte-terrestre-territorio-20261123105701-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/11/23/transpoete-carreteras-R7OsXYwo62TBeAWgfNftJhJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Jaecoo 8, Hyundai Santa Fe y Skoda Kodiaq: tres SUV híbridos enchufables que compiten por espacio, autonomía y prestaciones",
-      "link": "https://www.abc.es/motor/pruebas/jaecoo-hyundai-santa-skoda-kodiaq-tres-suv-20261123184416-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/11/23/Tres%20SUV%20en%20las%20Pistas%20INTA-R7MKxMjQGLqUJeMPhAp99SL-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un escúter de motosharing en la pista de MotoGP, y ahora tú en la grada: Acciona Movilidad sortea entradas para Cheste",
-      "link": "https://www.abc.es/motor/motos/escuter-motosharing-pista-motogp-grada-acciona-movilidad-20261123123000-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/11/23/foto_todos-RXbuDjTODOUsHBTw57VdV1N-1200x840@diario_abc.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Skoda cerrará 2026 con un nuevo récord histórico en España tras rozar las 45.000 matriculaciones",
-      "link": "https://www.abc.es/motor/economia/skoda-cerrara-2026-nuevo-record-historico-espana-20261123101901-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/motor/2026/11/23/COCHE-SKODA_20261120130052-RsZouIbb5BcCf2p5qykITzH-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]
