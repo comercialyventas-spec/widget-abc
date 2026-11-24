@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Ejército del Aire",
+      "link": "https://www.elconfidencialdigital.com/defensa/ejercito-del-aire/202611240127491505102.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/15/2026111515035446198.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Militares",
       "link": "https://www.elconfidencialdigital.com/defensa/militares/202611231248111504872.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/20/2026102020455128478.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Redes en Eslovaquia",
       "link": "https://www.elconfidencialdigital.com/defensa/redes-en-eslovaquia/202611201539571504508.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/05/28/2026052817424342191.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Vehículos",
-      "link": "https://www.elconfidencialdigital.com/defensa/vehiculos/202611192312561504224.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/19/2026111923092925147.jpg",
       "tipo": "imagen"
     }
   ]
