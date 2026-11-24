@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "EE.UU. incluye en su lista negra a Megaspeed y una filial de Alibaba por su vínculo con el escándalo de Nvidia",
+      "link": "https://www.rtve.es/noticias/20261124/eeuu-lista-negra-megaspeed-alibaba-escandalo-nvidia/17327689.shtml",
+      "imagen": "https://img.rtve.es/imagenes/eeuu-lista-negra-megaspeed-alibaba-escandalo-nvidia/01795497753206.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El regreso triunfal de Jensen Huang, creador de Nvidia, a la cima de la inteligencia artificial",
       "link": "https://www.rtve.es/noticias/20261123/huang-nvidia-regreso-cima-inteligencia-artificial/17327367.shtml",
       "imagen": "https://img.rtve.es/imagenes/huang-nvidia-regreso-cima-inteligencia-artificial/01795459607143.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La Cumbre del Clima de Antalya se cierra sin pacto político final por primera vez en 17 años",
       "link": "https://www.rtve.es/noticias/20261122/cop31-cumbre-clima-cambio-climatico/17325228.shtml",
       "imagen": "https://img.rtve.es/imagenes/cop31-cumbre-clima-cambio-climatico/01795379261315.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La Cumbre del Clima se estanca sin un acuerdo en plena tensión por los hidrocarburos",
-      "link": "https://www.rtve.es/noticias/20261121/cumbre-clima-cop31-acuerdo/17324678.shtml",
-      "imagen": "https://img.rtve.es/imagenes/cumbre-clima-cop31-acuerdo/01795274652910.jpg",
       "tipo": "imagen"
     }
   ]
