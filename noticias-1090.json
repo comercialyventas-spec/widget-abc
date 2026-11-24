@@ -1,15 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "Un catalán de 22 años es detenido por la policía de inmigración de Estados Unidos (ICE)",
+      "titulo": "La Policía de Israel detiene en Cisjordania a 7 israelíes por actos de \"violencia extrema\"",
+      "link": "https://www.elconfidencial.com/mundo/2026-11-23/la-policia-de-israel-detiene-en-cisjordania-a-7-israelies-por-actos-de-violencia-extrema_4471063/",
+      "imagen": "https://images.ecestaticos.com/J98ETOT7rPGQWBGo8iRORjcf1ss=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe7c%2F513%2Ff9e%2Fe7c513f9ec768b2ee43a520724d6a561.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un catalán de 22 años es detenido por la policía migratoria de EEUU en medio de un récord de arrestos",
       "link": "https://www.elconfidencial.com/mundo/2026-11-23/catalan-detenido-por-el-ice-estados-unidos_4471037/",
-      "imagen": "https://images.ecestaticos.com/SWVOAsZmCJ6YP6FOTbEQbDBceA4=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F712%2F10e%2F6b8%2F71210e6b847f936d62ccf1196fb2736a.jpg",
+      "imagen": "https://images.ecestaticos.com/zv0C1DSap_2yu7CV97Q4GS-TAo4=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F38d%2F3f1%2F165%2F38d3f1165e2776090b00cbe54ff11ed7.jpg",
       "tipo": "imagen"
     },
     {
       "titulo": "Ucrania reivindica los ataques contra dos buques rusos cerca de Libia",
       "link": "https://www.elconfidencial.com/mundo/2026-11-23/ucrania-reivindica-los-ataques-contra-dos-buques-rusos-cerca-de-libia_4470467/",
       "imagen": "https://images.ecestaticos.com/rnVbOP4Mr6hPeM0x8ss1iv1qVIo=/0x0:2272x1278/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F8f8%2Fe4f%2F327%2F8f8e4f327567cd854534858626c6e40a.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "\"Cada vez que salgo de casa puede que no vuelva\": un informe demuestra el aumento de los ataques a sanitarios en Cisjordania",
+      "link": "https://www.elconfidencial.com/mundo/2026-11-23/informe-demuestra-el-aumento-de-los-ataques-a-medicos-en-cisjordania_4470143/",
+      "imagen": "https://images.ecestaticos.com/aLTp7aC7U1GCR5mVawjoPPO8Wxo=/0x217:2272x1495/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F686%2Fe5c%2Fe55%2F686e5ce5523cc76bfbef078171161ccb.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Ondas contra cables: la guerra verbal de Turquía por hacerse con el control del Mediterráneo oriental",
       "link": "https://www.elconfidencial.com/mundo/2026-11-23/ondas-contra-cables-la-guerra-verbal-de-turquia_4469166/",
       "imagen": "https://images.ecestaticos.com/ZmtGVPFz3Zx_pbPfUKZGH--LYhE=/0x147:2272x1425/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F148%2F43e%2F167%2F14843e167bf4461f7e73923d767ea64a.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "\"Cada vez que salgo de casa puede que no vuelva\": un informe demuestra el aumento de los ataques a sanitarios en Cisjordania",
-      "link": "https://www.elconfidencial.com/mundo/2026-11-23/informe-demuestra-el-aumento-de-los-ataques-a-medicos-en-cisjordania_4470143/",
-      "imagen": "https://images.ecestaticos.com/aLTp7aC7U1GCR5mVawjoPPO8Wxo=/0x217:2272x1495/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F686%2Fe5c%2Fe55%2F686e5ce5523cc76bfbef078171161ccb.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un buque de guerra ruso, atacado con drones en un puerto de Libia",
-      "link": "https://www.elconfidencial.com/mundo/2026-11-22/un-barco-ruso-atacado-drones-en-el-puerto-de-bengasi-en-el-este-de-libia_4470263/",
-      "imagen": "https://images.ecestaticos.com/WM2hQWUjndJ7E7R3EEC3aGJ3pDk=/0x188:2272x1466/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F565%2Feb8%2F7d8%2F565eb87d8bc5f05a64c973cad06dd9ea.jpg",
       "tipo": "imagen"
     }
   ]

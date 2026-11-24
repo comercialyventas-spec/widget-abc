@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Musk promete que la nueva conducción autónoma de Tesla es mejor que un humano",
+      "link": "https://www.elconfidencial.com/tecnologia/novaceno/2026-11-23/musk-promete-nueva-conduccion-autonoma-tesla-mejor-que-humano_4471064/",
+      "imagen": "https://images.ecestaticos.com/OE-p4vTDAoJU2cnPx37AyvwsHek=/0x0:1047x785/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb51%2Fbe1%2F92a%2Fb51be192a26630360fd22a246d230cd2.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El CSIC usa IA para anticipar el riesgo de incendios en España y descubre que el peligro ya no será solo en verano",
       "link": "https://www.elconfidencial.com/tecnologia/2026-11-23/ia-csci-mejora-precision-riesgo-incendios-espana_4470664/",
       "imagen": "https://images.ecestaticos.com/QJjqriyWndOQLBxAOGN134haFos=/0x0:2048x1536/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F544%2F82d%2Fb41%2F54482db41728538ea526f113104f33bf.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El consejo de Nvidia restituye a Jensen Huang como CEO once días después de su dimisión",
       "link": "https://www.elconfidencial.com/tecnologia/2026-11-23/el-consejo-de-nvidia-restituye-a-jensen-huang-como-ceo-_4470790/",
       "imagen": "https://images.ecestaticos.com/nauHtQcnYe3xhd1SOU71FBO72M4=/0x0:2272x1278/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F1cc%2F103%2F9b5%2F1cc1039b58cbaccdbe5fca7894079cf0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ni más fuertes ni más inteligentes: científicos españoles descubren por qué sobrevivimos a los neandertales",
-      "link": "https://www.elconfidencial.com/tecnologia/ciencia/2026-11-23/humanos-sobrevivieron-neardentales-1qrt-estudio_4470615/",
-      "imagen": "https://images.ecestaticos.com/2N7J4aSpkTKxGqtUQ019P6Jb6c4=/0x0:1448x1086/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F15a%2F689%2Fa97%2F15a689a97de96d9ec063466ec307f1bd.jpg",
       "tipo": "imagen"
     }
   ]

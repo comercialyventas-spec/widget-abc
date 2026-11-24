@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Obras: Marianistas. Afectadas 3 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261124-O-Marianistas.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Creación de Paradas: Barajas. Afectada línea 115 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261201-Creacion-Paradas-L115.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -27,12 +33,6 @@
     {
       "titulo": "Obras: Capitán Blanco Argibay. Afectada línea N22 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261125-O-Capitan-Blanco-Argibay.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Concentración en Jorge Juan. Afectadas 2 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261126-C-Jorge-Juan.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

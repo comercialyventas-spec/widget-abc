@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El árbol de Navidad llega a la Casa Blanca",
+      "link": "https://www.elperiodico.com/es/videos/internacional/arbol-navidad-llega-casa-blanca/136775916.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f17037dd-f778-436c-ba62-2f68195330b6_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Jensen Huang regresa a la sede Nvidia entre ovaciones tras su restitución al cargo",
+      "link": "https://www.elperiodico.com/es/videos/internacional/jensen-huang-regresa-sede-nvidia-ovaciones-restitucion/136773982.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d73d1a9f-7b8b-45bc-bd98-80b6ec4aa7fc_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El consejo de Nvidia restituye a Jensen Juang como CEO",
       "link": "https://www.elperiodico.com/es/videos/internacional/consejo-nvidia-restituye-jensen-juang/136762391.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f1a038d3-4922-476b-86e6-3c207474e227_media-libre-aspect-ratio_default_0.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Tres fallecidos en un bombardeo israelí contra un vehículo de ayuda alimentaria en Gaza",
       "link": "https://www.elperiodico.com/es/videos/internacional/tres-fallecidos-bombardeo-israeli-vehiculo/136704682.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8ca5bb17-2572-4458-ae7c-7847143d2199_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Bruselas celebra el pacto de creación de un centro de expulsión de migrantes en Ruanda",
-      "link": "https://www.elperiodico.com/es/videos/internacional/bruselas-celebra-pacto-creacion-centro-expulsion-migrantes-ruanda/136512264.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b939fb0a-8de6-45b5-b013-4331bcd83fca_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Papóptero: El papa León vuela en helicóptero por los Andes",
-      "link": "https://www.elperiodico.com/es/videos/internacional/papoptero-papa-leon-vuela-helicoptero-video/136486167.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/3428e678-fa6b-455c-97b3-2c5cfdae4cec_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

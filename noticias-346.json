@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Google crea una copia secreta de internet: así es la red paralela donde los agentes de IA aprenden a navegar sin poner en peligro a los usuarios",
+      "link": "https://www.abc.es/tecnologia/google-crea-copia-secreta-internet-red-paralela-20261123205007-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/23/pexels-divinetechygirl-1181278-RVP3n00ARa44shmSykoA8HM-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "WhatsApp pone fin a uno de sus límites más conocidos: podrás añadir más miembros a un chat de grupo en iOS y Android",
       "link": "https://www.abc.es/tecnologia/redes/whatsapp-pone-fin-limites-conocidos-podras-anadir-20261123195648-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/23/modern-man-using-smartphone-city-RE7jeW88yYWzYRBKvKyi46J-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Apple Watch mejora con la IA de Siri: ahora puede escuchar tus conversaciones, recordar lo que has dicho y resumir tu día",
       "link": "https://www.abc.es/tecnologia/electronica/apple-watch-mejora-ia-siri-puede-escuchar-20261120180046-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/20/apple-watch-series-12-RWFYVtC0MLbApscun2gk52M-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "TikTok lanza un detector de 'deepfakes' para frenar la desinformación ante la oleada de elecciones europeas",
-      "link": "https://www.abc.es/tecnologia/redes/tiktok-lanza-detector-deepfakes-frenar-desinformacion-ante-20261120120654-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/20/tiktok-deepfake-kdII-U40451722820De-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

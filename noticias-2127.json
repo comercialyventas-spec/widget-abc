@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "Te invitamos al concierto de piano de Chano Domínguez en el Ateneo",
+      "link": "https://www.infolibre.es/club-infolibre/invitamos-concierto-piano-chano-dominguez-ateneo-madrid_1_2239544.html",
+      "imagen": "https://static.infolibre.es/clip/02d9956d-3cb1-46de-abef-b700ef1aa70f_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Sorteamos entradas dobles para ver el espectáculo de danza ‘Padre nuestro’ en la sala Cuarta Pared de Madrid",
+      "link": "https://www.infolibre.es/club-infolibre/sorteamos-entradas-dobles-ver-espectaculo-danza-padre-sala-cuarta-pared-madrid_1_2239117.html",
+      "imagen": "https://static.infolibre.es/clip/bb396ee0-0aad-4f78-8d75-2c26ef5d5dbd_16-9-discover-aspect-ratio_50p_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Visibles 2026 reivindica el liderazgo femenino frente a la violencia, el machismo y el avance de la ultraderecha",
-      "link": "https://www.infolibre.es/visibles/visibles-2026-reivindica-liderazgo-femenino-frente-violencia-machismo-avance-ultraderecha_1_2239210.html",
-      "imagen": "https://static.infolibre.es/clip/3973b1d8-0758-4dba-868b-511a0a15862f_16-9-discover-aspect-ratio_default_0.jpg",
+      "link": "https://www.infolibre.es/club-infolibre/eventos/visibles/visibles-2026-reivindica-liderazgo-femenino-frente-violencia-machismo-avance-ultraderecha_1_2239210.html",
+      "imagen": "https://static.infolibre.es/clip/3973b1d8-0758-4dba-868b-511a0a15862f_16-9-discover-aspect-ratio_50p_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -14,7 +26,7 @@
     },
     {
       "titulo": "Vuelve a ver el encuentro de Visibles 2026",
-      "link": "https://www.infolibre.es/visibles/visibles-2026_7_2239041.html",
+      "link": "https://www.infolibre.es/club-infolibre/eventos/visibles/visibles-2026_7_2239041.html",
       "imagen": "https://static.infolibre.es/clip/93010de7-60a6-449a-82de-533f2e5aaaf5_16-9-aspect-ratio_50p_0.jpg",
       "tipo": "imagen"
     },
@@ -22,18 +34,6 @@
       "titulo": "Nacho Calle y Sergio Sangiao, periodistas de infoLibre, reciben el Premio Internacional de Periodismo 'Colombine'",
       "link": "https://www.infolibre.es/medios/nacho-calle-sergio-sangiao-periodistas-infolibre-reciben-premio-internacional-periodismo-colombine_1_2237680.html",
       "imagen": "https://static.infolibre.es/clip/8de5ef92-ccef-4ba0-8a45-46e5f6dbeef7_16-9-discover-aspect-ratio_50p_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La investigación ‘Bad Practice’, de la que formó parte infoLibre, gana el Impact Award 2026 del IJ4EU",
-      "link": "https://www.infolibre.es/medios/investigacion-bad-practice-formo-parte-infolibre-gana-impact-award-2026-ij4eu_1_2236474.html",
-      "imagen": "https://static.infolibre.es/clip/af977f6f-7a14-4532-ae58-edd887dce2b5_16-9-discover-aspect-ratio_50p_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Nacho Calle y Sergio Sangiao, del equipo de investigación de infoLibre, ganan el Premio 'Colombine'",
-      "link": "https://www.infolibre.es/medios/nacho-calle-sergio-sangiao-equipo-investigacion-infolibre-ganan-premio-colombine_1_2236336.html",
-      "imagen": "https://static.infolibre.es/clip/0ac8c0b0-5ebf-4f66-8c7c-de2355cb38c2_16-9-discover-aspect-ratio_50p_0.jpg",
       "tipo": "imagen"
     }
   ]

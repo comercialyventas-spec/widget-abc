@@ -1,21 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "La rebelión del Tribunal Supremo contra la ley",
+      "titulo": "La investigación biomédica ya está mejorando en todo el mundo con los métodos alternativos a la experimentación en animales",
+      "link": "https://eldiario.es/caballodenietzsche",
+      "imagen": "https://static.eldiario.es/clip/772ba1ce-9974-4144-8918-376cf04887a2_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Rosalía y Guitarricadelafuente se unen a Aitana y entran en campaña reivindicando una cultura “más necesaria que nunca”",
+      "link": "https://eldiario.es/rastreador",
+      "imagen": "https://static.eldiario.es/clip/6f574a20-1e49-4fb3-a9b6-ac70a8a0afef_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Roma no paga traidores",
       "link": "https://eldiario.es/contracorriente",
-      "imagen": "https://static.eldiario.es/clip/dc9813ac-ff26-4df0-8124-241a45dc55f8_16-9-discover-aspect-ratio_default_0.jpg",
+      "imagen": "https://static.eldiario.es/clip/b46e44bd-bf53-4cc1-b947-60f1631bec4c_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Vértigo constitucional",
-      "link": "https://eldiario.es/blog/mano-a-mano/",
-      "imagen": "https://static.eldiario.es/clip/b34db411-ec50-499c-8800-86f77909ce2d_16-9-discover-aspect-ratio_default_0_x378y381.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "🎙 PODCAST | La reconstrucción de Urda: varios fallos y muchas preguntas",
-      "link": "https://eldiario.es/un-tema-al-dia/",
-      "imagen": "https://static.eldiario.es/clip/23e7b706-0d43-4248-9c6f-e2247f37e6fa_16-9-discover-aspect-ratio_default_0.jpg",
+      "titulo": "Los mejores planes culturales para el finde: qué ver, qué escuchar, dónde ir",
+      "link": "https://eldiario.es/cultura/cultura/",
+      "imagen": "https://static.eldiario.es/clip/3e17ab90-ab9b-476c-99af-735baadfd94c_16-9-discover-aspect-ratio_default_1156072.jpg",
       "tipo": "imagen"
     }
   ]

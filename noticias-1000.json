@@ -1,27 +1,39 @@
 {
   "noticias": [
     {
-      "titulo": "Debate electoral de cara a las elecciones del 29-N | Sánchez anuncia la ampliación del permiso por fallecimiento de un familiar a diez días",
-      "link": "https://www.elconfidencial.com/espana/2026-11-23/debate-electoral-elecciones-23-noviembre-directo_4470983/",
-      "imagen": "https://images.ecestaticos.com/A3I1IARhb8Ha7-t6hhvbq3wbyDw=/0x237:2272x1515/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F903%2Fbb0%2Ffe5%2F903bb0fe558a63e7eccdc98c0867f2d6.jpg",
+      "titulo": "Pepa Millán, portavoz de Vox: \"Todo lo que se recauda va para los regadíos de Marruecos o para sus trenes, mientras los nuestros están descarrilando\"",
+      "link": "https://www.elconfidencial.com/espana/2026-11-23/pepa-millan-vox-economia-debate_4471079/",
+      "imagen": "https://images.ecestaticos.com/ssx8FWNA9krIVIpXuWpDNyaXDVc=/0x0:683x384/0x900/filters:fill(white):format(JPG)/f.elconfidencial.com%2Foriginal%2F666%2F7e5%2F7a1%2F6667e57a16ee7d878849c61348535ec3.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Gabriel Rufián (ERC), sobre la vivienda en España: \"Habrá izquierdas que digan que hay que fabricar más pisos... hay que intervenir el mercado\"",
+      "link": "https://www.elconfidencial.com/espana/2026-11-23/gabriel-rufian-erc-vivienda-debate_4471075/",
+      "imagen": "https://images.ecestaticos.com/yhl-ijr82pjlqn5-UDSq0eIvmqo=/0x0:722x406/0x900/filters:fill(white):format(JPG)/f.elconfidencial.com%2Foriginal%2F0d7%2Fccd%2F4e7%2F0d7ccd4e7651d244e0015588c39b3a0e.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Míriam Nogueras (Junts): \"Hemos demostrado cómo se derrota a la extrema derecha y a los que decían que iban a detener a Puigdemont\"",
+      "link": "https://www.elconfidencial.com/espana/2026-11-23/miriam-nogueras-junts-puigdemont-debate-1qrt_4471073/",
+      "imagen": "https://images.ecestaticos.com/lyz5FRUSSMPjIJh4ALRO_lVlC-A=/0x0:801x451/0x900/filters:fill(white):format(JPG)/f.elconfidencial.com%2Foriginal%2F69b%2Ff0e%2F09c%2F69bf0e09c57e0c3675587afdd9b2db42.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La irónica respuesta de Ester Muñoz (PP) a Gabriel Rufián (ERC) durante el debate electoral: \"Ya sé que eres un Braveheart de Temu\"",
+      "link": "https://www.elconfidencial.com/espana/2026-11-23/ester-munoz-pp-rufian-debate_4471082/",
+      "imagen": "https://images.ecestaticos.com/CEZXNJp3ygYKmhzQe0Fn7efvSV0=/0x0:797x448/0x900/filters:fill(white):format(JPG)/f.elconfidencial.com%2Foriginal%2F80b%2Ff3f%2F761%2F80bf3f7610d35fb96bef4867a1641139.JPG",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El CIS de Tezanos amplía y deja a casi 10 puntos la ventaja de Sánchez sobre Feijóo a las puertas del 29-N",
+      "link": "https://www.elconfidencial.com/espana/2026-11-23/cis-tezanos-elecciones-generales-psoe-pp-vox-frente-amplio_4470602/",
+      "imagen": "https://images.ecestaticos.com/GPU4RKsTbfh6BUuzN30LBY1sQaQ=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe4c%2F16c%2F337%2Fe4c16c3377f5873175c8702eec6d9fdd.jpg",
       "tipo": "imagen"
     },
     {
       "titulo": "El regreso del billón de dólares: todo lo que Jensen Huang devuelve a los mercados (y lo que no)",
       "link": "https://www.elconfidencial.com/mercados/el-valor-anadido/2026-11-23/regreso-jensen-huang-nvidia-impacto-bolsas_4471033/",
       "imagen": "https://images.ecestaticos.com/AI3ZBuXR5pGEd6b6Im_kpa8x4fs=/0x0:1920x1280/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd04%2F5aa%2Fc5c%2Fd045aac5cb2fbd4f4da5a98b47e44041.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Plus Ultra suspende el vuelo Madrid-Caracas y paraliza todas las operaciones desde este lunes",
-      "link": "https://www.elconfidencial.com/empresas/2026-11-23/plus-ultra-suspende-todas-sus-operaciones_4470894/",
-      "imagen": "https://images.ecestaticos.com/1zJTxvA75Ffif6tO7OK6c6FeT8E=/0x0:2272x1500/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fafb%2Fd5c%2F6fe%2Fafbd5c6feed95a61250f069b31eb9102.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Supremo aplica la amnistía a Puigdemont y cierra su causa penal nueve años después",
-      "link": "https://www.elconfidencial.com/espana/2026-11-23/la-sala-de-lo-penal-del-ts-declara-extinguida-la-responsabilidad-penal-de-puigdemont-por-la-amnistia_4470682/",
-      "imagen": "https://images.ecestaticos.com/yAjS8bWY-FYYB2gR3dlnFF_kihc=/0x0:2272x1639/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F9d3%2Fbd2%2F462%2F9d3bd2462fbc19e62471f83fcca7c048.jpg",
       "tipo": "imagen"
     }
   ]
