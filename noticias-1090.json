@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un atentado en el centro de Colombia deja al menos 23 heridos y graves daños materiales",
+      "link": "https://www.elconfidencial.com/mundo/2026-11-24/atentado-villavicencio-vehiculo-bomba-heridos-1tps_4471159/",
+      "imagen": "https://images.ecestaticos.com/DME8JjZw9PcFOfM-roCyHZrtSUk=/0x0:2272x1553/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe1a%2Fdaf%2Fce1%2Fe1adafce1378ff5c3a7456bc93f52e68.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El fin del excepcionalismo: hacia dónde irá ahora la política exterior de España",
       "link": "https://www.elconfidencial.com/mundo/2026-11-24/fin-excepcionalismo-politica-exterior-espana_4470659/",
       "imagen": "https://images.ecestaticos.com/zkaAWjGl-5uxHdO8SiSZgF-XFTk=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc26%2F72d%2F1ec%2Fc2672d1ecb47dd9b8d44af1929e8230e.jpg",
@@ -8,7 +14,7 @@
     },
     {
       "titulo": "La Policía de Israel detiene en Cisjordania a 7 israelíes por actos de \"violencia extrema\"",
-      "link": "https://www.elconfidencial.com/mundo/2026-11-23/la-policia-de-israel-detiene-en-cisjordania-a-7-israelies-por-actos-de-violencia-extrema_4471063/",
+      "link": "https://www.elconfidencial.com/mundo/2026-11-23/la-policia-de-israel-detiene-en-cisjordania-a-7-israelies-por-actos-de_4471063/",
       "imagen": "https://images.ecestaticos.com/J98ETOT7rPGQWBGo8iRORjcf1ss=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe7c%2F513%2Ff9e%2Fe7c513f9ec768b2ee43a520724d6a561.jpg",
       "tipo": "imagen"
     },
@@ -25,15 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "\"Cada vez que salgo de casa puede que no vuelva\": un informe demuestra el aumento de los ataques a sanitarios en Cisjordania",
-      "link": "https://www.elconfidencial.com/mundo/2026-11-23/informe-demuestra-el-aumento-de-los-ataques-a-medicos-en-cisjordania_4470143/",
-      "imagen": "https://images.ecestaticos.com/aLTp7aC7U1GCR5mVawjoPPO8Wxo=/0x217:2272x1495/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F686%2Fe5c%2Fe55%2F686e5ce5523cc76bfbef078171161ccb.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Lo que los unió empieza a separarles: la resaca electoral de EEUU divide a AfD por el dilema migratorio",
-      "link": "https://www.elconfidencial.com/mundo/2026-11-23/les-unio-empieza-separarles-resaca-electoral-eeuu-grieta-afd-migratorio_4466908/",
-      "imagen": "https://images.ecestaticos.com/AGvEm_tMBbBoZDt_Pg0EQg5PB4M=/0x0:2272x1278/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F7ff%2Ffd3%2F406%2F7fffd3406763f9b96034f18cb9fbe43f.jpg",
+      "titulo": "Ondas contra cables: la guerra verbal de Turquía por hacerse con el control del Mediterráneo oriental",
+      "link": "https://www.elconfidencial.com/mundo/2026-11-23/ondas-contra-cables-la-guerra-verbal-de-turquia_4469166/",
+      "imagen": "https://images.ecestaticos.com/ZmtGVPFz3Zx_pbPfUKZGH--LYhE=/0x147:2272x1425/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F148%2F43e%2F167%2F14843e167bf4461f7e73923d767ea64a.jpg",
       "tipo": "imagen"
     }
   ]

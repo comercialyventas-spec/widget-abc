@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
+      "titulo": "Lula y Milei: nueve dedos, una motosierra y demasiados insultos",
+      "link": "https://www.elperiodico.com/es/opinion/20261124/lula-milei-nueve-dedos-motosierra-insultos-136781221",
+      "imagen": "",
+      "tipo": ""
+    },
+    {
       "titulo": "Crisis en Oriente Medio: efectos de la guerra en Irán y tensión en Israel en directo",
       "link": "https://www.elperiodico.com/es/internacional/20261124/guerra-iran-israel-ultima-hora-directo-130265713",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/0c71534d-b2f4-432a-bd7c-61f9f929d4de_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La reina Mette-Marit no declarará ante la comisión del caso Epstein: \"El Parlamento no puede convocar a la familia real\"",
+      "link": "https://www.elperiodico.com/es/gente/20261124/mette-marit-epstein-comision-gobierno-noruega-polemica-136778224",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/c3fe6626-fb72-4d63-8075-12a629ffecfd_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Un atentado con coche bomba en Colombia deja al menos 23 heridos y graves daños materiales",
+      "link": "https://www.elperiodico.com/es/internacional/20261124/atentado-coche-bomba-colombia-deja-136777974",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/dce63dec-e2d5-4af1-bd0e-a1ba3b803b46_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "Trump reivindica la pena de muerte por Acción de Gracias: Los crímenes más graves merecen el mayor castigo",
       "link": "https://www.elperiodico.com/es/internacional/20261123/trump-reivindica-pena-muerte-accion-gracias-136775384",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/aabae4ff-7e74-45bc-931e-85778d005229_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un español lleva diez días detenido por ICE tras perder su permiso estudiantil sin saberlo",
-      "link": "https://www.elperiodico.com/es/sociedad/20261123/policia-migratoria-ice-estados-unidos-detiene-estudiante-catalan-visado-permiso-residencia-miami-georgia-136748295",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/daa2db32-b068-415b-9d97-270fc235eb92_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El voto en el extranjero desborda algunos consulados: Varios han tenido que imprimir papeletas porque no han llegado a tiempo",
-      "link": "https://www.elperiodico.com/es/internacional/20261123/voto-extranjero-colas-consulados-londres-buenos-aires-supremo-136766913",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/63dbc751-1e3a-4db7-a26e-ecfb65115c0f_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Macron se plantea reformar la Constitución para limitar el déficit y la deuda de Francia",
-      "link": "https://www.elperiodico.com/es/internacional/20261123/macron-plantea-reformar-constitucion-limitar-136766319",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ddb7947d-5d67-4e45-893f-1c0ed9573a87_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

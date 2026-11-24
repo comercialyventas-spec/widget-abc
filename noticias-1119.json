@@ -2,8 +2,14 @@
   "noticias": [
     {
       "titulo": "Un gallego cuenta su experiencia en Cataluña: «Los catalanes no se inmutan de que no sabes catalán»",
-      "link": "https://okdiario.com/cataluna/gallego-cuenta-real-experiencia-cataluna-catalanes-no-inmutan-que-no-sabes-catalan-20528568",
+      "link": "https://okdiario.com/cataluna/gallego-cuenta-real-experiencia-cataluna-sobre-catalanes-no-inmutan-que-no-sabes-catalan-20528568",
       "imagen": "https://okdiario.com/img/2026/10/11/un-gallego-opina-contra-cataluna-los-catalanes-no-se-inmutan-de-que-no-sabes-catalan.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Nubes y lluvias débiles en Barcelona, anuncia AEMET para hoy con viento en aumento",
+      "link": "https://okdiario.com/cataluna/nubes-y-lluvias-debiles-en-barcelona-anuncia-aemet-para-hoy-con-viento-en-aumento-21255120",
+      "imagen": "https://okdiario.com/img/2026/11/24/lluvia-en-barcelona.-europa-press.jpg",
       "tipo": "imagen"
     },
     {
@@ -28,12 +34,6 @@
       "titulo": "Una mochila abandonada activa a los Tedax y obliga a desalojar oficinas en Barcelona",
       "link": "https://okdiario.com/cataluna/mochila-abandonada-activa-tedax-obliga-desalojar-oficinas-barcelona-21190833",
       "imagen": "https://okdiario.com/img/2026/07/03/imagen_recortada-2026-07-03t085602.869.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cielo nublado y lluvias en Barcelona; AEMET prevé mejoras con viento moderado y sol a mediodía",
-      "link": "https://okdiario.com/cataluna/cielo-nublado-y-lluvias-en-barcelona-aemet-preve-mejoras-con-viento-moderado-y-sol-a-mediodia-21119231",
-      "imagen": "https://okdiario.com/img/2026/01/12/viento-barcelona-interior.jpg",
       "tipo": "imagen"
     }
   ]

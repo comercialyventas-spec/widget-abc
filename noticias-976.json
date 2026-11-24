@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Las bolsas asiáticas se disparan tras regreso de Jensen Huang a Nvidia",
+      "link": "https://www.dw.com/es/las-bolsas-asiáticas-se-disparan-tras-regreso-de-jensen-huang-a-nvidia/a-80028562",
+      "imagen": "https://static.dw.com/image/79940149_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Trípoli condena ataques a buques rusos en sus aguas territoriales y exige explicaciones a Ucrania",
       "link": "https://www.dw.com/es/trípoli-condena-ataques-a-buques-rusos-en-sus-aguas-territoriales-y-exige-explicaciones-a-ucrania/a-80027336",
       "imagen": "https://static.dw.com/image/80017509_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El primer ministro británico insiste que volver a la UE \"no está sobre la mesa\"",
       "link": "https://www.dw.com/es/el-primer-ministro-británico-insiste-que-volver-a-la-ue-no-está-sobre-la-mesa/a-80026953",
       "imagen": "https://static.dw.com/image/80002814_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Qué pasaría si explotara un arma nuclear en el espacio?",
-      "link": "https://www.dw.com/es/¿qué-pasaría-si-explotara-un-arma-nuclear-en-el-espacio/a-80026814",
-      "imagen": "https://static.dw.com/image/80020748_6.jpg",
       "tipo": "imagen"
     }
   ]

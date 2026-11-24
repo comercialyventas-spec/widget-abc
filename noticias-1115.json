@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Nubes y lluvia en Zaragoza según AEMET, descenso de temperaturas en la mitad norte",
+      "link": "https://okdiario.com/aragon/nubes-y-lluvia-en-zaragoza-segun-aemet-descenso-de-temperaturas-en-la-mitad-norte-21255249",
+      "imagen": "https://okdiario.com/img/2026/11/24/lluvia-en-zaragoza.-europa-press.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "AEMET prevé nubes altas y descenso de temperaturas en Zaragoza con vientos del noroeste",
       "link": "https://okdiario.com/aragon/aemet-preve-nubes-altas-y-descenso-de-temperaturas-en-zaragoza-con-vientos-del-noroeste-21246131",
       "imagen": "https://okdiario.com/img/2026/11/23/zaragoza-mantiene-el-frio.-europa-press.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Nubosidad y posibles lluvias en Zaragoza según AEMET, con viento moderado y temperaturas en ascenso",
       "link": "https://okdiario.com/aragon/nubosidad-y-posibles-lluvias-en-zaragoza-segun-aemet-con-viento-moderado-y-temperaturas-en-ascenso-21044309",
       "imagen": "https://okdiario.com/img/2026/11/18/lluvia-en-zaragoza.-europa-press.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cielo nublado y lluvias débiles en Zaragoza: AEMET prevé viento moderado y cambios por la tarde",
-      "link": "https://okdiario.com/aragon/cielo-nublado-y-lluvias-debiles-en-zaragoza-aemet-preve-viento-moderado-y-cambios-por-la-tarde-20974308",
-      "imagen": "https://okdiario.com/img/2026/11/17/lluvia-en-zaragoza.-europa-press.jpg",
       "tipo": "imagen"
     }
   ]

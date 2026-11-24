@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Evento: Palacio de los Deportes. Afectadas 4 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261127-PD-Evento.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Manifestación en zona Centro. Afectadas 25 líneas de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261127-M-Prado-Alcala.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Obras: Marianistas. Afectadas 3 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261124-O-Marianistas.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -21,18 +33,6 @@
     {
       "titulo": "Concentración en Conde de Peñalver. Afectadas 2 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261126-C-Conde-Peñalver.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Traslado de Parada: Camino de las Cruces. Afectadas 3 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261124-TP-1162-Camino-Cruces.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Obras: Capitán Blanco Argibay. Afectada línea N22 de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261125-O-Capitan-Blanco-Argibay.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

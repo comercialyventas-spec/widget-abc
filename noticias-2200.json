@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Análisis electoral de Ángel Báez",
+      "link": "https://www.elperiodico.com/es/videos/opinion/analisis-electoral-angel-baez/136777243.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f0cdbb0b-75ed-422e-b225-e55621abf0ec_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Análisis electoral de Josep Lluís Micó",
       "link": "https://www.elperiodico.com/es/videos/opinion/analisis-electoral-josep-lluis-mico/136756952.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/8c1e6354-ee10-48f9-83f9-857107522482_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Análisis electoral de Toni Cabot",
       "link": "https://www.elperiodico.com/es/videos/opinion/analisis-electoral-toni-cabot/136687391.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f46aae6c-2744-459d-b8ab-9df5f603551a_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Análisis electoral de Rogelio Garrido",
-      "link": "https://www.elperiodico.com/es/videos/opinion/analisis-electoral-rogelio-garrido/136647989.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/1614e3c5-6b61-4472-bac6-444d499a6fbc_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
