@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "La reflexión de 'El Principito' sobre el trabajo: \"Soy un hombre serio, un hombre exacto; hace cincuenta y cuatro años que hago este cálculo\"",
+      "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-11-24/el-principito-reflexion-trabajo-hombre-serio-1qrt_4406131/",
+      "imagen": "https://images.ecestaticos.com/3FZ_EzKzXT5AIH9I_za6JunrDAg=/0x0:557x418/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F56b%2F612%2F67b%2F56b61267bc6fde943fde47642e71f991.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Paco Cerdá gana el Premio al Mejor Libro Europeo por 'Presentes', un retrato del entierro de José Antonio",
+      "link": "https://www.elconfidencial.com/cultura/2026-11-24/paco-cerda-libro-europeo_4471688/",
+      "imagen": "https://images.ecestaticos.com/4KmwEufAGyxvIok7BZeThpxRthM=/0x189:2272x1467/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd50%2F681%2F41e%2Fd5068141e5b6ed9f1da3c1201172b722.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "El italiano Michele del Campo gana el V Premio Almuzara de Pintura con 'Ventana al mar'",
+      "link": "https://www.elconfidencial.com/cultura/2026-11-24/michele-del-campo-v-premio-almuzara-de-pintura_4471270/",
+      "imagen": "https://images.ecestaticos.com/0Y8wWOL85xB5SVxY3-EnT3qXuAM=/0x0:4080x2047/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F151%2F3ab%2F393%2F1513ab39311c50185f3e0cb54862fc1f.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Martín Caparrós y sus 50 años de periodismo: \"Quiero seguir vivo mientras esté vivo y por eso estoy escribiendo como un poseso\"",
       "link": "https://www.elconfidencial.com/cultura/2026-11-24/martin-caparros-entrevista-cbtrntrv_4467902/",
       "imagen": "https://images.ecestaticos.com/s3YWmy_yzkk2evcO4gaQdgVT0l0=/0x80:2000x1205/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa2e%2Febe%2Feab%2Fa2eebeeabbc03dfa100b862b62d09d47.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Madrid tiene un plan perfecto para los amantes de la lectura: llega la feria del Libro Antiguo con obras de Lorca, Cervantes y mucho más",
       "link": "https://www.elconfidencial.com/espana/madrid/2026-11-23/madrid-plan-perfecto-amantes-lectura-1qrt_4470691/",
       "imagen": "https://images.ecestaticos.com/5aAw50Nk4OKtyVP3-dQbaUQLirU=/0x131:1254x836/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F0a5%2F917%2Ffe4%2F0a5917fe42ba541e50e3ce6c03f8524a.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Por qué se nos atragantan las matemáticas? Este experto de 81 años te explica dónde está el problema",
-      "link": "https://www.elconfidencial.com/cultura/2026-11-23/matematicas-porque-se-nos-atragantan-eroique-gracian-libro_4466746/",
-      "imagen": "https://images.ecestaticos.com/SN5MYzKmmpfOL2xElcUhRbE3wTs=/0x133:1280x853/0x900/filters:fill(white):format(jpeg)/f.elconfidencial.com%2Foriginal%2Fcfe%2F2af%2Fc52%2Fcfe2afc52c4f0454582fb30a40f222de.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La reflexión de Lewis Carroll: \"Solo unos pocos encuentran el camino, otros no lo reconocen cuando lo descubren, otros ni siquiera quieren hallarlo\"",
-      "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-11-22/lewis-carroll-unos-hallan-camino-otros-no-reconocen-ni-encontrarlo-1qrt_4467054/",
-      "imagen": "https://images.ecestaticos.com/CbzbCyAqsymO5Ec0_MjsMZbKRZw=/0x0:1000x562/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ffd0%2F45a%2F7e1%2Ffd045a7e18f963c5d116e0b7700bab74.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "La reflexión de 'El Principito' sobre el poder: \"No sabía que para los reyes el mundo está muy simplificado. Todos los hombres son súbditos\"",
-      "link": "https://www.elconfidencial.com/alma-corazon-vida/2026-11-22/el-principito-reflexion-poder-reyes-subditos-1qrt_4469274/",
-      "imagen": "https://images.ecestaticos.com/3FZ_EzKzXT5AIH9I_za6JunrDAg=/0x0:557x418/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F56b%2F612%2F67b%2F56b61267bc6fde943fde47642e71f991.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Una densa humareda provoca el caos en el centro de Roma",
+      "link": "https://www.elperiodico.com/es/videos/internacional/densa-humareda-provoca-caos-centro/136805304.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b696d2e2-cb30-4285-9fe7-f2e63cd6ba10_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Lula y Milei: nueve dedos, una motosierra y demasiados insultos",
       "link": "https://www.elperiodico.com/es/videos/internacional/lula-milei-nueve-dedos-motosierra/136787443.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f1c66d7b-1c8f-4929-8222-dada77180ae6_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Ucrania reivindica el ataque con drones navales contra una corbeta de Rusia anclada en Libia",
       "link": "https://www.elperiodico.com/es/videos/internacional/ucrania-ataque-drones-navales-rusia-libia/136740222.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a695be21-dd83-4ba3-bdab-9cae2ecf96f2_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Buscan a supervivientes bajo los escombros de un edificio tras un ataque ruso cerca de Kiev",
-      "link": "https://www.elperiodico.com/es/videos/internacional/buscan-supervivientes-escombros-edificio-ataque/136719005.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d4a46b8a-9680-4869-be7f-407a6ecd17aa_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

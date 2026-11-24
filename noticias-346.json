@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Anthropic presenta Claude Ship: agentes de IA que revisan, corrigen y aprueban cambios de código para acelerar el desarrollo de software",
+      "link": "https://www.abc.es/tecnologia/informatica/anthropic-presenta-claude-ship-agentes-ia-revisan-20261124200645-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/24/claude-anthropic-RQ1mgB1qWraTUGo2SIosIqJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "TikTok presenta su nuevo detector: así puedes comprobar si un vídeo se ha creado o editado con su IA",
+      "link": "https://www.abc.es/tecnologia/redes/tiktok-presenta-nuevo-detector-puedes-comprobar-video-20261124191013-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/24/young-man-listens-music-headphones-looks-phone-RnHzcS81BsNL8ZPKSi1cbhJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Google quiere que su buscador te conozca mejor: la IA usará tus documentos y datos de Drive y Wallet para perfeccionar sus respuestas",
+      "link": "https://www.abc.es/tecnologia/informatica/google-quiere-buscador-conozca-mejor-ia-usara-20261124181830-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/24/young-man-menswear-shop-talking-phone-Rb0jARzJsnrRn5J1YAYQc1J-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un mes con el iPhone Duo: todo lo que debes tener en cuenta antes de comprar el primer plegable de Apple",
       "link": "https://www.abc.es/tecnologia/mes-iphone-duo-debes-tener-cuenta-comprar-20261123020158-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/23/IMG_0396-RwbgTR7sNUBojkAYiaajOPM-1200x840@diario_abc.jpg",
@@ -16,24 +34,6 @@
       "titulo": "WhatsApp pone fin a uno de sus límites más conocidos: podrás añadir más miembros a un chat de grupo en iOS y Android",
       "link": "https://www.abc.es/tecnologia/redes/whatsapp-pone-fin-limites-conocidos-podras-anadir-20261123195648-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/23/modern-man-using-smartphone-city-RE7jeW88yYWzYRBKvKyi46J-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Google Assistant tiene los días contados en los altavoces: esta es la fecha en la que desaparecerá y qué lo sustituirá",
-      "link": "https://www.abc.es/tecnologia/electronica/google-assistant-dias-contados-altavoces-fecha-desaparecera-20261123190103-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/23/young-woman-using-home-technology-RmlCqQ5Fxp4KOhlRSvo7QNM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Rockstar firma con 'GTA VI' el mejor videojuego de la historia",
-      "link": "https://www.abc.es/tecnologia/videojuegos/rockstar-firma-gta-mejor-juego-historia-20261122013249-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/22/Jason_and_Lucia_01_With_Logos_landscape-RbGgwET9JqWfxM9i4xjimzH-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Meta lanza una nueva aplicación de mensajería de Instagram que permite chatear sin entrar en la red social y hasta sin tener una cuenta",
-      "link": "https://www.abc.es/tecnologia/redes/meta-lanza-nueva-aplicacion-mensajeria-instagram-permite-20261120183453-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/20/cute-teenage-girl-is-taking-pictures-phone-girl-headphones-R2hxxLNjKA3rruHQ6rofoJI-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Tiempo en Catalunya mañana miércoles: llegan las nevadas a Girona y vuelven los avisos por viento",
+      "link": "https://www.elperiodico.com/es/tiempo/20261124/tiempo-cataluna-manana-miercoles-25-noviembre-nieve-lluvia-viento-dv-loc-136800605",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b1ba5b36-87ff-4091-a744-0eade4b92e29_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Tiempo en Catalunya hoy martes: el Meteocat activa los avisos por lluvias en Barcelona y Girona",
       "link": "https://www.elperiodico.com/es/tiempo/20261123/tiempo-cataluna-barcelona-hoy-martes-24-de-noviembre-lluvia-temperaturas-dv-loc-136757153",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/5ce099b2-b872-448f-b845-9553bda26b10_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Tiempo en Catalunya hoy domingo: lluvias y aviso naranja por viento en Barcelona",
       "link": "https://www.elperiodico.com/es/tiempo/20261121/tiempo-cataluna-hoy-domingo-22-de-noviembre-viento-lluvias-avisos-dv-loc-136700303",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9ec9d901-9091-40b2-8da2-c7957b5c5632_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tiempo en Catalunya hoy sábado: día de lluvias en Lleida y temperaturas altas en el litoral",
-      "link": "https://www.elperiodico.com/es/tiempo/20261120/tiempo-cataluna-hoy-sabado-21-noviembre-lluvia-temperaturas-dv-loc-136669352",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2e2b15c9-93df-4b78-a033-7dc2311071b6_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

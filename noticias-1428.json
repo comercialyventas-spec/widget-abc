@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El italiano Michele del Campo gana el V Premio Almuzara de Pintura con 'Ventana al mar'",
+      "link": "https://www.elconfidencial.com/cultura/2026-11-24/michele-del-campo-v-premio-almuzara-de-pintura_4471270/",
+      "imagen": "https://images.ecestaticos.com/0Y8wWOL85xB5SVxY3-EnT3qXuAM=/0x0:4080x2047/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F151%2F3ab%2F393%2F1513ab39311c50185f3e0cb54862fc1f.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Espectacular 'expo' sobre Mariana de Austria en el Prado: la reina regente y madre protagoniza una de las muestras top de 2026",
+      "link": "https://www.elconfidencial.com/cultura/2026-11-24/mariana-de-austria-prado_4471582/",
+      "imagen": "https://images.ecestaticos.com/FXhWoXe5TX768rMwG48olmZGojQ=/0x0:2272x1278/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3f6%2F016%2F7bf%2F3f60167bf8ce824cf45566af2d55b870.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Policía recupera en Reino Unido una talla románica robada en Navarra por 'Erik el Belga' hace 47 años",
       "link": "https://www.elconfidencial.com/cultura/2026-11-23/policia-recupera-reino-unido-talla-romanica-robada-navarra-erik-belga-1979_4470497/",
       "imagen": "https://images.ecestaticos.com/aJJ4F0MjhOEREFTCGqMR7Gcg0cw=/0x104:2272x1382/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fe99%2F649%2Fa64%2Fe99649a649edb3ded50afdb88966a54f.jpg",
@@ -22,18 +34,6 @@
       "titulo": "La trágica ironía de Van Gogh: del único cuadro que vendió en vida a batir el récord histórico en NY con 'Châtaigniers en fleurs'",
       "link": "https://www.elconfidencial.com/cultura/2026-11-20/van-gogh-subasta-record-vinedo-rojo-historia_4469210/",
       "imagen": "https://images.ecestaticos.com/PMM6L5eU4r0il3dlTXx6i7Kw1hM=/0x0:2272x1278/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbe2%2F71f%2Ff24%2Fbe271ff24ea230bf1c5147ad7568ac82.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Té victoriano, palacios olvidados y arte en naves industriales, el otoño que Madrid esconde",
-      "link": "https://www.elconfidencial.com/espana/madrid/2026-11-20/planes-otono-madrid-silence-bra_4467655/",
-      "imagen": "https://images.ecestaticos.com/Pwqm-gITbF-0CF44MaaqRMtQ7n4=/0x0:1600x1067/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa1e%2F2b6%2F04d%2Fa1e2b604d962dc5fb9b1e7f32649f649.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "¿Y si el matrimonio Arnolfini fuese en realidad un autorretrato de Van Eyck con su esposa?",
-      "link": "https://www.elconfidencial.com/el-grito/2026-11-20/matrimonio-arnolfini-autorretrato-van-eyck-esposa_4468553/",
-      "imagen": "https://images.ecestaticos.com/CYY934MbQJQ10ke3o4U-_9vM2M0=/0x0:1560x1025/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb7b%2F333%2Fba0%2Fb7b333ba029db03c88e5e33b44fe3ede.jpg",
       "tipo": "imagen"
     }
   ]

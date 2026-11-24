@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Obras: Capitán Blanco Argibay. Afectada línea N22 de EMT.",
+      "link": "http://feeds.emtmadrid.es:8082/docs/20261125-O-Capitan-Blanco-Argibay.pdf",
+      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Traslado de Parada: María de Maeztu. Afectadas 2 líneas de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261126-TP-4823-Maria-Maeztu.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
@@ -27,12 +33,6 @@
     {
       "titulo": "Traslado de Parada-Cabecera: plaza de la Independencia. Afectada línea 28 de EMT.",
       "link": "http://feeds.emtmadrid.es:8082/docs/20261126-TP-163-Plaza-Independencia.pdf",
-      "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Manifestación en Gran Vía. Afectadas 15 líneas de EMT.",
-      "link": "http://feeds.emtmadrid.es:8082/docs/20261125-M-Gran-Via.pdf",
       "imagen": "http://feeds.emtmadrid.es:8082/images/00-Logo-RSS_Corporativo.png",
       "tipo": "imagen"
     }

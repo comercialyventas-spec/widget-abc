@@ -1,13 +1,19 @@
 {
   "noticias": [
     {
+      "titulo": "Pruebas de luces de Navidad sobre Passeig de Gràcia",
+      "link": "https://www.elperiodico.com/es/videos/barcelona/pruebas-luces-navidad-passeig-gracia-video/136804718.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/747d34b2-0c8d-45ae-9091-8bd59836993a_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Se hace pública la herencia de Gaudí: su casa en el Park Güell y dos cuentas con unas 3.000 pesetas",
       "link": "https://www.elperiodico.com/es/videos/barcelona/publica-herencia-gaudi-casa-park-guell-3000-pesetas-video/136779595.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b997846d-6f83-45e2-ba28-e7ea5adaca46_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Así ha sido el tiroteo mortal frente a un bar de Poble-sec, en Barcelona",
+      "titulo": "Un hombre pide un taxi para trasladar al herido de bala de Poble-sec",
       "link": "https://www.elperiodico.com/es/videos/barcelona/asi-sido-tiroteo-mortal-frente-bar-poble-sec-barcelona-video/136747595.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2281bf94-470a-4fb2-95b7-2dd4b31dc71e_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
@@ -28,12 +34,6 @@
       "titulo": "Entrevista a Daniel Sirera, político del Partido Popular",
       "link": "https://www.elperiodico.com/es/videos/barcelona/entrevista-daniel-sirera-politico-partido/136676781.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/c89f20d6-a65e-4bb2-acf8-efae690b15ef_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Incendio de un autobús en la calle Biada de Gràcia",
-      "link": "https://www.elperiodico.com/es/videos/barcelona/incendio-autobus-calle-biada-gracia/136733403.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6cbc9f60-884d-48dc-91a8-5175f1ce0b78_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

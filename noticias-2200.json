@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Análisis electoral de Ricardo Barceló",
+      "link": "https://www.elperiodico.com/es/videos/opinion/analisis-electoral-ricardo-barcelo/136797883.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/1a20b035-d7e6-4b4e-8d0b-df9b368bf409_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Análisis electoral de Ángel Báez",
       "link": "https://www.elperiodico.com/es/videos/opinion/analisis-electoral-angel-baez/136777243.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f0cdbb0b-75ed-422e-b225-e55621abf0ec_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Análisis electoral de Marisa Goñi",
       "link": "https://www.elperiodico.com/es/videos/opinion/analisis-electoral-marisa-goni/136697923.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/14958571-6350-481d-8cb4-69fe0a27d244_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Análisis electoral de Toni Cabot",
-      "link": "https://www.elperiodico.com/es/videos/opinion/analisis-electoral-toni-cabot/136687391.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f46aae6c-2744-459d-b8ab-9df5f603551a_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
