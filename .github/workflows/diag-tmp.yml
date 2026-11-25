@@ -1,0 +1,11 @@
+name: diag-tmp
+on: workflow_dispatch
+jobs:
+  d:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          UA='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36'
+          curl -s -L --max-time 25 -A "$UA" -H 'Accept-Language: es-ES,es;q=0.9' -o /tmp/p.html -w 'CODE %{http_code} SIZE %{size_download}\n' https://www.365rider.com/3-running
+          echo "thumbs: $(grep -o 'thumbnail product-thumbnail' /tmp/p.html | wc -l)"
+          head -c 400 /tmp/p.html | tr '\n' ' '
