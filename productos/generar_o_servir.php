@@ -221,6 +221,10 @@ function extraerProductosDeCategoria($html) {
                 if (preg_match('/class="price"[^>]*>\s*([^<]+?)\s*<\/span>/i', $resto, $mp)) {
                     $precio = trim(preg_replace('/\s+/', ' ', html_entity_decode($mp[1], ENT_QUOTES, 'UTF-8')));
                 }
+                // COPIA DE PRUEBA 25 nov (AÑADIDO, solo si el precio sigue vacio): span con varias clases, p.ej. class="price product-price".
+                if ($precio === '' && preg_match('/class="[^"]*\bprice\b[^"]*"[^>]*>\s*([^<]*\d[^<]*?)\s*<\/span>/i', $resto, $mp2)) {
+                    $precio = trim(preg_replace('/\s+/', ' ', html_entity_decode($mp2[1], ENT_QUOTES, 'UTF-8')));
+                }
                 $productos[] = ['titulo' => $titulo, 'url' => $m[1], 'imagen' => $imagen, 'precio' => $precio];
             }
         }
@@ -256,6 +260,10 @@ function extraerProductosDeCategoria($html) {
         $precio = '';
         if (preg_match('/class="price"[^>]*>\s*([^<]+?)\s*<\/span>/i', $bloque, $mp)) {
             $precio = trim(preg_replace('/\s+/', ' ', html_entity_decode($mp[1], ENT_QUOTES, 'UTF-8')));
+        }
+        // COPIA DE PRUEBA 25 nov (AÑADIDO, solo si el precio sigue vacio): span con varias clases.
+        if ($precio === '' && preg_match('/class="[^"]*\bprice\b[^"]*"[^>]*>\s*([^<]*\d[^<]*?)\s*<\/span>/i', $bloque, $mp2)) {
+            $precio = trim(preg_replace('/\s+/', ' ', html_entity_decode($mp2[1], ENT_QUOTES, 'UTF-8')));
         }
 
         $productos[] = [
@@ -426,13 +434,14 @@ function origenDeUrl($url) {
     return $u['scheme'] . '://' . $u['host'];
 }
 
+// COPIA DE PRUEBA 25 nov: 'mage/' ya no casa dentro de 'image/webp' ni 'image/svg+xml' (PrestaShop se tomaba por Magento).
 function detectarPlataformaHtml($html, $url) {
     if ($html === null || $html === '') return 'generico';
     $h = strtolower($html);
     if (strpos($h, 'insales') !== false) return 'insales';
     if (strpos($h, 'woocommerce') !== false || strpos($h, '/wp-content/plugins/woo') !== false) return 'woo';
     if (strpos($h, 'demandware') !== false || strpos($h, 'mobify') !== false || strpos($h, '/dw/image/') !== false) return 'sfcc';
-    if (strpos($h, 'mage/') !== false || strpos($h, 'magento_') !== false || strpos($h, 'data-mage-init') !== false || strpos($h, '/static/version') !== false) return 'magento';
+    if (preg_match('#(?<![a-z0-9])mage/#', $h) || strpos($h, 'magento_') !== false || strpos($h, 'data-mage-init') !== false || strpos($h, '/static/version') !== false) return 'magento';
     if (strpos($h, 'cdn.shopify.com') !== false || strpos($h, 'shopify') !== false) return 'shopify';
     return 'generico';
 }
