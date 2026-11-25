@@ -265,6 +265,29 @@ function extraerProductosDeCategoria($html) {
             'precio' => $precio,
         ];
     }
+    // 25 nov (AÑADIDO, solo si lo anterior no encontro nada): tienda propia con bloques "item-wrapper" y
+    // <a class="... product-title" title="Marca - Modelo" href="/p/...">, precio en class="product-price" (43einhalb.com).
+    if (empty($productos) && strpos($html, 'product-title') !== false && strpos($html, 'item-wrapper') !== false) {
+        $bloquesW = preg_split('/class="item-wrapper/', $html);
+        array_shift($bloquesW);
+        foreach ($bloquesW as $bw) {
+            $bw = substr($bw, 0, 4000);
+            if (!preg_match('/<a[^>]*class="[^"]*product-title[^"]*"[^>]*>/', $bw, $ma)) continue;
+            $etiqueta = $ma[0];
+            if (!preg_match('/\bhref="([^"#][^"]*)"/', $etiqueta, $mh)) continue;
+            if (!preg_match('/\btitle="([^"]+)"/', $etiqueta, $mt)) continue;
+            $titulo = html_entity_decode(trim($mt[1]), ENT_QUOTES, 'UTF-8');
+            if ($titulo === '') continue;
+            $imagen = '';
+            if (preg_match('/data-srcset="\s*(https?:\/\/[^\s"]+)/i', $bw, $mi)) { $imagen = html_entity_decode($mi[1], ENT_QUOTES, 'UTF-8'); }
+            elseif (preg_match('/<img[^>]+(?:data-src|src)="(https?:\/\/[^"]+)"/i', $bw, $mi)) { $imagen = html_entity_decode($mi[1], ENT_QUOTES, 'UTF-8'); }
+            $precio = '';
+            if (preg_match('/class="product-price"[^>]*>\s*([^<]+?)\s*</', $bw, $mp)) {
+                $precio = trim(preg_replace('/\s+/', ' ', html_entity_decode($mp[1], ENT_QUOTES, 'UTF-8')));
+            }
+            $productos[] = ['titulo' => $titulo, 'url' => $mh[1], 'imagen' => $imagen, 'precio' => $precio];
+        }
+    }
     return $productos;
 }
 
@@ -272,10 +295,24 @@ function extraerDeCategoria($urlBase, $maxPaginas) {
     $todos = [];
     $vistos = [];
     for ($p = 1; $p <= $maxPaginas; $p++) {
-        $urlPagina = $p === 1 ? $urlBase : rtrim($urlBase, '/') . '?page=' . $p;
+        $urlPagina = $p === 1 ? $urlBase : (!empty($urlSiguiente) ? $urlSiguiente : rtrim($urlBase, '/') . '?page=' . $p);
         $html = descargarUrl($urlPagina);
         if ($html === null) break;
+        // 25 nov (AÑADIDO): si la pagina declara <link rel="next" href="...">, esa es la siguiente (p.ej. /new-arrivals/page/2).
+        $urlSiguiente = '';
+        if (preg_match('/<link[^>]+rel="next"[^>]+href="([^"]+)"/i', $html, $mn)) {
+            $urlSiguiente = html_entity_decode($mn[1], ENT_QUOTES, 'UTF-8');
+            if (strpos($urlSiguiente, '//') === 0) { $urlSiguiente = 'https:' . $urlSiguiente; }
+            elseif ($urlSiguiente !== '' && $urlSiguiente[0] === '/') { $urlSiguiente = origenDeUrl($urlBase) . $urlSiguiente; }
+        }
         $productosPagina = extraerProductosDeCategoria($html);
+        // 25 nov (AÑADIDO): direcciones relativas (/p/...) -> absolutas con el dominio de la tienda.
+        foreach ($productosPagina as $k => $prodRel) {
+            foreach (['url', 'imagen'] as $campoRel) {
+                $vRel = isset($prodRel[$campoRel]) ? $prodRel[$campoRel] : '';
+                if ($vRel !== '' && $vRel[0] === '/' && strpos($vRel, '//') !== 0) { $productosPagina[$k][$campoRel] = origenDeUrl($urlBase) . $vRel; }
+            }
+        }
         if (empty($productosPagina)) break;
         $nuevos = 0;
         foreach ($productosPagina as $prod) {
