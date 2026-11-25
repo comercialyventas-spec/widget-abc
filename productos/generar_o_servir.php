@@ -296,6 +296,39 @@ function extraerProductosDeCategoria($html) {
             $productos[] = ['titulo' => $titulo, 'url' => $mh[1], 'imagen' => $imagen, 'precio' => $precio];
         }
     }
+    // 25 nov (AÑADIDO, COPIA DE PRUEBA; solo si todo lo anterior no encontro nada): OpenCart (Ageridis, Aquimejor, etc.).
+    // Bloques class="product-thumb" (o "product-layout"), titulo y enlace en <h4><a href>, imagen en data-src o src, precio en class="price".
+    if (empty($productos) && (strpos($html, 'product-thumb') !== false || strpos($html, 'product-layout') !== false)) {
+        $bloquesOc = preg_split('/class="[^"]*\bproduct-(?:thumb|layout)\b/', $html);
+        array_shift($bloquesOc);
+        $vistosOc = [];
+        foreach ($bloquesOc as $bo) {
+            $bo = substr($bo, 0, 4000);
+            $urlOc = ''; $tituloOc = '';
+            if (preg_match('/<h[2-5][^>]*>\s*<a[^>]*\bhref="([^"#][^"]*)"[^>]*>\s*(.*?)\s*<\/a>/is', $bo, $mh)) {
+                $urlOc = html_entity_decode($mh[1], ENT_QUOTES, 'UTF-8');
+                $tituloOc = trim(html_entity_decode(strip_tags($mh[2]), ENT_QUOTES, 'UTF-8'));
+            }
+            if ($urlOc === '' || $tituloOc === '') continue;
+            if (isset($vistosOc[$urlOc])) continue;
+            $imagenOc = '';
+            foreach (['data-src', 'data-original', 'src'] as $attrOc) {
+                if (preg_match('/<img[^>]*\b' . $attrOc . '="([^"]+)"/i', $bo, $mi)) {
+                    $valOc = trim(html_entity_decode($mi[1], ENT_QUOTES, 'UTF-8'));
+                    if ($valOc === '' || stripos($valOc, 'data:') === 0) continue;
+                    $imagenOc = $valOc; break;
+                }
+            }
+            $precioOc = '';
+            if (preg_match('/class="[^"]*\bprice-new\b[^"]*"[^>]*>\s*([^<]*\d[^<]*?)\s*</i', $bo, $mp)) {
+                $precioOc = trim(preg_replace('/\s+/', ' ', html_entity_decode($mp[1], ENT_QUOTES, 'UTF-8')));
+            } elseif (preg_match('/class="[^"]*\bprice\b[^"]*"[^>]*>\s*([^<]*\d[^<]*?)\s*</i', $bo, $mp)) {
+                $precioOc = trim(preg_replace('/\s+/', ' ', html_entity_decode($mp[1], ENT_QUOTES, 'UTF-8')));
+            }
+            $vistosOc[$urlOc] = true;
+            $productos[] = ['titulo' => $tituloOc, 'url' => $urlOc, 'imagen' => $imagenOc, 'precio' => $precioOc];
+        }
+    }
     return $productos;
 }
 
