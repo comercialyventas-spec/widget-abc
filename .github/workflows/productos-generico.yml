@@ -10,6 +10,11 @@ on:
   schedule:
     - cron: '26 2 * * *'
   workflow_dispatch:
+    inputs:
+      solo_url:
+        description: 'Opcional: generar solo este catalogo (rapido, ~1 min)'
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -70,7 +75,7 @@ jobs:
               vacios=$((vacios+1))
               echo "SIN PRODUCTOS (se conserva la copia anterior)  $url"
             fi
-          done < productos/_catalogos_pedidos.txt
+          done < <(if [ -n "${{ github.event.inputs.solo_url }}" ]; then echo "${{ github.event.inputs.solo_url }}"; else cat productos/_catalogos_pedidos.txt; fi)
           echo "Generados: $ok | Sin productos: $vacios"
 
       - name: Sincronizar con la rama remota antes de guardar

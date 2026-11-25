@@ -197,6 +197,37 @@ function extraerDeSitemap($xml) {
 }
 
 function extraerProductosDeCategoria($html) {
+    // 25 nov (AÑADIDO, se prueba PRIMERO; si no encuentra nada, sigue el metodo de siempre): temas PrestaShop donde el enlace va ANTES de
+    // class="thumbnail product-thumbnail" (<a href="..." class="thumbnail product-thumbnail">), p.ej. 365Rider.
+    $productos = [];
+    if (true) {
+        if (preg_match_all('/<a\s+href="([^"#][^"]*)"\s+class="thumbnail product-thumbnail"[^>]*>(.*?)<\/a>(?=(.{0,2500}))/s', $html, $ms, PREG_SET_ORDER)) {
+            foreach ($ms as $m) {
+                $imagen = '';
+                foreach (['data-src', 'src'] as $attr) {
+                    if (preg_match('/\b' . preg_quote($attr, '/') . '\s*=\s*"([^"]+)"/i', $m[2], $mi)) {
+                        $val = trim($mi[1]);
+                        if (stripos($val, 'data:') === 0) continue;
+                        if (stripos($val, 'http') === 0) { $imagen = $val; break; }
+                    }
+                }
+                $titulo = '';
+                if (preg_match('/alt="([^"]+)"/', $m[2], $mt)) {
+                    $titulo = html_entity_decode(trim($mt[1]), ENT_QUOTES, 'UTF-8');
+                }
+                if (!$titulo || $titulo === 'Producto') continue;
+                $precio = '';
+                $resto = preg_split('/class="thumbnail product-thumbnail/', $m[3])[0];
+                if (preg_match('/class="price"[^>]*>\s*([^<]+?)\s*<\/span>/i', $resto, $mp)) {
+                    $precio = trim(preg_replace('/\s+/', ' ', html_entity_decode($mp[1], ENT_QUOTES, 'UTF-8')));
+                }
+                $productos[] = ['titulo' => $titulo, 'url' => $m[1], 'imagen' => $imagen, 'precio' => $precio];
+            }
+        }
+    }
+    if (!empty($productos)) return $productos;
+    $productos = [];
+
     $productos = [];
     $bloques = preg_split('/class="thumbnail product-thumbnail/', $html);
     array_shift($bloques);
