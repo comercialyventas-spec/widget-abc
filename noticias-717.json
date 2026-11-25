@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Elena es de izquierdas y Juan, apolítico: ¿podrías estar con alguien que vota distinto a ti?",
+      "link": "https://www.eldiario.es/era/elena-izquierdas-juan-apolitico-alguien-vota-distinto_1_13690524.html",
+      "imagen": "https://static.eldiario.es/clip/bcc3e058-b7a5-48fb-a96b-292a237dac0f_16-9-discover-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Lisa Blumen convierte ser influencer en pesadilla: “La gente está cansada de comprar basura y de que les mientan”",
       "link": "https://www.eldiario.es/era/lisa-blumen-convierte-influencer-pesadilla-gente-cansada-comprar-basura-les-mientan_1_13681640.html",
       "imagen": "https://static.eldiario.es/clip/883a7f24-f2f4-4a4e-b57d-db6eab8075f5_16-9-discover-aspect-ratio_default_0.jpg",
@@ -10,12 +16,6 @@
       "titulo": "Cómo responder a los bulos políticos de tu cuñado en el chat de WhatsApp de la familia",
       "link": "https://www.eldiario.es/era/grupo-whatsapp-familia-convierte-campo-batalla-electoral-lleno-bulos_1_13673565.html",
       "imagen": "https://static.eldiario.es/clip/4ded6f85-037b-42ea-ad2f-f4c9ca751280_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Las entrevistas de Jordi Wild: cómo un 'youtuber' se ha convertido en un escaparate relevante para los candidatos",
-      "link": "https://www.eldiario.es/era/entrevistas-jordi-wild-youtuber-convertido-escaparate-relevante-candidatos_1_13653348.html",
-      "imagen": "https://static.eldiario.es/clip/801ceac0-17b6-40d6-af22-e15bbb9a6fff_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -31,9 +31,9 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "“Confundimos cuidarnos con ser buena persona”: el sociólogo que explica qué falla en nuestra idea de bienestar",
-      "link": "https://www.eldiario.es/era/confundimos-cuidarnos-buena-persona-sociologo-explica-falla-idea-bienestar_1_13565667.html",
-      "imagen": "https://static.eldiario.es/clip/c5063e42-8539-406a-ac33-5069102efc45_16-9-discover-aspect-ratio_default_0_x376y236.jpg",
+      "titulo": "Las entrevistas de Jordi Wild: cómo un 'youtuber' se ha convertido en un escaparate relevante para los candidatos",
+      "link": "https://www.eldiario.es/era/entrevistas-jordi-wild-youtuber-convertido-escaparate-relevante-candidatos_1_13653348.html",
+      "imagen": "https://static.eldiario.es/clip/801ceac0-17b6-40d6-af22-e15bbb9a6fff_16-9-discover-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

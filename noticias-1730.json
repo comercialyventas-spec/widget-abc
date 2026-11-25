@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Descubren una plantación de marihuana oculta bajo un parque infantil en una finca de Las Gabias",
+      "link": "https://www.youtube.com/watch",
+      "imagen": "https://www.youtube.com/v/uJDkCwKlV5U?version=3",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Entrevista a Jacobo Robatto, candidato al Congreso por Vox en Granada",
       "link": "https://www.youtube.com/watch",
       "imagen": "https://www.youtube.com/v/DlXnxFuW_h0?version=3",
@@ -28,12 +34,6 @@
       "titulo": "Entrevista a María Alcantud, candidata al Congreso por Adelante Andalucía en Granada",
       "link": "https://www.youtube.com/watch",
       "imagen": "https://www.youtube.com/v/pyQePkvwAAM?version=3",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Manifestaciones en Granada por la huelga general del 11N",
-      "link": "https://www.youtube.com/watch",
-      "imagen": "https://www.youtube.com/v/mYAoxklm2cc?version=3",
       "tipo": "imagen"
     }
   ]

@@ -1,15 +1,21 @@
 {
   "noticias": [
     {
-      "titulo": "Cine 31 de octubre de 2026 - 19:20 h",
-      "link": "https://www.infolibre.es/cultura/cine/",
+      "titulo": "Cultura 24 de noviembre de 2026 - 15:24 h",
+      "link": "https://www.infolibre.es/cultura/",
+      "imagen": "https://static.infolibre.es/clip/18ee942b-eeaa-4add-aab8-d59e97bf640d_source-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Premios infoLibre",
+      "link": "https://www.infolibre.es/club-infolibre/eventos/premios-infolibre/",
       "imagen": "https://www.infolibre.es/assets/img/logos/infolibre-logo-square.png?id=f9423636ca6a2fda65b6",
       "tipo": "imagen"
     },
     {
-      "titulo": "Música 31 de octubre de 2026 - 06:00 h",
-      "link": "https://www.infolibre.es/cultura/musica/",
-      "imagen": "https://static.infolibre.es/clip/a2598ea0-257a-407d-b6a3-be0ae321ab78_16-9-aspect-ratio_default_0.jpg",
+      "titulo": "Cine 21 de noviembre de 2026 - 06:01 h",
+      "link": "https://www.infolibre.es/cultura/cine/",
+      "imagen": "https://www.infolibre.es/assets/img/logos/infolibre-logo-square.png?id=f9423636ca6a2fda65b6",
       "tipo": "imagen"
     },
     {
@@ -19,19 +25,13 @@
       "tipo": "imagen"
     },
     {
-      "titulo": "Cultura 23 de octubre de 2026 - 20:03 h",
-      "link": "https://www.infolibre.es/cultura/",
-      "imagen": "https://static.infolibre.es/clip/18ee942b-eeaa-4add-aab8-d59e97bf640d_source-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Teatro 22 de octubre de 2026 - 13:44 h",
+      "titulo": "Teatro 17 de noviembre de 2026 - 20:46 h",
       "link": "https://www.infolibre.es/cultura/teatro/",
       "imagen": "https://static.infolibre.es/clip/d9f65299-cf1e-4575-ac58-ab491e7a18a6_16-9-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
-      "titulo": "Libros 15 de octubre de 2026 - 22:59 h",
+      "titulo": "Libros 17 de noviembre de 2026 - 06:01 h",
       "link": "https://www.infolibre.es/cultura/libros/",
       "imagen": "https://static.infolibre.es/clip/77909fef-f321-4729-b9ed-052fe9ed93fe_16-9-aspect-ratio_default_0.jpg",
       "tipo": "imagen"

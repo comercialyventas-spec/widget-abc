@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Nueva York prohíbe los juguetes que incluyen chatbots de IA: «Hay juguetes que podrían ser peligrosos para vuestros hijos»",
+      "link": "https://www.abc.es/tecnologia/electronica/nueva-york-prohibe-juguetes-incluyen-chatbots-ia-20261125182627-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/25/two-kids-with-laptop-tablet-RSXfctbkpJwzL3Na8ZsFTIL-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Así es el nuevo ES-Alert: el sistema incorpora avisos de prealerta para urgencias menores",
+      "link": "https://www.abc.es/tecnologia/moviles/nuevo-esalert-sistema-incorpora-avisos-prealerta-urgencias-20261125172358-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/25/es-alert-valencia-ResD5XgkikyLETKSzfNdzAJ-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Cómo configurar el DNI digital en tu móvil para votar en las elecciones del 29-N",
       "link": "https://www.abc.es/tecnologia/configurar-dni-digital-movil-votar-elecciones-29n-20261125123727-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/25/mi-dni-RPY8GV9zK6aQy6Iz9VklUFL-1200x840@diario_abc.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Anthropic presenta Claude Ship: agentes de IA que revisan, corrigen y aprueban cambios de código para acelerar el desarrollo de software",
       "link": "https://www.abc.es/tecnologia/informatica/anthropic-presenta-claude-ship-agentes-ia-revisan-20261124200645-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/24/claude-anthropic-RQ1mgB1qWraTUGo2SIosIqJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "TikTok presenta su nuevo detector: así puedes comprobar si un vídeo se ha creado o editado con su IA",
-      "link": "https://www.abc.es/tecnologia/redes/tiktok-presenta-nuevo-detector-puedes-comprobar-video-20261124191013-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/24/young-man-listens-music-headphones-looks-phone-RnHzcS81BsNL8ZPKSi1cbhJ-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Google quiere que su buscador te conozca mejor: la IA usará tus documentos y datos de Drive y Wallet para perfeccionar sus respuestas",
-      "link": "https://www.abc.es/tecnologia/informatica/google-quiere-buscador-conozca-mejor-ia-usara-20261124181830-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/24/young-man-menswear-shop-talking-phone-Rb0jARzJsnrRn5J1YAYQc1J-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

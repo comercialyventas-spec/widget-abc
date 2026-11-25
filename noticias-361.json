@@ -1,9 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "EEUU va a detonar más de 4 toneladas de azida de plomo que pueden desatar una nube kilométrica tóxica: \"Permanezcan en sus hogares\"",
+      "titulo": "La ONU denuncia que Israel intenta sustituir a palestinos por colonos en Cisjordania",
+      "link": "https://www.elconfidencial.com/mundo/2026-11-25/onu-denuncia-desplazamiento-palestinos-cisjordania-1tps_4472466/",
+      "imagen": "https://images.ecestaticos.com/DAIRhFmjrs5WUA-iuirOF8QeQpU=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Feb6%2F671%2F7de%2Feb66717de34863126cedd3485f0c747e.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "EEUU reactiva la guerra comercial con nuevos aranceles y Bruselas advierte que \"está preparada para responder\"",
+      "link": "https://www.elconfidencial.com/mundo/2026-11-25/trump-reactiva-la-guerra-comercial-y-lanza_4472428/",
+      "imagen": "https://images.ecestaticos.com/-SmtDgJIEJiII7PJFR186X_1W94=/0x0:2272x1278/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Faf7%2F7fe%2Fdf6%2Faf77fedf64b6ca3081a871fe4fcbc1f8.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Seis muertos y una veintena de desaparecidos al inundarse una mina de oro en Indonesia",
+      "link": "https://www.elconfidencial.com/mundo/2026-11-25/mina-oro-inundada-indonesia-1tps_4472316/",
+      "imagen": "https://images.ecestaticos.com/VBu3svZtxyqU1C5JfsrXYWg4I0I=/0x0:2272x1514/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa57%2F931%2Fcbd%2Fa57931cbd72274eab6ca51b75d6b2fb1.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "EEUU ha detonado más de 4 toneladas de azida de plomo que pueden desatar una nube kilométrica tóxica: \"Permanezcan en sus hogares\"",
       "link": "https://www.elconfidencial.com/mundo/2026-11-25/1qrt-eeuu-detonar-toneladas-azida-plomo-nube-toxica-_4472133/",
-      "imagen": "https://images.ecestaticos.com/3UXiNjRcgDlP4JVvqgGn_184rOQ=/0x0:1103x620/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ffea%2F7e1%2Fc84%2Ffea7e1c84e246737ada4f2b04b24a8d8.jpg",
+      "imagen": "https://images.ecestaticos.com/uSyhbSCt2H6l3RxGJQ5pHcEki5c=/0x0:1103x620/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F0ce%2Fd6e%2Ff8d%2F0ced6ef8df2bc7bb61553a9bb7a09db9.jpg",
       "tipo": "imagen"
     },
     {
@@ -16,24 +34,6 @@
       "titulo": "El salvadoreño Kilmar Ábrego decide abandonar EEUU tras enfrentarse a la Administración Trump y llega a España",
       "link": "https://www.elconfidencial.com/mundo/2026-11-25/kilmar-abrego-garcia-espana-1tps_4472006/",
       "imagen": "https://images.ecestaticos.com/wsQNrHQdq8tbvUPA9UIqTMwSfLI=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd8c%2F20e%2F342%2Fd8c20e342938c30ad312d2b66c5139ff.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una aeronave se estrella en el sur de Misisipi, en Estados Unidos",
-      "link": "https://www.elconfidencial.com/mundo/2026-11-25/accidente-avion-mississippi-guardia-costera-1tps_4472004/",
-      "imagen": "https://images.ecestaticos.com/XF-TyFttdhT1iOBxeIyWeSJBDmM=/0x0:2100x1397/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F3db%2F01d%2F31a%2F3db01d31a129934c13d27172a87c88f8.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un gran jurado imputa dos cargos por posesión de pornografía infantil a Thomas Markle, el padre de Meghan Markle",
-      "link": "https://www.elconfidencial.com/mundo/2026-11-25/thomas-markle-acusado-pornografia-infantil-1tps_4471995/",
-      "imagen": "https://images.ecestaticos.com/Dyyt6EMr1C1mWuxk2C51oI5tt5k=/0x0:1920x1579/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F0c4%2F359%2F1b2%2F0c43591b296bb819b239c89bcc490737.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cuando matar no basta: una masacre de tres mujeres para explicar una nueva forma de violencia",
-      "link": "https://www.elconfidencial.com/mundo/2026-11-25/matar-no-basta-masacre-mujeres-para-explicar-una-nueva-forma-de-violencia_4471869/",
-      "imagen": "https://images.ecestaticos.com/_c5A_Y5lrV49C0QDuis_TX_ItRM=/0x237:2272x1515/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F882%2Fe09%2F52d%2F882e0952d05569873c1143bcd750ac93.jpg",
       "tipo": "imagen"
     }
   ]

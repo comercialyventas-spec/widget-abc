@@ -1,6 +1,24 @@
 {
   "noticias": [
     {
+      "titulo": "Los bosques de Alemania se encogen, pero un tipo de árbol resiste",
+      "link": "https://www.dw.com/es/los-bosques-de-alemania-se-encogen-pero-un-tipo-de-árbol-resiste/a-80052365",
+      "imagen": "https://static.dw.com/image/67229241_6.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "EE.UU. anuncia nuevos aranceles contra China, Japón y la Unión Europea",
+      "link": "https://www.dw.com/es/ee-uu-anuncia-nuevos-aranceles-contra-china-japón-y-la-unión-europea/a-80053336",
+      "imagen": "https://static.dw.com/image/76070947_6.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "La presidenta del Bundestag pone de ejemplo a España por la lucha contra violencia machista",
+      "link": "https://www.dw.com/es/la-presidenta-del-bundestag-pone-de-ejemplo-a-españa-por-la-lucha-contra-violencia-machista/a-80048069",
+      "imagen": "https://static.dw.com/image/80046747_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ejército de Israel mata al jefe de la Seguridad Interna del norte de Gaza y a su familia",
       "link": "https://www.dw.com/es/ejército-de-israel-mata-al-jefe-de-la-seguridad-interna-del-norte-de-gaza-y-a-su-familia/a-80045727",
       "imagen": "https://static.dw.com/image/80034624_6.jpg",
@@ -16,24 +34,6 @@
       "titulo": "Jóvenes detenidos en redada contra grupo terrorista de extrema derecha en Alemania",
       "link": "https://www.dw.com/es/jóvenes-detenidos-en-redada-contra-grupo-terrorista-de-extrema-derecha-en-alemania/a-80044766",
       "imagen": "https://static.dw.com/image/76007076_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "China califica la Shenzhou-24, con el primer astronauta extranjero, de \"histórica\"",
-      "link": "https://www.dw.com/es/china-califica-la-shenzhou-24-con-el-primer-astronauta-extranjero-de-histórica/a-80043551",
-      "imagen": "https://static.dw.com/image/80042671_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un jurado en EE.UU. declara culpable a la empresa Huawei por robo de secretos industriales",
-      "link": "https://www.dw.com/es/un-jurado-en-ee-uu-declara-culpable-a-la-empresa-huawei-por-robo-de-secretos-industriales/a-80042319",
-      "imagen": "https://static.dw.com/image/80042207_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Un gran jurado en EE.UU. acusa a Thomas Markle, padre de Meghan Markle, de posesión de pornografía infantil",
-      "link": "https://www.dw.com/es/un-gran-jurado-en-ee-uu-acusa-a-thomas-markle-padre-de-meghan-markle-de-posesión-de-pornografía-infantil/a-80042280",
-      "imagen": "https://static.dw.com/image/79980161_6.jpg",
       "tipo": "imagen"
     }
   ]

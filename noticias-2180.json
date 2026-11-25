@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Tiempo en Catalunya mañana jueves: el Meteocat alerta de fuertes rachas de viento y nevadas en el Pirineo",
+      "link": "https://www.elperiodico.com/es/tiempo/20261125/tiempo-catalunya-hoy-jueves-meteocat-viento-nevadas-pirineo-dv-136840866",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/6ef88542-62d2-4bcb-8943-f5087d930d54_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Radar Meteocat de lluvia en Barcelona y resto de Catalunya, en tiempo real: a qué hora y dónde va a llover hoy",
+      "link": "https://www.elperiodico.com/es/tiempo/20261125/radar-lluvia-barcelona-cataluna-tarragona-tiempo-real-dv-107738359",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a0fa0025-0431-4b58-89dd-8a50bf9a321e_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Tiempo en Catalunya hoy miércoles: llegan las nevadas a Girona y vuelven los avisos por viento",
       "link": "https://www.elperiodico.com/es/tiempo/20261124/tiempo-cataluna-manana-miercoles-25-noviembre-nieve-lluvia-viento-dv-loc-136800605",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b1ba5b36-87ff-4091-a744-0eade4b92e29_media-libre-aspect-ratio_default_0.jpg",
@@ -22,18 +34,6 @@
       "titulo": "Tiempo en Catalunya hoy lunes: el viento pierde fuerza y descienden las temperaturas",
       "link": "https://www.elperiodico.com/es/tiempo/20261122/tiempo-cataluna-hoy-lunes-23-noviembre-viento-temperatura-dv-loc-136727207",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/1ae9ffba-a852-46be-a596-c3663ac31f79_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Catalunya mantiene la alerta de emergencias por fuertes rachas de viento",
-      "link": "https://www.elperiodico.com/es/tiempo/20261122/cataluna-activa-alerta-emergencias-viento-fuertes-rachas-barcelona-136681986",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b6352e97-0ada-4ff1-8e5e-a37b2d803af7_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Tiempo en Catalunya hoy domingo: lluvias y aviso naranja por viento en Barcelona",
-      "link": "https://www.elperiodico.com/es/tiempo/20261121/tiempo-cataluna-hoy-domingo-22-de-noviembre-viento-lluvias-avisos-dv-loc-136700303",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9ec9d901-9091-40b2-8da2-c7957b5c5632_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
