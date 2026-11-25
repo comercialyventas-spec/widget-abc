@@ -1,9 +1,21 @@
 {
   "noticias": [
     {
+      "titulo": "INFOLIBRE, EN ABIERTO",
+      "link": "https://www.infolibre.es/como-lo-ve/",
+      "imagen": "https://static.infolibre.es/clip/e41b02d9-bfc0-4c29-b9ac-1115336d2015_source-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Marina Lobo: \"A la gente de Vox le avergüenza decir que vota a un partido que podría hacer ministro a Figaredo\"",
+      "link": "https://www.infolibre.es/como-lo-ve/marina-lobo-gente-vox-le-averguenza-decir-vota-partido-ministro-figaredo_1_2240534.html",
+      "imagen": "https://static.infolibre.es/clip/7811550c-6222-4a78-aec9-e44a387367f7_16-9-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Margarita Guerrero, directora del Injuve: “La disputa no es entre generaciones, sino entre clases\"",
       "link": "https://www.infolibre.es/como-lo-ve/margarita-guerrero-directora-injuve-disputa-no-generaciones-clases_1_2240164.html",
-      "imagen": "https://static.infolibre.es/clip/9e3edc03-b2ff-4681-be65-cb14c50ea3a1_16-9-aspect-ratio_default_0.jpg",
+      "imagen": "https://static.infolibre.es/clip/9e3edc03-b2ff-4681-be65-cb14c50ea3a1_16-9-aspect-ratio_50p_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Andrea Rizzi: “Las protestas en Europa revelan el rechazo a un sistema que margina a buena parte de la población\"",
       "link": "https://www.infolibre.es/como-lo-ve/andrea-rizzi-protestas-europa-revelan-rechazo-sistema-margina-buena-parte-poblacion_1_2238969.html",
       "imagen": "https://static.infolibre.es/clip/4efff719-dc21-439e-919a-7efd8c4b47d5_16-9-aspect-ratio_50p_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Verónica Sanz: \"Es un peligro para la izquierda no encontrar acuerdos y no encontrar voces comunes”",
-      "link": "https://www.infolibre.es/como-lo-ve/veronica-sanz-peligro-izquierda-no-encontrar-acuerdos-no-encontrar-voces-comunes_1_2238552.html",
-      "imagen": "https://static.infolibre.es/clip/395336a0-ce00-46da-905f-34ef724f044a_16-9-aspect-ratio_50p_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Cristina Fallarás: “La izquierda es quien tiene que decirle a un gobierno que expropie a los bancos\"",
-      "link": "https://www.infolibre.es/como-lo-ve/cristina-fallaras-izquierda-decirle-gobierno-expropie-bancos_1_2237792.html",
-      "imagen": "https://static.infolibre.es/clip/234fb5d4-8b8e-41a6-baba-767f0ae611b4_16-9-aspect-ratio_50p_0.jpg",
       "tipo": "imagen"
     }
   ]

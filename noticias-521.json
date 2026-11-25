@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Willbur de 'Gran Prix'",
+      "link": "https://www.elconfidencialdigital.com/medios/willbur-gran-prix/202611250500001505343.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/24/2026112417265280609.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Feijóo con Jordi Wild",
       "link": "https://www.elconfidencialdigital.com/medios/feijoo-jordi-wild/202611121900001501940.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/12/2026111217033772138.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Sofía Suescun en el concurso de Plex",
       "link": "https://www.elconfidencialdigital.com/medios/plex/202609281900001488818.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/10/02/2026100208294529156.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "OpenAI",
-      "link": "https://www.elconfidencialdigital.com/medios/openai/202610010500001489547.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/06/10/2026061020174889408.png",
       "tipo": "imagen"
     }
   ]
