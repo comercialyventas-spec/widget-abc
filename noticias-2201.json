@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Rescatan a todas las personas secuestradas durante más de 16 horas en un supermercado de Colombia",
+      "link": "https://www.elperiodico.com/es/videos/internacional/rescatan-personas-secuestradas-durante-16/136825698.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/183303c7-0438-47eb-99dd-55f2c6241676_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Una densa humareda provoca el caos en el centro de Roma",
       "link": "https://www.elperiodico.com/es/videos/internacional/densa-humareda-provoca-caos-centro/136805304.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b696d2e2-cb30-4285-9fe7-f2e63cd6ba10_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El consejo de Nvidia restituye a Jensen Juang como CEO",
       "link": "https://www.elperiodico.com/es/videos/internacional/consejo-nvidia-restituye-jensen-juang/136762391.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/f1a038d3-4922-476b-86e6-3c207474e227_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Ucrania reivindica el ataque con drones navales contra una corbeta de Rusia anclada en Libia",
-      "link": "https://www.elperiodico.com/es/videos/internacional/ucrania-ataque-drones-navales-rusia-libia/136740222.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a695be21-dd83-4ba3-bdab-9cae2ecf96f2_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

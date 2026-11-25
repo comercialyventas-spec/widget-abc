@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "Suzuki presenta el nuevo Ignis, su primer coche eléctrico urbano",
+      "link": "https://www.elperiodico.com/es/motor/20261125/suzuki-estrena-nuevo-ignis-136826133",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/3ffb9949-d489-41da-9ce4-9e387fac896d_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Neomotor Premium 2026: Mercedes Clase C eléctrico, 743 km de autonomía y 325 km de recarga en diez minutos",
+      "link": "https://www.elperiodico.com/es/motor/20261125/mercedes-benz-clase-c-electrico-autonomia-precio-recarga-136596663",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9fc5b2b1-33f8-4dd3-bdda-51161155f61a_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Hyundai Ioniq 3, finalista al Coche del Año de los Lectores 2027",
       "link": "https://www.elperiodico.com/es/motor/20261125/hyundai-ioniq-3-finalista-premio-coche-ano-lectores-136617618",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/a1c8db94-4552-440b-91c1-1d7ad46114df_media-libre-aspect-ratio_default_0.jpg",
@@ -22,18 +34,6 @@
       "titulo": "¿Puedo aparcar mi coche y mi moto en la misma plaza de garaje? Esto dice la ley",
       "link": "https://www.elperiodico.com/es/motor/20261124/aparcar-coche-moto-plaza-garaje-136784369",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9f4b5e71-0ccd-4e6c-a253-bce8e68a7ae8_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Neomotor Premium 2026: Fiat Multiplay, Una estrella para la familia",
-      "link": "https://www.elperiodico.com/es/motor/20261124/neomotor-premium-2026-fiat-multiplay-136747407",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2761e241-bb33-422a-bd3b-a9d93bd13a40_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Neomotor Premium 2026: KGM Torres, una familia con carácter",
-      "link": "https://www.elperiodico.com/es/motor/20261124/kgm-torres-gama-familia-suv-136586379",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b7f4883d-3e64-4ea2-85e6-89217cead6dd_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Kilmar Abrego García, víctima de las deportaciones masivas de Trump, aterriza en Madrid",
+      "link": "https://elpais.com/internacional/2026-11-25/kilmar-abrego-garcia-victima-de-las-deportaciones-masivas-de-trump-aterriza-en-madrid.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/4QUK6MRC4BKNRBTQKFCX32ZOCA.jpg?auth=8fedbf8220514352eeff6c26976744f3fa09665911d3458de671d7fe7c76e3a1",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "El hundimiento de la corbeta ‘Merkury’ pone en evidencia las grietas de la defensa naval de Rusia",
       "link": "https://elpais.com/internacional/2026-11-24/el-hundimiento-de-la-corbeta-merkury-de-orgullo-de-la-flota-rusa-en-2023-a-ejemplo-de-la-vulnerabilidad-en-la-nueva-guerra-naval.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/ZGX7ZFLZFNM63PCMC3N5UH67XQ.jpg?auth=4c0c18323bf46b306038b7257617a0df50b04556bafbefaeeb30f1f1bd6e4216",
@@ -10,12 +16,6 @@
       "titulo": "Israel destruye las condiciones para concebir nuevas vidas en Gaza: “Lo he perdido todo, hasta la esperanza”",
       "link": "https://elpais.com/internacional/2026-11-25/israel-destruye-las-condiciones-para-concebir-nuevas-vidas-en-gaza-lo-he-perdido-todo-hasta-la-esperanza.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/I5IRHKMZ7VAGFNHVZCLS3W7RFA.JPG?auth=db001ccbd511ebccf1e66be7c90e3aa06663665c9bc6d950a4a7a51a319f3c59",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Steffen Krach, líder del SPD en Berlín: “No creo que nacionalizar viviendas baje los alquileres, al contrario”",
-      "link": "https://elpais.com/internacional/2026-11-25/steffen-krach-lider-del-spd-en-berlin-no-creo-que-nacionalizar-viviendas-baje-los-alquileres-al-contrario.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/EM2KBXIT6RH4TCBWZ7BOJS7U6I.jpg?auth=9e2bf63434cf9bc76092d9ddbbbf9085b00ca819e6118e2ca1bb0da8d5ac3089",
       "tipo": "imagen"
     },
     {
