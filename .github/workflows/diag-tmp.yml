@@ -4,10 +4,13 @@ jobs:
   d:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
       - run: |
-          MOTOR=/tmp/motor; mkdir -p $MOTOR/cache_productos; cp productos/generar_o_servir.php $MOTOR/
-          php -m | grep -i curl || echo "sin ext curl"
-          php -d display_errors=1 -d error_reporting=E_ALL -r '$_GET=["url"=>"https://www.365rider.com/3-running","pagina"=>"1","refrescar"=>"1"]; include "/tmp/motor/generar_o_servir.php";' | head -c 600; echo
-          ls -la $MOTOR/cache_productos | head
-          cat $MOTOR/cache_productos/_plataformas.json 2>/dev/null | head -c 300; echo
+          UA='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36'
+          curl -s -L --max-time 25 -A "$UA" -H 'Accept-Language: es-ES,es;q=0.9' -o /tmp/p.html https://www.365rider.com/3-running
+          echo "RES exacto: $(grep -o 'class="thumbnail product-thumbnail' /tmp/p.html | wc -l)"
+          python3 - <<'PY'
+          import re
+          h=open('/tmp/p.html',encoding='utf-8',errors='ignore').read()
+          i=h.find('thumbnail product-thumbnail')
+          print('RES ctx:', re.sub(r'\s+',' ',h[i-80:i+900]))
+          PY
