@@ -1,0 +1,11 @@
+name: diag-tmp
+on: workflow_dispatch
+jobs:
+  d:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          UA='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36'
+          curl -s -L --max-time 25 -A "$UA" -H 'Accept-Language: es-ES,es;q=0.9' -o /tmp/q.html -w "RES code=%{http_code} final=%{url_effective} size=%{size_download}\n" https://www.43einhalb.com/new-arrivals
+          echo "RES item-wrapper=$(grep -o 'item-wrapper' /tmp/q.html | wc -l) product-title=$(grep -o 'product-title' /tmp/q.html | wc -l) next=$(grep -o '<link rel="next"[^>]*>' /tmp/q.html | head -1)"
+          echo "RES head: $(head -c 300 /tmp/q.html | tr '\n' ' ')"
