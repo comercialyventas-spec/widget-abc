@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "INFOLIBRE, EN ABIERTO",
+      "link": "https://www.infolibre.es/union-europea/",
+      "imagen": "https://static.infolibre.es/clip/fcbaa9d3-2b32-467d-8e0b-df1c41d38710_source-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La crisis de Ceuta se instala en el Parlamento Europeo y marca el discurso de Von der Leyen",
       "link": "https://www.infolibre.es/union-europea/crisis-ceuta-instala-parlamento-europeo-marca-discurso-von-der-leyen_1_2236378.html",
       "imagen": "https://static.infolibre.es/clip/0a312015-0d7a-4fca-9a9d-dbe2f08ae358_16-9-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "La crisis en Oriente Medio coloca a la UE ante otro choque energético sin una respuesta común cerrada",
       "link": "https://www.infolibre.es/union-europea/crisis-oriente-medio-coloca-ue-choque-energetico-respuesta-comun-cerrada_1_2175854.html",
       "imagen": "https://static.infolibre.es/clip/784b810a-d058-4f6e-ad32-aa152b2fa10f_16-9-aspect-ratio_50p_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Italia y Francia siguen a España y amplían sus vetos a las operaciones militares de EEUU en su territorio",
-      "link": "https://www.infolibre.es/union-europea/italia-francia-siguen-espana-amplian-vetos-operaciones-militares-eeuu-territorio_1_2171188.html",
-      "imagen": "https://static.infolibre.es/clip/a74138cf-0a36-43bc-a3d1-2d473f3eb691_16-9-aspect-ratio_50p_0.jpg",
       "tipo": "imagen"
     }
   ]

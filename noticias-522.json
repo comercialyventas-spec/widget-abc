@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Militares españoles",
+      "link": "https://www.elconfidencialdigital.com/defensa/militares-espanoles/202611242114011505421.html",
+      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/06/02/2026060215134759633.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La Policía Nacional entrena a militares de la BRIPAC",
       "link": "https://www.elconfidencialdigital.com/defensa/policia-nacional-entrena-militares-bripac/202611242043471505419.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/24/2026112420424628246.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Regimiento de Caballería 'España' nº 11",
       "link": "https://www.elconfidencialdigital.com/defensa/regimiento-caballeria-espana-11/202611212318171504738.html",
       "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/21/2026112123154832767.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Drones estadounidenses en Marruecos",
-      "link": "https://www.elconfidencialdigital.com/defensa/drones-estadounidenses-marruecos/202611202336431504674.html",
-      "imagen": "https://www.elconfidencialdigital.com//media/elconfidencialdigital/images/2026/11/20/2026112023320465150.jpg",
       "tipo": "imagen"
     }
   ]

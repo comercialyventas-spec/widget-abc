@@ -1,15 +1,27 @@
 {
   "noticias": [
     {
-      "titulo": "Club infoLibre",
+      "titulo": "INFOLIBRE, EN ABIERTO",
       "link": "https://www.infolibre.es/club-infolibre/",
       "imagen": "https://static.infolibre.es/clip/a8292fdd-758d-4143-9367-701544b1847c_source-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     },
     {
+      "titulo": "Te invitamos al concierto de piano de Chano Domínguez en el Ateneo de Madrid",
+      "link": "https://www.infolibre.es/club-infolibre/invitamos-concierto-piano-chano-dominguez-ateneo-madrid_1_2239544.html",
+      "imagen": "https://static.infolibre.es/clip/02d9956d-3cb1-46de-abef-b700ef1aa70f_16-9-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "Sorteamos entradas dobles para ver el espectáculo de danza ‘Padre nuestro’ en la sala Cuarta Pared de Madrid",
+      "link": "https://www.infolibre.es/club-infolibre/sorteamos-entradas-dobles-ver-espectaculo-danza-padre-sala-cuarta-pared-madrid_1_2239117.html",
+      "imagen": "https://static.infolibre.es/clip/bb396ee0-0aad-4f78-8d75-2c26ef5d5dbd_16-9-aspect-ratio_50p_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Consigue entradas dobles para acudir al preestreno de la película documental ‘200 vidas, Paco Rabal’ en Madrid",
       "link": "https://www.infolibre.es/club-infolibre/entradas-dobles-acudir-preestreno-pelicula-documental-200-vidas-paco-rabal-madrid_1_2237867.html",
-      "imagen": "https://static.infolibre.es/clip/0a6b5a18-6fe3-4f54-9f69-2b68f1290c23_16-9-aspect-ratio_default_0.jpg",
+      "imagen": "https://static.infolibre.es/clip/0a6b5a18-6fe3-4f54-9f69-2b68f1290c23_16-9-aspect-ratio_50p_0.jpg",
       "tipo": "imagen"
     },
     {
@@ -22,18 +34,6 @@
       "titulo": "Apúntate al sorteo de entradas dobles para acudir al preestreno de la película ‘Chopin’ en Madrid",
       "link": "https://www.infolibre.es/club-infolibre/apuntate-sorteo-entradas-dobles-acudir-preestreno-pelicula-chopin-madrid_1_2236693.html",
       "imagen": "https://static.infolibre.es/clip/72e6a29d-277c-4514-9317-65b9616ee138_16-9-aspect-ratio_50p_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Te invitamos a ver la ópera ‘Così fan tutte’, la divertida comedia de Mozart, en Cine Yelmo en 17 ciudades de España",
-      "link": "https://www.infolibre.es/club-infolibre/invitamos-ver-opera-cosi-fan-tutte-divertida-comedia-mozart-cine-yelmo-17-ciudades-espana_1_2236672.html",
-      "imagen": "https://static.infolibre.es/clip/b77d333e-c135-4970-af8a-406e50bbd069_16-9-aspect-ratio_50p_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Participa en el sorteo de entradas dobles para el concierto de Mario Prisuelos en el Ateneo de Madrid",
-      "link": "https://www.infolibre.es/club-infolibre/participa-sorteo-entradas-dobles-concierto-mario-prisuelos-ateneo-madrid_1_2236019.html",
-      "imagen": "https://static.infolibre.es/clip/f37e839e-7e21-4ee4-a133-c2891d2a4e52_16-9-aspect-ratio_50p_0.jpg",
       "tipo": "imagen"
     }
   ]

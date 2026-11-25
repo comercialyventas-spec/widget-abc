@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "TikTok sufre una caída a nivel mundial y deja sin servicio a los usuarios una hora",
+      "link": "https://www.abc.es/tecnologia/tiktok-sufre-caida-nivel-mundial-20261124211010-nt.html",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/24/1520467432-kLPB-U40522523356bBF-1200x840@diario_abc.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Anthropic presenta Claude Ship: agentes de IA que revisan, corrigen y aprueban cambios de código para acelerar el desarrollo de software",
       "link": "https://www.abc.es/tecnologia/informatica/anthropic-presenta-claude-ship-agentes-ia-revisan-20261124200645-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/24/claude-anthropic-RQ1mgB1qWraTUGo2SIosIqJ-1200x840@diario_abc.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Google crea una copia secreta de internet: así es la red paralela donde los agentes de IA aprenden a navegar sin poner en peligro a los usuarios",
       "link": "https://www.abc.es/tecnologia/google-crea-copia-secreta-internet-red-paralela-20261123205007-nt.html",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/23/pexels-divinetechygirl-1181278-RVP3n00ARa44shmSykoA8HM-1200x840@diario_abc.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "WhatsApp pone fin a uno de sus límites más conocidos: podrás añadir más miembros a un chat de grupo en iOS y Android",
-      "link": "https://www.abc.es/tecnologia/redes/whatsapp-pone-fin-limites-conocidos-podras-anadir-20261123195648-nt.html",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2026/11/23/modern-man-using-smartphone-city-RE7jeW88yYWzYRBKvKyi46J-1200x840@diario_abc.jpg",
       "tipo": "imagen"
     }
   ]

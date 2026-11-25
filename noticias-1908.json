@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El pucherazo que no cesa",
+      "link": "https://www.eldiario.es/opinion/zona-critica/pucherazo-no-cesa_129_13690116.html",
+      "imagen": "https://static.eldiario.es/clip/9dc6371f-b00b-4a27-aafe-cb7c4b5a1a98_16-9-discover-aspect-ratio_default_0_x3766y1513.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Ansiedad demoscópica",
       "link": "https://www.eldiario.es/opinion/zona-critica/ansiedad-demoscopica_129_13684709.html",
       "imagen": "https://static.eldiario.es/clip/61715b88-d4d6-42df-8c18-4c9deaa1c77c_16-9-discover-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Igual no te has enterado de que la huelga fue un fracaso",
       "link": "https://www.eldiario.es/opinion/zona-critica/igual-no-has-enterado-huelga-fracaso_129_13659946.html",
       "imagen": "https://static.eldiario.es/clip/6d3191d0-3ae9-4cd1-9319-efc7b4f9a4a9_16-9-discover-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Este artículo está en huelga",
-      "link": "https://www.eldiario.es/opinion/zona-critica/articulo-huelga_129_13653279.html",
-      "imagen": "https://static.eldiario.es/clip/fdfc29f9-fed8-4f50-801c-6f54a3fbed91_16-9-discover-aspect-ratio_default_0_x3600y4249.jpg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¿Puedo aparcar mi coche y mi moto en la misma plaza de garaje? Esto dice la ley",
+      "link": "https://www.elperiodico.com/es/motor/20261124/aparcar-coche-moto-plaza-garaje-136784369",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/9f4b5e71-0ccd-4e6c-a253-bce8e68a7ae8_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Neomotor Premium 2026: Fiat Multiplay, Una estrella para la familia",
       "link": "https://www.elperiodico.com/es/motor/20261124/neomotor-premium-2026-fiat-multiplay-136747407",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/2761e241-bb33-422a-bd3b-a9d93bd13a40_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "BMW empieza a fabricar su nuevo SUV eléctrico, el iX4, con 828 kilómetros de autonomía",
       "link": "https://www.elperiodico.com/es/motor/20261124/bmw-empieza-fabricar-nuevo-ix4-136782129",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/b17be00b-55a9-4d62-9560-665cb9e63e18_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Classic Raid TT lleva las motos clásicas a Sant Mori",
-      "link": "https://www.elperiodico.com/es/motor/20261124/classic-raid-tt-lleva-motos-clasicas-sant-mori-136746832",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/c8031cb2-4578-4eec-a2e8-c254ea56a84a_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]
