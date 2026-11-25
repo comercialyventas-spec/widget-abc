@@ -1,0 +1,27 @@
+name: diag-tmp
+on: workflow_dispatch
+jobs:
+  d:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          UA='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36'
+          t() { # etiqueta, url, extra...
+            lab="$1"; u="$2"; shift 2
+            curl -s -L --max-time 25 -A "$UA" "$@" -o /tmp/q.html -w "RES $lab code=%{http_code} final=%{url_effective}\n" "$u"
+            echo "RES $lab lang=$(grep -o '<html lang="[a-z-]*"' /tmp/q.html | head -1) thumbs=$(grep -o 'class="thumbnail product-thumbnail' /tmp/q.html | wc -l) alt=$(grep -o 'alt="[^"]*" data-full' /tmp/q.html | head -1 | cut -c1-70)"
+          }
+          t base https://www.365rider.com/3-running -H 'Accept-Language: es-ES,es;q=0.9'
+          t es-prefijo https://www.365rider.com/es/3-running -H 'Accept-Language: es-ES,es;q=0.9'
+          t idlang 'https://www.365rider.com/3-running?id_lang=1' -H 'Accept-Language: es-ES,es;q=0.9'
+          t pag2 'https://www.365rider.com/3-running?page=2' -H 'Accept-Language: es-ES,es;q=0.9'
+          t xff https://www.365rider.com/3-running -H 'Accept-Language: es-ES,es;q=0.9' -H 'X-Forwarded-For: 88.6.12.34'
+          curl -s -L --max-time 25 -A "$UA" -H 'Accept-Language: es-ES' -o /tmp/r.html https://www.365rider.com/3-running
+          python3 - <<'PY'
+          import re
+          h=open('/tmp/r.html',encoding='utf-8',errors='ignore').read()
+          i=h.find('class="thumbnail product-thumbnail')
+          seg=h[i:i+4000]
+          print('RES precio:', re.findall(r'class="[^"]*price[^"]*"[^>]*>[^<]{0,40}',seg)[:4])
+          print('RES lang-links:', re.findall(r'hreflang="[^"]+"',h)[:3])
+          PY
