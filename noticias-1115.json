@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Zaragoza: AEMET prevé cielos nubosos y nevadas en Cinco Villas con viento fuerte",
+      "link": "https://okdiario.com/aragon/zaragoza-aemet-preve-cielos-nubosos-y-nevadas-en-cinco-villas-con-viento-fuerte-21263949",
+      "imagen": "https://okdiario.com/img/2025/11/11/zaragoza-mientras-nieva.-europa-press.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Nubes y lluvia en Zaragoza según AEMET, descenso de temperaturas en la mitad norte",
       "link": "https://okdiario.com/aragon/nubes-y-lluvia-en-zaragoza-segun-aemet-descenso-de-temperaturas-en-la-mitad-norte-21255249",
       "imagen": "https://okdiario.com/img/2026/11/24/lluvia-en-zaragoza.-europa-press.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Cielo nuboso y viento fuerte en Zaragoza: AEMET prevé mejoras y posibles lluvias dispersas",
       "link": "https://okdiario.com/aragon/cielo-nuboso-y-viento-fuerte-en-zaragoza-aemet-preve-mejoras-y-posibles-lluvias-dispersas-21119288",
       "imagen": "https://okdiario.com/img/2026/11/19/lluvia-en-zaragoza.-europa-press.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Nubosidad y posibles lluvias en Zaragoza según AEMET, con viento moderado y temperaturas en ascenso",
-      "link": "https://okdiario.com/aragon/nubosidad-y-posibles-lluvias-en-zaragoza-segun-aemet-con-viento-moderado-y-temperaturas-en-ascenso-21044309",
-      "imagen": "https://okdiario.com/img/2026/11/18/lluvia-en-zaragoza.-europa-press.jpg",
       "tipo": "imagen"
     }
   ]

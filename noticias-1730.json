@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Entrevista a Jacobo Robatto, candidato al Congreso por Vox en Granada",
+      "link": "https://www.youtube.com/watch",
+      "imagen": "https://www.youtube.com/v/DlXnxFuW_h0?version=3",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Entrevista a Jesús Fernández, candidato al Congreso por Frente Amplio en Granada",
       "link": "https://www.youtube.com/watch",
       "imagen": "https://www.youtube.com/v/jtcigTLy7_c?version=3",
@@ -28,12 +34,6 @@
       "titulo": "Manifestaciones en Granada por la huelga general del 11N",
       "link": "https://www.youtube.com/watch",
       "imagen": "https://www.youtube.com/v/mYAoxklm2cc?version=3",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Simulacro de terremoto en Santa Fe, Atarfe y Vélez de Benaudalla",
-      "link": "https://www.youtube.com/shorts/_D3Yns12NxQ",
-      "imagen": "https://www.youtube.com/v/_D3Yns12NxQ?version=3",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "La ressaca existencial de Francis Scott Fitzgerald",
+      "link": "https://elpais.com/quadern/literatura/2026-11-25/la-ressaca-existencial-de-francis-scott-fitzgerald.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/ZZ4ZZOWXEFCD7PNJUS4HW54WEE.JPG?auth=dbf24f2d75f76565a0f61ab9bf9bc5cdf1a76cea863c6137a196f6b3f5d18027",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "‘Crackòvia’, entre l’actualitat i l’eternitat",
+      "link": "https://elpais.com/quadern/cinema-i-televisio/2026-11-25/crackovia-entre-lactualitat-i-leternitat.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/64EQJRCXANA5FI5O5U3HLN5YME.JPG?auth=d8dd8a71cca518ab9c25e3f5d3ef8018691f8598ee54d73a96fa0cd2ac0d64c0",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Beatriz Bittencourt, editora de No Libros: “Quan em vaig sentir segura, vaig començar a publicar en català”",
       "link": "https://elpais.com/quadern/literatura/2026-11-24/beatriz-bittencourt-editora-de-no-libros-quan-em-vaig-sentir-segura-vaig-comencar-a-publicar-en-catala.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/U6RLNXZKWRFHTCD6REKJTNV55I.jpg?auth=b7a39b989d32b66505c223d668ad9ce9bfd84b1eea51825ccfff8ada39374c4b",
@@ -22,18 +34,6 @@
       "titulo": "L’arquitectura dels Jocs Olímpics ja és patrimoni",
       "link": "https://elpais.com/quadern/art-i-arquitectura/2026-11-22/larquitectura-dels-jocs-olimpics-ja-es-patrimoni.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/JI2RXXNFEBHNJFZ7MPJ4ZCZPKU.jpg?auth=e03446a5e14150e563a56e09ecad86a89ad337b8d5a4a9e76e22646034abd60e",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Carlos Cuevas: “‘L’herència’ mostra que hi ha gent que ha pagat els drets humans amb la vida”",
-      "link": "https://elpais.com/quadern/2026-11-21/carlos-cuevas-lherencia-mostra-que-hi-ha-gent-que-ha-pagat-els-drets-humans-amb-la-vida.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/QLRJP3OJHRDNNH7XYYRGQSYNSA.jpg?auth=033b67ab546f358bda84bb4b2deb374908048a521c554549da270c191154ceb2",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Barcelona, el gran aparador de la cuina catalana",
-      "link": "https://elpais.com/quadern/gastronomia/2026-11-20/barcelona-el-gran-aparador-de-la-cuina-catalana.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/3VE345TAZJD6NMZAKPDK5H7OCA.jpg?auth=ea5e60d1a34fdc2d95d03730e254ce5769845405bb43e003161d4c2bd0d5e8e5",
       "tipo": "imagen"
     }
   ]

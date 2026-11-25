@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "TVyMAS; Doctor Cabrera, ¿dígame?",
+      "link": "https://www.elperiodico.com/es/videos/tele/tvymas-doctor-cabrera-digame/136806064.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/63f2d5f9-2963-401c-85d9-ab5e1c5dfc4a_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "TVyMAS; Tan sólo un canal de whastapp",
       "link": "https://www.elperiodico.com/es/videos/tele/tvymas-canal-whastapp/136763781.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/d940c10d-826e-4368-b8af-d95e5066bbc4_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Este jueves vuelve \"Sálvame\"",
       "link": "https://www.elperiodico.com/es/videos/tele/jueves-vuelve-salvame-video/136723837.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/12905cb7-ff1c-4767-b83e-7c181266f370_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El Teatro Real de Madrid celebra su premio como mejor ópera del mundo",
-      "link": "https://www.elperiodico.com/es/videos/ocio-y-cultura/teatro-real-madrid-celebra-premio/136720249.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/3af01c94-69ba-4712-b822-ad777efb06c4_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

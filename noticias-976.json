@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Un jurado en EE.UU. declara culpable a la empresa Huawei por robo de secretos industriales",
+      "link": "https://www.dw.com/es/un-jurado-en-ee-uu-declara-culpable-a-la-empresa-huawei-por-robo-de-secretos-industriales/a-80042319",
+      "imagen": "https://static.dw.com/image/80042207_6.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Un gran jurado en EE.UU. acusa a Thomas Markle, padre de Meghan Markle, de posesión de pornografía infantil",
       "link": "https://www.dw.com/es/un-gran-jurado-en-ee-uu-acusa-a-thomas-markle-padre-de-meghan-markle-de-posesión-de-pornografía-infantil/a-80042280",
       "imagen": "https://static.dw.com/image/79980161_6.jpg",
@@ -28,12 +34,6 @@
       "titulo": "El \"Starlink ruso\": ¿una nueva amenaza para Ucrania?",
       "link": "https://www.dw.com/es/el-starlink-ruso-¿una-nueva-amenaza-para-ucrania/a-80041352",
       "imagen": "https://static.dw.com/image/71856660_6.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Izquierda alemana expulsa a una polémica diputada para facilitar gobierno en Berlín",
-      "link": "https://www.dw.com/es/izquierda-alemana-expulsa-a-una-polémica-diputada-para-facilitar-gobierno-en-berlín/a-80041892",
-      "imagen": "https://static.dw.com/image/80041225_6.jpg",
       "tipo": "imagen"
     }
   ]

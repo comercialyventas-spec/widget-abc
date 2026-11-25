@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Análisis electoral de Miguel Ferrary",
+      "link": "https://www.elperiodico.com/es/videos/opinion/analisis-electoral-miguel-ferrary/136820152.shtml",
+      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/32f96638-e689-415d-ad11-5c0206505ff7_media-libre-aspect-ratio_default_0.jpg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Análisis electoral de Ricardo Barceló",
       "link": "https://www.elperiodico.com/es/videos/opinion/analisis-electoral-ricardo-barcelo/136797883.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/1a20b035-d7e6-4b4e-8d0b-df9b368bf409_media-libre-aspect-ratio_default_0.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Análisis electoral de Eloy Méndez",
       "link": "https://www.elperiodico.com/es/videos/opinion/analisis-electoral-eloy-mendez/136711792.shtml",
       "imagen": "https://estaticos-cdn.prensaiberica.es/clip/ea294b67-b1b2-4e36-a2cf-14c91a2acaa9_media-libre-aspect-ratio_default_0.jpg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Análisis electoral de Marisa Goñi",
-      "link": "https://www.elperiodico.com/es/videos/opinion/analisis-electoral-marisa-goni/136697923.shtml",
-      "imagen": "https://estaticos-cdn.prensaiberica.es/clip/14958571-6350-481d-8cb4-69fe0a27d244_media-libre-aspect-ratio_default_0.jpg",
       "tipo": "imagen"
     }
   ]

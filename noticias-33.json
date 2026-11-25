@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "¿Quién piensa en las mujeres?",
+      "link": "https://www.lavanguardia.com/local/valencia/20261125/11692376/piensa-mujeres.html",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/12/28/69511065ab63b.jpeg",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "La hipoteca del arzobispo",
       "link": "https://www.lavanguardia.com/opinion/20261125/11692475/hipoteca-arzobispo.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
@@ -28,12 +34,6 @@
       "titulo": "Mujer e integridad",
       "link": "https://www.lavanguardia.com/opinion/20261125/11692102/mujer-e-integridad.html",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/24/6b0574469acee.jpeg",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "El derecho a odiar",
-      "link": "https://www.lavanguardia.com/opinion/20261125/11692076/derecho-odiar.html",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/24/6b056fc796aa9.jpeg",
       "tipo": "imagen"
     }
   ]

@@ -1,6 +1,18 @@
 {
   "noticias": [
     {
+      "titulo": "El secreto de la wolbachia, la bacteria que convierte a los insectos macho en hembras",
+      "link": "https://elpais.com/ciencia/2026-11-25/el-secreto-de-la-wolbachia-la-bacteria-que-convierte-a-los-insectos-macho-en-hembras.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/NLHHYHZINFGT5JPTZBCO2YL6MA.jpg?auth=586b06358008673c96bfd5dbac5a1176978418d61c9d2ae7e231890a55e1a02c",
+      "tipo": "imagen"
+    },
+    {
+      "titulo": "¿Y si hablamos del futuro de España? Hablemos de ciencia",
+      "link": "https://elpais.com/ciencia/2026-11-25/y-si-hablamos-del-futuro-de-espana-hablemos-de-ciencia.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/VIWHWQTZU3A6M6UHSVQBS2W6VQ.jpg?auth=9d5227977cc1c935fb4dffa7108983d7cd9992dc001d015fbdd693dde1fa300d",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "China abre las puertas de su “Palacio Celestial” al primer astronauta extranjero: el pakistaní Muhammad Zeeshan Ali",
       "link": "https://elpais.com/ciencia/2026-11-24/china-abre-las-puertas-de-su-palacio-celestial-al-primer-astronauta-extranjero-el-pakistani-muhammad-zeeshan-ali.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/5QVUA7WTJZPYNOQGU5KOAX3LYY.jpg?auth=7e071489a786e389505c047909abe57692d4172b5a5458ca56c4dbdd2e591790",
@@ -22,18 +34,6 @@
       "titulo": "Más allá de un día luz: España capta el primer saludo de la ‘Voyager 1’ desde el otro lado de la frontera interestelar",
       "link": "https://elpais.com/ciencia/2026-11-19/mas-alla-de-un-dia-luz-espana-capta-el-primer-saludo-de-la-voyager-1-desde-el-otro-lado-de-la-frontera-interestelar.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/Y2YYGBFJV5AH5FUJAORUXYTJRU.jpg?auth=865ec7af17b4a1f6435e21b0006d8de7ff330a8c1d40735fc1868e37a9d14c00",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Lombrices, hongos y orina para cultivar patatas en la mala tierra de la Luna",
-      "link": "https://elpais.com/ciencia/2026-11-19/lombrices-hongos-y-orina-para-cultivar-patatas-en-la-mala-tierra-de-la-luna.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/4LWRIMNWVVAVXPFRHTGJH243QE.jpg?auth=f4ebd0555a33ae7f6b6d18885c2622308d2457188bc0ba72343829a8ad567904",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Una huella común para 42 tumores: el mayor atlas del cáncer deja al descubierto a sus células cómplices",
-      "link": "https://elpais.com/ciencia/2026-11-18/una-huella-comun-para-42-tumores-el-mayor-atlas-del-cancer-deja-al-descubierto-a-sus-celulas-complices.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/DP6AHGJANFEGLH2DAAP77CMNEM.jpg?auth=3fba8ca7100e7e6744c5fe21f4d758b7eba52039bf9c9fc87dd2bd79e8b6b533",
       "tipo": "imagen"
     }
   ]

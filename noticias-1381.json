@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "Gramática electoral",
+      "link": "https://elpais.com/babelia/2026-11-25/gramatica-electoral.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/2L262H3GNFD4VCH5EOPGLH7A7Y.jpg?auth=eb4678d564e9ad3cc1049ae752b59a8e2f9db3ea3f21971241de6b356de8ec9d",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Está pasando, lo está escribiendo: Josep Pla fuma y cuenta su infarto",
       "link": "https://elpais.com/babelia/2026-11-24/esta-pasando-lo-esta-escribiendo-josep-pla-fuma-y-cuenta-su-infarto.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/T7MNPZIC3BFFFMWWNOQSYGCQ3M.jpg?auth=ffea61d20a019676e5d4859fee52af15a6d06e3d4c7f394309374ef90ec32c29",
@@ -28,12 +34,6 @@
       "titulo": "Las revoluciones de Caparrós, vivir el futuro para explicar el pasado",
       "link": "https://elpais.com/babelia/2026-11-21/las-revoluciones-de-caparros-vivir-el-futuro-para-explicar-el-pasado.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/SDTTCXC7XBHCRHRWTE24MWGYIA.jpg?auth=6bbbcc3f4e70cf4ad096a37884353f3032a3aab326ee35028c354c9a665f4fc7",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Josefina Licitra, premio Sor Juana Inés de la Cruz: “Retirar la palabra a un hijo es hacer un ejercicio de poder”",
-      "link": "https://elpais.com/babelia/2026-11-21/josefina-licitra-premio-sor-juana-ines-de-la-cruz-retirar-la-palabra-a-un-hijo-es-hacer-un-ejercicio-de-poder.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/WQTOLRFOSVBXLN5UZGJI6WGCEA.jpg?auth=52e6145d713c5e8a639c4e8b2c7e44df852a9ac82d0d49958093d2fde3fac96a",
       "tipo": "imagen"
     }
   ]

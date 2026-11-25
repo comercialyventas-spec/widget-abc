@@ -1,6 +1,12 @@
 {
   "noticias": [
     {
+      "titulo": "El miedo a envejecer, una ansiedad de nuestros tiempos",
+      "link": "https://elpais.com/eps/2026-11-25/el-miedo-a-envejecer.html",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/PEJCAAV3G5GY7BWDASHT3PXL3M.jpg?auth=52988c677ce7ba3e683e303bfdfe6fafc3252caefc6035900f3757082d28f197",
+      "tipo": "imagen"
+    },
+    {
       "titulo": "Nasa, el bar de Pontevedra que resiste a modas, gentrificaciones y peregrinos",
       "link": "https://elpais.com/eps/2026-11-24/nasa-el-bar-de-pontevedra-que-resiste-a-modas-gentrificaciones-y-peregrinos.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/YDJZLZHZANDCJDCCFBGBEKPU3E.jpg?auth=63419d65cb404af6aa83d0ff8de01bc876d7a3947c5c79aef69c2bb75fae537c",
@@ -28,12 +34,6 @@
       "titulo": "La tortilla eterna, la ternera más deseada y los ‘cinnamon rolls’: así es el nuevo monográfico de gastronomía de ‘El País Semanal’ y EL PAÍS Gastro",
       "link": "https://elpais.com/eps/2026-11-22/la-tortilla-eterna-la-ternera-mas-deseada-y-los-cinnamon-rolls-asi-es-el-nuevo-monografico-de-gastronomia-de-el-pais-semanal-y-el-pais-gastro.html",
       "imagen": "https://imagenes.elpais.com/resizer/v2/IQTC33CL6FHCJHLC5OXRE2DVMM.jpg?auth=f33f073a9fc4261a6ce3d0f587717ddef31d3f9530fd345c93daa4a9820f852e",
-      "tipo": "imagen"
-    },
-    {
-      "titulo": "Biografía de la tortilla de patatas, zona cero de la polarización española: “Si no te gusta poco cuajada es que no tienes paladar”",
-      "link": "https://elpais.com/eps/2026-11-22/biografia-de-la-tortilla-de-patatas-zona-cero-de-la-polarizacion-espanola-si-no-te-gusta-la-poco-cuajada-es-que-no-tienes-paladar.html",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/AXAT3L4UXJH33FALQAOBCPYUOQ.jpg?auth=2d5ccb76cb19e193d74d43d477c0c618a790c3ed9c262df1de8710af81bd2509",
       "tipo": "imagen"
     }
   ]
