@@ -19,7 +19,7 @@ header('Content-Type: application/json; charset=utf-8');
 
 $TTL_HORAS = 20;
 $POR_PAGINA = 24;
-$MAX_PAGINAS_CATEGORIA = 12;
+$MAX_PAGINAS_CATEGORIA = 60;   // 26 nov: antes 12; catalogos completos de tiendas con paginas de 12 productos
 
 // 17 sept: mismo semáforo de concurrencia compartido con scraper_generico.php
 // (pipeline de noticias) — misma carpeta de locks, mismo cupo total de huecos
