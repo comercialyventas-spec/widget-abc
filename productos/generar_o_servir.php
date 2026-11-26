@@ -664,7 +664,7 @@ function marcarSiOtroIdioma($productos, $url) {
 
 function extraerPorPlataforma($plataforma, $url) {
     if ($plataforma === 'sfcc') return marcarSiOtroIdioma(extraerSfcc($url, 8), $url);
-    if ($plataforma === 'woo') return extraerWoo($url, 8);
+    if ($plataforma === 'woo') return extraerWoo($url, 40);   // 26 nov: antes 8 paginas (400 productos); 40 = hasta 2000 para el catalogo completo de la tienda
     return [];
 }
 
