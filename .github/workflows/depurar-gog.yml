@@ -20,6 +20,6 @@ jobs:
           $r = extraerGog('https://www.gog.com/es/games', 48);
           echo '::notice::productos=' . count($r) . "\n";
           if ($r) echo '::notice::' . json_encode($r[0], JSON_UNESCAPED_UNICODE) . "\n";
-          else if (is_string($h)) { $i = strpos($h, '"products":['); echo '::notice::idx=' . var_export($i, true) . ' jsonerr=' . json_last_error_msg() . "\n"; }
+          else if (is_string($h)) { $q=strpos($h,'"products":[')+11; $n=strlen($h); $pr=0;$ec=false;$es=false;$fin=-1; for($i=$q;$i<$n;$i++){$c=$h[$i]; if($ec){ if($es){$es=false;} elseif($c==='\\'){$es=true;} elseif($c==='"'){$ec=false;} continue;} if($c==='"'){$ec=true;continue;} if($c==='['){$pr++;} elseif($c===']'){$pr--; if($pr===0){$fin=$i;break;}}} echo '::notice::fin='.$fin."\n"; if($fin>0){$l=json_decode(substr($h,$q,$fin-$q+1),true); echo '::notice::dec='.(is_array($l)?count($l):'null').' '.json_last_error_msg()."\n"; if(is_array($l)&&$l){ echo '::notice::keys='.implode(',',array_keys($l[0]))."\n"; echo '::notice::price='.json_encode($l[0]['price']??null)."\n"; }}  $i = strpos($h, '"products":['); echo '::notice::idx=' . var_export($i, true) . ' jsonerr=' . json_last_error_msg() . "\n"; }
           PHP
           php /tmp/dbg.php
