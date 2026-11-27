@@ -862,6 +862,7 @@ function extraerGog($url, $paginas = 3) {
             if ($titulo === '' || $enlace === '' || $fin_p === null) continue;
             $enlace = str_replace('gog.com/en/', 'gog.com/es/', $enlace);
             $img = str_replace('{formatter}', 'product_card_v2_mobile_slider_639', $cover);
+            if (strpos($cover, '{formatter}') === false) { $img = preg_replace('/\.(png|jpg|jpeg|webp)$/i', '', $cover) . '_product_card_v2_mobile_slider_639.jpg'; }
             $antes = '';
             if (isset($pr['price']['baseMoney']['amount']) && (float) $pr['price']['baseMoney']['amount'] > (float) $fin_p) {
                 $antes = precioDeNumero($pr['price']['baseMoney']['amount']);
