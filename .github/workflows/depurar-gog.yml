@@ -4,22 +4,17 @@ jobs:
   d:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
       - run: |
-          cat > /tmp/dbg.php <<'PHP'
-          <?php
-          $src = file_get_contents('productos/generar_o_servir.php');
-          foreach (['descargarUrl', 'precioDeNumero', 'extraerGog'] as $f) {
-              $p = strpos($src, "function $f(");
-              $depth = 0; $i = strpos($src, '{', $p);
-              for ($k = $i; $k < strlen($src); $k++) { if ($src[$k] === '{') $depth++; elseif ($src[$k] === '}') { $depth--; if ($depth === 0) break; } }
-              eval(substr($src, $p, $k - $p + 1));
-          }
-          $h = descargarUrl('https://www.gog.com/es/games');
-          echo '::notice::html=' . (is_string($h) ? strlen($h) : 'null') . "\n";
-          $r = extraerGog('https://www.gog.com/es/games', 48);
-          echo '::notice::productos=' . count($r) . "\n";
-          if ($r) echo '::notice::' . json_encode($r[0], JSON_UNESCAPED_UNICODE) . "\n";
-          else if (is_string($h)) { $q=strpos($h,'"products":[')+11; $n=strlen($h); $pr=0;$ec=false;$es=false;$fin=-1; for($i=$q;$i<$n;$i++){$c=$h[$i]; if($ec){ if($es){$es=false;} elseif($c==='\\'){$es=true;} elseif($c==='"'){$ec=false;} continue;} if($c==='"'){$ec=true;continue;} if($c==='['){$pr++;} elseif($c===']'){$pr--; if($pr===0){$fin=$i;break;}}} echo '::notice::fin='.$fin."\n"; if($fin>0){$l=json_decode(substr($h,$q,$fin-$q+1),true); echo '::notice::dec='.(is_array($l)?count($l):'null').' '.json_last_error_msg()."\n"; if(is_array($l)&&$l){ echo '::notice::keys='.implode(',',array_keys($l[0]))."\n"; echo '::notice::price='.json_encode($l[0]['price']??null)."\n"; }}  $i = strpos($h, '"products":['); echo '::notice::idx=' . var_export($i, true) . ' jsonerr=' . json_last_error_msg() . "\n"; }
-          PHP
-          php /tmp/dbg.php
+          curl -s -L --max-time 30 -A 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36' -w 'HTTP:%{http_code}' 'https://catalog.gog.com/v1/catalog?limit=48&order=desc:trending&countryCode=ES&locale=es-ES&currencyCode=EUR&productType=in:game,pack,dlc' -o /tmp/c.json > /tmp/code.txt || true
+          python3 - <<'PY'
+          import json
+          code=open('/tmp/code.txt').read()
+          print('::notice::'+code)
+          try:
+              d=json.load(open('/tmp/c.json'))
+              p=d.get('products',[])
+              print('::notice::n=%d keys=%s' % (len(p), ','.join(p[0].keys()) if p else ''))
+              if p: print('::notice::'+json.dumps({k:p[0].get(k) for k in ('title','price','storeLink')},ensure_ascii=False)[:500])
+          except Exception as e:
+              print('::notice::err '+str(e)[:200])
+          PY
