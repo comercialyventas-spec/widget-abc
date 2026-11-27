@@ -644,6 +644,157 @@ function extraerWoo($url, $maxPaginas = 8) {
     return $todos;
 }
 
+// ============================================================================
+// 27 nov (AÑADIDO): LECTORES PROPIOS para tiendas de videojuegos que no son Shopify/Woo/etc.
+// Solo se activan por dominio (xtralife.com, game.es); cualquier otra URL sigue por el camino de siempre.
+// Si el lector no saca nada, tampoco cambia nada: se sigue con el flujo anterior.
+// ============================================================================
+function precioDeNumero($n) {
+    return number_format((float) $n, 2, ',', '.') . '€';
+}
+
+/** Productos de una lista JSON-LD (ItemList -> Product con name, url, image y offers.price). */
+function extraerDeJsonLdLista($html) {
+    $out = [];
+    if (!is_string($html) || $html === '') return $out;
+    if (!preg_match_all('#<script[^>]+type="application/ld\+json"[^>]*>(.*?)</script>#is', $html, $bloques)) return $out;
+    foreach ($bloques[1] as $b) {
+        $j = json_decode(trim($b), true);
+        if (!is_array($j)) continue;
+        $nodos = isset($j['@graph']) && is_array($j['@graph']) ? $j['@graph'] : [$j];
+        foreach ($nodos as $n) {
+            if (!is_array($n) || empty($n['itemListElement']) || !is_array($n['itemListElement'])) continue;
+            foreach ($n['itemListElement'] as $el) {
+                $it = (is_array($el) && isset($el['item']) && is_array($el['item'])) ? $el['item'] : $el;
+                if (!is_array($it) || empty($it['name']) || empty($it['url'])) continue;
+                $img = '';
+                if (!empty($it['image'])) { $img = is_array($it['image']) ? (string) reset($it['image']) : (string) $it['image']; }
+                if ($img === '') continue;
+                $of = isset($it['offers']) ? $it['offers'] : null;
+                if (is_array($of) && isset($of[0])) $of = $of[0];
+                $precio = '';
+                if (is_array($of) && isset($of['price']) && $of['price'] !== '') $precio = precioDeNumero($of['price']);
+                $out[] = [
+                    'titulo' => html_entity_decode(strip_tags((string) $it['name']), ENT_QUOTES, 'UTF-8'),
+                    'url' => (string) $it['url'],
+                    'imagen' => $img,
+                    'precio' => $precio,
+                    'precio_antes' => '',
+                ];
+            }
+        }
+    }
+    return $out;
+}
+
+/** Xtralife: cada pagina de categoria (/seleccion/..., /catalogo/...) trae 24 productos en JSON-LD. Si la URL es la portada, recorre sus categorias. */
+function extraerXtralife($url) {
+    $url = preg_replace('/#.*$/', '', $url);
+    $html = descargarUrl($url);
+    if ($html === null) return [];
+    $todos = extraerDeJsonLdLista($html);
+    $paginas = [];
+    if (empty($todos)) {
+        if (preg_match_all('#href="(/(?:seleccion|catalogo)/[^"?\#]+)"#i', $html, $m)) {
+            $paginas = array_slice(array_values(array_unique($m[1])), 0, 12);
+        }
+        foreach ($paginas as $ruta) {
+            $h = descargarUrl(origenDeUrl($url) . $ruta);
+            if ($h !== null) $todos = array_merge($todos, extraerDeJsonLdLista($h));
+            usleep(500000);
+        }
+    }
+    $vistos = [];
+    $out = [];
+    foreach ($todos as $p) {
+        if (isset($vistos[$p['url']])) continue;
+        $vistos[$p['url']] = true;
+        $out[] = $p;
+    }
+    return $out;
+}
+
+/** Game: las fichas vienen en el HTML (enlace /nombre/ID con imagen; precio recomendado y precio actual en el texto). */
+function extraerGameDeHtml($html) {
+    $out = [];
+    if (!is_string($html) || $html === '') return $out;
+    $prev = libxml_use_internal_errors(true);
+    $dom = new DOMDocument();
+    $dom->loadHTML('<?xml encoding="UTF-8">' . $html);
+    libxml_clear_errors();
+    libxml_use_internal_errors($prev);
+    $xp = new DOMXPath($dom);
+    $vistos = [];
+    foreach ($xp->query('//a[@href][.//img]') as $a) {
+        $href = $a->getAttribute('href');
+        if (!preg_match('#^(?:https?://(?:www\.)?game\.es)?(/[a-z0-9\-]+/\d{5,})$#i', $href, $mh)) continue;
+        $ruta = $mh[1];
+        if (isset($vistos[$ruta])) continue;
+        $img = $xp->query('.//img', $a)->item(0);
+        $src = $img->getAttribute('src');
+        $imagen = $src;
+        $q = parse_url($src, PHP_URL_QUERY);
+        if ($q) { parse_str($q, $par); if (!empty($par['url'])) $imagen = $par['url']; }
+        if ($imagen === '' || strpos($imagen, 'data:') === 0) continue;
+        if (strpos($imagen, 'http') !== 0) $imagen = 'https://www.game.es' . $imagen;
+        $nombre = trim($a->getAttribute('title'));
+        if ($nombre === '') $nombre = trim($img->getAttribute('alt'));
+        if ($nombre === '') continue;
+        $el = $a;
+        for ($k = 0; $k < 4 && $el->parentNode; $k++) {
+            $el = $el->parentNode;
+            if (preg_match('/\d,\d{2}\s*€/u', $el->textContent)) break;
+        }
+        $texto = preg_replace('/\s+/u', ' ', $el->textContent);
+        $texto = preg_replace('/M[ií]n\..*$/u', '', $texto);
+        preg_match_all('/\d{1,3}(?:\.\d{3})*,\d{2}\s*€/u', $texto, $pm);
+        $precios = array_map(function ($x) { return str_replace(' ', '', $x); }, $pm[0]);
+        $precio = '';
+        $antes = '';
+        if (stripos($texto, 'Precio recomendado') !== false && count($precios) >= 2) { $antes = $precios[0]; $precio = $precios[1]; }
+        elseif (count($precios) >= 1) { $precio = $precios[0]; }
+        if ($precio === '') continue;
+        $vistos[$ruta] = true;
+        $out[] = [
+            'titulo' => $nombre,
+            'url' => 'https://www.game.es' . $ruta,
+            'imagen' => $imagen,
+            'precio' => $precio,
+            'precio_antes' => $antes,
+        ];
+    }
+    return $out;
+}
+
+function extraerGame($url, $maxPaginas = 40) {
+    $url = preg_replace('/#.*$/', '', $url);
+    $todos = [];
+    $vistos = [];
+    for ($p = 1; $p <= $maxPaginas; $p++) {
+        $u = $p === 1 ? $url : $url . (strpos($url, '?') !== false ? '&' : '?') . 'pagina=' . $p;
+        $html = descargarUrl($u);
+        if ($html === null) break;
+        $nuevos = 0;
+        foreach (extraerGameDeHtml($html) as $prod) {
+            if (isset($vistos[$prod['url']])) continue;
+            $vistos[$prod['url']] = true;
+            $todos[] = $prod;
+            $nuevos++;
+        }
+        if ($nuevos === 0) break;
+        usleep(700000);
+    }
+    return $todos;
+}
+
+function extraerLectorPropio($url) {
+    $host = strtolower((string) parse_url($url, PHP_URL_HOST));
+    $host = preg_replace('/^www\./', '', $host);
+    if ($host === 'xtralife.com') return extraerXtralife($url);
+    if ($host === 'game.es') return extraerGame($url, 40);
+    return [];
+}
+
 /**
  * Algunas tiendas sirven la web en el idioma/pais de quien pregunta, no en el de la URL
  * (p. ej. LOEWE responde en ingles y dolares si se le pregunta desde fuera de Europa).
@@ -673,7 +824,9 @@ $esUrlSitemap = (stripos($url, '.xml') !== false || stripos($url, 'sitemap') !==
 $esUrlColeccion = (stripos($url, '/collections/') !== false && stripos($url, '.xml') === false);
 $todosLosProductos = [];
 
-if (!$esUrlSitemap && !$esUrlColeccion) {
+if (!$esUrlSitemap && !$esUrlColeccion) { $todosLosProductos = extraerLectorPropio($url); }   // 27 nov: lectores propios (xtralife.com, game.es)
+
+if (!$esUrlSitemap && !$esUrlColeccion && empty($todosLosProductos)) {
     $plataforma = isset($_GET['plataforma']) ? strtolower(trim($_GET['plataforma'])) : '';
     if ($plataforma === '') { $plataforma = plataformaDeTienda($url); }
     $delegado = delegarEnHermano($plataforma, $url, $pagina);
