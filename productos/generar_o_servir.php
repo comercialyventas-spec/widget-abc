@@ -841,46 +841,34 @@ function extraerMmoga($url, $maxFichas = 48) {
 }
 
 /**
- * 27 nov (AÑADIDO): GOG. La pagina de catalogo (p. ej. https://www.gog.com/es/games) lleva incrustado el JSON
- * "products":[...] con titulo, portada ({formatter} se sustituye), precio y enlace de cada juego.
+ * 27 nov (AÑADIDO): GOG. La pagina web no trae precios si se pide desde fuera de Espana, pero su catalogo publico
+ * (catalog.gog.com) si, en euros. Se piden 3 paginas de 48 juegos. Si la URL lleva "discounted" solo salen ofertas.
  */
-function extraerGog($url, $max = 48) {
-    $html = descargarUrl($url);
-    if ($html === null || $html === '') return [];
-    $ini = strpos($html, '"products":[');
-    if ($ini === false) return [];
-    $ini += strlen('"products":');
-    $n = strlen($html); $prof = 0; $enCad = false; $esc = false; $fin = -1;
-    for ($i = $ini; $i < $n; $i++) {
-        $c = $html[$i];
-        if ($enCad) {
-            if ($esc) { $esc = false; }
-            elseif ($c === '\\') { $esc = true; }
-            elseif ($c === '"') { $enCad = false; }
-            continue;
-        }
-        if ($c === '"') { $enCad = true; continue; }
-        if ($c === '[') $prof++;
-        elseif ($c === ']') { $prof--; if ($prof === 0) { $fin = $i; break; } }
-    }
-    if ($fin < 0) return [];
-    $lista = json_decode(substr($html, $ini, $fin - $ini + 1), true);
-    if (!is_array($lista)) return [];
+function extraerGog($url, $paginas = 3) {
+    $filtro = (stripos($url, 'discounted') !== false || stripos($url, 'oferta') !== false) ? '&discounted=eq:true' : '';
     $out = [];
-    foreach ($lista as $pr) {
-        if (count($out) >= $max) break;
-        if (!is_array($pr)) continue;
-        $titulo = isset($pr['title']) ? trim((string) $pr['title']) : '';
-        $enlace = isset($pr['storeLink']) ? (string) $pr['storeLink'] : '';
-        $cover = isset($pr['coverHorizontal']) ? (string) $pr['coverHorizontal'] : '';
-        $fin_p = isset($pr['price']['finalMoney']['amount']) ? $pr['price']['finalMoney']['amount'] : null;
-        if ($titulo === '' || $enlace === '' || $fin_p === null) continue;
-        $img = str_replace('{formatter}', 'product_card_v2_mobile_slider_639', $cover);
-        $antes = '';
-        if (isset($pr['price']['baseMoney']['amount']) && (float) $pr['price']['baseMoney']['amount'] > (float) $fin_p) {
-            $antes = precioDeNumero($pr['price']['baseMoney']['amount']);
+    for ($pg = 1; $pg <= $paginas; $pg++) {
+        $api = 'https://catalog.gog.com/v1/catalog?limit=48&order=desc:trending&countryCode=ES&locale=es-ES&currencyCode=EUR&productType=in:game,pack,dlc' . $filtro . '&page=' . $pg;
+        $txt = descargarUrl($api);
+        if ($txt === null || $txt === '') break;
+        $j = json_decode($txt, true);
+        if (!is_array($j) || empty($j['products']) || !is_array($j['products'])) break;
+        foreach ($j['products'] as $pr) {
+            if (!is_array($pr)) continue;
+            $titulo = isset($pr['title']) ? trim((string) $pr['title']) : '';
+            $enlace = isset($pr['storeLink']) ? (string) $pr['storeLink'] : '';
+            $cover = isset($pr['coverHorizontal']) ? (string) $pr['coverHorizontal'] : '';
+            $fin_p = isset($pr['price']['finalMoney']['amount']) ? $pr['price']['finalMoney']['amount'] : null;
+            if ($titulo === '' || $enlace === '' || $fin_p === null) continue;
+            $enlace = str_replace('gog.com/en/', 'gog.com/es/', $enlace);
+            $img = str_replace('{formatter}', 'product_card_v2_mobile_slider_639', $cover);
+            $antes = '';
+            if (isset($pr['price']['baseMoney']['amount']) && (float) $pr['price']['baseMoney']['amount'] > (float) $fin_p) {
+                $antes = precioDeNumero($pr['price']['baseMoney']['amount']);
+            }
+            $out[] = ['titulo' => $titulo, 'url' => $enlace, 'imagen' => $img, 'precio' => precioDeNumero($fin_p), 'precio_antes' => $antes];
         }
-        $out[] = ['titulo' => $titulo, 'url' => $enlace, 'imagen' => $img, 'precio' => precioDeNumero($fin_p), 'precio_antes' => $antes];
+        usleep(300000);
     }
     return $out;
 }
@@ -891,7 +879,7 @@ function extraerLectorPropio($url) {
     if ($host === 'xtralife.com') return extraerXtralife($url);
     if ($host === 'game.es') return extraerGame($url, 40);
     if ($host === 'mmoga.es') return extraerMmoga($url, 48);
-    if ($host === 'gog.com') return extraerGog($url, 48);
+    if ($host === 'gog.com') return extraerGog($url, 3);
     return [];
 }
 
