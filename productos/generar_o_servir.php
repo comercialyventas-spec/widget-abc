@@ -787,11 +787,65 @@ function extraerGame($url, $maxPaginas = 40) {
     return $todos;
 }
 
+/**
+ * MMOGA: las categorias traen en el HTML los enlaces a las fichas (sin precio ni foto) y cada ficha
+ * trae un JSON-LD Product con nombre, foto y precio. Se leen hasta $maxFichas fichas, con pausa.
+ */
+function extraerMmoga($url, $maxFichas = 48) {
+    $url = preg_replace('/#.*$/', '', $url);
+    $html = descargarUrl($url);
+    if ($html === null) return [];
+    $ruta = (string) parse_url($url, PHP_URL_PATH);
+    $enlaces = [];
+    if (preg_match_all('#href="((?:https?://(?:www\.)?mmoga\.es)?/[^"?\#]+\.html)"#i', $html, $m)) {
+        foreach ($m[1] as $h) {
+            $h = preg_replace('#^https?://(?:www\.)?mmoga\.es#i', '', $h);
+            if (preg_match('#^/(content|Bestseller|mtodos)#i', $h)) continue;
+            if (substr_count(trim($h, '/'), '/') < 1) continue;
+            if ($ruta !== '' && $ruta !== '/' && strpos($h, $ruta) !== 0) continue;
+            $enlaces[$h] = true;
+        }
+    }
+    $enlaces = array_slice(array_keys($enlaces), 0, $maxFichas);
+    $out = [];
+    foreach ($enlaces as $h) {
+        $furl = origenDeUrl($url) . $h;
+        $f = descargarUrl($furl);
+        usleep(500000);
+        if ($f === null) continue;
+        if (!preg_match_all('#<script[^>]+type="application/ld\+json"[^>]*>(.*?)</script>#is', $f, $bl)) continue;
+        foreach ($bl[1] as $b) {
+            $j = json_decode(trim($b), true);
+            if (!is_array($j) || (isset($j['@type']) ? $j['@type'] : '') !== 'Product' || empty($j['name'])) continue;
+            $img = '';
+            if (!empty($j['image'])) { $img = is_array($j['image']) ? (string) reset($j['image']) : (string) $j['image']; }
+            if ($img === '') continue;
+            $of = isset($j['offers']) ? $j['offers'] : null;
+            if (is_array($of) && isset($of[0])) $of = $of[0];
+            $precio = '';
+            if (is_array($of)) {
+                if (isset($of['price']) && $of['price'] !== '') $precio = precioDeNumero($of['price']);
+                elseif (isset($of['lowPrice']) && $of['lowPrice'] !== '') $precio = precioDeNumero($of['lowPrice']);
+            }
+            $out[] = [
+                'titulo' => html_entity_decode(strip_tags((string) $j['name']), ENT_QUOTES, 'UTF-8'),
+                'url' => $furl,
+                'imagen' => $img,
+                'precio' => $precio,
+                'precio_antes' => '',
+            ];
+            break;
+        }
+    }
+    return $out;
+}
+
 function extraerLectorPropio($url) {
     $host = strtolower((string) parse_url($url, PHP_URL_HOST));
     $host = preg_replace('/^www\./', '', $host);
     if ($host === 'xtralife.com') return extraerXtralife($url);
     if ($host === 'game.es') return extraerGame($url, 40);
+    if ($host === 'mmoga.es') return extraerMmoga($url, 48);
     return [];
 }
 
