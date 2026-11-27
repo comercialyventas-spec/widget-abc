@@ -4,14 +4,22 @@ jobs:
   d:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - run: |
-          curl -s -L --max-time 30 -A 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36' -H 'Accept-Language: es-ES,es;q=0.9' -w '\nHTTP:%{http_code}' https://www.gog.com/es/games -o /tmp/g.html -D /tmp/h.txt || true
-          python3 - <<'PY'
-          import re
-          h=open('/tmp/g.html',encoding='utf-8',errors='replace').read()
-          i=h.find('"products":[')
-          print('::notice::len=%d idx=%d storeLink=%d finalMoney=%d esc_q=%d' % (len(h),i,h.count('"storeLink"'),h.count('"finalMoney"'),h.count('&q;')))
-          print('::notice::'+re.sub(r'https?://\S+','U',h[i:i+700]).replace('\n',' ') if i>=0 else '::notice::sin products')
-          m=re.search(r'"title":"[^"]*"',h[i:]) if i>=0 else None
-          print('::notice::'+(m.group(0) if m else 'sin title'))
-          PY
+          cat > /tmp/dbg.php <<'PHP'
+          <?php
+          $src = file_get_contents('productos/generar_o_servir.php');
+          foreach (['descargarUrl', 'precioDeNumero', 'extraerGog'] as $f) {
+              $p = strpos($src, "function $f(");
+              $depth = 0; $i = strpos($src, '{', $p);
+              for ($k = $i; $k < strlen($src); $k++) { if ($src[$k] === '{') $depth++; elseif ($src[$k] === '}') { $depth--; if ($depth === 0) break; } }
+              eval(substr($src, $p, $k - $p + 1));
+          }
+          $h = descargarUrl('https://www.gog.com/es/games');
+          echo '::notice::html=' . (is_string($h) ? strlen($h) : 'null') . "\n";
+          $r = extraerGog('https://www.gog.com/es/games', 48);
+          echo '::notice::productos=' . count($r) . "\n";
+          if ($r) echo '::notice::' . json_encode($r[0], JSON_UNESCAPED_UNICODE) . "\n";
+          else if (is_string($h)) { $i = strpos($h, '"products":['); echo '::notice::idx=' . var_export($i, true) . ' jsonerr=' . json_last_error_msg() . "\n"; }
+          PHP
+          php /tmp/dbg.php
