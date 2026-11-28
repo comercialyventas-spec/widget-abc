@@ -924,7 +924,7 @@ if (!$esUrlSitemap && !$esUrlColeccion && empty($todosLosProductos)) {
 }
 
 if (empty($todosLosProductos)) {
-$deColeccionShopify = (stripos($url, '/collections/') !== false && stripos($url, '.xml') === false) ? extraerDeColeccionShopify($url, 8) : null;
+$deColeccionShopify = (stripos($url, '/collections/') !== false && stripos($url, '.xml') === false) ? extraerDeColeccionShopify($url, 20) : null; // 28 nov 2026: tope subido de 8 a 20 paginas (5.000 productos); vuelta atras: poner 8
 
 $primerFetch = !empty($deColeccionShopify) ? null : descargarUrl($url);
 
